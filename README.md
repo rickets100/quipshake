@@ -36,12 +36,21 @@ https://www.highcharts.com/docs
 5. Character placement
   - Name the play from whence a given character comes (could possibly ask for additional characters to be listed in order to help with guessing)
   - True or False: a given character appears in a given play
-  -
+6. Silly Bonus questions
+  - using Watson to parse-through a character's words, analyze that "person" for things like "likelihood to take safety into account when purchasing a car" and then have the user guess (i.e. "Who would be more likely to show brand loyalty when purchasing sneakers: Hamlet or Lady Macbeth?") I have to see if Watson can handle old-English, though. It might not be able to.
+
+  For at least some of the questions, once the user has made their guess, the answer could be shown with an accompanying graph using Highcharts (example: in Romeo & Juliet, Romeo has 43% more lines than Mercutio - something like that).
 
 
-10. Movie adaptations
-  - could augment with questions about movie adaptations of Shakespeare's plays using a film-related API
+
 
 
 # Other relevant sites
 https://www.shakespearehelp.com/public-domain-shakespeare-images/
+
+
+# options for expanding down the road
+- could include audio recordings of the lines, so people could guess that way instead of via reading the text
+
+Movie adaptations
+  - could augment with questions about movie adaptations of Shakespeare's plays using a film-related API
