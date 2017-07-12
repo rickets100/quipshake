@@ -37,15 +37,17 @@ function retrieveSubNodes(subNode, nodePath) {
 
 // ===== GET ALL PEOPLE =====
 function getAllPeople() {
-  console.log('in getAllPeople')
-  let targetFile = getTargetFile()
+  let currentPlay = playList[1].xmlName
+  console.log("getAllPeople: currentPlay is ", currentPlay)
+  let targetFile = getTargetFile(currentPlay)
   let doc = new dom().parseFromString(targetFile)
   let item = "//person[persName]"
-  let result = xpath.evaluate(item, // xpathExpression
-      doc,                        // contextNode
-      null,                       // namespaceResolver
-      xpath.XPathResult.ANY_TYPE, // resultType
-      null                        // result
+  let result = xpath.evaluate(
+    item,                       // xpathExpression
+    doc,                        // contextNode
+    null,                       // namespaceResolver
+    xpath.XPathResult.ANY_TYPE, // resultType
+    null                        // result
   )
   let node = result.iterateNext()
   let charList = []

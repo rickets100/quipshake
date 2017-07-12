@@ -1,4 +1,3 @@
-
 const express = require('express')
 const path = require('path')
 const xpath = require('xpath')
@@ -10,22 +9,16 @@ const playList = require('../data-sources/playList')
 const app = express()
 const parser = new xml2js.Parser()
 
-
-// create a variable for the play's corresponding xml file
-function createQueryPath() {
-  let currentPlay = playList[0].xmlName
-  let fullPath = (path.join(__dirname, '../data-sources/') + currentPlay)
+function createQueryPath(play) {
+  let fullPath = (path.join(__dirname, '../data-sources/') + play)
   return fullPath
 } // createQueryPath
 
-function getTargetFile() {
-  let path = createQueryPath()
+function getTargetFile(play) {
+  let path = createQueryPath(play)
   let targetFile = fs.readFileSync(path, 'utf-8')
   return targetFile
-}
-
-createQueryPath()
-getTargetFile()
+} // getTargetFile
 
 module.exports = {
   createQueryPath,
