@@ -37,7 +37,7 @@ function retrieveSubNodes(subNode, nodePath) {
 
 // ===== GET ALL PEOPLE =====
 function getAllPeople() {
-  let currentPlay = playList[1].xmlName
+  let currentPlay = playList[32].xmlName
   console.log("getAllPeople: currentPlay is ", currentPlay)
   let targetFile = getTargetFile(currentPlay)
   let doc = new dom().parseFromString(targetFile)
@@ -63,10 +63,44 @@ function getAllPeople() {
     }
     charList.push(character)
     node = result.iterateNext()
-    console.log('character', character)
   } // while
   console.log("characters: ", charList)
 } // getAllPeople
+
+// ===== GET NUMBER OF SPEECHES FOR A CHARACTER =====
+function getCharacterSpeeches(character) {
+  let currentPlay = playList[14].xmlName // Hamlet
+  console.log("getCharacterSpeeches: currentPlay is ", currentPlay)
+  let targetFile = getTargetFile(currentPlay)
+  let doc = new dom().parseFromString(targetFile)
+  let speechNodes = `count(/TEI/text/body/div1/div2/sp[@who='${character}'])`
+  let speeches = xpath.evaluate(
+    speechNodes,                 // xpathExpression
+    doc,                        // contextNode
+    null,                       // namespaceResolver
+    xpath.XPathResult.ANY_TYPE, // resultType
+    null                        // result
+  )
+  console.log('speeches: ',  speeches.numberValue)
+} // getCharacterSpeeches
+
+
+// ===== GET NUMBER OF LINES FOR A CHARACTER =====
+function getCharacterLines(character) {
+  let currentPlay = playList[14].xmlName // Hamlet
+  console.log("getCharacterLines: currentPlay is ", currentPlay)
+  let targetFile = getTargetFile(currentPlay)
+  let doc = new dom().parseFromString(targetFile)
+  let lineNodes = `count(/TEI/text/body/div1/div2/sp[@who='${character}']/ab/milestone[@unit='ftln'])`
+  let lines = xpath.evaluate(
+    lineNodes,                  // xpathExpression
+    doc,                        // contextNode
+    null,                       // namespaceResolver
+    xpath.XPathResult.ANY_TYPE, // resultType
+    null                        // result
+  )
+  console.log('lines: ',  lines.numberValue)
+} // getCharacterLines
 
 
 // ===== RETRIEVE AN ATTRIBUTE =====
@@ -95,4 +129,6 @@ function getPersonAttributes(contextNode) {
   console.log(xmlCharId.nodes[0].nodeValue)
 } // getPersonAttributes
 
-getAllPeople()
+// getAllPeople()
+// getCharacterSpeeches('#Polonius_Ham')
+// getCharacterLines("#Ophelia_Ham")
