@@ -19,17 +19,10 @@ const xml2js = require('xml2js')
 const parseString = require('xml2js').parseString
 const fs = require('file-system')
 const playList = require('../data-sources/playList')
+const createQueryPath = require('./construct-path').createQueryPath
+const getTargetFile = require('./construct-path').getTargetFile
 const app = express()
 const parser = new xml2js.Parser()
-
-
-// create a variable for the play's corresponding xml file
-function createQueryPath() {
-  let currentPlay = playList[0].xmlName
-  let fullPath = (path.join(__dirname, '../data-sources/') + currentPlay)
-  let targetFile = fs.readFileSync(fullPath, 'utf-8')
-  return targetFile
-} // createQueryPath
 
 // RETRIEVE SUB-NODES FROM INITIAL QUERY =====
 function retrieveSubNodes(subNode, nodePath) {
@@ -45,7 +38,7 @@ function retrieveSubNodes(subNode, nodePath) {
 // ===== GET ALL PEOPLE =====
 function getAllPeople() {
   console.log('in getAllPeople')
-  let targetFile = createQueryPath()
+  let targetFile = getTargetFile()
   let doc = new dom().parseFromString(targetFile)
   let item = "//person[persName]"
   let result = xpath.evaluate(item, // xpathExpression
@@ -59,11 +52,11 @@ function getAllPeople() {
 
   while (node) {
     let name = retrieveSubNodes(node, './persName/name/text()')
-    // let sex = retrieveSubNodes(node, './sex/text()')
+    let sex = retrieveSubNodes(node, './sex/text()')
     // let state = retrieveSubNodes(node, './state/p/text()')
     let character = {
-      name: name
-      // sex: sex,
+      name: name,
+      sex: sex
       // state: state
     }
     charList.push(character)
