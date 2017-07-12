@@ -22,12 +22,31 @@ const playList = require('../data-sources/playList')
 const app = express()
 const parser = new xml2js.Parser()
 
+
 // create a variable for the play's corresponding xml file
+function createQueryPath() {
   let currentPlay = playList[0].xmlName
   let fullPath = (path.join(__dirname, '../data-sources/') + currentPlay)
   let targetFile = fs.readFileSync(fullPath, 'utf-8')
+  return targetFile
+} // createQueryPath
+
+// RETRIEVE SUB-NODES FROM INITIAL QUERY =====
+function retrieveSubNodes(result, nodePath, nodeName) {
+  return xpath.evaluate(nodePath, // xpathExpression
+      result.nodes[0],            // contextNode
+      null,                       // namespaceResolver
+      xpath.XPathResult.ANY_TYPE, // resultType
+      null                        // result
+  ).nodes[0].nodeValue
+} // retrieveSubNodes
+
+
+// ===== GET ALL PEOPLE =====
+function getAllPeople() {
+  console.log('in getAllPeople')
+  let targetFile = createQueryPath()
   let doc = new dom().parseFromString(targetFile)
-  // let item = "//person/persName/name/text()"
   let item = "//person[1]"
   let result = xpath.evaluate(item, // xpathExpression
       doc,                        // contextNode
@@ -37,42 +56,52 @@ const parser = new xml2js.Parser()
   )
   let node = result.iterateNext()
   let charList = []
-  let charObj = {
-    name: "",
-    gender: "",
-    xmlId: ""
+  let name = retrieveSubNodes(result, './persName/name/text()', 'name')
+  let sex = retrieveSubNodes(result, './sex/text()', 'sex')
+  let state = retrieveSubNodes(result, './state/p/text()', 'state')
+  let character = {
+    sex: sex,
+    name: name,
+    state: state,
   }
-
-
-  let sex = xpath.evaluate("./sex/text()", // xpathExpression
-      result.nodes[0],                        // contextNode
-      null,                       // namespaceResolver
-      xpath.XPathResult.ANY_TYPE, // resultType
-      null                        // result
-  ).nodes[0].nodeValue;
-  let name = xpath.evaluate("./persName/name/text()", // xpathExpression
-      result.nodes[0],                        // contextNode
-      null,                       // namespaceResolver
-      xpath.XPathResult.ANY_TYPE, // resultType
-      null                        // result
-  ).nodes[0].nodeValue;
-  console.log("sex",sex)
-  console.log("name",name)
-
-  var char = {
-    sex:sex,
-    name:name
-  }
-  console.log("char",char)
+  charList.push(character)
+  console.log("characters: ", charList)
   // console.log('result: ', result.nodes[0].childNodes)
   // let temp = result.nodes[0].childNodes
   // for (let i=0; i<temp.length; i++) {
   //   console.log('temp[0]: ', temp[i].nodeName)
   // }
-  while (node) {
-    charList.push(node.data)
-    node = result.iterateNext()
-}
+  // while (node) {
+  //   charList.push(node.data)
+  //   node = result.iterateNext()
+  // }
+  // console.log('charList: ', charList)
+  // console.log(charList.length + ' characters in the result')
+} // getAllPeople
 
-// console.log('charList: ', charList)
-// console.log(charList.length + ' characters in the result')
+// ===== RETRIEVE AN ATTRIBUTE =====
+function getPersonAttributes(contextNode) {
+  let targetFile = createQueryPath()
+  let doc = new dom().parseFromString(targetFile)
+  let item = "//person"
+  let result = xpath.evaluate(
+      item,                        // xpathExpression
+      doc,                        // contextNode
+      null,                       // namespaceResolver
+      xpath.XPathResult.ANY_TYPE, // resultType
+      null                        // result
+  )
+  let node = result.iterateNext()
+
+  let test = '//person[1]/death/@notBefore-custom'
+  let xmlCharId = xpath.evaluate(
+    test,                       // xpathExpression
+    doc,                        // contextNode
+    null,                       // namespaceResolver
+    xpath.XPathResult.ANY_TYPE, // resultType
+    null                        // result
+  )
+  console.log(xmlCharId.nodes[0].nodeValue)
+} // getPersonAttributes
+
+getAllPeople()
