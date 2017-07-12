@@ -32,9 +32,9 @@ function createQueryPath() {
 } // createQueryPath
 
 // RETRIEVE SUB-NODES FROM INITIAL QUERY =====
-function retrieveSubNodes(result, nodePath, nodeName) {
+function retrieveSubNodes(subNode, nodePath) {
   return xpath.evaluate(nodePath, // xpathExpression
-      result.nodes[0],            // contextNode
+      subNode,                     // contextNode
       null,                       // namespaceResolver
       xpath.XPathResult.ANY_TYPE, // resultType
       null                        // result
@@ -47,7 +47,7 @@ function getAllPeople() {
   console.log('in getAllPeople')
   let targetFile = createQueryPath()
   let doc = new dom().parseFromString(targetFile)
-  let item = "//person[1]"
+  let item = "//person[persName]"
   let result = xpath.evaluate(item, // xpathExpression
       doc,                        // contextNode
       null,                       // namespaceResolver
@@ -56,28 +56,23 @@ function getAllPeople() {
   )
   let node = result.iterateNext()
   let charList = []
-  let name = retrieveSubNodes(result, './persName/name/text()', 'name')
-  let sex = retrieveSubNodes(result, './sex/text()', 'sex')
-  let state = retrieveSubNodes(result, './state/p/text()', 'state')
-  let character = {
-    sex: sex,
-    name: name,
-    state: state,
-  }
-  charList.push(character)
+
+  while (node) {
+    let name = retrieveSubNodes(node, './persName/name/text()')
+    // let sex = retrieveSubNodes(node, './sex/text()')
+    // let state = retrieveSubNodes(node, './state/p/text()')
+    let character = {
+      name: name
+      // sex: sex,
+      // state: state
+    }
+    charList.push(character)
+    node = result.iterateNext()
+    console.log('character', character)
+  } // while
   console.log("characters: ", charList)
-  // console.log('result: ', result.nodes[0].childNodes)
-  // let temp = result.nodes[0].childNodes
-  // for (let i=0; i<temp.length; i++) {
-  //   console.log('temp[0]: ', temp[i].nodeName)
-  // }
-  // while (node) {
-  //   charList.push(node.data)
-  //   node = result.iterateNext()
-  // }
-  // console.log('charList: ', charList)
-  // console.log(charList.length + ' characters in the result')
 } // getAllPeople
+
 
 // ===== RETRIEVE AN ATTRIBUTE =====
 function getPersonAttributes(contextNode) {
@@ -92,6 +87,7 @@ function getPersonAttributes(contextNode) {
       null                        // result
   )
   let node = result.iterateNext()
+  console.log('===', node.attributes)
 
   let test = '//person[1]/death/@notBefore-custom'
   let xmlCharId = xpath.evaluate(
