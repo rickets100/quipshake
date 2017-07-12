@@ -1,0 +1,32 @@
+{
+  "name": "quip-shakespeare",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "knex": "knex",
+    "dev": "nodemon -e js,ejs ./bin/www",
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.3",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.3",
+    "express-partials": "^0.3.0",
+    "hbs": "^4.0.1",
+    "knex": "^0.13.0",
+    "morgan": "~1.8.1",
+    "path": "^0.12.7",
+    "pg": "^6.4.0",
+    "serve-favicon": "~2.4.2",
+    "utils-fs-read-file": "^1.0.0",
+    "xmldom": "^0.1.27"
+  },
+  "devDependencies": {
+    "file-system": "^2.2.2",
+    "nodemon": "^1.11.0",
+    "xml2js": "^0.4.17",
+    "xpath": "0.0.24"
+  }
+}
