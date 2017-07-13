@@ -7,4 +7,12 @@ router.get('/', function(req, res, next) {
   res.render('index', { title: 'Quip Shakespeare' })
 })
 
+
+
 module.exports = router
+
+// const game = require('../controller/gamecontroller')
+
+/* GET home page. */
+// router.get('/landing', game.getAll)
+// router.get('/dvd', dvd.getAllWorkouts)

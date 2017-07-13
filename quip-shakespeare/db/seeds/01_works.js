@@ -8,7 +8,8 @@ exports.seed = function(knex) {
         title: 'Henry IV Part 1',
         yearFirst: 1596,
         yearText: '1596-1597',
-        order: 18},
+        order: 18,
+        idno: '1H4'},
 
         {id: 2,
         xmlName: '1H6.xml',
@@ -16,7 +17,8 @@ exports.seed = function(knex) {
         title: 'Henry VI Part 1',
         yearFirst: 1591,
         yearText: '1591-1592',
-        order: 5},
+        order: 5,
+        idno: '1H6'},
 
         {id: 3,
         xmlName: '2H4.xml',
@@ -24,7 +26,8 @@ exports.seed = function(knex) {
         title: 'Henry IV Part 2',
         yearFirst: 1597,
         yearText: '1597-1598',
-        order: 20},
+        order: 20,
+        idno: '2H4'},
 
         {id: 4,
         xmlName: '2H6.xml',
@@ -32,7 +35,8 @@ exports.seed = function(knex) {
         title: 'Henry VI Part 2',
         yearFirst: 1591,
         yearText: '1591',
-        order: 3},
+        order: 3,
+        idno: '2H6'},
 
         {id: 5,
         xmlName: '3H6.xml',
@@ -40,7 +44,8 @@ exports.seed = function(knex) {
         title: 'Henry  VI Part 3',
         yearFirst: 1591,
         yearText: '1591',
-        order: 4},
+        order: 4,
+        idno: '3H6'},
 
         {id: 6,
         xmlName: 'AWW.xml',
@@ -48,7 +53,8 @@ exports.seed = function(knex) {
         title: 'All\'s Well That Ends Well',
         yearFirst: 1604,
         yearText: '1604-1605',
-        order: 30},
+        order: 30,
+        idno: 'AWW'},
 
         {id: 7,
         xmlName: 'AYL.xml',
@@ -56,7 +62,8 @@ exports.seed = function(knex) {
         title: 'As You Like It',
         yearFirst: 1599,
         yearText: '1599-1600',
-        order: 23},
+        order: 23,
+        idno: 'AYL'},
 
         {id: 8,
         xmlName: 'Ado.xml',
@@ -64,7 +71,8 @@ exports.seed = function(knex) {
         title: 'Much Ado About Nothing',
         yearFirst: 1598,
         yearText: '1598-1599',
-        order: 20},
+        order: 20,
+        idno: 'Ado'},
 
         {id: 9,
         xmlName: 'Ant.xml',
@@ -72,7 +80,8 @@ exports.seed = function(knex) {
         title: 'Anthony and Cleopatra',
         yearFirst: 1606,
         yearText: '1606',
-        order: 34},
+        order: 34,
+        idno: 'Ant'},
 
         {id: 10,
         xmlName: 'Cor.xml',
@@ -80,7 +89,8 @@ exports.seed = function(knex) {
         title: 'Corialanus',
         yearFirst: 1608,
         yearText: '1608',
-        order: 36},
+        order: 36,
+        idno: 'Cor'},
 
         {id: 11,
         xmlName: 'Cym.xml',
@@ -88,7 +98,8 @@ exports.seed = function(knex) {
         title: 'Cymbeline',
         yearFirst: 1610,
         yearText: '1610',
-        order: 39},
+        order: 39,
+        idno: 'Cym'},
 
         {id: 12,
         xmlName: 'Err.xml',
@@ -96,7 +107,8 @@ exports.seed = function(knex) {
         title: 'The Comedy of Errors',
         yearFirst: 1594,
         yearText: '1594',
-        order: 10},
+        order: 10,
+        idno: 'Err'},
 
         {id: 13,
         xmlName: 'H5.xml',
@@ -104,7 +116,8 @@ exports.seed = function(knex) {
         title: 'Henry V',
         yearFirst: 1599,
         yearText: '1599',
-        order: 21},
+        order: 21,
+        idno: 'H5'},
 
         {id: 14,
         xmlName: 'H8.xml',
@@ -112,7 +125,8 @@ exports.seed = function(knex) {
         title: 'Henry VIII',
         yearFirst: 1612,
         yearText: '1612-1618',
-        order: 41},
+        order: 41,
+        idno: 'H8'},
 
         {id: 15,
         xmlName: 'Ham.xml',
@@ -120,7 +134,8 @@ exports.seed = function(knex) {
         title: 'Hamlet',
         yearFirst: 1599,
         yearText: '1599-1601',
-        order: 24},
+        order: 24,
+        idno: 'Ham'},
 
         {id: 16,
         xmlName: 'JC.xml',
@@ -128,7 +143,8 @@ exports.seed = function(knex) {
         title: 'Julius Caesar',
         yearFirst: 1599,
         yearText: '1599',
-        order: 22},
+        order: 22,
+        idno: 'JC'},
 
         {id: 17,
         xmlName: 'Jn.xml',
@@ -136,7 +152,8 @@ exports.seed = function(knex) {
         title: 'King John',
         yearFirst: 1596,
         yearText: '1596',
-        order: 16},
+        order: 16,
+        idno: 'Jn'},
 
         {id: 18,
         xmlName: 'LLL.xml',
@@ -144,7 +161,8 @@ exports.seed = function(knex) {
         title: 'Love\'s Labors Lost',
         yearFirst: 1594,
         yearText: '1594-1595',
-        order: 11},
+        order: 11,
+        idno: 'LLL'},
 
         {id: 19,
         xmlName: 'Lr.xml',
@@ -152,7 +170,8 @@ exports.seed = function(knex) {
         title: 'King Lear',
         yearFirst: 1605,
         yearText: '1605-1606',
-        order: 31},
+        order: 31,
+        idno: 'Lr'},
 
         {id: 20,
         xmlName: 'Luc.xml',
@@ -160,7 +179,8 @@ exports.seed = function(knex) {
         title: 'Lucrece',
         yearFirst: 1594,
         yearText: '1594',
-        order: 12},
+        order: 12,
+        idno: 'Luc'},
 
         {id: 21,
         xmlName: 'MM.xml',
@@ -168,7 +188,8 @@ exports.seed = function(knex) {
         title: 'Measure for Measure',
         yearFirst: 1603,
         yearText: '1603-1604',
-        order: 28},
+        order: 28,
+        idno: 'MM'},
 
         {id: 22,
         xmlName: 'MND.xml',
@@ -176,7 +197,8 @@ exports.seed = function(knex) {
         title: 'A Midsummer Night\'s Dream',
         yearFirst: 1595,
         yearText: '1595',
-        order: 15},
+        order: 15,
+        idno: 'MND'},
 
         {id: 23,
         xmlName: 'MV.xml',
@@ -184,7 +206,8 @@ exports.seed = function(knex) {
         title: 'The Merchant of Venice',
         yearFirst: 1596,
         yearText: '1596-1597',
-        order: 17},
+        order: 17,
+        idno: 'MV'},
 
         {id: 24,
         xmlName: 'Mac.xml',
@@ -192,7 +215,8 @@ exports.seed = function(knex) {
         title: 'Macbeth',
         yearFirst: 1606,
         yearText: '1606',
-        order: 33},
+        order: 33,
+        idno: 'Mac'},
 
         {id: 25,
         xmlName: 'Oth.xml',
@@ -200,7 +224,8 @@ exports.seed = function(knex) {
         title: 'Othello',
         yearFirst: 1603,
         yearText: '1603-1604',
-        order: 29},
+        order: 29,
+        idno: 'Oth'},
 
         {id: 26,
         xmlName: 'Per.xml',
@@ -208,7 +233,8 @@ exports.seed = function(knex) {
         title: 'Pericles',
         yearFirst: 1607,
         yearText: '1607-1608',
-        order: 35},
+        order: 35,
+        idno: 'Per'},
 
         {id: 27,
         xmlName: 'PhT.xml',
@@ -216,7 +242,8 @@ exports.seed = function(knex) {
         title: 'The Phoenix and Turtle',
         yearFirst: 1601,
         yearText: '1601',
-        order: 25},
+        order: 25,
+        idno: 'Pht'},
 
         {id: 28,
         xmlName: 'R2.xml',
@@ -224,7 +251,8 @@ exports.seed = function(knex) {
         title: 'Richard II',
         yearFirst: 1595,
         yearText: '1595',
-        order: 13},
+        order: 13,
+        idno: 'R2'},
 
         {id: 29,
         xmlName: 'R3.xml',
@@ -232,7 +260,8 @@ exports.seed = function(knex) {
         title: 'Richard III',
         yearFirst: 1592,
         yearText: '1592-1593',
-        order: 7},
+        order: 7,
+        idno: 'R3'},
 
         {id: 30,
         xmlName: 'Rom.xml',
@@ -240,7 +269,8 @@ exports.seed = function(knex) {
         title: 'Romeo and Juliet',
         yearFirst: 1595,
         yearText: '1595',
-        order: 14},
+        order: 14,
+        idno: 'Rom'},
 
         {id: 31,
         xmlName: 'Shr.xml',
@@ -248,7 +278,8 @@ exports.seed = function(knex) {
         title: 'The Taming of the Shrew',
         yearFirst: 1590,
         yearText: '1590-1591',
-        order: 2},
+        order: 2,
+        idno: 'Shr'},
 
         {id: 32,
         xmlName: 'Son.xml',
@@ -256,7 +287,8 @@ exports.seed = function(knex) {
         title: 'Sonnets',
         yearFirst: 1609,
         yearText: '1609',
-        order: 37},
+        order: 37,
+        idno: 'Son'},
 
         {id: 33,
         xmlName: 'TGV.xml',
@@ -264,7 +296,8 @@ exports.seed = function(knex) {
         title: 'Two Gentlemen of Verona',
         yearFirst: 1589,
         yearText: '1589-1591',
-        order: 1},
+        order: 1,
+        idno: 'TGV'},
 
         {id: 34,
         xmlName: 'TN.xml',
@@ -272,7 +305,8 @@ exports.seed = function(knex) {
         title: 'Twelfth Night',
         yearFirst: 1601,
         yearText: '1601',
-        order: 26},
+        order: 26,
+        idno: 'TN'},
 
         {id: 35,
         xmlName: 'TNK.xml',
@@ -280,7 +314,8 @@ exports.seed = function(knex) {
         title: 'Two Noble Kinsmen',
         yearFirst: 1589,
         yearText: '1589-1591',
-        order: 42},
+        order: 42,
+        idno: 'TNK'},
 
         {id: 36,
         xmlName: 'Tim.xml',
@@ -288,7 +323,8 @@ exports.seed = function(knex) {
         title: 'Timon of Athens',
         yearFirst: 1605,
         yearText: '1605-1606',
-        order: 32},
+        order: 32,
+        idno: 'Tim'},
 
         {id: 37,
         xmlName: 'Tit.xml',
@@ -296,7 +332,8 @@ exports.seed = function(knex) {
         title: 'Titus Andronicus',
         yearFirst: 1591,
         yearText: '1591-1592',
-        order: 6},
+        order: 6,
+        idno: 'Tit'},
 
         {id: 38,
         xmlName: 'Tmp.xml',
@@ -304,7 +341,8 @@ exports.seed = function(knex) {
         title: 'The Tempest',
         yearFirst: 1610,
         yearText: '1610-1611',
-        order: 40},
+        order: 40,
+        idno: 'Tmp'},
 
         {id: 39,
         xmlName: 'Tro.xml',
@@ -312,7 +350,8 @@ exports.seed = function(knex) {
         title: 'Trollius and Cresside',
         yearFirst: 1600,
         yearText: '1600-1602',
-        order: 27},
+        order: 27,
+        idno: 'Tro'},
 
         {id: 40,
         xmlName: 'Ven.xml',
@@ -320,7 +359,8 @@ exports.seed = function(knex) {
         title: 'Venus and Adonis',
         yearFirst: 1593,
         yearText: '1593',
-        order: 9},
+        order: 9,
+        idno: 'Ven'},
 
         {id: 41,
         xmlName: 'WT.xml',
@@ -328,7 +368,8 @@ exports.seed = function(knex) {
         title: 'The Winter\'s Tale',
         yearFirst: 1609,
         yearText: '1609-1611',
-        order: 38},
+        order: 38,
+        idno: 'WT'},
 
         {id: 42,
         xmlName: 'Wiv.xml',
@@ -336,7 +377,8 @@ exports.seed = function(knex) {
         title: 'Merry Wives of Windsor',
         yearFirst: 1597,
         yearText: '1597',
-        order: 19}
+        order: 19,
+        idno: 'Wiv'}
       ])
     })
     .then(() => {

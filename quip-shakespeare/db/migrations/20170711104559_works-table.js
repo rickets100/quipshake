@@ -7,6 +7,7 @@ exports.up = function(knex) {
     table.integer("yearFirst").notNullable()
     table.string("yearText").notNullable()
     table.integer("order").notNullable()
+    table.string("idno").notNullable()
   })
 }
 
