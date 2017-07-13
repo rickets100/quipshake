@@ -1,16 +1,3 @@
-/* xpath example: //title[@lang] (select all nodes named lang)
-- xpath example: //title[@lang='en'] (select all nodes with lang attribute that have a value of "en")
-
-- //book/title | //book/price (select all title or price elements of the book elements)
-
-- to access the contents of an element’s text node, end the location path with text(), as in /network/description/text()
-
-- To get to an element’s attributes, use an @ in front of the attribute name. For example, /network/description/@name would return name="Boston"
-
-- Example of using predicates: /network/host[@name="agatha"]. This selects the correct <host></host> by testing for the presence of a specific attribute (name) with a specific value of (Agatha)
-*/
-
-// ==============================================
 const express = require('express')
 const path = require('path')
 const xpath = require('xpath')
@@ -24,7 +11,7 @@ const getTargetFile = require('./construct-path').getTargetFile
 const app = express()
 const parser = new xml2js.Parser()
 
-// RETRIEVE SUB-NODES FROM INITIAL QUERY =====
+// ===== RETRIEVE SUB-NODES FROM INITIAL QUERY =====
 function retrieveSubNodes(subNode, nodePath) {
   return xpath.evaluate(nodePath, // xpathExpression
       subNode,                     // contextNode
@@ -129,6 +116,13 @@ function getPersonAttributes(contextNode) {
   console.log(xmlCharId.nodes[0].nodeValue)
 } // getPersonAttributes
 
-// getAllPeople()
-// getCharacterSpeeches('#Polonius_Ham')
-// getCharacterLines("#Ophelia_Ham")
+getAllPeople()
+getCharacterSpeeches('#Polonius_Ham')
+getCharacterLines("#Ophelia_Ham")
+
+module.exports = {
+  retrieveSubNodes,
+  getAllPeople,
+  getCharacterSpeeches,
+  getCharacterLines
+}

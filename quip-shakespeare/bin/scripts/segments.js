@@ -43,3 +43,8 @@ function getSceneCount() {
 
 getActCount()
 getSceneCount()
+
+module.exports = {
+  getActCount,
+  getSceneCount
+}

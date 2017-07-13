@@ -11,18 +11,16 @@ const getTargetFile = require('./construct-path').getTargetFile
 const app = express()
 const parser = new xml2js.Parser()
 
-  let currentPlay = playList[0].xmlName
-  let targetFile = getTargetFile(currentPlay)
-  let doc = new dom().parseFromString(targetFile)
-  // let bob = "/TEI/text/body/div1[1]/div2[1]/sp[1]/ab/(w/text()"
-  // console.log('=====', bob);
+let currentPlay = playList[0].xmlName
+let targetFile = getTargetFile(currentPlay)
+let doc = new dom().parseFromString(targetFile)
 
-
-  function getStuff(doc) {
-    let item = "/TEI/text/body/div1[1]/div2[1]/sp[1]/ab[1]//text()"
+  // ===== GET ONE SPEECH =====
+  function getSpeech(play, contextNode) {
+    let wordNodes = "/TEI/text/body/div1[1]/div2[1]/sp[1]/ab[1]//text()"
     let result = xpath.evaluate(
-      item,                       // xpathExpression
-      doc,                        // contextNode
+      wordNodes,                  // xpathExpression
+      contextNode,                // contextNode
       null,                       // namespaceResolver
       xpath.XPathResult.ANY_TYPE, // resultType
       null                        // result
@@ -38,21 +36,10 @@ const parser = new xml2js.Parser()
     node = result.iterateNext()
   }
   console.log('speech: ', speech)
-} // getStuff
+} // getSpeech
 
-// fs.readFile(fullPath, function(err, data) {
-  // console.log(data);
-  // parser.parseString(data, function (err, result) {
+module.exports = {
+  getSpeech
+}
 
-      // console.dir(result)
-      // let jsonObj = JSON.stringify(result, null, 3)
-      // let numFiles = playList.length
-      // let currentFile = playList[0].fileName
-      // // console.log(currentFile)
-      // fs.writeFile('testwrite.txt', jsonObj, (err) => {
-      //   if (err) throw err
-      //   // console.log('The file has been saved!')
-      // })
-      // console.log('Done')
-//   })
-// })
+getSpeech(currentPlay, doc)

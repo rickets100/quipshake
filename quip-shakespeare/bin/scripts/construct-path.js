@@ -9,11 +9,13 @@ const playList = require('../data-sources/playList')
 const app = express()
 const parser = new xml2js.Parser()
 
+// ===== CREATE QUERY PATH =====
 function createQueryPath(play) {
   let fullPath = (path.join(__dirname, '../data-sources/') + play)
   return fullPath
 } // createQueryPath
 
+// ===== GET TARGET FILE =====
 function getTargetFile(play) {
   let path = createQueryPath(play)
   let targetFile = fs.readFileSync(path, 'utf-8')
