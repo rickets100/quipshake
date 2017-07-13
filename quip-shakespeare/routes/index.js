@@ -7,6 +7,11 @@ router.get('/', function(req, res, next) {
   res.render('index', { title: 'Quip Shakespeare' })
 })
 
+// ===== LANDING PAGE =====
+router.get('/game', function(req, res, next) {
+  console.log('INDEX.JS: get /game')
+  res.send()
+})
 
 
 module.exports = router

@@ -6,9 +6,6 @@
     controller: controller,
     templateUrl: './scripts/game/game.index.html'
   })
-  console.log('got here')
-
-
 
   controller.$inject = ['API_BASE_URL', '$http']
   function controller (baseUrl, $http){

@@ -18,14 +18,14 @@ function randomNum (limit) {
 
 // ===== GET A RANDOM PLAY =====
 function getRandomPlay() {
-  console.log('UTILITY-FUNCTIONS: getRandomPlay')
-  return selectedPlay = playList[makeRandomNum(numPlays)]
+  let selectedPlay = playList[randomNum(numPlays)]
+  return selectedPlay
 } // getRandomPlay
 
 // ===== GET A RANDOM QUESTION TYPE =====
 function getRandomQuestionType() {
-  console.log('UTILITY-FUNCTIONS: getRandomQuestionType')
-  return questionType = playList[makeRandomNum(numPlays)]
+  let questionType = playList[randomNum(numPlays)]
+  return questionType
 } // getRandomQuestionType
 
 module.exports = {
@@ -33,3 +33,6 @@ module.exports = {
   getRandomPlay,
   getRandomQuestionType
 }
+
+getRandomQuestionType()
+getRandomPlay()

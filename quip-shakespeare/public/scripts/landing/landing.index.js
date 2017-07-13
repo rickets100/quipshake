@@ -14,7 +14,7 @@
     vm.$onInit = function (){
       $http.get(`${baseUrl}/api/landing`)
       .then((result)=>{
-        console.log('here')
+        console.log('in the .then of landing.index.js')
     })
   } // init
 
