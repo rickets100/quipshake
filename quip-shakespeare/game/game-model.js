@@ -1,4 +1,4 @@
-const db = require('../../db/knex')
+const db = require('../db/connection')
 
 class Game {
   constructor () {}
@@ -14,4 +14,21 @@ class Game {
   }
 }
 
-module.exports = Game
+class Type {
+  constructor () {}
+
+  static getAllTypes(question_types) {
+    console.log('in getAllTypes')
+    return db(question_types)
+  }
+
+  static getType(question_types, id) {
+    console.log('in getType')
+    return db(question_types).select('*').where('id', id).first()
+  }
+}
+
+module.exports = {
+  Game,
+  Type
+}
