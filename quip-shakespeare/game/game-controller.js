@@ -64,26 +64,60 @@ function populateQuestion(questionConstraints) {
 
 
 // ===== GET SPEECH =====
-function getSpeech(doc) {
-  let item = "/TEI/text/body/div1[1]/div2[1]/sp[1]/ab[1]//text()"
-  let result = xpath.evaluate(item, // xpathExpression
-      doc,                        // contextNode
-      null,                       // namespaceResolver
-      xpath.XPathResult.ANY_TYPE, // resultType
-      null                        // result
+function getSceneCount(doc) {
+  let sceneNodes = "count(/TEI/text/body/div1/div2)"
+  let scenes = xpath.evaluate(
+    sceneNodes,                       // xpathExpression
+    doc,                        // contextNode
+    null,                       // namespaceResolver
+    xpath.XPathResult.ANY_TYPE, // resultType
+    null                        // result
   )
-  let node = result.iterateNext()
-  let speech = ""
-  while (node) {
-    if (node.data != '\r\n') {
-    console.log('node.nodeValue', node.nodeValue)
-    speech = speech + node.nodeValue
-  }
-  node = result.iterateNext()
+  console.log('Scenes: ',  scenes.numberValue)
+  return scenes.numberValue;
+} // getSceneCount
+
+function getSpeechCount(doc) {
+  let speechNodes = "count(/TEI/text/body/div1/div2/sp/ab)"
+  let speeches = xpath.evaluate(
+    speechNodes,                       // xpathExpression
+    doc,                        // contextNode
+    null,                       // namespaceResolver
+    xpath.XPathResult.ANY_TYPE, // resultType
+    null                        // result
+  )
+  console.log('Speeches: ',  speeches.numberValue)
+  return speeches.numberValue;
+} // getSceneCount
+
+function getSpeechByIndex(doc, index){
+  let speechNodes = "/TEI/text/body/div1/div2/sp/ab["+(index+1)+"]//text()";
+
+  let speeches = xpath.evaluate(
+    speechNodes,                       // xpathExpression
+    doc,                        // contextNode
+    null,                       // namespaceResolver
+    xpath.XPathResult.ANY_TYPE, // resultType
+    null                        // result
+  )
+  // console.log('Speeches: ',  speeches)
+  //console.log("speeches",speeches)
+  return speeches.nodes.join("").split("\r\n").join(" ").split("  ").join("");
+}
+
+function getRandomSpeech(doc){
+  var speechCount = getSpeechCount(doc);
+  var index = random(speechCount);
+  var randomSpeech = getSpeechByIndex(doc, index);
+  console.log("randomSpeech",randomSpeech)
+  return randomSpeech;
 
 }
-console.log('speech: ', speech)
-return speech
+
+function getSpeech(doc) {
+  var speech = getRandomSpeech(doc);
+  console.log("speech", speech);
+  return speech
 }
 
 

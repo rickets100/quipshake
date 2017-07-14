@@ -7,8 +7,9 @@ const dom = require('xmldom').DOMParser
 //var gameController = require('./game-model').Game
 
 
-// API ROUTES
+// @@@@@@ API ROUTES @@@@@@
 
+// ===== FORMULATE QUESTION =====
 router.get('/', function(req, res, next) {
   var result = gameController.formulateQuestion(function(question) {
     var data = [
@@ -37,24 +38,21 @@ router.get('/', function(req, res, next) {
         endpoint:"/api/word-frequency"
       },
     ]
-
-
-
-
-console.log("req",req)
-
+    console.log("req",req)
     res.send(data)
   })
 })
 
+// ===== FORMULATE A QUESTION =====
 // /api/formulate-question
 router.get('/formulate-question', function(req, res, next) {
   var result = gameController.formulateQuestion(function(question) {
-    console.log('OUTPUT', question)
-    res.send(question);
+    console.log('QUESTION IS: ', question)
+    res.send(question)
   })
 })
 
+// ===== CHRONOLOGY QUESTION =====
 // /api/chronology
 router.get('/chronology', function(req, res, next) {
   /**
@@ -82,9 +80,9 @@ router.get('/chronology', function(req, res, next) {
     ]
   }
   res.send(data)
-
 })
 
+// ===== CHARACTER-WEIGHT =====
 router.get('/character-weight', function(req, res, next) {
   /**
   This should return the data required (json) to serve a character-weight question
@@ -113,11 +111,10 @@ router.get('/character-weight', function(req, res, next) {
     ]
   }
   res.send(data)
-
-  res.send({"data":"character-weight"})
 })
 
 
+// ===== CHARACTER-ORIGIN =====
 router.get('/character-origin', function(req, res, next) {
   /**
   This should return the data required (json) to serve a character-origin question
@@ -147,11 +144,12 @@ router.get('/character-origin', function(req, res, next) {
   res.send(data)
 })
 
+// ===== LOAD AN XML FILE =====
 function loadXml(playXMLName){
   var playXML = (path.join(__dirname, '../bin/data-sources/') + playXMLName)
   let targetFile = fs.readFileSync(playXML, 'utf-8')
   let doc = new dom().parseFromString(targetFile)
-  return doc;
+  return doc
 }
 
 router.get('/quote-origin', function(req, res, next) {
@@ -161,7 +159,7 @@ router.get('/quote-origin', function(req, res, next) {
   var playId = "Ado"; //TODO: this should come from request
   gameController.getWorkByIDNO(playId).then(function(selectedWork){
 
-    var doc = loadXml(selectedWork.xmlName);
+    var doc = loadXml(selectedWork.xmlName)
 
     var data = {
       test:selectedWork,
@@ -173,6 +171,7 @@ router.get('/quote-origin', function(req, res, next) {
           isCorrect:true
         },
         //TODO: KNEX: select 3 RANDOM plays where IDNO IS NOT = playId
+        // This should be a function in game-controller called gameController.getRandomPlays(numPlays, ignoreIDNO)
         {
           label:"Play 2",
           isCorrect:false
