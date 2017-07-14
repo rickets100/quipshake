@@ -44,7 +44,7 @@ function getQuestionType () {
 
 
 // ===== FORMULATE QUESTION =====
-function formulateQuestion (cb) {
+function formulateQuestion(cb) {
   let question = {
     type: '',
     work: ''
@@ -61,11 +61,11 @@ function formulateQuestion (cb) {
 
 
 // ===== POPULATE A GIVEN QUESTION =====
-function populateQuestion(questionConstraints) {
-  // questionConstraints will be the object formulated by formulateQuestion
-  // need to now generate a correct answer + as many additional options as is specified by the question type
-
-}
+// function populateQuestion(questionConstraints) {
+//   // questionConstraints will be the object formulated by formulateQuestion
+//   // need to now generate a correct answer + as many additional options as is specified by the question type
+//
+// }
 
 
 // ===== GET SCENE COUNT =====
@@ -78,7 +78,7 @@ function getSceneCount(doc) {
     xpath.XPathResult.ANY_TYPE, // resultType
     null                        // result
   )
-  console.log('Scenes: ',  scenes.numberValue)
+  // console.log('Scenes: ',  scenes.numberValue)
   return scenes.numberValue
 } // getSceneCount
 
@@ -93,7 +93,7 @@ function getSpeechCount (doc) {
     xpath.XPathResult.ANY_TYPE, // resultType
     null                        // result
   )
-  console.log('Speeches: ',  speeches.numberValue)
+  // console.log('Speeches: ',  speeches.numberValue)
   return speeches.numberValue
 } // getSpeechCount
 
@@ -108,13 +108,13 @@ function getSpeechByIndex (doc, index) {
     xpath.XPathResult.ANY_TYPE, // resultType
     null                        // result
   )
-  console.log('speech: ', speeches)
+  // console.log('speech: ', speeches)
   // weirdness below is attempt to work-around the blank text nodes of the xml file
-  return speeches.nodes.join('').split('\r\n').join(' ').split('  ').join('');
+  return speeches.nodes.join('').split('\r\n').join(' ').split('  ').join('')
 }
 
 
-// ===== GET A RANDOM SPEECH =====
+// ===== GET A RANDOM SPEECH PART 2: ELECTRIC BOOGALOO =====
 function getRandomSpeech (doc) {
   let speechCount = getSpeechCount(doc)
   let index = random(speechCount)
@@ -131,20 +131,28 @@ function getSpeech (doc) {
   return speech
 }
 
+
+// ===== GET THREE WRONG WORKS ===
+function getThreeWrongWorks(idArray) {
+  console.log('get three wrong works ', idArray)
+  return game.getThreeWorks('works', idArray)
+}
+
+
 module.exports = {
   getWorkByIDNO,
   getWorkByRowId,
   getOneWork,
   getQuestionType,
   formulateQuestion,
-  populateQuestion,
   getSceneCount,
   getSpeechCount,
   getSpeechByIndex,
   getRandomSpeech,
-  getSpeech
+  getSpeech,
+  getThreeWrongWorks
 }
 
-var result = formulateQuestion(function(question) {
-  console.log('RESULT', question)
-})
+// var result = formulateQuestion(function(question) {
+//   console.log('RESULT', question)
+// })

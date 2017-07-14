@@ -13,6 +13,7 @@
   controller.$inject = ['API_BASE_URL', '$http']
   function controller (baseUrl, $http){
     const vm = this
+    vm.currentQuestion = ''
 
     // ===== INIT =====
     vm.$onInit = function (){
@@ -54,29 +55,14 @@
       // questionConstraints will be the object formulated by formulateQuestion
       // need to now generate a correct answer + as many additional options as is specified by the question type
       // if quote origin, need to get the quote
-      switch(questionConstraints.type) {
-        case 'chronology':
-          console.log('switch: chronology')
-          $http.get(`${baseUrl}/api/chronology`)
-          .then((result)=>{
-            console.log('switch: chronology')
-          })
-        break;
-        case 'quote origin':
-          console.log('switch: quote origin')
-        break;
-        case 'character origin':
-          console.log('switch: character origin')
-        break;
-        case 'character weight':
-          console.log('switch: character weight')
-        break;
-        case 'word frequency':
-          console.log('switch: word frequency')
-        break;
-        default:
-          console.log('switch: default')
-      }
+      let endpoint = (questionConstraints.type).split(' ').join('-')
+      console.log('hitting ', (`${baseUrl}/api/${endpoint}`));
+      $http.get(`${baseUrl}/api/${endpoint}`)
+      .then((result)=>{
+        console.log('RESULT: ', result)
+
+        vm.currentQuestion = result.data.question
+      }) // http.get
     }
 
     // ===== TEST QUESTION PART =====
@@ -88,7 +74,6 @@
           type: result.data.type.question_type,
           num_options: result.data.type.num_options
         }
-        console.log(result.data)
         populateQuestion(questionConstraints)
       })
     }

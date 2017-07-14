@@ -13,15 +13,17 @@ class Game {
     return db(works).select('*').where('id', id).first()
   }
 
-  static getOneWorkByIDNO (works, id) {
+  static getOneWorkByIDNO (works, idno) {
     console.log('GAME-MODEL: in getOneWorkByIDNO')
     return db(works).select('*').where('idno', idno).first()
   }
 
-  static getThreeWorksById (works, id) {
-    // need id of correct one to be passed-in to avoid selecting it again
-    console.log('GAME-MODEL: in getThreeWorksById')
-    // return db(works).select('*').where('idno', idno).first()
+  static getThreeWorks(works, idArray) {
+    console.log('GAME-MODEL: in getThreeWorksNotId')
+    return db(works).select('*').whereIn('id', idArray)
+
+    //   knex.select('name').from('users')
+    // .whereIn('id', [1, 2, 3])
   }
 
 }

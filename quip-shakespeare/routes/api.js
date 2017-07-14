@@ -4,23 +4,13 @@ const gameController = require('../game/game-controller')
 const fs = require('file-system')
 const path = require('path')
 const dom = require('xmldom').DOMParser
-
+const util = require('../bin/scripts/utility-functions')
 
 // @@@@@@ API ROUTES @@@@@@
 
-
-// ===== LOAD AN XML FILE ✅ =====
-function loadXml (playXMLName) {
-  var playXML = (path.join(__dirname, '../bin/data-sources/') + playXMLName)
-  let targetFile = fs.readFileSync(playXML, 'utf-8')
-  let doc = new dom().parseFromString(targetFile)
-  return doc
-}
-
-
 // ===== FORMULATE QUESTION =====
 router.get ('/', function(req, res, next) {
-  console.log('(SERVER)/api/formulate-question');
+  console.log('(SERVER)/api/formulate-question')
   var result = gameController.formulateQuestion(function (question) {
     var data = [
       {
@@ -58,7 +48,7 @@ router.get ('/', function(req, res, next) {
 // /api/formulate-question
 router.get('/formulate-question', function(req, res, next) {
   console.log('(SERVER)/api/formulate-question')
-  var result = gameController.formulateQuestion(function(question) {
+  let result = gameController.formulateQuestion(function(question) {
     res.send(question)
   })
 })
@@ -68,11 +58,17 @@ router.get('/formulate-question', function(req, res, next) {
 // /api/chronology
 router.get('/chronology', function(req, res, next) {
   console.log('(SERVER)/api/chronology')
-/**
+  /**
   This should return the data required (json) to serve a chronology question
   **/
 
   // will need to deal with plays with same date - use 'order' to choose, but have a caveat/explanation on reveal that this is based on wikipedia's entry on the subject, and display the yearRange field for the object
+
+  let correctID = 5 // hardcoded for testing for now
+  let numOptions = 3 // hardcoded for testing for now
+  let optionArray = util.randomArray(numOptions, 42, correctID)
+  let blah = gameController.getThreeWrongWorks(optionArray)
+  console.log('three wrong options: ', blah)
 
   var data = {
     question: 'Which play was published first?',
@@ -167,19 +163,21 @@ router.get('/character-origin', function(req, res, next) {
 // ===== QUOTE-ORIGIN =====
 router.get('/quote-origin', function(req, res, next) {
   console.log('(SERVER)/api/quote-origin')
-
+  console.log(req.body)
   /**
   This should return the data required (json) to serve a quote-origin question
   **/
 // will need to limit the size of the text (at least a certain length, but maybe truncated if too long)
 
-  var playId = 'Ado' //TODO: this should come from request
-  gameController.getWorkByIDNO(playId).then(function(selectedWork){
+  var playIdno = 'Ado' //TODO: this should come from request
+  //TODO: KNEX: select 3 RANDOM plays where IDNO IS NOT = playId
+  // This should be a function in game-controller called gameController.getRandomPlays(numPlays, ignoreIDNO)
 
-    let doc = loadXml(selectedWork.xmlName)
+  gameController.getWorkByIDNO(playIdno).then(function(selectedWork){
 
+    let doc = util.loadXml(selectedWork.xmlName)
     let data = {
-      test:selectedWork,
+      test: selectedWork,
       question: 'From which play does the following quote derive?',
       elaboration: gameController.getSpeech(doc),
       options:[
@@ -187,8 +185,6 @@ router.get('/quote-origin', function(req, res, next) {
           label:selectedWork.title,
           isCorrect:true
         },
-        //TODO: KNEX: select 3 RANDOM plays where IDNO IS NOT = playId
-        // This should be a function in game-controller called gameController.getRandomPlays(numPlays, ignoreIDNO)
         {
           label: 'Play 2',
           isCorrect:false
