@@ -33,7 +33,6 @@ function getWorkByRowId (id) {
 function getOneWork () {
   let randomWorkId = random(42)
   return getWorkByRowId(randomWorkId)
-  // return game.getOneWork('works', randomWorkId)
 } // getOneWork
 
 
@@ -57,6 +56,7 @@ function formulateQuestion (cb) {
       cb(question)
     })
   })
+  console.log('formulated question is: ', question)
 }
 
 

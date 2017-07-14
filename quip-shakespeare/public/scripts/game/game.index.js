@@ -53,14 +53,44 @@
     function populateQuestion(questionConstraints) {
       // questionConstraints will be the object formulated by formulateQuestion
       // need to now generate a correct answer + as many additional options as is specified by the question type
-      // if quote identification, need to get the quote
-      // i.e. question.type
+      // if quote origin, need to get the quote
+      switch(questionConstraints.type) {
+        case 'chronology':
+          console.log('switch: chronology')
+          $http.get(`${baseUrl}/api/chronology`)
+          .then((result)=>{
+            console.log('switch: chronology')
+          })
+        break;
+        case 'quote origin':
+          console.log('switch: quote origin')
+        break;
+        case 'character origin':
+          console.log('switch: character origin')
+        break;
+        case 'character weight':
+          console.log('switch: character weight')
+        break;
+        case 'word frequency':
+          console.log('switch: word frequency')
+        break;
+        default:
+          console.log('switch: default')
+      }
     }
 
     // ===== TEST QUESTION PART =====
     vm.testQuestion = function () {
-      console.log('***** in the test-questionfunction *****')
-
+      $http.get(`${baseUrl}/api/formulate-question`)
+      .then((result)=>{
+        let questionConstraints = {
+          work: result.data.word,
+          type: result.data.type.question_type,
+          num_options: result.data.type.num_options
+        }
+        console.log(result.data)
+        populateQuestion(questionConstraints)
+      })
     }
 
 

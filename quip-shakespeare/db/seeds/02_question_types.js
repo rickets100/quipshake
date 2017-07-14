@@ -18,7 +18,7 @@ exports.seed = function(knex) {
         num_options: 4},
 
         {id: 4,
-        question_type: 'quote recognition',
+        question_type: 'quote origin',
         question_class: 'multiple choice',
         num_options: 4},
 
@@ -43,7 +43,7 @@ exports.seed = function(knex) {
         num_options: 2},
 
         {id: 9,
-        question_type: 'quote recognition',
+        question_type: 'quote origin',
         question_class: 'true or false',
         num_options: 2},
 
@@ -68,7 +68,7 @@ exports.seed = function(knex) {
         num_options: 2},
 
         {id: 14,
-        question_type: 'quote recognition',
+        question_type: 'quote origin',
         question_class: 'multiple choice',
         num_options: 2},
 

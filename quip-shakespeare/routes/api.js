@@ -8,8 +8,19 @@ const dom = require('xmldom').DOMParser
 
 // @@@@@@ API ROUTES @@@@@@
 
+
+// ===== LOAD AN XML FILE ✅ =====
+function loadXml (playXMLName) {
+  var playXML = (path.join(__dirname, '../bin/data-sources/') + playXMLName)
+  let targetFile = fs.readFileSync(playXML, 'utf-8')
+  let doc = new dom().parseFromString(targetFile)
+  return doc
+}
+
+
 // ===== FORMULATE QUESTION =====
 router.get ('/', function(req, res, next) {
+  console.log('(SERVER)/api/formulate-question');
   var result = gameController.formulateQuestion(function (question) {
     var data = [
       {
@@ -43,20 +54,21 @@ router.get ('/', function(req, res, next) {
 })
 
 
-// ===== FORMULATE A QUESTION =====
+// ===== FORMULATE A QUESTION ✅ =====
 // /api/formulate-question
 router.get('/formulate-question', function(req, res, next) {
+  console.log('(SERVER)/api/formulate-question')
   var result = gameController.formulateQuestion(function(question) {
-    console.log('QUESTION IS: ', question)
     res.send(question)
   })
 })
 
 
-// ===== CHRONOLOGY QUESTION =====
+// ===== CHRONOLOGY =====
 // /api/chronology
 router.get('/chronology', function(req, res, next) {
-  /**
+  console.log('(SERVER)/api/chronology')
+/**
   This should return the data required (json) to serve a chronology question
   **/
 
@@ -83,13 +95,13 @@ router.get('/chronology', function(req, res, next) {
       }
     ]
   }
-  console.log('chronology')
   res.send(data)
 })
 
 
 // ===== CHARACTER-WEIGHT =====
 router.get('/character-weight', function(req, res, next) {
+  console.log('(SERVER)/api/character-weight')
   /**
   This should return the data required (json) to serve a character-weight question
   **/
@@ -116,13 +128,14 @@ router.get('/character-weight', function(req, res, next) {
       }
     ]
   }
-  console.log('character-weight')
   res.send(data)
 })
 
 
 // ===== CHARACTER-ORIGIN =====
 router.get('/character-origin', function(req, res, next) {
+  console.log('(SERVER)/api/character-origin')
+
   /**
   This should return the data required (json) to serve a character-origin question
   **/
@@ -148,22 +161,13 @@ router.get('/character-origin', function(req, res, next) {
       }
     ]
   }
-  console.log('character-origin')
   res.send(data)
 })
 
-
-// ===== LOAD AN XML FILE =====
-function loadXml (playXMLName) {
-  var playXML = (path.join(__dirname, '../bin/data-sources/') + playXMLName)
-  let targetFile = fs.readFileSync(playXML, 'utf-8')
-  let doc = new dom().parseFromString(targetFile)
-  return doc
-}
-
-
-// ===== QUOTE-ORIGIN QUESTION =====
+// ===== QUOTE-ORIGIN =====
 router.get('/quote-origin', function(req, res, next) {
+  console.log('(SERVER)/api/quote-origin')
+
   /**
   This should return the data required (json) to serve a quote-origin question
   **/
@@ -200,13 +204,14 @@ router.get('/quote-origin', function(req, res, next) {
       ]
     }
     //TODO: random sort data.options
-    console.log ('quote-origin')
     res.send (data)
   })
 })
 
 
+// ===== WORD FREQUENCY =====
 router.get ('/word-frequency', function(req, res, next) {
+  console.log('(SERVER)/api/word-frequency')
   /**
   This should return the data required (json) to serve a word-frequency question
   **/
@@ -238,8 +243,7 @@ router.get ('/word-frequency', function(req, res, next) {
       }
     ]
   }
-  console.log ('word frequency')
-  res.send (data)
+  res.send(data)
 })
 
 module.exports = router
