@@ -1,3 +1,5 @@
+// THIS FILE CAN EVENTUALLY GO AWAY - WAS FOR GETTING CODE UP AND RUNNING
+
 const express = require('express')
 const path = require('path')
 const xpath = require('xpath')

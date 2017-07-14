@@ -1,3 +1,5 @@
+// THIS FILE CAN EVENTUALLY GO AWAY - WAS FOR GETTING CODE UP AND RUNNING
+
 // https://www.npmjs.com/package/xml2js
 // https://www.npmjs.com/package/file-system
 // https://www.npmjs.com/package/xpath
@@ -90,6 +92,5 @@ const parser = new xml2js.Parser()
     speech = speech + node.nodeValue
   }
   node = result.iterateNext()
-
 }
 console.log('speech: ', speech)

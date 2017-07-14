@@ -23,11 +23,11 @@ function retrieveSubNodes(subNode, nodePath) {
 
 
 // ===== GET ALL PEOPLE =====
-function getAllPeople() {
-  let currentPlay = playList[32].xmlName
+function getAllPeople(playId) {
+  let currentPlay = playList[playId].xmlName
   console.log("getAllPeople: currentPlay is ", currentPlay)
-  let targetFile = getTargetFile(currentPlay)
-  let doc = new dom().parseFromString(targetFile)
+  let targetFile = getTargetFile (currentPlay)
+  let doc = new dom().parseFromString (targetFile)
   let item = "//person[persName]"
   let result = xpath.evaluate(
     item,                       // xpathExpression
@@ -40,8 +40,8 @@ function getAllPeople() {
   let charList = []
 
   while (node) {
-    let name = retrieveSubNodes(node, './persName/name/text()')
-    let sex = retrieveSubNodes(node, './sex/text()')
+    let name = retrieveSubNodes (node, './persName/name/text()')
+    let sex = retrieveSubNodes (node, './sex/text()')
     // let state = retrieveSubNodes(node, './state/p/text()')
     let character = {
       name: name,

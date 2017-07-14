@@ -11,10 +11,11 @@ const numPlays = playList.length
 
 // ===== RANDOM NUMBER GENERATOR =====
 function randomNum (limit) {
-  let max = Math.floor(limit)
-  let random = Math.floor(Math.random() * (max - 1 + 1)) + 1
+  let max = Math.floor (limit)
+  let random = Math.floor (Math.random() * (max - 1 + 1)) + 1
   return random
 } // randomNum
+
 
 // ===== GET A RANDOM PLAY =====
 function getRandomPlay() {
@@ -22,11 +23,13 @@ function getRandomPlay() {
   return selectedPlay
 } // getRandomPlay
 
+
 // ===== GET A RANDOM QUESTION TYPE =====
 function getRandomQuestionType() {
   let questionType = playList[randomNum(numPlays)]
   return questionType
 } // getRandomQuestionType
+
 
 module.exports = {
   randomNum,

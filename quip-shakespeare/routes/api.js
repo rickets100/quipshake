@@ -1,47 +1,47 @@
-var express = require('express')
-var router = express.Router()
-var gameController = require('../game/game-controller')
+const express = require('express')
+const router = express.Router()
+const gameController = require('../game/game-controller')
 const fs = require('file-system')
 const path = require('path')
 const dom = require('xmldom').DOMParser
-//var gameController = require('./game-model').Game
 
 
 // @@@@@@ API ROUTES @@@@@@
 
 // ===== FORMULATE QUESTION =====
-router.get('/', function(req, res, next) {
-  var result = gameController.formulateQuestion(function(question) {
+router.get ('/', function(req, res, next) {
+  var result = gameController.formulateQuestion(function (question) {
     var data = [
       {
-        name:"Formulate Question",
-        endpoint:"/api/formulate-question"
+        name:'Formulate Question',
+        endpoint:'/api/formulate-question'
       },
       {
-        name:"Chronology",
-        endpoint:"/api/chronology"
+        name:'Chronology',
+        endpoint:'/api/chronology'
       },
       {
-        name:"Character Weight",
-        endpoint:"/api/character-weight"
+        name:'Character Weight',
+        endpoint:'/api/character-weight'
       },
       {
-        name:"Character Origin",
-        endpoint:"/api/character-origin"
+        name:'Character Origin',
+        endpoint:'/api/character-origin'
       },
       {
-        name:"Quote Origin",
-        endpoint:"/api/quote-origin"
+        name:'Quote Origin',
+        endpoint:'/api/quote-origin'
       },
       {
-        name:"Word Frequency",
-        endpoint:"/api/word-frequency"
+        name:'Word Frequency',
+        endpoint:'/api/word-frequency'
       },
     ]
-    console.log("req",req)
+    console.log('FORMULATE QUESTION: req', req)
     res.send(data)
   })
 })
+
 
 // ===== FORMULATE A QUESTION =====
 // /api/formulate-question
@@ -52,64 +52,71 @@ router.get('/formulate-question', function(req, res, next) {
   })
 })
 
+
 // ===== CHRONOLOGY QUESTION =====
 // /api/chronology
 router.get('/chronology', function(req, res, next) {
   /**
   This should return the data required (json) to serve a chronology question
   **/
+
+  // will need to deal with plays with same date - use 'order' to choose, but have a caveat/explanation on reveal that this is based on wikipedia's entry on the subject, and display the yearRange field for the object
+
   var data = {
-    question:"Which play was published first?",
+    question: 'Which play was published first?',
     options:[
       {
-        label:"The Taming of the Shrew",
+        label: 'The Taming of the Shrew',
         isCorrect:true
       },
       {
-        label:"Play 2",
+        label: 'Play 2',
         isCorrect:false
       },
       {
-        label:"Play 3",
+        label: 'Play 3',
         isCorrect:false
       },
       {
-        label:"Play 4",
+        label: 'Play 4',
         isCorrect:false
       }
     ]
   }
+  console.log('chronology')
   res.send(data)
 })
+
 
 // ===== CHARACTER-WEIGHT =====
 router.get('/character-weight', function(req, res, next) {
   /**
   This should return the data required (json) to serve a character-weight question
   **/
-  // figure out how I am going to choose to get the info about line concordance
+  // figure out how I am going to choose to get the info about line concordance (my own psql tables vs querying against the xml, which will probably be too slow)
 
   let data = {
-    question:"Of the following, which character from The Merry Wives of Windsor has the most lines?",
+    question: 'Of the following, which character from The Merry Wives of Windsor has the most lines?',
     options:[
       {
-        label:"Slender",
+        label:'Slender',
         isCorrect:true
       },
       {
-        label:"Master Page",
+        label:'Master Page',
         isCorrect:false
       },
       {
-        label:"Bardolph",
+        label:'Bardolph',
         isCorrect:false
       },
       {
-        label:"Shallow",
+        label:'Shallow',
         isCorrect:false
       }
     ]
   }
+  console.log('character-weight')
   res.send(data)
 })
 
@@ -121,49 +128,55 @@ router.get('/character-origin', function(req, res, next) {
   **/
 
   let data = {
-    question:"Name the play from whence the character of {your name here} comes:",
+    question: 'Name the play from whence the character of {your name here} comes:',
     options:[
       {
-        label:"The Taming of the Shrew",
+        label: 'The Taming of the Shrew',
         isCorrect:true
       },
       {
-        label:"Play 2",
+        label: 'Play 2',
         isCorrect:false
       },
       {
-        label:"Play 3",
+        label: 'Play 3',
         isCorrect:false
       },
       {
-        label:"Play 4",
+        label: 'Play 4',
         isCorrect:false
       }
     ]
   }
+  console.log('character-origin')
   res.send(data)
 })
 
+
 // ===== LOAD AN XML FILE =====
-function loadXml(playXMLName){
+function loadXml (playXMLName) {
   var playXML = (path.join(__dirname, '../bin/data-sources/') + playXMLName)
   let targetFile = fs.readFileSync(playXML, 'utf-8')
   let doc = new dom().parseFromString(targetFile)
   return doc
 }
 
+
+// ===== QUOTE-ORIGIN QUESTION =====
 router.get('/quote-origin', function(req, res, next) {
   /**
   This should return the data required (json) to serve a quote-origin question
   **/
-  var playId = "Ado"; //TODO: this should come from request
+// will need to limit the size of the text (at least a certain length, but maybe truncated if too long)
+
+  var playId = 'Ado' //TODO: this should come from request
   gameController.getWorkByIDNO(playId).then(function(selectedWork){
 
-    var doc = loadXml(selectedWork.xmlName)
+    let doc = loadXml(selectedWork.xmlName)
 
-    var data = {
+    let data = {
       test:selectedWork,
-      question:"From which play does the following quote derive?",
+      question: 'From which play does the following quote derive?',
       elaboration: gameController.getSpeech(doc),
       options:[
         {
@@ -173,62 +186,60 @@ router.get('/quote-origin', function(req, res, next) {
         //TODO: KNEX: select 3 RANDOM plays where IDNO IS NOT = playId
         // This should be a function in game-controller called gameController.getRandomPlays(numPlays, ignoreIDNO)
         {
-          label:"Play 2",
+          label: 'Play 2',
           isCorrect:false
         },
         {
-          label:"Play 3",
+          label: 'Play 3',
           isCorrect:false
         },
         {
-          label:"Play 4",
+          label: 'Play 4',
           isCorrect:false
         }
       ]
     }
     //TODO: random sort data.options
-    res.send(data)
+    console.log ('quote-origin')
+    res.send (data)
   })
-
-
 })
 
 
-router.get('/word-frequency', function(req, res, next) {
+router.get ('/word-frequency', function(req, res, next) {
   /**
   This should return the data required (json) to serve a word-frequency question
   **/
 
-  // need a query to the "most common words" table/object to know which results to reject and retry
+  // need a query to the 'most common words' table/object to know which results to reject and retry
 
-  // knex has a "not in" option (for common words list) and get give the results in random order
+  // knex has a 'not in' option (for common words list) and get give the results in random order
 
-  // It is possible in a single SQL statment to say "give me 4 random rows that are from play X and do not contain the words in this list"
+  // It is possible in a single SQL statment to say 'give me 4 random rows that are from play X and do not contain the words in this list'
 
   var data = {
-    question:"Which of the following occurs more frequently in {play name}?",
-    options:[
+    question: 'Which of the following occurs more frequently in {play name}?',
+    options: [
       {
-        label:"generous",
+        label: 'generous',
         isCorrect:true
       },
       {
-        label:"Horatio",
+        label: 'Horatio',
         isCorrect:false
       },
       {
-        label:"dead",
+        label: 'dead',
         isCorrect:false
       },
       {
-        label:"does",
+        label: 'does',
         isCorrect:false
-
       }
     ]
   }
-
-  res.send({"data":"word-frequency"})
+  console.log ('word frequency')
+  res.send (data)
 })
 
 module.exports = router

@@ -1,7 +1,3 @@
-const game = require('./game-model').Game
-const type = require('./game-model').Type
-const random = require('../bin/scripts/utility-functions').randomNum
-const questionTypes = 15
 const express = require('express')
 const path = require('path')
 const xpath = require('xpath')
@@ -9,30 +5,39 @@ const dom = require('xmldom').DOMParser
 const xml2js = require('xml2js')
 const parseString = require('xml2js').parseString
 const fs = require('file-system')
-const playList = require('../bin/data-sources/playList')
 const app = express()
 const parser = new xml2js.Parser()
+const playList = require('../bin/data-sources/playList')
+const questionTypes = 15
+const game = require('./game-model').Game
+const type = require('./game-model').Type
+const random = require('../bin/scripts/utility-functions').randomNum
 
 // ===== TEST FUNCTION =====
 
 
 
-// ===== GET ONE WORK: CONTROLLER =====
-function getWorkByIDNO(id){
-  return game.getOneWorkByIDNO('works', id)
+// ===== GET A SPECIFIC WORK BY IDNO =====
+function getWorkByIDNO (idno){
+  return game.getOneWorkByIDNO ('works', idno)
 }
 
-function getWorkByRowId(id){
+
+// ===== GET A SPECIFIC WORK BY ROW ID
+function getWorkByRowId (id) {
   return game.getOneWork('works', id)
 }
 
-function getOneWork (req, res, next) {
+
+// ===== GET A RANDOM WORK =====
+function getOneWork () {
   let randomWorkId = random(42)
   return getWorkByRowId(randomWorkId)
   // return game.getOneWork('works', randomWorkId)
 } // getOneWork
 
-// ===== GET QUESTION TYPE =====
+
+// ===== GET A RANDOM QUESTION TYPE =====
 function getQuestionType () {
   let randomTypeId = random(questionTypes)
   return type.getType('question_types', randomTypeId)
@@ -50,9 +55,9 @@ function formulateQuestion (cb) {
     getOneWork().then(selectedWork => {
       question.work = selectedWork
       cb(question)
-    }) // getOneWork
-  }) // getQuestionType
-} // formulateQuestion
+    })
+  })
+}
 
 
 // ===== POPULATE A GIVEN QUESTION =====
@@ -63,72 +68,81 @@ function populateQuestion(questionConstraints) {
 }
 
 
-// ===== GET SPEECH =====
+// ===== GET SCENE COUNT =====
 function getSceneCount(doc) {
-  let sceneNodes = "count(/TEI/text/body/div1/div2)"
-  let scenes = xpath.evaluate(
-    sceneNodes,                       // xpathExpression
+  let sceneNodes = 'count(/TEI/text/body/div1/div2)'
+  let scenes = xpath.evaluate (
+    sceneNodes,                  // xpathExpression
     doc,                        // contextNode
     null,                       // namespaceResolver
     xpath.XPathResult.ANY_TYPE, // resultType
     null                        // result
   )
   console.log('Scenes: ',  scenes.numberValue)
-  return scenes.numberValue;
+  return scenes.numberValue
 } // getSceneCount
 
-function getSpeechCount(doc) {
-  let speechNodes = "count(/TEI/text/body/div1/div2/sp/ab)"
+
+// ===== GET SPEECH COUNT =====
+function getSpeechCount (doc) {
+  let speechNodes = 'count(/TEI/text/body/div1/div2/sp/ab)'
   let speeches = xpath.evaluate(
-    speechNodes,                       // xpathExpression
+    speechNodes,                // xpathExpression
     doc,                        // contextNode
     null,                       // namespaceResolver
     xpath.XPathResult.ANY_TYPE, // resultType
     null                        // result
   )
   console.log('Speeches: ',  speeches.numberValue)
-  return speeches.numberValue;
-} // getSceneCount
+  return speeches.numberValue
+} // getSpeechCount
 
-function getSpeechByIndex(doc, index){
-  let speechNodes = "/TEI/text/body/div1/div2/sp/ab["+(index+1)+"]//text()";
 
+// ===== GET SPEECH BY INDEX =====
+function getSpeechByIndex (doc, index) {
+  let speechNodes = '/TEI/text/body/div1/div2/sp/ab[' + (index+1) + ']//text()'
   let speeches = xpath.evaluate(
-    speechNodes,                       // xpathExpression
+    speechNodes,                 // xpathExpression
     doc,                        // contextNode
     null,                       // namespaceResolver
     xpath.XPathResult.ANY_TYPE, // resultType
     null                        // result
   )
-  // console.log('Speeches: ',  speeches)
-  //console.log("speeches",speeches)
-  return speeches.nodes.join("").split("\r\n").join(" ").split("  ").join("");
+  console.log('speech: ', speeches)
+  // weirdness below is attempt to work-around the blank text nodes of the xml file
+  return speeches.nodes.join('').split('\r\n').join(' ').split('  ').join('');
 }
 
-function getRandomSpeech(doc){
-  var speechCount = getSpeechCount(doc);
-  var index = random(speechCount);
-  var randomSpeech = getSpeechByIndex(doc, index);
-  console.log("randomSpeech",randomSpeech)
-  return randomSpeech;
 
+// ===== GET A RANDOM SPEECH =====
+function getRandomSpeech (doc) {
+  let speechCount = getSpeechCount(doc)
+  let index = random(speechCount)
+  let randomSpeech = getSpeechByIndex(doc, index)
+  console.log('randomSpeech: ', randomSpeech)
+  return randomSpeech
 }
 
-function getSpeech(doc) {
-  var speech = getRandomSpeech(doc);
-  console.log("speech", speech);
+
+// ===== GET A RANDOM SPEECH =====
+function getSpeech (doc) {
+  let speech = getRandomSpeech (doc)
+  console.log ('speech', speech)
   return speech
 }
 
-
 module.exports = {
+  getWorkByIDNO,
+  getWorkByRowId,
   getOneWork,
   getQuestionType,
   formulateQuestion,
   populateQuestion,
-  getSpeech,
-  getWorkByRowId,
-  getWorkByIDNO
+  getSceneCount,
+  getSpeechCount,
+  getSpeechByIndex,
+  getRandomSpeech,
+  getSpeech
 }
 
 var result = formulateQuestion(function(question) {
