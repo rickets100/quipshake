@@ -5,7 +5,7 @@ const logger = require('morgan')
 const cookieParser = require('cookie-parser')
 const bodyParser = require('body-parser')
 
-var index = require('./routes/index')
+var apiRoutes = require('./routes/api') // api.js in routes
 // var users = require('./routes/users')
 
 var app = express()
@@ -22,7 +22,7 @@ app.use(bodyParser.urlencoded({ extended: false }))
 app.use(cookieParser())
 app.use(express.static(path.join(__dirname, 'public')))
 
-app.use('/api', index)
+app.use('/api', apiRoutes);
 // app.use('/users', users)
 
 app.use('*', function(req, res, next) {

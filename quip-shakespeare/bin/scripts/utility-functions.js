@@ -7,7 +7,7 @@ const playList = require('../data-sources/playList')
 const createQueryPath = require('./construct-path').createQueryPath
 const getTargetFile = require('./construct-path').getTargetFile
 const parser = new xml2js.Parser()
-let numPlays = playList.length
+const numPlays = playList.length
 
 // ===== RANDOM NUMBER GENERATOR =====
 function randomNum (limit) {

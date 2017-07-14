@@ -12,6 +12,11 @@ class Game {
     console.log('GAME-MODEL: in getOneWork')
     return db(works).select('*').where('id', id).first()
   }
+
+  static getOneWorkByIDNO(works, id) {
+    console.log('GAME-MODEL: in getOneWork')
+    return db(works).select('*').where('idno', id).first()
+  }
 }
 
 class Type {

@@ -93,22 +93,3 @@ const parser = new xml2js.Parser()
 
 }
 console.log('speech: ', speech)
-
-// }) // forEach
-
-// fs.readFile(fullPath, function(err, data) {
-  // console.log(data);
-  // parser.parseString(data, function (err, result) {
-
-      // console.dir(result)
-      // let jsonObj = JSON.stringify(result, null, 3)
-      // let numFiles = playList.length
-      // let currentFile = playList[0].fileName
-      // // console.log(currentFile)
-      // fs.writeFile('testwrite.txt', jsonObj, (err) => {
-      //   if (err) throw err
-      //   // console.log('The file has been saved!')
-      // })
-      // console.log('Done')
-//   })
-// })
