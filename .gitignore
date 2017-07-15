@@ -34,3 +34,6 @@ npm-debug.log
 
 # Notes
 notes.js
+
+**/vendor/**
+
