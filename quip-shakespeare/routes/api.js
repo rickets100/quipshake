@@ -67,28 +67,31 @@ router.get('/chronology', function(req, res, next) {
   // will need to deal with plays with same date - use 'order' to choose, but have a caveat/explanation on reveal that this is based on wikipedia's entry on the subject, and display the yearRange field for the object
 
   let correctID = 31 // hardcoded for testing for now Taming of the Shrew
-  let numOptions = 3 // hardcoded for testing for now
+  let numOptions = 4 // hardcoded for testing for now
   let optionArray = util.randomArray(numOptions, canon, correctID)
-  gameController.getThreeWrongWorks(optionArray).then(function(wrongOptions) {
-    console.log('WRONG OPTIONS', wrongOptions)
+  gameController.getFourWorks(optionArray).then(function(options) {
+    console.log('OPTIONS', options)
+    let inOrder = options.map(function(play) {
+      return play.order
+    }).sort()
     let data = {
       question: 'Which play was published first?',
       options:[
         {
-          label: 'The Taming of the Shrew',
-          isCorrect:true
+          label: options[0].title,
+          isCorrect: (options[0].order === inOrder[0])
         },
         {
-          label: wrongOptions[0].title,
-          isCorrect:false
+          label: options[1].title,
+          isCorrect: (options[1].order === inOrder[0])
         },
         {
-          label: wrongOptions[1].title,
-          isCorrect:false
+          label: options[2].title,
+          isCorrect: (options[2].order === inOrder[0])
         },
         {
-          label: wrongOptions[2].title,
-          isCorrect:false
+          label: options[3].title,
+          isCorrect: (options[3].order === inOrder[0])
         }
       ]
     } // data
