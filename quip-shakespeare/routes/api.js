@@ -79,19 +79,23 @@ router.get('/chronology', function(req, res, next) {
       options:[
         {
           label: options[0].title,
-          isCorrect: (options[0].order === inOrder[0])
+          isCorrect: (options[0].order === inOrder[0]),
+          isChosen: false
         },
         {
           label: options[1].title,
-          isCorrect: (options[1].order === inOrder[0])
+          isCorrect: (options[1].order === inOrder[0]),
+          isChosen: false
         },
         {
           label: options[2].title,
-          isCorrect: (options[2].order === inOrder[0])
+          isCorrect: (options[2].order === inOrder[0]),
+          isChosen: false
         },
         {
           label: options[3].title,
-          isCorrect: (options[3].order === inOrder[0])
+          isCorrect: (options[3].order === inOrder[0]),
+          isChosen: false
         }
       ]
     } // data

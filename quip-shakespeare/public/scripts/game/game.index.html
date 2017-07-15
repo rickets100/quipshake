@@ -1,15 +1,12 @@
-<!-- <a ui-sref="gameIndex">GAME.INDEX.HTML</a><br><br> -->
-
-
 <div class="container page">
   <div class="row">
     <div class="col-12 question">
-      Q: Which play was published first?
+      Q: {{$ctrl.currentQuestion}}
     </div> <!-- end column -->
   </div> <!-- end row -->
   <div class="row">
     <div class="col-12 col-sm-6 graphic hidden-xs-down">
-      <img src="/images/shakespeare-cartoon.png"/>
+      <img src="/images/shakespeare-cartoon.png"/><a href="" ng-click="$ctrl.updateImage()" class="">TEST</a>
     </div> <!-- end column graphic-->
     <div class="col-12 col-sm-6 options-answers">
       <div class="options">
@@ -24,31 +21,36 @@
             Othello
           </li>
           <li>
-            The Tempest
+            The Tempest<a href="" ng-click="$ctrl.updateAnswerOptions()" class=""> TEST</a>
           </li>
         </ul>
       </div>
       <div class="answer">
         <div class="feedback">
-          <strong>SCORE!</strong> You just earned 4 points!
+          <strong>{{$ctrl.exclamation}} </strong> {{$ctrl.elaboration}}
+          <!-- <a href="" ng-click="$ctrl.updateReveal()" class="">TEST</a> -->
         </div>
-        <button ng-click="$ctrl.testQuestion('character-weight')">NEXT</button>
+        <button ng-click="$ctrl.testRandomQuestion()">NEXT</button>
       </div>
     </div> <!-- end column graphic-->
   </div> <!-- end row -->
 </div> <!-- end container -->
 
-<div>
-<a href="" ng-click="$ctrl.testRandomQuestion()" class="">Random Question</a><br><br>
-<a href="" ng-click="$ctrl.testAnswerOptions()" class="">Answer Options</a><br><br>
-<a href="" ng-click="$ctrl.testCorrectAnswer()" class="">Correct Answer</a><br><br>
-<a href="" ng-click="$ctrl.testImage()" class="">Image</a><br><br>
-<a href="" ng-click="$ctrl.testScore()" class="">Score</a>
-<h3>STUFF BELOW IS FOR TESTING PURPOSES ONLY<h3>
+<div class="testing">
+<h3>AREA BELOW IS FOR TESTING PURPOSES</h3>
+
+<a href="" ng-click="$ctrl.updateScore()" class="">Score</a><br>
 <a href="" ng-click="$ctrl.testQuestion('chronology')" class="">Chronology Question</a><br><br>
 <a href="" ng-click="$ctrl.testQuestion('word-frequency')" class="">Word-frequency Question</a><br><br>
 <a href="" ng-click="$ctrl.testQuestion('character-origin')" class="">Character-origin Question</a><br><br>
 <a href="" ng-click="$ctrl.testQuestion('quote-origin')" class="">Quote-origin Question</a><br><br>
 <a href="" ng-click="$ctrl.testQuestion('character-weight')" class="">Character-weight Question</a><br><br>
-<h2>{{$ctrl.currentQuestion}}</h2>
 </div>
+<div class="options">
+ <ul>
+   <li ng-repeat="option in $ctrl.answerOptions track by $index">
+    <span ng-click="$ctrl.updateAnswer(option.isCorrect)">{{option.label}} {{option.isCorrect}}</span><span ng-hide="false" class="ng-hide x-marker"> X </span>
+   </li>
+
+ </ul>
+<div>

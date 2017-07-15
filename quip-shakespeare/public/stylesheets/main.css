@@ -10352,25 +10352,30 @@ body {
 /* line 26, ../scss/main.scss */
 .page .question {
   font-size: 24px;
+  padding-bottom: 30px;
 }
-/* line 30, ../scss/main.scss */
+/* line 31, ../scss/main.scss */
 .page .graphic img {
   max-width: 100%;
 }
-/* line 38, ../scss/main.scss */
+/* line 39, ../scss/main.scss */
 .page .options ul li {
   font-size: 25px;
 }
-/* line 43, ../scss/main.scss */
+/* line 42, ../scss/main.scss */
+.page .options ul li .x-marker {
+  color: red;
+}
+/* line 48, ../scss/main.scss */
 .page .answer {
   font-size: 25px;
   margin-bottom: 0px;
 }
-/* line 48, ../scss/main.scss */
+/* line 53, ../scss/main.scss */
 .page .answer .feedback {
   text-align: center;
 }
-/* line 52, ../scss/main.scss */
+/* line 57, ../scss/main.scss */
 .page .answer button {
   background-color: #6488d9;
   border: 0;
@@ -10382,21 +10387,26 @@ body {
   width: 100%;
   margin-top: 20px;
 }
-/* line 63, ../scss/main.scss */
+/* line 68, ../scss/main.scss */
 .page .answer button:focus {
   outline: 0;
 }
+/* line 74, ../scss/main.scss */
+.page .testing {
+  padding-top: 50px;
+  margin-top: 50px;
+}
 
 @media only screen and (min-width: 576px) {
-  /* line 73, ../scss/main.scss */
+  /* line 83, ../scss/main.scss */
   .page .question {
     font-size: 35px;
   }
-  /* line 76, ../scss/main.scss */
+  /* line 86, ../scss/main.scss */
   .page .answer {
     overflow: auto;
   }
-  /* line 79, ../scss/main.scss */
+  /* line 89, ../scss/main.scss */
   .page .answer button {
     width: auto;
     float: right;

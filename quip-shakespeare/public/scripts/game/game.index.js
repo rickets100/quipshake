@@ -14,6 +14,8 @@
   function controller (baseUrl, $http){
     const vm = this
     vm.currentQuestion = ''
+    vm.currentState = 'unanswered'
+    vm.exclamation = ''
 
     // ===== INIT =====
     vm.$onInit = function (){
@@ -22,26 +24,6 @@
         console.log('here')
       })
     }
-
-
-    // ===== RANDOM NUMBER GENERATOR =====
-    vm.randomNum = function (limit) {
-      let max = Math.floor(limit)
-      let random = Math.floor(Math.random() * (max - 1 + 1)) + 1
-      return random
-    } // randomNum
-
-
-    // ===== GET A RANDOM PLAY =====
-    vm.getRandomPlay = function () {
-      return playList[randomNum(canon)]
-    } // getRandomPlay
-
-
-    // ===== GET A RANDOM QUESTION TYPE =====
-    vm.getRandomQuestionType = function () {
-      return playList[randomNum(canon)]
-    } // getRandomQuestionType
 
 
     // ===== START GAME =====
@@ -62,8 +44,11 @@
         console.log('RESULT: ', result)
 
         vm.currentQuestion = result.data.question
+        vm.answerOptions = result.data.options
+        vm.isChosen = result.data.isChosen
       }) // http.get
-    }
+    } // function populateQuestion
+
 
     // ===== TEST QUESTION PART =====
     vm.testRandomQuestion = function () {
@@ -92,31 +77,57 @@
     }
 
 
-    // ===== TEST ANSWER-OPTIONS PART =====
-    vm.testAnswerOptions = function () {
-      console.log('***** in the test-answer function *****')
+    // ===== UPDATE IMAGE PART =====
+    vm.updateImage = function () {
+      console.log('***** in the updateImage function *****')
 
     }
 
 
-    // ===== TEST CORRECT-ANSWER-REVEAL PART =====
-    vm.testCorrectAnswer = function () {
-      console.log('***** in the test-correct-answer function *****')
+    // ===== UPDATE ANSWER-OPTIONS PART =====
+    vm.updateAnswerOptions = function (isCorrect) {
+      console.log('***** in the updateAnswerOptions function *****')
 
     }
 
 
-    // ===== TEST IMAGE PART =====
-    vm.testImage = function () {
-      console.log('***** in the test-image function *****')
+    // ===== UPDATE REVEAL PART =====
+    vm.updateReveal = function (isCorrect) {
+      console.log('***** in updateReveal  *****')
+      if (isCorrect === true) {
+        console.log('answer was correct')
+        vm.exclamation = 'SCORE!'
+        vm.elaboration = 'You just earned some points!'
+      } else {
+        console.log('answer was incorrect')
+        vm.exclamation = 'NOPE.'
+        vm.elaboration = 'The correct answer was something else.'
+      }
 
     }
 
 
-    // ===== TEST SCORE PART =====
-    vm.testScore = function () {
-      console.log('***** in the test-score function *****')
+    // ===== UPDATE SCORE PART =====
+    vm.updateScore = function () {
+      console.log('***** in the updateScore function *****')
 
+    }
+
+    // ===== UPDATE ANSWER =====
+    vm.updateAnswer = function (isCorrect) {
+      vm.updateImage()
+      vm.updateAnswerOptions()
+      vm.updateReveal(isCorrect)
+      vm.updateScore()
+      console.log('^^^^^^^ in the updateAnswer function ^^^^^^^^')
+      console.log('is correct = ', isCorrect)
+
+      /*
+      this function needs to:
+      - update the updateImage area, possibly, with a chart if applicable
+      - update this area (answer options) to grey-out the incorrect answers, mark an x if they guessed incorrectly, and make the correct anwer bold
+      - update the score
+      */
     }
 
   } // controller

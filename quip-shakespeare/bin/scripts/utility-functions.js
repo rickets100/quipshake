@@ -7,7 +7,7 @@ const playList = require('../data-sources/playList')
 const createQueryPath = require('./construct-path').createQueryPath
 const getTargetFile = require('./construct-path').getTargetFile
 const parser = new xml2js.Parser()
-const numPlays = playList.length
+const canon = playList.length // 42
 const path = require('path')
 
 
@@ -45,15 +45,13 @@ function randomArray (num, upperLimit, correct) {
 
 // ===== GET A RANDOM PLAY =====
 function getRandomPlay() {
-  let selectedPlay = playList[randomNum(numPlays)]
-  return selectedPlay
+  return playList[randomNum(canon)]
 } // getRandomPlay
 
 
 // ===== GET A RANDOM QUESTION TYPE =====
 function getRandomQuestionType() {
-  let questionType = playList[randomNum(numPlays)]
-  return questionType
+  return playList[randomNum(canon)]
 } // getRandomQuestionType
 
 
