@@ -10,17 +10,76 @@ body{
 
 // below are instructions for changes to make when viewed on large screen
 @include bp-large{
-  body{
+  body {
     background-color: #465C80;
   }
 }
 
 // !!!!!!!!!
+%generic-box {
+  border: 1px solid black;
+  padding: 10px;
+  margin-bottom: 15px;
+}
 .page {
+  max-width: 900px;
+  .question {
+    font-size: 24px;
+  }
   .graphic {
     img {
       max-width: 100%;
-      
+
+    }
+  }
+  .options {
+    @extend %generic-box;
+    ul {
+      li {
+        font-size: 25px;
+      }
+    }
+  }
+  .answer {
+    @extend %generic-box;
+    font-size: 25px;
+    margin-bottom: 0px;
+
+    .feedback {
+      text-align: center;
+    }
+
+    button {
+      background-color: #6488d9 ;
+      border: 0;
+      border-radius: 10px;
+      color: white;
+      font-weight: bold;
+      font-size: 24px;
+      padding: 10px 20px;
+      width: 100%;
+      margin-top: 20px;
+
+      &:focus {
+        outline: 0;
+      }
+    }
+  }
+}
+
+// anything from 'small' on up
+@include bp-small {
+  .page {
+    .question {
+      font-size: 35px;
+    }
+    .answer {
+      overflow: auto;
+
+      button {
+        width: auto;
+        float: right;
+      }
     }
   }
 }

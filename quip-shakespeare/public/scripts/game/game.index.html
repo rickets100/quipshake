@@ -8,11 +8,32 @@
     </div> <!-- end column -->
   </div> <!-- end row -->
   <div class="row">
-    <div class="col-6 graphic hidden-xs-down">
+    <div class="col-12 col-sm-6 graphic hidden-xs-down">
       <img src="/images/shakespeare-cartoon.png"/>
     </div> <!-- end column graphic-->
-    <div class="col-6 options-answers">
-      blob of text
+    <div class="col-12 col-sm-6 options-answers">
+      <div class="options">
+        <ul>
+          <li>
+            Merry Wives of Windsor
+          </li>
+          <li>
+            The Merchant of Venice
+          </li>
+          <li>
+            Othello
+          </li>
+          <li>
+            The Tempest
+          </li>
+        </ul>
+      </div>
+      <div class="answer">
+        <div class="feedback">
+          <strong>SCORE!</strong> You just earned 4 points!
+        </div>
+        <button ng-click="$ctrl.testQuestion('character-weight')">NEXT</button>
+      </div>
     </div> <!-- end column graphic-->
   </div> <!-- end row -->
 </div> <!-- end container -->

@@ -10338,7 +10338,67 @@ body {
     background-color: #465C80;
   }
 }
-/* line 21, ../scss/main.scss */
+/* line 19, ../scss/main.scss */
+.page .options, .page .answer {
+  border: 1px solid black;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+/* line 24, ../scss/main.scss */
+.page {
+  max-width: 900px;
+}
+/* line 26, ../scss/main.scss */
+.page .question {
+  font-size: 24px;
+}
+/* line 30, ../scss/main.scss */
 .page .graphic img {
   max-width: 100%;
+}
+/* line 38, ../scss/main.scss */
+.page .options ul li {
+  font-size: 25px;
+}
+/* line 43, ../scss/main.scss */
+.page .answer {
+  font-size: 25px;
+  margin-bottom: 0px;
+}
+/* line 48, ../scss/main.scss */
+.page .answer .feedback {
+  text-align: center;
+}
+/* line 52, ../scss/main.scss */
+.page .answer button {
+  background-color: #6488d9;
+  border: 0;
+  border-radius: 10px;
+  color: white;
+  font-weight: bold;
+  font-size: 24px;
+  padding: 10px 20px;
+  width: 100%;
+  margin-top: 20px;
+}
+/* line 63, ../scss/main.scss */
+.page .answer button:focus {
+  outline: 0;
+}
+
+@media only screen and (min-width: 576px) {
+  /* line 73, ../scss/main.scss */
+  .page .question {
+    font-size: 35px;
+  }
+  /* line 76, ../scss/main.scss */
+  .page .answer {
+    overflow: auto;
+  }
+  /* line 79, ../scss/main.scss */
+  .page .answer button {
+    width: auto;
+    float: right;
+  }
 }
