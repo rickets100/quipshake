@@ -5,6 +5,8 @@ const fs = require('file-system')
 const path = require('path')
 const dom = require('xmldom').DOMParser
 const util = require('../bin/scripts/utility-functions')
+const canon = 42
+
 
 // @@@@@@ API ROUTES @@@@@@
 
@@ -64,34 +66,34 @@ router.get('/chronology', function(req, res, next) {
 
   // will need to deal with plays with same date - use 'order' to choose, but have a caveat/explanation on reveal that this is based on wikipedia's entry on the subject, and display the yearRange field for the object
 
-  let correctID = 5 // hardcoded for testing for now
+  let correctID = 31 // hardcoded for testing for now Taming of the Shrew
   let numOptions = 3 // hardcoded for testing for now
-  let optionArray = util.randomArray(numOptions, 42, correctID)
-  let blah = gameController.getThreeWrongWorks(optionArray)
-  console.log('three wrong options: ', blah)
-
-  var data = {
-    question: 'Which play was published first?',
-    options:[
-      {
-        label: 'The Taming of the Shrew',
-        isCorrect:true
-      },
-      {
-        label: 'Play 2',
-        isCorrect:false
-      },
-      {
-        label: 'Play 3',
-        isCorrect:false
-      },
-      {
-        label: 'Play 4',
-        isCorrect:false
-      }
-    ]
-  }
-  res.send(data)
+  let optionArray = util.randomArray(numOptions, canon, correctID)
+  gameController.getThreeWrongWorks(optionArray).then(function(wrongOptions) {
+    console.log('WRONG OPTIONS', wrongOptions)
+    let data = {
+      question: 'Which play was published first?',
+      options:[
+        {
+          label: 'The Taming of the Shrew',
+          isCorrect:true
+        },
+        {
+          label: wrongOptions[0].title,
+          isCorrect:false
+        },
+        {
+          label: wrongOptions[1].title,
+          isCorrect:false
+        },
+        {
+          label: wrongOptions[2].title,
+          isCorrect:false
+        }
+      ]
+    } // data
+    res.send(data)
+  })
 })
 
 
@@ -135,29 +137,34 @@ router.get('/character-origin', function(req, res, next) {
   /**
   This should return the data required (json) to serve a character-origin question
   **/
-
-  let data = {
-    question: 'Name the play from whence the character of {your name here} comes:',
-    options:[
-      {
-        label: 'The Taming of the Shrew',
-        isCorrect:true
-      },
-      {
-        label: 'Play 2',
-        isCorrect:false
-      },
-      {
-        label: 'Play 3',
-        isCorrect:false
-      },
-      {
-        label: 'Play 4',
-        isCorrect:false
-      }
-    ]
-  }
-  res.send(data)
+  let correctID = 31 // hardcoded for testing for now Taming of the Shrew
+  let numOptions = 3 // hardcoded for testing for now
+  let optionArray = util.randomArray(numOptions, canon, correctID)
+  gameController.getThreeWrongWorks(optionArray).then(function(wrongOptions) {
+    console.log('WRONG OPTIONS', wrongOptions)
+    let data = {
+      question: 'Name the play from whence the character of {name} comes.',
+      options:[
+        {
+          label: 'The Taming of the Shrew',
+          isCorrect:true
+        },
+        {
+          label: wrongOptions[0].title,
+          isCorrect:false
+        },
+        {
+          label: wrongOptions[1].title,
+          isCorrect:false
+        },
+        {
+          label: wrongOptions[2].title,
+          isCorrect:false
+        }
+      ]
+    } // data
+    res.send(data)
+  })
 })
 
 // ===== QUOTE-ORIGIN =====

@@ -18,12 +18,9 @@ class Game {
     return db(works).select('*').where('idno', idno).first()
   }
 
-  static getThreeWorks(works, idArray) {
-    console.log('GAME-MODEL: in getThreeWorksNotId')
+  static getNWorks(works, idArray) {
+    console.log('GAME-MODEL: in getNWorksNotId', idArray)
     return db(works).select('*').whereIn('id', idArray)
-
-    //   knex.select('name').from('users')
-    // .whereIn('id', [1, 2, 3])
   }
 
 }

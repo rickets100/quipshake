@@ -9,6 +9,7 @@ const app = express()
 const parser = new xml2js.Parser()
 const playList = require('../bin/data-sources/playList')
 const questionTypes = 15
+const canon = 42
 const game = require('./game-model').Game
 const type = require('./game-model').Type
 const random = require('../bin/scripts/utility-functions').randomNum
@@ -31,7 +32,7 @@ function getWorkByRowId (id) {
 
 // ===== GET A RANDOM WORK =====
 function getOneWork () {
-  let randomWorkId = random(42)
+  let randomWorkId = random(canon)
   return getWorkByRowId(randomWorkId)
 } // getOneWork
 
@@ -134,8 +135,13 @@ function getSpeech (doc) {
 
 // ===== GET THREE WRONG WORKS ===
 function getThreeWrongWorks(idArray) {
-  console.log('get three wrong works ', idArray)
-  return game.getThreeWorks('works', idArray)
+  return game.getNWorks('works', idArray)
+}
+
+
+// ===== GET FOUR WORKS ===
+function getFourWorks(idArray) {
+  return game.getNWorks('works', idArray)
 }
 
 
@@ -150,7 +156,8 @@ module.exports = {
   getSpeechByIndex,
   getRandomSpeech,
   getSpeech,
-  getThreeWrongWorks
+  getThreeWrongWorks,
+  getFourWorks
 }
 
 // var result = formulateQuestion(function(question) {

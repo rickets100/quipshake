@@ -7,7 +7,7 @@
     templateUrl: './scripts/game/game.index.html'
   })
 
-  const numPlays = 42
+  const canon = 42
   const questionTypes = 15
 
   controller.$inject = ['API_BASE_URL', '$http']
@@ -34,13 +34,13 @@
 
     // ===== GET A RANDOM PLAY =====
     vm.getRandomPlay = function () {
-      return playList[randomNum(numPlays)]
+      return playList[randomNum(canon)]
     } // getRandomPlay
 
 
     // ===== GET A RANDOM QUESTION TYPE =====
     vm.getRandomQuestionType = function () {
-      return playList[randomNum(numPlays)]
+      return playList[randomNum(canon)]
     } // getRandomQuestionType
 
 
@@ -66,12 +66,25 @@
     }
 
     // ===== TEST QUESTION PART =====
-    vm.testQuestion = function () {
+    vm.testRandomQuestion = function () {
       $http.get(`${baseUrl}/api/formulate-question`)
       .then((result)=>{
         let questionConstraints = {
           work: result.data.word,
           type: result.data.type.question_type,
+          num_options: result.data.type.num_options
+        }
+        populateQuestion(questionConstraints)
+      })
+    }
+
+    // ===== TEST QUESTION PART | this is for testing only =====
+    vm.testQuestion = function (qtype) {
+      $http.get(`${baseUrl}/api/formulate-question`)
+      .then((result)=>{
+        let questionConstraints = {
+          work: result.data.word,
+          type: qtype,
           num_options: result.data.type.num_options
         }
         populateQuestion(questionConstraints)
