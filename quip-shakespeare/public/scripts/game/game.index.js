@@ -16,12 +16,15 @@
     vm.currentQuestion = ''
     vm.currentState = 'unanswered'
     vm.exclamation = ''
+    vm.graphic = "/images/shakespeare-cartoon.png"
+    vm.score = 0
 
     // ===== INIT =====
     vm.$onInit = function (){
       $http.get(`${baseUrl}/api/game`)
       .then((result)=>{
-        console.log('here')
+        console.log('INIT')
+        vm.currentQuestion = 'How well do you know your Shakespeare?'
       })
     }
 
@@ -78,9 +81,12 @@
 
 
     // ===== UPDATE IMAGE PART =====
-    vm.updateImage = function () {
+    vm.updateImage = function (isCorrect) {
       console.log('***** in the updateImage function *****')
-
+      if (isCorrect === true) {
+        console.log('got to true');
+        vm.graphic = "/images/shakespeare-bw.png"
+      }
     }
 
 
@@ -108,17 +114,19 @@
 
 
     // ===== UPDATE SCORE PART =====
-    vm.updateScore = function () {
+    vm.updateScore = function (isCorrect) {
       console.log('***** in the updateScore function *****')
-
+      if (isCorrect === true) {
+        vm.score = vm.score + 2
     }
+  } // updateScore
 
     // ===== UPDATE ANSWER =====
     vm.updateAnswer = function (isCorrect) {
-      vm.updateImage()
-      vm.updateAnswerOptions()
+      vm.updateImage(isCorrect)
+      vm.updateAnswerOptions(isCorrect)
       vm.updateReveal(isCorrect)
-      vm.updateScore()
+      vm.updateScore(isCorrect)
       console.log('^^^^^^^ in the updateAnswer function ^^^^^^^^')
       console.log('is correct = ', isCorrect)
 
