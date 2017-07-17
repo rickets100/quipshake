@@ -72,9 +72,6 @@ router.get('/chronology', function(req, res, next) {
     })
     let inOrder = orderNums.sort(function(a,b) { return a - b })
     let first = inOrder[0]
-
-    console.log('in order:', inOrder);
-    console.log('first', first);
     let data = {
       question: 'Which play was published first?',
       questionType: 'chronology',
@@ -162,13 +159,11 @@ router.get('/character-origin', function(req, res, next) {
   **/
   // let correctID = 31 // hardcoded for testing for now Taming of the Shrew
 
-
   let sample = 'CHARACTER NAME'
 
   gameController.getOneWork().then(function(correctOption) {
     let correctID = correctOption.id
     // need to insert code here to take correctOptionID and get a random character from it
-
 
     // need logic here to take into account that a character might appear in multiple plays, so can't have any of the "wrong" options actually be another play that they are, in fact, in
     let optionArray = util.randomArray(numOptions, canon, correctID)

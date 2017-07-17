@@ -3,4 +3,7 @@ exports.seed = function (knex) {
  .then(() => {
    return knex('question_types').del()
  })
+ .then(() => {
+   return knex('people_1h4').del()
+ })
 }
