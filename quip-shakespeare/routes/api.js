@@ -12,8 +12,8 @@ const canon = 42
 
 // ===== FORMULATE QUESTION ✅ =====
 router.get ('/', function(req, res, next) {
-  console.log('(SERVER)/api/formulate-question')
-  var result = gameController.formulateQuestion(function (question) {
+  console.log('(SERVER)/api/')
+  var result = gameController.formulateQuestion(function(question) {
     var data = [
       {
         name:'Formulate Question',
@@ -59,59 +59,59 @@ router.get('/formulate-question', function(req, res, next) {
 // ===== CHRONOLOGY ✅ =====
 // /api/chronology
 router.get('/chronology', function(req, res, next) {
-  // console.log('(SERVER)/api/chronology')
   // will need to deal with plays with same date - use 'order' to choose, but have a caveat/explanation on reveal that this is based on wikipedia's entry on the subject, and display the yearRange field for the object
 
   let correctID = 0 // this type of question does not need to exclude any plays
   let numOptions = 4
   let optionArray = util.randomArray(numOptions, canon, correctID)
 
-  gameController.getFourWorks(optionArray).then(function(options) {
-    let orderNums = options.map(function(play) {
-    return play.order
+  gameController.getFourWorks(optionArray)
+    .then(function(options) {
+      let orderNums = options.map(function(play) {
+      return play.order
+      })
+      let inOrder = orderNums.sort(function(a,b) { return a - b })
+      let first = inOrder[0]
+      let data = {
+        question: 'Which play was published first?',
+        questionType: 'chronology',
+        options:[
+          {
+            label: options[0].title,
+            yearFirst: options[0].yearFirst,
+            yearText: options[0].yearText,
+            order:  options[0].order,
+            isCorrect: (options[0].order === first),
+            isChosen: false
+          },
+          {
+            label: options[1].title,
+            yearFirst: options[1].yearFirst,
+            yearText: options[1].yearText,
+            order:  options[1].order,
+            isCorrect: (options[1].order === first),
+            isChosen: false
+          },
+          {
+            label: options[2].title,
+            yearFirst: options[2].yearFirst,
+            yearText: options[2].yearText,
+            order:  options[2].order,
+            isCorrect: (options[2].order === first),
+            isChosen: false
+          },
+          {
+            label: options[3].title,
+            yearFirst: options[3].yearFirst,
+            yearText: options[3].yearText,
+            order:  options[3].order,
+            isCorrect: (options[3].order === first),
+            isChosen: false
+          }
+        ]
+      } // data
+      res.send(data)
     })
-    let inOrder = orderNums.sort(function(a,b) { return a - b })
-    let first = inOrder[0]
-    let data = {
-      question: 'Which play was published first?',
-      questionType: 'chronology',
-      options:[
-        {
-          label: options[0].title,
-          yearFirst: options[0].yearFirst,
-          yearText: options[0].yearText,
-          order:  options[0].order,
-          isCorrect: (options[0].order === first),
-          isChosen: false
-        },
-        {
-          label: options[1].title,
-          yearFirst: options[1].yearFirst,
-          yearText: options[1].yearText,
-          order:  options[1].order,
-          isCorrect: (options[1].order === first),
-          isChosen: false
-        },
-        {
-          label: options[2].title,
-          yearFirst: options[2].yearFirst,
-          yearText: options[2].yearText,
-          order:  options[2].order,
-          isCorrect: (options[2].order === first),
-          isChosen: false
-        },
-        {
-          label: options[3].title,
-          yearFirst: options[3].yearFirst,
-          yearText: options[3].yearText,
-          order:  options[3].order,
-          isCorrect: (options[3].order === first),
-          isChosen: false
-        }
-      ]
-    } // data
-    res.send(data)
-  })
 })
 
 
@@ -177,18 +177,12 @@ router.get('/character-weight', function(req, res, next) {
 // ===== CHARACTER-ORIGIN =====
 router.get('/character-origin', function(req, res, next) {
   console.log('(SERVER)/api/character-origin')
-
-  /**
-  This should return the data required (json) to serve a character-origin question
-  **/
-  // let correctID = 31 // hardcoded for testing for now Taming of the Shrew
-
   let sample = 'CHARACTER NAME'
 
   gameController.getOneWork().then(function(correctOption) {
     let correctID = correctOption.id
     let correctTitle = correctOption.title
-    console.log('correct is: ', correctTitle);
+    console.log('correctOption is: ', correctOption);
     // need to insert code here to take correctOptionID and get a random character from it
 
     // need logic here to take into account that a character might appear in multiple plays, so can't have any of the "wrong" options actually be another play that they are, in fact, in
@@ -201,8 +195,9 @@ router.get('/character-origin', function(req, res, next) {
       console.log('shuffled', shuffled)
 
       let data = {
-        question: `In which play does the character of ${sample} appear?`,
+        question: `In which play does the character of ${correctOption} appear?`,
         questionType: 'character-origin',
+        correcTitle: correctTitle,
         options:[
           {
             label: shuffled[0].title,
@@ -232,9 +227,6 @@ router.get('/character-origin', function(req, res, next) {
 router.get('/quote-origin', function(req, res, next) {
   console.log('(SERVER)/api/quote-origin')
   console.log(req.body)
-  /**
-  This should return the data required (json) to serve a quote-origin question
-  **/
 // will need to limit the size of the text (at least a certain length, but maybe truncated if too long)
 
   var playIdno = 'Ado' //TODO: this should come from request
@@ -277,10 +269,6 @@ router.get('/quote-origin', function(req, res, next) {
 // ===== WORD FREQUENCY =====
 router.get ('/word-frequency', function(req, res, next) {
   console.log('(SERVER)/api/word-frequency')
-  /**
-  This should return the data required (json) to serve a word-frequency question
-  **/
-
   // need a query to the 'most common words' table/object to know which results to reject and retry
 
   // knex has a 'not in' option (for common words list) and get give the results in random order
