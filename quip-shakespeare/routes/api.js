@@ -128,41 +128,46 @@ router.get('/character-weight', function(req, res, next) {
       let id = 15 // hardcoded for now
       let tableName = 'people_ham' // hardcoded for now
       let num = 4 // hardcoded for now
+      let title = 'Hamlet' // should be able to get a title from work once the tables are all made
 
       gameController.getCountOfCharacters(tableName).then(function(countObj){
         let count = countObj.count
         let optionArray = util.randomArray(num, count, 0)
         gameController.getRandomCharacters(tableName, optionArray)
           .then(function(charArray) {
-            console.log('characters are ', charArray)
+            let first = charArray[0].lines
+            let shuffled = util.shuffle(charArray)
+
+            let data = {
+              question: `Of the following, which character from ${title} has the most lines?`,
+              questionType: 'character-weight',
+              options: [
+                {
+                  label: shuffled[0].character,
+                  lines: shuffled[0].lines,
+                  isCorrect: (shuffled[0].lines === first)
+                },
+                {
+                  label: shuffled[1].character,
+                  lines: shuffled[1].lines,
+                  isCorrect: (shuffled[1].lines === first)
+                },
+                {
+                  label: shuffled[2].character,
+                  lines: shuffled[2].lines,
+                  isCorrect: (shuffled[2].lines === first)
+                },
+                {
+                  label: shuffled[3].character,
+                  lines: shuffled[3].lines,
+                  isCorrect: (shuffled[3].lines === first)
+                }
+              ]
+            } // data
+            res.send(data)
           })
         })
-      })
-
-  let data = {
-    question: 'Of the following, which character from The Merry Wives of Windsor has the most lines?',
-    questionType: 'character-weight',
-    options:[
-      {
-        label:'Slender',
-        isCorrect:true
-      },
-      {
-        label:'Master Page',
-        isCorrect:false
-      },
-      {
-        label:'Bardolph',
-        isCorrect:false
-      },
-      {
-        label:'Shallow',
-        isCorrect:false
-      }
-    ]
-  } // data
-  res.send(data)
-
+      }) // getOneWork .then
 }) // function router.get
 
 
