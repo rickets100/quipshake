@@ -24,6 +24,7 @@
     "pg": "^6.4.0",
     "serve-favicon": "~2.4.2",
     "utils-fs-read-file": "^1.0.0",
+    "xpath": "0.0.24",
     "xmldom": "^0.1.27"
   },
   "devDependencies": {
