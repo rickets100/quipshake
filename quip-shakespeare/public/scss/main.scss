@@ -9,7 +9,7 @@ $recurring-grey: rgba(202, 196, 206, 0.8);
 $recurring-green: rgba(225, 239, 238, 0.7);
 $recurring-white: rgba(240, 240, 243, 0.8);
 $recurring-charcoal: rgba(20,20,20,.75);
-$testing-red: rgba(193,51,8,.9);
+$testing-red: rgba(194,51,8,.9);
 
 
 // below is default stuff for small screen
@@ -120,3 +120,7 @@ body {
     }
   }
 } // @include
+
+.selected-class-name {
+  color: red;
+}

@@ -14,10 +14,13 @@
   function controller (baseUrl, $http){
     const vm = this
     vm.currentQuestion = ''
+    vm.answerOptions = []
+    vm.isChosen = false
     vm.answered = false
     vm.exclamation = ''
     vm.graphic = "/images/shakespeare-cartoon.png"
     vm.score = 0
+    vm.selectedIndex = 0
 
     // ===== INIT =====
     vm.$onInit = function (){
@@ -28,6 +31,10 @@
       })
     }
 
+    vm.itemClicked = function ($index) {
+        console.log('heeeeere', $index)
+        vm.selectedIndex = $index
+    }
 
     // ===== START GAME =====
     vm.startGame = function () {
@@ -38,7 +45,6 @@
     // ===== POPULATE A GIVEN QUESTION =====
     function populateQuestion(questionConstraints) {
       // questionConstraints will be the object formulated by formulateQuestion
-      // need to now generate a correct answer + as many additional options as is specified by the question type
       // if quote origin, need to get the quote
       let endpoint = (questionConstraints.type).split(' ').join('-')
       console.log('hitting ', (`${baseUrl}/api/${endpoint}`));
@@ -51,6 +57,13 @@
         vm.isChosen = result.data.isChosen
       }) // http.get
     } // function populateQuestion
+
+
+    // ===== UPDATE GAME STATE =====
+    vm.updateGameState = function () {
+      console.log('in the update game-state function');
+      vm.testRandomQuestion()
+    }
 
 
     // ===== TEST QUESTION PART =====
@@ -122,10 +135,9 @@
   } // updateScore
 
     // ===== UPDATE ANSWER =====
-    vm.updateAnswer = function (isCorrect) {
+    vm.updateAnswer = function (isCorrect, label, isChosen) {
       vm.answered = true
       vm.updateImage(isCorrect)
-      vm.updateAnswerOptions(isCorrect)
       vm.updateReveal(isCorrect)
       vm.updateScore(isCorrect)
       console.log('^^^^^^^ in the updateAnswer function ^^^^^^^^')

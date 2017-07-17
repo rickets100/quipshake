@@ -10378,7 +10378,7 @@ body {
 }
 /* line 67, ../scss/main.scss */
 .page .options ul li span .x-marker {
-  color: rgba(193, 51, 8, 0.9);
+  color: rgba(194, 51, 8, 0.9);
 }
 /* line 75, ../scss/main.scss */
 .page .answer {
@@ -10425,4 +10425,8 @@ body {
     width: auto;
     float: right;
   }
+}
+/* line 124, ../scss/main.scss */
+.selected-class-name {
+  color: red;
 }
