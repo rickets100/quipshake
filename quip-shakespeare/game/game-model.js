@@ -23,6 +23,10 @@ class Game {
     return db(works).select('*').whereIn('id', idArray)
   }
 
+  static getCharacterByRowId(randomCharId) {
+    console.log('GAME-MODEL: in getCharacterByRowId', randomCharId)
+    // need to query here
+  }
 }
 
 class Type {

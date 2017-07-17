@@ -8,9 +8,9 @@ const util = require('../bin/scripts/utility-functions')
 const canon = 42
 
 
-// @@@@@@ API ROUTES @@@@@@
+// @@@@@@@@@@@@ API ROUTES @@@@@@@@@@@@
 
-// ===== FORMULATE QUESTION =====
+// ===== FORMULATE QUESTION ✅ =====
 router.get ('/', function(req, res, next) {
   console.log('(SERVER)/api/formulate-question')
   var result = gameController.formulateQuestion(function (question) {
@@ -56,45 +56,59 @@ router.get('/formulate-question', function(req, res, next) {
 })
 
 
-// ===== CHRONOLOGY =====
+// ===== CHRONOLOGY ✅ =====
 // /api/chronology
 router.get('/chronology', function(req, res, next) {
-  console.log('(SERVER)/api/chronology')
-  /**
-  This should return the data required (json) to serve a chronology question
-  **/
-
+  // console.log('(SERVER)/api/chronology')
   // will need to deal with plays with same date - use 'order' to choose, but have a caveat/explanation on reveal that this is based on wikipedia's entry on the subject, and display the yearRange field for the object
 
   let correctID = 31 // hardcoded for testing for now Taming of the Shrew
   let numOptions = 4 // hardcoded for testing for now
   let optionArray = util.randomArray(numOptions, canon, correctID)
+
   gameController.getFourWorks(optionArray).then(function(options) {
-    console.log('OPTIONS', options)
-    let inOrder = options.map(function(play) {
-      return play.order
-    }).sort()
+    let orderNums = options.map(function(play) {
+    return play.order
+    })
+    let inOrder = orderNums.sort(function(a,b) { return a - b })
+    let first = inOrder[0]
+
+    console.log('in order:', inOrder);
+    console.log('first', first);
     let data = {
       question: 'Which play was published first?',
+      questionType: 'chronology',
       options:[
         {
           label: options[0].title,
-          isCorrect: (options[0].order === inOrder[0]),
+          yearFirst: options[0].yearFirst,
+          yearText: options[0].yearText,
+          order:  options[0].order,
+          isCorrect: (options[0].order === first),
           isChosen: false
         },
         {
           label: options[1].title,
-          isCorrect: (options[1].order === inOrder[0]),
+          yearFirst: options[1].yearFirst,
+          yearText: options[1].yearText,
+          order:  options[1].order,
+          isCorrect: (options[1].order === first),
           isChosen: false
         },
         {
           label: options[2].title,
-          isCorrect: (options[2].order === inOrder[0]),
+          yearFirst: options[2].yearFirst,
+          yearText: options[2].yearText,
+          order:  options[2].order,
+          isCorrect: (options[2].order === first),
           isChosen: false
         },
         {
           label: options[3].title,
-          isCorrect: (options[3].order === inOrder[0]),
+          yearFirst: options[3].yearFirst,
+          yearText: options[3].yearText,
+          order:  options[3].order,
+          isCorrect: (options[3].order === first),
           isChosen: false
         }
       ]
@@ -107,6 +121,7 @@ router.get('/chronology', function(req, res, next) {
 // ===== CHARACTER-WEIGHT =====
 router.get('/character-weight', function(req, res, next) {
   console.log('(SERVER)/api/character-weight')
+  console.log('TYPE OF QUESTION ', req.body);
   /**
   This should return the data required (json) to serve a character-weight question
   **/
@@ -114,6 +129,7 @@ router.get('/character-weight', function(req, res, next) {
 
   let data = {
     question: 'Of the following, which character from The Merry Wives of Windsor has the most lines?',
+    questionType: 'character-weight',
     options:[
       {
         label:'Slender',
@@ -144,35 +160,49 @@ router.get('/character-origin', function(req, res, next) {
   /**
   This should return the data required (json) to serve a character-origin question
   **/
-  let correctID = 31 // hardcoded for testing for now Taming of the Shrew
-  let numOptions = 3 // hardcoded for testing for now
-  let optionArray = util.randomArray(numOptions, canon, correctID)
-  gameController.getThreeWrongWorks(optionArray).then(function(wrongOptions) {
-    console.log('WRONG OPTIONS', wrongOptions)
-    let data = {
-      question: 'Name the play from whence the character of {name} comes.',
-      options:[
-        {
-          label: 'The Taming of the Shrew',
-          isCorrect:true
-        },
-        {
-          label: wrongOptions[0].title,
-          isCorrect:false
-        },
-        {
-          label: wrongOptions[1].title,
-          isCorrect:false
-        },
-        {
-          label: wrongOptions[2].title,
-          isCorrect:false
-        }
-      ]
-    } // data
-    res.send(data)
+  // let correctID = 31 // hardcoded for testing for now Taming of the Shrew
+
+
+  let sample = 'CHARACTER NAME'
+
+  gameController.getOneWork().then(function(correctOption) {
+    let correctID = correctOption.id
+    // need to insert code here to take correctOptionID and get a random character from it
+
+
+    // need logic here to take into account that a character might appear in multiple plays, so can't have any of the "wrong" options actually be another play that they are, in fact, in
+    let optionArray = util.randomArray(numOptions, canon, correctID)
+    let numOptions = 3 // hardcoded for testing for now
+
+    gameController.getThreeWrongWorks(optionArray).then(function(wrongOptions) {
+      console.log('WRONG OPTIONS', wrongOptions)
+      let data = {
+        question: `In which play does the character of ${sample} appear?`,
+        questionType: 'character-origin',
+        options:[
+          {
+            label: correctOption.title,
+            isCorrect: true
+          },
+          {
+            label: wrongOptions[0].title,
+            isCorrect: false
+          },
+          {
+            label: wrongOptions[1].title,
+            isCorrect: false
+          },
+          {
+            label: wrongOptions[2].title,
+            isCorrect: false
+          }
+        ]
+      } // data
+      res.send(data)
+    }) // .then of getThreeWrongWorks
   })
-})
+
+}) // router.get
 
 // ===== QUOTE-ORIGIN =====
 router.get('/quote-origin', function(req, res, next) {
@@ -193,6 +223,7 @@ router.get('/quote-origin', function(req, res, next) {
     let data = {
       test: selectedWork,
       question: 'From which play does the following quote derive?',
+      questionType: 'quote-origin',
       elaboration: gameController.getSpeech(doc),
       options:[
         {
@@ -231,9 +262,10 @@ router.get ('/word-frequency', function(req, res, next) {
   // knex has a 'not in' option (for common words list) and get give the results in random order
 
   // It is possible in a single SQL statment to say 'give me 4 random rows that are from play X and do not contain the words in this list'
-
-  var data = {
-    question: 'Which of the following occurs more frequently in {play name}?',
+  let example = 'SAMPLE TITLE'
+  let data = {
+    question: `Which of the following occurs more frequently in ${example}?`,
+    questionType: 'word-frequency',
     options: [
       {
         label: 'generous',

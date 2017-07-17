@@ -37,6 +37,16 @@ function getOneWork () {
 } // getOneWork
 
 
+// ===== GET A RANDOM CHARACTER FROM A GIVEN WORK =====
+function getOneCharacter(workIdno) {
+  let numCharsInWork = 5 // hardcoded for now for testing
+  let randomCharId = random(numCharsInWork)
+
+  // need logic here to take into account that a character might appear in multiple plays, so can't have any of the "wrong" options actually be another play that they are, in fact, in
+  return getCharacterByRowId(randomCharId)
+} // getOneWork
+
+
 // ===== GET A RANDOM QUESTION TYPE =====
 function getQuestionType () {
   let randomTypeId = random(questionTypes)
@@ -102,6 +112,11 @@ function getSpeechCount (doc) {
 // ===== GET SPEECH BY INDEX =====
 function getSpeechByIndex (doc, index) {
   let speechNodes = '/TEI/text/body/div1/div2/sp/ab[' + (index+1) + ']//text()'
+  let masterNode = '/TEI/text/body/div1/div2/sp/ab[' + (index+1)
+  let speaker = masterNode.parentNode
+  console.log('parent node is ', speaker)
+    // to get the speaker, go up one node to sp, get the "who=" value, chop off the pound sign and everything from the underscore on
+
   let speeches = xpath.evaluate(
     speechNodes,                 // xpathExpression
     doc,                        // contextNode

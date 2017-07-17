@@ -2,22 +2,34 @@
 @import 'vendor/bootstrap/bootstrap';
 @import 'mixins';
 
+// variables
+$recurring-black: rgba(36, 32, 56, 1);
+$recurring-blue: rgba(88, 132, 149, 0.8);
+$recurring-grey: rgba(202, 196, 206, 0.8);
+$recurring-green: rgba(225, 239, 238, 0.7);
+$recurring-white: rgba(240, 240, 243, 0.8);
+$recurring-charcoal: rgba(20,20,20,.75);
+$testing-red: rgba(193,51,8,.9);
+
+
 // below is default stuff for small screen
 // breakpoints are the same as bootstrap's
-body{
-  background-color: #cccccc;
+body {
+  background-color: $recurring-grey;
+  color: $recurring-black;
 }
 
 // below are instructions for changes to make when viewed on large screen
-@include bp-large{
+@include bp-large {
   body {
-    background-color: #465C80;
+    background-color: $recurring-green;
+    color: $recurring-black
   }
 }
 
 // !!!!!!!!!
 %generic-box {
-  border: 1px solid black;
+  border: 1px solid $recurring-charcoal;
   padding: 10px;
   margin-bottom: 15px;
 }
@@ -26,7 +38,7 @@ body{
 
   .question {
     font-size: 24px;
-    padding-bottom: 30px;
+    min-height: 150px;
     a {
       color: white;
     }
@@ -43,12 +55,23 @@ body{
       li {
         font-size: 25px;
 
-        .x-marker {
-          color: red;
+        .answered {
+          color: orange;
         }
-      }
-    }
-  }
+
+        .unanswered {
+          color: $recurring-charcoal;
+        }
+        span {
+
+          .x-marker {
+            color: $testing-red;
+          }
+        } // span
+      } // li
+    } // ul
+  } // options
+
   .answer {
     @extend %generic-box;
     font-size: 25px;

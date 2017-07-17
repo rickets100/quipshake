@@ -14,7 +14,7 @@
   function controller (baseUrl, $http){
     const vm = this
     vm.currentQuestion = ''
-    vm.currentState = 'unanswered'
+    vm.answered = false
     vm.exclamation = ''
     vm.graphic = "/images/shakespeare-cartoon.png"
     vm.score = 0
@@ -123,6 +123,7 @@
 
     // ===== UPDATE ANSWER =====
     vm.updateAnswer = function (isCorrect) {
+      vm.answered = true
       vm.updateImage(isCorrect)
       vm.updateAnswerOptions(isCorrect)
       vm.updateReveal(isCorrect)

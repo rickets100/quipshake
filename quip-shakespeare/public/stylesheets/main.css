@@ -10327,59 +10327,69 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
-/* line 7, ../scss/main.scss */
+/* line 17, ../scss/main.scss */
 body {
-  background-color: #cccccc;
+  background-color: rgba(202, 196, 206, 0.8);
+  color: #242038;
 }
 
 @media only screen and (min-width: 992px) {
-  /* line 13, ../scss/main.scss */
+  /* line 24, ../scss/main.scss */
   body {
-    background-color: #465C80;
+    background-color: rgba(225, 239, 238, 0.7);
+    color: #242038;
   }
 }
-/* line 19, ../scss/main.scss */
+/* line 31, ../scss/main.scss */
 .page .options, .page .answer {
-  border: 1px solid black;
+  border: 1px solid rgba(20, 20, 20, 0.75);
   padding: 10px;
   margin-bottom: 15px;
 }
 
-/* line 24, ../scss/main.scss */
+/* line 36, ../scss/main.scss */
 .page {
   max-width: 900px;
 }
-/* line 27, ../scss/main.scss */
+/* line 39, ../scss/main.scss */
 .page .question {
   font-size: 24px;
-  padding-bottom: 30px;
+  min-height: 150px;
 }
-/* line 30, ../scss/main.scss */
+/* line 42, ../scss/main.scss */
 .page .question a {
   color: white;
 }
-/* line 35, ../scss/main.scss */
+/* line 47, ../scss/main.scss */
 .page .graphic img {
   max-width: 100%;
 }
-/* line 43, ../scss/main.scss */
+/* line 55, ../scss/main.scss */
 .page .options ul li {
   font-size: 25px;
 }
-/* line 46, ../scss/main.scss */
-.page .options ul li .x-marker {
-  color: red;
+/* line 58, ../scss/main.scss */
+.page .options ul li .answered {
+  color: orange;
 }
-/* line 52, ../scss/main.scss */
+/* line 62, ../scss/main.scss */
+.page .options ul li .unanswered {
+  color: rgba(20, 20, 20, 0.75);
+}
+/* line 67, ../scss/main.scss */
+.page .options ul li span .x-marker {
+  color: rgba(193, 51, 8, 0.9);
+}
+/* line 75, ../scss/main.scss */
 .page .answer {
   font-size: 25px;
   margin-bottom: 0px;
 }
-/* line 57, ../scss/main.scss */
+/* line 80, ../scss/main.scss */
 .page .answer .feedback {
   text-align: center;
 }
-/* line 61, ../scss/main.scss */
+/* line 84, ../scss/main.scss */
 .page .answer button {
   background-color: #6488d9;
   border: 0;
@@ -10391,26 +10401,26 @@ body {
   width: 100%;
   margin-top: 20px;
 }
-/* line 72, ../scss/main.scss */
+/* line 95, ../scss/main.scss */
 .page .answer button:focus {
   outline: 0;
 }
-/* line 78, ../scss/main.scss */
+/* line 101, ../scss/main.scss */
 .page .testing {
   padding-top: 50px;
   margin-top: 50px;
 }
 
 @media only screen and (min-width: 576px) {
-  /* line 87, ../scss/main.scss */
+  /* line 110, ../scss/main.scss */
   .page .question {
     font-size: 35px;
   }
-  /* line 90, ../scss/main.scss */
+  /* line 113, ../scss/main.scss */
   .page .answer {
     overflow: auto;
   }
-  /* line 93, ../scss/main.scss */
+  /* line 116, ../scss/main.scss */
   .page .answer button {
     width: auto;
     float: right;
