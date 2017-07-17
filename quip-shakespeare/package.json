@@ -1,7 +1,10 @@
 {
   "name": "quip-shakespeare",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
+  "engines": {
+    "node": "7.10.0"
+  },
   "scripts": {
     "knex": "knex",
     "dev": "nodemon -e js,ejs ./bin/www",
