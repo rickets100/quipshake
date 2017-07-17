@@ -10330,66 +10330,85 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 /* line 17, ../scss/main.scss */
 body {
   background-color: rgba(202, 196, 206, 0.8);
-  color: #242038;
 }
 
 @media only screen and (min-width: 992px) {
-  /* line 24, ../scss/main.scss */
+  /* line 23, ../scss/main.scss */
   body {
     background-color: rgba(225, 239, 238, 0.7);
     color: #242038;
   }
 }
-/* line 31, ../scss/main.scss */
+/* line 28, ../scss/main.scss */
+.bird {
+  color: white;
+  background-color: red;
+  padding: 20px;
+  font-family: Verdana;
+}
+
+/* line 35, ../scss/main.scss */
+.sky {
+  color: white;
+  background-color: lightblue;
+  padding: 20px;
+  font-family: "Courier New";
+}
+
+/* line 43, ../scss/main.scss */
 .page .options, .page .answer {
   border: 1px solid rgba(20, 20, 20, 0.75);
   padding: 10px;
   margin-bottom: 15px;
 }
 
-/* line 36, ../scss/main.scss */
+/* line 48, ../scss/main.scss */
 .page {
   max-width: 900px;
 }
-/* line 39, ../scss/main.scss */
+/* line 50, ../scss/main.scss */
 .page .question {
   font-size: 24px;
   min-height: 150px;
 }
-/* line 42, ../scss/main.scss */
+/* line 53, ../scss/main.scss */
 .page .question a {
   color: white;
 }
-/* line 47, ../scss/main.scss */
+/* line 58, ../scss/main.scss */
 .page .graphic img {
   max-width: 100%;
 }
-/* line 55, ../scss/main.scss */
+/* line 66, ../scss/main.scss */
 .page .options ul li {
   font-size: 25px;
 }
-/* line 58, ../scss/main.scss */
+/* line 69, ../scss/main.scss */
 .page .options ul li .answered {
   color: orange;
 }
-/* line 62, ../scss/main.scss */
+/* line 73, ../scss/main.scss */
 .page .options ul li .unanswered {
   color: rgba(20, 20, 20, 0.75);
 }
-/* line 67, ../scss/main.scss */
+/* line 77, ../scss/main.scss */
+.page .options ul li .selected-class-name {
+  color: red !important;
+}
+/* line 82, ../scss/main.scss */
 .page .options ul li span .x-marker {
   color: rgba(194, 51, 8, 0.9);
 }
-/* line 75, ../scss/main.scss */
+/* line 92, ../scss/main.scss */
 .page .answer {
   font-size: 25px;
   margin-bottom: 0px;
 }
-/* line 80, ../scss/main.scss */
+/* line 97, ../scss/main.scss */
 .page .answer .feedback {
   text-align: center;
 }
-/* line 84, ../scss/main.scss */
+/* line 101, ../scss/main.scss */
 .page .answer button {
   background-color: #6488d9;
   border: 0;
@@ -10401,32 +10420,28 @@ body {
   width: 100%;
   margin-top: 20px;
 }
-/* line 95, ../scss/main.scss */
+/* line 112, ../scss/main.scss */
 .page .answer button:focus {
   outline: 0;
 }
-/* line 101, ../scss/main.scss */
+/* line 118, ../scss/main.scss */
 .page .testing {
   padding-top: 50px;
   margin-top: 50px;
 }
 
 @media only screen and (min-width: 576px) {
-  /* line 110, ../scss/main.scss */
+  /* line 127, ../scss/main.scss */
   .page .question {
     font-size: 35px;
   }
-  /* line 113, ../scss/main.scss */
+  /* line 130, ../scss/main.scss */
   .page .answer {
     overflow: auto;
   }
-  /* line 116, ../scss/main.scss */
+  /* line 133, ../scss/main.scss */
   .page .answer button {
     width: auto;
     float: right;
   }
-}
-/* line 124, ../scss/main.scss */
-.selected-class-name {
-  color: red;
 }

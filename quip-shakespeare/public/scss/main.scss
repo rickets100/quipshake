@@ -16,7 +16,6 @@ $testing-red: rgba(194,51,8,.9);
 // breakpoints are the same as bootstrap's
 body {
   background-color: $recurring-grey;
-  color: $recurring-black;
 }
 
 // below are instructions for changes to make when viewed on large screen
@@ -25,6 +24,19 @@ body {
     background-color: $recurring-green;
     color: $recurring-black
   }
+}
+.bird {
+    color:white;
+    background-color:red;
+    padding:20px;
+    font-family:Verdana;
+}
+
+.sky {
+    color:white;
+    background-color:lightblue;
+    padding:20px;
+    font-family:"Courier New";
 }
 
 // !!!!!!!!!
@@ -35,7 +47,6 @@ body {
 }
 .page {
   max-width: 900px;
-
   .question {
     font-size: 24px;
     min-height: 150px;
@@ -50,8 +61,8 @@ body {
     }
   }
   .options {
-    @extend %generic-box;
     ul {
+
       li {
         font-size: 25px;
 
@@ -62,6 +73,10 @@ body {
         .unanswered {
           color: $recurring-charcoal;
         }
+
+        .selected-class-name {
+          color: red !important;
+        }
         span {
 
           .x-marker {
@@ -70,6 +85,8 @@ body {
         } // span
       } // li
     } // ul
+    @extend %generic-box;
+
   } // options
 
   .answer {
@@ -120,7 +137,3 @@ body {
     }
   }
 } // @include
-
-.selected-class-name {
-  color: red;
-}

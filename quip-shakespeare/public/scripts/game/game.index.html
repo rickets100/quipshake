@@ -14,27 +14,12 @@
 
         <ul>
           <li ng-repeat="option in $ctrl.answerOptions track by $index">
-           <div ng-class="{'selected-class-name': $index == selectedIndex}" ng-click="$ctrl.itemClicked($index)">
-             {{option.label}} {{option.isCorrect}}<span ng-hide="false" class="ng-hide x-marker"> X </span>
+            <div ng-click="$ctrl.updateAnswer(option.isCorrect, option.label, option.isChosen, $index)" class="answered">
+              {{option.label}} {{option.isCorrect}}<span ng-hide="false" class="ng-hide x-marker"> X </span>
            </div>
           </li>
         </ul>
 
-
-        <!-- <ul>
-          <li>
-            Merry Wives of Windsor
-          </li>
-          <li>
-            The Merchant of Venice
-          </li>
-          <li>
-            Othello
-          </li>
-          <li>
-            The Tempest
-          </li>
-        </ul> -->
 
       </div>
       <div class="answer">
@@ -60,26 +45,24 @@
       <a href="" ng-click="$ctrl.testQuestion('character-weight')" class="">Character-weight Question</a><br><br>
     </div> <!-- column -->
 
+    <!-- <select ng-model="home">
+      <option value="bird">Tomato</option>
+      <option value="sky">Sky</option>
+    </select> -->
 
-
-    <!-- <div class="col-6 col-sm-6 graphic hidden-xs-down">
-      <div class="options">
-       <ul>
-         <li ng-repeat="option in $ctrl.answerOptions track by $index">
-          <div ng-click="$ctrl.updateAnswer(option.isCorrect, option.label, option.isChosen)" class="answered">
-            {{option.label}} {{option.isCorrect}}<span ng-hide="false" class="ng-hide x-marker"> X </span>
-          </div>
-         </li>
-       </ul>
-     </div>  -->
-
-
+    <div>
+      <ul>
+        <li ng-repeat="option in $ctrl.answerOptions track by $index">
+         <div ng-click="$ctrl.updateAnswer(option.isCorrect, option.label, true, $index)" class="answered">{{option.label}} {{option.isCorrect}}<span ng-hide="false" class="ng-hide x-marker"> X </span>
+         </div>
+        </li>
+      </ul>
+    </div>
 
      <div class="options">
       <ul>
         <li ng-repeat="option in $ctrl.answerOptions track by $index">
-         <div id="foo" ng-class="{'selected-class-name': $index == selectedIndex}" class='answered' ng-click="$ctrl.itemClicked($index)">
-           {{option.label}} {{option.isCorrect}}<span ng-hide="false" class="ng-hide x-marker"> X </span>
+         <div ng-click="$ctrl.updateAnswer(option.isCorrect, option.label, option.isChosen)" class="answered">{{option.label}} {{option.isCorrect}}<span ng-hide="false" class="ng-hide x-marker"> X </span>
          </div>
         </li>
       </ul>

@@ -111,7 +111,7 @@
 
 
     // ===== UPDATE REVEAL PART =====
-    vm.updateReveal = function (isCorrect) {
+    vm.updateReveal = function (isCorrect, label) {
       console.log('***** in updateReveal  *****')
       if (isCorrect === true) {
         console.log('answer was correct')
@@ -135,14 +135,18 @@
   } // updateScore
 
     // ===== UPDATE ANSWER =====
-    vm.updateAnswer = function (isCorrect, label, isChosen) {
+    vm.updateAnswer = function (isCorrect, label, isChosen, $index) {
       vm.answered = true
       vm.updateImage(isCorrect)
-      vm.updateReveal(isCorrect)
+      vm.updateReveal(isCorrect, label)
       vm.updateScore(isCorrect)
       console.log('^^^^^^^ in the updateAnswer function ^^^^^^^^')
       console.log('is correct = ', isCorrect)
 
+      console.log('is chosen = ', isChosen)
+      console.log('index ', $index);
+
+      
       /*
       this function needs to:
       - update the updateImage area, possibly, with a chart if applicable
