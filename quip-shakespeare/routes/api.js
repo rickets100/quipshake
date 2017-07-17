@@ -62,8 +62,8 @@ router.get('/chronology', function(req, res, next) {
   // console.log('(SERVER)/api/chronology')
   // will need to deal with plays with same date - use 'order' to choose, but have a caveat/explanation on reveal that this is based on wikipedia's entry on the subject, and display the yearRange field for the object
 
-  let correctID = 31 // hardcoded for testing for now Taming of the Shrew
-  let numOptions = 4 // hardcoded for testing for now
+  let correctID = 0 // this type of question does not need to exclude any plays
+  let numOptions = 4
   let optionArray = util.randomArray(numOptions, canon, correctID)
 
   gameController.getFourWorks(optionArray).then(function(options) {
@@ -117,12 +117,27 @@ router.get('/chronology', function(req, res, next) {
 
 // ===== CHARACTER-WEIGHT =====
 router.get('/character-weight', function(req, res, next) {
-  console.log('(SERVER)/api/character-weight')
-  console.log('TYPE OF QUESTION ', req.body);
-  /**
-  This should return the data required (json) to serve a character-weight question
-  **/
-  // figure out how I am going to choose to get the info about line concordance (my own psql tables vs querying against the xml, which will probably be too slow)
+
+  // gameController.getCountOfCharacters("people_ham").then(function(data){
+  //   res.send(data);
+  // });
+
+  gameController.getOneWork()
+    .then(function(work) {
+      console.log('selected random work is', work)
+      let id = 15 // hardcoded for now
+      let tableName = 'people_ham' // hardcoded for now
+      let num = 4 // hardcoded for now
+
+      gameController.getCountOfCharacters(tableName).then(function(countObj){
+        let count = countObj.count
+        let optionArray = util.randomArray(num, count, 0)
+        gameController.getRandomCharacters(tableName, optionArray)
+          .then(function(charArray) {
+            console.log('characters are ', charArray)
+          })
+        })
+      })
 
   let data = {
     question: 'Of the following, which character from The Merry Wives of Windsor has the most lines?',
@@ -145,9 +160,11 @@ router.get('/character-weight', function(req, res, next) {
         isCorrect:false
       }
     ]
-  }
+  } // data
   res.send(data)
-})
+
+}) // function router.get
+
 
 
 // ===== CHARACTER-ORIGIN =====

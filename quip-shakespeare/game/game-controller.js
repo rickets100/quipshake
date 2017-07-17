@@ -13,9 +13,7 @@ const canon = 42
 const game = require('./game-model').Game
 const type = require('./game-model').Type
 const random = require('../bin/scripts/utility-functions').randomNum
-
-// ===== TEST FUNCTION =====
-
+const randomArray = require('../bin/scripts/utility-functions').randomArray
 
 
 // ===== GET A SPECIFIC WORK BY IDNO =====
@@ -35,6 +33,18 @@ function getOneWork () {
   let randomWorkId = random(canon)
   return getWorkByRowId(randomWorkId)
 } // getOneWork
+
+
+// ===== GET THREE RANDOM WRONG WORKS ===
+function getThreeWrongWorks(idArray) {
+  return game.getNWorks('works', idArray)
+}
+
+
+// ===== GET FOUR RANDOM WORKS ===
+function getFourWorks(idArray) {
+  return game.getNWorks('works', idArray)
+}
 
 
 // ===== GET A RANDOM CHARACTER FROM A GIVEN WORK =====
@@ -67,16 +77,7 @@ function formulateQuestion(cb) {
       cb(question)
     })
   })
-  console.log('formulated question is: ', question)
 }
-
-
-// ===== POPULATE A GIVEN QUESTION =====
-// function populateQuestion(questionConstraints) {
-//   // questionConstraints will be the object formulated by formulateQuestion
-//   // need to now generate a correct answer + as many additional options as is specified by the question type
-//
-// }
 
 
 // ===== GET SCENE COUNT =====
@@ -114,7 +115,6 @@ function getSpeechByIndex (doc, index) {
   let speechNodes = '/TEI/text/body/div1/div2/sp/ab[' + (index+1) + ']//text()'
   let masterNode = '/TEI/text/body/div1/div2/sp/ab[' + (index+1)
   let speaker = masterNode.parentNode
-  console.log('parent node is ', speaker)
     // to get the speaker, go up one node to sp, get the "who=" value, chop off the pound sign and everything from the underscore on
 
   let speeches = xpath.evaluate(
@@ -148,15 +148,16 @@ function getSpeech (doc) {
 }
 
 
-// ===== GET THREE WRONG WORKS ===
-function getThreeWrongWorks(idArray) {
-  return game.getNWorks('works', idArray)
+// ===== GET COUNT OF CHARACTERS IN A GIVEN WORK =====
+function getCountOfCharacters(tableName) {
+  return game.getCharacterCount(tableName)
 }
 
-
-// ===== GET FOUR WORKS ===
-function getFourWorks(idArray) {
-  return game.getNWorks('works', idArray)
+// ===== GET N RANDOM CHARACTER FROM A GIVEN WORK =====
+function getRandomCharacters(tableName, idArray) {
+  console.log('tableName', tableName)
+  console.log('idArray ', idArray)
+  return game.getNCharacters(tableName, idArray)
 }
 
 
@@ -172,7 +173,9 @@ module.exports = {
   getRandomSpeech,
   getSpeech,
   getThreeWrongWorks,
-  getFourWorks
+  getFourWorks,
+  getCountOfCharacters,
+  getRandomCharacters
 }
 
 // var result = formulateQuestion(function(question) {

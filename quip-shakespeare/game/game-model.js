@@ -27,6 +27,17 @@ class Game {
     console.log('GAME-MODEL: in getCharacterByRowId', randomCharId)
     // need to query here
   }
+
+  static getCharacterCount(tableName) {
+    console.log('GAME-MODEL: in getCharacterCount', tableName)
+    return db(tableName).count('id').first()
+  }
+
+  static getNCharacters(tableName, idArray) {
+    console.log('GAME-MODEL: in getNCharacters')
+    return db(tableName).select('*').whereIn('id', idArray)
+  }
+
 }
 
 class Type {
