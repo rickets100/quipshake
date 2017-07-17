@@ -125,10 +125,12 @@ router.get('/character-weight', function(req, res, next) {
   gameController.getOneWork()
     .then(function(work) {
       console.log('selected random work is', work)
-      let id = 15 // hardcoded for now
-      let tableName = 'people_ham' // hardcoded for now
+      let title = work.title
+      let id = work.id
       let num = 4 // hardcoded for now
-      let title = 'Hamlet' // should be able to get a title from work once the tables are all made
+
+      let tempTitle = 'Hamlet' // should be able to get a title from work once the tables are all made
+      let tableName = 'people_ham' // hardcoded for now
 
       gameController.getCountOfCharacters(tableName).then(function(countObj){
         let count = countObj.count
@@ -139,7 +141,7 @@ router.get('/character-weight', function(req, res, next) {
             let shuffled = util.shuffle(charArray)
 
             let data = {
-              question: `Of the following, which character from ${title} has the most lines?`,
+              question: `Of the following, which character from ${tempTitle} has the most lines?`,
               questionType: 'character-weight',
               options: [
                 {
@@ -185,33 +187,38 @@ router.get('/character-origin', function(req, res, next) {
 
   gameController.getOneWork().then(function(correctOption) {
     let correctID = correctOption.id
+    let correctTitle = correctOption.title
+    console.log('correct is: ', correctTitle);
     // need to insert code here to take correctOptionID and get a random character from it
 
     // need logic here to take into account that a character might appear in multiple plays, so can't have any of the "wrong" options actually be another play that they are, in fact, in
-    let optionArray = util.randomArray(numOptions, canon, correctID)
     let numOptions = 3 // hardcoded for testing for now
+    let optionArray = util.randomArray(numOptions, canon, correctID)
 
     gameController.getThreeWrongWorks(optionArray).then(function(wrongOptions) {
-      console.log('WRONG OPTIONS', wrongOptions)
+      wrongOptions.push(correctOption)
+      let shuffled = util.shuffle(wrongOptions)
+      console.log('shuffled', shuffled)
+
       let data = {
         question: `In which play does the character of ${sample} appear?`,
         questionType: 'character-origin',
         options:[
           {
-            label: correctOption.title,
-            isCorrect: true
+            label: shuffled[0].title,
+            isCorrect: (shuffled[0].title === correctTitle)
           },
           {
-            label: wrongOptions[0].title,
-            isCorrect: false
+            label: shuffled[1].title,
+            isCorrect: (shuffled[1].title === correctTitle)
           },
           {
-            label: wrongOptions[1].title,
-            isCorrect: false
+            label: shuffled[2].title,
+            isCorrect: (shuffled[2].title === correctTitle)
           },
           {
-            label: wrongOptions[2].title,
-            isCorrect: false
+            label: shuffled[3].title,
+            isCorrect: (shuffled[3].title === correctTitle)
           }
         ]
       } // data

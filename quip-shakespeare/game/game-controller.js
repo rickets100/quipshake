@@ -153,7 +153,7 @@ function getCountOfCharacters(tableName) {
   return game.getCharacterCount(tableName)
 }
 
-// ===== GET N RANDOM CHARACTER FROM A GIVEN WORK =====
+// ===== GET N RANDOM CHARACTERS FROM A GIVEN WORK =====
 function getRandomCharacters(tableName, idArray) {
   console.log('tableName', tableName)
   console.log('idArray ', idArray)
