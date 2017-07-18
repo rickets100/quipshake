@@ -14,7 +14,7 @@ const canon = 42
 router.get ('/', function(req, res, next) {
   console.log('(SERVER)/api/')
   var result = gameController.formulateQuestion(function(question) {
-    var data = [
+    let data = [
       {
         name:'Formulate Question',
         endpoint:'/api/formulate-question'
@@ -68,6 +68,7 @@ router.get('/chronology', function(req, res, next) {
       let inOrder = util.sortArrayByOrder(options)
       let first = inOrder[0]
       let data = {
+        imageUpdate: false,
         question: 'Which play was published first?',
         questionType: 'chronology',
         options:[
@@ -127,6 +128,7 @@ router.get('/character-weight', function(req, res, next) {
           let first = characters[0].lines
           let shuffled = util.shuffle(characters)
           let data = {
+            imageUpdate: false,
             question: `Of the following, which character from ${title} has the most lines?`,
             questionType: 'character-weight',
             workTitle: work.title,
@@ -177,6 +179,7 @@ router.get('/character-origin', function(req, res, next) {
         wrongOptions.push(correctOption)
         let shuffled = util.shuffle(wrongOptions)
         let data = {
+          imageUpdate: false,
           question: `In which play does the character of ${character[0].character} appear?`,
           questionType: 'character-origin',
           correcTitle: correctTitle,
@@ -210,10 +213,6 @@ router.get('/character-origin', function(req, res, next) {
 router.get('/quote-origin', function(req, res, next) {
 // will need to limit the size of the text (at least a certain length, but maybe truncated if too long)
 
-  var playIdno = 'Ado' //TODO: this should come from request
-  //TODO: KNEX: select 3 RANDOM plays where IDNO IS NOT = playId
-  // This should be a function in game-controller called gameController.getRandomPlays(numPlays, ignoreIDNO)
-
   gameController.getOneWork()
     .then(function(correctOption) {
       let correctId = correctOption.id
@@ -226,6 +225,7 @@ router.get('/quote-origin', function(req, res, next) {
         let shuffled = util.shuffle(wrongOptions)
         let doc = util.loadXml(correctOption.xmlName)
         let data = {
+          imageUpdate: true,
           test: correctOption,
           question: 'From which play does the following quote derive?',
           questionType: 'quote-origin',
@@ -250,12 +250,12 @@ router.get('/quote-origin', function(req, res, next) {
           ]
         } // data
       res.send (data)
-    }) // .then of // get3RandomWorks
+    }) // .then of get3RandomWorks
   }) // .then of getOneWork
 }) // QUOTE-ORIGIN
 
 
-// ===== WORD FREQUENCY =====
+// ===== CONCORDANCE (WORD FREQUENCY) =====
 router.get ('/word-frequency', function(req, res, next) {
   // need a query to the 'most common words' table/object to know which results to reject and retry
 
@@ -264,6 +264,7 @@ router.get ('/word-frequency', function(req, res, next) {
   // It is possible in a single SQL statment to say 'give me 4 random rows that are from play X and do not contain the words in this list'
   let example = 'SAMPLE TITLE'
   let data = {
+    imageUpdate: false,
     question: `Which of the following occurs more frequently in ${example}?`,
     questionType: 'word-frequency',
     options: [
@@ -286,6 +287,6 @@ router.get ('/word-frequency', function(req, res, next) {
     ]
   }
   res.send(data)
-})
+}) // CONCORDANCE (WORD FREQUENCY)
 
 module.exports = router

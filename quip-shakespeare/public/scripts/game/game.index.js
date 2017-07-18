@@ -21,6 +21,7 @@
     vm.graphic = "/images/shakespeare-cartoon.png"
     vm.score = 0
     vm.selectedIndex = 0
+    vm.imageUpdate = true
 
 
     // ===== INIT =====
@@ -48,18 +49,21 @@
 
     // ===== POPULATE A GIVEN QUESTION =====
     function populateQuestion(questionConstraints) {
-      // questionConstraints will be the object formulated by formulateQuestion
-      // if quote origin, need to get the quote
       let endpoint = (questionConstraints.type).split(' ').join('-')
       console.log('hitting ', (`${baseUrl}/api/${endpoint}`))
       $http.get(`${baseUrl}/api/${endpoint}`)
-      .then((result)=>{
-        console.log('RESULT: ', result)
+        .then((result)=>{
+          console.log('RESULT: ', result)
+          vm.imageUpdate = result.data.imageUpdate
+          vm.currentQuestion = result.data.question
+          vm.answerOptions = result.data.options
+          vm.isChosen = result.data.isChosen
 
-        vm.currentQuestion = result.data.question
-        vm.answerOptions = result.data.options
-        vm.isChosen = result.data.isChosen
-      }) // http.get
+          if (vm.imageUpdate) {
+            vm.updateImage(vm.currentQuestion.elaboration)
+            vm.imageUpdate = false
+          }
+        })
     } // function populateQuestion
 
 
@@ -134,6 +138,7 @@
         vm.score = vm.score + 2
     }
   } // updateScore
+
 
     // ===== UPDATE ANSWER =====
     vm.updateAnswer = function (isCorrect, label, isChosen, $index) {
