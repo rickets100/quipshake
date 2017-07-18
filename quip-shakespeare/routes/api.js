@@ -60,17 +60,12 @@ router.get('/formulate-question', function(req, res, next) {
 // /api/chronology
 router.get('/chronology', function(req, res, next) {
   // will need to deal with plays with same date - use 'order' to choose, but have a caveat/explanation on reveal that this is based on wikipedia's entry on the subject, and display the yearRange field for the object
-
   let correctID = 0 // this type of question does not need to exclude any plays
   let numOptions = 4
-  let optionArray = util.randomArray(numOptions, canon, correctID)
 
-  gameController.getFourWorks(optionArray)
+  gameController.get4Works()
     .then(function(options) {
-      let orderNums = options.map(function(play) {
-      return play.order
-      })
-      let inOrder = orderNums.sort(function(a,b) { return a - b })
+      let inOrder = util.sortArrayByOrder(options)
       let first = inOrder[0]
       let data = {
         question: 'Which play was published first?',
@@ -117,14 +112,12 @@ router.get('/chronology', function(req, res, next) {
 
 // ===== CHARACTER-WEIGHT =====
 router.get('/character-weight', function(req, res, next) {
-
   // gameController.getCountOfCharacters("people_ham").then(function(data){
   //   res.send(data);
   // });
 
   gameController.getOneWork()
     .then(function(work) {
-      console.log('selected random work is', work)
       let title = work.title
       let id = work.id
       let num = 4 // hardcoded for now
@@ -176,13 +169,11 @@ router.get('/character-weight', function(req, res, next) {
 
 // ===== CHARACTER-ORIGIN =====
 router.get('/character-origin', function(req, res, next) {
-  console.log('(SERVER)/api/character-origin')
   let sample = 'CHARACTER NAME'
 
   gameController.getOneWork().then(function(correctOption) {
     let correctID = correctOption.id
     let correctTitle = correctOption.title
-    console.log('correctOption is: ', correctOption);
     // need to insert code here to take correctOptionID and get a random character from it
 
     // need logic here to take into account that a character might appear in multiple plays, so can't have any of the "wrong" options actually be another play that they are, in fact, in
@@ -192,7 +183,6 @@ router.get('/character-origin', function(req, res, next) {
     gameController.getThreeWrongWorks(optionArray).then(function(wrongOptions) {
       wrongOptions.push(correctOption)
       let shuffled = util.shuffle(wrongOptions)
-      console.log('shuffled', shuffled)
 
       let data = {
         question: `In which play does the character of ${correctOption} appear?`,
@@ -225,8 +215,6 @@ router.get('/character-origin', function(req, res, next) {
 
 // ===== QUOTE-ORIGIN =====
 router.get('/quote-origin', function(req, res, next) {
-  console.log('(SERVER)/api/quote-origin')
-  console.log(req.body)
 // will need to limit the size of the text (at least a certain length, but maybe truncated if too long)
 
   var playIdno = 'Ado' //TODO: this should come from request
@@ -268,7 +256,6 @@ router.get('/quote-origin', function(req, res, next) {
 
 // ===== WORD FREQUENCY =====
 router.get ('/word-frequency', function(req, res, next) {
-  console.log('(SERVER)/api/word-frequency')
   // need a query to the 'most common words' table/object to know which results to reject and retry
 
   // knex has a 'not in' option (for common words list) and get give the results in random order

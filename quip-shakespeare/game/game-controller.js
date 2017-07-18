@@ -43,7 +43,21 @@ function getThreeWrongWorks(idArray) {
 
 // ===== GET FOUR RANDOM WORKS ===
 function getFourWorks(idArray) {
+
   return game.getNWorks('works', idArray)
+}
+
+
+// ===== GET 4 RANDOM WORKS ===
+function get4Works() {
+  return game.get4RandomWorks('works')
+}
+
+
+// ===== GET 3 RANDOM WORKS =====
+function get3RandomWorks(correctId) {
+  console.log('OOPS', correctId)
+  return game.get3RandomWorks('works', correctId)
 }
 
 
@@ -68,10 +82,12 @@ function getQuestionType () {
 function formulateQuestion(cb) {
   let question = {
     type: '',
-    work: ''
+    work: '',
+    numOptions: 4
   }
   getQuestionType().then(selectedType => {
     question.type = selectedType
+    question.numOptions = selectedType.num_options
     getOneWork().then(selectedWork => {
       question.work = selectedWork
       cb(question)
@@ -135,7 +151,6 @@ function getRandomSpeech (doc) {
   let speechCount = getSpeechCount(doc)
   let index = random(speechCount)
   let randomSpeech = getSpeechByIndex(doc, index)
-  console.log('randomSpeech: ', randomSpeech)
   return randomSpeech
 }
 
@@ -143,7 +158,6 @@ function getRandomSpeech (doc) {
 // ===== GET A RANDOM SPEECH =====
 function getSpeech (doc) {
   let speech = getRandomSpeech (doc)
-  console.log ('speech', speech)
   return speech
 }
 
@@ -153,10 +167,9 @@ function getCountOfCharacters(tableName) {
   return game.getCharacterCount(tableName)
 }
 
+
 // ===== GET N RANDOM CHARACTERS FROM A GIVEN WORK =====
 function getRandomCharacters(tableName, idArray) {
-  console.log('tableName', tableName)
-  console.log('idArray ', idArray)
   return game.getNCharacters(tableName, idArray)
 }
 
@@ -173,7 +186,9 @@ module.exports = {
   getRandomSpeech,
   getSpeech,
   getThreeWrongWorks,
+  get3RandomWorks,
   getFourWorks,
+  get4Works,
   getCountOfCharacters,
   getRandomCharacters
 }

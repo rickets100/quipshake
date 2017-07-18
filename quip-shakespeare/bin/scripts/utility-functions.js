@@ -55,12 +55,12 @@ function getRandomQuestionType() {
 } // getRandomQuestionType
 
 
-// ===== RANDOMIZE AN ARRAY (FISHER-YATES) =====
+// ===== RANDOMIZE AN ARRAY (FISHER-YATES)  ✅ =====
+// this is a well-known algorithm = not my code
 function shuffle(array) {
-  console.log('in util shuffle')
-  var i = 0
-    , j = 0
-    , temp = null
+  let i = 0,
+      j = 0,
+      temp = null
 
   for (i = array.length - 1; i > 0; i -= 1) {
     j = Math.floor(Math.random() * (i + 1))
@@ -72,11 +72,21 @@ function shuffle(array) {
 }
 
 
+// ===== SORT AN ARRAY BY ORDER KEY =====
+function sortArrayByOrder(objArray) {
+  let orderNums = objArray.map(function(obj) {
+  return obj.order
+  })
+  return orderNums.sort(function(a,b) { return a - b })
+}
+
+
 module.exports = {
   randomNum,
   randomArray,
   getRandomPlay,
   getRandomQuestionType,
   loadXml,
-  shuffle
+  shuffle,
+  sortArrayByOrder
 }

@@ -23,6 +23,16 @@ class Game {
     return db(works).select('*').whereIn('id', idArray)
   }
 
+  static get4RandomWorks(works) {
+    console.log('GAME-MODEL: in get3RandomWorks')
+    return db(works).select('*').orderByRaw('RANDOM()').limit(4)
+  }
+
+  static get3RandomWorksNotId(works, correctId) {
+    console.log('GAME-MODEL: in get3RandomWorksNotId')
+    return db(works).select('*').whereNot('id', correctId).orderByRaw('RANDOM()').limit(3)
+  }
+
   static getCharacterByRowId(randomCharId) {
     console.log('GAME-MODEL: in getCharacterByRowId', randomCharId)
     // need to query here

@@ -36,13 +36,13 @@
     }
 
     vm.itemClicked = function ($index) {
-        console.log('heeeeere', $index)
+        // console.log('heeeeere', $index)
         vm.selectedIndex = $index
     }
 
     // ===== START GAME =====
     vm.startGame = function () {
-      console.log('===== start game =====')
+      // console.log('===== start game =====')
     }
 
 
@@ -51,7 +51,7 @@
       // questionConstraints will be the object formulated by formulateQuestion
       // if quote origin, need to get the quote
       let endpoint = (questionConstraints.type).split(' ').join('-')
-      console.log('hitting ', (`${baseUrl}/api/${endpoint}`));
+      console.log('hitting ', (`${baseUrl}/api/${endpoint}`))
       $http.get(`${baseUrl}/api/${endpoint}`)
       .then((result)=>{
         console.log('RESULT: ', result)
@@ -72,7 +72,7 @@
 
     // ===== TEST QUESTION PART =====
     vm.testRandomQuestion = function () {
-      $http.get(`${baseUrl}/api/formulate-question`)
+      $http.get( `${baseUrl}/api/formulate-question`)
       .then((result)=>{
         let questionConstraints = {
           work: result.data.word,
@@ -99,9 +99,8 @@
 
     // ===== UPDATE IMAGE PART =====
     vm.updateImage = function (isCorrect) {
-      console.log('***** in the updateImage function *****')
+      // console.log('***** in the updateImage function *****')
       if (isCorrect === true) {
-        console.log('got to true');
         vm.graphic = "/images/shakespeare-bw.png"
       }
     }
@@ -109,20 +108,18 @@
 
     // ===== UPDATE ANSWER-OPTIONS PART =====
     vm.updateAnswerOptions = function (isCorrect) {
-      console.log('***** in the updateAnswerOptions function *****')
+      // console.log('***** in the updateAnswerOptions function *****')
 
     }
 
 
     // ===== UPDATE REVEAL PART =====
     vm.updateReveal = function (isCorrect, label) {
-      console.log('***** in updateReveal  *****')
+      // console.log('***** in updateReveal  *****')
       if (isCorrect === true) {
-        console.log('answer was correct')
         vm.exclamation = 'SCORE!'
         vm.elaboration = 'You just earned some points!'
       } else {
-        console.log('answer was incorrect')
         vm.exclamation = 'NOPE.'
         vm.elaboration = 'The correct answer was something else.'
       }
@@ -132,7 +129,7 @@
 
     // ===== UPDATE SCORE PART =====
     vm.updateScore = function (isCorrect) {
-      console.log('***** in the updateScore function *****')
+      // console.log('***** in the updateScore function *****')
       if (isCorrect === true) {
         vm.score = vm.score + 2
     }
@@ -145,11 +142,6 @@
       vm.updateReveal(isCorrect, label)
       vm.updateScore(isCorrect)
       console.log('^^^^^^^ in the updateAnswer function ^^^^^^^^')
-      console.log('is correct = ', isCorrect)
-
-      console.log('is chosen = ', isChosen)
-      console.log('index ', $index);
-
 
       /*
       this function needs to:
