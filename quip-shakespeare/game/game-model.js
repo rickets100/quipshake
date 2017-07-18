@@ -33,9 +33,9 @@ class Game {
     return db(works).select('*').whereNot('id', correctId).orderByRaw('RANDOM()').limit(3)
   }
 
-  static getCharacterByRowId(randomCharId) {
-    console.log('GAME-MODEL: in getCharacterByRowId', randomCharId)
-    // need to query here
+  static getRandomCharacter(workIdno) {
+    console.log('GAME-MODEL: in getCharacterByRowId')
+    return db('all_people').select('*').where('origin', workIdno).orderByRaw('RANDOM()').limit(1)
   }
 
   static getCharacterCount(tableName) {

@@ -172,44 +172,46 @@ router.get('/character-origin', function(req, res, next) {
   let sample = 'CHARACTER NAME'
 
   gameController.getOneWork().then(function(correctOption) {
-    let correctID = correctOption.id
+    let correctId = correctOption.id
+    let correctIdno = correctOption.idno
     let correctTitle = correctOption.title
-    // need to insert code here to take correctOptionID and get a random character from it
+    let numOptions = 3 // hardcoded for testing for now
 
     // need logic here to take into account that a character might appear in multiple plays, so can't have any of the "wrong" options actually be another play that they are, in fact, in
-    let numOptions = 3 // hardcoded for testing for now
-    let optionArray = util.randomArray(numOptions, canon, correctID)
 
-    gameController.getThreeWrongWorks(optionArray).then(function(wrongOptions) {
-      wrongOptions.push(correctOption)
-      let shuffled = util.shuffle(wrongOptions)
+    gameController.getOneCharacter(correctIdno).then(function(character) {
+      gameController.get3RandomWorks(correctId).then(function(wrongOptions) {
+        wrongOptions.push(correctOption)
+        let shuffled = util.shuffle(wrongOptions)
 
-      let data = {
-        question: `In which play does the character of ${correctOption} appear?`,
-        questionType: 'character-origin',
-        correcTitle: correctTitle,
-        options:[
-          {
-            label: shuffled[0].title,
-            isCorrect: (shuffled[0].title === correctTitle)
-          },
-          {
-            label: shuffled[1].title,
-            isCorrect: (shuffled[1].title === correctTitle)
-          },
-          {
-            label: shuffled[2].title,
-            isCorrect: (shuffled[2].title === correctTitle)
-          },
-          {
-            label: shuffled[3].title,
-            isCorrect: (shuffled[3].title === correctTitle)
-          }
-        ]
-      } // data
-      res.send(data)
-    }) // .then of getThreeWrongWorks
-  })
+        let data = {
+          question: `In which play does the character of ${correctOption} appear?`,
+          questionType: 'character-origin',
+          correcTitle: correctTitle,
+          options:[
+            {
+              label: shuffled[0].title,
+              isCorrect: (shuffled[0].title === correctTitle)
+            },
+            {
+              label: shuffled[1].title,
+              isCorrect: (shuffled[1].title === correctTitle)
+            },
+            {
+              label: shuffled[2].title,
+              isCorrect: (shuffled[2].title === correctTitle)
+            },
+            {
+              label: shuffled[3].title,
+              isCorrect: (shuffled[3].title === correctTitle)
+            }
+          ]
+        } // data
+        res.send(data)
+      }) // .then of getThreeWrongWorks
+    })
+
+  }) // getOneWork
 
 }) // router.get
 

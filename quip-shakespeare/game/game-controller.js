@@ -57,17 +57,15 @@ function get4Works() {
 // ===== GET 3 RANDOM WORKS =====
 function get3RandomWorks(correctId) {
   console.log('OOPS', correctId)
-  return game.get3RandomWorks('works', correctId)
+  return game.get3RandomWorksNotId('works', correctId)
 }
 
 
 // ===== GET A RANDOM CHARACTER FROM A GIVEN WORK =====
 function getOneCharacter(workIdno) {
-  let numCharsInWork = 5 // hardcoded for now for testing
-  let randomCharId = random(numCharsInWork)
-
+  console.log('got to getOneCharacter in the controller');
   // need logic here to take into account that a character might appear in multiple plays, so can't have any of the "wrong" options actually be another play that they are, in fact, in
-  return getCharacterByRowId(randomCharId)
+  return game.getRandomCharacter(workIdno)
 } // getOneWork
 
 
@@ -175,24 +173,21 @@ function getRandomCharacters(tableName, idArray) {
 
 
 module.exports = {
+  formulateQuestion,
+  get3RandomWorks,
+  get4Works,
   getWorkByIDNO,
   getWorkByRowId,
+  getOneCharacter,
   getOneWork,
   getQuestionType,
-  formulateQuestion,
   getSceneCount,
   getSpeechCount,
   getSpeechByIndex,
   getRandomSpeech,
   getSpeech,
   getThreeWrongWorks,
-  get3RandomWorks,
   getFourWorks,
-  get4Works,
   getCountOfCharacters,
   getRandomCharacters
 }
-
-// var result = formulateQuestion(function(question) {
-//   console.log('RESULT', question)
-// })
