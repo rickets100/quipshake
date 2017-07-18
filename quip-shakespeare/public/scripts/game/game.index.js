@@ -22,13 +22,17 @@
     vm.score = 0
     vm.selectedIndex = 0
 
+
     // ===== INIT =====
     vm.$onInit = function (){
-      $http.get(`${baseUrl}/api/game`)
-      .then((result)=>{
-        console.log('INIT')
-        vm.currentQuestion = 'How well do you know your Shakespeare?'
-      })
+      vm.updateGameState()
+      // $http.get(`${baseUrl}/api/game`)
+      // .then((result)=>{
+      //   console.log('INIT')
+      //   vm.currentQuestion = 'How well do you know your Shakespeare?'
+      //   vm.answerOptions = [{label: 'hi'}]
+      //
+      // })
     }
 
     vm.itemClicked = function ($index) {
@@ -146,7 +150,7 @@
       console.log('is chosen = ', isChosen)
       console.log('index ', $index);
 
-      
+
       /*
       this function needs to:
       - update the updateImage area, possibly, with a chart if applicable

@@ -25,20 +25,33 @@ body {
     color: $recurring-black
   }
 }
-.bird {
+.incorrect {
     color:white;
     background-color:red;
     padding:20px;
     font-family:Verdana;
 }
 
-.sky {
+.iscorrect {
     color:white;
     background-color:lightblue;
     padding:20px;
     font-family:"Courier New";
 }
 
+.picked {
+    color:white;
+    background-color:red;
+    padding:20px;
+    font-family:Verdana;
+}
+
+.not-picked {
+    color:white;
+    background-color:lightblue;
+    padding:20px;
+    font-family:"Courier New";
+}
 // !!!!!!!!!
 %generic-box {
   border: 1px solid $recurring-charcoal;
@@ -61,13 +74,34 @@ body {
     }
   }
   .options {
+
+    .radio {
+        font-size: 25px;
+
+        .answered {
+          color: $recurring-blue;
+        }
+
+        .unanswered {
+          color: $recurring-charcoal;
+        }
+
+        span {
+          
+          .x-marker {
+            color: $testing-red;
+          }
+        } // span
+    } // ul
+
+
     ul {
 
       li {
         font-size: 25px;
 
         .answered {
-          color: orange;
+          color: $recurring-blue;
         }
 
         .unanswered {

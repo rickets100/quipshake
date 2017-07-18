@@ -1,8 +1,12 @@
 <div class="container page">
   <div class="row">
-    <div class="col-12 question">
+    <div class="col-10 question">
       Q: {{$ctrl.currentQuestion}}
     </div> <!-- end column -->
+    <div class="col-2 score">
+      SCORE: {{$ctrl.score}}
+    </div> <!-- end column -->
+
   </div> <!-- end row -->
   <div class="row">
     <div class="col-12 col-sm-6 graphic hidden-xs-down">
@@ -11,16 +15,9 @@
     </div> <!-- end column graphic-->
     <div class="col-12 col-sm-6 options-answers">
       <div class="options">
-
-        <ul>
-          <li ng-repeat="option in $ctrl.answerOptions track by $index">
-            <div ng-click="$ctrl.updateAnswer(option.isCorrect, option.label, option.isChosen, $index)" class="answered">
-              {{option.label}} {{option.isCorrect}}<span ng-hide="false" class="ng-hide x-marker"> X </span>
-           </div>
-          </li>
-        </ul>
-
-
+        <div ng-repeat="option in $ctrl.answerOptions track by $index" class="radio">
+          <label><input ng-click="$ctrl.updateAnswer(option.isCorrect, option.label, true, $index)" class="answered" type="radio" name="optradio">  {{option.label}} {{option.isCorrect}}<span ng-hide="false" class="ng-hide x-marker"> X </span></label>
+        </div>
       </div>
       <div class="answer">
         <div class="feedback">
@@ -50,24 +47,30 @@
       <option value="sky">Sky</option>
     </select> -->
 
-    <div>
+    <!-- <div>
       <ul>
         <li ng-repeat="option in $ctrl.answerOptions track by $index">
          <div ng-click="$ctrl.updateAnswer(option.isCorrect, option.label, true, $index)" class="answered">{{option.label}} {{option.isCorrect}}<span ng-hide="false" class="ng-hide x-marker"> X </span>
          </div>
         </li>
       </ul>
-    </div>
+    </div> -->
 
-     <div class="options">
-      <ul>
-        <li ng-repeat="option in $ctrl.answerOptions track by $index">
-         <div ng-click="$ctrl.updateAnswer(option.isCorrect, option.label, option.isChosen)" class="answered">{{option.label}} {{option.isCorrect}}<span ng-hide="false" class="ng-hide x-marker"> X </span>
-         </div>
-        </li>
-      </ul>
-    </div> <!-- options -->
+
+
+    <select ng-model="home">
+    <option value="incorrect">is not correct</option>
+    <option value="iscorrect">is correct</option>
+    </select>
+
+    <div ng-class="home">
+      <h1>Testing</h1>
+      <p>yay</p>
+    </div>
 
     </div> <!-- column -->
   </div> <!-- row -->
 </div> <!-- testing -->
+<div ng-repeat="option in $ctrl.answerOptions track by $index"  class="radio">
+  <label><input ng-click="$ctrl.updateAnswer(option.isCorrect, option.label, true, $index)" class="answered" type="radio" name="optradio">  {{option.label}} {{option.isCorrect}}<span ng-hide="false" class="ng-hide x-marker"> X </span></label>
+</div>
