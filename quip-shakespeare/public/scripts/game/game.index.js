@@ -7,7 +7,7 @@
     templateUrl: './scripts/game/game.index.html'
   })
 
-  const canon = 42
+  const canon = 38
   const questionTypes = 15
 
   controller.$inject = ['API_BASE_URL', '$http']

@@ -9,55 +9,10 @@ const app = express()
 const parser = new xml2js.Parser()
 const playList = require('../bin/data-sources/playList')
 const questionTypes = 15
-const canon = 42
+const canon = 38
 const game = require('./game-model').Game
 const type = require('./game-model').Type
 const random = require('../bin/scripts/utility-functions').randomNum
-const randomArray = require('../bin/scripts/utility-functions').randomArray
-
-
-// ===== GET A SPECIFIC WORK BY IDNO =====
-function getWorkByIDNO (idno){
-  return game.getOneWorkByIDNO ('works', idno)
-}
-
-
-// ===== GET A SPECIFIC WORK BY ROW ID
-function getWorkByRowId (id) {
-  return game.getOneWork('works', id)
-}
-
-
-// ===== GET A RANDOM WORK =====
-function getOneWork () {
-  let randomWorkId = random(canon)
-  return getWorkByRowId(randomWorkId)
-}
-
-
-
-// ===== GET N RANDOM WORKS ===
-function getNWorks(num) {
-  return game.getNRandomWorks('works', num)
-}
-
-
-// ===== GET 3 RANDOM WORKS =====
-function get3RandomWorks(correctWorkIdno) {
-  return game.get3RandomWorksNotId('works', correctWorkIdno)
-}
-
-// ===== GET 3 RANDOM WORKS =====
-function test3RandomWorks(correctWorkIdno, character) {
-  console.log('hey');
-  return game.test('works', correctWorkIdno, character)
-}
-
-
-// ===== GET A RANDOM CHARACTER FROM A GIVEN WORK =====
-function getNCharacters(workIdno, num) {
-  return game.getNRandomCharacters(workIdno, num)
-} // getOneWork
 
 
 // ===== GET A RANDOM QUESTION TYPE =====
@@ -85,6 +40,51 @@ function formulateQuestion(cb) {
 }
 
 
+// ===== GET A SPECIFIC WORK BY IDNO =====
+function getWorkByIDNO (idno){
+  return game.getOneWorkByIDNO ('works', idno)
+}
+
+
+// ===== GET A SPECIFIC WORK BY ROW ID
+function getWorkByRowId (id) {
+  return game.getOneWork('works', id)
+}
+
+
+// ===== GET A RANDOM WORK =====
+function getOneWork() {
+  let randomWorkId = random(canon)
+  return getWorkByRowId(randomWorkId)
+}
+
+
+// ===== GET N RANDOM WORKS ===
+function getNRandomWorks(num) {
+  return game.getNRandomWorks('works', num)
+}
+
+
+// ===== GET 3 RANDOM WORKS NOT ID=====
+function get3RandomWorks(correctOption) {
+  let correctIdno = correctOption[0].idno
+  return game.getNRandomWorksNotId('works', correctIdno)
+}
+
+// ===== GET 3 RANDOM WORKS =====
+function test3RandomWorks(correctWorkIdno, character) {
+  console.log('hey');
+  return game.test('works', correctWorkIdno, character)
+}
+
+
+// ===== GET A RANDOM CHARACTER FROM A GIVEN WORK =====
+function getNCharacters(workIdno, num) {
+  console.log('controller getNCharacters: ', workIdno, num);
+  return game.getNRandomCharacters(workIdno, num)
+} // getOneWork
+
+
 // ===== GET SCENE COUNT =====
 function getSceneCount(doc) {
   let sceneNodes = 'count(/TEI/text/body/div1/div2)'
@@ -95,7 +95,7 @@ function getSceneCount(doc) {
     xpath.XPathResult.ANY_TYPE, // resultType
     null                        // result
   )
-  // console.log('Scenes: ',  scenes.numberValue)
+
   return scenes.numberValue
 } // getSceneCount
 
@@ -110,9 +110,34 @@ function getSpeechCount (doc) {
     xpath.XPathResult.ANY_TYPE, // resultType
     null                        // result
   )
-  // console.log('Speeches: ',  speeches.numberValue)
   return speeches.numberValue
 } // getSpeechCount
+
+
+// ===== PARSE SPEECH =====
+function parseSpeech(rawSpeechText) {
+  // console.log(speeches.nodes.join('').split('\r\n').join(''))
+  let newArr = ['fuck you node']
+
+  if (rawSpeechText) {
+    let parsedSpeechText = []
+    let arr = []
+    console.log(Object.keys(rawSpeechText[0]))
+    console.log(rawSpeechText);
+    rawSpeechText.forEach(function(el) {
+      arr.push(el.data)
+    }) // forEach
+
+
+    var re = '\r\n\r\n\r\n';
+    arr[0].split(re)
+
+    console.log(arr);
+  } // if (incoming data not empty)
+
+
+  return rawSpeechText
+} // parseSpeech
 
 
 // ===== GET SPEECH BY INDEX =====
@@ -129,8 +154,10 @@ function getSpeechByIndex (doc, index) {
     xpath.XPathResult.ANY_TYPE, // resultType
     null                        // result
   )
-  // weirdness below is attempt to work-around the blank text nodes of the xml file
-  return speeches.nodes.join('').split('\r\n').join(' ').split('  ').join('')
+  parseSpeech(speeches.nodes)
+  // return speeches.nodes.join('').split('\r\n\r\n').join(' ').split('  ').join('')
+  return speeches.nodes.join('')
+
 }
 
 
@@ -150,27 +177,24 @@ function getSpeech (doc) {
 }
 
 
-// ===== GET COUNT OF CHARACTERS IN A GIVEN WORK =====
-function getCountOfCharacters(tableName) {
-  return game.getCharacterCount(tableName)
-}
-
-
 
 module.exports = {
   formulateQuestion,
-  get3RandomWorks,
-  getNWorks,
+  getQuestionType,
+
   getWorkByIDNO,
   getWorkByRowId,
-  getNCharacters,
   getOneWork,
-  getQuestionType,
+  getNRandomWorks,
+  get3RandomWorks,
+  test3RandomWorks,
+
+  getNCharacters,
+
   getSceneCount,
   getSpeechCount,
   getSpeechByIndex,
   getRandomSpeech,
   getSpeech,
-  getCountOfCharacters,
-  test3RandomWorks
+  parseSpeech
 }

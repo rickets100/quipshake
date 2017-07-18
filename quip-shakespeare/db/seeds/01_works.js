@@ -173,16 +173,7 @@ exports.seed = function(knex) {
         order: 31,
         idno: 'Lr'},
 
-        // {id: 20,
-        // xmlName: 'Luc.xml',
-        // jsName: 'Luc.js',
-        // title: 'Lucrece',
-        // yearFirst: 1594,
-        // yearText: '1594',
-        // order: 12,
-        // idno: 'Luc'},
-
-        {id: 21,
+        {id: 20,
         xmlName: 'MM.xml',
         jsName: 'MM.js',
         title: 'Measure for Measure',
@@ -191,7 +182,7 @@ exports.seed = function(knex) {
         order: 28,
         idno: 'MM'},
 
-        {id: 22,
+        {id: 21,
         xmlName: 'MND.xml',
         jsName: 'MND.js',
         title: 'A Midsummer Night\'s Dream',
@@ -200,7 +191,7 @@ exports.seed = function(knex) {
         order: 15,
         idno: 'MND'},
 
-        {id: 23,
+        {id: 22,
         xmlName: 'MV.xml',
         jsName: 'MV.js',
         title: 'The Merchant of Venice',
@@ -209,7 +200,7 @@ exports.seed = function(knex) {
         order: 17,
         idno: 'MV'},
 
-        {id: 24,
+        {id: 23,
         xmlName: 'Mac.xml',
         jsName: 'Mac.js',
         title: 'Macbeth',
@@ -218,7 +209,7 @@ exports.seed = function(knex) {
         order: 33,
         idno: 'Mac'},
 
-        {id: 25,
+        {id: 24,
         xmlName: 'Oth.xml',
         jsName: 'Oth.js',
         title: 'Othello',
@@ -227,7 +218,7 @@ exports.seed = function(knex) {
         order: 29,
         idno: 'Oth'},
 
-        {id: 26,
+        {id: 25,
         xmlName: 'Per.xml',
         jsName: 'Per.js',
         title: 'Pericles',
@@ -236,16 +227,7 @@ exports.seed = function(knex) {
         order: 35,
         idno: 'Per'},
 
-        {id: 27,
-        xmlName: 'PhT.xml',
-        jsName: 'PhT.js',
-        title: 'The Phoenix and Turtle',
-        yearFirst: 1601,
-        yearText: '1601',
-        order: 25,
-        idno: 'Pht'},
-
-        {id: 28,
+        {id: 26,
         xmlName: 'R2.xml',
         jsName: 'R2.js',
         title: 'Richard II',
@@ -254,7 +236,7 @@ exports.seed = function(knex) {
         order: 13,
         idno: 'R2'},
 
-        {id: 29,
+        {id: 27,
         xmlName: 'R3.xml',
         jsName: 'R3.js',
         title: 'Richard III',
@@ -263,7 +245,7 @@ exports.seed = function(knex) {
         order: 7,
         idno: 'R3'},
 
-        {id: 30,
+        {id: 28,
         xmlName: 'Rom.xml',
         jsName: 'Rom.js',
         title: 'Romeo and Juliet',
@@ -272,7 +254,7 @@ exports.seed = function(knex) {
         order: 14,
         idno: 'Rom'},
 
-        {id: 31,
+        {id: 29,
         xmlName: 'Shr.xml',
         jsName: 'Shr.js',
         title: 'The Taming of the Shrew',
@@ -281,16 +263,7 @@ exports.seed = function(knex) {
         order: 2,
         idno: 'Shr'},
 
-        {id: 32,
-        xmlName: 'Son.xml',
-        jsName: 'Son.js',
-        title: 'Sonnets',
-        yearFirst: 1609,
-        yearText: '1609',
-        order: 37,
-        idno: 'Son'},
-
-        {id: 33,
+        {id: 30,
         xmlName: 'TGV.xml',
         jsName: 'TGV.js',
         title: 'Two Gentlemen of Verona',
@@ -299,7 +272,7 @@ exports.seed = function(knex) {
         order: 1,
         idno: 'TGV'},
 
-        {id: 34,
+        {id: 31,
         xmlName: 'TN.xml',
         jsName: 'js.xml',
         title: 'Twelfth Night',
@@ -308,7 +281,7 @@ exports.seed = function(knex) {
         order: 26,
         idno: 'TN'},
 
-        {id: 35,
+        {id: 32,
         xmlName: 'TNK.xml',
         jsName: 'TNK.js',
         title: 'Two Noble Kinsmen',
@@ -317,7 +290,7 @@ exports.seed = function(knex) {
         order: 42,
         idno: 'TNK'},
 
-        {id: 36,
+        {id: 33,
         xmlName: 'Tim.xml',
         jsName: 'Tim.js',
         title: 'Timon of Athens',
@@ -326,7 +299,7 @@ exports.seed = function(knex) {
         order: 32,
         idno: 'Tim'},
 
-        {id: 37,
+        {id: 34,
         xmlName: 'Tit.xml',
         jsName: 'Tit.js',
         title: 'Titus Andronicus',
@@ -335,7 +308,7 @@ exports.seed = function(knex) {
         order: 6,
         idno: 'Tit'},
 
-        {id: 38,
+        {id: 35,
         xmlName: 'Tmp.xml',
         jsName: 'Tmp.js',
         title: 'The Tempest',
@@ -344,7 +317,7 @@ exports.seed = function(knex) {
         order: 40,
         idno: 'Tmp'},
 
-        {id: 39,
+        {id: 36,
         xmlName: 'Tro.xml',
         jsName: 'Tro.js',
         title: 'Trollius and Cresside',
@@ -353,16 +326,7 @@ exports.seed = function(knex) {
         order: 27,
         idno: 'Tro'},
 
-        {id: 40,
-        xmlName: 'Ven.xml',
-        jsName: 'Ven.js',
-        title: 'Venus and Adonis',
-        yearFirst: 1593,
-        yearText: '1593',
-        order: 9,
-        idno: 'Ven'},
-
-        {id: 41,
+        {id: 37,
         xmlName: 'WT.xml',
         jsName: 'WT.js',
         title: 'The Winter\'s Tale',
@@ -371,7 +335,7 @@ exports.seed = function(knex) {
         order: 38,
         idno: 'WT'},
 
-        {id: 42,
+        {id: 38,
         xmlName: 'Wiv.xml',
         jsName: 'Wiv.js',
         title: 'Merry Wives of Windsor',
@@ -387,3 +351,39 @@ exports.seed = function(knex) {
       )
     })
 }
+
+// {id: 20,
+// xmlName: 'Luc.xml',
+// jsName: 'Luc.js',
+// title: 'Lucrece',
+// yearFirst: 1594,
+// yearText: '1594',
+// order: 12,
+// idno: 'Luc'},
+
+// {id: 27,
+// xmlName: 'PhT.xml',
+// jsName: 'PhT.js',
+// title: 'The Phoenix and Turtle',
+// yearFirst: 1601,
+// yearText: '1601',
+// order: 25,
+// idno: 'Pht'},
+
+// {id: 32,
+// xmlName: 'Son.xml',
+// jsName: 'Son.js',
+// title: 'Sonnets',
+// yearFirst: 1609,
+// yearText: '1609',
+// order: 37,
+// idno: 'Son'},
+
+// {id: 40,
+// xmlName: 'Ven.xml',
+// jsName: 'Ven.js',
+// title: 'Venus and Adonis',
+// yearFirst: 1593,
+// yearText: '1593',
+// order: 9,
+// idno: 'Ven'},

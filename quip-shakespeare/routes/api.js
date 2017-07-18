@@ -5,7 +5,7 @@ const fs = require('file-system')
 const path = require('path')
 const dom = require('xmldom').DOMParser
 const util = require('../bin/scripts/utility-functions')
-const canon = 42
+const canon = 38
 
 
 // @@@@@@@@@@@@ API ROUTES @@@@@@@@@@@@
@@ -62,7 +62,7 @@ router.get('/chronology', function(req, res, next) {
   let correctID = 0 // this type of question does not need to exclude any plays
   let numOptions = 4
 
-  gameController.getNWorks(numOptions)
+  gameController.getNRandomWorks(numOptions)
     .then(function(options) {
       let inOrder = util.sortArrayByOrder(options)
       let first = inOrder[0]
@@ -113,13 +113,13 @@ router.get('/chronology', function(req, res, next) {
 // ===== CHARACTER-WEIGHT =====
 router.get('/character-weight', function(req, res, next) {
 
-  gameController.getNWorks(1)
+  gameController.getNRandomWorks(1)
     .then(function(work) {
       let title = work[0].title
       let id = work[0].id
       let idno = work[0].idno
       let num = 4 // hardcoded for now
-
+      console.log('character weight, work is ', work);
       gameController.getNCharacters(idno, num)
         .then(function(characters) {
           let first = characters[0].lines
@@ -154,7 +154,7 @@ router.get('/character-weight', function(req, res, next) {
           } // data
           res.send(data)
       }) // .then of getNRandomCharacters
-    }) // .then of getNWorks
+    }) // .then of getNRandomWorks
   }) // function router.get
 
 
@@ -163,20 +163,21 @@ router.get('/character-weight', function(req, res, next) {
 router.get('/character-origin', function(req, res, next) {
   let sample = 'CHARACTER NAME'
 
-  gameController.getOneWork().then(function(correctOption) {
-    let correctWorkId = correctOption.id
-    let correctWorkIdno = correctOption.idno
-    let correctWorkTitle = correctOption.title
+  gameController.getNRandomWorks(1)
+    .then(function(correctOption) {
+    let correctWorkId = correctOption[0].id
+    let correctWorkIdno = correctOption[0].idno
+    let correctWorkTitle = correctOption[0].title
     let numOptions = 3 // hardcoded for testing for now
-
     gameController.getNCharacters(correctWorkIdno, 1)
-    .then(function(character) {
-      gameController.test3RandomWorks(correctWorkIdno, character).then(function(wrongOptions) {
-        wrongOptions.push(correctOption)
+      .then(function(character) {
+      gameController.test3RandomWorks(correctWorkIdno, character[0]).then(function(wrongOptions) {
+        let selectedCharacter = character[0].character
+        wrongOptions.push(correctOption[0])
         let shuffled = util.shuffle(wrongOptions)
         let data = {
           imageUpdate: false,
-          question: `In which play does the character of ${character[0].character} appear?`,
+          question: `In which play does the character of ${character} appear?`,
           questionType: 'character-origin',
           correctTitle: correctWorkTitle,
           options:[
@@ -209,16 +210,12 @@ router.get('/character-origin', function(req, res, next) {
 router.get('/quote-origin', function(req, res, next) {
 // will need to limit the size of the text (at least a certain length, but maybe truncated if too long)
 
-  gameController.getNWorks(1)
+  gameController.getNRandomWorks(1)
     .then(function(correctOption) {
-      let correctId = correctOption[0].id
-      let correctIdno = correctOption[0].idno
       let correctTitle = correctOption[0].title
-      let numOptions = 3 // hardcoded for testing for now
 
-      gameController.get3RandomWorks(correctIdno).then(function(wrongOptions) {
+      gameController.get3RandomWorks(correctOption).then(function(wrongOptions) {
         wrongOptions.push(correctOption[0])
-        console.log('full list of options quote origin: ', wrongOptions);
         let shuffled = util.shuffle(wrongOptions)
         let doc = util.loadXml(correctOption[0].xmlName)
         let data = {
