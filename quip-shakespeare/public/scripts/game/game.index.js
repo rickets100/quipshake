@@ -21,7 +21,10 @@
     vm.graphic = "/images/shakespeare-cartoon.png"
     vm.score = 0
     vm.selectedIndex = 0
-    vm.imageUpdate = true
+    vm.showImage = true
+    vm.showQuoteBody = false
+    vm.quoteBody = ''
+    vm.showChart = false
 
 
     // ===== INIT =====
@@ -54,14 +57,14 @@
       $http.get(`${baseUrl}/api/${endpoint}`)
         .then((result)=>{
           console.log('RESULT: ', result)
-          vm.imageUpdate = result.data.imageUpdate
+          vm.showQuoteBody = result.data.imageUpdate
           vm.currentQuestion = result.data.question
           vm.answerOptions = result.data.options
           vm.isChosen = result.data.isChosen
 
-          if (vm.imageUpdate) {
-            vm.updateImage(vm.currentQuestion.elaboration)
-            vm.imageUpdate = false
+          if (vm.showQuoteBody) {
+            console.log('showQuoteBody is ', vm.showQuoteBody)
+            vm.updateImage(result.data.quoteBody)
           }
         })
     } // function populateQuestion
@@ -76,6 +79,7 @@
 
     // ===== TEST QUESTION PART =====
     vm.testRandomQuestion = function () {
+      vm.showQuoteBody = false
       $http.get( `${baseUrl}/api/formulate-question`)
       .then((result)=>{
         let questionConstraints = {
@@ -102,11 +106,16 @@
 
 
     // ===== UPDATE IMAGE PART =====
-    vm.updateImage = function (isCorrect) {
-      // console.log('***** in the updateImage function *****')
-      if (isCorrect === true) {
-        vm.graphic = "/images/shakespeare-bw.png"
-      }
+    vm.updateImage = function (quoteBody) {
+      console.log('***** in the updateImage function *****')
+      console.log(quoteBody)
+      vm.showImage = false
+      vm.showQuoteBody = true
+      vm.showChart = false
+      vm.quoteBody = quoteBody
+      // if (isCorrect === true) {
+      //   vm.graphic = "/images/shakespeare-bw.png"
+      // }
     }
 
 
@@ -143,7 +152,7 @@
     // ===== UPDATE ANSWER =====
     vm.updateAnswer = function (isCorrect, label, isChosen, $index) {
       vm.answered = true
-      vm.updateImage(isCorrect)
+      // vm.updateImage(isCorrect)
       vm.updateReveal(isCorrect, label)
       vm.updateScore(isCorrect)
       console.log('^^^^^^^ in the updateAnswer function ^^^^^^^^')

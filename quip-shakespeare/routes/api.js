@@ -49,7 +49,6 @@ router.get ('/', function(req, res, next) {
 // ===== FORMULATE A QUESTION ✅ =====
 // /api/formulate-question
 router.get('/formulate-question', function(req, res, next) {
-  console.log('(SERVER)/api/formulate-question')
   let result = gameController.formulateQuestion(function(question) {
     res.send(question)
   })
@@ -116,15 +115,13 @@ router.get('/character-weight', function(req, res, next) {
 
   gameController.getNWorks(1)
     .then(function(work) {
-      let title = work.title
-      let id = work.id
-      let idno = 2
+      let title = work[0].title
+      let id = work[0].id
+      let idno = work[0].idno
       let num = 4 // hardcoded for now
-      console.log('random work is ', work)
 
-      gameController.getOneCharacter(idno, num)
+      gameController.getNCharacters(idno, num)
         .then(function(characters) {
-          console.log('characters are: ', characters)
           let first = characters[0].lines
           let shuffled = util.shuffle(characters)
           let data = {
@@ -167,38 +164,37 @@ router.get('/character-origin', function(req, res, next) {
   let sample = 'CHARACTER NAME'
 
   gameController.getOneWork().then(function(correctOption) {
-    let correctId = correctOption.id
-    let correctIdno = correctOption.idno
-    let correctTitle = correctOption.title
+    let correctWorkId = correctOption.id
+    let correctWorkIdno = correctOption.idno
+    let correctWorkTitle = correctOption.title
     let numOptions = 3 // hardcoded for testing for now
 
-    // need logic here to take into account that a character might appear in multiple plays, so can't have any of the "wrong" options actually be another play that they are, in fact, in - perhaps add "unique" to the knex query in the model
-
-    gameController.getOneCharacter(correctIdno).then(function(character) {
-      gameController.get3RandomWorks(correctId).then(function(wrongOptions) {
+    gameController.getNCharacters(correctWorkIdno, 1)
+    .then(function(character) {
+      gameController.test3RandomWorks(correctWorkIdno, character).then(function(wrongOptions) {
         wrongOptions.push(correctOption)
         let shuffled = util.shuffle(wrongOptions)
         let data = {
           imageUpdate: false,
           question: `In which play does the character of ${character[0].character} appear?`,
           questionType: 'character-origin',
-          correcTitle: correctTitle,
+          correctTitle: correctWorkTitle,
           options:[
             {
               label: shuffled[0].title,
-              isCorrect: (shuffled[0].title === correctTitle)
+              isCorrect: (shuffled[0].title === correctWorkTitle)
             },
             {
               label: shuffled[1].title,
-              isCorrect: (shuffled[1].title === correctTitle)
+              isCorrect: (shuffled[1].title === correctWorkTitle)
             },
             {
               label: shuffled[2].title,
-              isCorrect: (shuffled[2].title === correctTitle)
+              isCorrect: (shuffled[2].title === correctWorkTitle)
             },
             {
               label: shuffled[3].title,
-              isCorrect: (shuffled[3].title === correctTitle)
+              isCorrect: (shuffled[3].title === correctWorkTitle)
             }
           ]
         } // data
@@ -213,23 +209,24 @@ router.get('/character-origin', function(req, res, next) {
 router.get('/quote-origin', function(req, res, next) {
 // will need to limit the size of the text (at least a certain length, but maybe truncated if too long)
 
-  gameController.getOneWork()
+  gameController.getNWorks(1)
     .then(function(correctOption) {
-      let correctId = correctOption.id
-      let correctIdno = correctOption.idno
-      let correctTitle = correctOption.title
+      let correctId = correctOption[0].id
+      let correctIdno = correctOption[0].idno
+      let correctTitle = correctOption[0].title
       let numOptions = 3 // hardcoded for testing for now
 
-      gameController.get3RandomWorks(correctId).then(function(wrongOptions) {
-        wrongOptions.push(correctOption)
+      gameController.get3RandomWorks(correctIdno).then(function(wrongOptions) {
+        wrongOptions.push(correctOption[0])
+        console.log('full list of options quote origin: ', wrongOptions);
         let shuffled = util.shuffle(wrongOptions)
-        let doc = util.loadXml(correctOption.xmlName)
+        let doc = util.loadXml(correctOption[0].xmlName)
         let data = {
           imageUpdate: true,
           test: correctOption,
           question: 'From which play does the following quote derive?',
           questionType: 'quote-origin',
-          elaboration: gameController.getSpeech(doc),
+          quoteBody: gameController.getSpeech(doc),
           options:[
             {
               label: shuffled[0].title,

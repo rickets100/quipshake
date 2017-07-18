@@ -24,19 +24,48 @@ class Game {
   }
 
   static getNRandomWorks(works, num) {
-    console.log('GAME-MODEL: in get3RandomWorks')
+    console.log('GAME-MODEL: in get N RandomWorks: ', num)
     return db(works).select('*').orderByRaw('RANDOM()').limit(num)
   }
 
-  static get3RandomWorksNotId(works, correctId) {
+  static get3RandomWorksNotId(works, correctWorkIdno) {
     console.log('GAME-MODEL: in get3RandomWorksNotId')
-    return db(works).select('*').whereNot('id', correctId).orderByRaw('RANDOM()').limit(3)
+    console.log('...and correctWorkIdno is ', correctWorkIdno)
+    return db(works).select('*').whereNot('idno', correctWorkIdno).orderByRaw('RANDOM()').limit(3)
   }
 
+/*
+character: Bardolph
+'1H4'
+'2H4'
+'H5'
+*/
+  static test(works, correctWorkIdno, character) {
+    console.log('GAME-MODEL: in get3RandomWorksNotId')
+    console.log('character is ', character);
+    return db(works)
+    .select('*')
+    .innerJoin('all_people', 'works.idno', 'all_people.origin')
+    .whereNot('works.idno', correctWorkIdno)
+    // .whereNot('all_people.character', character.character)
+    .orderByRaw('RANDOM()').limit(3)
+  }
+
+  static test2(works, correctWorkIdno, correctOrigin) {
+    console.log('GAME-MODEL: in get3RandomWorksNotId')
+    return db(works)
+    .select('*')
+    .innerJoin('all_people', 'works.idno', 'all_people.origin')
+    .whereNot('works.idno', correctWorkIdno)
+    .whereNot('all_people.origin', correctOrigin)
+    .orderByRaw('RANDOM()').limit(3)
+  }
+
+
   static getNRandomCharacters(workIdno, number) {
-    console.log('GAME-MODEL: in getNRandomCharacters')
-    return db('all_people').select('*').where('origin', 'Ham')
-    // .orderByRaw('RANDOM()').limit(number)
+    console.log('GAME-MODEL: in getNRandomCharacters', workIdno)
+    return db('all_people').select('*').where('origin', workIdno)
+    .orderByRaw('RANDOM()').limit(number)
   }
 
   static getCharacterCount(tableName) {

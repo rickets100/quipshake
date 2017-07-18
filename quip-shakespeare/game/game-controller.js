@@ -32,28 +32,31 @@ function getWorkByRowId (id) {
 function getOneWork () {
   let randomWorkId = random(canon)
   return getWorkByRowId(randomWorkId)
-} // getOneWork
+}
 
 
 
-// ===== GET 4 RANDOM WORKS ===
+// ===== GET N RANDOM WORKS ===
 function getNWorks(num) {
   return game.getNRandomWorks('works', num)
 }
 
 
 // ===== GET 3 RANDOM WORKS =====
-function get3RandomWorks(correctId) {
-  console.log('OOPS', correctId)
-  return game.get3RandomWorksNotId('works', correctId)
+function get3RandomWorks(correctWorkIdno) {
+  return game.get3RandomWorksNotId('works', correctWorkIdno)
+}
+
+// ===== GET 3 RANDOM WORKS =====
+function test3RandomWorks(correctWorkIdno, character) {
+  console.log('hey');
+  return game.test('works', correctWorkIdno, character)
 }
 
 
 // ===== GET A RANDOM CHARACTER FROM A GIVEN WORK =====
-function getOneCharacter(workIdno) {
-  console.log('got to getOneCharacter in the controller');
-  // need logic here to take into account that a character might appear in multiple plays, so can't have any of the "wrong" options actually be another play that they are, in fact, in
-  return game.getNRandomCharacters(workIdno, 1)
+function getNCharacters(workIdno, num) {
+  return game.getNRandomCharacters(workIdno, num)
 } // getOneWork
 
 
@@ -126,7 +129,6 @@ function getSpeechByIndex (doc, index) {
     xpath.XPathResult.ANY_TYPE, // resultType
     null                        // result
   )
-  // console.log('speech: ', speeches)
   // weirdness below is attempt to work-around the blank text nodes of the xml file
   return speeches.nodes.join('').split('\r\n').join(' ').split('  ').join('')
 }
@@ -161,7 +163,7 @@ module.exports = {
   getNWorks,
   getWorkByIDNO,
   getWorkByRowId,
-  getOneCharacter,
+  getNCharacters,
   getOneWork,
   getQuestionType,
   getSceneCount,
@@ -169,5 +171,6 @@ module.exports = {
   getSpeechByIndex,
   getRandomSpeech,
   getSpeech,
-  getCountOfCharacters
+  getCountOfCharacters,
+  test3RandomWorks
 }

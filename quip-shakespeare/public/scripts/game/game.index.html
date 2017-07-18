@@ -11,7 +11,9 @@
   <div class="row">
     <div class="col-12 col-sm-6 graphic hidden-xs-down">
       <!-- <img src="/images/shakespeare-cartoon.png"/> -->
-      <img src="{{$ctrl.graphic}}">
+      <img ng-hide=!$ctrl.showImage src="{{$ctrl.graphic}}">
+      <p ng-hide=!$ctrl.showQuoteBody>{{$ctrl.quoteBody}}
+      <!-- <div ng-hide=$ctrl -->
     </div> <!-- end column graphic-->
     <div class="col-12 col-sm-6 options-answers">
       <div class="options">
@@ -20,7 +22,7 @@
             ng-click="$ctrl.updateAnswer(option.isCorrect, option.label, true, $index)" ng-model="checked"
             ng-init="checked=false"
             type="checkbox"
-            name="optradio"> {{option.label}} {{option.isCorrect}}<span ng-if="checked && !option.isCorrect == true" class="animate-if"> X </span></label>
+            name="optradio"> {{option.label}} <span ng-if="checked && !option.isCorrect == true" class="animate-if"> X </span></label>
         </div>
       </div>
 
