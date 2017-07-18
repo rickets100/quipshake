@@ -120,6 +120,7 @@ router.get('/character-weight', function(req, res, next) {
       let idno = 2
       let num = 4 // hardcoded for now
       console.log('random work is ', work)
+
       gameController.getOneCharacter(idno, num)
         .then(function(characters) {
           console.log('characters are: ', characters)
@@ -128,6 +129,7 @@ router.get('/character-weight', function(req, res, next) {
           let data = {
             question: `Of the following, which character from ${title} has the most lines?`,
             questionType: 'character-weight',
+            workTitle: work.title,
             options: [
               {
                 label: shuffled[0].character,
@@ -168,7 +170,7 @@ router.get('/character-origin', function(req, res, next) {
     let correctTitle = correctOption.title
     let numOptions = 3 // hardcoded for testing for now
 
-    // need logic here to take into account that a character might appear in multiple plays, so can't have any of the "wrong" options actually be another play that they are, in fact, in
+    // need logic here to take into account that a character might appear in multiple plays, so can't have any of the "wrong" options actually be another play that they are, in fact, in - perhaps add "unique" to the knex query in the model
 
     gameController.getOneCharacter(correctIdno).then(function(character) {
       gameController.get3RandomWorks(correctId).then(function(wrongOptions) {
@@ -198,12 +200,11 @@ router.get('/character-origin', function(req, res, next) {
           ]
         } // data
         res.send(data)
-      }) // .then of get3RandomWorks
+      })
     })
+  })
+}) // CHARACTER-ORIGIN
 
-  }) // getOneWork
-
-}) // router.get
 
 // ===== QUOTE-ORIGIN =====
 router.get('/quote-origin', function(req, res, next) {
@@ -213,37 +214,45 @@ router.get('/quote-origin', function(req, res, next) {
   //TODO: KNEX: select 3 RANDOM plays where IDNO IS NOT = playId
   // This should be a function in game-controller called gameController.getRandomPlays(numPlays, ignoreIDNO)
 
-  gameController.getWorkByIDNO(playIdno).then(function(selectedWork){
+  gameController.getOneWork()
+    .then(function(correctOption) {
+      let correctId = correctOption.id
+      let correctIdno = correctOption.idno
+      let correctTitle = correctOption.title
+      let numOptions = 3 // hardcoded for testing for now
 
-    let doc = util.loadXml(selectedWork.xmlName)
-    let data = {
-      test: selectedWork,
-      question: 'From which play does the following quote derive?',
-      questionType: 'quote-origin',
-      elaboration: gameController.getSpeech(doc),
-      options:[
-        {
-          label:selectedWork.title,
-          isCorrect:true
-        },
-        {
-          label: 'Play 2',
-          isCorrect:false
-        },
-        {
-          label: 'Play 3',
-          isCorrect:false
-        },
-        {
-          label: 'Play 4',
-          isCorrect:false
-        }
-      ]
-    }
-    //TODO: random sort data.options
-    res.send (data)
-  })
-})
+      gameController.get3RandomWorks(correctId).then(function(wrongOptions) {
+        wrongOptions.push(correctOption)
+        let shuffled = util.shuffle(wrongOptions)
+        let doc = util.loadXml(correctOption.xmlName)
+        let data = {
+          test: correctOption,
+          question: 'From which play does the following quote derive?',
+          questionType: 'quote-origin',
+          elaboration: gameController.getSpeech(doc),
+          options:[
+            {
+              label: shuffled[0].title,
+              isCorrect: (shuffled[0].title === correctTitle)
+            },
+            {
+              label: shuffled[1].title,
+              isCorrect: (shuffled[1].title === correctTitle)
+            },
+            {
+              label: shuffled[2].title,
+              isCorrect: (shuffled[2].title === correctTitle)
+            },
+            {
+              label: shuffled[3].title,
+              isCorrect: (shuffled[3].title === correctTitle)
+            }
+          ]
+        } // data
+      res.send (data)
+    }) // .then of // get3RandomWorks
+  }) // .then of getOneWork
+}) // QUOTE-ORIGIN
 
 
 // ===== WORD FREQUENCY =====
