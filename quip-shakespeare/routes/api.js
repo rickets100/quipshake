@@ -183,9 +183,8 @@ router.get('/character-origin', function(req, res, next) {
       gameController.get3RandomWorks(correctId).then(function(wrongOptions) {
         wrongOptions.push(correctOption)
         let shuffled = util.shuffle(wrongOptions)
-
         let data = {
-          question: `In which play does the character of ${correctOption} appear?`,
+          question: `In which play does the character of ${character[0].character} appear?`,
           questionType: 'character-origin',
           correcTitle: correctTitle,
           options:[
@@ -208,7 +207,7 @@ router.get('/character-origin', function(req, res, next) {
           ]
         } // data
         res.send(data)
-      }) // .then of getThreeWrongWorks
+      }) // .then of get3RandomWorks
     })
 
   }) // getOneWork

@@ -35,18 +35,6 @@ function getOneWork () {
 } // getOneWork
 
 
-// ===== GET THREE RANDOM WRONG WORKS ===
-function getThreeWrongWorks(idArray) {
-  return game.getNWorks('works', idArray)
-}
-
-
-// ===== GET FOUR RANDOM WORKS ===
-function getFourWorks(idArray) {
-
-  return game.getNWorks('works', idArray)
-}
-
 
 // ===== GET 4 RANDOM WORKS ===
 function get4Works() {
@@ -186,8 +174,6 @@ module.exports = {
   getSpeechByIndex,
   getRandomSpeech,
   getSpeech,
-  getThreeWrongWorks,
-  getFourWorks,
   getCountOfCharacters,
   getRandomCharacters
 }
