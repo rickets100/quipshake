@@ -63,7 +63,7 @@ router.get('/chronology', function(req, res, next) {
   let correctID = 0 // this type of question does not need to exclude any plays
   let numOptions = 4
 
-  gameController.get4Works()
+  gameController.getNWorks(numOptions)
     .then(function(options) {
       let inOrder = util.sortArrayByOrder(options)
       let first = inOrder[0]
@@ -112,58 +112,49 @@ router.get('/chronology', function(req, res, next) {
 
 // ===== CHARACTER-WEIGHT =====
 router.get('/character-weight', function(req, res, next) {
-  // gameController.getCountOfCharacters("people_ham").then(function(data){
-  //   res.send(data);
-  // });
 
-  gameController.getOneWork()
+  gameController.getNWorks(1)
     .then(function(work) {
       let title = work.title
       let id = work.id
+      let idno = 2
       let num = 4 // hardcoded for now
-
-      let tempTitle = 'Hamlet' // should be able to get a title from work once the tables are all made
-      let tableName = 'people_ham' // hardcoded for now
-
-      gameController.getCountOfCharacters(tableName).then(function(countObj){
-        let count = countObj.count
-        let optionArray = util.randomArray(num, count, 0)
-        gameController.getRandomCharacters(tableName, optionArray)
-          .then(function(charArray) {
-            let first = charArray[0].lines
-            let shuffled = util.shuffle(charArray)
-
-            let data = {
-              question: `Of the following, which character from ${tempTitle} has the most lines?`,
-              questionType: 'character-weight',
-              options: [
-                {
-                  label: shuffled[0].character,
-                  lines: shuffled[0].lines,
-                  isCorrect: (shuffled[0].lines === first)
-                },
-                {
-                  label: shuffled[1].character,
-                  lines: shuffled[1].lines,
-                  isCorrect: (shuffled[1].lines === first)
-                },
-                {
-                  label: shuffled[2].character,
-                  lines: shuffled[2].lines,
-                  isCorrect: (shuffled[2].lines === first)
-                },
-                {
-                  label: shuffled[3].character,
-                  lines: shuffled[3].lines,
-                  isCorrect: (shuffled[3].lines === first)
-                }
-              ]
-            } // data
-            res.send(data)
-          })
-        })
-      }) // getOneWork .then
-}) // function router.get
+      console.log('random work is ', work)
+      gameController.getOneCharacter(idno, num)
+        .then(function(characters) {
+          console.log('characters are: ', characters)
+          let first = characters[0].lines
+          let shuffled = util.shuffle(characters)
+          let data = {
+            question: `Of the following, which character from ${title} has the most lines?`,
+            questionType: 'character-weight',
+            options: [
+              {
+                label: shuffled[0].character,
+                lines: shuffled[0].lines,
+                isCorrect: (shuffled[0].lines === first)
+              },
+              {
+                label: shuffled[1].character,
+                lines: shuffled[1].lines,
+                isCorrect: (shuffled[1].lines === first)
+              },
+              {
+                label: shuffled[2].character,
+                lines: shuffled[2].lines,
+                isCorrect: (shuffled[2].lines === first)
+              },
+              {
+                label: shuffled[3].character,
+                lines: shuffled[3].lines,
+                isCorrect: (shuffled[3].lines === first)
+              }
+            ]
+          } // data
+          res.send(data)
+      }) // .then of getNRandomCharacters
+    }) // .then of getNWorks
+  }) // function router.get
 
 
 

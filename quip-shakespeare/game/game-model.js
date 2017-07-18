@@ -23,9 +23,9 @@ class Game {
     return db(works).select('*').whereIn('id', idArray)
   }
 
-  static get4RandomWorks(works) {
+  static getNRandomWorks(works, num) {
     console.log('GAME-MODEL: in get3RandomWorks')
-    return db(works).select('*').orderByRaw('RANDOM()').limit(4)
+    return db(works).select('*').orderByRaw('RANDOM()').limit(num)
   }
 
   static get3RandomWorksNotId(works, correctId) {
@@ -33,9 +33,10 @@ class Game {
     return db(works).select('*').whereNot('id', correctId).orderByRaw('RANDOM()').limit(3)
   }
 
-  static getRandomCharacter(workIdno) {
-    console.log('GAME-MODEL: in getCharacterByRowId')
-    return db('all_people').select('*').where('origin', workIdno).orderByRaw('RANDOM()').limit(1)
+  static getNRandomCharacters(workIdno, number) {
+    console.log('GAME-MODEL: in getNRandomCharacters')
+    return db('all_people').select('*').where('origin', 'Ham')
+    // .orderByRaw('RANDOM()').limit(number)
   }
 
   static getCharacterCount(tableName) {
