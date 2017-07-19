@@ -117,25 +117,24 @@ function getSpeechCount (doc) {
 // ===== PARSE SPEECH =====
 function parseSpeech(rawSpeechText) {
   // console.log(speeches.nodes.join('').split('\r\n').join(''))
-  let newArr = ['fuck you node']
+  // console.log('type of rawSpeechText is ', typeof rawSpeechText) // object
+  // console.log('object.values of incoming', Object.values(rawSpeechText))
+  // console.log('object.keys of incoming', Object.keys(rawSpeechText))
 
-  if (rawSpeechText) {
-    let parsedSpeechText = []
-    let arr = []
-    console.log(Object.keys(rawSpeechText[0]))
-    console.log(rawSpeechText);
-    rawSpeechText.forEach(function(el) {
-      arr.push(el.data)
-    }) // forEach
-
-
-    var re = '\r\n\r\n\r\n';
-    arr[0].split(re)
-
-    console.log(arr);
-  } // if (incoming data not empty)
-
-
+  // Object.values(rawSpeechText) gives an array of node objects
+  // Each of those node objects has a key called 'data' that contains the text
+  let dataArray = []
+  let nodes = Object.values(rawSpeechText)
+   nodes.forEach(function(node) {
+     if (node.data != '\r\n') {
+       dataArray.push(node.data)
+     }
+  })
+  var argh = dataArray.join()
+  console.log('typeof argh ', typeof argh);
+  console.log('arghj', argh);
+  let newargh = argh.split(', ,').join(',')
+  console.log('newargh', newargh);
   return rawSpeechText
 } // parseSpeech
 
