@@ -70,7 +70,9 @@ body {
   .graphic {
     img {
       max-width: 100%;
-
+    }
+    .preformatted-quote-text {
+      white-space: pre;
     }
   }
   .options {

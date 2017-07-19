@@ -114,31 +114,6 @@ function getSpeechCount (doc) {
 } // getSpeechCount
 
 
-// ===== PARSE SPEECH =====
-function parseSpeech(rawSpeechText) {
-  // console.log(speeches.nodes.join('').split('\r\n').join(''))
-  // console.log('type of rawSpeechText is ', typeof rawSpeechText) // object
-  // console.log('object.values of incoming', Object.values(rawSpeechText))
-  // console.log('object.keys of incoming', Object.keys(rawSpeechText))
-
-  // Object.values(rawSpeechText) gives an array of node objects
-  // Each of those node objects has a key called 'data' that contains the text
-  let dataArray = []
-  let nodes = Object.values(rawSpeechText)
-   nodes.forEach(function(node) {
-     if (node.data != '\r\n') {
-       dataArray.push(node.data)
-     }
-  })
-  var argh = dataArray.join()
-  console.log('typeof argh ', typeof argh);
-  console.log('arghj', argh);
-  let newargh = argh.split(', ,').join(',')
-  console.log('newargh', newargh);
-  return rawSpeechText
-} // parseSpeech
-
-
 // ===== GET SPEECH BY INDEX =====
 function getSpeechByIndex (doc, index) {
   let speechNodes = '/TEI/text/body/div1/div2/sp/ab[' + (index+1) + ']//text()'
@@ -153,18 +128,60 @@ function getSpeechByIndex (doc, index) {
     xpath.XPathResult.ANY_TYPE, // resultType
     null                        // result
   )
-  parseSpeech(speeches.nodes)
-  // return speeches.nodes.join('').split('\r\n\r\n').join(' ').split('  ').join('')
-  return speeches.nodes.join('')
-
+  return speeches.nodes.join('').split('\r\n\r\n').join(' ').split('  ').join('')
 }
 
+
+// ===== TEST 2 =====
+function newGetSpeech(doc, index) {
+  // the query below will get lb, w, c, and pc nodes
+  // let speechNodes = "/TEI/text/body/div1[1]/div2[1]/sp[1]/ab//*[self::lb | self::w | self::c | self::pc]"
+  // let parent = "/TEI/text/body/div1[1]/div2[1]/sp[1]/ab/"
+  let parent = '/TEI/text/body/div1/div2/sp/ab[' + (index+1) + ']/'
+  let speechNodes = `${parent}w` + ` | ` + `${parent}c` + ` | ` + `${parent}pc` + ` | ` + `${parent}lb`
+  // console.log('query will be ', speechNodes);
+   let result = xpath.evaluate(
+    speechNodes,                // xpathExpression
+    doc,                        // contextNode
+    null,                       // namespaceResolver
+    xpath.XPathResult.ANY_TYPE, // resultType
+    null                        // result
+  )
+  let node = result.iterateNext()
+  let speech = ""
+
+  while (node) {
+    if (node.nodeName == 'lb') {
+      speech = speech + '\n'
+      // speech = speech + '<br>'
+    }
+    if (node.nodeName == 'w') {
+      // node.childnodes[0].data will give you a word
+      // console.log('node.childNodes[0].data: ', node.childNodes[0].data)
+      speech = speech + node.childNodes[0].data
+  }
+    if (node.nodeName == 'pc') {
+      // node.childnodes[0].data will give you an item of punctuation
+      // console.log('node.childNodes[0].data: ', node.childNodes[0].data);
+      speech = speech + node.childNodes[0].data
+}
+    if (node.nodeName == 'c') {
+      // console.log('node.childNodes[0].data: ', node.childNodes[0].data);
+      speech = speech + ' '
+
+    }
+  node = result.iterateNext()
+}
+console.log('speech: ', speech)
+return speech
+} // newGetSpeech
 
 // ===== GET A RANDOM SPEECH PART 2: ELECTRIC BOOGALOO =====
 function getRandomSpeech (doc) {
   let speechCount = getSpeechCount(doc)
   let index = random(speechCount)
-  let randomSpeech = getSpeechByIndex(doc, index)
+  // let randomSpeech = getSpeechByIndex(doc, index)
+  let randomSpeech = newGetSpeech(doc, index)
   return randomSpeech
 }
 
@@ -195,5 +212,5 @@ module.exports = {
   getSpeechByIndex,
   getRandomSpeech,
   getSpeech,
-  parseSpeech
+  newGetSpeech
 }

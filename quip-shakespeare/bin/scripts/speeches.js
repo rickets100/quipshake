@@ -74,12 +74,12 @@ let doc = new dom().parseFromString(targetFile)
 
 
 // ===== TEST 2 =====
-function test2(play, contextNode) {
+function newGetSpeech(play, contextNode) {
   //the query below will get lb, w, c, and pc nodes
   // let speechNodes = "/TEI/text/body/div1[1]/div2[1]/sp[1]/ab//*[self::lb | self::w | self::c | self::pc]"
   let parent = "/TEI/text/body/div1[1]/div2[1]/sp[1]/ab/"
   let speechNodes = `${parent}w` + ` | ` + `${parent}c` + ` | ` + `${parent}pc` + ` | ` + `${parent}lb`
-  console.log('query will be ', speechNodes);
+  // console.log('query will be ', speechNodes);
    let result = xpath.evaluate(
     speechNodes,                // xpathExpression
     contextNode,                // contextNode
@@ -92,19 +92,12 @@ function test2(play, contextNode) {
 
   while (node) {
     if (node.nodeName == 'lb') {
-      // console.log('lb')
       speech = speech + '\n'
     }
     if (node.nodeName == 'w') {
       // node.childnodes[0].data will give you a word
       // console.log('node.childNodes[0].data: ', node.childNodes[0].data)
       speech = speech + node.childNodes[0].data
-      //
-      // console.log('w')
-      // console.log('object.keys on node.attributes[0] \n',Object.keys(node.attributes[0]))
-      // console.log('object.keys on node.attributes[1] \n',Object.keys(node.attributes[1]));
-      // console.log('node.attributes[1].localName', node.attributes[1].localName);
-      // console.log('node.attributes[1].value', node.attributes[1].value);
   }
     if (node.nodeName == 'pc') {
       // node.childnodes[0].data will give you an item of punctuation
@@ -119,6 +112,4 @@ function test2(play, contextNode) {
   node = result.iterateNext()
 }
 console.log('speech: ', speech)
-} // getSpeech
-
-test2(currentPlay, doc)
+} // newGetSpeech
