@@ -1,4 +1,6 @@
 const db = require('../db/connection')
+const reject = require('../bin/scripts/utility-functions').rejectCharacter
+const regex = '*.*'
 
 class Game {
   constructor () {}
@@ -15,20 +17,25 @@ class Game {
     return db(works).select('*').where('idno', idno).first()
   }
 
-
   // get N random works
-  static getNRandomWorks(works, num) {
-    return db(works).select('*').orderByRaw('RANDOM()').limit(num)
+  static getNRandomWorks(works, num, toBeExcluded = []) {
+    console.log('MODEL: GETNRANDOMWORKS, toBeExcluded', toBeExcluded);
+    return db(works).select('*').whereNotIn('idno', toBeExcluded).orderByRaw('RANDOM()').limit(num)
+  }
+
+  // get N random works, excluding those that lack a character list
+  // exclude idnos = luc, pht, son, ven
+  static getNRandomWorksNoChar(works, num, toBeExcluded = []) {
+    return db(works).select('*').whereNotIn('idno', toBeExcluded).orderByRaw('RANDOM()').limit(num)
   }
 
   // get N random works, excluding the "correct" work
-  static getNRandomWorksNotId(works, correctWorkIdno) {
+  static getNRandomWorksNotId(works, correctWorkIdno, toBeExcluded = []) {
     return db(works).select('*').whereNot('idno', correctWorkIdno).orderByRaw('RANDOM()').limit(3)
   }
 
-
   // get N random works, excluding the "correct" work and a given character
-  static test(works, correctWorkIdno, character) {
+  static test(works, correctWorkIdno, character, toBeExcluded = []) {
     return db(works)
     .select('*')
     .innerJoin('all_people', 'works.idno', 'all_people.origin')
@@ -46,18 +53,23 @@ class Game {
     .orderByRaw('RANDOM()').limit(3)
   }
 
-
-  static getNRandomCharacters(workIdno, number) {
+  static getNRandomCharacters(workIdno, number, toBeExcluded = []) {
+    console.log('MODEL: getNRandomCharacters, workIdno is ', workIdno)
+    console.log('MODEL num is ', number);
+    console.log('MODEL: toBeExcluded is ^^^^ ', toBeExcluded);
     return db('all_people').select('*').where('origin', workIdno)
     .orderByRaw('RANDOM()').limit(number)
+    // return db('all_people').select('*').where('origin', workIdno).havingRaw('character <>', regex).orderByRaw('RANDOM()').limit(number)
   }
+
+
+// db.raw()
+
+
+
 
   static getCharacterCount(tableName) {
     return db(tableName).count('id').first()
-  }
-
-  static getNCharacters(tableName, idArray) {
-    return db(tableName).select('*').whereIn('id', idArray)
   }
 
 }

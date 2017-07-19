@@ -7,7 +7,6 @@ const bodyParser = require('body-parser')
 require('dotenv').config()
 
 var apiRoutes = require('./routes/api') // api.js in routes
-// var users = require('./routes/users')
 
 var app = express()
 
@@ -26,7 +25,6 @@ app.use(cookieParser())
 app.use(express.static(path.join(__dirname, 'public')))
 
 app.use('/api', apiRoutes);
-// app.use('/users', users)
 
 app.use('*', function(req, res, next) {
   res.sendFile('index.html', {root: path.join(__dirname, 'public')})

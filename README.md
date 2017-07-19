@@ -1,11 +1,18 @@
 # quipshake
 Q4 Project
 
+# Why
+To demonstrate the viability of, and need for, a good API for the Folger Digital Texts. Case in point: listen to what this professor from the University of Calgary says in an article in The Spenser Review:
+
+"I direct a project to analyze Shakespeare’s rhetorical figures, and have approached the FDT’s developers about how research teams like mine can extract speeches (minus prefixes) from plays, and analyze their clausal syntax. (Knowing that “Featured like him, like him with friends possessed” is two clauses helps identify its anadiplosis.) I understand that the FDT’s editors are working to make this extraction easier, and they know they can’t anticipate every possible extraction and transformation."
+
+(source: Michael Ullyot, "Mark me: Using the Folger Digital Texts," Spenser Review 44.1.7 (Spring-Summer 2014). http://www.english.cam.ac.uk/spenseronline/review/volume-44/441/digital-projects/folger-digital-texts)
+
 
 # Available APIs
 Folger Digital Texts API
 http://www.folgerdigitaltexts.org/api
-(full texts of Shakespeare's plays)
+(full texts of Shakespeare's plays for download in XML format, and limited information on character and word breakdowns, available as html)
 
 Netflix API
 https://www.programmableweb.com/api/netflix

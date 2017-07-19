@@ -43,19 +43,19 @@ function randomArray (num, upperLimit, correct) {
 } // randomArray
 
 
-// ===== GET A RANDOM PLAY =====
+// ===== GET A RANDOM PLAY ✅ =====
 function getRandomPlay() {
   return playList[randomNum(canon)]
 } // getRandomPlay
 
 
-// ===== GET A RANDOM QUESTION TYPE =====
+// ===== GET A RANDOM QUESTION TYPE ✅ =====
 function getRandomQuestionType() {
   return playList[randomNum(canon)]
 } // getRandomQuestionType
 
 
-// ===== RANDOMIZE AN ARRAY (FISHER-YATES)  ✅ =====
+// ===== RANDOMIZE AN ARRAY (FISHER-YATES) ✅ =====
 // this is a well-known algorithm = not my code
 function shuffle(array) {
   let i = 0,
@@ -72,14 +72,19 @@ function shuffle(array) {
 }
 
 
-// ===== SORT AN ARRAY BY ORDER KEY =====
-function sortArrayByOrder(objArray) {
-  let orderNums = objArray.map(function(obj) {
-  return obj.order
+// ===== SORT AN ARRAY BY KEY ✅ =====
+function sortArrayByKey(objArray, val) {
+  let arrKeys = objArray.map(function(obj) {
+    return obj[val]
   })
-  return orderNums.sort(function(a,b) { return a - b })
+  return arrKeys.sort(function(a,b) { return a - b })
 }
 
+// ===== ASSESS WHETHER A STRING HAS A CAPITAL LETTER AT INDEX 1 ======
+function rejectCharacter(character) {
+  console.log('assessing character name', ((character.charCodeAt(1) > 65) && (character.charCodeAt(1) < 90)))
+  return ((character.charCodeAt(1) > 65) && (character.charCodeAt(1) < 90))
+}
 
 module.exports = {
   randomNum,
@@ -88,5 +93,6 @@ module.exports = {
   getRandomQuestionType,
   loadXml,
   shuffle,
-  sortArrayByOrder
+  sortArrayByKey,
+  rejectCharacter
 }

@@ -5,7 +5,8 @@ const fs = require('file-system')
 const path = require('path')
 const dom = require('xmldom').DOMParser
 const util = require('../bin/scripts/utility-functions')
-const canon = 38
+const canon = 42
+const excludeList = ['Luc', 'PhT', 'Son', 'Ven']
 
 
 // @@@@@@@@@@@@ API ROUTES @@@@@@@@@@@@
@@ -64,11 +65,11 @@ router.get('/chronology', function(req, res, next) {
 
   gameController.getNRandomWorks(numOptions)
     .then(function(options) {
-      let inOrder = util.sortArrayByOrder(options)
+      let inOrder = util.sortArrayByKey(options, 'order')
       let first = inOrder[0]
       let data = {
         imageUpdate: false,
-        question: 'Which play was published first?',
+        question: 'Which work was published first?',
         questionType: 'chronology',
         options:[
           {
@@ -113,17 +114,18 @@ router.get('/chronology', function(req, res, next) {
 // ===== CHARACTER-WEIGHT =====
 router.get('/character-weight', function(req, res, next) {
 
-  gameController.getNRandomWorks(1)
+  gameController.getNRandomWorks(1, excludeList)
     .then(function(work) {
       let title = work[0].title
       let id = work[0].id
       let idno = work[0].idno
       let num = 4 // hardcoded for now
-      console.log('character weight, work is ', work);
-      gameController.getNCharacters(idno, num)
+      gameController.getNCharacters(idno, num, excludeList)
         .then(function(characters) {
-          let first = characters[0].lines
           let shuffled = util.shuffle(characters)
+          let inOrder = (util.sortArrayByKey(characters, 'lines')).reverse()
+          let first = inOrder[0]
+
           let data = {
             imageUpdate: false,
             question: `Of the following, which character from ${title} has the most lines?`,
@@ -162,22 +164,24 @@ router.get('/character-weight', function(req, res, next) {
 // ===== CHARACTER-ORIGIN =====
 router.get('/character-origin', function(req, res, next) {
   let sample = 'CHARACTER NAME'
+  console.log('API:GETNRANDOMWORKS excludeList is ', excludeList);
 
-  gameController.getNRandomWorks(1)
+  gameController.getNRandomWorks(1, excludeList)
     .then(function(correctOption) {
     let correctWorkId = correctOption[0].id
     let correctWorkIdno = correctOption[0].idno
     let correctWorkTitle = correctOption[0].title
-    let numOptions = 3 // hardcoded for testing for now
-    gameController.getNCharacters(correctWorkIdno, 1)
+    let numOptions = 3 // hardcoded for now
+    gameController.getNCharacters(correctWorkIdno, 1, excludeList)
       .then(function(character) {
-      gameController.test3RandomWorks(correctWorkIdno, character[0]).then(function(wrongOptions) {
+        console.log('IN THE THEN, ');
+      gameController.test3RandomWorks(correctWorkIdno, character[0], excludeList).then(function(wrongOptions) {
         let selectedCharacter = character[0].character
         wrongOptions.push(correctOption[0])
         let shuffled = util.shuffle(wrongOptions)
         let data = {
           imageUpdate: false,
-          question: `In which play does the character of ${character} appear?`,
+          question: `In which play does the character of ${selectedCharacter} appear?`,
           questionType: 'character-origin',
           correctTitle: correctWorkTitle,
           options:[
@@ -210,7 +214,7 @@ router.get('/character-origin', function(req, res, next) {
 router.get('/quote-origin', function(req, res, next) {
 // will need to limit the size of the text (at least a certain length, but maybe truncated if too long)
 
-  gameController.getNRandomWorks(1)
+  gameController.getNRandomWorks(1, excludeList)
     .then(function(correctOption) {
       let correctTitle = correctOption[0].title
 
@@ -245,7 +249,7 @@ router.get('/quote-origin', function(req, res, next) {
         } // data
       res.send (data)
     }) // .then of get3RandomWorks
-  }) // .then of getOneWork
+  }) // .then of getNRandomWorks
 }) // QUOTE-ORIGIN
 
 

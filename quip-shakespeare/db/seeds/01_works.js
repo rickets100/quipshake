@@ -9,7 +9,8 @@ exports.seed = function(knex) {
         yearFirst: 1596,
         yearText: '1596-1597',
         order: 18,
-        idno: '1H4'},
+        idno: '1H4',
+        type: 'play'},
 
         {id: 2,
         xmlName: '1H6.xml',
@@ -18,7 +19,8 @@ exports.seed = function(knex) {
         yearFirst: 1591,
         yearText: '1591-1592',
         order: 5,
-        idno: '1H6'},
+        idno: '1H6',
+        type: 'play'},
 
         {id: 3,
         xmlName: '2H4.xml',
@@ -27,7 +29,8 @@ exports.seed = function(knex) {
         yearFirst: 1597,
         yearText: '1597-1598',
         order: 20,
-        idno: '2H4'},
+        idno: '2H4',
+        type: 'play'},
 
         {id: 4,
         xmlName: '2H6.xml',
@@ -36,7 +39,8 @@ exports.seed = function(knex) {
         yearFirst: 1591,
         yearText: '1591',
         order: 3,
-        idno: '2H6'},
+        idno: '2H6',
+        type: 'play'},
 
         {id: 5,
         xmlName: '3H6.xml',
@@ -45,7 +49,8 @@ exports.seed = function(knex) {
         yearFirst: 1591,
         yearText: '1591',
         order: 4,
-        idno: '3H6'},
+        idno: '3H6',
+        type: 'play'},
 
         {id: 6,
         xmlName: 'AWW.xml',
@@ -54,7 +59,8 @@ exports.seed = function(knex) {
         yearFirst: 1604,
         yearText: '1604-1605',
         order: 30,
-        idno: 'AWW'},
+        idno: 'AWW',
+        type: 'play'},
 
         {id: 7,
         xmlName: 'AYL.xml',
@@ -63,7 +69,8 @@ exports.seed = function(knex) {
         yearFirst: 1599,
         yearText: '1599-1600',
         order: 23,
-        idno: 'AYL'},
+        idno: 'AYL',
+        type: 'play'},
 
         {id: 8,
         xmlName: 'Ado.xml',
@@ -72,7 +79,8 @@ exports.seed = function(knex) {
         yearFirst: 1598,
         yearText: '1598-1599',
         order: 20,
-        idno: 'Ado'},
+        idno: 'Ado',
+        type: 'play'},
 
         {id: 9,
         xmlName: 'Ant.xml',
@@ -81,7 +89,8 @@ exports.seed = function(knex) {
         yearFirst: 1606,
         yearText: '1606',
         order: 34,
-        idno: 'Ant'},
+        idno: 'Ant',
+        type: 'play'},
 
         {id: 10,
         xmlName: 'Cor.xml',
@@ -90,7 +99,8 @@ exports.seed = function(knex) {
         yearFirst: 1608,
         yearText: '1608',
         order: 36,
-        idno: 'Cor'},
+        idno: 'Cor',
+        type: 'play'},
 
         {id: 11,
         xmlName: 'Cym.xml',
@@ -99,7 +109,8 @@ exports.seed = function(knex) {
         yearFirst: 1610,
         yearText: '1610',
         order: 39,
-        idno: 'Cym'},
+        idno: 'Cym',
+        type: 'play'},
 
         {id: 12,
         xmlName: 'Err.xml',
@@ -108,7 +119,8 @@ exports.seed = function(knex) {
         yearFirst: 1594,
         yearText: '1594',
         order: 10,
-        idno: 'Err'},
+        idno: 'Err',
+        type: 'play'},
 
         {id: 13,
         xmlName: 'H5.xml',
@@ -117,7 +129,8 @@ exports.seed = function(knex) {
         yearFirst: 1599,
         yearText: '1599',
         order: 21,
-        idno: 'H5'},
+        idno: 'H5',
+        type: 'play'},
 
         {id: 14,
         xmlName: 'H8.xml',
@@ -126,7 +139,8 @@ exports.seed = function(knex) {
         yearFirst: 1612,
         yearText: '1612-1618',
         order: 41,
-        idno: 'H8'},
+        idno: 'H8',
+        type: 'play'},
 
         {id: 15,
         xmlName: 'Ham.xml',
@@ -135,7 +149,8 @@ exports.seed = function(knex) {
         yearFirst: 1599,
         yearText: '1599-1601',
         order: 24,
-        idno: 'Ham'},
+        idno: 'Ham',
+        type: 'play'},
 
         {id: 16,
         xmlName: 'JC.xml',
@@ -144,7 +159,8 @@ exports.seed = function(knex) {
         yearFirst: 1599,
         yearText: '1599',
         order: 22,
-        idno: 'JC'},
+        idno: 'JC',
+        type: 'play'},
 
         {id: 17,
         xmlName: 'Jn.xml',
@@ -153,7 +169,8 @@ exports.seed = function(knex) {
         yearFirst: 1596,
         yearText: '1596',
         order: 16,
-        idno: 'Jn'},
+        idno: 'Jn',
+        type: 'play'},
 
         {id: 18,
         xmlName: 'LLL.xml',
@@ -162,7 +179,8 @@ exports.seed = function(knex) {
         yearFirst: 1594,
         yearText: '1594-1595',
         order: 11,
-        idno: 'LLL'},
+        idno: 'LLL',
+        type: 'play'},
 
         {id: 19,
         xmlName: 'Lr.xml',
@@ -171,7 +189,8 @@ exports.seed = function(knex) {
         yearFirst: 1605,
         yearText: '1605-1606',
         order: 31,
-        idno: 'Lr'},
+        idno: 'Lr',
+        type: 'play'},
 
         {id: 20,
         xmlName: 'MM.xml',
@@ -180,7 +199,8 @@ exports.seed = function(knex) {
         yearFirst: 1603,
         yearText: '1603-1604',
         order: 28,
-        idno: 'MM'},
+        idno: 'MM',
+        type: 'play'},
 
         {id: 21,
         xmlName: 'MND.xml',
@@ -189,7 +209,8 @@ exports.seed = function(knex) {
         yearFirst: 1595,
         yearText: '1595',
         order: 15,
-        idno: 'MND'},
+        idno: 'MND',
+        type: 'play'},
 
         {id: 22,
         xmlName: 'MV.xml',
@@ -198,7 +219,8 @@ exports.seed = function(knex) {
         yearFirst: 1596,
         yearText: '1596-1597',
         order: 17,
-        idno: 'MV'},
+        idno: 'MV',
+        type: 'play'},
 
         {id: 23,
         xmlName: 'Mac.xml',
@@ -207,7 +229,8 @@ exports.seed = function(knex) {
         yearFirst: 1606,
         yearText: '1606',
         order: 33,
-        idno: 'Mac'},
+        idno: 'Mac',
+        type: 'play'},
 
         {id: 24,
         xmlName: 'Oth.xml',
@@ -216,7 +239,8 @@ exports.seed = function(knex) {
         yearFirst: 1603,
         yearText: '1603-1604',
         order: 29,
-        idno: 'Oth'},
+        idno: 'Oth',
+        type: 'play'},
 
         {id: 25,
         xmlName: 'Per.xml',
@@ -225,7 +249,8 @@ exports.seed = function(knex) {
         yearFirst: 1607,
         yearText: '1607-1608',
         order: 35,
-        idno: 'Per'},
+        idno: 'Per',
+        type: 'play'},
 
         {id: 26,
         xmlName: 'R2.xml',
@@ -234,7 +259,8 @@ exports.seed = function(knex) {
         yearFirst: 1595,
         yearText: '1595',
         order: 13,
-        idno: 'R2'},
+        idno: 'R2',
+        type: 'play'},
 
         {id: 27,
         xmlName: 'R3.xml',
@@ -243,7 +269,8 @@ exports.seed = function(knex) {
         yearFirst: 1592,
         yearText: '1592-1593',
         order: 7,
-        idno: 'R3'},
+        idno: 'R3',
+        type: 'play'},
 
         {id: 28,
         xmlName: 'Rom.xml',
@@ -252,7 +279,8 @@ exports.seed = function(knex) {
         yearFirst: 1595,
         yearText: '1595',
         order: 14,
-        idno: 'Rom'},
+        idno: 'Rom',
+        type: 'play'},
 
         {id: 29,
         xmlName: 'Shr.xml',
@@ -261,7 +289,8 @@ exports.seed = function(knex) {
         yearFirst: 1590,
         yearText: '1590-1591',
         order: 2,
-        idno: 'Shr'},
+        idno: 'Shr',
+        type: 'play'},
 
         {id: 30,
         xmlName: 'TGV.xml',
@@ -270,7 +299,8 @@ exports.seed = function(knex) {
         yearFirst: 1589,
         yearText: '1589-1591',
         order: 1,
-        idno: 'TGV'},
+        idno: 'TGV',
+        type: 'play'},
 
         {id: 31,
         xmlName: 'TN.xml',
@@ -279,7 +309,8 @@ exports.seed = function(knex) {
         yearFirst: 1601,
         yearText: '1601',
         order: 26,
-        idno: 'TN'},
+        idno: 'TN',
+        type: 'play'},
 
         {id: 32,
         xmlName: 'TNK.xml',
@@ -288,7 +319,8 @@ exports.seed = function(knex) {
         yearFirst: 1589,
         yearText: '1589-1591',
         order: 42,
-        idno: 'TNK'},
+        idno: 'TNK',
+        type: 'play'},
 
         {id: 33,
         xmlName: 'Tim.xml',
@@ -297,7 +329,8 @@ exports.seed = function(knex) {
         yearFirst: 1605,
         yearText: '1605-1606',
         order: 32,
-        idno: 'Tim'},
+        idno: 'Tim',
+        type: 'play'},
 
         {id: 34,
         xmlName: 'Tit.xml',
@@ -306,7 +339,8 @@ exports.seed = function(knex) {
         yearFirst: 1591,
         yearText: '1591-1592',
         order: 6,
-        idno: 'Tit'},
+        idno: 'Tit',
+        type: 'play'},
 
         {id: 35,
         xmlName: 'Tmp.xml',
@@ -315,7 +349,8 @@ exports.seed = function(knex) {
         yearFirst: 1610,
         yearText: '1610-1611',
         order: 40,
-        idno: 'Tmp'},
+        idno: 'Tmp',
+        type: 'play'},
 
         {id: 36,
         xmlName: 'Tro.xml',
@@ -324,7 +359,8 @@ exports.seed = function(knex) {
         yearFirst: 1600,
         yearText: '1600-1602',
         order: 27,
-        idno: 'Tro'},
+        idno: 'Tro',
+        type: 'play'},
 
         {id: 37,
         xmlName: 'WT.xml',
@@ -333,7 +369,8 @@ exports.seed = function(knex) {
         yearFirst: 1609,
         yearText: '1609-1611',
         order: 38,
-        idno: 'WT'},
+        idno: 'WT',
+        type: 'play'},
 
         {id: 38,
         xmlName: 'Wiv.xml',
@@ -342,7 +379,48 @@ exports.seed = function(knex) {
         yearFirst: 1597,
         yearText: '1597',
         order: 19,
-        idno: 'Wiv'}
+        idno: 'Wiv',
+        type: 'play'},
+
+        {id: 39,
+        xmlName: 'Luc.xml',
+        jsName: 'Luc.js',
+        title: 'Lucrece',
+        yearFirst: 1594,
+        yearText: '1594',
+        order: 12,
+        idno: 'Luc',
+        type: 'poem'},
+
+        {id: 40,
+        xmlName: 'PhT.xml',
+        jsName: 'PhT.js',
+        title: 'The Phoenix and Turtle',
+        yearFirst: 1601,
+        yearText: '1601',
+        order: 25,
+        idno: 'PhT',
+        type: 'poem'},
+
+        {id: 41,
+        xmlName: 'Son.xml',
+        jsName: 'Son.js',
+        title: 'Sonnets',
+        yearFirst: 1609,
+        yearText: '1609',
+        order: 37,
+        idno: 'Son',
+        type: 'poem'},
+
+        {id: 42,
+        xmlName: 'Ven.xml',
+        jsName: 'Ven.js',
+        title: 'Venus and Adonis',
+        yearFirst: 1593,
+        yearText: '1593',
+        order: 9,
+        idno: 'Ven',
+        type: 'poem'}
       ])
     })
     .then(() => {
@@ -351,39 +429,3 @@ exports.seed = function(knex) {
       )
     })
 }
-
-// {id: 20,
-// xmlName: 'Luc.xml',
-// jsName: 'Luc.js',
-// title: 'Lucrece',
-// yearFirst: 1594,
-// yearText: '1594',
-// order: 12,
-// idno: 'Luc'},
-
-// {id: 27,
-// xmlName: 'PhT.xml',
-// jsName: 'PhT.js',
-// title: 'The Phoenix and Turtle',
-// yearFirst: 1601,
-// yearText: '1601',
-// order: 25,
-// idno: 'Pht'},
-
-// {id: 32,
-// xmlName: 'Son.xml',
-// jsName: 'Son.js',
-// title: 'Sonnets',
-// yearFirst: 1609,
-// yearText: '1609',
-// order: 37,
-// idno: 'Son'},
-
-// {id: 40,
-// xmlName: 'Ven.xml',
-// jsName: 'Ven.js',
-// title: 'Venus and Adonis',
-// yearFirst: 1593,
-// yearText: '1593',
-// order: 9,
-// idno: 'Ven'},
