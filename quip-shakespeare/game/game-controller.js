@@ -62,7 +62,6 @@ function getOneWork() {
 
 // ===== GET N RANDOM WORKS  ✅ ===
 function getNRandomWorks(num, toBeExcluded = []) {
-  console.log('CONTROLLER: GETNRANDOMWORKS, toBeExcluded is ', toBeExcluded)
   return game.getNRandomWorks('works', num, toBeExcluded)
 }
 
@@ -114,6 +113,7 @@ function getSpeechCount (doc) {
     xpath.XPathResult.ANY_TYPE, // resultType
     null                        // result
   )
+
   return speeches.numberValue
 }
 
@@ -140,7 +140,7 @@ function getSpeechCount (doc) {
 function newGetSpeech(doc, index) {
   // the query below will get lb, w, c, and pc nodes
   // let speechNodes = "/TEI/text/body/div1[1]/div2[1]/sp[1]/ab//*[self::lb | self::w | self::c | self::pc]"
-  let parent = '/TEI/text/body/div1[@type="act"]/div2[@type="scene"]/sp/ab[' + (index+1) + ']/'
+  let parent = '/TEI/text/body/div1[@type="act"]/div2[@type="scene"]/sp/ab[' + (index) + ']/'
   let speechNodes = `${parent}w` + ` | ` + `${parent}c` + ` | ` + `${parent}pc` + ` | ` + `${parent}lb`
   let result = xpath.evaluate(
       speechNodes,                // xpathExpression
@@ -161,11 +161,15 @@ function newGetSpeech(doc, index) {
     if (node.nodeName == 'w') {
       // node.childnodes[0].data will give you a word
       wordCount++
-      speech = speech + node.childNodes[0].data
+      if (node.childNodes[0].data) {
+        speech = speech + node.childNodes[0].data
+      }
   }
     if (node.nodeName == 'pc') {
       // node.childnodes[0].data will give you an item of punctuation
-      speech = speech + node.childNodes[0].data
+      if (node.childNodes[0].data) {
+        speech = speech + node.childNodes[0].data
+      }
 }
     if (node.nodeName == 'c') {
       // node.childnodes[0].data will give you a space
@@ -174,16 +178,19 @@ function newGetSpeech(doc, index) {
     }
   node = result.iterateNext()
 }
-console.log('speech: ', speech)
-console.log('length of speech is ', wordCount)
+console.log('MODEL: newGetSpeech...speech is ', speech)
+console.log('MODEL: newGetSpeech...length of speech is ', wordCount)
 return speech
-} // newGetSpeech
+}
+
 
 // ===== GET A RANDOM SPEECH PART 2: ELECTRIC BOOGALOO =====
 function getRandomSpeech (doc) {
   let speechCount = getSpeechCount(doc)
   let index = random(speechCount)
   let randomSpeech = newGetSpeech(doc, index)
+  console.log('MODEL: getRandomSpeech...speechCount is ', speechCount)
+  console.log('MODEL: getRandomSpeech...index is ', index, '\n')
   return randomSpeech
 }
 

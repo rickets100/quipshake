@@ -10329,13 +10329,13 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 
 /* line 17, ../scss/main.scss */
 body {
-  background-color: rgba(202, 196, 206, 0.8);
+  background-color: rgba(240, 240, 243, 0.8);
 }
 
 @media only screen and (min-width: 992px) {
   /* line 23, ../scss/main.scss */
   body {
-    background-color: rgba(225, 239, 238, 0.7);
+    background-color: white;
     color: #242038;
   }
 }

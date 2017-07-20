@@ -24,21 +24,15 @@
     vm.showImage = true
     vm.showQuoteBody = false
     vm.quoteBody = ''
-    vm.showChart = false
+    vm.showChart = true
 
 
     // ===== INIT =====
-    vm.$onInit = function (){
+    vm.$onInit = function () {
       vm.updateGameState()
-      // $http.get(`${baseUrl}/api/game`)
-      // .then((result)=>{
-      //   console.log('INIT')
-      //   vm.currentQuestion = 'How well do you know your Shakespeare?'
-      //   vm.answerOptions = [{label: 'hi'}]
-      //
-      // })
-    }
+    } // on.init
 
+    // ===== ITEM CLICKED =====
     vm.itemClicked = function ($index) {
         // console.log('heeeeere', $index)
         vm.selectedIndex = $index
@@ -105,7 +99,37 @@
     }
 
 
-    // ===== UPDATE IMAGE PART =====
+    // ===== UPDATE CHART =====
+    function updateChart() {
+      vm.labels = ["January", "February", "March", "April", "May", "June", "July"];
+      vm.series = ['Series A', 'Series B'];
+      vm.data = [
+        [65, 59, 80, 81, 56, 55, 40],
+        [28, 48, 40, 19, 86, 27, 90]
+      ]
+      vm.datasetOverride = [{ yAxisID: 'y-axis-1' }, { yAxisID: 'y-axis-2' }];
+      vm.options = {
+        scales: {
+          yAxes: [
+            {
+              id: 'y-axis-1',
+              type: 'linear',
+              display: true,
+              position: 'left'
+            },
+            {
+              id: 'y-axis-2',
+              type: 'linear',
+              display: true,
+              position: 'right'
+            }
+          ]
+        }
+      }
+    } // update chart
+
+
+    // ===== UPDATE GRAPHIC PART =====
     vm.updateImage = function (quoteBody) {
       console.log('***** in the updateImage function *****')
       console.log(quoteBody)

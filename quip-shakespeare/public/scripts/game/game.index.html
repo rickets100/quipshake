@@ -11,30 +11,34 @@
   <div class="row">
     <div class="col-12 col-sm-6 graphic hidden-xs-down">
       <!-- <img src="/images/shakespeare-cartoon.png"/> -->
-      <img ng-hide=!$ctrl.showImage src="{{$ctrl.graphic}}">
+      <div>
+        <img ng-hide=!$ctrl.showImage src="{{$ctrl.graphic}}">
+      </div>
       <div class="preformatted-quote-text">
         <p ng-hide=!$ctrl.showQuoteBody>{{$ctrl.quoteBody}}
-      </div>
-      <!-- <div ng-hide=$ctrl -->
-    </div> <!-- end column graphic-->
-    <div class="col-12 col-sm-6 options-answers">
-      <div class="options">
-        <div ng-repeat="option in $ctrl.answerOptions track by $index" class="radio">
-          <label><input
-            ng-click="$ctrl.updateAnswer(option.isCorrect, option.label, true, $index)" ng-model="checked"
-            ng-init="checked=false"
-            type="checkbox"
-            name="optradio"> {{option.label}} <span ng-if="checked && !option.isCorrect == true" class="animate-if"> X </span></label>
         </div>
-      </div>
+        <div>
+        </div>
+        <!-- <div ng-hide=$ctrl -->
+      </div> <!-- column -->
+      <div class="col-12 col-sm-6 options-answers">
+        <div class="options">
+          <div ng-repeat="option in $ctrl.answerOptions track by $index" class="radio">
+            <label><input
+              ng-click="$ctrl.updateAnswer(option.isCorrect, option.label, true, $index)" ng-model="checked"
+              ng-init="checked=false"
+              type="checkbox"
+              name="optradio"> {{option.label}} <span ng-if="checked && !option.isCorrect == true" class="animate-if"> X </span></label>
+            </div>
+          </div> <!-- column -->
 
-<!-- stuff below worked -->
-      <!-- <div class="options">
-        <div ng-repeat="option in $ctrl.answerOptions track by $index" class="radio">
+          <!-- stuff below worked -->
+          <!-- <div class="options">
+          <div ng-repeat="option in $ctrl.answerOptions track by $index" class="radio">
           <label><input
-            ng-click="$ctrl.updateAnswer(option.isCorrect, option.label, true, $index)" ng-model="clicked"
-            type="radio"
-            name="optradio"> {{option.label}} {{option.isCorrect}}<span ng-if="!option.isCorrect"> X </span></label>
+          ng-click="$ctrl.updateAnswer(option.isCorrect, option.label, true, $index)" ng-model="clicked"
+          type="radio"
+          name="optradio"> {{option.label}} {{option.isCorrect}}<span ng-if="!option.isCorrect"> X </span></label>
         </div>
       </div> -->
 
@@ -63,8 +67,8 @@
 
 
     <select ng-model="home">
-    <option value="incorrect">is not correct</option>
-    <option value="iscorrect">is correct</option>
+      <option value="incorrect">is not correct</option>
+      <option value="iscorrect">is correct</option>
     </select>
 
     <div ng-class="home">
@@ -72,9 +76,13 @@
       <p>yay</p>
     </div>
 
-    </div> <!-- column -->
-  </div> <!-- row -->
+  </div> <!-- column -->
+</div> <!-- row -->
 </div> <!-- testing -->
 <div ng-repeat="option in $ctrl.answerOptions track by $index"  class="radio">
   <label><input ng-click="$ctrl.updateAnswer(option.isCorrect, option.label, true, $index)" class="answered" type="radio" name="optradio">  {{option.label}} {{option.isCorrect}}<span ng-hide="false" class="ng-hide x-marker"> X </span></label>
 </div>
+<canvas id="line" class="chart chart-line" chart-data="$ctrl.data"
+  chart-labels="$ctrl.labels" chart-series="$ctrl.series" chart-options="$ctrl.options"
+  chart-dataset-override="$ctrl.datasetOverride">
+</canvas>

@@ -113,7 +113,6 @@ router.get('/chronology', function(req, res, next) {
 
 // ===== CHARACTER-WEIGHT =====
 router.get('/character-weight', function(req, res, next) {
-
   gameController.getNRandomWorks(1, excludeList)
     .then(function(work) {
       let title = work[0].title
@@ -130,7 +129,7 @@ router.get('/character-weight', function(req, res, next) {
             imageUpdate: false,
             question: `Of the following, which character from ${title} has the most lines?`,
             questionType: 'character-weight',
-            workTitle: work.title,
+            workTitle: work[0].title,
             options: [
               {
                 label: shuffled[0].character,
@@ -164,7 +163,6 @@ router.get('/character-weight', function(req, res, next) {
 // ===== CHARACTER-ORIGIN =====
 router.get('/character-origin', function(req, res, next) {
   let sample = 'CHARACTER NAME'
-  console.log('API:GETNRANDOMWORKS excludeList is ', excludeList);
 
   gameController.getNRandomWorks(1, excludeList)
     .then(function(correctOption) {
@@ -174,7 +172,6 @@ router.get('/character-origin', function(req, res, next) {
     let numOptions = 3 // hardcoded for now
     gameController.getNCharacters(correctWorkIdno, 1, excludeList)
       .then(function(character) {
-        console.log('IN THE THEN, ');
       gameController.test3RandomWorks(correctWorkIdno, character[0], excludeList).then(function(wrongOptions) {
         let selectedCharacter = character[0].character
         wrongOptions.push(correctOption[0])
@@ -217,7 +214,7 @@ router.get('/quote-origin', function(req, res, next) {
   gameController.getNRandomWorks(1, excludeList)
     .then(function(correctOption) {
       let correctTitle = correctOption[0].title
-
+      console.log('API QUOTE ORIGIN...working with ', correctTitle);
       gameController.get3RandomWorks(correctOption).then(function(wrongOptions) {
         wrongOptions.push(correctOption[0])
         let shuffled = util.shuffle(wrongOptions)
@@ -260,7 +257,7 @@ router.get ('/word-frequency', function(req, res, next) {
   // knex has a 'not in' option (for common words list) and get give the results in random order
 
   // It is possible in a single SQL statment to say 'give me 4 random rows that are from play X and do not contain the words in this list'
-  let example = 'SAMPLE TITLE'
+  let example = 'Hamlet'
   let data = {
     imageUpdate: false,
     question: `Which of the following occurs more frequently in ${example}?`,

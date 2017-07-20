@@ -15,13 +15,13 @@ $testing-red: rgba(194,51,8,.9);
 // below is default stuff for small screen
 // breakpoints are the same as bootstrap's
 body {
-  background-color: $recurring-grey;
+  background-color: $recurring-white;
 }
 
 // below are instructions for changes to make when viewed on large screen
 @include bp-large {
   body {
-    background-color: $recurring-green;
+    background-color: white;
     color: $recurring-black
   }
 }

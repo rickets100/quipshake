@@ -4,6 +4,7 @@ const favicon = require('serve-favicon')
 const logger = require('morgan')
 const cookieParser = require('cookie-parser')
 const bodyParser = require('body-parser')
+const Chart = require('chart.js')
 require('dotenv').config()
 
 var apiRoutes = require('./routes/api') // api.js in routes
@@ -23,6 +24,7 @@ app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({ extended: false }))
 app.use(cookieParser())
 app.use(express.static(path.join(__dirname, 'public')))
+app.use(express.static(path.join(__dirname, './', 'node_modules')))
 
 app.use('/api', apiRoutes);
 

@@ -19,7 +19,6 @@ class Game {
 
   // get N random works
   static getNRandomWorks(works, num, toBeExcluded = []) {
-    console.log('MODEL: GETNRANDOMWORKS, toBeExcluded', toBeExcluded);
     return db(works).select('*').whereNotIn('idno', toBeExcluded).orderByRaw('RANDOM()').limit(num)
   }
 
@@ -54,11 +53,11 @@ class Game {
   }
 
   static getNRandomCharacters(workIdno, number, toBeExcluded = []) {
-    console.log('MODEL: getNRandomCharacters, workIdno is ', workIdno)
-    console.log('MODEL num is ', number);
-    console.log('MODEL: toBeExcluded is ^^^^ ', toBeExcluded);
-    return db('all_people').select('*').where('origin', workIdno)
-    .orderByRaw('RANDOM()').limit(number)
+    return db('all_people').select('*').where('origin', workIdno).andWhere('lines', '>', 50).orderByRaw('RANDOM()').limit(number)
+
+    // return db('all_people').select('*').where('origin', workIdno)
+    // .orderByRaw('RANDOM()').limit(number)
+
     // return db('all_people').select('*').where('origin', workIdno).havingRaw('character <>', regex).orderByRaw('RANDOM()').limit(number)
   }
 
