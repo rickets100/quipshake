@@ -119,9 +119,9 @@ function getSpeechCount (doc) {
 
 
 // ===== GET SPEECH BY INDEX =====
-// function getSpeechByIndex (doc, index) {
-//   let speechNodes = '/TEI/text/body/div1/div2/sp/ab[' + (index+1) + ']//text()'
-//   let masterNode = '/TEI/text/body/div1/div2/sp/ab[' + (index+1)
+// function getSpeechByIndex (doc, count) {
+//   let speechNodes = '/TEI/text/body/div1/div2/sp/ab[' + (count+1) + ']//text()'
+//   let masterNode = '/TEI/text/body/div1/div2/sp/ab[' + (count+1)
 //   let speaker = masterNode.parentNode
 //     // to get the speaker, go up one node to sp, get the "who=" value, chop off the pound sign and everything from the underscore on
 //
@@ -137,10 +137,10 @@ function getSpeechCount (doc) {
 
 
 // ===== GET A SINGLE SPEECH =====
-function newGetSpeech(doc, index) {
-  // the query below will get lb, w, c, and pc nodes
+function newGetSpeech(doc, count) {
+  // the query below will also get lb, w, c, and pc nodes
   // let speechNodes = "/TEI/text/body/div1[1]/div2[1]/sp[1]/ab//*[self::lb | self::w | self::c | self::pc]"
-  let parent = '/TEI/text/body/div1[@type="act"]/div2[@type="scene"]/sp/ab[' + (index) + ']/'
+  let parent = '/TEI/text/body/div1[@type="act"]/div2[@type="scene"]/sp/ab[' + (count) + ']/'
   let speechNodes = `${parent}w` + ` | ` + `${parent}c` + ` | ` + `${parent}pc` + ` | ` + `${parent}lb`
   let result = xpath.evaluate(
       speechNodes,                // xpathExpression
@@ -187,10 +187,10 @@ return speech
 // ===== GET A RANDOM SPEECH PART 2: ELECTRIC BOOGALOO =====
 function getRandomSpeech (doc) {
   let speechCount = getSpeechCount(doc)
-  let index = random(speechCount)
-  let randomSpeech = newGetSpeech(doc, index)
+  let count = random(speechCount)
+  let randomSpeech = newGetSpeech(doc, count)
   console.log('MODEL: getRandomSpeech...speechCount is ', speechCount)
-  console.log('MODEL: getRandomSpeech...index is ', index, '\n')
+  console.log('MODEL: getRandomSpeech...count is ', count, '\n')
   return randomSpeech
 }
 
