@@ -1,94 +1,91 @@
-<div class="container page">
-  <div class="row">
-    <div class="col-10 question">
-      Q: {{$ctrl.currentQuestion}}
-    </div> <!-- end column -->
-    <div class="col-2 score">
-      SCORE: {{$ctrl.score}}
-    </div> <!-- end column -->
+<div >
+  <div class="navvy">
+  <!-- ===== NAVBAR ===== -->
+  <ul class="nav justify-content-center">
+    <li class="nav-item">
+      <a href="" ng-click="$ctrl.testQuestion('chronology')" class="nav-link">chronology</a>
+    </li>
+    <li class="nav-item">
+      <a href="" ng-click="$ctrl.testQuestion('character-origin')" class="nav-link">character-origin</a>
+    </li>
+    <li class="nav-item">
+      <a href="" ng-click="$ctrl.testQuestion('quote-origin')" class="nav-link">quote-origin</a>
+    </li>
+    <li class="nav-item">
+      <a href="" ng-click="$ctrl.testQuestion('character-weight')" class="nav-link">character-weight</a>
+    </li>
+    <li class="nav-item">
+      <a href="" ng-click="$ctrl.testQuestion('word-frequency')" class="nav-link">word-frequency</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#">SCORE: {{$ctrl.score}}</a>
+    </li>
+  </ul>
+</div> <!-- navvy -->
 
-  </div> <!-- end row -->
-  <div class="row">
-    <div class="col-12 col-sm-6 graphic hidden-xs-down">
-      <!-- <img src="/images/shakespeare-cartoon.png"/> -->
-      <div>
-        <img ng-hide=!$ctrl.showImage src="{{$ctrl.graphic}}">
-      </div>
-      <div class="preformatted-quote-text">
-        <p ng-hide=!$ctrl.showQuoteBody>{{$ctrl.quoteBody}}
-        </div>
-        <div>
-        </div>
-        <!-- <div ng-hide=$ctrl -->
-      </div> <!-- column -->
-      <div class="col-12 col-sm-6 options-answers">
-        <div class="options">
-          <div ng-repeat="option in $ctrl.answerOptions track by $index" class="radio">
-            <label><input
-              ng-click="$ctrl.updateAnswer(option.isCorrect, option.label, true, $index)" ng-model="checked"
-              ng-init="checked=false"
-              type="checkbox"
-              name="optradio"> {{option.label}} <span ng-if="checked && !option.isCorrect == true" class="animate-if"> X </span></label>
+
+  <!-- ===== MAIN PORTION ===== -->
+  <div>
+    <div class="container page">
+      <div class="row">
+        <div class="col-12 question">
+          Q: {{$ctrl.currentQuestion}}
+        </div> <!-- end column -->
+      </div> <!-- end row -->
+
+      <div class="row">
+        <div class="col-12 col-sm-6 graphic hidden-xs-down">
+          <div>
+            <img ng-hide=!$ctrl.showImage src="{{$ctrl.graphic}}">
+          </div>
+          <div class="preformatted-quote-text">
+            <p ng-hide=!$ctrl.showQuoteBody>{{$ctrl.quoteBody}}
             </div>
+            <div>
+            </div>
+            <!-- <div ng-hide=$ctrl -->
           </div> <!-- column -->
+          <div class="col-12 col-sm-6 options-answers">
+            <div class="options">
+              <div ng-repeat="option in $ctrl.answerOptions track by $index" class="radio">
+                <label><input
+                  ng-click="$ctrl.updateAnswer(option.isCorrect, option.label, true, $index)" ng-model="checked"
+                  ng-init="checked=false"
+                  type="checkbox"
+                  name="optradio"> {{option.label}} <span ng-if="checked && !option.isCorrect == true" class="animate-if"> X </span></label>
+                </div> <!-- answer-options -->
+              </div> <!-- options -->
 
-          <div class=list>
-            <checkbox ng-repeat="option in $ctrl.answerOptions track by $index"
+          <div class="answer">
+            <div class="feedback">
+              <strong>{{$ctrl.exclamation}} </strong> {{$ctrl.elaboration}}
+            </div>
+            <button ng-click="$ctrl.updateGameState()">NEXT</button class="btn-next">
+          </div>
+        </div> <!-- end column graphic-->
+      </div> <!-- end row -->
+    </div> <!-- end container -->
 
+    <div class="testing">
+      <h3>AREA BELOW IS FOR TESTING PURPOSES</h3>
+      <select ng-model="home">
+        <option value="incorrect">is not correct</option>
+        <option value="iscorrect">is correct</option>
+      </select>
 
-
-
-          <!-- stuff below worked -->
-          <!-- <div class="options">
-          <div ng-repeat="option in $ctrl.answerOptions track by $index" class="radio">
-          <label><input
-          ng-click="$ctrl.updateAnswer(option.isCorrect, option.label, true, $index)" ng-model="clicked"
-          type="radio"
-          name="optradio"> {{option.label}} {{option.isCorrect}}<span ng-if="!option.isCorrect"> X </span></label>
-        </div>
-      </div> -->
-
-      <div class="answer">
-        <div class="feedback">
-          <strong>{{$ctrl.exclamation}} </strong> {{$ctrl.elaboration}}
-          <!-- <a href="" ng-click="$ctrl.updateReveal()" class="">TEST</a> -->
-        </div>
-        <button ng-click="$ctrl.updateGameState()">NEXT</button>
+      <div ng-class="home">
+        <h3>Testing</h3>
       </div>
-    </div> <!-- end column graphic-->
-  </div> <!-- end row -->
-</div> <!-- end container -->
 
-<div class="testing">
-  <h3>AREA BELOW IS FOR TESTING PURPOSES</h3>
-  <div class="row">
-    <div class="col-6 col-sm-6 graphic hidden-xs-down">
-      <a href="" ng-click="$ctrl.updateScore()" class="">Score</a><br>
-      <a href="" ng-click="$ctrl.testQuestion('chronology')" class="">Chronology Question</a><br>
-      <a href="" ng-click="$ctrl.testQuestion('character-origin')" class="">Character-origin Question</a><br>
-      <a href="" ng-click="$ctrl.testQuestion('quote-origin')" class="">Quote-origin Question</a><br>
-      <a href="" ng-click="$ctrl.testQuestion('character-weight')" class="">Character-weight Question</a><br>
-      <a href="" ng-click="$ctrl.testQuestion('word-frequency')" class="">Word-frequency Question</a><br>
-    </div> <!-- column -->
-
-
-    <select ng-model="home">
-      <option value="incorrect">is not correct</option>
-      <option value="iscorrect">is correct</option>
-    </select>
-
-    <div ng-class="home">
-      <h1>Testing</h1>
-      <p>yay</p>
+      </div> <!-- column -->
+    </div> <!-- row -->
+    </div> <!-- testing -->
+    <div ng-repeat="option in $ctrl.answerOptions track by $index"  class="radio">
+      <label><input ng-click="$ctrl.updateAnswer(option.isCorrect, option.label, true, $index)" class="answered" type="radio" name="optradio">  {{option.label}} {{option.isCorrect}}<span ng-hide="false" class="ng-hide x-marker"> X </span></label>
     </div>
-
-  </div> <!-- column -->
-</div> <!-- row -->
-</div> <!-- testing -->
-<div ng-repeat="option in $ctrl.answerOptions track by $index"  class="radio">
-  <label><input ng-click="$ctrl.updateAnswer(option.isCorrect, option.label, true, $index)" class="answered" type="radio" name="optradio">  {{option.label}} {{option.isCorrect}}<span ng-hide="false" class="ng-hide x-marker"> X </span></label>
+    <canvas id="line" class="chart chart-line" chart-data="$ctrl.data"
+      chart-labels="$ctrl.labels" chart-series="$ctrl.series" chart-options="$ctrl.options"
+      chart-dataset-override="$ctrl.datasetOverride">
+    </canvas>
+  </div> <!-- encompassing div -->
 </div>
-<canvas id="line" class="chart chart-line" chart-data="$ctrl.data"
-  chart-labels="$ctrl.labels" chart-series="$ctrl.series" chart-options="$ctrl.options"
-  chart-dataset-override="$ctrl.datasetOverride">
-</canvas>

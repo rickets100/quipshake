@@ -18,7 +18,7 @@
     vm.isChosen = false
     vm.answered = false
     vm.exclamation = ''
-    vm.graphic = "/images/shakespeare-cartoon.png"
+    vm.graphic = "/images/shakespeare-bw.png"
     vm.score = 0
     vm.selectedIndex = 0
     vm.showImage = true

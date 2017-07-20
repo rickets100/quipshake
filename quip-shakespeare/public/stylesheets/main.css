@@ -10327,18 +10327,28 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
-/* line 17, ../scss/main.scss */
+/* line 20, ../scss/main.scss */
 body {
-  background-color: rgba(240, 240, 243, 0.8);
+  background-color: white;
 }
 
-/* line 22, ../scss/main.scss */
+/* line 25, ../scss/main.scss */
 html, body {
   padding: 0;
   margin: 0;
 }
 
-/* line 27, ../scss/main.scss */
+/* line 32, ../scss/main.scss */
+.navvy .nav-item .nav-link {
+  color: #e06152;
+  font-size: 16px;
+}
+/* line 36, ../scss/main.scss */
+.navvy .nav-item .nav-link:active {
+  color: #4D6172;
+}
+
+/* line 44, ../scss/main.scss */
 .splash-hero {
   background-size: cover;
   background-image: url("../images/ophelia.jpg");
@@ -10349,7 +10359,7 @@ html, body {
   background-position: top center;
   position: absolute;
 }
-/* line 37, ../scss/main.scss */
+/* line 54, ../scss/main.scss */
 .splash-hero .hero-meat {
   position: absolute;
   top: 50%;
@@ -10359,25 +10369,37 @@ html, body {
   left: 0;
   text-align: center;
 }
-/* line 38, ../scss/main.scss */
-.splash-hero .hero-meat .h1 {
+/* line 55, ../scss/main.scss */
+.splash-hero .hero-meat h1 {
   font-family: 'Raleway', sans-serif;
-  font-size: 700;
+  font-size: 800;
+  font-weight: 600;
+  line-height: 125%;
 }
-/* line 47, ../scss/main.scss */
-.splash-hero .hero-meat .button {
-  background-color: rgba(240, 240, 243, 0.8);
-  color: rgba(240, 240, 243, 0.8);
+/* line 62, ../scss/main.scss */
+.splash-hero .hero-meat h2 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 400;
+  font-weight: 400;
+  line-height: 125%;
+}
+/* line 72, ../scss/main.scss */
+.splash-hero .hero-meat .btn-hero {
+  color: #e06152 !important;
+}
+/* line 76, ../scss/main.scss */
+.splash-hero .hero-meat .btn-hero:active {
+  color: rgba(88, 132, 149, 0.8) !important;
 }
 
 @media only screen and (min-width: 992px) {
-  /* line 66, ../scss/main.scss */
+  /* line 94, ../scss/main.scss */
   body {
     background-color: white;
     color: #242038;
   }
 }
-/* line 71, ../scss/main.scss */
+/* line 99, ../scss/main.scss */
 .incorrect {
   color: white;
   background-color: red;
@@ -10385,7 +10407,7 @@ html, body {
   font-family: Verdana;
 }
 
-/* line 78, ../scss/main.scss */
+/* line 106, ../scss/main.scss */
 .iscorrect {
   color: white;
   background-color: lightblue;
@@ -10393,7 +10415,7 @@ html, body {
   font-family: "Courier New";
 }
 
-/* line 85, ../scss/main.scss */
+/* line 113, ../scss/main.scss */
 .picked {
   color: white;
   background-color: red;
@@ -10401,7 +10423,7 @@ html, body {
   font-family: Verdana;
 }
 
-/* line 92, ../scss/main.scss */
+/* line 120, ../scss/main.scss */
 .not-picked {
   color: white;
   background-color: lightblue;
@@ -10409,82 +10431,82 @@ html, body {
   font-family: "Courier New";
 }
 
-/* line 99, ../scss/main.scss */
+/* line 127, ../scss/main.scss */
 .page .options, .page .answer {
   border: 1px solid rgba(20, 20, 20, 0.75);
   padding: 10px;
   margin-bottom: 15px;
 }
 
-/* line 104, ../scss/main.scss */
+/* line 132, ../scss/main.scss */
 .page {
   max-width: 900px;
 }
-/* line 106, ../scss/main.scss */
+/* line 134, ../scss/main.scss */
 .page .question {
   font-size: 24px;
   min-height: 150px;
 }
-/* line 109, ../scss/main.scss */
+/* line 137, ../scss/main.scss */
 .page .question a {
   color: white;
 }
-/* line 114, ../scss/main.scss */
+/* line 142, ../scss/main.scss */
 .page .graphic img {
   max-width: 100%;
 }
-/* line 117, ../scss/main.scss */
+/* line 145, ../scss/main.scss */
 .page .graphic .preformatted-quote-text {
   white-space: pre;
 }
-/* line 123, ../scss/main.scss */
+/* line 151, ../scss/main.scss */
 .page .options .radio {
   font-size: 20px;
 }
-/* line 126, ../scss/main.scss */
+/* line 154, ../scss/main.scss */
 .page .options .radio .answered {
   color: rgba(88, 132, 149, 0.8);
 }
-/* line 130, ../scss/main.scss */
+/* line 158, ../scss/main.scss */
 .page .options .radio .unanswered {
   color: rgba(20, 20, 20, 0.75);
 }
-/* line 136, ../scss/main.scss */
+/* line 164, ../scss/main.scss */
 .page .options .radio span .x-marker {
   color: rgba(194, 51, 8, 0.9);
 }
-/* line 145, ../scss/main.scss */
+/* line 173, ../scss/main.scss */
 .page .options ul li {
   font-size: 25px;
 }
-/* line 148, ../scss/main.scss */
+/* line 176, ../scss/main.scss */
 .page .options ul li .answered {
   color: rgba(88, 132, 149, 0.8);
 }
-/* line 152, ../scss/main.scss */
+/* line 180, ../scss/main.scss */
 .page .options ul li .unanswered {
   color: rgba(20, 20, 20, 0.75);
 }
-/* line 156, ../scss/main.scss */
+/* line 184, ../scss/main.scss */
 .page .options ul li .selected-class-name {
   color: red !important;
 }
-/* line 161, ../scss/main.scss */
+/* line 189, ../scss/main.scss */
 .page .options ul li span .x-marker {
   color: rgba(194, 51, 8, 0.9);
 }
-/* line 171, ../scss/main.scss */
+/* line 199, ../scss/main.scss */
 .page .answer {
   font-size: 25px;
   margin-bottom: 0px;
 }
-/* line 176, ../scss/main.scss */
+/* line 204, ../scss/main.scss */
 .page .answer .feedback {
   text-align: center;
 }
-/* line 180, ../scss/main.scss */
+/* line 208, ../scss/main.scss */
 .page .answer button {
-  background-color: #6488d9;
+  background-color: #4D6172;
   border: 0;
   border-radius: 10px;
   color: white;
@@ -10494,26 +10516,30 @@ html, body {
   width: 100%;
   margin-top: 20px;
 }
-/* line 191, ../scss/main.scss */
+/* line 219, ../scss/main.scss */
 .page .answer button:focus {
   outline: 0;
 }
-/* line 197, ../scss/main.scss */
+/* line 225, ../scss/main.scss */
 .page .testing {
   padding-top: 50px;
-  margin-top: 50px;
+  margin-top: 100px;
+}
+/* line 228, ../scss/main.scss */
+.page .testing h3 {
+  color: rgba(202, 196, 206, 0.8);
 }
 
 @media only screen and (min-width: 576px) {
-  /* line 206, ../scss/main.scss */
+  /* line 238, ../scss/main.scss */
   .page .question {
     font-size: 35px;
   }
-  /* line 209, ../scss/main.scss */
+  /* line 241, ../scss/main.scss */
   .page .answer {
     overflow: auto;
   }
-  /* line 212, ../scss/main.scss */
+  /* line 244, ../scss/main.scss */
   .page .answer button {
     width: auto;
     float: right;
