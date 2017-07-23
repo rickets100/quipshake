@@ -266,7 +266,8 @@ router.get ('/word-frequency', function(req, res, next) {
         console.log('shuffled: \n', shuffled)
         let inOrder = (util.sortArrayByKey(choices, 'instances')).reverse()
         console.log('inOrder: \n', inOrder)
-        let first = inOrder[0].instances
+        let first = inOrder[0]
+        console.log('first: ', first)
 
         let data = {
           imageUpdate: false,
