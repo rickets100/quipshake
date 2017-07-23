@@ -86,6 +86,21 @@ function rejectCharacter(character) {
   return ((character.charCodeAt(1) > 65) && (character.charCodeAt(1) < 90))
 }
 
+// ===== BUILD N-LENGTH ARRAY OF CONCORDANCE OPTIONS
+function buildConcordOptions(objArray, num) {
+  let length = objArray.length
+  let trackingObject = {}
+  let finalArray = []
+
+  for (let index=0; index<length; index++) {
+    if (!(trackingObject[`instances${objArray[index].instances}`])) {
+      trackingObject[`instances${objArray[index].instances}`] = objArray[index]
+    }
+  }
+  finalArray = Object.values(trackingObject).slice(0,num)
+  return finalArray
+} // buildConcordOptions
+
 module.exports = {
   randomNum,
   randomArray,
@@ -94,5 +109,6 @@ module.exports = {
   loadXml,
   shuffle,
   sortArrayByKey,
-  rejectCharacter
+  rejectCharacter,
+  buildConcordOptions
 }

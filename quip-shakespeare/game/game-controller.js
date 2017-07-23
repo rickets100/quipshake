@@ -88,16 +88,16 @@ function getNCharacters(workIdno, num, toBeExcluded = []) {
   return game.getNRandomCharacters(workIdno, num, toBeExcluded)
 }
 
-// ===== GET A RANDOM WORK THAT HAS CONCORDANCE INFO ⭕️ =====
+
+// ===== GET A RANDOM WORK THAT HAS CONCORDANCE INFO ✅ =====
 function getNWorksConcord(num, includeList) {
-  console.log('CONTROLLER-GETNWORKSCONCORD: concordance is ', includeList)
   return game.getNRandomWorksConcord(num, includeList)
 }
 
 
 // ===== GET N RANDOM WORDS FROM A GIVEN WORK ⭕️ =====
 function getNWords(workIdno, num) {
-  console.log('CONTROLLER-GETNWORDS: workIdno is ', workIdno)
+  console.log('CONTROLLER-GETNWORDS:  workIdno is ', workIdno)
   return game.getNRandomWords(workIdno, num)
 }
 

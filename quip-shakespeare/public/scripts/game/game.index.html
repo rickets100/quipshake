@@ -18,7 +18,7 @@
       <a href="" ng-click="$ctrl.testQuestion('word-frequency')" class="nav-link">word-frequency</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#">SCORE: {{$ctrl.score}}</a>
+      <p>SCORE: {{$ctrl.score}}</p>
     </li>
   </ul>
 </div> <!-- navvy -->
@@ -60,6 +60,7 @@
             <div class="feedback">
               <strong>{{$ctrl.exclamation}} </strong> {{$ctrl.elaboration}}
             </div>
+            <!-- <button ui-sref="$ctrl.currentState({id: post.id})" class="btn-next">Test</button> -->
             <button ng-click="$ctrl.updateGameState()">NEXT</button class="btn-next">
           </div>
         </div> <!-- end column graphic-->

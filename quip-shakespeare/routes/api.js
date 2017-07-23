@@ -252,24 +252,21 @@ router.get('/quote-origin', function(req, res, next) {
 // ===== CONCORDANCE (WORD FREQUENCY) =====
 router.get ('/word-frequency', function(req, res, next) {
   // need a query to the 'most common words' table/object to know which results to reject and retry
-
-  // knex has a 'not in' option (for common words list) and get give the results in random order
-
-  // It is possible in a single SQL statment to say 'give me 4 random rows that are from play X and do not contain the words in this list'
-  let example = 'Hamlet'
   let concordance = ['1H4', '1H6', '2H4', '2H6', 'AWW']
+  let superset = 40
 
   gameController.getNWorksConcord(1, concordance)
     .then(function(work) {
       let selectedWork = work[0].idno
       let title = work[0].title
-      gameController.getNWords(selectedWork, 4).then(function(wordOptions) {
-        console.log('wordoptions are ', wordOptions)
-        let shuffled = util.shuffle(wordOptions)
-        console.log('shuffled: ', shuffled);
-        let inOrder = (util.sortArrayByKey(wordOptions, 'instances'))
-        console.log('inOrder: ', inOrder);
-        let first = inOrder[0]
+      gameController.getNWords(selectedWork, superset).then(function(wordOptions) {
+        let choices = util.buildConcordOptions(wordOptions, 4)
+        console.log('choices: \n', choices)
+        let shuffled = util.shuffle(choices)
+        console.log('shuffled: \n', shuffled)
+        let inOrder = (util.sortArrayByKey(choices, 'instances')).reverse()
+        console.log('inOrder: \n', inOrder)
+        let first = inOrder[0].instances
 
         let data = {
           imageUpdate: false,
@@ -277,20 +274,20 @@ router.get ('/word-frequency', function(req, res, next) {
           questionType: 'word-frequency',
           options: [
             {
-              label: wordOptions[0].word,
-              isCorrect: ((shuffled[0].instances) === inOrder[0].instances)
+              label: shuffled[0].word,
+              isCorrect: ((shuffled[0].instances) == first)
             },
             {
-              label: wordOptions[1].word,
-              isCorrect: ((shuffled[1].instances) === inOrder[0].instances)
+              label: shuffled[1].word,
+              isCorrect: ((shuffled[1].instances) == first)
             },
             {
-              label: wordOptions[2].word,
-              isCorrect: ((shuffled[2].instances) === inOrder[0].instances)
+              label: shuffled[2].word,
+              isCorrect: ((shuffled[2].instances) == first)
             },
             {
-              label: wordOptions[3].word,
-              isCorrect: ((shuffled[3].instances) === inOrder[0].instances)
+              label: shuffled[3].word,
+              isCorrect: ((shuffled[3].instances) == first)
             }
           ]
         } // data

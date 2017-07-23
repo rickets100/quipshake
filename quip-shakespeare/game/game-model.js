@@ -62,14 +62,19 @@ class Game {
     // return db('all_people').select('*').where('origin', workIdno).havingRaw('character <>', regex).orderByRaw('RANDOM()').limit(number)
   }
 
+   static getOneRandomWord(workIdno, exclusionList) {
+    return db('word_frequency').select('*').whereIn('work', workIdno).whereNotIn('instances', exclusionList).orderByRaw('RANDOM()').limit(1)
+  }
 
   static getNRandomWords(workIdno, num) {
-    return db('word_frequency').select('*').whereIn('work', workIdno).orderByRaw('RANDOM()').limit(num)
-}
+    return db('word_frequency').select('*').whereIn('work', workIdno).orderByRaw('RANDOM()').limit(num);
+    // return db('word_frequency').select('instances', 'id', 'work').whereIn('work', workIdno).groupBy('id','instances').orderByRaw('RANDOM()').limit(num);
 
-// db.raw()
+    // return db('word_frequency').where('work', workIdno).select('*').orderByRaw('RANDOM()').where(function() {
+    //   this.distinct('instances').select('*')}).limit(4)
+    // db.raw()
 
-
+  }
 
   static getCharacterCount(tableName) {
     return db(tableName).count('id').first()

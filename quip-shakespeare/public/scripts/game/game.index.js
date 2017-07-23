@@ -14,6 +14,7 @@
   function controller (baseUrl, $http){
     const vm = this
     vm.answered = false
+    vm.currentState = ''
 
     vm.score = 0
 
@@ -34,7 +35,8 @@
 
     // ===== INIT =====
     vm.$onInit = function () {
-      vm.updateGameState()
+      vm.currentState = 'goQuestion'
+      vm.updateGameState(vm.currentGameState)
     } // on.init
 
 
@@ -65,8 +67,9 @@
 
 
     // ===== UPDATE GAME STATE =====
-    vm.updateGameState = function () {
-      console.log('in the update game-state function');
+    vm.updateGameState = function (currentState) {
+      console.log('in the update game-state function, currentState is ', currentState)
+      
       vm.testRandomQuestion()
     }
 
