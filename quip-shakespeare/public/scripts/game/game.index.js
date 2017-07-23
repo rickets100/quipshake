@@ -13,18 +13,23 @@
   controller.$inject = ['API_BASE_URL', '$http']
   function controller (baseUrl, $http){
     const vm = this
-    vm.currentQuestion = ''
-    vm.answerOptions = []
-    vm.isChosen = false
     vm.answered = false
-    vm.exclamation = ''
-    vm.graphic = "/images/shakespeare-bw.png"
+
     vm.score = 0
-    vm.selectedIndex = 0
+
+    vm.question = ''
+
+    vm.graphic = "/images/shakespeare-bw.png"
     vm.showImage = true
-    vm.showQuoteBody = false
     vm.quoteBody = ''
+    vm.showQuoteBody = false
     vm.showChart = true
+
+    vm.options = []
+    vm.isChosen = false
+    vm.selectedIndex = 0
+
+    vm.exclamation = ''
 
 
     // ===== INIT =====
@@ -32,11 +37,6 @@
       vm.updateGameState()
     } // on.init
 
-    // ===== ITEM CLICKED =====
-    vm.itemClicked = function ($index) {
-        // console.log('heeeeere', $index)
-        vm.selectedIndex = $index
-    }
 
     // ===== START GAME =====
     vm.startGame = function () {
@@ -52,8 +52,8 @@
         .then((result)=>{
           console.log('RESULT: ', result)
           vm.showQuoteBody = result.data.imageUpdate
-          vm.currentQuestion = result.data.question
-          vm.answerOptions = result.data.options
+          vm.question = result.data.question
+          vm.options = result.data.options
           vm.isChosen = result.data.isChosen
 
           if (vm.showQuoteBody) {
@@ -101,14 +101,14 @@
 
     // ===== UPDATE CHART =====
     function updateChart() {
-      vm.labels = ["January", "February", "March", "April", "May", "June", "July"];
-      vm.series = ['Series A', 'Series B'];
-      vm.data = [
+      vm.chartLabels = ["January", "February", "March", "April", "May", "June", "July"];
+      vm.chartSeries = ['Series A', 'Series B'];
+      vm.chartData = [
         [65, 59, 80, 81, 56, 55, 40],
         [28, 48, 40, 19, 86, 27, 90]
       ]
       vm.datasetOverride = [{ yAxisID: 'y-axis-1' }, { yAxisID: 'y-axis-2' }];
-      vm.options = {
+      vm.chartOptions = {
         scales: {
           yAxes: [
             {

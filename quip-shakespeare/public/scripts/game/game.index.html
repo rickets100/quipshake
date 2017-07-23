@@ -29,7 +29,7 @@
     <div class="container page">
       <div class="row">
         <div class="col-12 question">
-          Q: {{$ctrl.currentQuestion}}
+          Q: {{$ctrl.question}}
         </div> <!-- end column -->
       </div> <!-- end row -->
 
@@ -47,7 +47,7 @@
           </div> <!-- column -->
           <div class="col-12 col-sm-6 options-answers">
             <div class="options">
-              <div ng-repeat="option in $ctrl.answerOptions track by $index" class="radio">
+              <div ng-repeat="option in $ctrl.options track by $index" class="radio">
                 <label><input
                   ng-click="$ctrl.updateAnswer(option.isCorrect, option.label, true, $index)" ng-model="checked"
                   ng-init="checked=false"
@@ -80,11 +80,11 @@
       </div> <!-- column -->
     </div> <!-- row -->
     </div> <!-- testing -->
-    <div ng-repeat="option in $ctrl.answerOptions track by $index"  class="radio">
+    <div ng-repeat="option in $ctrl.options track by $index"  class="radio">
       <label><input ng-click="$ctrl.updateAnswer(option.isCorrect, option.label, true, $index)" class="answered" type="radio" name="optradio">  {{option.label}} {{option.isCorrect}}<span ng-hide="false" class="ng-hide x-marker"> X </span></label>
     </div>
-    <canvas id="line" class="chart chart-line" chart-data="$ctrl.data"
-      chart-labels="$ctrl.labels" chart-series="$ctrl.series" chart-options="$ctrl.options"
+    <canvas id="line" class="chart chart-line" chart-data="$ctrl.chartData"
+      chart-labels="$ctrl.chartLabels" chart-series="$ctrl.chartSeries" chart-options="$ctrl.chartOptions"
       chart-dataset-override="$ctrl.datasetOverride">
     </canvas>
   </div> <!-- encompassing div -->

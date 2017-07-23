@@ -64,7 +64,7 @@ class Game {
 
 
   static getNRandomWords(workIdno, num) {
-    return db('word_frequency').select('*').whereIn('work', workIdno).groupBy('instances').orderByRaw('RANDOM()').limit(num)
+    return db('word_frequency').select('*').whereIn('work', workIdno).orderByRaw('RANDOM()').limit(num)
 }
 
 // db.raw()
