@@ -34,21 +34,12 @@ class Game {
   }
 
   // get N random works, excluding the "correct" work and a given character
-  static test(works, correctWorkIdno, character, toBeExcluded = []) {
+  static getNWorksNotIdOrChar(works, correctWorkIdno, character, toBeExcluded = []) {
     return db(works)
     .select('*')
     .innerJoin('all_people', 'works.idno', 'all_people.origin')
     .whereNot('works.idno', correctWorkIdno)
     // .whereNot('all_people.character', character.character)
-    .orderByRaw('RANDOM()').limit(3)
-  }
-
-  static test2(works, correctWorkIdno, correctOrigin) {
-    return db(works)
-    .select('*')
-    .innerJoin('all_people', 'works.idno', 'all_people.origin')
-    .whereNot('works.idno', correctWorkIdno)
-    .whereNot('all_people.origin', correctOrigin)
     .orderByRaw('RANDOM()').limit(3)
   }
 
@@ -62,8 +53,21 @@ class Game {
   }
 
 
-// db.raw()
+  static getNRandomWorksConcord(num, toBeIncluded = ['Ham']) {
+    return db('works').select('*').whereIn('idno', toBeIncluded).orderByRaw('RANDOM()').limit(num)
 
+    // return db('all_people').select('*').where('origin', workIdno)
+    // .orderByRaw('RANDOM()').limit(number)
+
+    // return db('all_people').select('*').where('origin', workIdno).havingRaw('character <>', regex).orderByRaw('RANDOM()').limit(number)
+  }
+
+
+  static getNRandomWords(workIdno, num) {
+    return db('word_frequency').select('*').whereIn('work', workIdno).groupBy('instances').orderByRaw('RANDOM()').limit(num)
+}
+
+// db.raw()
 
 
 

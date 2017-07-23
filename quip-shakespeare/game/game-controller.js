@@ -62,6 +62,7 @@ function getOneWork() {
 
 // ===== GET N RANDOM WORKS  ✅ ===
 function getNRandomWorks(num, toBeExcluded = []) {
+  console.log('yyyyyyyyyyyyyy');
   return game.getNRandomWorks('works', num, toBeExcluded)
 }
 
@@ -76,7 +77,7 @@ function get3RandomWorks(correctOption, toBeExcluded = []) {
 
 // ===== GET 3 RANDOM WORKS WITHOUT A PARTICULAR CHARACTER  ✅ =====
 function test3RandomWorks(correctWorkIdno, character, toBeExcluded = []) {
-  return game.test('works', correctWorkIdno, character, toBeExcluded)
+  return game.getNWorksNotIdOrChar('works', correctWorkIdno, character, toBeExcluded)
 }
 
 
@@ -87,8 +88,21 @@ function getNCharacters(workIdno, num, toBeExcluded = []) {
   return game.getNRandomCharacters(workIdno, num, toBeExcluded)
 }
 
+// ===== GET A RANDOM WORK THAT HAS CONCORDANCE INFO ⭕️ =====
+function getNWorksConcord(num, includeList) {
+  console.log('CONTROLLER-GETNWORKSCONCORD: concordance is ', includeList)
+  return game.getNRandomWorksConcord(num, includeList)
+}
 
-// ===== GET SCENE COUNT ❌ =====
+
+// ===== GET N RANDOM WORDS FROM A GIVEN WORK ⭕️ =====
+function getNWords(workIdno, num) {
+  console.log('CONTROLLER-GETNWORDS: workIdno is ', workIdno)
+  return game.getNRandomWords(workIdno, num)
+}
+
+
+// ===== GET SCENE COUNT =====
 function getSceneCount(doc) {
   let sceneNodes = 'count(/TEI/text/body/div1[@type="act"]/div2[@type="scene"])'
   let scenes = xpath.evaluate (
@@ -212,6 +226,7 @@ module.exports = {
   getNRandomWorks,
   get3RandomWorks,
   test3RandomWorks,
+  getNWorksConcord,
 
   getNCharacters,
 
@@ -219,5 +234,7 @@ module.exports = {
   getSpeechCount,
   getRandomSpeech,
   getSpeech,
-  newGetSpeech
+  newGetSpeech,
+
+  getNWords
 }

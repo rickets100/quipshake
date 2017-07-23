@@ -1,3981 +1,3979 @@
-Concordance of Coriolanus:
-
-885: The
-696: To
-677: And
-637: You
-520: I
-458: Of
-376: A
-352: He
-320: In
-319: That
-300: Your
-282: Not
-273: Have
-262: With
-257: Him
-257: My
-255: His
-240: For
-231: It
-224: Is
-222: As
-210: Be
-193: We
-192: But
-171: Th’
-170: This
-168: Me
-163: Our
-156: What
-155: Are
-135: So
-130: No
-130: They
-128: Them
-127: Do
-127: Will
-124: All
-124: Shall
-124: Their
-118: If
-112: Than
-105: By
-102: Which
-99: More
-99: Thou
-98: Would
-94: Good
-93: Us
-92: Thy
-88: Rome
-85: On
-84: Sir
-83: Was
-82: Come
-81: When
-80: At
-80: Well
-79: Martius
-78: One
-78: ’t
-73: Say
-72: Had
-71: From
-71: Were
-69: Or
-69: People
-68: Let
-68: Now
-68: Thee
-67: Go
-64: Then
-64: Upon
-63: Must
-62: Did
-62: Like
-61: Make
-60: How
-59: Here
-58: Know
-58: Noble
-56: Hear
-56: Speak
-54: I’ll
-54: Yet
-53: Out
-53: Should
-52: O
-52: ’tis
-51: An
-51: Hath
-51: O’
-50: Most
-50: Where
-46: Am
-46: Gods
-46: Man
-45: Cannot
-44: Before
-44: Give
-43: Can
-42: I’
-42: Who
-41: Pray
-40: Made
-40: Power
-40: Think
-39: City
-38: Against
-38: May
-38: Peace
-38: See
-37: Home
-37: Mother
-37: Own
-37: Too
-36: Tell
-36: There
-36: Voices
-35: Friends
-35: Such
-35: These
-35: Why
-34: Up
-33: General
-33: Some
-33: Take
-33: Way
-32: Aufidius
-32: Been
-32: Coriolanus
-32: Great
-32: Has
-32: Name
-32: Nor
-32: Thus
-32: Time
-30: Being
-30: Done
-30: Though
-30: True
-29: Could
-29: Heart
-29: Tribunes
-28: Consul
-28: Down
-28: Love
-28: Nay
-28: Never
-27: Country
-27: Worthy
-26: He’s
-26: Men
-26: Son
-26: Those
-25: Away
-25: Honor
-25: Mine
-25: News
-25: Stand
-25: Therefore
-25: Very
-24: Again
-24: Bear
-24: Ever
-24: First
-24: Her
-24: Rather
-24: ’s
-23: Blood
-22: Let’s
-22: Other
-22: State
-21: Ay
-21: Even
-21: Many
-21: Put
-21: Show
-21: World
-20: Death
-20: Less
-20: Only
-20: Said
-20: What’s
-20: Whose
-20: Wife
-19: Call
-19: Common
-19: Does
-19: Forth
-19: House
-19: Leave
-19: Much
-19: Part
-19: Poor
-19: That’s
-19: War
-19: Wars
-18: Both
-18: Cause
-18: Cominius
-18: Hast
-18: Hate
-18: Heard
-18: Himself
-18: Nature
-18: Set
-18: Volsces
-18: Welcome
-17: Best
-17: Better
-17: Caius
-17: End
-17: Ere
-17: Fellow
-17: Into
-17: Little
-17: Matter
-17: Still
-17: Sword
-16: Answer
-16: Back
-16: Eyes
-16: Find
-16: Follow
-16: Gates
-16: Might
-16: Off
-16: Old
-16: Since
-16: We’ll
-16: Whom
-16: Word
-16: Work
-15: Any
-15: Art
-15: Beseech
-15: Capitol
-15: Corioles
-15: Fair
-15: Further
-15: Help
-15: Keep
-15: Look
-15: Menenius
-15: Report
-15: Senate
-15: There’s
-15: Together
-15: Wish
-15: Words
-15: Wounds
-15: ’em
-14: About
-14: Alone
-14: Ears
-14: Else
-14: Enemy
-14: Half
-14: Honors
-14: Lose
-14: Present
-14: Proud
-14: Thing
-14: Till
-13: Action
-13: After
-13: Banished
-13: Bring
-13: Cry
-13: Fear
-13: Gone
-13: Hence
-13: Indeed
-13: Ladies
-13: Last
-13: Lies
-13: Lord
-13: Lords
-13: Loved
-13: Nothing
-13: Once
-13: Roman
-13: She
-13: Stay
-13: Thine
-13: Things
-13: Tongue
-13: Two
-12: Body
-12: Farewell
-12: Hand
-12: Lay
-12: Lie
-12: Meet
-12: Myself
-12: Seem
-12: Senators
-12: Service
-12: Unto
-12: Voice
-12: Without
-11: Another
-11: Boy
-11: Comes
-11: Enough
-11: Fight
-11: Fire
-11: Get
-11: Life
-11: Madam
-11: Makes
-11: Patricians
-11: Prithee
-11: Request
-11: Soldier
-11: Truth
-11: Yours
-11: ’twas
-10: Beat
-10: Break
-10: Brought
-10: Business
-10: Content
-10: Corn
-10: Country’s
-10: Dear
-10: Die
-10: Every
-10: Face
-10: Friend
-10: Full
-10: Hearts
-10: Hold
-10: Hope
-10: Hour
-10: Known
-10: Long
-10: Loves
-10: Mark
-10: Marketplace
-10: Masters
-10: Mercy
-10: Pride
-10: Purpose
-10: Romans
-10: Saw
-10: Stood
-10: Thank
-10: Thought
-10: Titus
-10: Wherein
-10: Whether
-10: Within
-10: Yourself
-10: You’ll
-9: Appear
-9: Belly
-9: Certain
-9: Day
-9: Deeds
-9: Deserved
-9: Doth
-9: Doubt
-9: Each
-9: Enemies
-9: Fought
-9: Given
-9: Grave
-9: Hands
-9: Head
-9: Here’s
-9: Kind
-9: Live
-9: Neither
-9: Nobles
-9: Prove
-9: Remain
-9: Seen
-9: Serve
-9: Shame
-9: Spirit
-9: Strange
-9: Sweet
-9: Three
-9: Through
-9: Town
-9: Turn
-9: Under
-9: Yourselves
-8: Arms
-8: Army
-8: Between
-8: Bound
-8: Called
-8: Came
-8: Deliver
-8: Desire
-8: Either
-8: Fall
-8: Far
-8: Fortune
-8: God
-8: Greater
-8: Hang
-8: Hark
-8: Having
-8: He’ll
-8: Husband
-8: Joy
-8: Lady
-8: Lartius
-8: Malice
-8: Ne’er
-8: Nobly
-8: People’s
-8: Person
-8: Proceed
-8: Ready
-8: Return
-8: Rock
-8: Same
-8: Save
-8: Showed
-8: Spoke
-8: Struck
-8: Sure
-8: Sworn
-8: Talk
-8: Tongues
-8: Traitor
-8: Tullus
-8: Use
-8: Whence
-8: Worth
-7: Almost
-7: Ask
-7: Attend
-7: Become
-7: Behold
-7: Bid
-7: Brave
-7: Breath
-7: Care
-7: Chance
-7: Charge
-7: Child
-7: Citizens
-7: Coming
-7: Custom
-7: Deny
-7: Deserve
-7: Eye
-7: Fame
-7: Fie
-7: Field
-7: Fit
-7: Flatter
-7: Foot
-7: Glad
-7: Hearing
-7: Held
-7: Late
-7: Looked
-7: Man’s
-7: Met
-7: Mind
-7: Noise
-7: Pardon
-7: Pass
-7: Pity
-7: Place
-7: Please
-7: Rage
-7: Received
-7: Revenge
-7: Sent
-7: Shake
-7: Side
-7: Strength
-7: Strong
-7: Swords
-7: Tears
-7: Themselves
-7: Used
-7: Warrant
-7: Yes
-7: Yield
-6: Along
-6: Already
-6: Arm
-6: Begone
-6: Believe
-6: Blows
-6: Carry
-6: Condition
-6: Cut
-6: Dangerous
-6: Doing
-6: Faith
-6: Father
-6: Faults
-6: Fly
-6: Free
-6: Gave
-6: Got
-6: Grain
-6: Ha
-6: Itself
-6: I’d
-6: Kill
-6: Knee
-6: Leads
-6: Left
-6: Lest
-6: Master
-6: Moon
-6: None
-6: Note
-6: Often
-6: Party
-6: Past
-6: Patience
-6: Pluck
-6: Point
-6: Praise
-6: Private
-6: Remember
-6: Rest
-6: Right
-6: Says
-6: Send
-6: Shalt
-6: Sit
-6: Sound
-6: Strike
-6: Suffer
-6: Tent
-6: Thence
-6: Thousand
-6: Took
-6: Violent
-6: Walls
-6: While
-6: Wine
-6: Worse
-6: Wounded
-6: ’gainst
-5: Account
-5: Air
-5: Amen
-5: Among
-5: Ancient
-5: Antium
-5: Banish
-5: Battle
-5: Bears
-5: Below
-5: Bloody
-5: Caps
-5: Change
-5: Children
-5: Choice
-5: Consider
-5: Dare
-5: Dispatch
-5: Drum
-5: Earth
-5: Easy
-5: Enter
-5: Entered
-5: Envy
-5: Estimation
-5: Exile
-5: Fast
-5: Fearful
-5: Fellows
-5: Fine
-5: Fool
-5: Fools
-5: Gentle
-5: Goes
-5: Grant
-5: Ground
-5: Hail
-5: Harm
-5: Heaven
-5: Heavens
-5: Hither
-5: Ho
-5: Hundred
-5: Ignorance
-5: Inform
-5: Knees
-5: Lack
-5: Letter
-5: Making
-5: Mean
-5: Members
-5: Mildly
-5: Mile
-5: Neck
-5: Need
-5: Nobility
-5: Officer
-5: Others
-5: Ourselves
-5: Owe
-5: O’er
-5: Plebeians
-5: Prayers
-5: Presently
-5: Reason
-5: Receive
-5: Remains
-5: Rotten
-5: Ruin
-5: Run
-5: Second
-5: Servant
-5: Services
-5: Slave
-5: Slaves
-5: Sleep
-5: Soldiers
-5: Something
-5: Speaks
-5: Straight
-5: Sun
-5: Tarpeian
-5: Ta’en
-5: Thanks
-5: Theirs
-5: Thither
-5: Times
-5: Told
-5: Tread
-5: Tribune
-5: Truly
-5: Trust
-5: Unless
-5: Valiant
-5: Valor
-5: Virtue
-5: Volscian
-5: Whole
-5: Win
-5: Won
-5: You’re
-5: ’fore
-5: ’twere
-4: Above
-4: Absence
-4: Absolute
-4: Act
-4: Aediles
-4: Age
-4: Alike
-4: Always
-4: Anger
-4: Angry
-4: Antiates
-4: Anything
-4: Banishment
-4: Base
-4: Because
-4: Beg
-4: Begin
-4: Beheld
-4: Blame
-4: Bold
-4: Buy
-4: Calm
-4: Cares
-4: Cast
-4: Cheap
-4: Choler
-4: Choose
-4: Comfort
-4: Company
-4: Consent
-4: Course
-4: Curse
-4: Danger
-4: Daughter
-4: Deserves
-4: Disease
-4: Dismiss
-4: Dost
-4: Draw
-4: Drops
-4: Drums
-4: Eat
-4: Execution
-4: Express
-4: E’en
-4: Faces
-4: Fare
-4: Fault
-4: Feel
-4: Five
-4: Folly
-4: Force
-4: Forget
-4: Former
-4: Found
-4: Frame
-4: Garland
-4: Going
-4: Goodly
-4: Grace
-4: Granted
-4: Guard
-4: Heads
-4: Holp
-4: Honest
-4: Honored
-4: Horse
-4: Hurt
-4: Ill
-4: Increase
-4: It’s
-4: Jove
-4: Judgment
-4: Jupiter
-4: Justice
-4: Know’st
-4: Lead
-4: Led
-4: Lip
-4: March
-4: Mars
-4: Means
-4: Memory
-4: Merit
-4: Methinks
-4: Misery
-4: Mock
-4: Modest
-4: Motion
-4: Mouths
-4: Move
-4: Mutinous
-4: Neighbors
-4: New
-4: Night
-4: Oak
-4: Office
-4: Particular
-4: Parties
-4: Parts
-4: Passed
-4: Perceive
-4: Plague
-4: Poison
-4: Popular
-4: Powers
-4: Prevailed
-4: Price
-4: Promise
-4: Read
-4: Reasons
-4: Repeal
-4: Resolved
-4: Seek
-4: Shed
-4: Single
-4: Six
-4: Small
-4: Sometime
-4: Spoil
-4: Stands
-4: Steed
-4: Streets
-4: Strokes
-4: Sudden
-4: Suit
-4: Table
-4: Tear
-4: Therein
-4: They’ll
-4: Throat
-4: Throw
-4: Thunder
-4: Thyself
-4: Troth
-4: Turns
-4: T’
-4: Undone
-4: Vantage
-4: Victory
-4: Visit
-4: Volscians
-4: Wants
-4: Weapons
-4: Weep
-4: Whip
-4: Wholesome
-4: Wilt
-4: Wind
-4: Wives
-4: Wondrous
-4: Wont
-4: Wore
-4: Wrath
-4: Yea
-4: Years
-4: Yond
-4: ’twixt
-3: Aid
-3: All’s
-3: Alms
-3: Ambitious
-3: Anon
-3: Answered
-3: Approbation
-3: Aught
-3: Authority
-3: Awhile
-3: Bad
-3: Bald
-3: Battles
-3: Beard
-3: Bearing
-3: Begged
-3: Behind
-3: Beloved
-3: Benefit
-3: Besides
-3: Beyond
-3: Bless
-3: Blest
-3: Blush
-3: Borne
-3: Brace
-3: Brain
-3: Breast
-3: Bred
-3: Broke
-3: Brow
-3: Burn
-3: Bury
-3: Butterfly
-3: Cease
-3: Censure
-3: Charged
-3: Charges
-3: Cheeks
-3: Chose
-3: Cold
-3: Command
-3: Commend
-3: Commission
-3: Conditions
-3: Confess
-3: Constant
-3: Consuls
-3: Contempt
-3: Cowardly
-3: Crave
-3: Crows
-3: Curses
-3: Cushion
-3: Daily
-3: Day’s
-3: Dearth
-3: Deed
-3: Delivered
-3: Denied
-3: Desires
-3: Destroy
-3: Determine
-3: Devise
-3: Dined
-3: Direct
-3: Disdain
-3: Dishonored
-3: Disposition
-3: Dogs
-3: Doit
-3: Drop
-3: Dust
-3: Duty
-3: Ear
-3: Election
-3: Encounter
-3: Enforce
-3: Entertainment
-3: Especially
-3: Exceed
-3: Excuse
-3: Fail
-3: False
-3: Feared
-3: Fears
-3: Feast
-3: Finger
-3: Fires
-3: Foe
-3: Foes
-3: Follows
-3: Forgive
-3: Forgot
-3: Fortunes
-3: Four
-3: Friendly
-3: Fully
-3: Gentleman
-3: Gives
-3: Giving
-3: Gown
-3: Gracious
-3: Gratis
-3: Grow
-3: Grown
-3: Guess
-3: Hadst
-3: Hard
-3: Hated
-3: Hazard
-3: Hearth
-3: Heartily
-3: Heels
-3: Heir
-3: Helps
-3: Herd
-3: Hereafter
-3: High
-3: Highest
-3: Hire
-3: Holding
-3: Honorable
-3: Hoo
-3: Host
-3: Hours
-3: Human
-3: Humble
-3: Ignorant
-3: Incensed
-3: Injury
-3: Insolence
-3: Issue
-3: Joined
-3: Killed
-3: Kindly
-3: Knew
-3: Knowledge
-3: Knows
-3: Labor
-3: Lamb
-3: Laugh
-3: Law
-3: Lawful
-3: Leaves
-3: Lesser
-3: Lets
-3: Liberties
-3: Lips
-3: List
-3: Lives
-3: Looks
-3: Marks
-3: Measure
-3: Meat
-3: Meddle
-3: Mistress
-3: Mocked
-3: Morning
-3: Mortal
-3: Moved
-3: Multitude
-3: Musty
-3: Naught
-3: Near
-3: Nobler
-3: Number
-3: Numbers
-3: Obey
-3: Officers
-3: Ope
-3: Opinion
-3: Ours
-3: Over
-3: Pale
-3: Patient
-3: Perish
-3: Petition
-3: Pleased
-3: Plot
-3: Policy
-3: Possible
-3: Praises
-3: Prate
-3: Prepared
-3: Prosperity
-3: Proved
-3: Public
-3: Putting
-3: Rabble
-3: Rebellion
-3: Red
-3: Refuse
-3: Renownèd
-3: Repair
-3: Respect
-3: Respected
-3: Retire
-3: Returned
-3: Revenges
-3: Rich
-3: Rough
-3: Sake
-3: Sea
-3: Seal
-3: Seeing
-3: Sell
-3: Seven
-3: Several
-3: Shows
-3: Shut
-3: Sicinius
-3: Sight
-3: Silent
-3: Sits
-3: Slain
-3: Smile
-3: Soft
-3: Sons
-3: Soon
-3: Sorrow
-3: Sort
-3: South
-3: Speech
-3: Spend
-3: Stamp
-3: Standing
-3: Stand’st
-3: Stop
-3: Success
-3: Surname
-3: Sweat
-3: Takes
-3: Tale
-3: Teeth
-3: Ten
-3: Territories
-3: Throats
-3: Thwack
-3: Toe
-3: Tonight
-3: Touch
-3: Touched
-3: Towards
-3: Treaty
-3: Trenches
-3: Trouble
-3: Trumpets
-3: Try
-3: Unnatural
-3: Utmost
-3: Valeria
-3: Vent
-3: View
-3: Virtuous
-3: Vulgar
-3: Want
-3: War’s
-3: Wash
-3: Weal
-3: Wear
-3: Welcomes
-3: Wherefore
-3: Where’s
-3: Whilst
-3: Whither
-3: Wild
-3: Wit
-3: Witness
-3: Wits
-3: Woman
-3: Women
-3: Worships
-3: Worst
-3: Wouldst
-3: Writ
-3: You’d
-3: ’twould
-2: Abhorred
-2: Able
-2: Abundance
-2: Abused
-2: Accept
-2: Accusations
-2: Accuse
-2: Accused
-2: Actions
-2: Addition
-2: Adieu
-2: Admits
-2: Advance
-2: Advanced
-2: Advantage
-2: Affection
-2: Affections
-2: Afternoon
-2: Agèd
-2: Alack
-2: Also
-2: Although
-2: Amongst
-2: Appetite
-2: Approaches
-2: Aside
-2: Asked
-2: Asking
-2: Asleep
-2: Ass
-2: Assault
-2: Assemble
-2: Assembly
-2: Assist
-2: Assured
-2: Audience
-2: Avoid
-2: Bands
-2: Bare
-2: Bastards
-2: Bats
-2: Beards
-2: Beasts
-2: Beating
-2: Becomes
-2: Bed
-2: Began
-2: Behalf
-2: Belly’s
-2: Bench
-2: Bestow
-2: Bids
-2: Big
-2: Blaze
-2: Bled
-2: Blind
-2: Blow
-2: Blown
-2: Bodies
-2: Body’s
-2: Book
-2: Bowed
-2: Bowels
-2: Bows
-2: Boys
-2: Bran
-2: Brand
-2: Breaking
-2: Breasts
-2: Breaths
-2: Brief
-2: Briefly
-2: Brows
-2: Brutus
-2: Burning
-2: Burnt
-2: Calamity
-2: Calls
-2: Camp
-2: Canon
-2: Canopy
-2: Capital
-2: Captain
-2: Carried
-2: Carries
-2: Caught
-2: Censured
-2: Chaff
-2: Chances
-2: Character
-2: Chief
-2: Chiefest
-2: Children’s
-2: Chosen
-2: Claim
-2: Clean
-2: Clip
-2: Clubs
-2: Clusters
-2: Coal
-2: Commons
-2: Condemned
-2: Confirmed
-2: Confusion
-2: Conquer
-2: Consul’s
-2: Continued
-2: Controversy
-2: Convenient
-2: Corioles’
-2: Corrupt
-2: Cotus
-2: Counsel
-2: Counsels
-2: Countenance
-2: Countrymen
-2: Courage
-2: Courtesy
-2: Cracked
-2: Craves
-2: Cries
-2: Cruel
-2: Crush
-2: Cure
-2: Curs
-2: Cushions
-2: Dance
-2: Daughters
-2: Dead
-2: Dearer
-2: Declines
-2: Deep
-2: Defend
-2: Defense
-2: Demand
-2: Desert
-2: Despite
-2: Destruction
-2: Devour
-2: Dews
-2: Dieted
-2: Difference
-2: Digest
-2: Din
-2: Directitude
-2: Directly
-2: Discontented
-2: Discover
-2: Disgrace
-2: Dishonor
-2: Displeasure
-2: Dispositions
-2: Dissentious
-2: Distinctly
-2: Divine
-2: Dog
-2: Door
-2: Doors
-2: Double
-2: Dozen
-2: Dragon
-2: Drawn
-2: Dreaded
-2: Drink
-2: Dull
-2: Durst
-2: Dwell’st
-2: Earnestness
-2: East
-2: Elders
-2: Emulation
-2: Ended
-2: Ends
-2: Endure
-2: Entreaties
-2: Envied
-2: Equal
-2: Established
-2: Evident
-2: Excellent
-2: Exercise
-2: Extol
-2: Extremities
-2: E’er
-2: Fabric
-2: Famish
-2: Farther
-2: Fashion
-2: Father’s
-2: Feeding
-2: Fell
-2: Fierce
-2: Fiery
-2: File
-2: Finds
-2: Fitly
-2: Flame
-2: Flat
-2: Flatterers
-2: Flattery
-2: Flesh
-2: Fliers
-2: Followed
-2: Fond
-2: Forbid
-2: Forced
-2: Forehead
-2: Foremost
-2: Forever
-2: Form
-2: Forsworn
-2: Frown
-2: Gain
-2: Garments
-2: Gate
-2: Geese
-2: Gentry
-2: Glory
-2: Gold
-2: Greatness
-2: Greece
-2: Grim
-2: Grows
-2: Grub
-2: Guest
-2: Gulf
-2: Hair
-2: Hangmen
-2: Happy
-2: Hardly
-2: Haste
-2: Hasty
-2: Hat
-2: Hatred
-2: Heat
-2: Heavy
-2: Hector
-2: Hell
-2: Helms
-2: Hercules
-2: Hide
-2: Holy
-2: Horns
-2: Hum
-2: Humility
-2: Hunger
-2: Hungry
-2: Hunt
-2: Idle
-2: Impediment
-2: Infect
-2: Ingrateful
-2: Ingratitude
-2: Insolent
-2: Instant
-2: Instruction
-2: Instruments
-2: Intended
-2: Intends
-2: Intent
-2: Intercession
-2: Interpretation
-2: Italy
-2: Journey
-2: Jove’s
-2: Judge
-2: Killing
-2: Kindle
-2: Kiss
-2: Kites
-2: Knaves
-2: La
-2: Lacked
-2: Ladyship
-2: Large
-2: Leaden
-2: Least
-2: Legs
-2: Lend
-2: Length
-2: Liar
-2: Lift
-2: Light
-2: Likely
-2: Living
-2: Loss
-2: Lost
-2: Lowest
-2: Lungs
-2: Magistrates
-2: Main
-2: Malicious
-2: Manacles
-2: Manifest
-2: Manner
-2: Martius’
-2: Mayst
-2: Meal
-2: Melt
-2: Mend
-2: Midst
-2: Minded
-2: Mirth
-2: Mold
-2: Monstrous
-2: Mother’s
-2: Mouth
-2: Mow
-2: Nail
-2: Naked
-2: Named
-2: Native
-2: Necks
-2: Nettle
-2: Nicanor
-2: Nobleness
-2: Nod
-2: Nose
-2: Nurse
-2: Oath
-2: Obedience
-2: Obeyed
-2: Odd
-2: Offense
-2: Offered
-2: Offices
-2: Oft
-2: Ones
-2: Other’s
-2: Ought
-2: Outward
-2: O’erbear
-2: Pace
-2: Pair
-2: Pardons
-2: Partly
-2: Partner
-2: Passage
-2: Pay
-2: Peremptory
-2: Perform
-2: Peril
-2: Petty
-2: Physic
-2: Pick
-2: Piece
-2: Pieces
-2: Pierce
-2: Piercing
-2: Pikes
-2: Pile
-2: Places
-2: Plainly
-2: Play
-2: Plucked
-2: Points
-2: Poisonous
-2: Poll
-2: Poorest
-2: Porter
-2: Ports
-2: Pot
-2: Practice
-2: Prat’st
-2: Precipitation
-2: Predecessors
-2: Preparation
-2: Prepare
-2: Preserve
-2: Pressed
-2: Pretty
-2: Priests
-2: Privilege
-2: Prize
-2: Prompt
-2: Pronounce
-2: Punish
-2: Puts
-2: Quench
-2: Question
-2: Rages
-2: Raised
-2: Ran
-2: Rascals
-2: Rash
-2: Rats
-2: Reap
-2: Rebuke
-2: Regard
-2: Rejoice
-2: Render
-2: Repent
-2: Repetition
-2: Replied
-2: Require
-2: Resisted
-2: Reverend
-2: Revoke
-2: Revolt
-2: Rights
-2: Ripe
-2: Rise
-2: Rising
-2: Road
-2: Roared
-2: Rob
-2: Rome’s
-2: Root
-2: Royal
-2: Rule
-2: Ruled
-2: Rushes
-2: Sacrifice
-2: Safe
-2: Safeguard
-2: Safely
-2: Sat
-2: Saved
-2: Saying
-2: Scars
-2: Scene
-2: Scorn
-2: Seconds
-2: Seeking
-2: Seemed
-2: Seems
-2: Seize
-2: Sentenced
-2: Served
-2: Serves
-2: Shapes
-2: She’s
-2: Shield
-2: Shields
-2: Short
-2: Shouldst
-2: Shout
-2: Shouting
-2: Shouts
-2: Showing
-2: Sick
-2: Sighed
-2: Sign
-2: Silence
-2: Silk
-2: Sin
-2: Sink
-2: Sirrah
-2: Slay
-2: Slight
-2: Smiles
-2: Solicit
-2: Soothing
-2: Sore
-2: Soul
-2: Souls
-2: Sounds
-2: Spare
-2: Speak’st
-2: Speed
-2: Spoils
-2: Spoken
-2: Stain
-2: Starve
-2: Station
-2: Steel
-2: Stiff
-2: Stinking
-2: Stir
-2: Stones
-2: Stopped
-2: Stored
-2: Storehouse
-2: Stoutness
-2: Strengths
-2: Stretch
-2: Stretched
-2: Stronger
-2: Subtle
-2: Successes
-2: Sufferance
-2: Suffered
-2: Suffering
-2: Suitors
-2: Suits
-2: Sup
-2: Superfluity
-2: Supreme
-2: Surfeits
-2: Sway
-2: Swear
-2: Swoon
-2: Syllables
-2: Taken
-2: Talked
-2: Tarquin
-2: Taste
-2: Temple
-2: Temples
-2: Temp’rately
-2: Term
-2: Thereby
-2: Thereto
-2: Thinking
-2: Thinks
-2: Third
-2: Thoughts
-2: Threshold
-2: Threw
-2: Throne
-2: Throng
-2: Thrust
-2: Tiber
-2: Tie
-2: Tired
-2: Today
-2: Tomorrow
-2: Top
-2: Toward
-2: Trades
-2: Treasure
-2: Trial
-2: Tribe
-2: Tribes
-2: Trick
-2: Turned
-2: Tush
-2: Twelve
-2: Twice
-2: Tyrannical
-2: Uncertain
-2: Undertake
-2: Unknown
-2: Uttered
-2: Value
-2: Veiled
-2: Veins
-2: Vengeance
-2: Venture
-2: Vessel
-2: Virtues
-2: Volsce
-2: Vouch
-2: Vows
-2: Warlike
-2: Warriors
-2: Water
-2: Wave
-2: Waving
-2: Ways
-2: Wears
-2: Weary
-2: Weeds
-2: Weeping
-2: West
-2: Wheel
-2: Whereof
-2: Whereto
-2: White
-2: Who’s
-2: Widows
-2: Willingly
-2: Wills
-2: Wisdom
-2: Wise
-2: Wished
-2: Withal
-2: Wolf
-2: Woman’s
-2: Womb
-2: Wonder
-2: Worn
-2: Worthier
-2: Worthiest
-2: Worthily
-2: Wot
-2: Wretch
-2: Wrong
-2: Wrongs
-2: Yielded
-2: Yonder
-2: Young
-2: Youth
-2: ’has
-2: ’twill
-1: A-doing
-1: Abated
-1: Abed
-1: Abhor
-1: Abhorring
-1: Abilities
-1: Abram
-1: Abundantly
-1: Accents
-1: Acceptance
-1: Access
-1: Accidentally
-1: Acclamations
-1: Accompanied
-1: Accompany
-1: Accomplish
-1: According
-1: Accounted
-1: Accusation
-1: Accusers
-1: Aches
-1: Achieve
-1: Achieved
-1: Acquaintance
-1: Acting
-1: Actor
-1: Acts
-1: Admire
-1: Admit
-1: Admitted
-1: Admitting
-1: Adopt
-1: Adrian
-1: Adversaries
-1: Adversely
-1: Advise
-1: Affairs
-1: Affect
-1: Affected
-1: Affecting
-1: Affects
-1: Afflicts
-1: Affrights
-1: Afire
-1: Afoot
-1: Afric
-1: After-meeting
-1: Agents
-1: Ages
-1: Agreed
-1: Agreeing
-1: Agrippa
-1: Agued
-1: Ah
-1: Aidless
-1: Aim
-1: Aims
-1: Alarum
-1: Alas
-1: Alexander
-1: Alias
-1: All-hail
-1: All-noble
-1: Allay
-1: Allaying
-1: Allow
-1: Allowance
-1: Alter
-1: Alteration
-1: Altitude
-1: Amazonian
-1: Amended
-1: Amplified
-1: An-hungry
-1: Ancestor
-1: Ancus
-1: Anger’s
-1: Annals
-1: Answering
-1: Antique
-1: Anvil
-1: Apes
-1: Apoplexy
-1: Apparent
-1: Appearance
-1: Appeared
-1: Applause
-1: Applied
-1: Apply
-1: Apprehended
-1: Apprehension
-1: Approve
-1: Approved
-1: Apron-men
-1: Apt
-1: Aptness
-1: Arabia
-1: Arch
-1: Arguing
-1: Arithmetic
-1: Armed
-1: Armies
-1: Armor
-1: Army’s
-1: Arriving
-1: Article
-1: Articulate
-1: Ascent
-1: Ash
-1: Asker
-1: Aspect
-1: Assistance
-1: Associated
-1: Assuage
-1: Ass’s
-1: Asunder
-1: Atone
-1: Attach
-1: Attained
-1: Attempt
-1: Attempted
-1: Attended
-1: Attends
-1: Audible
-1: Audit
-1: Aufidiuses
-1: Aufidius’
-1: Auger’s
-1: Augurer
-1: Austerity
-1: Author
-1: Authorities
-1: Authority’s
-1: Awake
-1: Awaken
-1: Awe
-1: Awry
-1: Baas
-1: Babies
-1: Baby
-1: Backs
-1: Baited
-1: Baits
-1: Bale
-1: Ballad-makers
-1: Balms
-1: Banishers
-1: Banners
-1: Barbarians
-1: Barking
-1: Barred
-1: Barren
-1: Barr’st
-1: Baseness
-1: Basest
-1: Bastard
-1: Bate
-1: Bath
-1: Batten
-1: Battery
-1: Beach
-1: Beam
-1: Beast
-1: Beastly
-1: Beaten
-1: Bedfellow
-1: Bedward
-1: Before-time
-1: Beggars
-1: Beggar’s
-1: Begging
-1: Beginning
-1: Begun
-1: Behavior
-1: Beholding
-1: Behold’st
-1: Belonging
-1: Belongs
-1: Bemock
-1: Bencher
-1: Bend
-1: Bended
-1: Beneath
-1: Benefits
-1: Bent
-1: Bereaves
-1: Bestrid
-1: Bestride
-1: Betrayed
-1: Bewail
-1: Beware
-1: Bewitchment
-1: Bewray
-1: Bidding
-1: Bigger
-1: Billeted
-1: Birthplace
-1: Bisson
-1: Bite
-1: Bits
-1: Bitterest
-1: Black
-1: Blanks
-1: Blast
-1: Blearèd
-1: Bleeding
-1: Bleed’st
-1: Blended
-1: Blessèd
-1: Block
-1: Blockhead
-1: Blushed
-1: Boasting
-1: Boats
-1: Bodily
-1: Boiled
-1: Boils
-1: Bolder
-1: Bolt
-1: Bolted
-1: Bond
-1: Bones
-1: Bonnet
-1: Bonneted
-1: Bore
-1: Born
-1: Bosom
-1: Bosoms
-1: Bosom’s
-1: Botcher’s
-1: Bottom
-1: Bountiful
-1: Bower
-1: Bowl
-1: Brag
-1: Braggart
-1: Bragged
-1: Brats
-1: Bravely
-1: Brawn
-1: Bread
-1: Breathe
-1: Breed
-1: Brethren
-1: Briars
-1: Bribe
-1: Bringing
-1: Brings
-1: Bristled
-1: Broil
-1: Broils
-1: Brood
-1: Brook
-1: Brother
-1: Brother’s
-1: Brow-bound
-1: Brown
-1: Bruising
-1: Brunt
-1: Budge
-1: Budger
-1: Buildings
-1: Built
-1: Bulks
-1: Burdens
-1: Burnèd
-1: Burrows
-1: Busied
-1: Bussing
-1: Butcher
-1: Butchers
-1: Butterflies
-1: Buttock
-1: Butts
-1: By’
-1: Calling
-1: Calmly
-1: Calmness
-1: Calved
-1: Cam
-1: Cambric
-1: Camels
-1: Cam’st
-1: Cankered
-1: Cannibally
-1: Can’st
-1: Cap
-1: Capacity
-1: Caparison
-1: Capitulate
-1: Captives
-1: Carbonado
-1: Carbuncle
-1: Carcasses
-1: Cared
-1: Carelessness
-1: Case
-1: Casque
-1: Cat
-1: Catalogue
-1: Catch
-1: Catched
-1: Catching
-1: Cato’s
-1: Cats
-1: Caused
-1: Cautelous
-1: Caution
-1: Cedars
-1: Cement
-1: Censor
-1: Censorinus
-1: Centuries
-1: Centurions
-1: Ceremony
-1: Certainly
-1: Certainties
-1: Chafed
-1: Chain
-1: Chair
-1: Chairs
-1: Chamber
-1: Changed
-1: Changeling
-1: Channel
-1: Charitable
-1: Charity
-1: Charms
-1: Charter
-1: Charters
-1: Chase
-1: Chaste
-1: Chastely
-1: Chats
-1: Check
-1: Chests
-1: Chide
-1: Childish
-1: Childishness
-1: Chin
-1: Choirèd
-1: Choke
-1: Chronicle
-1: Churchyard
-1: Cicatrices
-1: Circumvention
-1: Cities
-1: Citizen
-1: Clamb’ring
-1: Clamor
-1: Clapped
-1: Cleave
-1: Cloth
-1: Clothes
-1: Cloud
-1: Clouds
-1: Cloven
-1: Clucked
-1: Clutched
-1: Coals
-1: Cobbled
-1: Cockle
-1: Coffined
-1: Cog
-1: Coign
-1: Coin
-1: Colder
-1: Colic
-1: Collected
-1: Color
-1: Colored
-1: Combine
-1: Comeliness
-1: Comely
-1: Comfortable
-1: Comforts
-1: Cominius’
-1: Commanded
-1: Commanding
-1: Commandment
-1: Commands
-1: Commendable
-1: Commit
-1: Commonalty
-1: Commoners
-1: Commons’
-1: Commonwealth
-1: Companion
-1: Companions
-1: Companionship
-1: Compass
-1: Compassion
-1: Competency
-1: Complain
-1: Complainings
-1: Complaint
-1: Complexions
-1: Composition
-1: Compound
-1: Compounded
-1: Com’st
-1: Concealment
-1: Conclude
-1: Condemn
-1: Condemning
-1: Condemnèd
-1: Conduct
-1: Conducted
-1: Conduits
-1: Coneys
-1: Confederate
-1: Confidence
-1: Confine
-1: Confined
-1: Confirm
-1: Confound
-1: Confused
-1: Confusion’s
-1: Congregations
-1: Conjectural
-1: Conjure
-1: Conned
-1: Conscience’
-1: Consented
-1: Considering
-1: Conspectuities
-1: Constrains
-1: Construction
-1: Consulship
-1: Consulships
-1: Consume
-1: Consumed
-1: Contagion
-1: Contains
-1: Contemn
-1: Contemning
-1: Contend
-1: Contest
-1: Contradiction
-1: Contrariety
-1: Contrived
-1: Control
-1: Controlled
-1: Convented
-1: Conversation
-1: Converses
-1: Conveyances
-1: Conveying
-1: Cool
-1: Coriolanus’
-1: Cormorant
-1: Cornerstone
-1: Corrected
-1: Correcting
-1: Corse
-1: Corslet
-1: Couldst
-1: Counseled
-1: Counselor
-1: Countenances
-1: Counterfeit
-1: Counterfeitly
-1: Counterpoise
-1: Counterpoised
-1: Countersealed
-1: Countryman
-1: Court
-1: Courteous
-1: Courts
-1: Cousin
-1: Covetous
-1: Covets
-1: Coward
-1: Cowards
-1: Coxcombs
-1: Coyed
-1: Crab
-1: Crack
-1: Cracking
-1: Craft
-1: Crafted
-1: Crafts
-1: Crammed
-1: Cranks
-1: Created
-1: Creeping
-1: Crept
-1: Crest
-1: Cried
-1: Criminal
-1: Crooked
-1: Cross
-1: Crown
-1: Crownèd
-1: Crueler
-1: Cruelty
-1: Crutch
-1: Crying
-1: Cuckolds
-1: Cudgel
-1: Cunning
-1: Cup
-1: Cupboarding
-1: Cur
-1: Curb
-1: Curbs
-1: Curdied
-1: Current
-1: Cursing
-1: Curtsy
-1: Customary
-1: Cymbals
-1: Cypress
-1: Dam
-1: Damask
-1: Dames
-1: Dances
-1: Dangerously
-1: Dangers
-1: Dark
-1: Darken
-1: Dark’ned
-1: Darts
-1: Dar’st
-1: Dastard
-1: Daughter’s
-1: Daws
-1: Days
-1: Deadly
-1: Deaf
-1: Deal
-1: Dearest
-1: Dearly
-1: Deaths
-1: Death’s
-1: Debase
-1: Debile
-1: Decay
-1: Decayed
-1: Deceived
-1: Decreed
-1: Decrees
-1: Deed-achieving
-1: Deepest
-1: Defect
-1: Defective
-1: Defender
-1: Defenders
-1: Defying
-1: Degree
-1: Degrees
-1: Deity
-1: Delay
-1: Deliberate
-1: Delivers
-1: Demands
-1: Demerits
-1: Denials
-1: Depending
-1: Depends
-1: Depopulate
-1: Descended
-1: Deserving
-1: Deservèd
-1: Design
-1: Designments
-1: Desirers
-1: Despair
-1: Desperation
-1: Despise
-1: Despising
-1: Destiny
-1: Destroyed
-1: Destroyer
-1: Determined
-1: Deucalion
-1: Devil
-1: Devotion
-1: Devoured
-1: Dian’s
-1: Dick
-1: Dictator
-1: Died
-1: Dies
-1: Differency
-1: Dignifies
-1: Dinner
-1: Disadvantage
-1: Disbenched
-1: Discharge
-1: Discharged
-1: Disciplined
-1: Disclaim
-1: Discourse
-1: Discovery
-1: Discreet
-1: Discretion
-1: Disdains
-1: Dishonors
-1: Dislikes
-1: Dislodged
-1: Dismayed
-1: Dismissed
-1: Disobedience
-1: Displace
-1: Disposed
-1: Disposing
-1: Dispropertied
-1: Dissemble
-1: Dissension
-1: Dissolved
-1: Distinction
-1: Distress
-1: Distribute
-1: Distributed
-1: Distribution
-1: Disturbing
-1: Ditch
-1: Diversely
-1: Divide
-1: Divines
-1: Division
-1: Dogged
-1: Doings
-1: Donation
-1: Doom
-1: Dotant
-1: Dote
-1: Doubled
-1: Doublets
-1: Doubly
-1: Doubtless
-1: Dovecote
-1: Doves’
-1: Downright
-1: Drachma
-1: Dragonlike
-1: Dreamt
-1: Dregs
-1: Drench
-1: Dries
-1: Drift
-1: Driven
-1: Drives
-1: Droop
-1: Dropped
-1: Drove
-1: Dry
-1: Dumb
-1: During
-1: Duties
-1: Dying
-1: Eagle
-1: Eagles
-1: Earn
-1: Earned
-1: Earnest
-1: Earthly
-1: Ease
-1: Easily
-1: Eaten
-1: Eaters
-1: Edge
-1: Edges
-1: Edicts
-1: Edifices
-1: Effected
-1: Egg
-1: Eight-year-old
-1: Eject
-1: Elected
-1: Elements
-1: Eleven
-1: Eloquence
-1: Elsewhere
-1: Embarquements
-1: Embassies
-1: Embrace
-1: Embraced
-1: Embracements
-1: Empiricutic
-1: Empoisoned
-1: Encounters
-1: Encount’ring
-1: Endue
-1: Endures
-1: Enemies’
-1: Enemy’s
-1: Engine
-1: Enigma
-1: Enjoy
-1: Enmity
-1: Enmity’s
-1: Enormity
-1: Enraged
-1: Enrolled
-1: Ensuing
-1: Entangled
-1: Enters
-1: Entire
-1: Entombed
-1: Entrance
-1: Entreat
-1: Entreaty
-1: Envying
-1: Epitome
-1: Errand
-1: Error
-1: Estate
-1: Estimate
-1: Eternity
-1: Eunuch
-1: Evade
-1: Event
-1: Everyone
-1: Everything
-1: Evil
-1: Examine
-1: Example
-1: Examples
-1: Exceeds
-1: Executed
-1: Expected
-1: Expedition
-1: Expel
-1: Experienced
-1: Exposure
-1: Expulsion
-1: Extreme
-1: Extremest
-1: Extremity
-1: Factionary
-1: Factions
-1: Fails
-1: Faint
-1: Faintly
-1: Fairly
-1: Fairness
-1: Falling
-1: Fall’n
-1: False-faced
-1: Falsely
-1: Falter
-1: Familiar
-1: Famously
-1: Fan
-1: Fancy
-1: Fane
-1: Fasts
-1: Fathers
-1: Fatigate
-1: Faucet-seller
-1: Favor
-1: Favored
-1: Favoring
-1: Favors
-1: Fawn
-1: Fawning
-1: Fearing
-1: Feasts
-1: Feats
-1: Fed
-1: Feeble
-1: Feebling
-1: Feebly
-1: Feed
-1: Feels
-1: Fellest
-1: Fellowship
-1: Fellow’s
-1: Fen
-1: Fens
-1: Fester
-1: Fetch
-1: Feverous
-1: Few
-1: Fielded
-1: Fiends
-1: Fifes
-1: Fighting
-1: Fights
-1: Files
-1: Fill
-1: Filled
-1: Filling
-1: Fillip
-1: Fines
-1: Finished
-1: Fins
-1: Fish
-1: Fisting
-1: Fitness
-1: Fittest
-1: Fix
-1: Fixèd
-1: Flag
-1: Flamens
-1: Flattered
-1: Flaw
-1: Flayed
-1: Flaying
-1: Fled
-1: Flies
-1: Flight
-1: Flint
-1: Floating
-1: Flood
-1: Flour
-1: Flouted
-1: Flow
-1: Flower
-1: Flowers
-1: Flung
-1: Fluttered
-1: Flyers
-1: Fob
-1: Fog
-1: Foiled
-1: Fold
-1: Folds
-1: Follower
-1: Followers
-1: Following
-1: Food
-1: Foolery
-1: Foolhardiness
-1: Foolish
-1: Forbade
-1: Fore-advised
-1: Foreign
-1: Forenoon
-1: Forged
-1: Forges
-1: Forgetfulness
-1: Formerly
-1: Forsook
-1: Forsooth
-1: Fortnight
-1: Fortunate
-1: Fortune’s
-1: Forty
-1: Forward
-1: Foundation
-1: Fourth
-1: Foxes
-1: Foxship
-1: Fragments
-1: Framed
-1: Franchises
-1: Frank
-1: Freedom
-1: Freedoms
-1: Freelier
-1: Freely
-1: Fresh
-1: Freshest
-1: Friendliness
-1: Fright
-1: Frighted
-1: Front
-1: Fronts
-1: Frost
-1: Frowned
-1: Fruit
-1: Function
-1: Functions
-1: Fundamental
-1: Fury
-1: Fusty
-1: Galen
-1: Galled
-1: Gan
-1: Gangrened
-1: Gap
-1: Garb
-1: Garlic
-1: Garners
-1: Gash
-1: Gaze
-1: General’s
-1: Generosity
-1: Gentlemen
-1: Gentler
-1: Getter
-1: Giber
-1: Gibingly
-1: Giddy
-1: Gifts
-1: Gilded
-1: Gilt
-1: Gird
-1: Gladly
-1: Glasses
-1: Glean
-1: Glorious
-1: Gloves
-1: Glowing
-1: Gnaw
-1: Goaded
-1: Goat
-1: Godded
-1: Goddess
-1: Goest
-1: Gosling
-1: Graced
-1: Graceful
-1: Graces
-1: Grafted
-1: Grains
-1: Grainèd
-1: Grandchild
-1: Grapes
-1: Grateful
-1: Gratify
-1: Gratitude
-1: Graver
-1: Graves
-1: Greasy
-1: Greatest
-1: Great’st
-1: Grecian
-1: Greet
-1: Greetings
-1: Greyhound
-1: Grief-shot
-1: Grieve
-1: Grieves
-1: Grind
-1: Groan
-1: Groans
-1: Groats
-1: Grove
-1: Guardant
-1: Guarded
-1: Guided
-1: Guider
-1: Gusts
-1: Hailstone
-1: Hale
-1: Handkerchiefs
-1: Handling
-1: Hanged
-1: Hanging
-1: Hangs
-1: Hap
-1: Happier
-1: Happily
-1: Hardness
-1: Hare
-1: Hares
-1: Harlot’s
-1: Harp
-1: Harrow
-1: Harsh
-1: Harvestman
-1: Hatching
-1: Haver
-1: Havoc
-1: Hazards
-1: Ha’
-1: Heal
-1: Health
-1: Heaped
-1: Heaps
-1: Heart-hard’ning
-1: Heart’s
-1: Hear’st
-1: Heaviest
-1: Hector’s
-1: Hecuba
-1: Heed
-1: Heightened
-1: Hen
-1: Herald
-1: Herdsmen
-1: Hereditary
-1: Hereto
-1: Hew
-1: Hews
-1: He’d
-1: Hie
-1: Highly
-1: Hills
-1: Hint
-1: Hitherward
-1: Hoarded
-1: Hob
-1: Holds
-1: Hollo
-1: Homes
-1: Honester
-1: Hoot
-1: Hooting
-1: Hopeless
-1: Hoping
-1: Horn
-1: Horsed
-1: Horses
-1: Horses’
-1: Hospitable
-1: Hostages
-1: Hostile
-1: Hostilius
-1: Hostler
-1: Hot
-1: Hotly
-1: Hound
-1: Hourly
-1: Hour’s
-1: Housekeepers
-1: Howbeit
-1: Howsoever
-1: Humane
-1: Humanely
-1: Humbler
-1: Humorous
-1: Hurried
-1: Hurry
-1: Hurts
-1: Husbandry
-1: Husband’s
-1: Hushed
-1: Huswife
-1: Hydra
-1: Hyperbolical
-1: H’as
-1: Ice
-1: Icicle
-1: Idly
-1: Imagine
-1: Imitate
-1: Impatience
-1: Imperfect
-1: Impossibility
-1: Impressed
-1: Impression
-1: Incapable
-1: Inches
-1: Inclinable
-1: Inclination
-1: Incline
-1: Inclined
-1: Incorporate
-1: Indifferently
-1: Induced
-1: Inevitable
-1: Infantlike
-1: Infected
-1: Infection
-1: Inferior
-1: Infirmity
-1: Information
-1: Informed
-1: Infringe
-1: Ingrate
-1: Inherent
-1: Inheritance
-1: Inherited
-1: Injurious
-1: Inkling
-1: Innovator
-1: Inquire
-1: Insensible
-1: Inshelled
-1: Insinuating
-1: Insisting
-1: Instantly
-1: Instinct
-1: Instruct
-1: Insult
-1: Insurrections
-1: Insurrection’s
-1: Integrity
-1: Intelligence
-1: Intend
-1: Interims
-1: Interior
-1: Interjoin
-1: Interrupted
-1: Invention
-1: Inventory
-1: Invested
-1: Inveterate
-1: Invincible
-1: Iron
-1: Irons
-1: Issued
-1: Issues
-1: Itch
-1: Ithaca
-1: Jack
-1: Jailor
-1: Jealous
-1: Jest
-1: Jewel
-1: Join
-1: Joint
-1: Jot
-1: Joyful
-1: Judgments
-1: Judicious
-1: Jump
-1: Junius
-1: Juno
-1: Juno-like
-1: Keeping
-1: Kept
-1: Kicked
-1: Kin
-1: Kinder
-1: Kindest
-1: Kindness
-1: King
-1: Kingly
-1: Kings’
-1: Kisses
-1: Kitchen
-1: Knave
-1: Knaves’
-1: Kneel
-1: Kneeled
-1: Kneels
-1: Knell
-1: Knife
-1: Knock
-1: Knot
-1: Knowing
-1: Labored
-1: Labors
-1: Ladders
-1: Lads
-1: Lady’s
-1: Laid
-1: Lame
-1: Lament
-1: Lamentation
-1: Lance
-1: Land
-1: Language
-1: Lapsing
-1: Lately
-1: Latest
-1: Laughed
-1: Laughter
-1: Laws
-1: Leader
-1: Leading
-1: Lead’st
-1: Lean
-1: Leanness
-1: Learn
-1: Learned
-1: Learnèd
-1: Leash
-1: Leasing
-1: Lectures
-1: Leg
-1: Lenity
-1: Lessoned
-1: Lethargy
-1: Letters
-1: Levies
-1: Liberty
-1: Lick
-1: Lief
-1: Liest
-1: Lightly
-1: Liking
-1: Limb
-1: Limbs
-1: Limitation
-1: Linger
-1: Link
-1: Lion
-1: Lions
-1: Littered
-1: Lived
-1: Lo
-1: Load
-1: Loaden
-1: Lockram
-1: Locks
-1: Loins
-1: Lonely
-1: Longer
-1: Looking
-1: Lots
-1: Loud
-1: Louts
-1: Lovelier
-1: Lover
-1: Love’s
-1: Loving
-1: Loyal
-1: Lull
-1: Lurched
-1: Lurked
-1: Lycurguses
-1: Lying
-1: Mad
-1: Mad’st
-1: Magistrate
-1: Maid
-1: Maids
-1: Mailed
-1: Maims
-1: Major
-1: Maker
-1: Male
-1: Maliciously
-1: Malign
-1: Malignantly
-1: Malkin
-1: Mammocked
-1: Man-child
-1: Man-entered
-1: Mangles
-1: Manhood
-1: Manifests
-1: Mankind
-1: Mantled
-1: Many-headed
-1: Map
-1: Mar
-1: Marcus
-1: Marked
-1: Marred
-1: Marriages
-1: Married
-1: Martians
-1: Marvelled
-1: Marv’llous
-1: Masked
-1: Mastership
-1: Match
-1: Matrons
-1: Mature
-1: Meaner
-1: Meanest
-1: Measles
-1: Measureless
-1: Mechanics
-1: Meed
-1: Meeting
-1: Meiny
-1: Mellow
-1: Melted
-1: Mercenary
-1: Mere
-1: Merely
-1: Merrier
-1: Merrily
-1: Merry
-1: Messenger
-1: Methought
-1: Microcosm
-1: Middle
-1: Midnight
-1: Milder
-1: Miles
-1: Milk
-1: Millions
-1: Mills
-1: Minds
-1: Mingle
-1: Mingling
-1: Minister
-1: Ministers
-1: Minnows
-1: Minute
-1: Miscarries
-1: Mischief
-1: Misguide
-1: Miss
-1: Missed
-1: Mistake
-1: Mistaken
-1: Mockers
-1: Mockery
-1: Molehill
-1: Money
-1: Monster
-1: Monstered
-1: Monster’s
-1: Month
-1: Moods
-1: Morrow
-1: Morsel
-1: Mothers
-1: Moths
-1: Mountainous
-1: Mountebank
-1: Mourn
-1: Mournfully
-1: Mouse
-1: Movers
-1: Moves
-1: Moving
-1: Muck
-1: Mulberry
-1: Mules
-1: Mulled
-1: Multiplied
-1: Multiplying
-1: Multitudinous
-1: Mummers
-1: Muniments
-1: Murdering
-1: Murrain
-1: Muse
-1: Muster
-1: Mutable
-1: Mutineers
-1: Mutinies
-1: Mutiny
-1: Mutually
-1: Mysteries
-1: Names
-1: Namèd
-1: Napes
-1: Napless
-1: Nation
-1: Nations
-1: Natural
-1: Navel
-1: Necessary
-1: Necessities
-1: Necessity
-1: Needer
-1: Needless
-1: Needs
-1: Neptune
-1: Nerves
-1: Nervy
-1: Newly
-1: Next
-1: Nicely-gauded
-1: Nightly
-1: Nine
-1: Nodding
-1: Noisome
-1: Noon
-1: North
-1: Noses
-1: Notched
-1: Nothings
-1: Notice
-1: Notion
-1: Nourish
-1: Nourished
-1: Numa’s
-1: Nuptial
-1: Nurse’s
-1: Oaken
-1: Oaks
-1: Obeys
-1: Object
-1: Observe
-1: Obstinate
-1: Occasion
-1: Occupation
-1: Occupations
-1: Odds
-1: Offend
-1: Offenses
-1: Official
-1: Officious
-1: Oldest
-1: Olympus
-1: Omit
-1: One’s
-1: Onward
-1: Open
-1: Oppose
-1: Opposer
-1: Opposers
-1: Opposers’
-1: Opposing
-1: Opposite
-1: Orange-wife
-1: Orb
-1: Ordinance
-1: Osprey
-1: Ostentation
-1: Otherwise
-1: Ounce
-1: Outdares
-1: Outdone
-1: Outrage
-1: Outweighs
-1: Ovator
-1: Over-measure
-1: Overta’en
-1: Owns
-1: O’erborne
-1: O’ercome
-1: O’erleap
-1: O’erpeer
-1: O’erpressed
-1: O’erwhelm
-1: O’erwhelmed
-1: Pack
-1: Packsaddle
-1: Page
-1: Pages
-1: Painful
-1: Paint
-1: Painted
-1: Painting
-1: Palate
-1: Palates
-1: Palm
-1: Palms
-1: Palsied
-1: Palt’ring
-1: Panting
-1: Paper
-1: Parasite’s
-1: Parcel
-1: Parcels
-1: Parent
-1: Partake
-1: Parted
-1: Participate
-1: Particularize
-1: Particularly
-1: Particulars
-1: Passable
-1: Passes
-1: Passing
-1: Passions
-1: Patched
-1: Pates
-1: Patrician
-1: Patroness
-1: Pawn
-1: Pawned
-1: Pays
-1: Pebbles
-1: Peck
-1: Peep
-1: Penelope
-1: Pent
-1: Peradventure
-1: Percussion
-1: Perfecter
-1: Perfidiously
-1: Performed
-1: Perhaps
-1: Permit
-1: Permitted
-1: Perpetual
-1: Persuade
-1: Persuaded
-1: Pertinent
-1: Perused
-1: Pestilence
-1: Pest’ring
-1: Petitionary
-1: Petitioned
-1: Phoebus’
-1: Physical
-1: Physician
-1: Picture-like
-1: Piles
-1: Pinched
-1: Pinned
-1: Pins
-1: Pint
-1: Pipe
-1: Pipes
-1: Pitying
-1: Placed
-1: Placeth
-1: Plagues
-1: Plain
-1: Planet
-1: Plant
-1: Planted
-1: Plants
-1: Plaster
-1: Pleader
-1: Pleaders
-1: Pleasing
-1: Pleasure
-1: Pleasures
-1: Plebeii
-1: Plots
-1: Plow
-1: Plowed
-1: Plumes
-1: Pluto
-1: Pocket
-1: Poisoned
-1: Polled
-1: Poor’st
-1: Porch
-1: Portance
-1: Possess
-1: Possessed
-1: Post
-1: Posterity
-1: Posture
-1: Potch
-1: Potency
-1: Pother
-1: Pound
-1: Pounds
-1: Pouring
-1: Pout
-1: Pow
-1: Prank
-1: Prating
-1: Prattling
-1: Prayed
-1: Prayer
-1: Precepts
-1: Precious
-1: Prefer
-1: Preoccupied
-1: Preparing
-1: Prerogative
-1: Prescription
-1: Presence
-1: Presented
-1: Preservative
-1: Press
-1: Presume
-1: Pretenses
-1: Pretext
-1: Prevail
-1: Prevailing
-1: Prevented
-1: Pricking
-1: Priestlike
-1: Princely
-1: Priority
-1: Prison
-1: Prisoner
-1: Prized
-1: Probable
-1: Proceedings
-1: Proceeds
-1: Process
-1: Procured
-1: Profane
-1: Profess
-1: Profound
-1: Progeny
-1: Projects
-1: Promise-breaker
-1: Prompts
-1: Pronounced
-1: Proof
-1: Proper
-1: Properly
-1: Prosperous
-1: Prosperously
-1: Proudlier
-1: Provand
-1: Proverbs
-1: Provide
-1: Provoked
-1: Prudent
-1: Psalteries
-1: Publicola
-1: Publius
-1: Puff
-1: Puling
-1: Pull
-1: Punished
-1: Puny
-1: Pupil
-1: Purchasing
-1: Purest
-1: Purge
-1: Purposed
-1: Pursue
-1: Pursuing
-1: Pushed
-1: Quaked
-1: Quarrel
-1: Quarry
-1: Quartered
-1: Queen
-1: Quick
-1: Quickly
-1: Quiet
-1: Quietness
-1: Quintus
-1: Quit
-1: Quoth
-1: Raiment
-1: Rain
-1: Raising
-1: Rakes
-1: Ranges
-1: Rank-scented
-1: Ransoming
-1: Rapt
-1: Rapture
-1: Rare
-1: Rarest
-1: Rascal
-1: Rates
-1: Ravish
-1: Ravisher
-1: Readiness
-1: Real
-1: Rebelled
-1: Receipt
-1: Reckless
-1: Recomforted
-1: Recommend
-1: Recompense
-1: Reconcile
-1: Record
-1: Recreant
-1: Rectorship
-1: Redress
-1: Reechy
-1: Reek
-1: Reeking
-1: Reel
-1: Refuge
-1: Refusal
-1: Refused
-1: Regarded
-1: Regions
-1: Reined
-1: Reinforcement
-1: Reins
-1: Rejourn
-1: Relieve
-1: Relieved
-1: Relish
-1: Remedies
-1: Remedy
-1: Remembered
-1: Remembers
-1: Remembrances
-1: Remission
-1: Remote
-1: Remove
-1: Rend
-1: Renew
-1: Renown
-1: Repined
-1: Reports
-1: Repose
-1: Reprieve
-1: Reproof
-1: Repulse
-1: Requested
-1: Requests
-1: Request’s
-1: Requickened
-1: Required
-1: Requires
-1: Requital
-1: Requite
-1: Requited
-1: Rescue
-1: Reservation
-1: Resists
-1: Resolution
-1: Resting
-1: Restitution
-1: Restrain
-1: Restrained
-1: Restrain’st
-1: Resume
-1: Retired
-1: Retires
-1: Returning
-1: Returns
-1: Revel
-1: Revengeful
-1: Revolts
-1: Reward
-1: Rewards
-1: Rheum
-1: Richest
-1: Ridges
-1: Ridiculous
-1: Right-hand
-1: Rightly
-1: Rigorous
-1: Ripest
-1: Risen
-1: Rive
-1: Rivers
-1: Roar
-1: Roaring
-1: Robbery
-1: Rod
-1: Rogues
-1: Roof
-1: Roted
-1: Rougher
-1: Rove
-1: Rub
-1: Rubbing
-1: Rudely
-1: Rumor
-1: Rumored
-1: Rumorer
-1: Rust
-1: Ruth
-1: Sack
-1: Sackbuts
-1: Sad
-1: Safer
-1: Safety
-1: Sail
-1: Salt
-1: Salter
-1: Salve
-1: Sanctifies
-1: Sanctuary
-1: Sauced
-1: Saving
-1: Scabs
-1: Scaling
-1: Scandaled
-1: Scape
-1: Scarce
-1: Scarcely
-1: Scarred
-1: Scarves
-1: Scattered
-1: Schoolboys’
-1: Schooled
-1: Schoolmaster
-1: Scold
-1: Sconce
-1: Scorned
-1: Scornfully
-1: Scotched
-1: Scourge
-1: Scratch
-1: Scratches
-1: Seamark
-1: Seasoned
-1: Seat
-1: Seats
-1: Seconded
-1: Sedition
-1: Seducing
-1: Seeks
-1: Seest
-1: Seld-shown
-1: Select
-1: Self
-1: Self-loving
-1: Selves
-1: Senate’s
-1: Senator
-1: Sense
-1: Senseless
-1: Sensible
-1: Sensibly
-1: Sentence
-1: Serpent
-1: Servanted
-1: Sets
-1: Seventeen
-1: Seventy
-1: Severity
-1: Sewing
-1: Shade
-1: Shadow
-1: Shamed
-1: Shames
-1: Sheep
-1: Shent
-1: Shepherd
-1: Shepherds
-1: Shoes
-1: Shop
-1: Shops
-1: Shortened
-1: Shortly
-1: Shoulder
-1: Shower
-1: Shown
-1: Show’st
-1: Shreds
-1: Shrinks
-1: Shrug
-1: Shunless
-1: Shunned
-1: Shunning
-1: Sided
-1: Sides
-1: Sighs
-1: Sights
-1: Silenced
-1: Silver
-1: Simply
-1: Sincerely
-1: Sinews
-1: Sing
-1: Singing
-1: Singly
-1: Singularity
-1: Sinking
-1: Sirs
-1: Sister
-1: Sithence
-1: Sixteen
-1: Size
-1: Skull
-1: Slander
-1: Slave’s
-1: Sleepy
-1: Slew
-1: Slightness
-1: Slip
-1: Slippery
-1: Slyly
-1: Smart
-1: Smeared
-1: Smells
-1: Smelt
-1: Smiling
-1: Smilingly
-1: Smoking
-1: Smote
-1: Smothered
-1: Snow
-1: So-never-needed
-1: Soaring
-1: Soft-conscienced
-1: Softer
-1: Solace
-1: Sold
-1: Soldier’s
-1: Sole
-1: Solely
-1: Solemness
-1: Sometimes
-1: Sooner
-1: Soothed
-1: Sought
-1: Soul’s
-1: Soundly
-1: Sourly
-1: Sours
-1: Southward
-1: Sovereign
-1: Sovereignty
-1: Sowed
-1: Sowl
-1: Spacious
-1: Spake
-1: Spawn
-1: Speakest
-1: Spectacled
-1: Spectacles
-1: Spectatorship
-1: Speechless
-1: Speedy
-1: Spell
-1: Spices
-1: Spies
-1: Spire
-1: Spirits
-1: Spit
-1: Spite
-1: Spits
-1: Spleen
-1: Splinters
-1: Splitting
-1: Spoons
-1: Sport
-1: Spot
-1: Sprang
-1: Spread
-1: Sprightly
-1: Springs
-1: Spun
-1: Spur
-1: Spurn
-1: Stake
-1: Stale
-1: Stalls
-1: Stamped
-1: Stars
-1: Starts
-1: State’s
-1: Statue
-1: Statutes
-1: Staves
-1: Stayed
-1: Stead
-1: Steep
-1: Stem
-1: Stern
-1: Stick
-1: Sticks
-1: Stirring
-1: Stirrup
-1: Stitchery
-1: Stock
-1: Stocks
-1: Stol’n
-1: Stone
-1: Stoop
-1: Stooping
-1: Store
-1: Storehouses
-1: Stout
-1: Strains
-1: Stream
-1: Strew
-1: Stride
-1: Stripes
-1: Striving
-1: Strongest
-1: Strongly
-1: Strucken
-1: Stubble
-1: Stuck
-1: Stuff
-1: Stuffed
-1: Subdues
-1: Subjects
-1: Submit
-1: Subscribed
-1: Subsisting
-1: Suckle
-1: Suck’st
-1: Sued-for
-1: Suffrage
-1: Suff’ring
-1: Suggest
-1: Suggested
-1: Sulfur
-1: Summer
-1: Summon
-1: Summoned
-1: Supper
-1: Supple
-1: Suppler
-1: Suppliants
-1: Supplication
-1: Supplied
-1: Support
-1: Surcease
-1: Surer
-1: Surety
-1: Surfeit
-1: Surly
-1: Surnamed
-1: Surplus
-1: Survey
-1: Survivor
-1: Swearing
-1: Swifter
-1: Swiftness
-1: Swims
-1: Synod
-1: S’
-1: Tabor
-1: Tabors
-1: Tackle’s
-1: Tag
-1: Tailors
-1: Taints
-1: Taking
-1: Talking
-1: Talks
-1: Tame
-1: Tapers
-1: Target
-1: Tarquins
-1: Tarquin’s
-1: Tartness
-1: Tasked
-1: Tauntingly
-1: Taunts
-1: Teach
-1: Teaches
-1: Tearing
-1: Telling
-1: Tells
-1: Temper
-1: Temperance
-1: Temperately
-1: Temporized
-1: Tempted
-1: Tend
-1: Tender
-1: Tender-bodied
-1: Tenderness
-1: Tending
-1: Tenth
-1: Terrible
-1: Terror
-1: Testy
-1: Tetter
-1: Thankful
-1: Thankfulness
-1: Thankless
-1: Theft
-1: Theme
-1: Themes
-1: Therefor
-1: They’ve
-1: Thief
-1: Thigh
-1: Think’st
-1: Thirst
-1: Thoroughly
-1: Thousands
-1: Thread
-1: Threat’ning
-1: Threepence
-1: Threes
-1: Thrice
-1: Thrive
-1: Thrives
-1: Throngs
-1: Thrown
-1: Throws
-1: Thrusts
-1: Thumb
-1: Thunderlike
-1: Thwartings
-1: Tickled
-1: Tide
-1: Tidings
-1: Tiger
-1: Tiger-footed
-1: Timed
-1: Timepleasers
-1: Tinder-like
-1: Tire
-1: Title
-1: Titleless
-1: Toge
-1: Token
-1: Tomb
-1: Topping
-1: Torn
-1: Touching
-1: Towns
-1: Tradesmen
-1: Traducement
-1: Trail
-1: Traitorous
-1: Traitors
-1: Translate
-1: Transport
-1: Transported
-1: Treading
-1: Treads
-1: Treason
-1: Trees
-1: Tremble
-1: Trembling
-1: Trencher
-1: Tribunes’
-1: Tricks
-1: Trident
-1: Tried
-1: Trier
-1: Trim
-1: Triton
-1: Triumph
-1: Triumphant
-1: Triumphantly
-1: Trivial
-1: Troop
-1: Trophy
-1: Troublesome
-1: Truer
-1: Trumpet
-1: Trumpeter
-1: Trunk
-1: Trusts
-1: Tullus’
-1: Tumble
-1: Tumbled
-1: Tune
-1: Tuns
-1: Twenty
-1: Twenty-five
-1: Twenty-seven
-1: Twin
-1: Twine
-1: Twist
-1: Twos
-1: Tying
-1: Tyranny
-1: Ulysses’
-1: Unaching
-1: Unactive
-1: Unapt
-1: Unbarbèd
-1: Unborn
-1: Unbruised
-1: Unbuckling
-1: Unbuild
-1: Unburied
-1: Unburnt
-1: Uncertainty
-1: Unchilded
-1: Unclog
-1: Undercrest
-1: Understand
-1: Understood
-1: Undo
-1: Unelected
-1: Unfilled
-1: Unfortunate
-1: Ungrateful
-1: Ungravely
-1: Unheard
-1: Unhearts
-1: Unholy
-1: Unjust
-1: Unkindness
-1: Unknit
-1: Unlike
-1: Unlikely
-1: Unmeriting
-1: Unmusical
-1: Unparalleled
-1: Unproperly
-1: Unreasonably
-1: Unroofed
-1: Unsaluted
-1: Unscanned
-1: Unseparable
-1: Unsevered
-1: Unshout
-1: Unstable
-1: Unswayable
-1: Unswept
-1: Until
-1: Unvulnerable
-1: Unwholesome
-1: Unwise
-1: Unworthy
-1: Upbraid
-1: Upper
-1: Urge
-1: Urged
-1: Urn
-1: Ushers
-1: Using
-1: Usurers
-1: Usury
-1: Utter
-1: Utt’rance
-1: Vagabond
-1: Vail
-1: Vain
-1: Valiantness
-1: Valor’s
-1: Vanquisher
-1: Variable
-1: Varlet
-1: Vassals
-1: Vast
-1: Vaward
-1: Velutus
-1: Venomous
-1: Vented
-1: Verdict
-1: Verified
-1: Verily
-1: Verity
-1: Vesture
-1: Vexation
-1: Vexed
-1: Viand
-1: Vice
-1: Vigilant
-1: Vile
-1: Vilely
-1: Villain
-1: Violently
-1: Violent’st
-1: Viper
-1: Viperous
-1: Virgilia
-1: Virgin
-1: Virginal
-1: Virgined
-1: Visage
-1: Visited
-1: Volscians’
-1: Volume
-1: Volumnia
-1: Voluptuously
-1: Vouched
-1: Vouches
-1: Vow
-1: Waged
-1: Wager
-1: Wagging
-1: Wail
-1: Wait
-1: Waked
-1: Walk
-1: Walking
-1: Walks
-1: Wall
-1: Wanting
-1: Wanton
-1: Warm
-1: Warmed
-1: Warning
-1: Warrior
-1: Wars’
-1: Washed
-1: Wast
-1: Watch
-1: Watched
-1: Watered
-1: Waters
-1: Waved
-1: Waw
-1: Waxèd
-1: Weak
-1: Weaker
-1: Weakness
-1: Wealsmen
-1: Wealth
-1: Wedded
-1: Wedged
-1: Wednesday
-1: Weed
-1: Weeded
-1: Weep’st
-1: Weigh
-1: Well-found
-1: Wert
-1: Whatever
-1: Whatsoever
-1: Whene’er
-1: Whereagainst
-1: Whereat
-1: Whereby
-1: Whereon
-1: Whiles
-1: Whilest
-1: Whined
-1: Whipped
-1: Whisper
-1: Whoever
-1: Whooped
-1: Wide
-1: Widens
-1: Widowed
-1: Wife’s
-1: Willing
-1: Wind-shaken
-1: Windows
-1: Winds
-1: Wings
-1: Wipe
-1: Wiped
-1: Wiping
-1: Wisdoms
-1: Wishes
-1: Witchcraft’s
-1: Withdraw
-1: Womb’s
-1: Women’s
-1: Wond’ring
-1: Wooed
-1: Woolen
-1: Woolvish
-1: Worship
-1: Worshipful
-1: Worthiness
-1: Wounds’
-1: Wracked
-1: Wreak
-1: Wrench
-1: Write
-1: Writes
-1: Writing
-1: Written
-1: Wrought
-1: Yarn
-1: Yawn
-1: Years’
-1: Yesterday
-1: Yielding
-1: Yields
-1: Yoke
-1: Younger
-1: Youngly
-1: Young’st
-1: You’st
-1: ’bout
-1: ’faith
-1: ’fidiused
-1: ’larum
-1: ’longs
-1: ’rt
-1: ’sdeath
-1: ’voided
+ , instances: 885, word: 'The', work: 'Cor'},
+ , instances: 696, word: 'To', work: 'Cor'},
+ , instances: 677, word: 'And', work: 'Cor'},
+ , instances: 637, word: 'You', work: 'Cor'},
+ , instances: 520, word: 'I', work: 'Cor'},
+ , instances: 458, word: 'Of', work: 'Cor'},
+ , instances: 376, word: 'A', work: 'Cor'},
+ , instances: 352, word: 'He', work: 'Cor'},
+ , instances: 320, word: 'In', work: 'Cor'},
+ , instances: 319, word: 'That', work: 'Cor'},
+ , instances: 300, word: 'Your', work: 'Cor'},
+ , instances: 282, word: 'Not', work: 'Cor'},
+ , instances: 273, word: 'Have', work: 'Cor'},
+ , instances: 262, word: 'With', work: 'Cor'},
+ , instances: 257, word: 'Him', work: 'Cor'},
+ , instances: 257, word: 'My', work: 'Cor'},
+ , instances: 255, word: 'His', work: 'Cor'},
+ , instances: 240, word: 'For', work: 'Cor'},
+ , instances: 231, word: 'It', work: 'Cor'},
+ , instances: 224, word: 'Is', work: 'Cor'},
+ , instances: 222, word: 'As', work: 'Cor'},
+ , instances: 210, word: 'Be', work: 'Cor'},
+ , instances: 193, word: 'We', work: 'Cor'},
+ , instances: 192, word: 'But', work: 'Cor'},
+ , instances: 171, word: 'Th\'', work: 'Cor'},
+ , instances: 170, word: 'This', work: 'Cor'},
+ , instances: 168, word: 'Me', work: 'Cor'},
+ , instances: 163, word: 'Our', work: 'Cor'},
+ , instances: 156, word: 'What', work: 'Cor'},
+ , instances: 155, word: 'Are', work: 'Cor'},
+ , instances: 135, word: 'So', work: 'Cor'},
+ , instances: 130, word: 'No', work: 'Cor'},
+ , instances: 130, word: 'They', work: 'Cor'},
+ , instances: 128, word: 'Them', work: 'Cor'},
+ , instances: 127, word: 'Do', work: 'Cor'},
+ , instances: 127, word: 'Will', work: 'Cor'},
+ , instances: 124, word: 'All', work: 'Cor'},
+ , instances: 124, word: 'Shall', work: 'Cor'},
+ , instances: 124, word: 'Their', work: 'Cor'},
+ , instances: 118, word: 'If', work: 'Cor'},
+ , instances: 112, word: 'Than', work: 'Cor'},
+ , instances: 105, word: 'By', work: 'Cor'},
+ , instances: 102, word: 'Which', work: 'Cor'},
+ , instances: 99, word: 'More', work: 'Cor'},
+ , instances: 99, word: 'Thou', work: 'Cor'},
+ , instances: 98, word: 'Would', work: 'Cor'},
+ , instances: 94, word: 'Good', work: 'Cor'},
+ , instances: 93, word: 'Us', work: 'Cor'},
+ , instances: 92, word: 'Thy', work: 'Cor'},
+ , instances: 88, word: 'Rome', work: 'Cor'},
+ , instances: 85, word: 'On', work: 'Cor'},
+ , instances: 84, word: 'Sir', work: 'Cor'},
+ , instances: 83, word: 'Was', work: 'Cor'},
+ , instances: 82, word: 'Come', work: 'Cor'},
+ , instances: 81, word: 'When', work: 'Cor'},
+ , instances: 80, word: 'At', work: 'Cor'},
+ , instances: 80, word: 'Well', work: 'Cor'},
+ , instances: 79, word: 'Martius', work: 'Cor'},
+ , instances: 78, word: 'One', work: 'Cor'},
+ , instances: 78, word: '\'t', work: 'Cor'},
+ , instances: 73, word: 'Say', work: 'Cor'},
+ , instances: 72, word: 'Had', work: 'Cor'},
+ , instances: 71, word: 'From', work: 'Cor'},
+ , instances: 71, word: 'Were', work: 'Cor'},
+ , instances: 69, word: 'Or', work: 'Cor'},
+ , instances: 69, word: 'People', work: 'Cor'},
+ , instances: 68, word: 'Let', work: 'Cor'},
+ , instances: 68, word: 'Now', work: 'Cor'},
+ , instances: 68, word: 'Thee', work: 'Cor'},
+ , instances: 67, word: 'Go', work: 'Cor'},
+ , instances: 64, word: 'Then', work: 'Cor'},
+ , instances: 64, word: 'Upon', work: 'Cor'},
+ , instances: 63, word: 'Must', work: 'Cor'},
+ , instances: 62, word: 'Did', work: 'Cor'},
+ , instances: 62, word: 'Like', work: 'Cor'},
+ , instances: 61, word: 'Make', work: 'Cor'},
+ , instances: 60, word: 'How', work: 'Cor'},
+ , instances: 59, word: 'Here', work: 'Cor'},
+ , instances: 58, word: 'Know', work: 'Cor'},
+ , instances: 58, word: 'Noble', work: 'Cor'},
+ , instances: 56, word: 'Hear', work: 'Cor'},
+ , instances: 56, word: 'Speak', work: 'Cor'},
+ , instances: 54, word: 'I\'ll', work: 'Cor'},
+ , instances: 54, word: 'Yet', work: 'Cor'},
+ , instances: 53, word: 'Out', work: 'Cor'},
+ , instances: 53, word: 'Should', work: 'Cor'},
+ , instances: 52, word: 'O', work: 'Cor'},
+ , instances: 52, word: '\'tis', work: 'Cor'},
+ , instances: 51, word: 'An', work: 'Cor'},
+ , instances: 51, word: 'Hath', work: 'Cor'},
+ , instances: 51, word: 'O\'', work: 'Cor'},
+ , instances: 50, word: 'Most', work: 'Cor'},
+ , instances: 50, word: 'Where', work: 'Cor'},
+ , instances: 46, word: 'Am', work: 'Cor'},
+ , instances: 46, word: 'Gods', work: 'Cor'},
+ , instances: 46, word: 'Man', work: 'Cor'},
+ , instances: 45, word: 'Cannot', work: 'Cor'},
+ , instances: 44, word: 'Before', work: 'Cor'},
+ , instances: 44, word: 'Give', work: 'Cor'},
+ , instances: 43, word: 'Can', work: 'Cor'},
+ , instances: 42, word: 'I\'', work: 'Cor'},
+ , instances: 42, word: 'Who', work: 'Cor'},
+ , instances: 41, word: 'Pray', work: 'Cor'},
+ , instances: 40, word: 'Made', work: 'Cor'},
+ , instances: 40, word: 'Power', work: 'Cor'},
+ , instances: 40, word: 'Think', work: 'Cor'},
+ , instances: 39, word: 'City', work: 'Cor'},
+ , instances: 38, word: 'Against', work: 'Cor'},
+ , instances: 38, word: 'May', work: 'Cor'},
+ , instances: 38, word: 'Peace', work: 'Cor'},
+ , instances: 38, word: 'See', work: 'Cor'},
+ , instances: 37, word: 'Home', work: 'Cor'},
+ , instances: 37, word: 'Mother', work: 'Cor'},
+ , instances: 37, word: 'Own', work: 'Cor'},
+ , instances: 37, word: 'Too', work: 'Cor'},
+ , instances: 36, word: 'Tell', work: 'Cor'},
+ , instances: 36, word: 'There', work: 'Cor'},
+ , instances: 36, word: 'Voices', work: 'Cor'},
+ , instances: 35, word: 'Friends', work: 'Cor'},
+ , instances: 35, word: 'Such', work: 'Cor'},
+ , instances: 35, word: 'These', work: 'Cor'},
+ , instances: 35, word: 'Why', work: 'Cor'},
+ , instances: 34, word: 'Up', work: 'Cor'},
+ , instances: 33, word: 'General', work: 'Cor'},
+ , instances: 33, word: 'Some', work: 'Cor'},
+ , instances: 33, word: 'Take', work: 'Cor'},
+ , instances: 33, word: 'Way', work: 'Cor'},
+ , instances: 32, word: 'Aufidius', work: 'Cor'},
+ , instances: 32, word: 'Been', work: 'Cor'},
+ , instances: 32, word: 'Coriolanus', work: 'Cor'},
+ , instances: 32, word: 'Great', work: 'Cor'},
+ , instances: 32, word: 'Has', work: 'Cor'},
+ , instances: 32, word: 'Name', work: 'Cor'},
+ , instances: 32, word: 'Nor', work: 'Cor'},
+ , instances: 32, word: 'Thus', work: 'Cor'},
+ , instances: 32, word: 'Time', work: 'Cor'},
+ , instances: 30, word: 'Being', work: 'Cor'},
+ , instances: 30, word: 'Done', work: 'Cor'},
+ , instances: 30, word: 'Though', work: 'Cor'},
+ , instances: 30, word: 'True', work: 'Cor'},
+ , instances: 29, word: 'Could', work: 'Cor'},
+ , instances: 29, word: 'Heart', work: 'Cor'},
+ , instances: 29, word: 'Tribunes', work: 'Cor'},
+ , instances: 28, word: 'Consul', work: 'Cor'},
+ , instances: 28, word: 'Down', work: 'Cor'},
+ , instances: 28, word: 'Love', work: 'Cor'},
+ , instances: 28, word: 'Nay', work: 'Cor'},
+ , instances: 28, word: 'Never', work: 'Cor'},
+ , instances: 27, word: 'Country', work: 'Cor'},
+ , instances: 27, word: 'Worthy', work: 'Cor'},
+ , instances: 26, word: 'He\'s', work: 'Cor'},
+ , instances: 26, word: 'Men', work: 'Cor'},
+ , instances: 26, word: 'Son', work: 'Cor'},
+ , instances: 26, word: 'Those', work: 'Cor'},
+ , instances: 25, word: 'Away', work: 'Cor'},
+ , instances: 25, word: 'Honor', work: 'Cor'},
+ , instances: 25, word: 'Mine', work: 'Cor'},
+ , instances: 25, word: 'News', work: 'Cor'},
+ , instances: 25, word: 'Stand', work: 'Cor'},
+ , instances: 25, word: 'Therefore', work: 'Cor'},
+ , instances: 25, word: 'Very', work: 'Cor'},
+ , instances: 24, word: 'Again', work: 'Cor'},
+ , instances: 24, word: 'Bear', work: 'Cor'},
+ , instances: 24, word: 'Ever', work: 'Cor'},
+ , instances: 24, word: 'First', work: 'Cor'},
+ , instances: 24, word: 'Her', work: 'Cor'},
+ , instances: 24, word: 'Rather', work: 'Cor'},
+ , instances: 24, word: '\'s', work: 'Cor'},
+ , instances: 23, word: 'Blood', work: 'Cor'},
+ , instances: 22, word: 'Let\'s', work: 'Cor'},
+ , instances: 22, word: 'Other', work: 'Cor'},
+ , instances: 22, word: 'State', work: 'Cor'},
+ , instances: 21, word: 'Ay', work: 'Cor'},
+ , instances: 21, word: 'Even', work: 'Cor'},
+ , instances: 21, word: 'Many', work: 'Cor'},
+ , instances: 21, word: 'Put', work: 'Cor'},
+ , instances: 21, word: 'Show', work: 'Cor'},
+ , instances: 21, word: 'World', work: 'Cor'},
+ , instances: 20, word: 'Death', work: 'Cor'},
+ , instances: 20, word: 'Less', work: 'Cor'},
+ , instances: 20, word: 'Only', work: 'Cor'},
+ , instances: 20, word: 'Said', work: 'Cor'},
+ , instances: 20, word: 'What\'s', work: 'Cor'},
+ , instances: 20, word: 'Whose', work: 'Cor'},
+ , instances: 20, word: 'Wife', work: 'Cor'},
+ , instances: 19, word: 'Call', work: 'Cor'},
+ , instances: 19, word: 'Common', work: 'Cor'},
+ , instances: 19, word: 'Does', work: 'Cor'},
+ , instances: 19, word: 'Forth', work: 'Cor'},
+ , instances: 19, word: 'House', work: 'Cor'},
+ , instances: 19, word: 'Leave', work: 'Cor'},
+ , instances: 19, word: 'Much', work: 'Cor'},
+ , instances: 19, word: 'Part', work: 'Cor'},
+ , instances: 19, word: 'Poor', work: 'Cor'},
+ , instances: 19, word: 'That\'s', work: 'Cor'},
+ , instances: 19, word: 'War', work: 'Cor'},
+ , instances: 19, word: 'Wars', work: 'Cor'},
+ , instances: 18, word: 'Both', work: 'Cor'},
+ , instances: 18, word: 'Cause', work: 'Cor'},
+ , instances: 18, word: 'Cominius', work: 'Cor'},
+ , instances: 18, word: 'Hast', work: 'Cor'},
+ , instances: 18, word: 'Hate', work: 'Cor'},
+ , instances: 18, word: 'Heard', work: 'Cor'},
+ , instances: 18, word: 'Himself', work: 'Cor'},
+ , instances: 18, word: 'Nature', work: 'Cor'},
+ , instances: 18, word: 'Set', work: 'Cor'},
+ , instances: 18, word: 'Volsces', work: 'Cor'},
+ , instances: 18, word: 'Welcome', work: 'Cor'},
+ , instances: 17, word: 'Best', work: 'Cor'},
+ , instances: 17, word: 'Better', work: 'Cor'},
+ , instances: 17, word: 'Caius', work: 'Cor'},
+ , instances: 17, word: 'End', work: 'Cor'},
+ , instances: 17, word: 'Ere', work: 'Cor'},
+ , instances: 17, word: 'Fellow', work: 'Cor'},
+ , instances: 17, word: 'Into', work: 'Cor'},
+ , instances: 17, word: 'Little', work: 'Cor'},
+ , instances: 17, word: 'Matter', work: 'Cor'},
+ , instances: 17, word: 'Still', work: 'Cor'},
+ , instances: 17, word: 'Sword', work: 'Cor'},
+ , instances: 16, word: 'Answer', work: 'Cor'},
+ , instances: 16, word: 'Back', work: 'Cor'},
+ , instances: 16, word: 'Eyes', work: 'Cor'},
+ , instances: 16, word: 'Find', work: 'Cor'},
+ , instances: 16, word: 'Follow', work: 'Cor'},
+ , instances: 16, word: 'Gates', work: 'Cor'},
+ , instances: 16, word: 'Might', work: 'Cor'},
+ , instances: 16, word: 'Off', work: 'Cor'},
+ , instances: 16, word: 'Old', work: 'Cor'},
+ , instances: 16, word: 'Since', work: 'Cor'},
+ , instances: 16, word: 'We\'ll', work: 'Cor'},
+ , instances: 16, word: 'Whom', work: 'Cor'},
+ , instances: 16, word: 'Word', work: 'Cor'},
+ , instances: 16, word: 'Work', work: 'Cor'},
+ , instances: 15, word: 'Any', work: 'Cor'},
+ , instances: 15, word: 'Art', work: 'Cor'},
+ , instances: 15, word: 'Beseech', work: 'Cor'},
+ , instances: 15, word: 'Capitol', work: 'Cor'},
+ , instances: 15, word: 'Corioles', work: 'Cor'},
+ , instances: 15, word: 'Fair', work: 'Cor'},
+ , instances: 15, word: 'Further', work: 'Cor'},
+ , instances: 15, word: 'Help', work: 'Cor'},
+ , instances: 15, word: 'Keep', work: 'Cor'},
+ , instances: 15, word: 'Look', work: 'Cor'},
+ , instances: 15, word: 'Menenius', work: 'Cor'},
+ , instances: 15, word: 'Report', work: 'Cor'},
+ , instances: 15, word: 'Senate', work: 'Cor'},
+ , instances: 15, word: 'There\'s', work: 'Cor'},
+ , instances: 15, word: 'Together', work: 'Cor'},
+ , instances: 15, word: 'Wish', work: 'Cor'},
+ , instances: 15, word: 'Words', work: 'Cor'},
+ , instances: 15, word: 'Wounds', work: 'Cor'},
+ , instances: 15, word: '\'em', work: 'Cor'},
+ , instances: 14, word: 'About', work: 'Cor'},
+ , instances: 14, word: 'Alone', work: 'Cor'},
+ , instances: 14, word: 'Ears', work: 'Cor'},
+ , instances: 14, word: 'Else', work: 'Cor'},
+ , instances: 14, word: 'Enemy', work: 'Cor'},
+ , instances: 14, word: 'Half', work: 'Cor'},
+ , instances: 14, word: 'Honors', work: 'Cor'},
+ , instances: 14, word: 'Lose', work: 'Cor'},
+ , instances: 14, word: 'Present', work: 'Cor'},
+ , instances: 14, word: 'Proud', work: 'Cor'},
+ , instances: 14, word: 'Thing', work: 'Cor'},
+ , instances: 14, word: 'Till', work: 'Cor'},
+ , instances: 13, word: 'Action', work: 'Cor'},
+ , instances: 13, word: 'After', work: 'Cor'},
+ , instances: 13, word: 'Banished', work: 'Cor'},
+ , instances: 13, word: 'Bring', work: 'Cor'},
+ , instances: 13, word: 'Cry', work: 'Cor'},
+ , instances: 13, word: 'Fear', work: 'Cor'},
+ , instances: 13, word: 'Gone', work: 'Cor'},
+ , instances: 13, word: 'Hence', work: 'Cor'},
+ , instances: 13, word: 'Indeed', work: 'Cor'},
+ , instances: 13, word: 'Ladies', work: 'Cor'},
+ , instances: 13, word: 'Last', work: 'Cor'},
+ , instances: 13, word: 'Lies', work: 'Cor'},
+ , instances: 13, word: 'Lord', work: 'Cor'},
+ , instances: 13, word: 'Lords', work: 'Cor'},
+ , instances: 13, word: 'Loved', work: 'Cor'},
+ , instances: 13, word: 'Nothing', work: 'Cor'},
+ , instances: 13, word: 'Once', work: 'Cor'},
+ , instances: 13, word: 'Roman', work: 'Cor'},
+ , instances: 13, word: 'She', work: 'Cor'},
+ , instances: 13, word: 'Stay', work: 'Cor'},
+ , instances: 13, word: 'Thine', work: 'Cor'},
+ , instances: 13, word: 'Things', work: 'Cor'},
+ , instances: 13, word: 'Tongue', work: 'Cor'},
+ , instances: 13, word: 'Two', work: 'Cor'},
+ , instances: 12, word: 'Body', work: 'Cor'},
+ , instances: 12, word: 'Farewell', work: 'Cor'},
+ , instances: 12, word: 'Hand', work: 'Cor'},
+ , instances: 12, word: 'Lay', work: 'Cor'},
+ , instances: 12, word: 'Lie', work: 'Cor'},
+ , instances: 12, word: 'Meet', work: 'Cor'},
+ , instances: 12, word: 'Myself', work: 'Cor'},
+ , instances: 12, word: 'Seem', work: 'Cor'},
+ , instances: 12, word: 'Senators', work: 'Cor'},
+ , instances: 12, word: 'Service', work: 'Cor'},
+ , instances: 12, word: 'Unto', work: 'Cor'},
+ , instances: 12, word: 'Voice', work: 'Cor'},
+ , instances: 12, word: 'Without', work: 'Cor'},
+ , instances: 11, word: 'Another', work: 'Cor'},
+ , instances: 11, word: 'Boy', work: 'Cor'},
+ , instances: 11, word: 'Comes', work: 'Cor'},
+ , instances: 11, word: 'Enough', work: 'Cor'},
+ , instances: 11, word: 'Fight', work: 'Cor'},
+ , instances: 11, word: 'Fire', work: 'Cor'},
+ , instances: 11, word: 'Get', work: 'Cor'},
+ , instances: 11, word: 'Life', work: 'Cor'},
+ , instances: 11, word: 'Madam', work: 'Cor'},
+ , instances: 11, word: 'Makes', work: 'Cor'},
+ , instances: 11, word: 'Patricians', work: 'Cor'},
+ , instances: 11, word: 'Prithee', work: 'Cor'},
+ , instances: 11, word: 'Request', work: 'Cor'},
+ , instances: 11, word: 'Soldier', work: 'Cor'},
+ , instances: 11, word: 'Truth', work: 'Cor'},
+ , instances: 11, word: 'Yours', work: 'Cor'},
+ , instances: 11, word: '\'twas', work: 'Cor'},
+ , instances: 10, word: 'Beat', work: 'Cor'},
+ , instances: 10, word: 'Break', work: 'Cor'},
+ , instances: 10, word: 'Brought', work: 'Cor'},
+ , instances: 10, word: 'Business', work: 'Cor'},
+ , instances: 10, word: 'Content', work: 'Cor'},
+ , instances: 10, word: 'Corn', work: 'Cor'},
+ , instances: 10, word: 'Country\'s', work: 'Cor'},
+ , instances: 10, word: 'Dear', work: 'Cor'},
+ , instances: 10, word: 'Die', work: 'Cor'},
+ , instances: 10, word: 'Every', work: 'Cor'},
+ , instances: 10, word: 'Face', work: 'Cor'},
+ , instances: 10, word: 'Friend', work: 'Cor'},
+ , instances: 10, word: 'Full', work: 'Cor'},
+ , instances: 10, word: 'Hearts', work: 'Cor'},
+ , instances: 10, word: 'Hold', work: 'Cor'},
+ , instances: 10, word: 'Hope', work: 'Cor'},
+ , instances: 10, word: 'Hour', work: 'Cor'},
+ , instances: 10, word: 'Known', work: 'Cor'},
+ , instances: 10, word: 'Long', work: 'Cor'},
+ , instances: 10, word: 'Loves', work: 'Cor'},
+ , instances: 10, word: 'Mark', work: 'Cor'},
+ , instances: 10, word: 'Marketplace', work: 'Cor'},
+ , instances: 10, word: 'Masters', work: 'Cor'},
+ , instances: 10, word: 'Mercy', work: 'Cor'},
+ , instances: 10, word: 'Pride', work: 'Cor'},
+ , instances: 10, word: 'Purpose', work: 'Cor'},
+ , instances: 10, word: 'Romans', work: 'Cor'},
+ , instances: 10, word: 'Saw', work: 'Cor'},
+ , instances: 10, word: 'Stood', work: 'Cor'},
+ , instances: 10, word: 'Thank', work: 'Cor'},
+ , instances: 10, word: 'Thought', work: 'Cor'},
+ , instances: 10, word: 'Titus', work: 'Cor'},
+ , instances: 10, word: 'Wherein', work: 'Cor'},
+ , instances: 10, word: 'Whether', work: 'Cor'},
+ , instances: 10, word: 'Within', work: 'Cor'},
+ , instances: 10, word: 'Yourself', work: 'Cor'},
+ , instances: 10, word: 'You\'ll', work: 'Cor'},
+ , instances: 9, word: 'Appear', work: 'Cor'},
+ , instances: 9, word: 'Belly', work: 'Cor'},
+ , instances: 9, word: 'Certain', work: 'Cor'},
+ , instances: 9, word: 'Day', work: 'Cor'},
+ , instances: 9, word: 'Deeds', work: 'Cor'},
+ , instances: 9, word: 'Deserved', work: 'Cor'},
+ , instances: 9, word: 'Doth', work: 'Cor'},
+ , instances: 9, word: 'Doubt', work: 'Cor'},
+ , instances: 9, word: 'Each', work: 'Cor'},
+ , instances: 9, word: 'Enemies', work: 'Cor'},
+ , instances: 9, word: 'Fought', work: 'Cor'},
+ , instances: 9, word: 'Given', work: 'Cor'},
+ , instances: 9, word: 'Grave', work: 'Cor'},
+ , instances: 9, word: 'Hands', work: 'Cor'},
+ , instances: 9, word: 'Head', work: 'Cor'},
+ , instances: 9, word: 'Here\'s', work: 'Cor'},
+ , instances: 9, word: 'Kind', work: 'Cor'},
+ , instances: 9, word: 'Live', work: 'Cor'},
+ , instances: 9, word: 'Neither', work: 'Cor'},
+ , instances: 9, word: 'Nobles', work: 'Cor'},
+ , instances: 9, word: 'Prove', work: 'Cor'},
+ , instances: 9, word: 'Remain', work: 'Cor'},
+ , instances: 9, word: 'Seen', work: 'Cor'},
+ , instances: 9, word: 'Serve', work: 'Cor'},
+ , instances: 9, word: 'Shame', work: 'Cor'},
+ , instances: 9, word: 'Spirit', work: 'Cor'},
+ , instances: 9, word: 'Strange', work: 'Cor'},
+ , instances: 9, word: 'Sweet', work: 'Cor'},
+ , instances: 9, word: 'Three', work: 'Cor'},
+ , instances: 9, word: 'Through', work: 'Cor'},
+ , instances: 9, word: 'Town', work: 'Cor'},
+ , instances: 9, word: 'Turn', work: 'Cor'},
+ , instances: 9, word: 'Under', work: 'Cor'},
+ , instances: 9, word: 'Yourselves', work: 'Cor'},
+ , instances: 8, word: 'Arms', work: 'Cor'},
+ , instances: 8, word: 'Army', work: 'Cor'},
+ , instances: 8, word: 'Between', work: 'Cor'},
+ , instances: 8, word: 'Bound', work: 'Cor'},
+ , instances: 8, word: 'Called', work: 'Cor'},
+ , instances: 8, word: 'Came', work: 'Cor'},
+ , instances: 8, word: 'Deliver', work: 'Cor'},
+ , instances: 8, word: 'Desire', work: 'Cor'},
+ , instances: 8, word: 'Either', work: 'Cor'},
+ , instances: 8, word: 'Fall', work: 'Cor'},
+ , instances: 8, word: 'Far', work: 'Cor'},
+ , instances: 8, word: 'Fortune', work: 'Cor'},
+ , instances: 8, word: 'God', work: 'Cor'},
+ , instances: 8, word: 'Greater', work: 'Cor'},
+ , instances: 8, word: 'Hang', work: 'Cor'},
+ , instances: 8, word: 'Hark', work: 'Cor'},
+ , instances: 8, word: 'Having', work: 'Cor'},
+ , instances: 8, word: 'He\'ll', work: 'Cor'},
+ , instances: 8, word: 'Husband', work: 'Cor'},
+ , instances: 8, word: 'Joy', work: 'Cor'},
+ , instances: 8, word: 'Lady', work: 'Cor'},
+ , instances: 8, word: 'Lartius', work: 'Cor'},
+ , instances: 8, word: 'Malice', work: 'Cor'},
+ , instances: 8, word: 'Ne\'er', work: 'Cor'},
+ , instances: 8, word: 'Nobly', work: 'Cor'},
+ , instances: 8, word: 'People\'s', work: 'Cor'},
+ , instances: 8, word: 'Person', work: 'Cor'},
+ , instances: 8, word: 'Proceed', work: 'Cor'},
+ , instances: 8, word: 'Ready', work: 'Cor'},
+ , instances: 8, word: 'Return', work: 'Cor'},
+ , instances: 8, word: 'Rock', work: 'Cor'},
+ , instances: 8, word: 'Same', work: 'Cor'},
+ , instances: 8, word: 'Save', work: 'Cor'},
+ , instances: 8, word: 'Showed', work: 'Cor'},
+ , instances: 8, word: 'Spoke', work: 'Cor'},
+ , instances: 8, word: 'Struck', work: 'Cor'},
+ , instances: 8, word: 'Sure', work: 'Cor'},
+ , instances: 8, word: 'Sworn', work: 'Cor'},
+ , instances: 8, word: 'Talk', work: 'Cor'},
+ , instances: 8, word: 'Tongues', work: 'Cor'},
+ , instances: 8, word: 'Traitor', work: 'Cor'},
+ , instances: 8, word: 'Tullus', work: 'Cor'},
+ , instances: 8, word: 'Use', work: 'Cor'},
+ , instances: 8, word: 'Whence', work: 'Cor'},
+ , instances: 8, word: 'Worth', work: 'Cor'},
+ , instances: 7, word: 'Almost', work: 'Cor'},
+ , instances: 7, word: 'Ask', work: 'Cor'},
+ , instances: 7, word: 'Attend', work: 'Cor'},
+ , instances: 7, word: 'Become', work: 'Cor'},
+ , instances: 7, word: 'Behold', work: 'Cor'},
+ , instances: 7, word: 'Bid', work: 'Cor'},
+ , instances: 7, word: 'Brave', work: 'Cor'},
+ , instances: 7, word: 'Breath', work: 'Cor'},
+ , instances: 7, word: 'Care', work: 'Cor'},
+ , instances: 7, word: 'Chance', work: 'Cor'},
+ , instances: 7, word: 'Charge', work: 'Cor'},
+ , instances: 7, word: 'Child', work: 'Cor'},
+ , instances: 7, word: 'Citizens', work: 'Cor'},
+ , instances: 7, word: 'Coming', work: 'Cor'},
+ , instances: 7, word: 'Custom', work: 'Cor'},
+ , instances: 7, word: 'Deny', work: 'Cor'},
+ , instances: 7, word: 'Deserve', work: 'Cor'},
+ , instances: 7, word: 'Eye', work: 'Cor'},
+ , instances: 7, word: 'Fame', work: 'Cor'},
+ , instances: 7, word: 'Fie', work: 'Cor'},
+ , instances: 7, word: 'Field', work: 'Cor'},
+ , instances: 7, word: 'Fit', work: 'Cor'},
+ , instances: 7, word: 'Flatter', work: 'Cor'},
+ , instances: 7, word: 'Foot', work: 'Cor'},
+ , instances: 7, word: 'Glad', work: 'Cor'},
+ , instances: 7, word: 'Hearing', work: 'Cor'},
+ , instances: 7, word: 'Held', work: 'Cor'},
+ , instances: 7, word: 'Late', work: 'Cor'},
+ , instances: 7, word: 'Looked', work: 'Cor'},
+ , instances: 7, word: 'Man\'s', work: 'Cor'},
+ , instances: 7, word: 'Met', work: 'Cor'},
+ , instances: 7, word: 'Mind', work: 'Cor'},
+ , instances: 7, word: 'Noise', work: 'Cor'},
+ , instances: 7, word: 'Pardon', work: 'Cor'},
+ , instances: 7, word: 'Pass', work: 'Cor'},
+ , instances: 7, word: 'Pity', work: 'Cor'},
+ , instances: 7, word: 'Place', work: 'Cor'},
+ , instances: 7, word: 'Please', work: 'Cor'},
+ , instances: 7, word: 'Rage', work: 'Cor'},
+ , instances: 7, word: 'Received', work: 'Cor'},
+ , instances: 7, word: 'Revenge', work: 'Cor'},
+ , instances: 7, word: 'Sent', work: 'Cor'},
+ , instances: 7, word: 'Shake', work: 'Cor'},
+ , instances: 7, word: 'Side', work: 'Cor'},
+ , instances: 7, word: 'Strength', work: 'Cor'},
+ , instances: 7, word: 'Strong', work: 'Cor'},
+ , instances: 7, word: 'Swords', work: 'Cor'},
+ , instances: 7, word: 'Tears', work: 'Cor'},
+ , instances: 7, word: 'Themselves', work: 'Cor'},
+ , instances: 7, word: 'Used', work: 'Cor'},
+ , instances: 7, word: 'Warrant', work: 'Cor'},
+ , instances: 7, word: 'Yes', work: 'Cor'},
+ , instances: 7, word: 'Yield', work: 'Cor'},
+ , instances: 6, word: 'Along', work: 'Cor'},
+ , instances: 6, word: 'Already', work: 'Cor'},
+ , instances: 6, word: 'Arm', work: 'Cor'},
+ , instances: 6, word: 'Begone', work: 'Cor'},
+ , instances: 6, word: 'Believe', work: 'Cor'},
+ , instances: 6, word: 'Blows', work: 'Cor'},
+ , instances: 6, word: 'Carry', work: 'Cor'},
+ , instances: 6, word: 'Condition', work: 'Cor'},
+ , instances: 6, word: 'Cut', work: 'Cor'},
+ , instances: 6, word: 'Dangerous', work: 'Cor'},
+ , instances: 6, word: 'Doing', work: 'Cor'},
+ , instances: 6, word: 'Faith', work: 'Cor'},
+ , instances: 6, word: 'Father', work: 'Cor'},
+ , instances: 6, word: 'Faults', work: 'Cor'},
+ , instances: 6, word: 'Fly', work: 'Cor'},
+ , instances: 6, word: 'Free', work: 'Cor'},
+ , instances: 6, word: 'Gave', work: 'Cor'},
+ , instances: 6, word: 'Got', work: 'Cor'},
+ , instances: 6, word: 'Grain', work: 'Cor'},
+ , instances: 6, word: 'Ha', work: 'Cor'},
+ , instances: 6, word: 'Itself', work: 'Cor'},
+ , instances: 6, word: 'I\'d', work: 'Cor'},
+ , instances: 6, word: 'Kill', work: 'Cor'},
+ , instances: 6, word: 'Knee', work: 'Cor'},
+ , instances: 6, word: 'Leads', work: 'Cor'},
+ , instances: 6, word: 'Left', work: 'Cor'},
+ , instances: 6, word: 'Lest', work: 'Cor'},
+ , instances: 6, word: 'Master', work: 'Cor'},
+ , instances: 6, word: 'Moon', work: 'Cor'},
+ , instances: 6, word: 'None', work: 'Cor'},
+ , instances: 6, word: 'Note', work: 'Cor'},
+ , instances: 6, word: 'Often', work: 'Cor'},
+ , instances: 6, word: 'Party', work: 'Cor'},
+ , instances: 6, word: 'Past', work: 'Cor'},
+ , instances: 6, word: 'Patience', work: 'Cor'},
+ , instances: 6, word: 'Pluck', work: 'Cor'},
+ , instances: 6, word: 'Point', work: 'Cor'},
+ , instances: 6, word: 'Praise', work: 'Cor'},
+ , instances: 6, word: 'Private', work: 'Cor'},
+ , instances: 6, word: 'Remember', work: 'Cor'},
+ , instances: 6, word: 'Rest', work: 'Cor'},
+ , instances: 6, word: 'Right', work: 'Cor'},
+ , instances: 6, word: 'Says', work: 'Cor'},
+ , instances: 6, word: 'Send', work: 'Cor'},
+ , instances: 6, word: 'Shalt', work: 'Cor'},
+ , instances: 6, word: 'Sit', work: 'Cor'},
+ , instances: 6, word: 'Sound', work: 'Cor'},
+ , instances: 6, word: 'Strike', work: 'Cor'},
+ , instances: 6, word: 'Suffer', work: 'Cor'},
+ , instances: 6, word: 'Tent', work: 'Cor'},
+ , instances: 6, word: 'Thence', work: 'Cor'},
+ , instances: 6, word: 'Thousand', work: 'Cor'},
+ , instances: 6, word: 'Took', work: 'Cor'},
+ , instances: 6, word: 'Violent', work: 'Cor'},
+ , instances: 6, word: 'Walls', work: 'Cor'},
+ , instances: 6, word: 'While', work: 'Cor'},
+ , instances: 6, word: 'Wine', work: 'Cor'},
+ , instances: 6, word: 'Worse', work: 'Cor'},
+ , instances: 6, word: 'Wounded', work: 'Cor'},
+ , instances: 6, word: '\'gainst', work: 'Cor'},
+ , instances: 5, word: 'Account', work: 'Cor'},
+ , instances: 5, word: 'Air', work: 'Cor'},
+ , instances: 5, word: 'Amen', work: 'Cor'},
+ , instances: 5, word: 'Among', work: 'Cor'},
+ , instances: 5, word: 'Ancient', work: 'Cor'},
+ , instances: 5, word: 'Antium', work: 'Cor'},
+ , instances: 5, word: 'Banish', work: 'Cor'},
+ , instances: 5, word: 'Battle', work: 'Cor'},
+ , instances: 5, word: 'Bears', work: 'Cor'},
+ , instances: 5, word: 'Below', work: 'Cor'},
+ , instances: 5, word: 'Bloody', work: 'Cor'},
+ , instances: 5, word: 'Caps', work: 'Cor'},
+ , instances: 5, word: 'Change', work: 'Cor'},
+ , instances: 5, word: 'Children', work: 'Cor'},
+ , instances: 5, word: 'Choice', work: 'Cor'},
+ , instances: 5, word: 'Consider', work: 'Cor'},
+ , instances: 5, word: 'Dare', work: 'Cor'},
+ , instances: 5, word: 'Dispatch', work: 'Cor'},
+ , instances: 5, word: 'Drum', work: 'Cor'},
+ , instances: 5, word: 'Earth', work: 'Cor'},
+ , instances: 5, word: 'Easy', work: 'Cor'},
+ , instances: 5, word: 'Enter', work: 'Cor'},
+ , instances: 5, word: 'Entered', work: 'Cor'},
+ , instances: 5, word: 'Envy', work: 'Cor'},
+ , instances: 5, word: 'Estimation', work: 'Cor'},
+ , instances: 5, word: 'Exile', work: 'Cor'},
+ , instances: 5, word: 'Fast', work: 'Cor'},
+ , instances: 5, word: 'Fearful', work: 'Cor'},
+ , instances: 5, word: 'Fellows', work: 'Cor'},
+ , instances: 5, word: 'Fine', work: 'Cor'},
+ , instances: 5, word: 'Fool', work: 'Cor'},
+ , instances: 5, word: 'Fools', work: 'Cor'},
+ , instances: 5, word: 'Gentle', work: 'Cor'},
+ , instances: 5, word: 'Goes', work: 'Cor'},
+ , instances: 5, word: 'Grant', work: 'Cor'},
+ , instances: 5, word: 'Ground', work: 'Cor'},
+ , instances: 5, word: 'Hail', work: 'Cor'},
+ , instances: 5, word: 'Harm', work: 'Cor'},
+ , instances: 5, word: 'Heaven', work: 'Cor'},
+ , instances: 5, word: 'Heavens', work: 'Cor'},
+ , instances: 5, word: 'Hither', work: 'Cor'},
+ , instances: 5, word: 'Ho', work: 'Cor'},
+ , instances: 5, word: 'Hundred', work: 'Cor'},
+ , instances: 5, word: 'Ignorance', work: 'Cor'},
+ , instances: 5, word: 'Inform', work: 'Cor'},
+ , instances: 5, word: 'Knees', work: 'Cor'},
+ , instances: 5, word: 'Lack', work: 'Cor'},
+ , instances: 5, word: 'Letter', work: 'Cor'},
+ , instances: 5, word: 'Making', work: 'Cor'},
+ , instances: 5, word: 'Mean', work: 'Cor'},
+ , instances: 5, word: 'Members', work: 'Cor'},
+ , instances: 5, word: 'Mildly', work: 'Cor'},
+ , instances: 5, word: 'Mile', work: 'Cor'},
+ , instances: 5, word: 'Neck', work: 'Cor'},
+ , instances: 5, word: 'Need', work: 'Cor'},
+ , instances: 5, word: 'Nobility', work: 'Cor'},
+ , instances: 5, word: 'Officer', work: 'Cor'},
+ , instances: 5, word: 'Others', work: 'Cor'},
+ , instances: 5, word: 'Ourselves', work: 'Cor'},
+ , instances: 5, word: 'Owe', work: 'Cor'},
+ , instances: 5, word: 'O\'er', work: 'Cor'},
+ , instances: 5, word: 'Plebeians', work: 'Cor'},
+ , instances: 5, word: 'Prayers', work: 'Cor'},
+ , instances: 5, word: 'Presently', work: 'Cor'},
+ , instances: 5, word: 'Reason', work: 'Cor'},
+ , instances: 5, word: 'Receive', work: 'Cor'},
+ , instances: 5, word: 'Remains', work: 'Cor'},
+ , instances: 5, word: 'Rotten', work: 'Cor'},
+ , instances: 5, word: 'Ruin', work: 'Cor'},
+ , instances: 5, word: 'Run', work: 'Cor'},
+ , instances: 5, word: 'Second', work: 'Cor'},
+ , instances: 5, word: 'Servant', work: 'Cor'},
+ , instances: 5, word: 'Services', work: 'Cor'},
+ , instances: 5, word: 'Slave', work: 'Cor'},
+ , instances: 5, word: 'Slaves', work: 'Cor'},
+ , instances: 5, word: 'Sleep', work: 'Cor'},
+ , instances: 5, word: 'Soldiers', work: 'Cor'},
+ , instances: 5, word: 'Something', work: 'Cor'},
+ , instances: 5, word: 'Speaks', work: 'Cor'},
+ , instances: 5, word: 'Straight', work: 'Cor'},
+ , instances: 5, word: 'Sun', work: 'Cor'},
+ , instances: 5, word: 'Tarpeian', work: 'Cor'},
+ , instances: 5, word: 'Ta\'en', work: 'Cor'},
+ , instances: 5, word: 'Thanks', work: 'Cor'},
+ , instances: 5, word: 'Theirs', work: 'Cor'},
+ , instances: 5, word: 'Thither', work: 'Cor'},
+ , instances: 5, word: 'Times', work: 'Cor'},
+ , instances: 5, word: 'Told', work: 'Cor'},
+ , instances: 5, word: 'Tread', work: 'Cor'},
+ , instances: 5, word: 'Tribune', work: 'Cor'},
+ , instances: 5, word: 'Truly', work: 'Cor'},
+ , instances: 5, word: 'Trust', work: 'Cor'},
+ , instances: 5, word: 'Unless', work: 'Cor'},
+ , instances: 5, word: 'Valiant', work: 'Cor'},
+ , instances: 5, word: 'Valor', work: 'Cor'},
+ , instances: 5, word: 'Virtue', work: 'Cor'},
+ , instances: 5, word: 'Volscian', work: 'Cor'},
+ , instances: 5, word: 'Whole', work: 'Cor'},
+ , instances: 5, word: 'Win', work: 'Cor'},
+ , instances: 5, word: 'Won', work: 'Cor'},
+ , instances: 5, word: 'You\'re', work: 'Cor'},
+ , instances: 5, word: '\'fore', work: 'Cor'},
+ , instances: 5, word: '\'twere', work: 'Cor'},
+ , instances: 4, word: 'Above', work: 'Cor'},
+ , instances: 4, word: 'Absence', work: 'Cor'},
+ , instances: 4, word: 'Absolute', work: 'Cor'},
+ , instances: 4, word: 'Act', work: 'Cor'},
+ , instances: 4, word: 'Aediles', work: 'Cor'},
+ , instances: 4, word: 'Age', work: 'Cor'},
+ , instances: 4, word: 'Alike', work: 'Cor'},
+ , instances: 4, word: 'Always', work: 'Cor'},
+ , instances: 4, word: 'Anger', work: 'Cor'},
+ , instances: 4, word: 'Angry', work: 'Cor'},
+ , instances: 4, word: 'Antiates', work: 'Cor'},
+ , instances: 4, word: 'Anything', work: 'Cor'},
+ , instances: 4, word: 'Banishment', work: 'Cor'},
+ , instances: 4, word: 'Base', work: 'Cor'},
+ , instances: 4, word: 'Because', work: 'Cor'},
+ , instances: 4, word: 'Beg', work: 'Cor'},
+ , instances: 4, word: 'Begin', work: 'Cor'},
+ , instances: 4, word: 'Beheld', work: 'Cor'},
+ , instances: 4, word: 'Blame', work: 'Cor'},
+ , instances: 4, word: 'Bold', work: 'Cor'},
+ , instances: 4, word: 'Buy', work: 'Cor'},
+ , instances: 4, word: 'Calm', work: 'Cor'},
+ , instances: 4, word: 'Cares', work: 'Cor'},
+ , instances: 4, word: 'Cast', work: 'Cor'},
+ , instances: 4, word: 'Cheap', work: 'Cor'},
+ , instances: 4, word: 'Choler', work: 'Cor'},
+ , instances: 4, word: 'Choose', work: 'Cor'},
+ , instances: 4, word: 'Comfort', work: 'Cor'},
+ , instances: 4, word: 'Company', work: 'Cor'},
+ , instances: 4, word: 'Consent', work: 'Cor'},
+ , instances: 4, word: 'Course', work: 'Cor'},
+ , instances: 4, word: 'Curse', work: 'Cor'},
+ , instances: 4, word: 'Danger', work: 'Cor'},
+ , instances: 4, word: 'Daughter', work: 'Cor'},
+ , instances: 4, word: 'Deserves', work: 'Cor'},
+ , instances: 4, word: 'Disease', work: 'Cor'},
+ , instances: 4, word: 'Dismiss', work: 'Cor'},
+ , instances: 4, word: 'Dost', work: 'Cor'},
+ , instances: 4, word: 'Draw', work: 'Cor'},
+ , instances: 4, word: 'Drops', work: 'Cor'},
+ , instances: 4, word: 'Drums', work: 'Cor'},
+ , instances: 4, word: 'Eat', work: 'Cor'},
+ , instances: 4, word: 'Execution', work: 'Cor'},
+ , instances: 4, word: 'Express', work: 'Cor'},
+ , instances: 4, word: 'E\'en', work: 'Cor'},
+ , instances: 4, word: 'Faces', work: 'Cor'},
+ , instances: 4, word: 'Fare', work: 'Cor'},
+ , instances: 4, word: 'Fault', work: 'Cor'},
+ , instances: 4, word: 'Feel', work: 'Cor'},
+ , instances: 4, word: 'Five', work: 'Cor'},
+ , instances: 4, word: 'Folly', work: 'Cor'},
+ , instances: 4, word: 'Force', work: 'Cor'},
+ , instances: 4, word: 'Forget', work: 'Cor'},
+ , instances: 4, word: 'Former', work: 'Cor'},
+ , instances: 4, word: 'Found', work: 'Cor'},
+ , instances: 4, word: 'Frame', work: 'Cor'},
+ , instances: 4, word: 'Garland', work: 'Cor'},
+ , instances: 4, word: 'Going', work: 'Cor'},
+ , instances: 4, word: 'Goodly', work: 'Cor'},
+ , instances: 4, word: 'Grace', work: 'Cor'},
+ , instances: 4, word: 'Granted', work: 'Cor'},
+ , instances: 4, word: 'Guard', work: 'Cor'},
+ , instances: 4, word: 'Heads', work: 'Cor'},
+ , instances: 4, word: 'Holp', work: 'Cor'},
+ , instances: 4, word: 'Honest', work: 'Cor'},
+ , instances: 4, word: 'Honored', work: 'Cor'},
+ , instances: 4, word: 'Horse', work: 'Cor'},
+ , instances: 4, word: 'Hurt', work: 'Cor'},
+ , instances: 4, word: 'Ill', work: 'Cor'},
+ , instances: 4, word: 'Increase', work: 'Cor'},
+ , instances: 4, word: 'It\'s', work: 'Cor'},
+ , instances: 4, word: 'Jove', work: 'Cor'},
+ , instances: 4, word: 'Judgment', work: 'Cor'},
+ , instances: 4, word: 'Jupiter', work: 'Cor'},
+ , instances: 4, word: 'Justice', work: 'Cor'},
+ , instances: 4, word: 'Know\'st', work: 'Cor'},
+ , instances: 4, word: 'Lead', work: 'Cor'},
+ , instances: 4, word: 'Led', work: 'Cor'},
+ , instances: 4, word: 'Lip', work: 'Cor'},
+ , instances: 4, word: 'March', work: 'Cor'},
+ , instances: 4, word: 'Mars', work: 'Cor'},
+ , instances: 4, word: 'Means', work: 'Cor'},
+ , instances: 4, word: 'Memory', work: 'Cor'},
+ , instances: 4, word: 'Merit', work: 'Cor'},
+ , instances: 4, word: 'Methinks', work: 'Cor'},
+ , instances: 4, word: 'Misery', work: 'Cor'},
+ , instances: 4, word: 'Mock', work: 'Cor'},
+ , instances: 4, word: 'Modest', work: 'Cor'},
+ , instances: 4, word: 'Motion', work: 'Cor'},
+ , instances: 4, word: 'Mouths', work: 'Cor'},
+ , instances: 4, word: 'Move', work: 'Cor'},
+ , instances: 4, word: 'Mutinous', work: 'Cor'},
+ , instances: 4, word: 'Neighbors', work: 'Cor'},
+ , instances: 4, word: 'New', work: 'Cor'},
+ , instances: 4, word: 'Night', work: 'Cor'},
+ , instances: 4, word: 'Oak', work: 'Cor'},
+ , instances: 4, word: 'Office', work: 'Cor'},
+ , instances: 4, word: 'Particular', work: 'Cor'},
+ , instances: 4, word: 'Parties', work: 'Cor'},
+ , instances: 4, word: 'Parts', work: 'Cor'},
+ , instances: 4, word: 'Passed', work: 'Cor'},
+ , instances: 4, word: 'Perceive', work: 'Cor'},
+ , instances: 4, word: 'Plague', work: 'Cor'},
+ , instances: 4, word: 'Poison', work: 'Cor'},
+ , instances: 4, word: 'Popular', work: 'Cor'},
+ , instances: 4, word: 'Powers', work: 'Cor'},
+ , instances: 4, word: 'Prevailed', work: 'Cor'},
+ , instances: 4, word: 'Price', work: 'Cor'},
+ , instances: 4, word: 'Promise', work: 'Cor'},
+ , instances: 4, word: 'Read', work: 'Cor'},
+ , instances: 4, word: 'Reasons', work: 'Cor'},
+ , instances: 4, word: 'Repeal', work: 'Cor'},
+ , instances: 4, word: 'Resolved', work: 'Cor'},
+ , instances: 4, word: 'Seek', work: 'Cor'},
+ , instances: 4, word: 'Shed', work: 'Cor'},
+ , instances: 4, word: 'Single', work: 'Cor'},
+ , instances: 4, word: 'Six', work: 'Cor'},
+ , instances: 4, word: 'Small', work: 'Cor'},
+ , instances: 4, word: 'Sometime', work: 'Cor'},
+ , instances: 4, word: 'Spoil', work: 'Cor'},
+ , instances: 4, word: 'Stands', work: 'Cor'},
+ , instances: 4, word: 'Steed', work: 'Cor'},
+ , instances: 4, word: 'Streets', work: 'Cor'},
+ , instances: 4, word: 'Strokes', work: 'Cor'},
+ , instances: 4, word: 'Sudden', work: 'Cor'},
+ , instances: 4, word: 'Suit', work: 'Cor'},
+ , instances: 4, word: 'Table', work: 'Cor'},
+ , instances: 4, word: 'Tear', work: 'Cor'},
+ , instances: 4, word: 'Therein', work: 'Cor'},
+ , instances: 4, word: 'They\'ll', work: 'Cor'},
+ , instances: 4, word: 'Throat', work: 'Cor'},
+ , instances: 4, word: 'Throw', work: 'Cor'},
+ , instances: 4, word: 'Thunder', work: 'Cor'},
+ , instances: 4, word: 'Thyself', work: 'Cor'},
+ , instances: 4, word: 'Troth', work: 'Cor'},
+ , instances: 4, word: 'Turns', work: 'Cor'},
+ , instances: 4, word: 'T\'', work: 'Cor'},
+ , instances: 4, word: 'Undone', work: 'Cor'},
+ , instances: 4, word: 'Vantage', work: 'Cor'},
+ , instances: 4, word: 'Victory', work: 'Cor'},
+ , instances: 4, word: 'Visit', work: 'Cor'},
+ , instances: 4, word: 'Volscians', work: 'Cor'},
+ , instances: 4, word: 'Wants', work: 'Cor'},
+ , instances: 4, word: 'Weapons', work: 'Cor'},
+ , instances: 4, word: 'Weep', work: 'Cor'},
+ , instances: 4, word: 'Whip', work: 'Cor'},
+ , instances: 4, word: 'Wholesome', work: 'Cor'},
+ , instances: 4, word: 'Wilt', work: 'Cor'},
+ , instances: 4, word: 'Wind', work: 'Cor'},
+ , instances: 4, word: 'Wives', work: 'Cor'},
+ , instances: 4, word: 'Wondrous', work: 'Cor'},
+ , instances: 4, word: 'Wont', work: 'Cor'},
+ , instances: 4, word: 'Wore', work: 'Cor'},
+ , instances: 4, word: 'Wrath', work: 'Cor'},
+ , instances: 4, word: 'Yea', work: 'Cor'},
+ , instances: 4, word: 'Years', work: 'Cor'},
+ , instances: 4, word: 'Yond', work: 'Cor'},
+ , instances: 4, word: '\'twixt', work: 'Cor'},
+ , instances: 3, word: 'Aid', work: 'Cor'},
+ , instances: 3, word: 'All\'s', work: 'Cor'},
+ , instances: 3, word: 'Alms', work: 'Cor'},
+ , instances: 3, word: 'Ambitious', work: 'Cor'},
+ , instances: 3, word: 'Anon', work: 'Cor'},
+ , instances: 3, word: 'Answered', work: 'Cor'},
+ , instances: 3, word: 'Approbation', work: 'Cor'},
+ , instances: 3, word: 'Aught', work: 'Cor'},
+ , instances: 3, word: 'Authority', work: 'Cor'},
+ , instances: 3, word: 'Awhile', work: 'Cor'},
+ , instances: 3, word: 'Bad', work: 'Cor'},
+ , instances: 3, word: 'Bald', work: 'Cor'},
+ , instances: 3, word: 'Battles', work: 'Cor'},
+ , instances: 3, word: 'Beard', work: 'Cor'},
+ , instances: 3, word: 'Bearing', work: 'Cor'},
+ , instances: 3, word: 'Begged', work: 'Cor'},
+ , instances: 3, word: 'Behind', work: 'Cor'},
+ , instances: 3, word: 'Beloved', work: 'Cor'},
+ , instances: 3, word: 'Benefit', work: 'Cor'},
+ , instances: 3, word: 'Besides', work: 'Cor'},
+ , instances: 3, word: 'Beyond', work: 'Cor'},
+ , instances: 3, word: 'Bless', work: 'Cor'},
+ , instances: 3, word: 'Blest', work: 'Cor'},
+ , instances: 3, word: 'Blush', work: 'Cor'},
+ , instances: 3, word: 'Borne', work: 'Cor'},
+ , instances: 3, word: 'Brace', work: 'Cor'},
+ , instances: 3, word: 'Brain', work: 'Cor'},
+ , instances: 3, word: 'Breast', work: 'Cor'},
+ , instances: 3, word: 'Bred', work: 'Cor'},
+ , instances: 3, word: 'Broke', work: 'Cor'},
+ , instances: 3, word: 'Brow', work: 'Cor'},
+ , instances: 3, word: 'Burn', work: 'Cor'},
+ , instances: 3, word: 'Bury', work: 'Cor'},
+ , instances: 3, word: 'Butterfly', work: 'Cor'},
+ , instances: 3, word: 'Cease', work: 'Cor'},
+ , instances: 3, word: 'Censure', work: 'Cor'},
+ , instances: 3, word: 'Charged', work: 'Cor'},
+ , instances: 3, word: 'Charges', work: 'Cor'},
+ , instances: 3, word: 'Cheeks', work: 'Cor'},
+ , instances: 3, word: 'Chose', work: 'Cor'},
+ , instances: 3, word: 'Cold', work: 'Cor'},
+ , instances: 3, word: 'Command', work: 'Cor'},
+ , instances: 3, word: 'Commend', work: 'Cor'},
+ , instances: 3, word: 'Commission', work: 'Cor'},
+ , instances: 3, word: 'Conditions', work: 'Cor'},
+ , instances: 3, word: 'Confess', work: 'Cor'},
+ , instances: 3, word: 'Constant', work: 'Cor'},
+ , instances: 3, word: 'Consuls', work: 'Cor'},
+ , instances: 3, word: 'Contempt', work: 'Cor'},
+ , instances: 3, word: 'Cowardly', work: 'Cor'},
+ , instances: 3, word: 'Crave', work: 'Cor'},
+ , instances: 3, word: 'Crows', work: 'Cor'},
+ , instances: 3, word: 'Curses', work: 'Cor'},
+ , instances: 3, word: 'Cushion', work: 'Cor'},
+ , instances: 3, word: 'Daily', work: 'Cor'},
+ , instances: 3, word: 'Day\'s', work: 'Cor'},
+ , instances: 3, word: 'Dearth', work: 'Cor'},
+ , instances: 3, word: 'Deed', work: 'Cor'},
+ , instances: 3, word: 'Delivered', work: 'Cor'},
+ , instances: 3, word: 'Denied', work: 'Cor'},
+ , instances: 3, word: 'Desires', work: 'Cor'},
+ , instances: 3, word: 'Destroy', work: 'Cor'},
+ , instances: 3, word: 'Determine', work: 'Cor'},
+ , instances: 3, word: 'Devise', work: 'Cor'},
+ , instances: 3, word: 'Dined', work: 'Cor'},
+ , instances: 3, word: 'Direct', work: 'Cor'},
+ , instances: 3, word: 'Disdain', work: 'Cor'},
+ , instances: 3, word: 'Dishonored', work: 'Cor'},
+ , instances: 3, word: 'Disposition', work: 'Cor'},
+ , instances: 3, word: 'Dogs', work: 'Cor'},
+ , instances: 3, word: 'Doit', work: 'Cor'},
+ , instances: 3, word: 'Drop', work: 'Cor'},
+ , instances: 3, word: 'Dust', work: 'Cor'},
+ , instances: 3, word: 'Duty', work: 'Cor'},
+ , instances: 3, word: 'Ear', work: 'Cor'},
+ , instances: 3, word: 'Election', work: 'Cor'},
+ , instances: 3, word: 'Encounter', work: 'Cor'},
+ , instances: 3, word: 'Enforce', work: 'Cor'},
+ , instances: 3, word: 'Entertainment', work: 'Cor'},
+ , instances: 3, word: 'Especially', work: 'Cor'},
+ , instances: 3, word: 'Exceed', work: 'Cor'},
+ , instances: 3, word: 'Excuse', work: 'Cor'},
+ , instances: 3, word: 'Fail', work: 'Cor'},
+ , instances: 3, word: 'False', work: 'Cor'},
+ , instances: 3, word: 'Feared', work: 'Cor'},
+ , instances: 3, word: 'Fears', work: 'Cor'},
+ , instances: 3, word: 'Feast', work: 'Cor'},
+ , instances: 3, word: 'Finger', work: 'Cor'},
+ , instances: 3, word: 'Fires', work: 'Cor'},
+ , instances: 3, word: 'Foe', work: 'Cor'},
+ , instances: 3, word: 'Foes', work: 'Cor'},
+ , instances: 3, word: 'Follows', work: 'Cor'},
+ , instances: 3, word: 'Forgive', work: 'Cor'},
+ , instances: 3, word: 'Forgot', work: 'Cor'},
+ , instances: 3, word: 'Fortunes', work: 'Cor'},
+ , instances: 3, word: 'Four', work: 'Cor'},
+ , instances: 3, word: 'Friendly', work: 'Cor'},
+ , instances: 3, word: 'Fully', work: 'Cor'},
+ , instances: 3, word: 'Gentleman', work: 'Cor'},
+ , instances: 3, word: 'Gives', work: 'Cor'},
+ , instances: 3, word: 'Giving', work: 'Cor'},
+ , instances: 3, word: 'Gown', work: 'Cor'},
+ , instances: 3, word: 'Gracious', work: 'Cor'},
+ , instances: 3, word: 'Gratis', work: 'Cor'},
+ , instances: 3, word: 'Grow', work: 'Cor'},
+ , instances: 3, word: 'Grown', work: 'Cor'},
+ , instances: 3, word: 'Guess', work: 'Cor'},
+ , instances: 3, word: 'Hadst', work: 'Cor'},
+ , instances: 3, word: 'Hard', work: 'Cor'},
+ , instances: 3, word: 'Hated', work: 'Cor'},
+ , instances: 3, word: 'Hazard', work: 'Cor'},
+ , instances: 3, word: 'Hearth', work: 'Cor'},
+ , instances: 3, word: 'Heartily', work: 'Cor'},
+ , instances: 3, word: 'Heels', work: 'Cor'},
+ , instances: 3, word: 'Heir', work: 'Cor'},
+ , instances: 3, word: 'Helps', work: 'Cor'},
+ , instances: 3, word: 'Herd', work: 'Cor'},
+ , instances: 3, word: 'Hereafter', work: 'Cor'},
+ , instances: 3, word: 'High', work: 'Cor'},
+ , instances: 3, word: 'Highest', work: 'Cor'},
+ , instances: 3, word: 'Hire', work: 'Cor'},
+ , instances: 3, word: 'Holding', work: 'Cor'},
+ , instances: 3, word: 'Honorable', work: 'Cor'},
+ , instances: 3, word: 'Hoo', work: 'Cor'},
+ , instances: 3, word: 'Host', work: 'Cor'},
+ , instances: 3, word: 'Hours', work: 'Cor'},
+ , instances: 3, word: 'Human', work: 'Cor'},
+ , instances: 3, word: 'Humble', work: 'Cor'},
+ , instances: 3, word: 'Ignorant', work: 'Cor'},
+ , instances: 3, word: 'Incensed', work: 'Cor'},
+ , instances: 3, word: 'Injury', work: 'Cor'},
+ , instances: 3, word: 'Insolence', work: 'Cor'},
+ , instances: 3, word: 'Issue', work: 'Cor'},
+ , instances: 3, word: 'Joined', work: 'Cor'},
+ , instances: 3, word: 'Killed', work: 'Cor'},
+ , instances: 3, word: 'Kindly', work: 'Cor'},
+ , instances: 3, word: 'Knew', work: 'Cor'},
+ , instances: 3, word: 'Knowledge', work: 'Cor'},
+ , instances: 3, word: 'Knows', work: 'Cor'},
+ , instances: 3, word: 'Labor', work: 'Cor'},
+ , instances: 3, word: 'Lamb', work: 'Cor'},
+ , instances: 3, word: 'Laugh', work: 'Cor'},
+ , instances: 3, word: 'Law', work: 'Cor'},
+ , instances: 3, word: 'Lawful', work: 'Cor'},
+ , instances: 3, word: 'Leaves', work: 'Cor'},
+ , instances: 3, word: 'Lesser', work: 'Cor'},
+ , instances: 3, word: 'Lets', work: 'Cor'},
+ , instances: 3, word: 'Liberties', work: 'Cor'},
+ , instances: 3, word: 'Lips', work: 'Cor'},
+ , instances: 3, word: 'List', work: 'Cor'},
+ , instances: 3, word: 'Lives', work: 'Cor'},
+ , instances: 3, word: 'Looks', work: 'Cor'},
+ , instances: 3, word: 'Marks', work: 'Cor'},
+ , instances: 3, word: 'Measure', work: 'Cor'},
+ , instances: 3, word: 'Meat', work: 'Cor'},
+ , instances: 3, word: 'Meddle', work: 'Cor'},
+ , instances: 3, word: 'Mistress', work: 'Cor'},
+ , instances: 3, word: 'Mocked', work: 'Cor'},
+ , instances: 3, word: 'Morning', work: 'Cor'},
+ , instances: 3, word: 'Mortal', work: 'Cor'},
+ , instances: 3, word: 'Moved', work: 'Cor'},
+ , instances: 3, word: 'Multitude', work: 'Cor'},
+ , instances: 3, word: 'Musty', work: 'Cor'},
+ , instances: 3, word: 'Naught', work: 'Cor'},
+ , instances: 3, word: 'Near', work: 'Cor'},
+ , instances: 3, word: 'Nobler', work: 'Cor'},
+ , instances: 3, word: 'Number', work: 'Cor'},
+ , instances: 3, word: 'Numbers', work: 'Cor'},
+ , instances: 3, word: 'Obey', work: 'Cor'},
+ , instances: 3, word: 'Officers', work: 'Cor'},
+ , instances: 3, word: 'Ope', work: 'Cor'},
+ , instances: 3, word: 'Opinion', work: 'Cor'},
+ , instances: 3, word: 'Ours', work: 'Cor'},
+ , instances: 3, word: 'Over', work: 'Cor'},
+ , instances: 3, word: 'Pale', work: 'Cor'},
+ , instances: 3, word: 'Patient', work: 'Cor'},
+ , instances: 3, word: 'Perish', work: 'Cor'},
+ , instances: 3, word: 'Petition', work: 'Cor'},
+ , instances: 3, word: 'Pleased', work: 'Cor'},
+ , instances: 3, word: 'Plot', work: 'Cor'},
+ , instances: 3, word: 'Policy', work: 'Cor'},
+ , instances: 3, word: 'Possible', work: 'Cor'},
+ , instances: 3, word: 'Praises', work: 'Cor'},
+ , instances: 3, word: 'Prate', work: 'Cor'},
+ , instances: 3, word: 'Prepared', work: 'Cor'},
+ , instances: 3, word: 'Prosperity', work: 'Cor'},
+ , instances: 3, word: 'Proved', work: 'Cor'},
+ , instances: 3, word: 'Public', work: 'Cor'},
+ , instances: 3, word: 'Putting', work: 'Cor'},
+ , instances: 3, word: 'Rabble', work: 'Cor'},
+ , instances: 3, word: 'Rebellion', work: 'Cor'},
+ , instances: 3, word: 'Red', work: 'Cor'},
+ , instances: 3, word: 'Refuse', work: 'Cor'},
+ , instances: 3, word: 'Renownèd', work: 'Cor'},
+ , instances: 3, word: 'Repair', work: 'Cor'},
+ , instances: 3, word: 'Respect', work: 'Cor'},
+ , instances: 3, word: 'Respected', work: 'Cor'},
+ , instances: 3, word: 'Retire', work: 'Cor'},
+ , instances: 3, word: 'Returned', work: 'Cor'},
+ , instances: 3, word: 'Revenges', work: 'Cor'},
+ , instances: 3, word: 'Rich', work: 'Cor'},
+ , instances: 3, word: 'Rough', work: 'Cor'},
+ , instances: 3, word: 'Sake', work: 'Cor'},
+ , instances: 3, word: 'Sea', work: 'Cor'},
+ , instances: 3, word: 'Seal', work: 'Cor'},
+ , instances: 3, word: 'Seeing', work: 'Cor'},
+ , instances: 3, word: 'Sell', work: 'Cor'},
+ , instances: 3, word: 'Seven', work: 'Cor'},
+ , instances: 3, word: 'Several', work: 'Cor'},
+ , instances: 3, word: 'Shows', work: 'Cor'},
+ , instances: 3, word: 'Shut', work: 'Cor'},
+ , instances: 3, word: 'Sicinius', work: 'Cor'},
+ , instances: 3, word: 'Sight', work: 'Cor'},
+ , instances: 3, word: 'Silent', work: 'Cor'},
+ , instances: 3, word: 'Sits', work: 'Cor'},
+ , instances: 3, word: 'Slain', work: 'Cor'},
+ , instances: 3, word: 'Smile', work: 'Cor'},
+ , instances: 3, word: 'Soft', work: 'Cor'},
+ , instances: 3, word: 'Sons', work: 'Cor'},
+ , instances: 3, word: 'Soon', work: 'Cor'},
+ , instances: 3, word: 'Sorrow', work: 'Cor'},
+ , instances: 3, word: 'Sort', work: 'Cor'},
+ , instances: 3, word: 'South', work: 'Cor'},
+ , instances: 3, word: 'Speech', work: 'Cor'},
+ , instances: 3, word: 'Spend', work: 'Cor'},
+ , instances: 3, word: 'Stamp', work: 'Cor'},
+ , instances: 3, word: 'Standing', work: 'Cor'},
+ , instances: 3, word: 'Stand\'st', work: 'Cor'},
+ , instances: 3, word: 'Stop', work: 'Cor'},
+ , instances: 3, word: 'Success', work: 'Cor'},
+ , instances: 3, word: 'Surname', work: 'Cor'},
+ , instances: 3, word: 'Sweat', work: 'Cor'},
+ , instances: 3, word: 'Takes', work: 'Cor'},
+ , instances: 3, word: 'Tale', work: 'Cor'},
+ , instances: 3, word: 'Teeth', work: 'Cor'},
+ , instances: 3, word: 'Ten', work: 'Cor'},
+ , instances: 3, word: 'Territories', work: 'Cor'},
+ , instances: 3, word: 'Throats', work: 'Cor'},
+ , instances: 3, word: 'Thwack', work: 'Cor'},
+ , instances: 3, word: 'Toe', work: 'Cor'},
+ , instances: 3, word: 'Tonight', work: 'Cor'},
+ , instances: 3, word: 'Touch', work: 'Cor'},
+ , instances: 3, word: 'Touched', work: 'Cor'},
+ , instances: 3, word: 'Towards', work: 'Cor'},
+ , instances: 3, word: 'Treaty', work: 'Cor'},
+ , instances: 3, word: 'Trenches', work: 'Cor'},
+ , instances: 3, word: 'Trouble', work: 'Cor'},
+ , instances: 3, word: 'Trumpets', work: 'Cor'},
+ , instances: 3, word: 'Try', work: 'Cor'},
+ , instances: 3, word: 'Unnatural', work: 'Cor'},
+ , instances: 3, word: 'Utmost', work: 'Cor'},
+ , instances: 3, word: 'Valeria', work: 'Cor'},
+ , instances: 3, word: 'Vent', work: 'Cor'},
+ , instances: 3, word: 'View', work: 'Cor'},
+ , instances: 3, word: 'Virtuous', work: 'Cor'},
+ , instances: 3, word: 'Vulgar', work: 'Cor'},
+ , instances: 3, word: 'Want', work: 'Cor'},
+ , instances: 3, word: 'War\'s', work: 'Cor'},
+ , instances: 3, word: 'Wash', work: 'Cor'},
+ , instances: 3, word: 'Weal', work: 'Cor'},
+ , instances: 3, word: 'Wear', work: 'Cor'},
+ , instances: 3, word: 'Welcomes', work: 'Cor'},
+ , instances: 3, word: 'Wherefore', work: 'Cor'},
+ , instances: 3, word: 'Where\'s', work: 'Cor'},
+ , instances: 3, word: 'Whilst', work: 'Cor'},
+ , instances: 3, word: 'Whither', work: 'Cor'},
+ , instances: 3, word: 'Wild', work: 'Cor'},
+ , instances: 3, word: 'Wit', work: 'Cor'},
+ , instances: 3, word: 'Witness', work: 'Cor'},
+ , instances: 3, word: 'Wits', work: 'Cor'},
+ , instances: 3, word: 'Woman', work: 'Cor'},
+ , instances: 3, word: 'Women', work: 'Cor'},
+ , instances: 3, word: 'Worships', work: 'Cor'},
+ , instances: 3, word: 'Worst', work: 'Cor'},
+ , instances: 3, word: 'Wouldst', work: 'Cor'},
+ , instances: 3, word: 'Writ', work: 'Cor'},
+ , instances: 3, word: 'You\'d', work: 'Cor'},
+ , instances: 3, word: '\'twould', work: 'Cor'},
+ , instances: 2, word: 'Abhorred', work: 'Cor'},
+ , instances: 2, word: 'Able', work: 'Cor'},
+ , instances: 2, word: 'Abundance', work: 'Cor'},
+ , instances: 2, word: 'Abused', work: 'Cor'},
+ , instances: 2, word: 'Accept', work: 'Cor'},
+ , instances: 2, word: 'Accusations', work: 'Cor'},
+ , instances: 2, word: 'Accuse', work: 'Cor'},
+ , instances: 2, word: 'Accused', work: 'Cor'},
+ , instances: 2, word: 'Actions', work: 'Cor'},
+ , instances: 2, word: 'Addition', work: 'Cor'},
+ , instances: 2, word: 'Adieu', work: 'Cor'},
+ , instances: 2, word: 'Admits', work: 'Cor'},
+ , instances: 2, word: 'Advance', work: 'Cor'},
+ , instances: 2, word: 'Advanced', work: 'Cor'},
+ , instances: 2, word: 'Advantage', work: 'Cor'},
+ , instances: 2, word: 'Affection', work: 'Cor'},
+ , instances: 2, word: 'Affections', work: 'Cor'},
+ , instances: 2, word: 'Afternoon', work: 'Cor'},
+ , instances: 2, word: 'Agèd', work: 'Cor'},
+ , instances: 2, word: 'Alack', work: 'Cor'},
+ , instances: 2, word: 'Also', work: 'Cor'},
+ , instances: 2, word: 'Although', work: 'Cor'},
+ , instances: 2, word: 'Amongst', work: 'Cor'},
+ , instances: 2, word: 'Appetite', work: 'Cor'},
+ , instances: 2, word: 'Approaches', work: 'Cor'},
+ , instances: 2, word: 'Aside', work: 'Cor'},
+ , instances: 2, word: 'Asked', work: 'Cor'},
+ , instances: 2, word: 'Asking', work: 'Cor'},
+ , instances: 2, word: 'Asleep', work: 'Cor'},
+ , instances: 2, word: 'Ass', work: 'Cor'},
+ , instances: 2, word: 'Assault', work: 'Cor'},
+ , instances: 2, word: 'Assemble', work: 'Cor'},
+ , instances: 2, word: 'Assembly', work: 'Cor'},
+ , instances: 2, word: 'Assist', work: 'Cor'},
+ , instances: 2, word: 'Assured', work: 'Cor'},
+ , instances: 2, word: 'Audience', work: 'Cor'},
+ , instances: 2, word: 'Avoid', work: 'Cor'},
+ , instances: 2, word: 'Bands', work: 'Cor'},
+ , instances: 2, word: 'Bare', work: 'Cor'},
+ , instances: 2, word: 'Bastards', work: 'Cor'},
+ , instances: 2, word: 'Bats', work: 'Cor'},
+ , instances: 2, word: 'Beards', work: 'Cor'},
+ , instances: 2, word: 'Beasts', work: 'Cor'},
+ , instances: 2, word: 'Beating', work: 'Cor'},
+ , instances: 2, word: 'Becomes', work: 'Cor'},
+ , instances: 2, word: 'Bed', work: 'Cor'},
+ , instances: 2, word: 'Began', work: 'Cor'},
+ , instances: 2, word: 'Behalf', work: 'Cor'},
+ , instances: 2, word: 'Belly\'s', work: 'Cor'},
+ , instances: 2, word: 'Bench', work: 'Cor'},
+ , instances: 2, word: 'Bestow', work: 'Cor'},
+ , instances: 2, word: 'Bids', work: 'Cor'},
+ , instances: 2, word: 'Big', work: 'Cor'},
+ , instances: 2, word: 'Blaze', work: 'Cor'},
+ , instances: 2, word: 'Bled', work: 'Cor'},
+ , instances: 2, word: 'Blind', work: 'Cor'},
+ , instances: 2, word: 'Blow', work: 'Cor'},
+ , instances: 2, word: 'Blown', work: 'Cor'},
+ , instances: 2, word: 'Bodies', work: 'Cor'},
+ , instances: 2, word: 'Body\'s', work: 'Cor'},
+ , instances: 2, word: 'Book', work: 'Cor'},
+ , instances: 2, word: 'Bowed', work: 'Cor'},
+ , instances: 2, word: 'Bowels', work: 'Cor'},
+ , instances: 2, word: 'Bows', work: 'Cor'},
+ , instances: 2, word: 'Boys', work: 'Cor'},
+ , instances: 2, word: 'Bran', work: 'Cor'},
+ , instances: 2, word: 'Brand', work: 'Cor'},
+ , instances: 2, word: 'Breaking', work: 'Cor'},
+ , instances: 2, word: 'Breasts', work: 'Cor'},
+ , instances: 2, word: 'Breaths', work: 'Cor'},
+ , instances: 2, word: 'Brief', work: 'Cor'},
+ , instances: 2, word: 'Briefly', work: 'Cor'},
+ , instances: 2, word: 'Brows', work: 'Cor'},
+ , instances: 2, word: 'Brutus', work: 'Cor'},
+ , instances: 2, word: 'Burning', work: 'Cor'},
+ , instances: 2, word: 'Burnt', work: 'Cor'},
+ , instances: 2, word: 'Calamity', work: 'Cor'},
+ , instances: 2, word: 'Calls', work: 'Cor'},
+ , instances: 2, word: 'Camp', work: 'Cor'},
+ , instances: 2, word: 'Canon', work: 'Cor'},
+ , instances: 2, word: 'Canopy', work: 'Cor'},
+ , instances: 2, word: 'Capital', work: 'Cor'},
+ , instances: 2, word: 'Captain', work: 'Cor'},
+ , instances: 2, word: 'Carried', work: 'Cor'},
+ , instances: 2, word: 'Carries', work: 'Cor'},
+ , instances: 2, word: 'Caught', work: 'Cor'},
+ , instances: 2, word: 'Censured', work: 'Cor'},
+ , instances: 2, word: 'Chaff', work: 'Cor'},
+ , instances: 2, word: 'Chances', work: 'Cor'},
+ , instances: 2, word: 'Character', work: 'Cor'},
+ , instances: 2, word: 'Chief', work: 'Cor'},
+ , instances: 2, word: 'Chiefest', work: 'Cor'},
+ , instances: 2, word: 'Children\'s', work: 'Cor'},
+ , instances: 2, word: 'Chosen', work: 'Cor'},
+ , instances: 2, word: 'Claim', work: 'Cor'},
+ , instances: 2, word: 'Clean', work: 'Cor'},
+ , instances: 2, word: 'Clip', work: 'Cor'},
+ , instances: 2, word: 'Clubs', work: 'Cor'},
+ , instances: 2, word: 'Clusters', work: 'Cor'},
+ , instances: 2, word: 'Coal', work: 'Cor'},
+ , instances: 2, word: 'Commons', work: 'Cor'},
+ , instances: 2, word: 'Condemned', work: 'Cor'},
+ , instances: 2, word: 'Confirmed', work: 'Cor'},
+ , instances: 2, word: 'Confusion', work: 'Cor'},
+ , instances: 2, word: 'Conquer', work: 'Cor'},
+ , instances: 2, word: 'Consul\'s', work: 'Cor'},
+ , instances: 2, word: 'Continued', work: 'Cor'},
+ , instances: 2, word: 'Controversy', work: 'Cor'},
+ , instances: 2, word: 'Convenient', work: 'Cor'},
+ , instances: 2, word: 'Corioles\'', work: 'Cor'},
+ , instances: 2, word: 'Corrupt', work: 'Cor'},
+ , instances: 2, word: 'Cotus', work: 'Cor'},
+ , instances: 2, word: 'Counsel', work: 'Cor'},
+ , instances: 2, word: 'Counsels', work: 'Cor'},
+ , instances: 2, word: 'Countenance', work: 'Cor'},
+ , instances: 2, word: 'Countrymen', work: 'Cor'},
+ , instances: 2, word: 'Courage', work: 'Cor'},
+ , instances: 2, word: 'Courtesy', work: 'Cor'},
+ , instances: 2, word: 'Cracked', work: 'Cor'},
+ , instances: 2, word: 'Craves', work: 'Cor'},
+ , instances: 2, word: 'Cries', work: 'Cor'},
+ , instances: 2, word: 'Cruel', work: 'Cor'},
+ , instances: 2, word: 'Crush', work: 'Cor'},
+ , instances: 2, word: 'Cure', work: 'Cor'},
+ , instances: 2, word: 'Curs', work: 'Cor'},
+ , instances: 2, word: 'Cushions', work: 'Cor'},
+ , instances: 2, word: 'Dance', work: 'Cor'},
+ , instances: 2, word: 'Daughters', work: 'Cor'},
+ , instances: 2, word: 'Dead', work: 'Cor'},
+ , instances: 2, word: 'Dearer', work: 'Cor'},
+ , instances: 2, word: 'Declines', work: 'Cor'},
+ , instances: 2, word: 'Deep', work: 'Cor'},
+ , instances: 2, word: 'Defend', work: 'Cor'},
+ , instances: 2, word: 'Defense', work: 'Cor'},
+ , instances: 2, word: 'Demand', work: 'Cor'},
+ , instances: 2, word: 'Desert', work: 'Cor'},
+ , instances: 2, word: 'Despite', work: 'Cor'},
+ , instances: 2, word: 'Destruction', work: 'Cor'},
+ , instances: 2, word: 'Devour', work: 'Cor'},
+ , instances: 2, word: 'Dews', work: 'Cor'},
+ , instances: 2, word: 'Dieted', work: 'Cor'},
+ , instances: 2, word: 'Difference', work: 'Cor'},
+ , instances: 2, word: 'Digest', work: 'Cor'},
+ , instances: 2, word: 'Din', work: 'Cor'},
+ , instances: 2, word: 'Directitude', work: 'Cor'},
+ , instances: 2, word: 'Directly', work: 'Cor'},
+ , instances: 2, word: 'Discontented', work: 'Cor'},
+ , instances: 2, word: 'Discover', work: 'Cor'},
+ , instances: 2, word: 'Disgrace', work: 'Cor'},
+ , instances: 2, word: 'Dishonor', work: 'Cor'},
+ , instances: 2, word: 'Displeasure', work: 'Cor'},
+ , instances: 2, word: 'Dispositions', work: 'Cor'},
+ , instances: 2, word: 'Dissentious', work: 'Cor'},
+ , instances: 2, word: 'Distinctly', work: 'Cor'},
+ , instances: 2, word: 'Divine', work: 'Cor'},
+ , instances: 2, word: 'Dog', work: 'Cor'},
+ , instances: 2, word: 'Door', work: 'Cor'},
+ , instances: 2, word: 'Doors', work: 'Cor'},
+ , instances: 2, word: 'Double', work: 'Cor'},
+ , instances: 2, word: 'Dozen', work: 'Cor'},
+ , instances: 2, word: 'Dragon', work: 'Cor'},
+ , instances: 2, word: 'Drawn', work: 'Cor'},
+ , instances: 2, word: 'Dreaded', work: 'Cor'},
+ , instances: 2, word: 'Drink', work: 'Cor'},
+ , instances: 2, word: 'Dull', work: 'Cor'},
+ , instances: 2, word: 'Durst', work: 'Cor'},
+ , instances: 2, word: 'Dwell\'st', work: 'Cor'},
+ , instances: 2, word: 'Earnestness', work: 'Cor'},
+ , instances: 2, word: 'East', work: 'Cor'},
+ , instances: 2, word: 'Elders', work: 'Cor'},
+ , instances: 2, word: 'Emulation', work: 'Cor'},
+ , instances: 2, word: 'Ended', work: 'Cor'},
+ , instances: 2, word: 'Ends', work: 'Cor'},
+ , instances: 2, word: 'Endure', work: 'Cor'},
+ , instances: 2, word: 'Entreaties', work: 'Cor'},
+ , instances: 2, word: 'Envied', work: 'Cor'},
+ , instances: 2, word: 'Equal', work: 'Cor'},
+ , instances: 2, word: 'Established', work: 'Cor'},
+ , instances: 2, word: 'Evident', work: 'Cor'},
+ , instances: 2, word: 'Excellent', work: 'Cor'},
+ , instances: 2, word: 'Exercise', work: 'Cor'},
+ , instances: 2, word: 'Extol', work: 'Cor'},
+ , instances: 2, word: 'Extremities', work: 'Cor'},
+ , instances: 2, word: 'E\'er', work: 'Cor'},
+ , instances: 2, word: 'Fabric', work: 'Cor'},
+ , instances: 2, word: 'Famish', work: 'Cor'},
+ , instances: 2, word: 'Farther', work: 'Cor'},
+ , instances: 2, word: 'Fashion', work: 'Cor'},
+ , instances: 2, word: 'Father\'s', work: 'Cor'},
+ , instances: 2, word: 'Feeding', work: 'Cor'},
+ , instances: 2, word: 'Fell', work: 'Cor'},
+ , instances: 2, word: 'Fierce', work: 'Cor'},
+ , instances: 2, word: 'Fiery', work: 'Cor'},
+ , instances: 2, word: 'File', work: 'Cor'},
+ , instances: 2, word: 'Finds', work: 'Cor'},
+ , instances: 2, word: 'Fitly', work: 'Cor'},
+ , instances: 2, word: 'Flame', work: 'Cor'},
+ , instances: 2, word: 'Flat', work: 'Cor'},
+ , instances: 2, word: 'Flatterers', work: 'Cor'},
+ , instances: 2, word: 'Flattery', work: 'Cor'},
+ , instances: 2, word: 'Flesh', work: 'Cor'},
+ , instances: 2, word: 'Fliers', work: 'Cor'},
+ , instances: 2, word: 'Followed', work: 'Cor'},
+ , instances: 2, word: 'Fond', work: 'Cor'},
+ , instances: 2, word: 'Forbid', work: 'Cor'},
+ , instances: 2, word: 'Forced', work: 'Cor'},
+ , instances: 2, word: 'Forehead', work: 'Cor'},
+ , instances: 2, word: 'Foremost', work: 'Cor'},
+ , instances: 2, word: 'Forever', work: 'Cor'},
+ , instances: 2, word: 'Form', work: 'Cor'},
+ , instances: 2, word: 'Forsworn', work: 'Cor'},
+ , instances: 2, word: 'Frown', work: 'Cor'},
+ , instances: 2, word: 'Gain', work: 'Cor'},
+ , instances: 2, word: 'Garments', work: 'Cor'},
+ , instances: 2, word: 'Gate', work: 'Cor'},
+ , instances: 2, word: 'Geese', work: 'Cor'},
+ , instances: 2, word: 'Gentry', work: 'Cor'},
+ , instances: 2, word: 'Glory', work: 'Cor'},
+ , instances: 2, word: 'Gold', work: 'Cor'},
+ , instances: 2, word: 'Greatness', work: 'Cor'},
+ , instances: 2, word: 'Greece', work: 'Cor'},
+ , instances: 2, word: 'Grim', work: 'Cor'},
+ , instances: 2, word: 'Grows', work: 'Cor'},
+ , instances: 2, word: 'Grub', work: 'Cor'},
+ , instances: 2, word: 'Guest', work: 'Cor'},
+ , instances: 2, word: 'Gulf', work: 'Cor'},
+ , instances: 2, word: 'Hair', work: 'Cor'},
+ , instances: 2, word: 'Hangmen', work: 'Cor'},
+ , instances: 2, word: 'Happy', work: 'Cor'},
+ , instances: 2, word: 'Hardly', work: 'Cor'},
+ , instances: 2, word: 'Haste', work: 'Cor'},
+ , instances: 2, word: 'Hasty', work: 'Cor'},
+ , instances: 2, word: 'Hat', work: 'Cor'},
+ , instances: 2, word: 'Hatred', work: 'Cor'},
+ , instances: 2, word: 'Heat', work: 'Cor'},
+ , instances: 2, word: 'Heavy', work: 'Cor'},
+ , instances: 2, word: 'Hector', work: 'Cor'},
+ , instances: 2, word: 'Hell', work: 'Cor'},
+ , instances: 2, word: 'Helms', work: 'Cor'},
+ , instances: 2, word: 'Hercules', work: 'Cor'},
+ , instances: 2, word: 'Hide', work: 'Cor'},
+ , instances: 2, word: 'Holy', work: 'Cor'},
+ , instances: 2, word: 'Horns', work: 'Cor'},
+ , instances: 2, word: 'Hum', work: 'Cor'},
+ , instances: 2, word: 'Humility', work: 'Cor'},
+ , instances: 2, word: 'Hunger', work: 'Cor'},
+ , instances: 2, word: 'Hungry', work: 'Cor'},
+ , instances: 2, word: 'Hunt', work: 'Cor'},
+ , instances: 2, word: 'Idle', work: 'Cor'},
+ , instances: 2, word: 'Impediment', work: 'Cor'},
+ , instances: 2, word: 'Infect', work: 'Cor'},
+ , instances: 2, word: 'Ingrateful', work: 'Cor'},
+ , instances: 2, word: 'Ingratitude', work: 'Cor'},
+ , instances: 2, word: 'Insolent', work: 'Cor'},
+ , instances: 2, word: 'Instant', work: 'Cor'},
+ , instances: 2, word: 'Instruction', work: 'Cor'},
+ , instances: 2, word: 'Instruments', work: 'Cor'},
+ , instances: 2, word: 'Intended', work: 'Cor'},
+ , instances: 2, word: 'Intends', work: 'Cor'},
+ , instances: 2, word: 'Intent', work: 'Cor'},
+ , instances: 2, word: 'Intercession', work: 'Cor'},
+ , instances: 2, word: 'Interpretation', work: 'Cor'},
+ , instances: 2, word: 'Italy', work: 'Cor'},
+ , instances: 2, word: 'Journey', work: 'Cor'},
+ , instances: 2, word: 'Jove\'s', work: 'Cor'},
+ , instances: 2, word: 'Judge', work: 'Cor'},
+ , instances: 2, word: 'Killing', work: 'Cor'},
+ , instances: 2, word: 'Kindle', work: 'Cor'},
+ , instances: 2, word: 'Kiss', work: 'Cor'},
+ , instances: 2, word: 'Kites', work: 'Cor'},
+ , instances: 2, word: 'Knaves', work: 'Cor'},
+ , instances: 2, word: 'La', work: 'Cor'},
+ , instances: 2, word: 'Lacked', work: 'Cor'},
+ , instances: 2, word: 'Ladyship', work: 'Cor'},
+ , instances: 2, word: 'Large', work: 'Cor'},
+ , instances: 2, word: 'Leaden', work: 'Cor'},
+ , instances: 2, word: 'Least', work: 'Cor'},
+ , instances: 2, word: 'Legs', work: 'Cor'},
+ , instances: 2, word: 'Lend', work: 'Cor'},
+ , instances: 2, word: 'Length', work: 'Cor'},
+ , instances: 2, word: 'Liar', work: 'Cor'},
+ , instances: 2, word: 'Lift', work: 'Cor'},
+ , instances: 2, word: 'Light', work: 'Cor'},
+ , instances: 2, word: 'Likely', work: 'Cor'},
+ , instances: 2, word: 'Living', work: 'Cor'},
+ , instances: 2, word: 'Loss', work: 'Cor'},
+ , instances: 2, word: 'Lost', work: 'Cor'},
+ , instances: 2, word: 'Lowest', work: 'Cor'},
+ , instances: 2, word: 'Lungs', work: 'Cor'},
+ , instances: 2, word: 'Magistrates', work: 'Cor'},
+ , instances: 2, word: 'Main', work: 'Cor'},
+ , instances: 2, word: 'Malicious', work: 'Cor'},
+ , instances: 2, word: 'Manacles', work: 'Cor'},
+ , instances: 2, word: 'Manifest', work: 'Cor'},
+ , instances: 2, word: 'Manner', work: 'Cor'},
+ , instances: 2, word: 'Martius\'', work: 'Cor'},
+ , instances: 2, word: 'Mayst', work: 'Cor'},
+ , instances: 2, word: 'Meal', work: 'Cor'},
+ , instances: 2, word: 'Melt', work: 'Cor'},
+ , instances: 2, word: 'Mend', work: 'Cor'},
+ , instances: 2, word: 'Midst', work: 'Cor'},
+ , instances: 2, word: 'Minded', work: 'Cor'},
+ , instances: 2, word: 'Mirth', work: 'Cor'},
+ , instances: 2, word: 'Mold', work: 'Cor'},
+ , instances: 2, word: 'Monstrous', work: 'Cor'},
+ , instances: 2, word: 'Mother\'s', work: 'Cor'},
+ , instances: 2, word: 'Mouth', work: 'Cor'},
+ , instances: 2, word: 'Mow', work: 'Cor'},
+ , instances: 2, word: 'Nail', work: 'Cor'},
+ , instances: 2, word: 'Naked', work: 'Cor'},
+ , instances: 2, word: 'Named', work: 'Cor'},
+ , instances: 2, word: 'Native', work: 'Cor'},
+ , instances: 2, word: 'Necks', work: 'Cor'},
+ , instances: 2, word: 'Nettle', work: 'Cor'},
+ , instances: 2, word: 'Nicanor', work: 'Cor'},
+ , instances: 2, word: 'Nobleness', work: 'Cor'},
+ , instances: 2, word: 'Nod', work: 'Cor'},
+ , instances: 2, word: 'Nose', work: 'Cor'},
+ , instances: 2, word: 'Nurse', work: 'Cor'},
+ , instances: 2, word: 'Oath', work: 'Cor'},
+ , instances: 2, word: 'Obedience', work: 'Cor'},
+ , instances: 2, word: 'Obeyed', work: 'Cor'},
+ , instances: 2, word: 'Odd', work: 'Cor'},
+ , instances: 2, word: 'Offense', work: 'Cor'},
+ , instances: 2, word: 'Offered', work: 'Cor'},
+ , instances: 2, word: 'Offices', work: 'Cor'},
+ , instances: 2, word: 'Oft', work: 'Cor'},
+ , instances: 2, word: 'Ones', work: 'Cor'},
+ , instances: 2, word: 'Other\'s', work: 'Cor'},
+ , instances: 2, word: 'Ought', work: 'Cor'},
+ , instances: 2, word: 'Outward', work: 'Cor'},
+ , instances: 2, word: 'O\'erbear', work: 'Cor'},
+ , instances: 2, word: 'Pace', work: 'Cor'},
+ , instances: 2, word: 'Pair', work: 'Cor'},
+ , instances: 2, word: 'Pardons', work: 'Cor'},
+ , instances: 2, word: 'Partly', work: 'Cor'},
+ , instances: 2, word: 'Partner', work: 'Cor'},
+ , instances: 2, word: 'Passage', work: 'Cor'},
+ , instances: 2, word: 'Pay', work: 'Cor'},
+ , instances: 2, word: 'Peremptory', work: 'Cor'},
+ , instances: 2, word: 'Perform', work: 'Cor'},
+ , instances: 2, word: 'Peril', work: 'Cor'},
+ , instances: 2, word: 'Petty', work: 'Cor'},
+ , instances: 2, word: 'Physic', work: 'Cor'},
+ , instances: 2, word: 'Pick', work: 'Cor'},
+ , instances: 2, word: 'Piece', work: 'Cor'},
+ , instances: 2, word: 'Pieces', work: 'Cor'},
+ , instances: 2, word: 'Pierce', work: 'Cor'},
+ , instances: 2, word: 'Piercing', work: 'Cor'},
+ , instances: 2, word: 'Pikes', work: 'Cor'},
+ , instances: 2, word: 'Pile', work: 'Cor'},
+ , instances: 2, word: 'Places', work: 'Cor'},
+ , instances: 2, word: 'Plainly', work: 'Cor'},
+ , instances: 2, word: 'Play', work: 'Cor'},
+ , instances: 2, word: 'Plucked', work: 'Cor'},
+ , instances: 2, word: 'Points', work: 'Cor'},
+ , instances: 2, word: 'Poisonous', work: 'Cor'},
+ , instances: 2, word: 'Poll', work: 'Cor'},
+ , instances: 2, word: 'Poorest', work: 'Cor'},
+ , instances: 2, word: 'Porter', work: 'Cor'},
+ , instances: 2, word: 'Ports', work: 'Cor'},
+ , instances: 2, word: 'Pot', work: 'Cor'},
+ , instances: 2, word: 'Practice', work: 'Cor'},
+ , instances: 2, word: 'Prat\'st', work: 'Cor'},
+ , instances: 2, word: 'Precipitation', work: 'Cor'},
+ , instances: 2, word: 'Predecessors', work: 'Cor'},
+ , instances: 2, word: 'Preparation', work: 'Cor'},
+ , instances: 2, word: 'Prepare', work: 'Cor'},
+ , instances: 2, word: 'Preserve', work: 'Cor'},
+ , instances: 2, word: 'Pressed', work: 'Cor'},
+ , instances: 2, word: 'Pretty', work: 'Cor'},
+ , instances: 2, word: 'Priests', work: 'Cor'},
+ , instances: 2, word: 'Privilege', work: 'Cor'},
+ , instances: 2, word: 'Prize', work: 'Cor'},
+ , instances: 2, word: 'Prompt', work: 'Cor'},
+ , instances: 2, word: 'Pronounce', work: 'Cor'},
+ , instances: 2, word: 'Punish', work: 'Cor'},
+ , instances: 2, word: 'Puts', work: 'Cor'},
+ , instances: 2, word: 'Quench', work: 'Cor'},
+ , instances: 2, word: 'Question', work: 'Cor'},
+ , instances: 2, word: 'Rages', work: 'Cor'},
+ , instances: 2, word: 'Raised', work: 'Cor'},
+ , instances: 2, word: 'Ran', work: 'Cor'},
+ , instances: 2, word: 'Rascals', work: 'Cor'},
+ , instances: 2, word: 'Rash', work: 'Cor'},
+ , instances: 2, word: 'Rats', work: 'Cor'},
+ , instances: 2, word: 'Reap', work: 'Cor'},
+ , instances: 2, word: 'Rebuke', work: 'Cor'},
+ , instances: 2, word: 'Regard', work: 'Cor'},
+ , instances: 2, word: 'Rejoice', work: 'Cor'},
+ , instances: 2, word: 'Render', work: 'Cor'},
+ , instances: 2, word: 'Repent', work: 'Cor'},
+ , instances: 2, word: 'Repetition', work: 'Cor'},
+ , instances: 2, word: 'Replied', work: 'Cor'},
+ , instances: 2, word: 'Require', work: 'Cor'},
+ , instances: 2, word: 'Resisted', work: 'Cor'},
+ , instances: 2, word: 'Reverend', work: 'Cor'},
+ , instances: 2, word: 'Revoke', work: 'Cor'},
+ , instances: 2, word: 'Revolt', work: 'Cor'},
+ , instances: 2, word: 'Rights', work: 'Cor'},
+ , instances: 2, word: 'Ripe', work: 'Cor'},
+ , instances: 2, word: 'Rise', work: 'Cor'},
+ , instances: 2, word: 'Rising', work: 'Cor'},
+ , instances: 2, word: 'Road', work: 'Cor'},
+ , instances: 2, word: 'Roared', work: 'Cor'},
+ , instances: 2, word: 'Rob', work: 'Cor'},
+ , instances: 2, word: 'Rome\'s', work: 'Cor'},
+ , instances: 2, word: 'Root', work: 'Cor'},
+ , instances: 2, word: 'Royal', work: 'Cor'},
+ , instances: 2, word: 'Rule', work: 'Cor'},
+ , instances: 2, word: 'Ruled', work: 'Cor'},
+ , instances: 2, word: 'Rushes', work: 'Cor'},
+ , instances: 2, word: 'Sacrifice', work: 'Cor'},
+ , instances: 2, word: 'Safe', work: 'Cor'},
+ , instances: 2, word: 'Safeguard', work: 'Cor'},
+ , instances: 2, word: 'Safely', work: 'Cor'},
+ , instances: 2, word: 'Sat', work: 'Cor'},
+ , instances: 2, word: 'Saved', work: 'Cor'},
+ , instances: 2, word: 'Saying', work: 'Cor'},
+ , instances: 2, word: 'Scars', work: 'Cor'},
+ , instances: 2, word: 'Scene', work: 'Cor'},
+ , instances: 2, word: 'Scorn', work: 'Cor'},
+ , instances: 2, word: 'Seconds', work: 'Cor'},
+ , instances: 2, word: 'Seeking', work: 'Cor'},
+ , instances: 2, word: 'Seemed', work: 'Cor'},
+ , instances: 2, word: 'Seems', work: 'Cor'},
+ , instances: 2, word: 'Seize', work: 'Cor'},
+ , instances: 2, word: 'Sentenced', work: 'Cor'},
+ , instances: 2, word: 'Served', work: 'Cor'},
+ , instances: 2, word: 'Serves', work: 'Cor'},
+ , instances: 2, word: 'Shapes', work: 'Cor'},
+ , instances: 2, word: 'She\'s', work: 'Cor'},
+ , instances: 2, word: 'Shield', work: 'Cor'},
+ , instances: 2, word: 'Shields', work: 'Cor'},
+ , instances: 2, word: 'Short', work: 'Cor'},
+ , instances: 2, word: 'Shouldst', work: 'Cor'},
+ , instances: 2, word: 'Shout', work: 'Cor'},
+ , instances: 2, word: 'Shouting', work: 'Cor'},
+ , instances: 2, word: 'Shouts', work: 'Cor'},
+ , instances: 2, word: 'Showing', work: 'Cor'},
+ , instances: 2, word: 'Sick', work: 'Cor'},
+ , instances: 2, word: 'Sighed', work: 'Cor'},
+ , instances: 2, word: 'Sign', work: 'Cor'},
+ , instances: 2, word: 'Silence', work: 'Cor'},
+ , instances: 2, word: 'Silk', work: 'Cor'},
+ , instances: 2, word: 'Sin', work: 'Cor'},
+ , instances: 2, word: 'Sink', work: 'Cor'},
+ , instances: 2, word: 'Sirrah', work: 'Cor'},
+ , instances: 2, word: 'Slay', work: 'Cor'},
+ , instances: 2, word: 'Slight', work: 'Cor'},
+ , instances: 2, word: 'Smiles', work: 'Cor'},
+ , instances: 2, word: 'Solicit', work: 'Cor'},
+ , instances: 2, word: 'Soothing', work: 'Cor'},
+ , instances: 2, word: 'Sore', work: 'Cor'},
+ , instances: 2, word: 'Soul', work: 'Cor'},
+ , instances: 2, word: 'Souls', work: 'Cor'},
+ , instances: 2, word: 'Sounds', work: 'Cor'},
+ , instances: 2, word: 'Spare', work: 'Cor'},
+ , instances: 2, word: 'Speak\'st', work: 'Cor'},
+ , instances: 2, word: 'Speed', work: 'Cor'},
+ , instances: 2, word: 'Spoils', work: 'Cor'},
+ , instances: 2, word: 'Spoken', work: 'Cor'},
+ , instances: 2, word: 'Stain', work: 'Cor'},
+ , instances: 2, word: 'Starve', work: 'Cor'},
+ , instances: 2, word: 'Station', work: 'Cor'},
+ , instances: 2, word: 'Steel', work: 'Cor'},
+ , instances: 2, word: 'Stiff', work: 'Cor'},
+ , instances: 2, word: 'Stinking', work: 'Cor'},
+ , instances: 2, word: 'Stir', work: 'Cor'},
+ , instances: 2, word: 'Stones', work: 'Cor'},
+ , instances: 2, word: 'Stopped', work: 'Cor'},
+ , instances: 2, word: 'Stored', work: 'Cor'},
+ , instances: 2, word: 'Storehouse', work: 'Cor'},
+ , instances: 2, word: 'Stoutness', work: 'Cor'},
+ , instances: 2, word: 'Strengths', work: 'Cor'},
+ , instances: 2, word: 'Stretch', work: 'Cor'},
+ , instances: 2, word: 'Stretched', work: 'Cor'},
+ , instances: 2, word: 'Stronger', work: 'Cor'},
+ , instances: 2, word: 'Subtle', work: 'Cor'},
+ , instances: 2, word: 'Successes', work: 'Cor'},
+ , instances: 2, word: 'Sufferance', work: 'Cor'},
+ , instances: 2, word: 'Suffered', work: 'Cor'},
+ , instances: 2, word: 'Suffering', work: 'Cor'},
+ , instances: 2, word: 'Suitors', work: 'Cor'},
+ , instances: 2, word: 'Suits', work: 'Cor'},
+ , instances: 2, word: 'Sup', work: 'Cor'},
+ , instances: 2, word: 'Superfluity', work: 'Cor'},
+ , instances: 2, word: 'Supreme', work: 'Cor'},
+ , instances: 2, word: 'Surfeits', work: 'Cor'},
+ , instances: 2, word: 'Sway', work: 'Cor'},
+ , instances: 2, word: 'Swear', work: 'Cor'},
+ , instances: 2, word: 'Swoon', work: 'Cor'},
+ , instances: 2, word: 'Syllables', work: 'Cor'},
+ , instances: 2, word: 'Taken', work: 'Cor'},
+ , instances: 2, word: 'Talked', work: 'Cor'},
+ , instances: 2, word: 'Tarquin', work: 'Cor'},
+ , instances: 2, word: 'Taste', work: 'Cor'},
+ , instances: 2, word: 'Temple', work: 'Cor'},
+ , instances: 2, word: 'Temples', work: 'Cor'},
+ , instances: 2, word: 'Temp\'rately', work: 'Cor'},
+ , instances: 2, word: 'Term', work: 'Cor'},
+ , instances: 2, word: 'Thereby', work: 'Cor'},
+ , instances: 2, word: 'Thereto', work: 'Cor'},
+ , instances: 2, word: 'Thinking', work: 'Cor'},
+ , instances: 2, word: 'Thinks', work: 'Cor'},
+ , instances: 2, word: 'Third', work: 'Cor'},
+ , instances: 2, word: 'Thoughts', work: 'Cor'},
+ , instances: 2, word: 'Threshold', work: 'Cor'},
+ , instances: 2, word: 'Threw', work: 'Cor'},
+ , instances: 2, word: 'Throne', work: 'Cor'},
+ , instances: 2, word: 'Throng', work: 'Cor'},
+ , instances: 2, word: 'Thrust', work: 'Cor'},
+ , instances: 2, word: 'Tiber', work: 'Cor'},
+ , instances: 2, word: 'Tie', work: 'Cor'},
+ , instances: 2, word: 'Tired', work: 'Cor'},
+ , instances: 2, word: 'Today', work: 'Cor'},
+ , instances: 2, word: 'Tomorrow', work: 'Cor'},
+ , instances: 2, word: 'Top', work: 'Cor'},
+ , instances: 2, word: 'Toward', work: 'Cor'},
+ , instances: 2, word: 'Trades', work: 'Cor'},
+ , instances: 2, word: 'Treasure', work: 'Cor'},
+ , instances: 2, word: 'Trial', work: 'Cor'},
+ , instances: 2, word: 'Tribe', work: 'Cor'},
+ , instances: 2, word: 'Tribes', work: 'Cor'},
+ , instances: 2, word: 'Trick', work: 'Cor'},
+ , instances: 2, word: 'Turned', work: 'Cor'},
+ , instances: 2, word: 'Tush', work: 'Cor'},
+ , instances: 2, word: 'Twelve', work: 'Cor'},
+ , instances: 2, word: 'Twice', work: 'Cor'},
+ , instances: 2, word: 'Tyrannical', work: 'Cor'},
+ , instances: 2, word: 'Uncertain', work: 'Cor'},
+ , instances: 2, word: 'Undertake', work: 'Cor'},
+ , instances: 2, word: 'Unknown', work: 'Cor'},
+ , instances: 2, word: 'Uttered', work: 'Cor'},
+ , instances: 2, word: 'Value', work: 'Cor'},
+ , instances: 2, word: 'Veiled', work: 'Cor'},
+ , instances: 2, word: 'Veins', work: 'Cor'},
+ , instances: 2, word: 'Vengeance', work: 'Cor'},
+ , instances: 2, word: 'Venture', work: 'Cor'},
+ , instances: 2, word: 'Vessel', work: 'Cor'},
+ , instances: 2, word: 'Virtues', work: 'Cor'},
+ , instances: 2, word: 'Volsce', work: 'Cor'},
+ , instances: 2, word: 'Vouch', work: 'Cor'},
+ , instances: 2, word: 'Vows', work: 'Cor'},
+ , instances: 2, word: 'Warlike', work: 'Cor'},
+ , instances: 2, word: 'Warriors', work: 'Cor'},
+ , instances: 2, word: 'Water', work: 'Cor'},
+ , instances: 2, word: 'Wave', work: 'Cor'},
+ , instances: 2, word: 'Waving', work: 'Cor'},
+ , instances: 2, word: 'Ways', work: 'Cor'},
+ , instances: 2, word: 'Wears', work: 'Cor'},
+ , instances: 2, word: 'Weary', work: 'Cor'},
+ , instances: 2, word: 'Weeds', work: 'Cor'},
+ , instances: 2, word: 'Weeping', work: 'Cor'},
+ , instances: 2, word: 'West', work: 'Cor'},
+ , instances: 2, word: 'Wheel', work: 'Cor'},
+ , instances: 2, word: 'Whereof', work: 'Cor'},
+ , instances: 2, word: 'Whereto', work: 'Cor'},
+ , instances: 2, word: 'White', work: 'Cor'},
+ , instances: 2, word: 'Who\'s', work: 'Cor'},
+ , instances: 2, word: 'Widows', work: 'Cor'},
+ , instances: 2, word: 'Willingly', work: 'Cor'},
+ , instances: 2, word: 'Wills', work: 'Cor'},
+ , instances: 2, word: 'Wisdom', work: 'Cor'},
+ , instances: 2, word: 'Wise', work: 'Cor'},
+ , instances: 2, word: 'Wished', work: 'Cor'},
+ , instances: 2, word: 'Withal', work: 'Cor'},
+ , instances: 2, word: 'Wolf', work: 'Cor'},
+ , instances: 2, word: 'Woman\'s', work: 'Cor'},
+ , instances: 2, word: 'Womb', work: 'Cor'},
+ , instances: 2, word: 'Wonder', work: 'Cor'},
+ , instances: 2, word: 'Worn', work: 'Cor'},
+ , instances: 2, word: 'Worthier', work: 'Cor'},
+ , instances: 2, word: 'Worthiest', work: 'Cor'},
+ , instances: 2, word: 'Worthily', work: 'Cor'},
+ , instances: 2, word: 'Wot', work: 'Cor'},
+ , instances: 2, word: 'Wretch', work: 'Cor'},
+ , instances: 2, word: 'Wrong', work: 'Cor'},
+ , instances: 2, word: 'Wrongs', work: 'Cor'},
+ , instances: 2, word: 'Yielded', work: 'Cor'},
+ , instances: 2, word: 'Yonder', work: 'Cor'},
+ , instances: 2, word: 'Young', work: 'Cor'},
+ , instances: 2, word: 'Youth', work: 'Cor'},
+ , instances: 2, word: '\'has', work: 'Cor'},
+ , instances: 2, word: '\'twill', work: 'Cor'},
+ , instances: 1, word: 'A-doing', work: 'Cor'},
+ , instances: 1, word: 'Abated', work: 'Cor'},
+ , instances: 1, word: 'Abed', work: 'Cor'},
+ , instances: 1, word: 'Abhor', work: 'Cor'},
+ , instances: 1, word: 'Abhorring', work: 'Cor'},
+ , instances: 1, word: 'Abilities', work: 'Cor'},
+ , instances: 1, word: 'Abram', work: 'Cor'},
+ , instances: 1, word: 'Abundantly', work: 'Cor'},
+ , instances: 1, word: 'Accents', work: 'Cor'},
+ , instances: 1, word: 'Acceptance', work: 'Cor'},
+ , instances: 1, word: 'Access', work: 'Cor'},
+ , instances: 1, word: 'Accidentally', work: 'Cor'},
+ , instances: 1, word: 'Acclamations', work: 'Cor'},
+ , instances: 1, word: 'Accompanied', work: 'Cor'},
+ , instances: 1, word: 'Accompany', work: 'Cor'},
+ , instances: 1, word: 'Accomplish', work: 'Cor'},
+ , instances: 1, word: 'According', work: 'Cor'},
+ , instances: 1, word: 'Accounted', work: 'Cor'},
+ , instances: 1, word: 'Accusation', work: 'Cor'},
+ , instances: 1, word: 'Accusers', work: 'Cor'},
+ , instances: 1, word: 'Aches', work: 'Cor'},
+ , instances: 1, word: 'Achieve', work: 'Cor'},
+ , instances: 1, word: 'Achieved', work: 'Cor'},
+ , instances: 1, word: 'Acquaintance', work: 'Cor'},
+ , instances: 1, word: 'Acting', work: 'Cor'},
+ , instances: 1, word: 'Actor', work: 'Cor'},
+ , instances: 1, word: 'Acts', work: 'Cor'},
+ , instances: 1, word: 'Admire', work: 'Cor'},
+ , instances: 1, word: 'Admit', work: 'Cor'},
+ , instances: 1, word: 'Admitted', work: 'Cor'},
+ , instances: 1, word: 'Admitting', work: 'Cor'},
+ , instances: 1, word: 'Adopt', work: 'Cor'},
+ , instances: 1, word: 'Adrian', work: 'Cor'},
+ , instances: 1, word: 'Adversaries', work: 'Cor'},
+ , instances: 1, word: 'Adversely', work: 'Cor'},
+ , instances: 1, word: 'Advise', work: 'Cor'},
+ , instances: 1, word: 'Affairs', work: 'Cor'},
+ , instances: 1, word: 'Affect', work: 'Cor'},
+ , instances: 1, word: 'Affected', work: 'Cor'},
+ , instances: 1, word: 'Affecting', work: 'Cor'},
+ , instances: 1, word: 'Affects', work: 'Cor'},
+ , instances: 1, word: 'Afflicts', work: 'Cor'},
+ , instances: 1, word: 'Affrights', work: 'Cor'},
+ , instances: 1, word: 'Afire', work: 'Cor'},
+ , instances: 1, word: 'Afoot', work: 'Cor'},
+ , instances: 1, word: 'Afric', work: 'Cor'},
+ , instances: 1, word: 'After-meeting', work: 'Cor'},
+ , instances: 1, word: 'Agents', work: 'Cor'},
+ , instances: 1, word: 'Ages', work: 'Cor'},
+ , instances: 1, word: 'Agreed', work: 'Cor'},
+ , instances: 1, word: 'Agreeing', work: 'Cor'},
+ , instances: 1, word: 'Agrippa', work: 'Cor'},
+ , instances: 1, word: 'Agued', work: 'Cor'},
+ , instances: 1, word: 'Ah', work: 'Cor'},
+ , instances: 1, word: 'Aidless', work: 'Cor'},
+ , instances: 1, word: 'Aim', work: 'Cor'},
+ , instances: 1, word: 'Aims', work: 'Cor'},
+ , instances: 1, word: 'Alarum', work: 'Cor'},
+ , instances: 1, word: 'Alas', work: 'Cor'},
+ , instances: 1, word: 'Alexander', work: 'Cor'},
+ , instances: 1, word: 'Alias', work: 'Cor'},
+ , instances: 1, word: 'All-hail', work: 'Cor'},
+ , instances: 1, word: 'All-noble', work: 'Cor'},
+ , instances: 1, word: 'Allay', work: 'Cor'},
+ , instances: 1, word: 'Allaying', work: 'Cor'},
+ , instances: 1, word: 'Allow', work: 'Cor'},
+ , instances: 1, word: 'Allowance', work: 'Cor'},
+ , instances: 1, word: 'Alter', work: 'Cor'},
+ , instances: 1, word: 'Alteration', work: 'Cor'},
+ , instances: 1, word: 'Altitude', work: 'Cor'},
+ , instances: 1, word: 'Amazonian', work: 'Cor'},
+ , instances: 1, word: 'Amended', work: 'Cor'},
+ , instances: 1, word: 'Amplified', work: 'Cor'},
+ , instances: 1, word: 'An-hungry', work: 'Cor'},
+ , instances: 1, word: 'Ancestor', work: 'Cor'},
+ , instances: 1, word: 'Ancus', work: 'Cor'},
+ , instances: 1, word: 'Anger\'s', work: 'Cor'},
+ , instances: 1, word: 'Annals', work: 'Cor'},
+ , instances: 1, word: 'Answering', work: 'Cor'},
+ , instances: 1, word: 'Antique', work: 'Cor'},
+ , instances: 1, word: 'Anvil', work: 'Cor'},
+ , instances: 1, word: 'Apes', work: 'Cor'},
+ , instances: 1, word: 'Apoplexy', work: 'Cor'},
+ , instances: 1, word: 'Apparent', work: 'Cor'},
+ , instances: 1, word: 'Appearance', work: 'Cor'},
+ , instances: 1, word: 'Appeared', work: 'Cor'},
+ , instances: 1, word: 'Applause', work: 'Cor'},
+ , instances: 1, word: 'Applied', work: 'Cor'},
+ , instances: 1, word: 'Apply', work: 'Cor'},
+ , instances: 1, word: 'Apprehended', work: 'Cor'},
+ , instances: 1, word: 'Apprehension', work: 'Cor'},
+ , instances: 1, word: 'Approve', work: 'Cor'},
+ , instances: 1, word: 'Approved', work: 'Cor'},
+ , instances: 1, word: 'Apron-men', work: 'Cor'},
+ , instances: 1, word: 'Apt', work: 'Cor'},
+ , instances: 1, word: 'Aptness', work: 'Cor'},
+ , instances: 1, word: 'Arabia', work: 'Cor'},
+ , instances: 1, word: 'Arch', work: 'Cor'},
+ , instances: 1, word: 'Arguing', work: 'Cor'},
+ , instances: 1, word: 'Arithmetic', work: 'Cor'},
+ , instances: 1, word: 'Armed', work: 'Cor'},
+ , instances: 1, word: 'Armies', work: 'Cor'},
+ , instances: 1, word: 'Armor', work: 'Cor'},
+ , instances: 1, word: 'Army\'s', work: 'Cor'},
+ , instances: 1, word: 'Arriving', work: 'Cor'},
+ , instances: 1, word: 'Article', work: 'Cor'},
+ , instances: 1, word: 'Articulate', work: 'Cor'},
+ , instances: 1, word: 'Ascent', work: 'Cor'},
+ , instances: 1, word: 'Ash', work: 'Cor'},
+ , instances: 1, word: 'Asker', work: 'Cor'},
+ , instances: 1, word: 'Aspect', work: 'Cor'},
+ , instances: 1, word: 'Assistance', work: 'Cor'},
+ , instances: 1, word: 'Associated', work: 'Cor'},
+ , instances: 1, word: 'Assuage', work: 'Cor'},
+ , instances: 1, word: 'Ass\'s', work: 'Cor'},
+ , instances: 1, word: 'Asunder', work: 'Cor'},
+ , instances: 1, word: 'Atone', work: 'Cor'},
+ , instances: 1, word: 'Attach', work: 'Cor'},
+ , instances: 1, word: 'Attained', work: 'Cor'},
+ , instances: 1, word: 'Attempt', work: 'Cor'},
+ , instances: 1, word: 'Attempted', work: 'Cor'},
+ , instances: 1, word: 'Attended', work: 'Cor'},
+ , instances: 1, word: 'Attends', work: 'Cor'},
+ , instances: 1, word: 'Audible', work: 'Cor'},
+ , instances: 1, word: 'Audit', work: 'Cor'},
+ , instances: 1, word: 'Aufidiuses', work: 'Cor'},
+ , instances: 1, word: 'Aufidius\'', work: 'Cor'},
+ , instances: 1, word: 'Auger\'s', work: 'Cor'},
+ , instances: 1, word: 'Augurer', work: 'Cor'},
+ , instances: 1, word: 'Austerity', work: 'Cor'},
+ , instances: 1, word: 'Author', work: 'Cor'},
+ , instances: 1, word: 'Authorities', work: 'Cor'},
+ , instances: 1, word: 'Authority\'s', work: 'Cor'},
+ , instances: 1, word: 'Awake', work: 'Cor'},
+ , instances: 1, word: 'Awaken', work: 'Cor'},
+ , instances: 1, word: 'Awe', work: 'Cor'},
+ , instances: 1, word: 'Awry', work: 'Cor'},
+ , instances: 1, word: 'Baas', work: 'Cor'},
+ , instances: 1, word: 'Babies', work: 'Cor'},
+ , instances: 1, word: 'Baby', work: 'Cor'},
+ , instances: 1, word: 'Backs', work: 'Cor'},
+ , instances: 1, word: 'Baited', work: 'Cor'},
+ , instances: 1, word: 'Baits', work: 'Cor'},
+ , instances: 1, word: 'Bale', work: 'Cor'},
+ , instances: 1, word: 'Ballad-makers', work: 'Cor'},
+ , instances: 1, word: 'Balms', work: 'Cor'},
+ , instances: 1, word: 'Banishers', work: 'Cor'},
+ , instances: 1, word: 'Banners', work: 'Cor'},
+ , instances: 1, word: 'Barbarians', work: 'Cor'},
+ , instances: 1, word: 'Barking', work: 'Cor'},
+ , instances: 1, word: 'Barred', work: 'Cor'},
+ , instances: 1, word: 'Barren', work: 'Cor'},
+ , instances: 1, word: 'Barr\'st', work: 'Cor'},
+ , instances: 1, word: 'Baseness', work: 'Cor'},
+ , instances: 1, word: 'Basest', work: 'Cor'},
+ , instances: 1, word: 'Bastard', work: 'Cor'},
+ , instances: 1, word: 'Bate', work: 'Cor'},
+ , instances: 1, word: 'Bath', work: 'Cor'},
+ , instances: 1, word: 'Batten', work: 'Cor'},
+ , instances: 1, word: 'Battery', work: 'Cor'},
+ , instances: 1, word: 'Beach', work: 'Cor'},
+ , instances: 1, word: 'Beam', work: 'Cor'},
+ , instances: 1, word: 'Beast', work: 'Cor'},
+ , instances: 1, word: 'Beastly', work: 'Cor'},
+ , instances: 1, word: 'Beaten', work: 'Cor'},
+ , instances: 1, word: 'Bedfellow', work: 'Cor'},
+ , instances: 1, word: 'Bedward', work: 'Cor'},
+ , instances: 1, word: 'Before-time', work: 'Cor'},
+ , instances: 1, word: 'Beggars', work: 'Cor'},
+ , instances: 1, word: 'Beggar\'s', work: 'Cor'},
+ , instances: 1, word: 'Begging', work: 'Cor'},
+ , instances: 1, word: 'Beginning', work: 'Cor'},
+ , instances: 1, word: 'Begun', work: 'Cor'},
+ , instances: 1, word: 'Behavior', work: 'Cor'},
+ , instances: 1, word: 'Beholding', work: 'Cor'},
+ , instances: 1, word: 'Behold\'st', work: 'Cor'},
+ , instances: 1, word: 'Belonging', work: 'Cor'},
+ , instances: 1, word: 'Belongs', work: 'Cor'},
+ , instances: 1, word: 'Bemock', work: 'Cor'},
+ , instances: 1, word: 'Bencher', work: 'Cor'},
+ , instances: 1, word: 'Bend', work: 'Cor'},
+ , instances: 1, word: 'Bended', work: 'Cor'},
+ , instances: 1, word: 'Beneath', work: 'Cor'},
+ , instances: 1, word: 'Benefits', work: 'Cor'},
+ , instances: 1, word: 'Bent', work: 'Cor'},
+ , instances: 1, word: 'Bereaves', work: 'Cor'},
+ , instances: 1, word: 'Bestrid', work: 'Cor'},
+ , instances: 1, word: 'Bestride', work: 'Cor'},
+ , instances: 1, word: 'Betrayed', work: 'Cor'},
+ , instances: 1, word: 'Bewail', work: 'Cor'},
+ , instances: 1, word: 'Beware', work: 'Cor'},
+ , instances: 1, word: 'Bewitchment', work: 'Cor'},
+ , instances: 1, word: 'Bewray', work: 'Cor'},
+ , instances: 1, word: 'Bidding', work: 'Cor'},
+ , instances: 1, word: 'Bigger', work: 'Cor'},
+ , instances: 1, word: 'Billeted', work: 'Cor'},
+ , instances: 1, word: 'Birthplace', work: 'Cor'},
+ , instances: 1, word: 'Bisson', work: 'Cor'},
+ , instances: 1, word: 'Bite', work: 'Cor'},
+ , instances: 1, word: 'Bits', work: 'Cor'},
+ , instances: 1, word: 'Bitterest', work: 'Cor'},
+ , instances: 1, word: 'Black', work: 'Cor'},
+ , instances: 1, word: 'Blanks', work: 'Cor'},
+ , instances: 1, word: 'Blast', work: 'Cor'},
+ , instances: 1, word: 'Blearèd', work: 'Cor'},
+ , instances: 1, word: 'Bleeding', work: 'Cor'},
+ , instances: 1, word: 'Bleed\'st', work: 'Cor'},
+ , instances: 1, word: 'Blended', work: 'Cor'},
+ , instances: 1, word: 'Blessèd', work: 'Cor'},
+ , instances: 1, word: 'Block', work: 'Cor'},
+ , instances: 1, word: 'Blockhead', work: 'Cor'},
+ , instances: 1, word: 'Blushed', work: 'Cor'},
+ , instances: 1, word: 'Boasting', work: 'Cor'},
+ , instances: 1, word: 'Boats', work: 'Cor'},
+ , instances: 1, word: 'Bodily', work: 'Cor'},
+ , instances: 1, word: 'Boiled', work: 'Cor'},
+ , instances: 1, word: 'Boils', work: 'Cor'},
+ , instances: 1, word: 'Bolder', work: 'Cor'},
+ , instances: 1, word: 'Bolt', work: 'Cor'},
+ , instances: 1, word: 'Bolted', work: 'Cor'},
+ , instances: 1, word: 'Bond', work: 'Cor'},
+ , instances: 1, word: 'Bones', work: 'Cor'},
+ , instances: 1, word: 'Bonnet', work: 'Cor'},
+ , instances: 1, word: 'Bonneted', work: 'Cor'},
+ , instances: 1, word: 'Bore', work: 'Cor'},
+ , instances: 1, word: 'Born', work: 'Cor'},
+ , instances: 1, word: 'Bosom', work: 'Cor'},
+ , instances: 1, word: 'Bosoms', work: 'Cor'},
+ , instances: 1, word: 'Bosom\'s', work: 'Cor'},
+ , instances: 1, word: 'Botcher\'s', work: 'Cor'},
+ , instances: 1, word: 'Bottom', work: 'Cor'},
+ , instances: 1, word: 'Bountiful', work: 'Cor'},
+ , instances: 1, word: 'Bower', work: 'Cor'},
+ , instances: 1, word: 'Bowl', work: 'Cor'},
+ , instances: 1, word: 'Brag', work: 'Cor'},
+ , instances: 1, word: 'Braggart', work: 'Cor'},
+ , instances: 1, word: 'Bragged', work: 'Cor'},
+ , instances: 1, word: 'Brats', work: 'Cor'},
+ , instances: 1, word: 'Bravely', work: 'Cor'},
+ , instances: 1, word: 'Brawn', work: 'Cor'},
+ , instances: 1, word: 'Bread', work: 'Cor'},
+ , instances: 1, word: 'Breathe', work: 'Cor'},
+ , instances: 1, word: 'Breed', work: 'Cor'},
+ , instances: 1, word: 'Brethren', work: 'Cor'},
+ , instances: 1, word: 'Briars', work: 'Cor'},
+ , instances: 1, word: 'Bribe', work: 'Cor'},
+ , instances: 1, word: 'Bringing', work: 'Cor'},
+ , instances: 1, word: 'Brings', work: 'Cor'},
+ , instances: 1, word: 'Bristled', work: 'Cor'},
+ , instances: 1, word: 'Broil', work: 'Cor'},
+ , instances: 1, word: 'Broils', work: 'Cor'},
+ , instances: 1, word: 'Brood', work: 'Cor'},
+ , instances: 1, word: 'Brook', work: 'Cor'},
+ , instances: 1, word: 'Brother', work: 'Cor'},
+ , instances: 1, word: 'Brother\'s', work: 'Cor'},
+ , instances: 1, word: 'Brow-bound', work: 'Cor'},
+ , instances: 1, word: 'Brown', work: 'Cor'},
+ , instances: 1, word: 'Bruising', work: 'Cor'},
+ , instances: 1, word: 'Brunt', work: 'Cor'},
+ , instances: 1, word: 'Budge', work: 'Cor'},
+ , instances: 1, word: 'Budger', work: 'Cor'},
+ , instances: 1, word: 'Buildings', work: 'Cor'},
+ , instances: 1, word: 'Built', work: 'Cor'},
+ , instances: 1, word: 'Bulks', work: 'Cor'},
+ , instances: 1, word: 'Burdens', work: 'Cor'},
+ , instances: 1, word: 'Burnèd', work: 'Cor'},
+ , instances: 1, word: 'Burrows', work: 'Cor'},
+ , instances: 1, word: 'Busied', work: 'Cor'},
+ , instances: 1, word: 'Bussing', work: 'Cor'},
+ , instances: 1, word: 'Butcher', work: 'Cor'},
+ , instances: 1, word: 'Butchers', work: 'Cor'},
+ , instances: 1, word: 'Butterflies', work: 'Cor'},
+ , instances: 1, word: 'Buttock', work: 'Cor'},
+ , instances: 1, word: 'Butts', work: 'Cor'},
+ , instances: 1, word: 'By\'', work: 'Cor'},
+ , instances: 1, word: 'Calling', work: 'Cor'},
+ , instances: 1, word: 'Calmly', work: 'Cor'},
+ , instances: 1, word: 'Calmness', work: 'Cor'},
+ , instances: 1, word: 'Calved', work: 'Cor'},
+ , instances: 1, word: 'Cam', work: 'Cor'},
+ , instances: 1, word: 'Cambric', work: 'Cor'},
+ , instances: 1, word: 'Camels', work: 'Cor'},
+ , instances: 1, word: 'Cam\'st', work: 'Cor'},
+ , instances: 1, word: 'Cankered', work: 'Cor'},
+ , instances: 1, word: 'Cannibally', work: 'Cor'},
+ , instances: 1, word: 'Can\'st', work: 'Cor'},
+ , instances: 1, word: 'Cap', work: 'Cor'},
+ , instances: 1, word: 'Capacity', work: 'Cor'},
+ , instances: 1, word: 'Caparison', work: 'Cor'},
+ , instances: 1, word: 'Capitulate', work: 'Cor'},
+ , instances: 1, word: 'Captives', work: 'Cor'},
+ , instances: 1, word: 'Carbonado', work: 'Cor'},
+ , instances: 1, word: 'Carbuncle', work: 'Cor'},
+ , instances: 1, word: 'Carcasses', work: 'Cor'},
+ , instances: 1, word: 'Cared', work: 'Cor'},
+ , instances: 1, word: 'Carelessness', work: 'Cor'},
+ , instances: 1, word: 'Case', work: 'Cor'},
+ , instances: 1, word: 'Casque', work: 'Cor'},
+ , instances: 1, word: 'Cat', work: 'Cor'},
+ , instances: 1, word: 'Catalogue', work: 'Cor'},
+ , instances: 1, word: 'Catch', work: 'Cor'},
+ , instances: 1, word: 'Catched', work: 'Cor'},
+ , instances: 1, word: 'Catching', work: 'Cor'},
+ , instances: 1, word: 'Cato\'s', work: 'Cor'},
+ , instances: 1, word: 'Cats', work: 'Cor'},
+ , instances: 1, word: 'Caused', work: 'Cor'},
+ , instances: 1, word: 'Cautelous', work: 'Cor'},
+ , instances: 1, word: 'Caution', work: 'Cor'},
+ , instances: 1, word: 'Cedars', work: 'Cor'},
+ , instances: 1, word: 'Cement', work: 'Cor'},
+ , instances: 1, word: 'Censor', work: 'Cor'},
+ , instances: 1, word: 'Censorinus', work: 'Cor'},
+ , instances: 1, word: 'Centuries', work: 'Cor'},
+ , instances: 1, word: 'Centurions', work: 'Cor'},
+ , instances: 1, word: 'Ceremony', work: 'Cor'},
+ , instances: 1, word: 'Certainly', work: 'Cor'},
+ , instances: 1, word: 'Certainties', work: 'Cor'},
+ , instances: 1, word: 'Chafed', work: 'Cor'},
+ , instances: 1, word: 'Chain', work: 'Cor'},
+ , instances: 1, word: 'Chair', work: 'Cor'},
+ , instances: 1, word: 'Chairs', work: 'Cor'},
+ , instances: 1, word: 'Chamber', work: 'Cor'},
+ , instances: 1, word: 'Changed', work: 'Cor'},
+ , instances: 1, word: 'Changeling', work: 'Cor'},
+ , instances: 1, word: 'Channel', work: 'Cor'},
+ , instances: 1, word: 'Charitable', work: 'Cor'},
+ , instances: 1, word: 'Charity', work: 'Cor'},
+ , instances: 1, word: 'Charms', work: 'Cor'},
+ , instances: 1, word: 'Charter', work: 'Cor'},
+ , instances: 1, word: 'Charters', work: 'Cor'},
+ , instances: 1, word: 'Chase', work: 'Cor'},
+ , instances: 1, word: 'Chaste', work: 'Cor'},
+ , instances: 1, word: 'Chastely', work: 'Cor'},
+ , instances: 1, word: 'Chats', work: 'Cor'},
+ , instances: 1, word: 'Check', work: 'Cor'},
+ , instances: 1, word: 'Chests', work: 'Cor'},
+ , instances: 1, word: 'Chide', work: 'Cor'},
+ , instances: 1, word: 'Childish', work: 'Cor'},
+ , instances: 1, word: 'Childishness', work: 'Cor'},
+ , instances: 1, word: 'Chin', work: 'Cor'},
+ , instances: 1, word: 'Choirèd', work: 'Cor'},
+ , instances: 1, word: 'Choke', work: 'Cor'},
+ , instances: 1, word: 'Chronicle', work: 'Cor'},
+ , instances: 1, word: 'Churchyard', work: 'Cor'},
+ , instances: 1, word: 'Cicatrices', work: 'Cor'},
+ , instances: 1, word: 'Circumvention', work: 'Cor'},
+ , instances: 1, word: 'Cities', work: 'Cor'},
+ , instances: 1, word: 'Citizen', work: 'Cor'},
+ , instances: 1, word: 'Clamb\'ring', work: 'Cor'},
+ , instances: 1, word: 'Clamor', work: 'Cor'},
+ , instances: 1, word: 'Clapped', work: 'Cor'},
+ , instances: 1, word: 'Cleave', work: 'Cor'},
+ , instances: 1, word: 'Cloth', work: 'Cor'},
+ , instances: 1, word: 'Clothes', work: 'Cor'},
+ , instances: 1, word: 'Cloud', work: 'Cor'},
+ , instances: 1, word: 'Clouds', work: 'Cor'},
+ , instances: 1, word: 'Cloven', work: 'Cor'},
+ , instances: 1, word: 'Clucked', work: 'Cor'},
+ , instances: 1, word: 'Clutched', work: 'Cor'},
+ , instances: 1, word: 'Coals', work: 'Cor'},
+ , instances: 1, word: 'Cobbled', work: 'Cor'},
+ , instances: 1, word: 'Cockle', work: 'Cor'},
+ , instances: 1, word: 'Coffined', work: 'Cor'},
+ , instances: 1, word: 'Cog', work: 'Cor'},
+ , instances: 1, word: 'Coign', work: 'Cor'},
+ , instances: 1, word: 'Coin', work: 'Cor'},
+ , instances: 1, word: 'Colder', work: 'Cor'},
+ , instances: 1, word: 'Colic', work: 'Cor'},
+ , instances: 1, word: 'Collected', work: 'Cor'},
+ , instances: 1, word: 'Color', work: 'Cor'},
+ , instances: 1, word: 'Colored', work: 'Cor'},
+ , instances: 1, word: 'Combine', work: 'Cor'},
+ , instances: 1, word: 'Comeliness', work: 'Cor'},
+ , instances: 1, word: 'Comely', work: 'Cor'},
+ , instances: 1, word: 'Comfortable', work: 'Cor'},
+ , instances: 1, word: 'Comforts', work: 'Cor'},
+ , instances: 1, word: 'Cominius\'', work: 'Cor'},
+ , instances: 1, word: 'Commanded', work: 'Cor'},
+ , instances: 1, word: 'Commanding', work: 'Cor'},
+ , instances: 1, word: 'Commandment', work: 'Cor'},
+ , instances: 1, word: 'Commands', work: 'Cor'},
+ , instances: 1, word: 'Commendable', work: 'Cor'},
+ , instances: 1, word: 'Commit', work: 'Cor'},
+ , instances: 1, word: 'Commonalty', work: 'Cor'},
+ , instances: 1, word: 'Commoners', work: 'Cor'},
+ , instances: 1, word: 'Commons\'', work: 'Cor'},
+ , instances: 1, word: 'Commonwealth', work: 'Cor'},
+ , instances: 1, word: 'Companion', work: 'Cor'},
+ , instances: 1, word: 'Companions', work: 'Cor'},
+ , instances: 1, word: 'Companionship', work: 'Cor'},
+ , instances: 1, word: 'Compass', work: 'Cor'},
+ , instances: 1, word: 'Compassion', work: 'Cor'},
+ , instances: 1, word: 'Competency', work: 'Cor'},
+ , instances: 1, word: 'Complain', work: 'Cor'},
+ , instances: 1, word: 'Complainings', work: 'Cor'},
+ , instances: 1, word: 'Complaint', work: 'Cor'},
+ , instances: 1, word: 'Complexions', work: 'Cor'},
+ , instances: 1, word: 'Composition', work: 'Cor'},
+ , instances: 1, word: 'Compound', work: 'Cor'},
+ , instances: 1, word: 'Compounded', work: 'Cor'},
+ , instances: 1, word: 'Com\'st', work: 'Cor'},
+ , instances: 1, word: 'Concealment', work: 'Cor'},
+ , instances: 1, word: 'Conclude', work: 'Cor'},
+ , instances: 1, word: 'Condemn', work: 'Cor'},
+ , instances: 1, word: 'Condemning', work: 'Cor'},
+ , instances: 1, word: 'Condemnèd', work: 'Cor'},
+ , instances: 1, word: 'Conduct', work: 'Cor'},
+ , instances: 1, word: 'Conducted', work: 'Cor'},
+ , instances: 1, word: 'Conduits', work: 'Cor'},
+ , instances: 1, word: 'Coneys', work: 'Cor'},
+ , instances: 1, word: 'Confederate', work: 'Cor'},
+ , instances: 1, word: 'Confidence', work: 'Cor'},
+ , instances: 1, word: 'Confine', work: 'Cor'},
+ , instances: 1, word: 'Confined', work: 'Cor'},
+ , instances: 1, word: 'Confirm', work: 'Cor'},
+ , instances: 1, word: 'Confound', work: 'Cor'},
+ , instances: 1, word: 'Confused', work: 'Cor'},
+ , instances: 1, word: 'Confusion\'s', work: 'Cor'},
+ , instances: 1, word: 'Congregations', work: 'Cor'},
+ , instances: 1, word: 'Conjectural', work: 'Cor'},
+ , instances: 1, word: 'Conjure', work: 'Cor'},
+ , instances: 1, word: 'Conned', work: 'Cor'},
+ , instances: 1, word: 'Conscience\'', work: 'Cor'},
+ , instances: 1, word: 'Consented', work: 'Cor'},
+ , instances: 1, word: 'Considering', work: 'Cor'},
+ , instances: 1, word: 'Conspectuities', work: 'Cor'},
+ , instances: 1, word: 'Constrains', work: 'Cor'},
+ , instances: 1, word: 'Construction', work: 'Cor'},
+ , instances: 1, word: 'Consulship', work: 'Cor'},
+ , instances: 1, word: 'Consulships', work: 'Cor'},
+ , instances: 1, word: 'Consume', work: 'Cor'},
+ , instances: 1, word: 'Consumed', work: 'Cor'},
+ , instances: 1, word: 'Contagion', work: 'Cor'},
+ , instances: 1, word: 'Contains', work: 'Cor'},
+ , instances: 1, word: 'Contemn', work: 'Cor'},
+ , instances: 1, word: 'Contemning', work: 'Cor'},
+ , instances: 1, word: 'Contend', work: 'Cor'},
+ , instances: 1, word: 'Contest', work: 'Cor'},
+ , instances: 1, word: 'Contradiction', work: 'Cor'},
+ , instances: 1, word: 'Contrariety', work: 'Cor'},
+ , instances: 1, word: 'Contrived', work: 'Cor'},
+ , instances: 1, word: 'Control', work: 'Cor'},
+ , instances: 1, word: 'Controlled', work: 'Cor'},
+ , instances: 1, word: 'Convented', work: 'Cor'},
+ , instances: 1, word: 'Conversation', work: 'Cor'},
+ , instances: 1, word: 'Converses', work: 'Cor'},
+ , instances: 1, word: 'Conveyances', work: 'Cor'},
+ , instances: 1, word: 'Conveying', work: 'Cor'},
+ , instances: 1, word: 'Cool', work: 'Cor'},
+ , instances: 1, word: 'Coriolanus\'', work: 'Cor'},
+ , instances: 1, word: 'Cormorant', work: 'Cor'},
+ , instances: 1, word: 'Cornerstone', work: 'Cor'},
+ , instances: 1, word: 'Corrected', work: 'Cor'},
+ , instances: 1, word: 'Correcting', work: 'Cor'},
+ , instances: 1, word: 'Corse', work: 'Cor'},
+ , instances: 1, word: 'Corslet', work: 'Cor'},
+ , instances: 1, word: 'Couldst', work: 'Cor'},
+ , instances: 1, word: 'Counseled', work: 'Cor'},
+ , instances: 1, word: 'Counselor', work: 'Cor'},
+ , instances: 1, word: 'Countenances', work: 'Cor'},
+ , instances: 1, word: 'Counterfeit', work: 'Cor'},
+ , instances: 1, word: 'Counterfeitly', work: 'Cor'},
+ , instances: 1, word: 'Counterpoise', work: 'Cor'},
+ , instances: 1, word: 'Counterpoised', work: 'Cor'},
+ , instances: 1, word: 'Countersealed', work: 'Cor'},
+ , instances: 1, word: 'Countryman', work: 'Cor'},
+ , instances: 1, word: 'Court', work: 'Cor'},
+ , instances: 1, word: 'Courteous', work: 'Cor'},
+ , instances: 1, word: 'Courts', work: 'Cor'},
+ , instances: 1, word: 'Cousin', work: 'Cor'},
+ , instances: 1, word: 'Covetous', work: 'Cor'},
+ , instances: 1, word: 'Covets', work: 'Cor'},
+ , instances: 1, word: 'Coward', work: 'Cor'},
+ , instances: 1, word: 'Cowards', work: 'Cor'},
+ , instances: 1, word: 'Coxcombs', work: 'Cor'},
+ , instances: 1, word: 'Coyed', work: 'Cor'},
+ , instances: 1, word: 'Crab', work: 'Cor'},
+ , instances: 1, word: 'Crack', work: 'Cor'},
+ , instances: 1, word: 'Cracking', work: 'Cor'},
+ , instances: 1, word: 'Craft', work: 'Cor'},
+ , instances: 1, word: 'Crafted', work: 'Cor'},
+ , instances: 1, word: 'Crafts', work: 'Cor'},
+ , instances: 1, word: 'Crammed', work: 'Cor'},
+ , instances: 1, word: 'Cranks', work: 'Cor'},
+ , instances: 1, word: 'Created', work: 'Cor'},
+ , instances: 1, word: 'Creeping', work: 'Cor'},
+ , instances: 1, word: 'Crept', work: 'Cor'},
+ , instances: 1, word: 'Crest', work: 'Cor'},
+ , instances: 1, word: 'Cried', work: 'Cor'},
+ , instances: 1, word: 'Criminal', work: 'Cor'},
+ , instances: 1, word: 'Crooked', work: 'Cor'},
+ , instances: 1, word: 'Cross', work: 'Cor'},
+ , instances: 1, word: 'Crown', work: 'Cor'},
+ , instances: 1, word: 'Crownèd', work: 'Cor'},
+ , instances: 1, word: 'Crueler', work: 'Cor'},
+ , instances: 1, word: 'Cruelty', work: 'Cor'},
+ , instances: 1, word: 'Crutch', work: 'Cor'},
+ , instances: 1, word: 'Crying', work: 'Cor'},
+ , instances: 1, word: 'Cuckolds', work: 'Cor'},
+ , instances: 1, word: 'Cudgel', work: 'Cor'},
+ , instances: 1, word: 'Cunning', work: 'Cor'},
+ , instances: 1, word: 'Cup', work: 'Cor'},
+ , instances: 1, word: 'Cupboarding', work: 'Cor'},
+ , instances: 1, word: 'Cur', work: 'Cor'},
+ , instances: 1, word: 'Curb', work: 'Cor'},
+ , instances: 1, word: 'Curbs', work: 'Cor'},
+ , instances: 1, word: 'Curdied', work: 'Cor'},
+ , instances: 1, word: 'Current', work: 'Cor'},
+ , instances: 1, word: 'Cursing', work: 'Cor'},
+ , instances: 1, word: 'Curtsy', work: 'Cor'},
+ , instances: 1, word: 'Customary', work: 'Cor'},
+ , instances: 1, word: 'Cymbals', work: 'Cor'},
+ , instances: 1, word: 'Cypress', work: 'Cor'},
+ , instances: 1, word: 'Dam', work: 'Cor'},
+ , instances: 1, word: 'Damask', work: 'Cor'},
+ , instances: 1, word: 'Dames', work: 'Cor'},
+ , instances: 1, word: 'Dances', work: 'Cor'},
+ , instances: 1, word: 'Dangerously', work: 'Cor'},
+ , instances: 1, word: 'Dangers', work: 'Cor'},
+ , instances: 1, word: 'Dark', work: 'Cor'},
+ , instances: 1, word: 'Darken', work: 'Cor'},
+ , instances: 1, word: 'Dark\'ned', work: 'Cor'},
+ , instances: 1, word: 'Darts', work: 'Cor'},
+ , instances: 1, word: 'Dar\'st', work: 'Cor'},
+ , instances: 1, word: 'Dastard', work: 'Cor'},
+ , instances: 1, word: 'Daughter\'s', work: 'Cor'},
+ , instances: 1, word: 'Daws', work: 'Cor'},
+ , instances: 1, word: 'Days', work: 'Cor'},
+ , instances: 1, word: 'Deadly', work: 'Cor'},
+ , instances: 1, word: 'Deaf', work: 'Cor'},
+ , instances: 1, word: 'Deal', work: 'Cor'},
+ , instances: 1, word: 'Dearest', work: 'Cor'},
+ , instances: 1, word: 'Dearly', work: 'Cor'},
+ , instances: 1, word: 'Deaths', work: 'Cor'},
+ , instances: 1, word: 'Death\'s', work: 'Cor'},
+ , instances: 1, word: 'Debase', work: 'Cor'},
+ , instances: 1, word: 'Debile', work: 'Cor'},
+ , instances: 1, word: 'Decay', work: 'Cor'},
+ , instances: 1, word: 'Decayed', work: 'Cor'},
+ , instances: 1, word: 'Deceived', work: 'Cor'},
+ , instances: 1, word: 'Decreed', work: 'Cor'},
+ , instances: 1, word: 'Decrees', work: 'Cor'},
+ , instances: 1, word: 'Deed-achieving', work: 'Cor'},
+ , instances: 1, word: 'Deepest', work: 'Cor'},
+ , instances: 1, word: 'Defect', work: 'Cor'},
+ , instances: 1, word: 'Defective', work: 'Cor'},
+ , instances: 1, word: 'Defender', work: 'Cor'},
+ , instances: 1, word: 'Defenders', work: 'Cor'},
+ , instances: 1, word: 'Defying', work: 'Cor'},
+ , instances: 1, word: 'Degree', work: 'Cor'},
+ , instances: 1, word: 'Degrees', work: 'Cor'},
+ , instances: 1, word: 'Deity', work: 'Cor'},
+ , instances: 1, word: 'Delay', work: 'Cor'},
+ , instances: 1, word: 'Deliberate', work: 'Cor'},
+ , instances: 1, word: 'Delivers', work: 'Cor'},
+ , instances: 1, word: 'Demands', work: 'Cor'},
+ , instances: 1, word: 'Demerits', work: 'Cor'},
+ , instances: 1, word: 'Denials', work: 'Cor'},
+ , instances: 1, word: 'Depending', work: 'Cor'},
+ , instances: 1, word: 'Depends', work: 'Cor'},
+ , instances: 1, word: 'Depopulate', work: 'Cor'},
+ , instances: 1, word: 'Descended', work: 'Cor'},
+ , instances: 1, word: 'Deserving', work: 'Cor'},
+ , instances: 1, word: 'Deservèd', work: 'Cor'},
+ , instances: 1, word: 'Design', work: 'Cor'},
+ , instances: 1, word: 'Designments', work: 'Cor'},
+ , instances: 1, word: 'Desirers', work: 'Cor'},
+ , instances: 1, word: 'Despair', work: 'Cor'},
+ , instances: 1, word: 'Desperation', work: 'Cor'},
+ , instances: 1, word: 'Despise', work: 'Cor'},
+ , instances: 1, word: 'Despising', work: 'Cor'},
+ , instances: 1, word: 'Destiny', work: 'Cor'},
+ , instances: 1, word: 'Destroyed', work: 'Cor'},
+ , instances: 1, word: 'Destroyer', work: 'Cor'},
+ , instances: 1, word: 'Determined', work: 'Cor'},
+ , instances: 1, word: 'Deucalion', work: 'Cor'},
+ , instances: 1, word: 'Devil', work: 'Cor'},
+ , instances: 1, word: 'Devotion', work: 'Cor'},
+ , instances: 1, word: 'Devoured', work: 'Cor'},
+ , instances: 1, word: 'Dian\'s', work: 'Cor'},
+ , instances: 1, word: 'Dick', work: 'Cor'},
+ , instances: 1, word: 'Dictator', work: 'Cor'},
+ , instances: 1, word: 'Died', work: 'Cor'},
+ , instances: 1, word: 'Dies', work: 'Cor'},
+ , instances: 1, word: 'Differency', work: 'Cor'},
+ , instances: 1, word: 'Dignifies', work: 'Cor'},
+ , instances: 1, word: 'Dinner', work: 'Cor'},
+ , instances: 1, word: 'Disadvantage', work: 'Cor'},
+ , instances: 1, word: 'Disbenched', work: 'Cor'},
+ , instances: 1, word: 'Discharge', work: 'Cor'},
+ , instances: 1, word: 'Discharged', work: 'Cor'},
+ , instances: 1, word: 'Disciplined', work: 'Cor'},
+ , instances: 1, word: 'Disclaim', work: 'Cor'},
+ , instances: 1, word: 'Discourse', work: 'Cor'},
+ , instances: 1, word: 'Discovery', work: 'Cor'},
+ , instances: 1, word: 'Discreet', work: 'Cor'},
+ , instances: 1, word: 'Discretion', work: 'Cor'},
+ , instances: 1, word: 'Disdains', work: 'Cor'},
+ , instances: 1, word: 'Dishonors', work: 'Cor'},
+ , instances: 1, word: 'Dislikes', work: 'Cor'},
+ , instances: 1, word: 'Dislodged', work: 'Cor'},
+ , instances: 1, word: 'Dismayed', work: 'Cor'},
+ , instances: 1, word: 'Dismissed', work: 'Cor'},
+ , instances: 1, word: 'Disobedience', work: 'Cor'},
+ , instances: 1, word: 'Displace', work: 'Cor'},
+ , instances: 1, word: 'Disposed', work: 'Cor'},
+ , instances: 1, word: 'Disposing', work: 'Cor'},
+ , instances: 1, word: 'Dispropertied', work: 'Cor'},
+ , instances: 1, word: 'Dissemble', work: 'Cor'},
+ , instances: 1, word: 'Dissension', work: 'Cor'},
+ , instances: 1, word: 'Dissolved', work: 'Cor'},
+ , instances: 1, word: 'Distinction', work: 'Cor'},
+ , instances: 1, word: 'Distress', work: 'Cor'},
+ , instances: 1, word: 'Distribute', work: 'Cor'},
+ , instances: 1, word: 'Distributed', work: 'Cor'},
+ , instances: 1, word: 'Distribution', work: 'Cor'},
+ , instances: 1, word: 'Disturbing', work: 'Cor'},
+ , instances: 1, word: 'Ditch', work: 'Cor'},
+ , instances: 1, word: 'Diversely', work: 'Cor'},
+ , instances: 1, word: 'Divide', work: 'Cor'},
+ , instances: 1, word: 'Divines', work: 'Cor'},
+ , instances: 1, word: 'Division', work: 'Cor'},
+ , instances: 1, word: 'Dogged', work: 'Cor'},
+ , instances: 1, word: 'Doings', work: 'Cor'},
+ , instances: 1, word: 'Donation', work: 'Cor'},
+ , instances: 1, word: 'Doom', work: 'Cor'},
+ , instances: 1, word: 'Dotant', work: 'Cor'},
+ , instances: 1, word: 'Dote', work: 'Cor'},
+ , instances: 1, word: 'Doubled', work: 'Cor'},
+ , instances: 1, word: 'Doublets', work: 'Cor'},
+ , instances: 1, word: 'Doubly', work: 'Cor'},
+ , instances: 1, word: 'Doubtless', work: 'Cor'},
+ , instances: 1, word: 'Dovecote', work: 'Cor'},
+ , instances: 1, word: 'Doves\'', work: 'Cor'},
+ , instances: 1, word: 'Downright', work: 'Cor'},
+ , instances: 1, word: 'Drachma', work: 'Cor'},
+ , instances: 1, word: 'Dragonlike', work: 'Cor'},
+ , instances: 1, word: 'Dreamt', work: 'Cor'},
+ , instances: 1, word: 'Dregs', work: 'Cor'},
+ , instances: 1, word: 'Drench', work: 'Cor'},
+ , instances: 1, word: 'Dries', work: 'Cor'},
+ , instances: 1, word: 'Drift', work: 'Cor'},
+ , instances: 1, word: 'Driven', work: 'Cor'},
+ , instances: 1, word: 'Drives', work: 'Cor'},
+ , instances: 1, word: 'Droop', work: 'Cor'},
+ , instances: 1, word: 'Dropped', work: 'Cor'},
+ , instances: 1, word: 'Drove', work: 'Cor'},
+ , instances: 1, word: 'Dry', work: 'Cor'},
+ , instances: 1, word: 'Dumb', work: 'Cor'},
+ , instances: 1, word: 'During', work: 'Cor'},
+ , instances: 1, word: 'Duties', work: 'Cor'},
+ , instances: 1, word: 'Dying', work: 'Cor'},
+ , instances: 1, word: 'Eagle', work: 'Cor'},
+ , instances: 1, word: 'Eagles', work: 'Cor'},
+ , instances: 1, word: 'Earn', work: 'Cor'},
+ , instances: 1, word: 'Earned', work: 'Cor'},
+ , instances: 1, word: 'Earnest', work: 'Cor'},
+ , instances: 1, word: 'Earthly', work: 'Cor'},
+ , instances: 1, word: 'Ease', work: 'Cor'},
+ , instances: 1, word: 'Easily', work: 'Cor'},
+ , instances: 1, word: 'Eaten', work: 'Cor'},
+ , instances: 1, word: 'Eaters', work: 'Cor'},
+ , instances: 1, word: 'Edge', work: 'Cor'},
+ , instances: 1, word: 'Edges', work: 'Cor'},
+ , instances: 1, word: 'Edicts', work: 'Cor'},
+ , instances: 1, word: 'Edifices', work: 'Cor'},
+ , instances: 1, word: 'Effected', work: 'Cor'},
+ , instances: 1, word: 'Egg', work: 'Cor'},
+ , instances: 1, word: 'Eight-year-old', work: 'Cor'},
+ , instances: 1, word: 'Eject', work: 'Cor'},
+ , instances: 1, word: 'Elected', work: 'Cor'},
+ , instances: 1, word: 'Elements', work: 'Cor'},
+ , instances: 1, word: 'Eleven', work: 'Cor'},
+ , instances: 1, word: 'Eloquence', work: 'Cor'},
+ , instances: 1, word: 'Elsewhere', work: 'Cor'},
+ , instances: 1, word: 'Embarquements', work: 'Cor'},
+ , instances: 1, word: 'Embassies', work: 'Cor'},
+ , instances: 1, word: 'Embrace', work: 'Cor'},
+ , instances: 1, word: 'Embraced', work: 'Cor'},
+ , instances: 1, word: 'Embracements', work: 'Cor'},
+ , instances: 1, word: 'Empiricutic', work: 'Cor'},
+ , instances: 1, word: 'Empoisoned', work: 'Cor'},
+ , instances: 1, word: 'Encounters', work: 'Cor'},
+ , instances: 1, word: 'Encount\'ring', work: 'Cor'},
+ , instances: 1, word: 'Endue', work: 'Cor'},
+ , instances: 1, word: 'Endures', work: 'Cor'},
+ , instances: 1, word: 'Enemies\'', work: 'Cor'},
+ , instances: 1, word: 'Enemy\'s', work: 'Cor'},
+ , instances: 1, word: 'Engine', work: 'Cor'},
+ , instances: 1, word: 'Enigma', work: 'Cor'},
+ , instances: 1, word: 'Enjoy', work: 'Cor'},
+ , instances: 1, word: 'Enmity', work: 'Cor'},
+ , instances: 1, word: 'Enmity\'s', work: 'Cor'},
+ , instances: 1, word: 'Enormity', work: 'Cor'},
+ , instances: 1, word: 'Enraged', work: 'Cor'},
+ , instances: 1, word: 'Enrolled', work: 'Cor'},
+ , instances: 1, word: 'Ensuing', work: 'Cor'},
+ , instances: 1, word: 'Entangled', work: 'Cor'},
+ , instances: 1, word: 'Enters', work: 'Cor'},
+ , instances: 1, word: 'Entire', work: 'Cor'},
+ , instances: 1, word: 'Entombed', work: 'Cor'},
+ , instances: 1, word: 'Entrance', work: 'Cor'},
+ , instances: 1, word: 'Entreat', work: 'Cor'},
+ , instances: 1, word: 'Entreaty', work: 'Cor'},
+ , instances: 1, word: 'Envying', work: 'Cor'},
+ , instances: 1, word: 'Epitome', work: 'Cor'},
+ , instances: 1, word: 'Errand', work: 'Cor'},
+ , instances: 1, word: 'Error', work: 'Cor'},
+ , instances: 1, word: 'Estate', work: 'Cor'},
+ , instances: 1, word: 'Estimate', work: 'Cor'},
+ , instances: 1, word: 'Eternity', work: 'Cor'},
+ , instances: 1, word: 'Eunuch', work: 'Cor'},
+ , instances: 1, word: 'Evade', work: 'Cor'},
+ , instances: 1, word: 'Event', work: 'Cor'},
+ , instances: 1, word: 'Everyone', work: 'Cor'},
+ , instances: 1, word: 'Everything', work: 'Cor'},
+ , instances: 1, word: 'Evil', work: 'Cor'},
+ , instances: 1, word: 'Examine', work: 'Cor'},
+ , instances: 1, word: 'Example', work: 'Cor'},
+ , instances: 1, word: 'Examples', work: 'Cor'},
+ , instances: 1, word: 'Exceeds', work: 'Cor'},
+ , instances: 1, word: 'Executed', work: 'Cor'},
+ , instances: 1, word: 'Expected', work: 'Cor'},
+ , instances: 1, word: 'Expedition', work: 'Cor'},
+ , instances: 1, word: 'Expel', work: 'Cor'},
+ , instances: 1, word: 'Experienced', work: 'Cor'},
+ , instances: 1, word: 'Exposure', work: 'Cor'},
+ , instances: 1, word: 'Expulsion', work: 'Cor'},
+ , instances: 1, word: 'Extreme', work: 'Cor'},
+ , instances: 1, word: 'Extremest', work: 'Cor'},
+ , instances: 1, word: 'Extremity', work: 'Cor'},
+ , instances: 1, word: 'Factionary', work: 'Cor'},
+ , instances: 1, word: 'Factions', work: 'Cor'},
+ , instances: 1, word: 'Fails', work: 'Cor'},
+ , instances: 1, word: 'Faint', work: 'Cor'},
+ , instances: 1, word: 'Faintly', work: 'Cor'},
+ , instances: 1, word: 'Fairly', work: 'Cor'},
+ , instances: 1, word: 'Fairness', work: 'Cor'},
+ , instances: 1, word: 'Falling', work: 'Cor'},
+ , instances: 1, word: 'Fall\'n', work: 'Cor'},
+ , instances: 1, word: 'False-faced', work: 'Cor'},
+ , instances: 1, word: 'Falsely', work: 'Cor'},
+ , instances: 1, word: 'Falter', work: 'Cor'},
+ , instances: 1, word: 'Familiar', work: 'Cor'},
+ , instances: 1, word: 'Famously', work: 'Cor'},
+ , instances: 1, word: 'Fan', work: 'Cor'},
+ , instances: 1, word: 'Fancy', work: 'Cor'},
+ , instances: 1, word: 'Fane', work: 'Cor'},
+ , instances: 1, word: 'Fasts', work: 'Cor'},
+ , instances: 1, word: 'Fathers', work: 'Cor'},
+ , instances: 1, word: 'Fatigate', work: 'Cor'},
+ , instances: 1, word: 'Faucet-seller', work: 'Cor'},
+ , instances: 1, word: 'Favor', work: 'Cor'},
+ , instances: 1, word: 'Favored', work: 'Cor'},
+ , instances: 1, word: 'Favoring', work: 'Cor'},
+ , instances: 1, word: 'Favors', work: 'Cor'},
+ , instances: 1, word: 'Fawn', work: 'Cor'},
+ , instances: 1, word: 'Fawning', work: 'Cor'},
+ , instances: 1, word: 'Fearing', work: 'Cor'},
+ , instances: 1, word: 'Feasts', work: 'Cor'},
+ , instances: 1, word: 'Feats', work: 'Cor'},
+ , instances: 1, word: 'Fed', work: 'Cor'},
+ , instances: 1, word: 'Feeble', work: 'Cor'},
+ , instances: 1, word: 'Feebling', work: 'Cor'},
+ , instances: 1, word: 'Feebly', work: 'Cor'},
+ , instances: 1, word: 'Feed', work: 'Cor'},
+ , instances: 1, word: 'Feels', work: 'Cor'},
+ , instances: 1, word: 'Fellest', work: 'Cor'},
+ , instances: 1, word: 'Fellowship', work: 'Cor'},
+ , instances: 1, word: 'Fellow\'s', work: 'Cor'},
+ , instances: 1, word: 'Fen', work: 'Cor'},
+ , instances: 1, word: 'Fens', work: 'Cor'},
+ , instances: 1, word: 'Fester', work: 'Cor'},
+ , instances: 1, word: 'Fetch', work: 'Cor'},
+ , instances: 1, word: 'Feverous', work: 'Cor'},
+ , instances: 1, word: 'Few', work: 'Cor'},
+ , instances: 1, word: 'Fielded', work: 'Cor'},
+ , instances: 1, word: 'Fiends', work: 'Cor'},
+ , instances: 1, word: 'Fifes', work: 'Cor'},
+ , instances: 1, word: 'Fighting', work: 'Cor'},
+ , instances: 1, word: 'Fights', work: 'Cor'},
+ , instances: 1, word: 'Files', work: 'Cor'},
+ , instances: 1, word: 'Fill', work: 'Cor'},
+ , instances: 1, word: 'Filled', work: 'Cor'},
+ , instances: 1, word: 'Filling', work: 'Cor'},
+ , instances: 1, word: 'Fillip', work: 'Cor'},
+ , instances: 1, word: 'Fines', work: 'Cor'},
+ , instances: 1, word: 'Finished', work: 'Cor'},
+ , instances: 1, word: 'Fins', work: 'Cor'},
+ , instances: 1, word: 'Fish', work: 'Cor'},
+ , instances: 1, word: 'Fisting', work: 'Cor'},
+ , instances: 1, word: 'Fitness', work: 'Cor'},
+ , instances: 1, word: 'Fittest', work: 'Cor'},
+ , instances: 1, word: 'Fix', work: 'Cor'},
+ , instances: 1, word: 'Fixèd', work: 'Cor'},
+ , instances: 1, word: 'Flag', work: 'Cor'},
+ , instances: 1, word: 'Flamens', work: 'Cor'},
+ , instances: 1, word: 'Flattered', work: 'Cor'},
+ , instances: 1, word: 'Flaw', work: 'Cor'},
+ , instances: 1, word: 'Flayed', work: 'Cor'},
+ , instances: 1, word: 'Flaying', work: 'Cor'},
+ , instances: 1, word: 'Fled', work: 'Cor'},
+ , instances: 1, word: 'Flies', work: 'Cor'},
+ , instances: 1, word: 'Flight', work: 'Cor'},
+ , instances: 1, word: 'Flint', work: 'Cor'},
+ , instances: 1, word: 'Floating', work: 'Cor'},
+ , instances: 1, word: 'Flood', work: 'Cor'},
+ , instances: 1, word: 'Flour', work: 'Cor'},
+ , instances: 1, word: 'Flouted', work: 'Cor'},
+ , instances: 1, word: 'Flow', work: 'Cor'},
+ , instances: 1, word: 'Flower', work: 'Cor'},
+ , instances: 1, word: 'Flowers', work: 'Cor'},
+ , instances: 1, word: 'Flung', work: 'Cor'},
+ , instances: 1, word: 'Fluttered', work: 'Cor'},
+ , instances: 1, word: 'Flyers', work: 'Cor'},
+ , instances: 1, word: 'Fob', work: 'Cor'},
+ , instances: 1, word: 'Fog', work: 'Cor'},
+ , instances: 1, word: 'Foiled', work: 'Cor'},
+ , instances: 1, word: 'Fold', work: 'Cor'},
+ , instances: 1, word: 'Folds', work: 'Cor'},
+ , instances: 1, word: 'Follower', work: 'Cor'},
+ , instances: 1, word: 'Followers', work: 'Cor'},
+ , instances: 1, word: 'Following', work: 'Cor'},
+ , instances: 1, word: 'Food', work: 'Cor'},
+ , instances: 1, word: 'Foolery', work: 'Cor'},
+ , instances: 1, word: 'Foolhardiness', work: 'Cor'},
+ , instances: 1, word: 'Foolish', work: 'Cor'},
+ , instances: 1, word: 'Forbade', work: 'Cor'},
+ , instances: 1, word: 'Fore-advised', work: 'Cor'},
+ , instances: 1, word: 'Foreign', work: 'Cor'},
+ , instances: 1, word: 'Forenoon', work: 'Cor'},
+ , instances: 1, word: 'Forged', work: 'Cor'},
+ , instances: 1, word: 'Forges', work: 'Cor'},
+ , instances: 1, word: 'Forgetfulness', work: 'Cor'},
+ , instances: 1, word: 'Formerly', work: 'Cor'},
+ , instances: 1, word: 'Forsook', work: 'Cor'},
+ , instances: 1, word: 'Forsooth', work: 'Cor'},
+ , instances: 1, word: 'Fortnight', work: 'Cor'},
+ , instances: 1, word: 'Fortunate', work: 'Cor'},
+ , instances: 1, word: 'Fortune\'s', work: 'Cor'},
+ , instances: 1, word: 'Forty', work: 'Cor'},
+ , instances: 1, word: 'Forward', work: 'Cor'},
+ , instances: 1, word: 'Foundation', work: 'Cor'},
+ , instances: 1, word: 'Fourth', work: 'Cor'},
+ , instances: 1, word: 'Foxes', work: 'Cor'},
+ , instances: 1, word: 'Foxship', work: 'Cor'},
+ , instances: 1, word: 'Fragments', work: 'Cor'},
+ , instances: 1, word: 'Framed', work: 'Cor'},
+ , instances: 1, word: 'Franchises', work: 'Cor'},
+ , instances: 1, word: 'Frank', work: 'Cor'},
+ , instances: 1, word: 'Freedom', work: 'Cor'},
+ , instances: 1, word: 'Freedoms', work: 'Cor'},
+ , instances: 1, word: 'Freelier', work: 'Cor'},
+ , instances: 1, word: 'Freely', work: 'Cor'},
+ , instances: 1, word: 'Fresh', work: 'Cor'},
+ , instances: 1, word: 'Freshest', work: 'Cor'},
+ , instances: 1, word: 'Friendliness', work: 'Cor'},
+ , instances: 1, word: 'Fright', work: 'Cor'},
+ , instances: 1, word: 'Frighted', work: 'Cor'},
+ , instances: 1, word: 'Front', work: 'Cor'},
+ , instances: 1, word: 'Fronts', work: 'Cor'},
+ , instances: 1, word: 'Frost', work: 'Cor'},
+ , instances: 1, word: 'Frowned', work: 'Cor'},
+ , instances: 1, word: 'Fruit', work: 'Cor'},
+ , instances: 1, word: 'Function', work: 'Cor'},
+ , instances: 1, word: 'Functions', work: 'Cor'},
+ , instances: 1, word: 'Fundamental', work: 'Cor'},
+ , instances: 1, word: 'Fury', work: 'Cor'},
+ , instances: 1, word: 'Fusty', work: 'Cor'},
+ , instances: 1, word: 'Galen', work: 'Cor'},
+ , instances: 1, word: 'Galled', work: 'Cor'},
+ , instances: 1, word: 'Gan', work: 'Cor'},
+ , instances: 1, word: 'Gangrened', work: 'Cor'},
+ , instances: 1, word: 'Gap', work: 'Cor'},
+ , instances: 1, word: 'Garb', work: 'Cor'},
+ , instances: 1, word: 'Garlic', work: 'Cor'},
+ , instances: 1, word: 'Garners', work: 'Cor'},
+ , instances: 1, word: 'Gash', work: 'Cor'},
+ , instances: 1, word: 'Gaze', work: 'Cor'},
+ , instances: 1, word: 'General\'s', work: 'Cor'},
+ , instances: 1, word: 'Generosity', work: 'Cor'},
+ , instances: 1, word: 'Gentlemen', work: 'Cor'},
+ , instances: 1, word: 'Gentler', work: 'Cor'},
+ , instances: 1, word: 'Getter', work: 'Cor'},
+ , instances: 1, word: 'Giber', work: 'Cor'},
+ , instances: 1, word: 'Gibingly', work: 'Cor'},
+ , instances: 1, word: 'Giddy', work: 'Cor'},
+ , instances: 1, word: 'Gifts', work: 'Cor'},
+ , instances: 1, word: 'Gilded', work: 'Cor'},
+ , instances: 1, word: 'Gilt', work: 'Cor'},
+ , instances: 1, word: 'Gird', work: 'Cor'},
+ , instances: 1, word: 'Gladly', work: 'Cor'},
+ , instances: 1, word: 'Glasses', work: 'Cor'},
+ , instances: 1, word: 'Glean', work: 'Cor'},
+ , instances: 1, word: 'Glorious', work: 'Cor'},
+ , instances: 1, word: 'Gloves', work: 'Cor'},
+ , instances: 1, word: 'Glowing', work: 'Cor'},
+ , instances: 1, word: 'Gnaw', work: 'Cor'},
+ , instances: 1, word: 'Goaded', work: 'Cor'},
+ , instances: 1, word: 'Goat', work: 'Cor'},
+ , instances: 1, word: 'Godded', work: 'Cor'},
+ , instances: 1, word: 'Goddess', work: 'Cor'},
+ , instances: 1, word: 'Goest', work: 'Cor'},
+ , instances: 1, word: 'Gosling', work: 'Cor'},
+ , instances: 1, word: 'Graced', work: 'Cor'},
+ , instances: 1, word: 'Graceful', work: 'Cor'},
+ , instances: 1, word: 'Graces', work: 'Cor'},
+ , instances: 1, word: 'Grafted', work: 'Cor'},
+ , instances: 1, word: 'Grains', work: 'Cor'},
+ , instances: 1, word: 'Grainèd', work: 'Cor'},
+ , instances: 1, word: 'Grandchild', work: 'Cor'},
+ , instances: 1, word: 'Grapes', work: 'Cor'},
+ , instances: 1, word: 'Grateful', work: 'Cor'},
+ , instances: 1, word: 'Gratify', work: 'Cor'},
+ , instances: 1, word: 'Gratitude', work: 'Cor'},
+ , instances: 1, word: 'Graver', work: 'Cor'},
+ , instances: 1, word: 'Graves', work: 'Cor'},
+ , instances: 1, word: 'Greasy', work: 'Cor'},
+ , instances: 1, word: 'Greatest', work: 'Cor'},
+ , instances: 1, word: 'Great\'st', work: 'Cor'},
+ , instances: 1, word: 'Grecian', work: 'Cor'},
+ , instances: 1, word: 'Greet', work: 'Cor'},
+ , instances: 1, word: 'Greetings', work: 'Cor'},
+ , instances: 1, word: 'Greyhound', work: 'Cor'},
+ , instances: 1, word: 'Grief-shot', work: 'Cor'},
+ , instances: 1, word: 'Grieve', work: 'Cor'},
+ , instances: 1, word: 'Grieves', work: 'Cor'},
+ , instances: 1, word: 'Grind', work: 'Cor'},
+ , instances: 1, word: 'Groan', work: 'Cor'},
+ , instances: 1, word: 'Groans', work: 'Cor'},
+ , instances: 1, word: 'Groats', work: 'Cor'},
+ , instances: 1, word: 'Grove', work: 'Cor'},
+ , instances: 1, word: 'Guardant', work: 'Cor'},
+ , instances: 1, word: 'Guarded', work: 'Cor'},
+ , instances: 1, word: 'Guided', work: 'Cor'},
+ , instances: 1, word: 'Guider', work: 'Cor'},
+ , instances: 1, word: 'Gusts', work: 'Cor'},
+ , instances: 1, word: 'Hailstone', work: 'Cor'},
+ , instances: 1, word: 'Hale', work: 'Cor'},
+ , instances: 1, word: 'Handkerchiefs', work: 'Cor'},
+ , instances: 1, word: 'Handling', work: 'Cor'},
+ , instances: 1, word: 'Hanged', work: 'Cor'},
+ , instances: 1, word: 'Hanging', work: 'Cor'},
+ , instances: 1, word: 'Hangs', work: 'Cor'},
+ , instances: 1, word: 'Hap', work: 'Cor'},
+ , instances: 1, word: 'Happier', work: 'Cor'},
+ , instances: 1, word: 'Happily', work: 'Cor'},
+ , instances: 1, word: 'Hardness', work: 'Cor'},
+ , instances: 1, word: 'Hare', work: 'Cor'},
+ , instances: 1, word: 'Hares', work: 'Cor'},
+ , instances: 1, word: 'Harlot\'s', work: 'Cor'},
+ , instances: 1, word: 'Harp', work: 'Cor'},
+ , instances: 1, word: 'Harrow', work: 'Cor'},
+ , instances: 1, word: 'Harsh', work: 'Cor'},
+ , instances: 1, word: 'Harvestman', work: 'Cor'},
+ , instances: 1, word: 'Hatching', work: 'Cor'},
+ , instances: 1, word: 'Haver', work: 'Cor'},
+ , instances: 1, word: 'Havoc', work: 'Cor'},
+ , instances: 1, word: 'Hazards', work: 'Cor'},
+ , instances: 1, word: 'Ha\'', work: 'Cor'},
+ , instances: 1, word: 'Heal', work: 'Cor'},
+ , instances: 1, word: 'Health', work: 'Cor'},
+ , instances: 1, word: 'Heaped', work: 'Cor'},
+ , instances: 1, word: 'Heaps', work: 'Cor'},
+ , instances: 1, word: 'Heart-hard\'ning', work: 'Cor'},
+ , instances: 1, word: 'Heart\'s', work: 'Cor'},
+ , instances: 1, word: 'Hear\'st', work: 'Cor'},
+ , instances: 1, word: 'Heaviest', work: 'Cor'},
+ , instances: 1, word: 'Hector\'s', work: 'Cor'},
+ , instances: 1, word: 'Hecuba', work: 'Cor'},
+ , instances: 1, word: 'Heed', work: 'Cor'},
+ , instances: 1, word: 'Heightened', work: 'Cor'},
+ , instances: 1, word: 'Hen', work: 'Cor'},
+ , instances: 1, word: 'Herald', work: 'Cor'},
+ , instances: 1, word: 'Herdsmen', work: 'Cor'},
+ , instances: 1, word: 'Hereditary', work: 'Cor'},
+ , instances: 1, word: 'Hereto', work: 'Cor'},
+ , instances: 1, word: 'Hew', work: 'Cor'},
+ , instances: 1, word: 'Hews', work: 'Cor'},
+ , instances: 1, word: 'He\'d', work: 'Cor'},
+ , instances: 1, word: 'Hie', work: 'Cor'},
+ , instances: 1, word: 'Highly', work: 'Cor'},
+ , instances: 1, word: 'Hills', work: 'Cor'},
+ , instances: 1, word: 'Hint', work: 'Cor'},
+ , instances: 1, word: 'Hitherward', work: 'Cor'},
+ , instances: 1, word: 'Hoarded', work: 'Cor'},
+ , instances: 1, word: 'Hob', work: 'Cor'},
+ , instances: 1, word: 'Holds', work: 'Cor'},
+ , instances: 1, word: 'Hollo', work: 'Cor'},
+ , instances: 1, word: 'Homes', work: 'Cor'},
+ , instances: 1, word: 'Honester', work: 'Cor'},
+ , instances: 1, word: 'Hoot', work: 'Cor'},
+ , instances: 1, word: 'Hooting', work: 'Cor'},
+ , instances: 1, word: 'Hopeless', work: 'Cor'},
+ , instances: 1, word: 'Hoping', work: 'Cor'},
+ , instances: 1, word: 'Horn', work: 'Cor'},
+ , instances: 1, word: 'Horsed', work: 'Cor'},
+ , instances: 1, word: 'Horses', work: 'Cor'},
+ , instances: 1, word: 'Horses\'', work: 'Cor'},
+ , instances: 1, word: 'Hospitable', work: 'Cor'},
+ , instances: 1, word: 'Hostages', work: 'Cor'},
+ , instances: 1, word: 'Hostile', work: 'Cor'},
+ , instances: 1, word: 'Hostilius', work: 'Cor'},
+ , instances: 1, word: 'Hostler', work: 'Cor'},
+ , instances: 1, word: 'Hot', work: 'Cor'},
+ , instances: 1, word: 'Hotly', work: 'Cor'},
+ , instances: 1, word: 'Hound', work: 'Cor'},
+ , instances: 1, word: 'Hourly', work: 'Cor'},
+ , instances: 1, word: 'Hour\'s', work: 'Cor'},
+ , instances: 1, word: 'Housekeepers', work: 'Cor'},
+ , instances: 1, word: 'Howbeit', work: 'Cor'},
+ , instances: 1, word: 'Howsoever', work: 'Cor'},
+ , instances: 1, word: 'Humane', work: 'Cor'},
+ , instances: 1, word: 'Humanely', work: 'Cor'},
+ , instances: 1, word: 'Humbler', work: 'Cor'},
+ , instances: 1, word: 'Humorous', work: 'Cor'},
+ , instances: 1, word: 'Hurried', work: 'Cor'},
+ , instances: 1, word: 'Hurry', work: 'Cor'},
+ , instances: 1, word: 'Hurts', work: 'Cor'},
+ , instances: 1, word: 'Husbandry', work: 'Cor'},
+ , instances: 1, word: 'Husband\'s', work: 'Cor'},
+ , instances: 1, word: 'Hushed', work: 'Cor'},
+ , instances: 1, word: 'Huswife', work: 'Cor'},
+ , instances: 1, word: 'Hydra', work: 'Cor'},
+ , instances: 1, word: 'Hyperbolical', work: 'Cor'},
+ , instances: 1, word: 'H\'as', work: 'Cor'},
+ , instances: 1, word: 'Ice', work: 'Cor'},
+ , instances: 1, word: 'Icicle', work: 'Cor'},
+ , instances: 1, word: 'Idly', work: 'Cor'},
+ , instances: 1, word: 'Imagine', work: 'Cor'},
+ , instances: 1, word: 'Imitate', work: 'Cor'},
+ , instances: 1, word: 'Impatience', work: 'Cor'},
+ , instances: 1, word: 'Imperfect', work: 'Cor'},
+ , instances: 1, word: 'Impossibility', work: 'Cor'},
+ , instances: 1, word: 'Impressed', work: 'Cor'},
+ , instances: 1, word: 'Impression', work: 'Cor'},
+ , instances: 1, word: 'Incapable', work: 'Cor'},
+ , instances: 1, word: 'Inches', work: 'Cor'},
+ , instances: 1, word: 'Inclinable', work: 'Cor'},
+ , instances: 1, word: 'Inclination', work: 'Cor'},
+ , instances: 1, word: 'Incline', work: 'Cor'},
+ , instances: 1, word: 'Inclined', work: 'Cor'},
+ , instances: 1, word: 'Incorporate', work: 'Cor'},
+ , instances: 1, word: 'Indifferently', work: 'Cor'},
+ , instances: 1, word: 'Induced', work: 'Cor'},
+ , instances: 1, word: 'Inevitable', work: 'Cor'},
+ , instances: 1, word: 'Infantlike', work: 'Cor'},
+ , instances: 1, word: 'Infected', work: 'Cor'},
+ , instances: 1, word: 'Infection', work: 'Cor'},
+ , instances: 1, word: 'Inferior', work: 'Cor'},
+ , instances: 1, word: 'Infirmity', work: 'Cor'},
+ , instances: 1, word: 'Information', work: 'Cor'},
+ , instances: 1, word: 'Informed', work: 'Cor'},
+ , instances: 1, word: 'Infringe', work: 'Cor'},
+ , instances: 1, word: 'Ingrate', work: 'Cor'},
+ , instances: 1, word: 'Inherent', work: 'Cor'},
+ , instances: 1, word: 'Inheritance', work: 'Cor'},
+ , instances: 1, word: 'Inherited', work: 'Cor'},
+ , instances: 1, word: 'Injurious', work: 'Cor'},
+ , instances: 1, word: 'Inkling', work: 'Cor'},
+ , instances: 1, word: 'Innovator', work: 'Cor'},
+ , instances: 1, word: 'Inquire', work: 'Cor'},
+ , instances: 1, word: 'Insensible', work: 'Cor'},
+ , instances: 1, word: 'Inshelled', work: 'Cor'},
+ , instances: 1, word: 'Insinuating', work: 'Cor'},
+ , instances: 1, word: 'Insisting', work: 'Cor'},
+ , instances: 1, word: 'Instantly', work: 'Cor'},
+ , instances: 1, word: 'Instinct', work: 'Cor'},
+ , instances: 1, word: 'Instruct', work: 'Cor'},
+ , instances: 1, word: 'Insult', work: 'Cor'},
+ , instances: 1, word: 'Insurrections', work: 'Cor'},
+ , instances: 1, word: 'Insurrection\'s', work: 'Cor'},
+ , instances: 1, word: 'Integrity', work: 'Cor'},
+ , instances: 1, word: 'Intelligence', work: 'Cor'},
+ , instances: 1, word: 'Intend', work: 'Cor'},
+ , instances: 1, word: 'Interims', work: 'Cor'},
+ , instances: 1, word: 'Interior', work: 'Cor'},
+ , instances: 1, word: 'Interjoin', work: 'Cor'},
+ , instances: 1, word: 'Interrupted', work: 'Cor'},
+ , instances: 1, word: 'Invention', work: 'Cor'},
+ , instances: 1, word: 'Inventory', work: 'Cor'},
+ , instances: 1, word: 'Invested', work: 'Cor'},
+ , instances: 1, word: 'Inveterate', work: 'Cor'},
+ , instances: 1, word: 'Invincible', work: 'Cor'},
+ , instances: 1, word: 'Iron', work: 'Cor'},
+ , instances: 1, word: 'Irons', work: 'Cor'},
+ , instances: 1, word: 'Issued', work: 'Cor'},
+ , instances: 1, word: 'Issues', work: 'Cor'},
+ , instances: 1, word: 'Itch', work: 'Cor'},
+ , instances: 1, word: 'Ithaca', work: 'Cor'},
+ , instances: 1, word: 'Jack', work: 'Cor'},
+ , instances: 1, word: 'Jailor', work: 'Cor'},
+ , instances: 1, word: 'Jealous', work: 'Cor'},
+ , instances: 1, word: 'Jest', work: 'Cor'},
+ , instances: 1, word: 'Jewel', work: 'Cor'},
+ , instances: 1, word: 'Join', work: 'Cor'},
+ , instances: 1, word: 'Joint', work: 'Cor'},
+ , instances: 1, word: 'Jot', work: 'Cor'},
+ , instances: 1, word: 'Joyful', work: 'Cor'},
+ , instances: 1, word: 'Judgments', work: 'Cor'},
+ , instances: 1, word: 'Judicious', work: 'Cor'},
+ , instances: 1, word: 'Jump', work: 'Cor'},
+ , instances: 1, word: 'Junius', work: 'Cor'},
+ , instances: 1, word: 'Juno', work: 'Cor'},
+ , instances: 1, word: 'Juno-like', work: 'Cor'},
+ , instances: 1, word: 'Keeping', work: 'Cor'},
+ , instances: 1, word: 'Kept', work: 'Cor'},
+ , instances: 1, word: 'Kicked', work: 'Cor'},
+ , instances: 1, word: 'Kin', work: 'Cor'},
+ , instances: 1, word: 'Kinder', work: 'Cor'},
+ , instances: 1, word: 'Kindest', work: 'Cor'},
+ , instances: 1, word: 'Kindness', work: 'Cor'},
+ , instances: 1, word: 'King', work: 'Cor'},
+ , instances: 1, word: 'Kingly', work: 'Cor'},
+ , instances: 1, word: 'Kings\'', work: 'Cor'},
+ , instances: 1, word: 'Kisses', work: 'Cor'},
+ , instances: 1, word: 'Kitchen', work: 'Cor'},
+ , instances: 1, word: 'Knave', work: 'Cor'},
+ , instances: 1, word: 'Knaves\'', work: 'Cor'},
+ , instances: 1, word: 'Kneel', work: 'Cor'},
+ , instances: 1, word: 'Kneeled', work: 'Cor'},
+ , instances: 1, word: 'Kneels', work: 'Cor'},
+ , instances: 1, word: 'Knell', work: 'Cor'},
+ , instances: 1, word: 'Knife', work: 'Cor'},
+ , instances: 1, word: 'Knock', work: 'Cor'},
+ , instances: 1, word: 'Knot', work: 'Cor'},
+ , instances: 1, word: 'Knowing', work: 'Cor'},
+ , instances: 1, word: 'Labored', work: 'Cor'},
+ , instances: 1, word: 'Labors', work: 'Cor'},
+ , instances: 1, word: 'Ladders', work: 'Cor'},
+ , instances: 1, word: 'Lads', work: 'Cor'},
+ , instances: 1, word: 'Lady\'s', work: 'Cor'},
+ , instances: 1, word: 'Laid', work: 'Cor'},
+ , instances: 1, word: 'Lame', work: 'Cor'},
+ , instances: 1, word: 'Lament', work: 'Cor'},
+ , instances: 1, word: 'Lamentation', work: 'Cor'},
+ , instances: 1, word: 'Lance', work: 'Cor'},
+ , instances: 1, word: 'Land', work: 'Cor'},
+ , instances: 1, word: 'Language', work: 'Cor'},
+ , instances: 1, word: 'Lapsing', work: 'Cor'},
+ , instances: 1, word: 'Lately', work: 'Cor'},
+ , instances: 1, word: 'Latest', work: 'Cor'},
+ , instances: 1, word: 'Laughed', work: 'Cor'},
+ , instances: 1, word: 'Laughter', work: 'Cor'},
+ , instances: 1, word: 'Laws', work: 'Cor'},
+ , instances: 1, word: 'Leader', work: 'Cor'},
+ , instances: 1, word: 'Leading', work: 'Cor'},
+ , instances: 1, word: 'Lead\'st', work: 'Cor'},
+ , instances: 1, word: 'Lean', work: 'Cor'},
+ , instances: 1, word: 'Leanness', work: 'Cor'},
+ , instances: 1, word: 'Learn', work: 'Cor'},
+ , instances: 1, word: 'Learned', work: 'Cor'},
+ , instances: 1, word: 'Learnèd', work: 'Cor'},
+ , instances: 1, word: 'Leash', work: 'Cor'},
+ , instances: 1, word: 'Leasing', work: 'Cor'},
+ , instances: 1, word: 'Lectures', work: 'Cor'},
+ , instances: 1, word: 'Leg', work: 'Cor'},
+ , instances: 1, word: 'Lenity', work: 'Cor'},
+ , instances: 1, word: 'Lessoned', work: 'Cor'},
+ , instances: 1, word: 'Lethargy', work: 'Cor'},
+ , instances: 1, word: 'Letters', work: 'Cor'},
+ , instances: 1, word: 'Levies', work: 'Cor'},
+ , instances: 1, word: 'Liberty', work: 'Cor'},
+ , instances: 1, word: 'Lick', work: 'Cor'},
+ , instances: 1, word: 'Lief', work: 'Cor'},
+ , instances: 1, word: 'Liest', work: 'Cor'},
+ , instances: 1, word: 'Lightly', work: 'Cor'},
+ , instances: 1, word: 'Liking', work: 'Cor'},
+ , instances: 1, word: 'Limb', work: 'Cor'},
+ , instances: 1, word: 'Limbs', work: 'Cor'},
+ , instances: 1, word: 'Limitation', work: 'Cor'},
+ , instances: 1, word: 'Linger', work: 'Cor'},
+ , instances: 1, word: 'Link', work: 'Cor'},
+ , instances: 1, word: 'Lion', work: 'Cor'},
+ , instances: 1, word: 'Lions', work: 'Cor'},
+ , instances: 1, word: 'Littered', work: 'Cor'},
+ , instances: 1, word: 'Lived', work: 'Cor'},
+ , instances: 1, word: 'Lo', work: 'Cor'},
+ , instances: 1, word: 'Load', work: 'Cor'},
+ , instances: 1, word: 'Loaden', work: 'Cor'},
+ , instances: 1, word: 'Lockram', work: 'Cor'},
+ , instances: 1, word: 'Locks', work: 'Cor'},
+ , instances: 1, word: 'Loins', work: 'Cor'},
+ , instances: 1, word: 'Lonely', work: 'Cor'},
+ , instances: 1, word: 'Longer', work: 'Cor'},
+ , instances: 1, word: 'Looking', work: 'Cor'},
+ , instances: 1, word: 'Lots', work: 'Cor'},
+ , instances: 1, word: 'Loud', work: 'Cor'},
+ , instances: 1, word: 'Louts', work: 'Cor'},
+ , instances: 1, word: 'Lovelier', work: 'Cor'},
+ , instances: 1, word: 'Lover', work: 'Cor'},
+ , instances: 1, word: 'Love\'s', work: 'Cor'},
+ , instances: 1, word: 'Loving', work: 'Cor'},
+ , instances: 1, word: 'Loyal', work: 'Cor'},
+ , instances: 1, word: 'Lull', work: 'Cor'},
+ , instances: 1, word: 'Lurched', work: 'Cor'},
+ , instances: 1, word: 'Lurked', work: 'Cor'},
+ , instances: 1, word: 'Lycurguses', work: 'Cor'},
+ , instances: 1, word: 'Lying', work: 'Cor'},
+ , instances: 1, word: 'Mad', work: 'Cor'},
+ , instances: 1, word: 'Mad\'st', work: 'Cor'},
+ , instances: 1, word: 'Magistrate', work: 'Cor'},
+ , instances: 1, word: 'Maid', work: 'Cor'},
+ , instances: 1, word: 'Maids', work: 'Cor'},
+ , instances: 1, word: 'Mailed', work: 'Cor'},
+ , instances: 1, word: 'Maims', work: 'Cor'},
+ , instances: 1, word: 'Major', work: 'Cor'},
+ , instances: 1, word: 'Maker', work: 'Cor'},
+ , instances: 1, word: 'Male', work: 'Cor'},
+ , instances: 1, word: 'Maliciously', work: 'Cor'},
+ , instances: 1, word: 'Malign', work: 'Cor'},
+ , instances: 1, word: 'Malignantly', work: 'Cor'},
+ , instances: 1, word: 'Malkin', work: 'Cor'},
+ , instances: 1, word: 'Mammocked', work: 'Cor'},
+ , instances: 1, word: 'Man-child', work: 'Cor'},
+ , instances: 1, word: 'Man-entered', work: 'Cor'},
+ , instances: 1, word: 'Mangles', work: 'Cor'},
+ , instances: 1, word: 'Manhood', work: 'Cor'},
+ , instances: 1, word: 'Manifests', work: 'Cor'},
+ , instances: 1, word: 'Mankind', work: 'Cor'},
+ , instances: 1, word: 'Mantled', work: 'Cor'},
+ , instances: 1, word: 'Many-headed', work: 'Cor'},
+ , instances: 1, word: 'Map', work: 'Cor'},
+ , instances: 1, word: 'Mar', work: 'Cor'},
+ , instances: 1, word: 'Marcus', work: 'Cor'},
+ , instances: 1, word: 'Marked', work: 'Cor'},
+ , instances: 1, word: 'Marred', work: 'Cor'},
+ , instances: 1, word: 'Marriages', work: 'Cor'},
+ , instances: 1, word: 'Married', work: 'Cor'},
+ , instances: 1, word: 'Martians', work: 'Cor'},
+ , instances: 1, word: 'Marvelled', work: 'Cor'},
+ , instances: 1, word: 'Marv\'llous', work: 'Cor'},
+ , instances: 1, word: 'Masked', work: 'Cor'},
+ , instances: 1, word: 'Mastership', work: 'Cor'},
+ , instances: 1, word: 'Match', work: 'Cor'},
+ , instances: 1, word: 'Matrons', work: 'Cor'},
+ , instances: 1, word: 'Mature', work: 'Cor'},
+ , instances: 1, word: 'Meaner', work: 'Cor'},
+ , instances: 1, word: 'Meanest', work: 'Cor'},
+ , instances: 1, word: 'Measles', work: 'Cor'},
+ , instances: 1, word: 'Measureless', work: 'Cor'},
+ , instances: 1, word: 'Mechanics', work: 'Cor'},
+ , instances: 1, word: 'Meed', work: 'Cor'},
+ , instances: 1, word: 'Meeting', work: 'Cor'},
+ , instances: 1, word: 'Meiny', work: 'Cor'},
+ , instances: 1, word: 'Mellow', work: 'Cor'},
+ , instances: 1, word: 'Melted', work: 'Cor'},
+ , instances: 1, word: 'Mercenary', work: 'Cor'},
+ , instances: 1, word: 'Mere', work: 'Cor'},
+ , instances: 1, word: 'Merely', work: 'Cor'},
+ , instances: 1, word: 'Merrier', work: 'Cor'},
+ , instances: 1, word: 'Merrily', work: 'Cor'},
+ , instances: 1, word: 'Merry', work: 'Cor'},
+ , instances: 1, word: 'Messenger', work: 'Cor'},
+ , instances: 1, word: 'Methought', work: 'Cor'},
+ , instances: 1, word: 'Microcosm', work: 'Cor'},
+ , instances: 1, word: 'Middle', work: 'Cor'},
+ , instances: 1, word: 'Midnight', work: 'Cor'},
+ , instances: 1, word: 'Milder', work: 'Cor'},
+ , instances: 1, word: 'Miles', work: 'Cor'},
+ , instances: 1, word: 'Milk', work: 'Cor'},
+ , instances: 1, word: 'Millions', work: 'Cor'},
+ , instances: 1, word: 'Mills', work: 'Cor'},
+ , instances: 1, word: 'Minds', work: 'Cor'},
+ , instances: 1, word: 'Mingle', work: 'Cor'},
+ , instances: 1, word: 'Mingling', work: 'Cor'},
+ , instances: 1, word: 'Minister', work: 'Cor'},
+ , instances: 1, word: 'Ministers', work: 'Cor'},
+ , instances: 1, word: 'Minnows', work: 'Cor'},
+ , instances: 1, word: 'Minute', work: 'Cor'},
+ , instances: 1, word: 'Miscarries', work: 'Cor'},
+ , instances: 1, word: 'Mischief', work: 'Cor'},
+ , instances: 1, word: 'Misguide', work: 'Cor'},
+ , instances: 1, word: 'Miss', work: 'Cor'},
+ , instances: 1, word: 'Missed', work: 'Cor'},
+ , instances: 1, word: 'Mistake', work: 'Cor'},
+ , instances: 1, word: 'Mistaken', work: 'Cor'},
+ , instances: 1, word: 'Mockers', work: 'Cor'},
+ , instances: 1, word: 'Mockery', work: 'Cor'},
+ , instances: 1, word: 'Molehill', work: 'Cor'},
+ , instances: 1, word: 'Money', work: 'Cor'},
+ , instances: 1, word: 'Monster', work: 'Cor'},
+ , instances: 1, word: 'Monstered', work: 'Cor'},
+ , instances: 1, word: 'Monster\'s', work: 'Cor'},
+ , instances: 1, word: 'Month', work: 'Cor'},
+ , instances: 1, word: 'Moods', work: 'Cor'},
+ , instances: 1, word: 'Morrow', work: 'Cor'},
+ , instances: 1, word: 'Morsel', work: 'Cor'},
+ , instances: 1, word: 'Mothers', work: 'Cor'},
+ , instances: 1, word: 'Moths', work: 'Cor'},
+ , instances: 1, word: 'Mountainous', work: 'Cor'},
+ , instances: 1, word: 'Mountebank', work: 'Cor'},
+ , instances: 1, word: 'Mourn', work: 'Cor'},
+ , instances: 1, word: 'Mournfully', work: 'Cor'},
+ , instances: 1, word: 'Mouse', work: 'Cor'},
+ , instances: 1, word: 'Movers', work: 'Cor'},
+ , instances: 1, word: 'Moves', work: 'Cor'},
+ , instances: 1, word: 'Moving', work: 'Cor'},
+ , instances: 1, word: 'Muck', work: 'Cor'},
+ , instances: 1, word: 'Mulberry', work: 'Cor'},
+ , instances: 1, word: 'Mules', work: 'Cor'},
+ , instances: 1, word: 'Mulled', work: 'Cor'},
+ , instances: 1, word: 'Multiplied', work: 'Cor'},
+ , instances: 1, word: 'Multiplying', work: 'Cor'},
+ , instances: 1, word: 'Multitudinous', work: 'Cor'},
+ , instances: 1, word: 'Mummers', work: 'Cor'},
+ , instances: 1, word: 'Muniments', work: 'Cor'},
+ , instances: 1, word: 'Murdering', work: 'Cor'},
+ , instances: 1, word: 'Murrain', work: 'Cor'},
+ , instances: 1, word: 'Muse', work: 'Cor'},
+ , instances: 1, word: 'Muster', work: 'Cor'},
+ , instances: 1, word: 'Mutable', work: 'Cor'},
+ , instances: 1, word: 'Mutineers', work: 'Cor'},
+ , instances: 1, word: 'Mutinies', work: 'Cor'},
+ , instances: 1, word: 'Mutiny', work: 'Cor'},
+ , instances: 1, word: 'Mutually', work: 'Cor'},
+ , instances: 1, word: 'Mysteries', work: 'Cor'},
+ , instances: 1, word: 'Names', work: 'Cor'},
+ , instances: 1, word: 'Namèd', work: 'Cor'},
+ , instances: 1, word: 'Napes', work: 'Cor'},
+ , instances: 1, word: 'Napless', work: 'Cor'},
+ , instances: 1, word: 'Nation', work: 'Cor'},
+ , instances: 1, word: 'Nations', work: 'Cor'},
+ , instances: 1, word: 'Natural', work: 'Cor'},
+ , instances: 1, word: 'Navel', work: 'Cor'},
+ , instances: 1, word: 'Necessary', work: 'Cor'},
+ , instances: 1, word: 'Necessities', work: 'Cor'},
+ , instances: 1, word: 'Necessity', work: 'Cor'},
+ , instances: 1, word: 'Needer', work: 'Cor'},
+ , instances: 1, word: 'Needless', work: 'Cor'},
+ , instances: 1, word: 'Needs', work: 'Cor'},
+ , instances: 1, word: 'Neptune', work: 'Cor'},
+ , instances: 1, word: 'Nerves', work: 'Cor'},
+ , instances: 1, word: 'Nervy', work: 'Cor'},
+ , instances: 1, word: 'Newly', work: 'Cor'},
+ , instances: 1, word: 'Next', work: 'Cor'},
+ , instances: 1, word: 'Nicely-gauded', work: 'Cor'},
+ , instances: 1, word: 'Nightly', work: 'Cor'},
+ , instances: 1, word: 'Nine', work: 'Cor'},
+ , instances: 1, word: 'Nodding', work: 'Cor'},
+ , instances: 1, word: 'Noisome', work: 'Cor'},
+ , instances: 1, word: 'Noon', work: 'Cor'},
+ , instances: 1, word: 'North', work: 'Cor'},
+ , instances: 1, word: 'Noses', work: 'Cor'},
+ , instances: 1, word: 'Notched', work: 'Cor'},
+ , instances: 1, word: 'Nothings', work: 'Cor'},
+ , instances: 1, word: 'Notice', work: 'Cor'},
+ , instances: 1, word: 'Notion', work: 'Cor'},
+ , instances: 1, word: 'Nourish', work: 'Cor'},
+ , instances: 1, word: 'Nourished', work: 'Cor'},
+ , instances: 1, word: 'Numa\'s', work: 'Cor'},
+ , instances: 1, word: 'Nuptial', work: 'Cor'},
+ , instances: 1, word: 'Nurse\'s', work: 'Cor'},
+ , instances: 1, word: 'Oaken', work: 'Cor'},
+ , instances: 1, word: 'Oaks', work: 'Cor'},
+ , instances: 1, word: 'Obeys', work: 'Cor'},
+ , instances: 1, word: 'Object', work: 'Cor'},
+ , instances: 1, word: 'Observe', work: 'Cor'},
+ , instances: 1, word: 'Obstinate', work: 'Cor'},
+ , instances: 1, word: 'Occasion', work: 'Cor'},
+ , instances: 1, word: 'Occupation', work: 'Cor'},
+ , instances: 1, word: 'Occupations', work: 'Cor'},
+ , instances: 1, word: 'Odds', work: 'Cor'},
+ , instances: 1, word: 'Offend', work: 'Cor'},
+ , instances: 1, word: 'Offenses', work: 'Cor'},
+ , instances: 1, word: 'Official', work: 'Cor'},
+ , instances: 1, word: 'Officious', work: 'Cor'},
+ , instances: 1, word: 'Oldest', work: 'Cor'},
+ , instances: 1, word: 'Olympus', work: 'Cor'},
+ , instances: 1, word: 'Omit', work: 'Cor'},
+ , instances: 1, word: 'One\'s', work: 'Cor'},
+ , instances: 1, word: 'Onward', work: 'Cor'},
+ , instances: 1, word: 'Open', work: 'Cor'},
+ , instances: 1, word: 'Oppose', work: 'Cor'},
+ , instances: 1, word: 'Opposer', work: 'Cor'},
+ , instances: 1, word: 'Opposers', work: 'Cor'},
+ , instances: 1, word: 'Opposers\'', work: 'Cor'},
+ , instances: 1, word: 'Opposing', work: 'Cor'},
+ , instances: 1, word: 'Opposite', work: 'Cor'},
+ , instances: 1, word: 'Orange-wife', work: 'Cor'},
+ , instances: 1, word: 'Orb', work: 'Cor'},
+ , instances: 1, word: 'Ordinance', work: 'Cor'},
+ , instances: 1, word: 'Osprey', work: 'Cor'},
+ , instances: 1, word: 'Ostentation', work: 'Cor'},
+ , instances: 1, word: 'Otherwise', work: 'Cor'},
+ , instances: 1, word: 'Ounce', work: 'Cor'},
+ , instances: 1, word: 'Outdares', work: 'Cor'},
+ , instances: 1, word: 'Outdone', work: 'Cor'},
+ , instances: 1, word: 'Outrage', work: 'Cor'},
+ , instances: 1, word: 'Outweighs', work: 'Cor'},
+ , instances: 1, word: 'Ovator', work: 'Cor'},
+ , instances: 1, word: 'Over-measure', work: 'Cor'},
+ , instances: 1, word: 'Overta\'en', work: 'Cor'},
+ , instances: 1, word: 'Owns', work: 'Cor'},
+ , instances: 1, word: 'O\'erborne', work: 'Cor'},
+ , instances: 1, word: 'O\'ercome', work: 'Cor'},
+ , instances: 1, word: 'O\'erleap', work: 'Cor'},
+ , instances: 1, word: 'O\'erpeer', work: 'Cor'},
+ , instances: 1, word: 'O\'erpressed', work: 'Cor'},
+ , instances: 1, word: 'O\'erwhelm', work: 'Cor'},
+ , instances: 1, word: 'O\'erwhelmed', work: 'Cor'},
+ , instances: 1, word: 'Pack', work: 'Cor'},
+ , instances: 1, word: 'Packsaddle', work: 'Cor'},
+ , instances: 1, word: 'Page', work: 'Cor'},
+ , instances: 1, word: 'Pages', work: 'Cor'},
+ , instances: 1, word: 'Painful', work: 'Cor'},
+ , instances: 1, word: 'Paint', work: 'Cor'},
+ , instances: 1, word: 'Painted', work: 'Cor'},
+ , instances: 1, word: 'Painting', work: 'Cor'},
+ , instances: 1, word: 'Palate', work: 'Cor'},
+ , instances: 1, word: 'Palates', work: 'Cor'},
+ , instances: 1, word: 'Palm', work: 'Cor'},
+ , instances: 1, word: 'Palms', work: 'Cor'},
+ , instances: 1, word: 'Palsied', work: 'Cor'},
+ , instances: 1, word: 'Palt\'ring', work: 'Cor'},
+ , instances: 1, word: 'Panting', work: 'Cor'},
+ , instances: 1, word: 'Paper', work: 'Cor'},
+ , instances: 1, word: 'Parasite\'s', work: 'Cor'},
+ , instances: 1, word: 'Parcel', work: 'Cor'},
+ , instances: 1, word: 'Parcels', work: 'Cor'},
+ , instances: 1, word: 'Parent', work: 'Cor'},
+ , instances: 1, word: 'Partake', work: 'Cor'},
+ , instances: 1, word: 'Parted', work: 'Cor'},
+ , instances: 1, word: 'Participate', work: 'Cor'},
+ , instances: 1, word: 'Particularize', work: 'Cor'},
+ , instances: 1, word: 'Particularly', work: 'Cor'},
+ , instances: 1, word: 'Particulars', work: 'Cor'},
+ , instances: 1, word: 'Passable', work: 'Cor'},
+ , instances: 1, word: 'Passes', work: 'Cor'},
+ , instances: 1, word: 'Passing', work: 'Cor'},
+ , instances: 1, word: 'Passions', work: 'Cor'},
+ , instances: 1, word: 'Patched', work: 'Cor'},
+ , instances: 1, word: 'Pates', work: 'Cor'},
+ , instances: 1, word: 'Patrician', work: 'Cor'},
+ , instances: 1, word: 'Patroness', work: 'Cor'},
+ , instances: 1, word: 'Pawn', work: 'Cor'},
+ , instances: 1, word: 'Pawned', work: 'Cor'},
+ , instances: 1, word: 'Pays', work: 'Cor'},
+ , instances: 1, word: 'Pebbles', work: 'Cor'},
+ , instances: 1, word: 'Peck', work: 'Cor'},
+ , instances: 1, word: 'Peep', work: 'Cor'},
+ , instances: 1, word: 'Penelope', work: 'Cor'},
+ , instances: 1, word: 'Pent', work: 'Cor'},
+ , instances: 1, word: 'Peradventure', work: 'Cor'},
+ , instances: 1, word: 'Percussion', work: 'Cor'},
+ , instances: 1, word: 'Perfecter', work: 'Cor'},
+ , instances: 1, word: 'Perfidiously', work: 'Cor'},
+ , instances: 1, word: 'Performed', work: 'Cor'},
+ , instances: 1, word: 'Perhaps', work: 'Cor'},
+ , instances: 1, word: 'Permit', work: 'Cor'},
+ , instances: 1, word: 'Permitted', work: 'Cor'},
+ , instances: 1, word: 'Perpetual', work: 'Cor'},
+ , instances: 1, word: 'Persuade', work: 'Cor'},
+ , instances: 1, word: 'Persuaded', work: 'Cor'},
+ , instances: 1, word: 'Pertinent', work: 'Cor'},
+ , instances: 1, word: 'Perused', work: 'Cor'},
+ , instances: 1, word: 'Pestilence', work: 'Cor'},
+ , instances: 1, word: 'Pest\'ring', work: 'Cor'},
+ , instances: 1, word: 'Petitionary', work: 'Cor'},
+ , instances: 1, word: 'Petitioned', work: 'Cor'},
+ , instances: 1, word: 'Phoebus\'', work: 'Cor'},
+ , instances: 1, word: 'Physical', work: 'Cor'},
+ , instances: 1, word: 'Physician', work: 'Cor'},
+ , instances: 1, word: 'Picture-like', work: 'Cor'},
+ , instances: 1, word: 'Piles', work: 'Cor'},
+ , instances: 1, word: 'Pinched', work: 'Cor'},
+ , instances: 1, word: 'Pinned', work: 'Cor'},
+ , instances: 1, word: 'Pins', work: 'Cor'},
+ , instances: 1, word: 'Pint', work: 'Cor'},
+ , instances: 1, word: 'Pipe', work: 'Cor'},
+ , instances: 1, word: 'Pipes', work: 'Cor'},
+ , instances: 1, word: 'Pitying', work: 'Cor'},
+ , instances: 1, word: 'Placed', work: 'Cor'},
+ , instances: 1, word: 'Placeth', work: 'Cor'},
+ , instances: 1, word: 'Plagues', work: 'Cor'},
+ , instances: 1, word: 'Plain', work: 'Cor'},
+ , instances: 1, word: 'Planet', work: 'Cor'},
+ , instances: 1, word: 'Plant', work: 'Cor'},
+ , instances: 1, word: 'Planted', work: 'Cor'},
+ , instances: 1, word: 'Plants', work: 'Cor'},
+ , instances: 1, word: 'Plaster', work: 'Cor'},
+ , instances: 1, word: 'Pleader', work: 'Cor'},
+ , instances: 1, word: 'Pleaders', work: 'Cor'},
+ , instances: 1, word: 'Pleasing', work: 'Cor'},
+ , instances: 1, word: 'Pleasure', work: 'Cor'},
+ , instances: 1, word: 'Pleasures', work: 'Cor'},
+ , instances: 1, word: 'Plebeii', work: 'Cor'},
+ , instances: 1, word: 'Plots', work: 'Cor'},
+ , instances: 1, word: 'Plow', work: 'Cor'},
+ , instances: 1, word: 'Plowed', work: 'Cor'},
+ , instances: 1, word: 'Plumes', work: 'Cor'},
+ , instances: 1, word: 'Pluto', work: 'Cor'},
+ , instances: 1, word: 'Pocket', work: 'Cor'},
+ , instances: 1, word: 'Poisoned', work: 'Cor'},
+ , instances: 1, word: 'Polled', work: 'Cor'},
+ , instances: 1, word: 'Poor\'st', work: 'Cor'},
+ , instances: 1, word: 'Porch', work: 'Cor'},
+ , instances: 1, word: 'Portance', work: 'Cor'},
+ , instances: 1, word: 'Possess', work: 'Cor'},
+ , instances: 1, word: 'Possessed', work: 'Cor'},
+ , instances: 1, word: 'Post', work: 'Cor'},
+ , instances: 1, word: 'Posterity', work: 'Cor'},
+ , instances: 1, word: 'Posture', work: 'Cor'},
+ , instances: 1, word: 'Potch', work: 'Cor'},
+ , instances: 1, word: 'Potency', work: 'Cor'},
+ , instances: 1, word: 'Pother', work: 'Cor'},
+ , instances: 1, word: 'Pound', work: 'Cor'},
+ , instances: 1, word: 'Pounds', work: 'Cor'},
+ , instances: 1, word: 'Pouring', work: 'Cor'},
+ , instances: 1, word: 'Pout', work: 'Cor'},
+ , instances: 1, word: 'Pow', work: 'Cor'},
+ , instances: 1, word: 'Prank', work: 'Cor'},
+ , instances: 1, word: 'Prating', work: 'Cor'},
+ , instances: 1, word: 'Prattling', work: 'Cor'},
+ , instances: 1, word: 'Prayed', work: 'Cor'},
+ , instances: 1, word: 'Prayer', work: 'Cor'},
+ , instances: 1, word: 'Precepts', work: 'Cor'},
+ , instances: 1, word: 'Precious', work: 'Cor'},
+ , instances: 1, word: 'Prefer', work: 'Cor'},
+ , instances: 1, word: 'Preoccupied', work: 'Cor'},
+ , instances: 1, word: 'Preparing', work: 'Cor'},
+ , instances: 1, word: 'Prerogative', work: 'Cor'},
+ , instances: 1, word: 'Prescription', work: 'Cor'},
+ , instances: 1, word: 'Presence', work: 'Cor'},
+ , instances: 1, word: 'Presented', work: 'Cor'},
+ , instances: 1, word: 'Preservative', work: 'Cor'},
+ , instances: 1, word: 'Press', work: 'Cor'},
+ , instances: 1, word: 'Presume', work: 'Cor'},
+ , instances: 1, word: 'Pretenses', work: 'Cor'},
+ , instances: 1, word: 'Pretext', work: 'Cor'},
+ , instances: 1, word: 'Prevail', work: 'Cor'},
+ , instances: 1, word: 'Prevailing', work: 'Cor'},
+ , instances: 1, word: 'Prevented', work: 'Cor'},
+ , instances: 1, word: 'Pricking', work: 'Cor'},
+ , instances: 1, word: 'Priestlike', work: 'Cor'},
+ , instances: 1, word: 'Princely', work: 'Cor'},
+ , instances: 1, word: 'Priority', work: 'Cor'},
+ , instances: 1, word: 'Prison', work: 'Cor'},
+ , instances: 1, word: 'Prisoner', work: 'Cor'},
+ , instances: 1, word: 'Prized', work: 'Cor'},
+ , instances: 1, word: 'Probable', work: 'Cor'},
+ , instances: 1, word: 'Proceedings', work: 'Cor'},
+ , instances: 1, word: 'Proceeds', work: 'Cor'},
+ , instances: 1, word: 'Process', work: 'Cor'},
+ , instances: 1, word: 'Procured', work: 'Cor'},
+ , instances: 1, word: 'Profane', work: 'Cor'},
+ , instances: 1, word: 'Profess', work: 'Cor'},
+ , instances: 1, word: 'Profound', work: 'Cor'},
+ , instances: 1, word: 'Progeny', work: 'Cor'},
+ , instances: 1, word: 'Projects', work: 'Cor'},
+ , instances: 1, word: 'Promise-breaker', work: 'Cor'},
+ , instances: 1, word: 'Prompts', work: 'Cor'},
+ , instances: 1, word: 'Pronounced', work: 'Cor'},
+ , instances: 1, word: 'Proof', work: 'Cor'},
+ , instances: 1, word: 'Proper', work: 'Cor'},
+ , instances: 1, word: 'Properly', work: 'Cor'},
+ , instances: 1, word: 'Prosperous', work: 'Cor'},
+ , instances: 1, word: 'Prosperously', work: 'Cor'},
+ , instances: 1, word: 'Proudlier', work: 'Cor'},
+ , instances: 1, word: 'Provand', work: 'Cor'},
+ , instances: 1, word: 'Proverbs', work: 'Cor'},
+ , instances: 1, word: 'Provide', work: 'Cor'},
+ , instances: 1, word: 'Provoked', work: 'Cor'},
+ , instances: 1, word: 'Prudent', work: 'Cor'},
+ , instances: 1, word: 'Psalteries', work: 'Cor'},
+ , instances: 1, word: 'Publicola', work: 'Cor'},
+ , instances: 1, word: 'Publius', work: 'Cor'},
+ , instances: 1, word: 'Puff', work: 'Cor'},
+ , instances: 1, word: 'Puling', work: 'Cor'},
+ , instances: 1, word: 'Pull', work: 'Cor'},
+ , instances: 1, word: 'Punished', work: 'Cor'},
+ , instances: 1, word: 'Puny', work: 'Cor'},
+ , instances: 1, word: 'Pupil', work: 'Cor'},
+ , instances: 1, word: 'Purchasing', work: 'Cor'},
+ , instances: 1, word: 'Purest', work: 'Cor'},
+ , instances: 1, word: 'Purge', work: 'Cor'},
+ , instances: 1, word: 'Purposed', work: 'Cor'},
+ , instances: 1, word: 'Pursue', work: 'Cor'},
+ , instances: 1, word: 'Pursuing', work: 'Cor'},
+ , instances: 1, word: 'Pushed', work: 'Cor'},
+ , instances: 1, word: 'Quaked', work: 'Cor'},
+ , instances: 1, word: 'Quarrel', work: 'Cor'},
+ , instances: 1, word: 'Quarry', work: 'Cor'},
+ , instances: 1, word: 'Quartered', work: 'Cor'},
+ , instances: 1, word: 'Queen', work: 'Cor'},
+ , instances: 1, word: 'Quick', work: 'Cor'},
+ , instances: 1, word: 'Quickly', work: 'Cor'},
+ , instances: 1, word: 'Quiet', work: 'Cor'},
+ , instances: 1, word: 'Quietness', work: 'Cor'},
+ , instances: 1, word: 'Quintus', work: 'Cor'},
+ , instances: 1, word: 'Quit', work: 'Cor'},
+ , instances: 1, word: 'Quoth', work: 'Cor'},
+ , instances: 1, word: 'Raiment', work: 'Cor'},
+ , instances: 1, word: 'Rain', work: 'Cor'},
+ , instances: 1, word: 'Raising', work: 'Cor'},
+ , instances: 1, word: 'Rakes', work: 'Cor'},
+ , instances: 1, word: 'Ranges', work: 'Cor'},
+ , instances: 1, word: 'Rank-scented', work: 'Cor'},
+ , instances: 1, word: 'Ransoming', work: 'Cor'},
+ , instances: 1, word: 'Rapt', work: 'Cor'},
+ , instances: 1, word: 'Rapture', work: 'Cor'},
+ , instances: 1, word: 'Rare', work: 'Cor'},
+ , instances: 1, word: 'Rarest', work: 'Cor'},
+ , instances: 1, word: 'Rascal', work: 'Cor'},
+ , instances: 1, word: 'Rates', work: 'Cor'},
+ , instances: 1, word: 'Ravish', work: 'Cor'},
+ , instances: 1, word: 'Ravisher', work: 'Cor'},
+ , instances: 1, word: 'Readiness', work: 'Cor'},
+ , instances: 1, word: 'Real', work: 'Cor'},
+ , instances: 1, word: 'Rebelled', work: 'Cor'},
+ , instances: 1, word: 'Receipt', work: 'Cor'},
+ , instances: 1, word: 'Reckless', work: 'Cor'},
+ , instances: 1, word: 'Recomforted', work: 'Cor'},
+ , instances: 1, word: 'Recommend', work: 'Cor'},
+ , instances: 1, word: 'Recompense', work: 'Cor'},
+ , instances: 1, word: 'Reconcile', work: 'Cor'},
+ , instances: 1, word: 'Record', work: 'Cor'},
+ , instances: 1, word: 'Recreant', work: 'Cor'},
+ , instances: 1, word: 'Rectorship', work: 'Cor'},
+ , instances: 1, word: 'Redress', work: 'Cor'},
+ , instances: 1, word: 'Reechy', work: 'Cor'},
+ , instances: 1, word: 'Reek', work: 'Cor'},
+ , instances: 1, word: 'Reeking', work: 'Cor'},
+ , instances: 1, word: 'Reel', work: 'Cor'},
+ , instances: 1, word: 'Refuge', work: 'Cor'},
+ , instances: 1, word: 'Refusal', work: 'Cor'},
+ , instances: 1, word: 'Refused', work: 'Cor'},
+ , instances: 1, word: 'Regarded', work: 'Cor'},
+ , instances: 1, word: 'Regions', work: 'Cor'},
+ , instances: 1, word: 'Reined', work: 'Cor'},
+ , instances: 1, word: 'Reinforcement', work: 'Cor'},
+ , instances: 1, word: 'Reins', work: 'Cor'},
+ , instances: 1, word: 'Rejourn', work: 'Cor'},
+ , instances: 1, word: 'Relieve', work: 'Cor'},
+ , instances: 1, word: 'Relieved', work: 'Cor'},
+ , instances: 1, word: 'Relish', work: 'Cor'},
+ , instances: 1, word: 'Remedies', work: 'Cor'},
+ , instances: 1, word: 'Remedy', work: 'Cor'},
+ , instances: 1, word: 'Remembered', work: 'Cor'},
+ , instances: 1, word: 'Remembers', work: 'Cor'},
+ , instances: 1, word: 'Remembrances', work: 'Cor'},
+ , instances: 1, word: 'Remission', work: 'Cor'},
+ , instances: 1, word: 'Remote', work: 'Cor'},
+ , instances: 1, word: 'Remove', work: 'Cor'},
+ , instances: 1, word: 'Rend', work: 'Cor'},
+ , instances: 1, word: 'Renew', work: 'Cor'},
+ , instances: 1, word: 'Renown', work: 'Cor'},
+ , instances: 1, word: 'Repined', work: 'Cor'},
+ , instances: 1, word: 'Reports', work: 'Cor'},
+ , instances: 1, word: 'Repose', work: 'Cor'},
+ , instances: 1, word: 'Reprieve', work: 'Cor'},
+ , instances: 1, word: 'Reproof', work: 'Cor'},
+ , instances: 1, word: 'Repulse', work: 'Cor'},
+ , instances: 1, word: 'Requested', work: 'Cor'},
+ , instances: 1, word: 'Requests', work: 'Cor'},
+ , instances: 1, word: 'Request\'s', work: 'Cor'},
+ , instances: 1, word: 'Requickened', work: 'Cor'},
+ , instances: 1, word: 'Required', work: 'Cor'},
+ , instances: 1, word: 'Requires', work: 'Cor'},
+ , instances: 1, word: 'Requital', work: 'Cor'},
+ , instances: 1, word: 'Requite', work: 'Cor'},
+ , instances: 1, word: 'Requited', work: 'Cor'},
+ , instances: 1, word: 'Rescue', work: 'Cor'},
+ , instances: 1, word: 'Reservation', work: 'Cor'},
+ , instances: 1, word: 'Resists', work: 'Cor'},
+ , instances: 1, word: 'Resolution', work: 'Cor'},
+ , instances: 1, word: 'Resting', work: 'Cor'},
+ , instances: 1, word: 'Restitution', work: 'Cor'},
+ , instances: 1, word: 'Restrain', work: 'Cor'},
+ , instances: 1, word: 'Restrained', work: 'Cor'},
+ , instances: 1, word: 'Restrain\'st', work: 'Cor'},
+ , instances: 1, word: 'Resume', work: 'Cor'},
+ , instances: 1, word: 'Retired', work: 'Cor'},
+ , instances: 1, word: 'Retires', work: 'Cor'},
+ , instances: 1, word: 'Returning', work: 'Cor'},
+ , instances: 1, word: 'Returns', work: 'Cor'},
+ , instances: 1, word: 'Revel', work: 'Cor'},
+ , instances: 1, word: 'Revengeful', work: 'Cor'},
+ , instances: 1, word: 'Revolts', work: 'Cor'},
+ , instances: 1, word: 'Reward', work: 'Cor'},
+ , instances: 1, word: 'Rewards', work: 'Cor'},
+ , instances: 1, word: 'Rheum', work: 'Cor'},
+ , instances: 1, word: 'Richest', work: 'Cor'},
+ , instances: 1, word: 'Ridges', work: 'Cor'},
+ , instances: 1, word: 'Ridiculous', work: 'Cor'},
+ , instances: 1, word: 'Right-hand', work: 'Cor'},
+ , instances: 1, word: 'Rightly', work: 'Cor'},
+ , instances: 1, word: 'Rigorous', work: 'Cor'},
+ , instances: 1, word: 'Ripest', work: 'Cor'},
+ , instances: 1, word: 'Risen', work: 'Cor'},
+ , instances: 1, word: 'Rive', work: 'Cor'},
+ , instances: 1, word: 'Rivers', work: 'Cor'},
+ , instances: 1, word: 'Roar', work: 'Cor'},
+ , instances: 1, word: 'Roaring', work: 'Cor'},
+ , instances: 1, word: 'Robbery', work: 'Cor'},
+ , instances: 1, word: 'Rod', work: 'Cor'},
+ , instances: 1, word: 'Rogues', work: 'Cor'},
+ , instances: 1, word: 'Roof', work: 'Cor'},
+ , instances: 1, word: 'Roted', work: 'Cor'},
+ , instances: 1, word: 'Rougher', work: 'Cor'},
+ , instances: 1, word: 'Rove', work: 'Cor'},
+ , instances: 1, word: 'Rub', work: 'Cor'},
+ , instances: 1, word: 'Rubbing', work: 'Cor'},
+ , instances: 1, word: 'Rudely', work: 'Cor'},
+ , instances: 1, word: 'Rumor', work: 'Cor'},
+ , instances: 1, word: 'Rumored', work: 'Cor'},
+ , instances: 1, word: 'Rumorer', work: 'Cor'},
+ , instances: 1, word: 'Rust', work: 'Cor'},
+ , instances: 1, word: 'Ruth', work: 'Cor'},
+ , instances: 1, word: 'Sack', work: 'Cor'},
+ , instances: 1, word: 'Sackbuts', work: 'Cor'},
+ , instances: 1, word: 'Sad', work: 'Cor'},
+ , instances: 1, word: 'Safer', work: 'Cor'},
+ , instances: 1, word: 'Safety', work: 'Cor'},
+ , instances: 1, word: 'Sail', work: 'Cor'},
+ , instances: 1, word: 'Salt', work: 'Cor'},
+ , instances: 1, word: 'Salter', work: 'Cor'},
+ , instances: 1, word: 'Salve', work: 'Cor'},
+ , instances: 1, word: 'Sanctifies', work: 'Cor'},
+ , instances: 1, word: 'Sanctuary', work: 'Cor'},
+ , instances: 1, word: 'Sauced', work: 'Cor'},
+ , instances: 1, word: 'Saving', work: 'Cor'},
+ , instances: 1, word: 'Scabs', work: 'Cor'},
+ , instances: 1, word: 'Scaling', work: 'Cor'},
+ , instances: 1, word: 'Scandaled', work: 'Cor'},
+ , instances: 1, word: 'Scape', work: 'Cor'},
+ , instances: 1, word: 'Scarce', work: 'Cor'},
+ , instances: 1, word: 'Scarcely', work: 'Cor'},
+ , instances: 1, word: 'Scarred', work: 'Cor'},
+ , instances: 1, word: 'Scarves', work: 'Cor'},
+ , instances: 1, word: 'Scattered', work: 'Cor'},
+ , instances: 1, word: 'Schoolboys\'', work: 'Cor'},
+ , instances: 1, word: 'Schooled', work: 'Cor'},
+ , instances: 1, word: 'Schoolmaster', work: 'Cor'},
+ , instances: 1, word: 'Scold', work: 'Cor'},
+ , instances: 1, word: 'Sconce', work: 'Cor'},
+ , instances: 1, word: 'Scorned', work: 'Cor'},
+ , instances: 1, word: 'Scornfully', work: 'Cor'},
+ , instances: 1, word: 'Scotched', work: 'Cor'},
+ , instances: 1, word: 'Scourge', work: 'Cor'},
+ , instances: 1, word: 'Scratch', work: 'Cor'},
+ , instances: 1, word: 'Scratches', work: 'Cor'},
+ , instances: 1, word: 'Seamark', work: 'Cor'},
+ , instances: 1, word: 'Seasoned', work: 'Cor'},
+ , instances: 1, word: 'Seat', work: 'Cor'},
+ , instances: 1, word: 'Seats', work: 'Cor'},
+ , instances: 1, word: 'Seconded', work: 'Cor'},
+ , instances: 1, word: 'Sedition', work: 'Cor'},
+ , instances: 1, word: 'Seducing', work: 'Cor'},
+ , instances: 1, word: 'Seeks', work: 'Cor'},
+ , instances: 1, word: 'Seest', work: 'Cor'},
+ , instances: 1, word: 'Seld-shown', work: 'Cor'},
+ , instances: 1, word: 'Select', work: 'Cor'},
+ , instances: 1, word: 'Self', work: 'Cor'},
+ , instances: 1, word: 'Self-loving', work: 'Cor'},
+ , instances: 1, word: 'Selves', work: 'Cor'},
+ , instances: 1, word: 'Senate\'s', work: 'Cor'},
+ , instances: 1, word: 'Senator', work: 'Cor'},
+ , instances: 1, word: 'Sense', work: 'Cor'},
+ , instances: 1, word: 'Senseless', work: 'Cor'},
+ , instances: 1, word: 'Sensible', work: 'Cor'},
+ , instances: 1, word: 'Sensibly', work: 'Cor'},
+ , instances: 1, word: 'Sentence', work: 'Cor'},
+ , instances: 1, word: 'Serpent', work: 'Cor'},
+ , instances: 1, word: 'Servanted', work: 'Cor'},
+ , instances: 1, word: 'Sets', work: 'Cor'},
+ , instances: 1, word: 'Seventeen', work: 'Cor'},
+ , instances: 1, word: 'Seventy', work: 'Cor'},
+ , instances: 1, word: 'Severity', work: 'Cor'},
+ , instances: 1, word: 'Sewing', work: 'Cor'},
+ , instances: 1, word: 'Shade', work: 'Cor'},
+ , instances: 1, word: 'Shadow', work: 'Cor'},
+ , instances: 1, word: 'Shamed', work: 'Cor'},
+ , instances: 1, word: 'Shames', work: 'Cor'},
+ , instances: 1, word: 'Sheep', work: 'Cor'},
+ , instances: 1, word: 'Shent', work: 'Cor'},
+ , instances: 1, word: 'Shepherd', work: 'Cor'},
+ , instances: 1, word: 'Shepherds', work: 'Cor'},
+ , instances: 1, word: 'Shoes', work: 'Cor'},
+ , instances: 1, word: 'Shop', work: 'Cor'},
+ , instances: 1, word: 'Shops', work: 'Cor'},
+ , instances: 1, word: 'Shortened', work: 'Cor'},
+ , instances: 1, word: 'Shortly', work: 'Cor'},
+ , instances: 1, word: 'Shoulder', work: 'Cor'},
+ , instances: 1, word: 'Shower', work: 'Cor'},
+ , instances: 1, word: 'Shown', work: 'Cor'},
+ , instances: 1, word: 'Show\'st', work: 'Cor'},
+ , instances: 1, word: 'Shreds', work: 'Cor'},
+ , instances: 1, word: 'Shrinks', work: 'Cor'},
+ , instances: 1, word: 'Shrug', work: 'Cor'},
+ , instances: 1, word: 'Shunless', work: 'Cor'},
+ , instances: 1, word: 'Shunned', work: 'Cor'},
+ , instances: 1, word: 'Shunning', work: 'Cor'},
+ , instances: 1, word: 'Sided', work: 'Cor'},
+ , instances: 1, word: 'Sides', work: 'Cor'},
+ , instances: 1, word: 'Sighs', work: 'Cor'},
+ , instances: 1, word: 'Sights', work: 'Cor'},
+ , instances: 1, word: 'Silenced', work: 'Cor'},
+ , instances: 1, word: 'Silver', work: 'Cor'},
+ , instances: 1, word: 'Simply', work: 'Cor'},
+ , instances: 1, word: 'Sincerely', work: 'Cor'},
+ , instances: 1, word: 'Sinews', work: 'Cor'},
+ , instances: 1, word: 'Sing', work: 'Cor'},
+ , instances: 1, word: 'Singing', work: 'Cor'},
+ , instances: 1, word: 'Singly', work: 'Cor'},
+ , instances: 1, word: 'Singularity', work: 'Cor'},
+ , instances: 1, word: 'Sinking', work: 'Cor'},
+ , instances: 1, word: 'Sirs', work: 'Cor'},
+ , instances: 1, word: 'Sister', work: 'Cor'},
+ , instances: 1, word: 'Sithence', work: 'Cor'},
+ , instances: 1, word: 'Sixteen', work: 'Cor'},
+ , instances: 1, word: 'Size', work: 'Cor'},
+ , instances: 1, word: 'Skull', work: 'Cor'},
+ , instances: 1, word: 'Slander', work: 'Cor'},
+ , instances: 1, word: 'Slave\'s', work: 'Cor'},
+ , instances: 1, word: 'Sleepy', work: 'Cor'},
+ , instances: 1, word: 'Slew', work: 'Cor'},
+ , instances: 1, word: 'Slightness', work: 'Cor'},
+ , instances: 1, word: 'Slip', work: 'Cor'},
+ , instances: 1, word: 'Slippery', work: 'Cor'},
+ , instances: 1, word: 'Slyly', work: 'Cor'},
+ , instances: 1, word: 'Smart', work: 'Cor'},
+ , instances: 1, word: 'Smeared', work: 'Cor'},
+ , instances: 1, word: 'Smells', work: 'Cor'},
+ , instances: 1, word: 'Smelt', work: 'Cor'},
+ , instances: 1, word: 'Smiling', work: 'Cor'},
+ , instances: 1, word: 'Smilingly', work: 'Cor'},
+ , instances: 1, word: 'Smoking', work: 'Cor'},
+ , instances: 1, word: 'Smote', work: 'Cor'},
+ , instances: 1, word: 'Smothered', work: 'Cor'},
+ , instances: 1, word: 'Snow', work: 'Cor'},
+ , instances: 1, word: 'So-never-needed', work: 'Cor'},
+ , instances: 1, word: 'Soaring', work: 'Cor'},
+ , instances: 1, word: 'Soft-conscienced', work: 'Cor'},
+ , instances: 1, word: 'Softer', work: 'Cor'},
+ , instances: 1, word: 'Solace', work: 'Cor'},
+ , instances: 1, word: 'Sold', work: 'Cor'},
+ , instances: 1, word: 'Soldier\'s', work: 'Cor'},
+ , instances: 1, word: 'Sole', work: 'Cor'},
+ , instances: 1, word: 'Solely', work: 'Cor'},
+ , instances: 1, word: 'Solemness', work: 'Cor'},
+ , instances: 1, word: 'Sometimes', work: 'Cor'},
+ , instances: 1, word: 'Sooner', work: 'Cor'},
+ , instances: 1, word: 'Soothed', work: 'Cor'},
+ , instances: 1, word: 'Sought', work: 'Cor'},
+ , instances: 1, word: 'Soul\'s', work: 'Cor'},
+ , instances: 1, word: 'Soundly', work: 'Cor'},
+ , instances: 1, word: 'Sourly', work: 'Cor'},
+ , instances: 1, word: 'Sours', work: 'Cor'},
+ , instances: 1, word: 'Southward', work: 'Cor'},
+ , instances: 1, word: 'Sovereign', work: 'Cor'},
+ , instances: 1, word: 'Sovereignty', work: 'Cor'},
+ , instances: 1, word: 'Sowed', work: 'Cor'},
+ , instances: 1, word: 'Sowl', work: 'Cor'},
+ , instances: 1, word: 'Spacious', work: 'Cor'},
+ , instances: 1, word: 'Spake', work: 'Cor'},
+ , instances: 1, word: 'Spawn', work: 'Cor'},
+ , instances: 1, word: 'Speakest', work: 'Cor'},
+ , instances: 1, word: 'Spectacled', work: 'Cor'},
+ , instances: 1, word: 'Spectacles', work: 'Cor'},
+ , instances: 1, word: 'Spectatorship', work: 'Cor'},
+ , instances: 1, word: 'Speechless', work: 'Cor'},
+ , instances: 1, word: 'Speedy', work: 'Cor'},
+ , instances: 1, word: 'Spell', work: 'Cor'},
+ , instances: 1, word: 'Spices', work: 'Cor'},
+ , instances: 1, word: 'Spies', work: 'Cor'},
+ , instances: 1, word: 'Spire', work: 'Cor'},
+ , instances: 1, word: 'Spirits', work: 'Cor'},
+ , instances: 1, word: 'Spit', work: 'Cor'},
+ , instances: 1, word: 'Spite', work: 'Cor'},
+ , instances: 1, word: 'Spits', work: 'Cor'},
+ , instances: 1, word: 'Spleen', work: 'Cor'},
+ , instances: 1, word: 'Splinters', work: 'Cor'},
+ , instances: 1, word: 'Splitting', work: 'Cor'},
+ , instances: 1, word: 'Spoons', work: 'Cor'},
+ , instances: 1, word: 'Sport', work: 'Cor'},
+ , instances: 1, word: 'Spot', work: 'Cor'},
+ , instances: 1, word: 'Sprang', work: 'Cor'},
+ , instances: 1, word: 'Spread', work: 'Cor'},
+ , instances: 1, word: 'Sprightly', work: 'Cor'},
+ , instances: 1, word: 'Springs', work: 'Cor'},
+ , instances: 1, word: 'Spun', work: 'Cor'},
+ , instances: 1, word: 'Spur', work: 'Cor'},
+ , instances: 1, word: 'Spurn', work: 'Cor'},
+ , instances: 1, word: 'Stake', work: 'Cor'},
+ , instances: 1, word: 'Stale', work: 'Cor'},
+ , instances: 1, word: 'Stalls', work: 'Cor'},
+ , instances: 1, word: 'Stamped', work: 'Cor'},
+ , instances: 1, word: 'Stars', work: 'Cor'},
+ , instances: 1, word: 'Starts', work: 'Cor'},
+ , instances: 1, word: 'State\'s', work: 'Cor'},
+ , instances: 1, word: 'Statue', work: 'Cor'},
+ , instances: 1, word: 'Statutes', work: 'Cor'},
+ , instances: 1, word: 'Staves', work: 'Cor'},
+ , instances: 1, word: 'Stayed', work: 'Cor'},
+ , instances: 1, word: 'Stead', work: 'Cor'},
+ , instances: 1, word: 'Steep', work: 'Cor'},
+ , instances: 1, word: 'Stem', work: 'Cor'},
+ , instances: 1, word: 'Stern', work: 'Cor'},
+ , instances: 1, word: 'Stick', work: 'Cor'},
+ , instances: 1, word: 'Sticks', work: 'Cor'},
+ , instances: 1, word: 'Stirring', work: 'Cor'},
+ , instances: 1, word: 'Stirrup', work: 'Cor'},
+ , instances: 1, word: 'Stitchery', work: 'Cor'},
+ , instances: 1, word: 'Stock', work: 'Cor'},
+ , instances: 1, word: 'Stocks', work: 'Cor'},
+ , instances: 1, word: 'Stol\'n', work: 'Cor'},
+ , instances: 1, word: 'Stone', work: 'Cor'},
+ , instances: 1, word: 'Stoop', work: 'Cor'},
+ , instances: 1, word: 'Stooping', work: 'Cor'},
+ , instances: 1, word: 'Store', work: 'Cor'},
+ , instances: 1, word: 'Storehouses', work: 'Cor'},
+ , instances: 1, word: 'Stout', work: 'Cor'},
+ , instances: 1, word: 'Strains', work: 'Cor'},
+ , instances: 1, word: 'Stream', work: 'Cor'},
+ , instances: 1, word: 'Strew', work: 'Cor'},
+ , instances: 1, word: 'Stride', work: 'Cor'},
+ , instances: 1, word: 'Stripes', work: 'Cor'},
+ , instances: 1, word: 'Striving', work: 'Cor'},
+ , instances: 1, word: 'Strongest', work: 'Cor'},
+ , instances: 1, word: 'Strongly', work: 'Cor'},
+ , instances: 1, word: 'Strucken', work: 'Cor'},
+ , instances: 1, word: 'Stubble', work: 'Cor'},
+ , instances: 1, word: 'Stuck', work: 'Cor'},
+ , instances: 1, word: 'Stuff', work: 'Cor'},
+ , instances: 1, word: 'Stuffed', work: 'Cor'},
+ , instances: 1, word: 'Subdues', work: 'Cor'},
+ , instances: 1, word: 'Subjects', work: 'Cor'},
+ , instances: 1, word: 'Submit', work: 'Cor'},
+ , instances: 1, word: 'Subscribed', work: 'Cor'},
+ , instances: 1, word: 'Subsisting', work: 'Cor'},
+ , instances: 1, word: 'Suckle', work: 'Cor'},
+ , instances: 1, word: 'Suck\'st', work: 'Cor'},
+ , instances: 1, word: 'Sued-for', work: 'Cor'},
+ , instances: 1, word: 'Suffrage', work: 'Cor'},
+ , instances: 1, word: 'Suff\'ring', work: 'Cor'},
+ , instances: 1, word: 'Suggest', work: 'Cor'},
+ , instances: 1, word: 'Suggested', work: 'Cor'},
+ , instances: 1, word: 'Sulfur', work: 'Cor'},
+ , instances: 1, word: 'Summer', work: 'Cor'},
+ , instances: 1, word: 'Summon', work: 'Cor'},
+ , instances: 1, word: 'Summoned', work: 'Cor'},
+ , instances: 1, word: 'Supper', work: 'Cor'},
+ , instances: 1, word: 'Supple', work: 'Cor'},
+ , instances: 1, word: 'Suppler', work: 'Cor'},
+ , instances: 1, word: 'Suppliants', work: 'Cor'},
+ , instances: 1, word: 'Supplication', work: 'Cor'},
+ , instances: 1, word: 'Supplied', work: 'Cor'},
+ , instances: 1, word: 'Support', work: 'Cor'},
+ , instances: 1, word: 'Surcease', work: 'Cor'},
+ , instances: 1, word: 'Surer', work: 'Cor'},
+ , instances: 1, word: 'Surety', work: 'Cor'},
+ , instances: 1, word: 'Surfeit', work: 'Cor'},
+ , instances: 1, word: 'Surly', work: 'Cor'},
+ , instances: 1, word: 'Surnamed', work: 'Cor'},
+ , instances: 1, word: 'Surplus', work: 'Cor'},
+ , instances: 1, word: 'Survey', work: 'Cor'},
+ , instances: 1, word: 'Survivor', work: 'Cor'},
+ , instances: 1, word: 'Swearing', work: 'Cor'},
+ , instances: 1, word: 'Swifter', work: 'Cor'},
+ , instances: 1, word: 'Swiftness', work: 'Cor'},
+ , instances: 1, word: 'Swims', work: 'Cor'},
+ , instances: 1, word: 'Synod', work: 'Cor'},
+ , instances: 1, word: 'S\'', work: 'Cor'},
+ , instances: 1, word: 'Tabor', work: 'Cor'},
+ , instances: 1, word: 'Tabors', work: 'Cor'},
+ , instances: 1, word: 'Tackle\'s', work: 'Cor'},
+ , instances: 1, word: 'Tag', work: 'Cor'},
+ , instances: 1, word: 'Tailors', work: 'Cor'},
+ , instances: 1, word: 'Taints', work: 'Cor'},
+ , instances: 1, word: 'Taking', work: 'Cor'},
+ , instances: 1, word: 'Talking', work: 'Cor'},
+ , instances: 1, word: 'Talks', work: 'Cor'},
+ , instances: 1, word: 'Tame', work: 'Cor'},
+ , instances: 1, word: 'Tapers', work: 'Cor'},
+ , instances: 1, word: 'Target', work: 'Cor'},
+ , instances: 1, word: 'Tarquins', work: 'Cor'},
+ , instances: 1, word: 'Tarquin\'s', work: 'Cor'},
+ , instances: 1, word: 'Tartness', work: 'Cor'},
+ , instances: 1, word: 'Tasked', work: 'Cor'},
+ , instances: 1, word: 'Tauntingly', work: 'Cor'},
+ , instances: 1, word: 'Taunts', work: 'Cor'},
+ , instances: 1, word: 'Teach', work: 'Cor'},
+ , instances: 1, word: 'Teaches', work: 'Cor'},
+ , instances: 1, word: 'Tearing', work: 'Cor'},
+ , instances: 1, word: 'Telling', work: 'Cor'},
+ , instances: 1, word: 'Tells', work: 'Cor'},
+ , instances: 1, word: 'Temper', work: 'Cor'},
+ , instances: 1, word: 'Temperance', work: 'Cor'},
+ , instances: 1, word: 'Temperately', work: 'Cor'},
+ , instances: 1, word: 'Temporized', work: 'Cor'},
+ , instances: 1, word: 'Tempted', work: 'Cor'},
+ , instances: 1, word: 'Tend', work: 'Cor'},
+ , instances: 1, word: 'Tender', work: 'Cor'},
+ , instances: 1, word: 'Tender-bodied', work: 'Cor'},
+ , instances: 1, word: 'Tenderness', work: 'Cor'},
+ , instances: 1, word: 'Tending', work: 'Cor'},
+ , instances: 1, word: 'Tenth', work: 'Cor'},
+ , instances: 1, word: 'Terrible', work: 'Cor'},
+ , instances: 1, word: 'Terror', work: 'Cor'},
+ , instances: 1, word: 'Testy', work: 'Cor'},
+ , instances: 1, word: 'Tetter', work: 'Cor'},
+ , instances: 1, word: 'Thankful', work: 'Cor'},
+ , instances: 1, word: 'Thankfulness', work: 'Cor'},
+ , instances: 1, word: 'Thankless', work: 'Cor'},
+ , instances: 1, word: 'Theft', work: 'Cor'},
+ , instances: 1, word: 'Theme', work: 'Cor'},
+ , instances: 1, word: 'Themes', work: 'Cor'},
+ , instances: 1, word: 'Therefor', work: 'Cor'},
+ , instances: 1, word: 'They\'ve', work: 'Cor'},
+ , instances: 1, word: 'Thief', work: 'Cor'},
+ , instances: 1, word: 'Thigh', work: 'Cor'},
+ , instances: 1, word: 'Think\'st', work: 'Cor'},
+ , instances: 1, word: 'Thirst', work: 'Cor'},
+ , instances: 1, word: 'Thoroughly', work: 'Cor'},
+ , instances: 1, word: 'Thousands', work: 'Cor'},
+ , instances: 1, word: 'Thread', work: 'Cor'},
+ , instances: 1, word: 'Threat\'ning', work: 'Cor'},
+ , instances: 1, word: 'Threepence', work: 'Cor'},
+ , instances: 1, word: 'Threes', work: 'Cor'},
+ , instances: 1, word: 'Thrice', work: 'Cor'},
+ , instances: 1, word: 'Thrive', work: 'Cor'},
+ , instances: 1, word: 'Thrives', work: 'Cor'},
+ , instances: 1, word: 'Throngs', work: 'Cor'},
+ , instances: 1, word: 'Thrown', work: 'Cor'},
+ , instances: 1, word: 'Throws', work: 'Cor'},
+ , instances: 1, word: 'Thrusts', work: 'Cor'},
+ , instances: 1, word: 'Thumb', work: 'Cor'},
+ , instances: 1, word: 'Thunderlike', work: 'Cor'},
+ , instances: 1, word: 'Thwartings', work: 'Cor'},
+ , instances: 1, word: 'Tickled', work: 'Cor'},
+ , instances: 1, word: 'Tide', work: 'Cor'},
+ , instances: 1, word: 'Tidings', work: 'Cor'},
+ , instances: 1, word: 'Tiger', work: 'Cor'},
+ , instances: 1, word: 'Tiger-footed', work: 'Cor'},
+ , instances: 1, word: 'Timed', work: 'Cor'},
+ , instances: 1, word: 'Timepleasers', work: 'Cor'},
+ , instances: 1, word: 'Tinder-like', work: 'Cor'},
+ , instances: 1, word: 'Tire', work: 'Cor'},
+ , instances: 1, word: 'Title', work: 'Cor'},
+ , instances: 1, word: 'Titleless', work: 'Cor'},
+ , instances: 1, word: 'Toge', work: 'Cor'},
+ , instances: 1, word: 'Token', work: 'Cor'},
+ , instances: 1, word: 'Tomb', work: 'Cor'},
+ , instances: 1, word: 'Topping', work: 'Cor'},
+ , instances: 1, word: 'Torn', work: 'Cor'},
+ , instances: 1, word: 'Touching', work: 'Cor'},
+ , instances: 1, word: 'Towns', work: 'Cor'},
+ , instances: 1, word: 'Tradesmen', work: 'Cor'},
+ , instances: 1, word: 'Traducement', work: 'Cor'},
+ , instances: 1, word: 'Trail', work: 'Cor'},
+ , instances: 1, word: 'Traitorous', work: 'Cor'},
+ , instances: 1, word: 'Traitors', work: 'Cor'},
+ , instances: 1, word: 'Translate', work: 'Cor'},
+ , instances: 1, word: 'Transport', work: 'Cor'},
+ , instances: 1, word: 'Transported', work: 'Cor'},
+ , instances: 1, word: 'Treading', work: 'Cor'},
+ , instances: 1, word: 'Treads', work: 'Cor'},
+ , instances: 1, word: 'Treason', work: 'Cor'},
+ , instances: 1, word: 'Trees', work: 'Cor'},
+ , instances: 1, word: 'Tremble', work: 'Cor'},
+ , instances: 1, word: 'Trembling', work: 'Cor'},
+ , instances: 1, word: 'Trencher', work: 'Cor'},
+ , instances: 1, word: 'Tribunes\'', work: 'Cor'},
+ , instances: 1, word: 'Tricks', work: 'Cor'},
+ , instances: 1, word: 'Trident', work: 'Cor'},
+ , instances: 1, word: 'Tried', work: 'Cor'},
+ , instances: 1, word: 'Trier', work: 'Cor'},
+ , instances: 1, word: 'Trim', work: 'Cor'},
+ , instances: 1, word: 'Triton', work: 'Cor'},
+ , instances: 1, word: 'Triumph', work: 'Cor'},
+ , instances: 1, word: 'Triumphant', work: 'Cor'},
+ , instances: 1, word: 'Triumphantly', work: 'Cor'},
+ , instances: 1, word: 'Trivial', work: 'Cor'},
+ , instances: 1, word: 'Troop', work: 'Cor'},
+ , instances: 1, word: 'Trophy', work: 'Cor'},
+ , instances: 1, word: 'Troublesome', work: 'Cor'},
+ , instances: 1, word: 'Truer', work: 'Cor'},
+ , instances: 1, word: 'Trumpet', work: 'Cor'},
+ , instances: 1, word: 'Trumpeter', work: 'Cor'},
+ , instances: 1, word: 'Trunk', work: 'Cor'},
+ , instances: 1, word: 'Trusts', work: 'Cor'},
+ , instances: 1, word: 'Tullus\'', work: 'Cor'},
+ , instances: 1, word: 'Tumble', work: 'Cor'},
+ , instances: 1, word: 'Tumbled', work: 'Cor'},
+ , instances: 1, word: 'Tune', work: 'Cor'},
+ , instances: 1, word: 'Tuns', work: 'Cor'},
+ , instances: 1, word: 'Twenty', work: 'Cor'},
+ , instances: 1, word: 'Twenty-five', work: 'Cor'},
+ , instances: 1, word: 'Twenty-seven', work: 'Cor'},
+ , instances: 1, word: 'Twin', work: 'Cor'},
+ , instances: 1, word: 'Twine', work: 'Cor'},
+ , instances: 1, word: 'Twist', work: 'Cor'},
+ , instances: 1, word: 'Twos', work: 'Cor'},
+ , instances: 1, word: 'Tying', work: 'Cor'},
+ , instances: 1, word: 'Tyranny', work: 'Cor'},
+ , instances: 1, word: 'Ulysses\'', work: 'Cor'},
+ , instances: 1, word: 'Unaching', work: 'Cor'},
+ , instances: 1, word: 'Unactive', work: 'Cor'},
+ , instances: 1, word: 'Unapt', work: 'Cor'},
+ , instances: 1, word: 'Unbarbèd', work: 'Cor'},
+ , instances: 1, word: 'Unborn', work: 'Cor'},
+ , instances: 1, word: 'Unbruised', work: 'Cor'},
+ , instances: 1, word: 'Unbuckling', work: 'Cor'},
+ , instances: 1, word: 'Unbuild', work: 'Cor'},
+ , instances: 1, word: 'Unburied', work: 'Cor'},
+ , instances: 1, word: 'Unburnt', work: 'Cor'},
+ , instances: 1, word: 'Uncertainty', work: 'Cor'},
+ , instances: 1, word: 'Unchilded', work: 'Cor'},
+ , instances: 1, word: 'Unclog', work: 'Cor'},
+ , instances: 1, word: 'Undercrest', work: 'Cor'},
+ , instances: 1, word: 'Understand', work: 'Cor'},
+ , instances: 1, word: 'Understood', work: 'Cor'},
+ , instances: 1, word: 'Undo', work: 'Cor'},
+ , instances: 1, word: 'Unelected', work: 'Cor'},
+ , instances: 1, word: 'Unfilled', work: 'Cor'},
+ , instances: 1, word: 'Unfortunate', work: 'Cor'},
+ , instances: 1, word: 'Ungrateful', work: 'Cor'},
+ , instances: 1, word: 'Ungravely', work: 'Cor'},
+ , instances: 1, word: 'Unheard', work: 'Cor'},
+ , instances: 1, word: 'Unhearts', work: 'Cor'},
+ , instances: 1, word: 'Unholy', work: 'Cor'},
+ , instances: 1, word: 'Unjust', work: 'Cor'},
+ , instances: 1, word: 'Unkindness', work: 'Cor'},
+ , instances: 1, word: 'Unknit', work: 'Cor'},
+ , instances: 1, word: 'Unlike', work: 'Cor'},
+ , instances: 1, word: 'Unlikely', work: 'Cor'},
+ , instances: 1, word: 'Unmeriting', work: 'Cor'},
+ , instances: 1, word: 'Unmusical', work: 'Cor'},
+ , instances: 1, word: 'Unparalleled', work: 'Cor'},
+ , instances: 1, word: 'Unproperly', work: 'Cor'},
+ , instances: 1, word: 'Unreasonably', work: 'Cor'},
+ , instances: 1, word: 'Unroofed', work: 'Cor'},
+ , instances: 1, word: 'Unsaluted', work: 'Cor'},
+ , instances: 1, word: 'Unscanned', work: 'Cor'},
+ , instances: 1, word: 'Unseparable', work: 'Cor'},
+ , instances: 1, word: 'Unsevered', work: 'Cor'},
+ , instances: 1, word: 'Unshout', work: 'Cor'},
+ , instances: 1, word: 'Unstable', work: 'Cor'},
+ , instances: 1, word: 'Unswayable', work: 'Cor'},
+ , instances: 1, word: 'Unswept', work: 'Cor'},
+ , instances: 1, word: 'Until', work: 'Cor'},
+ , instances: 1, word: 'Unvulnerable', work: 'Cor'},
+ , instances: 1, word: 'Unwholesome', work: 'Cor'},
+ , instances: 1, word: 'Unwise', work: 'Cor'},
+ , instances: 1, word: 'Unworthy', work: 'Cor'},
+ , instances: 1, word: 'Upbraid', work: 'Cor'},
+ , instances: 1, word: 'Upper', work: 'Cor'},
+ , instances: 1, word: 'Urge', work: 'Cor'},
+ , instances: 1, word: 'Urged', work: 'Cor'},
+ , instances: 1, word: 'Urn', work: 'Cor'},
+ , instances: 1, word: 'Ushers', work: 'Cor'},
+ , instances: 1, word: 'Using', work: 'Cor'},
+ , instances: 1, word: 'Usurers', work: 'Cor'},
+ , instances: 1, word: 'Usury', work: 'Cor'},
+ , instances: 1, word: 'Utter', work: 'Cor'},
+ , instances: 1, word: 'Utt\'rance', work: 'Cor'},
+ , instances: 1, word: 'Vagabond', work: 'Cor'},
+ , instances: 1, word: 'Vail', work: 'Cor'},
+ , instances: 1, word: 'Vain', work: 'Cor'},
+ , instances: 1, word: 'Valiantness', work: 'Cor'},
+ , instances: 1, word: 'Valor\'s', work: 'Cor'},
+ , instances: 1, word: 'Vanquisher', work: 'Cor'},
+ , instances: 1, word: 'Variable', work: 'Cor'},
+ , instances: 1, word: 'Varlet', work: 'Cor'},
+ , instances: 1, word: 'Vassals', work: 'Cor'},
+ , instances: 1, word: 'Vast', work: 'Cor'},
+ , instances: 1, word: 'Vaward', work: 'Cor'},
+ , instances: 1, word: 'Velutus', work: 'Cor'},
+ , instances: 1, word: 'Venomous', work: 'Cor'},
+ , instances: 1, word: 'Vented', work: 'Cor'},
+ , instances: 1, word: 'Verdict', work: 'Cor'},
+ , instances: 1, word: 'Verified', work: 'Cor'},
+ , instances: 1, word: 'Verily', work: 'Cor'},
+ , instances: 1, word: 'Verity', work: 'Cor'},
+ , instances: 1, word: 'Vesture', work: 'Cor'},
+ , instances: 1, word: 'Vexation', work: 'Cor'},
+ , instances: 1, word: 'Vexed', work: 'Cor'},
+ , instances: 1, word: 'Viand', work: 'Cor'},
+ , instances: 1, word: 'Vice', work: 'Cor'},
+ , instances: 1, word: 'Vigilant', work: 'Cor'},
+ , instances: 1, word: 'Vile', work: 'Cor'},
+ , instances: 1, word: 'Vilely', work: 'Cor'},
+ , instances: 1, word: 'Villain', work: 'Cor'},
+ , instances: 1, word: 'Violently', work: 'Cor'},
+ , instances: 1, word: 'Violent\'st', work: 'Cor'},
+ , instances: 1, word: 'Viper', work: 'Cor'},
+ , instances: 1, word: 'Viperous', work: 'Cor'},
+ , instances: 1, word: 'Virgilia', work: 'Cor'},
+ , instances: 1, word: 'Virgin', work: 'Cor'},
+ , instances: 1, word: 'Virginal', work: 'Cor'},
+ , instances: 1, word: 'Virgined', work: 'Cor'},
+ , instances: 1, word: 'Visage', work: 'Cor'},
+ , instances: 1, word: 'Visited', work: 'Cor'},
+ , instances: 1, word: 'Volscians\'', work: 'Cor'},
+ , instances: 1, word: 'Volume', work: 'Cor'},
+ , instances: 1, word: 'Volumnia', work: 'Cor'},
+ , instances: 1, word: 'Voluptuously', work: 'Cor'},
+ , instances: 1, word: 'Vouched', work: 'Cor'},
+ , instances: 1, word: 'Vouches', work: 'Cor'},
+ , instances: 1, word: 'Vow', work: 'Cor'},
+ , instances: 1, word: 'Waged', work: 'Cor'},
+ , instances: 1, word: 'Wager', work: 'Cor'},
+ , instances: 1, word: 'Wagging', work: 'Cor'},
+ , instances: 1, word: 'Wail', work: 'Cor'},
+ , instances: 1, word: 'Wait', work: 'Cor'},
+ , instances: 1, word: 'Waked', work: 'Cor'},
+ , instances: 1, word: 'Walk', work: 'Cor'},
+ , instances: 1, word: 'Walking', work: 'Cor'},
+ , instances: 1, word: 'Walks', work: 'Cor'},
+ , instances: 1, word: 'Wall', work: 'Cor'},
+ , instances: 1, word: 'Wanting', work: 'Cor'},
+ , instances: 1, word: 'Wanton', work: 'Cor'},
+ , instances: 1, word: 'Warm', work: 'Cor'},
+ , instances: 1, word: 'Warmed', work: 'Cor'},
+ , instances: 1, word: 'Warning', work: 'Cor'},
+ , instances: 1, word: 'Warrior', work: 'Cor'},
+ , instances: 1, word: 'Wars\'', work: 'Cor'},
+ , instances: 1, word: 'Washed', work: 'Cor'},
+ , instances: 1, word: 'Wast', work: 'Cor'},
+ , instances: 1, word: 'Watch', work: 'Cor'},
+ , instances: 1, word: 'Watched', work: 'Cor'},
+ , instances: 1, word: 'Watered', work: 'Cor'},
+ , instances: 1, word: 'Waters', work: 'Cor'},
+ , instances: 1, word: 'Waved', work: 'Cor'},
+ , instances: 1, word: 'Waw', work: 'Cor'},
+ , instances: 1, word: 'Waxèd', work: 'Cor'},
+ , instances: 1, word: 'Weak', work: 'Cor'},
+ , instances: 1, word: 'Weaker', work: 'Cor'},
+ , instances: 1, word: 'Weakness', work: 'Cor'},
+ , instances: 1, word: 'Wealsmen', work: 'Cor'},
+ , instances: 1, word: 'Wealth', work: 'Cor'},
+ , instances: 1, word: 'Wedded', work: 'Cor'},
+ , instances: 1, word: 'Wedged', work: 'Cor'},
+ , instances: 1, word: 'Wednesday', work: 'Cor'},
+ , instances: 1, word: 'Weed', work: 'Cor'},
+ , instances: 1, word: 'Weeded', work: 'Cor'},
+ , instances: 1, word: 'Weep\'st', work: 'Cor'},
+ , instances: 1, word: 'Weigh', work: 'Cor'},
+ , instances: 1, word: 'Well-found', work: 'Cor'},
+ , instances: 1, word: 'Wert', work: 'Cor'},
+ , instances: 1, word: 'Whatever', work: 'Cor'},
+ , instances: 1, word: 'Whatsoever', work: 'Cor'},
+ , instances: 1, word: 'Whene\'er', work: 'Cor'},
+ , instances: 1, word: 'Whereagainst', work: 'Cor'},
+ , instances: 1, word: 'Whereat', work: 'Cor'},
+ , instances: 1, word: 'Whereby', work: 'Cor'},
+ , instances: 1, word: 'Whereon', work: 'Cor'},
+ , instances: 1, word: 'Whiles', work: 'Cor'},
+ , instances: 1, word: 'Whilest', work: 'Cor'},
+ , instances: 1, word: 'Whined', work: 'Cor'},
+ , instances: 1, word: 'Whipped', work: 'Cor'},
+ , instances: 1, word: 'Whisper', work: 'Cor'},
+ , instances: 1, word: 'Whoever', work: 'Cor'},
+ , instances: 1, word: 'Whooped', work: 'Cor'},
+ , instances: 1, word: 'Wide', work: 'Cor'},
+ , instances: 1, word: 'Widens', work: 'Cor'},
+ , instances: 1, word: 'Widowed', work: 'Cor'},
+ , instances: 1, word: 'Wife\'s', work: 'Cor'},
+ , instances: 1, word: 'Willing', work: 'Cor'},
+ , instances: 1, word: 'Wind-shaken', work: 'Cor'},
+ , instances: 1, word: 'Windows', work: 'Cor'},
+ , instances: 1, word: 'Winds', work: 'Cor'},
+ , instances: 1, word: 'Wings', work: 'Cor'},
+ , instances: 1, word: 'Wipe', work: 'Cor'},
+ , instances: 1, word: 'Wiped', work: 'Cor'},
+ , instances: 1, word: 'Wiping', work: 'Cor'},
+ , instances: 1, word: 'Wisdoms', work: 'Cor'},
+ , instances: 1, word: 'Wishes', work: 'Cor'},
+ , instances: 1, word: 'Witchcraft\'s', work: 'Cor'},
+ , instances: 1, word: 'Withdraw', work: 'Cor'},
+ , instances: 1, word: 'Womb\'s', work: 'Cor'},
+ , instances: 1, word: 'Women\'s', work: 'Cor'},
+ , instances: 1, word: 'Wond\'ring', work: 'Cor'},
+ , instances: 1, word: 'Wooed', work: 'Cor'},
+ , instances: 1, word: 'Woolen', work: 'Cor'},
+ , instances: 1, word: 'Woolvish', work: 'Cor'},
+ , instances: 1, word: 'Worship', work: 'Cor'},
+ , instances: 1, word: 'Worshipful', work: 'Cor'},
+ , instances: 1, word: 'Worthiness', work: 'Cor'},
+ , instances: 1, word: 'Wounds\'', work: 'Cor'},
+ , instances: 1, word: 'Wracked', work: 'Cor'},
+ , instances: 1, word: 'Wreak', work: 'Cor'},
+ , instances: 1, word: 'Wrench', work: 'Cor'},
+ , instances: 1, word: 'Write', work: 'Cor'},
+ , instances: 1, word: 'Writes', work: 'Cor'},
+ , instances: 1, word: 'Writing', work: 'Cor'},
+ , instances: 1, word: 'Written', work: 'Cor'},
+ , instances: 1, word: 'Wrought', work: 'Cor'},
+ , instances: 1, word: 'Yarn', work: 'Cor'},
+ , instances: 1, word: 'Yawn', work: 'Cor'},
+ , instances: 1, word: 'Years\'', work: 'Cor'},
+ , instances: 1, word: 'Yesterday', work: 'Cor'},
+ , instances: 1, word: 'Yielding', work: 'Cor'},
+ , instances: 1, word: 'Yields', work: 'Cor'},
+ , instances: 1, word: 'Yoke', work: 'Cor'},
+ , instances: 1, word: 'Younger', work: 'Cor'},
+ , instances: 1, word: 'Youngly', work: 'Cor'},
+ , instances: 1, word: 'Young\'st', work: 'Cor'},
+ , instances: 1, word: 'You\'st', work: 'Cor'},
+ , instances: 1, word: '\'bout', work: 'Cor'},
+ , instances: 1, word: '\'faith', work: 'Cor'},
+ , instances: 1, word: '\'fidiused', work: 'Cor'},
+ , instances: 1, word: '\'larum', work: 'Cor'},
+ , instances: 1, word: '\'longs', work: 'Cor'},
+ , instances: 1, word: '\'rt', work: 'Cor'},
+ , instances: 1, word: '\'sdeath', work: 'Cor'},
+ , instances: 1, word: '\'voided', work: 'Cor'},

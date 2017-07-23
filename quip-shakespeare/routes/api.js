@@ -163,7 +163,6 @@ router.get('/character-weight', function(req, res, next) {
 // ===== CHARACTER-ORIGIN =====
 router.get('/character-origin', function(req, res, next) {
   let sample = 'CHARACTER NAME'
-
   gameController.getNRandomWorks(1, excludeList)
     .then(function(correctOption) {
     let correctWorkId = correctOption[0].id
@@ -258,30 +257,46 @@ router.get ('/word-frequency', function(req, res, next) {
 
   // It is possible in a single SQL statment to say 'give me 4 random rows that are from play X and do not contain the words in this list'
   let example = 'Hamlet'
-  let data = {
-    imageUpdate: false,
-    question: `Which of the following occurs more frequently in ${example}?`,
-    questionType: 'word-frequency',
-    options: [
-      {
-        label: 'generous',
-        isCorrect:true
-      },
-      {
-        label: 'Horatio',
-        isCorrect:false
-      },
-      {
-        label: 'dead',
-        isCorrect:false
-      },
-      {
-        label: 'does',
-        isCorrect:false
-      }
-    ]
-  }
-  res.send(data)
+  let concordance = ['1H4', '1H6', '2H4', '2H6', 'AWW']
+
+  gameController.getNWorksConcord(1, concordance)
+    .then(function(work) {
+      let selectedWork = work[0].idno
+      let title = work[0].title
+      gameController.getNWords(selectedWork, 4).then(function(wordOptions) {
+        console.log('wordoptions are ', wordOptions)
+        let shuffled = util.shuffle(wordOptions)
+        console.log('shuffled: ', shuffled);
+        let inOrder = (util.sortArrayByKey(wordOptions, 'instances'))
+        console.log('inOrder: ', inOrder);
+        let first = inOrder[0]
+
+        let data = {
+          imageUpdate: false,
+          question: `Which of the following occurs more frequently in ${title}?`,
+          questionType: 'word-frequency',
+          options: [
+            {
+              label: wordOptions[0].word,
+              isCorrect: ((shuffled[0].instances) === inOrder[0].instances)
+            },
+            {
+              label: wordOptions[1].word,
+              isCorrect: ((shuffled[1].instances) === inOrder[0].instances)
+            },
+            {
+              label: wordOptions[2].word,
+              isCorrect: ((shuffled[2].instances) === inOrder[0].instances)
+            },
+            {
+              label: wordOptions[3].word,
+              isCorrect: ((shuffled[3].instances) === inOrder[0].instances)
+            }
+          ]
+        } // data
+        res.send(data)
+      }) // .then of getNRandomWords
+    }) // getNWorksConcord
 }) // CONCORDANCE (WORD FREQUENCY)
 
 module.exports = router

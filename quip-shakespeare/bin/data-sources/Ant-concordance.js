@@ -1,3886 +1,3884 @@
-Concordance of Antony and Cleopatra:
-
-747: The
-599: And
-529: To
-522: I
-431: Of
-361: You
-314: My
-296: A
-292: That
-280: Is
-260: Not
-258: In
-248: Me
-224: Have
-217: He
-214: It
-207: His
-189: For
-186: Be
-183: Him
-181: With
-180: But
-179: Thou
-169: This
-146: We
-140: So
-140: Your
-138: Our
-137: What
-136: As
-134: Caesar
-133: Antony
-128: Shall
-127: Will
-123: Her
-121: Do
-111: Thy
-110: No
-110: Thee
-108: Which
-102: By
-100: All
-96: O
-96: On
-92: Come
-89: If
-88: Now
-85: Good
-85: Th’
-84: Are
-82: She
-82: Well
-81: ’t
-80: From
-80: Let
-79: Sir
-75: When
-74: At
-72: Make
-69: Did
-68: More
-66: Their
-65: Would
-64: Should
-64: They
-64: Us
-62: Upon
-61: Was
-60: How
-60: Most
-60: Or
-60: Then
-59: ’tis
-55: I’ll
-54: Go
-54: Lord
-54: Them
-53: Like
-53: Must
-53: Say
-52: Am
-52: Give
-52: Madam
-52: Than
-52: There
-50: Had
-50: Mine
-49: See
-49: Take
-48: Great
-47: Know
-46: Here
-45: Queen
-44: Hath
-44: Yet
-43: An
-42: World
-41: Egypt
-41: Man
-40: Were
-40: Where
-38: Hear
-38: Heart
-38: Love
-38: May
-38: Speak
-37: Done
-37: One
-37: Too
-37: Up
-36: Out
-36: Such
-35: Gods
-35: Never
-34: Can
-33: Made
-33: Noble
-32: Death
-30: Rome
-30: Time
-29: Does
-29: Friends
-29: Tell
-29: Way
-28: Cleopatra
-28: Think
-27: Eros
-27: Much
-27: Pompey
-27: Some
-27: Why
-26: Hand
-26: Hast
-26: Nay
-26: Sea
-26: Till
-25: Being
-25: Cannot
-25: Charmian
-25: Fortune
-25: I’
-25: Look
-24: Best
-24: Dead
-24: Fight
-24: O’
-24: Though
-24: Thus
-23: Art
-23: Before
-23: Caesar’s
-23: Has
-23: Octavia
-22: Eyes
-22: Land
-22: Men
-22: Might
-22: Sword
-22: These
-22: Who
-22: Women
-21: Bear
-21: Farewell
-21: Nor
-21: Nothing
-21: Own
-20: Better
-20: Both
-20: Bring
-20: Honor
-20: Myself
-20: Very
-20: War
-19: Again
-19: Follow
-19: Lady
-19: Leave
-19: Lepidus
-19: Let’s
-19: Mark
-19: Pray
-19: There’s
-19: Whose
-18: Away
-18: Could
-18: Die
-18: Hence
-18: Indeed
-18: Into
-18: Life
-18: Name
-18: Part
-17: Call
-17: Dear
-17: Forth
-17: Fortunes
-17: Gone
-17: Once
-17: Thine
-17: Those
-16: Been
-16: Cause
-16: Find
-16: Heard
-16: He’s
-16: Makes
-16: Many
-16: Other
-16: Peace
-16: Rather
-16: Soldier
-16: Still
-16: Wars
-16: Welcome
-15: Against
-15: Between
-15: Last
-15: Master
-15: Power
-15: Put
-15: Since
-15: Together
-15: Word
-15: Yourself
-14: Ay
-14: Back
-14: Brother
-14: Day
-14: Draw
-14: Else
-14: Enobarbus
-14: Ever
-14: Fulvia
-14: Horse
-14: Kings
-14: Matter
-14: News
-14: Off
-14: Pardon
-14: Please
-14: Strange
-14: Things
-14: True
-14: We’ll
-14: What’s
-14: Whom
-14: Wife
-13: Earth
-13: Every
-13: Face
-13: Gentle
-13: High
-13: Himself
-13: Keep
-13: Married
-13: Poor
-13: Show
-13: That’s
-13: Woman
-13: ’s
-12: Bid
-12: Blood
-12: Brave
-12: Drink
-12: Fall
-12: Full
-12: Guard
-12: Ho
-12: Pleasure
-12: Send
-12: Sent
-12: Therefore
-12: Thought
-11: After
-11: Fear
-11: Fellow
-11: First
-11: Further
-11: Hands
-11: Hearts
-11: Hither
-11: Left
-11: Long
-11: Lost
-11: Night
-11: None
-11: Report
-11: Said
-11: Stand
-11: Thoughts
-11: Through
-11: Unto
-11: Where’s
-11: Whole
-11: Yours
-10: Agrippa
-10: Alexas
-10: Alone
-10: Break
-10: Business
-10: Command
-10: Ear
-10: Even
-10: Fly
-10: Friend
-10: Gold
-10: Goodnight
-10: Help
-10: Hold
-10: Honest
-10: Itself
-10: Lay
-10: Lie
-10: Lips
-10: Loves
-10: Note
-10: Only
-10: Prithee
-10: Sleep
-10: Spoke
-10: Strike
-10: Turn
-9: Ah
-9: Appear
-9: Behold
-9: Certain
-9: Comes
-9: Down
-9: Each
-9: Egyptian
-9: Emperor
-9: Enough
-9: Get
-9: Given
-9: Iras
-9: Kiss
-9: Lead
-9: Little
-9: Live
-9: Menas
-9: Present
-9: Quick
-9: Royal
-9: Sad
-9: Seen
-9: Service
-9: Shame
-9: Sister
-9: Spirit
-9: Strong
-9: Thing
-9: Tomorrow
-9: Weep
-9: Wish
-9: Worthy
-8: Answer
-8: Beat
-8: Becomes
-8: Called
-8: Captain
-8: Change
-8: Dare
-8: Dispatch
-8: Dolabella
-8: Dost
-8: Ere
-8: Fair
-8: Far
-8: Fool
-8: Grace
-8: Half
-8: Head
-8: Hope
-8: Ill
-8: Isis
-8: Mean
-8: Mistress
-8: Ne’er
-8: People
-8: Place
-8: Roman
-8: Saw
-8: Set
-8: Stay
-8: Sure
-8: Sweet
-8: Tongue
-8: Tonight
-8: Use
-8: Water
-8: Whilst
-8: Wine
-8: Worm
-8: ’gainst
-7: About
-7: Act
-7: Adieu
-7: Already
-7: Another
-7: Become
-7: Bed
-7: Chance
-7: Cold
-7: Comfort
-7: Dying
-7: End
-7: False
-7: Field
-7: Going
-7: Greater
-7: Hang
-7: Hark
-7: Heaven
-7: Hour
-7: Kept
-7: Knew
-7: Known
-7: Knows
-7: Letters
-7: Loud
-7: Majesty
-7: Messenger
-7: Monument
-7: Moon
-7: Nature
-7: Next
-7: Old
-7: Ourselves
-7: Patience
-7: Pity
-7: Play
-7: Purpose
-7: Says
-7: Serve
-7: Side
-7: Sit
-7: State
-7: Strength
-7: Thanks
-7: Three
-7: Trust
-7: Under
-7: Without
-7: Words
-7: Wouldst
-7: Yes
-7: You’ll
-6: Absolute
-6: Air
-6: Approach
-6: Army
-6: Ask
-6: Body
-6: Boy
-6: Boys
-6: Brought
-6: Calls
-6: Charge
-6: Color
-6: Died
-6: Excellent
-6: Eye
-6: Fare
-6: Feast
-6: Forbear
-6: Force
-6: Fought
-6: Found
-6: Free
-6: Goes
-6: Greatest
-6: Greatness
-6: Ha
-6: Health
-6: King
-6: Kingdoms
-6: Late
-6: Less
-6: Lies
-6: Lived
-6: Lives
-6: Lose
-6: Loved
-6: Music
-6: Naught
-6: Near
-6: Needs
-6: Often
-6: Ours
-6: O’er
-6: Parthia
-6: Praise
-6: Sails
-6: Seek
-6: Seem
-6: Served
-6: Shake
-6: She’s
-6: Shouldst
-6: Soft
-6: Something
-6: Sorrow
-6: Sovereign
-6: Speaks
-6: Tears
-6: Thank
-6: Themselves
-6: Times
-6: Today
-6: Weight
-6: Whipped
-6: Wilt
-6: Work
-6: Yield
-5: Action
-5: Alexandria
-5: Alike
-5: Apace
-5: Arm
-5: Attend
-5: Begin
-5: Begone
-5: Believe
-5: Beseech
-5: Betrayed
-5: Brain
-5: Breath
-5: Came
-5: Canidius
-5: Case
-5: Cast
-5: Conquer
-5: Course
-5: Crown
-5: Cup
-5: Deed
-5: Deny
-5: Deserved
-5: Desire
-5: Doth
-5: Eat
-5: Empire
-5: Eunuch
-5: Father
-5: Faults
-5: Fellows
-5: Fie
-5: Followed
-5: Foot
-5: Former
-5: Gave
-5: General
-5: God
-5: Gracious
-5: Hail
-5: Haste
-5: Having
-5: Here’s
-5: Honorable
-5: Hours
-5: House
-5: Husband
-5: Idleness
-5: Italy
-5: Jove
-5: Judgment
-5: Kind
-5: Knave
-5: Kneel
-5: Labor
-5: Lack
-5: Laugh
-5: Led
-5: Mad
-5: Marcus
-5: Mars
-5: Melt
-5: Merry
-5: Mind
-5: Mock
-5: New
-5: Nile
-5: Noise
-5: Obey
-5: Office
-5: Passion
-5: Person
-5: Petty
-5: Pleased
-5: Prayer
-5: Prepared
-5: Proculeius
-5: Purposes
-5: Quickly
-5: Remain
-5: Rest
-5: Return
-5: Rise
-5: Round
-5: Shalt
-5: Ships
-5: Shown
-5: Soon
-5: Speech
-5: Stands
-5: Stood
-5: Sun
-5: Syria
-5: Throw
-5: Tidings
-5: Told
-5: Treasure
-5: Triumph
-5: Truth
-5: Twenty
-5: Two
-5: Ventidius
-5: Wild
-5: Win
-5: Within
-5: Worse
-5: Worth
-5: Write
-5: Youth
-4: Alack
-4: Almost
-4: Angry
-4: Any
-4: Audience
-4: Authority
-4: Awhile
-4: Bad
-4: Battle
-4: Behind
-4: Bless
-4: Blow
-4: Bounty
-4: Brutus
-4: Care
-4: Catch
-4: Confound
-4: Conquered
-4: Cunning
-4: Cut
-4: Days
-4: Deeds
-4: Denied
-4: Didst
-4: Drawn
-4: Drunk
-4: Duty
-4: Ears
-4: Easy
-4: E’en
-4: Fall’n
-4: Fame
-4: Father’s
-4: Fault
-4: Feel
-4: Fill
-4: Fire
-4: Flies
-4: Forgive
-4: Fulvia’s
-4: Grant
-4: Grave
-4: Grow
-4: Grown
-4: Happy
-4: Hate
-4: Heavy
-4: Held
-4: Herod
-4: He’ll
-4: Higher
-4: Home
-4: Hoo
-4: Infinite
-4: Jewry
-4: Joy
-4: Kingdom
-4: Knowledge
-4: Laughed
-4: Leaves
-4: Legions
-4: List
-4: Longer
-4: Looks
-4: Lords
-4: Loss
-4: Lust
-4: Manner
-4: Mardian
-4: Means
-4: Men’s
-4: Messengers
-4: Met
-4: Mingle
-4: Morning
-4: Mortal
-4: Navy
-4: Neck
-4: Offers
-4: Pair
-4: Past
-4: Piece
-4: Pluck
-4: Poison
-4: Presently
-4: Prove
-4: Public
-4: Rage
-4: Read
-4: Reason
-4: Remember
-4: Repent
-4: Right
-4: Run
-4: Say’st
-4: Seleucus
-4: Sicily
-4: Sides
-4: Sing
-4: Sits
-4: Slave
-4: Son
-4: Sorry
-4: Spake
-4: Spoken
-4: Sport
-4: Square
-4: Stars
-4: Streets
-4: Stroke
-4: Success
-4: Suffer
-4: Taken
-4: Teeth
-4: Ten
-4: Therein
-4: Third
-4: Thousand
-4: Try
-4: Twain
-4: View
-4: Villain
-4: Virtue
-4: Want
-4: While
-4: Whip
-4: Whither
-4: Who’s
-4: Widow
-4: Wind
-4: Wishes
-4: Woe
-4: Wound
-4: Wounds
-4: Yare
-4: ’twas
-3: Abused
-3: Acts
-3: Admired
-3: Afeard
-3: Affection
-3: Amen
-3: Amity
-3: Amorous
-3: Antonius
-3: Antony’s
-3: Apart
-3: Appeared
-3: Appears
-3: Approaches
-3: Armor
-3: Arms
-3: Athens
-3: Beaten
-3: Beauty
-3: Beg
-3: Begins
-3: Beguiled
-3: Beloved
-3: Blown
-3: Blows
-3: Borne
-3: Bosom
-3: Bound
-3: Breast
-3: Brings
-3: Brothers
-3: Brown
-3: Buried
-3: Burn
-3: Camp
-3: Captain’s
-3: Carry
-3: Cheek
-3: Cheeks
-3: Cheer
-3: Chief
-3: Child
-3: Children
-3: City
-3: Cleopatra’s
-3: Close
-3: Cloud
-3: Common
-3: Conqueror
-3: Content
-3: Couldst
-3: Courage
-3: Court
-3: Cried
-3: Crowned
-3: Dearest
-3: Dearly
-3: Desires
-3: Detain
-3: Determine
-3: Devils
-3: Dies
-3: Diomed
-3: Divide
-3: Drinking
-3: Drums
-3: Dull
-3: East
-3: Edge
-3: Egypt’s
-3: Elements
-3: Empress
-3: Ends
-3: Endure
-3: Enforce
-3: Entreat
-3: Equal
-3: Fancy
-3: Farther
-3: Fate
-3: Favor
-3: Feared
-3: Feed
-3: Feeding
-3: Feet
-3: Fetch
-3: Figs
-3: Fled
-3: Fleet
-3: Flesh
-3: Followers
-3: Folly
-3: Forbid
-3: Forever
-3: Foul
-3: Front
-3: Fury
-3: Girls
-3: Gives
-3: Glory
-3: Goodness
-3: Greeting
-3: Grief
-3: Hair
-3: Heavens
-3: Highness’
-3: Holy
-3: Honesty
-3: Host
-3: Impatience
-3: Intents
-3: It’s
-3: Julius
-3: Jupiter
-3: Kill
-3: Kisses
-3: Kissing
-3: Knew’st
-3: Knit
-3: Lament
-3: Learn
-3: Least
-3: Lest
-3: Light
-3: Looking
-3: Maecenas
-3: Man’s
-3: Marriage
-3: Marry
-3: Meant
-3: Meantime
-3: Meet
-3: Mend
-3: Merely
-3: Methinks
-3: Minute
-3: Mirth
-3: Monstrous
-3: Morn
-3: Morrow
-3: Motion
-3: Mount
-3: Move
-3: Need
-3: Neither
-3: Nilus
-3: Nobleness
-3: Nobler
-3: Noblest
-3: Number
-3: Ocean
-3: Odds
-3: Offended
-3: Offense
-3: Offer
-3: Oft
-3: O’ertake
-3: Paid
-3: Pains
-3: Parthian
-3: Particular
-3: Parts
-3: Pass
-3: Pays
-3: Perchance
-3: Peril
-3: Philippi
-3: Point
-3: Pompeius
-3: Pompey’s
-3: Port
-3: Pour
-3: Powers
-3: Preparation
-3: Presence
-3: Promises
-3: Proud
-3: Ptolemy
-3: Punish
-3: Quality
-3: Question
-3: Quit
-3: Quite
-3: Rare
-3: Rarely
-3: Ready
-3: Record
-3: Requires
-3: Reserved
-3: Retire
-3: Revolt
-3: Revolted
-3: Safe
-3: Same
-3: Saucy
-3: Scars
-3: Seeks
-3: Seems
-3: Sends
-3: Sense
-3: Serpent
-3: Serpents
-3: Servant
-3: Several
-3: Sextus
-3: Ship
-3: Shore
-3: Shows
-3: Sick
-3: Sicyon
-3: Signs
-3: Silius
-3: Single
-3: Sirrah
-3: Slain
-3: Slime
-3: Sold
-3: Soldier’s
-3: Sound
-3: Space
-3: Spend
-3: Spirits
-3: Struck
-3: Sudden
-3: Swords
-3: Tall
-3: Tells
-3: Thick
-3: Think’st
-3: Throne
-3: Tie
-3: Tongues
-3: Took
-3: Touch
-3: Toward
-3: Trees
-3: Troubled
-3: Truly
-3: Valiant
-3: Valor
-3: Wash
-3: Weak
-3: Went
-3: Wherefore
-3: Wherein
-3: Whore
-3: Winds
-3: Wisdom
-3: Wise
-3: Witch
-3: Withal
-3: Written
-3: Wrong
-3: Yielded
-3: Young
-3: ’em
-2: Abide
-2: Aboard
-2: Above
-2: Abroad
-2: Absence
-2: Abstract
-2: Accidents
-2: Accordingly
-2: Accuse
-2: Acquire
-2: Admitted
-2: Advantage
-2: Affairs
-2: Affections
-2: Age
-2: Aid
-2: Alexandrian
-2: All’s
-2: Along
-2: Amiss
-2: Antonio’s
-2: Arise
-2: Armed
-2: Armenia
-2: Article
-2: Aspic
-2: Ass
-2: Assist
-2: Awake
-2: Bade
-2: Barge
-2: Base
-2: Baseness
-2: Battery
-2: Bears
-2: Beds
-2: Beggar
-2: Begged
-2: Beheld
-2: Belike
-2: Beneath
-2: Betwixt
-2: Beyond
-2: Bidding
-2: Bids
-2: Bind
-2: Biting
-2: Black
-2: Blasted
-2: Blemish
-2: Blemishes
-2: Blessèd
-2: Bloody
-2: Blush
-2: Bond
-2: Boot
-2: Born
-2: Breaking
-2: Bred
-2: Caesarion
-2: Cap
-2: Captains
-2: Cares
-2: Cassius
-2: Celerity
-2: Cement
-2: Chamber
-2: Charm
-2: Choose
-2: Civil
-2: Clear
-2: Cleave
-2: Clip
-2: Comforts
-2: Coming
-2: Commands
-2: Commend
-2: Companion
-2: Company
-2: Competitor
-2: Concern
-2: Condemn
-2: Confess
-2: Conquering
-2: Conquest
-2: Contend
-2: Convey
-2: Cool
-2: Countenance
-2: Countryman
-2: Courteous
-2: Crack
-2: Crave
-2: Creeps
-2: Cries
-2: Crocodile
-2: Cry
-2: Cuckold
-2: Cydnus
-2: Danger
-2: Dares
-2: Dar’st
-2: Day’s
-2: Death’s
-2: Declined
-2: Decorum
-2: Delicate
-2: Demand
-2: Description
-2: Desired
-2: Devil
-2: Difference
-2: Discover
-2: Disgrace
-2: Dish
-2: Dishonor
-2: Disposed
-2: Disposition
-2: Dissolve
-2: Ditch
-2: Dog
-2: Domitius
-2: Doom
-2: Dotage
-2: Doting
-2: Doubt
-2: Dread
-2: Dream
-2: Dreams
-2: Dreamt
-2: Dress
-2: Drew
-2: Drive
-2: Drop
-2: Dropped
-2: Egyptians
-2: Either
-2: Employ
-2: Encounter
-2: Enter
-2: Entertainment
-2: Enthroned
-2: Entreated
-2: Events
-2: Excuse
-2: Expect
-2: Expected
-2: Experience
-2: Extremes
-2: E’er
-2: Fail
-2: Fairer
-2: Faith
-2: Famine
-2: Famous
-2: Fast
-2: Feasts
-2: Fell
-2: Felt
-2: Fights
-2: Files
-2: Fine
-2: Finish
-2: Firm
-2: Fishes
-2: Fit
-2: Flattered
-2: Fleeting
-2: Flutes
-2: Food
-2: Fools
-2: Forced
-2: Foresee
-2: Forget
-2: Fortune’s
-2: Four
-2: Frame
-2: Freedom
-2: Freely
-2: Friendship
-2: Frighted
-2: Fruitful
-2: Fugitive
-2: Fully
-2: Gap
-2: Garboils
-2: Garlands
-2: Gaze
-2: Gently
-2: Gilded
-2: Goal
-2: Goddess
-2: Goodly
-2: Got
-2: Govern
-2: Grand
-2: Granted
-2: Green
-2: Greet
-2: Grew
-2: Grows
-2: Guess
-2: Guest
-2: Hadst
-2: Hairs
-2: Hanged
-2: Haply
-2: Hard
-2: Hardly
-2: Harms
-2: Harsh
-2: Hated
-2: Ha’
-2: Heads
-2: Hearing
-2: Heat
-2: Heel
-2: Heels
-2: Height
-2: Helm
-2: Henceforth
-2: Hercules
-2: Hers
-2: Hie
-2: Hill
-2: Hint
-2: Hoist
-2: Hook
-2: Horns
-2: Horror
-2: Hot
-2: Huge
-2: Humbly
-2: Husband’s
-2: Hush
-2: Ignorant
-2: Ills
-2: Immediate
-2: Immortal
-2: Import
-2: Impossible
-2: Inch
-2: Inform
-2: Ingratitude
-2: Ink
-2: Instruction
-2: Intend
-2: Invite
-2: Issue
-2: Jack
-2: Join
-2: Jolly
-2: Journey
-2: Judgments
-2: Just
-2: Justice
-2: Kindly
-2: King’s
-2: Kissed
-2: Kneeled
-2: Knife
-2: Knot
-2: Knowing
-2: Lacked
-2: Laden
-2: Lamented
-2: Larger
-2: Lean
-2: Leap
-2: Lend
-2: Length
-2: Lent
-2: Levity
-2: Liar
-2: Lieutenant
-2: Lip
-2: Lo
-2: Looked
-2: Lots
-2: Lover’s
-2: Low
-2: Lower
-2: Lowness
-2: Luck
-2: Lydia
-2: Making
-2: Mares
-2: Masters
-2: Master’s
-2: Matters
-2: Measure
-2: Measures
-2: Mechanic
-2: Media
-2: Memory
-2: Mercy
-2: Midst
-2: Million
-2: Minister
-2: Ministers
-2: Modesty
-2: Monarch
-2: Money
-2: Morsel
-2: Moved
-2: Moves
-2: Mov’st
-2: Mud
-2: Nails
-2: Natural
-2: Nature’s
-2: Necessity
-2: Negligent
-2: Newly
-2: Nilus’
-2: Nobly
-2: Nodded
-2: Nose
-2: Nurse
-2: Oath
-2: Occasion
-2: Octavius
-2: Odd
-2: Offend
-2: Officer
-2: Operation
-2: Order
-2: Over
-2: Overplus
-2: Owe
-2: O’ercount
-2: Pain
-2: Pale
-2: Palm
-2: Paper
-2: Parcel
-2: Parted
-2: Partly
-2: Partners
-2: Pay
-2: Peep
-2: Perceive
-2: Perforce
-2: Perform
-2: Performed
-2: Period
-2: Perish
-2: Pestilence
-2: Phoebus’
-2: Pinch
-2: Pine
-2: Pirates
-2: Pitied
-2: Played
-2: Playing
-2: Pocket
-2: Points
-2: Poisoned
-2: Policy
-2: Possess
-2: Practice
-2: Praised
-2: Prayers
-2: Preserve
-2: Pretty
-2: Prevented
-2: Private
-2: Proclaim
-2: Profit
-2: Promise
-2: Pursue
-2: Pursued
-2: Quarrel
-2: Quietness
-2: Race
-2: Rail
-2: Rain
-2: Ram
-2: Rank
-2: Rashness
-2: Rattling
-2: Rebel
-2: Rebuke
-2: Received
-2: Recover
-2: Relieved
-2: Remembrance
-2: Reported
-2: Reports
-2: Request
-2: Require
-2: Residing
-2: Resolution
-2: Rich
-2: Rightly
-2: River
-2: Robbed
-2: Rose
-2: Rot
-2: Rudder
-2: Ruin
-2: Rush
-2: Sacred
-2: Safety
-2: Salt
-2: Sat
-2: Satisfy
-2: Schoolmaster
-2: Seal
-2: Seat
-2: Second
-2: Seel
-2: Seeming
-2: Seest
-2: Self
-2: Serves
-2: Services
-2: Sex
-2: Shape
-2: Sharp
-2: Sheets
-2: Shield
-2: Shines
-2: Shipping
-2: Shook
-2: Short
-2: Shouting
-2: Showed
-2: Shower
-2: Shrill-tongued
-2: Sickness
-2: Sighs
-2: Sight
-2: Simple
-2: Sink
-2: Six
-2: Sixty
-2: Size
-2: Sleeps
-2: Small
-2: Smiling
-2: Smites
-2: Snakes
-2: Soldiership
-2: Sometime
-2: Sometimes
-2: Soothsayer
-2: Soul
-2: Sphere
-2: Sprightly
-2: Stage
-2: Stale
-2: Star
-2: Stomach
-2: Stone
-2: Stop
-2: Storm
-2: Story
-2: Straight
-2: Strokes
-2: Stronger
-2: Studied
-2: Subdued
-2: Sue
-2: Sum
-2: Supper
-2: Sustain
-2: Swearing
-2: Swell
-2: Swift
-2: Sworn
-2: Takes
-2: Taking
-2: Talk
-2: Taunt
-2: Taurus
-2: Teachest
-2: Temperance
-2: Tend
-2: Tent
-2: Terms
-2: Thence
-2: They’d
-2: They’ll
-2: Thidias
-2: Thither
-2: Thrive
-2: Throat
-2: Throats
-2: Tide
-2: Time’s
-2: Torture
-2: Toryne
-2: Touched
-2: Touches
-2: Towards
-2: Travel
-2: Triumphant
-2: Troops
-2: Truths
-2: Tune
-2: Turned
-2: Twelve
-2: Twice
-2: T’
-2: Undone
-2: Universal
-2: Until
-2: Urge
-2: Used
-2: Utter
-2: Vacancy
-2: Vantage
-2: Vapor
-2: Varying
-2: Vassal
-2: Venus
-2: Vessel
-2: Victory
-2: Waged
-2: Wait
-2: Wake
-2: Walk
-2: Warm
-2: Warrant
-2: Wast
-2: Ways
-2: Wear
-2: Wept
-2: Whate’er
-2: White
-2: Withhold
-2: Witness
-2: Wives
-2: Womb
-2: Won
-2: Woo’t
-2: Wore
-2: World’s
-2: Worn
-2: Worser
-2: Worst
-2: Worthiest
-2: Worthily
-2: Wrinkled
-2: Wrote
-2: Yea
-2: Year
-2: Years
-2: Yond
-2: Yonder
-2: You’re
-2: You’ve
-2: ’twere
-2: ’twill
-2: ’twixt
-2: ’twould
-1: -breathed
-1: -hearted
-1: A-ducking
-1: Abhorring
-1: Abides
-1: Able
-1: Abode
-1: Abominations
-1: Absurd
-1: Abuse
-1: Abysm
-1: Accumulation
-1: Accusations
-1: Accuses
-1: Achieved
-1: Acknowledge
-1: Acknowledged
-1: Acquainted
-1: Acted
-1: Actium
-1: Actor
-1: Adallas
-1: Add
-1: Addition
-1: Adieus
-1: Adjacent
-1: Adjoining
-1: Admiral
-1: Admit
-1: Adore
-1: Adores
-1: Adornings
-1: Adulterous
-1: Advice
-1: Advise
-1: Aeneas
-1: Affects
-1: Afflict
-1: Afraid
-1: Afterwards
-1: Agreed
-1: Aha
-1: Aim
-1: Ajax
-1: Alas
-1: Alcides
-1: Alexander
-1: Alive
-1: All-disgracèd
-1: All-honored
-1: All-obeying
-1: Allay
-1: Allegiance
-1: Almanacs
-1: Alms-drink
-1: Aloud
-1: Alps
-1: Although
-1: Ambassadors
-1: Ambition
-1: Amyntas
-1: Ancestor
-1: Anchor
-1: Angel
-1: Anger
-1: Angered
-1: Angle
-1: Angling
-1: Annexed
-1: Anon
-1: Another’s
-1: Answered
-1: Answering
-1: Answers
-1: Anticked
-1: Antoniad
-1: Anyone
-1: Anything
-1: Apollodorus
-1: Appeal
-1: Appetite
-1: Appetites
-1: Applauding
-1: Apply
-1: Appointment
-1: Approaching
-1: Approof
-1: Approve
-1: Approves
-1: April’s
-1: Aprons
-1: Arabia
-1: Arabian
-1: Arch
-1: Archelaus
-1: Argument
-1: Arm-gaunt
-1: Armies
-1: Armorer
-1: Ascended
-1: Ashamed
-1: Ashes
-1: Ashore
-1: Asia
-1: Aside
-1: Asked
-1: Asleep
-1: Aspect
-1: Aspic’s
-1: Assemble
-1: Assembled
-1: Assigned
-1: Assurance
-1: Assuredly
-1: Atone
-1: Attentive
-1: Attire
-1: Attires
-1: Aught
-1: Augmented
-1: Augurer
-1: Auguring
-1: Augurs
-1: Author
-1: Autumn
-1: Avaunt
-1: Avoid
-1: Awaked
-1: Awry
-1: Babes
-1: Baby
-1: Bacchanals
-1: Bacchus
-1: Backs
-1: Ballad
-1: Balls
-1: Balm
-1: Band
-1: Bands
-1: Banner
-1: Banners
-1: Banquet
-1: Barbered
-1: Bards
-1: Barked
-1: Barks
-1: Barren
-1: Basan
-1: Basely
-1: Baser
-1: Basket
-1: Bathe
-1: Batter
-1: Battles
-1: Beard
-1: Bear’st
-1: Beast
-1: Beastly
-1: Beasts
-1: Beats
-1: Beauteous
-1: Became
-1: Because
-1: Beck
-1: Becked
-1: Becomed
-1: Becomings
-1: Bedfellow
-1: Beetle
-1: Befall
-1: Befits
-1: Beggared
-1: Beggars
-1: Beggary
-1: Beggar’s
-1: Begs
-1: Begun
-1: Behavior
-1: Behold’st
-1: Belief
-1: Bell
-1: Bellows
-1: Belong
-1: Beloving
-1: Below
-1: Bench-holes
-1: Bend
-1: Bended
-1: Bending
-1: Bends
-1: Benefit
-1: Bent
-1: Bequeath
-1: Bereave
-1: Berry
-1: Beside
-1: Besides
-1: Bestow
-1: Bestowed
-1: Bestrid
-1: Betime
-1: Betimes
-1: Betray
-1: Betrayèd
-1: Be’st
-1: Biddings
-1: Bides
-1: Billiards
-1: Bird
-1: Birthday
-1: Bite
-1: Blackness
-1: Blast
-1: Bleed
-1: Bleed’st
-1: Blest
-1: Bliss
-1: Blossoming
-1: Blue
-1: Bluest
-1: Blushest
-1: Boar
-1: Boars
-1: Boast
-1: Boat
-1: Bocchus
-1: Bodies
-1: Boggler
-1: Boldly
-1: Bolts
-1: Bondman
-1: Bones
-1: Book
-1: Borders
-1: Borrow
-1: Bounteous
-1: Bourn
-1: Bow
-1: Bowls
-1: Branchless
-1: Branded
-1: Bravely
-1: Bravest
-1: Brazen
-1: Breadth
-1: Breakfast
-1: Breathe
-1: Breather
-1: Breathing
-1: Breathless
-1: Breaths
-1: Breed
-1: Breeding
-1: Breeze
-1: Bridegroom
-1: Brief
-1: Briefest
-1: Briefly
-1: Bright
-1: Brim
-1: Brine
-1: Bringer
-1: Broached
-1: Broachèd
-1: Broad
-1: Broad-fronted
-1: Broken
-1: Brooched
-1: Brow
-1: Browsèd
-1: Brows’
-1: Bruisèd
-1: Brundusium
-1: Buckled
-1: Buckles
-1: Buds
-1: Buffet
-1: Builded
-1: Builds
-1: Built
-1: Bulk
-1: Burden
-1: Burgonet
-1: Burned
-1: Burnished
-1: Burnt
-1: Burst
-1: Bury
-1: Cabin
-1: Cable
-1: Caelius
-1: Caius
-1: Calm
-1: Canst
-1: Cantle
-1: Capacity
-1: Caparisons
-1: Capitol
-1: Cappadocia
-1: Caps
-1: Captainship
-1: Captive
-1: Car
-1: Carbuncled
-1: Cards
-1: Careful
-1: Carouse
-1: Carouses
-1: Carriage
-1: Carried
-1: Carries
-1: Castaway
-1: Casts
-1: Catching
-1: Caught
-1: Caused
-1: Caves
-1: Cease
-1: Celebrate
-1: Censuring
-1: Ceremony
-1: Certainly
-1: Chafe
-1: Chain
-1: Chains
-1: Chairs
-1: Challenge
-1: Chaps
-1: Chare
-1: Chares
-1: Charged
-1: Chariot
-1: Chariots
-1: Charms
-1: Chastised
-1: Chastity
-1: Check
-1: Cheered
-1: Cheerful
-1: Cherished
-1: Chests
-1: Chid
-1: Chide
-1: Chides
-1: Chiefly
-1: Childishness
-1: Choice
-1: Choked
-1: Chooses
-1: Chronicle
-1: Chuck
-1: Cilicia
-1: Cinders
-1: Circle
-1: Cistern
-1: Citadel
-1: Cities
-1: Citizens
-1: City’s
-1: Civilly
-1: Claims
-1: Clapped
-1: Claps
-1: Clay
-1: Cloth-of-gold
-1: Clouts
-1: Cloy
-1: Cloyless
-1: Club
-1: Cocks
-1: Coin
-1: Coldhearted
-1: Comagen
-1: Combat
-1: Combating
-1: Combined
-1: Comedians
-1: Comforted
-1: Comforting
-1: Commanded
-1: Commission’s
-1: Commit
-1: Commits
-1: Compel
-1: Compelling
-1: Competitors
-1: Compliment
-1: Compose
-1: Composition
-1: Composure
-1: Com’st
-1: Conceive
-1: Concerned
-1: Concerns
-1: Conclusion
-1: Conclusions
-1: Condemned
-1: Condemning
-1: Conditions
-1: Conference
-1: Confine
-1: Confined
-1: Confusion
-1: Congealment
-1: Conqu’ring
-1: Consider
-1: Considerate
-1: Consideration
-1: Considered
-1: Consist
-1: Consolation
-1: Conspire
-1: Constrained
-1: Constrainèd
-1: Consuls
-1: Contemning
-1: Contempts
-1: Contestation
-1: Continent
-1: Continues
-1: Contradiction
-1: Contriving
-1: Conversation
-1: Cookery
-1: Cooks
-1: Corrigible
-1: Corrupted
-1: Cost
-1: Couch
-1: Cough
-1: Council
-1: Counsel
-1: Country
-1: Country’s
-1: Counts
-1: Courageous
-1: Courser’s
-1: Courtesies
-1: Courtesy
-1: Courtiers
-1: Cow
-1: Coward
-1: Cowardly
-1: Cowards
-1: Coward’s
-1: Crassus
-1: Crassus’
-1: Craves
-1: Creature
-1: Creatures
-1: Creature’s
-1: Crescent
-1: Crested
-1: Cringe
-1: Cropped
-1: Cross
-1: Crownet
-1: Crownets
-1: Crowns
-1: Crown’s
-1: Cruel
-1: Cruelty
-1: Crying
-1: Cuckoo
-1: Cupids
-1: Cups
-1: Cured
-1: Curious
-1: Curlèd
-1: Curstness
-1: Custom
-1: Cyprus
-1: Daff
-1: Daintily
-1: Dame
-1: Damn
-1: Damp
-1: Dance
-1: Dancer
-1: Dancing
-1: Dangers
-1: Dared
-1: Dark
-1: Darken
-1: Darkens
-1: Darkling
-1: Darkness
-1: Darting
-1: Darts
-1: Daughter
-1: Deadly
-1: Deaf
-1: Dealt
-1: Dearth
-1: Dear’st
-1: Deaths
-1: Debate
-1: Debtor
-1: Decays
-1: Deceived
-1: Declare
-1: Declining
-1: Deep
-1: Defeat
-1: Defeat’st
-1: Defect
-1: Defects
-1: Defend
-1: Defenses
-1: Defy
-1: Degrees
-1: Deign
-1: Deities
-1: Dejected
-1: Delay
-1: Delicious
-1: Delight
-1: Delights
-1: Deliver
-1: Demands
-1: Demi-atlas
-1: Demurely
-1: Demuring
-1: Denounced
-1: Dens
-1: Departure
-1: Depart’st
-1: Dependency
-1: Depends
-1: Deposed
-1: Deputation
-1: Dercetus
-1: Derogately
-1: Descended
-1: Descried
-1: Deserts
-1: Deserve
-1: Deserver
-1: Deserving
-1: Design
-1: Designs
-1: Desist
-1: Desolation
-1: Despair
-1: Desperate
-1: Despise
-1: Despiteful
-1: Destiny
-1: Destroyed
-1: Destroys
-1: Destruction
-1: Determined
-1: Determines
-1: Detest
-1: Devised
-1: Devotion
-1: Diadem
-1: Dice
-1: Dido
-1: Did’st
-1: Diet
-1: Diff’ring
-1: Digested
-1: Dignities
-1: Dignity
-1: Diminution
-1: Diminutives
-1: Dimpled
-1: Din
-1: Dinner
-1: Disaster
-1: Discandy
-1: Discandying
-1: Discharged
-1: Discomfort
-1: Discontented
-1: Discontents
-1: Discredit
-1: Discredited
-1: Discretion
-1: Disdainful
-1: Diseases
-1: Disgraces
-1: Disguise
-1: Dislike
-1: Dislimns
-1: Dismission
-1: Dispatched
-1: Displeasure
-1: Dispose
-1: Dispraised
-1: Dispunge
-1: Disquiet
-1: Dissembling
-1: Dissuade
-1: Distinction
-1: Distract
-1: Distraction
-1: Distractions
-1: Distrust
-1: Diver
-1: Divers-colored
-1: Divided
-1: Divine
-1: Division
-1: Divisions
-1: Doctrine
-1: Dodge
-1: Dogs
-1: Doing
-1: Dolorous
-1: Dolphin-like
-1: Dolts
-1: Domestic
-1: Donned
-1: Doomsday
-1: Doors
-1: Doubled
-1: Doughty-handed
-1: Dove
-1: Downy
-1: Dragonish
-1: Drave
-1: Dreaded
-1: Dreaming
-1: Drench
-1: Dried
-1: Drinks
-1: Drives
-1: Drops
-1: Droven
-1: Drown
-1: Drowned
-1: Drugs
-1: Drunken
-1: Dryness
-1: Dullness
-1: Dumbed
-1: Dung
-1: Dungy
-1: Dust
-1: Dwarfish
-1: Dæmon
-1: Eagle
-1: Earing
-1: Early
-1: Earn
-1: Earned
-1: Earnestly
-1: Earns
-1: Earthly
-1: Easily
-1: Eastern
-1: Eats
-1: Ebbed
-1: Ebbs
-1: Eclipsed
-1: Edges
-1: Edict
-1: Effected
-1: Effects
-1: Eight
-1: Elder
-1: Element
-1: Eloquence
-1: Embattle
-1: Embers
-1: Embossed
-1: Embrace
-1: Embraced
-1: Emperor’s
-1: Emphasis
-1: Employed
-1: Emptiness
-1: Empty
-1: Enchanting
-1: Enclouded
-1: Endeavor
-1: Ended
-1: Enemy
-1: Enemy’s
-1: Enfranchise
-1: Enfranchèd
-1: Engaged
-1: Engender
-1: Engrossed
-1: Enjoy
-1: Enlarge
-1: Enmities
-1: Enobarb
-1: Enraged
-1: Ensued
-1: Entangled
-1: Entangles
-1: Entertain
-1: Entertainèd
-1: Entirely
-1: Entreats
-1: Entreaty
-1: Envied
-1: Envy
-1: Epicure
-1: Epicurean
-1: Equality
-1: Equally
-1: Equalness
-1: Errand
-1: Errors
-1: Escape
-1: Escaped
-1: Especially
-1: Estates
-1: Esteemed
-1: Estridge
-1: Eternal
-1: Eternity
-1: Euphrates
-1: Everything
-1: Evidence
-1: Evils
-1: Exactly
-1: Example
-1: Exceed
-1: Exceeds
-1: Excusable
-1: Excuses
-1: Exercise
-1: Exigent
-1: Expectation
-1: Expedience
-1: Extemporally
-1: Extend
-1: Extended
-1: Extenuate
-1: External
-1: Eyne
-1: Faces
-1: Faction
-1: Factors
-1: Faint
-1: Fainted
-1: Faints
-1: Fairly
-1: Fairy
-1: Falliable
-1: Falling
-1: False-played
-1: Falsehood
-1: Familiar
-1: Fan
-1: Fans
-1: Farthest
-1: Far’st
-1: Fashion
-1: Faster
-1: Fat
-1: Faultiness
-1: Favoring
-1: Favors
-1: Fearful
-1: Fearing
-1: Fears
-1: Feasted
-1: Feasting
-1: Feather
-1: Feats
-1: Feature
-1: Feeders
-1: Feeds
-1: Fellowship
-1: Fell’st
-1: Fertile
-1: Fervency
-1: Fetters
-1: Fever
-1: Fierce
-1: Fiery
-1: Fifty
-1: Fiftyfold
-1: Fig
-1: Fighting
-1: Figures
-1: Filled
-1: Filth
-1: Finest
-1: Fires
-1: Fish
-1: Fits
-1: Fitting
-1: Five
-1: Flag
-1: Flags
-1: Flatter
-1: Flatters
-1: Flaw
-1: Flight
-1: Flint
-1: Flow
-1: Flower-soft
-1: Flowers
-1: Flows
-1: Flush
-1: Flying
-1: Foams
-1: Foe
-1: Foils
-1: Foison
-1: Following
-1: Foolish
-1: Footmen
-1: Forborne
-1: Forehead
-1: Forenoon
-1: Forgo
-1: Forgot
-1: Forgotten
-1: Forkèd
-1: Formal
-1: Formerly
-1: Forms
-1: Forsake
-1: Forsooth
-1: Forspoke
-1: Fortress
-1: Fortunate
-1: Forty
-1: Fought’st
-1: Fouler
-1: Foul’st
-1: Fragment
-1: Frail
-1: Frailties
-1: Freer
-1: Frets
-1: Fretted
-1: Friendly
-1: Fronted
-1: Frowns
-1: Frustrate
-1: Full-fortuned
-1: Full-manned
-1: Fullest
-1: Fumblest
-1: Fuming
-1: Funeral
-1: Furious
-1: Furnished
-1: Gain
-1: Gained
-1: Gait
-1: Gallantly
-1: Galley
-1: Galleys
-1: Gallus
-1: Game
-1: Garden
-1: Garland
-1: Gashes
-1: Gaudy
-1: Gay
-1: Gazing
-1: Gem
-1: Generals
-1: General’s
-1: Gentlewomen
-1: Gests
-1: Gets
-1: Getting
-1: Ghosted
-1: Ghosts
-1: Gibbet
-1: Gibe
-1: Gift
-1: Girl
-1: Glad
-1: Gladly
-1: Gladness
-1: Glow
-1: Glowed
-1: Gnats
-1: Gneius
-1: Goddesses
-1: Goest
-1: Golden
-1: Gorgon
-1: Graceful
-1: Graces
-1: Grain
-1: Grants
-1: Grape
-1: Grapes
-1: Grasped
-1: Grates
-1: Graveless
-1: Graver
-1: Gray
-1: Greasy
-1: Greatly
-1: Greensickness
-1: Greetings
-1: Griefs
-1: Grieving
-1: Grievèd
-1: Grimly
-1: Grind
-1: Grizzled
-1: Groan
-1: Gross
-1: Grossly
-1: Ground
-1: Guides
-1: Gypsy
-1: Gypsy’s
-1: H
-1: Habiliments
-1: Hacked
-1: Had’st
-1: Half-tales
-1: Halt
-1: Haltered
-1: Hammers
-1: Handsome
-1: Hangman
-1: Hap
-1: Happily
-1: Happiness
-1: Harbor
-1: Hardness
-1: Hares
-1: Harm
-1: Harness
-1: Harping
-1: Harried
-1: Harvest
-1: Hasten
-1: Hatch
-1: Hateful
-1: Haters
-1: Haunt
-1: Haven
-1: Hazard
-1: Hazarded
-1: Head’s
-1: Healing
-1: Healthful
-1: Hears
-1: Heartbreaking
-1: Hearty
-1: Heave
-1: Heavenly
-1: Heaviest
-1: Heaviness
-1: Hectors
-1: Hedge
-1: Heed
-1: Heeded
-1: Heirs
-1: Hell
-1: Helmet
-1: Herculean
-1: Herd
-1: Hereafter
-1: Hereditary
-1: Herod’s
-1: Herself
-1: Hid
-1: High-battled
-1: High-colored
-1: Highness
-1: Hills
-1: Hinder
-1: Hipparchus
-1: Hired
-1: Hirsius
-1: Hirèd
-1: Hits
-1: Hoists
-1: Holding
-1: Holds
-1: Holes
-1: Homage
-1: Homager
-1: Honored
-1: Honors
-1: Hoop
-1: Hop
-1: Hornèd
-1: Horrible
-1: Horses
-1: Hostages
-1: Hotter
-1: Hourly
-1: Household
-1: Humanity
-1: Humble
-1: Hungry
-1: Hunted
-1: Hurl
-1: Hurt
-1: Hurts
-1: Huswife
-1: Idle
-1: Ignorance
-1: Ill-rooted
-1: Ill-uttering
-1: Imagine
-1: Immoment
-1: Impediment
-1: Imperious
-1: Importeth
-1: Importune
-1: Impress
-1: Inches
-1: Inclination
-1: Incline
-1: Inclines
-1: Inclips
-1: Increase
-1: Increasing
-1: Indistinct
-1: Induce
-1: Indulgent
-1: Inevitable
-1: Infamous
-1: Infectious
-1: Infects
-1: Informed
-1: Inhooped
-1: Injuries
-1: Injurious
-1: Innocent
-1: Innocents
-1: Inquire
-1: Inroads
-1: Insolence
-1: Instant
-1: Instantly
-1: Instructed
-1: Instrument
-1: Intends
-1: Intent
-1: Intrinsicate
-1: Invention
-1: Invisible
-1: Invited
-1: Inward
-1: Ionia
-1: Ionian
-1: Iron
-1: Islands
-1: Isle
-1: Itch
-1: Jaded
-1: Jailer
-1: Jaws
-1: Jealousies
-1: Jests
-1: Jewel
-1: Jewels
-1: Joined
-1: Jointing
-1: Jot
-1: Jove’s
-1: Joyful
-1: Juice
-1: Jump
-1: June
-1: Juno
-1: Juno’s
-1: Justeius
-1: Justest
-1: Keels
-1: Keeping
-1: Keeps
-1: Kills
-1: Kill’st
-1: Kindle
-1: Kindness
-1: Kingly
-1: Kite
-1: Knaves
-1: Knee
-1: Know’st
-1: La
-1: Labienus
-1: Laboring
-1: Lace
-1: Lackeying
-1: Lads
-1: Laid
-1: Lamentably
-1: Lamp
-1: Lamps
-1: Lance
-1: Landing
-1: Landlord
-1: Landmen
-1: Languish
-1: Lanked
-1: Lap
-1: Large
-1: Lascivious
-1: Lass
-1: Lastly
-1: Lated
-1: Latter
-1: Laughing
-1: Laurel
-1: Law
-1: Lawful
-1: Laying
-1: Leader’s
-1: Leaf
-1: Leaky
-1: Leaner
-1: Learned
-1: Learning
-1: Leave-taking
-1: Leaving
-1: Legs
-1: Leisure
-1: Leprosy
-1: Lessens
-1: Lesser
-1: Lethe
-1: Lethe’d
-1: Level
-1: Leveled
-1: Levying
-1: Liberal
-1: Libertine
-1: Liberty
-1: Libya
-1: License
-1: Lichas
-1: Lictors
-1: Lief
-1: Lieutenantry
-1: Lighted
-1: Lightly
-1: Lightness
-1: Lightning
-1: Ling’ring
-1: Linked
-1: Lion
-1: Lions
-1: Lion’s
-1: Lipped
-1: Liver
-1: Livery
-1: Livia
-1: Loath
-1: Loathness
-1: Lock
-1: Locked
-1: Lodge
-1: Longing
-1: Longings
-1: Loofed
-1: Looked’st
-1: Look’st
-1: Loose
-1: Loose-wived
-1: Lordliness
-1: Loses
-1: Losing
-1: Lot
-1: Lottery
-1: Lovesick
-1: Love’s
-1: Loving
-1: Low-voiced
-1: Lowering
-1: Loyalty
-1: Lucius
-1: Lucky
-1: Lust-wearied
-1: Luster
-1: Luxuriously
-1: Lycaonia
-1: Madness
-1: Magic
-1: Magical
-1: Maid
-1: Maids
-1: Main
-1: Malefactor
-1: Malice
-1: Maliciously
-1: Mallard
-1: Manage
-1: Manchus
-1: Mandate
-1: Mandragora
-1: Mangled
-1: Manhood
-1: Mankind
-1: Manlike
-1: Manned
-1: Mantles
-1: Mar
-1: Marble-constant
-1: Marcellus
-1: March
-1: Mariners
-1: Maritime
-1: Market-maid
-1: Market-place
-1: Marketplace
-1: Marring
-1: Master-leaver
-1: Match
-1: Mate
-1: Mattress
-1: Mature
-1: Maul
-1: Mayst
-1: Meal
-1: Meaner
-1: Meanest
-1: Meanings
-1: Mean’st
-1: Meat
-1: Mede
-1: Mediation
-1: Med’cine
-1: Meek
-1: Meeter
-1: Meetly
-1: Melancholy
-1: Melts
-1: Members
-1: Mends
-1: Menecrates
-1: Merchandise
-1: Merchant
-1: Merchants
-1: Mercury
-1: Mere
-1: Merit
-1: Merits
-1: Mermaid
-1: Mermaids
-1: Merèd
-1: Mesopotamia
-1: Message
-1: Method
-1: Mettle
-1: Met’st
-1: Midnight
-1: Midway
-1: Mightily
-1: Mighty
-1: Milks
-1: Mince
-1: Mingled
-1: Mirror’s
-1: Misdoubt
-1: Misena
-1: Miserable
-1: Misery
-1: Mislike
-1: Missive
-1: Mistake
-1: Misthought
-1: Mithridates
-1: Mocks
-1: Modena
-1: Modern
-1: Modest
-1: Moiety
-1: Moist
-1: Moment
-1: Monster-like
-1: Mood
-1: Moody
-1: Moons
-1: Morn-dew
-1: Mother
-1: Mother’s
-1: Motive
-1: Mountain
-1: Mouth-made
-1: Moving
-1: Mules
-1: Muleteers
-1: Murder
-1: Murdered
-1: Murmuring
-1: Mused
-1: Muss
-1: Musters
-1: Mutiny
-1: Mutual
-1: Myrtle
-1: Nag
-1: Naked
-1: Names
-1: Narcissus
-1: Narrow
-1: Navy’s
-1: Nearly
-1: Necessary
-1: Necessities
-1: Neglected
-1: Neighed
-1: Neighs
-1: Neptune
-1: Neptune’s
-1: Nereides
-1: Nerves
-1: Nessus
-1: Nests
-1: Ne’er-touched
-1: Ne’er-yet-beaten
-1: Nice
-1: Nicked
-1: Nightingale
-1: Night’s
-1: Nineteen
-1: Ninth
-1: Nobility
-1: Nod
-1: Noises
-1: Nonpareil
-1: Noon
-1: Notice
-1: Noting
-1: Nourishes
-1: Nourisheth
-1: Novice
-1: Numbers
-1: Oars
-1: Obedience
-1: Obeyed
-1: Oblivion
-1: Observance
-1: Observe
-1: Occupation
-1: Offered
-1: Officers
-1: Oh
-1: Oily
-1: Olive
-1: Onion
-1: Onion-eyed
-1: Ooze
-1: Opinion
-1: Oppose
-1: Opposed
-1: Opposite
-1: Oppression
-1: Opulent
-1: Orb
-1: Orbs
-1: Ordinary
-1: Organs
-1: Orient
-1: Orodes
-1: Ostentation
-1: Others
-1: Others’
-1: Outgo
-1: Outlive
-1: Outroar
-1: Outstare
-1: Outstrike
-1: Outward
-1: Outwork
-1: Overtopped
-1: Oyster
-1: O’erflowing
-1: O’erflows
-1: O’erpicturing
-1: O’erpowered
-1: O’erthrown
-1: Pace
-1: Paces
-1: Pack
-1: Packed
-1: Pacorus
-1: Pageants
-1: Paint
-1: Painted
-1: Palace
-1: Palate
-1: Palates
-1: Pales
-1: Palled
-1: Palter
-1: Paltry
-1: Pansa
-1: Panted
-1: Pants
-1: Paphlagonia
-1: Paragon
-1: Partake
-1: Partaker
-1: Parthians
-1: Particulars
-1: Parties
-1: Parting
-1: Partisan
-1: Partner
-1: Party
-1: Passions
-1: Pasture
-1: Patch
-1: Patched
-1: Patient
-1: Pauses
-1: Pavilion
-1: Pawn
-1: Pearl
-1: Pearls
-1: Peck
-1: Peerless
-1: Pelleted
-1: Peloponnesus
-1: Pendent
-1: Penetrative
-1: Penitent
-1: Perceived
-1: Perfect
-1: Perfection
-1: Performance
-1: Performs
-1: Perfume
-1: Perfumed
-1: Perjure
-1: Permit
-1: Perpetual
-1: Persisted
-1: Personal
-1: Persons
-1: Pestilent
-1: Petition
-1: Petticoat
-1: Pharsalia
-1: Philadelphos
-1: Philippan
-1: Phoebus
-1: Phoenicia
-1: Phoenicians
-1: Photinus
-1: Phrase
-1: Physician
-1: Picked
-1: Pickle
-1: Pieces
-1: Pierce
-1: Pillar
-1: Pillow
-1: Pinches
-1: Pinion
-1: Pinioned
-1: Pink
-1: Piteously
-1: Pitifully
-1: Placed
-1: Plainness
-1: Planet
-1: Planks
-1: Plant
-1: Planted
-1: Plants
-1: Plate
-1: Plated
-1: Plates
-1: Playfellow
-1: Pleached
-1: Plead
-1: Pleasest
-1: Pleaseth
-1: Plebeians
-1: Pledge
-1: Plied
-1: Plight
-1: Plighter
-1: Plot
-1: Ploughed
-1: Plow
-1: Plucked
-1: Plumpy
-1: Poets
-1: Poisonous
-1: Pole
-1: Polemon
-1: Pomp
-1: Pont
-1: Poop
-1: Poorer
-1: Poor’st
-1: Populous
-1: Portends
-1: Ports
-1: Possessed
-1: Possession
-1: Posts
-1: Posture
-1: Potent
-1: Powder
-1: Powerful
-1: Practiced
-1: Praises
-1: Praising
-1: Praying
-1: Prays
-1: Precedence
-1: Precedent
-1: Precious
-1: Pregnant
-1: Preparedly
-1: Preparèd
-1: Presages
-1: Presageth
-1: Prescience
-1: Prescript
-1: President
-1: Prevail
-1: Prevailed
-1: Prey
-1: Preys
-1: Priests
-1: Primal
-1: Prince
-1: Princely
-1: Princess
-1: Principalities
-1: Prisons
-1: Privy
-1: Prize
-1: Prized
-1: Probable
-1: Proceed
-1: Proceeded
-1: Process
-1: Proclaimed
-1: Proclaims
-1: Prognostication
-1: Project
-1: Promontory
-1: Prompt
-1: Proof
-1: Proper
-1: Propertied
-1: Property
-1: Prophesy
-1: Prophesying
-1: Proportioned
-1: Prorogue
-1: Prosecution
-1: Prosp’rous
-1: Proved
-1: Proves
-1: Provide
-1: Provided
-1: Province
-1: Provinces
-1: Provoke
-1: Provoked
-1: Ptolemies
-1: Ptolemies’
-1: Publicly
-1: Publicola
-1: Puddle
-1: Punishment
-1: Puppet
-1: Purchase
-1: Purchased
-1: Pure
-1: Purge
-1: Purged
-1: Purple
-1: Purposeth
-1: Pursed
-1: Puzzle
-1: Pyramid
-1: Pyramides
-1: Pyramises
-1: Quail
-1: Quails
-1: Qualities
-1: Quarter
-1: Quartered
-1: Queasy
-1: Queen’s
-1: Quicken
-1: Quickens
-1: Quicksands
-1: Quoth
-1: Rack
-1: Rained
-1: Raise
-1: Raised
-1: Raises
-1: Ranged
-1: Ranges
-1: Ranks
-1: Ransom
-1: Rarer
-1: Rate
-1: Rated
-1: Rates
-1: Raught
-1: Realms
-1: Reapers
-1: Reaping
-1: Rear
-1: Reared
-1: Rebound
-1: Rebukable
-1: Receive
-1: Reckoned
-1: Reconciler
-1: Reconciles
-1: Reed
-1: Reel
-1: Reels
-1: Reference
-1: Refusing
-1: Regiment
-1: Register
-1: Religion
-1: Rely
-1: Remains
-1: Remarkable
-1: Remember’st
-1: Remove
-1: Rend
-1: Render
-1: Rendered
-1: Reneges
-1: Renown
-1: Renowned
-1: Renownèd
-1: Repair
-1: Repays
-1: Replied
-1: Replies
-1: Reply
-1: Reporter
-1: Repose
-1: Reproof
-1: Reprove
-1: Reputation
-1: Requested
-1: Requests
-1: Required
-1: Rescue
-1: Resisted
-1: Resolution’s
-1: Resolved
-1: Resting
-1: Restores
-1: Revel
-1: Revels
-1: Revenged
-1: Revenger
-1: Revengers
-1: Revenue
-1: Revolution
-1: Reward
-1: Rewards
-1: Rheum
-1: Rhymers
-1: Ribaudred
-1: Richly
-1: Rid
-1: Ride
-1: Rids
-1: Rift
-1: Rig
-1: Rigged
-1: Riggish
-1: Rioting
-1: Riotous
-1: Ripens
-1: Rivality
-1: Rive
-1: Riveted
-1: Roaring
-1: Roasted
-1: Robe
-1: Robes
-1: Rock
-1: Rods
-1: Rogue
-1: Roll
-1: Romans
-1: Roof
-1: Room
-1: Root
-1: Rotten
-1: Roughest
-1: Rouse
-1: Routed
-1: Royalty
-1: Rudest
-1: Ruffian
-1: Rule
-1: Rules
-1: Ruminated
-1: Rumor
-1: Runner
-1: Rural
-1: Sacrifice
-1: Safed
-1: Sake
-1: Salad
-1: Salutes
-1: Sap
-1: Sardinia
-1: Satisfied
-1: Satisfies
-1: Sauce
-1: Savage
-1: Savages
-1: Saved
-1: Sayest
-1: Sayst
-1: Scald
-1: Scaled
-1: Scales
-1: Scant
-1: Scantly
-1: Scarce
-1: Scarce-bearded
-1: Scatters
-1: Scene
-1: Scepter
-1: Scepters
-1: Scholar
-1: Scolds
-1: Score
-1: Scorn
-1: Scotches
-1: Scourge
-1: Scratch
-1: Scribes
-1: Scroll
-1: Scrupulous
-1: Scuffles
-1: Scutcheons
-1: Scythe
-1: Sea-wing
-1: Sealed
-1: Sealike
-1: Sealing
-1: Seaside
-1: Season
-1: Secrecy
-1: Secret
-1: Security
-1: Seedsman
-1: Seemed
-1: Seize
-1: Seizes
-1: Seldom
-1: Semblable
-1: Senators
-1: Separation
-1: Serious
-1: Serpent’s
-1: Servants
-1: Serving
-1: Settle
-1: Sevenfold
-1: Severed
-1: Shackles
-1: Shadow
-1: Shadows
-1: Shakes
-1: Shamed
-1: Shameful
-1: Shames
-1: Shaped
-1: Shards
-1: Sharpen
-1: Sharpness
-1: Shave
-1: Shelters
-1: Shift
-1: Shifts
-1: Shine
-1: Shiny
-1: Shirt
-1: Shoots
-1: Shorter
-1: Shortly
-1: Shot
-1: Shoulders
-1: Shoved
-1: Showers
-1: Showplace
-1: Shrewd
-1: Shrewdness
-1: Shroud
-1: Sicken
-1: Sickly
-1: Signify
-1: Silent
-1: Silken
-1: Silver
-1: Silvered
-1: Silvius
-1: Sin
-1: Sinking
-1: Sinks
-1: Sirs
-1: Sister’s
-1: Sky
-1: Slackness
-1: Slander
-1: Slaves
-1: Sleepers
-1: Slept
-1: Slew’st
-1: Slight
-1: Slimy
-1: Slippery
-1: Slow
-1: Smarting
-1: Smells
-1: Smite
-1: Smock
-1: Smooth
-1: Snaffle
-1: Snare
-1: Snatch
-1: Snow
-1: Sober
-1: Soberly
-1: Soften
-1: Softly
-1: Solder
-1: Soldiers
-1: Soldiers’
-1: Sole
-1: Solemn
-1: Solemnity
-1: Sons
-1: Son’s
-1: Soonest
-1: Sooth
-1: Soothsay
-1: Sore
-1: Sorely
-1: Sorrowful
-1: Sorrows
-1: Sossius
-1: Sottish
-1: Sought
-1: Sought’st
-1: Soulless
-1: Souls
-1: Soundly
-1: Sounds
-1: Source
-1: Sourest
-1: Spacious
-1: Spanieled
-1: Spared
-1: Speaking
-1: Speak’st
-1: Speed
-1: Speediest
-1: Speeds
-1: Spell
-1: Spent
-1: Spheres
-1: Spies
-1: Spill
-1: Splits
-1: Splitted
-1: Spoiled
-1: Sports
-1: Spot
-1: Spots
-1: Spring
-1: Spur
-1: Spurn
-1: Spurns
-1: Squadrons
-1: Squares
-1: Squeaking
-1: Squire
-1: Stablishment
-1: Staff
-1: Stag
-1: Staged
-1: Stain
-1: Stained
-1: Stall
-1: Standing
-1: Stand’st
-1: Stark
-1: Start
-1: Starts
-1: Station
-1: Statue
-1: Staunch
-1: Stayed
-1: Staying
-1: Stays
-1: Steal
-1: Steed
-1: Steel
-1: Steeped
-1: Steer
-1: Steers
-1: Stewed
-1: Sticks
-1: Stiff
-1: Sting
-1: Stir
-1: Stirred
-1: Stirring
-1: Stirs
-1: Stolen
-1: Stol’n
-1: Stomaching
-1: Stool
-1: Stoop
-1: Store
-1: Storms
-1: Straightway
-1: Strangler
-1: Stray
-1: Stream
-1: Street
-1: Stretch
-1: Strewed
-1: Strife
-1: Strikes
-1: Strik’st
-1: Strings
-1: Stripes
-1: Strives
-1: Strong-winged
-1: Strongest
-1: Strongly
-1: Strumpets
-1: Strumpet’s
-1: Strut
-1: Stuck
-1: Study
-1: Stuff
-1: Sty
-1: Subdue
-1: Subject
-1: Submerged
-1: Submits
-1: Subscribe
-1: Sucks
-1: Sued
-1: Sues
-1: Suffered
-1: Sufficing
-1: Suitors
-1: Sullen
-1: Sup
-1: Superfluous
-1: Supplying
-1: Supposing
-1: Supremacy
-1: Surfeiter
-1: Surfeits
-1: Surprised
-1: Suspect
-1: Swallowed
-1: Swallows
-1: Swan’s-down
-1: Sway
-1: Sweat
-1: Sweating
-1: Sweep
-1: Sweetest
-1: Sweets
-1: Swelling
-1: Swells
-1: Swerving
-1: Swifter
-1: Swoons
-1: Sworder
-1: Swor’st
-1: Synod
-1: T
-1: Taborins
-1: Tackle
-1: Tailors
-1: Taints
-1: Tale
-1: Tales
-1: Talked
-1: Talks
-1: Tarentum
-1: Targes
-1: Target
-1: Targets
-1: Tart
-1: Task
-1: Taught
-1: Taunts
-1: Tawny
-1: Tawny-finned
-1: Teach
-1: Tear
-1: Tearing
-1: Telamon
-1: Teller
-1: Telling
-1: Tell’st
-1: Temper
-1: Tempests
-1: Tempt
-1: Tended
-1: Tenfold
-1: Terrene
-1: Terrible
-1: Thankful
-1: Theirs
-1: Theme
-1: Thereabouts
-1: Thereon
-1: Thereto
-1: Thessaly
-1: Thetis
-1: Thickens
-1: Thief
-1: Thieves
-1: Thinking
-1: Thinks
-1: Thirty
-1: Thousands
-1: Thracian
-1: Threaten
-1: Threatening
-1: Threats
-1: Three-nooked
-1: Thrice
-1: Thrived
-1: Thrives
-1: Thronèd
-1: Throws
-1: Thunder
-1: Thunderbolt
-1: Thunders
-1: Thyself
-1: Tiber
-1: Tied
-1: Ties
-1: Tight
-1: Timelier
-1: Tinct
-1: Tippling
-1: Tires
-1: Tissue
-1: Title
-1: Toil
-1: Token
-1: Tokened
-1: Top
-1: Torch
-1: Torches
-1: Tow
-1: Towered
-1: Toys
-1: Trade
-1: Traduced
-1: Trail
-1: Transform
-1: Transformed
-1: Transmigrates
-1: Tread
-1: Treason
-1: Treasons
-1: Treasurer
-1: Treasure’s
-1: Treaties
-1: Treaty
-1: Treble-sinewed
-1: Trembled
-1: Tremblingly
-1: Trencher
-1: Trespasses
-1: Trial
-1: Tribunal
-1: Tributaries
-1: Trick
-1: Tricks
-1: Trifles
-1: Trim
-1: Trimming
-1: Triple
-1: Triple-turned
-1: Triumphed
-1: Triumphing
-1: Triumvirate
-1: Trivial
-1: Trouble
-1: Trull
-1: Trumpet
-1: Trumpeters
-1: Trumpets
-1: Trusted
-1: Trusting
-1: Tug
-1: Tumble
-1: Tunèd
-1: Turns
-1: Turpitude
-1: Twins
-1: Ugly
-1: Unarm
-1: Unbewailed
-1: Unbuckles
-1: Uncaught
-1: Uncuckolded
-1: Uncurbable
-1: Understand
-1: Undid
-1: Undinted
-1: Undo
-1: Undoing
-1: Unequal
-1: Unexecuted
-1: Unfolded
-1: Ungentle
-1: Unhacked
-1: Unhair
-1: Unhappy
-1: Unheard
-1: Unity
-1: Unkindness
-1: Unknown
-1: Unlawful
-1: Unlike
-1: Unloading
-1: Unloved
-1: Unmatchable
-1: Unnoble
-1: Unparalleled
-1: Unpeople
-1: Unpitied
-1: Unpolicied
-1: Unpressed
-1: Unpurposed
-1: Unqualitied
-1: Unreconciliable
-1: Unregistered
-1: Unrestored
-1: Unseen
-1: Unseminared
-1: Unshown
-1: Unslipping
-1: Unstate
-1: Untie
-1: Unworthy
-1: Uplift
-1: Uprise
-1: Urgent
-1: Useful
-1: Usher
-1: Utterly
-1: Vagabond
-1: Vales
-1: Valiantly
-1: Valued
-1: Vanish
-1: Vanishest
-1: Vanquished
-1: Vant
-1: Variance
-1: Variety
-1: Varletry
-1: Varrius
-1: Vats
-1: Veins
-1: Venomous
-1: Vent
-1: Vented
-1: Vesper’s
-1: Vessels
-1: Vestal
-1: Vex
-1: Vials
-1: Viands
-1: Vice
-1: Viciousness
-1: Victorious
-1: Vie
-1: Vile
-1: Vilest
-1: Villainy
-1: Vine
-1: Violate
-1: Violence
-1: Visage
-1: Visible
-1: Visit
-1: Visiting
-1: Voice
-1: Volley
-1: Voluptuousness
-1: Vouchsafed
-1: Vouchsafing
-1: Vows
-1: Vulgar
-1: Wage
-1: Wagered
-1: Wailed
-1: Walked
-1: Walking
-1: Wander
-1: Wanned
-1: Wanted
-1: Wants
-1: War-marked
-1: Warlike
-1: Warmth
-1: Warred
-1: Warrior
-1: Wassails
-1: Waste
-1: Wastes
-1: Watch
-1: Watchmen
-1: Waterflies
-1: Waters
-1: Weaker
-1: Weakness
-1: Wearer
-1: Wears
-1: Weeds
-1: Weeps
-1: Weet
-1: Weigh
-1: Weighs
-1: Well-divided
-1: Well-paid
-1: Wench
-1: Wenches
-1: Wert
-1: Wet
-1: We’d
-1: Wharfs
-1: Whatsome’er
-1: Wheat
-1: Wheel
-1: Wheeled
-1: Wheels
-1: Whelp
-1: Whence
-1: Wherefore’s
-1: Whereon
-1: Whiles
-1: Whine
-1: Whistling
-1: Wholly
-1: Whores
-1: Whoreson
-1: Wide
-1: Widower
-1: Willingly
-1: Windowed
-1: Windows
-1: Wing
-1: Wings
-1: Winter
-1: Wipe
-1: Wire
-1: Wished
-1: Wishers
-1: Witchcraft
-1: Wither
-1: Withered
-1: Womanly
-1: Women’s
-1: Wonder
-1: Wonderful
-1: Workaday
-1: Workman
-1: World-sharers
-1: Worm’s
-1: Worship
-1: Wot’st
-1: Wounded
-1: Wounding
-1: Wrangle
-1: Wrangling
-1: Wrath
-1: Wrestle
-1: Wretch
-1: Wretched
-1: Wrinkles
-1: Writ
-1: Writings
-1: Wronged
-1: Wrongèd
-1: Yarely
-1: Yesterday
-1: Yielding
-1: Yon
-1: Younger
-1: Yourselves
-1: ’a
-1: ’greed
-1: ’scape
-1: ’stroyed
-1: ’tween
+ , instances: 747, word: 'The', work: 'Ado'},
+ , instances: 599, word: 'And', work: 'Ado'},
+ , instances: 529, word: 'To', work: 'Ado'},
+ , instances: 522, word: 'I', work: 'Ado'},
+ , instances: 431, word: 'Of', work: 'Ado'},
+ , instances: 361, word: 'You', work: 'Ado'},
+ , instances: 314, word: 'My', work: 'Ado'},
+ , instances: 296, word: 'A', work: 'Ado'},
+ , instances: 292, word: 'That', work: 'Ado'},
+ , instances: 280, word: 'Is', work: 'Ado'},
+ , instances: 260, word: 'Not', work: 'Ado'},
+ , instances: 258, word: 'In', work: 'Ado'},
+ , instances: 248, word: 'Me', work: 'Ado'},
+ , instances: 224, word: 'Have', work: 'Ado'},
+ , instances: 217, word: 'He', work: 'Ado'},
+ , instances: 214, word: 'It', work: 'Ado'},
+ , instances: 207, word: 'His', work: 'Ado'},
+ , instances: 189, word: 'For', work: 'Ado'},
+ , instances: 186, word: 'Be', work: 'Ado'},
+ , instances: 183, word: 'Him', work: 'Ado'},
+ , instances: 181, word: 'With', work: 'Ado'},
+ , instances: 180, word: 'But', work: 'Ado'},
+ , instances: 179, word: 'Thou', work: 'Ado'},
+ , instances: 169, word: 'This', work: 'Ado'},
+ , instances: 146, word: 'We', work: 'Ado'},
+ , instances: 140, word: 'So', work: 'Ado'},
+ , instances: 140, word: 'Your', work: 'Ado'},
+ , instances: 138, word: 'Our', work: 'Ado'},
+ , instances: 137, word: 'What', work: 'Ado'},
+ , instances: 136, word: 'As', work: 'Ado'},
+ , instances: 134, word: 'Caesar', work: 'Ado'},
+ , instances: 133, word: 'Antony', work: 'Ado'},
+ , instances: 128, word: 'Shall', work: 'Ado'},
+ , instances: 127, word: 'Will', work: 'Ado'},
+ , instances: 123, word: 'Her', work: 'Ado'},
+ , instances: 121, word: 'Do', work: 'Ado'},
+ , instances: 111, word: 'Thy', work: 'Ado'},
+ , instances: 110, word: 'No', work: 'Ado'},
+ , instances: 110, word: 'Thee', work: 'Ado'},
+ , instances: 108, word: 'Which', work: 'Ado'},
+ , instances: 102, word: 'By', work: 'Ado'},
+ , instances: 100, word: 'All', work: 'Ado'},
+ , instances: 96, word: 'O', work: 'Ado'},
+ , instances: 96, word: 'On', work: 'Ado'},
+ , instances: 92, word: 'Come', work: 'Ado'},
+ , instances: 89, word: 'If', work: 'Ado'},
+ , instances: 88, word: 'Now', work: 'Ado'},
+ , instances: 85, word: 'Good', work: 'Ado'},
+ , instances: 85, word: 'Th\'', work: 'Ado'},
+ , instances: 84, word: 'Are', work: 'Ado'},
+ , instances: 82, word: 'She', work: 'Ado'},
+ , instances: 82, word: 'Well', work: 'Ado'},
+ , instances: 81, word: '\'t', work: 'Ado'},
+ , instances: 80, word: 'From', work: 'Ado'},
+ , instances: 80, word: 'Let', work: 'Ado'},
+ , instances: 79, word: 'Sir', work: 'Ado'},
+ , instances: 75, word: 'When', work: 'Ado'},
+ , instances: 74, word: 'At', work: 'Ado'},
+ , instances: 72, word: 'Make', work: 'Ado'},
+ , instances: 69, word: 'Did', work: 'Ado'},
+ , instances: 68, word: 'More', work: 'Ado'},
+ , instances: 66, word: 'Their', work: 'Ado'},
+ , instances: 65, word: 'Would', work: 'Ado'},
+ , instances: 64, word: 'Should', work: 'Ado'},
+ , instances: 64, word: 'They', work: 'Ado'},
+ , instances: 64, word: 'Us', work: 'Ado'},
+ , instances: 62, word: 'Upon', work: 'Ado'},
+ , instances: 61, word: 'Was', work: 'Ado'},
+ , instances: 60, word: 'How', work: 'Ado'},
+ , instances: 60, word: 'Most', work: 'Ado'},
+ , instances: 60, word: 'Or', work: 'Ado'},
+ , instances: 60, word: 'Then', work: 'Ado'},
+ , instances: 59, word: '\'tis', work: 'Ado'},
+ , instances: 55, word: 'I\'ll', work: 'Ado'},
+ , instances: 54, word: 'Go', work: 'Ado'},
+ , instances: 54, word: 'Lord', work: 'Ado'},
+ , instances: 54, word: 'Them', work: 'Ado'},
+ , instances: 53, word: 'Like', work: 'Ado'},
+ , instances: 53, word: 'Must', work: 'Ado'},
+ , instances: 53, word: 'Say', work: 'Ado'},
+ , instances: 52, word: 'Am', work: 'Ado'},
+ , instances: 52, word: 'Give', work: 'Ado'},
+ , instances: 52, word: 'Madam', work: 'Ado'},
+ , instances: 52, word: 'Than', work: 'Ado'},
+ , instances: 52, word: 'There', work: 'Ado'},
+ , instances: 50, word: 'Had', work: 'Ado'},
+ , instances: 50, word: 'Mine', work: 'Ado'},
+ , instances: 49, word: 'See', work: 'Ado'},
+ , instances: 49, word: 'Take', work: 'Ado'},
+ , instances: 48, word: 'Great', work: 'Ado'},
+ , instances: 47, word: 'Know', work: 'Ado'},
+ , instances: 46, word: 'Here', work: 'Ado'},
+ , instances: 45, word: 'Queen', work: 'Ado'},
+ , instances: 44, word: 'Hath', work: 'Ado'},
+ , instances: 44, word: 'Yet', work: 'Ado'},
+ , instances: 43, word: 'An', work: 'Ado'},
+ , instances: 42, word: 'World', work: 'Ado'},
+ , instances: 41, word: 'Egypt', work: 'Ado'},
+ , instances: 41, word: 'Man', work: 'Ado'},
+ , instances: 40, word: 'Were', work: 'Ado'},
+ , instances: 40, word: 'Where', work: 'Ado'},
+ , instances: 38, word: 'Hear', work: 'Ado'},
+ , instances: 38, word: 'Heart', work: 'Ado'},
+ , instances: 38, word: 'Love', work: 'Ado'},
+ , instances: 38, word: 'May', work: 'Ado'},
+ , instances: 38, word: 'Speak', work: 'Ado'},
+ , instances: 37, word: 'Done', work: 'Ado'},
+ , instances: 37, word: 'One', work: 'Ado'},
+ , instances: 37, word: 'Too', work: 'Ado'},
+ , instances: 37, word: 'Up', work: 'Ado'},
+ , instances: 36, word: 'Out', work: 'Ado'},
+ , instances: 36, word: 'Such', work: 'Ado'},
+ , instances: 35, word: 'Gods', work: 'Ado'},
+ , instances: 35, word: 'Never', work: 'Ado'},
+ , instances: 34, word: 'Can', work: 'Ado'},
+ , instances: 33, word: 'Made', work: 'Ado'},
+ , instances: 33, word: 'Noble', work: 'Ado'},
+ , instances: 32, word: 'Death', work: 'Ado'},
+ , instances: 30, word: 'Rome', work: 'Ado'},
+ , instances: 30, word: 'Time', work: 'Ado'},
+ , instances: 29, word: 'Does', work: 'Ado'},
+ , instances: 29, word: 'Friends', work: 'Ado'},
+ , instances: 29, word: 'Tell', work: 'Ado'},
+ , instances: 29, word: 'Way', work: 'Ado'},
+ , instances: 28, word: 'Cleopatra', work: 'Ado'},
+ , instances: 28, word: 'Think', work: 'Ado'},
+ , instances: 27, word: 'Eros', work: 'Ado'},
+ , instances: 27, word: 'Much', work: 'Ado'},
+ , instances: 27, word: 'Pompey', work: 'Ado'},
+ , instances: 27, word: 'Some', work: 'Ado'},
+ , instances: 27, word: 'Why', work: 'Ado'},
+ , instances: 26, word: 'Hand', work: 'Ado'},
+ , instances: 26, word: 'Hast', work: 'Ado'},
+ , instances: 26, word: 'Nay', work: 'Ado'},
+ , instances: 26, word: 'Sea', work: 'Ado'},
+ , instances: 26, word: 'Till', work: 'Ado'},
+ , instances: 25, word: 'Being', work: 'Ado'},
+ , instances: 25, word: 'Cannot', work: 'Ado'},
+ , instances: 25, word: 'Charmian', work: 'Ado'},
+ , instances: 25, word: 'Fortune', work: 'Ado'},
+ , instances: 25, word: 'I\'', work: 'Ado'},
+ , instances: 25, word: 'Look', work: 'Ado'},
+ , instances: 24, word: 'Best', work: 'Ado'},
+ , instances: 24, word: 'Dead', work: 'Ado'},
+ , instances: 24, word: 'Fight', work: 'Ado'},
+ , instances: 24, word: 'O\'', work: 'Ado'},
+ , instances: 24, word: 'Though', work: 'Ado'},
+ , instances: 24, word: 'Thus', work: 'Ado'},
+ , instances: 23, word: 'Art', work: 'Ado'},
+ , instances: 23, word: 'Before', work: 'Ado'},
+ , instances: 23, word: 'Caesar\'s', work: 'Ado'},
+ , instances: 23, word: 'Has', work: 'Ado'},
+ , instances: 23, word: 'Octavia', work: 'Ado'},
+ , instances: 22, word: 'Eyes', work: 'Ado'},
+ , instances: 22, word: 'Land', work: 'Ado'},
+ , instances: 22, word: 'Men', work: 'Ado'},
+ , instances: 22, word: 'Might', work: 'Ado'},
+ , instances: 22, word: 'Sword', work: 'Ado'},
+ , instances: 22, word: 'These', work: 'Ado'},
+ , instances: 22, word: 'Who', work: 'Ado'},
+ , instances: 22, word: 'Women', work: 'Ado'},
+ , instances: 21, word: 'Bear', work: 'Ado'},
+ , instances: 21, word: 'Farewell', work: 'Ado'},
+ , instances: 21, word: 'Nor', work: 'Ado'},
+ , instances: 21, word: 'Nothing', work: 'Ado'},
+ , instances: 21, word: 'Own', work: 'Ado'},
+ , instances: 20, word: 'Better', work: 'Ado'},
+ , instances: 20, word: 'Both', work: 'Ado'},
+ , instances: 20, word: 'Bring', work: 'Ado'},
+ , instances: 20, word: 'Honor', work: 'Ado'},
+ , instances: 20, word: 'Myself', work: 'Ado'},
+ , instances: 20, word: 'Very', work: 'Ado'},
+ , instances: 20, word: 'War', work: 'Ado'},
+ , instances: 19, word: 'Again', work: 'Ado'},
+ , instances: 19, word: 'Follow', work: 'Ado'},
+ , instances: 19, word: 'Lady', work: 'Ado'},
+ , instances: 19, word: 'Leave', work: 'Ado'},
+ , instances: 19, word: 'Lepidus', work: 'Ado'},
+ , instances: 19, word: 'Let\'s', work: 'Ado'},
+ , instances: 19, word: 'Mark', work: 'Ado'},
+ , instances: 19, word: 'Pray', work: 'Ado'},
+ , instances: 19, word: 'There\'s', work: 'Ado'},
+ , instances: 19, word: 'Whose', work: 'Ado'},
+ , instances: 18, word: 'Away', work: 'Ado'},
+ , instances: 18, word: 'Could', work: 'Ado'},
+ , instances: 18, word: 'Die', work: 'Ado'},
+ , instances: 18, word: 'Hence', work: 'Ado'},
+ , instances: 18, word: 'Indeed', work: 'Ado'},
+ , instances: 18, word: 'Into', work: 'Ado'},
+ , instances: 18, word: 'Life', work: 'Ado'},
+ , instances: 18, word: 'Name', work: 'Ado'},
+ , instances: 18, word: 'Part', work: 'Ado'},
+ , instances: 17, word: 'Call', work: 'Ado'},
+ , instances: 17, word: 'Dear', work: 'Ado'},
+ , instances: 17, word: 'Forth', work: 'Ado'},
+ , instances: 17, word: 'Fortunes', work: 'Ado'},
+ , instances: 17, word: 'Gone', work: 'Ado'},
+ , instances: 17, word: 'Once', work: 'Ado'},
+ , instances: 17, word: 'Thine', work: 'Ado'},
+ , instances: 17, word: 'Those', work: 'Ado'},
+ , instances: 16, word: 'Been', work: 'Ado'},
+ , instances: 16, word: 'Cause', work: 'Ado'},
+ , instances: 16, word: 'Find', work: 'Ado'},
+ , instances: 16, word: 'Heard', work: 'Ado'},
+ , instances: 16, word: 'He\'s', work: 'Ado'},
+ , instances: 16, word: 'Makes', work: 'Ado'},
+ , instances: 16, word: 'Many', work: 'Ado'},
+ , instances: 16, word: 'Other', work: 'Ado'},
+ , instances: 16, word: 'Peace', work: 'Ado'},
+ , instances: 16, word: 'Rather', work: 'Ado'},
+ , instances: 16, word: 'Soldier', work: 'Ado'},
+ , instances: 16, word: 'Still', work: 'Ado'},
+ , instances: 16, word: 'Wars', work: 'Ado'},
+ , instances: 16, word: 'Welcome', work: 'Ado'},
+ , instances: 15, word: 'Against', work: 'Ado'},
+ , instances: 15, word: 'Between', work: 'Ado'},
+ , instances: 15, word: 'Last', work: 'Ado'},
+ , instances: 15, word: 'Master', work: 'Ado'},
+ , instances: 15, word: 'Power', work: 'Ado'},
+ , instances: 15, word: 'Put', work: 'Ado'},
+ , instances: 15, word: 'Since', work: 'Ado'},
+ , instances: 15, word: 'Together', work: 'Ado'},
+ , instances: 15, word: 'Word', work: 'Ado'},
+ , instances: 15, word: 'Yourself', work: 'Ado'},
+ , instances: 14, word: 'Ay', work: 'Ado'},
+ , instances: 14, word: 'Back', work: 'Ado'},
+ , instances: 14, word: 'Brother', work: 'Ado'},
+ , instances: 14, word: 'Day', work: 'Ado'},
+ , instances: 14, word: 'Draw', work: 'Ado'},
+ , instances: 14, word: 'Else', work: 'Ado'},
+ , instances: 14, word: 'Enobarbus', work: 'Ado'},
+ , instances: 14, word: 'Ever', work: 'Ado'},
+ , instances: 14, word: 'Fulvia', work: 'Ado'},
+ , instances: 14, word: 'Horse', work: 'Ado'},
+ , instances: 14, word: 'Kings', work: 'Ado'},
+ , instances: 14, word: 'Matter', work: 'Ado'},
+ , instances: 14, word: 'News', work: 'Ado'},
+ , instances: 14, word: 'Off', work: 'Ado'},
+ , instances: 14, word: 'Pardon', work: 'Ado'},
+ , instances: 14, word: 'Please', work: 'Ado'},
+ , instances: 14, word: 'Strange', work: 'Ado'},
+ , instances: 14, word: 'Things', work: 'Ado'},
+ , instances: 14, word: 'True', work: 'Ado'},
+ , instances: 14, word: 'We\'ll', work: 'Ado'},
+ , instances: 14, word: 'What\'s', work: 'Ado'},
+ , instances: 14, word: 'Whom', work: 'Ado'},
+ , instances: 14, word: 'Wife', work: 'Ado'},
+ , instances: 13, word: 'Earth', work: 'Ado'},
+ , instances: 13, word: 'Every', work: 'Ado'},
+ , instances: 13, word: 'Face', work: 'Ado'},
+ , instances: 13, word: 'Gentle', work: 'Ado'},
+ , instances: 13, word: 'High', work: 'Ado'},
+ , instances: 13, word: 'Himself', work: 'Ado'},
+ , instances: 13, word: 'Keep', work: 'Ado'},
+ , instances: 13, word: 'Married', work: 'Ado'},
+ , instances: 13, word: 'Poor', work: 'Ado'},
+ , instances: 13, word: 'Show', work: 'Ado'},
+ , instances: 13, word: 'That\'s', work: 'Ado'},
+ , instances: 13, word: 'Woman', work: 'Ado'},
+ , instances: 13, word: '\'s', work: 'Ado'},
+ , instances: 12, word: 'Bid', work: 'Ado'},
+ , instances: 12, word: 'Blood', work: 'Ado'},
+ , instances: 12, word: 'Brave', work: 'Ado'},
+ , instances: 12, word: 'Drink', work: 'Ado'},
+ , instances: 12, word: 'Fall', work: 'Ado'},
+ , instances: 12, word: 'Full', work: 'Ado'},
+ , instances: 12, word: 'Guard', work: 'Ado'},
+ , instances: 12, word: 'Ho', work: 'Ado'},
+ , instances: 12, word: 'Pleasure', work: 'Ado'},
+ , instances: 12, word: 'Send', work: 'Ado'},
+ , instances: 12, word: 'Sent', work: 'Ado'},
+ , instances: 12, word: 'Therefore', work: 'Ado'},
+ , instances: 12, word: 'Thought', work: 'Ado'},
+ , instances: 11, word: 'After', work: 'Ado'},
+ , instances: 11, word: 'Fear', work: 'Ado'},
+ , instances: 11, word: 'Fellow', work: 'Ado'},
+ , instances: 11, word: 'First', work: 'Ado'},
+ , instances: 11, word: 'Further', work: 'Ado'},
+ , instances: 11, word: 'Hands', work: 'Ado'},
+ , instances: 11, word: 'Hearts', work: 'Ado'},
+ , instances: 11, word: 'Hither', work: 'Ado'},
+ , instances: 11, word: 'Left', work: 'Ado'},
+ , instances: 11, word: 'Long', work: 'Ado'},
+ , instances: 11, word: 'Lost', work: 'Ado'},
+ , instances: 11, word: 'Night', work: 'Ado'},
+ , instances: 11, word: 'None', work: 'Ado'},
+ , instances: 11, word: 'Report', work: 'Ado'},
+ , instances: 11, word: 'Said', work: 'Ado'},
+ , instances: 11, word: 'Stand', work: 'Ado'},
+ , instances: 11, word: 'Thoughts', work: 'Ado'},
+ , instances: 11, word: 'Through', work: 'Ado'},
+ , instances: 11, word: 'Unto', work: 'Ado'},
+ , instances: 11, word: 'Where\'s', work: 'Ado'},
+ , instances: 11, word: 'Whole', work: 'Ado'},
+ , instances: 11, word: 'Yours', work: 'Ado'},
+ , instances: 10, word: 'Agrippa', work: 'Ado'},
+ , instances: 10, word: 'Alexas', work: 'Ado'},
+ , instances: 10, word: 'Alone', work: 'Ado'},
+ , instances: 10, word: 'Break', work: 'Ado'},
+ , instances: 10, word: 'Business', work: 'Ado'},
+ , instances: 10, word: 'Command', work: 'Ado'},
+ , instances: 10, word: 'Ear', work: 'Ado'},
+ , instances: 10, word: 'Even', work: 'Ado'},
+ , instances: 10, word: 'Fly', work: 'Ado'},
+ , instances: 10, word: 'Friend', work: 'Ado'},
+ , instances: 10, word: 'Gold', work: 'Ado'},
+ , instances: 10, word: 'Goodnight', work: 'Ado'},
+ , instances: 10, word: 'Help', work: 'Ado'},
+ , instances: 10, word: 'Hold', work: 'Ado'},
+ , instances: 10, word: 'Honest', work: 'Ado'},
+ , instances: 10, word: 'Itself', work: 'Ado'},
+ , instances: 10, word: 'Lay', work: 'Ado'},
+ , instances: 10, word: 'Lie', work: 'Ado'},
+ , instances: 10, word: 'Lips', work: 'Ado'},
+ , instances: 10, word: 'Loves', work: 'Ado'},
+ , instances: 10, word: 'Note', work: 'Ado'},
+ , instances: 10, word: 'Only', work: 'Ado'},
+ , instances: 10, word: 'Prithee', work: 'Ado'},
+ , instances: 10, word: 'Sleep', work: 'Ado'},
+ , instances: 10, word: 'Spoke', work: 'Ado'},
+ , instances: 10, word: 'Strike', work: 'Ado'},
+ , instances: 10, word: 'Turn', work: 'Ado'},
+ , instances: 9, word: 'Ah', work: 'Ado'},
+ , instances: 9, word: 'Appear', work: 'Ado'},
+ , instances: 9, word: 'Behold', work: 'Ado'},
+ , instances: 9, word: 'Certain', work: 'Ado'},
+ , instances: 9, word: 'Comes', work: 'Ado'},
+ , instances: 9, word: 'Down', work: 'Ado'},
+ , instances: 9, word: 'Each', work: 'Ado'},
+ , instances: 9, word: 'Egyptian', work: 'Ado'},
+ , instances: 9, word: 'Emperor', work: 'Ado'},
+ , instances: 9, word: 'Enough', work: 'Ado'},
+ , instances: 9, word: 'Get', work: 'Ado'},
+ , instances: 9, word: 'Given', work: 'Ado'},
+ , instances: 9, word: 'Iras', work: 'Ado'},
+ , instances: 9, word: 'Kiss', work: 'Ado'},
+ , instances: 9, word: 'Lead', work: 'Ado'},
+ , instances: 9, word: 'Little', work: 'Ado'},
+ , instances: 9, word: 'Live', work: 'Ado'},
+ , instances: 9, word: 'Menas', work: 'Ado'},
+ , instances: 9, word: 'Present', work: 'Ado'},
+ , instances: 9, word: 'Quick', work: 'Ado'},
+ , instances: 9, word: 'Royal', work: 'Ado'},
+ , instances: 9, word: 'Sad', work: 'Ado'},
+ , instances: 9, word: 'Seen', work: 'Ado'},
+ , instances: 9, word: 'Service', work: 'Ado'},
+ , instances: 9, word: 'Shame', work: 'Ado'},
+ , instances: 9, word: 'Sister', work: 'Ado'},
+ , instances: 9, word: 'Spirit', work: 'Ado'},
+ , instances: 9, word: 'Strong', work: 'Ado'},
+ , instances: 9, word: 'Thing', work: 'Ado'},
+ , instances: 9, word: 'Tomorrow', work: 'Ado'},
+ , instances: 9, word: 'Weep', work: 'Ado'},
+ , instances: 9, word: 'Wish', work: 'Ado'},
+ , instances: 9, word: 'Worthy', work: 'Ado'},
+ , instances: 8, word: 'Answer', work: 'Ado'},
+ , instances: 8, word: 'Beat', work: 'Ado'},
+ , instances: 8, word: 'Becomes', work: 'Ado'},
+ , instances: 8, word: 'Called', work: 'Ado'},
+ , instances: 8, word: 'Captain', work: 'Ado'},
+ , instances: 8, word: 'Change', work: 'Ado'},
+ , instances: 8, word: 'Dare', work: 'Ado'},
+ , instances: 8, word: 'Dispatch', work: 'Ado'},
+ , instances: 8, word: 'Dolabella', work: 'Ado'},
+ , instances: 8, word: 'Dost', work: 'Ado'},
+ , instances: 8, word: 'Ere', work: 'Ado'},
+ , instances: 8, word: 'Fair', work: 'Ado'},
+ , instances: 8, word: 'Far', work: 'Ado'},
+ , instances: 8, word: 'Fool', work: 'Ado'},
+ , instances: 8, word: 'Grace', work: 'Ado'},
+ , instances: 8, word: 'Half', work: 'Ado'},
+ , instances: 8, word: 'Head', work: 'Ado'},
+ , instances: 8, word: 'Hope', work: 'Ado'},
+ , instances: 8, word: 'Ill', work: 'Ado'},
+ , instances: 8, word: 'Isis', work: 'Ado'},
+ , instances: 8, word: 'Mean', work: 'Ado'},
+ , instances: 8, word: 'Mistress', work: 'Ado'},
+ , instances: 8, word: 'Ne\'er', work: 'Ado'},
+ , instances: 8, word: 'People', work: 'Ado'},
+ , instances: 8, word: 'Place', work: 'Ado'},
+ , instances: 8, word: 'Roman', work: 'Ado'},
+ , instances: 8, word: 'Saw', work: 'Ado'},
+ , instances: 8, word: 'Set', work: 'Ado'},
+ , instances: 8, word: 'Stay', work: 'Ado'},
+ , instances: 8, word: 'Sure', work: 'Ado'},
+ , instances: 8, word: 'Sweet', work: 'Ado'},
+ , instances: 8, word: 'Tongue', work: 'Ado'},
+ , instances: 8, word: 'Tonight', work: 'Ado'},
+ , instances: 8, word: 'Use', work: 'Ado'},
+ , instances: 8, word: 'Water', work: 'Ado'},
+ , instances: 8, word: 'Whilst', work: 'Ado'},
+ , instances: 8, word: 'Wine', work: 'Ado'},
+ , instances: 8, word: 'Worm', work: 'Ado'},
+ , instances: 8, word: '\'gainst', work: 'Ado'},
+ , instances: 7, word: 'About', work: 'Ado'},
+ , instances: 7, word: 'Act', work: 'Ado'},
+ , instances: 7, word: 'Adieu', work: 'Ado'},
+ , instances: 7, word: 'Already', work: 'Ado'},
+ , instances: 7, word: 'Another', work: 'Ado'},
+ , instances: 7, word: 'Become', work: 'Ado'},
+ , instances: 7, word: 'Bed', work: 'Ado'},
+ , instances: 7, word: 'Chance', work: 'Ado'},
+ , instances: 7, word: 'Cold', work: 'Ado'},
+ , instances: 7, word: 'Comfort', work: 'Ado'},
+ , instances: 7, word: 'Dying', work: 'Ado'},
+ , instances: 7, word: 'End', work: 'Ado'},
+ , instances: 7, word: 'False', work: 'Ado'},
+ , instances: 7, word: 'Field', work: 'Ado'},
+ , instances: 7, word: 'Going', work: 'Ado'},
+ , instances: 7, word: 'Greater', work: 'Ado'},
+ , instances: 7, word: 'Hang', work: 'Ado'},
+ , instances: 7, word: 'Hark', work: 'Ado'},
+ , instances: 7, word: 'Heaven', work: 'Ado'},
+ , instances: 7, word: 'Hour', work: 'Ado'},
+ , instances: 7, word: 'Kept', work: 'Ado'},
+ , instances: 7, word: 'Knew', work: 'Ado'},
+ , instances: 7, word: 'Known', work: 'Ado'},
+ , instances: 7, word: 'Knows', work: 'Ado'},
+ , instances: 7, word: 'Letters', work: 'Ado'},
+ , instances: 7, word: 'Loud', work: 'Ado'},
+ , instances: 7, word: 'Majesty', work: 'Ado'},
+ , instances: 7, word: 'Messenger', work: 'Ado'},
+ , instances: 7, word: 'Monument', work: 'Ado'},
+ , instances: 7, word: 'Moon', work: 'Ado'},
+ , instances: 7, word: 'Nature', work: 'Ado'},
+ , instances: 7, word: 'Next', work: 'Ado'},
+ , instances: 7, word: 'Old', work: 'Ado'},
+ , instances: 7, word: 'Ourselves', work: 'Ado'},
+ , instances: 7, word: 'Patience', work: 'Ado'},
+ , instances: 7, word: 'Pity', work: 'Ado'},
+ , instances: 7, word: 'Play', work: 'Ado'},
+ , instances: 7, word: 'Purpose', work: 'Ado'},
+ , instances: 7, word: 'Says', work: 'Ado'},
+ , instances: 7, word: 'Serve', work: 'Ado'},
+ , instances: 7, word: 'Side', work: 'Ado'},
+ , instances: 7, word: 'Sit', work: 'Ado'},
+ , instances: 7, word: 'State', work: 'Ado'},
+ , instances: 7, word: 'Strength', work: 'Ado'},
+ , instances: 7, word: 'Thanks', work: 'Ado'},
+ , instances: 7, word: 'Three', work: 'Ado'},
+ , instances: 7, word: 'Trust', work: 'Ado'},
+ , instances: 7, word: 'Under', work: 'Ado'},
+ , instances: 7, word: 'Without', work: 'Ado'},
+ , instances: 7, word: 'Words', work: 'Ado'},
+ , instances: 7, word: 'Wouldst', work: 'Ado'},
+ , instances: 7, word: 'Yes', work: 'Ado'},
+ , instances: 7, word: 'You\'ll', work: 'Ado'},
+ , instances: 6, word: 'Absolute', work: 'Ado'},
+ , instances: 6, word: 'Air', work: 'Ado'},
+ , instances: 6, word: 'Approach', work: 'Ado'},
+ , instances: 6, word: 'Army', work: 'Ado'},
+ , instances: 6, word: 'Ask', work: 'Ado'},
+ , instances: 6, word: 'Body', work: 'Ado'},
+ , instances: 6, word: 'Boy', work: 'Ado'},
+ , instances: 6, word: 'Boys', work: 'Ado'},
+ , instances: 6, word: 'Brought', work: 'Ado'},
+ , instances: 6, word: 'Calls', work: 'Ado'},
+ , instances: 6, word: 'Charge', work: 'Ado'},
+ , instances: 6, word: 'Color', work: 'Ado'},
+ , instances: 6, word: 'Died', work: 'Ado'},
+ , instances: 6, word: 'Excellent', work: 'Ado'},
+ , instances: 6, word: 'Eye', work: 'Ado'},
+ , instances: 6, word: 'Fare', work: 'Ado'},
+ , instances: 6, word: 'Feast', work: 'Ado'},
+ , instances: 6, word: 'Forbear', work: 'Ado'},
+ , instances: 6, word: 'Force', work: 'Ado'},
+ , instances: 6, word: 'Fought', work: 'Ado'},
+ , instances: 6, word: 'Found', work: 'Ado'},
+ , instances: 6, word: 'Free', work: 'Ado'},
+ , instances: 6, word: 'Goes', work: 'Ado'},
+ , instances: 6, word: 'Greatest', work: 'Ado'},
+ , instances: 6, word: 'Greatness', work: 'Ado'},
+ , instances: 6, word: 'Ha', work: 'Ado'},
+ , instances: 6, word: 'Health', work: 'Ado'},
+ , instances: 6, word: 'King', work: 'Ado'},
+ , instances: 6, word: 'Kingdoms', work: 'Ado'},
+ , instances: 6, word: 'Late', work: 'Ado'},
+ , instances: 6, word: 'Less', work: 'Ado'},
+ , instances: 6, word: 'Lies', work: 'Ado'},
+ , instances: 6, word: 'Lived', work: 'Ado'},
+ , instances: 6, word: 'Lives', work: 'Ado'},
+ , instances: 6, word: 'Lose', work: 'Ado'},
+ , instances: 6, word: 'Loved', work: 'Ado'},
+ , instances: 6, word: 'Music', work: 'Ado'},
+ , instances: 6, word: 'Naught', work: 'Ado'},
+ , instances: 6, word: 'Near', work: 'Ado'},
+ , instances: 6, word: 'Needs', work: 'Ado'},
+ , instances: 6, word: 'Often', work: 'Ado'},
+ , instances: 6, word: 'Ours', work: 'Ado'},
+ , instances: 6, word: 'O\'er', work: 'Ado'},
+ , instances: 6, word: 'Parthia', work: 'Ado'},
+ , instances: 6, word: 'Praise', work: 'Ado'},
+ , instances: 6, word: 'Sails', work: 'Ado'},
+ , instances: 6, word: 'Seek', work: 'Ado'},
+ , instances: 6, word: 'Seem', work: 'Ado'},
+ , instances: 6, word: 'Served', work: 'Ado'},
+ , instances: 6, word: 'Shake', work: 'Ado'},
+ , instances: 6, word: 'She\'s', work: 'Ado'},
+ , instances: 6, word: 'Shouldst', work: 'Ado'},
+ , instances: 6, word: 'Soft', work: 'Ado'},
+ , instances: 6, word: 'Something', work: 'Ado'},
+ , instances: 6, word: 'Sorrow', work: 'Ado'},
+ , instances: 6, word: 'Sovereign', work: 'Ado'},
+ , instances: 6, word: 'Speaks', work: 'Ado'},
+ , instances: 6, word: 'Tears', work: 'Ado'},
+ , instances: 6, word: 'Thank', work: 'Ado'},
+ , instances: 6, word: 'Themselves', work: 'Ado'},
+ , instances: 6, word: 'Times', work: 'Ado'},
+ , instances: 6, word: 'Today', work: 'Ado'},
+ , instances: 6, word: 'Weight', work: 'Ado'},
+ , instances: 6, word: 'Whipped', work: 'Ado'},
+ , instances: 6, word: 'Wilt', work: 'Ado'},
+ , instances: 6, word: 'Work', work: 'Ado'},
+ , instances: 6, word: 'Yield', work: 'Ado'},
+ , instances: 5, word: 'Action', work: 'Ado'},
+ , instances: 5, word: 'Alexandria', work: 'Ado'},
+ , instances: 5, word: 'Alike', work: 'Ado'},
+ , instances: 5, word: 'Apace', work: 'Ado'},
+ , instances: 5, word: 'Arm', work: 'Ado'},
+ , instances: 5, word: 'Attend', work: 'Ado'},
+ , instances: 5, word: 'Begin', work: 'Ado'},
+ , instances: 5, word: 'Begone', work: 'Ado'},
+ , instances: 5, word: 'Believe', work: 'Ado'},
+ , instances: 5, word: 'Beseech', work: 'Ado'},
+ , instances: 5, word: 'Betrayed', work: 'Ado'},
+ , instances: 5, word: 'Brain', work: 'Ado'},
+ , instances: 5, word: 'Breath', work: 'Ado'},
+ , instances: 5, word: 'Came', work: 'Ado'},
+ , instances: 5, word: 'Canidius', work: 'Ado'},
+ , instances: 5, word: 'Case', work: 'Ado'},
+ , instances: 5, word: 'Cast', work: 'Ado'},
+ , instances: 5, word: 'Conquer', work: 'Ado'},
+ , instances: 5, word: 'Course', work: 'Ado'},
+ , instances: 5, word: 'Crown', work: 'Ado'},
+ , instances: 5, word: 'Cup', work: 'Ado'},
+ , instances: 5, word: 'Deed', work: 'Ado'},
+ , instances: 5, word: 'Deny', work: 'Ado'},
+ , instances: 5, word: 'Deserved', work: 'Ado'},
+ , instances: 5, word: 'Desire', work: 'Ado'},
+ , instances: 5, word: 'Doth', work: 'Ado'},
+ , instances: 5, word: 'Eat', work: 'Ado'},
+ , instances: 5, word: 'Empire', work: 'Ado'},
+ , instances: 5, word: 'Eunuch', work: 'Ado'},
+ , instances: 5, word: 'Father', work: 'Ado'},
+ , instances: 5, word: 'Faults', work: 'Ado'},
+ , instances: 5, word: 'Fellows', work: 'Ado'},
+ , instances: 5, word: 'Fie', work: 'Ado'},
+ , instances: 5, word: 'Followed', work: 'Ado'},
+ , instances: 5, word: 'Foot', work: 'Ado'},
+ , instances: 5, word: 'Former', work: 'Ado'},
+ , instances: 5, word: 'Gave', work: 'Ado'},
+ , instances: 5, word: 'General', work: 'Ado'},
+ , instances: 5, word: 'God', work: 'Ado'},
+ , instances: 5, word: 'Gracious', work: 'Ado'},
+ , instances: 5, word: 'Hail', work: 'Ado'},
+ , instances: 5, word: 'Haste', work: 'Ado'},
+ , instances: 5, word: 'Having', work: 'Ado'},
+ , instances: 5, word: 'Here\'s', work: 'Ado'},
+ , instances: 5, word: 'Honorable', work: 'Ado'},
+ , instances: 5, word: 'Hours', work: 'Ado'},
+ , instances: 5, word: 'House', work: 'Ado'},
+ , instances: 5, word: 'Husband', work: 'Ado'},
+ , instances: 5, word: 'Idleness', work: 'Ado'},
+ , instances: 5, word: 'Italy', work: 'Ado'},
+ , instances: 5, word: 'Jove', work: 'Ado'},
+ , instances: 5, word: 'Judgment', work: 'Ado'},
+ , instances: 5, word: 'Kind', work: 'Ado'},
+ , instances: 5, word: 'Knave', work: 'Ado'},
+ , instances: 5, word: 'Kneel', work: 'Ado'},
+ , instances: 5, word: 'Labor', work: 'Ado'},
+ , instances: 5, word: 'Lack', work: 'Ado'},
+ , instances: 5, word: 'Laugh', work: 'Ado'},
+ , instances: 5, word: 'Led', work: 'Ado'},
+ , instances: 5, word: 'Mad', work: 'Ado'},
+ , instances: 5, word: 'Marcus', work: 'Ado'},
+ , instances: 5, word: 'Mars', work: 'Ado'},
+ , instances: 5, word: 'Melt', work: 'Ado'},
+ , instances: 5, word: 'Merry', work: 'Ado'},
+ , instances: 5, word: 'Mind', work: 'Ado'},
+ , instances: 5, word: 'Mock', work: 'Ado'},
+ , instances: 5, word: 'New', work: 'Ado'},
+ , instances: 5, word: 'Nile', work: 'Ado'},
+ , instances: 5, word: 'Noise', work: 'Ado'},
+ , instances: 5, word: 'Obey', work: 'Ado'},
+ , instances: 5, word: 'Office', work: 'Ado'},
+ , instances: 5, word: 'Passion', work: 'Ado'},
+ , instances: 5, word: 'Person', work: 'Ado'},
+ , instances: 5, word: 'Petty', work: 'Ado'},
+ , instances: 5, word: 'Pleased', work: 'Ado'},
+ , instances: 5, word: 'Prayer', work: 'Ado'},
+ , instances: 5, word: 'Prepared', work: 'Ado'},
+ , instances: 5, word: 'Proculeius', work: 'Ado'},
+ , instances: 5, word: 'Purposes', work: 'Ado'},
+ , instances: 5, word: 'Quickly', work: 'Ado'},
+ , instances: 5, word: 'Remain', work: 'Ado'},
+ , instances: 5, word: 'Rest', work: 'Ado'},
+ , instances: 5, word: 'Return', work: 'Ado'},
+ , instances: 5, word: 'Rise', work: 'Ado'},
+ , instances: 5, word: 'Round', work: 'Ado'},
+ , instances: 5, word: 'Shalt', work: 'Ado'},
+ , instances: 5, word: 'Ships', work: 'Ado'},
+ , instances: 5, word: 'Shown', work: 'Ado'},
+ , instances: 5, word: 'Soon', work: 'Ado'},
+ , instances: 5, word: 'Speech', work: 'Ado'},
+ , instances: 5, word: 'Stands', work: 'Ado'},
+ , instances: 5, word: 'Stood', work: 'Ado'},
+ , instances: 5, word: 'Sun', work: 'Ado'},
+ , instances: 5, word: 'Syria', work: 'Ado'},
+ , instances: 5, word: 'Throw', work: 'Ado'},
+ , instances: 5, word: 'Tidings', work: 'Ado'},
+ , instances: 5, word: 'Told', work: 'Ado'},
+ , instances: 5, word: 'Treasure', work: 'Ado'},
+ , instances: 5, word: 'Triumph', work: 'Ado'},
+ , instances: 5, word: 'Truth', work: 'Ado'},
+ , instances: 5, word: 'Twenty', work: 'Ado'},
+ , instances: 5, word: 'Two', work: 'Ado'},
+ , instances: 5, word: 'Ventidius', work: 'Ado'},
+ , instances: 5, word: 'Wild', work: 'Ado'},
+ , instances: 5, word: 'Win', work: 'Ado'},
+ , instances: 5, word: 'Within', work: 'Ado'},
+ , instances: 5, word: 'Worse', work: 'Ado'},
+ , instances: 5, word: 'Worth', work: 'Ado'},
+ , instances: 5, word: 'Write', work: 'Ado'},
+ , instances: 5, word: 'Youth', work: 'Ado'},
+ , instances: 4, word: 'Alack', work: 'Ado'},
+ , instances: 4, word: 'Almost', work: 'Ado'},
+ , instances: 4, word: 'Angry', work: 'Ado'},
+ , instances: 4, word: 'Any', work: 'Ado'},
+ , instances: 4, word: 'Audience', work: 'Ado'},
+ , instances: 4, word: 'Authority', work: 'Ado'},
+ , instances: 4, word: 'Awhile', work: 'Ado'},
+ , instances: 4, word: 'Bad', work: 'Ado'},
+ , instances: 4, word: 'Battle', work: 'Ado'},
+ , instances: 4, word: 'Behind', work: 'Ado'},
+ , instances: 4, word: 'Bless', work: 'Ado'},
+ , instances: 4, word: 'Blow', work: 'Ado'},
+ , instances: 4, word: 'Bounty', work: 'Ado'},
+ , instances: 4, word: 'Brutus', work: 'Ado'},
+ , instances: 4, word: 'Care', work: 'Ado'},
+ , instances: 4, word: 'Catch', work: 'Ado'},
+ , instances: 4, word: 'Confound', work: 'Ado'},
+ , instances: 4, word: 'Conquered', work: 'Ado'},
+ , instances: 4, word: 'Cunning', work: 'Ado'},
+ , instances: 4, word: 'Cut', work: 'Ado'},
+ , instances: 4, word: 'Days', work: 'Ado'},
+ , instances: 4, word: 'Deeds', work: 'Ado'},
+ , instances: 4, word: 'Denied', work: 'Ado'},
+ , instances: 4, word: 'Didst', work: 'Ado'},
+ , instances: 4, word: 'Drawn', work: 'Ado'},
+ , instances: 4, word: 'Drunk', work: 'Ado'},
+ , instances: 4, word: 'Duty', work: 'Ado'},
+ , instances: 4, word: 'Ears', work: 'Ado'},
+ , instances: 4, word: 'Easy', work: 'Ado'},
+ , instances: 4, word: 'E\'en', work: 'Ado'},
+ , instances: 4, word: 'Fall\'n', work: 'Ado'},
+ , instances: 4, word: 'Fame', work: 'Ado'},
+ , instances: 4, word: 'Father\'s', work: 'Ado'},
+ , instances: 4, word: 'Fault', work: 'Ado'},
+ , instances: 4, word: 'Feel', work: 'Ado'},
+ , instances: 4, word: 'Fill', work: 'Ado'},
+ , instances: 4, word: 'Fire', work: 'Ado'},
+ , instances: 4, word: 'Flies', work: 'Ado'},
+ , instances: 4, word: 'Forgive', work: 'Ado'},
+ , instances: 4, word: 'Fulvia\'s', work: 'Ado'},
+ , instances: 4, word: 'Grant', work: 'Ado'},
+ , instances: 4, word: 'Grave', work: 'Ado'},
+ , instances: 4, word: 'Grow', work: 'Ado'},
+ , instances: 4, word: 'Grown', work: 'Ado'},
+ , instances: 4, word: 'Happy', work: 'Ado'},
+ , instances: 4, word: 'Hate', work: 'Ado'},
+ , instances: 4, word: 'Heavy', work: 'Ado'},
+ , instances: 4, word: 'Held', work: 'Ado'},
+ , instances: 4, word: 'Herod', work: 'Ado'},
+ , instances: 4, word: 'He\'ll', work: 'Ado'},
+ , instances: 4, word: 'Higher', work: 'Ado'},
+ , instances: 4, word: 'Home', work: 'Ado'},
+ , instances: 4, word: 'Hoo', work: 'Ado'},
+ , instances: 4, word: 'Infinite', work: 'Ado'},
+ , instances: 4, word: 'Jewry', work: 'Ado'},
+ , instances: 4, word: 'Joy', work: 'Ado'},
+ , instances: 4, word: 'Kingdom', work: 'Ado'},
+ , instances: 4, word: 'Knowledge', work: 'Ado'},
+ , instances: 4, word: 'Laughed', work: 'Ado'},
+ , instances: 4, word: 'Leaves', work: 'Ado'},
+ , instances: 4, word: 'Legions', work: 'Ado'},
+ , instances: 4, word: 'List', work: 'Ado'},
+ , instances: 4, word: 'Longer', work: 'Ado'},
+ , instances: 4, word: 'Looks', work: 'Ado'},
+ , instances: 4, word: 'Lords', work: 'Ado'},
+ , instances: 4, word: 'Loss', work: 'Ado'},
+ , instances: 4, word: 'Lust', work: 'Ado'},
+ , instances: 4, word: 'Manner', work: 'Ado'},
+ , instances: 4, word: 'Mardian', work: 'Ado'},
+ , instances: 4, word: 'Means', work: 'Ado'},
+ , instances: 4, word: 'Men\'s', work: 'Ado'},
+ , instances: 4, word: 'Messengers', work: 'Ado'},
+ , instances: 4, word: 'Met', work: 'Ado'},
+ , instances: 4, word: 'Mingle', work: 'Ado'},
+ , instances: 4, word: 'Morning', work: 'Ado'},
+ , instances: 4, word: 'Mortal', work: 'Ado'},
+ , instances: 4, word: 'Navy', work: 'Ado'},
+ , instances: 4, word: 'Neck', work: 'Ado'},
+ , instances: 4, word: 'Offers', work: 'Ado'},
+ , instances: 4, word: 'Pair', work: 'Ado'},
+ , instances: 4, word: 'Past', work: 'Ado'},
+ , instances: 4, word: 'Piece', work: 'Ado'},
+ , instances: 4, word: 'Pluck', work: 'Ado'},
+ , instances: 4, word: 'Poison', work: 'Ado'},
+ , instances: 4, word: 'Presently', work: 'Ado'},
+ , instances: 4, word: 'Prove', work: 'Ado'},
+ , instances: 4, word: 'Public', work: 'Ado'},
+ , instances: 4, word: 'Rage', work: 'Ado'},
+ , instances: 4, word: 'Read', work: 'Ado'},
+ , instances: 4, word: 'Reason', work: 'Ado'},
+ , instances: 4, word: 'Remember', work: 'Ado'},
+ , instances: 4, word: 'Repent', work: 'Ado'},
+ , instances: 4, word: 'Right', work: 'Ado'},
+ , instances: 4, word: 'Run', work: 'Ado'},
+ , instances: 4, word: 'Say\'st', work: 'Ado'},
+ , instances: 4, word: 'Seleucus', work: 'Ado'},
+ , instances: 4, word: 'Sicily', work: 'Ado'},
+ , instances: 4, word: 'Sides', work: 'Ado'},
+ , instances: 4, word: 'Sing', work: 'Ado'},
+ , instances: 4, word: 'Sits', work: 'Ado'},
+ , instances: 4, word: 'Slave', work: 'Ado'},
+ , instances: 4, word: 'Son', work: 'Ado'},
+ , instances: 4, word: 'Sorry', work: 'Ado'},
+ , instances: 4, word: 'Spake', work: 'Ado'},
+ , instances: 4, word: 'Spoken', work: 'Ado'},
+ , instances: 4, word: 'Sport', work: 'Ado'},
+ , instances: 4, word: 'Square', work: 'Ado'},
+ , instances: 4, word: 'Stars', work: 'Ado'},
+ , instances: 4, word: 'Streets', work: 'Ado'},
+ , instances: 4, word: 'Stroke', work: 'Ado'},
+ , instances: 4, word: 'Success', work: 'Ado'},
+ , instances: 4, word: 'Suffer', work: 'Ado'},
+ , instances: 4, word: 'Taken', work: 'Ado'},
+ , instances: 4, word: 'Teeth', work: 'Ado'},
+ , instances: 4, word: 'Ten', work: 'Ado'},
+ , instances: 4, word: 'Therein', work: 'Ado'},
+ , instances: 4, word: 'Third', work: 'Ado'},
+ , instances: 4, word: 'Thousand', work: 'Ado'},
+ , instances: 4, word: 'Try', work: 'Ado'},
+ , instances: 4, word: 'Twain', work: 'Ado'},
+ , instances: 4, word: 'View', work: 'Ado'},
+ , instances: 4, word: 'Villain', work: 'Ado'},
+ , instances: 4, word: 'Virtue', work: 'Ado'},
+ , instances: 4, word: 'Want', work: 'Ado'},
+ , instances: 4, word: 'While', work: 'Ado'},
+ , instances: 4, word: 'Whip', work: 'Ado'},
+ , instances: 4, word: 'Whither', work: 'Ado'},
+ , instances: 4, word: 'Who\'s', work: 'Ado'},
+ , instances: 4, word: 'Widow', work: 'Ado'},
+ , instances: 4, word: 'Wind', work: 'Ado'},
+ , instances: 4, word: 'Wishes', work: 'Ado'},
+ , instances: 4, word: 'Woe', work: 'Ado'},
+ , instances: 4, word: 'Wound', work: 'Ado'},
+ , instances: 4, word: 'Wounds', work: 'Ado'},
+ , instances: 4, word: 'Yare', work: 'Ado'},
+ , instances: 4, word: '\'twas', work: 'Ado'},
+ , instances: 3, word: 'Abused', work: 'Ado'},
+ , instances: 3, word: 'Acts', work: 'Ado'},
+ , instances: 3, word: 'Admired', work: 'Ado'},
+ , instances: 3, word: 'Afeard', work: 'Ado'},
+ , instances: 3, word: 'Affection', work: 'Ado'},
+ , instances: 3, word: 'Amen', work: 'Ado'},
+ , instances: 3, word: 'Amity', work: 'Ado'},
+ , instances: 3, word: 'Amorous', work: 'Ado'},
+ , instances: 3, word: 'Antonius', work: 'Ado'},
+ , instances: 3, word: 'Antony\'s', work: 'Ado'},
+ , instances: 3, word: 'Apart', work: 'Ado'},
+ , instances: 3, word: 'Appeared', work: 'Ado'},
+ , instances: 3, word: 'Appears', work: 'Ado'},
+ , instances: 3, word: 'Approaches', work: 'Ado'},
+ , instances: 3, word: 'Armor', work: 'Ado'},
+ , instances: 3, word: 'Arms', work: 'Ado'},
+ , instances: 3, word: 'Athens', work: 'Ado'},
+ , instances: 3, word: 'Beaten', work: 'Ado'},
+ , instances: 3, word: 'Beauty', work: 'Ado'},
+ , instances: 3, word: 'Beg', work: 'Ado'},
+ , instances: 3, word: 'Begins', work: 'Ado'},
+ , instances: 3, word: 'Beguiled', work: 'Ado'},
+ , instances: 3, word: 'Beloved', work: 'Ado'},
+ , instances: 3, word: 'Blown', work: 'Ado'},
+ , instances: 3, word: 'Blows', work: 'Ado'},
+ , instances: 3, word: 'Borne', work: 'Ado'},
+ , instances: 3, word: 'Bosom', work: 'Ado'},
+ , instances: 3, word: 'Bound', work: 'Ado'},
+ , instances: 3, word: 'Breast', work: 'Ado'},
+ , instances: 3, word: 'Brings', work: 'Ado'},
+ , instances: 3, word: 'Brothers', work: 'Ado'},
+ , instances: 3, word: 'Brown', work: 'Ado'},
+ , instances: 3, word: 'Buried', work: 'Ado'},
+ , instances: 3, word: 'Burn', work: 'Ado'},
+ , instances: 3, word: 'Camp', work: 'Ado'},
+ , instances: 3, word: 'Captain\'s', work: 'Ado'},
+ , instances: 3, word: 'Carry', work: 'Ado'},
+ , instances: 3, word: 'Cheek', work: 'Ado'},
+ , instances: 3, word: 'Cheeks', work: 'Ado'},
+ , instances: 3, word: 'Cheer', work: 'Ado'},
+ , instances: 3, word: 'Chief', work: 'Ado'},
+ , instances: 3, word: 'Child', work: 'Ado'},
+ , instances: 3, word: 'Children', work: 'Ado'},
+ , instances: 3, word: 'City', work: 'Ado'},
+ , instances: 3, word: 'Cleopatra\'s', work: 'Ado'},
+ , instances: 3, word: 'Close', work: 'Ado'},
+ , instances: 3, word: 'Cloud', work: 'Ado'},
+ , instances: 3, word: 'Common', work: 'Ado'},
+ , instances: 3, word: 'Conqueror', work: 'Ado'},
+ , instances: 3, word: 'Content', work: 'Ado'},
+ , instances: 3, word: 'Couldst', work: 'Ado'},
+ , instances: 3, word: 'Courage', work: 'Ado'},
+ , instances: 3, word: 'Court', work: 'Ado'},
+ , instances: 3, word: 'Cried', work: 'Ado'},
+ , instances: 3, word: 'Crowned', work: 'Ado'},
+ , instances: 3, word: 'Dearest', work: 'Ado'},
+ , instances: 3, word: 'Dearly', work: 'Ado'},
+ , instances: 3, word: 'Desires', work: 'Ado'},
+ , instances: 3, word: 'Detain', work: 'Ado'},
+ , instances: 3, word: 'Determine', work: 'Ado'},
+ , instances: 3, word: 'Devils', work: 'Ado'},
+ , instances: 3, word: 'Dies', work: 'Ado'},
+ , instances: 3, word: 'Diomed', work: 'Ado'},
+ , instances: 3, word: 'Divide', work: 'Ado'},
+ , instances: 3, word: 'Drinking', work: 'Ado'},
+ , instances: 3, word: 'Drums', work: 'Ado'},
+ , instances: 3, word: 'Dull', work: 'Ado'},
+ , instances: 3, word: 'East', work: 'Ado'},
+ , instances: 3, word: 'Edge', work: 'Ado'},
+ , instances: 3, word: 'Egypt\'s', work: 'Ado'},
+ , instances: 3, word: 'Elements', work: 'Ado'},
+ , instances: 3, word: 'Empress', work: 'Ado'},
+ , instances: 3, word: 'Ends', work: 'Ado'},
+ , instances: 3, word: 'Endure', work: 'Ado'},
+ , instances: 3, word: 'Enforce', work: 'Ado'},
+ , instances: 3, word: 'Entreat', work: 'Ado'},
+ , instances: 3, word: 'Equal', work: 'Ado'},
+ , instances: 3, word: 'Fancy', work: 'Ado'},
+ , instances: 3, word: 'Farther', work: 'Ado'},
+ , instances: 3, word: 'Fate', work: 'Ado'},
+ , instances: 3, word: 'Favor', work: 'Ado'},
+ , instances: 3, word: 'Feared', work: 'Ado'},
+ , instances: 3, word: 'Feed', work: 'Ado'},
+ , instances: 3, word: 'Feeding', work: 'Ado'},
+ , instances: 3, word: 'Feet', work: 'Ado'},
+ , instances: 3, word: 'Fetch', work: 'Ado'},
+ , instances: 3, word: 'Figs', work: 'Ado'},
+ , instances: 3, word: 'Fled', work: 'Ado'},
+ , instances: 3, word: 'Fleet', work: 'Ado'},
+ , instances: 3, word: 'Flesh', work: 'Ado'},
+ , instances: 3, word: 'Followers', work: 'Ado'},
+ , instances: 3, word: 'Folly', work: 'Ado'},
+ , instances: 3, word: 'Forbid', work: 'Ado'},
+ , instances: 3, word: 'Forever', work: 'Ado'},
+ , instances: 3, word: 'Foul', work: 'Ado'},
+ , instances: 3, word: 'Front', work: 'Ado'},
+ , instances: 3, word: 'Fury', work: 'Ado'},
+ , instances: 3, word: 'Girls', work: 'Ado'},
+ , instances: 3, word: 'Gives', work: 'Ado'},
+ , instances: 3, word: 'Glory', work: 'Ado'},
+ , instances: 3, word: 'Goodness', work: 'Ado'},
+ , instances: 3, word: 'Greeting', work: 'Ado'},
+ , instances: 3, word: 'Grief', work: 'Ado'},
+ , instances: 3, word: 'Hair', work: 'Ado'},
+ , instances: 3, word: 'Heavens', work: 'Ado'},
+ , instances: 3, word: 'Highness\'', work: 'Ado'},
+ , instances: 3, word: 'Holy', work: 'Ado'},
+ , instances: 3, word: 'Honesty', work: 'Ado'},
+ , instances: 3, word: 'Host', work: 'Ado'},
+ , instances: 3, word: 'Impatience', work: 'Ado'},
+ , instances: 3, word: 'Intents', work: 'Ado'},
+ , instances: 3, word: 'It\'s', work: 'Ado'},
+ , instances: 3, word: 'Julius', work: 'Ado'},
+ , instances: 3, word: 'Jupiter', work: 'Ado'},
+ , instances: 3, word: 'Kill', work: 'Ado'},
+ , instances: 3, word: 'Kisses', work: 'Ado'},
+ , instances: 3, word: 'Kissing', work: 'Ado'},
+ , instances: 3, word: 'Knew\'st', work: 'Ado'},
+ , instances: 3, word: 'Knit', work: 'Ado'},
+ , instances: 3, word: 'Lament', work: 'Ado'},
+ , instances: 3, word: 'Learn', work: 'Ado'},
+ , instances: 3, word: 'Least', work: 'Ado'},
+ , instances: 3, word: 'Lest', work: 'Ado'},
+ , instances: 3, word: 'Light', work: 'Ado'},
+ , instances: 3, word: 'Looking', work: 'Ado'},
+ , instances: 3, word: 'Maecenas', work: 'Ado'},
+ , instances: 3, word: 'Man\'s', work: 'Ado'},
+ , instances: 3, word: 'Marriage', work: 'Ado'},
+ , instances: 3, word: 'Marry', work: 'Ado'},
+ , instances: 3, word: 'Meant', work: 'Ado'},
+ , instances: 3, word: 'Meantime', work: 'Ado'},
+ , instances: 3, word: 'Meet', work: 'Ado'},
+ , instances: 3, word: 'Mend', work: 'Ado'},
+ , instances: 3, word: 'Merely', work: 'Ado'},
+ , instances: 3, word: 'Methinks', work: 'Ado'},
+ , instances: 3, word: 'Minute', work: 'Ado'},
+ , instances: 3, word: 'Mirth', work: 'Ado'},
+ , instances: 3, word: 'Monstrous', work: 'Ado'},
+ , instances: 3, word: 'Morn', work: 'Ado'},
+ , instances: 3, word: 'Morrow', work: 'Ado'},
+ , instances: 3, word: 'Motion', work: 'Ado'},
+ , instances: 3, word: 'Mount', work: 'Ado'},
+ , instances: 3, word: 'Move', work: 'Ado'},
+ , instances: 3, word: 'Need', work: 'Ado'},
+ , instances: 3, word: 'Neither', work: 'Ado'},
+ , instances: 3, word: 'Nilus', work: 'Ado'},
+ , instances: 3, word: 'Nobleness', work: 'Ado'},
+ , instances: 3, word: 'Nobler', work: 'Ado'},
+ , instances: 3, word: 'Noblest', work: 'Ado'},
+ , instances: 3, word: 'Number', work: 'Ado'},
+ , instances: 3, word: 'Ocean', work: 'Ado'},
+ , instances: 3, word: 'Odds', work: 'Ado'},
+ , instances: 3, word: 'Offended', work: 'Ado'},
+ , instances: 3, word: 'Offense', work: 'Ado'},
+ , instances: 3, word: 'Offer', work: 'Ado'},
+ , instances: 3, word: 'Oft', work: 'Ado'},
+ , instances: 3, word: 'O\'ertake', work: 'Ado'},
+ , instances: 3, word: 'Paid', work: 'Ado'},
+ , instances: 3, word: 'Pains', work: 'Ado'},
+ , instances: 3, word: 'Parthian', work: 'Ado'},
+ , instances: 3, word: 'Particular', work: 'Ado'},
+ , instances: 3, word: 'Parts', work: 'Ado'},
+ , instances: 3, word: 'Pass', work: 'Ado'},
+ , instances: 3, word: 'Pays', work: 'Ado'},
+ , instances: 3, word: 'Perchance', work: 'Ado'},
+ , instances: 3, word: 'Peril', work: 'Ado'},
+ , instances: 3, word: 'Philippi', work: 'Ado'},
+ , instances: 3, word: 'Point', work: 'Ado'},
+ , instances: 3, word: 'Pompeius', work: 'Ado'},
+ , instances: 3, word: 'Pompey\'s', work: 'Ado'},
+ , instances: 3, word: 'Port', work: 'Ado'},
+ , instances: 3, word: 'Pour', work: 'Ado'},
+ , instances: 3, word: 'Powers', work: 'Ado'},
+ , instances: 3, word: 'Preparation', work: 'Ado'},
+ , instances: 3, word: 'Presence', work: 'Ado'},
+ , instances: 3, word: 'Promises', work: 'Ado'},
+ , instances: 3, word: 'Proud', work: 'Ado'},
+ , instances: 3, word: 'Ptolemy', work: 'Ado'},
+ , instances: 3, word: 'Punish', work: 'Ado'},
+ , instances: 3, word: 'Quality', work: 'Ado'},
+ , instances: 3, word: 'Question', work: 'Ado'},
+ , instances: 3, word: 'Quit', work: 'Ado'},
+ , instances: 3, word: 'Quite', work: 'Ado'},
+ , instances: 3, word: 'Rare', work: 'Ado'},
+ , instances: 3, word: 'Rarely', work: 'Ado'},
+ , instances: 3, word: 'Ready', work: 'Ado'},
+ , instances: 3, word: 'Record', work: 'Ado'},
+ , instances: 3, word: 'Requires', work: 'Ado'},
+ , instances: 3, word: 'Reserved', work: 'Ado'},
+ , instances: 3, word: 'Retire', work: 'Ado'},
+ , instances: 3, word: 'Revolt', work: 'Ado'},
+ , instances: 3, word: 'Revolted', work: 'Ado'},
+ , instances: 3, word: 'Safe', work: 'Ado'},
+ , instances: 3, word: 'Same', work: 'Ado'},
+ , instances: 3, word: 'Saucy', work: 'Ado'},
+ , instances: 3, word: 'Scars', work: 'Ado'},
+ , instances: 3, word: 'Seeks', work: 'Ado'},
+ , instances: 3, word: 'Seems', work: 'Ado'},
+ , instances: 3, word: 'Sends', work: 'Ado'},
+ , instances: 3, word: 'Sense', work: 'Ado'},
+ , instances: 3, word: 'Serpent', work: 'Ado'},
+ , instances: 3, word: 'Serpents', work: 'Ado'},
+ , instances: 3, word: 'Servant', work: 'Ado'},
+ , instances: 3, word: 'Several', work: 'Ado'},
+ , instances: 3, word: 'Sextus', work: 'Ado'},
+ , instances: 3, word: 'Ship', work: 'Ado'},
+ , instances: 3, word: 'Shore', work: 'Ado'},
+ , instances: 3, word: 'Shows', work: 'Ado'},
+ , instances: 3, word: 'Sick', work: 'Ado'},
+ , instances: 3, word: 'Sicyon', work: 'Ado'},
+ , instances: 3, word: 'Signs', work: 'Ado'},
+ , instances: 3, word: 'Silius', work: 'Ado'},
+ , instances: 3, word: 'Single', work: 'Ado'},
+ , instances: 3, word: 'Sirrah', work: 'Ado'},
+ , instances: 3, word: 'Slain', work: 'Ado'},
+ , instances: 3, word: 'Slime', work: 'Ado'},
+ , instances: 3, word: 'Sold', work: 'Ado'},
+ , instances: 3, word: 'Soldier\'s', work: 'Ado'},
+ , instances: 3, word: 'Sound', work: 'Ado'},
+ , instances: 3, word: 'Space', work: 'Ado'},
+ , instances: 3, word: 'Spend', work: 'Ado'},
+ , instances: 3, word: 'Spirits', work: 'Ado'},
+ , instances: 3, word: 'Struck', work: 'Ado'},
+ , instances: 3, word: 'Sudden', work: 'Ado'},
+ , instances: 3, word: 'Swords', work: 'Ado'},
+ , instances: 3, word: 'Tall', work: 'Ado'},
+ , instances: 3, word: 'Tells', work: 'Ado'},
+ , instances: 3, word: 'Thick', work: 'Ado'},
+ , instances: 3, word: 'Think\'st', work: 'Ado'},
+ , instances: 3, word: 'Throne', work: 'Ado'},
+ , instances: 3, word: 'Tie', work: 'Ado'},
+ , instances: 3, word: 'Tongues', work: 'Ado'},
+ , instances: 3, word: 'Took', work: 'Ado'},
+ , instances: 3, word: 'Touch', work: 'Ado'},
+ , instances: 3, word: 'Toward', work: 'Ado'},
+ , instances: 3, word: 'Trees', work: 'Ado'},
+ , instances: 3, word: 'Troubled', work: 'Ado'},
+ , instances: 3, word: 'Truly', work: 'Ado'},
+ , instances: 3, word: 'Valiant', work: 'Ado'},
+ , instances: 3, word: 'Valor', work: 'Ado'},
+ , instances: 3, word: 'Wash', work: 'Ado'},
+ , instances: 3, word: 'Weak', work: 'Ado'},
+ , instances: 3, word: 'Went', work: 'Ado'},
+ , instances: 3, word: 'Wherefore', work: 'Ado'},
+ , instances: 3, word: 'Wherein', work: 'Ado'},
+ , instances: 3, word: 'Whore', work: 'Ado'},
+ , instances: 3, word: 'Winds', work: 'Ado'},
+ , instances: 3, word: 'Wisdom', work: 'Ado'},
+ , instances: 3, word: 'Wise', work: 'Ado'},
+ , instances: 3, word: 'Witch', work: 'Ado'},
+ , instances: 3, word: 'Withal', work: 'Ado'},
+ , instances: 3, word: 'Written', work: 'Ado'},
+ , instances: 3, word: 'Wrong', work: 'Ado'},
+ , instances: 3, word: 'Yielded', work: 'Ado'},
+ , instances: 3, word: 'Young', work: 'Ado'},
+ , instances: 3, word: '\'em', work: 'Ado'},
+ , instances: 2, word: 'Abide', work: 'Ado'},
+ , instances: 2, word: 'Aboard', work: 'Ado'},
+ , instances: 2, word: 'Above', work: 'Ado'},
+ , instances: 2, word: 'Abroad', work: 'Ado'},
+ , instances: 2, word: 'Absence', work: 'Ado'},
+ , instances: 2, word: 'Abstract', work: 'Ado'},
+ , instances: 2, word: 'Accidents', work: 'Ado'},
+ , instances: 2, word: 'Accordingly', work: 'Ado'},
+ , instances: 2, word: 'Accuse', work: 'Ado'},
+ , instances: 2, word: 'Acquire', work: 'Ado'},
+ , instances: 2, word: 'Admitted', work: 'Ado'},
+ , instances: 2, word: 'Advantage', work: 'Ado'},
+ , instances: 2, word: 'Affairs', work: 'Ado'},
+ , instances: 2, word: 'Affections', work: 'Ado'},
+ , instances: 2, word: 'Age', work: 'Ado'},
+ , instances: 2, word: 'Aid', work: 'Ado'},
+ , instances: 2, word: 'Alexandrian', work: 'Ado'},
+ , instances: 2, word: 'All\'s', work: 'Ado'},
+ , instances: 2, word: 'Along', work: 'Ado'},
+ , instances: 2, word: 'Amiss', work: 'Ado'},
+ , instances: 2, word: 'Antonio\'s', work: 'Ado'},
+ , instances: 2, word: 'Arise', work: 'Ado'},
+ , instances: 2, word: 'Armed', work: 'Ado'},
+ , instances: 2, word: 'Armenia', work: 'Ado'},
+ , instances: 2, word: 'Article', work: 'Ado'},
+ , instances: 2, word: 'Aspic', work: 'Ado'},
+ , instances: 2, word: 'Ass', work: 'Ado'},
+ , instances: 2, word: 'Assist', work: 'Ado'},
+ , instances: 2, word: 'Awake', work: 'Ado'},
+ , instances: 2, word: 'Bade', work: 'Ado'},
+ , instances: 2, word: 'Barge', work: 'Ado'},
+ , instances: 2, word: 'Base', work: 'Ado'},
+ , instances: 2, word: 'Baseness', work: 'Ado'},
+ , instances: 2, word: 'Battery', work: 'Ado'},
+ , instances: 2, word: 'Bears', work: 'Ado'},
+ , instances: 2, word: 'Beds', work: 'Ado'},
+ , instances: 2, word: 'Beggar', work: 'Ado'},
+ , instances: 2, word: 'Begged', work: 'Ado'},
+ , instances: 2, word: 'Beheld', work: 'Ado'},
+ , instances: 2, word: 'Belike', work: 'Ado'},
+ , instances: 2, word: 'Beneath', work: 'Ado'},
+ , instances: 2, word: 'Betwixt', work: 'Ado'},
+ , instances: 2, word: 'Beyond', work: 'Ado'},
+ , instances: 2, word: 'Bidding', work: 'Ado'},
+ , instances: 2, word: 'Bids', work: 'Ado'},
+ , instances: 2, word: 'Bind', work: 'Ado'},
+ , instances: 2, word: 'Biting', work: 'Ado'},
+ , instances: 2, word: 'Black', work: 'Ado'},
+ , instances: 2, word: 'Blasted', work: 'Ado'},
+ , instances: 2, word: 'Blemish', work: 'Ado'},
+ , instances: 2, word: 'Blemishes', work: 'Ado'},
+ , instances: 2, word: 'Blessèd', work: 'Ado'},
+ , instances: 2, word: 'Bloody', work: 'Ado'},
+ , instances: 2, word: 'Blush', work: 'Ado'},
+ , instances: 2, word: 'Bond', work: 'Ado'},
+ , instances: 2, word: 'Boot', work: 'Ado'},
+ , instances: 2, word: 'Born', work: 'Ado'},
+ , instances: 2, word: 'Breaking', work: 'Ado'},
+ , instances: 2, word: 'Bred', work: 'Ado'},
+ , instances: 2, word: 'Caesarion', work: 'Ado'},
+ , instances: 2, word: 'Cap', work: 'Ado'},
+ , instances: 2, word: 'Captains', work: 'Ado'},
+ , instances: 2, word: 'Cares', work: 'Ado'},
+ , instances: 2, word: 'Cassius', work: 'Ado'},
+ , instances: 2, word: 'Celerity', work: 'Ado'},
+ , instances: 2, word: 'Cement', work: 'Ado'},
+ , instances: 2, word: 'Chamber', work: 'Ado'},
+ , instances: 2, word: 'Charm', work: 'Ado'},
+ , instances: 2, word: 'Choose', work: 'Ado'},
+ , instances: 2, word: 'Civil', work: 'Ado'},
+ , instances: 2, word: 'Clear', work: 'Ado'},
+ , instances: 2, word: 'Cleave', work: 'Ado'},
+ , instances: 2, word: 'Clip', work: 'Ado'},
+ , instances: 2, word: 'Comforts', work: 'Ado'},
+ , instances: 2, word: 'Coming', work: 'Ado'},
+ , instances: 2, word: 'Commands', work: 'Ado'},
+ , instances: 2, word: 'Commend', work: 'Ado'},
+ , instances: 2, word: 'Companion', work: 'Ado'},
+ , instances: 2, word: 'Company', work: 'Ado'},
+ , instances: 2, word: 'Competitor', work: 'Ado'},
+ , instances: 2, word: 'Concern', work: 'Ado'},
+ , instances: 2, word: 'Condemn', work: 'Ado'},
+ , instances: 2, word: 'Confess', work: 'Ado'},
+ , instances: 2, word: 'Conquering', work: 'Ado'},
+ , instances: 2, word: 'Conquest', work: 'Ado'},
+ , instances: 2, word: 'Contend', work: 'Ado'},
+ , instances: 2, word: 'Convey', work: 'Ado'},
+ , instances: 2, word: 'Cool', work: 'Ado'},
+ , instances: 2, word: 'Countenance', work: 'Ado'},
+ , instances: 2, word: 'Countryman', work: 'Ado'},
+ , instances: 2, word: 'Courteous', work: 'Ado'},
+ , instances: 2, word: 'Crack', work: 'Ado'},
+ , instances: 2, word: 'Crave', work: 'Ado'},
+ , instances: 2, word: 'Creeps', work: 'Ado'},
+ , instances: 2, word: 'Cries', work: 'Ado'},
+ , instances: 2, word: 'Crocodile', work: 'Ado'},
+ , instances: 2, word: 'Cry', work: 'Ado'},
+ , instances: 2, word: 'Cuckold', work: 'Ado'},
+ , instances: 2, word: 'Cydnus', work: 'Ado'},
+ , instances: 2, word: 'Danger', work: 'Ado'},
+ , instances: 2, word: 'Dares', work: 'Ado'},
+ , instances: 2, word: 'Dar\'st', work: 'Ado'},
+ , instances: 2, word: 'Day\'s', work: 'Ado'},
+ , instances: 2, word: 'Death\'s', work: 'Ado'},
+ , instances: 2, word: 'Declined', work: 'Ado'},
+ , instances: 2, word: 'Decorum', work: 'Ado'},
+ , instances: 2, word: 'Delicate', work: 'Ado'},
+ , instances: 2, word: 'Demand', work: 'Ado'},
+ , instances: 2, word: 'Description', work: 'Ado'},
+ , instances: 2, word: 'Desired', work: 'Ado'},
+ , instances: 2, word: 'Devil', work: 'Ado'},
+ , instances: 2, word: 'Difference', work: 'Ado'},
+ , instances: 2, word: 'Discover', work: 'Ado'},
+ , instances: 2, word: 'Disgrace', work: 'Ado'},
+ , instances: 2, word: 'Dish', work: 'Ado'},
+ , instances: 2, word: 'Dishonor', work: 'Ado'},
+ , instances: 2, word: 'Disposed', work: 'Ado'},
+ , instances: 2, word: 'Disposition', work: 'Ado'},
+ , instances: 2, word: 'Dissolve', work: 'Ado'},
+ , instances: 2, word: 'Ditch', work: 'Ado'},
+ , instances: 2, word: 'Dog', work: 'Ado'},
+ , instances: 2, word: 'Domitius', work: 'Ado'},
+ , instances: 2, word: 'Doom', work: 'Ado'},
+ , instances: 2, word: 'Dotage', work: 'Ado'},
+ , instances: 2, word: 'Doting', work: 'Ado'},
+ , instances: 2, word: 'Doubt', work: 'Ado'},
+ , instances: 2, word: 'Dread', work: 'Ado'},
+ , instances: 2, word: 'Dream', work: 'Ado'},
+ , instances: 2, word: 'Dreams', work: 'Ado'},
+ , instances: 2, word: 'Dreamt', work: 'Ado'},
+ , instances: 2, word: 'Dress', work: 'Ado'},
+ , instances: 2, word: 'Drew', work: 'Ado'},
+ , instances: 2, word: 'Drive', work: 'Ado'},
+ , instances: 2, word: 'Drop', work: 'Ado'},
+ , instances: 2, word: 'Dropped', work: 'Ado'},
+ , instances: 2, word: 'Egyptians', work: 'Ado'},
+ , instances: 2, word: 'Either', work: 'Ado'},
+ , instances: 2, word: 'Employ', work: 'Ado'},
+ , instances: 2, word: 'Encounter', work: 'Ado'},
+ , instances: 2, word: 'Enter', work: 'Ado'},
+ , instances: 2, word: 'Entertainment', work: 'Ado'},
+ , instances: 2, word: 'Enthroned', work: 'Ado'},
+ , instances: 2, word: 'Entreated', work: 'Ado'},
+ , instances: 2, word: 'Events', work: 'Ado'},
+ , instances: 2, word: 'Excuse', work: 'Ado'},
+ , instances: 2, word: 'Expect', work: 'Ado'},
+ , instances: 2, word: 'Expected', work: 'Ado'},
+ , instances: 2, word: 'Experience', work: 'Ado'},
+ , instances: 2, word: 'Extremes', work: 'Ado'},
+ , instances: 2, word: 'E\'er', work: 'Ado'},
+ , instances: 2, word: 'Fail', work: 'Ado'},
+ , instances: 2, word: 'Fairer', work: 'Ado'},
+ , instances: 2, word: 'Faith', work: 'Ado'},
+ , instances: 2, word: 'Famine', work: 'Ado'},
+ , instances: 2, word: 'Famous', work: 'Ado'},
+ , instances: 2, word: 'Fast', work: 'Ado'},
+ , instances: 2, word: 'Feasts', work: 'Ado'},
+ , instances: 2, word: 'Fell', work: 'Ado'},
+ , instances: 2, word: 'Felt', work: 'Ado'},
+ , instances: 2, word: 'Fights', work: 'Ado'},
+ , instances: 2, word: 'Files', work: 'Ado'},
+ , instances: 2, word: 'Fine', work: 'Ado'},
+ , instances: 2, word: 'Finish', work: 'Ado'},
+ , instances: 2, word: 'Firm', work: 'Ado'},
+ , instances: 2, word: 'Fishes', work: 'Ado'},
+ , instances: 2, word: 'Fit', work: 'Ado'},
+ , instances: 2, word: 'Flattered', work: 'Ado'},
+ , instances: 2, word: 'Fleeting', work: 'Ado'},
+ , instances: 2, word: 'Flutes', work: 'Ado'},
+ , instances: 2, word: 'Food', work: 'Ado'},
+ , instances: 2, word: 'Fools', work: 'Ado'},
+ , instances: 2, word: 'Forced', work: 'Ado'},
+ , instances: 2, word: 'Foresee', work: 'Ado'},
+ , instances: 2, word: 'Forget', work: 'Ado'},
+ , instances: 2, word: 'Fortune\'s', work: 'Ado'},
+ , instances: 2, word: 'Four', work: 'Ado'},
+ , instances: 2, word: 'Frame', work: 'Ado'},
+ , instances: 2, word: 'Freedom', work: 'Ado'},
+ , instances: 2, word: 'Freely', work: 'Ado'},
+ , instances: 2, word: 'Friendship', work: 'Ado'},
+ , instances: 2, word: 'Frighted', work: 'Ado'},
+ , instances: 2, word: 'Fruitful', work: 'Ado'},
+ , instances: 2, word: 'Fugitive', work: 'Ado'},
+ , instances: 2, word: 'Fully', work: 'Ado'},
+ , instances: 2, word: 'Gap', work: 'Ado'},
+ , instances: 2, word: 'Garboils', work: 'Ado'},
+ , instances: 2, word: 'Garlands', work: 'Ado'},
+ , instances: 2, word: 'Gaze', work: 'Ado'},
+ , instances: 2, word: 'Gently', work: 'Ado'},
+ , instances: 2, word: 'Gilded', work: 'Ado'},
+ , instances: 2, word: 'Goal', work: 'Ado'},
+ , instances: 2, word: 'Goddess', work: 'Ado'},
+ , instances: 2, word: 'Goodly', work: 'Ado'},
+ , instances: 2, word: 'Got', work: 'Ado'},
+ , instances: 2, word: 'Govern', work: 'Ado'},
+ , instances: 2, word: 'Grand', work: 'Ado'},
+ , instances: 2, word: 'Granted', work: 'Ado'},
+ , instances: 2, word: 'Green', work: 'Ado'},
+ , instances: 2, word: 'Greet', work: 'Ado'},
+ , instances: 2, word: 'Grew', work: 'Ado'},
+ , instances: 2, word: 'Grows', work: 'Ado'},
+ , instances: 2, word: 'Guess', work: 'Ado'},
+ , instances: 2, word: 'Guest', work: 'Ado'},
+ , instances: 2, word: 'Hadst', work: 'Ado'},
+ , instances: 2, word: 'Hairs', work: 'Ado'},
+ , instances: 2, word: 'Hanged', work: 'Ado'},
+ , instances: 2, word: 'Haply', work: 'Ado'},
+ , instances: 2, word: 'Hard', work: 'Ado'},
+ , instances: 2, word: 'Hardly', work: 'Ado'},
+ , instances: 2, word: 'Harms', work: 'Ado'},
+ , instances: 2, word: 'Harsh', work: 'Ado'},
+ , instances: 2, word: 'Hated', work: 'Ado'},
+ , instances: 2, word: 'Ha\'', work: 'Ado'},
+ , instances: 2, word: 'Heads', work: 'Ado'},
+ , instances: 2, word: 'Hearing', work: 'Ado'},
+ , instances: 2, word: 'Heat', work: 'Ado'},
+ , instances: 2, word: 'Heel', work: 'Ado'},
+ , instances: 2, word: 'Heels', work: 'Ado'},
+ , instances: 2, word: 'Height', work: 'Ado'},
+ , instances: 2, word: 'Helm', work: 'Ado'},
+ , instances: 2, word: 'Henceforth', work: 'Ado'},
+ , instances: 2, word: 'Hercules', work: 'Ado'},
+ , instances: 2, word: 'Hers', work: 'Ado'},
+ , instances: 2, word: 'Hie', work: 'Ado'},
+ , instances: 2, word: 'Hill', work: 'Ado'},
+ , instances: 2, word: 'Hint', work: 'Ado'},
+ , instances: 2, word: 'Hoist', work: 'Ado'},
+ , instances: 2, word: 'Hook', work: 'Ado'},
+ , instances: 2, word: 'Horns', work: 'Ado'},
+ , instances: 2, word: 'Horror', work: 'Ado'},
+ , instances: 2, word: 'Hot', work: 'Ado'},
+ , instances: 2, word: 'Huge', work: 'Ado'},
+ , instances: 2, word: 'Humbly', work: 'Ado'},
+ , instances: 2, word: 'Husband\'s', work: 'Ado'},
+ , instances: 2, word: 'Hush', work: 'Ado'},
+ , instances: 2, word: 'Ignorant', work: 'Ado'},
+ , instances: 2, word: 'Ills', work: 'Ado'},
+ , instances: 2, word: 'Immediate', work: 'Ado'},
+ , instances: 2, word: 'Immortal', work: 'Ado'},
+ , instances: 2, word: 'Import', work: 'Ado'},
+ , instances: 2, word: 'Impossible', work: 'Ado'},
+ , instances: 2, word: 'Inch', work: 'Ado'},
+ , instances: 2, word: 'Inform', work: 'Ado'},
+ , instances: 2, word: 'Ingratitude', work: 'Ado'},
+ , instances: 2, word: 'Ink', work: 'Ado'},
+ , instances: 2, word: 'Instruction', work: 'Ado'},
+ , instances: 2, word: 'Intend', work: 'Ado'},
+ , instances: 2, word: 'Invite', work: 'Ado'},
+ , instances: 2, word: 'Issue', work: 'Ado'},
+ , instances: 2, word: 'Jack', work: 'Ado'},
+ , instances: 2, word: 'Join', work: 'Ado'},
+ , instances: 2, word: 'Jolly', work: 'Ado'},
+ , instances: 2, word: 'Journey', work: 'Ado'},
+ , instances: 2, word: 'Judgments', work: 'Ado'},
+ , instances: 2, word: 'Just', work: 'Ado'},
+ , instances: 2, word: 'Justice', work: 'Ado'},
+ , instances: 2, word: 'Kindly', work: 'Ado'},
+ , instances: 2, word: 'King\'s', work: 'Ado'},
+ , instances: 2, word: 'Kissed', work: 'Ado'},
+ , instances: 2, word: 'Kneeled', work: 'Ado'},
+ , instances: 2, word: 'Knife', work: 'Ado'},
+ , instances: 2, word: 'Knot', work: 'Ado'},
+ , instances: 2, word: 'Knowing', work: 'Ado'},
+ , instances: 2, word: 'Lacked', work: 'Ado'},
+ , instances: 2, word: 'Laden', work: 'Ado'},
+ , instances: 2, word: 'Lamented', work: 'Ado'},
+ , instances: 2, word: 'Larger', work: 'Ado'},
+ , instances: 2, word: 'Lean', work: 'Ado'},
+ , instances: 2, word: 'Leap', work: 'Ado'},
+ , instances: 2, word: 'Lend', work: 'Ado'},
+ , instances: 2, word: 'Length', work: 'Ado'},
+ , instances: 2, word: 'Lent', work: 'Ado'},
+ , instances: 2, word: 'Levity', work: 'Ado'},
+ , instances: 2, word: 'Liar', work: 'Ado'},
+ , instances: 2, word: 'Lieutenant', work: 'Ado'},
+ , instances: 2, word: 'Lip', work: 'Ado'},
+ , instances: 2, word: 'Lo', work: 'Ado'},
+ , instances: 2, word: 'Looked', work: 'Ado'},
+ , instances: 2, word: 'Lots', work: 'Ado'},
+ , instances: 2, word: 'Lover\'s', work: 'Ado'},
+ , instances: 2, word: 'Low', work: 'Ado'},
+ , instances: 2, word: 'Lower', work: 'Ado'},
+ , instances: 2, word: 'Lowness', work: 'Ado'},
+ , instances: 2, word: 'Luck', work: 'Ado'},
+ , instances: 2, word: 'Lydia', work: 'Ado'},
+ , instances: 2, word: 'Making', work: 'Ado'},
+ , instances: 2, word: 'Mares', work: 'Ado'},
+ , instances: 2, word: 'Masters', work: 'Ado'},
+ , instances: 2, word: 'Master\'s', work: 'Ado'},
+ , instances: 2, word: 'Matters', work: 'Ado'},
+ , instances: 2, word: 'Measure', work: 'Ado'},
+ , instances: 2, word: 'Measures', work: 'Ado'},
+ , instances: 2, word: 'Mechanic', work: 'Ado'},
+ , instances: 2, word: 'Media', work: 'Ado'},
+ , instances: 2, word: 'Memory', work: 'Ado'},
+ , instances: 2, word: 'Mercy', work: 'Ado'},
+ , instances: 2, word: 'Midst', work: 'Ado'},
+ , instances: 2, word: 'Million', work: 'Ado'},
+ , instances: 2, word: 'Minister', work: 'Ado'},
+ , instances: 2, word: 'Ministers', work: 'Ado'},
+ , instances: 2, word: 'Modesty', work: 'Ado'},
+ , instances: 2, word: 'Monarch', work: 'Ado'},
+ , instances: 2, word: 'Money', work: 'Ado'},
+ , instances: 2, word: 'Morsel', work: 'Ado'},
+ , instances: 2, word: 'Moved', work: 'Ado'},
+ , instances: 2, word: 'Moves', work: 'Ado'},
+ , instances: 2, word: 'Mov\'st', work: 'Ado'},
+ , instances: 2, word: 'Mud', work: 'Ado'},
+ , instances: 2, word: 'Nails', work: 'Ado'},
+ , instances: 2, word: 'Natural', work: 'Ado'},
+ , instances: 2, word: 'Nature\'s', work: 'Ado'},
+ , instances: 2, word: 'Necessity', work: 'Ado'},
+ , instances: 2, word: 'Negligent', work: 'Ado'},
+ , instances: 2, word: 'Newly', work: 'Ado'},
+ , instances: 2, word: 'Nilus\'', work: 'Ado'},
+ , instances: 2, word: 'Nobly', work: 'Ado'},
+ , instances: 2, word: 'Nodded', work: 'Ado'},
+ , instances: 2, word: 'Nose', work: 'Ado'},
+ , instances: 2, word: 'Nurse', work: 'Ado'},
+ , instances: 2, word: 'Oath', work: 'Ado'},
+ , instances: 2, word: 'Occasion', work: 'Ado'},
+ , instances: 2, word: 'Octavius', work: 'Ado'},
+ , instances: 2, word: 'Odd', work: 'Ado'},
+ , instances: 2, word: 'Offend', work: 'Ado'},
+ , instances: 2, word: 'Officer', work: 'Ado'},
+ , instances: 2, word: 'Operation', work: 'Ado'},
+ , instances: 2, word: 'Order', work: 'Ado'},
+ , instances: 2, word: 'Over', work: 'Ado'},
+ , instances: 2, word: 'Overplus', work: 'Ado'},
+ , instances: 2, word: 'Owe', work: 'Ado'},
+ , instances: 2, word: 'O\'ercount', work: 'Ado'},
+ , instances: 2, word: 'Pain', work: 'Ado'},
+ , instances: 2, word: 'Pale', work: 'Ado'},
+ , instances: 2, word: 'Palm', work: 'Ado'},
+ , instances: 2, word: 'Paper', work: 'Ado'},
+ , instances: 2, word: 'Parcel', work: 'Ado'},
+ , instances: 2, word: 'Parted', work: 'Ado'},
+ , instances: 2, word: 'Partly', work: 'Ado'},
+ , instances: 2, word: 'Partners', work: 'Ado'},
+ , instances: 2, word: 'Pay', work: 'Ado'},
+ , instances: 2, word: 'Peep', work: 'Ado'},
+ , instances: 2, word: 'Perceive', work: 'Ado'},
+ , instances: 2, word: 'Perforce', work: 'Ado'},
+ , instances: 2, word: 'Perform', work: 'Ado'},
+ , instances: 2, word: 'Performed', work: 'Ado'},
+ , instances: 2, word: 'Period', work: 'Ado'},
+ , instances: 2, word: 'Perish', work: 'Ado'},
+ , instances: 2, word: 'Pestilence', work: 'Ado'},
+ , instances: 2, word: 'Phoebus\'', work: 'Ado'},
+ , instances: 2, word: 'Pinch', work: 'Ado'},
+ , instances: 2, word: 'Pine', work: 'Ado'},
+ , instances: 2, word: 'Pirates', work: 'Ado'},
+ , instances: 2, word: 'Pitied', work: 'Ado'},
+ , instances: 2, word: 'Played', work: 'Ado'},
+ , instances: 2, word: 'Playing', work: 'Ado'},
+ , instances: 2, word: 'Pocket', work: 'Ado'},
+ , instances: 2, word: 'Points', work: 'Ado'},
+ , instances: 2, word: 'Poisoned', work: 'Ado'},
+ , instances: 2, word: 'Policy', work: 'Ado'},
+ , instances: 2, word: 'Possess', work: 'Ado'},
+ , instances: 2, word: 'Practice', work: 'Ado'},
+ , instances: 2, word: 'Praised', work: 'Ado'},
+ , instances: 2, word: 'Prayers', work: 'Ado'},
+ , instances: 2, word: 'Preserve', work: 'Ado'},
+ , instances: 2, word: 'Pretty', work: 'Ado'},
+ , instances: 2, word: 'Prevented', work: 'Ado'},
+ , instances: 2, word: 'Private', work: 'Ado'},
+ , instances: 2, word: 'Proclaim', work: 'Ado'},
+ , instances: 2, word: 'Profit', work: 'Ado'},
+ , instances: 2, word: 'Promise', work: 'Ado'},
+ , instances: 2, word: 'Pursue', work: 'Ado'},
+ , instances: 2, word: 'Pursued', work: 'Ado'},
+ , instances: 2, word: 'Quarrel', work: 'Ado'},
+ , instances: 2, word: 'Quietness', work: 'Ado'},
+ , instances: 2, word: 'Race', work: 'Ado'},
+ , instances: 2, word: 'Rail', work: 'Ado'},
+ , instances: 2, word: 'Rain', work: 'Ado'},
+ , instances: 2, word: 'Ram', work: 'Ado'},
+ , instances: 2, word: 'Rank', work: 'Ado'},
+ , instances: 2, word: 'Rashness', work: 'Ado'},
+ , instances: 2, word: 'Rattling', work: 'Ado'},
+ , instances: 2, word: 'Rebel', work: 'Ado'},
+ , instances: 2, word: 'Rebuke', work: 'Ado'},
+ , instances: 2, word: 'Received', work: 'Ado'},
+ , instances: 2, word: 'Recover', work: 'Ado'},
+ , instances: 2, word: 'Relieved', work: 'Ado'},
+ , instances: 2, word: 'Remembrance', work: 'Ado'},
+ , instances: 2, word: 'Reported', work: 'Ado'},
+ , instances: 2, word: 'Reports', work: 'Ado'},
+ , instances: 2, word: 'Request', work: 'Ado'},
+ , instances: 2, word: 'Require', work: 'Ado'},
+ , instances: 2, word: 'Residing', work: 'Ado'},
+ , instances: 2, word: 'Resolution', work: 'Ado'},
+ , instances: 2, word: 'Rich', work: 'Ado'},
+ , instances: 2, word: 'Rightly', work: 'Ado'},
+ , instances: 2, word: 'River', work: 'Ado'},
+ , instances: 2, word: 'Robbed', work: 'Ado'},
+ , instances: 2, word: 'Rose', work: 'Ado'},
+ , instances: 2, word: 'Rot', work: 'Ado'},
+ , instances: 2, word: 'Rudder', work: 'Ado'},
+ , instances: 2, word: 'Ruin', work: 'Ado'},
+ , instances: 2, word: 'Rush', work: 'Ado'},
+ , instances: 2, word: 'Sacred', work: 'Ado'},
+ , instances: 2, word: 'Safety', work: 'Ado'},
+ , instances: 2, word: 'Salt', work: 'Ado'},
+ , instances: 2, word: 'Sat', work: 'Ado'},
+ , instances: 2, word: 'Satisfy', work: 'Ado'},
+ , instances: 2, word: 'Schoolmaster', work: 'Ado'},
+ , instances: 2, word: 'Seal', work: 'Ado'},
+ , instances: 2, word: 'Seat', work: 'Ado'},
+ , instances: 2, word: 'Second', work: 'Ado'},
+ , instances: 2, word: 'Seel', work: 'Ado'},
+ , instances: 2, word: 'Seeming', work: 'Ado'},
+ , instances: 2, word: 'Seest', work: 'Ado'},
+ , instances: 2, word: 'Self', work: 'Ado'},
+ , instances: 2, word: 'Serves', work: 'Ado'},
+ , instances: 2, word: 'Services', work: 'Ado'},
+ , instances: 2, word: 'Sex', work: 'Ado'},
+ , instances: 2, word: 'Shape', work: 'Ado'},
+ , instances: 2, word: 'Sharp', work: 'Ado'},
+ , instances: 2, word: 'Sheets', work: 'Ado'},
+ , instances: 2, word: 'Shield', work: 'Ado'},
+ , instances: 2, word: 'Shines', work: 'Ado'},
+ , instances: 2, word: 'Shipping', work: 'Ado'},
+ , instances: 2, word: 'Shook', work: 'Ado'},
+ , instances: 2, word: 'Short', work: 'Ado'},
+ , instances: 2, word: 'Shouting', work: 'Ado'},
+ , instances: 2, word: 'Showed', work: 'Ado'},
+ , instances: 2, word: 'Shower', work: 'Ado'},
+ , instances: 2, word: 'Shrill-tongued', work: 'Ado'},
+ , instances: 2, word: 'Sickness', work: 'Ado'},
+ , instances: 2, word: 'Sighs', work: 'Ado'},
+ , instances: 2, word: 'Sight', work: 'Ado'},
+ , instances: 2, word: 'Simple', work: 'Ado'},
+ , instances: 2, word: 'Sink', work: 'Ado'},
+ , instances: 2, word: 'Six', work: 'Ado'},
+ , instances: 2, word: 'Sixty', work: 'Ado'},
+ , instances: 2, word: 'Size', work: 'Ado'},
+ , instances: 2, word: 'Sleeps', work: 'Ado'},
+ , instances: 2, word: 'Small', work: 'Ado'},
+ , instances: 2, word: 'Smiling', work: 'Ado'},
+ , instances: 2, word: 'Smites', work: 'Ado'},
+ , instances: 2, word: 'Snakes', work: 'Ado'},
+ , instances: 2, word: 'Soldiership', work: 'Ado'},
+ , instances: 2, word: 'Sometime', work: 'Ado'},
+ , instances: 2, word: 'Sometimes', work: 'Ado'},
+ , instances: 2, word: 'Soothsayer', work: 'Ado'},
+ , instances: 2, word: 'Soul', work: 'Ado'},
+ , instances: 2, word: 'Sphere', work: 'Ado'},
+ , instances: 2, word: 'Sprightly', work: 'Ado'},
+ , instances: 2, word: 'Stage', work: 'Ado'},
+ , instances: 2, word: 'Stale', work: 'Ado'},
+ , instances: 2, word: 'Star', work: 'Ado'},
+ , instances: 2, word: 'Stomach', work: 'Ado'},
+ , instances: 2, word: 'Stone', work: 'Ado'},
+ , instances: 2, word: 'Stop', work: 'Ado'},
+ , instances: 2, word: 'Storm', work: 'Ado'},
+ , instances: 2, word: 'Story', work: 'Ado'},
+ , instances: 2, word: 'Straight', work: 'Ado'},
+ , instances: 2, word: 'Strokes', work: 'Ado'},
+ , instances: 2, word: 'Stronger', work: 'Ado'},
+ , instances: 2, word: 'Studied', work: 'Ado'},
+ , instances: 2, word: 'Subdued', work: 'Ado'},
+ , instances: 2, word: 'Sue', work: 'Ado'},
+ , instances: 2, word: 'Sum', work: 'Ado'},
+ , instances: 2, word: 'Supper', work: 'Ado'},
+ , instances: 2, word: 'Sustain', work: 'Ado'},
+ , instances: 2, word: 'Swearing', work: 'Ado'},
+ , instances: 2, word: 'Swell', work: 'Ado'},
+ , instances: 2, word: 'Swift', work: 'Ado'},
+ , instances: 2, word: 'Sworn', work: 'Ado'},
+ , instances: 2, word: 'Takes', work: 'Ado'},
+ , instances: 2, word: 'Taking', work: 'Ado'},
+ , instances: 2, word: 'Talk', work: 'Ado'},
+ , instances: 2, word: 'Taunt', work: 'Ado'},
+ , instances: 2, word: 'Taurus', work: 'Ado'},
+ , instances: 2, word: 'Teachest', work: 'Ado'},
+ , instances: 2, word: 'Temperance', work: 'Ado'},
+ , instances: 2, word: 'Tend', work: 'Ado'},
+ , instances: 2, word: 'Tent', work: 'Ado'},
+ , instances: 2, word: 'Terms', work: 'Ado'},
+ , instances: 2, word: 'Thence', work: 'Ado'},
+ , instances: 2, word: 'They\'d', work: 'Ado'},
+ , instances: 2, word: 'They\'ll', work: 'Ado'},
+ , instances: 2, word: 'Thidias', work: 'Ado'},
+ , instances: 2, word: 'Thither', work: 'Ado'},
+ , instances: 2, word: 'Thrive', work: 'Ado'},
+ , instances: 2, word: 'Throat', work: 'Ado'},
+ , instances: 2, word: 'Throats', work: 'Ado'},
+ , instances: 2, word: 'Tide', work: 'Ado'},
+ , instances: 2, word: 'Time\'s', work: 'Ado'},
+ , instances: 2, word: 'Torture', work: 'Ado'},
+ , instances: 2, word: 'Toryne', work: 'Ado'},
+ , instances: 2, word: 'Touched', work: 'Ado'},
+ , instances: 2, word: 'Touches', work: 'Ado'},
+ , instances: 2, word: 'Towards', work: 'Ado'},
+ , instances: 2, word: 'Travel', work: 'Ado'},
+ , instances: 2, word: 'Triumphant', work: 'Ado'},
+ , instances: 2, word: 'Troops', work: 'Ado'},
+ , instances: 2, word: 'Truths', work: 'Ado'},
+ , instances: 2, word: 'Tune', work: 'Ado'},
+ , instances: 2, word: 'Turned', work: 'Ado'},
+ , instances: 2, word: 'Twelve', work: 'Ado'},
+ , instances: 2, word: 'Twice', work: 'Ado'},
+ , instances: 2, word: 'T\'', work: 'Ado'},
+ , instances: 2, word: 'Undone', work: 'Ado'},
+ , instances: 2, word: 'Universal', work: 'Ado'},
+ , instances: 2, word: 'Until', work: 'Ado'},
+ , instances: 2, word: 'Urge', work: 'Ado'},
+ , instances: 2, word: 'Used', work: 'Ado'},
+ , instances: 2, word: 'Utter', work: 'Ado'},
+ , instances: 2, word: 'Vacancy', work: 'Ado'},
+ , instances: 2, word: 'Vantage', work: 'Ado'},
+ , instances: 2, word: 'Vapor', work: 'Ado'},
+ , instances: 2, word: 'Varying', work: 'Ado'},
+ , instances: 2, word: 'Vassal', work: 'Ado'},
+ , instances: 2, word: 'Venus', work: 'Ado'},
+ , instances: 2, word: 'Vessel', work: 'Ado'},
+ , instances: 2, word: 'Victory', work: 'Ado'},
+ , instances: 2, word: 'Waged', work: 'Ado'},
+ , instances: 2, word: 'Wait', work: 'Ado'},
+ , instances: 2, word: 'Wake', work: 'Ado'},
+ , instances: 2, word: 'Walk', work: 'Ado'},
+ , instances: 2, word: 'Warm', work: 'Ado'},
+ , instances: 2, word: 'Warrant', work: 'Ado'},
+ , instances: 2, word: 'Wast', work: 'Ado'},
+ , instances: 2, word: 'Ways', work: 'Ado'},
+ , instances: 2, word: 'Wear', work: 'Ado'},
+ , instances: 2, word: 'Wept', work: 'Ado'},
+ , instances: 2, word: 'Whate\'er', work: 'Ado'},
+ , instances: 2, word: 'White', work: 'Ado'},
+ , instances: 2, word: 'Withhold', work: 'Ado'},
+ , instances: 2, word: 'Witness', work: 'Ado'},
+ , instances: 2, word: 'Wives', work: 'Ado'},
+ , instances: 2, word: 'Womb', work: 'Ado'},
+ , instances: 2, word: 'Won', work: 'Ado'},
+ , instances: 2, word: 'Woo\'t', work: 'Ado'},
+ , instances: 2, word: 'Wore', work: 'Ado'},
+ , instances: 2, word: 'World\'s', work: 'Ado'},
+ , instances: 2, word: 'Worn', work: 'Ado'},
+ , instances: 2, word: 'Worser', work: 'Ado'},
+ , instances: 2, word: 'Worst', work: 'Ado'},
+ , instances: 2, word: 'Worthiest', work: 'Ado'},
+ , instances: 2, word: 'Worthily', work: 'Ado'},
+ , instances: 2, word: 'Wrinkled', work: 'Ado'},
+ , instances: 2, word: 'Wrote', work: 'Ado'},
+ , instances: 2, word: 'Yea', work: 'Ado'},
+ , instances: 2, word: 'Year', work: 'Ado'},
+ , instances: 2, word: 'Years', work: 'Ado'},
+ , instances: 2, word: 'Yond', work: 'Ado'},
+ , instances: 2, word: 'Yonder', work: 'Ado'},
+ , instances: 2, word: 'You\'re', work: 'Ado'},
+ , instances: 2, word: 'You\'ve', work: 'Ado'},
+ , instances: 2, word: '\'twere', work: 'Ado'},
+ , instances: 2, word: '\'twill', work: 'Ado'},
+ , instances: 2, word: '\'twixt', work: 'Ado'},
+ , instances: 2, word: '\'twould', work: 'Ado'},
+ , instances: 1, word: '-breathed', work: 'Ado'},
+ , instances: 1, word: '-hearted', work: 'Ado'},
+ , instances: 1, word: 'A-ducking', work: 'Ado'},
+ , instances: 1, word: 'Abhorring', work: 'Ado'},
+ , instances: 1, word: 'Abides', work: 'Ado'},
+ , instances: 1, word: 'Able', work: 'Ado'},
+ , instances: 1, word: 'Abode', work: 'Ado'},
+ , instances: 1, word: 'Abominations', work: 'Ado'},
+ , instances: 1, word: 'Absurd', work: 'Ado'},
+ , instances: 1, word: 'Abuse', work: 'Ado'},
+ , instances: 1, word: 'Abysm', work: 'Ado'},
+ , instances: 1, word: 'Accumulation', work: 'Ado'},
+ , instances: 1, word: 'Accusations', work: 'Ado'},
+ , instances: 1, word: 'Accuses', work: 'Ado'},
+ , instances: 1, word: 'Achieved', work: 'Ado'},
+ , instances: 1, word: 'Acknowledge', work: 'Ado'},
+ , instances: 1, word: 'Acknowledged', work: 'Ado'},
+ , instances: 1, word: 'Acquainted', work: 'Ado'},
+ , instances: 1, word: 'Acted', work: 'Ado'},
+ , instances: 1, word: 'Actium', work: 'Ado'},
+ , instances: 1, word: 'Actor', work: 'Ado'},
+ , instances: 1, word: 'Adallas', work: 'Ado'},
+ , instances: 1, word: 'Add', work: 'Ado'},
+ , instances: 1, word: 'Addition', work: 'Ado'},
+ , instances: 1, word: 'Adieus', work: 'Ado'},
+ , instances: 1, word: 'Adjacent', work: 'Ado'},
+ , instances: 1, word: 'Adjoining', work: 'Ado'},
+ , instances: 1, word: 'Admiral', work: 'Ado'},
+ , instances: 1, word: 'Admit', work: 'Ado'},
+ , instances: 1, word: 'Adore', work: 'Ado'},
+ , instances: 1, word: 'Adores', work: 'Ado'},
+ , instances: 1, word: 'Adornings', work: 'Ado'},
+ , instances: 1, word: 'Adulterous', work: 'Ado'},
+ , instances: 1, word: 'Advice', work: 'Ado'},
+ , instances: 1, word: 'Advise', work: 'Ado'},
+ , instances: 1, word: 'Aeneas', work: 'Ado'},
+ , instances: 1, word: 'Affects', work: 'Ado'},
+ , instances: 1, word: 'Afflict', work: 'Ado'},
+ , instances: 1, word: 'Afraid', work: 'Ado'},
+ , instances: 1, word: 'Afterwards', work: 'Ado'},
+ , instances: 1, word: 'Agreed', work: 'Ado'},
+ , instances: 1, word: 'Aha', work: 'Ado'},
+ , instances: 1, word: 'Aim', work: 'Ado'},
+ , instances: 1, word: 'Ajax', work: 'Ado'},
+ , instances: 1, word: 'Alas', work: 'Ado'},
+ , instances: 1, word: 'Alcides', work: 'Ado'},
+ , instances: 1, word: 'Alexander', work: 'Ado'},
+ , instances: 1, word: 'Alive', work: 'Ado'},
+ , instances: 1, word: 'All-disgracèd', work: 'Ado'},
+ , instances: 1, word: 'All-honored', work: 'Ado'},
+ , instances: 1, word: 'All-obeying', work: 'Ado'},
+ , instances: 1, word: 'Allay', work: 'Ado'},
+ , instances: 1, word: 'Allegiance', work: 'Ado'},
+ , instances: 1, word: 'Almanacs', work: 'Ado'},
+ , instances: 1, word: 'Alms-drink', work: 'Ado'},
+ , instances: 1, word: 'Aloud', work: 'Ado'},
+ , instances: 1, word: 'Alps', work: 'Ado'},
+ , instances: 1, word: 'Although', work: 'Ado'},
+ , instances: 1, word: 'Ambassadors', work: 'Ado'},
+ , instances: 1, word: 'Ambition', work: 'Ado'},
+ , instances: 1, word: 'Amyntas', work: 'Ado'},
+ , instances: 1, word: 'Ancestor', work: 'Ado'},
+ , instances: 1, word: 'Anchor', work: 'Ado'},
+ , instances: 1, word: 'Angel', work: 'Ado'},
+ , instances: 1, word: 'Anger', work: 'Ado'},
+ , instances: 1, word: 'Angered', work: 'Ado'},
+ , instances: 1, word: 'Angle', work: 'Ado'},
+ , instances: 1, word: 'Angling', work: 'Ado'},
+ , instances: 1, word: 'Annexed', work: 'Ado'},
+ , instances: 1, word: 'Anon', work: 'Ado'},
+ , instances: 1, word: 'Another\'s', work: 'Ado'},
+ , instances: 1, word: 'Answered', work: 'Ado'},
+ , instances: 1, word: 'Answering', work: 'Ado'},
+ , instances: 1, word: 'Answers', work: 'Ado'},
+ , instances: 1, word: 'Anticked', work: 'Ado'},
+ , instances: 1, word: 'Antoniad', work: 'Ado'},
+ , instances: 1, word: 'Anyone', work: 'Ado'},
+ , instances: 1, word: 'Anything', work: 'Ado'},
+ , instances: 1, word: 'Apollodorus', work: 'Ado'},
+ , instances: 1, word: 'Appeal', work: 'Ado'},
+ , instances: 1, word: 'Appetite', work: 'Ado'},
+ , instances: 1, word: 'Appetites', work: 'Ado'},
+ , instances: 1, word: 'Applauding', work: 'Ado'},
+ , instances: 1, word: 'Apply', work: 'Ado'},
+ , instances: 1, word: 'Appointment', work: 'Ado'},
+ , instances: 1, word: 'Approaching', work: 'Ado'},
+ , instances: 1, word: 'Approof', work: 'Ado'},
+ , instances: 1, word: 'Approve', work: 'Ado'},
+ , instances: 1, word: 'Approves', work: 'Ado'},
+ , instances: 1, word: 'April\'s', work: 'Ado'},
+ , instances: 1, word: 'Aprons', work: 'Ado'},
+ , instances: 1, word: 'Arabia', work: 'Ado'},
+ , instances: 1, word: 'Arabian', work: 'Ado'},
+ , instances: 1, word: 'Arch', work: 'Ado'},
+ , instances: 1, word: 'Archelaus', work: 'Ado'},
+ , instances: 1, word: 'Argument', work: 'Ado'},
+ , instances: 1, word: 'Arm-gaunt', work: 'Ado'},
+ , instances: 1, word: 'Armies', work: 'Ado'},
+ , instances: 1, word: 'Armorer', work: 'Ado'},
+ , instances: 1, word: 'Ascended', work: 'Ado'},
+ , instances: 1, word: 'Ashamed', work: 'Ado'},
+ , instances: 1, word: 'Ashes', work: 'Ado'},
+ , instances: 1, word: 'Ashore', work: 'Ado'},
+ , instances: 1, word: 'Asia', work: 'Ado'},
+ , instances: 1, word: 'Aside', work: 'Ado'},
+ , instances: 1, word: 'Asked', work: 'Ado'},
+ , instances: 1, word: 'Asleep', work: 'Ado'},
+ , instances: 1, word: 'Aspect', work: 'Ado'},
+ , instances: 1, word: 'Aspic\'s', work: 'Ado'},
+ , instances: 1, word: 'Assemble', work: 'Ado'},
+ , instances: 1, word: 'Assembled', work: 'Ado'},
+ , instances: 1, word: 'Assigned', work: 'Ado'},
+ , instances: 1, word: 'Assurance', work: 'Ado'},
+ , instances: 1, word: 'Assuredly', work: 'Ado'},
+ , instances: 1, word: 'Atone', work: 'Ado'},
+ , instances: 1, word: 'Attentive', work: 'Ado'},
+ , instances: 1, word: 'Attire', work: 'Ado'},
+ , instances: 1, word: 'Attires', work: 'Ado'},
+ , instances: 1, word: 'Aught', work: 'Ado'},
+ , instances: 1, word: 'Augmented', work: 'Ado'},
+ , instances: 1, word: 'Augurer', work: 'Ado'},
+ , instances: 1, word: 'Auguring', work: 'Ado'},
+ , instances: 1, word: 'Augurs', work: 'Ado'},
+ , instances: 1, word: 'Author', work: 'Ado'},
+ , instances: 1, word: 'Autumn', work: 'Ado'},
+ , instances: 1, word: 'Avaunt', work: 'Ado'},
+ , instances: 1, word: 'Avoid', work: 'Ado'},
+ , instances: 1, word: 'Awaked', work: 'Ado'},
+ , instances: 1, word: 'Awry', work: 'Ado'},
+ , instances: 1, word: 'Babes', work: 'Ado'},
+ , instances: 1, word: 'Baby', work: 'Ado'},
+ , instances: 1, word: 'Bacchanals', work: 'Ado'},
+ , instances: 1, word: 'Bacchus', work: 'Ado'},
+ , instances: 1, word: 'Backs', work: 'Ado'},
+ , instances: 1, word: 'Ballad', work: 'Ado'},
+ , instances: 1, word: 'Balls', work: 'Ado'},
+ , instances: 1, word: 'Balm', work: 'Ado'},
+ , instances: 1, word: 'Band', work: 'Ado'},
+ , instances: 1, word: 'Bands', work: 'Ado'},
+ , instances: 1, word: 'Banner', work: 'Ado'},
+ , instances: 1, word: 'Banners', work: 'Ado'},
+ , instances: 1, word: 'Banquet', work: 'Ado'},
+ , instances: 1, word: 'Barbered', work: 'Ado'},
+ , instances: 1, word: 'Bards', work: 'Ado'},
+ , instances: 1, word: 'Barked', work: 'Ado'},
+ , instances: 1, word: 'Barks', work: 'Ado'},
+ , instances: 1, word: 'Barren', work: 'Ado'},
+ , instances: 1, word: 'Basan', work: 'Ado'},
+ , instances: 1, word: 'Basely', work: 'Ado'},
+ , instances: 1, word: 'Baser', work: 'Ado'},
+ , instances: 1, word: 'Basket', work: 'Ado'},
+ , instances: 1, word: 'Bathe', work: 'Ado'},
+ , instances: 1, word: 'Batter', work: 'Ado'},
+ , instances: 1, word: 'Battles', work: 'Ado'},
+ , instances: 1, word: 'Beard', work: 'Ado'},
+ , instances: 1, word: 'Bear\'st', work: 'Ado'},
+ , instances: 1, word: 'Beast', work: 'Ado'},
+ , instances: 1, word: 'Beastly', work: 'Ado'},
+ , instances: 1, word: 'Beasts', work: 'Ado'},
+ , instances: 1, word: 'Beats', work: 'Ado'},
+ , instances: 1, word: 'Beauteous', work: 'Ado'},
+ , instances: 1, word: 'Became', work: 'Ado'},
+ , instances: 1, word: 'Because', work: 'Ado'},
+ , instances: 1, word: 'Beck', work: 'Ado'},
+ , instances: 1, word: 'Becked', work: 'Ado'},
+ , instances: 1, word: 'Becomed', work: 'Ado'},
+ , instances: 1, word: 'Becomings', work: 'Ado'},
+ , instances: 1, word: 'Bedfellow', work: 'Ado'},
+ , instances: 1, word: 'Beetle', work: 'Ado'},
+ , instances: 1, word: 'Befall', work: 'Ado'},
+ , instances: 1, word: 'Befits', work: 'Ado'},
+ , instances: 1, word: 'Beggared', work: 'Ado'},
+ , instances: 1, word: 'Beggars', work: 'Ado'},
+ , instances: 1, word: 'Beggary', work: 'Ado'},
+ , instances: 1, word: 'Beggar\'s', work: 'Ado'},
+ , instances: 1, word: 'Begs', work: 'Ado'},
+ , instances: 1, word: 'Begun', work: 'Ado'},
+ , instances: 1, word: 'Behavior', work: 'Ado'},
+ , instances: 1, word: 'Behold\'st', work: 'Ado'},
+ , instances: 1, word: 'Belief', work: 'Ado'},
+ , instances: 1, word: 'Bell', work: 'Ado'},
+ , instances: 1, word: 'Bellows', work: 'Ado'},
+ , instances: 1, word: 'Belong', work: 'Ado'},
+ , instances: 1, word: 'Beloving', work: 'Ado'},
+ , instances: 1, word: 'Below', work: 'Ado'},
+ , instances: 1, word: 'Bench-holes', work: 'Ado'},
+ , instances: 1, word: 'Bend', work: 'Ado'},
+ , instances: 1, word: 'Bended', work: 'Ado'},
+ , instances: 1, word: 'Bending', work: 'Ado'},
+ , instances: 1, word: 'Bends', work: 'Ado'},
+ , instances: 1, word: 'Benefit', work: 'Ado'},
+ , instances: 1, word: 'Bent', work: 'Ado'},
+ , instances: 1, word: 'Bequeath', work: 'Ado'},
+ , instances: 1, word: 'Bereave', work: 'Ado'},
+ , instances: 1, word: 'Berry', work: 'Ado'},
+ , instances: 1, word: 'Beside', work: 'Ado'},
+ , instances: 1, word: 'Besides', work: 'Ado'},
+ , instances: 1, word: 'Bestow', work: 'Ado'},
+ , instances: 1, word: 'Bestowed', work: 'Ado'},
+ , instances: 1, word: 'Bestrid', work: 'Ado'},
+ , instances: 1, word: 'Betime', work: 'Ado'},
+ , instances: 1, word: 'Betimes', work: 'Ado'},
+ , instances: 1, word: 'Betray', work: 'Ado'},
+ , instances: 1, word: 'Betrayèd', work: 'Ado'},
+ , instances: 1, word: 'Be\'st', work: 'Ado'},
+ , instances: 1, word: 'Biddings', work: 'Ado'},
+ , instances: 1, word: 'Bides', work: 'Ado'},
+ , instances: 1, word: 'Billiards', work: 'Ado'},
+ , instances: 1, word: 'Bird', work: 'Ado'},
+ , instances: 1, word: 'Birthday', work: 'Ado'},
+ , instances: 1, word: 'Bite', work: 'Ado'},
+ , instances: 1, word: 'Blackness', work: 'Ado'},
+ , instances: 1, word: 'Blast', work: 'Ado'},
+ , instances: 1, word: 'Bleed', work: 'Ado'},
+ , instances: 1, word: 'Bleed\'st', work: 'Ado'},
+ , instances: 1, word: 'Blest', work: 'Ado'},
+ , instances: 1, word: 'Bliss', work: 'Ado'},
+ , instances: 1, word: 'Blossoming', work: 'Ado'},
+ , instances: 1, word: 'Blue', work: 'Ado'},
+ , instances: 1, word: 'Bluest', work: 'Ado'},
+ , instances: 1, word: 'Blushest', work: 'Ado'},
+ , instances: 1, word: 'Boar', work: 'Ado'},
+ , instances: 1, word: 'Boars', work: 'Ado'},
+ , instances: 1, word: 'Boast', work: 'Ado'},
+ , instances: 1, word: 'Boat', work: 'Ado'},
+ , instances: 1, word: 'Bocchus', work: 'Ado'},
+ , instances: 1, word: 'Bodies', work: 'Ado'},
+ , instances: 1, word: 'Boggler', work: 'Ado'},
+ , instances: 1, word: 'Boldly', work: 'Ado'},
+ , instances: 1, word: 'Bolts', work: 'Ado'},
+ , instances: 1, word: 'Bondman', work: 'Ado'},
+ , instances: 1, word: 'Bones', work: 'Ado'},
+ , instances: 1, word: 'Book', work: 'Ado'},
+ , instances: 1, word: 'Borders', work: 'Ado'},
+ , instances: 1, word: 'Borrow', work: 'Ado'},
+ , instances: 1, word: 'Bounteous', work: 'Ado'},
+ , instances: 1, word: 'Bourn', work: 'Ado'},
+ , instances: 1, word: 'Bow', work: 'Ado'},
+ , instances: 1, word: 'Bowls', work: 'Ado'},
+ , instances: 1, word: 'Branchless', work: 'Ado'},
+ , instances: 1, word: 'Branded', work: 'Ado'},
+ , instances: 1, word: 'Bravely', work: 'Ado'},
+ , instances: 1, word: 'Bravest', work: 'Ado'},
+ , instances: 1, word: 'Brazen', work: 'Ado'},
+ , instances: 1, word: 'Breadth', work: 'Ado'},
+ , instances: 1, word: 'Breakfast', work: 'Ado'},
+ , instances: 1, word: 'Breathe', work: 'Ado'},
+ , instances: 1, word: 'Breather', work: 'Ado'},
+ , instances: 1, word: 'Breathing', work: 'Ado'},
+ , instances: 1, word: 'Breathless', work: 'Ado'},
+ , instances: 1, word: 'Breaths', work: 'Ado'},
+ , instances: 1, word: 'Breed', work: 'Ado'},
+ , instances: 1, word: 'Breeding', work: 'Ado'},
+ , instances: 1, word: 'Breeze', work: 'Ado'},
+ , instances: 1, word: 'Bridegroom', work: 'Ado'},
+ , instances: 1, word: 'Brief', work: 'Ado'},
+ , instances: 1, word: 'Briefest', work: 'Ado'},
+ , instances: 1, word: 'Briefly', work: 'Ado'},
+ , instances: 1, word: 'Bright', work: 'Ado'},
+ , instances: 1, word: 'Brim', work: 'Ado'},
+ , instances: 1, word: 'Brine', work: 'Ado'},
+ , instances: 1, word: 'Bringer', work: 'Ado'},
+ , instances: 1, word: 'Broached', work: 'Ado'},
+ , instances: 1, word: 'Broachèd', work: 'Ado'},
+ , instances: 1, word: 'Broad', work: 'Ado'},
+ , instances: 1, word: 'Broad-fronted', work: 'Ado'},
+ , instances: 1, word: 'Broken', work: 'Ado'},
+ , instances: 1, word: 'Brooched', work: 'Ado'},
+ , instances: 1, word: 'Brow', work: 'Ado'},
+ , instances: 1, word: 'Browsèd', work: 'Ado'},
+ , instances: 1, word: 'Brows\'', work: 'Ado'},
+ , instances: 1, word: 'Bruisèd', work: 'Ado'},
+ , instances: 1, word: 'Brundusium', work: 'Ado'},
+ , instances: 1, word: 'Buckled', work: 'Ado'},
+ , instances: 1, word: 'Buckles', work: 'Ado'},
+ , instances: 1, word: 'Buds', work: 'Ado'},
+ , instances: 1, word: 'Buffet', work: 'Ado'},
+ , instances: 1, word: 'Builded', work: 'Ado'},
+ , instances: 1, word: 'Builds', work: 'Ado'},
+ , instances: 1, word: 'Built', work: 'Ado'},
+ , instances: 1, word: 'Bulk', work: 'Ado'},
+ , instances: 1, word: 'Burden', work: 'Ado'},
+ , instances: 1, word: 'Burgonet', work: 'Ado'},
+ , instances: 1, word: 'Burned', work: 'Ado'},
+ , instances: 1, word: 'Burnished', work: 'Ado'},
+ , instances: 1, word: 'Burnt', work: 'Ado'},
+ , instances: 1, word: 'Burst', work: 'Ado'},
+ , instances: 1, word: 'Bury', work: 'Ado'},
+ , instances: 1, word: 'Cabin', work: 'Ado'},
+ , instances: 1, word: 'Cable', work: 'Ado'},
+ , instances: 1, word: 'Caelius', work: 'Ado'},
+ , instances: 1, word: 'Caius', work: 'Ado'},
+ , instances: 1, word: 'Calm', work: 'Ado'},
+ , instances: 1, word: 'Canst', work: 'Ado'},
+ , instances: 1, word: 'Cantle', work: 'Ado'},
+ , instances: 1, word: 'Capacity', work: 'Ado'},
+ , instances: 1, word: 'Caparisons', work: 'Ado'},
+ , instances: 1, word: 'Capitol', work: 'Ado'},
+ , instances: 1, word: 'Cappadocia', work: 'Ado'},
+ , instances: 1, word: 'Caps', work: 'Ado'},
+ , instances: 1, word: 'Captainship', work: 'Ado'},
+ , instances: 1, word: 'Captive', work: 'Ado'},
+ , instances: 1, word: 'Car', work: 'Ado'},
+ , instances: 1, word: 'Carbuncled', work: 'Ado'},
+ , instances: 1, word: 'Cards', work: 'Ado'},
+ , instances: 1, word: 'Careful', work: 'Ado'},
+ , instances: 1, word: 'Carouse', work: 'Ado'},
+ , instances: 1, word: 'Carouses', work: 'Ado'},
+ , instances: 1, word: 'Carriage', work: 'Ado'},
+ , instances: 1, word: 'Carried', work: 'Ado'},
+ , instances: 1, word: 'Carries', work: 'Ado'},
+ , instances: 1, word: 'Castaway', work: 'Ado'},
+ , instances: 1, word: 'Casts', work: 'Ado'},
+ , instances: 1, word: 'Catching', work: 'Ado'},
+ , instances: 1, word: 'Caught', work: 'Ado'},
+ , instances: 1, word: 'Caused', work: 'Ado'},
+ , instances: 1, word: 'Caves', work: 'Ado'},
+ , instances: 1, word: 'Cease', work: 'Ado'},
+ , instances: 1, word: 'Celebrate', work: 'Ado'},
+ , instances: 1, word: 'Censuring', work: 'Ado'},
+ , instances: 1, word: 'Ceremony', work: 'Ado'},
+ , instances: 1, word: 'Certainly', work: 'Ado'},
+ , instances: 1, word: 'Chafe', work: 'Ado'},
+ , instances: 1, word: 'Chain', work: 'Ado'},
+ , instances: 1, word: 'Chains', work: 'Ado'},
+ , instances: 1, word: 'Chairs', work: 'Ado'},
+ , instances: 1, word: 'Challenge', work: 'Ado'},
+ , instances: 1, word: 'Chaps', work: 'Ado'},
+ , instances: 1, word: 'Chare', work: 'Ado'},
+ , instances: 1, word: 'Chares', work: 'Ado'},
+ , instances: 1, word: 'Charged', work: 'Ado'},
+ , instances: 1, word: 'Chariot', work: 'Ado'},
+ , instances: 1, word: 'Chariots', work: 'Ado'},
+ , instances: 1, word: 'Charms', work: 'Ado'},
+ , instances: 1, word: 'Chastised', work: 'Ado'},
+ , instances: 1, word: 'Chastity', work: 'Ado'},
+ , instances: 1, word: 'Check', work: 'Ado'},
+ , instances: 1, word: 'Cheered', work: 'Ado'},
+ , instances: 1, word: 'Cheerful', work: 'Ado'},
+ , instances: 1, word: 'Cherished', work: 'Ado'},
+ , instances: 1, word: 'Chests', work: 'Ado'},
+ , instances: 1, word: 'Chid', work: 'Ado'},
+ , instances: 1, word: 'Chide', work: 'Ado'},
+ , instances: 1, word: 'Chides', work: 'Ado'},
+ , instances: 1, word: 'Chiefly', work: 'Ado'},
+ , instances: 1, word: 'Childishness', work: 'Ado'},
+ , instances: 1, word: 'Choice', work: 'Ado'},
+ , instances: 1, word: 'Choked', work: 'Ado'},
+ , instances: 1, word: 'Chooses', work: 'Ado'},
+ , instances: 1, word: 'Chronicle', work: 'Ado'},
+ , instances: 1, word: 'Chuck', work: 'Ado'},
+ , instances: 1, word: 'Cilicia', work: 'Ado'},
+ , instances: 1, word: 'Cinders', work: 'Ado'},
+ , instances: 1, word: 'Circle', work: 'Ado'},
+ , instances: 1, word: 'Cistern', work: 'Ado'},
+ , instances: 1, word: 'Citadel', work: 'Ado'},
+ , instances: 1, word: 'Cities', work: 'Ado'},
+ , instances: 1, word: 'Citizens', work: 'Ado'},
+ , instances: 1, word: 'City\'s', work: 'Ado'},
+ , instances: 1, word: 'Civilly', work: 'Ado'},
+ , instances: 1, word: 'Claims', work: 'Ado'},
+ , instances: 1, word: 'Clapped', work: 'Ado'},
+ , instances: 1, word: 'Claps', work: 'Ado'},
+ , instances: 1, word: 'Clay', work: 'Ado'},
+ , instances: 1, word: 'Cloth-of-gold', work: 'Ado'},
+ , instances: 1, word: 'Clouts', work: 'Ado'},
+ , instances: 1, word: 'Cloy', work: 'Ado'},
+ , instances: 1, word: 'Cloyless', work: 'Ado'},
+ , instances: 1, word: 'Club', work: 'Ado'},
+ , instances: 1, word: 'Cocks', work: 'Ado'},
+ , instances: 1, word: 'Coin', work: 'Ado'},
+ , instances: 1, word: 'Coldhearted', work: 'Ado'},
+ , instances: 1, word: 'Comagen', work: 'Ado'},
+ , instances: 1, word: 'Combat', work: 'Ado'},
+ , instances: 1, word: 'Combating', work: 'Ado'},
+ , instances: 1, word: 'Combined', work: 'Ado'},
+ , instances: 1, word: 'Comedians', work: 'Ado'},
+ , instances: 1, word: 'Comforted', work: 'Ado'},
+ , instances: 1, word: 'Comforting', work: 'Ado'},
+ , instances: 1, word: 'Commanded', work: 'Ado'},
+ , instances: 1, word: 'Commission\'s', work: 'Ado'},
+ , instances: 1, word: 'Commit', work: 'Ado'},
+ , instances: 1, word: 'Commits', work: 'Ado'},
+ , instances: 1, word: 'Compel', work: 'Ado'},
+ , instances: 1, word: 'Compelling', work: 'Ado'},
+ , instances: 1, word: 'Competitors', work: 'Ado'},
+ , instances: 1, word: 'Compliment', work: 'Ado'},
+ , instances: 1, word: 'Compose', work: 'Ado'},
+ , instances: 1, word: 'Composition', work: 'Ado'},
+ , instances: 1, word: 'Composure', work: 'Ado'},
+ , instances: 1, word: 'Com\'st', work: 'Ado'},
+ , instances: 1, word: 'Conceive', work: 'Ado'},
+ , instances: 1, word: 'Concerned', work: 'Ado'},
+ , instances: 1, word: 'Concerns', work: 'Ado'},
+ , instances: 1, word: 'Conclusion', work: 'Ado'},
+ , instances: 1, word: 'Conclusions', work: 'Ado'},
+ , instances: 1, word: 'Condemned', work: 'Ado'},
+ , instances: 1, word: 'Condemning', work: 'Ado'},
+ , instances: 1, word: 'Conditions', work: 'Ado'},
+ , instances: 1, word: 'Conference', work: 'Ado'},
+ , instances: 1, word: 'Confine', work: 'Ado'},
+ , instances: 1, word: 'Confined', work: 'Ado'},
+ , instances: 1, word: 'Confusion', work: 'Ado'},
+ , instances: 1, word: 'Congealment', work: 'Ado'},
+ , instances: 1, word: 'Conqu\'ring', work: 'Ado'},
+ , instances: 1, word: 'Consider', work: 'Ado'},
+ , instances: 1, word: 'Considerate', work: 'Ado'},
+ , instances: 1, word: 'Consideration', work: 'Ado'},
+ , instances: 1, word: 'Considered', work: 'Ado'},
+ , instances: 1, word: 'Consist', work: 'Ado'},
+ , instances: 1, word: 'Consolation', work: 'Ado'},
+ , instances: 1, word: 'Conspire', work: 'Ado'},
+ , instances: 1, word: 'Constrained', work: 'Ado'},
+ , instances: 1, word: 'Constrainèd', work: 'Ado'},
+ , instances: 1, word: 'Consuls', work: 'Ado'},
+ , instances: 1, word: 'Contemning', work: 'Ado'},
+ , instances: 1, word: 'Contempts', work: 'Ado'},
+ , instances: 1, word: 'Contestation', work: 'Ado'},
+ , instances: 1, word: 'Continent', work: 'Ado'},
+ , instances: 1, word: 'Continues', work: 'Ado'},
+ , instances: 1, word: 'Contradiction', work: 'Ado'},
+ , instances: 1, word: 'Contriving', work: 'Ado'},
+ , instances: 1, word: 'Conversation', work: 'Ado'},
+ , instances: 1, word: 'Cookery', work: 'Ado'},
+ , instances: 1, word: 'Cooks', work: 'Ado'},
+ , instances: 1, word: 'Corrigible', work: 'Ado'},
+ , instances: 1, word: 'Corrupted', work: 'Ado'},
+ , instances: 1, word: 'Cost', work: 'Ado'},
+ , instances: 1, word: 'Couch', work: 'Ado'},
+ , instances: 1, word: 'Cough', work: 'Ado'},
+ , instances: 1, word: 'Council', work: 'Ado'},
+ , instances: 1, word: 'Counsel', work: 'Ado'},
+ , instances: 1, word: 'Country', work: 'Ado'},
+ , instances: 1, word: 'Country\'s', work: 'Ado'},
+ , instances: 1, word: 'Counts', work: 'Ado'},
+ , instances: 1, word: 'Courageous', work: 'Ado'},
+ , instances: 1, word: 'Courser\'s', work: 'Ado'},
+ , instances: 1, word: 'Courtesies', work: 'Ado'},
+ , instances: 1, word: 'Courtesy', work: 'Ado'},
+ , instances: 1, word: 'Courtiers', work: 'Ado'},
+ , instances: 1, word: 'Cow', work: 'Ado'},
+ , instances: 1, word: 'Coward', work: 'Ado'},
+ , instances: 1, word: 'Cowardly', work: 'Ado'},
+ , instances: 1, word: 'Cowards', work: 'Ado'},
+ , instances: 1, word: 'Coward\'s', work: 'Ado'},
+ , instances: 1, word: 'Crassus', work: 'Ado'},
+ , instances: 1, word: 'Crassus\'', work: 'Ado'},
+ , instances: 1, word: 'Craves', work: 'Ado'},
+ , instances: 1, word: 'Creature', work: 'Ado'},
+ , instances: 1, word: 'Creatures', work: 'Ado'},
+ , instances: 1, word: 'Creature\'s', work: 'Ado'},
+ , instances: 1, word: 'Crescent', work: 'Ado'},
+ , instances: 1, word: 'Crested', work: 'Ado'},
+ , instances: 1, word: 'Cringe', work: 'Ado'},
+ , instances: 1, word: 'Cropped', work: 'Ado'},
+ , instances: 1, word: 'Cross', work: 'Ado'},
+ , instances: 1, word: 'Crownet', work: 'Ado'},
+ , instances: 1, word: 'Crownets', work: 'Ado'},
+ , instances: 1, word: 'Crowns', work: 'Ado'},
+ , instances: 1, word: 'Crown\'s', work: 'Ado'},
+ , instances: 1, word: 'Cruel', work: 'Ado'},
+ , instances: 1, word: 'Cruelty', work: 'Ado'},
+ , instances: 1, word: 'Crying', work: 'Ado'},
+ , instances: 1, word: 'Cuckoo', work: 'Ado'},
+ , instances: 1, word: 'Cupids', work: 'Ado'},
+ , instances: 1, word: 'Cups', work: 'Ado'},
+ , instances: 1, word: 'Cured', work: 'Ado'},
+ , instances: 1, word: 'Curious', work: 'Ado'},
+ , instances: 1, word: 'Curlèd', work: 'Ado'},
+ , instances: 1, word: 'Curstness', work: 'Ado'},
+ , instances: 1, word: 'Custom', work: 'Ado'},
+ , instances: 1, word: 'Cyprus', work: 'Ado'},
+ , instances: 1, word: 'Daff', work: 'Ado'},
+ , instances: 1, word: 'Daintily', work: 'Ado'},
+ , instances: 1, word: 'Dame', work: 'Ado'},
+ , instances: 1, word: 'Damn', work: 'Ado'},
+ , instances: 1, word: 'Damp', work: 'Ado'},
+ , instances: 1, word: 'Dance', work: 'Ado'},
+ , instances: 1, word: 'Dancer', work: 'Ado'},
+ , instances: 1, word: 'Dancing', work: 'Ado'},
+ , instances: 1, word: 'Dangers', work: 'Ado'},
+ , instances: 1, word: 'Dared', work: 'Ado'},
+ , instances: 1, word: 'Dark', work: 'Ado'},
+ , instances: 1, word: 'Darken', work: 'Ado'},
+ , instances: 1, word: 'Darkens', work: 'Ado'},
+ , instances: 1, word: 'Darkling', work: 'Ado'},
+ , instances: 1, word: 'Darkness', work: 'Ado'},
+ , instances: 1, word: 'Darting', work: 'Ado'},
+ , instances: 1, word: 'Darts', work: 'Ado'},
+ , instances: 1, word: 'Daughter', work: 'Ado'},
+ , instances: 1, word: 'Deadly', work: 'Ado'},
+ , instances: 1, word: 'Deaf', work: 'Ado'},
+ , instances: 1, word: 'Dealt', work: 'Ado'},
+ , instances: 1, word: 'Dearth', work: 'Ado'},
+ , instances: 1, word: 'Dear\'st', work: 'Ado'},
+ , instances: 1, word: 'Deaths', work: 'Ado'},
+ , instances: 1, word: 'Debate', work: 'Ado'},
+ , instances: 1, word: 'Debtor', work: 'Ado'},
+ , instances: 1, word: 'Decays', work: 'Ado'},
+ , instances: 1, word: 'Deceived', work: 'Ado'},
+ , instances: 1, word: 'Declare', work: 'Ado'},
+ , instances: 1, word: 'Declining', work: 'Ado'},
+ , instances: 1, word: 'Deep', work: 'Ado'},
+ , instances: 1, word: 'Defeat', work: 'Ado'},
+ , instances: 1, word: 'Defeat\'st', work: 'Ado'},
+ , instances: 1, word: 'Defect', work: 'Ado'},
+ , instances: 1, word: 'Defects', work: 'Ado'},
+ , instances: 1, word: 'Defend', work: 'Ado'},
+ , instances: 1, word: 'Defenses', work: 'Ado'},
+ , instances: 1, word: 'Defy', work: 'Ado'},
+ , instances: 1, word: 'Degrees', work: 'Ado'},
+ , instances: 1, word: 'Deign', work: 'Ado'},
+ , instances: 1, word: 'Deities', work: 'Ado'},
+ , instances: 1, word: 'Dejected', work: 'Ado'},
+ , instances: 1, word: 'Delay', work: 'Ado'},
+ , instances: 1, word: 'Delicious', work: 'Ado'},
+ , instances: 1, word: 'Delight', work: 'Ado'},
+ , instances: 1, word: 'Delights', work: 'Ado'},
+ , instances: 1, word: 'Deliver', work: 'Ado'},
+ , instances: 1, word: 'Demands', work: 'Ado'},
+ , instances: 1, word: 'Demi-atlas', work: 'Ado'},
+ , instances: 1, word: 'Demurely', work: 'Ado'},
+ , instances: 1, word: 'Demuring', work: 'Ado'},
+ , instances: 1, word: 'Denounced', work: 'Ado'},
+ , instances: 1, word: 'Dens', work: 'Ado'},
+ , instances: 1, word: 'Departure', work: 'Ado'},
+ , instances: 1, word: 'Depart\'st', work: 'Ado'},
+ , instances: 1, word: 'Dependency', work: 'Ado'},
+ , instances: 1, word: 'Depends', work: 'Ado'},
+ , instances: 1, word: 'Deposed', work: 'Ado'},
+ , instances: 1, word: 'Deputation', work: 'Ado'},
+ , instances: 1, word: 'Dercetus', work: 'Ado'},
+ , instances: 1, word: 'Derogately', work: 'Ado'},
+ , instances: 1, word: 'Descended', work: 'Ado'},
+ , instances: 1, word: 'Descried', work: 'Ado'},
+ , instances: 1, word: 'Deserts', work: 'Ado'},
+ , instances: 1, word: 'Deserve', work: 'Ado'},
+ , instances: 1, word: 'Deserver', work: 'Ado'},
+ , instances: 1, word: 'Deserving', work: 'Ado'},
+ , instances: 1, word: 'Design', work: 'Ado'},
+ , instances: 1, word: 'Designs', work: 'Ado'},
+ , instances: 1, word: 'Desist', work: 'Ado'},
+ , instances: 1, word: 'Desolation', work: 'Ado'},
+ , instances: 1, word: 'Despair', work: 'Ado'},
+ , instances: 1, word: 'Desperate', work: 'Ado'},
+ , instances: 1, word: 'Despise', work: 'Ado'},
+ , instances: 1, word: 'Despiteful', work: 'Ado'},
+ , instances: 1, word: 'Destiny', work: 'Ado'},
+ , instances: 1, word: 'Destroyed', work: 'Ado'},
+ , instances: 1, word: 'Destroys', work: 'Ado'},
+ , instances: 1, word: 'Destruction', work: 'Ado'},
+ , instances: 1, word: 'Determined', work: 'Ado'},
+ , instances: 1, word: 'Determines', work: 'Ado'},
+ , instances: 1, word: 'Detest', work: 'Ado'},
+ , instances: 1, word: 'Devised', work: 'Ado'},
+ , instances: 1, word: 'Devotion', work: 'Ado'},
+ , instances: 1, word: 'Diadem', work: 'Ado'},
+ , instances: 1, word: 'Dice', work: 'Ado'},
+ , instances: 1, word: 'Dido', work: 'Ado'},
+ , instances: 1, word: 'Did\'st', work: 'Ado'},
+ , instances: 1, word: 'Diet', work: 'Ado'},
+ , instances: 1, word: 'Diff\'ring', work: 'Ado'},
+ , instances: 1, word: 'Digested', work: 'Ado'},
+ , instances: 1, word: 'Dignities', work: 'Ado'},
+ , instances: 1, word: 'Dignity', work: 'Ado'},
+ , instances: 1, word: 'Diminution', work: 'Ado'},
+ , instances: 1, word: 'Diminutives', work: 'Ado'},
+ , instances: 1, word: 'Dimpled', work: 'Ado'},
+ , instances: 1, word: 'Din', work: 'Ado'},
+ , instances: 1, word: 'Dinner', work: 'Ado'},
+ , instances: 1, word: 'Disaster', work: 'Ado'},
+ , instances: 1, word: 'Discandy', work: 'Ado'},
+ , instances: 1, word: 'Discandying', work: 'Ado'},
+ , instances: 1, word: 'Discharged', work: 'Ado'},
+ , instances: 1, word: 'Discomfort', work: 'Ado'},
+ , instances: 1, word: 'Discontented', work: 'Ado'},
+ , instances: 1, word: 'Discontents', work: 'Ado'},
+ , instances: 1, word: 'Discredit', work: 'Ado'},
+ , instances: 1, word: 'Discredited', work: 'Ado'},
+ , instances: 1, word: 'Discretion', work: 'Ado'},
+ , instances: 1, word: 'Disdainful', work: 'Ado'},
+ , instances: 1, word: 'Diseases', work: 'Ado'},
+ , instances: 1, word: 'Disgraces', work: 'Ado'},
+ , instances: 1, word: 'Disguise', work: 'Ado'},
+ , instances: 1, word: 'Dislike', work: 'Ado'},
+ , instances: 1, word: 'Dislimns', work: 'Ado'},
+ , instances: 1, word: 'Dismission', work: 'Ado'},
+ , instances: 1, word: 'Dispatched', work: 'Ado'},
+ , instances: 1, word: 'Displeasure', work: 'Ado'},
+ , instances: 1, word: 'Dispose', work: 'Ado'},
+ , instances: 1, word: 'Dispraised', work: 'Ado'},
+ , instances: 1, word: 'Dispunge', work: 'Ado'},
+ , instances: 1, word: 'Disquiet', work: 'Ado'},
+ , instances: 1, word: 'Dissembling', work: 'Ado'},
+ , instances: 1, word: 'Dissuade', work: 'Ado'},
+ , instances: 1, word: 'Distinction', work: 'Ado'},
+ , instances: 1, word: 'Distract', work: 'Ado'},
+ , instances: 1, word: 'Distraction', work: 'Ado'},
+ , instances: 1, word: 'Distractions', work: 'Ado'},
+ , instances: 1, word: 'Distrust', work: 'Ado'},
+ , instances: 1, word: 'Diver', work: 'Ado'},
+ , instances: 1, word: 'Divers-colored', work: 'Ado'},
+ , instances: 1, word: 'Divided', work: 'Ado'},
+ , instances: 1, word: 'Divine', work: 'Ado'},
+ , instances: 1, word: 'Division', work: 'Ado'},
+ , instances: 1, word: 'Divisions', work: 'Ado'},
+ , instances: 1, word: 'Doctrine', work: 'Ado'},
+ , instances: 1, word: 'Dodge', work: 'Ado'},
+ , instances: 1, word: 'Dogs', work: 'Ado'},
+ , instances: 1, word: 'Doing', work: 'Ado'},
+ , instances: 1, word: 'Dolorous', work: 'Ado'},
+ , instances: 1, word: 'Dolphin-like', work: 'Ado'},
+ , instances: 1, word: 'Dolts', work: 'Ado'},
+ , instances: 1, word: 'Domestic', work: 'Ado'},
+ , instances: 1, word: 'Donned', work: 'Ado'},
+ , instances: 1, word: 'Doomsday', work: 'Ado'},
+ , instances: 1, word: 'Doors', work: 'Ado'},
+ , instances: 1, word: 'Doubled', work: 'Ado'},
+ , instances: 1, word: 'Doughty-handed', work: 'Ado'},
+ , instances: 1, word: 'Dove', work: 'Ado'},
+ , instances: 1, word: 'Downy', work: 'Ado'},
+ , instances: 1, word: 'Dragonish', work: 'Ado'},
+ , instances: 1, word: 'Drave', work: 'Ado'},
+ , instances: 1, word: 'Dreaded', work: 'Ado'},
+ , instances: 1, word: 'Dreaming', work: 'Ado'},
+ , instances: 1, word: 'Drench', work: 'Ado'},
+ , instances: 1, word: 'Dried', work: 'Ado'},
+ , instances: 1, word: 'Drinks', work: 'Ado'},
+ , instances: 1, word: 'Drives', work: 'Ado'},
+ , instances: 1, word: 'Drops', work: 'Ado'},
+ , instances: 1, word: 'Droven', work: 'Ado'},
+ , instances: 1, word: 'Drown', work: 'Ado'},
+ , instances: 1, word: 'Drowned', work: 'Ado'},
+ , instances: 1, word: 'Drugs', work: 'Ado'},
+ , instances: 1, word: 'Drunken', work: 'Ado'},
+ , instances: 1, word: 'Dryness', work: 'Ado'},
+ , instances: 1, word: 'Dullness', work: 'Ado'},
+ , instances: 1, word: 'Dumbed', work: 'Ado'},
+ , instances: 1, word: 'Dung', work: 'Ado'},
+ , instances: 1, word: 'Dungy', work: 'Ado'},
+ , instances: 1, word: 'Dust', work: 'Ado'},
+ , instances: 1, word: 'Dwarfish', work: 'Ado'},
+ , instances: 1, word: 'Dæmon', work: 'Ado'},
+ , instances: 1, word: 'Eagle', work: 'Ado'},
+ , instances: 1, word: 'Earing', work: 'Ado'},
+ , instances: 1, word: 'Early', work: 'Ado'},
+ , instances: 1, word: 'Earn', work: 'Ado'},
+ , instances: 1, word: 'Earned', work: 'Ado'},
+ , instances: 1, word: 'Earnestly', work: 'Ado'},
+ , instances: 1, word: 'Earns', work: 'Ado'},
+ , instances: 1, word: 'Earthly', work: 'Ado'},
+ , instances: 1, word: 'Easily', work: 'Ado'},
+ , instances: 1, word: 'Eastern', work: 'Ado'},
+ , instances: 1, word: 'Eats', work: 'Ado'},
+ , instances: 1, word: 'Ebbed', work: 'Ado'},
+ , instances: 1, word: 'Ebbs', work: 'Ado'},
+ , instances: 1, word: 'Eclipsed', work: 'Ado'},
+ , instances: 1, word: 'Edges', work: 'Ado'},
+ , instances: 1, word: 'Edict', work: 'Ado'},
+ , instances: 1, word: 'Effected', work: 'Ado'},
+ , instances: 1, word: 'Effects', work: 'Ado'},
+ , instances: 1, word: 'Eight', work: 'Ado'},
+ , instances: 1, word: 'Elder', work: 'Ado'},
+ , instances: 1, word: 'Element', work: 'Ado'},
+ , instances: 1, word: 'Eloquence', work: 'Ado'},
+ , instances: 1, word: 'Embattle', work: 'Ado'},
+ , instances: 1, word: 'Embers', work: 'Ado'},
+ , instances: 1, word: 'Embossed', work: 'Ado'},
+ , instances: 1, word: 'Embrace', work: 'Ado'},
+ , instances: 1, word: 'Embraced', work: 'Ado'},
+ , instances: 1, word: 'Emperor\'s', work: 'Ado'},
+ , instances: 1, word: 'Emphasis', work: 'Ado'},
+ , instances: 1, word: 'Employed', work: 'Ado'},
+ , instances: 1, word: 'Emptiness', work: 'Ado'},
+ , instances: 1, word: 'Empty', work: 'Ado'},
+ , instances: 1, word: 'Enchanting', work: 'Ado'},
+ , instances: 1, word: 'Enclouded', work: 'Ado'},
+ , instances: 1, word: 'Endeavor', work: 'Ado'},
+ , instances: 1, word: 'Ended', work: 'Ado'},
+ , instances: 1, word: 'Enemy', work: 'Ado'},
+ , instances: 1, word: 'Enemy\'s', work: 'Ado'},
+ , instances: 1, word: 'Enfranchise', work: 'Ado'},
+ , instances: 1, word: 'Enfranchèd', work: 'Ado'},
+ , instances: 1, word: 'Engaged', work: 'Ado'},
+ , instances: 1, word: 'Engender', work: 'Ado'},
+ , instances: 1, word: 'Engrossed', work: 'Ado'},
+ , instances: 1, word: 'Enjoy', work: 'Ado'},
+ , instances: 1, word: 'Enlarge', work: 'Ado'},
+ , instances: 1, word: 'Enmities', work: 'Ado'},
+ , instances: 1, word: 'Enobarb', work: 'Ado'},
+ , instances: 1, word: 'Enraged', work: 'Ado'},
+ , instances: 1, word: 'Ensued', work: 'Ado'},
+ , instances: 1, word: 'Entangled', work: 'Ado'},
+ , instances: 1, word: 'Entangles', work: 'Ado'},
+ , instances: 1, word: 'Entertain', work: 'Ado'},
+ , instances: 1, word: 'Entertainèd', work: 'Ado'},
+ , instances: 1, word: 'Entirely', work: 'Ado'},
+ , instances: 1, word: 'Entreats', work: 'Ado'},
+ , instances: 1, word: 'Entreaty', work: 'Ado'},
+ , instances: 1, word: 'Envied', work: 'Ado'},
+ , instances: 1, word: 'Envy', work: 'Ado'},
+ , instances: 1, word: 'Epicure', work: 'Ado'},
+ , instances: 1, word: 'Epicurean', work: 'Ado'},
+ , instances: 1, word: 'Equality', work: 'Ado'},
+ , instances: 1, word: 'Equally', work: 'Ado'},
+ , instances: 1, word: 'Equalness', work: 'Ado'},
+ , instances: 1, word: 'Errand', work: 'Ado'},
+ , instances: 1, word: 'Errors', work: 'Ado'},
+ , instances: 1, word: 'Escape', work: 'Ado'},
+ , instances: 1, word: 'Escaped', work: 'Ado'},
+ , instances: 1, word: 'Especially', work: 'Ado'},
+ , instances: 1, word: 'Estates', work: 'Ado'},
+ , instances: 1, word: 'Esteemed', work: 'Ado'},
+ , instances: 1, word: 'Estridge', work: 'Ado'},
+ , instances: 1, word: 'Eternal', work: 'Ado'},
+ , instances: 1, word: 'Eternity', work: 'Ado'},
+ , instances: 1, word: 'Euphrates', work: 'Ado'},
+ , instances: 1, word: 'Everything', work: 'Ado'},
+ , instances: 1, word: 'Evidence', work: 'Ado'},
+ , instances: 1, word: 'Evils', work: 'Ado'},
+ , instances: 1, word: 'Exactly', work: 'Ado'},
+ , instances: 1, word: 'Example', work: 'Ado'},
+ , instances: 1, word: 'Exceed', work: 'Ado'},
+ , instances: 1, word: 'Exceeds', work: 'Ado'},
+ , instances: 1, word: 'Excusable', work: 'Ado'},
+ , instances: 1, word: 'Excuses', work: 'Ado'},
+ , instances: 1, word: 'Exercise', work: 'Ado'},
+ , instances: 1, word: 'Exigent', work: 'Ado'},
+ , instances: 1, word: 'Expectation', work: 'Ado'},
+ , instances: 1, word: 'Expedience', work: 'Ado'},
+ , instances: 1, word: 'Extemporally', work: 'Ado'},
+ , instances: 1, word: 'Extend', work: 'Ado'},
+ , instances: 1, word: 'Extended', work: 'Ado'},
+ , instances: 1, word: 'Extenuate', work: 'Ado'},
+ , instances: 1, word: 'External', work: 'Ado'},
+ , instances: 1, word: 'Eyne', work: 'Ado'},
+ , instances: 1, word: 'Faces', work: 'Ado'},
+ , instances: 1, word: 'Faction', work: 'Ado'},
+ , instances: 1, word: 'Factors', work: 'Ado'},
+ , instances: 1, word: 'Faint', work: 'Ado'},
+ , instances: 1, word: 'Fainted', work: 'Ado'},
+ , instances: 1, word: 'Faints', work: 'Ado'},
+ , instances: 1, word: 'Fairly', work: 'Ado'},
+ , instances: 1, word: 'Fairy', work: 'Ado'},
+ , instances: 1, word: 'Falliable', work: 'Ado'},
+ , instances: 1, word: 'Falling', work: 'Ado'},
+ , instances: 1, word: 'False-played', work: 'Ado'},
+ , instances: 1, word: 'Falsehood', work: 'Ado'},
+ , instances: 1, word: 'Familiar', work: 'Ado'},
+ , instances: 1, word: 'Fan', work: 'Ado'},
+ , instances: 1, word: 'Fans', work: 'Ado'},
+ , instances: 1, word: 'Farthest', work: 'Ado'},
+ , instances: 1, word: 'Far\'st', work: 'Ado'},
+ , instances: 1, word: 'Fashion', work: 'Ado'},
+ , instances: 1, word: 'Faster', work: 'Ado'},
+ , instances: 1, word: 'Fat', work: 'Ado'},
+ , instances: 1, word: 'Faultiness', work: 'Ado'},
+ , instances: 1, word: 'Favoring', work: 'Ado'},
+ , instances: 1, word: 'Favors', work: 'Ado'},
+ , instances: 1, word: 'Fearful', work: 'Ado'},
+ , instances: 1, word: 'Fearing', work: 'Ado'},
+ , instances: 1, word: 'Fears', work: 'Ado'},
+ , instances: 1, word: 'Feasted', work: 'Ado'},
+ , instances: 1, word: 'Feasting', work: 'Ado'},
+ , instances: 1, word: 'Feather', work: 'Ado'},
+ , instances: 1, word: 'Feats', work: 'Ado'},
+ , instances: 1, word: 'Feature', work: 'Ado'},
+ , instances: 1, word: 'Feeders', work: 'Ado'},
+ , instances: 1, word: 'Feeds', work: 'Ado'},
+ , instances: 1, word: 'Fellowship', work: 'Ado'},
+ , instances: 1, word: 'Fell\'st', work: 'Ado'},
+ , instances: 1, word: 'Fertile', work: 'Ado'},
+ , instances: 1, word: 'Fervency', work: 'Ado'},
+ , instances: 1, word: 'Fetters', work: 'Ado'},
+ , instances: 1, word: 'Fever', work: 'Ado'},
+ , instances: 1, word: 'Fierce', work: 'Ado'},
+ , instances: 1, word: 'Fiery', work: 'Ado'},
+ , instances: 1, word: 'Fifty', work: 'Ado'},
+ , instances: 1, word: 'Fiftyfold', work: 'Ado'},
+ , instances: 1, word: 'Fig', work: 'Ado'},
+ , instances: 1, word: 'Fighting', work: 'Ado'},
+ , instances: 1, word: 'Figures', work: 'Ado'},
+ , instances: 1, word: 'Filled', work: 'Ado'},
+ , instances: 1, word: 'Filth', work: 'Ado'},
+ , instances: 1, word: 'Finest', work: 'Ado'},
+ , instances: 1, word: 'Fires', work: 'Ado'},
+ , instances: 1, word: 'Fish', work: 'Ado'},
+ , instances: 1, word: 'Fits', work: 'Ado'},
+ , instances: 1, word: 'Fitting', work: 'Ado'},
+ , instances: 1, word: 'Five', work: 'Ado'},
+ , instances: 1, word: 'Flag', work: 'Ado'},
+ , instances: 1, word: 'Flags', work: 'Ado'},
+ , instances: 1, word: 'Flatter', work: 'Ado'},
+ , instances: 1, word: 'Flatters', work: 'Ado'},
+ , instances: 1, word: 'Flaw', work: 'Ado'},
+ , instances: 1, word: 'Flight', work: 'Ado'},
+ , instances: 1, word: 'Flint', work: 'Ado'},
+ , instances: 1, word: 'Flow', work: 'Ado'},
+ , instances: 1, word: 'Flower-soft', work: 'Ado'},
+ , instances: 1, word: 'Flowers', work: 'Ado'},
+ , instances: 1, word: 'Flows', work: 'Ado'},
+ , instances: 1, word: 'Flush', work: 'Ado'},
+ , instances: 1, word: 'Flying', work: 'Ado'},
+ , instances: 1, word: 'Foams', work: 'Ado'},
+ , instances: 1, word: 'Foe', work: 'Ado'},
+ , instances: 1, word: 'Foils', work: 'Ado'},
+ , instances: 1, word: 'Foison', work: 'Ado'},
+ , instances: 1, word: 'Following', work: 'Ado'},
+ , instances: 1, word: 'Foolish', work: 'Ado'},
+ , instances: 1, word: 'Footmen', work: 'Ado'},
+ , instances: 1, word: 'Forborne', work: 'Ado'},
+ , instances: 1, word: 'Forehead', work: 'Ado'},
+ , instances: 1, word: 'Forenoon', work: 'Ado'},
+ , instances: 1, word: 'Forgo', work: 'Ado'},
+ , instances: 1, word: 'Forgot', work: 'Ado'},
+ , instances: 1, word: 'Forgotten', work: 'Ado'},
+ , instances: 1, word: 'Forkèd', work: 'Ado'},
+ , instances: 1, word: 'Formal', work: 'Ado'},
+ , instances: 1, word: 'Formerly', work: 'Ado'},
+ , instances: 1, word: 'Forms', work: 'Ado'},
+ , instances: 1, word: 'Forsake', work: 'Ado'},
+ , instances: 1, word: 'Forsooth', work: 'Ado'},
+ , instances: 1, word: 'Forspoke', work: 'Ado'},
+ , instances: 1, word: 'Fortress', work: 'Ado'},
+ , instances: 1, word: 'Fortunate', work: 'Ado'},
+ , instances: 1, word: 'Forty', work: 'Ado'},
+ , instances: 1, word: 'Fought\'st', work: 'Ado'},
+ , instances: 1, word: 'Fouler', work: 'Ado'},
+ , instances: 1, word: 'Foul\'st', work: 'Ado'},
+ , instances: 1, word: 'Fragment', work: 'Ado'},
+ , instances: 1, word: 'Frail', work: 'Ado'},
+ , instances: 1, word: 'Frailties', work: 'Ado'},
+ , instances: 1, word: 'Freer', work: 'Ado'},
+ , instances: 1, word: 'Frets', work: 'Ado'},
+ , instances: 1, word: 'Fretted', work: 'Ado'},
+ , instances: 1, word: 'Friendly', work: 'Ado'},
+ , instances: 1, word: 'Fronted', work: 'Ado'},
+ , instances: 1, word: 'Frowns', work: 'Ado'},
+ , instances: 1, word: 'Frustrate', work: 'Ado'},
+ , instances: 1, word: 'Full-fortuned', work: 'Ado'},
+ , instances: 1, word: 'Full-manned', work: 'Ado'},
+ , instances: 1, word: 'Fullest', work: 'Ado'},
+ , instances: 1, word: 'Fumblest', work: 'Ado'},
+ , instances: 1, word: 'Fuming', work: 'Ado'},
+ , instances: 1, word: 'Funeral', work: 'Ado'},
+ , instances: 1, word: 'Furious', work: 'Ado'},
+ , instances: 1, word: 'Furnished', work: 'Ado'},
+ , instances: 1, word: 'Gain', work: 'Ado'},
+ , instances: 1, word: 'Gained', work: 'Ado'},
+ , instances: 1, word: 'Gait', work: 'Ado'},
+ , instances: 1, word: 'Gallantly', work: 'Ado'},
+ , instances: 1, word: 'Galley', work: 'Ado'},
+ , instances: 1, word: 'Galleys', work: 'Ado'},
+ , instances: 1, word: 'Gallus', work: 'Ado'},
+ , instances: 1, word: 'Game', work: 'Ado'},
+ , instances: 1, word: 'Garden', work: 'Ado'},
+ , instances: 1, word: 'Garland', work: 'Ado'},
+ , instances: 1, word: 'Gashes', work: 'Ado'},
+ , instances: 1, word: 'Gaudy', work: 'Ado'},
+ , instances: 1, word: 'Gay', work: 'Ado'},
+ , instances: 1, word: 'Gazing', work: 'Ado'},
+ , instances: 1, word: 'Gem', work: 'Ado'},
+ , instances: 1, word: 'Generals', work: 'Ado'},
+ , instances: 1, word: 'General\'s', work: 'Ado'},
+ , instances: 1, word: 'Gentlewomen', work: 'Ado'},
+ , instances: 1, word: 'Gests', work: 'Ado'},
+ , instances: 1, word: 'Gets', work: 'Ado'},
+ , instances: 1, word: 'Getting', work: 'Ado'},
+ , instances: 1, word: 'Ghosted', work: 'Ado'},
+ , instances: 1, word: 'Ghosts', work: 'Ado'},
+ , instances: 1, word: 'Gibbet', work: 'Ado'},
+ , instances: 1, word: 'Gibe', work: 'Ado'},
+ , instances: 1, word: 'Gift', work: 'Ado'},
+ , instances: 1, word: 'Girl', work: 'Ado'},
+ , instances: 1, word: 'Glad', work: 'Ado'},
+ , instances: 1, word: 'Gladly', work: 'Ado'},
+ , instances: 1, word: 'Gladness', work: 'Ado'},
+ , instances: 1, word: 'Glow', work: 'Ado'},
+ , instances: 1, word: 'Glowed', work: 'Ado'},
+ , instances: 1, word: 'Gnats', work: 'Ado'},
+ , instances: 1, word: 'Gneius', work: 'Ado'},
+ , instances: 1, word: 'Goddesses', work: 'Ado'},
+ , instances: 1, word: 'Goest', work: 'Ado'},
+ , instances: 1, word: 'Golden', work: 'Ado'},
+ , instances: 1, word: 'Gorgon', work: 'Ado'},
+ , instances: 1, word: 'Graceful', work: 'Ado'},
+ , instances: 1, word: 'Graces', work: 'Ado'},
+ , instances: 1, word: 'Grain', work: 'Ado'},
+ , instances: 1, word: 'Grants', work: 'Ado'},
+ , instances: 1, word: 'Grape', work: 'Ado'},
+ , instances: 1, word: 'Grapes', work: 'Ado'},
+ , instances: 1, word: 'Grasped', work: 'Ado'},
+ , instances: 1, word: 'Grates', work: 'Ado'},
+ , instances: 1, word: 'Graveless', work: 'Ado'},
+ , instances: 1, word: 'Graver', work: 'Ado'},
+ , instances: 1, word: 'Gray', work: 'Ado'},
+ , instances: 1, word: 'Greasy', work: 'Ado'},
+ , instances: 1, word: 'Greatly', work: 'Ado'},
+ , instances: 1, word: 'Greensickness', work: 'Ado'},
+ , instances: 1, word: 'Greetings', work: 'Ado'},
+ , instances: 1, word: 'Griefs', work: 'Ado'},
+ , instances: 1, word: 'Grieving', work: 'Ado'},
+ , instances: 1, word: 'Grievèd', work: 'Ado'},
+ , instances: 1, word: 'Grimly', work: 'Ado'},
+ , instances: 1, word: 'Grind', work: 'Ado'},
+ , instances: 1, word: 'Grizzled', work: 'Ado'},
+ , instances: 1, word: 'Groan', work: 'Ado'},
+ , instances: 1, word: 'Gross', work: 'Ado'},
+ , instances: 1, word: 'Grossly', work: 'Ado'},
+ , instances: 1, word: 'Ground', work: 'Ado'},
+ , instances: 1, word: 'Guides', work: 'Ado'},
+ , instances: 1, word: 'Gypsy', work: 'Ado'},
+ , instances: 1, word: 'Gypsy\'s', work: 'Ado'},
+ , instances: 1, word: 'H', work: 'Ado'},
+ , instances: 1, word: 'Habiliments', work: 'Ado'},
+ , instances: 1, word: 'Hacked', work: 'Ado'},
+ , instances: 1, word: 'Had\'st', work: 'Ado'},
+ , instances: 1, word: 'Half-tales', work: 'Ado'},
+ , instances: 1, word: 'Halt', work: 'Ado'},
+ , instances: 1, word: 'Haltered', work: 'Ado'},
+ , instances: 1, word: 'Hammers', work: 'Ado'},
+ , instances: 1, word: 'Handsome', work: 'Ado'},
+ , instances: 1, word: 'Hangman', work: 'Ado'},
+ , instances: 1, word: 'Hap', work: 'Ado'},
+ , instances: 1, word: 'Happily', work: 'Ado'},
+ , instances: 1, word: 'Happiness', work: 'Ado'},
+ , instances: 1, word: 'Harbor', work: 'Ado'},
+ , instances: 1, word: 'Hardness', work: 'Ado'},
+ , instances: 1, word: 'Hares', work: 'Ado'},
+ , instances: 1, word: 'Harm', work: 'Ado'},
+ , instances: 1, word: 'Harness', work: 'Ado'},
+ , instances: 1, word: 'Harping', work: 'Ado'},
+ , instances: 1, word: 'Harried', work: 'Ado'},
+ , instances: 1, word: 'Harvest', work: 'Ado'},
+ , instances: 1, word: 'Hasten', work: 'Ado'},
+ , instances: 1, word: 'Hatch', work: 'Ado'},
+ , instances: 1, word: 'Hateful', work: 'Ado'},
+ , instances: 1, word: 'Haters', work: 'Ado'},
+ , instances: 1, word: 'Haunt', work: 'Ado'},
+ , instances: 1, word: 'Haven', work: 'Ado'},
+ , instances: 1, word: 'Hazard', work: 'Ado'},
+ , instances: 1, word: 'Hazarded', work: 'Ado'},
+ , instances: 1, word: 'Head\'s', work: 'Ado'},
+ , instances: 1, word: 'Healing', work: 'Ado'},
+ , instances: 1, word: 'Healthful', work: 'Ado'},
+ , instances: 1, word: 'Hears', work: 'Ado'},
+ , instances: 1, word: 'Heartbreaking', work: 'Ado'},
+ , instances: 1, word: 'Hearty', work: 'Ado'},
+ , instances: 1, word: 'Heave', work: 'Ado'},
+ , instances: 1, word: 'Heavenly', work: 'Ado'},
+ , instances: 1, word: 'Heaviest', work: 'Ado'},
+ , instances: 1, word: 'Heaviness', work: 'Ado'},
+ , instances: 1, word: 'Hectors', work: 'Ado'},
+ , instances: 1, word: 'Hedge', work: 'Ado'},
+ , instances: 1, word: 'Heed', work: 'Ado'},
+ , instances: 1, word: 'Heeded', work: 'Ado'},
+ , instances: 1, word: 'Heirs', work: 'Ado'},
+ , instances: 1, word: 'Hell', work: 'Ado'},
+ , instances: 1, word: 'Helmet', work: 'Ado'},
+ , instances: 1, word: 'Herculean', work: 'Ado'},
+ , instances: 1, word: 'Herd', work: 'Ado'},
+ , instances: 1, word: 'Hereafter', work: 'Ado'},
+ , instances: 1, word: 'Hereditary', work: 'Ado'},
+ , instances: 1, word: 'Herod\'s', work: 'Ado'},
+ , instances: 1, word: 'Herself', work: 'Ado'},
+ , instances: 1, word: 'Hid', work: 'Ado'},
+ , instances: 1, word: 'High-battled', work: 'Ado'},
+ , instances: 1, word: 'High-colored', work: 'Ado'},
+ , instances: 1, word: 'Highness', work: 'Ado'},
+ , instances: 1, word: 'Hills', work: 'Ado'},
+ , instances: 1, word: 'Hinder', work: 'Ado'},
+ , instances: 1, word: 'Hipparchus', work: 'Ado'},
+ , instances: 1, word: 'Hired', work: 'Ado'},
+ , instances: 1, word: 'Hirsius', work: 'Ado'},
+ , instances: 1, word: 'Hirèd', work: 'Ado'},
+ , instances: 1, word: 'Hits', work: 'Ado'},
+ , instances: 1, word: 'Hoists', work: 'Ado'},
+ , instances: 1, word: 'Holding', work: 'Ado'},
+ , instances: 1, word: 'Holds', work: 'Ado'},
+ , instances: 1, word: 'Holes', work: 'Ado'},
+ , instances: 1, word: 'Homage', work: 'Ado'},
+ , instances: 1, word: 'Homager', work: 'Ado'},
+ , instances: 1, word: 'Honored', work: 'Ado'},
+ , instances: 1, word: 'Honors', work: 'Ado'},
+ , instances: 1, word: 'Hoop', work: 'Ado'},
+ , instances: 1, word: 'Hop', work: 'Ado'},
+ , instances: 1, word: 'Hornèd', work: 'Ado'},
+ , instances: 1, word: 'Horrible', work: 'Ado'},
+ , instances: 1, word: 'Horses', work: 'Ado'},
+ , instances: 1, word: 'Hostages', work: 'Ado'},
+ , instances: 1, word: 'Hotter', work: 'Ado'},
+ , instances: 1, word: 'Hourly', work: 'Ado'},
+ , instances: 1, word: 'Household', work: 'Ado'},
+ , instances: 1, word: 'Humanity', work: 'Ado'},
+ , instances: 1, word: 'Humble', work: 'Ado'},
+ , instances: 1, word: 'Hungry', work: 'Ado'},
+ , instances: 1, word: 'Hunted', work: 'Ado'},
+ , instances: 1, word: 'Hurl', work: 'Ado'},
+ , instances: 1, word: 'Hurt', work: 'Ado'},
+ , instances: 1, word: 'Hurts', work: 'Ado'},
+ , instances: 1, word: 'Huswife', work: 'Ado'},
+ , instances: 1, word: 'Idle', work: 'Ado'},
+ , instances: 1, word: 'Ignorance', work: 'Ado'},
+ , instances: 1, word: 'Ill-rooted', work: 'Ado'},
+ , instances: 1, word: 'Ill-uttering', work: 'Ado'},
+ , instances: 1, word: 'Imagine', work: 'Ado'},
+ , instances: 1, word: 'Immoment', work: 'Ado'},
+ , instances: 1, word: 'Impediment', work: 'Ado'},
+ , instances: 1, word: 'Imperious', work: 'Ado'},
+ , instances: 1, word: 'Importeth', work: 'Ado'},
+ , instances: 1, word: 'Importune', work: 'Ado'},
+ , instances: 1, word: 'Impress', work: 'Ado'},
+ , instances: 1, word: 'Inches', work: 'Ado'},
+ , instances: 1, word: 'Inclination', work: 'Ado'},
+ , instances: 1, word: 'Incline', work: 'Ado'},
+ , instances: 1, word: 'Inclines', work: 'Ado'},
+ , instances: 1, word: 'Inclips', work: 'Ado'},
+ , instances: 1, word: 'Increase', work: 'Ado'},
+ , instances: 1, word: 'Increasing', work: 'Ado'},
+ , instances: 1, word: 'Indistinct', work: 'Ado'},
+ , instances: 1, word: 'Induce', work: 'Ado'},
+ , instances: 1, word: 'Indulgent', work: 'Ado'},
+ , instances: 1, word: 'Inevitable', work: 'Ado'},
+ , instances: 1, word: 'Infamous', work: 'Ado'},
+ , instances: 1, word: 'Infectious', work: 'Ado'},
+ , instances: 1, word: 'Infects', work: 'Ado'},
+ , instances: 1, word: 'Informed', work: 'Ado'},
+ , instances: 1, word: 'Inhooped', work: 'Ado'},
+ , instances: 1, word: 'Injuries', work: 'Ado'},
+ , instances: 1, word: 'Injurious', work: 'Ado'},
+ , instances: 1, word: 'Innocent', work: 'Ado'},
+ , instances: 1, word: 'Innocents', work: 'Ado'},
+ , instances: 1, word: 'Inquire', work: 'Ado'},
+ , instances: 1, word: 'Inroads', work: 'Ado'},
+ , instances: 1, word: 'Insolence', work: 'Ado'},
+ , instances: 1, word: 'Instant', work: 'Ado'},
+ , instances: 1, word: 'Instantly', work: 'Ado'},
+ , instances: 1, word: 'Instructed', work: 'Ado'},
+ , instances: 1, word: 'Instrument', work: 'Ado'},
+ , instances: 1, word: 'Intends', work: 'Ado'},
+ , instances: 1, word: 'Intent', work: 'Ado'},
+ , instances: 1, word: 'Intrinsicate', work: 'Ado'},
+ , instances: 1, word: 'Invention', work: 'Ado'},
+ , instances: 1, word: 'Invisible', work: 'Ado'},
+ , instances: 1, word: 'Invited', work: 'Ado'},
+ , instances: 1, word: 'Inward', work: 'Ado'},
+ , instances: 1, word: 'Ionia', work: 'Ado'},
+ , instances: 1, word: 'Ionian', work: 'Ado'},
+ , instances: 1, word: 'Iron', work: 'Ado'},
+ , instances: 1, word: 'Islands', work: 'Ado'},
+ , instances: 1, word: 'Isle', work: 'Ado'},
+ , instances: 1, word: 'Itch', work: 'Ado'},
+ , instances: 1, word: 'Jaded', work: 'Ado'},
+ , instances: 1, word: 'Jailer', work: 'Ado'},
+ , instances: 1, word: 'Jaws', work: 'Ado'},
+ , instances: 1, word: 'Jealousies', work: 'Ado'},
+ , instances: 1, word: 'Jests', work: 'Ado'},
+ , instances: 1, word: 'Jewel', work: 'Ado'},
+ , instances: 1, word: 'Jewels', work: 'Ado'},
+ , instances: 1, word: 'Joined', work: 'Ado'},
+ , instances: 1, word: 'Jointing', work: 'Ado'},
+ , instances: 1, word: 'Jot', work: 'Ado'},
+ , instances: 1, word: 'Jove\'s', work: 'Ado'},
+ , instances: 1, word: 'Joyful', work: 'Ado'},
+ , instances: 1, word: 'Juice', work: 'Ado'},
+ , instances: 1, word: 'Jump', work: 'Ado'},
+ , instances: 1, word: 'June', work: 'Ado'},
+ , instances: 1, word: 'Juno', work: 'Ado'},
+ , instances: 1, word: 'Juno\'s', work: 'Ado'},
+ , instances: 1, word: 'Justeius', work: 'Ado'},
+ , instances: 1, word: 'Justest', work: 'Ado'},
+ , instances: 1, word: 'Keels', work: 'Ado'},
+ , instances: 1, word: 'Keeping', work: 'Ado'},
+ , instances: 1, word: 'Keeps', work: 'Ado'},
+ , instances: 1, word: 'Kills', work: 'Ado'},
+ , instances: 1, word: 'Kill\'st', work: 'Ado'},
+ , instances: 1, word: 'Kindle', work: 'Ado'},
+ , instances: 1, word: 'Kindness', work: 'Ado'},
+ , instances: 1, word: 'Kingly', work: 'Ado'},
+ , instances: 1, word: 'Kite', work: 'Ado'},
+ , instances: 1, word: 'Knaves', work: 'Ado'},
+ , instances: 1, word: 'Knee', work: 'Ado'},
+ , instances: 1, word: 'Know\'st', work: 'Ado'},
+ , instances: 1, word: 'La', work: 'Ado'},
+ , instances: 1, word: 'Labienus', work: 'Ado'},
+ , instances: 1, word: 'Laboring', work: 'Ado'},
+ , instances: 1, word: 'Lace', work: 'Ado'},
+ , instances: 1, word: 'Lackeying', work: 'Ado'},
+ , instances: 1, word: 'Lads', work: 'Ado'},
+ , instances: 1, word: 'Laid', work: 'Ado'},
+ , instances: 1, word: 'Lamentably', work: 'Ado'},
+ , instances: 1, word: 'Lamp', work: 'Ado'},
+ , instances: 1, word: 'Lamps', work: 'Ado'},
+ , instances: 1, word: 'Lance', work: 'Ado'},
+ , instances: 1, word: 'Landing', work: 'Ado'},
+ , instances: 1, word: 'Landlord', work: 'Ado'},
+ , instances: 1, word: 'Landmen', work: 'Ado'},
+ , instances: 1, word: 'Languish', work: 'Ado'},
+ , instances: 1, word: 'Lanked', work: 'Ado'},
+ , instances: 1, word: 'Lap', work: 'Ado'},
+ , instances: 1, word: 'Large', work: 'Ado'},
+ , instances: 1, word: 'Lascivious', work: 'Ado'},
+ , instances: 1, word: 'Lass', work: 'Ado'},
+ , instances: 1, word: 'Lastly', work: 'Ado'},
+ , instances: 1, word: 'Lated', work: 'Ado'},
+ , instances: 1, word: 'Latter', work: 'Ado'},
+ , instances: 1, word: 'Laughing', work: 'Ado'},
+ , instances: 1, word: 'Laurel', work: 'Ado'},
+ , instances: 1, word: 'Law', work: 'Ado'},
+ , instances: 1, word: 'Lawful', work: 'Ado'},
+ , instances: 1, word: 'Laying', work: 'Ado'},
+ , instances: 1, word: 'Leader\'s', work: 'Ado'},
+ , instances: 1, word: 'Leaf', work: 'Ado'},
+ , instances: 1, word: 'Leaky', work: 'Ado'},
+ , instances: 1, word: 'Leaner', work: 'Ado'},
+ , instances: 1, word: 'Learned', work: 'Ado'},
+ , instances: 1, word: 'Learning', work: 'Ado'},
+ , instances: 1, word: 'Leave-taking', work: 'Ado'},
+ , instances: 1, word: 'Leaving', work: 'Ado'},
+ , instances: 1, word: 'Legs', work: 'Ado'},
+ , instances: 1, word: 'Leisure', work: 'Ado'},
+ , instances: 1, word: 'Leprosy', work: 'Ado'},
+ , instances: 1, word: 'Lessens', work: 'Ado'},
+ , instances: 1, word: 'Lesser', work: 'Ado'},
+ , instances: 1, word: 'Lethe', work: 'Ado'},
+ , instances: 1, word: 'Lethe\'d', work: 'Ado'},
+ , instances: 1, word: 'Level', work: 'Ado'},
+ , instances: 1, word: 'Leveled', work: 'Ado'},
+ , instances: 1, word: 'Levying', work: 'Ado'},
+ , instances: 1, word: 'Liberal', work: 'Ado'},
+ , instances: 1, word: 'Libertine', work: 'Ado'},
+ , instances: 1, word: 'Liberty', work: 'Ado'},
+ , instances: 1, word: 'Libya', work: 'Ado'},
+ , instances: 1, word: 'License', work: 'Ado'},
+ , instances: 1, word: 'Lichas', work: 'Ado'},
+ , instances: 1, word: 'Lictors', work: 'Ado'},
+ , instances: 1, word: 'Lief', work: 'Ado'},
+ , instances: 1, word: 'Lieutenantry', work: 'Ado'},
+ , instances: 1, word: 'Lighted', work: 'Ado'},
+ , instances: 1, word: 'Lightly', work: 'Ado'},
+ , instances: 1, word: 'Lightness', work: 'Ado'},
+ , instances: 1, word: 'Lightning', work: 'Ado'},
+ , instances: 1, word: 'Ling\'ring', work: 'Ado'},
+ , instances: 1, word: 'Linked', work: 'Ado'},
+ , instances: 1, word: 'Lion', work: 'Ado'},
+ , instances: 1, word: 'Lions', work: 'Ado'},
+ , instances: 1, word: 'Lion\'s', work: 'Ado'},
+ , instances: 1, word: 'Lipped', work: 'Ado'},
+ , instances: 1, word: 'Liver', work: 'Ado'},
+ , instances: 1, word: 'Livery', work: 'Ado'},
+ , instances: 1, word: 'Livia', work: 'Ado'},
+ , instances: 1, word: 'Loath', work: 'Ado'},
+ , instances: 1, word: 'Loathness', work: 'Ado'},
+ , instances: 1, word: 'Lock', work: 'Ado'},
+ , instances: 1, word: 'Locked', work: 'Ado'},
+ , instances: 1, word: 'Lodge', work: 'Ado'},
+ , instances: 1, word: 'Longing', work: 'Ado'},
+ , instances: 1, word: 'Longings', work: 'Ado'},
+ , instances: 1, word: 'Loofed', work: 'Ado'},
+ , instances: 1, word: 'Looked\'st', work: 'Ado'},
+ , instances: 1, word: 'Look\'st', work: 'Ado'},
+ , instances: 1, word: 'Loose', work: 'Ado'},
+ , instances: 1, word: 'Loose-wived', work: 'Ado'},
+ , instances: 1, word: 'Lordliness', work: 'Ado'},
+ , instances: 1, word: 'Loses', work: 'Ado'},
+ , instances: 1, word: 'Losing', work: 'Ado'},
+ , instances: 1, word: 'Lot', work: 'Ado'},
+ , instances: 1, word: 'Lottery', work: 'Ado'},
+ , instances: 1, word: 'Lovesick', work: 'Ado'},
+ , instances: 1, word: 'Love\'s', work: 'Ado'},
+ , instances: 1, word: 'Loving', work: 'Ado'},
+ , instances: 1, word: 'Low-voiced', work: 'Ado'},
+ , instances: 1, word: 'Lowering', work: 'Ado'},
+ , instances: 1, word: 'Loyalty', work: 'Ado'},
+ , instances: 1, word: 'Lucius', work: 'Ado'},
+ , instances: 1, word: 'Lucky', work: 'Ado'},
+ , instances: 1, word: 'Lust-wearied', work: 'Ado'},
+ , instances: 1, word: 'Luster', work: 'Ado'},
+ , instances: 1, word: 'Luxuriously', work: 'Ado'},
+ , instances: 1, word: 'Lycaonia', work: 'Ado'},
+ , instances: 1, word: 'Madness', work: 'Ado'},
+ , instances: 1, word: 'Magic', work: 'Ado'},
+ , instances: 1, word: 'Magical', work: 'Ado'},
+ , instances: 1, word: 'Maid', work: 'Ado'},
+ , instances: 1, word: 'Maids', work: 'Ado'},
+ , instances: 1, word: 'Main', work: 'Ado'},
+ , instances: 1, word: 'Malefactor', work: 'Ado'},
+ , instances: 1, word: 'Malice', work: 'Ado'},
+ , instances: 1, word: 'Maliciously', work: 'Ado'},
+ , instances: 1, word: 'Mallard', work: 'Ado'},
+ , instances: 1, word: 'Manage', work: 'Ado'},
+ , instances: 1, word: 'Manchus', work: 'Ado'},
+ , instances: 1, word: 'Mandate', work: 'Ado'},
+ , instances: 1, word: 'Mandragora', work: 'Ado'},
+ , instances: 1, word: 'Mangled', work: 'Ado'},
+ , instances: 1, word: 'Manhood', work: 'Ado'},
+ , instances: 1, word: 'Mankind', work: 'Ado'},
+ , instances: 1, word: 'Manlike', work: 'Ado'},
+ , instances: 1, word: 'Manned', work: 'Ado'},
+ , instances: 1, word: 'Mantles', work: 'Ado'},
+ , instances: 1, word: 'Mar', work: 'Ado'},
+ , instances: 1, word: 'Marble-constant', work: 'Ado'},
+ , instances: 1, word: 'Marcellus', work: 'Ado'},
+ , instances: 1, word: 'March', work: 'Ado'},
+ , instances: 1, word: 'Mariners', work: 'Ado'},
+ , instances: 1, word: 'Maritime', work: 'Ado'},
+ , instances: 1, word: 'Market-maid', work: 'Ado'},
+ , instances: 1, word: 'Market-place', work: 'Ado'},
+ , instances: 1, word: 'Marketplace', work: 'Ado'},
+ , instances: 1, word: 'Marring', work: 'Ado'},
+ , instances: 1, word: 'Master-leaver', work: 'Ado'},
+ , instances: 1, word: 'Match', work: 'Ado'},
+ , instances: 1, word: 'Mate', work: 'Ado'},
+ , instances: 1, word: 'Mattress', work: 'Ado'},
+ , instances: 1, word: 'Mature', work: 'Ado'},
+ , instances: 1, word: 'Maul', work: 'Ado'},
+ , instances: 1, word: 'Mayst', work: 'Ado'},
+ , instances: 1, word: 'Meal', work: 'Ado'},
+ , instances: 1, word: 'Meaner', work: 'Ado'},
+ , instances: 1, word: 'Meanest', work: 'Ado'},
+ , instances: 1, word: 'Meanings', work: 'Ado'},
+ , instances: 1, word: 'Mean\'st', work: 'Ado'},
+ , instances: 1, word: 'Meat', work: 'Ado'},
+ , instances: 1, word: 'Mede', work: 'Ado'},
+ , instances: 1, word: 'Mediation', work: 'Ado'},
+ , instances: 1, word: 'Med\'cine', work: 'Ado'},
+ , instances: 1, word: 'Meek', work: 'Ado'},
+ , instances: 1, word: 'Meeter', work: 'Ado'},
+ , instances: 1, word: 'Meetly', work: 'Ado'},
+ , instances: 1, word: 'Melancholy', work: 'Ado'},
+ , instances: 1, word: 'Melts', work: 'Ado'},
+ , instances: 1, word: 'Members', work: 'Ado'},
+ , instances: 1, word: 'Mends', work: 'Ado'},
+ , instances: 1, word: 'Menecrates', work: 'Ado'},
+ , instances: 1, word: 'Merchandise', work: 'Ado'},
+ , instances: 1, word: 'Merchant', work: 'Ado'},
+ , instances: 1, word: 'Merchants', work: 'Ado'},
+ , instances: 1, word: 'Mercury', work: 'Ado'},
+ , instances: 1, word: 'Mere', work: 'Ado'},
+ , instances: 1, word: 'Merit', work: 'Ado'},
+ , instances: 1, word: 'Merits', work: 'Ado'},
+ , instances: 1, word: 'Mermaid', work: 'Ado'},
+ , instances: 1, word: 'Mermaids', work: 'Ado'},
+ , instances: 1, word: 'Merèd', work: 'Ado'},
+ , instances: 1, word: 'Mesopotamia', work: 'Ado'},
+ , instances: 1, word: 'Message', work: 'Ado'},
+ , instances: 1, word: 'Method', work: 'Ado'},
+ , instances: 1, word: 'Mettle', work: 'Ado'},
+ , instances: 1, word: 'Met\'st', work: 'Ado'},
+ , instances: 1, word: 'Midnight', work: 'Ado'},
+ , instances: 1, word: 'Midway', work: 'Ado'},
+ , instances: 1, word: 'Mightily', work: 'Ado'},
+ , instances: 1, word: 'Mighty', work: 'Ado'},
+ , instances: 1, word: 'Milks', work: 'Ado'},
+ , instances: 1, word: 'Mince', work: 'Ado'},
+ , instances: 1, word: 'Mingled', work: 'Ado'},
+ , instances: 1, word: 'Mirror\'s', work: 'Ado'},
+ , instances: 1, word: 'Misdoubt', work: 'Ado'},
+ , instances: 1, word: 'Misena', work: 'Ado'},
+ , instances: 1, word: 'Miserable', work: 'Ado'},
+ , instances: 1, word: 'Misery', work: 'Ado'},
+ , instances: 1, word: 'Mislike', work: 'Ado'},
+ , instances: 1, word: 'Missive', work: 'Ado'},
+ , instances: 1, word: 'Mistake', work: 'Ado'},
+ , instances: 1, word: 'Misthought', work: 'Ado'},
+ , instances: 1, word: 'Mithridates', work: 'Ado'},
+ , instances: 1, word: 'Mocks', work: 'Ado'},
+ , instances: 1, word: 'Modena', work: 'Ado'},
+ , instances: 1, word: 'Modern', work: 'Ado'},
+ , instances: 1, word: 'Modest', work: 'Ado'},
+ , instances: 1, word: 'Moiety', work: 'Ado'},
+ , instances: 1, word: 'Moist', work: 'Ado'},
+ , instances: 1, word: 'Moment', work: 'Ado'},
+ , instances: 1, word: 'Monster-like', work: 'Ado'},
+ , instances: 1, word: 'Mood', work: 'Ado'},
+ , instances: 1, word: 'Moody', work: 'Ado'},
+ , instances: 1, word: 'Moons', work: 'Ado'},
+ , instances: 1, word: 'Morn-dew', work: 'Ado'},
+ , instances: 1, word: 'Mother', work: 'Ado'},
+ , instances: 1, word: 'Mother\'s', work: 'Ado'},
+ , instances: 1, word: 'Motive', work: 'Ado'},
+ , instances: 1, word: 'Mountain', work: 'Ado'},
+ , instances: 1, word: 'Mouth-made', work: 'Ado'},
+ , instances: 1, word: 'Moving', work: 'Ado'},
+ , instances: 1, word: 'Mules', work: 'Ado'},
+ , instances: 1, word: 'Muleteers', work: 'Ado'},
+ , instances: 1, word: 'Murder', work: 'Ado'},
+ , instances: 1, word: 'Murdered', work: 'Ado'},
+ , instances: 1, word: 'Murmuring', work: 'Ado'},
+ , instances: 1, word: 'Mused', work: 'Ado'},
+ , instances: 1, word: 'Muss', work: 'Ado'},
+ , instances: 1, word: 'Musters', work: 'Ado'},
+ , instances: 1, word: 'Mutiny', work: 'Ado'},
+ , instances: 1, word: 'Mutual', work: 'Ado'},
+ , instances: 1, word: 'Myrtle', work: 'Ado'},
+ , instances: 1, word: 'Nag', work: 'Ado'},
+ , instances: 1, word: 'Naked', work: 'Ado'},
+ , instances: 1, word: 'Names', work: 'Ado'},
+ , instances: 1, word: 'Narcissus', work: 'Ado'},
+ , instances: 1, word: 'Narrow', work: 'Ado'},
+ , instances: 1, word: 'Navy\'s', work: 'Ado'},
+ , instances: 1, word: 'Nearly', work: 'Ado'},
+ , instances: 1, word: 'Necessary', work: 'Ado'},
+ , instances: 1, word: 'Necessities', work: 'Ado'},
+ , instances: 1, word: 'Neglected', work: 'Ado'},
+ , instances: 1, word: 'Neighed', work: 'Ado'},
+ , instances: 1, word: 'Neighs', work: 'Ado'},
+ , instances: 1, word: 'Neptune', work: 'Ado'},
+ , instances: 1, word: 'Neptune\'s', work: 'Ado'},
+ , instances: 1, word: 'Nereides', work: 'Ado'},
+ , instances: 1, word: 'Nerves', work: 'Ado'},
+ , instances: 1, word: 'Nessus', work: 'Ado'},
+ , instances: 1, word: 'Nests', work: 'Ado'},
+ , instances: 1, word: 'Ne\'er-touched', work: 'Ado'},
+ , instances: 1, word: 'Ne\'er-yet-beaten', work: 'Ado'},
+ , instances: 1, word: 'Nice', work: 'Ado'},
+ , instances: 1, word: 'Nicked', work: 'Ado'},
+ , instances: 1, word: 'Nightingale', work: 'Ado'},
+ , instances: 1, word: 'Night\'s', work: 'Ado'},
+ , instances: 1, word: 'Nineteen', work: 'Ado'},
+ , instances: 1, word: 'Ninth', work: 'Ado'},
+ , instances: 1, word: 'Nobility', work: 'Ado'},
+ , instances: 1, word: 'Nod', work: 'Ado'},
+ , instances: 1, word: 'Noises', work: 'Ado'},
+ , instances: 1, word: 'Nonpareil', work: 'Ado'},
+ , instances: 1, word: 'Noon', work: 'Ado'},
+ , instances: 1, word: 'Notice', work: 'Ado'},
+ , instances: 1, word: 'Noting', work: 'Ado'},
+ , instances: 1, word: 'Nourishes', work: 'Ado'},
+ , instances: 1, word: 'Nourisheth', work: 'Ado'},
+ , instances: 1, word: 'Novice', work: 'Ado'},
+ , instances: 1, word: 'Numbers', work: 'Ado'},
+ , instances: 1, word: 'Oars', work: 'Ado'},
+ , instances: 1, word: 'Obedience', work: 'Ado'},
+ , instances: 1, word: 'Obeyed', work: 'Ado'},
+ , instances: 1, word: 'Oblivion', work: 'Ado'},
+ , instances: 1, word: 'Observance', work: 'Ado'},
+ , instances: 1, word: 'Observe', work: 'Ado'},
+ , instances: 1, word: 'Occupation', work: 'Ado'},
+ , instances: 1, word: 'Offered', work: 'Ado'},
+ , instances: 1, word: 'Officers', work: 'Ado'},
+ , instances: 1, word: 'Oh', work: 'Ado'},
+ , instances: 1, word: 'Oily', work: 'Ado'},
+ , instances: 1, word: 'Olive', work: 'Ado'},
+ , instances: 1, word: 'Onion', work: 'Ado'},
+ , instances: 1, word: 'Onion-eyed', work: 'Ado'},
+ , instances: 1, word: 'Ooze', work: 'Ado'},
+ , instances: 1, word: 'Opinion', work: 'Ado'},
+ , instances: 1, word: 'Oppose', work: 'Ado'},
+ , instances: 1, word: 'Opposed', work: 'Ado'},
+ , instances: 1, word: 'Opposite', work: 'Ado'},
+ , instances: 1, word: 'Oppression', work: 'Ado'},
+ , instances: 1, word: 'Opulent', work: 'Ado'},
+ , instances: 1, word: 'Orb', work: 'Ado'},
+ , instances: 1, word: 'Orbs', work: 'Ado'},
+ , instances: 1, word: 'Ordinary', work: 'Ado'},
+ , instances: 1, word: 'Organs', work: 'Ado'},
+ , instances: 1, word: 'Orient', work: 'Ado'},
+ , instances: 1, word: 'Orodes', work: 'Ado'},
+ , instances: 1, word: 'Ostentation', work: 'Ado'},
+ , instances: 1, word: 'Others', work: 'Ado'},
+ , instances: 1, word: 'Others\'', work: 'Ado'},
+ , instances: 1, word: 'Outgo', work: 'Ado'},
+ , instances: 1, word: 'Outlive', work: 'Ado'},
+ , instances: 1, word: 'Outroar', work: 'Ado'},
+ , instances: 1, word: 'Outstare', work: 'Ado'},
+ , instances: 1, word: 'Outstrike', work: 'Ado'},
+ , instances: 1, word: 'Outward', work: 'Ado'},
+ , instances: 1, word: 'Outwork', work: 'Ado'},
+ , instances: 1, word: 'Overtopped', work: 'Ado'},
+ , instances: 1, word: 'Oyster', work: 'Ado'},
+ , instances: 1, word: 'O\'erflowing', work: 'Ado'},
+ , instances: 1, word: 'O\'erflows', work: 'Ado'},
+ , instances: 1, word: 'O\'erpicturing', work: 'Ado'},
+ , instances: 1, word: 'O\'erpowered', work: 'Ado'},
+ , instances: 1, word: 'O\'erthrown', work: 'Ado'},
+ , instances: 1, word: 'Pace', work: 'Ado'},
+ , instances: 1, word: 'Paces', work: 'Ado'},
+ , instances: 1, word: 'Pack', work: 'Ado'},
+ , instances: 1, word: 'Packed', work: 'Ado'},
+ , instances: 1, word: 'Pacorus', work: 'Ado'},
+ , instances: 1, word: 'Pageants', work: 'Ado'},
+ , instances: 1, word: 'Paint', work: 'Ado'},
+ , instances: 1, word: 'Painted', work: 'Ado'},
+ , instances: 1, word: 'Palace', work: 'Ado'},
+ , instances: 1, word: 'Palate', work: 'Ado'},
+ , instances: 1, word: 'Palates', work: 'Ado'},
+ , instances: 1, word: 'Pales', work: 'Ado'},
+ , instances: 1, word: 'Palled', work: 'Ado'},
+ , instances: 1, word: 'Palter', work: 'Ado'},
+ , instances: 1, word: 'Paltry', work: 'Ado'},
+ , instances: 1, word: 'Pansa', work: 'Ado'},
+ , instances: 1, word: 'Panted', work: 'Ado'},
+ , instances: 1, word: 'Pants', work: 'Ado'},
+ , instances: 1, word: 'Paphlagonia', work: 'Ado'},
+ , instances: 1, word: 'Paragon', work: 'Ado'},
+ , instances: 1, word: 'Partake', work: 'Ado'},
+ , instances: 1, word: 'Partaker', work: 'Ado'},
+ , instances: 1, word: 'Parthians', work: 'Ado'},
+ , instances: 1, word: 'Particulars', work: 'Ado'},
+ , instances: 1, word: 'Parties', work: 'Ado'},
+ , instances: 1, word: 'Parting', work: 'Ado'},
+ , instances: 1, word: 'Partisan', work: 'Ado'},
+ , instances: 1, word: 'Partner', work: 'Ado'},
+ , instances: 1, word: 'Party', work: 'Ado'},
+ , instances: 1, word: 'Passions', work: 'Ado'},
+ , instances: 1, word: 'Pasture', work: 'Ado'},
+ , instances: 1, word: 'Patch', work: 'Ado'},
+ , instances: 1, word: 'Patched', work: 'Ado'},
+ , instances: 1, word: 'Patient', work: 'Ado'},
+ , instances: 1, word: 'Pauses', work: 'Ado'},
+ , instances: 1, word: 'Pavilion', work: 'Ado'},
+ , instances: 1, word: 'Pawn', work: 'Ado'},
+ , instances: 1, word: 'Pearl', work: 'Ado'},
+ , instances: 1, word: 'Pearls', work: 'Ado'},
+ , instances: 1, word: 'Peck', work: 'Ado'},
+ , instances: 1, word: 'Peerless', work: 'Ado'},
+ , instances: 1, word: 'Pelleted', work: 'Ado'},
+ , instances: 1, word: 'Peloponnesus', work: 'Ado'},
+ , instances: 1, word: 'Pendent', work: 'Ado'},
+ , instances: 1, word: 'Penetrative', work: 'Ado'},
+ , instances: 1, word: 'Penitent', work: 'Ado'},
+ , instances: 1, word: 'Perceived', work: 'Ado'},
+ , instances: 1, word: 'Perfect', work: 'Ado'},
+ , instances: 1, word: 'Perfection', work: 'Ado'},
+ , instances: 1, word: 'Performance', work: 'Ado'},
+ , instances: 1, word: 'Performs', work: 'Ado'},
+ , instances: 1, word: 'Perfume', work: 'Ado'},
+ , instances: 1, word: 'Perfumed', work: 'Ado'},
+ , instances: 1, word: 'Perjure', work: 'Ado'},
+ , instances: 1, word: 'Permit', work: 'Ado'},
+ , instances: 1, word: 'Perpetual', work: 'Ado'},
+ , instances: 1, word: 'Persisted', work: 'Ado'},
+ , instances: 1, word: 'Personal', work: 'Ado'},
+ , instances: 1, word: 'Persons', work: 'Ado'},
+ , instances: 1, word: 'Pestilent', work: 'Ado'},
+ , instances: 1, word: 'Petition', work: 'Ado'},
+ , instances: 1, word: 'Petticoat', work: 'Ado'},
+ , instances: 1, word: 'Pharsalia', work: 'Ado'},
+ , instances: 1, word: 'Philadelphos', work: 'Ado'},
+ , instances: 1, word: 'Philippan', work: 'Ado'},
+ , instances: 1, word: 'Phoebus', work: 'Ado'},
+ , instances: 1, word: 'Phoenicia', work: 'Ado'},
+ , instances: 1, word: 'Phoenicians', work: 'Ado'},
+ , instances: 1, word: 'Photinus', work: 'Ado'},
+ , instances: 1, word: 'Phrase', work: 'Ado'},
+ , instances: 1, word: 'Physician', work: 'Ado'},
+ , instances: 1, word: 'Picked', work: 'Ado'},
+ , instances: 1, word: 'Pickle', work: 'Ado'},
+ , instances: 1, word: 'Pieces', work: 'Ado'},
+ , instances: 1, word: 'Pierce', work: 'Ado'},
+ , instances: 1, word: 'Pillar', work: 'Ado'},
+ , instances: 1, word: 'Pillow', work: 'Ado'},
+ , instances: 1, word: 'Pinches', work: 'Ado'},
+ , instances: 1, word: 'Pinion', work: 'Ado'},
+ , instances: 1, word: 'Pinioned', work: 'Ado'},
+ , instances: 1, word: 'Pink', work: 'Ado'},
+ , instances: 1, word: 'Piteously', work: 'Ado'},
+ , instances: 1, word: 'Pitifully', work: 'Ado'},
+ , instances: 1, word: 'Placed', work: 'Ado'},
+ , instances: 1, word: 'Plainness', work: 'Ado'},
+ , instances: 1, word: 'Planet', work: 'Ado'},
+ , instances: 1, word: 'Planks', work: 'Ado'},
+ , instances: 1, word: 'Plant', work: 'Ado'},
+ , instances: 1, word: 'Planted', work: 'Ado'},
+ , instances: 1, word: 'Plants', work: 'Ado'},
+ , instances: 1, word: 'Plate', work: 'Ado'},
+ , instances: 1, word: 'Plated', work: 'Ado'},
+ , instances: 1, word: 'Plates', work: 'Ado'},
+ , instances: 1, word: 'Playfellow', work: 'Ado'},
+ , instances: 1, word: 'Pleached', work: 'Ado'},
+ , instances: 1, word: 'Plead', work: 'Ado'},
+ , instances: 1, word: 'Pleasest', work: 'Ado'},
+ , instances: 1, word: 'Pleaseth', work: 'Ado'},
+ , instances: 1, word: 'Plebeians', work: 'Ado'},
+ , instances: 1, word: 'Pledge', work: 'Ado'},
+ , instances: 1, word: 'Plied', work: 'Ado'},
+ , instances: 1, word: 'Plight', work: 'Ado'},
+ , instances: 1, word: 'Plighter', work: 'Ado'},
+ , instances: 1, word: 'Plot', work: 'Ado'},
+ , instances: 1, word: 'Ploughed', work: 'Ado'},
+ , instances: 1, word: 'Plow', work: 'Ado'},
+ , instances: 1, word: 'Plucked', work: 'Ado'},
+ , instances: 1, word: 'Plumpy', work: 'Ado'},
+ , instances: 1, word: 'Poets', work: 'Ado'},
+ , instances: 1, word: 'Poisonous', work: 'Ado'},
+ , instances: 1, word: 'Pole', work: 'Ado'},
+ , instances: 1, word: 'Polemon', work: 'Ado'},
+ , instances: 1, word: 'Pomp', work: 'Ado'},
+ , instances: 1, word: 'Pont', work: 'Ado'},
+ , instances: 1, word: 'Poop', work: 'Ado'},
+ , instances: 1, word: 'Poorer', work: 'Ado'},
+ , instances: 1, word: 'Poor\'st', work: 'Ado'},
+ , instances: 1, word: 'Populous', work: 'Ado'},
+ , instances: 1, word: 'Portends', work: 'Ado'},
+ , instances: 1, word: 'Ports', work: 'Ado'},
+ , instances: 1, word: 'Possessed', work: 'Ado'},
+ , instances: 1, word: 'Possession', work: 'Ado'},
+ , instances: 1, word: 'Posts', work: 'Ado'},
+ , instances: 1, word: 'Posture', work: 'Ado'},
+ , instances: 1, word: 'Potent', work: 'Ado'},
+ , instances: 1, word: 'Powder', work: 'Ado'},
+ , instances: 1, word: 'Powerful', work: 'Ado'},
+ , instances: 1, word: 'Practiced', work: 'Ado'},
+ , instances: 1, word: 'Praises', work: 'Ado'},
+ , instances: 1, word: 'Praising', work: 'Ado'},
+ , instances: 1, word: 'Praying', work: 'Ado'},
+ , instances: 1, word: 'Prays', work: 'Ado'},
+ , instances: 1, word: 'Precedence', work: 'Ado'},
+ , instances: 1, word: 'Precedent', work: 'Ado'},
+ , instances: 1, word: 'Precious', work: 'Ado'},
+ , instances: 1, word: 'Pregnant', work: 'Ado'},
+ , instances: 1, word: 'Preparedly', work: 'Ado'},
+ , instances: 1, word: 'Preparèd', work: 'Ado'},
+ , instances: 1, word: 'Presages', work: 'Ado'},
+ , instances: 1, word: 'Presageth', work: 'Ado'},
+ , instances: 1, word: 'Prescience', work: 'Ado'},
+ , instances: 1, word: 'Prescript', work: 'Ado'},
+ , instances: 1, word: 'President', work: 'Ado'},
+ , instances: 1, word: 'Prevail', work: 'Ado'},
+ , instances: 1, word: 'Prevailed', work: 'Ado'},
+ , instances: 1, word: 'Prey', work: 'Ado'},
+ , instances: 1, word: 'Preys', work: 'Ado'},
+ , instances: 1, word: 'Priests', work: 'Ado'},
+ , instances: 1, word: 'Primal', work: 'Ado'},
+ , instances: 1, word: 'Prince', work: 'Ado'},
+ , instances: 1, word: 'Princely', work: 'Ado'},
+ , instances: 1, word: 'Princess', work: 'Ado'},
+ , instances: 1, word: 'Principalities', work: 'Ado'},
+ , instances: 1, word: 'Prisons', work: 'Ado'},
+ , instances: 1, word: 'Privy', work: 'Ado'},
+ , instances: 1, word: 'Prize', work: 'Ado'},
+ , instances: 1, word: 'Prized', work: 'Ado'},
+ , instances: 1, word: 'Probable', work: 'Ado'},
+ , instances: 1, word: 'Proceed', work: 'Ado'},
+ , instances: 1, word: 'Proceeded', work: 'Ado'},
+ , instances: 1, word: 'Process', work: 'Ado'},
+ , instances: 1, word: 'Proclaimed', work: 'Ado'},
+ , instances: 1, word: 'Proclaims', work: 'Ado'},
+ , instances: 1, word: 'Prognostication', work: 'Ado'},
+ , instances: 1, word: 'Project', work: 'Ado'},
+ , instances: 1, word: 'Promontory', work: 'Ado'},
+ , instances: 1, word: 'Prompt', work: 'Ado'},
+ , instances: 1, word: 'Proof', work: 'Ado'},
+ , instances: 1, word: 'Proper', work: 'Ado'},
+ , instances: 1, word: 'Propertied', work: 'Ado'},
+ , instances: 1, word: 'Property', work: 'Ado'},
+ , instances: 1, word: 'Prophesy', work: 'Ado'},
+ , instances: 1, word: 'Prophesying', work: 'Ado'},
+ , instances: 1, word: 'Proportioned', work: 'Ado'},
+ , instances: 1, word: 'Prorogue', work: 'Ado'},
+ , instances: 1, word: 'Prosecution', work: 'Ado'},
+ , instances: 1, word: 'Prosp\'rous', work: 'Ado'},
+ , instances: 1, word: 'Proved', work: 'Ado'},
+ , instances: 1, word: 'Proves', work: 'Ado'},
+ , instances: 1, word: 'Provide', work: 'Ado'},
+ , instances: 1, word: 'Provided', work: 'Ado'},
+ , instances: 1, word: 'Province', work: 'Ado'},
+ , instances: 1, word: 'Provinces', work: 'Ado'},
+ , instances: 1, word: 'Provoke', work: 'Ado'},
+ , instances: 1, word: 'Provoked', work: 'Ado'},
+ , instances: 1, word: 'Ptolemies', work: 'Ado'},
+ , instances: 1, word: 'Ptolemies\'', work: 'Ado'},
+ , instances: 1, word: 'Publicly', work: 'Ado'},
+ , instances: 1, word: 'Publicola', work: 'Ado'},
+ , instances: 1, word: 'Puddle', work: 'Ado'},
+ , instances: 1, word: 'Punishment', work: 'Ado'},
+ , instances: 1, word: 'Puppet', work: 'Ado'},
+ , instances: 1, word: 'Purchase', work: 'Ado'},
+ , instances: 1, word: 'Purchased', work: 'Ado'},
+ , instances: 1, word: 'Pure', work: 'Ado'},
+ , instances: 1, word: 'Purge', work: 'Ado'},
+ , instances: 1, word: 'Purged', work: 'Ado'},
+ , instances: 1, word: 'Purple', work: 'Ado'},
+ , instances: 1, word: 'Purposeth', work: 'Ado'},
+ , instances: 1, word: 'Pursed', work: 'Ado'},
+ , instances: 1, word: 'Puzzle', work: 'Ado'},
+ , instances: 1, word: 'Pyramid', work: 'Ado'},
+ , instances: 1, word: 'Pyramides', work: 'Ado'},
+ , instances: 1, word: 'Pyramises', work: 'Ado'},
+ , instances: 1, word: 'Quail', work: 'Ado'},
+ , instances: 1, word: 'Quails', work: 'Ado'},
+ , instances: 1, word: 'Qualities', work: 'Ado'},
+ , instances: 1, word: 'Quarter', work: 'Ado'},
+ , instances: 1, word: 'Quartered', work: 'Ado'},
+ , instances: 1, word: 'Queasy', work: 'Ado'},
+ , instances: 1, word: 'Queen\'s', work: 'Ado'},
+ , instances: 1, word: 'Quicken', work: 'Ado'},
+ , instances: 1, word: 'Quickens', work: 'Ado'},
+ , instances: 1, word: 'Quicksands', work: 'Ado'},
+ , instances: 1, word: 'Quoth', work: 'Ado'},
+ , instances: 1, word: 'Rack', work: 'Ado'},
+ , instances: 1, word: 'Rained', work: 'Ado'},
+ , instances: 1, word: 'Raise', work: 'Ado'},
+ , instances: 1, word: 'Raised', work: 'Ado'},
+ , instances: 1, word: 'Raises', work: 'Ado'},
+ , instances: 1, word: 'Ranged', work: 'Ado'},
+ , instances: 1, word: 'Ranges', work: 'Ado'},
+ , instances: 1, word: 'Ranks', work: 'Ado'},
+ , instances: 1, word: 'Ransom', work: 'Ado'},
+ , instances: 1, word: 'Rarer', work: 'Ado'},
+ , instances: 1, word: 'Rate', work: 'Ado'},
+ , instances: 1, word: 'Rated', work: 'Ado'},
+ , instances: 1, word: 'Rates', work: 'Ado'},
+ , instances: 1, word: 'Raught', work: 'Ado'},
+ , instances: 1, word: 'Realms', work: 'Ado'},
+ , instances: 1, word: 'Reapers', work: 'Ado'},
+ , instances: 1, word: 'Reaping', work: 'Ado'},
+ , instances: 1, word: 'Rear', work: 'Ado'},
+ , instances: 1, word: 'Reared', work: 'Ado'},
+ , instances: 1, word: 'Rebound', work: 'Ado'},
+ , instances: 1, word: 'Rebukable', work: 'Ado'},
+ , instances: 1, word: 'Receive', work: 'Ado'},
+ , instances: 1, word: 'Reckoned', work: 'Ado'},
+ , instances: 1, word: 'Reconciler', work: 'Ado'},
+ , instances: 1, word: 'Reconciles', work: 'Ado'},
+ , instances: 1, word: 'Reed', work: 'Ado'},
+ , instances: 1, word: 'Reel', work: 'Ado'},
+ , instances: 1, word: 'Reels', work: 'Ado'},
+ , instances: 1, word: 'Reference', work: 'Ado'},
+ , instances: 1, word: 'Refusing', work: 'Ado'},
+ , instances: 1, word: 'Regiment', work: 'Ado'},
+ , instances: 1, word: 'Register', work: 'Ado'},
+ , instances: 1, word: 'Religion', work: 'Ado'},
+ , instances: 1, word: 'Rely', work: 'Ado'},
+ , instances: 1, word: 'Remains', work: 'Ado'},
+ , instances: 1, word: 'Remarkable', work: 'Ado'},
+ , instances: 1, word: 'Remember\'st', work: 'Ado'},
+ , instances: 1, word: 'Remove', work: 'Ado'},
+ , instances: 1, word: 'Rend', work: 'Ado'},
+ , instances: 1, word: 'Render', work: 'Ado'},
+ , instances: 1, word: 'Rendered', work: 'Ado'},
+ , instances: 1, word: 'Reneges', work: 'Ado'},
+ , instances: 1, word: 'Renown', work: 'Ado'},
+ , instances: 1, word: 'Renowned', work: 'Ado'},
+ , instances: 1, word: 'Renownèd', work: 'Ado'},
+ , instances: 1, word: 'Repair', work: 'Ado'},
+ , instances: 1, word: 'Repays', work: 'Ado'},
+ , instances: 1, word: 'Replied', work: 'Ado'},
+ , instances: 1, word: 'Replies', work: 'Ado'},
+ , instances: 1, word: 'Reply', work: 'Ado'},
+ , instances: 1, word: 'Reporter', work: 'Ado'},
+ , instances: 1, word: 'Repose', work: 'Ado'},
+ , instances: 1, word: 'Reproof', work: 'Ado'},
+ , instances: 1, word: 'Reprove', work: 'Ado'},
+ , instances: 1, word: 'Reputation', work: 'Ado'},
+ , instances: 1, word: 'Requested', work: 'Ado'},
+ , instances: 1, word: 'Requests', work: 'Ado'},
+ , instances: 1, word: 'Required', work: 'Ado'},
+ , instances: 1, word: 'Rescue', work: 'Ado'},
+ , instances: 1, word: 'Resisted', work: 'Ado'},
+ , instances: 1, word: 'Resolution\'s', work: 'Ado'},
+ , instances: 1, word: 'Resolved', work: 'Ado'},
+ , instances: 1, word: 'Resting', work: 'Ado'},
+ , instances: 1, word: 'Restores', work: 'Ado'},
+ , instances: 1, word: 'Revel', work: 'Ado'},
+ , instances: 1, word: 'Revels', work: 'Ado'},
+ , instances: 1, word: 'Revenged', work: 'Ado'},
+ , instances: 1, word: 'Revenger', work: 'Ado'},
+ , instances: 1, word: 'Revengers', work: 'Ado'},
+ , instances: 1, word: 'Revenue', work: 'Ado'},
+ , instances: 1, word: 'Revolution', work: 'Ado'},
+ , instances: 1, word: 'Reward', work: 'Ado'},
+ , instances: 1, word: 'Rewards', work: 'Ado'},
+ , instances: 1, word: 'Rheum', work: 'Ado'},
+ , instances: 1, word: 'Rhymers', work: 'Ado'},
+ , instances: 1, word: 'Ribaudred', work: 'Ado'},
+ , instances: 1, word: 'Richly', work: 'Ado'},
+ , instances: 1, word: 'Rid', work: 'Ado'},
+ , instances: 1, word: 'Ride', work: 'Ado'},
+ , instances: 1, word: 'Rids', work: 'Ado'},
+ , instances: 1, word: 'Rift', work: 'Ado'},
+ , instances: 1, word: 'Rig', work: 'Ado'},
+ , instances: 1, word: 'Rigged', work: 'Ado'},
+ , instances: 1, word: 'Riggish', work: 'Ado'},
+ , instances: 1, word: 'Rioting', work: 'Ado'},
+ , instances: 1, word: 'Riotous', work: 'Ado'},
+ , instances: 1, word: 'Ripens', work: 'Ado'},
+ , instances: 1, word: 'Rivality', work: 'Ado'},
+ , instances: 1, word: 'Rive', work: 'Ado'},
+ , instances: 1, word: 'Riveted', work: 'Ado'},
+ , instances: 1, word: 'Roaring', work: 'Ado'},
+ , instances: 1, word: 'Roasted', work: 'Ado'},
+ , instances: 1, word: 'Robe', work: 'Ado'},
+ , instances: 1, word: 'Robes', work: 'Ado'},
+ , instances: 1, word: 'Rock', work: 'Ado'},
+ , instances: 1, word: 'Rods', work: 'Ado'},
+ , instances: 1, word: 'Rogue', work: 'Ado'},
+ , instances: 1, word: 'Roll', work: 'Ado'},
+ , instances: 1, word: 'Romans', work: 'Ado'},
+ , instances: 1, word: 'Roof', work: 'Ado'},
+ , instances: 1, word: 'Room', work: 'Ado'},
+ , instances: 1, word: 'Root', work: 'Ado'},
+ , instances: 1, word: 'Rotten', work: 'Ado'},
+ , instances: 1, word: 'Roughest', work: 'Ado'},
+ , instances: 1, word: 'Rouse', work: 'Ado'},
+ , instances: 1, word: 'Routed', work: 'Ado'},
+ , instances: 1, word: 'Royalty', work: 'Ado'},
+ , instances: 1, word: 'Rudest', work: 'Ado'},
+ , instances: 1, word: 'Ruffian', work: 'Ado'},
+ , instances: 1, word: 'Rule', work: 'Ado'},
+ , instances: 1, word: 'Rules', work: 'Ado'},
+ , instances: 1, word: 'Ruminated', work: 'Ado'},
+ , instances: 1, word: 'Rumor', work: 'Ado'},
+ , instances: 1, word: 'Runner', work: 'Ado'},
+ , instances: 1, word: 'Rural', work: 'Ado'},
+ , instances: 1, word: 'Sacrifice', work: 'Ado'},
+ , instances: 1, word: 'Safed', work: 'Ado'},
+ , instances: 1, word: 'Sake', work: 'Ado'},
+ , instances: 1, word: 'Salad', work: 'Ado'},
+ , instances: 1, word: 'Salutes', work: 'Ado'},
+ , instances: 1, word: 'Sap', work: 'Ado'},
+ , instances: 1, word: 'Sardinia', work: 'Ado'},
+ , instances: 1, word: 'Satisfied', work: 'Ado'},
+ , instances: 1, word: 'Satisfies', work: 'Ado'},
+ , instances: 1, word: 'Sauce', work: 'Ado'},
+ , instances: 1, word: 'Savage', work: 'Ado'},
+ , instances: 1, word: 'Savages', work: 'Ado'},
+ , instances: 1, word: 'Saved', work: 'Ado'},
+ , instances: 1, word: 'Sayest', work: 'Ado'},
+ , instances: 1, word: 'Sayst', work: 'Ado'},
+ , instances: 1, word: 'Scald', work: 'Ado'},
+ , instances: 1, word: 'Scaled', work: 'Ado'},
+ , instances: 1, word: 'Scales', work: 'Ado'},
+ , instances: 1, word: 'Scant', work: 'Ado'},
+ , instances: 1, word: 'Scantly', work: 'Ado'},
+ , instances: 1, word: 'Scarce', work: 'Ado'},
+ , instances: 1, word: 'Scarce-bearded', work: 'Ado'},
+ , instances: 1, word: 'Scatters', work: 'Ado'},
+ , instances: 1, word: 'Scene', work: 'Ado'},
+ , instances: 1, word: 'Scepter', work: 'Ado'},
+ , instances: 1, word: 'Scepters', work: 'Ado'},
+ , instances: 1, word: 'Scholar', work: 'Ado'},
+ , instances: 1, word: 'Scolds', work: 'Ado'},
+ , instances: 1, word: 'Score', work: 'Ado'},
+ , instances: 1, word: 'Scorn', work: 'Ado'},
+ , instances: 1, word: 'Scotches', work: 'Ado'},
+ , instances: 1, word: 'Scourge', work: 'Ado'},
+ , instances: 1, word: 'Scratch', work: 'Ado'},
+ , instances: 1, word: 'Scribes', work: 'Ado'},
+ , instances: 1, word: 'Scroll', work: 'Ado'},
+ , instances: 1, word: 'Scrupulous', work: 'Ado'},
+ , instances: 1, word: 'Scuffles', work: 'Ado'},
+ , instances: 1, word: 'Scutcheons', work: 'Ado'},
+ , instances: 1, word: 'Scythe', work: 'Ado'},
+ , instances: 1, word: 'Sea-wing', work: 'Ado'},
+ , instances: 1, word: 'Sealed', work: 'Ado'},
+ , instances: 1, word: 'Sealike', work: 'Ado'},
+ , instances: 1, word: 'Sealing', work: 'Ado'},
+ , instances: 1, word: 'Seaside', work: 'Ado'},
+ , instances: 1, word: 'Season', work: 'Ado'},
+ , instances: 1, word: 'Secrecy', work: 'Ado'},
+ , instances: 1, word: 'Secret', work: 'Ado'},
+ , instances: 1, word: 'Security', work: 'Ado'},
+ , instances: 1, word: 'Seedsman', work: 'Ado'},
+ , instances: 1, word: 'Seemed', work: 'Ado'},
+ , instances: 1, word: 'Seize', work: 'Ado'},
+ , instances: 1, word: 'Seizes', work: 'Ado'},
+ , instances: 1, word: 'Seldom', work: 'Ado'},
+ , instances: 1, word: 'Semblable', work: 'Ado'},
+ , instances: 1, word: 'Senators', work: 'Ado'},
+ , instances: 1, word: 'Separation', work: 'Ado'},
+ , instances: 1, word: 'Serious', work: 'Ado'},
+ , instances: 1, word: 'Serpent\'s', work: 'Ado'},
+ , instances: 1, word: 'Servants', work: 'Ado'},
+ , instances: 1, word: 'Serving', work: 'Ado'},
+ , instances: 1, word: 'Settle', work: 'Ado'},
+ , instances: 1, word: 'Sevenfold', work: 'Ado'},
+ , instances: 1, word: 'Severed', work: 'Ado'},
+ , instances: 1, word: 'Shackles', work: 'Ado'},
+ , instances: 1, word: 'Shadow', work: 'Ado'},
+ , instances: 1, word: 'Shadows', work: 'Ado'},
+ , instances: 1, word: 'Shakes', work: 'Ado'},
+ , instances: 1, word: 'Shamed', work: 'Ado'},
+ , instances: 1, word: 'Shameful', work: 'Ado'},
+ , instances: 1, word: 'Shames', work: 'Ado'},
+ , instances: 1, word: 'Shaped', work: 'Ado'},
+ , instances: 1, word: 'Shards', work: 'Ado'},
+ , instances: 1, word: 'Sharpen', work: 'Ado'},
+ , instances: 1, word: 'Sharpness', work: 'Ado'},
+ , instances: 1, word: 'Shave', work: 'Ado'},
+ , instances: 1, word: 'Shelters', work: 'Ado'},
+ , instances: 1, word: 'Shift', work: 'Ado'},
+ , instances: 1, word: 'Shifts', work: 'Ado'},
+ , instances: 1, word: 'Shine', work: 'Ado'},
+ , instances: 1, word: 'Shiny', work: 'Ado'},
+ , instances: 1, word: 'Shirt', work: 'Ado'},
+ , instances: 1, word: 'Shoots', work: 'Ado'},
+ , instances: 1, word: 'Shorter', work: 'Ado'},
+ , instances: 1, word: 'Shortly', work: 'Ado'},
+ , instances: 1, word: 'Shot', work: 'Ado'},
+ , instances: 1, word: 'Shoulders', work: 'Ado'},
+ , instances: 1, word: 'Shoved', work: 'Ado'},
+ , instances: 1, word: 'Showers', work: 'Ado'},
+ , instances: 1, word: 'Showplace', work: 'Ado'},
+ , instances: 1, word: 'Shrewd', work: 'Ado'},
+ , instances: 1, word: 'Shrewdness', work: 'Ado'},
+ , instances: 1, word: 'Shroud', work: 'Ado'},
+ , instances: 1, word: 'Sicken', work: 'Ado'},
+ , instances: 1, word: 'Sickly', work: 'Ado'},
+ , instances: 1, word: 'Signify', work: 'Ado'},
+ , instances: 1, word: 'Silent', work: 'Ado'},
+ , instances: 1, word: 'Silken', work: 'Ado'},
+ , instances: 1, word: 'Silver', work: 'Ado'},
+ , instances: 1, word: 'Silvered', work: 'Ado'},
+ , instances: 1, word: 'Silvius', work: 'Ado'},
+ , instances: 1, word: 'Sin', work: 'Ado'},
+ , instances: 1, word: 'Sinking', work: 'Ado'},
+ , instances: 1, word: 'Sinks', work: 'Ado'},
+ , instances: 1, word: 'Sirs', work: 'Ado'},
+ , instances: 1, word: 'Sister\'s', work: 'Ado'},
+ , instances: 1, word: 'Sky', work: 'Ado'},
+ , instances: 1, word: 'Slackness', work: 'Ado'},
+ , instances: 1, word: 'Slander', work: 'Ado'},
+ , instances: 1, word: 'Slaves', work: 'Ado'},
+ , instances: 1, word: 'Sleepers', work: 'Ado'},
+ , instances: 1, word: 'Slept', work: 'Ado'},
+ , instances: 1, word: 'Slew\'st', work: 'Ado'},
+ , instances: 1, word: 'Slight', work: 'Ado'},
+ , instances: 1, word: 'Slimy', work: 'Ado'},
+ , instances: 1, word: 'Slippery', work: 'Ado'},
+ , instances: 1, word: 'Slow', work: 'Ado'},
+ , instances: 1, word: 'Smarting', work: 'Ado'},
+ , instances: 1, word: 'Smells', work: 'Ado'},
+ , instances: 1, word: 'Smite', work: 'Ado'},
+ , instances: 1, word: 'Smock', work: 'Ado'},
+ , instances: 1, word: 'Smooth', work: 'Ado'},
+ , instances: 1, word: 'Snaffle', work: 'Ado'},
+ , instances: 1, word: 'Snare', work: 'Ado'},
+ , instances: 1, word: 'Snatch', work: 'Ado'},
+ , instances: 1, word: 'Snow', work: 'Ado'},
+ , instances: 1, word: 'Sober', work: 'Ado'},
+ , instances: 1, word: 'Soberly', work: 'Ado'},
+ , instances: 1, word: 'Soften', work: 'Ado'},
+ , instances: 1, word: 'Softly', work: 'Ado'},
+ , instances: 1, word: 'Solder', work: 'Ado'},
+ , instances: 1, word: 'Soldiers', work: 'Ado'},
+ , instances: 1, word: 'Soldiers\'', work: 'Ado'},
+ , instances: 1, word: 'Sole', work: 'Ado'},
+ , instances: 1, word: 'Solemn', work: 'Ado'},
+ , instances: 1, word: 'Solemnity', work: 'Ado'},
+ , instances: 1, word: 'Sons', work: 'Ado'},
+ , instances: 1, word: 'Son\'s', work: 'Ado'},
+ , instances: 1, word: 'Soonest', work: 'Ado'},
+ , instances: 1, word: 'Sooth', work: 'Ado'},
+ , instances: 1, word: 'Soothsay', work: 'Ado'},
+ , instances: 1, word: 'Sore', work: 'Ado'},
+ , instances: 1, word: 'Sorely', work: 'Ado'},
+ , instances: 1, word: 'Sorrowful', work: 'Ado'},
+ , instances: 1, word: 'Sorrows', work: 'Ado'},
+ , instances: 1, word: 'Sossius', work: 'Ado'},
+ , instances: 1, word: 'Sottish', work: 'Ado'},
+ , instances: 1, word: 'Sought', work: 'Ado'},
+ , instances: 1, word: 'Sought\'st', work: 'Ado'},
+ , instances: 1, word: 'Soulless', work: 'Ado'},
+ , instances: 1, word: 'Souls', work: 'Ado'},
+ , instances: 1, word: 'Soundly', work: 'Ado'},
+ , instances: 1, word: 'Sounds', work: 'Ado'},
+ , instances: 1, word: 'Source', work: 'Ado'},
+ , instances: 1, word: 'Sourest', work: 'Ado'},
+ , instances: 1, word: 'Spacious', work: 'Ado'},
+ , instances: 1, word: 'Spanieled', work: 'Ado'},
+ , instances: 1, word: 'Spared', work: 'Ado'},
+ , instances: 1, word: 'Speaking', work: 'Ado'},
+ , instances: 1, word: 'Speak\'st', work: 'Ado'},
+ , instances: 1, word: 'Speed', work: 'Ado'},
+ , instances: 1, word: 'Speediest', work: 'Ado'},
+ , instances: 1, word: 'Speeds', work: 'Ado'},
+ , instances: 1, word: 'Spell', work: 'Ado'},
+ , instances: 1, word: 'Spent', work: 'Ado'},
+ , instances: 1, word: 'Spheres', work: 'Ado'},
+ , instances: 1, word: 'Spies', work: 'Ado'},
+ , instances: 1, word: 'Spill', work: 'Ado'},
+ , instances: 1, word: 'Splits', work: 'Ado'},
+ , instances: 1, word: 'Splitted', work: 'Ado'},
+ , instances: 1, word: 'Spoiled', work: 'Ado'},
+ , instances: 1, word: 'Sports', work: 'Ado'},
+ , instances: 1, word: 'Spot', work: 'Ado'},
+ , instances: 1, word: 'Spots', work: 'Ado'},
+ , instances: 1, word: 'Spring', work: 'Ado'},
+ , instances: 1, word: 'Spur', work: 'Ado'},
+ , instances: 1, word: 'Spurn', work: 'Ado'},
+ , instances: 1, word: 'Spurns', work: 'Ado'},
+ , instances: 1, word: 'Squadrons', work: 'Ado'},
+ , instances: 1, word: 'Squares', work: 'Ado'},
+ , instances: 1, word: 'Squeaking', work: 'Ado'},
+ , instances: 1, word: 'Squire', work: 'Ado'},
+ , instances: 1, word: 'Stablishment', work: 'Ado'},
+ , instances: 1, word: 'Staff', work: 'Ado'},
+ , instances: 1, word: 'Stag', work: 'Ado'},
+ , instances: 1, word: 'Staged', work: 'Ado'},
+ , instances: 1, word: 'Stain', work: 'Ado'},
+ , instances: 1, word: 'Stained', work: 'Ado'},
+ , instances: 1, word: 'Stall', work: 'Ado'},
+ , instances: 1, word: 'Standing', work: 'Ado'},
+ , instances: 1, word: 'Stand\'st', work: 'Ado'},
+ , instances: 1, word: 'Stark', work: 'Ado'},
+ , instances: 1, word: 'Start', work: 'Ado'},
+ , instances: 1, word: 'Starts', work: 'Ado'},
+ , instances: 1, word: 'Station', work: 'Ado'},
+ , instances: 1, word: 'Statue', work: 'Ado'},
+ , instances: 1, word: 'Staunch', work: 'Ado'},
+ , instances: 1, word: 'Stayed', work: 'Ado'},
+ , instances: 1, word: 'Staying', work: 'Ado'},
+ , instances: 1, word: 'Stays', work: 'Ado'},
+ , instances: 1, word: 'Steal', work: 'Ado'},
+ , instances: 1, word: 'Steed', work: 'Ado'},
+ , instances: 1, word: 'Steel', work: 'Ado'},
+ , instances: 1, word: 'Steeped', work: 'Ado'},
+ , instances: 1, word: 'Steer', work: 'Ado'},
+ , instances: 1, word: 'Steers', work: 'Ado'},
+ , instances: 1, word: 'Stewed', work: 'Ado'},
+ , instances: 1, word: 'Sticks', work: 'Ado'},
+ , instances: 1, word: 'Stiff', work: 'Ado'},
+ , instances: 1, word: 'Sting', work: 'Ado'},
+ , instances: 1, word: 'Stir', work: 'Ado'},
+ , instances: 1, word: 'Stirred', work: 'Ado'},
+ , instances: 1, word: 'Stirring', work: 'Ado'},
+ , instances: 1, word: 'Stirs', work: 'Ado'},
+ , instances: 1, word: 'Stolen', work: 'Ado'},
+ , instances: 1, word: 'Stol\'n', work: 'Ado'},
+ , instances: 1, word: 'Stomaching', work: 'Ado'},
+ , instances: 1, word: 'Stool', work: 'Ado'},
+ , instances: 1, word: 'Stoop', work: 'Ado'},
+ , instances: 1, word: 'Store', work: 'Ado'},
+ , instances: 1, word: 'Storms', work: 'Ado'},
+ , instances: 1, word: 'Straightway', work: 'Ado'},
+ , instances: 1, word: 'Strangler', work: 'Ado'},
+ , instances: 1, word: 'Stray', work: 'Ado'},
+ , instances: 1, word: 'Stream', work: 'Ado'},
+ , instances: 1, word: 'Street', work: 'Ado'},
+ , instances: 1, word: 'Stretch', work: 'Ado'},
+ , instances: 1, word: 'Strewed', work: 'Ado'},
+ , instances: 1, word: 'Strife', work: 'Ado'},
+ , instances: 1, word: 'Strikes', work: 'Ado'},
+ , instances: 1, word: 'Strik\'st', work: 'Ado'},
+ , instances: 1, word: 'Strings', work: 'Ado'},
+ , instances: 1, word: 'Stripes', work: 'Ado'},
+ , instances: 1, word: 'Strives', work: 'Ado'},
+ , instances: 1, word: 'Strong-winged', work: 'Ado'},
+ , instances: 1, word: 'Strongest', work: 'Ado'},
+ , instances: 1, word: 'Strongly', work: 'Ado'},
+ , instances: 1, word: 'Strumpets', work: 'Ado'},
+ , instances: 1, word: 'Strumpet\'s', work: 'Ado'},
+ , instances: 1, word: 'Strut', work: 'Ado'},
+ , instances: 1, word: 'Stuck', work: 'Ado'},
+ , instances: 1, word: 'Study', work: 'Ado'},
+ , instances: 1, word: 'Stuff', work: 'Ado'},
+ , instances: 1, word: 'Sty', work: 'Ado'},
+ , instances: 1, word: 'Subdue', work: 'Ado'},
+ , instances: 1, word: 'Subject', work: 'Ado'},
+ , instances: 1, word: 'Submerged', work: 'Ado'},
+ , instances: 1, word: 'Submits', work: 'Ado'},
+ , instances: 1, word: 'Subscribe', work: 'Ado'},
+ , instances: 1, word: 'Sucks', work: 'Ado'},
+ , instances: 1, word: 'Sued', work: 'Ado'},
+ , instances: 1, word: 'Sues', work: 'Ado'},
+ , instances: 1, word: 'Suffered', work: 'Ado'},
+ , instances: 1, word: 'Sufficing', work: 'Ado'},
+ , instances: 1, word: 'Suitors', work: 'Ado'},
+ , instances: 1, word: 'Sullen', work: 'Ado'},
+ , instances: 1, word: 'Sup', work: 'Ado'},
+ , instances: 1, word: 'Superfluous', work: 'Ado'},
+ , instances: 1, word: 'Supplying', work: 'Ado'},
+ , instances: 1, word: 'Supposing', work: 'Ado'},
+ , instances: 1, word: 'Supremacy', work: 'Ado'},
+ , instances: 1, word: 'Surfeiter', work: 'Ado'},
+ , instances: 1, word: 'Surfeits', work: 'Ado'},
+ , instances: 1, word: 'Surprised', work: 'Ado'},
+ , instances: 1, word: 'Suspect', work: 'Ado'},
+ , instances: 1, word: 'Swallowed', work: 'Ado'},
+ , instances: 1, word: 'Swallows', work: 'Ado'},
+ , instances: 1, word: 'Swan\'s-down', work: 'Ado'},
+ , instances: 1, word: 'Sway', work: 'Ado'},
+ , instances: 1, word: 'Sweat', work: 'Ado'},
+ , instances: 1, word: 'Sweating', work: 'Ado'},
+ , instances: 1, word: 'Sweep', work: 'Ado'},
+ , instances: 1, word: 'Sweetest', work: 'Ado'},
+ , instances: 1, word: 'Sweets', work: 'Ado'},
+ , instances: 1, word: 'Swelling', work: 'Ado'},
+ , instances: 1, word: 'Swells', work: 'Ado'},
+ , instances: 1, word: 'Swerving', work: 'Ado'},
+ , instances: 1, word: 'Swifter', work: 'Ado'},
+ , instances: 1, word: 'Swoons', work: 'Ado'},
+ , instances: 1, word: 'Sworder', work: 'Ado'},
+ , instances: 1, word: 'Swor\'st', work: 'Ado'},
+ , instances: 1, word: 'Synod', work: 'Ado'},
+ , instances: 1, word: 'T', work: 'Ado'},
+ , instances: 1, word: 'Taborins', work: 'Ado'},
+ , instances: 1, word: 'Tackle', work: 'Ado'},
+ , instances: 1, word: 'Tailors', work: 'Ado'},
+ , instances: 1, word: 'Taints', work: 'Ado'},
+ , instances: 1, word: 'Tale', work: 'Ado'},
+ , instances: 1, word: 'Tales', work: 'Ado'},
+ , instances: 1, word: 'Talked', work: 'Ado'},
+ , instances: 1, word: 'Talks', work: 'Ado'},
+ , instances: 1, word: 'Tarentum', work: 'Ado'},
+ , instances: 1, word: 'Targes', work: 'Ado'},
+ , instances: 1, word: 'Target', work: 'Ado'},
+ , instances: 1, word: 'Targets', work: 'Ado'},
+ , instances: 1, word: 'Tart', work: 'Ado'},
+ , instances: 1, word: 'Task', work: 'Ado'},
+ , instances: 1, word: 'Taught', work: 'Ado'},
+ , instances: 1, word: 'Taunts', work: 'Ado'},
+ , instances: 1, word: 'Tawny', work: 'Ado'},
+ , instances: 1, word: 'Tawny-finned', work: 'Ado'},
+ , instances: 1, word: 'Teach', work: 'Ado'},
+ , instances: 1, word: 'Tear', work: 'Ado'},
+ , instances: 1, word: 'Tearing', work: 'Ado'},
+ , instances: 1, word: 'Telamon', work: 'Ado'},
+ , instances: 1, word: 'Teller', work: 'Ado'},
+ , instances: 1, word: 'Telling', work: 'Ado'},
+ , instances: 1, word: 'Tell\'st', work: 'Ado'},
+ , instances: 1, word: 'Temper', work: 'Ado'},
+ , instances: 1, word: 'Tempests', work: 'Ado'},
+ , instances: 1, word: 'Tempt', work: 'Ado'},
+ , instances: 1, word: 'Tended', work: 'Ado'},
+ , instances: 1, word: 'Tenfold', work: 'Ado'},
+ , instances: 1, word: 'Terrene', work: 'Ado'},
+ , instances: 1, word: 'Terrible', work: 'Ado'},
+ , instances: 1, word: 'Thankful', work: 'Ado'},
+ , instances: 1, word: 'Theirs', work: 'Ado'},
+ , instances: 1, word: 'Theme', work: 'Ado'},
+ , instances: 1, word: 'Thereabouts', work: 'Ado'},
+ , instances: 1, word: 'Thereon', work: 'Ado'},
+ , instances: 1, word: 'Thereto', work: 'Ado'},
+ , instances: 1, word: 'Thessaly', work: 'Ado'},
+ , instances: 1, word: 'Thetis', work: 'Ado'},
+ , instances: 1, word: 'Thickens', work: 'Ado'},
+ , instances: 1, word: 'Thief', work: 'Ado'},
+ , instances: 1, word: 'Thieves', work: 'Ado'},
+ , instances: 1, word: 'Thinking', work: 'Ado'},
+ , instances: 1, word: 'Thinks', work: 'Ado'},
+ , instances: 1, word: 'Thirty', work: 'Ado'},
+ , instances: 1, word: 'Thousands', work: 'Ado'},
+ , instances: 1, word: 'Thracian', work: 'Ado'},
+ , instances: 1, word: 'Threaten', work: 'Ado'},
+ , instances: 1, word: 'Threatening', work: 'Ado'},
+ , instances: 1, word: 'Threats', work: 'Ado'},
+ , instances: 1, word: 'Three-nooked', work: 'Ado'},
+ , instances: 1, word: 'Thrice', work: 'Ado'},
+ , instances: 1, word: 'Thrived', work: 'Ado'},
+ , instances: 1, word: 'Thrives', work: 'Ado'},
+ , instances: 1, word: 'Thronèd', work: 'Ado'},
+ , instances: 1, word: 'Throws', work: 'Ado'},
+ , instances: 1, word: 'Thunder', work: 'Ado'},
+ , instances: 1, word: 'Thunderbolt', work: 'Ado'},
+ , instances: 1, word: 'Thunders', work: 'Ado'},
+ , instances: 1, word: 'Thyself', work: 'Ado'},
+ , instances: 1, word: 'Tiber', work: 'Ado'},
+ , instances: 1, word: 'Tied', work: 'Ado'},
+ , instances: 1, word: 'Ties', work: 'Ado'},
+ , instances: 1, word: 'Tight', work: 'Ado'},
+ , instances: 1, word: 'Timelier', work: 'Ado'},
+ , instances: 1, word: 'Tinct', work: 'Ado'},
+ , instances: 1, word: 'Tippling', work: 'Ado'},
+ , instances: 1, word: 'Tires', work: 'Ado'},
+ , instances: 1, word: 'Tissue', work: 'Ado'},
+ , instances: 1, word: 'Title', work: 'Ado'},
+ , instances: 1, word: 'Toil', work: 'Ado'},
+ , instances: 1, word: 'Token', work: 'Ado'},
+ , instances: 1, word: 'Tokened', work: 'Ado'},
+ , instances: 1, word: 'Top', work: 'Ado'},
+ , instances: 1, word: 'Torch', work: 'Ado'},
+ , instances: 1, word: 'Torches', work: 'Ado'},
+ , instances: 1, word: 'Tow', work: 'Ado'},
+ , instances: 1, word: 'Towered', work: 'Ado'},
+ , instances: 1, word: 'Toys', work: 'Ado'},
+ , instances: 1, word: 'Trade', work: 'Ado'},
+ , instances: 1, word: 'Traduced', work: 'Ado'},
+ , instances: 1, word: 'Trail', work: 'Ado'},
+ , instances: 1, word: 'Transform', work: 'Ado'},
+ , instances: 1, word: 'Transformed', work: 'Ado'},
+ , instances: 1, word: 'Transmigrates', work: 'Ado'},
+ , instances: 1, word: 'Tread', work: 'Ado'},
+ , instances: 1, word: 'Treason', work: 'Ado'},
+ , instances: 1, word: 'Treasons', work: 'Ado'},
+ , instances: 1, word: 'Treasurer', work: 'Ado'},
+ , instances: 1, word: 'Treasure\'s', work: 'Ado'},
+ , instances: 1, word: 'Treaties', work: 'Ado'},
+ , instances: 1, word: 'Treaty', work: 'Ado'},
+ , instances: 1, word: 'Treble-sinewed', work: 'Ado'},
+ , instances: 1, word: 'Trembled', work: 'Ado'},
+ , instances: 1, word: 'Tremblingly', work: 'Ado'},
+ , instances: 1, word: 'Trencher', work: 'Ado'},
+ , instances: 1, word: 'Trespasses', work: 'Ado'},
+ , instances: 1, word: 'Trial', work: 'Ado'},
+ , instances: 1, word: 'Tribunal', work: 'Ado'},
+ , instances: 1, word: 'Tributaries', work: 'Ado'},
+ , instances: 1, word: 'Trick', work: 'Ado'},
+ , instances: 1, word: 'Tricks', work: 'Ado'},
+ , instances: 1, word: 'Trifles', work: 'Ado'},
+ , instances: 1, word: 'Trim', work: 'Ado'},
+ , instances: 1, word: 'Trimming', work: 'Ado'},
+ , instances: 1, word: 'Triple', work: 'Ado'},
+ , instances: 1, word: 'Triple-turned', work: 'Ado'},
+ , instances: 1, word: 'Triumphed', work: 'Ado'},
+ , instances: 1, word: 'Triumphing', work: 'Ado'},
+ , instances: 1, word: 'Triumvirate', work: 'Ado'},
+ , instances: 1, word: 'Trivial', work: 'Ado'},
+ , instances: 1, word: 'Trouble', work: 'Ado'},
+ , instances: 1, word: 'Trull', work: 'Ado'},
+ , instances: 1, word: 'Trumpet', work: 'Ado'},
+ , instances: 1, word: 'Trumpeters', work: 'Ado'},
+ , instances: 1, word: 'Trumpets', work: 'Ado'},
+ , instances: 1, word: 'Trusted', work: 'Ado'},
+ , instances: 1, word: 'Trusting', work: 'Ado'},
+ , instances: 1, word: 'Tug', work: 'Ado'},
+ , instances: 1, word: 'Tumble', work: 'Ado'},
+ , instances: 1, word: 'Tunèd', work: 'Ado'},
+ , instances: 1, word: 'Turns', work: 'Ado'},
+ , instances: 1, word: 'Turpitude', work: 'Ado'},
+ , instances: 1, word: 'Twins', work: 'Ado'},
+ , instances: 1, word: 'Ugly', work: 'Ado'},
+ , instances: 1, word: 'Unarm', work: 'Ado'},
+ , instances: 1, word: 'Unbewailed', work: 'Ado'},
+ , instances: 1, word: 'Unbuckles', work: 'Ado'},
+ , instances: 1, word: 'Uncaught', work: 'Ado'},
+ , instances: 1, word: 'Uncuckolded', work: 'Ado'},
+ , instances: 1, word: 'Uncurbable', work: 'Ado'},
+ , instances: 1, word: 'Understand', work: 'Ado'},
+ , instances: 1, word: 'Undid', work: 'Ado'},
+ , instances: 1, word: 'Undinted', work: 'Ado'},
+ , instances: 1, word: 'Undo', work: 'Ado'},
+ , instances: 1, word: 'Undoing', work: 'Ado'},
+ , instances: 1, word: 'Unequal', work: 'Ado'},
+ , instances: 1, word: 'Unexecuted', work: 'Ado'},
+ , instances: 1, word: 'Unfolded', work: 'Ado'},
+ , instances: 1, word: 'Ungentle', work: 'Ado'},
+ , instances: 1, word: 'Unhacked', work: 'Ado'},
+ , instances: 1, word: 'Unhair', work: 'Ado'},
+ , instances: 1, word: 'Unhappy', work: 'Ado'},
+ , instances: 1, word: 'Unheard', work: 'Ado'},
+ , instances: 1, word: 'Unity', work: 'Ado'},
+ , instances: 1, word: 'Unkindness', work: 'Ado'},
+ , instances: 1, word: 'Unknown', work: 'Ado'},
+ , instances: 1, word: 'Unlawful', work: 'Ado'},
+ , instances: 1, word: 'Unlike', work: 'Ado'},
+ , instances: 1, word: 'Unloading', work: 'Ado'},
+ , instances: 1, word: 'Unloved', work: 'Ado'},
+ , instances: 1, word: 'Unmatchable', work: 'Ado'},
+ , instances: 1, word: 'Unnoble', work: 'Ado'},
+ , instances: 1, word: 'Unparalleled', work: 'Ado'},
+ , instances: 1, word: 'Unpeople', work: 'Ado'},
+ , instances: 1, word: 'Unpitied', work: 'Ado'},
+ , instances: 1, word: 'Unpolicied', work: 'Ado'},
+ , instances: 1, word: 'Unpressed', work: 'Ado'},
+ , instances: 1, word: 'Unpurposed', work: 'Ado'},
+ , instances: 1, word: 'Unqualitied', work: 'Ado'},
+ , instances: 1, word: 'Unreconciliable', work: 'Ado'},
+ , instances: 1, word: 'Unregistered', work: 'Ado'},
+ , instances: 1, word: 'Unrestored', work: 'Ado'},
+ , instances: 1, word: 'Unseen', work: 'Ado'},
+ , instances: 1, word: 'Unseminared', work: 'Ado'},
+ , instances: 1, word: 'Unshown', work: 'Ado'},
+ , instances: 1, word: 'Unslipping', work: 'Ado'},
+ , instances: 1, word: 'Unstate', work: 'Ado'},
+ , instances: 1, word: 'Untie', work: 'Ado'},
+ , instances: 1, word: 'Unworthy', work: 'Ado'},
+ , instances: 1, word: 'Uplift', work: 'Ado'},
+ , instances: 1, word: 'Uprise', work: 'Ado'},
+ , instances: 1, word: 'Urgent', work: 'Ado'},
+ , instances: 1, word: 'Useful', work: 'Ado'},
+ , instances: 1, word: 'Usher', work: 'Ado'},
+ , instances: 1, word: 'Utterly', work: 'Ado'},
+ , instances: 1, word: 'Vagabond', work: 'Ado'},
+ , instances: 1, word: 'Vales', work: 'Ado'},
+ , instances: 1, word: 'Valiantly', work: 'Ado'},
+ , instances: 1, word: 'Valued', work: 'Ado'},
+ , instances: 1, word: 'Vanish', work: 'Ado'},
+ , instances: 1, word: 'Vanishest', work: 'Ado'},
+ , instances: 1, word: 'Vanquished', work: 'Ado'},
+ , instances: 1, word: 'Vant', work: 'Ado'},
+ , instances: 1, word: 'Variance', work: 'Ado'},
+ , instances: 1, word: 'Variety', work: 'Ado'},
+ , instances: 1, word: 'Varletry', work: 'Ado'},
+ , instances: 1, word: 'Varrius', work: 'Ado'},
+ , instances: 1, word: 'Vats', work: 'Ado'},
+ , instances: 1, word: 'Veins', work: 'Ado'},
+ , instances: 1, word: 'Venomous', work: 'Ado'},
+ , instances: 1, word: 'Vent', work: 'Ado'},
+ , instances: 1, word: 'Vented', work: 'Ado'},
+ , instances: 1, word: 'Vesper\'s', work: 'Ado'},
+ , instances: 1, word: 'Vessels', work: 'Ado'},
+ , instances: 1, word: 'Vestal', work: 'Ado'},
+ , instances: 1, word: 'Vex', work: 'Ado'},
+ , instances: 1, word: 'Vials', work: 'Ado'},
+ , instances: 1, word: 'Viands', work: 'Ado'},
+ , instances: 1, word: 'Vice', work: 'Ado'},
+ , instances: 1, word: 'Viciousness', work: 'Ado'},
+ , instances: 1, word: 'Victorious', work: 'Ado'},
+ , instances: 1, word: 'Vie', work: 'Ado'},
+ , instances: 1, word: 'Vile', work: 'Ado'},
+ , instances: 1, word: 'Vilest', work: 'Ado'},
+ , instances: 1, word: 'Villainy', work: 'Ado'},
+ , instances: 1, word: 'Vine', work: 'Ado'},
+ , instances: 1, word: 'Violate', work: 'Ado'},
+ , instances: 1, word: 'Violence', work: 'Ado'},
+ , instances: 1, word: 'Visage', work: 'Ado'},
+ , instances: 1, word: 'Visible', work: 'Ado'},
+ , instances: 1, word: 'Visit', work: 'Ado'},
+ , instances: 1, word: 'Visiting', work: 'Ado'},
+ , instances: 1, word: 'Voice', work: 'Ado'},
+ , instances: 1, word: 'Volley', work: 'Ado'},
+ , instances: 1, word: 'Voluptuousness', work: 'Ado'},
+ , instances: 1, word: 'Vouchsafed', work: 'Ado'},
+ , instances: 1, word: 'Vouchsafing', work: 'Ado'},
+ , instances: 1, word: 'Vows', work: 'Ado'},
+ , instances: 1, word: 'Vulgar', work: 'Ado'},
+ , instances: 1, word: 'Wage', work: 'Ado'},
+ , instances: 1, word: 'Wagered', work: 'Ado'},
+ , instances: 1, word: 'Wailed', work: 'Ado'},
+ , instances: 1, word: 'Walked', work: 'Ado'},
+ , instances: 1, word: 'Walking', work: 'Ado'},
+ , instances: 1, word: 'Wander', work: 'Ado'},
+ , instances: 1, word: 'Wanned', work: 'Ado'},
+ , instances: 1, word: 'Wanted', work: 'Ado'},
+ , instances: 1, word: 'Wants', work: 'Ado'},
+ , instances: 1, word: 'War-marked', work: 'Ado'},
+ , instances: 1, word: 'Warlike', work: 'Ado'},
+ , instances: 1, word: 'Warmth', work: 'Ado'},
+ , instances: 1, word: 'Warred', work: 'Ado'},
+ , instances: 1, word: 'Warrior', work: 'Ado'},
+ , instances: 1, word: 'Wassails', work: 'Ado'},
+ , instances: 1, word: 'Waste', work: 'Ado'},
+ , instances: 1, word: 'Wastes', work: 'Ado'},
+ , instances: 1, word: 'Watch', work: 'Ado'},
+ , instances: 1, word: 'Watchmen', work: 'Ado'},
+ , instances: 1, word: 'Waterflies', work: 'Ado'},
+ , instances: 1, word: 'Waters', work: 'Ado'},
+ , instances: 1, word: 'Weaker', work: 'Ado'},
+ , instances: 1, word: 'Weakness', work: 'Ado'},
+ , instances: 1, word: 'Wearer', work: 'Ado'},
+ , instances: 1, word: 'Wears', work: 'Ado'},
+ , instances: 1, word: 'Weeds', work: 'Ado'},
+ , instances: 1, word: 'Weeps', work: 'Ado'},
+ , instances: 1, word: 'Weet', work: 'Ado'},
+ , instances: 1, word: 'Weigh', work: 'Ado'},
+ , instances: 1, word: 'Weighs', work: 'Ado'},
+ , instances: 1, word: 'Well-divided', work: 'Ado'},
+ , instances: 1, word: 'Well-paid', work: 'Ado'},
+ , instances: 1, word: 'Wench', work: 'Ado'},
+ , instances: 1, word: 'Wenches', work: 'Ado'},
+ , instances: 1, word: 'Wert', work: 'Ado'},
+ , instances: 1, word: 'Wet', work: 'Ado'},
+ , instances: 1, word: 'We\'d', work: 'Ado'},
+ , instances: 1, word: 'Wharfs', work: 'Ado'},
+ , instances: 1, word: 'Whatsome\'er', work: 'Ado'},
+ , instances: 1, word: 'Wheat', work: 'Ado'},
+ , instances: 1, word: 'Wheel', work: 'Ado'},
+ , instances: 1, word: 'Wheeled', work: 'Ado'},
+ , instances: 1, word: 'Wheels', work: 'Ado'},
+ , instances: 1, word: 'Whelp', work: 'Ado'},
+ , instances: 1, word: 'Whence', work: 'Ado'},
+ , instances: 1, word: 'Wherefore\'s', work: 'Ado'},
+ , instances: 1, word: 'Whereon', work: 'Ado'},
+ , instances: 1, word: 'Whiles', work: 'Ado'},
+ , instances: 1, word: 'Whine', work: 'Ado'},
+ , instances: 1, word: 'Whistling', work: 'Ado'},
+ , instances: 1, word: 'Wholly', work: 'Ado'},
+ , instances: 1, word: 'Whores', work: 'Ado'},
+ , instances: 1, word: 'Whoreson', work: 'Ado'},
+ , instances: 1, word: 'Wide', work: 'Ado'},
+ , instances: 1, word: 'Widower', work: 'Ado'},
+ , instances: 1, word: 'Willingly', work: 'Ado'},
+ , instances: 1, word: 'Windowed', work: 'Ado'},
+ , instances: 1, word: 'Windows', work: 'Ado'},
+ , instances: 1, word: 'Wing', work: 'Ado'},
+ , instances: 1, word: 'Wings', work: 'Ado'},
+ , instances: 1, word: 'Winter', work: 'Ado'},
+ , instances: 1, word: 'Wipe', work: 'Ado'},
+ , instances: 1, word: 'Wire', work: 'Ado'},
+ , instances: 1, word: 'Wished', work: 'Ado'},
+ , instances: 1, word: 'Wishers', work: 'Ado'},
+ , instances: 1, word: 'Witchcraft', work: 'Ado'},
+ , instances: 1, word: 'Wither', work: 'Ado'},
+ , instances: 1, word: 'Withered', work: 'Ado'},
+ , instances: 1, word: 'Womanly', work: 'Ado'},
+ , instances: 1, word: 'Women\'s', work: 'Ado'},
+ , instances: 1, word: 'Wonder', work: 'Ado'},
+ , instances: 1, word: 'Wonderful', work: 'Ado'},
+ , instances: 1, word: 'Workaday', work: 'Ado'},
+ , instances: 1, word: 'Workman', work: 'Ado'},
+ , instances: 1, word: 'World-sharers', work: 'Ado'},
+ , instances: 1, word: 'Worm\'s', work: 'Ado'},
+ , instances: 1, word: 'Worship', work: 'Ado'},
+ , instances: 1, word: 'Wot\'st', work: 'Ado'},
+ , instances: 1, word: 'Wounded', work: 'Ado'},
+ , instances: 1, word: 'Wounding', work: 'Ado'},
+ , instances: 1, word: 'Wrangle', work: 'Ado'},
+ , instances: 1, word: 'Wrangling', work: 'Ado'},
+ , instances: 1, word: 'Wrath', work: 'Ado'},
+ , instances: 1, word: 'Wrestle', work: 'Ado'},
+ , instances: 1, word: 'Wretch', work: 'Ado'},
+ , instances: 1, word: 'Wretched', work: 'Ado'},
+ , instances: 1, word: 'Wrinkles', work: 'Ado'},
+ , instances: 1, word: 'Writ', work: 'Ado'},
+ , instances: 1, word: 'Writings', work: 'Ado'},
+ , instances: 1, word: 'Wronged', work: 'Ado'},
+ , instances: 1, word: 'Wrongèd', work: 'Ado'},
+ , instances: 1, word: 'Yarely', work: 'Ado'},
+ , instances: 1, word: 'Yesterday', work: 'Ado'},
+ , instances: 1, word: 'Yielding', work: 'Ado'},
+ , instances: 1, word: 'Yon', work: 'Ado'},
+ , instances: 1, word: 'Younger', work: 'Ado'},
+ , instances: 1, word: 'Yourselves', work: 'Ado'},
+ , instances: 1, word: '\'a', work: 'Ado'},
+ , instances: 1, word: '\'greed', work: 'Ado'},
+ , instances: 1, word: '\'scape', work: 'Ado'},
+ , instances: 1, word: '\'stroyed', work: 'Ado'},
+ , instances: 1, word: '\'tween', work: 'Ado'},

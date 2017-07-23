@@ -7,16 +7,6 @@ exports.seed = function (knex) {
    return knex('all_people').del()
  })
  .then(() => {
-   return knex('people_1h4').del()
+   return knex('word_frequency').del()
  })
- .then(() => {
-   return knex('people_ado').del()
- })
- .then(() => {
-   return knex('people_ant').del()
- })
- .then(() => {
-   return knex('people_ham').del()
- })
-
 }

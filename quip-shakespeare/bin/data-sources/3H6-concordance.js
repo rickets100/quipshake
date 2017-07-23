@@ -1,3577 +1,3575 @@
-Concordance of Henry VI, Part 3:
-
-866: And
-767: The
-576: To
-487: I
-415: My
-398: Of
-325: That
-276: For
-270: A
-266: In
-258: His
-254: With
-219: Thou
-208: Be
-200: Thy
-199: Is
-198: Not
-196: You
-194: But
-192: This
-183: Me
-146: He
-144: It
-144: King
-143: As
-143: Your
-142: Our
-138: Will
-137: What
-132: Him
-125: Now
-123: Have
-120: We
-119: Shall
-119: Thee
-115: So
-115: Warwick
-106: By
-106: No
-94: If
-91: From
-86: Then
-80: All
-78: Or
-77: At
-75: Lord
-75: More
-74: Are
-74: Their
-72: Edward
-71: Why
-70: How
-68: Father
-65: Was
-63: Henry
-62: Brother
-61: Do
-61: Her
-60: Crown
-60: Hath
-60: Them
-59: I’ll
-59: On
-59: York
-57: Here
-56: Like
-56: Us
-55: Queen
-54: Than
-53: Ay
-53: Make
-51: Yet
-50: Let
-50: May
-49: When
-48: Should
-48: They
-47: Were
-47: Would
-46: Am
-45: Speak
-44: Clifford
-44: Come
-44: Duke
-44: Lords
-44: Son
-43: O
-42: Unto
-41: Love
-41: Where
-40: Clarence
-40: These
-39: Death
-39: Leave
-39: Must
-39: Well
-39: Which
-38: An
-38: Blood
-38: Did
-38: See
-38: Take
-38: Tell
-37: Heart
-37: Mine
-36: ’tis
-35: Away
-35: Both
-35: Many
-34: Can
-34: Good
-34: Up
-33: France
-33: Richard
-33: Say
-33: Stay
-33: Such
-32: Doth
-32: Give
-32: Had
-32: Hear
-32: Sweet
-31: Hand
-31: Men
-31: Upon
-31: Words
-30: She
-30: Therefore
-29: Ah
-29: God
-29: Head
-29: Life
-29: Made
-29: Nor
-29: One
-29: Right
-29: Too
-28: Go
-28: Never
-27: Down
-27: Much
-27: Rest
-27: Who
-26: Friends
-26: Hence
-26: Stand
-26: Thine
-25: Art
-25: Fear
-25: Hope
-25: Till
-24: Before
-24: Fly
-24: Man
-24: Thus
-24: Whose
-23: Cannot
-23: Myself
-23: Off
-23: Out
-23: Tears
-22: Again
-22: Know
-22: Some
-21: Bear
-21: Edward’s
-21: Fight
-21: Henry’s
-21: House
-21: True
-20: Day
-20: Hands
-20: Hast
-20: Montague
-20: Nay
-20: Once
-20: Poor
-20: There
-20: Time
-20: War
-20: While
-20: Whom
-19: Lewis
-19: Oath
-19: Shalt
-19: Yield
-18: Gentle
-18: Live
-18: News
-18: Pity
-18: Though
-18: Way
-17: Comes
-17: Done
-17: Father’s
-17: Great
-17: Lancaster
-17: Margaret
-17: Prince
-17: Set
-17: Soldiers
-17: Soul
-17: Think
-16: Being
-16: Better
-16: Boy
-16: Else
-16: Ere
-16: Face
-16: Fortune
-16: Friend
-16: Grace
-16: Gracious
-16: Let’s
-16: London
-16: Makes
-16: Oxford
-16: Sovereign
-16: Thousand
-16: Wilt
-16: Young
-15: Brave
-15: Eyes
-15: Heard
-15: Heaven
-15: Hold
-15: Revenge
-15: Somerset
-15: Title
-14: Against
-14: Any
-14: Been
-14: Came
-14: Fair
-14: Farewell
-14: Foe
-14: Follow
-14: Gates
-14: Himself
-14: Mean
-14: Plantagenet
-14: Slain
-14: Valiant
-14: We’ll
-14: Wind
-13: Battle
-13: Die
-13: Even
-13: Far
-13: Field
-13: Heir
-13: Honor
-13: Lady
-13: March
-13: Mind
-13: Sit
-13: Sons
-13: Still
-13: Thanks
-13: Unless
-13: World
-12: About
-12: Body
-12: Bona
-12: Could
-12: Dead
-12: Earl
-12: Full
-12: Help
-12: Look
-12: Marriage
-12: Meet
-12: Ne’er
-12: Pardon
-12: Proud
-12: Shame
-12: State
-12: Sun
-12: Those
-12: Tongue
-12: Warwick’s
-12: ’twas
-11: Another
-11: Answer
-11: Best
-11: Bloody
-11: Call
-11: Gave
-11: George
-11: Grief
-11: Joy
-11: Lands
-11: Left
-11: Long
-11: Means
-11: Peace
-11: Sea
-11: Seek
-11: Ten
-11: Two
-10: After
-10: Arms
-10: England
-10: England’s
-10: Foes
-10: Gone
-10: Kings
-10: Lives
-10: Looks
-10: Loss
-10: Loving
-10: Methinks
-10: Might
-10: Night
-10: Other
-10: Place
-10: Sorrow
-10: Strength
-10: Thought
-10: Thyself
-10: Use
-10: Wear
-10: Whiles
-9: Alas
-9: Along
-9: Back
-9: Blows
-9: Break
-9: Canst
-9: Courage
-9: Doubt
-9: English
-9: Every
-9: First
-9: Forth
-9: Got
-9: Grant
-9: Hadst
-9: Hastings
-9: Keep
-9: Lawful
-9: Mercy
-9: Name
-9: Noble
-9: Norfolk
-9: Parliament
-9: Rather
-9: Reign
-9: Royal
-9: Rutland
-9: Sir
-9: Slew
-9: Stands
-9: Sword
-9: That’s
-9: Throne
-9: Turn
-9: Victory
-9: Welcome
-9: Widow
-9: Wrong
-8: Awhile
-8: Bid
-8: Breast
-8: Breathe
-8: Brothers
-8: Charge
-8: Child
-8: Content
-8: Cried
-8: Earth
-8: Enemies
-8: Exeter
-8: Fearful
-8: Fled
-8: Gloucester
-8: Less
-8: Liege
-8: Little
-8: Lose
-8: Lost
-8: Majesty
-8: New
-8: Northumberland
-8: Only
-8: Open
-8: Pleasure
-8: Post
-8: Quickly
-8: Said
-8: Saint
-8: Seat
-8: Soon
-8: Sound
-8: Strike
-8: Suit
-8: Three
-8: Traitor
-8: Very
-8: Weep
-8: Whence
-7: Aid
-7: Arm
-7: Because
-7: Belike
-7: Brought
-7: Cause
-7: Chair
-7: Cold
-7: Colors
-7: Consent
-7: Daughter
-7: Days
-7: Didst
-7: Dukedom
-7: Ever
-7: Eye
-7: Faint
-7: Fall
-7: False
-7: Fatal
-7: Forward
-7: Foul
-7: God’s
-7: Ground
-7: Happy
-7: Having
-7: Hours
-7: Into
-7: John
-7: Kill
-7: Kingdom
-7: King’s
-7: Kneel
-7: Last
-7: Mother
-7: Nothing
-7: Old
-7: Ourselves
-7: Over
-7: Own
-7: Power
-7: Princely
-7: Prove
-7: Put
-7: Regal
-7: Subjects
-7: Thing
-7: Times
-7: Together
-7: Truth
-7: Vow
-7: Wife
-7: Word
-7: Worthy
-7: ’twere
-6: Bed
-6: Blow
-6: Born
-6: Bride
-6: Bring
-6: Broke
-6: Children
-6: Claim
-6: Command
-6: Common
-6: Course
-6: Cousin
-6: Despite
-6: Draw
-6: Dry
-6: Ears
-6: Either
-6: End
-6: Enough
-6: Fault
-6: Fell
-6: Find
-6: Flight
-6: Followers
-6: Forthwith
-6: Fury
-6: Guard
-6: Here’s
-6: He’ll
-6: He’s
-6: High
-6: Hither
-6: Hour
-6: Humble
-6: Join
-6: Kiss
-6: Knee
-6: Land
-6: Late
-6: Longer
-6: Madam
-6: Master
-6: Need
-6: Neither
-6: Palace
-6: Part
-6: Point
-6: Quarrel
-6: Reason
-6: Return
-6: Sake
-6: Seas
-6: Seem
-6: Since
-6: Sister
-6: Strong
-6: Subject
-6: Swear
-6: Talk
-6: Throw
-6: Tide
-6: Took
-6: Towards
-6: Tower
-6: Until
-6: Women
-6: Wonder
-6: Wounds
-6: Years
-6: ’t
-5: Add
-5: Alliance
-5: Always
-5: Amain
-5: Aside
-5: Become
-5: Burgundy
-5: Case
-5: Challenge
-5: Cheeks
-5: Cheer
-5: Confess
-5: Cry
-5: Cut
-5: Deeds
-5: Defense
-5: Depart
-5: Deposed
-5: Dost
-5: Each
-5: Fast
-5: Few
-5: Fill
-5: Five
-5: Forbid
-5: Force
-5: Forget
-5: Fourth
-5: Free
-5: Frowns
-5: Further
-5: Get
-5: Glorious
-5: Golden
-5: Goodly
-5: Hard
-5: Haste
-5: Heavy
-5: Hell
-5: Highness
-5: Issue
-5: Jest
-5: Killed
-5: Least
-5: Lest
-5: Letters
-5: Lion
-5: Measure
-5: Mighty
-5: Mortal
-5: Most
-5: Often
-5: Person
-5: Play
-5: Prisoner
-5: Rage
-5: Ready
-5: Resign
-5: Rise
-5: Root
-5: Ruthless
-5: Safety
-5: Says
-5: Seen
-5: Sent
-5: Shed
-5: Sight
-5: Smile
-5: Steel
-5: Success
-5: Sure
-5: Tear
-5: Thence
-5: Thereof
-5: Think’st
-5: Town
-5: Under
-5: Virtuous
-5: Want
-5: Warriors
-5: Wast
-5: Weak
-5: Wert
-5: Whither
-5: Wings
-5: Wise
-5: Wish
-5: Withal
-5: Woe
-5: Woman
-5: Yes
-5: Yourself
-5: You’ll
-4: Above
-4: Abroad
-4: Act
-4: Aim
-4: Air
-4: Albans
-4: Alone
-4: Already
-4: Army
-4: Ask
-4: Bears
-4: Behalf
-4: Bend
-4: Bird
-4: Black
-4: Blame
-4: Bold
-4: Bootless
-4: Branch
-4: Brook
-4: Brother’s
-4: Bush
-4: Care
-4: Chief
-4: City
-4: Clifford’s
-4: Close
-4: Cloud
-4: Coming
-4: Counsel
-4: Crave
-4: Cross
-4: Crowned
-4: Crowns
-4: Danger
-4: Dare
-4: Deadly
-4: Deed
-4: Deer
-4: Deserved
-4: Despair
-4: Diadem
-4: Dreadful
-4: Drums
-4: Durst
-4: Ease
-4: Embrace
-4: Enjoy
-4: Enter
-4: Equal
-4: Faith
-4: Faults
-4: Flies
-4: Foot
-4: Forced
-4: Former
-4: Fortune’s
-4: Fruit
-4: Gift
-4: Government
-4: Grave
-4: Grey
-4: Guess
-4: Half
-4: Harm
-4: Home
-4: Horse
-4: Humbly
-4: Husband’s
-4: Joined
-4: Justice
-4: Keeps
-4: Kindness
-4: Kingly
-4: Knows
-4: Laid
-4: Liberty
-4: Lie
-4: Lies
-4: Light
-4: Lips
-4: Low
-4: Messenger
-4: Mild
-4: Mischance
-4: Mother’s
-4: Mourning
-4: Nature
-4: Near
-4: Ned
-4: Needs
-4: Next
-4: Oaths
-4: Oft
-4: Orator
-4: Ours
-4: Passed
-4: Patience
-4: Patient
-4: Pay
-4: People
-4: Plant
-4: Please
-4: Pray
-4: Proclaim
-4: Pursuit
-4: Realm
-4: Repossess
-4: Resolve
-4: Resolved
-4: Retire
-4: Revenged
-4: Rose
-4: Rough
-4: Safe
-4: Sail
-4: Satisfied
-4: Scepter
-4: Scotland
-4: Seated
-4: Secret
-4: Selfsame
-4: Send
-4: Service
-4: Side
-4: Sire
-4: Sits
-4: Sort
-4: Speed
-4: Spend
-4: Spirit
-4: Spite
-4: Spring
-4: Steeds
-4: Stir
-4: Storm
-4: Straight
-4: Suppose
-4: Tender
-4: Thirty
-4: Thoughts
-4: Through
-4: Told
-4: Treason
-4: Triumph
-4: Troops
-4: Trumpets
-4: Trust
-4: Twenty
-4: Virtue
-4: Waves
-4: What’s
-4: Wherefore
-4: Whilst
-4: Win
-4: Wit
-4: Within
-4: Wrath
-4: Yea
-4: Yours
-4: Youth
-4: ’gainst
-3: Abide
-3: Ambitious
-3: Arise
-3: Armor
-3: Attended
-3: Axe
-3: Backed
-3: Bands
-3: Bearing
-3: Beat
-3: Beg
-3: Begins
-3: Beloved
-3: Bethink
-3: Between
-3: Birds
-3: Bishop
-3: Bishop’s
-3: Bite
-3: Bliss
-3: Bodies
-3: Body’s
-3: Borne
-3: Bred
-3: Brings
-3: Brittany
-3: Broken
-3: Brows
-3: Burns
-3: Called
-3: Cam’st
-3: Car
-3: Castle
-3: Change
-3: Check
-3: Civil
-3: Commanded
-3: Commands
-3: Company
-3: Conquest
-3: Contented
-3: Conveyed
-3: Country
-3: Coventry
-3: Cowardice
-3: Crookback
-3: Cruel
-3: Dangerous
-3: Dares
-3: Deceived
-3: Defend
-3: Defy
-3: Delay
-3: Demand
-3: Deny
-3: Descent
-3: Desire
-3: Devise
-3: Dishonor
-3: Disinherit
-3: Dismal
-3: Doom
-3: Drowned
-3: Drum
-3: Dust
-3: Enemy
-3: Escape
-3: Evil
-3: Executioner
-3: Fares
-3: Feather
-3: Fence
-3: Fiery
-3: Fifth
-3: Filled
-3: Fire
-3: Forbear
-3: Forces
-3: Forest
-3: Fought
-3: Frown
-3: Game
-3: Gaunt
-3: Gently
-3: Giving
-3: Glory
-3: Goes
-3: Grandfather
-3: Grieve
-3: Guilty
-3: Hark
-3: Harmless
-3: Hate
-3: Hears
-3: Heart’s
-3: Heavens
-3: Heirs
-3: Henceforth
-3: Holy
-3: Hurt
-3: Ill
-3: Image
-3: Insulting
-3: Jerusalem
-3: Joys
-3: Judgment
-3: Just
-3: Kept
-3: Knew
-3: Lad
-3: Lamb
-3: League
-3: Learn
-3: Legs
-3: Likely
-3: Linger
-3: Lived
-3: Lo
-3: Manhood
-3: Marry
-3: Matter
-3: Mayor
-3: Mildness
-3: Miserable
-3: Mock
-3: Montgomery
-3: Months
-3: Murder
-3: Napkin
-3: Needful
-3: Nigh
-3: None
-3: Obey
-3: Object
-3: Occasion
-3: Odds
-3: Offense
-3: Owl
-3: Pain
-3: Pale
-3: Pass
-3: Passage
-3: Pause
-3: Perforce
-3: Perjured
-3: Plague
-3: Plain
-3: Pluck
-3: Policy
-3: Possession
-3: Presently
-3: Prey
-3: Prick
-3: Prison
-3: Promise
-3: Protector
-3: Puissant
-3: Purple
-3: Quench
-3: Quite
-3: Raise
-3: Remain
-3: Remains
-3: Renownèd
-3: Repair
-3: Request
-3: Requite
-3: Resolution
-3: Rests
-3: Richmond
-3: Rock
-3: Rocks
-3: Ruin
-3: Rule
-3: Run
-3: Sad
-3: Scaped
-3: Scouts
-3: Seeing
-3: Seize
-3: Seized
-3: Sepulcher
-3: Serve
-3: Shade
-3: Shadow
-3: Shameless
-3: Shortly
-3: Shoulder
-3: Show
-3: Shows
-3: Shut
-3: Sighs
-3: Sign
-3: Signal
-3: Silly
-3: Simple
-3: Sin
-3: Single
-3: Sith
-3: Slaughter
-3: Slept
-3: Slyly
-3: Small
-3: Soft
-3: Soul’s
-3: Spread
-3: Stabbed
-3: Stained
-3: Steal
-3: Stern
-3: Stones
-3: Stoop
-3: Stops
-3: Succeed
-3: Succession
-3: Succor
-3: Suns
-3: Sunshine
-3: Supply
-3: Sworn
-3: Takes
-3: Task
-3: Teeth
-3: Tent
-3: There’s
-3: Thinks
-3: Thither
-3: Threat’ning
-3: Th’
-3: Torment
-3: Toward
-3: Towns
-3: Traitors
-3: Tree
-3: Troy
-3: Turned
-3: Unawares
-3: Uncles
-3: Unnatural
-3: Unsheathe
-3: Usurp
-3: Usurping
-3: Usurps
-3: Vain
-3: Valor
-3: Vengeance
-3: Vouchsafe
-3: Warlike
-3: Wash
-3: Water
-3: Weeds
-3: Weight
-3: Went
-3: Whate’er
-3: Whenas
-3: Where’s
-3: Whether
-3: White
-3: Winter’s
-3: Wipe
-3: Woeful
-3: Wolf
-3: Wolves
-3: Woman’s
-3: Won
-3: Wondered
-3: Wot
-3: Wouldst
-3: Wound
-3: Wretch
-3: Write
-3: Yoke
-2: Able
-2: Abuse
-2: Account
-2: Accursèd
-2: Adopted
-2: Advertised
-2: Affords
-2: Age
-2: Agree
-2: Alive
-2: Allegiance
-2: Although
-2: Ambassador
-2: Amends
-2: Amity
-2: Amongst
-2: Anchor
-2: Anger
-2: Anointed
-2: Arguments
-2: Armed
-2: Arrived
-2: Articles
-2: Assist
-2: Avoided
-2: Backs
-2: Bad
-2: Balm
-2: Bark
-2: Barnet
-2: Battles
-2: Battle’s
-2: Beams
-2: Beauty’s
-2: Becomes
-2: Befall
-2: Befall’n
-2: Befits
-2: Behold
-2: Bereft
-2: Besiege
-2: Bestride
-2: Betimes
-2: Bewray
-2: Bids
-2: Birth
-2: Birthright
-2: Blast
-2: Bless
-2: Blest
-2: Blown
-2: Blunt
-2: Blush
-2: Blushing
-2: Bones
-2: Boots
-2: Bow
-2: Brat
-2: Brazen
-2: Breathed
-2: Breeder
-2: Broached
-2: Buckingham
-2: Buckler
-2: Burst
-2: Butcher
-2: Butchers
-2: Buy
-2: Buzz
-2: Caesar
-2: Calm
-2: Cannibals
-2: Captain
-2: Captive
-2: Careless
-2: Catch
-2: Causes
-2: Cease
-2: Chains
-2: Chance
-2: Charged
-2: Cheered
-2: Cheers
-2: Chide
-2: Chiefest
-2: Choice
-2: Choosing
-2: Chop
-2: Chosen
-2: Clouds
-2: Coast
-2: Cobham
-2: Comfort
-2: Conclude
-2: Conference
-2: Confirm
-2: Conqueror
-2: Conquerèd
-2: Conscience
-2: Constant
-2: Contend
-2: Contrary
-2: Cost
-2: Country’s
-2: Court
-2: Coward
-2: Create
-2: Cries
-2: Curse
-2: Daily
-2: Dam
-2: Daughters
-2: Dauphin
-2: Dear
-2: Dearest
-2: Dearly
-2: Death’s
-2: Deceit
-2: Deck
-2: Desert
-2: Deserves
-2: Devotion
-2: Died
-2: Disdain
-2: Disinherited
-2: Divine
-2: Dogs
-2: Doves
-2: Downfall
-2: Downright
-2: Dread
-2: Dream
-2: Drink
-2: Drooping
-2: Drown
-2: Dukes
-2: Duty
-2: Eager
-2: Eagle
-2: Easy
-2: Edge
-2: Elder
-2: Encompassed
-2: Encounter
-2: Encountered
-2: Enforced
-2: Enjoys
-2: Enmity
-2: Entail
-2: Entered
-2: Entreat
-2: Envious
-2: Environèd
-2: Estate
-2: Execute
-2: Extremes
-2: Falsehood
-2: Fame
-2: Famed
-2: Famous
-2: Fare
-2: Favors
-2: Fellow
-2: Felt
-2: Finds
-2: Firm
-2: Flatter
-2: Fleece
-2: Flesh
-2: Flinty
-2: Flock
-2: Flood
-2: Fool
-2: Foreign
-2: Forgive
-2: Forlorn
-2: Forsake
-2: Forsworn
-2: Fortunate
-2: Forwardness
-2: Freely
-2: French
-2: Fresh
-2: Fruits
-2: Gain
-2: Gallant
-2: Garland
-2: Gasp
-2: Gate
-2: Gentleman
-2: Gentlemen
-2: Given
-2: Giv’n
-2: Glories
-2: Gold
-2: Gotten
-2: Govern
-2: Graced
-2: Grandsire
-2: Granted
-2: Greater
-2: Greatest
-2: Groan
-2: Growing
-2: Gust
-2: Hap
-2: Hapless
-2: Harbor
-2: Harry
-2: Hasty
-2: Hearts
-2: Heated
-2: Heave
-2: Heav’ns
-2: Held
-2: Helm
-2: Herd
-2: Hewn
-2: Highness’
-2: Hill
-2: Hinder
-2: Holds
-2: Homely
-2: Honest
-2: Honesty
-2: Honorably
-2: Honors
-2: Hoped-for
-2: Hundred
-2: Hunting
-2: Huntsmen
-2: Husband
-2: Impossible
-2: Imprisonment
-2: Impudent
-2: Indeed
-2: Injurious
-2: Instead
-2: Intend
-2: Intends
-2: Intent
-2: Ireful
-2: Iron
-2: Itself
-2: Kent
-2: Knife
-2: Knights
-2: Knowing
-2: Known
-2: Labor
-2: Lady’s
-2: Lambs
-2: Lament
-2: Latest
-2: Lay
-2: Lead
-2: Lean
-2: Leaves
-2: Lenity
-2: Levy
-2: Lieutenant
-2: Likes
-2: Line
-2: Lions
-2: Loath
-2: Lodge
-2: Looked
-2: Lovely
-2: Loves
-2: Lov’st
-2: Loyalty
-2: Luckless
-2: Lurking
-2: Mad
-2: Maintain
-2: Malcontent
-2: Male
-2: Malice
-2: Man’s
-2: Marble
-2: Marched
-2: Marked
-2: Maskers
-2: Mast
-2: Masters
-2: Matched
-2: Mayst
-2: Meaning
-2: Melt
-2: Melting
-2: Merry
-2: Met
-2: Minds
-2: Minutes
-2: Misshapen
-2: Mistrust
-2: Mocking
-2: Molehill
-2: Monarch
-2: Morning
-2: Mortimer
-2: Mounted
-2: Mourn
-2: Moves
-2: Murdered
-2: Muster
-2: Mutinous
-2: Naples
-2: Narrow
-2: Natural
-2: Night’s
-2: Nine
-2: Northern
-2: Offend
-2: Office
-2: Officers
-2: Ope
-2: Ordained
-2: Overthrow
-2: Owe
-2: O’er
-2: Park
-2: Parted
-2: Passion
-2: Past
-2: Pawned
-2: Peaceful
-2: Peck
-2: Pedigree
-2: Peers
-2: Pembroke
-2: People’s
-2: Perceive
-2: Perfect
-2: Perform
-2: Perhaps
-2: Persuade
-2: Phaëton
-2: Pierce
-2: Piercing
-2: Piteous
-2: Pitiful
-2: Plainly
-2: Plaints
-2: Played
-2: Pledge
-2: Powers
-2: Prayer
-2: Prepare
-2: Pressed
-2: Presume
-2: Presumption
-2: Prevails
-2: Prevent
-2: Pride
-2: Prithee
-2: Prize
-2: Proclaimed
-2: Proclamation
-2: Protectors
-2: Proudest
-2: Proveth
-2: Provide
-2: Purchase
-2: Pursue
-2: Pursued
-2: Queen’s
-2: Quiet
-2: Quondam
-2: Rain
-2: Raised
-2: Rapier’s
-2: Rate
-2: Readiness
-2: Reap
-2: Received
-2: Red
-2: Redress
-2: Remorse
-2: Renown
-2: Report
-2: Resembles
-2: Resolute
-2: Resteth
-2: Revel
-2: Reveled
-2: Revive
-2: Reward
-2: Rewards
-2: Rivers
-2: Robbed
-2: Robbers
-2: Room
-2: Round
-2: Rue
-2: Rutland’s
-2: Sailors
-2: Same
-2: Sands
-2: Satisfy
-2: Save
-2: Saw
-2: Sayst
-2: Scandal
-2: Scarce
-2: Scorn
-2: Scorns
-2: Seal
-2: Secure
-2: Seeks
-2: Seest
-2: Seldom
-2: Sending
-2: Sends
-2: Serves
-2: Severed
-2: Shake
-2: Sheep
-2: Shepherd
-2: She’s
-2: Shines
-2: Shook
-2: Shoot
-2: Shouldst
-2: Showed
-2: Showers
-2: Shroud
-2: Shun
-2: Sicils
-2: Sigh
-2: Silent
-2: Singled
-2: Sink
-2: Six
-2: Slaughtered
-2: Slay
-2: Sleep
-2: Smiles
-2: Smooth
-2: Soldier
-2: Solemn
-2: Sometime
-2: Sorrows
-2: Sorts
-2: Sour
-2: Southam
-2: Sovereignty
-2: Sovereign’s
-2: Spark
-2: Sparkling
-2: Spectacle
-2: Speech
-2: Spoke
-2: Spoken
-2: Sport
-2: Springs
-2: Stafford
-2: Stanley
-2: Stars
-2: Sting
-2: Stole
-2: Stol’n
-2: Stop
-2: Stopped
-2: Storms
-2: Story
-2: Stout
-2: Strange
-2: Strengthen
-2: Strokes
-2: Stronger
-2: Subjects’
-2: Sudden
-2: Suffolk
-2: Summer
-2: Sung
-2: Supposèd
-2: Surprise
-2: Suspect
-2: Suspicion
-2: Swallow
-2: Sway
-2: Sways
-2: Sweetly
-2: Swim
-2: Swords
-2: Taken
-2: Talk’st
-2: Tarry
-2: Taught
-2: Taunts
-2: Tells
-2: Tempest
-2: Terms
-2: Thank
-2: Themselves
-2: Therein
-2: They’ll
-2: Thieves
-2: Things
-2: Thorns
-2: Thorny
-2: Thousandfold
-2: Threats
-2: Threefold
-2: Thrust
-2: Tidings
-2: Title’s
-2: Top
-2: Touching
-2: Traitor’s
-2: Tread
-2: Treasure
-2: Trembling
-2: Triumphs
-2: Trodden
-2: Troop
-2: Trouble
-2: Troublous
-2: Trumpet
-2: Tut
-2: Tyrant
-2: Ulysses
-2: Uncrown
-2: Understand
-2: Undertake
-2: Unfeignèd
-2: Unlooked-for
-2: Untimely
-2: Upholds
-2: Used
-2: Using
-2: Usurped
-2: Vanquished
-2: Vantages
-2: Victors
-2: View
-2: Violence
-2: Vowed
-2: Waft
-2: Walks
-2: Wall
-2: Wanton
-2: Wars
-2: War’s
-2: Washed
-2: Watched
-2: Wax
-2: Weapon
-2: Weeps
-2: Westmorland
-2: Wherein
-2: Whereof
-2: Wheresoe’er
-2: Widower
-2: Widow’s
-2: Willingly
-2: Willow
-2: Winding-sheet
-2: Winter
-2: Wisdom
-2: Wisest
-2: Wither
-2: Without
-2: Witness
-2: Woes
-2: Womb
-2: Wondrous
-2: Wont
-2: Wood
-2: Worse
-2: Worst
-2: Worth
-2: Wrack
-2: Wretched
-2: Wrongs
-2: Year
-2: Yonder
-2: ’twill
-1: &c
-1: Abandoned
-1: Abodements
-1: Aboding
-1: Abominable
-1: Abreast
-1: Absent
-1: Accept
-1: Accomplish
-1: According
-1: Accords
-1: Accursed
-1: Actors
-1: Adage
-1: Adder’s
-1: Adieu
-1: Adjudged
-1: Admiral
-1: Admired
-1: Ado
-1: Adopt
-1: Advantages
-1: Adventure
-1: Adversaries
-1: Advertisèd
-1: Aesop
-1: Affairs
-1: Afflict
-1: Afford
-1: Affright
-1: Afoot
-1: Agamemnon’s
-1: Ago
-1: Agony
-1: Aims
-1: Albion
-1: Albion’s
-1: Alike
-1: Allayed
-1: Allays
-1: Allowed
-1: All’s
-1: Almost
-1: Alms-deed
-1: Aloof
-1: Altered
-1: Amazon
-1: Amazonian
-1: Ambassadors
-1: Ambush
-1: Amount
-1: Angry
-1: Anguish
-1: Annoy
-1: Anon
-1: Answers
-1: Answerèd
-1: Antipodes
-1: Apparent
-1: Appear
-1: Appeased
-1: Applaud
-1: Apprehend
-1: Apprehension
-1: Approacheth
-1: Arch-enemy
-1: Archbishop
-1: Argosy
-1: Argue
-1: Argued
-1: Aright
-1: Armors
-1: Armèd
-1: Array
-1: Artificial
-1: Ashes
-1: Asking
-1: Aspire
-1: Aspiring
-1: Assail
-1: Assay
-1: Assistance
-1: Assurance
-1: Assure
-1: Assured
-1: Asunder
-1: Atlas
-1: Attain
-1: Attempt
-1: Attempting
-1: Attend
-1: Attentive
-1: Aubrey
-1: Augmented
-1: Aunt
-1: Author
-1: Authority
-1: Autumn’s
-1: Ave
-1: Avoid
-1: Avoiding
-1: Awful
-1: Axe’s
-1: Babe
-1: Babes
-1: Bachelor
-1: Backing
-1: Baleful
-1: Band
-1: Bandy
-1: Banished
-1: Base
-1: Baseborn
-1: Bashful
-1: Basilisk
-1: Bathed
-1: Batt’ry
-1: Beads
-1: Bear-whelp
-1: Beast
-1: Beauty
-1: Beaver
-1: Bechancèd
-1: Beck
-1: Becom’st
-1: Befell
-1: Began
-1: Beget
-1: Begetting
-1: Beggar
-1: Beggars
-1: Begin
-1: Begs
-1: Begun
-1: Behind
-1: Belgia
-1: Believe
-1: Bell
-1: Bells
-1: Belly
-1: Bemoaned
-1: Bending
-1: Bent
-1: Bereavèd
-1: Berwick
-1: Beseeching
-1: Beseem
-1: Beseems
-1: Beshrew
-1: Beside
-1: Bess
-1: Bestowed
-1: Betide
-1: Betrayed
-1: Beware
-1: Bewitch
-1: Beyond
-1: Bidd’st
-1: Bide
-1: Bides
-1: Big-swoll’n
-1: Bind
-1: Biting
-1: Bitter
-1: Blade
-1: Blaze
-1: Blazing
-1: Blessèd
-1: Blind
-1: Blood-sucking
-1: Bloods
-1: Bloody-minded
-1: Blot
-1: Blowing
-1: Bluntest
-1: Boast
-1: Bodes
-1: Boist’rous
-1: Boldly
-1: Bonville
-1: Book
-1: Boon
-1: Booty
-1: Border
-1: Bore
-1: Borough
-1: Bosom
-1: Bosoms
-1: Bottle
-1: Bought
-1: Bound
-1: Bourbon
-1: Brace
-1: Brake
-1: Braver
-1: Breaking
-1: Breasts
-1: Breech
-1: Brethren
-1: Brewed
-1: Bribe
-1: Bridal
-1: Bridle
-1: Brief
-1: Bright-shining
-1: Brinish
-1: Broils
-1: Broker
-1: Brood
-1: Brooks
-1: Brother-like
-1: Brotherhood
-1: Brotherly
-1: Brothers’
-1: Brow
-1: Bruit
-1: Budge
-1: Budged
-1: Bug
-1: Build
-1: Bull
-1: Burden
-1: Burièd
-1: Burn
-1: Burning
-1: Bury
-1: Butcherly
-1: Butcher’s
-1: Butt
-1: Bywords
-1: Cable
-1: Callet
-1: Callice
-1: Call’dst
-1: Call’st
-1: Cancelled
-1: Candle
-1: Cannon
-1: Canopy
-1: Cap
-1: Captivates
-1: Captives
-1: Captivity
-1: Carelessly
-1: Cares
-1: Carries
-1: Carve
-1: Cast
-1: Caught
-1: Caused
-1: Cavil
-1: Caviling
-1: Cedar
-1: Chafèd
-1: Chain
-1: Chameleon
-1: Champion
-1: Champions
-1: Chancellor
-1: Chances
-1: Channel
-1: Chaos
-1: Chaplain
-1: Charity
-1: Charm
-1: Chase
-1: Chased
-1: Chat
-1: Chatt’ring
-1: Cheerful
-1: Cheerly
-1: Cherish
-1: Chid
-1: Chides
-1: Chiefly
-1: Child-killer
-1: Childish
-1: Chimney’s
-1: Chivalry
-1: Choose
-1: Christendom
-1: Circled
-1: Circuit
-1: Cites
-1: Citizens
-1: Clangor
-1: Clear
-1: Clear-shining
-1: Cleaving
-1: Cleft
-1: Cliffords
-1: Climb
-1: Climbed
-1: Closed
-1: Closer
-1: Closèd
-1: Cloth
-1: Clouded
-1: Cloudy
-1: Coal-black
-1: Coals
-1: Coats
-1: Coffins
-1: Coldness
-1: Color
-1: Combat
-1: Comic
-1: Commanders
-1: Commanding
-1: Command’st
-1: Commend
-1: Committed
-1: Commixtures
-1: Commonwealth
-1: Compass
-1: Complete
-1: Complices
-1: Com’st
-1: Conceal
-1: Conceive
-1: Concerns
-1: Conclusion
-1: Concubine
-1: Conditionally
-1: Coney
-1: Confer
-1: Confiscate
-1: Conflict
-1: Conflicts
-1: Conform
-1: Congealed
-1: Congealèd
-1: Conquer
-1: Conquered
-1: Consents
-1: Consider
-1: Conspire
-1: Contemplate
-1: Contention
-1: Conveyance
-1: Cools
-1: Cooped
-1: Cope
-1: Corn
-1: Corner
-1: Coronation
-1: Corrupt
-1: Couchèd
-1: Couldst
-1: Could’st
-1: Council
-1: Counterfeit
-1: Counterfeiting
-1: Counterpoised
-1: Counting
-1: County
-1: Coursers
-1: Courteous
-1: Covered
-1: Covert
-1: Coverture
-1: Cowards
-1: Craves
-1: Craving
-1: Created
-1: Creator’s
-1: Creatures
-1: Credit
-1: Creep
-1: Crete
-1: Crew
-1: Crook’d
-1: Cropped
-1: Crossbow
-1: Crownèd
-1: Crutch
-1: Culling
-1: Cup
-1: Cur
-1: Curds
-1: Cured
-1: Cureless
-1: Curious
-1: Currish
-1: Cursy
-1: Dad
-1: Daedalus
-1: Dagger’s
-1: Daintry
-1: Dame
-1: Dance
-1: Dark
-1: Darling
-1: Dar’st
-1: Dash
-1: Dastard
-1: Dauntless
-1: Days’
-1: Dazzle
-1: Deaf
-1: Deal
-1: Deathsmen
-1: Debate
-1: Debating
-1: Decay
-1: Decease
-1: Deceitful
-1: Deceive
-1: Decked
-1: Decree
-1: Deep
-1: Deformity
-1: Deformèd
-1: Degenerate
-1: Degraded
-1: Degree
-1: Deign
-1: Delays
-1: Delicates
-1: Delights
-1: Deliverance
-1: Delivered
-1: Demands
-1: Demeaned
-1: Den
-1: Denial
-1: Denied
-1: Denied’st
-1: Dens
-1: Departing
-1: Depends
-1: Depose
-1: Depth
-1: Deraign
-1: Derived
-1: Descend
-1: Descends
-1: Deserve
-1: Desirous
-1: Desirèd
-1: Despairing
-1: Desperate
-1: Desperately
-1: Despised
-1: Desp’rate
-1: Destinies
-1: Detect
-1: Determinèd
-1: Device
-1: Devil
-1: Devil’s
-1: Devouring
-1: Di
-1: Dials
-1: Diamonds
-1: Dian
-1: Dick
-1: Dickie
-1: Dies
-1: Diest
-1: Dig
-1: Digged
-1: Dimmed
-1: Dine
-1: Diomed
-1: Dipped’st
-1: Disannuls
-1: Discharge
-1: Discharged
-1: Discontent
-1: Discords
-1: Discourse
-1: Disgrace
-1: Disgraced
-1: Dishonors
-1: Dishonorèd
-1: Dislikes
-1: Dismiss
-1: Dispatch
-1: Disperse
-1: Disport
-1: Disproportion
-1: Disprove
-1: Dissembling
-1: Dissension
-1: Distinguished
-1: Distressèd
-1: Divide
-1: Divining
-1: Divorce
-1: Dog
-1: Doing
-1: Door
-1: Double
-1: Doubted
-1: Doubtful
-1: Doubting
-1: Doubtless
-1: Dower
-1: Dowry
-1: Drain
-1: Drawn
-1: Dreaming
-1: Drew
-1: Dried
-1: Drift
-1: Drop
-1: Drops
-1: Drove
-1: Drummer
-1: Drunk
-1: Drunken
-1: Dub
-1: Duchess
-1: Due
-1: Dunsmore
-1: Dwell
-1: Dyed
-1: Dying
-1: Eagle’s
-1: Ean
-1: Ear
-1: Earldom
-1: Earls
-1: Earthly
-1: Earth’s
-1: Eased
-1: Easeful
-1: Easy-melting
-1: Ebb
-1: Eclipsed
-1: Effect
-1: Effuse
-1: Eldest
-1: Elsewhere
-1: Elysium
-1: Embassade
-1: Embroidered
-1: Employed
-1: Empty
-1: Encagèd
-1: Encamped
-1: Ended
-1: Engenders
-1: Enlargement
-1: Enrollèd
-1: Enterprise
-1: Entrails
-1: Entreaty
-1: Ent’ring
-1: Environed
-1: Envy
-1: Erred
-1: Erroneous
-1: Escaped
-1: Escapèd
-1: Essex
-1: Eternal
-1: Europe
-1: Evening
-1: Event
-1: Events
-1: Everything
-1: Ewes
-1: Exceeds
-1: Except
-1: Exceptions
-1: Excuse
-1: Excuses
-1: Executing
-1: Execution
-1: Exempt
-1: Exercise
-1: Expect
-1: Expostulate
-1: Extraught
-1: Eye’s
-1: E’en
-1: E’er
-1: Fable
-1: Faciant
-1: Faction
-1: Factious
-1: Fail
-1: Fail’st
-1: Fain
-1: Faint-hearted
-1: Fairer
-1: Falchion
-1: Falconbridge
-1: Falcon’s
-1: Family
-1: Famish
-1: Far-off
-1: Fared
-1: Farther
-1: Fast-falling
-1: Fasts
-1: Fates
-1: Fathers
-1: Fathers’
-1: Favor
-1: Favorites
-1: Fawn
-1: Fawns
-1: Feared
-1: Fearless
-1: Fee
-1: Feed
-1: Feel
-1: Fees
-1: Feet
-1: Fee’d
-1: Feign
-1: Feignèd
-1: Fellows
-1: Fells
-1: Fetch
-1: Fetlocks
-1: Fettered
-1: Fiercely
-1: Figures
-1: Fills
-1: Finger
-1: Fingered
-1: Finish
-1: Fires
-1: Firmly
-1: Fist
-1: Fit
-1: Fitted
-1: Fixed
-1: Flail
-1: Flames
-1: Flanders
-1: Flattering
-1: Fleet
-1: Flexible
-1: Fling
-1: Flocks
-1: Flourish
-1: Flow
-1: Flowed
-1: Flower
-1: Flying
-1: Foaming
-1: Foeman’s
-1: Foemen
-1: Foil
-1: Following
-1: Follows
-1: Fondly
-1: Foolish
-1: Fools
-1: Footstool
-1: Forcible
-1: Forecast
-1: Forefathers’
-1: Foretell
-1: Foretold
-1: Forever
-1: Forewarned
-1: Forewarnèd
-1: Forfeit
-1: Forfend
-1: Forgery
-1: Forsaken
-1: Forslow
-1: Forspent
-1: Forswear
-1: Forswore
-1: Fortify
-1: Fortunes
-1: Found
-1: Fount
-1: Four
-1: Fowl
-1: Fox
-1: Frail
-1: Frame
-1: Framed
-1: Fraud
-1: Fray
-1: Frenchwoman
-1: Fret
-1: Fretting
-1: Friendly
-1: Friendship
-1: Frivolous
-1: Front
-1: Froward
-1: Frustrate
-1: Fuel
-1: Funeral
-1: Furnace-burning
-1: Furnish
-1: Gainsay
-1: Gainsays
-1: Gale
-1: Gallia
-1: Games
-1: Gape
-1: Gathered
-1: Gay
-1: Gazers
-1: Gazing
-1: General
-1: Gentle-hearted
-1: Germans
-1: Ghost
-1: Ghostly
-1: Giddy
-1: Gilt
-1: Gin
-1: Girt
-1: Gives
-1: Glad
-1: Gloucester’s
-1: Glued
-1: Glues
-1: Gnats
-1: Goods
-1: Gowns
-1: Graces
-1: Grants
-1: Grasped
-1: Graves
-1: Graybeards
-1: Great-grandfather
-1: Great-grown
-1: Greatly
-1: Greece
-1: Greeks
-1: Greet
-1: Greetings
-1: Greyhounds
-1: Griefs
-1: Grieved
-1: Grieves
-1: Grin
-1: Gripes
-1: Grow
-1: Grows
-1: Grudges
-1: Grumbling
-1: Guerdoned
-1: Guessed
-1: Gulf
-1: Ha
-1: Hail
-1: Hair
-1: Hairs
-1: Halberds
-1: Hames
-1: Hanged
-1: Hanging
-1: Haply
-1: Happen
-1: Haps
-1: Hard-favored
-1: Hard-hearted
-1: Harder
-1: Hardest-timbered
-1: Hardiest
-1: Hardly
-1: Hardy
-1: Hare
-1: Harmful
-1: Harmony
-1: Harms
-1: Harsh
-1: Harvest
-1: Has
-1: Hated
-1: Hateful
-1: Hatred
-1: Haught
-1: Haughty
-1: Haunts
-1: Haven
-1: Hawthorn
-1: Hay
-1: Ha’
-1: Heads
-1: Heal
-1: Heaped
-1: Hearers
-1: Heart-blood
-1: Hearten
-1: Heat
-1: Heavenly
-1: Heavens’
-1: Hector
-1: Heedful
-1: Heirs’
-1: Helen
-1: Helmets
-1: Helps
-1: Henceforward
-1: Hercules
-1: Hereafter
-1: Herein
-1: Hers
-1: Herself
-1: Hew
-1: Hewing
-1: Hews
-1: Hid
-1: Hide
-1: Hideous
-1: Higher
-1: Hilt
-1: History
-1: Hit
-1: Hitherto
-1: Hitherward
-1: Hoarding
-1: Holding-anchor
-1: Hollanders
-1: Hollow
-1: Home-bred
-1: Honorest
-1: Hopeful
-1: Hopeless
-1: Hopes
-1: Horizon
-1: Horsemen
-1: Host
-1: Hostility
-1: Hot
-1: Hours’
-1: Household
-1: Houses
-1: Howled
-1: Hugh
-1: Hung
-1: Hunger-starvèd
-1: Hungerford
-1: Hungry
-1: Hunt
-1: Huntsman
-1: Husbands
-1: Hyrcania
-1: Icarus
-1: Idle
-1: Ignoble
-1: Ill-beseeming
-1: Ill-boding
-1: Impairing
-1: Impale
-1: Impalèd
-1: Impatience
-1: Impeach
-1: Impiety
-1: Impose
-1: Impossibilities
-1: Impregnable
-1: Impression
-1: Incensed
-1: Incessant
-1: Inclination
-1: Inclined
-1: Incomparable
-1: Increase
-1: Indian
-1: Indigested
-1: Industry
-1: Inexorable
-1: Infamy
-1: Infect
-1: Inferior
-1: Inferreth
-1: Inferring
-1: Informèd
-1: Infringed
-1: Infuse
-1: Inheritance
-1: Inhuman
-1: Injured
-1: Injuries
-1: Inly
-1: Innocent
-1: Innocents
-1: Installed
-1: Instrument
-1: Instruments
-1: Insult
-1: Intercept
-1: Interchange
-1: Interrupts
-1: Invectives
-1: Invention
-1: Inviolable
-1: Ire
-1: Ireland
-1: Irks
-1: Irrevocable
-1: Island
-1: Issuing
-1: Ista
-1: Jephthah
-1: Jesus
-1: Joins
-1: Jointure
-1: Jot
-1: Jove’s
-1: Judas
-1: Judge
-1: Keeper
-1: Keeper’s
-1: Keep’st
-1: Kentishmen
-1: Keys
-1: Kills
-1: Kin
-1: Kind
-1: Kindling
-1: Kingdom’s
-1: Kinsmen
-1: Kissed
-1: Knight
-1: Knighthood
-1: Knit
-1: Knits
-1: Knock
-1: Knot
-1: Labors
-1: Lade
-1: Ladies
-1: Lamp
-1: Lance
-1: Landed
-1: Lane
-1: Lap
-1: Large
-1: Lascivious
-1: Lasted
-1: Lasting
-1: Lastly
-1: Lasts
-1: Lately
-1: Latter
-1: Laudis
-1: Laughed
-1: Laund
-1: Laurel
-1: Law
-1: Laws
-1: Lay’st
-1: Lazy
-1: Leader
-1: Leads
-1: Leather
-1: Led
-1: Leicestershire
-1: Length
-1: Lesson
-1: Level
-1: Levied
-1: Liberal
-1: Lick
-1: Lifeblood
-1: Lifetime
-1: Life’s
-1: Lightness
-1: Lightning
-1: Lights
-1: Likened
-1: Likeness
-1: Limbs
-1: Lime
-1: Limed
-1: Limits
-1: Limèd
-1: Lineally
-1: Link
-1: Linked
-1: Liveth
-1: Living
-1: Liv’st
-1: Lizards’
-1: Loins
-1: Long-tongued
-1: Looker-on
-1: Looking
-1: Lopped
-1: Lordship
-1: Lord’s
-1: Losses
-1: Loved
-1: Loyal
-1: Lukewarm
-1: Lump
-1: Lurks
-1: Lust
-1: Lustful
-1: Lusty
-1: Lynn
-1: Machiavel
-1: Magistrate
-1: Magnanimity
-1: Maid
-1: Main
-1: Maintained
-1: Maketh
-1: Making
-1: Malapert
-1: Man-at-arms
-1: Mangled
-1: Manly
-1: Manner
-1: Manors
-1: Mans
-1: Mantle
-1: Marches
-1: Marcheth
-1: Marching
-1: Margaret’s
-1: Mark
-1: Marks
-1: Marquess
-1: Married
-1: Marries
-1: Marrow
-1: Mars
-1: Marys
-1: Match
-1: Matching
-1: Mates
-1: Meaner
-1: Meant
-1: Meed
-1: Meeds
-1: Meek
-1: Meeting
-1: Mellowed
-1: Melts
-1: Menelaus
-1: Merciless
-1: Mermaid
-1: Mess
-1: Methought
-1: Midday
-1: Midst
-1: Midwife
-1: Mightily
-1: Mightst
-1: Miles
-1: Minions
-1: Minos
-1: Mirror
-1: Mirthful
-1: Misdeed
-1: Misdoubteth
-1: Miserably
-1: Misery
-1: Misfortune
-1: Misfortune’s
-1: Misgive
-1: Misleading
-1: Misled
-1: Mislike
-1: Misproud
-1: Misshaped
-1: Misthink
-1: Mistress
-1: Mistrustful
-1: Moan
-1: Mocked
-1: Mockery
-1: Modest
-1: Modesty
-1: Moisture
-1: Moment
-1: Monstrous
-1: Moody
-1: Morning’s
-1: Motion
-1: Mought
-1: Mount
-1: Mountain
-1: Mountains
-1: Mouth
-1: Moving
-1: Mowed
-1: Multitudes
-1: Murderer
-1: Murderers
-1: Murdering
-1: Murderous
-1: Murd’ring
-1: Muse
-1: Mustered
-1: Mutinies
-1: Mutter
-1: Nails
-1: Naked
-1: Native
-1: Nativity
-1: Neat
-1: Necessity
-1: Neck
-1: Nephew
-1: Nero
-1: Nest
-1: Nestor
-1: Net
-1: Nettled
-1: New-made
-1: Nice
-1: Niece
-1: Night-crow
-1: Nobleman
-1: Nobody
-1: Noise
-1: Noontide
-1: North
-1: Northampton
-1: Northumberlands
-1: Northumberland’s
-1: Nose
-1: Notes
-1: Notwithstanding
-1: Nourished
-1: Numbered
-1: Numbers
-1: Numb’ring
-1: Nuptial
-1: Nymphs
-1: Oak
-1: Obdurate
-1: Obedience
-1: Obeyed
-1: Obeyed’st
-1: Obeying
-1: Obsequies
-1: Obsequious
-1: Observation
-1: Obtain
-1: Occasions
-1: Ocean
-1: Offended
-1: Offer
-1: Offering
-1: Officer
-1: Offspring
-1: Olive
-1: Olympian
-1: Ominous
-1: Ones
-1: Opened
-1: Opes
-1: Opinion
-1: Opposite
-1: Oppressed
-1: Order
-1: Orisons
-1: Ornaments
-1: Orphans
-1: Orphan’s
-1: Ought
-1: Ourself
-1: Outrages
-1: Outrun
-1: Outstretchèd
-1: Over-matching
-1: Overboard
-1: Overcome
-1: Overgone
-1: Overlook
-1: Overpeered
-1: Overshine
-1: Owl’s
-1: Oxfordshire
-1: O’erbear
-1: O’ercharged
-1: O’ermatched
-1: O’errun
-1: O’ershades
-1: O’erweens
-1: Painted
-1: Pangs
-1: Paper
-1: Parcel
-1: Parched
-1: Parents’
-1: Parks
-1: Parle
-1: Parley
-1: Parting
-1: Partly
-1: Passing
-1: Passions
-1: Patron
-1: Pawn
-1: Paws
-1: Payment
-1: Peer
-1: Peevish
-1: Penitence
-1: Penitent
-1: Pensive
-1: Pent-up
-1: Peremptory
-1: Perfections
-1: Performed
-1: Peril
-1: Period
-1: Perjury
-1: Perpetual
-1: Persecutor
-1: Persuaded
-1: Petitioners
-1: Petticoat
-1: Phoebus
-1: Phoenix’
-1: Pies
-1: Pikes
-1: Pillars
-1: Pilot
-1: Pilot’s
-1: Pinched
-1: Pitch
-1: Pitched
-1: Pitchy
-1: Pitied
-1: Pitied’st
-1: Placed
-1: Placèd
-1: Plead
-1: Pleased
-1: Pleases
-1: Pleaseth
-1: Pleasing
-1: Plies
-1: Plight
-1: Plucked
-1: Plucker
-1: Poets
-1: Points
-1: Poise
-1: Poisons
-1: Poltroons
-1: Pomp
-1: Poniards
-1: Possess
-1: Possessor
-1: Possessèd
-1: Posted
-1: Posthaste
-1: Posts
-1: Powerful
-1: Pow’rful
-1: Praise
-1: Praises
-1: Prancing
-1: Prayers
-1: Preachment
-1: Precedent
-1: Preferr’st
-1: Prejudicial
-1: Premeditation
-1: Preposterous
-1: Presageth
-1: Presaging
-1: Prescription
-1: Presence
-1: Presenteth
-1: Press
-1: Presumptuous
-1: Pretend
-1: Pretty
-1: Prevail
-1: Priam
-1: Priesthood
-1: Prime
-1: Prince’s
-1: Principal
-1: Private
-1: Privileged
-1: Privily
-1: Privy
-1: Proceedings
-1: Proclaims
-1: Procure
-1: Prodigy
-1: Profits
-1: Prolong
-1: Promised
-1: Promiseth
-1: Promisèd
-1: Promontory
-1: Pronounced
-1: Prop
-1: Prophecies
-1: Prophecy
-1: Prophesy
-1: Prophet
-1: Propose
-1: Prosper
-1: Protection
-1: Protest
-1: Proteus
-1: Proud-hearted
-1: Proved
-1: Proves
-1: Provinces
-1: Prowess
-1: Puller-down
-1: Punished
-1: Pure
-1: Purge
-1: Purpose
-1: Puts
-1: Putt’st
-1: Quailing
-1: Quaintly
-1: Queens
-1: Quenchless
-1: Question
-1: Quick
-1: Quicksand
-1: Quietly
-1: Quietness
-1: Quit
-1: Quoth
-1: Race
-1: Racking
-1: Rages
-1: Ragged
-1: Raging
-1: Rail
-1: Railer
-1: Ramping
-1: Range
-1: Ranks
-1: Ransom
-1: Raught
-1: Rave
-1: Raven
-1: Ravenspurgh
-1: Re-passed
-1: Rear
-1: Reasons
-1: Rebel
-1: Rebellion
-1: Rebuke
-1: Reckless
-1: Reconcile
-1: Reconciled
-1: Recount
-1: Recounted
-1: Recover
-1: Recovered
-1: Recovery
-1: Redemption
-1: Refrain
-1: Regard
-1: Reignier
-1: Relate
-1: Released
-1: Relief
-1: Remaining
-1: Remember
-1: Remorseless
-1: Rend
-1: Renew
-1: Renounce
-1: Renowned
-1: Rent
-1: Rents
-1: Repaid
-1: Repealed
-1: Repent
-1: Replant
-1: Replete
-1: Reply
-1: Repose
-1: Repurchased
-1: Requires
-1: Requireth
-1: Rescue
-1: Rescued
-1: Rescuing
-1: Resident
-1: Resigned
-1: Resist
-1: Resisted
-1: Respect
-1: Retreat
-1: Revengeful
-1: Reverently
-1: Revoke
-1: Revolt
-1: Rhesus’
-1: Rich
-1: Rid
-1: Riddles
-1: Ride
-1: Rids
-1: Rightly
-1: Rigor
-1: Ripe
-1: Rising
-1: Roared
-1: Rob
-1: Roger
-1: Rooked
-1: Rooms
-1: Roots
-1: Roscius
-1: Rotten
-1: Rouse
-1: Rued
-1: Ruinate
-1: Ruled
-1: Runners
-1: Rust
-1: Ruthful
-1: Sacrificed
-1: Sad-hearted
-1: Saddest
-1: Sadly
-1: Sadness
-1: Safeguard
-1: Safely
-1: Safer
-1: Salve
-1: Sanctuary
-1: Sand
-1: Sandal
-1: Sat
-1: Satisfaction
-1: Savage
-1: Saved
-1: Saves
-1: Saying
-1: Scalding
-1: Scales
-1: Scape
-1: Scapes
-1: Scare
-1: Scattered
-1: Scene
-1: School
-1: Scold
-1: Scolding
-1: Scorched
-1: Scorning
-1: Screech
-1: Scrupulous
-1: Seals
-1: Search
-1: Seared
-1: Second
-1: Security
-1: Sedition
-1: Seduce
-1: Seduced
-1: Seeking
-1: Seems
-1: Sees
-1: Self
-1: Sense
-1: Sentence
-1: Separated
-1: Septentrion
-1: Sepulchers
-1: Serious
-1: Serpent’s
-1: Servitor
-1: Sets
-1: Setter
-1: Setter-up
-1: Setting
-1: Sett’st
-1: Sex
-1: Shaken
-1: Shallow
-1: Shambles
-1: Shamefaced
-1: Sham’st
-1: Shape
-1: Shaped
-1: Shapes
-1: Share
-1: She-wolf
-1: Shear
-1: Sheathe
-1: Shelter
-1: Shelves
-1: Shepherds
-1: Shepherd’s
-1: Shield
-1: Shift
-1: Shining
-1: Ship
-1: Shipped
-1: Ships
-1: Shore
-1: Short
-1: Shot
-1: Shouts
-1: Shower
-1: Shown
-1: Shrieked
-1: Shrift
-1: Shrink
-1: Shriver
-1: Shrouds
-1: Shrub
-1: Shrubs
-1: Sick
-1: Sides
-1: Sighing
-1: Signified
-1: Signify
-1: Silence
-1: Sinew
-1: Sinews
-1: Sinful
-1: Sing
-1: Sinon
-1: Sins
-1: Sin’s
-1: Sirrah
-1: Sixth
-1: Size
-1: Skillful
-1: Skin’s
-1: Sky
-1: Slake
-1: Slanders
-1: Slaughterhouse
-1: Slaughterman
-1: Sleight
-1: Slight
-1: Slipped
-1: Slow
-1: Sly
-1: Smallest
-1: Smeared
-1: Smiling
-1: Smoking
-1: Smooths
-1: Snarl
-1: Soft-hearted
-1: Sold
-1: Soldiers’
-1: Sole
-1: Somerville
-1: Something
-1: Son’s
-1: Soonest
-1: Soothe
-1: Sore
-1: Sorry
-1: Sought
-1: Sounded
-1: Source
-1: South
-1: Southern
-1: Sov’reigns
-1: Spain
-1: Spare
-1: Speaketh
-1: Speaks
-1: Speak’st
-1: Special
-1: Speedily
-1: Speedy
-1: Spent
-1: Spies
-1: Spirits
-1: Spleen
-1: Split
-1: Splits
-1: Spoil
-1: Spoils
-1: Sportful
-1: Sprang’st
-1: Sprawl’st
-1: Spray
-1: Spreading
-1: Springtime
-1: Sprung
-1: Spurn
-1: Spurred
-1: Spy
-1: Spying
-1: Stab
-1: Staff
-1: Stafford’s
-1: Stale
-1: Stamp
-1: Stamps
-1: Stately
-1: Statutes
-1: Steely
-1: Steepèd
-1: Stem
-1: Stifle
-1: Stigmatic
-1: Stings
-1: Stirred
-1: Stirring
-1: Stood
-1: Store
-1: Stoutly
-1: Stratagems
-1: Straw
-1: Straying
-1: Strengthened
-1: Strength’ning
-1: Strife
-1: Strives
-1: Striving
-1: Strong-knit
-1: Struck
-1: Struggle
-1: Study
-1: Stumble
-1: Sturdy
-1: Subdue
-1: Subdued
-1: Subsidies
-1: Subtle
-1: Successful
-1: Suck
-1: Suddenly
-1: Sue
-1: Suffer
-1: Sufferance
-1: Suffered
-1: Suffice
-1: Sufficient
-1: Suggest
-1: Suitors
-1: Suits
-1: Summa
-1: Summer’s
-1: Summon
-1: Sunder
-1: Sunders
-1: Sunset
-1: Supper
-1: Support
-1: Suppressed
-1: Suppresseth
-1: Surely
-1: Surly
-1: Surprised
-1: Suspicious
-1: Sustain
-1: Swain
-1: Swallowed
-1: Swan
-1: Swarm
-1: Swayed
-1: Swearing
-1: Swears
-1: Sweeps
-1: Sweeter
-1: Swell
-1: Swelling
-1: Swept
-1: Swiftly
-1: Swoon
-1: Swore
-1: Table
-1: Tackles
-1: Tacklings
-1: Tainted
-1: Tale
-1: Talons
-1: Tamed
-1: Target
-1: Ta’en
-1: Tearful
-1: Tedious
-1: Tell’st
-1: Temper
-1: Temples
-1: Tempted
-1: Tend
-1: Tents
-1: Tewkesbury
-1: Thereby
-1: Thereon
-1: Thick
-1: Thick-grown
-1: Thickest
-1: Thicket
-1: Thief
-1: Thin
-1: Third
-1: Thirst
-1: Thirsty
-1: Thorn
-1: Thracian
-1: Threaten
-1: Threescore
-1: Thresher
-1: Threshold
-1: Thrice
-1: Thrive
-1: Throat
-1: Throws
-1: Thunders
-1: Thwarting
-1: Tied
-1: Tiger
-1: Tigers
-1: Tiger’s
-1: Timeless
-1: Timorous
-1: Tire
-1: Toads
-1: Today
-1: Toil
-1: Toiling
-1: Tomb
-1: Tomorrow
-1: Tongue-tied
-1: Tooth
-1: Topmast
-1: Tops
-1: Torments
-1: Tortures
-1: Tossed
-1: Touched
-1: Tough
-1: Tragedy
-1: Tragic
-1: Treacherous
-1: Treacherously
-1: Treachery
-1: Treasons
-1: Trees
-1: Tree’s
-1: Tremble
-1: Trembles
-1: Trespass
-1: Trimmed
-1: Triumphant
-1: Trod
-1: Troth
-1: Troubled
-1: Trowest
-1: Troy’s
-1: True-anointed
-1: True-hearted
-1: Trull
-1: Trumpet’s
-1: Trunk
-1: Trusting
-1: Trusty
-1: Try
-1: Tuae
-1: Tugging
-1: Tumbled
-1: Tumult
-1: Tumultuous
-1: Tush
-1: Tutor
-1: Twain
-1: Twice
-1: Twitting
-1: Type
-1: Tyrants
-1: Tyrant’s
-1: T’
-1: Unbid
-1: Unchanging
-1: Uncle
-1: Unconstant
-1: Unconstrained
-1: Underneath
-1: Understanding
-1: Undo
-1: Undone
-1: Undoubted
-1: Undutiful
-1: Unequal
-1: Unfit
-1: Unfortunate
-1: Ungentle
-1: Unhoped
-1: Unjust
-1: Unlicked
-1: Unlikely
-1: Unload
-1: Unloving
-1: Unmanly
-1: Unnaturally
-1: Unpardonable
-1: Unpeople
-1: Unprovided
-1: Unreasonable
-1: Unrelenting
-1: Unsavory
-1: Unskillful
-1: Unstaunchèd
-1: Untutored
-1: Unwares
-1: Upright
-1: Upward
-1: Urge
-1: Usage
-1: Usest
-1: Usual
-1: Usurpers
-1: Usurper’s
-1: Usurp’st
-1: Utter
-1: Uttered
-1: Valued
-1: Vapors
-1: Vault
-1: Veil
-1: Veins
-1: Venge
-1: Venom
-1: Vere
-1: Verified
-1: Vex
-1: Via
-1: Viands
-1: Victor
-1: Victorious
-1: Viewed
-1: Villain
-1: Villains
-1: Virtue’s
-1: Vizard-like
-1: Voice
-1: Void
-1: Vows
-1: Vowèd
-1: Wail
-1: Wailing
-1: Waiteth
-1: Waits
-1: Wakefield
-1: Waken
-1: Walls
-1: Wanting
-1: Wanèd
-1: Warm
-1: Warrant
-1: Warwickshire
-1: Wasted
-1: Water-flowing
-1: Water-standing
-1: Wave
-1: Weakling
-1: Weakness
-1: Wealth
-1: Wealthy
-1: Wean
-1: Weapons
-1: Wears
-1: Weary
-1: Wedlock
-1: Weeks
-1: Weeping
-1: Welfare
-1: Well-chosen
-1: Well-meant
-1: Well-minded
-1: Welshmen
-1: Went’st
-1: Wept
-1: Western
-1: Wet
-1: Wheel
-1: Whereat
-1: Whereby
-1: Wherewith
-1: Where’er
-1: Whet
-1: Whip
-1: Whisper
-1: Whoever
-1: Whosoe’er
-1: Who’s
-1: Widows
-1: Wield
-1: Wife’s
-1: Willful
-1: William
-1: Willing
-1: Willingness
-1: Wiltshire’s
-1: Wind-changing
-1: Windy
-1: Wing
-1: Wingèd
-1: Wins
-1: Wishful
-1: Wishing
-1: Wisp
-1: Withdrawn
-1: Withered
-1: Withhold
-1: Withstand
-1: Wittingly
-1: Witty
-1: Wives
-1: Wonted
-1: Woodcock
-1: Wooer
-1: Word’s
-1: Work
-1: Worm
-1: Worn
-1: Worship
-1: Worthless
-1: Would’st
-1: Wounded
-1: Wrangling
-1: Wrap
-1: Wrapped
-1: Wreaths
-1: Wring
-1: Wrinkles
-1: Wronged
-1: Wrong’st
-1: Wrought
-1: Wrung
-1: Yeoman
-1: Yielding
-1: Yields
-1: Yonder’s
-1: Younger
-1: Youngest
-1: Young’s
-1: Younker
-1: Yourselves
-1: Youthful
-1: You’d
-1: Zeal
-1: ’witch
+ , instances: 866, word: 'And', work: '3H6'},
+ , instances: 767, word: 'The', work: '3H6'},
+ , instances: 576, word: 'To', work: '3H6'},
+ , instances: 487, word: 'I', work: '3H6'},
+ , instances: 415, word: 'My', work: '3H6'},
+ , instances: 398, word: 'Of', work: '3H6'},
+ , instances: 325, word: 'That', work: '3H6'},
+ , instances: 276, word: 'For', work: '3H6'},
+ , instances: 270, word: 'A', work: '3H6'},
+ , instances: 266, word: 'In', work: '3H6'},
+ , instances: 258, word: 'His', work: '3H6'},
+ , instances: 254, word: 'With', work: '3H6'},
+ , instances: 219, word: 'Thou', work: '3H6'},
+ , instances: 208, word: 'Be', work: '3H6'},
+ , instances: 200, word: 'Thy', work: '3H6'},
+ , instances: 199, word: 'Is', work: '3H6'},
+ , instances: 198, word: 'Not', work: '3H6'},
+ , instances: 196, word: 'You', work: '3H6'},
+ , instances: 194, word: 'But', work: '3H6'},
+ , instances: 192, word: 'This', work: '3H6'},
+ , instances: 183, word: 'Me', work: '3H6'},
+ , instances: 146, word: 'He', work: '3H6'},
+ , instances: 144, word: 'It', work: '3H6'},
+ , instances: 144, word: 'King', work: '3H6'},
+ , instances: 143, word: 'As', work: '3H6'},
+ , instances: 143, word: 'Your', work: '3H6'},
+ , instances: 142, word: 'Our', work: '3H6'},
+ , instances: 138, word: 'Will', work: '3H6'},
+ , instances: 137, word: 'What', work: '3H6'},
+ , instances: 132, word: 'Him', work: '3H6'},
+ , instances: 125, word: 'Now', work: '3H6'},
+ , instances: 123, word: 'Have', work: '3H6'},
+ , instances: 120, word: 'We', work: '3H6'},
+ , instances: 119, word: 'Shall', work: '3H6'},
+ , instances: 119, word: 'Thee', work: '3H6'},
+ , instances: 115, word: 'So', work: '3H6'},
+ , instances: 115, word: 'Warwick', work: '3H6'},
+ , instances: 106, word: 'By', work: '3H6'},
+ , instances: 106, word: 'No', work: '3H6'},
+ , instances: 94, word: 'If', work: '3H6'},
+ , instances: 91, word: 'From', work: '3H6'},
+ , instances: 86, word: 'Then', work: '3H6'},
+ , instances: 80, word: 'All', work: '3H6'},
+ , instances: 78, word: 'Or', work: '3H6'},
+ , instances: 77, word: 'At', work: '3H6'},
+ , instances: 75, word: 'Lord', work: '3H6'},
+ , instances: 75, word: 'More', work: '3H6'},
+ , instances: 74, word: 'Are', work: '3H6'},
+ , instances: 74, word: 'Their', work: '3H6'},
+ , instances: 72, word: 'Edward', work: '3H6'},
+ , instances: 71, word: 'Why', work: '3H6'},
+ , instances: 70, word: 'How', work: '3H6'},
+ , instances: 68, word: 'Father', work: '3H6'},
+ , instances: 65, word: 'Was', work: '3H6'},
+ , instances: 63, word: 'Henry', work: '3H6'},
+ , instances: 62, word: 'Brother', work: '3H6'},
+ , instances: 61, word: 'Do', work: '3H6'},
+ , instances: 61, word: 'Her', work: '3H6'},
+ , instances: 60, word: 'Crown', work: '3H6'},
+ , instances: 60, word: 'Hath', work: '3H6'},
+ , instances: 60, word: 'Them', work: '3H6'},
+ , instances: 59, word: 'I\'ll', work: '3H6'},
+ , instances: 59, word: 'On', work: '3H6'},
+ , instances: 59, word: 'York', work: '3H6'},
+ , instances: 57, word: 'Here', work: '3H6'},
+ , instances: 56, word: 'Like', work: '3H6'},
+ , instances: 56, word: 'Us', work: '3H6'},
+ , instances: 55, word: 'Queen', work: '3H6'},
+ , instances: 54, word: 'Than', work: '3H6'},
+ , instances: 53, word: 'Ay', work: '3H6'},
+ , instances: 53, word: 'Make', work: '3H6'},
+ , instances: 51, word: 'Yet', work: '3H6'},
+ , instances: 50, word: 'Let', work: '3H6'},
+ , instances: 50, word: 'May', work: '3H6'},
+ , instances: 49, word: 'When', work: '3H6'},
+ , instances: 48, word: 'Should', work: '3H6'},
+ , instances: 48, word: 'They', work: '3H6'},
+ , instances: 47, word: 'Were', work: '3H6'},
+ , instances: 47, word: 'Would', work: '3H6'},
+ , instances: 46, word: 'Am', work: '3H6'},
+ , instances: 45, word: 'Speak', work: '3H6'},
+ , instances: 44, word: 'Clifford', work: '3H6'},
+ , instances: 44, word: 'Come', work: '3H6'},
+ , instances: 44, word: 'Duke', work: '3H6'},
+ , instances: 44, word: 'Lords', work: '3H6'},
+ , instances: 44, word: 'Son', work: '3H6'},
+ , instances: 43, word: 'O', work: '3H6'},
+ , instances: 42, word: 'Unto', work: '3H6'},
+ , instances: 41, word: 'Love', work: '3H6'},
+ , instances: 41, word: 'Where', work: '3H6'},
+ , instances: 40, word: 'Clarence', work: '3H6'},
+ , instances: 40, word: 'These', work: '3H6'},
+ , instances: 39, word: 'Death', work: '3H6'},
+ , instances: 39, word: 'Leave', work: '3H6'},
+ , instances: 39, word: 'Must', work: '3H6'},
+ , instances: 39, word: 'Well', work: '3H6'},
+ , instances: 39, word: 'Which', work: '3H6'},
+ , instances: 38, word: 'An', work: '3H6'},
+ , instances: 38, word: 'Blood', work: '3H6'},
+ , instances: 38, word: 'Did', work: '3H6'},
+ , instances: 38, word: 'See', work: '3H6'},
+ , instances: 38, word: 'Take', work: '3H6'},
+ , instances: 38, word: 'Tell', work: '3H6'},
+ , instances: 37, word: 'Heart', work: '3H6'},
+ , instances: 37, word: 'Mine', work: '3H6'},
+ , instances: 36, word: '\'tis', work: '3H6'},
+ , instances: 35, word: 'Away', work: '3H6'},
+ , instances: 35, word: 'Both', work: '3H6'},
+ , instances: 35, word: 'Many', work: '3H6'},
+ , instances: 34, word: 'Can', work: '3H6'},
+ , instances: 34, word: 'Good', work: '3H6'},
+ , instances: 34, word: 'Up', work: '3H6'},
+ , instances: 33, word: 'France', work: '3H6'},
+ , instances: 33, word: 'Richard', work: '3H6'},
+ , instances: 33, word: 'Say', work: '3H6'},
+ , instances: 33, word: 'Stay', work: '3H6'},
+ , instances: 33, word: 'Such', work: '3H6'},
+ , instances: 32, word: 'Doth', work: '3H6'},
+ , instances: 32, word: 'Give', work: '3H6'},
+ , instances: 32, word: 'Had', work: '3H6'},
+ , instances: 32, word: 'Hear', work: '3H6'},
+ , instances: 32, word: 'Sweet', work: '3H6'},
+ , instances: 31, word: 'Hand', work: '3H6'},
+ , instances: 31, word: 'Men', work: '3H6'},
+ , instances: 31, word: 'Upon', work: '3H6'},
+ , instances: 31, word: 'Words', work: '3H6'},
+ , instances: 30, word: 'She', work: '3H6'},
+ , instances: 30, word: 'Therefore', work: '3H6'},
+ , instances: 29, word: 'Ah', work: '3H6'},
+ , instances: 29, word: 'God', work: '3H6'},
+ , instances: 29, word: 'Head', work: '3H6'},
+ , instances: 29, word: 'Life', work: '3H6'},
+ , instances: 29, word: 'Made', work: '3H6'},
+ , instances: 29, word: 'Nor', work: '3H6'},
+ , instances: 29, word: 'One', work: '3H6'},
+ , instances: 29, word: 'Right', work: '3H6'},
+ , instances: 29, word: 'Too', work: '3H6'},
+ , instances: 28, word: 'Go', work: '3H6'},
+ , instances: 28, word: 'Never', work: '3H6'},
+ , instances: 27, word: 'Down', work: '3H6'},
+ , instances: 27, word: 'Much', work: '3H6'},
+ , instances: 27, word: 'Rest', work: '3H6'},
+ , instances: 27, word: 'Who', work: '3H6'},
+ , instances: 26, word: 'Friends', work: '3H6'},
+ , instances: 26, word: 'Hence', work: '3H6'},
+ , instances: 26, word: 'Stand', work: '3H6'},
+ , instances: 26, word: 'Thine', work: '3H6'},
+ , instances: 25, word: 'Art', work: '3H6'},
+ , instances: 25, word: 'Fear', work: '3H6'},
+ , instances: 25, word: 'Hope', work: '3H6'},
+ , instances: 25, word: 'Till', work: '3H6'},
+ , instances: 24, word: 'Before', work: '3H6'},
+ , instances: 24, word: 'Fly', work: '3H6'},
+ , instances: 24, word: 'Man', work: '3H6'},
+ , instances: 24, word: 'Thus', work: '3H6'},
+ , instances: 24, word: 'Whose', work: '3H6'},
+ , instances: 23, word: 'Cannot', work: '3H6'},
+ , instances: 23, word: 'Myself', work: '3H6'},
+ , instances: 23, word: 'Off', work: '3H6'},
+ , instances: 23, word: 'Out', work: '3H6'},
+ , instances: 23, word: 'Tears', work: '3H6'},
+ , instances: 22, word: 'Again', work: '3H6'},
+ , instances: 22, word: 'Know', work: '3H6'},
+ , instances: 22, word: 'Some', work: '3H6'},
+ , instances: 21, word: 'Bear', work: '3H6'},
+ , instances: 21, word: 'Edward\'s', work: '3H6'},
+ , instances: 21, word: 'Fight', work: '3H6'},
+ , instances: 21, word: 'Henry\'s', work: '3H6'},
+ , instances: 21, word: 'House', work: '3H6'},
+ , instances: 21, word: 'True', work: '3H6'},
+ , instances: 20, word: 'Day', work: '3H6'},
+ , instances: 20, word: 'Hands', work: '3H6'},
+ , instances: 20, word: 'Hast', work: '3H6'},
+ , instances: 20, word: 'Montague', work: '3H6'},
+ , instances: 20, word: 'Nay', work: '3H6'},
+ , instances: 20, word: 'Once', work: '3H6'},
+ , instances: 20, word: 'Poor', work: '3H6'},
+ , instances: 20, word: 'There', work: '3H6'},
+ , instances: 20, word: 'Time', work: '3H6'},
+ , instances: 20, word: 'War', work: '3H6'},
+ , instances: 20, word: 'While', work: '3H6'},
+ , instances: 20, word: 'Whom', work: '3H6'},
+ , instances: 19, word: 'Lewis', work: '3H6'},
+ , instances: 19, word: 'Oath', work: '3H6'},
+ , instances: 19, word: 'Shalt', work: '3H6'},
+ , instances: 19, word: 'Yield', work: '3H6'},
+ , instances: 18, word: 'Gentle', work: '3H6'},
+ , instances: 18, word: 'Live', work: '3H6'},
+ , instances: 18, word: 'News', work: '3H6'},
+ , instances: 18, word: 'Pity', work: '3H6'},
+ , instances: 18, word: 'Though', work: '3H6'},
+ , instances: 18, word: 'Way', work: '3H6'},
+ , instances: 17, word: 'Comes', work: '3H6'},
+ , instances: 17, word: 'Done', work: '3H6'},
+ , instances: 17, word: 'Father\'s', work: '3H6'},
+ , instances: 17, word: 'Great', work: '3H6'},
+ , instances: 17, word: 'Lancaster', work: '3H6'},
+ , instances: 17, word: 'Margaret', work: '3H6'},
+ , instances: 17, word: 'Prince', work: '3H6'},
+ , instances: 17, word: 'Set', work: '3H6'},
+ , instances: 17, word: 'Soldiers', work: '3H6'},
+ , instances: 17, word: 'Soul', work: '3H6'},
+ , instances: 17, word: 'Think', work: '3H6'},
+ , instances: 16, word: 'Being', work: '3H6'},
+ , instances: 16, word: 'Better', work: '3H6'},
+ , instances: 16, word: 'Boy', work: '3H6'},
+ , instances: 16, word: 'Else', work: '3H6'},
+ , instances: 16, word: 'Ere', work: '3H6'},
+ , instances: 16, word: 'Face', work: '3H6'},
+ , instances: 16, word: 'Fortune', work: '3H6'},
+ , instances: 16, word: 'Friend', work: '3H6'},
+ , instances: 16, word: 'Grace', work: '3H6'},
+ , instances: 16, word: 'Gracious', work: '3H6'},
+ , instances: 16, word: 'Let\'s', work: '3H6'},
+ , instances: 16, word: 'London', work: '3H6'},
+ , instances: 16, word: 'Makes', work: '3H6'},
+ , instances: 16, word: 'Oxford', work: '3H6'},
+ , instances: 16, word: 'Sovereign', work: '3H6'},
+ , instances: 16, word: 'Thousand', work: '3H6'},
+ , instances: 16, word: 'Wilt', work: '3H6'},
+ , instances: 16, word: 'Young', work: '3H6'},
+ , instances: 15, word: 'Brave', work: '3H6'},
+ , instances: 15, word: 'Eyes', work: '3H6'},
+ , instances: 15, word: 'Heard', work: '3H6'},
+ , instances: 15, word: 'Heaven', work: '3H6'},
+ , instances: 15, word: 'Hold', work: '3H6'},
+ , instances: 15, word: 'Revenge', work: '3H6'},
+ , instances: 15, word: 'Somerset', work: '3H6'},
+ , instances: 15, word: 'Title', work: '3H6'},
+ , instances: 14, word: 'Against', work: '3H6'},
+ , instances: 14, word: 'Any', work: '3H6'},
+ , instances: 14, word: 'Been', work: '3H6'},
+ , instances: 14, word: 'Came', work: '3H6'},
+ , instances: 14, word: 'Fair', work: '3H6'},
+ , instances: 14, word: 'Farewell', work: '3H6'},
+ , instances: 14, word: 'Foe', work: '3H6'},
+ , instances: 14, word: 'Follow', work: '3H6'},
+ , instances: 14, word: 'Gates', work: '3H6'},
+ , instances: 14, word: 'Himself', work: '3H6'},
+ , instances: 14, word: 'Mean', work: '3H6'},
+ , instances: 14, word: 'Plantagenet', work: '3H6'},
+ , instances: 14, word: 'Slain', work: '3H6'},
+ , instances: 14, word: 'Valiant', work: '3H6'},
+ , instances: 14, word: 'We\'ll', work: '3H6'},
+ , instances: 14, word: 'Wind', work: '3H6'},
+ , instances: 13, word: 'Battle', work: '3H6'},
+ , instances: 13, word: 'Die', work: '3H6'},
+ , instances: 13, word: 'Even', work: '3H6'},
+ , instances: 13, word: 'Far', work: '3H6'},
+ , instances: 13, word: 'Field', work: '3H6'},
+ , instances: 13, word: 'Heir', work: '3H6'},
+ , instances: 13, word: 'Honor', work: '3H6'},
+ , instances: 13, word: 'Lady', work: '3H6'},
+ , instances: 13, word: 'March', work: '3H6'},
+ , instances: 13, word: 'Mind', work: '3H6'},
+ , instances: 13, word: 'Sit', work: '3H6'},
+ , instances: 13, word: 'Sons', work: '3H6'},
+ , instances: 13, word: 'Still', work: '3H6'},
+ , instances: 13, word: 'Thanks', work: '3H6'},
+ , instances: 13, word: 'Unless', work: '3H6'},
+ , instances: 13, word: 'World', work: '3H6'},
+ , instances: 12, word: 'About', work: '3H6'},
+ , instances: 12, word: 'Body', work: '3H6'},
+ , instances: 12, word: 'Bona', work: '3H6'},
+ , instances: 12, word: 'Could', work: '3H6'},
+ , instances: 12, word: 'Dead', work: '3H6'},
+ , instances: 12, word: 'Earl', work: '3H6'},
+ , instances: 12, word: 'Full', work: '3H6'},
+ , instances: 12, word: 'Help', work: '3H6'},
+ , instances: 12, word: 'Look', work: '3H6'},
+ , instances: 12, word: 'Marriage', work: '3H6'},
+ , instances: 12, word: 'Meet', work: '3H6'},
+ , instances: 12, word: 'Ne\'er', work: '3H6'},
+ , instances: 12, word: 'Pardon', work: '3H6'},
+ , instances: 12, word: 'Proud', work: '3H6'},
+ , instances: 12, word: 'Shame', work: '3H6'},
+ , instances: 12, word: 'State', work: '3H6'},
+ , instances: 12, word: 'Sun', work: '3H6'},
+ , instances: 12, word: 'Those', work: '3H6'},
+ , instances: 12, word: 'Tongue', work: '3H6'},
+ , instances: 12, word: 'Warwick\'s', work: '3H6'},
+ , instances: 12, word: '\'twas', work: '3H6'},
+ , instances: 11, word: 'Another', work: '3H6'},
+ , instances: 11, word: 'Answer', work: '3H6'},
+ , instances: 11, word: 'Best', work: '3H6'},
+ , instances: 11, word: 'Bloody', work: '3H6'},
+ , instances: 11, word: 'Call', work: '3H6'},
+ , instances: 11, word: 'Gave', work: '3H6'},
+ , instances: 11, word: 'George', work: '3H6'},
+ , instances: 11, word: 'Grief', work: '3H6'},
+ , instances: 11, word: 'Joy', work: '3H6'},
+ , instances: 11, word: 'Lands', work: '3H6'},
+ , instances: 11, word: 'Left', work: '3H6'},
+ , instances: 11, word: 'Long', work: '3H6'},
+ , instances: 11, word: 'Means', work: '3H6'},
+ , instances: 11, word: 'Peace', work: '3H6'},
+ , instances: 11, word: 'Sea', work: '3H6'},
+ , instances: 11, word: 'Seek', work: '3H6'},
+ , instances: 11, word: 'Ten', work: '3H6'},
+ , instances: 11, word: 'Two', work: '3H6'},
+ , instances: 10, word: 'After', work: '3H6'},
+ , instances: 10, word: 'Arms', work: '3H6'},
+ , instances: 10, word: 'England', work: '3H6'},
+ , instances: 10, word: 'England\'s', work: '3H6'},
+ , instances: 10, word: 'Foes', work: '3H6'},
+ , instances: 10, word: 'Gone', work: '3H6'},
+ , instances: 10, word: 'Kings', work: '3H6'},
+ , instances: 10, word: 'Lives', work: '3H6'},
+ , instances: 10, word: 'Looks', work: '3H6'},
+ , instances: 10, word: 'Loss', work: '3H6'},
+ , instances: 10, word: 'Loving', work: '3H6'},
+ , instances: 10, word: 'Methinks', work: '3H6'},
+ , instances: 10, word: 'Might', work: '3H6'},
+ , instances: 10, word: 'Night', work: '3H6'},
+ , instances: 10, word: 'Other', work: '3H6'},
+ , instances: 10, word: 'Place', work: '3H6'},
+ , instances: 10, word: 'Sorrow', work: '3H6'},
+ , instances: 10, word: 'Strength', work: '3H6'},
+ , instances: 10, word: 'Thought', work: '3H6'},
+ , instances: 10, word: 'Thyself', work: '3H6'},
+ , instances: 10, word: 'Use', work: '3H6'},
+ , instances: 10, word: 'Wear', work: '3H6'},
+ , instances: 10, word: 'Whiles', work: '3H6'},
+ , instances: 9, word: 'Alas', work: '3H6'},
+ , instances: 9, word: 'Along', work: '3H6'},
+ , instances: 9, word: 'Back', work: '3H6'},
+ , instances: 9, word: 'Blows', work: '3H6'},
+ , instances: 9, word: 'Break', work: '3H6'},
+ , instances: 9, word: 'Canst', work: '3H6'},
+ , instances: 9, word: 'Courage', work: '3H6'},
+ , instances: 9, word: 'Doubt', work: '3H6'},
+ , instances: 9, word: 'English', work: '3H6'},
+ , instances: 9, word: 'Every', work: '3H6'},
+ , instances: 9, word: 'First', work: '3H6'},
+ , instances: 9, word: 'Forth', work: '3H6'},
+ , instances: 9, word: 'Got', work: '3H6'},
+ , instances: 9, word: 'Grant', work: '3H6'},
+ , instances: 9, word: 'Hadst', work: '3H6'},
+ , instances: 9, word: 'Hastings', work: '3H6'},
+ , instances: 9, word: 'Keep', work: '3H6'},
+ , instances: 9, word: 'Lawful', work: '3H6'},
+ , instances: 9, word: 'Mercy', work: '3H6'},
+ , instances: 9, word: 'Name', work: '3H6'},
+ , instances: 9, word: 'Noble', work: '3H6'},
+ , instances: 9, word: 'Norfolk', work: '3H6'},
+ , instances: 9, word: 'Parliament', work: '3H6'},
+ , instances: 9, word: 'Rather', work: '3H6'},
+ , instances: 9, word: 'Reign', work: '3H6'},
+ , instances: 9, word: 'Royal', work: '3H6'},
+ , instances: 9, word: 'Rutland', work: '3H6'},
+ , instances: 9, word: 'Sir', work: '3H6'},
+ , instances: 9, word: 'Slew', work: '3H6'},
+ , instances: 9, word: 'Stands', work: '3H6'},
+ , instances: 9, word: 'Sword', work: '3H6'},
+ , instances: 9, word: 'That\'s', work: '3H6'},
+ , instances: 9, word: 'Throne', work: '3H6'},
+ , instances: 9, word: 'Turn', work: '3H6'},
+ , instances: 9, word: 'Victory', work: '3H6'},
+ , instances: 9, word: 'Welcome', work: '3H6'},
+ , instances: 9, word: 'Widow', work: '3H6'},
+ , instances: 9, word: 'Wrong', work: '3H6'},
+ , instances: 8, word: 'Awhile', work: '3H6'},
+ , instances: 8, word: 'Bid', work: '3H6'},
+ , instances: 8, word: 'Breast', work: '3H6'},
+ , instances: 8, word: 'Breathe', work: '3H6'},
+ , instances: 8, word: 'Brothers', work: '3H6'},
+ , instances: 8, word: 'Charge', work: '3H6'},
+ , instances: 8, word: 'Child', work: '3H6'},
+ , instances: 8, word: 'Content', work: '3H6'},
+ , instances: 8, word: 'Cried', work: '3H6'},
+ , instances: 8, word: 'Earth', work: '3H6'},
+ , instances: 8, word: 'Enemies', work: '3H6'},
+ , instances: 8, word: 'Exeter', work: '3H6'},
+ , instances: 8, word: 'Fearful', work: '3H6'},
+ , instances: 8, word: 'Fled', work: '3H6'},
+ , instances: 8, word: 'Gloucester', work: '3H6'},
+ , instances: 8, word: 'Less', work: '3H6'},
+ , instances: 8, word: 'Liege', work: '3H6'},
+ , instances: 8, word: 'Little', work: '3H6'},
+ , instances: 8, word: 'Lose', work: '3H6'},
+ , instances: 8, word: 'Lost', work: '3H6'},
+ , instances: 8, word: 'Majesty', work: '3H6'},
+ , instances: 8, word: 'New', work: '3H6'},
+ , instances: 8, word: 'Northumberland', work: '3H6'},
+ , instances: 8, word: 'Only', work: '3H6'},
+ , instances: 8, word: 'Open', work: '3H6'},
+ , instances: 8, word: 'Pleasure', work: '3H6'},
+ , instances: 8, word: 'Post', work: '3H6'},
+ , instances: 8, word: 'Quickly', work: '3H6'},
+ , instances: 8, word: 'Said', work: '3H6'},
+ , instances: 8, word: 'Saint', work: '3H6'},
+ , instances: 8, word: 'Seat', work: '3H6'},
+ , instances: 8, word: 'Soon', work: '3H6'},
+ , instances: 8, word: 'Sound', work: '3H6'},
+ , instances: 8, word: 'Strike', work: '3H6'},
+ , instances: 8, word: 'Suit', work: '3H6'},
+ , instances: 8, word: 'Three', work: '3H6'},
+ , instances: 8, word: 'Traitor', work: '3H6'},
+ , instances: 8, word: 'Very', work: '3H6'},
+ , instances: 8, word: 'Weep', work: '3H6'},
+ , instances: 8, word: 'Whence', work: '3H6'},
+ , instances: 7, word: 'Aid', work: '3H6'},
+ , instances: 7, word: 'Arm', work: '3H6'},
+ , instances: 7, word: 'Because', work: '3H6'},
+ , instances: 7, word: 'Belike', work: '3H6'},
+ , instances: 7, word: 'Brought', work: '3H6'},
+ , instances: 7, word: 'Cause', work: '3H6'},
+ , instances: 7, word: 'Chair', work: '3H6'},
+ , instances: 7, word: 'Cold', work: '3H6'},
+ , instances: 7, word: 'Colors', work: '3H6'},
+ , instances: 7, word: 'Consent', work: '3H6'},
+ , instances: 7, word: 'Daughter', work: '3H6'},
+ , instances: 7, word: 'Days', work: '3H6'},
+ , instances: 7, word: 'Didst', work: '3H6'},
+ , instances: 7, word: 'Dukedom', work: '3H6'},
+ , instances: 7, word: 'Ever', work: '3H6'},
+ , instances: 7, word: 'Eye', work: '3H6'},
+ , instances: 7, word: 'Faint', work: '3H6'},
+ , instances: 7, word: 'Fall', work: '3H6'},
+ , instances: 7, word: 'False', work: '3H6'},
+ , instances: 7, word: 'Fatal', work: '3H6'},
+ , instances: 7, word: 'Forward', work: '3H6'},
+ , instances: 7, word: 'Foul', work: '3H6'},
+ , instances: 7, word: 'God\'s', work: '3H6'},
+ , instances: 7, word: 'Ground', work: '3H6'},
+ , instances: 7, word: 'Happy', work: '3H6'},
+ , instances: 7, word: 'Having', work: '3H6'},
+ , instances: 7, word: 'Hours', work: '3H6'},
+ , instances: 7, word: 'Into', work: '3H6'},
+ , instances: 7, word: 'John', work: '3H6'},
+ , instances: 7, word: 'Kill', work: '3H6'},
+ , instances: 7, word: 'Kingdom', work: '3H6'},
+ , instances: 7, word: 'King\'s', work: '3H6'},
+ , instances: 7, word: 'Kneel', work: '3H6'},
+ , instances: 7, word: 'Last', work: '3H6'},
+ , instances: 7, word: 'Mother', work: '3H6'},
+ , instances: 7, word: 'Nothing', work: '3H6'},
+ , instances: 7, word: 'Old', work: '3H6'},
+ , instances: 7, word: 'Ourselves', work: '3H6'},
+ , instances: 7, word: 'Over', work: '3H6'},
+ , instances: 7, word: 'Own', work: '3H6'},
+ , instances: 7, word: 'Power', work: '3H6'},
+ , instances: 7, word: 'Princely', work: '3H6'},
+ , instances: 7, word: 'Prove', work: '3H6'},
+ , instances: 7, word: 'Put', work: '3H6'},
+ , instances: 7, word: 'Regal', work: '3H6'},
+ , instances: 7, word: 'Subjects', work: '3H6'},
+ , instances: 7, word: 'Thing', work: '3H6'},
+ , instances: 7, word: 'Times', work: '3H6'},
+ , instances: 7, word: 'Together', work: '3H6'},
+ , instances: 7, word: 'Truth', work: '3H6'},
+ , instances: 7, word: 'Vow', work: '3H6'},
+ , instances: 7, word: 'Wife', work: '3H6'},
+ , instances: 7, word: 'Word', work: '3H6'},
+ , instances: 7, word: 'Worthy', work: '3H6'},
+ , instances: 7, word: '\'twere', work: '3H6'},
+ , instances: 6, word: 'Bed', work: '3H6'},
+ , instances: 6, word: 'Blow', work: '3H6'},
+ , instances: 6, word: 'Born', work: '3H6'},
+ , instances: 6, word: 'Bride', work: '3H6'},
+ , instances: 6, word: 'Bring', work: '3H6'},
+ , instances: 6, word: 'Broke', work: '3H6'},
+ , instances: 6, word: 'Children', work: '3H6'},
+ , instances: 6, word: 'Claim', work: '3H6'},
+ , instances: 6, word: 'Command', work: '3H6'},
+ , instances: 6, word: 'Common', work: '3H6'},
+ , instances: 6, word: 'Course', work: '3H6'},
+ , instances: 6, word: 'Cousin', work: '3H6'},
+ , instances: 6, word: 'Despite', work: '3H6'},
+ , instances: 6, word: 'Draw', work: '3H6'},
+ , instances: 6, word: 'Dry', work: '3H6'},
+ , instances: 6, word: 'Ears', work: '3H6'},
+ , instances: 6, word: 'Either', work: '3H6'},
+ , instances: 6, word: 'End', work: '3H6'},
+ , instances: 6, word: 'Enough', work: '3H6'},
+ , instances: 6, word: 'Fault', work: '3H6'},
+ , instances: 6, word: 'Fell', work: '3H6'},
+ , instances: 6, word: 'Find', work: '3H6'},
+ , instances: 6, word: 'Flight', work: '3H6'},
+ , instances: 6, word: 'Followers', work: '3H6'},
+ , instances: 6, word: 'Forthwith', work: '3H6'},
+ , instances: 6, word: 'Fury', work: '3H6'},
+ , instances: 6, word: 'Guard', work: '3H6'},
+ , instances: 6, word: 'Here\'s', work: '3H6'},
+ , instances: 6, word: 'He\'ll', work: '3H6'},
+ , instances: 6, word: 'He\'s', work: '3H6'},
+ , instances: 6, word: 'High', work: '3H6'},
+ , instances: 6, word: 'Hither', work: '3H6'},
+ , instances: 6, word: 'Hour', work: '3H6'},
+ , instances: 6, word: 'Humble', work: '3H6'},
+ , instances: 6, word: 'Join', work: '3H6'},
+ , instances: 6, word: 'Kiss', work: '3H6'},
+ , instances: 6, word: 'Knee', work: '3H6'},
+ , instances: 6, word: 'Land', work: '3H6'},
+ , instances: 6, word: 'Late', work: '3H6'},
+ , instances: 6, word: 'Longer', work: '3H6'},
+ , instances: 6, word: 'Madam', work: '3H6'},
+ , instances: 6, word: 'Master', work: '3H6'},
+ , instances: 6, word: 'Need', work: '3H6'},
+ , instances: 6, word: 'Neither', work: '3H6'},
+ , instances: 6, word: 'Palace', work: '3H6'},
+ , instances: 6, word: 'Part', work: '3H6'},
+ , instances: 6, word: 'Point', work: '3H6'},
+ , instances: 6, word: 'Quarrel', work: '3H6'},
+ , instances: 6, word: 'Reason', work: '3H6'},
+ , instances: 6, word: 'Return', work: '3H6'},
+ , instances: 6, word: 'Sake', work: '3H6'},
+ , instances: 6, word: 'Seas', work: '3H6'},
+ , instances: 6, word: 'Seem', work: '3H6'},
+ , instances: 6, word: 'Since', work: '3H6'},
+ , instances: 6, word: 'Sister', work: '3H6'},
+ , instances: 6, word: 'Strong', work: '3H6'},
+ , instances: 6, word: 'Subject', work: '3H6'},
+ , instances: 6, word: 'Swear', work: '3H6'},
+ , instances: 6, word: 'Talk', work: '3H6'},
+ , instances: 6, word: 'Throw', work: '3H6'},
+ , instances: 6, word: 'Tide', work: '3H6'},
+ , instances: 6, word: 'Took', work: '3H6'},
+ , instances: 6, word: 'Towards', work: '3H6'},
+ , instances: 6, word: 'Tower', work: '3H6'},
+ , instances: 6, word: 'Until', work: '3H6'},
+ , instances: 6, word: 'Women', work: '3H6'},
+ , instances: 6, word: 'Wonder', work: '3H6'},
+ , instances: 6, word: 'Wounds', work: '3H6'},
+ , instances: 6, word: 'Years', work: '3H6'},
+ , instances: 6, word: '\'t', work: '3H6'},
+ , instances: 5, word: 'Add', work: '3H6'},
+ , instances: 5, word: 'Alliance', work: '3H6'},
+ , instances: 5, word: 'Always', work: '3H6'},
+ , instances: 5, word: 'Amain', work: '3H6'},
+ , instances: 5, word: 'Aside', work: '3H6'},
+ , instances: 5, word: 'Become', work: '3H6'},
+ , instances: 5, word: 'Burgundy', work: '3H6'},
+ , instances: 5, word: 'Case', work: '3H6'},
+ , instances: 5, word: 'Challenge', work: '3H6'},
+ , instances: 5, word: 'Cheeks', work: '3H6'},
+ , instances: 5, word: 'Cheer', work: '3H6'},
+ , instances: 5, word: 'Confess', work: '3H6'},
+ , instances: 5, word: 'Cry', work: '3H6'},
+ , instances: 5, word: 'Cut', work: '3H6'},
+ , instances: 5, word: 'Deeds', work: '3H6'},
+ , instances: 5, word: 'Defense', work: '3H6'},
+ , instances: 5, word: 'Depart', work: '3H6'},
+ , instances: 5, word: 'Deposed', work: '3H6'},
+ , instances: 5, word: 'Dost', work: '3H6'},
+ , instances: 5, word: 'Each', work: '3H6'},
+ , instances: 5, word: 'Fast', work: '3H6'},
+ , instances: 5, word: 'Few', work: '3H6'},
+ , instances: 5, word: 'Fill', work: '3H6'},
+ , instances: 5, word: 'Five', work: '3H6'},
+ , instances: 5, word: 'Forbid', work: '3H6'},
+ , instances: 5, word: 'Force', work: '3H6'},
+ , instances: 5, word: 'Forget', work: '3H6'},
+ , instances: 5, word: 'Fourth', work: '3H6'},
+ , instances: 5, word: 'Free', work: '3H6'},
+ , instances: 5, word: 'Frowns', work: '3H6'},
+ , instances: 5, word: 'Further', work: '3H6'},
+ , instances: 5, word: 'Get', work: '3H6'},
+ , instances: 5, word: 'Glorious', work: '3H6'},
+ , instances: 5, word: 'Golden', work: '3H6'},
+ , instances: 5, word: 'Goodly', work: '3H6'},
+ , instances: 5, word: 'Hard', work: '3H6'},
+ , instances: 5, word: 'Haste', work: '3H6'},
+ , instances: 5, word: 'Heavy', work: '3H6'},
+ , instances: 5, word: 'Hell', work: '3H6'},
+ , instances: 5, word: 'Highness', work: '3H6'},
+ , instances: 5, word: 'Issue', work: '3H6'},
+ , instances: 5, word: 'Jest', work: '3H6'},
+ , instances: 5, word: 'Killed', work: '3H6'},
+ , instances: 5, word: 'Least', work: '3H6'},
+ , instances: 5, word: 'Lest', work: '3H6'},
+ , instances: 5, word: 'Letters', work: '3H6'},
+ , instances: 5, word: 'Lion', work: '3H6'},
+ , instances: 5, word: 'Measure', work: '3H6'},
+ , instances: 5, word: 'Mighty', work: '3H6'},
+ , instances: 5, word: 'Mortal', work: '3H6'},
+ , instances: 5, word: 'Most', work: '3H6'},
+ , instances: 5, word: 'Often', work: '3H6'},
+ , instances: 5, word: 'Person', work: '3H6'},
+ , instances: 5, word: 'Play', work: '3H6'},
+ , instances: 5, word: 'Prisoner', work: '3H6'},
+ , instances: 5, word: 'Rage', work: '3H6'},
+ , instances: 5, word: 'Ready', work: '3H6'},
+ , instances: 5, word: 'Resign', work: '3H6'},
+ , instances: 5, word: 'Rise', work: '3H6'},
+ , instances: 5, word: 'Root', work: '3H6'},
+ , instances: 5, word: 'Ruthless', work: '3H6'},
+ , instances: 5, word: 'Safety', work: '3H6'},
+ , instances: 5, word: 'Says', work: '3H6'},
+ , instances: 5, word: 'Seen', work: '3H6'},
+ , instances: 5, word: 'Sent', work: '3H6'},
+ , instances: 5, word: 'Shed', work: '3H6'},
+ , instances: 5, word: 'Sight', work: '3H6'},
+ , instances: 5, word: 'Smile', work: '3H6'},
+ , instances: 5, word: 'Steel', work: '3H6'},
+ , instances: 5, word: 'Success', work: '3H6'},
+ , instances: 5, word: 'Sure', work: '3H6'},
+ , instances: 5, word: 'Tear', work: '3H6'},
+ , instances: 5, word: 'Thence', work: '3H6'},
+ , instances: 5, word: 'Thereof', work: '3H6'},
+ , instances: 5, word: 'Think\'st', work: '3H6'},
+ , instances: 5, word: 'Town', work: '3H6'},
+ , instances: 5, word: 'Under', work: '3H6'},
+ , instances: 5, word: 'Virtuous', work: '3H6'},
+ , instances: 5, word: 'Want', work: '3H6'},
+ , instances: 5, word: 'Warriors', work: '3H6'},
+ , instances: 5, word: 'Wast', work: '3H6'},
+ , instances: 5, word: 'Weak', work: '3H6'},
+ , instances: 5, word: 'Wert', work: '3H6'},
+ , instances: 5, word: 'Whither', work: '3H6'},
+ , instances: 5, word: 'Wings', work: '3H6'},
+ , instances: 5, word: 'Wise', work: '3H6'},
+ , instances: 5, word: 'Wish', work: '3H6'},
+ , instances: 5, word: 'Withal', work: '3H6'},
+ , instances: 5, word: 'Woe', work: '3H6'},
+ , instances: 5, word: 'Woman', work: '3H6'},
+ , instances: 5, word: 'Yes', work: '3H6'},
+ , instances: 5, word: 'Yourself', work: '3H6'},
+ , instances: 5, word: 'You\'ll', work: '3H6'},
+ , instances: 4, word: 'Above', work: '3H6'},
+ , instances: 4, word: 'Abroad', work: '3H6'},
+ , instances: 4, word: 'Act', work: '3H6'},
+ , instances: 4, word: 'Aim', work: '3H6'},
+ , instances: 4, word: 'Air', work: '3H6'},
+ , instances: 4, word: 'Albans', work: '3H6'},
+ , instances: 4, word: 'Alone', work: '3H6'},
+ , instances: 4, word: 'Already', work: '3H6'},
+ , instances: 4, word: 'Army', work: '3H6'},
+ , instances: 4, word: 'Ask', work: '3H6'},
+ , instances: 4, word: 'Bears', work: '3H6'},
+ , instances: 4, word: 'Behalf', work: '3H6'},
+ , instances: 4, word: 'Bend', work: '3H6'},
+ , instances: 4, word: 'Bird', work: '3H6'},
+ , instances: 4, word: 'Black', work: '3H6'},
+ , instances: 4, word: 'Blame', work: '3H6'},
+ , instances: 4, word: 'Bold', work: '3H6'},
+ , instances: 4, word: 'Bootless', work: '3H6'},
+ , instances: 4, word: 'Branch', work: '3H6'},
+ , instances: 4, word: 'Brook', work: '3H6'},
+ , instances: 4, word: 'Brother\'s', work: '3H6'},
+ , instances: 4, word: 'Bush', work: '3H6'},
+ , instances: 4, word: 'Care', work: '3H6'},
+ , instances: 4, word: 'Chief', work: '3H6'},
+ , instances: 4, word: 'City', work: '3H6'},
+ , instances: 4, word: 'Clifford\'s', work: '3H6'},
+ , instances: 4, word: 'Close', work: '3H6'},
+ , instances: 4, word: 'Cloud', work: '3H6'},
+ , instances: 4, word: 'Coming', work: '3H6'},
+ , instances: 4, word: 'Counsel', work: '3H6'},
+ , instances: 4, word: 'Crave', work: '3H6'},
+ , instances: 4, word: 'Cross', work: '3H6'},
+ , instances: 4, word: 'Crowned', work: '3H6'},
+ , instances: 4, word: 'Crowns', work: '3H6'},
+ , instances: 4, word: 'Danger', work: '3H6'},
+ , instances: 4, word: 'Dare', work: '3H6'},
+ , instances: 4, word: 'Deadly', work: '3H6'},
+ , instances: 4, word: 'Deed', work: '3H6'},
+ , instances: 4, word: 'Deer', work: '3H6'},
+ , instances: 4, word: 'Deserved', work: '3H6'},
+ , instances: 4, word: 'Despair', work: '3H6'},
+ , instances: 4, word: 'Diadem', work: '3H6'},
+ , instances: 4, word: 'Dreadful', work: '3H6'},
+ , instances: 4, word: 'Drums', work: '3H6'},
+ , instances: 4, word: 'Durst', work: '3H6'},
+ , instances: 4, word: 'Ease', work: '3H6'},
+ , instances: 4, word: 'Embrace', work: '3H6'},
+ , instances: 4, word: 'Enjoy', work: '3H6'},
+ , instances: 4, word: 'Enter', work: '3H6'},
+ , instances: 4, word: 'Equal', work: '3H6'},
+ , instances: 4, word: 'Faith', work: '3H6'},
+ , instances: 4, word: 'Faults', work: '3H6'},
+ , instances: 4, word: 'Flies', work: '3H6'},
+ , instances: 4, word: 'Foot', work: '3H6'},
+ , instances: 4, word: 'Forced', work: '3H6'},
+ , instances: 4, word: 'Former', work: '3H6'},
+ , instances: 4, word: 'Fortune\'s', work: '3H6'},
+ , instances: 4, word: 'Fruit', work: '3H6'},
+ , instances: 4, word: 'Gift', work: '3H6'},
+ , instances: 4, word: 'Government', work: '3H6'},
+ , instances: 4, word: 'Grave', work: '3H6'},
+ , instances: 4, word: 'Grey', work: '3H6'},
+ , instances: 4, word: 'Guess', work: '3H6'},
+ , instances: 4, word: 'Half', work: '3H6'},
+ , instances: 4, word: 'Harm', work: '3H6'},
+ , instances: 4, word: 'Home', work: '3H6'},
+ , instances: 4, word: 'Horse', work: '3H6'},
+ , instances: 4, word: 'Humbly', work: '3H6'},
+ , instances: 4, word: 'Husband\'s', work: '3H6'},
+ , instances: 4, word: 'Joined', work: '3H6'},
+ , instances: 4, word: 'Justice', work: '3H6'},
+ , instances: 4, word: 'Keeps', work: '3H6'},
+ , instances: 4, word: 'Kindness', work: '3H6'},
+ , instances: 4, word: 'Kingly', work: '3H6'},
+ , instances: 4, word: 'Knows', work: '3H6'},
+ , instances: 4, word: 'Laid', work: '3H6'},
+ , instances: 4, word: 'Liberty', work: '3H6'},
+ , instances: 4, word: 'Lie', work: '3H6'},
+ , instances: 4, word: 'Lies', work: '3H6'},
+ , instances: 4, word: 'Light', work: '3H6'},
+ , instances: 4, word: 'Lips', work: '3H6'},
+ , instances: 4, word: 'Low', work: '3H6'},
+ , instances: 4, word: 'Messenger', work: '3H6'},
+ , instances: 4, word: 'Mild', work: '3H6'},
+ , instances: 4, word: 'Mischance', work: '3H6'},
+ , instances: 4, word: 'Mother\'s', work: '3H6'},
+ , instances: 4, word: 'Mourning', work: '3H6'},
+ , instances: 4, word: 'Nature', work: '3H6'},
+ , instances: 4, word: 'Near', work: '3H6'},
+ , instances: 4, word: 'Ned', work: '3H6'},
+ , instances: 4, word: 'Needs', work: '3H6'},
+ , instances: 4, word: 'Next', work: '3H6'},
+ , instances: 4, word: 'Oaths', work: '3H6'},
+ , instances: 4, word: 'Oft', work: '3H6'},
+ , instances: 4, word: 'Orator', work: '3H6'},
+ , instances: 4, word: 'Ours', work: '3H6'},
+ , instances: 4, word: 'Passed', work: '3H6'},
+ , instances: 4, word: 'Patience', work: '3H6'},
+ , instances: 4, word: 'Patient', work: '3H6'},
+ , instances: 4, word: 'Pay', work: '3H6'},
+ , instances: 4, word: 'People', work: '3H6'},
+ , instances: 4, word: 'Plant', work: '3H6'},
+ , instances: 4, word: 'Please', work: '3H6'},
+ , instances: 4, word: 'Pray', work: '3H6'},
+ , instances: 4, word: 'Proclaim', work: '3H6'},
+ , instances: 4, word: 'Pursuit', work: '3H6'},
+ , instances: 4, word: 'Realm', work: '3H6'},
+ , instances: 4, word: 'Repossess', work: '3H6'},
+ , instances: 4, word: 'Resolve', work: '3H6'},
+ , instances: 4, word: 'Resolved', work: '3H6'},
+ , instances: 4, word: 'Retire', work: '3H6'},
+ , instances: 4, word: 'Revenged', work: '3H6'},
+ , instances: 4, word: 'Rose', work: '3H6'},
+ , instances: 4, word: 'Rough', work: '3H6'},
+ , instances: 4, word: 'Safe', work: '3H6'},
+ , instances: 4, word: 'Sail', work: '3H6'},
+ , instances: 4, word: 'Satisfied', work: '3H6'},
+ , instances: 4, word: 'Scepter', work: '3H6'},
+ , instances: 4, word: 'Scotland', work: '3H6'},
+ , instances: 4, word: 'Seated', work: '3H6'},
+ , instances: 4, word: 'Secret', work: '3H6'},
+ , instances: 4, word: 'Selfsame', work: '3H6'},
+ , instances: 4, word: 'Send', work: '3H6'},
+ , instances: 4, word: 'Service', work: '3H6'},
+ , instances: 4, word: 'Side', work: '3H6'},
+ , instances: 4, word: 'Sire', work: '3H6'},
+ , instances: 4, word: 'Sits', work: '3H6'},
+ , instances: 4, word: 'Sort', work: '3H6'},
+ , instances: 4, word: 'Speed', work: '3H6'},
+ , instances: 4, word: 'Spend', work: '3H6'},
+ , instances: 4, word: 'Spirit', work: '3H6'},
+ , instances: 4, word: 'Spite', work: '3H6'},
+ , instances: 4, word: 'Spring', work: '3H6'},
+ , instances: 4, word: 'Steeds', work: '3H6'},
+ , instances: 4, word: 'Stir', work: '3H6'},
+ , instances: 4, word: 'Storm', work: '3H6'},
+ , instances: 4, word: 'Straight', work: '3H6'},
+ , instances: 4, word: 'Suppose', work: '3H6'},
+ , instances: 4, word: 'Tender', work: '3H6'},
+ , instances: 4, word: 'Thirty', work: '3H6'},
+ , instances: 4, word: 'Thoughts', work: '3H6'},
+ , instances: 4, word: 'Through', work: '3H6'},
+ , instances: 4, word: 'Told', work: '3H6'},
+ , instances: 4, word: 'Treason', work: '3H6'},
+ , instances: 4, word: 'Triumph', work: '3H6'},
+ , instances: 4, word: 'Troops', work: '3H6'},
+ , instances: 4, word: 'Trumpets', work: '3H6'},
+ , instances: 4, word: 'Trust', work: '3H6'},
+ , instances: 4, word: 'Twenty', work: '3H6'},
+ , instances: 4, word: 'Virtue', work: '3H6'},
+ , instances: 4, word: 'Waves', work: '3H6'},
+ , instances: 4, word: 'What\'s', work: '3H6'},
+ , instances: 4, word: 'Wherefore', work: '3H6'},
+ , instances: 4, word: 'Whilst', work: '3H6'},
+ , instances: 4, word: 'Win', work: '3H6'},
+ , instances: 4, word: 'Wit', work: '3H6'},
+ , instances: 4, word: 'Within', work: '3H6'},
+ , instances: 4, word: 'Wrath', work: '3H6'},
+ , instances: 4, word: 'Yea', work: '3H6'},
+ , instances: 4, word: 'Yours', work: '3H6'},
+ , instances: 4, word: 'Youth', work: '3H6'},
+ , instances: 4, word: '\'gainst', work: '3H6'},
+ , instances: 3, word: 'Abide', work: '3H6'},
+ , instances: 3, word: 'Ambitious', work: '3H6'},
+ , instances: 3, word: 'Arise', work: '3H6'},
+ , instances: 3, word: 'Armor', work: '3H6'},
+ , instances: 3, word: 'Attended', work: '3H6'},
+ , instances: 3, word: 'Axe', work: '3H6'},
+ , instances: 3, word: 'Backed', work: '3H6'},
+ , instances: 3, word: 'Bands', work: '3H6'},
+ , instances: 3, word: 'Bearing', work: '3H6'},
+ , instances: 3, word: 'Beat', work: '3H6'},
+ , instances: 3, word: 'Beg', work: '3H6'},
+ , instances: 3, word: 'Begins', work: '3H6'},
+ , instances: 3, word: 'Beloved', work: '3H6'},
+ , instances: 3, word: 'Bethink', work: '3H6'},
+ , instances: 3, word: 'Between', work: '3H6'},
+ , instances: 3, word: 'Birds', work: '3H6'},
+ , instances: 3, word: 'Bishop', work: '3H6'},
+ , instances: 3, word: 'Bishop\'s', work: '3H6'},
+ , instances: 3, word: 'Bite', work: '3H6'},
+ , instances: 3, word: 'Bliss', work: '3H6'},
+ , instances: 3, word: 'Bodies', work: '3H6'},
+ , instances: 3, word: 'Body\'s', work: '3H6'},
+ , instances: 3, word: 'Borne', work: '3H6'},
+ , instances: 3, word: 'Bred', work: '3H6'},
+ , instances: 3, word: 'Brings', work: '3H6'},
+ , instances: 3, word: 'Brittany', work: '3H6'},
+ , instances: 3, word: 'Broken', work: '3H6'},
+ , instances: 3, word: 'Brows', work: '3H6'},
+ , instances: 3, word: 'Burns', work: '3H6'},
+ , instances: 3, word: 'Called', work: '3H6'},
+ , instances: 3, word: 'Cam\'st', work: '3H6'},
+ , instances: 3, word: 'Car', work: '3H6'},
+ , instances: 3, word: 'Castle', work: '3H6'},
+ , instances: 3, word: 'Change', work: '3H6'},
+ , instances: 3, word: 'Check', work: '3H6'},
+ , instances: 3, word: 'Civil', work: '3H6'},
+ , instances: 3, word: 'Commanded', work: '3H6'},
+ , instances: 3, word: 'Commands', work: '3H6'},
+ , instances: 3, word: 'Company', work: '3H6'},
+ , instances: 3, word: 'Conquest', work: '3H6'},
+ , instances: 3, word: 'Contented', work: '3H6'},
+ , instances: 3, word: 'Conveyed', work: '3H6'},
+ , instances: 3, word: 'Country', work: '3H6'},
+ , instances: 3, word: 'Coventry', work: '3H6'},
+ , instances: 3, word: 'Cowardice', work: '3H6'},
+ , instances: 3, word: 'Crookback', work: '3H6'},
+ , instances: 3, word: 'Cruel', work: '3H6'},
+ , instances: 3, word: 'Dangerous', work: '3H6'},
+ , instances: 3, word: 'Dares', work: '3H6'},
+ , instances: 3, word: 'Deceived', work: '3H6'},
+ , instances: 3, word: 'Defend', work: '3H6'},
+ , instances: 3, word: 'Defy', work: '3H6'},
+ , instances: 3, word: 'Delay', work: '3H6'},
+ , instances: 3, word: 'Demand', work: '3H6'},
+ , instances: 3, word: 'Deny', work: '3H6'},
+ , instances: 3, word: 'Descent', work: '3H6'},
+ , instances: 3, word: 'Desire', work: '3H6'},
+ , instances: 3, word: 'Devise', work: '3H6'},
+ , instances: 3, word: 'Dishonor', work: '3H6'},
+ , instances: 3, word: 'Disinherit', work: '3H6'},
+ , instances: 3, word: 'Dismal', work: '3H6'},
+ , instances: 3, word: 'Doom', work: '3H6'},
+ , instances: 3, word: 'Drowned', work: '3H6'},
+ , instances: 3, word: 'Drum', work: '3H6'},
+ , instances: 3, word: 'Dust', work: '3H6'},
+ , instances: 3, word: 'Enemy', work: '3H6'},
+ , instances: 3, word: 'Escape', work: '3H6'},
+ , instances: 3, word: 'Evil', work: '3H6'},
+ , instances: 3, word: 'Executioner', work: '3H6'},
+ , instances: 3, word: 'Fares', work: '3H6'},
+ , instances: 3, word: 'Feather', work: '3H6'},
+ , instances: 3, word: 'Fence', work: '3H6'},
+ , instances: 3, word: 'Fiery', work: '3H6'},
+ , instances: 3, word: 'Fifth', work: '3H6'},
+ , instances: 3, word: 'Filled', work: '3H6'},
+ , instances: 3, word: 'Fire', work: '3H6'},
+ , instances: 3, word: 'Forbear', work: '3H6'},
+ , instances: 3, word: 'Forces', work: '3H6'},
+ , instances: 3, word: 'Forest', work: '3H6'},
+ , instances: 3, word: 'Fought', work: '3H6'},
+ , instances: 3, word: 'Frown', work: '3H6'},
+ , instances: 3, word: 'Game', work: '3H6'},
+ , instances: 3, word: 'Gaunt', work: '3H6'},
+ , instances: 3, word: 'Gently', work: '3H6'},
+ , instances: 3, word: 'Giving', work: '3H6'},
+ , instances: 3, word: 'Glory', work: '3H6'},
+ , instances: 3, word: 'Goes', work: '3H6'},
+ , instances: 3, word: 'Grandfather', work: '3H6'},
+ , instances: 3, word: 'Grieve', work: '3H6'},
+ , instances: 3, word: 'Guilty', work: '3H6'},
+ , instances: 3, word: 'Hark', work: '3H6'},
+ , instances: 3, word: 'Harmless', work: '3H6'},
+ , instances: 3, word: 'Hate', work: '3H6'},
+ , instances: 3, word: 'Hears', work: '3H6'},
+ , instances: 3, word: 'Heart\'s', work: '3H6'},
+ , instances: 3, word: 'Heavens', work: '3H6'},
+ , instances: 3, word: 'Heirs', work: '3H6'},
+ , instances: 3, word: 'Henceforth', work: '3H6'},
+ , instances: 3, word: 'Holy', work: '3H6'},
+ , instances: 3, word: 'Hurt', work: '3H6'},
+ , instances: 3, word: 'Ill', work: '3H6'},
+ , instances: 3, word: 'Image', work: '3H6'},
+ , instances: 3, word: 'Insulting', work: '3H6'},
+ , instances: 3, word: 'Jerusalem', work: '3H6'},
+ , instances: 3, word: 'Joys', work: '3H6'},
+ , instances: 3, word: 'Judgment', work: '3H6'},
+ , instances: 3, word: 'Just', work: '3H6'},
+ , instances: 3, word: 'Kept', work: '3H6'},
+ , instances: 3, word: 'Knew', work: '3H6'},
+ , instances: 3, word: 'Lad', work: '3H6'},
+ , instances: 3, word: 'Lamb', work: '3H6'},
+ , instances: 3, word: 'League', work: '3H6'},
+ , instances: 3, word: 'Learn', work: '3H6'},
+ , instances: 3, word: 'Legs', work: '3H6'},
+ , instances: 3, word: 'Likely', work: '3H6'},
+ , instances: 3, word: 'Linger', work: '3H6'},
+ , instances: 3, word: 'Lived', work: '3H6'},
+ , instances: 3, word: 'Lo', work: '3H6'},
+ , instances: 3, word: 'Manhood', work: '3H6'},
+ , instances: 3, word: 'Marry', work: '3H6'},
+ , instances: 3, word: 'Matter', work: '3H6'},
+ , instances: 3, word: 'Mayor', work: '3H6'},
+ , instances: 3, word: 'Mildness', work: '3H6'},
+ , instances: 3, word: 'Miserable', work: '3H6'},
+ , instances: 3, word: 'Mock', work: '3H6'},
+ , instances: 3, word: 'Montgomery', work: '3H6'},
+ , instances: 3, word: 'Months', work: '3H6'},
+ , instances: 3, word: 'Murder', work: '3H6'},
+ , instances: 3, word: 'Napkin', work: '3H6'},
+ , instances: 3, word: 'Needful', work: '3H6'},
+ , instances: 3, word: 'Nigh', work: '3H6'},
+ , instances: 3, word: 'None', work: '3H6'},
+ , instances: 3, word: 'Obey', work: '3H6'},
+ , instances: 3, word: 'Object', work: '3H6'},
+ , instances: 3, word: 'Occasion', work: '3H6'},
+ , instances: 3, word: 'Odds', work: '3H6'},
+ , instances: 3, word: 'Offense', work: '3H6'},
+ , instances: 3, word: 'Owl', work: '3H6'},
+ , instances: 3, word: 'Pain', work: '3H6'},
+ , instances: 3, word: 'Pale', work: '3H6'},
+ , instances: 3, word: 'Pass', work: '3H6'},
+ , instances: 3, word: 'Passage', work: '3H6'},
+ , instances: 3, word: 'Pause', work: '3H6'},
+ , instances: 3, word: 'Perforce', work: '3H6'},
+ , instances: 3, word: 'Perjured', work: '3H6'},
+ , instances: 3, word: 'Plague', work: '3H6'},
+ , instances: 3, word: 'Plain', work: '3H6'},
+ , instances: 3, word: 'Pluck', work: '3H6'},
+ , instances: 3, word: 'Policy', work: '3H6'},
+ , instances: 3, word: 'Possession', work: '3H6'},
+ , instances: 3, word: 'Presently', work: '3H6'},
+ , instances: 3, word: 'Prey', work: '3H6'},
+ , instances: 3, word: 'Prick', work: '3H6'},
+ , instances: 3, word: 'Prison', work: '3H6'},
+ , instances: 3, word: 'Promise', work: '3H6'},
+ , instances: 3, word: 'Protector', work: '3H6'},
+ , instances: 3, word: 'Puissant', work: '3H6'},
+ , instances: 3, word: 'Purple', work: '3H6'},
+ , instances: 3, word: 'Quench', work: '3H6'},
+ , instances: 3, word: 'Quite', work: '3H6'},
+ , instances: 3, word: 'Raise', work: '3H6'},
+ , instances: 3, word: 'Remain', work: '3H6'},
+ , instances: 3, word: 'Remains', work: '3H6'},
+ , instances: 3, word: 'Renownèd', work: '3H6'},
+ , instances: 3, word: 'Repair', work: '3H6'},
+ , instances: 3, word: 'Request', work: '3H6'},
+ , instances: 3, word: 'Requite', work: '3H6'},
+ , instances: 3, word: 'Resolution', work: '3H6'},
+ , instances: 3, word: 'Rests', work: '3H6'},
+ , instances: 3, word: 'Richmond', work: '3H6'},
+ , instances: 3, word: 'Rock', work: '3H6'},
+ , instances: 3, word: 'Rocks', work: '3H6'},
+ , instances: 3, word: 'Ruin', work: '3H6'},
+ , instances: 3, word: 'Rule', work: '3H6'},
+ , instances: 3, word: 'Run', work: '3H6'},
+ , instances: 3, word: 'Sad', work: '3H6'},
+ , instances: 3, word: 'Scaped', work: '3H6'},
+ , instances: 3, word: 'Scouts', work: '3H6'},
+ , instances: 3, word: 'Seeing', work: '3H6'},
+ , instances: 3, word: 'Seize', work: '3H6'},
+ , instances: 3, word: 'Seized', work: '3H6'},
+ , instances: 3, word: 'Sepulcher', work: '3H6'},
+ , instances: 3, word: 'Serve', work: '3H6'},
+ , instances: 3, word: 'Shade', work: '3H6'},
+ , instances: 3, word: 'Shadow', work: '3H6'},
+ , instances: 3, word: 'Shameless', work: '3H6'},
+ , instances: 3, word: 'Shortly', work: '3H6'},
+ , instances: 3, word: 'Shoulder', work: '3H6'},
+ , instances: 3, word: 'Show', work: '3H6'},
+ , instances: 3, word: 'Shows', work: '3H6'},
+ , instances: 3, word: 'Shut', work: '3H6'},
+ , instances: 3, word: 'Sighs', work: '3H6'},
+ , instances: 3, word: 'Sign', work: '3H6'},
+ , instances: 3, word: 'Signal', work: '3H6'},
+ , instances: 3, word: 'Silly', work: '3H6'},
+ , instances: 3, word: 'Simple', work: '3H6'},
+ , instances: 3, word: 'Sin', work: '3H6'},
+ , instances: 3, word: 'Single', work: '3H6'},
+ , instances: 3, word: 'Sith', work: '3H6'},
+ , instances: 3, word: 'Slaughter', work: '3H6'},
+ , instances: 3, word: 'Slept', work: '3H6'},
+ , instances: 3, word: 'Slyly', work: '3H6'},
+ , instances: 3, word: 'Small', work: '3H6'},
+ , instances: 3, word: 'Soft', work: '3H6'},
+ , instances: 3, word: 'Soul\'s', work: '3H6'},
+ , instances: 3, word: 'Spread', work: '3H6'},
+ , instances: 3, word: 'Stabbed', work: '3H6'},
+ , instances: 3, word: 'Stained', work: '3H6'},
+ , instances: 3, word: 'Steal', work: '3H6'},
+ , instances: 3, word: 'Stern', work: '3H6'},
+ , instances: 3, word: 'Stones', work: '3H6'},
+ , instances: 3, word: 'Stoop', work: '3H6'},
+ , instances: 3, word: 'Stops', work: '3H6'},
+ , instances: 3, word: 'Succeed', work: '3H6'},
+ , instances: 3, word: 'Succession', work: '3H6'},
+ , instances: 3, word: 'Succor', work: '3H6'},
+ , instances: 3, word: 'Suns', work: '3H6'},
+ , instances: 3, word: 'Sunshine', work: '3H6'},
+ , instances: 3, word: 'Supply', work: '3H6'},
+ , instances: 3, word: 'Sworn', work: '3H6'},
+ , instances: 3, word: 'Takes', work: '3H6'},
+ , instances: 3, word: 'Task', work: '3H6'},
+ , instances: 3, word: 'Teeth', work: '3H6'},
+ , instances: 3, word: 'Tent', work: '3H6'},
+ , instances: 3, word: 'There\'s', work: '3H6'},
+ , instances: 3, word: 'Thinks', work: '3H6'},
+ , instances: 3, word: 'Thither', work: '3H6'},
+ , instances: 3, word: 'Threat\'ning', work: '3H6'},
+ , instances: 3, word: 'Th\'', work: '3H6'},
+ , instances: 3, word: 'Torment', work: '3H6'},
+ , instances: 3, word: 'Toward', work: '3H6'},
+ , instances: 3, word: 'Towns', work: '3H6'},
+ , instances: 3, word: 'Traitors', work: '3H6'},
+ , instances: 3, word: 'Tree', work: '3H6'},
+ , instances: 3, word: 'Troy', work: '3H6'},
+ , instances: 3, word: 'Turned', work: '3H6'},
+ , instances: 3, word: 'Unawares', work: '3H6'},
+ , instances: 3, word: 'Uncles', work: '3H6'},
+ , instances: 3, word: 'Unnatural', work: '3H6'},
+ , instances: 3, word: 'Unsheathe', work: '3H6'},
+ , instances: 3, word: 'Usurp', work: '3H6'},
+ , instances: 3, word: 'Usurping', work: '3H6'},
+ , instances: 3, word: 'Usurps', work: '3H6'},
+ , instances: 3, word: 'Vain', work: '3H6'},
+ , instances: 3, word: 'Valor', work: '3H6'},
+ , instances: 3, word: 'Vengeance', work: '3H6'},
+ , instances: 3, word: 'Vouchsafe', work: '3H6'},
+ , instances: 3, word: 'Warlike', work: '3H6'},
+ , instances: 3, word: 'Wash', work: '3H6'},
+ , instances: 3, word: 'Water', work: '3H6'},
+ , instances: 3, word: 'Weeds', work: '3H6'},
+ , instances: 3, word: 'Weight', work: '3H6'},
+ , instances: 3, word: 'Went', work: '3H6'},
+ , instances: 3, word: 'Whate\'er', work: '3H6'},
+ , instances: 3, word: 'Whenas', work: '3H6'},
+ , instances: 3, word: 'Where\'s', work: '3H6'},
+ , instances: 3, word: 'Whether', work: '3H6'},
+ , instances: 3, word: 'White', work: '3H6'},
+ , instances: 3, word: 'Winter\'s', work: '3H6'},
+ , instances: 3, word: 'Wipe', work: '3H6'},
+ , instances: 3, word: 'Woeful', work: '3H6'},
+ , instances: 3, word: 'Wolf', work: '3H6'},
+ , instances: 3, word: 'Wolves', work: '3H6'},
+ , instances: 3, word: 'Woman\'s', work: '3H6'},
+ , instances: 3, word: 'Won', work: '3H6'},
+ , instances: 3, word: 'Wondered', work: '3H6'},
+ , instances: 3, word: 'Wot', work: '3H6'},
+ , instances: 3, word: 'Wouldst', work: '3H6'},
+ , instances: 3, word: 'Wound', work: '3H6'},
+ , instances: 3, word: 'Wretch', work: '3H6'},
+ , instances: 3, word: 'Write', work: '3H6'},
+ , instances: 3, word: 'Yoke', work: '3H6'},
+ , instances: 2, word: 'Able', work: '3H6'},
+ , instances: 2, word: 'Abuse', work: '3H6'},
+ , instances: 2, word: 'Account', work: '3H6'},
+ , instances: 2, word: 'Accursèd', work: '3H6'},
+ , instances: 2, word: 'Adopted', work: '3H6'},
+ , instances: 2, word: 'Advertised', work: '3H6'},
+ , instances: 2, word: 'Affords', work: '3H6'},
+ , instances: 2, word: 'Age', work: '3H6'},
+ , instances: 2, word: 'Agree', work: '3H6'},
+ , instances: 2, word: 'Alive', work: '3H6'},
+ , instances: 2, word: 'Allegiance', work: '3H6'},
+ , instances: 2, word: 'Although', work: '3H6'},
+ , instances: 2, word: 'Ambassador', work: '3H6'},
+ , instances: 2, word: 'Amends', work: '3H6'},
+ , instances: 2, word: 'Amity', work: '3H6'},
+ , instances: 2, word: 'Amongst', work: '3H6'},
+ , instances: 2, word: 'Anchor', work: '3H6'},
+ , instances: 2, word: 'Anger', work: '3H6'},
+ , instances: 2, word: 'Anointed', work: '3H6'},
+ , instances: 2, word: 'Arguments', work: '3H6'},
+ , instances: 2, word: 'Armed', work: '3H6'},
+ , instances: 2, word: 'Arrived', work: '3H6'},
+ , instances: 2, word: 'Articles', work: '3H6'},
+ , instances: 2, word: 'Assist', work: '3H6'},
+ , instances: 2, word: 'Avoided', work: '3H6'},
+ , instances: 2, word: 'Backs', work: '3H6'},
+ , instances: 2, word: 'Bad', work: '3H6'},
+ , instances: 2, word: 'Balm', work: '3H6'},
+ , instances: 2, word: 'Bark', work: '3H6'},
+ , instances: 2, word: 'Barnet', work: '3H6'},
+ , instances: 2, word: 'Battles', work: '3H6'},
+ , instances: 2, word: 'Battle\'s', work: '3H6'},
+ , instances: 2, word: 'Beams', work: '3H6'},
+ , instances: 2, word: 'Beauty\'s', work: '3H6'},
+ , instances: 2, word: 'Becomes', work: '3H6'},
+ , instances: 2, word: 'Befall', work: '3H6'},
+ , instances: 2, word: 'Befall\'n', work: '3H6'},
+ , instances: 2, word: 'Befits', work: '3H6'},
+ , instances: 2, word: 'Behold', work: '3H6'},
+ , instances: 2, word: 'Bereft', work: '3H6'},
+ , instances: 2, word: 'Besiege', work: '3H6'},
+ , instances: 2, word: 'Bestride', work: '3H6'},
+ , instances: 2, word: 'Betimes', work: '3H6'},
+ , instances: 2, word: 'Bewray', work: '3H6'},
+ , instances: 2, word: 'Bids', work: '3H6'},
+ , instances: 2, word: 'Birth', work: '3H6'},
+ , instances: 2, word: 'Birthright', work: '3H6'},
+ , instances: 2, word: 'Blast', work: '3H6'},
+ , instances: 2, word: 'Bless', work: '3H6'},
+ , instances: 2, word: 'Blest', work: '3H6'},
+ , instances: 2, word: 'Blown', work: '3H6'},
+ , instances: 2, word: 'Blunt', work: '3H6'},
+ , instances: 2, word: 'Blush', work: '3H6'},
+ , instances: 2, word: 'Blushing', work: '3H6'},
+ , instances: 2, word: 'Bones', work: '3H6'},
+ , instances: 2, word: 'Boots', work: '3H6'},
+ , instances: 2, word: 'Bow', work: '3H6'},
+ , instances: 2, word: 'Brat', work: '3H6'},
+ , instances: 2, word: 'Brazen', work: '3H6'},
+ , instances: 2, word: 'Breathed', work: '3H6'},
+ , instances: 2, word: 'Breeder', work: '3H6'},
+ , instances: 2, word: 'Broached', work: '3H6'},
+ , instances: 2, word: 'Buckingham', work: '3H6'},
+ , instances: 2, word: 'Buckler', work: '3H6'},
+ , instances: 2, word: 'Burst', work: '3H6'},
+ , instances: 2, word: 'Butcher', work: '3H6'},
+ , instances: 2, word: 'Butchers', work: '3H6'},
+ , instances: 2, word: 'Buy', work: '3H6'},
+ , instances: 2, word: 'Buzz', work: '3H6'},
+ , instances: 2, word: 'Caesar', work: '3H6'},
+ , instances: 2, word: 'Calm', work: '3H6'},
+ , instances: 2, word: 'Cannibals', work: '3H6'},
+ , instances: 2, word: 'Captain', work: '3H6'},
+ , instances: 2, word: 'Captive', work: '3H6'},
+ , instances: 2, word: 'Careless', work: '3H6'},
+ , instances: 2, word: 'Catch', work: '3H6'},
+ , instances: 2, word: 'Causes', work: '3H6'},
+ , instances: 2, word: 'Cease', work: '3H6'},
+ , instances: 2, word: 'Chains', work: '3H6'},
+ , instances: 2, word: 'Chance', work: '3H6'},
+ , instances: 2, word: 'Charged', work: '3H6'},
+ , instances: 2, word: 'Cheered', work: '3H6'},
+ , instances: 2, word: 'Cheers', work: '3H6'},
+ , instances: 2, word: 'Chide', work: '3H6'},
+ , instances: 2, word: 'Chiefest', work: '3H6'},
+ , instances: 2, word: 'Choice', work: '3H6'},
+ , instances: 2, word: 'Choosing', work: '3H6'},
+ , instances: 2, word: 'Chop', work: '3H6'},
+ , instances: 2, word: 'Chosen', work: '3H6'},
+ , instances: 2, word: 'Clouds', work: '3H6'},
+ , instances: 2, word: 'Coast', work: '3H6'},
+ , instances: 2, word: 'Cobham', work: '3H6'},
+ , instances: 2, word: 'Comfort', work: '3H6'},
+ , instances: 2, word: 'Conclude', work: '3H6'},
+ , instances: 2, word: 'Conference', work: '3H6'},
+ , instances: 2, word: 'Confirm', work: '3H6'},
+ , instances: 2, word: 'Conqueror', work: '3H6'},
+ , instances: 2, word: 'Conquerèd', work: '3H6'},
+ , instances: 2, word: 'Conscience', work: '3H6'},
+ , instances: 2, word: 'Constant', work: '3H6'},
+ , instances: 2, word: 'Contend', work: '3H6'},
+ , instances: 2, word: 'Contrary', work: '3H6'},
+ , instances: 2, word: 'Cost', work: '3H6'},
+ , instances: 2, word: 'Country\'s', work: '3H6'},
+ , instances: 2, word: 'Court', work: '3H6'},
+ , instances: 2, word: 'Coward', work: '3H6'},
+ , instances: 2, word: 'Create', work: '3H6'},
+ , instances: 2, word: 'Cries', work: '3H6'},
+ , instances: 2, word: 'Curse', work: '3H6'},
+ , instances: 2, word: 'Daily', work: '3H6'},
+ , instances: 2, word: 'Dam', work: '3H6'},
+ , instances: 2, word: 'Daughters', work: '3H6'},
+ , instances: 2, word: 'Dauphin', work: '3H6'},
+ , instances: 2, word: 'Dear', work: '3H6'},
+ , instances: 2, word: 'Dearest', work: '3H6'},
+ , instances: 2, word: 'Dearly', work: '3H6'},
+ , instances: 2, word: 'Death\'s', work: '3H6'},
+ , instances: 2, word: 'Deceit', work: '3H6'},
+ , instances: 2, word: 'Deck', work: '3H6'},
+ , instances: 2, word: 'Desert', work: '3H6'},
+ , instances: 2, word: 'Deserves', work: '3H6'},
+ , instances: 2, word: 'Devotion', work: '3H6'},
+ , instances: 2, word: 'Died', work: '3H6'},
+ , instances: 2, word: 'Disdain', work: '3H6'},
+ , instances: 2, word: 'Disinherited', work: '3H6'},
+ , instances: 2, word: 'Divine', work: '3H6'},
+ , instances: 2, word: 'Dogs', work: '3H6'},
+ , instances: 2, word: 'Doves', work: '3H6'},
+ , instances: 2, word: 'Downfall', work: '3H6'},
+ , instances: 2, word: 'Downright', work: '3H6'},
+ , instances: 2, word: 'Dread', work: '3H6'},
+ , instances: 2, word: 'Dream', work: '3H6'},
+ , instances: 2, word: 'Drink', work: '3H6'},
+ , instances: 2, word: 'Drooping', work: '3H6'},
+ , instances: 2, word: 'Drown', work: '3H6'},
+ , instances: 2, word: 'Dukes', work: '3H6'},
+ , instances: 2, word: 'Duty', work: '3H6'},
+ , instances: 2, word: 'Eager', work: '3H6'},
+ , instances: 2, word: 'Eagle', work: '3H6'},
+ , instances: 2, word: 'Easy', work: '3H6'},
+ , instances: 2, word: 'Edge', work: '3H6'},
+ , instances: 2, word: 'Elder', work: '3H6'},
+ , instances: 2, word: 'Encompassed', work: '3H6'},
+ , instances: 2, word: 'Encounter', work: '3H6'},
+ , instances: 2, word: 'Encountered', work: '3H6'},
+ , instances: 2, word: 'Enforced', work: '3H6'},
+ , instances: 2, word: 'Enjoys', work: '3H6'},
+ , instances: 2, word: 'Enmity', work: '3H6'},
+ , instances: 2, word: 'Entail', work: '3H6'},
+ , instances: 2, word: 'Entered', work: '3H6'},
+ , instances: 2, word: 'Entreat', work: '3H6'},
+ , instances: 2, word: 'Envious', work: '3H6'},
+ , instances: 2, word: 'Environèd', work: '3H6'},
+ , instances: 2, word: 'Estate', work: '3H6'},
+ , instances: 2, word: 'Execute', work: '3H6'},
+ , instances: 2, word: 'Extremes', work: '3H6'},
+ , instances: 2, word: 'Falsehood', work: '3H6'},
+ , instances: 2, word: 'Fame', work: '3H6'},
+ , instances: 2, word: 'Famed', work: '3H6'},
+ , instances: 2, word: 'Famous', work: '3H6'},
+ , instances: 2, word: 'Fare', work: '3H6'},
+ , instances: 2, word: 'Favors', work: '3H6'},
+ , instances: 2, word: 'Fellow', work: '3H6'},
+ , instances: 2, word: 'Felt', work: '3H6'},
+ , instances: 2, word: 'Finds', work: '3H6'},
+ , instances: 2, word: 'Firm', work: '3H6'},
+ , instances: 2, word: 'Flatter', work: '3H6'},
+ , instances: 2, word: 'Fleece', work: '3H6'},
+ , instances: 2, word: 'Flesh', work: '3H6'},
+ , instances: 2, word: 'Flinty', work: '3H6'},
+ , instances: 2, word: 'Flock', work: '3H6'},
+ , instances: 2, word: 'Flood', work: '3H6'},
+ , instances: 2, word: 'Fool', work: '3H6'},
+ , instances: 2, word: 'Foreign', work: '3H6'},
+ , instances: 2, word: 'Forgive', work: '3H6'},
+ , instances: 2, word: 'Forlorn', work: '3H6'},
+ , instances: 2, word: 'Forsake', work: '3H6'},
+ , instances: 2, word: 'Forsworn', work: '3H6'},
+ , instances: 2, word: 'Fortunate', work: '3H6'},
+ , instances: 2, word: 'Forwardness', work: '3H6'},
+ , instances: 2, word: 'Freely', work: '3H6'},
+ , instances: 2, word: 'French', work: '3H6'},
+ , instances: 2, word: 'Fresh', work: '3H6'},
+ , instances: 2, word: 'Fruits', work: '3H6'},
+ , instances: 2, word: 'Gain', work: '3H6'},
+ , instances: 2, word: 'Gallant', work: '3H6'},
+ , instances: 2, word: 'Garland', work: '3H6'},
+ , instances: 2, word: 'Gasp', work: '3H6'},
+ , instances: 2, word: 'Gate', work: '3H6'},
+ , instances: 2, word: 'Gentleman', work: '3H6'},
+ , instances: 2, word: 'Gentlemen', work: '3H6'},
+ , instances: 2, word: 'Given', work: '3H6'},
+ , instances: 2, word: 'Giv\'n', work: '3H6'},
+ , instances: 2, word: 'Glories', work: '3H6'},
+ , instances: 2, word: 'Gold', work: '3H6'},
+ , instances: 2, word: 'Gotten', work: '3H6'},
+ , instances: 2, word: 'Govern', work: '3H6'},
+ , instances: 2, word: 'Graced', work: '3H6'},
+ , instances: 2, word: 'Grandsire', work: '3H6'},
+ , instances: 2, word: 'Granted', work: '3H6'},
+ , instances: 2, word: 'Greater', work: '3H6'},
+ , instances: 2, word: 'Greatest', work: '3H6'},
+ , instances: 2, word: 'Groan', work: '3H6'},
+ , instances: 2, word: 'Growing', work: '3H6'},
+ , instances: 2, word: 'Gust', work: '3H6'},
+ , instances: 2, word: 'Hap', work: '3H6'},
+ , instances: 2, word: 'Hapless', work: '3H6'},
+ , instances: 2, word: 'Harbor', work: '3H6'},
+ , instances: 2, word: 'Harry', work: '3H6'},
+ , instances: 2, word: 'Hasty', work: '3H6'},
+ , instances: 2, word: 'Hearts', work: '3H6'},
+ , instances: 2, word: 'Heated', work: '3H6'},
+ , instances: 2, word: 'Heave', work: '3H6'},
+ , instances: 2, word: 'Heav\'ns', work: '3H6'},
+ , instances: 2, word: 'Held', work: '3H6'},
+ , instances: 2, word: 'Helm', work: '3H6'},
+ , instances: 2, word: 'Herd', work: '3H6'},
+ , instances: 2, word: 'Hewn', work: '3H6'},
+ , instances: 2, word: 'Highness\'', work: '3H6'},
+ , instances: 2, word: 'Hill', work: '3H6'},
+ , instances: 2, word: 'Hinder', work: '3H6'},
+ , instances: 2, word: 'Holds', work: '3H6'},
+ , instances: 2, word: 'Homely', work: '3H6'},
+ , instances: 2, word: 'Honest', work: '3H6'},
+ , instances: 2, word: 'Honesty', work: '3H6'},
+ , instances: 2, word: 'Honorably', work: '3H6'},
+ , instances: 2, word: 'Honors', work: '3H6'},
+ , instances: 2, word: 'Hoped-for', work: '3H6'},
+ , instances: 2, word: 'Hundred', work: '3H6'},
+ , instances: 2, word: 'Hunting', work: '3H6'},
+ , instances: 2, word: 'Huntsmen', work: '3H6'},
+ , instances: 2, word: 'Husband', work: '3H6'},
+ , instances: 2, word: 'Impossible', work: '3H6'},
+ , instances: 2, word: 'Imprisonment', work: '3H6'},
+ , instances: 2, word: 'Impudent', work: '3H6'},
+ , instances: 2, word: 'Indeed', work: '3H6'},
+ , instances: 2, word: 'Injurious', work: '3H6'},
+ , instances: 2, word: 'Instead', work: '3H6'},
+ , instances: 2, word: 'Intend', work: '3H6'},
+ , instances: 2, word: 'Intends', work: '3H6'},
+ , instances: 2, word: 'Intent', work: '3H6'},
+ , instances: 2, word: 'Ireful', work: '3H6'},
+ , instances: 2, word: 'Iron', work: '3H6'},
+ , instances: 2, word: 'Itself', work: '3H6'},
+ , instances: 2, word: 'Kent', work: '3H6'},
+ , instances: 2, word: 'Knife', work: '3H6'},
+ , instances: 2, word: 'Knights', work: '3H6'},
+ , instances: 2, word: 'Knowing', work: '3H6'},
+ , instances: 2, word: 'Known', work: '3H6'},
+ , instances: 2, word: 'Labor', work: '3H6'},
+ , instances: 2, word: 'Lady\'s', work: '3H6'},
+ , instances: 2, word: 'Lambs', work: '3H6'},
+ , instances: 2, word: 'Lament', work: '3H6'},
+ , instances: 2, word: 'Latest', work: '3H6'},
+ , instances: 2, word: 'Lay', work: '3H6'},
+ , instances: 2, word: 'Lead', work: '3H6'},
+ , instances: 2, word: 'Lean', work: '3H6'},
+ , instances: 2, word: 'Leaves', work: '3H6'},
+ , instances: 2, word: 'Lenity', work: '3H6'},
+ , instances: 2, word: 'Levy', work: '3H6'},
+ , instances: 2, word: 'Lieutenant', work: '3H6'},
+ , instances: 2, word: 'Likes', work: '3H6'},
+ , instances: 2, word: 'Line', work: '3H6'},
+ , instances: 2, word: 'Lions', work: '3H6'},
+ , instances: 2, word: 'Loath', work: '3H6'},
+ , instances: 2, word: 'Lodge', work: '3H6'},
+ , instances: 2, word: 'Looked', work: '3H6'},
+ , instances: 2, word: 'Lovely', work: '3H6'},
+ , instances: 2, word: 'Loves', work: '3H6'},
+ , instances: 2, word: 'Lov\'st', work: '3H6'},
+ , instances: 2, word: 'Loyalty', work: '3H6'},
+ , instances: 2, word: 'Luckless', work: '3H6'},
+ , instances: 2, word: 'Lurking', work: '3H6'},
+ , instances: 2, word: 'Mad', work: '3H6'},
+ , instances: 2, word: 'Maintain', work: '3H6'},
+ , instances: 2, word: 'Malcontent', work: '3H6'},
+ , instances: 2, word: 'Male', work: '3H6'},
+ , instances: 2, word: 'Malice', work: '3H6'},
+ , instances: 2, word: 'Man\'s', work: '3H6'},
+ , instances: 2, word: 'Marble', work: '3H6'},
+ , instances: 2, word: 'Marched', work: '3H6'},
+ , instances: 2, word: 'Marked', work: '3H6'},
+ , instances: 2, word: 'Maskers', work: '3H6'},
+ , instances: 2, word: 'Mast', work: '3H6'},
+ , instances: 2, word: 'Masters', work: '3H6'},
+ , instances: 2, word: 'Matched', work: '3H6'},
+ , instances: 2, word: 'Mayst', work: '3H6'},
+ , instances: 2, word: 'Meaning', work: '3H6'},
+ , instances: 2, word: 'Melt', work: '3H6'},
+ , instances: 2, word: 'Melting', work: '3H6'},
+ , instances: 2, word: 'Merry', work: '3H6'},
+ , instances: 2, word: 'Met', work: '3H6'},
+ , instances: 2, word: 'Minds', work: '3H6'},
+ , instances: 2, word: 'Minutes', work: '3H6'},
+ , instances: 2, word: 'Misshapen', work: '3H6'},
+ , instances: 2, word: 'Mistrust', work: '3H6'},
+ , instances: 2, word: 'Mocking', work: '3H6'},
+ , instances: 2, word: 'Molehill', work: '3H6'},
+ , instances: 2, word: 'Monarch', work: '3H6'},
+ , instances: 2, word: 'Morning', work: '3H6'},
+ , instances: 2, word: 'Mortimer', work: '3H6'},
+ , instances: 2, word: 'Mounted', work: '3H6'},
+ , instances: 2, word: 'Mourn', work: '3H6'},
+ , instances: 2, word: 'Moves', work: '3H6'},
+ , instances: 2, word: 'Murdered', work: '3H6'},
+ , instances: 2, word: 'Muster', work: '3H6'},
+ , instances: 2, word: 'Mutinous', work: '3H6'},
+ , instances: 2, word: 'Naples', work: '3H6'},
+ , instances: 2, word: 'Narrow', work: '3H6'},
+ , instances: 2, word: 'Natural', work: '3H6'},
+ , instances: 2, word: 'Night\'s', work: '3H6'},
+ , instances: 2, word: 'Nine', work: '3H6'},
+ , instances: 2, word: 'Northern', work: '3H6'},
+ , instances: 2, word: 'Offend', work: '3H6'},
+ , instances: 2, word: 'Office', work: '3H6'},
+ , instances: 2, word: 'Officers', work: '3H6'},
+ , instances: 2, word: 'Ope', work: '3H6'},
+ , instances: 2, word: 'Ordained', work: '3H6'},
+ , instances: 2, word: 'Overthrow', work: '3H6'},
+ , instances: 2, word: 'Owe', work: '3H6'},
+ , instances: 2, word: 'O\'er', work: '3H6'},
+ , instances: 2, word: 'Park', work: '3H6'},
+ , instances: 2, word: 'Parted', work: '3H6'},
+ , instances: 2, word: 'Passion', work: '3H6'},
+ , instances: 2, word: 'Past', work: '3H6'},
+ , instances: 2, word: 'Pawned', work: '3H6'},
+ , instances: 2, word: 'Peaceful', work: '3H6'},
+ , instances: 2, word: 'Peck', work: '3H6'},
+ , instances: 2, word: 'Pedigree', work: '3H6'},
+ , instances: 2, word: 'Peers', work: '3H6'},
+ , instances: 2, word: 'Pembroke', work: '3H6'},
+ , instances: 2, word: 'People\'s', work: '3H6'},
+ , instances: 2, word: 'Perceive', work: '3H6'},
+ , instances: 2, word: 'Perfect', work: '3H6'},
+ , instances: 2, word: 'Perform', work: '3H6'},
+ , instances: 2, word: 'Perhaps', work: '3H6'},
+ , instances: 2, word: 'Persuade', work: '3H6'},
+ , instances: 2, word: 'Phaëton', work: '3H6'},
+ , instances: 2, word: 'Pierce', work: '3H6'},
+ , instances: 2, word: 'Piercing', work: '3H6'},
+ , instances: 2, word: 'Piteous', work: '3H6'},
+ , instances: 2, word: 'Pitiful', work: '3H6'},
+ , instances: 2, word: 'Plainly', work: '3H6'},
+ , instances: 2, word: 'Plaints', work: '3H6'},
+ , instances: 2, word: 'Played', work: '3H6'},
+ , instances: 2, word: 'Pledge', work: '3H6'},
+ , instances: 2, word: 'Powers', work: '3H6'},
+ , instances: 2, word: 'Prayer', work: '3H6'},
+ , instances: 2, word: 'Prepare', work: '3H6'},
+ , instances: 2, word: 'Pressed', work: '3H6'},
+ , instances: 2, word: 'Presume', work: '3H6'},
+ , instances: 2, word: 'Presumption', work: '3H6'},
+ , instances: 2, word: 'Prevails', work: '3H6'},
+ , instances: 2, word: 'Prevent', work: '3H6'},
+ , instances: 2, word: 'Pride', work: '3H6'},
+ , instances: 2, word: 'Prithee', work: '3H6'},
+ , instances: 2, word: 'Prize', work: '3H6'},
+ , instances: 2, word: 'Proclaimed', work: '3H6'},
+ , instances: 2, word: 'Proclamation', work: '3H6'},
+ , instances: 2, word: 'Protectors', work: '3H6'},
+ , instances: 2, word: 'Proudest', work: '3H6'},
+ , instances: 2, word: 'Proveth', work: '3H6'},
+ , instances: 2, word: 'Provide', work: '3H6'},
+ , instances: 2, word: 'Purchase', work: '3H6'},
+ , instances: 2, word: 'Pursue', work: '3H6'},
+ , instances: 2, word: 'Pursued', work: '3H6'},
+ , instances: 2, word: 'Queen\'s', work: '3H6'},
+ , instances: 2, word: 'Quiet', work: '3H6'},
+ , instances: 2, word: 'Quondam', work: '3H6'},
+ , instances: 2, word: 'Rain', work: '3H6'},
+ , instances: 2, word: 'Raised', work: '3H6'},
+ , instances: 2, word: 'Rapier\'s', work: '3H6'},
+ , instances: 2, word: 'Rate', work: '3H6'},
+ , instances: 2, word: 'Readiness', work: '3H6'},
+ , instances: 2, word: 'Reap', work: '3H6'},
+ , instances: 2, word: 'Received', work: '3H6'},
+ , instances: 2, word: 'Red', work: '3H6'},
+ , instances: 2, word: 'Redress', work: '3H6'},
+ , instances: 2, word: 'Remorse', work: '3H6'},
+ , instances: 2, word: 'Renown', work: '3H6'},
+ , instances: 2, word: 'Report', work: '3H6'},
+ , instances: 2, word: 'Resembles', work: '3H6'},
+ , instances: 2, word: 'Resolute', work: '3H6'},
+ , instances: 2, word: 'Resteth', work: '3H6'},
+ , instances: 2, word: 'Revel', work: '3H6'},
+ , instances: 2, word: 'Reveled', work: '3H6'},
+ , instances: 2, word: 'Revive', work: '3H6'},
+ , instances: 2, word: 'Reward', work: '3H6'},
+ , instances: 2, word: 'Rewards', work: '3H6'},
+ , instances: 2, word: 'Rivers', work: '3H6'},
+ , instances: 2, word: 'Robbed', work: '3H6'},
+ , instances: 2, word: 'Robbers', work: '3H6'},
+ , instances: 2, word: 'Room', work: '3H6'},
+ , instances: 2, word: 'Round', work: '3H6'},
+ , instances: 2, word: 'Rue', work: '3H6'},
+ , instances: 2, word: 'Rutland\'s', work: '3H6'},
+ , instances: 2, word: 'Sailors', work: '3H6'},
+ , instances: 2, word: 'Same', work: '3H6'},
+ , instances: 2, word: 'Sands', work: '3H6'},
+ , instances: 2, word: 'Satisfy', work: '3H6'},
+ , instances: 2, word: 'Save', work: '3H6'},
+ , instances: 2, word: 'Saw', work: '3H6'},
+ , instances: 2, word: 'Sayst', work: '3H6'},
+ , instances: 2, word: 'Scandal', work: '3H6'},
+ , instances: 2, word: 'Scarce', work: '3H6'},
+ , instances: 2, word: 'Scorn', work: '3H6'},
+ , instances: 2, word: 'Scorns', work: '3H6'},
+ , instances: 2, word: 'Seal', work: '3H6'},
+ , instances: 2, word: 'Secure', work: '3H6'},
+ , instances: 2, word: 'Seeks', work: '3H6'},
+ , instances: 2, word: 'Seest', work: '3H6'},
+ , instances: 2, word: 'Seldom', work: '3H6'},
+ , instances: 2, word: 'Sending', work: '3H6'},
+ , instances: 2, word: 'Sends', work: '3H6'},
+ , instances: 2, word: 'Serves', work: '3H6'},
+ , instances: 2, word: 'Severed', work: '3H6'},
+ , instances: 2, word: 'Shake', work: '3H6'},
+ , instances: 2, word: 'Sheep', work: '3H6'},
+ , instances: 2, word: 'Shepherd', work: '3H6'},
+ , instances: 2, word: 'She\'s', work: '3H6'},
+ , instances: 2, word: 'Shines', work: '3H6'},
+ , instances: 2, word: 'Shook', work: '3H6'},
+ , instances: 2, word: 'Shoot', work: '3H6'},
+ , instances: 2, word: 'Shouldst', work: '3H6'},
+ , instances: 2, word: 'Showed', work: '3H6'},
+ , instances: 2, word: 'Showers', work: '3H6'},
+ , instances: 2, word: 'Shroud', work: '3H6'},
+ , instances: 2, word: 'Shun', work: '3H6'},
+ , instances: 2, word: 'Sicils', work: '3H6'},
+ , instances: 2, word: 'Sigh', work: '3H6'},
+ , instances: 2, word: 'Silent', work: '3H6'},
+ , instances: 2, word: 'Singled', work: '3H6'},
+ , instances: 2, word: 'Sink', work: '3H6'},
+ , instances: 2, word: 'Six', work: '3H6'},
+ , instances: 2, word: 'Slaughtered', work: '3H6'},
+ , instances: 2, word: 'Slay', work: '3H6'},
+ , instances: 2, word: 'Sleep', work: '3H6'},
+ , instances: 2, word: 'Smiles', work: '3H6'},
+ , instances: 2, word: 'Smooth', work: '3H6'},
+ , instances: 2, word: 'Soldier', work: '3H6'},
+ , instances: 2, word: 'Solemn', work: '3H6'},
+ , instances: 2, word: 'Sometime', work: '3H6'},
+ , instances: 2, word: 'Sorrows', work: '3H6'},
+ , instances: 2, word: 'Sorts', work: '3H6'},
+ , instances: 2, word: 'Sour', work: '3H6'},
+ , instances: 2, word: 'Southam', work: '3H6'},
+ , instances: 2, word: 'Sovereignty', work: '3H6'},
+ , instances: 2, word: 'Sovereign\'s', work: '3H6'},
+ , instances: 2, word: 'Spark', work: '3H6'},
+ , instances: 2, word: 'Sparkling', work: '3H6'},
+ , instances: 2, word: 'Spectacle', work: '3H6'},
+ , instances: 2, word: 'Speech', work: '3H6'},
+ , instances: 2, word: 'Spoke', work: '3H6'},
+ , instances: 2, word: 'Spoken', work: '3H6'},
+ , instances: 2, word: 'Sport', work: '3H6'},
+ , instances: 2, word: 'Springs', work: '3H6'},
+ , instances: 2, word: 'Stafford', work: '3H6'},
+ , instances: 2, word: 'Stanley', work: '3H6'},
+ , instances: 2, word: 'Stars', work: '3H6'},
+ , instances: 2, word: 'Sting', work: '3H6'},
+ , instances: 2, word: 'Stole', work: '3H6'},
+ , instances: 2, word: 'Stol\'n', work: '3H6'},
+ , instances: 2, word: 'Stop', work: '3H6'},
+ , instances: 2, word: 'Stopped', work: '3H6'},
+ , instances: 2, word: 'Storms', work: '3H6'},
+ , instances: 2, word: 'Story', work: '3H6'},
+ , instances: 2, word: 'Stout', work: '3H6'},
+ , instances: 2, word: 'Strange', work: '3H6'},
+ , instances: 2, word: 'Strengthen', work: '3H6'},
+ , instances: 2, word: 'Strokes', work: '3H6'},
+ , instances: 2, word: 'Stronger', work: '3H6'},
+ , instances: 2, word: 'Subjects\'', work: '3H6'},
+ , instances: 2, word: 'Sudden', work: '3H6'},
+ , instances: 2, word: 'Suffolk', work: '3H6'},
+ , instances: 2, word: 'Summer', work: '3H6'},
+ , instances: 2, word: 'Sung', work: '3H6'},
+ , instances: 2, word: 'Supposèd', work: '3H6'},
+ , instances: 2, word: 'Surprise', work: '3H6'},
+ , instances: 2, word: 'Suspect', work: '3H6'},
+ , instances: 2, word: 'Suspicion', work: '3H6'},
+ , instances: 2, word: 'Swallow', work: '3H6'},
+ , instances: 2, word: 'Sway', work: '3H6'},
+ , instances: 2, word: 'Sways', work: '3H6'},
+ , instances: 2, word: 'Sweetly', work: '3H6'},
+ , instances: 2, word: 'Swim', work: '3H6'},
+ , instances: 2, word: 'Swords', work: '3H6'},
+ , instances: 2, word: 'Taken', work: '3H6'},
+ , instances: 2, word: 'Talk\'st', work: '3H6'},
+ , instances: 2, word: 'Tarry', work: '3H6'},
+ , instances: 2, word: 'Taught', work: '3H6'},
+ , instances: 2, word: 'Taunts', work: '3H6'},
+ , instances: 2, word: 'Tells', work: '3H6'},
+ , instances: 2, word: 'Tempest', work: '3H6'},
+ , instances: 2, word: 'Terms', work: '3H6'},
+ , instances: 2, word: 'Thank', work: '3H6'},
+ , instances: 2, word: 'Themselves', work: '3H6'},
+ , instances: 2, word: 'Therein', work: '3H6'},
+ , instances: 2, word: 'They\'ll', work: '3H6'},
+ , instances: 2, word: 'Thieves', work: '3H6'},
+ , instances: 2, word: 'Things', work: '3H6'},
+ , instances: 2, word: 'Thorns', work: '3H6'},
+ , instances: 2, word: 'Thorny', work: '3H6'},
+ , instances: 2, word: 'Thousandfold', work: '3H6'},
+ , instances: 2, word: 'Threats', work: '3H6'},
+ , instances: 2, word: 'Threefold', work: '3H6'},
+ , instances: 2, word: 'Thrust', work: '3H6'},
+ , instances: 2, word: 'Tidings', work: '3H6'},
+ , instances: 2, word: 'Title\'s', work: '3H6'},
+ , instances: 2, word: 'Top', work: '3H6'},
+ , instances: 2, word: 'Touching', work: '3H6'},
+ , instances: 2, word: 'Traitor\'s', work: '3H6'},
+ , instances: 2, word: 'Tread', work: '3H6'},
+ , instances: 2, word: 'Treasure', work: '3H6'},
+ , instances: 2, word: 'Trembling', work: '3H6'},
+ , instances: 2, word: 'Triumphs', work: '3H6'},
+ , instances: 2, word: 'Trodden', work: '3H6'},
+ , instances: 2, word: 'Troop', work: '3H6'},
+ , instances: 2, word: 'Trouble', work: '3H6'},
+ , instances: 2, word: 'Troublous', work: '3H6'},
+ , instances: 2, word: 'Trumpet', work: '3H6'},
+ , instances: 2, word: 'Tut', work: '3H6'},
+ , instances: 2, word: 'Tyrant', work: '3H6'},
+ , instances: 2, word: 'Ulysses', work: '3H6'},
+ , instances: 2, word: 'Uncrown', work: '3H6'},
+ , instances: 2, word: 'Understand', work: '3H6'},
+ , instances: 2, word: 'Undertake', work: '3H6'},
+ , instances: 2, word: 'Unfeignèd', work: '3H6'},
+ , instances: 2, word: 'Unlooked-for', work: '3H6'},
+ , instances: 2, word: 'Untimely', work: '3H6'},
+ , instances: 2, word: 'Upholds', work: '3H6'},
+ , instances: 2, word: 'Used', work: '3H6'},
+ , instances: 2, word: 'Using', work: '3H6'},
+ , instances: 2, word: 'Usurped', work: '3H6'},
+ , instances: 2, word: 'Vanquished', work: '3H6'},
+ , instances: 2, word: 'Vantages', work: '3H6'},
+ , instances: 2, word: 'Victors', work: '3H6'},
+ , instances: 2, word: 'View', work: '3H6'},
+ , instances: 2, word: 'Violence', work: '3H6'},
+ , instances: 2, word: 'Vowed', work: '3H6'},
+ , instances: 2, word: 'Waft', work: '3H6'},
+ , instances: 2, word: 'Walks', work: '3H6'},
+ , instances: 2, word: 'Wall', work: '3H6'},
+ , instances: 2, word: 'Wanton', work: '3H6'},
+ , instances: 2, word: 'Wars', work: '3H6'},
+ , instances: 2, word: 'War\'s', work: '3H6'},
+ , instances: 2, word: 'Washed', work: '3H6'},
+ , instances: 2, word: 'Watched', work: '3H6'},
+ , instances: 2, word: 'Wax', work: '3H6'},
+ , instances: 2, word: 'Weapon', work: '3H6'},
+ , instances: 2, word: 'Weeps', work: '3H6'},
+ , instances: 2, word: 'Westmorland', work: '3H6'},
+ , instances: 2, word: 'Wherein', work: '3H6'},
+ , instances: 2, word: 'Whereof', work: '3H6'},
+ , instances: 2, word: 'Wheresoe\'er', work: '3H6'},
+ , instances: 2, word: 'Widower', work: '3H6'},
+ , instances: 2, word: 'Widow\'s', work: '3H6'},
+ , instances: 2, word: 'Willingly', work: '3H6'},
+ , instances: 2, word: 'Willow', work: '3H6'},
+ , instances: 2, word: 'Winding-sheet', work: '3H6'},
+ , instances: 2, word: 'Winter', work: '3H6'},
+ , instances: 2, word: 'Wisdom', work: '3H6'},
+ , instances: 2, word: 'Wisest', work: '3H6'},
+ , instances: 2, word: 'Wither', work: '3H6'},
+ , instances: 2, word: 'Without', work: '3H6'},
+ , instances: 2, word: 'Witness', work: '3H6'},
+ , instances: 2, word: 'Woes', work: '3H6'},
+ , instances: 2, word: 'Womb', work: '3H6'},
+ , instances: 2, word: 'Wondrous', work: '3H6'},
+ , instances: 2, word: 'Wont', work: '3H6'},
+ , instances: 2, word: 'Wood', work: '3H6'},
+ , instances: 2, word: 'Worse', work: '3H6'},
+ , instances: 2, word: 'Worst', work: '3H6'},
+ , instances: 2, word: 'Worth', work: '3H6'},
+ , instances: 2, word: 'Wrack', work: '3H6'},
+ , instances: 2, word: 'Wretched', work: '3H6'},
+ , instances: 2, word: 'Wrongs', work: '3H6'},
+ , instances: 2, word: 'Year', work: '3H6'},
+ , instances: 2, word: 'Yonder', work: '3H6'},
+ , instances: 2, word: '\'twill', work: '3H6'},
+ , instances: 1, word: '&c', work: '3H6'},
+ , instances: 1, word: 'Abandoned', work: '3H6'},
+ , instances: 1, word: 'Abodements', work: '3H6'},
+ , instances: 1, word: 'Aboding', work: '3H6'},
+ , instances: 1, word: 'Abominable', work: '3H6'},
+ , instances: 1, word: 'Abreast', work: '3H6'},
+ , instances: 1, word: 'Absent', work: '3H6'},
+ , instances: 1, word: 'Accept', work: '3H6'},
+ , instances: 1, word: 'Accomplish', work: '3H6'},
+ , instances: 1, word: 'According', work: '3H6'},
+ , instances: 1, word: 'Accords', work: '3H6'},
+ , instances: 1, word: 'Accursed', work: '3H6'},
+ , instances: 1, word: 'Actors', work: '3H6'},
+ , instances: 1, word: 'Adage', work: '3H6'},
+ , instances: 1, word: 'Adder\'s', work: '3H6'},
+ , instances: 1, word: 'Adieu', work: '3H6'},
+ , instances: 1, word: 'Adjudged', work: '3H6'},
+ , instances: 1, word: 'Admiral', work: '3H6'},
+ , instances: 1, word: 'Admired', work: '3H6'},
+ , instances: 1, word: 'Ado', work: '3H6'},
+ , instances: 1, word: 'Adopt', work: '3H6'},
+ , instances: 1, word: 'Advantages', work: '3H6'},
+ , instances: 1, word: 'Adventure', work: '3H6'},
+ , instances: 1, word: 'Adversaries', work: '3H6'},
+ , instances: 1, word: 'Advertisèd', work: '3H6'},
+ , instances: 1, word: 'Aesop', work: '3H6'},
+ , instances: 1, word: 'Affairs', work: '3H6'},
+ , instances: 1, word: 'Afflict', work: '3H6'},
+ , instances: 1, word: 'Afford', work: '3H6'},
+ , instances: 1, word: 'Affright', work: '3H6'},
+ , instances: 1, word: 'Afoot', work: '3H6'},
+ , instances: 1, word: 'Agamemnon\'s', work: '3H6'},
+ , instances: 1, word: 'Ago', work: '3H6'},
+ , instances: 1, word: 'Agony', work: '3H6'},
+ , instances: 1, word: 'Aims', work: '3H6'},
+ , instances: 1, word: 'Albion', work: '3H6'},
+ , instances: 1, word: 'Albion\'s', work: '3H6'},
+ , instances: 1, word: 'Alike', work: '3H6'},
+ , instances: 1, word: 'Allayed', work: '3H6'},
+ , instances: 1, word: 'Allays', work: '3H6'},
+ , instances: 1, word: 'Allowed', work: '3H6'},
+ , instances: 1, word: 'All\'s', work: '3H6'},
+ , instances: 1, word: 'Almost', work: '3H6'},
+ , instances: 1, word: 'Alms-deed', work: '3H6'},
+ , instances: 1, word: 'Aloof', work: '3H6'},
+ , instances: 1, word: 'Altered', work: '3H6'},
+ , instances: 1, word: 'Amazon', work: '3H6'},
+ , instances: 1, word: 'Amazonian', work: '3H6'},
+ , instances: 1, word: 'Ambassadors', work: '3H6'},
+ , instances: 1, word: 'Ambush', work: '3H6'},
+ , instances: 1, word: 'Amount', work: '3H6'},
+ , instances: 1, word: 'Angry', work: '3H6'},
+ , instances: 1, word: 'Anguish', work: '3H6'},
+ , instances: 1, word: 'Annoy', work: '3H6'},
+ , instances: 1, word: 'Anon', work: '3H6'},
+ , instances: 1, word: 'Answers', work: '3H6'},
+ , instances: 1, word: 'Answerèd', work: '3H6'},
+ , instances: 1, word: 'Antipodes', work: '3H6'},
+ , instances: 1, word: 'Apparent', work: '3H6'},
+ , instances: 1, word: 'Appear', work: '3H6'},
+ , instances: 1, word: 'Appeased', work: '3H6'},
+ , instances: 1, word: 'Applaud', work: '3H6'},
+ , instances: 1, word: 'Apprehend', work: '3H6'},
+ , instances: 1, word: 'Apprehension', work: '3H6'},
+ , instances: 1, word: 'Approacheth', work: '3H6'},
+ , instances: 1, word: 'Arch-enemy', work: '3H6'},
+ , instances: 1, word: 'Archbishop', work: '3H6'},
+ , instances: 1, word: 'Argosy', work: '3H6'},
+ , instances: 1, word: 'Argue', work: '3H6'},
+ , instances: 1, word: 'Argued', work: '3H6'},
+ , instances: 1, word: 'Aright', work: '3H6'},
+ , instances: 1, word: 'Armors', work: '3H6'},
+ , instances: 1, word: 'Armèd', work: '3H6'},
+ , instances: 1, word: 'Array', work: '3H6'},
+ , instances: 1, word: 'Artificial', work: '3H6'},
+ , instances: 1, word: 'Ashes', work: '3H6'},
+ , instances: 1, word: 'Asking', work: '3H6'},
+ , instances: 1, word: 'Aspire', work: '3H6'},
+ , instances: 1, word: 'Aspiring', work: '3H6'},
+ , instances: 1, word: 'Assail', work: '3H6'},
+ , instances: 1, word: 'Assay', work: '3H6'},
+ , instances: 1, word: 'Assistance', work: '3H6'},
+ , instances: 1, word: 'Assurance', work: '3H6'},
+ , instances: 1, word: 'Assure', work: '3H6'},
+ , instances: 1, word: 'Assured', work: '3H6'},
+ , instances: 1, word: 'Asunder', work: '3H6'},
+ , instances: 1, word: 'Atlas', work: '3H6'},
+ , instances: 1, word: 'Attain', work: '3H6'},
+ , instances: 1, word: 'Attempt', work: '3H6'},
+ , instances: 1, word: 'Attempting', work: '3H6'},
+ , instances: 1, word: 'Attend', work: '3H6'},
+ , instances: 1, word: 'Attentive', work: '3H6'},
+ , instances: 1, word: 'Aubrey', work: '3H6'},
+ , instances: 1, word: 'Augmented', work: '3H6'},
+ , instances: 1, word: 'Aunt', work: '3H6'},
+ , instances: 1, word: 'Author', work: '3H6'},
+ , instances: 1, word: 'Authority', work: '3H6'},
+ , instances: 1, word: 'Autumn\'s', work: '3H6'},
+ , instances: 1, word: 'Ave', work: '3H6'},
+ , instances: 1, word: 'Avoid', work: '3H6'},
+ , instances: 1, word: 'Avoiding', work: '3H6'},
+ , instances: 1, word: 'Awful', work: '3H6'},
+ , instances: 1, word: 'Axe\'s', work: '3H6'},
+ , instances: 1, word: 'Babe', work: '3H6'},
+ , instances: 1, word: 'Babes', work: '3H6'},
+ , instances: 1, word: 'Bachelor', work: '3H6'},
+ , instances: 1, word: 'Backing', work: '3H6'},
+ , instances: 1, word: 'Baleful', work: '3H6'},
+ , instances: 1, word: 'Band', work: '3H6'},
+ , instances: 1, word: 'Bandy', work: '3H6'},
+ , instances: 1, word: 'Banished', work: '3H6'},
+ , instances: 1, word: 'Base', work: '3H6'},
+ , instances: 1, word: 'Baseborn', work: '3H6'},
+ , instances: 1, word: 'Bashful', work: '3H6'},
+ , instances: 1, word: 'Basilisk', work: '3H6'},
+ , instances: 1, word: 'Bathed', work: '3H6'},
+ , instances: 1, word: 'Batt\'ry', work: '3H6'},
+ , instances: 1, word: 'Beads', work: '3H6'},
+ , instances: 1, word: 'Bear-whelp', work: '3H6'},
+ , instances: 1, word: 'Beast', work: '3H6'},
+ , instances: 1, word: 'Beauty', work: '3H6'},
+ , instances: 1, word: 'Beaver', work: '3H6'},
+ , instances: 1, word: 'Bechancèd', work: '3H6'},
+ , instances: 1, word: 'Beck', work: '3H6'},
+ , instances: 1, word: 'Becom\'st', work: '3H6'},
+ , instances: 1, word: 'Befell', work: '3H6'},
+ , instances: 1, word: 'Began', work: '3H6'},
+ , instances: 1, word: 'Beget', work: '3H6'},
+ , instances: 1, word: 'Begetting', work: '3H6'},
+ , instances: 1, word: 'Beggar', work: '3H6'},
+ , instances: 1, word: 'Beggars', work: '3H6'},
+ , instances: 1, word: 'Begin', work: '3H6'},
+ , instances: 1, word: 'Begs', work: '3H6'},
+ , instances: 1, word: 'Begun', work: '3H6'},
+ , instances: 1, word: 'Behind', work: '3H6'},
+ , instances: 1, word: 'Belgia', work: '3H6'},
+ , instances: 1, word: 'Believe', work: '3H6'},
+ , instances: 1, word: 'Bell', work: '3H6'},
+ , instances: 1, word: 'Bells', work: '3H6'},
+ , instances: 1, word: 'Belly', work: '3H6'},
+ , instances: 1, word: 'Bemoaned', work: '3H6'},
+ , instances: 1, word: 'Bending', work: '3H6'},
+ , instances: 1, word: 'Bent', work: '3H6'},
+ , instances: 1, word: 'Bereavèd', work: '3H6'},
+ , instances: 1, word: 'Berwick', work: '3H6'},
+ , instances: 1, word: 'Beseeching', work: '3H6'},
+ , instances: 1, word: 'Beseem', work: '3H6'},
+ , instances: 1, word: 'Beseems', work: '3H6'},
+ , instances: 1, word: 'Beshrew', work: '3H6'},
+ , instances: 1, word: 'Beside', work: '3H6'},
+ , instances: 1, word: 'Bess', work: '3H6'},
+ , instances: 1, word: 'Bestowed', work: '3H6'},
+ , instances: 1, word: 'Betide', work: '3H6'},
+ , instances: 1, word: 'Betrayed', work: '3H6'},
+ , instances: 1, word: 'Beware', work: '3H6'},
+ , instances: 1, word: 'Bewitch', work: '3H6'},
+ , instances: 1, word: 'Beyond', work: '3H6'},
+ , instances: 1, word: 'Bidd\'st', work: '3H6'},
+ , instances: 1, word: 'Bide', work: '3H6'},
+ , instances: 1, word: 'Bides', work: '3H6'},
+ , instances: 1, word: 'Big-swoll\'n', work: '3H6'},
+ , instances: 1, word: 'Bind', work: '3H6'},
+ , instances: 1, word: 'Biting', work: '3H6'},
+ , instances: 1, word: 'Bitter', work: '3H6'},
+ , instances: 1, word: 'Blade', work: '3H6'},
+ , instances: 1, word: 'Blaze', work: '3H6'},
+ , instances: 1, word: 'Blazing', work: '3H6'},
+ , instances: 1, word: 'Blessèd', work: '3H6'},
+ , instances: 1, word: 'Blind', work: '3H6'},
+ , instances: 1, word: 'Blood-sucking', work: '3H6'},
+ , instances: 1, word: 'Bloods', work: '3H6'},
+ , instances: 1, word: 'Bloody-minded', work: '3H6'},
+ , instances: 1, word: 'Blot', work: '3H6'},
+ , instances: 1, word: 'Blowing', work: '3H6'},
+ , instances: 1, word: 'Bluntest', work: '3H6'},
+ , instances: 1, word: 'Boast', work: '3H6'},
+ , instances: 1, word: 'Bodes', work: '3H6'},
+ , instances: 1, word: 'Boist\'rous', work: '3H6'},
+ , instances: 1, word: 'Boldly', work: '3H6'},
+ , instances: 1, word: 'Bonville', work: '3H6'},
+ , instances: 1, word: 'Book', work: '3H6'},
+ , instances: 1, word: 'Boon', work: '3H6'},
+ , instances: 1, word: 'Booty', work: '3H6'},
+ , instances: 1, word: 'Border', work: '3H6'},
+ , instances: 1, word: 'Bore', work: '3H6'},
+ , instances: 1, word: 'Borough', work: '3H6'},
+ , instances: 1, word: 'Bosom', work: '3H6'},
+ , instances: 1, word: 'Bosoms', work: '3H6'},
+ , instances: 1, word: 'Bottle', work: '3H6'},
+ , instances: 1, word: 'Bought', work: '3H6'},
+ , instances: 1, word: 'Bound', work: '3H6'},
+ , instances: 1, word: 'Bourbon', work: '3H6'},
+ , instances: 1, word: 'Brace', work: '3H6'},
+ , instances: 1, word: 'Brake', work: '3H6'},
+ , instances: 1, word: 'Braver', work: '3H6'},
+ , instances: 1, word: 'Breaking', work: '3H6'},
+ , instances: 1, word: 'Breasts', work: '3H6'},
+ , instances: 1, word: 'Breech', work: '3H6'},
+ , instances: 1, word: 'Brethren', work: '3H6'},
+ , instances: 1, word: 'Brewed', work: '3H6'},
+ , instances: 1, word: 'Bribe', work: '3H6'},
+ , instances: 1, word: 'Bridal', work: '3H6'},
+ , instances: 1, word: 'Bridle', work: '3H6'},
+ , instances: 1, word: 'Brief', work: '3H6'},
+ , instances: 1, word: 'Bright-shining', work: '3H6'},
+ , instances: 1, word: 'Brinish', work: '3H6'},
+ , instances: 1, word: 'Broils', work: '3H6'},
+ , instances: 1, word: 'Broker', work: '3H6'},
+ , instances: 1, word: 'Brood', work: '3H6'},
+ , instances: 1, word: 'Brooks', work: '3H6'},
+ , instances: 1, word: 'Brother-like', work: '3H6'},
+ , instances: 1, word: 'Brotherhood', work: '3H6'},
+ , instances: 1, word: 'Brotherly', work: '3H6'},
+ , instances: 1, word: 'Brothers\'', work: '3H6'},
+ , instances: 1, word: 'Brow', work: '3H6'},
+ , instances: 1, word: 'Bruit', work: '3H6'},
+ , instances: 1, word: 'Budge', work: '3H6'},
+ , instances: 1, word: 'Budged', work: '3H6'},
+ , instances: 1, word: 'Bug', work: '3H6'},
+ , instances: 1, word: 'Build', work: '3H6'},
+ , instances: 1, word: 'Bull', work: '3H6'},
+ , instances: 1, word: 'Burden', work: '3H6'},
+ , instances: 1, word: 'Burièd', work: '3H6'},
+ , instances: 1, word: 'Burn', work: '3H6'},
+ , instances: 1, word: 'Burning', work: '3H6'},
+ , instances: 1, word: 'Bury', work: '3H6'},
+ , instances: 1, word: 'Butcherly', work: '3H6'},
+ , instances: 1, word: 'Butcher\'s', work: '3H6'},
+ , instances: 1, word: 'Butt', work: '3H6'},
+ , instances: 1, word: 'Bywords', work: '3H6'},
+ , instances: 1, word: 'Cable', work: '3H6'},
+ , instances: 1, word: 'Callet', work: '3H6'},
+ , instances: 1, word: 'Callice', work: '3H6'},
+ , instances: 1, word: 'Call\'dst', work: '3H6'},
+ , instances: 1, word: 'Call\'st', work: '3H6'},
+ , instances: 1, word: 'Cancelled', work: '3H6'},
+ , instances: 1, word: 'Candle', work: '3H6'},
+ , instances: 1, word: 'Cannon', work: '3H6'},
+ , instances: 1, word: 'Canopy', work: '3H6'},
+ , instances: 1, word: 'Cap', work: '3H6'},
+ , instances: 1, word: 'Captivates', work: '3H6'},
+ , instances: 1, word: 'Captives', work: '3H6'},
+ , instances: 1, word: 'Captivity', work: '3H6'},
+ , instances: 1, word: 'Carelessly', work: '3H6'},
+ , instances: 1, word: 'Cares', work: '3H6'},
+ , instances: 1, word: 'Carries', work: '3H6'},
+ , instances: 1, word: 'Carve', work: '3H6'},
+ , instances: 1, word: 'Cast', work: '3H6'},
+ , instances: 1, word: 'Caught', work: '3H6'},
+ , instances: 1, word: 'Caused', work: '3H6'},
+ , instances: 1, word: 'Cavil', work: '3H6'},
+ , instances: 1, word: 'Caviling', work: '3H6'},
+ , instances: 1, word: 'Cedar', work: '3H6'},
+ , instances: 1, word: 'Chafèd', work: '3H6'},
+ , instances: 1, word: 'Chain', work: '3H6'},
+ , instances: 1, word: 'Chameleon', work: '3H6'},
+ , instances: 1, word: 'Champion', work: '3H6'},
+ , instances: 1, word: 'Champions', work: '3H6'},
+ , instances: 1, word: 'Chancellor', work: '3H6'},
+ , instances: 1, word: 'Chances', work: '3H6'},
+ , instances: 1, word: 'Channel', work: '3H6'},
+ , instances: 1, word: 'Chaos', work: '3H6'},
+ , instances: 1, word: 'Chaplain', work: '3H6'},
+ , instances: 1, word: 'Charity', work: '3H6'},
+ , instances: 1, word: 'Charm', work: '3H6'},
+ , instances: 1, word: 'Chase', work: '3H6'},
+ , instances: 1, word: 'Chased', work: '3H6'},
+ , instances: 1, word: 'Chat', work: '3H6'},
+ , instances: 1, word: 'Chatt\'ring', work: '3H6'},
+ , instances: 1, word: 'Cheerful', work: '3H6'},
+ , instances: 1, word: 'Cheerly', work: '3H6'},
+ , instances: 1, word: 'Cherish', work: '3H6'},
+ , instances: 1, word: 'Chid', work: '3H6'},
+ , instances: 1, word: 'Chides', work: '3H6'},
+ , instances: 1, word: 'Chiefly', work: '3H6'},
+ , instances: 1, word: 'Child-killer', work: '3H6'},
+ , instances: 1, word: 'Childish', work: '3H6'},
+ , instances: 1, word: 'Chimney\'s', work: '3H6'},
+ , instances: 1, word: 'Chivalry', work: '3H6'},
+ , instances: 1, word: 'Choose', work: '3H6'},
+ , instances: 1, word: 'Christendom', work: '3H6'},
+ , instances: 1, word: 'Circled', work: '3H6'},
+ , instances: 1, word: 'Circuit', work: '3H6'},
+ , instances: 1, word: 'Cites', work: '3H6'},
+ , instances: 1, word: 'Citizens', work: '3H6'},
+ , instances: 1, word: 'Clangor', work: '3H6'},
+ , instances: 1, word: 'Clear', work: '3H6'},
+ , instances: 1, word: 'Clear-shining', work: '3H6'},
+ , instances: 1, word: 'Cleaving', work: '3H6'},
+ , instances: 1, word: 'Cleft', work: '3H6'},
+ , instances: 1, word: 'Cliffords', work: '3H6'},
+ , instances: 1, word: 'Climb', work: '3H6'},
+ , instances: 1, word: 'Climbed', work: '3H6'},
+ , instances: 1, word: 'Closed', work: '3H6'},
+ , instances: 1, word: 'Closer', work: '3H6'},
+ , instances: 1, word: 'Closèd', work: '3H6'},
+ , instances: 1, word: 'Cloth', work: '3H6'},
+ , instances: 1, word: 'Clouded', work: '3H6'},
+ , instances: 1, word: 'Cloudy', work: '3H6'},
+ , instances: 1, word: 'Coal-black', work: '3H6'},
+ , instances: 1, word: 'Coals', work: '3H6'},
+ , instances: 1, word: 'Coats', work: '3H6'},
+ , instances: 1, word: 'Coffins', work: '3H6'},
+ , instances: 1, word: 'Coldness', work: '3H6'},
+ , instances: 1, word: 'Color', work: '3H6'},
+ , instances: 1, word: 'Combat', work: '3H6'},
+ , instances: 1, word: 'Comic', work: '3H6'},
+ , instances: 1, word: 'Commanders', work: '3H6'},
+ , instances: 1, word: 'Commanding', work: '3H6'},
+ , instances: 1, word: 'Command\'st', work: '3H6'},
+ , instances: 1, word: 'Commend', work: '3H6'},
+ , instances: 1, word: 'Committed', work: '3H6'},
+ , instances: 1, word: 'Commixtures', work: '3H6'},
+ , instances: 1, word: 'Commonwealth', work: '3H6'},
+ , instances: 1, word: 'Compass', work: '3H6'},
+ , instances: 1, word: 'Complete', work: '3H6'},
+ , instances: 1, word: 'Complices', work: '3H6'},
+ , instances: 1, word: 'Com\'st', work: '3H6'},
+ , instances: 1, word: 'Conceal', work: '3H6'},
+ , instances: 1, word: 'Conceive', work: '3H6'},
+ , instances: 1, word: 'Concerns', work: '3H6'},
+ , instances: 1, word: 'Conclusion', work: '3H6'},
+ , instances: 1, word: 'Concubine', work: '3H6'},
+ , instances: 1, word: 'Conditionally', work: '3H6'},
+ , instances: 1, word: 'Coney', work: '3H6'},
+ , instances: 1, word: 'Confer', work: '3H6'},
+ , instances: 1, word: 'Confiscate', work: '3H6'},
+ , instances: 1, word: 'Conflict', work: '3H6'},
+ , instances: 1, word: 'Conflicts', work: '3H6'},
+ , instances: 1, word: 'Conform', work: '3H6'},
+ , instances: 1, word: 'Congealed', work: '3H6'},
+ , instances: 1, word: 'Congealèd', work: '3H6'},
+ , instances: 1, word: 'Conquer', work: '3H6'},
+ , instances: 1, word: 'Conquered', work: '3H6'},
+ , instances: 1, word: 'Consents', work: '3H6'},
+ , instances: 1, word: 'Consider', work: '3H6'},
+ , instances: 1, word: 'Conspire', work: '3H6'},
+ , instances: 1, word: 'Contemplate', work: '3H6'},
+ , instances: 1, word: 'Contention', work: '3H6'},
+ , instances: 1, word: 'Conveyance', work: '3H6'},
+ , instances: 1, word: 'Cools', work: '3H6'},
+ , instances: 1, word: 'Cooped', work: '3H6'},
+ , instances: 1, word: 'Cope', work: '3H6'},
+ , instances: 1, word: 'Corn', work: '3H6'},
+ , instances: 1, word: 'Corner', work: '3H6'},
+ , instances: 1, word: 'Coronation', work: '3H6'},
+ , instances: 1, word: 'Corrupt', work: '3H6'},
+ , instances: 1, word: 'Couchèd', work: '3H6'},
+ , instances: 1, word: 'Couldst', work: '3H6'},
+ , instances: 1, word: 'Could\'st', work: '3H6'},
+ , instances: 1, word: 'Council', work: '3H6'},
+ , instances: 1, word: 'Counterfeit', work: '3H6'},
+ , instances: 1, word: 'Counterfeiting', work: '3H6'},
+ , instances: 1, word: 'Counterpoised', work: '3H6'},
+ , instances: 1, word: 'Counting', work: '3H6'},
+ , instances: 1, word: 'County', work: '3H6'},
+ , instances: 1, word: 'Coursers', work: '3H6'},
+ , instances: 1, word: 'Courteous', work: '3H6'},
+ , instances: 1, word: 'Covered', work: '3H6'},
+ , instances: 1, word: 'Covert', work: '3H6'},
+ , instances: 1, word: 'Coverture', work: '3H6'},
+ , instances: 1, word: 'Cowards', work: '3H6'},
+ , instances: 1, word: 'Craves', work: '3H6'},
+ , instances: 1, word: 'Craving', work: '3H6'},
+ , instances: 1, word: 'Created', work: '3H6'},
+ , instances: 1, word: 'Creator\'s', work: '3H6'},
+ , instances: 1, word: 'Creatures', work: '3H6'},
+ , instances: 1, word: 'Credit', work: '3H6'},
+ , instances: 1, word: 'Creep', work: '3H6'},
+ , instances: 1, word: 'Crete', work: '3H6'},
+ , instances: 1, word: 'Crew', work: '3H6'},
+ , instances: 1, word: 'Crook\'d', work: '3H6'},
+ , instances: 1, word: 'Cropped', work: '3H6'},
+ , instances: 1, word: 'Crossbow', work: '3H6'},
+ , instances: 1, word: 'Crownèd', work: '3H6'},
+ , instances: 1, word: 'Crutch', work: '3H6'},
+ , instances: 1, word: 'Culling', work: '3H6'},
+ , instances: 1, word: 'Cup', work: '3H6'},
+ , instances: 1, word: 'Cur', work: '3H6'},
+ , instances: 1, word: 'Curds', work: '3H6'},
+ , instances: 1, word: 'Cured', work: '3H6'},
+ , instances: 1, word: 'Cureless', work: '3H6'},
+ , instances: 1, word: 'Curious', work: '3H6'},
+ , instances: 1, word: 'Currish', work: '3H6'},
+ , instances: 1, word: 'Cursy', work: '3H6'},
+ , instances: 1, word: 'Dad', work: '3H6'},
+ , instances: 1, word: 'Daedalus', work: '3H6'},
+ , instances: 1, word: 'Dagger\'s', work: '3H6'},
+ , instances: 1, word: 'Daintry', work: '3H6'},
+ , instances: 1, word: 'Dame', work: '3H6'},
+ , instances: 1, word: 'Dance', work: '3H6'},
+ , instances: 1, word: 'Dark', work: '3H6'},
+ , instances: 1, word: 'Darling', work: '3H6'},
+ , instances: 1, word: 'Dar\'st', work: '3H6'},
+ , instances: 1, word: 'Dash', work: '3H6'},
+ , instances: 1, word: 'Dastard', work: '3H6'},
+ , instances: 1, word: 'Dauntless', work: '3H6'},
+ , instances: 1, word: 'Days\'', work: '3H6'},
+ , instances: 1, word: 'Dazzle', work: '3H6'},
+ , instances: 1, word: 'Deaf', work: '3H6'},
+ , instances: 1, word: 'Deal', work: '3H6'},
+ , instances: 1, word: 'Deathsmen', work: '3H6'},
+ , instances: 1, word: 'Debate', work: '3H6'},
+ , instances: 1, word: 'Debating', work: '3H6'},
+ , instances: 1, word: 'Decay', work: '3H6'},
+ , instances: 1, word: 'Decease', work: '3H6'},
+ , instances: 1, word: 'Deceitful', work: '3H6'},
+ , instances: 1, word: 'Deceive', work: '3H6'},
+ , instances: 1, word: 'Decked', work: '3H6'},
+ , instances: 1, word: 'Decree', work: '3H6'},
+ , instances: 1, word: 'Deep', work: '3H6'},
+ , instances: 1, word: 'Deformity', work: '3H6'},
+ , instances: 1, word: 'Deformèd', work: '3H6'},
+ , instances: 1, word: 'Degenerate', work: '3H6'},
+ , instances: 1, word: 'Degraded', work: '3H6'},
+ , instances: 1, word: 'Degree', work: '3H6'},
+ , instances: 1, word: 'Deign', work: '3H6'},
+ , instances: 1, word: 'Delays', work: '3H6'},
+ , instances: 1, word: 'Delicates', work: '3H6'},
+ , instances: 1, word: 'Delights', work: '3H6'},
+ , instances: 1, word: 'Deliverance', work: '3H6'},
+ , instances: 1, word: 'Delivered', work: '3H6'},
+ , instances: 1, word: 'Demands', work: '3H6'},
+ , instances: 1, word: 'Demeaned', work: '3H6'},
+ , instances: 1, word: 'Den', work: '3H6'},
+ , instances: 1, word: 'Denial', work: '3H6'},
+ , instances: 1, word: 'Denied', work: '3H6'},
+ , instances: 1, word: 'Denied\'st', work: '3H6'},
+ , instances: 1, word: 'Dens', work: '3H6'},
+ , instances: 1, word: 'Departing', work: '3H6'},
+ , instances: 1, word: 'Depends', work: '3H6'},
+ , instances: 1, word: 'Depose', work: '3H6'},
+ , instances: 1, word: 'Depth', work: '3H6'},
+ , instances: 1, word: 'Deraign', work: '3H6'},
+ , instances: 1, word: 'Derived', work: '3H6'},
+ , instances: 1, word: 'Descend', work: '3H6'},
+ , instances: 1, word: 'Descends', work: '3H6'},
+ , instances: 1, word: 'Deserve', work: '3H6'},
+ , instances: 1, word: 'Desirous', work: '3H6'},
+ , instances: 1, word: 'Desirèd', work: '3H6'},
+ , instances: 1, word: 'Despairing', work: '3H6'},
+ , instances: 1, word: 'Desperate', work: '3H6'},
+ , instances: 1, word: 'Desperately', work: '3H6'},
+ , instances: 1, word: 'Despised', work: '3H6'},
+ , instances: 1, word: 'Desp\'rate', work: '3H6'},
+ , instances: 1, word: 'Destinies', work: '3H6'},
+ , instances: 1, word: 'Detect', work: '3H6'},
+ , instances: 1, word: 'Determinèd', work: '3H6'},
+ , instances: 1, word: 'Device', work: '3H6'},
+ , instances: 1, word: 'Devil', work: '3H6'},
+ , instances: 1, word: 'Devil\'s', work: '3H6'},
+ , instances: 1, word: 'Devouring', work: '3H6'},
+ , instances: 1, word: 'Di', work: '3H6'},
+ , instances: 1, word: 'Dials', work: '3H6'},
+ , instances: 1, word: 'Diamonds', work: '3H6'},
+ , instances: 1, word: 'Dian', work: '3H6'},
+ , instances: 1, word: 'Dick', work: '3H6'},
+ , instances: 1, word: 'Dickie', work: '3H6'},
+ , instances: 1, word: 'Dies', work: '3H6'},
+ , instances: 1, word: 'Diest', work: '3H6'},
+ , instances: 1, word: 'Dig', work: '3H6'},
+ , instances: 1, word: 'Digged', work: '3H6'},
+ , instances: 1, word: 'Dimmed', work: '3H6'},
+ , instances: 1, word: 'Dine', work: '3H6'},
+ , instances: 1, word: 'Diomed', work: '3H6'},
+ , instances: 1, word: 'Dipped\'st', work: '3H6'},
+ , instances: 1, word: 'Disannuls', work: '3H6'},
+ , instances: 1, word: 'Discharge', work: '3H6'},
+ , instances: 1, word: 'Discharged', work: '3H6'},
+ , instances: 1, word: 'Discontent', work: '3H6'},
+ , instances: 1, word: 'Discords', work: '3H6'},
+ , instances: 1, word: 'Discourse', work: '3H6'},
+ , instances: 1, word: 'Disgrace', work: '3H6'},
+ , instances: 1, word: 'Disgraced', work: '3H6'},
+ , instances: 1, word: 'Dishonors', work: '3H6'},
+ , instances: 1, word: 'Dishonorèd', work: '3H6'},
+ , instances: 1, word: 'Dislikes', work: '3H6'},
+ , instances: 1, word: 'Dismiss', work: '3H6'},
+ , instances: 1, word: 'Dispatch', work: '3H6'},
+ , instances: 1, word: 'Disperse', work: '3H6'},
+ , instances: 1, word: 'Disport', work: '3H6'},
+ , instances: 1, word: 'Disproportion', work: '3H6'},
+ , instances: 1, word: 'Disprove', work: '3H6'},
+ , instances: 1, word: 'Dissembling', work: '3H6'},
+ , instances: 1, word: 'Dissension', work: '3H6'},
+ , instances: 1, word: 'Distinguished', work: '3H6'},
+ , instances: 1, word: 'Distressèd', work: '3H6'},
+ , instances: 1, word: 'Divide', work: '3H6'},
+ , instances: 1, word: 'Divining', work: '3H6'},
+ , instances: 1, word: 'Divorce', work: '3H6'},
+ , instances: 1, word: 'Dog', work: '3H6'},
+ , instances: 1, word: 'Doing', work: '3H6'},
+ , instances: 1, word: 'Door', work: '3H6'},
+ , instances: 1, word: 'Double', work: '3H6'},
+ , instances: 1, word: 'Doubted', work: '3H6'},
+ , instances: 1, word: 'Doubtful', work: '3H6'},
+ , instances: 1, word: 'Doubting', work: '3H6'},
+ , instances: 1, word: 'Doubtless', work: '3H6'},
+ , instances: 1, word: 'Dower', work: '3H6'},
+ , instances: 1, word: 'Dowry', work: '3H6'},
+ , instances: 1, word: 'Drain', work: '3H6'},
+ , instances: 1, word: 'Drawn', work: '3H6'},
+ , instances: 1, word: 'Dreaming', work: '3H6'},
+ , instances: 1, word: 'Drew', work: '3H6'},
+ , instances: 1, word: 'Dried', work: '3H6'},
+ , instances: 1, word: 'Drift', work: '3H6'},
+ , instances: 1, word: 'Drop', work: '3H6'},
+ , instances: 1, word: 'Drops', work: '3H6'},
+ , instances: 1, word: 'Drove', work: '3H6'},
+ , instances: 1, word: 'Drummer', work: '3H6'},
+ , instances: 1, word: 'Drunk', work: '3H6'},
+ , instances: 1, word: 'Drunken', work: '3H6'},
+ , instances: 1, word: 'Dub', work: '3H6'},
+ , instances: 1, word: 'Duchess', work: '3H6'},
+ , instances: 1, word: 'Due', work: '3H6'},
+ , instances: 1, word: 'Dunsmore', work: '3H6'},
+ , instances: 1, word: 'Dwell', work: '3H6'},
+ , instances: 1, word: 'Dyed', work: '3H6'},
+ , instances: 1, word: 'Dying', work: '3H6'},
+ , instances: 1, word: 'Eagle\'s', work: '3H6'},
+ , instances: 1, word: 'Ean', work: '3H6'},
+ , instances: 1, word: 'Ear', work: '3H6'},
+ , instances: 1, word: 'Earldom', work: '3H6'},
+ , instances: 1, word: 'Earls', work: '3H6'},
+ , instances: 1, word: 'Earthly', work: '3H6'},
+ , instances: 1, word: 'Earth\'s', work: '3H6'},
+ , instances: 1, word: 'Eased', work: '3H6'},
+ , instances: 1, word: 'Easeful', work: '3H6'},
+ , instances: 1, word: 'Easy-melting', work: '3H6'},
+ , instances: 1, word: 'Ebb', work: '3H6'},
+ , instances: 1, word: 'Eclipsed', work: '3H6'},
+ , instances: 1, word: 'Effect', work: '3H6'},
+ , instances: 1, word: 'Effuse', work: '3H6'},
+ , instances: 1, word: 'Eldest', work: '3H6'},
+ , instances: 1, word: 'Elsewhere', work: '3H6'},
+ , instances: 1, word: 'Elysium', work: '3H6'},
+ , instances: 1, word: 'Embassade', work: '3H6'},
+ , instances: 1, word: 'Embroidered', work: '3H6'},
+ , instances: 1, word: 'Employed', work: '3H6'},
+ , instances: 1, word: 'Empty', work: '3H6'},
+ , instances: 1, word: 'Encagèd', work: '3H6'},
+ , instances: 1, word: 'Encamped', work: '3H6'},
+ , instances: 1, word: 'Ended', work: '3H6'},
+ , instances: 1, word: 'Engenders', work: '3H6'},
+ , instances: 1, word: 'Enlargement', work: '3H6'},
+ , instances: 1, word: 'Enrollèd', work: '3H6'},
+ , instances: 1, word: 'Enterprise', work: '3H6'},
+ , instances: 1, word: 'Entrails', work: '3H6'},
+ , instances: 1, word: 'Entreaty', work: '3H6'},
+ , instances: 1, word: 'Ent\'ring', work: '3H6'},
+ , instances: 1, word: 'Environed', work: '3H6'},
+ , instances: 1, word: 'Envy', work: '3H6'},
+ , instances: 1, word: 'Erred', work: '3H6'},
+ , instances: 1, word: 'Erroneous', work: '3H6'},
+ , instances: 1, word: 'Escaped', work: '3H6'},
+ , instances: 1, word: 'Escapèd', work: '3H6'},
+ , instances: 1, word: 'Essex', work: '3H6'},
+ , instances: 1, word: 'Eternal', work: '3H6'},
+ , instances: 1, word: 'Europe', work: '3H6'},
+ , instances: 1, word: 'Evening', work: '3H6'},
+ , instances: 1, word: 'Event', work: '3H6'},
+ , instances: 1, word: 'Events', work: '3H6'},
+ , instances: 1, word: 'Everything', work: '3H6'},
+ , instances: 1, word: 'Ewes', work: '3H6'},
+ , instances: 1, word: 'Exceeds', work: '3H6'},
+ , instances: 1, word: 'Except', work: '3H6'},
+ , instances: 1, word: 'Exceptions', work: '3H6'},
+ , instances: 1, word: 'Excuse', work: '3H6'},
+ , instances: 1, word: 'Excuses', work: '3H6'},
+ , instances: 1, word: 'Executing', work: '3H6'},
+ , instances: 1, word: 'Execution', work: '3H6'},
+ , instances: 1, word: 'Exempt', work: '3H6'},
+ , instances: 1, word: 'Exercise', work: '3H6'},
+ , instances: 1, word: 'Expect', work: '3H6'},
+ , instances: 1, word: 'Expostulate', work: '3H6'},
+ , instances: 1, word: 'Extraught', work: '3H6'},
+ , instances: 1, word: 'Eye\'s', work: '3H6'},
+ , instances: 1, word: 'E\'en', work: '3H6'},
+ , instances: 1, word: 'E\'er', work: '3H6'},
+ , instances: 1, word: 'Fable', work: '3H6'},
+ , instances: 1, word: 'Faciant', work: '3H6'},
+ , instances: 1, word: 'Faction', work: '3H6'},
+ , instances: 1, word: 'Factious', work: '3H6'},
+ , instances: 1, word: 'Fail', work: '3H6'},
+ , instances: 1, word: 'Fail\'st', work: '3H6'},
+ , instances: 1, word: 'Fain', work: '3H6'},
+ , instances: 1, word: 'Faint-hearted', work: '3H6'},
+ , instances: 1, word: 'Fairer', work: '3H6'},
+ , instances: 1, word: 'Falchion', work: '3H6'},
+ , instances: 1, word: 'Falconbridge', work: '3H6'},
+ , instances: 1, word: 'Falcon\'s', work: '3H6'},
+ , instances: 1, word: 'Family', work: '3H6'},
+ , instances: 1, word: 'Famish', work: '3H6'},
+ , instances: 1, word: 'Far-off', work: '3H6'},
+ , instances: 1, word: 'Fared', work: '3H6'},
+ , instances: 1, word: 'Farther', work: '3H6'},
+ , instances: 1, word: 'Fast-falling', work: '3H6'},
+ , instances: 1, word: 'Fasts', work: '3H6'},
+ , instances: 1, word: 'Fates', work: '3H6'},
+ , instances: 1, word: 'Fathers', work: '3H6'},
+ , instances: 1, word: 'Fathers\'', work: '3H6'},
+ , instances: 1, word: 'Favor', work: '3H6'},
+ , instances: 1, word: 'Favorites', work: '3H6'},
+ , instances: 1, word: 'Fawn', work: '3H6'},
+ , instances: 1, word: 'Fawns', work: '3H6'},
+ , instances: 1, word: 'Feared', work: '3H6'},
+ , instances: 1, word: 'Fearless', work: '3H6'},
+ , instances: 1, word: 'Fee', work: '3H6'},
+ , instances: 1, word: 'Feed', work: '3H6'},
+ , instances: 1, word: 'Feel', work: '3H6'},
+ , instances: 1, word: 'Fees', work: '3H6'},
+ , instances: 1, word: 'Feet', work: '3H6'},
+ , instances: 1, word: 'Fee\'d', work: '3H6'},
+ , instances: 1, word: 'Feign', work: '3H6'},
+ , instances: 1, word: 'Feignèd', work: '3H6'},
+ , instances: 1, word: 'Fellows', work: '3H6'},
+ , instances: 1, word: 'Fells', work: '3H6'},
+ , instances: 1, word: 'Fetch', work: '3H6'},
+ , instances: 1, word: 'Fetlocks', work: '3H6'},
+ , instances: 1, word: 'Fettered', work: '3H6'},
+ , instances: 1, word: 'Fiercely', work: '3H6'},
+ , instances: 1, word: 'Figures', work: '3H6'},
+ , instances: 1, word: 'Fills', work: '3H6'},
+ , instances: 1, word: 'Finger', work: '3H6'},
+ , instances: 1, word: 'Fingered', work: '3H6'},
+ , instances: 1, word: 'Finish', work: '3H6'},
+ , instances: 1, word: 'Fires', work: '3H6'},
+ , instances: 1, word: 'Firmly', work: '3H6'},
+ , instances: 1, word: 'Fist', work: '3H6'},
+ , instances: 1, word: 'Fit', work: '3H6'},
+ , instances: 1, word: 'Fitted', work: '3H6'},
+ , instances: 1, word: 'Fixed', work: '3H6'},
+ , instances: 1, word: 'Flail', work: '3H6'},
+ , instances: 1, word: 'Flames', work: '3H6'},
+ , instances: 1, word: 'Flanders', work: '3H6'},
+ , instances: 1, word: 'Flattering', work: '3H6'},
+ , instances: 1, word: 'Fleet', work: '3H6'},
+ , instances: 1, word: 'Flexible', work: '3H6'},
+ , instances: 1, word: 'Fling', work: '3H6'},
+ , instances: 1, word: 'Flocks', work: '3H6'},
+ , instances: 1, word: 'Flourish', work: '3H6'},
+ , instances: 1, word: 'Flow', work: '3H6'},
+ , instances: 1, word: 'Flowed', work: '3H6'},
+ , instances: 1, word: 'Flower', work: '3H6'},
+ , instances: 1, word: 'Flying', work: '3H6'},
+ , instances: 1, word: 'Foaming', work: '3H6'},
+ , instances: 1, word: 'Foeman\'s', work: '3H6'},
+ , instances: 1, word: 'Foemen', work: '3H6'},
+ , instances: 1, word: 'Foil', work: '3H6'},
+ , instances: 1, word: 'Following', work: '3H6'},
+ , instances: 1, word: 'Follows', work: '3H6'},
+ , instances: 1, word: 'Fondly', work: '3H6'},
+ , instances: 1, word: 'Foolish', work: '3H6'},
+ , instances: 1, word: 'Fools', work: '3H6'},
+ , instances: 1, word: 'Footstool', work: '3H6'},
+ , instances: 1, word: 'Forcible', work: '3H6'},
+ , instances: 1, word: 'Forecast', work: '3H6'},
+ , instances: 1, word: 'Forefathers\'', work: '3H6'},
+ , instances: 1, word: 'Foretell', work: '3H6'},
+ , instances: 1, word: 'Foretold', work: '3H6'},
+ , instances: 1, word: 'Forever', work: '3H6'},
+ , instances: 1, word: 'Forewarned', work: '3H6'},
+ , instances: 1, word: 'Forewarnèd', work: '3H6'},
+ , instances: 1, word: 'Forfeit', work: '3H6'},
+ , instances: 1, word: 'Forfend', work: '3H6'},
+ , instances: 1, word: 'Forgery', work: '3H6'},
+ , instances: 1, word: 'Forsaken', work: '3H6'},
+ , instances: 1, word: 'Forslow', work: '3H6'},
+ , instances: 1, word: 'Forspent', work: '3H6'},
+ , instances: 1, word: 'Forswear', work: '3H6'},
+ , instances: 1, word: 'Forswore', work: '3H6'},
+ , instances: 1, word: 'Fortify', work: '3H6'},
+ , instances: 1, word: 'Fortunes', work: '3H6'},
+ , instances: 1, word: 'Found', work: '3H6'},
+ , instances: 1, word: 'Fount', work: '3H6'},
+ , instances: 1, word: 'Four', work: '3H6'},
+ , instances: 1, word: 'Fowl', work: '3H6'},
+ , instances: 1, word: 'Fox', work: '3H6'},
+ , instances: 1, word: 'Frail', work: '3H6'},
+ , instances: 1, word: 'Frame', work: '3H6'},
+ , instances: 1, word: 'Framed', work: '3H6'},
+ , instances: 1, word: 'Fraud', work: '3H6'},
+ , instances: 1, word: 'Fray', work: '3H6'},
+ , instances: 1, word: 'Frenchwoman', work: '3H6'},
+ , instances: 1, word: 'Fret', work: '3H6'},
+ , instances: 1, word: 'Fretting', work: '3H6'},
+ , instances: 1, word: 'Friendly', work: '3H6'},
+ , instances: 1, word: 'Friendship', work: '3H6'},
+ , instances: 1, word: 'Frivolous', work: '3H6'},
+ , instances: 1, word: 'Front', work: '3H6'},
+ , instances: 1, word: 'Froward', work: '3H6'},
+ , instances: 1, word: 'Frustrate', work: '3H6'},
+ , instances: 1, word: 'Fuel', work: '3H6'},
+ , instances: 1, word: 'Funeral', work: '3H6'},
+ , instances: 1, word: 'Furnace-burning', work: '3H6'},
+ , instances: 1, word: 'Furnish', work: '3H6'},
+ , instances: 1, word: 'Gainsay', work: '3H6'},
+ , instances: 1, word: 'Gainsays', work: '3H6'},
+ , instances: 1, word: 'Gale', work: '3H6'},
+ , instances: 1, word: 'Gallia', work: '3H6'},
+ , instances: 1, word: 'Games', work: '3H6'},
+ , instances: 1, word: 'Gape', work: '3H6'},
+ , instances: 1, word: 'Gathered', work: '3H6'},
+ , instances: 1, word: 'Gay', work: '3H6'},
+ , instances: 1, word: 'Gazers', work: '3H6'},
+ , instances: 1, word: 'Gazing', work: '3H6'},
+ , instances: 1, word: 'General', work: '3H6'},
+ , instances: 1, word: 'Gentle-hearted', work: '3H6'},
+ , instances: 1, word: 'Germans', work: '3H6'},
+ , instances: 1, word: 'Ghost', work: '3H6'},
+ , instances: 1, word: 'Ghostly', work: '3H6'},
+ , instances: 1, word: 'Giddy', work: '3H6'},
+ , instances: 1, word: 'Gilt', work: '3H6'},
+ , instances: 1, word: 'Gin', work: '3H6'},
+ , instances: 1, word: 'Girt', work: '3H6'},
+ , instances: 1, word: 'Gives', work: '3H6'},
+ , instances: 1, word: 'Glad', work: '3H6'},
+ , instances: 1, word: 'Gloucester\'s', work: '3H6'},
+ , instances: 1, word: 'Glued', work: '3H6'},
+ , instances: 1, word: 'Glues', work: '3H6'},
+ , instances: 1, word: 'Gnats', work: '3H6'},
+ , instances: 1, word: 'Goods', work: '3H6'},
+ , instances: 1, word: 'Gowns', work: '3H6'},
+ , instances: 1, word: 'Graces', work: '3H6'},
+ , instances: 1, word: 'Grants', work: '3H6'},
+ , instances: 1, word: 'Grasped', work: '3H6'},
+ , instances: 1, word: 'Graves', work: '3H6'},
+ , instances: 1, word: 'Graybeards', work: '3H6'},
+ , instances: 1, word: 'Great-grandfather', work: '3H6'},
+ , instances: 1, word: 'Great-grown', work: '3H6'},
+ , instances: 1, word: 'Greatly', work: '3H6'},
+ , instances: 1, word: 'Greece', work: '3H6'},
+ , instances: 1, word: 'Greeks', work: '3H6'},
+ , instances: 1, word: 'Greet', work: '3H6'},
+ , instances: 1, word: 'Greetings', work: '3H6'},
+ , instances: 1, word: 'Greyhounds', work: '3H6'},
+ , instances: 1, word: 'Griefs', work: '3H6'},
+ , instances: 1, word: 'Grieved', work: '3H6'},
+ , instances: 1, word: 'Grieves', work: '3H6'},
+ , instances: 1, word: 'Grin', work: '3H6'},
+ , instances: 1, word: 'Gripes', work: '3H6'},
+ , instances: 1, word: 'Grow', work: '3H6'},
+ , instances: 1, word: 'Grows', work: '3H6'},
+ , instances: 1, word: 'Grudges', work: '3H6'},
+ , instances: 1, word: 'Grumbling', work: '3H6'},
+ , instances: 1, word: 'Guerdoned', work: '3H6'},
+ , instances: 1, word: 'Guessed', work: '3H6'},
+ , instances: 1, word: 'Gulf', work: '3H6'},
+ , instances: 1, word: 'Ha', work: '3H6'},
+ , instances: 1, word: 'Hail', work: '3H6'},
+ , instances: 1, word: 'Hair', work: '3H6'},
+ , instances: 1, word: 'Hairs', work: '3H6'},
+ , instances: 1, word: 'Halberds', work: '3H6'},
+ , instances: 1, word: 'Hames', work: '3H6'},
+ , instances: 1, word: 'Hanged', work: '3H6'},
+ , instances: 1, word: 'Hanging', work: '3H6'},
+ , instances: 1, word: 'Haply', work: '3H6'},
+ , instances: 1, word: 'Happen', work: '3H6'},
+ , instances: 1, word: 'Haps', work: '3H6'},
+ , instances: 1, word: 'Hard-favored', work: '3H6'},
+ , instances: 1, word: 'Hard-hearted', work: '3H6'},
+ , instances: 1, word: 'Harder', work: '3H6'},
+ , instances: 1, word: 'Hardest-timbered', work: '3H6'},
+ , instances: 1, word: 'Hardiest', work: '3H6'},
+ , instances: 1, word: 'Hardly', work: '3H6'},
+ , instances: 1, word: 'Hardy', work: '3H6'},
+ , instances: 1, word: 'Hare', work: '3H6'},
+ , instances: 1, word: 'Harmful', work: '3H6'},
+ , instances: 1, word: 'Harmony', work: '3H6'},
+ , instances: 1, word: 'Harms', work: '3H6'},
+ , instances: 1, word: 'Harsh', work: '3H6'},
+ , instances: 1, word: 'Harvest', work: '3H6'},
+ , instances: 1, word: 'Has', work: '3H6'},
+ , instances: 1, word: 'Hated', work: '3H6'},
+ , instances: 1, word: 'Hateful', work: '3H6'},
+ , instances: 1, word: 'Hatred', work: '3H6'},
+ , instances: 1, word: 'Haught', work: '3H6'},
+ , instances: 1, word: 'Haughty', work: '3H6'},
+ , instances: 1, word: 'Haunts', work: '3H6'},
+ , instances: 1, word: 'Haven', work: '3H6'},
+ , instances: 1, word: 'Hawthorn', work: '3H6'},
+ , instances: 1, word: 'Hay', work: '3H6'},
+ , instances: 1, word: 'Ha\'', work: '3H6'},
+ , instances: 1, word: 'Heads', work: '3H6'},
+ , instances: 1, word: 'Heal', work: '3H6'},
+ , instances: 1, word: 'Heaped', work: '3H6'},
+ , instances: 1, word: 'Hearers', work: '3H6'},
+ , instances: 1, word: 'Heart-blood', work: '3H6'},
+ , instances: 1, word: 'Hearten', work: '3H6'},
+ , instances: 1, word: 'Heat', work: '3H6'},
+ , instances: 1, word: 'Heavenly', work: '3H6'},
+ , instances: 1, word: 'Heavens\'', work: '3H6'},
+ , instances: 1, word: 'Hector', work: '3H6'},
+ , instances: 1, word: 'Heedful', work: '3H6'},
+ , instances: 1, word: 'Heirs\'', work: '3H6'},
+ , instances: 1, word: 'Helen', work: '3H6'},
+ , instances: 1, word: 'Helmets', work: '3H6'},
+ , instances: 1, word: 'Helps', work: '3H6'},
+ , instances: 1, word: 'Henceforward', work: '3H6'},
+ , instances: 1, word: 'Hercules', work: '3H6'},
+ , instances: 1, word: 'Hereafter', work: '3H6'},
+ , instances: 1, word: 'Herein', work: '3H6'},
+ , instances: 1, word: 'Hers', work: '3H6'},
+ , instances: 1, word: 'Herself', work: '3H6'},
+ , instances: 1, word: 'Hew', work: '3H6'},
+ , instances: 1, word: 'Hewing', work: '3H6'},
+ , instances: 1, word: 'Hews', work: '3H6'},
+ , instances: 1, word: 'Hid', work: '3H6'},
+ , instances: 1, word: 'Hide', work: '3H6'},
+ , instances: 1, word: 'Hideous', work: '3H6'},
+ , instances: 1, word: 'Higher', work: '3H6'},
+ , instances: 1, word: 'Hilt', work: '3H6'},
+ , instances: 1, word: 'History', work: '3H6'},
+ , instances: 1, word: 'Hit', work: '3H6'},
+ , instances: 1, word: 'Hitherto', work: '3H6'},
+ , instances: 1, word: 'Hitherward', work: '3H6'},
+ , instances: 1, word: 'Hoarding', work: '3H6'},
+ , instances: 1, word: 'Holding-anchor', work: '3H6'},
+ , instances: 1, word: 'Hollanders', work: '3H6'},
+ , instances: 1, word: 'Hollow', work: '3H6'},
+ , instances: 1, word: 'Home-bred', work: '3H6'},
+ , instances: 1, word: 'Honorest', work: '3H6'},
+ , instances: 1, word: 'Hopeful', work: '3H6'},
+ , instances: 1, word: 'Hopeless', work: '3H6'},
+ , instances: 1, word: 'Hopes', work: '3H6'},
+ , instances: 1, word: 'Horizon', work: '3H6'},
+ , instances: 1, word: 'Horsemen', work: '3H6'},
+ , instances: 1, word: 'Host', work: '3H6'},
+ , instances: 1, word: 'Hostility', work: '3H6'},
+ , instances: 1, word: 'Hot', work: '3H6'},
+ , instances: 1, word: 'Hours\'', work: '3H6'},
+ , instances: 1, word: 'Household', work: '3H6'},
+ , instances: 1, word: 'Houses', work: '3H6'},
+ , instances: 1, word: 'Howled', work: '3H6'},
+ , instances: 1, word: 'Hugh', work: '3H6'},
+ , instances: 1, word: 'Hung', work: '3H6'},
+ , instances: 1, word: 'Hunger-starvèd', work: '3H6'},
+ , instances: 1, word: 'Hungerford', work: '3H6'},
+ , instances: 1, word: 'Hungry', work: '3H6'},
+ , instances: 1, word: 'Hunt', work: '3H6'},
+ , instances: 1, word: 'Huntsman', work: '3H6'},
+ , instances: 1, word: 'Husbands', work: '3H6'},
+ , instances: 1, word: 'Hyrcania', work: '3H6'},
+ , instances: 1, word: 'Icarus', work: '3H6'},
+ , instances: 1, word: 'Idle', work: '3H6'},
+ , instances: 1, word: 'Ignoble', work: '3H6'},
+ , instances: 1, word: 'Ill-beseeming', work: '3H6'},
+ , instances: 1, word: 'Ill-boding', work: '3H6'},
+ , instances: 1, word: 'Impairing', work: '3H6'},
+ , instances: 1, word: 'Impale', work: '3H6'},
+ , instances: 1, word: 'Impalèd', work: '3H6'},
+ , instances: 1, word: 'Impatience', work: '3H6'},
+ , instances: 1, word: 'Impeach', work: '3H6'},
+ , instances: 1, word: 'Impiety', work: '3H6'},
+ , instances: 1, word: 'Impose', work: '3H6'},
+ , instances: 1, word: 'Impossibilities', work: '3H6'},
+ , instances: 1, word: 'Impregnable', work: '3H6'},
+ , instances: 1, word: 'Impression', work: '3H6'},
+ , instances: 1, word: 'Incensed', work: '3H6'},
+ , instances: 1, word: 'Incessant', work: '3H6'},
+ , instances: 1, word: 'Inclination', work: '3H6'},
+ , instances: 1, word: 'Inclined', work: '3H6'},
+ , instances: 1, word: 'Incomparable', work: '3H6'},
+ , instances: 1, word: 'Increase', work: '3H6'},
+ , instances: 1, word: 'Indian', work: '3H6'},
+ , instances: 1, word: 'Indigested', work: '3H6'},
+ , instances: 1, word: 'Industry', work: '3H6'},
+ , instances: 1, word: 'Inexorable', work: '3H6'},
+ , instances: 1, word: 'Infamy', work: '3H6'},
+ , instances: 1, word: 'Infect', work: '3H6'},
+ , instances: 1, word: 'Inferior', work: '3H6'},
+ , instances: 1, word: 'Inferreth', work: '3H6'},
+ , instances: 1, word: 'Inferring', work: '3H6'},
+ , instances: 1, word: 'Informèd', work: '3H6'},
+ , instances: 1, word: 'Infringed', work: '3H6'},
+ , instances: 1, word: 'Infuse', work: '3H6'},
+ , instances: 1, word: 'Inheritance', work: '3H6'},
+ , instances: 1, word: 'Inhuman', work: '3H6'},
+ , instances: 1, word: 'Injured', work: '3H6'},
+ , instances: 1, word: 'Injuries', work: '3H6'},
+ , instances: 1, word: 'Inly', work: '3H6'},
+ , instances: 1, word: 'Innocent', work: '3H6'},
+ , instances: 1, word: 'Innocents', work: '3H6'},
+ , instances: 1, word: 'Installed', work: '3H6'},
+ , instances: 1, word: 'Instrument', work: '3H6'},
+ , instances: 1, word: 'Instruments', work: '3H6'},
+ , instances: 1, word: 'Insult', work: '3H6'},
+ , instances: 1, word: 'Intercept', work: '3H6'},
+ , instances: 1, word: 'Interchange', work: '3H6'},
+ , instances: 1, word: 'Interrupts', work: '3H6'},
+ , instances: 1, word: 'Invectives', work: '3H6'},
+ , instances: 1, word: 'Invention', work: '3H6'},
+ , instances: 1, word: 'Inviolable', work: '3H6'},
+ , instances: 1, word: 'Ire', work: '3H6'},
+ , instances: 1, word: 'Ireland', work: '3H6'},
+ , instances: 1, word: 'Irks', work: '3H6'},
+ , instances: 1, word: 'Irrevocable', work: '3H6'},
+ , instances: 1, word: 'Island', work: '3H6'},
+ , instances: 1, word: 'Issuing', work: '3H6'},
+ , instances: 1, word: 'Ista', work: '3H6'},
+ , instances: 1, word: 'Jephthah', work: '3H6'},
+ , instances: 1, word: 'Jesus', work: '3H6'},
+ , instances: 1, word: 'Joins', work: '3H6'},
+ , instances: 1, word: 'Jointure', work: '3H6'},
+ , instances: 1, word: 'Jot', work: '3H6'},
+ , instances: 1, word: 'Jove\'s', work: '3H6'},
+ , instances: 1, word: 'Judas', work: '3H6'},
+ , instances: 1, word: 'Judge', work: '3H6'},
+ , instances: 1, word: 'Keeper', work: '3H6'},
+ , instances: 1, word: 'Keeper\'s', work: '3H6'},
+ , instances: 1, word: 'Keep\'st', work: '3H6'},
+ , instances: 1, word: 'Kentishmen', work: '3H6'},
+ , instances: 1, word: 'Keys', work: '3H6'},
+ , instances: 1, word: 'Kills', work: '3H6'},
+ , instances: 1, word: 'Kin', work: '3H6'},
+ , instances: 1, word: 'Kind', work: '3H6'},
+ , instances: 1, word: 'Kindling', work: '3H6'},
+ , instances: 1, word: 'Kingdom\'s', work: '3H6'},
+ , instances: 1, word: 'Kinsmen', work: '3H6'},
+ , instances: 1, word: 'Kissed', work: '3H6'},
+ , instances: 1, word: 'Knight', work: '3H6'},
+ , instances: 1, word: 'Knighthood', work: '3H6'},
+ , instances: 1, word: 'Knit', work: '3H6'},
+ , instances: 1, word: 'Knits', work: '3H6'},
+ , instances: 1, word: 'Knock', work: '3H6'},
+ , instances: 1, word: 'Knot', work: '3H6'},
+ , instances: 1, word: 'Labors', work: '3H6'},
+ , instances: 1, word: 'Lade', work: '3H6'},
+ , instances: 1, word: 'Ladies', work: '3H6'},
+ , instances: 1, word: 'Lamp', work: '3H6'},
+ , instances: 1, word: 'Lance', work: '3H6'},
+ , instances: 1, word: 'Landed', work: '3H6'},
+ , instances: 1, word: 'Lane', work: '3H6'},
+ , instances: 1, word: 'Lap', work: '3H6'},
+ , instances: 1, word: 'Large', work: '3H6'},
+ , instances: 1, word: 'Lascivious', work: '3H6'},
+ , instances: 1, word: 'Lasted', work: '3H6'},
+ , instances: 1, word: 'Lasting', work: '3H6'},
+ , instances: 1, word: 'Lastly', work: '3H6'},
+ , instances: 1, word: 'Lasts', work: '3H6'},
+ , instances: 1, word: 'Lately', work: '3H6'},
+ , instances: 1, word: 'Latter', work: '3H6'},
+ , instances: 1, word: 'Laudis', work: '3H6'},
+ , instances: 1, word: 'Laughed', work: '3H6'},
+ , instances: 1, word: 'Laund', work: '3H6'},
+ , instances: 1, word: 'Laurel', work: '3H6'},
+ , instances: 1, word: 'Law', work: '3H6'},
+ , instances: 1, word: 'Laws', work: '3H6'},
+ , instances: 1, word: 'Lay\'st', work: '3H6'},
+ , instances: 1, word: 'Lazy', work: '3H6'},
+ , instances: 1, word: 'Leader', work: '3H6'},
+ , instances: 1, word: 'Leads', work: '3H6'},
+ , instances: 1, word: 'Leather', work: '3H6'},
+ , instances: 1, word: 'Led', work: '3H6'},
+ , instances: 1, word: 'Leicestershire', work: '3H6'},
+ , instances: 1, word: 'Length', work: '3H6'},
+ , instances: 1, word: 'Lesson', work: '3H6'},
+ , instances: 1, word: 'Level', work: '3H6'},
+ , instances: 1, word: 'Levied', work: '3H6'},
+ , instances: 1, word: 'Liberal', work: '3H6'},
+ , instances: 1, word: 'Lick', work: '3H6'},
+ , instances: 1, word: 'Lifeblood', work: '3H6'},
+ , instances: 1, word: 'Lifetime', work: '3H6'},
+ , instances: 1, word: 'Life\'s', work: '3H6'},
+ , instances: 1, word: 'Lightness', work: '3H6'},
+ , instances: 1, word: 'Lightning', work: '3H6'},
+ , instances: 1, word: 'Lights', work: '3H6'},
+ , instances: 1, word: 'Likened', work: '3H6'},
+ , instances: 1, word: 'Likeness', work: '3H6'},
+ , instances: 1, word: 'Limbs', work: '3H6'},
+ , instances: 1, word: 'Lime', work: '3H6'},
+ , instances: 1, word: 'Limed', work: '3H6'},
+ , instances: 1, word: 'Limits', work: '3H6'},
+ , instances: 1, word: 'Limèd', work: '3H6'},
+ , instances: 1, word: 'Lineally', work: '3H6'},
+ , instances: 1, word: 'Link', work: '3H6'},
+ , instances: 1, word: 'Linked', work: '3H6'},
+ , instances: 1, word: 'Liveth', work: '3H6'},
+ , instances: 1, word: 'Living', work: '3H6'},
+ , instances: 1, word: 'Liv\'st', work: '3H6'},
+ , instances: 1, word: 'Lizards\'', work: '3H6'},
+ , instances: 1, word: 'Loins', work: '3H6'},
+ , instances: 1, word: 'Long-tongued', work: '3H6'},
+ , instances: 1, word: 'Looker-on', work: '3H6'},
+ , instances: 1, word: 'Looking', work: '3H6'},
+ , instances: 1, word: 'Lopped', work: '3H6'},
+ , instances: 1, word: 'Lordship', work: '3H6'},
+ , instances: 1, word: 'Lord\'s', work: '3H6'},
+ , instances: 1, word: 'Losses', work: '3H6'},
+ , instances: 1, word: 'Loved', work: '3H6'},
+ , instances: 1, word: 'Loyal', work: '3H6'},
+ , instances: 1, word: 'Lukewarm', work: '3H6'},
+ , instances: 1, word: 'Lump', work: '3H6'},
+ , instances: 1, word: 'Lurks', work: '3H6'},
+ , instances: 1, word: 'Lust', work: '3H6'},
+ , instances: 1, word: 'Lustful', work: '3H6'},
+ , instances: 1, word: 'Lusty', work: '3H6'},
+ , instances: 1, word: 'Lynn', work: '3H6'},
+ , instances: 1, word: 'Machiavel', work: '3H6'},
+ , instances: 1, word: 'Magistrate', work: '3H6'},
+ , instances: 1, word: 'Magnanimity', work: '3H6'},
+ , instances: 1, word: 'Maid', work: '3H6'},
+ , instances: 1, word: 'Main', work: '3H6'},
+ , instances: 1, word: 'Maintained', work: '3H6'},
+ , instances: 1, word: 'Maketh', work: '3H6'},
+ , instances: 1, word: 'Making', work: '3H6'},
+ , instances: 1, word: 'Malapert', work: '3H6'},
+ , instances: 1, word: 'Man-at-arms', work: '3H6'},
+ , instances: 1, word: 'Mangled', work: '3H6'},
+ , instances: 1, word: 'Manly', work: '3H6'},
+ , instances: 1, word: 'Manner', work: '3H6'},
+ , instances: 1, word: 'Manors', work: '3H6'},
+ , instances: 1, word: 'Mans', work: '3H6'},
+ , instances: 1, word: 'Mantle', work: '3H6'},
+ , instances: 1, word: 'Marches', work: '3H6'},
+ , instances: 1, word: 'Marcheth', work: '3H6'},
+ , instances: 1, word: 'Marching', work: '3H6'},
+ , instances: 1, word: 'Margaret\'s', work: '3H6'},
+ , instances: 1, word: 'Mark', work: '3H6'},
+ , instances: 1, word: 'Marks', work: '3H6'},
+ , instances: 1, word: 'Marquess', work: '3H6'},
+ , instances: 1, word: 'Married', work: '3H6'},
+ , instances: 1, word: 'Marries', work: '3H6'},
+ , instances: 1, word: 'Marrow', work: '3H6'},
+ , instances: 1, word: 'Mars', work: '3H6'},
+ , instances: 1, word: 'Marys', work: '3H6'},
+ , instances: 1, word: 'Match', work: '3H6'},
+ , instances: 1, word: 'Matching', work: '3H6'},
+ , instances: 1, word: 'Mates', work: '3H6'},
+ , instances: 1, word: 'Meaner', work: '3H6'},
+ , instances: 1, word: 'Meant', work: '3H6'},
+ , instances: 1, word: 'Meed', work: '3H6'},
+ , instances: 1, word: 'Meeds', work: '3H6'},
+ , instances: 1, word: 'Meek', work: '3H6'},
+ , instances: 1, word: 'Meeting', work: '3H6'},
+ , instances: 1, word: 'Mellowed', work: '3H6'},
+ , instances: 1, word: 'Melts', work: '3H6'},
+ , instances: 1, word: 'Menelaus', work: '3H6'},
+ , instances: 1, word: 'Merciless', work: '3H6'},
+ , instances: 1, word: 'Mermaid', work: '3H6'},
+ , instances: 1, word: 'Mess', work: '3H6'},
+ , instances: 1, word: 'Methought', work: '3H6'},
+ , instances: 1, word: 'Midday', work: '3H6'},
+ , instances: 1, word: 'Midst', work: '3H6'},
+ , instances: 1, word: 'Midwife', work: '3H6'},
+ , instances: 1, word: 'Mightily', work: '3H6'},
+ , instances: 1, word: 'Mightst', work: '3H6'},
+ , instances: 1, word: 'Miles', work: '3H6'},
+ , instances: 1, word: 'Minions', work: '3H6'},
+ , instances: 1, word: 'Minos', work: '3H6'},
+ , instances: 1, word: 'Mirror', work: '3H6'},
+ , instances: 1, word: 'Mirthful', work: '3H6'},
+ , instances: 1, word: 'Misdeed', work: '3H6'},
+ , instances: 1, word: 'Misdoubteth', work: '3H6'},
+ , instances: 1, word: 'Miserably', work: '3H6'},
+ , instances: 1, word: 'Misery', work: '3H6'},
+ , instances: 1, word: 'Misfortune', work: '3H6'},
+ , instances: 1, word: 'Misfortune\'s', work: '3H6'},
+ , instances: 1, word: 'Misgive', work: '3H6'},
+ , instances: 1, word: 'Misleading', work: '3H6'},
+ , instances: 1, word: 'Misled', work: '3H6'},
+ , instances: 1, word: 'Mislike', work: '3H6'},
+ , instances: 1, word: 'Misproud', work: '3H6'},
+ , instances: 1, word: 'Misshaped', work: '3H6'},
+ , instances: 1, word: 'Misthink', work: '3H6'},
+ , instances: 1, word: 'Mistress', work: '3H6'},
+ , instances: 1, word: 'Mistrustful', work: '3H6'},
+ , instances: 1, word: 'Moan', work: '3H6'},
+ , instances: 1, word: 'Mocked', work: '3H6'},
+ , instances: 1, word: 'Mockery', work: '3H6'},
+ , instances: 1, word: 'Modest', work: '3H6'},
+ , instances: 1, word: 'Modesty', work: '3H6'},
+ , instances: 1, word: 'Moisture', work: '3H6'},
+ , instances: 1, word: 'Moment', work: '3H6'},
+ , instances: 1, word: 'Monstrous', work: '3H6'},
+ , instances: 1, word: 'Moody', work: '3H6'},
+ , instances: 1, word: 'Morning\'s', work: '3H6'},
+ , instances: 1, word: 'Motion', work: '3H6'},
+ , instances: 1, word: 'Mought', work: '3H6'},
+ , instances: 1, word: 'Mount', work: '3H6'},
+ , instances: 1, word: 'Mountain', work: '3H6'},
+ , instances: 1, word: 'Mountains', work: '3H6'},
+ , instances: 1, word: 'Mouth', work: '3H6'},
+ , instances: 1, word: 'Moving', work: '3H6'},
+ , instances: 1, word: 'Mowed', work: '3H6'},
+ , instances: 1, word: 'Multitudes', work: '3H6'},
+ , instances: 1, word: 'Murderer', work: '3H6'},
+ , instances: 1, word: 'Murderers', work: '3H6'},
+ , instances: 1, word: 'Murdering', work: '3H6'},
+ , instances: 1, word: 'Murderous', work: '3H6'},
+ , instances: 1, word: 'Murd\'ring', work: '3H6'},
+ , instances: 1, word: 'Muse', work: '3H6'},
+ , instances: 1, word: 'Mustered', work: '3H6'},
+ , instances: 1, word: 'Mutinies', work: '3H6'},
+ , instances: 1, word: 'Mutter', work: '3H6'},
+ , instances: 1, word: 'Nails', work: '3H6'},
+ , instances: 1, word: 'Naked', work: '3H6'},
+ , instances: 1, word: 'Native', work: '3H6'},
+ , instances: 1, word: 'Nativity', work: '3H6'},
+ , instances: 1, word: 'Neat', work: '3H6'},
+ , instances: 1, word: 'Necessity', work: '3H6'},
+ , instances: 1, word: 'Neck', work: '3H6'},
+ , instances: 1, word: 'Nephew', work: '3H6'},
+ , instances: 1, word: 'Nero', work: '3H6'},
+ , instances: 1, word: 'Nest', work: '3H6'},
+ , instances: 1, word: 'Nestor', work: '3H6'},
+ , instances: 1, word: 'Net', work: '3H6'},
+ , instances: 1, word: 'Nettled', work: '3H6'},
+ , instances: 1, word: 'New-made', work: '3H6'},
+ , instances: 1, word: 'Nice', work: '3H6'},
+ , instances: 1, word: 'Niece', work: '3H6'},
+ , instances: 1, word: 'Night-crow', work: '3H6'},
+ , instances: 1, word: 'Nobleman', work: '3H6'},
+ , instances: 1, word: 'Nobody', work: '3H6'},
+ , instances: 1, word: 'Noise', work: '3H6'},
+ , instances: 1, word: 'Noontide', work: '3H6'},
+ , instances: 1, word: 'North', work: '3H6'},
+ , instances: 1, word: 'Northampton', work: '3H6'},
+ , instances: 1, word: 'Northumberlands', work: '3H6'},
+ , instances: 1, word: 'Northumberland\'s', work: '3H6'},
+ , instances: 1, word: 'Nose', work: '3H6'},
+ , instances: 1, word: 'Notes', work: '3H6'},
+ , instances: 1, word: 'Notwithstanding', work: '3H6'},
+ , instances: 1, word: 'Nourished', work: '3H6'},
+ , instances: 1, word: 'Numbered', work: '3H6'},
+ , instances: 1, word: 'Numbers', work: '3H6'},
+ , instances: 1, word: 'Numb\'ring', work: '3H6'},
+ , instances: 1, word: 'Nuptial', work: '3H6'},
+ , instances: 1, word: 'Nymphs', work: '3H6'},
+ , instances: 1, word: 'Oak', work: '3H6'},
+ , instances: 1, word: 'Obdurate', work: '3H6'},
+ , instances: 1, word: 'Obedience', work: '3H6'},
+ , instances: 1, word: 'Obeyed', work: '3H6'},
+ , instances: 1, word: 'Obeyed\'st', work: '3H6'},
+ , instances: 1, word: 'Obeying', work: '3H6'},
+ , instances: 1, word: 'Obsequies', work: '3H6'},
+ , instances: 1, word: 'Obsequious', work: '3H6'},
+ , instances: 1, word: 'Observation', work: '3H6'},
+ , instances: 1, word: 'Obtain', work: '3H6'},
+ , instances: 1, word: 'Occasions', work: '3H6'},
+ , instances: 1, word: 'Ocean', work: '3H6'},
+ , instances: 1, word: 'Offended', work: '3H6'},
+ , instances: 1, word: 'Offer', work: '3H6'},
+ , instances: 1, word: 'Offering', work: '3H6'},
+ , instances: 1, word: 'Officer', work: '3H6'},
+ , instances: 1, word: 'Offspring', work: '3H6'},
+ , instances: 1, word: 'Olive', work: '3H6'},
+ , instances: 1, word: 'Olympian', work: '3H6'},
+ , instances: 1, word: 'Ominous', work: '3H6'},
+ , instances: 1, word: 'Ones', work: '3H6'},
+ , instances: 1, word: 'Opened', work: '3H6'},
+ , instances: 1, word: 'Opes', work: '3H6'},
+ , instances: 1, word: 'Opinion', work: '3H6'},
+ , instances: 1, word: 'Opposite', work: '3H6'},
+ , instances: 1, word: 'Oppressed', work: '3H6'},
+ , instances: 1, word: 'Order', work: '3H6'},
+ , instances: 1, word: 'Orisons', work: '3H6'},
+ , instances: 1, word: 'Ornaments', work: '3H6'},
+ , instances: 1, word: 'Orphans', work: '3H6'},
+ , instances: 1, word: 'Orphan\'s', work: '3H6'},
+ , instances: 1, word: 'Ought', work: '3H6'},
+ , instances: 1, word: 'Ourself', work: '3H6'},
+ , instances: 1, word: 'Outrages', work: '3H6'},
+ , instances: 1, word: 'Outrun', work: '3H6'},
+ , instances: 1, word: 'Outstretchèd', work: '3H6'},
+ , instances: 1, word: 'Over-matching', work: '3H6'},
+ , instances: 1, word: 'Overboard', work: '3H6'},
+ , instances: 1, word: 'Overcome', work: '3H6'},
+ , instances: 1, word: 'Overgone', work: '3H6'},
+ , instances: 1, word: 'Overlook', work: '3H6'},
+ , instances: 1, word: 'Overpeered', work: '3H6'},
+ , instances: 1, word: 'Overshine', work: '3H6'},
+ , instances: 1, word: 'Owl\'s', work: '3H6'},
+ , instances: 1, word: 'Oxfordshire', work: '3H6'},
+ , instances: 1, word: 'O\'erbear', work: '3H6'},
+ , instances: 1, word: 'O\'ercharged', work: '3H6'},
+ , instances: 1, word: 'O\'ermatched', work: '3H6'},
+ , instances: 1, word: 'O\'errun', work: '3H6'},
+ , instances: 1, word: 'O\'ershades', work: '3H6'},
+ , instances: 1, word: 'O\'erweens', work: '3H6'},
+ , instances: 1, word: 'Painted', work: '3H6'},
+ , instances: 1, word: 'Pangs', work: '3H6'},
+ , instances: 1, word: 'Paper', work: '3H6'},
+ , instances: 1, word: 'Parcel', work: '3H6'},
+ , instances: 1, word: 'Parched', work: '3H6'},
+ , instances: 1, word: 'Parents\'', work: '3H6'},
+ , instances: 1, word: 'Parks', work: '3H6'},
+ , instances: 1, word: 'Parle', work: '3H6'},
+ , instances: 1, word: 'Parley', work: '3H6'},
+ , instances: 1, word: 'Parting', work: '3H6'},
+ , instances: 1, word: 'Partly', work: '3H6'},
+ , instances: 1, word: 'Passing', work: '3H6'},
+ , instances: 1, word: 'Passions', work: '3H6'},
+ , instances: 1, word: 'Patron', work: '3H6'},
+ , instances: 1, word: 'Pawn', work: '3H6'},
+ , instances: 1, word: 'Paws', work: '3H6'},
+ , instances: 1, word: 'Payment', work: '3H6'},
+ , instances: 1, word: 'Peer', work: '3H6'},
+ , instances: 1, word: 'Peevish', work: '3H6'},
+ , instances: 1, word: 'Penitence', work: '3H6'},
+ , instances: 1, word: 'Penitent', work: '3H6'},
+ , instances: 1, word: 'Pensive', work: '3H6'},
+ , instances: 1, word: 'Pent-up', work: '3H6'},
+ , instances: 1, word: 'Peremptory', work: '3H6'},
+ , instances: 1, word: 'Perfections', work: '3H6'},
+ , instances: 1, word: 'Performed', work: '3H6'},
+ , instances: 1, word: 'Peril', work: '3H6'},
+ , instances: 1, word: 'Period', work: '3H6'},
+ , instances: 1, word: 'Perjury', work: '3H6'},
+ , instances: 1, word: 'Perpetual', work: '3H6'},
+ , instances: 1, word: 'Persecutor', work: '3H6'},
+ , instances: 1, word: 'Persuaded', work: '3H6'},
+ , instances: 1, word: 'Petitioners', work: '3H6'},
+ , instances: 1, word: 'Petticoat', work: '3H6'},
+ , instances: 1, word: 'Phoebus', work: '3H6'},
+ , instances: 1, word: 'Phoenix\'', work: '3H6'},
+ , instances: 1, word: 'Pies', work: '3H6'},
+ , instances: 1, word: 'Pikes', work: '3H6'},
+ , instances: 1, word: 'Pillars', work: '3H6'},
+ , instances: 1, word: 'Pilot', work: '3H6'},
+ , instances: 1, word: 'Pilot\'s', work: '3H6'},
+ , instances: 1, word: 'Pinched', work: '3H6'},
+ , instances: 1, word: 'Pitch', work: '3H6'},
+ , instances: 1, word: 'Pitched', work: '3H6'},
+ , instances: 1, word: 'Pitchy', work: '3H6'},
+ , instances: 1, word: 'Pitied', work: '3H6'},
+ , instances: 1, word: 'Pitied\'st', work: '3H6'},
+ , instances: 1, word: 'Placed', work: '3H6'},
+ , instances: 1, word: 'Placèd', work: '3H6'},
+ , instances: 1, word: 'Plead', work: '3H6'},
+ , instances: 1, word: 'Pleased', work: '3H6'},
+ , instances: 1, word: 'Pleases', work: '3H6'},
+ , instances: 1, word: 'Pleaseth', work: '3H6'},
+ , instances: 1, word: 'Pleasing', work: '3H6'},
+ , instances: 1, word: 'Plies', work: '3H6'},
+ , instances: 1, word: 'Plight', work: '3H6'},
+ , instances: 1, word: 'Plucked', work: '3H6'},
+ , instances: 1, word: 'Plucker', work: '3H6'},
+ , instances: 1, word: 'Poets', work: '3H6'},
+ , instances: 1, word: 'Points', work: '3H6'},
+ , instances: 1, word: 'Poise', work: '3H6'},
+ , instances: 1, word: 'Poisons', work: '3H6'},
+ , instances: 1, word: 'Poltroons', work: '3H6'},
+ , instances: 1, word: 'Pomp', work: '3H6'},
+ , instances: 1, word: 'Poniards', work: '3H6'},
+ , instances: 1, word: 'Possess', work: '3H6'},
+ , instances: 1, word: 'Possessor', work: '3H6'},
+ , instances: 1, word: 'Possessèd', work: '3H6'},
+ , instances: 1, word: 'Posted', work: '3H6'},
+ , instances: 1, word: 'Posthaste', work: '3H6'},
+ , instances: 1, word: 'Posts', work: '3H6'},
+ , instances: 1, word: 'Powerful', work: '3H6'},
+ , instances: 1, word: 'Pow\'rful', work: '3H6'},
+ , instances: 1, word: 'Praise', work: '3H6'},
+ , instances: 1, word: 'Praises', work: '3H6'},
+ , instances: 1, word: 'Prancing', work: '3H6'},
+ , instances: 1, word: 'Prayers', work: '3H6'},
+ , instances: 1, word: 'Preachment', work: '3H6'},
+ , instances: 1, word: 'Precedent', work: '3H6'},
+ , instances: 1, word: 'Preferr\'st', work: '3H6'},
+ , instances: 1, word: 'Prejudicial', work: '3H6'},
+ , instances: 1, word: 'Premeditation', work: '3H6'},
+ , instances: 1, word: 'Preposterous', work: '3H6'},
+ , instances: 1, word: 'Presageth', work: '3H6'},
+ , instances: 1, word: 'Presaging', work: '3H6'},
+ , instances: 1, word: 'Prescription', work: '3H6'},
+ , instances: 1, word: 'Presence', work: '3H6'},
+ , instances: 1, word: 'Presenteth', work: '3H6'},
+ , instances: 1, word: 'Press', work: '3H6'},
+ , instances: 1, word: 'Presumptuous', work: '3H6'},
+ , instances: 1, word: 'Pretend', work: '3H6'},
+ , instances: 1, word: 'Pretty', work: '3H6'},
+ , instances: 1, word: 'Prevail', work: '3H6'},
+ , instances: 1, word: 'Priam', work: '3H6'},
+ , instances: 1, word: 'Priesthood', work: '3H6'},
+ , instances: 1, word: 'Prime', work: '3H6'},
+ , instances: 1, word: 'Prince\'s', work: '3H6'},
+ , instances: 1, word: 'Principal', work: '3H6'},
+ , instances: 1, word: 'Private', work: '3H6'},
+ , instances: 1, word: 'Privileged', work: '3H6'},
+ , instances: 1, word: 'Privily', work: '3H6'},
+ , instances: 1, word: 'Privy', work: '3H6'},
+ , instances: 1, word: 'Proceedings', work: '3H6'},
+ , instances: 1, word: 'Proclaims', work: '3H6'},
+ , instances: 1, word: 'Procure', work: '3H6'},
+ , instances: 1, word: 'Prodigy', work: '3H6'},
+ , instances: 1, word: 'Profits', work: '3H6'},
+ , instances: 1, word: 'Prolong', work: '3H6'},
+ , instances: 1, word: 'Promised', work: '3H6'},
+ , instances: 1, word: 'Promiseth', work: '3H6'},
+ , instances: 1, word: 'Promisèd', work: '3H6'},
+ , instances: 1, word: 'Promontory', work: '3H6'},
+ , instances: 1, word: 'Pronounced', work: '3H6'},
+ , instances: 1, word: 'Prop', work: '3H6'},
+ , instances: 1, word: 'Prophecies', work: '3H6'},
+ , instances: 1, word: 'Prophecy', work: '3H6'},
+ , instances: 1, word: 'Prophesy', work: '3H6'},
+ , instances: 1, word: 'Prophet', work: '3H6'},
+ , instances: 1, word: 'Propose', work: '3H6'},
+ , instances: 1, word: 'Prosper', work: '3H6'},
+ , instances: 1, word: 'Protection', work: '3H6'},
+ , instances: 1, word: 'Protest', work: '3H6'},
+ , instances: 1, word: 'Proteus', work: '3H6'},
+ , instances: 1, word: 'Proud-hearted', work: '3H6'},
+ , instances: 1, word: 'Proved', work: '3H6'},
+ , instances: 1, word: 'Proves', work: '3H6'},
+ , instances: 1, word: 'Provinces', work: '3H6'},
+ , instances: 1, word: 'Prowess', work: '3H6'},
+ , instances: 1, word: 'Puller-down', work: '3H6'},
+ , instances: 1, word: 'Punished', work: '3H6'},
+ , instances: 1, word: 'Pure', work: '3H6'},
+ , instances: 1, word: 'Purge', work: '3H6'},
+ , instances: 1, word: 'Purpose', work: '3H6'},
+ , instances: 1, word: 'Puts', work: '3H6'},
+ , instances: 1, word: 'Putt\'st', work: '3H6'},
+ , instances: 1, word: 'Quailing', work: '3H6'},
+ , instances: 1, word: 'Quaintly', work: '3H6'},
+ , instances: 1, word: 'Queens', work: '3H6'},
+ , instances: 1, word: 'Quenchless', work: '3H6'},
+ , instances: 1, word: 'Question', work: '3H6'},
+ , instances: 1, word: 'Quick', work: '3H6'},
+ , instances: 1, word: 'Quicksand', work: '3H6'},
+ , instances: 1, word: 'Quietly', work: '3H6'},
+ , instances: 1, word: 'Quietness', work: '3H6'},
+ , instances: 1, word: 'Quit', work: '3H6'},
+ , instances: 1, word: 'Quoth', work: '3H6'},
+ , instances: 1, word: 'Race', work: '3H6'},
+ , instances: 1, word: 'Racking', work: '3H6'},
+ , instances: 1, word: 'Rages', work: '3H6'},
+ , instances: 1, word: 'Ragged', work: '3H6'},
+ , instances: 1, word: 'Raging', work: '3H6'},
+ , instances: 1, word: 'Rail', work: '3H6'},
+ , instances: 1, word: 'Railer', work: '3H6'},
+ , instances: 1, word: 'Ramping', work: '3H6'},
+ , instances: 1, word: 'Range', work: '3H6'},
+ , instances: 1, word: 'Ranks', work: '3H6'},
+ , instances: 1, word: 'Ransom', work: '3H6'},
+ , instances: 1, word: 'Raught', work: '3H6'},
+ , instances: 1, word: 'Rave', work: '3H6'},
+ , instances: 1, word: 'Raven', work: '3H6'},
+ , instances: 1, word: 'Ravenspurgh', work: '3H6'},
+ , instances: 1, word: 'Re-passed', work: '3H6'},
+ , instances: 1, word: 'Rear', work: '3H6'},
+ , instances: 1, word: 'Reasons', work: '3H6'},
+ , instances: 1, word: 'Rebel', work: '3H6'},
+ , instances: 1, word: 'Rebellion', work: '3H6'},
+ , instances: 1, word: 'Rebuke', work: '3H6'},
+ , instances: 1, word: 'Reckless', work: '3H6'},
+ , instances: 1, word: 'Reconcile', work: '3H6'},
+ , instances: 1, word: 'Reconciled', work: '3H6'},
+ , instances: 1, word: 'Recount', work: '3H6'},
+ , instances: 1, word: 'Recounted', work: '3H6'},
+ , instances: 1, word: 'Recover', work: '3H6'},
+ , instances: 1, word: 'Recovered', work: '3H6'},
+ , instances: 1, word: 'Recovery', work: '3H6'},
+ , instances: 1, word: 'Redemption', work: '3H6'},
+ , instances: 1, word: 'Refrain', work: '3H6'},
+ , instances: 1, word: 'Regard', work: '3H6'},
+ , instances: 1, word: 'Reignier', work: '3H6'},
+ , instances: 1, word: 'Relate', work: '3H6'},
+ , instances: 1, word: 'Released', work: '3H6'},
+ , instances: 1, word: 'Relief', work: '3H6'},
+ , instances: 1, word: 'Remaining', work: '3H6'},
+ , instances: 1, word: 'Remember', work: '3H6'},
+ , instances: 1, word: 'Remorseless', work: '3H6'},
+ , instances: 1, word: 'Rend', work: '3H6'},
+ , instances: 1, word: 'Renew', work: '3H6'},
+ , instances: 1, word: 'Renounce', work: '3H6'},
+ , instances: 1, word: 'Renowned', work: '3H6'},
+ , instances: 1, word: 'Rent', work: '3H6'},
+ , instances: 1, word: 'Rents', work: '3H6'},
+ , instances: 1, word: 'Repaid', work: '3H6'},
+ , instances: 1, word: 'Repealed', work: '3H6'},
+ , instances: 1, word: 'Repent', work: '3H6'},
+ , instances: 1, word: 'Replant', work: '3H6'},
+ , instances: 1, word: 'Replete', work: '3H6'},
+ , instances: 1, word: 'Reply', work: '3H6'},
+ , instances: 1, word: 'Repose', work: '3H6'},
+ , instances: 1, word: 'Repurchased', work: '3H6'},
+ , instances: 1, word: 'Requires', work: '3H6'},
+ , instances: 1, word: 'Requireth', work: '3H6'},
+ , instances: 1, word: 'Rescue', work: '3H6'},
+ , instances: 1, word: 'Rescued', work: '3H6'},
+ , instances: 1, word: 'Rescuing', work: '3H6'},
+ , instances: 1, word: 'Resident', work: '3H6'},
+ , instances: 1, word: 'Resigned', work: '3H6'},
+ , instances: 1, word: 'Resist', work: '3H6'},
+ , instances: 1, word: 'Resisted', work: '3H6'},
+ , instances: 1, word: 'Respect', work: '3H6'},
+ , instances: 1, word: 'Retreat', work: '3H6'},
+ , instances: 1, word: 'Revengeful', work: '3H6'},
+ , instances: 1, word: 'Reverently', work: '3H6'},
+ , instances: 1, word: 'Revoke', work: '3H6'},
+ , instances: 1, word: 'Revolt', work: '3H6'},
+ , instances: 1, word: 'Rhesus\'', work: '3H6'},
+ , instances: 1, word: 'Rich', work: '3H6'},
+ , instances: 1, word: 'Rid', work: '3H6'},
+ , instances: 1, word: 'Riddles', work: '3H6'},
+ , instances: 1, word: 'Ride', work: '3H6'},
+ , instances: 1, word: 'Rids', work: '3H6'},
+ , instances: 1, word: 'Rightly', work: '3H6'},
+ , instances: 1, word: 'Rigor', work: '3H6'},
+ , instances: 1, word: 'Ripe', work: '3H6'},
+ , instances: 1, word: 'Rising', work: '3H6'},
+ , instances: 1, word: 'Roared', work: '3H6'},
+ , instances: 1, word: 'Rob', work: '3H6'},
+ , instances: 1, word: 'Roger', work: '3H6'},
+ , instances: 1, word: 'Rooked', work: '3H6'},
+ , instances: 1, word: 'Rooms', work: '3H6'},
+ , instances: 1, word: 'Roots', work: '3H6'},
+ , instances: 1, word: 'Roscius', work: '3H6'},
+ , instances: 1, word: 'Rotten', work: '3H6'},
+ , instances: 1, word: 'Rouse', work: '3H6'},
+ , instances: 1, word: 'Rued', work: '3H6'},
+ , instances: 1, word: 'Ruinate', work: '3H6'},
+ , instances: 1, word: 'Ruled', work: '3H6'},
+ , instances: 1, word: 'Runners', work: '3H6'},
+ , instances: 1, word: 'Rust', work: '3H6'},
+ , instances: 1, word: 'Ruthful', work: '3H6'},
+ , instances: 1, word: 'Sacrificed', work: '3H6'},
+ , instances: 1, word: 'Sad-hearted', work: '3H6'},
+ , instances: 1, word: 'Saddest', work: '3H6'},
+ , instances: 1, word: 'Sadly', work: '3H6'},
+ , instances: 1, word: 'Sadness', work: '3H6'},
+ , instances: 1, word: 'Safeguard', work: '3H6'},
+ , instances: 1, word: 'Safely', work: '3H6'},
+ , instances: 1, word: 'Safer', work: '3H6'},
+ , instances: 1, word: 'Salve', work: '3H6'},
+ , instances: 1, word: 'Sanctuary', work: '3H6'},
+ , instances: 1, word: 'Sand', work: '3H6'},
+ , instances: 1, word: 'Sandal', work: '3H6'},
+ , instances: 1, word: 'Sat', work: '3H6'},
+ , instances: 1, word: 'Satisfaction', work: '3H6'},
+ , instances: 1, word: 'Savage', work: '3H6'},
+ , instances: 1, word: 'Saved', work: '3H6'},
+ , instances: 1, word: 'Saves', work: '3H6'},
+ , instances: 1, word: 'Saying', work: '3H6'},
+ , instances: 1, word: 'Scalding', work: '3H6'},
+ , instances: 1, word: 'Scales', work: '3H6'},
+ , instances: 1, word: 'Scape', work: '3H6'},
+ , instances: 1, word: 'Scapes', work: '3H6'},
+ , instances: 1, word: 'Scare', work: '3H6'},
+ , instances: 1, word: 'Scattered', work: '3H6'},
+ , instances: 1, word: 'Scene', work: '3H6'},
+ , instances: 1, word: 'School', work: '3H6'},
+ , instances: 1, word: 'Scold', work: '3H6'},
+ , instances: 1, word: 'Scolding', work: '3H6'},
+ , instances: 1, word: 'Scorched', work: '3H6'},
+ , instances: 1, word: 'Scorning', work: '3H6'},
+ , instances: 1, word: 'Screech', work: '3H6'},
+ , instances: 1, word: 'Scrupulous', work: '3H6'},
+ , instances: 1, word: 'Seals', work: '3H6'},
+ , instances: 1, word: 'Search', work: '3H6'},
+ , instances: 1, word: 'Seared', work: '3H6'},
+ , instances: 1, word: 'Second', work: '3H6'},
+ , instances: 1, word: 'Security', work: '3H6'},
+ , instances: 1, word: 'Sedition', work: '3H6'},
+ , instances: 1, word: 'Seduce', work: '3H6'},
+ , instances: 1, word: 'Seduced', work: '3H6'},
+ , instances: 1, word: 'Seeking', work: '3H6'},
+ , instances: 1, word: 'Seems', work: '3H6'},
+ , instances: 1, word: 'Sees', work: '3H6'},
+ , instances: 1, word: 'Self', work: '3H6'},
+ , instances: 1, word: 'Sense', work: '3H6'},
+ , instances: 1, word: 'Sentence', work: '3H6'},
+ , instances: 1, word: 'Separated', work: '3H6'},
+ , instances: 1, word: 'Septentrion', work: '3H6'},
+ , instances: 1, word: 'Sepulchers', work: '3H6'},
+ , instances: 1, word: 'Serious', work: '3H6'},
+ , instances: 1, word: 'Serpent\'s', work: '3H6'},
+ , instances: 1, word: 'Servitor', work: '3H6'},
+ , instances: 1, word: 'Sets', work: '3H6'},
+ , instances: 1, word: 'Setter', work: '3H6'},
+ , instances: 1, word: 'Setter-up', work: '3H6'},
+ , instances: 1, word: 'Setting', work: '3H6'},
+ , instances: 1, word: 'Sett\'st', work: '3H6'},
+ , instances: 1, word: 'Sex', work: '3H6'},
+ , instances: 1, word: 'Shaken', work: '3H6'},
+ , instances: 1, word: 'Shallow', work: '3H6'},
+ , instances: 1, word: 'Shambles', work: '3H6'},
+ , instances: 1, word: 'Shamefaced', work: '3H6'},
+ , instances: 1, word: 'Sham\'st', work: '3H6'},
+ , instances: 1, word: 'Shape', work: '3H6'},
+ , instances: 1, word: 'Shaped', work: '3H6'},
+ , instances: 1, word: 'Shapes', work: '3H6'},
+ , instances: 1, word: 'Share', work: '3H6'},
+ , instances: 1, word: 'She-wolf', work: '3H6'},
+ , instances: 1, word: 'Shear', work: '3H6'},
+ , instances: 1, word: 'Sheathe', work: '3H6'},
+ , instances: 1, word: 'Shelter', work: '3H6'},
+ , instances: 1, word: 'Shelves', work: '3H6'},
+ , instances: 1, word: 'Shepherds', work: '3H6'},
+ , instances: 1, word: 'Shepherd\'s', work: '3H6'},
+ , instances: 1, word: 'Shield', work: '3H6'},
+ , instances: 1, word: 'Shift', work: '3H6'},
+ , instances: 1, word: 'Shining', work: '3H6'},
+ , instances: 1, word: 'Ship', work: '3H6'},
+ , instances: 1, word: 'Shipped', work: '3H6'},
+ , instances: 1, word: 'Ships', work: '3H6'},
+ , instances: 1, word: 'Shore', work: '3H6'},
+ , instances: 1, word: 'Short', work: '3H6'},
+ , instances: 1, word: 'Shot', work: '3H6'},
+ , instances: 1, word: 'Shouts', work: '3H6'},
+ , instances: 1, word: 'Shower', work: '3H6'},
+ , instances: 1, word: 'Shown', work: '3H6'},
+ , instances: 1, word: 'Shrieked', work: '3H6'},
+ , instances: 1, word: 'Shrift', work: '3H6'},
+ , instances: 1, word: 'Shrink', work: '3H6'},
+ , instances: 1, word: 'Shriver', work: '3H6'},
+ , instances: 1, word: 'Shrouds', work: '3H6'},
+ , instances: 1, word: 'Shrub', work: '3H6'},
+ , instances: 1, word: 'Shrubs', work: '3H6'},
+ , instances: 1, word: 'Sick', work: '3H6'},
+ , instances: 1, word: 'Sides', work: '3H6'},
+ , instances: 1, word: 'Sighing', work: '3H6'},
+ , instances: 1, word: 'Signified', work: '3H6'},
+ , instances: 1, word: 'Signify', work: '3H6'},
+ , instances: 1, word: 'Silence', work: '3H6'},
+ , instances: 1, word: 'Sinew', work: '3H6'},
+ , instances: 1, word: 'Sinews', work: '3H6'},
+ , instances: 1, word: 'Sinful', work: '3H6'},
+ , instances: 1, word: 'Sing', work: '3H6'},
+ , instances: 1, word: 'Sinon', work: '3H6'},
+ , instances: 1, word: 'Sins', work: '3H6'},
+ , instances: 1, word: 'Sin\'s', work: '3H6'},
+ , instances: 1, word: 'Sirrah', work: '3H6'},
+ , instances: 1, word: 'Sixth', work: '3H6'},
+ , instances: 1, word: 'Size', work: '3H6'},
+ , instances: 1, word: 'Skillful', work: '3H6'},
+ , instances: 1, word: 'Skin\'s', work: '3H6'},
+ , instances: 1, word: 'Sky', work: '3H6'},
+ , instances: 1, word: 'Slake', work: '3H6'},
+ , instances: 1, word: 'Slanders', work: '3H6'},
+ , instances: 1, word: 'Slaughterhouse', work: '3H6'},
+ , instances: 1, word: 'Slaughterman', work: '3H6'},
+ , instances: 1, word: 'Sleight', work: '3H6'},
+ , instances: 1, word: 'Slight', work: '3H6'},
+ , instances: 1, word: 'Slipped', work: '3H6'},
+ , instances: 1, word: 'Slow', work: '3H6'},
+ , instances: 1, word: 'Sly', work: '3H6'},
+ , instances: 1, word: 'Smallest', work: '3H6'},
+ , instances: 1, word: 'Smeared', work: '3H6'},
+ , instances: 1, word: 'Smiling', work: '3H6'},
+ , instances: 1, word: 'Smoking', work: '3H6'},
+ , instances: 1, word: 'Smooths', work: '3H6'},
+ , instances: 1, word: 'Snarl', work: '3H6'},
+ , instances: 1, word: 'Soft-hearted', work: '3H6'},
+ , instances: 1, word: 'Sold', work: '3H6'},
+ , instances: 1, word: 'Soldiers\'', work: '3H6'},
+ , instances: 1, word: 'Sole', work: '3H6'},
+ , instances: 1, word: 'Somerville', work: '3H6'},
+ , instances: 1, word: 'Something', work: '3H6'},
+ , instances: 1, word: 'Son\'s', work: '3H6'},
+ , instances: 1, word: 'Soonest', work: '3H6'},
+ , instances: 1, word: 'Soothe', work: '3H6'},
+ , instances: 1, word: 'Sore', work: '3H6'},
+ , instances: 1, word: 'Sorry', work: '3H6'},
+ , instances: 1, word: 'Sought', work: '3H6'},
+ , instances: 1, word: 'Sounded', work: '3H6'},
+ , instances: 1, word: 'Source', work: '3H6'},
+ , instances: 1, word: 'South', work: '3H6'},
+ , instances: 1, word: 'Southern', work: '3H6'},
+ , instances: 1, word: 'Sov\'reigns', work: '3H6'},
+ , instances: 1, word: 'Spain', work: '3H6'},
+ , instances: 1, word: 'Spare', work: '3H6'},
+ , instances: 1, word: 'Speaketh', work: '3H6'},
+ , instances: 1, word: 'Speaks', work: '3H6'},
+ , instances: 1, word: 'Speak\'st', work: '3H6'},
+ , instances: 1, word: 'Special', work: '3H6'},
+ , instances: 1, word: 'Speedily', work: '3H6'},
+ , instances: 1, word: 'Speedy', work: '3H6'},
+ , instances: 1, word: 'Spent', work: '3H6'},
+ , instances: 1, word: 'Spies', work: '3H6'},
+ , instances: 1, word: 'Spirits', work: '3H6'},
+ , instances: 1, word: 'Spleen', work: '3H6'},
+ , instances: 1, word: 'Split', work: '3H6'},
+ , instances: 1, word: 'Splits', work: '3H6'},
+ , instances: 1, word: 'Spoil', work: '3H6'},
+ , instances: 1, word: 'Spoils', work: '3H6'},
+ , instances: 1, word: 'Sportful', work: '3H6'},
+ , instances: 1, word: 'Sprang\'st', work: '3H6'},
+ , instances: 1, word: 'Sprawl\'st', work: '3H6'},
+ , instances: 1, word: 'Spray', work: '3H6'},
+ , instances: 1, word: 'Spreading', work: '3H6'},
+ , instances: 1, word: 'Springtime', work: '3H6'},
+ , instances: 1, word: 'Sprung', work: '3H6'},
+ , instances: 1, word: 'Spurn', work: '3H6'},
+ , instances: 1, word: 'Spurred', work: '3H6'},
+ , instances: 1, word: 'Spy', work: '3H6'},
+ , instances: 1, word: 'Spying', work: '3H6'},
+ , instances: 1, word: 'Stab', work: '3H6'},
+ , instances: 1, word: 'Staff', work: '3H6'},
+ , instances: 1, word: 'Stafford\'s', work: '3H6'},
+ , instances: 1, word: 'Stale', work: '3H6'},
+ , instances: 1, word: 'Stamp', work: '3H6'},
+ , instances: 1, word: 'Stamps', work: '3H6'},
+ , instances: 1, word: 'Stately', work: '3H6'},
+ , instances: 1, word: 'Statutes', work: '3H6'},
+ , instances: 1, word: 'Steely', work: '3H6'},
+ , instances: 1, word: 'Steepèd', work: '3H6'},
+ , instances: 1, word: 'Stem', work: '3H6'},
+ , instances: 1, word: 'Stifle', work: '3H6'},
+ , instances: 1, word: 'Stigmatic', work: '3H6'},
+ , instances: 1, word: 'Stings', work: '3H6'},
+ , instances: 1, word: 'Stirred', work: '3H6'},
+ , instances: 1, word: 'Stirring', work: '3H6'},
+ , instances: 1, word: 'Stood', work: '3H6'},
+ , instances: 1, word: 'Store', work: '3H6'},
+ , instances: 1, word: 'Stoutly', work: '3H6'},
+ , instances: 1, word: 'Stratagems', work: '3H6'},
+ , instances: 1, word: 'Straw', work: '3H6'},
+ , instances: 1, word: 'Straying', work: '3H6'},
+ , instances: 1, word: 'Strengthened', work: '3H6'},
+ , instances: 1, word: 'Strength\'ning', work: '3H6'},
+ , instances: 1, word: 'Strife', work: '3H6'},
+ , instances: 1, word: 'Strives', work: '3H6'},
+ , instances: 1, word: 'Striving', work: '3H6'},
+ , instances: 1, word: 'Strong-knit', work: '3H6'},
+ , instances: 1, word: 'Struck', work: '3H6'},
+ , instances: 1, word: 'Struggle', work: '3H6'},
+ , instances: 1, word: 'Study', work: '3H6'},
+ , instances: 1, word: 'Stumble', work: '3H6'},
+ , instances: 1, word: 'Sturdy', work: '3H6'},
+ , instances: 1, word: 'Subdue', work: '3H6'},
+ , instances: 1, word: 'Subdued', work: '3H6'},
+ , instances: 1, word: 'Subsidies', work: '3H6'},
+ , instances: 1, word: 'Subtle', work: '3H6'},
+ , instances: 1, word: 'Successful', work: '3H6'},
+ , instances: 1, word: 'Suck', work: '3H6'},
+ , instances: 1, word: 'Suddenly', work: '3H6'},
+ , instances: 1, word: 'Sue', work: '3H6'},
+ , instances: 1, word: 'Suffer', work: '3H6'},
+ , instances: 1, word: 'Sufferance', work: '3H6'},
+ , instances: 1, word: 'Suffered', work: '3H6'},
+ , instances: 1, word: 'Suffice', work: '3H6'},
+ , instances: 1, word: 'Sufficient', work: '3H6'},
+ , instances: 1, word: 'Suggest', work: '3H6'},
+ , instances: 1, word: 'Suitors', work: '3H6'},
+ , instances: 1, word: 'Suits', work: '3H6'},
+ , instances: 1, word: 'Summa', work: '3H6'},
+ , instances: 1, word: 'Summer\'s', work: '3H6'},
+ , instances: 1, word: 'Summon', work: '3H6'},
+ , instances: 1, word: 'Sunder', work: '3H6'},
+ , instances: 1, word: 'Sunders', work: '3H6'},
+ , instances: 1, word: 'Sunset', work: '3H6'},
+ , instances: 1, word: 'Supper', work: '3H6'},
+ , instances: 1, word: 'Support', work: '3H6'},
+ , instances: 1, word: 'Suppressed', work: '3H6'},
+ , instances: 1, word: 'Suppresseth', work: '3H6'},
+ , instances: 1, word: 'Surely', work: '3H6'},
+ , instances: 1, word: 'Surly', work: '3H6'},
+ , instances: 1, word: 'Surprised', work: '3H6'},
+ , instances: 1, word: 'Suspicious', work: '3H6'},
+ , instances: 1, word: 'Sustain', work: '3H6'},
+ , instances: 1, word: 'Swain', work: '3H6'},
+ , instances: 1, word: 'Swallowed', work: '3H6'},
+ , instances: 1, word: 'Swan', work: '3H6'},
+ , instances: 1, word: 'Swarm', work: '3H6'},
+ , instances: 1, word: 'Swayed', work: '3H6'},
+ , instances: 1, word: 'Swearing', work: '3H6'},
+ , instances: 1, word: 'Swears', work: '3H6'},
+ , instances: 1, word: 'Sweeps', work: '3H6'},
+ , instances: 1, word: 'Sweeter', work: '3H6'},
+ , instances: 1, word: 'Swell', work: '3H6'},
+ , instances: 1, word: 'Swelling', work: '3H6'},
+ , instances: 1, word: 'Swept', work: '3H6'},
+ , instances: 1, word: 'Swiftly', work: '3H6'},
+ , instances: 1, word: 'Swoon', work: '3H6'},
+ , instances: 1, word: 'Swore', work: '3H6'},
+ , instances: 1, word: 'Table', work: '3H6'},
+ , instances: 1, word: 'Tackles', work: '3H6'},
+ , instances: 1, word: 'Tacklings', work: '3H6'},
+ , instances: 1, word: 'Tainted', work: '3H6'},
+ , instances: 1, word: 'Tale', work: '3H6'},
+ , instances: 1, word: 'Talons', work: '3H6'},
+ , instances: 1, word: 'Tamed', work: '3H6'},
+ , instances: 1, word: 'Target', work: '3H6'},
+ , instances: 1, word: 'Ta\'en', work: '3H6'},
+ , instances: 1, word: 'Tearful', work: '3H6'},
+ , instances: 1, word: 'Tedious', work: '3H6'},
+ , instances: 1, word: 'Tell\'st', work: '3H6'},
+ , instances: 1, word: 'Temper', work: '3H6'},
+ , instances: 1, word: 'Temples', work: '3H6'},
+ , instances: 1, word: 'Tempted', work: '3H6'},
+ , instances: 1, word: 'Tend', work: '3H6'},
+ , instances: 1, word: 'Tents', work: '3H6'},
+ , instances: 1, word: 'Tewkesbury', work: '3H6'},
+ , instances: 1, word: 'Thereby', work: '3H6'},
+ , instances: 1, word: 'Thereon', work: '3H6'},
+ , instances: 1, word: 'Thick', work: '3H6'},
+ , instances: 1, word: 'Thick-grown', work: '3H6'},
+ , instances: 1, word: 'Thickest', work: '3H6'},
+ , instances: 1, word: 'Thicket', work: '3H6'},
+ , instances: 1, word: 'Thief', work: '3H6'},
+ , instances: 1, word: 'Thin', work: '3H6'},
+ , instances: 1, word: 'Third', work: '3H6'},
+ , instances: 1, word: 'Thirst', work: '3H6'},
+ , instances: 1, word: 'Thirsty', work: '3H6'},
+ , instances: 1, word: 'Thorn', work: '3H6'},
+ , instances: 1, word: 'Thracian', work: '3H6'},
+ , instances: 1, word: 'Threaten', work: '3H6'},
+ , instances: 1, word: 'Threescore', work: '3H6'},
+ , instances: 1, word: 'Thresher', work: '3H6'},
+ , instances: 1, word: 'Threshold', work: '3H6'},
+ , instances: 1, word: 'Thrice', work: '3H6'},
+ , instances: 1, word: 'Thrive', work: '3H6'},
+ , instances: 1, word: 'Throat', work: '3H6'},
+ , instances: 1, word: 'Throws', work: '3H6'},
+ , instances: 1, word: 'Thunders', work: '3H6'},
+ , instances: 1, word: 'Thwarting', work: '3H6'},
+ , instances: 1, word: 'Tied', work: '3H6'},
+ , instances: 1, word: 'Tiger', work: '3H6'},
+ , instances: 1, word: 'Tigers', work: '3H6'},
+ , instances: 1, word: 'Tiger\'s', work: '3H6'},
+ , instances: 1, word: 'Timeless', work: '3H6'},
+ , instances: 1, word: 'Timorous', work: '3H6'},
+ , instances: 1, word: 'Tire', work: '3H6'},
+ , instances: 1, word: 'Toads', work: '3H6'},
+ , instances: 1, word: 'Today', work: '3H6'},
+ , instances: 1, word: 'Toil', work: '3H6'},
+ , instances: 1, word: 'Toiling', work: '3H6'},
+ , instances: 1, word: 'Tomb', work: '3H6'},
+ , instances: 1, word: 'Tomorrow', work: '3H6'},
+ , instances: 1, word: 'Tongue-tied', work: '3H6'},
+ , instances: 1, word: 'Tooth', work: '3H6'},
+ , instances: 1, word: 'Topmast', work: '3H6'},
+ , instances: 1, word: 'Tops', work: '3H6'},
+ , instances: 1, word: 'Torments', work: '3H6'},
+ , instances: 1, word: 'Tortures', work: '3H6'},
+ , instances: 1, word: 'Tossed', work: '3H6'},
+ , instances: 1, word: 'Touched', work: '3H6'},
+ , instances: 1, word: 'Tough', work: '3H6'},
+ , instances: 1, word: 'Tragedy', work: '3H6'},
+ , instances: 1, word: 'Tragic', work: '3H6'},
+ , instances: 1, word: 'Treacherous', work: '3H6'},
+ , instances: 1, word: 'Treacherously', work: '3H6'},
+ , instances: 1, word: 'Treachery', work: '3H6'},
+ , instances: 1, word: 'Treasons', work: '3H6'},
+ , instances: 1, word: 'Trees', work: '3H6'},
+ , instances: 1, word: 'Tree\'s', work: '3H6'},
+ , instances: 1, word: 'Tremble', work: '3H6'},
+ , instances: 1, word: 'Trembles', work: '3H6'},
+ , instances: 1, word: 'Trespass', work: '3H6'},
+ , instances: 1, word: 'Trimmed', work: '3H6'},
+ , instances: 1, word: 'Triumphant', work: '3H6'},
+ , instances: 1, word: 'Trod', work: '3H6'},
+ , instances: 1, word: 'Troth', work: '3H6'},
+ , instances: 1, word: 'Troubled', work: '3H6'},
+ , instances: 1, word: 'Trowest', work: '3H6'},
+ , instances: 1, word: 'Troy\'s', work: '3H6'},
+ , instances: 1, word: 'True-anointed', work: '3H6'},
+ , instances: 1, word: 'True-hearted', work: '3H6'},
+ , instances: 1, word: 'Trull', work: '3H6'},
+ , instances: 1, word: 'Trumpet\'s', work: '3H6'},
+ , instances: 1, word: 'Trunk', work: '3H6'},
+ , instances: 1, word: 'Trusting', work: '3H6'},
+ , instances: 1, word: 'Trusty', work: '3H6'},
+ , instances: 1, word: 'Try', work: '3H6'},
+ , instances: 1, word: 'Tuae', work: '3H6'},
+ , instances: 1, word: 'Tugging', work: '3H6'},
+ , instances: 1, word: 'Tumbled', work: '3H6'},
+ , instances: 1, word: 'Tumult', work: '3H6'},
+ , instances: 1, word: 'Tumultuous', work: '3H6'},
+ , instances: 1, word: 'Tush', work: '3H6'},
+ , instances: 1, word: 'Tutor', work: '3H6'},
+ , instances: 1, word: 'Twain', work: '3H6'},
+ , instances: 1, word: 'Twice', work: '3H6'},
+ , instances: 1, word: 'Twitting', work: '3H6'},
+ , instances: 1, word: 'Type', work: '3H6'},
+ , instances: 1, word: 'Tyrants', work: '3H6'},
+ , instances: 1, word: 'Tyrant\'s', work: '3H6'},
+ , instances: 1, word: 'T\'', work: '3H6'},
+ , instances: 1, word: 'Unbid', work: '3H6'},
+ , instances: 1, word: 'Unchanging', work: '3H6'},
+ , instances: 1, word: 'Uncle', work: '3H6'},
+ , instances: 1, word: 'Unconstant', work: '3H6'},
+ , instances: 1, word: 'Unconstrained', work: '3H6'},
+ , instances: 1, word: 'Underneath', work: '3H6'},
+ , instances: 1, word: 'Understanding', work: '3H6'},
+ , instances: 1, word: 'Undo', work: '3H6'},
+ , instances: 1, word: 'Undone', work: '3H6'},
+ , instances: 1, word: 'Undoubted', work: '3H6'},
+ , instances: 1, word: 'Undutiful', work: '3H6'},
+ , instances: 1, word: 'Unequal', work: '3H6'},
+ , instances: 1, word: 'Unfit', work: '3H6'},
+ , instances: 1, word: 'Unfortunate', work: '3H6'},
+ , instances: 1, word: 'Ungentle', work: '3H6'},
+ , instances: 1, word: 'Unhoped', work: '3H6'},
+ , instances: 1, word: 'Unjust', work: '3H6'},
+ , instances: 1, word: 'Unlicked', work: '3H6'},
+ , instances: 1, word: 'Unlikely', work: '3H6'},
+ , instances: 1, word: 'Unload', work: '3H6'},
+ , instances: 1, word: 'Unloving', work: '3H6'},
+ , instances: 1, word: 'Unmanly', work: '3H6'},
+ , instances: 1, word: 'Unnaturally', work: '3H6'},
+ , instances: 1, word: 'Unpardonable', work: '3H6'},
+ , instances: 1, word: 'Unpeople', work: '3H6'},
+ , instances: 1, word: 'Unprovided', work: '3H6'},
+ , instances: 1, word: 'Unreasonable', work: '3H6'},
+ , instances: 1, word: 'Unrelenting', work: '3H6'},
+ , instances: 1, word: 'Unsavory', work: '3H6'},
+ , instances: 1, word: 'Unskillful', work: '3H6'},
+ , instances: 1, word: 'Unstaunchèd', work: '3H6'},
+ , instances: 1, word: 'Untutored', work: '3H6'},
+ , instances: 1, word: 'Unwares', work: '3H6'},
+ , instances: 1, word: 'Upright', work: '3H6'},
+ , instances: 1, word: 'Upward', work: '3H6'},
+ , instances: 1, word: 'Urge', work: '3H6'},
+ , instances: 1, word: 'Usage', work: '3H6'},
+ , instances: 1, word: 'Usest', work: '3H6'},
+ , instances: 1, word: 'Usual', work: '3H6'},
+ , instances: 1, word: 'Usurpers', work: '3H6'},
+ , instances: 1, word: 'Usurper\'s', work: '3H6'},
+ , instances: 1, word: 'Usurp\'st', work: '3H6'},
+ , instances: 1, word: 'Utter', work: '3H6'},
+ , instances: 1, word: 'Uttered', work: '3H6'},
+ , instances: 1, word: 'Valued', work: '3H6'},
+ , instances: 1, word: 'Vapors', work: '3H6'},
+ , instances: 1, word: 'Vault', work: '3H6'},
+ , instances: 1, word: 'Veil', work: '3H6'},
+ , instances: 1, word: 'Veins', work: '3H6'},
+ , instances: 1, word: 'Venge', work: '3H6'},
+ , instances: 1, word: 'Venom', work: '3H6'},
+ , instances: 1, word: 'Vere', work: '3H6'},
+ , instances: 1, word: 'Verified', work: '3H6'},
+ , instances: 1, word: 'Vex', work: '3H6'},
+ , instances: 1, word: 'Via', work: '3H6'},
+ , instances: 1, word: 'Viands', work: '3H6'},
+ , instances: 1, word: 'Victor', work: '3H6'},
+ , instances: 1, word: 'Victorious', work: '3H6'},
+ , instances: 1, word: 'Viewed', work: '3H6'},
+ , instances: 1, word: 'Villain', work: '3H6'},
+ , instances: 1, word: 'Villains', work: '3H6'},
+ , instances: 1, word: 'Virtue\'s', work: '3H6'},
+ , instances: 1, word: 'Vizard-like', work: '3H6'},
+ , instances: 1, word: 'Voice', work: '3H6'},
+ , instances: 1, word: 'Void', work: '3H6'},
+ , instances: 1, word: 'Vows', work: '3H6'},
+ , instances: 1, word: 'Vowèd', work: '3H6'},
+ , instances: 1, word: 'Wail', work: '3H6'},
+ , instances: 1, word: 'Wailing', work: '3H6'},
+ , instances: 1, word: 'Waiteth', work: '3H6'},
+ , instances: 1, word: 'Waits', work: '3H6'},
+ , instances: 1, word: 'Wakefield', work: '3H6'},
+ , instances: 1, word: 'Waken', work: '3H6'},
+ , instances: 1, word: 'Walls', work: '3H6'},
+ , instances: 1, word: 'Wanting', work: '3H6'},
+ , instances: 1, word: 'Wanèd', work: '3H6'},
+ , instances: 1, word: 'Warm', work: '3H6'},
+ , instances: 1, word: 'Warrant', work: '3H6'},
+ , instances: 1, word: 'Warwickshire', work: '3H6'},
+ , instances: 1, word: 'Wasted', work: '3H6'},
+ , instances: 1, word: 'Water-flowing', work: '3H6'},
+ , instances: 1, word: 'Water-standing', work: '3H6'},
+ , instances: 1, word: 'Wave', work: '3H6'},
+ , instances: 1, word: 'Weakling', work: '3H6'},
+ , instances: 1, word: 'Weakness', work: '3H6'},
+ , instances: 1, word: 'Wealth', work: '3H6'},
+ , instances: 1, word: 'Wealthy', work: '3H6'},
+ , instances: 1, word: 'Wean', work: '3H6'},
+ , instances: 1, word: 'Weapons', work: '3H6'},
+ , instances: 1, word: 'Wears', work: '3H6'},
+ , instances: 1, word: 'Weary', work: '3H6'},
+ , instances: 1, word: 'Wedlock', work: '3H6'},
+ , instances: 1, word: 'Weeks', work: '3H6'},
+ , instances: 1, word: 'Weeping', work: '3H6'},
+ , instances: 1, word: 'Welfare', work: '3H6'},
+ , instances: 1, word: 'Well-chosen', work: '3H6'},
+ , instances: 1, word: 'Well-meant', work: '3H6'},
+ , instances: 1, word: 'Well-minded', work: '3H6'},
+ , instances: 1, word: 'Welshmen', work: '3H6'},
+ , instances: 1, word: 'Went\'st', work: '3H6'},
+ , instances: 1, word: 'Wept', work: '3H6'},
+ , instances: 1, word: 'Western', work: '3H6'},
+ , instances: 1, word: 'Wet', work: '3H6'},
+ , instances: 1, word: 'Wheel', work: '3H6'},
+ , instances: 1, word: 'Whereat', work: '3H6'},
+ , instances: 1, word: 'Whereby', work: '3H6'},
+ , instances: 1, word: 'Wherewith', work: '3H6'},
+ , instances: 1, word: 'Where\'er', work: '3H6'},
+ , instances: 1, word: 'Whet', work: '3H6'},
+ , instances: 1, word: 'Whip', work: '3H6'},
+ , instances: 1, word: 'Whisper', work: '3H6'},
+ , instances: 1, word: 'Whoever', work: '3H6'},
+ , instances: 1, word: 'Whosoe\'er', work: '3H6'},
+ , instances: 1, word: 'Who\'s', work: '3H6'},
+ , instances: 1, word: 'Widows', work: '3H6'},
+ , instances: 1, word: 'Wield', work: '3H6'},
+ , instances: 1, word: 'Wife\'s', work: '3H6'},
+ , instances: 1, word: 'Willful', work: '3H6'},
+ , instances: 1, word: 'William', work: '3H6'},
+ , instances: 1, word: 'Willing', work: '3H6'},
+ , instances: 1, word: 'Willingness', work: '3H6'},
+ , instances: 1, word: 'Wiltshire\'s', work: '3H6'},
+ , instances: 1, word: 'Wind-changing', work: '3H6'},
+ , instances: 1, word: 'Windy', work: '3H6'},
+ , instances: 1, word: 'Wing', work: '3H6'},
+ , instances: 1, word: 'Wingèd', work: '3H6'},
+ , instances: 1, word: 'Wins', work: '3H6'},
+ , instances: 1, word: 'Wishful', work: '3H6'},
+ , instances: 1, word: 'Wishing', work: '3H6'},
+ , instances: 1, word: 'Wisp', work: '3H6'},
+ , instances: 1, word: 'Withdrawn', work: '3H6'},
+ , instances: 1, word: 'Withered', work: '3H6'},
+ , instances: 1, word: 'Withhold', work: '3H6'},
+ , instances: 1, word: 'Withstand', work: '3H6'},
+ , instances: 1, word: 'Wittingly', work: '3H6'},
+ , instances: 1, word: 'Witty', work: '3H6'},
+ , instances: 1, word: 'Wives', work: '3H6'},
+ , instances: 1, word: 'Wonted', work: '3H6'},
+ , instances: 1, word: 'Woodcock', work: '3H6'},
+ , instances: 1, word: 'Wooer', work: '3H6'},
+ , instances: 1, word: 'Word\'s', work: '3H6'},
+ , instances: 1, word: 'Work', work: '3H6'},
+ , instances: 1, word: 'Worm', work: '3H6'},
+ , instances: 1, word: 'Worn', work: '3H6'},
+ , instances: 1, word: 'Worship', work: '3H6'},
+ , instances: 1, word: 'Worthless', work: '3H6'},
+ , instances: 1, word: 'Would\'st', work: '3H6'},
+ , instances: 1, word: 'Wounded', work: '3H6'},
+ , instances: 1, word: 'Wrangling', work: '3H6'},
+ , instances: 1, word: 'Wrap', work: '3H6'},
+ , instances: 1, word: 'Wrapped', work: '3H6'},
+ , instances: 1, word: 'Wreaths', work: '3H6'},
+ , instances: 1, word: 'Wring', work: '3H6'},
+ , instances: 1, word: 'Wrinkles', work: '3H6'},
+ , instances: 1, word: 'Wronged', work: '3H6'},
+ , instances: 1, word: 'Wrong\'st', work: '3H6'},
+ , instances: 1, word: 'Wrought', work: '3H6'},
+ , instances: 1, word: 'Wrung', work: '3H6'},
+ , instances: 1, word: 'Yeoman', work: '3H6'},
+ , instances: 1, word: 'Yielding', work: '3H6'},
+ , instances: 1, word: 'Yields', work: '3H6'},
+ , instances: 1, word: 'Yonder\'s', work: '3H6'},
+ , instances: 1, word: 'Younger', work: '3H6'},
+ , instances: 1, word: 'Youngest', work: '3H6'},
+ , instances: 1, word: 'Young\'s', work: '3H6'},
+ , instances: 1, word: 'Younker', work: '3H6'},
+ , instances: 1, word: 'Yourselves', work: '3H6'},
+ , instances: 1, word: 'Youthful', work: '3H6'},
+ , instances: 1, word: 'You\'d', work: '3H6'},
+ , instances: 1, word: 'Zeal', work: '3H6'},
+ , instances: 1, word: '\'witch', work: '3H6'},
