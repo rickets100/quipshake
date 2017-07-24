@@ -3,6 +3,7 @@
 @import 'mixins';
 @import url('https://fonts.googleapis.com/css?family=Raleway:400,700');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=MedievalSharp');
 
 // variables
 $recurring-black: rgba(36, 32, 56, 1);
@@ -31,11 +32,25 @@ html, body{
 }
 
 .navvy {
+  background-color: rgba(0,0,0,.35);
+  padding: 15px;
+  position: relative;
+
+  .score {
+    color: white;
+    font-size: 16px;
+    color: white;
+    font-size: 16px;
+    display: block;
+    padding: 0.5em 1em;
+  }
   .nav-item {
+
     .nav-link {
-      color: $recurring-coral;
+      color: white;
       font-size: 16px;
     }
+
     .nav-link:active {
       color: $recurring-grey-blue;
     }
@@ -205,11 +220,11 @@ html, body{
       }
 
       &.is-correct-true{
-        color:green;
+        color:$recurring-green;
       }
 
       &.is-correct-false{
-        color:red;
+        color:$testing-red;
       }
     }
 
@@ -270,22 +285,24 @@ html, body{
       text-align: center;
     }
 
-    button {
-      background-color: $recurring-grey-blue ;
-      border: 0;
-      border-radius: 10px;
-      color: white;
-      font-weight: bold;
-      font-size: 24px;
-      padding: 10px 20px;
-      width: 100%;
-      margin-top: 20px;
 
-      &:focus {
-        outline: 0;
-      }
-    }
   } // .answer
+
+  button {
+    background-color: $recurring-grey-blue ;
+    border: 0;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+    padding: 10px 20px;
+    width: 100%;
+    margin-top: 20px;
+
+    &:focus {
+      outline: 0;
+    }
+  }
 
   .testing {
     padding-top: 50px;
@@ -302,14 +319,28 @@ html, body{
   .page {
     .question {
       font-size: 35px;
+      padding-top: 25px;
+      &:before {
+        @include medieval-text-regular;
+        content: "Q:";
+        display: inline-block;
+        font-size: 80px;
+        float: left;
+        margin-top: -10px;
+        padding-right: 20px;
+
+
+      }
     }
     .answer {
       overflow: auto;
 
-      button {
-        width: auto;
-        float: right;
-      }
+
+    }
+
+    button {
+      width: auto;
+      float: right;
     }
   }
 } // @include

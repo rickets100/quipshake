@@ -44,7 +44,7 @@ class Game {
   }
 
   static getNRandomCharacters(workIdno, number, toBeExcluded = []) {
-    return db('all_people').select('*').where('origin', workIdno).andWhere('lines', '>', 50).orderByRaw('RANDOM()').limit(number)
+    return db('all_people').select('*').where('origin', workIdno).andWhere('lines', '>', 260).orderByRaw('RANDOM()').limit(number)
 
     // return db('all_people').select('*').where('origin', workIdno)
     // .orderByRaw('RANDOM()').limit(number)

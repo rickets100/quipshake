@@ -1,3 +1,6 @@
+<div class="splash-hero" style="opacity:.5;">
+</div>
+
 <div >
   <div class="navvy">
   <!-- ===== NAVBAR ===== -->
@@ -18,18 +21,19 @@
       <a href="" ng-click="$ctrl.testQuestion('word-frequency')" class="nav-link">word-frequency</a>
     </li>
     <li class="nav-item">
-      <p>SCORE: {{$ctrl.score}}</p>
+      <span class="score">SCORE: {{$ctrl.score}}</span>
     </li>
   </ul>
 </div> <!-- navvy -->
 
 
   <!-- ===== MAIN PORTION ===== -->
+
   <div>
     <div class="container page">
       <div class="row">
         <div class="col-12 question">
-          Q: {{$ctrl.question}}
+         {{$ctrl.question}}
         </div> <!-- end column -->
       </div> <!-- end row -->
 
@@ -38,8 +42,8 @@
           <div>
             <img ng-hide=!$ctrl.showImage src="{{$ctrl.graphic}}">
           </div>
-          <div class="preformatted-quote-text">
-            <p ng-hide=!$ctrl.showQuoteBody>{{$ctrl.quoteBody}}
+          <div class="preformatted-quote-text" ng-hide="!$ctrl.showQuoteBody">
+            <p >{{$ctrl.quoteBody}}
             </div>
             <div>
             </div>
@@ -67,11 +71,15 @@
             <div class="feedback">
               <strong>{{$ctrl.exclamation}} </strong> {{$ctrl.elaboration}}
             </div>
-            <!-- <button ui-sref="$ctrl.currentState({'hey there'})" class="btn-next">Test</button> -->
-            <button ng-click="$ctrl.updateGameState()">NEXT</button class="btn-next">
           </div>
         </div> <!-- end column graphic-->
       </div> <!-- end row -->
+      <div class="row">
+        <div class="col-sm-12">
+          <!-- <button ui-sref="$ctrl.currentState({'hey there'})" class="btn-next">Test</button> -->
+          <button ng-click="$ctrl.updateGameState()">NEXT</button class="btn-next">
+        </div>
+      </div>
     </div> <!-- end container -->
 
     <div class="testing">

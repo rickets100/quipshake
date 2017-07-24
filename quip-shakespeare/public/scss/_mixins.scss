@@ -51,7 +51,6 @@
   font-weight: regular;
 }
 
-
 @mixin header-text-bold {
   font-family: 'Raleway', sans-serif;
   font-weight: bold;
@@ -60,4 +59,14 @@
 @mixin body-text-bold {
   font-family: 'Open Sans', sans-serif;
   font-weight: bold;
+}
+
+@mixin medieval-text-regular {
+font-family: 'MedievalSharp', cursive;
+font-weight: regular;
+}
+
+@mixin medieval-text-bold {
+font-family: 'MedievalSharp', cursive;
+font-weight: bold;
 }

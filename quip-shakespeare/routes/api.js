@@ -119,6 +119,7 @@ router.get('/character-weight', function(req, res, next) {
       let id = work[0].id
       let idno = work[0].idno
       let num = 4 // hardcoded for now
+
       gameController.getNCharacters(idno, num, excludeList)
         .then(function(characters) {
           let shuffled = util.shuffle(characters)
@@ -169,6 +170,7 @@ router.get('/character-origin', function(req, res, next) {
     let correctWorkIdno = correctOption[0].idno
     let correctWorkTitle = correctOption[0].title
     let numOptions = 3 // hardcoded for now
+
     gameController.getNCharacters(correctWorkIdno, 1, excludeList)
       .then(function(character) {
       gameController.test3RandomWorks(correctWorkIdno, character[0], excludeList).then(function(wrongOptions) {
