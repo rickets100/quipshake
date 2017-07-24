@@ -5,6 +5,8 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css */
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,700");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700");
 /* line 13, ../scss/vendor/bootstrap/_normalize.scss */
 html {
   font-family: sans-serif;
@@ -10327,28 +10329,30 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
-/* line 20, ../scss/main.scss */
+/* line 22, ../scss/main.scss */
 body {
   background-color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: regular;
 }
 
-/* line 25, ../scss/main.scss */
+/* line 28, ../scss/main.scss */
 html, body {
   padding: 0;
   margin: 0;
 }
 
-/* line 32, ../scss/main.scss */
+/* line 35, ../scss/main.scss */
 .navvy .nav-item .nav-link {
   color: #e06152;
   font-size: 16px;
 }
-/* line 36, ../scss/main.scss */
+/* line 39, ../scss/main.scss */
 .navvy .nav-item .nav-link:active {
   color: #4D6172;
 }
 
-/* line 44, ../scss/main.scss */
+/* line 47, ../scss/main.scss */
 .splash-hero {
   background-size: cover;
   background-image: url("../images/ophelia.jpg");
@@ -10359,47 +10363,67 @@ html, body {
   background-position: top center;
   position: absolute;
 }
-/* line 54, ../scss/main.scss */
+/* line 57, ../scss/main.scss */
 .splash-hero .hero-meat {
   position: absolute;
   top: 50%;
   color: white;
-  transform: translateY(-80%);
+  transform: translateY(-45%);
   right: 0;
   left: 0;
   text-align: center;
+  padding: 50px;
+  background-color: rgba(0, 0, 0, 0.35);
 }
-/* line 55, ../scss/main.scss */
+/* line 69, ../scss/main.scss */
 .splash-hero .hero-meat h1 {
   font-family: 'Raleway', sans-serif;
-  font-size: 800;
-  font-weight: 600;
+  font-weight: regular;
+  font-size: 60px;
   line-height: 125%;
-}
-/* line 62, ../scss/main.scss */
-.splash-hero .hero-meat h2 {
-  font-family: 'Raleway', sans-serif;
-  font-size: 400;
-  font-weight: 400;
-  line-height: 125%;
-}
-/* line 72, ../scss/main.scss */
-.splash-hero .hero-meat .btn-hero {
-  color: #e06152 !important;
+  text-shadow: 1px 0px 6px black;
 }
 /* line 76, ../scss/main.scss */
+.splash-hero .hero-meat h2 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 125%;
+  padding-top: 46px;
+  padding-bottom: 60px;
+  text-shadow: 1px 0px 6px black;
+}
+/* line 89, ../scss/main.scss */
+.splash-hero .hero-meat .btn-hero {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  background-color: #e06152;
+  display: inline-block;
+  padding: 10px 30px;
+  border-radius: 13px;
+  color: white;
+  text-transform: uppercase;
+  background-color: rgba(224, 97, 82, 0.75);
+  transition: background-color .25s;
+}
+/* line 101, ../scss/main.scss */
+.splash-hero .hero-meat .btn-hero:hover {
+  text-decoration: none;
+  background-color: #e06152;
+}
+/* line 107, ../scss/main.scss */
 .splash-hero .hero-meat .btn-hero:active {
   color: rgba(88, 132, 149, 0.8) !important;
 }
 
 @media only screen and (min-width: 992px) {
-  /* line 94, ../scss/main.scss */
+  /* line 118, ../scss/main.scss */
   body {
     background-color: white;
     color: #242038;
   }
 }
-/* line 99, ../scss/main.scss */
+/* line 123, ../scss/main.scss */
 .incorrect {
   color: white;
   background-color: red;
@@ -10407,7 +10431,7 @@ html, body {
   font-family: Verdana;
 }
 
-/* line 106, ../scss/main.scss */
+/* line 130, ../scss/main.scss */
 .iscorrect {
   color: white;
   background-color: lightblue;
@@ -10415,7 +10439,7 @@ html, body {
   font-family: "Courier New";
 }
 
-/* line 113, ../scss/main.scss */
+/* line 137, ../scss/main.scss */
 .picked {
   color: white;
   background-color: red;
@@ -10423,7 +10447,7 @@ html, body {
   font-family: Verdana;
 }
 
-/* line 120, ../scss/main.scss */
+/* line 144, ../scss/main.scss */
 .not-picked {
   color: white;
   background-color: lightblue;
@@ -10431,80 +10455,117 @@ html, body {
   font-family: "Courier New";
 }
 
-/* line 127, ../scss/main.scss */
+/* line 151, ../scss/main.scss */
 .page .options, .page .answer {
   border: 1px solid rgba(20, 20, 20, 0.75);
   padding: 10px;
   margin-bottom: 15px;
 }
 
-/* line 132, ../scss/main.scss */
+/* line 156, ../scss/main.scss */
 .page {
   max-width: 900px;
 }
-/* line 134, ../scss/main.scss */
+/* line 159, ../scss/main.scss */
 .page .question {
+  font-family: 'Raleway', sans-serif;
+  font-weight: regular;
   font-size: 24px;
   min-height: 150px;
 }
-/* line 137, ../scss/main.scss */
+/* line 165, ../scss/main.scss */
 .page .question a {
   color: white;
 }
-/* line 142, ../scss/main.scss */
+/* line 171, ../scss/main.scss */
 .page .graphic img {
   max-width: 100%;
 }
-/* line 145, ../scss/main.scss */
+/* line 174, ../scss/main.scss */
 .page .graphic .preformatted-quote-text {
   white-space: pre;
 }
-/* line 151, ../scss/main.scss */
+/* line 181, ../scss/main.scss */
+.page .options input[type='radio'] {
+  display: none;
+}
+/* line 186, ../scss/main.scss */
+.page .options input[type='radio'] + label:before {
+  content: "";
+  display: inline-block;
+  border: 1px solid black;
+  border-radius: 10px;
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+}
+/* line 197, ../scss/main.scss */
+.page .options input[type='radio']:checked + label {
+  font-weight: bold;
+}
+/* line 199, ../scss/main.scss */
+.page .options input[type='radio']:checked + label:before {
+  background-color: #cccccc;
+}
+/* line 202, ../scss/main.scss */
+.page .options input[type='radio']:checked + label:after {
+  content: "X";
+  display: inline-block;
+}
+/* line 207, ../scss/main.scss */
+.page .options input[type='radio']:checked + label.is-correct-true {
+  color: green;
+}
+/* line 211, ../scss/main.scss */
+.page .options input[type='radio']:checked + label.is-correct-false {
+  color: red;
+}
+/* line 216, ../scss/main.scss */
 .page .options .radio {
   font-size: 20px;
 }
-/* line 154, ../scss/main.scss */
+/* line 219, ../scss/main.scss */
 .page .options .radio .answered {
   color: rgba(88, 132, 149, 0.8);
 }
-/* line 158, ../scss/main.scss */
+/* line 223, ../scss/main.scss */
 .page .options .radio .unanswered {
   color: rgba(20, 20, 20, 0.75);
 }
-/* line 164, ../scss/main.scss */
+/* line 229, ../scss/main.scss */
 .page .options .radio span .x-marker {
   color: rgba(194, 51, 8, 0.9);
 }
-/* line 173, ../scss/main.scss */
+/* line 238, ../scss/main.scss */
 .page .options ul li {
   font-size: 25px;
 }
-/* line 176, ../scss/main.scss */
+/* line 241, ../scss/main.scss */
 .page .options ul li .answered {
   color: rgba(88, 132, 149, 0.8);
 }
-/* line 180, ../scss/main.scss */
+/* line 245, ../scss/main.scss */
 .page .options ul li .unanswered {
   color: rgba(20, 20, 20, 0.75);
 }
-/* line 184, ../scss/main.scss */
+/* line 249, ../scss/main.scss */
 .page .options ul li .selected-class-name {
   color: red !important;
 }
-/* line 189, ../scss/main.scss */
+/* line 254, ../scss/main.scss */
 .page .options ul li span .x-marker {
   color: rgba(194, 51, 8, 0.9);
 }
-/* line 199, ../scss/main.scss */
+/* line 264, ../scss/main.scss */
 .page .answer {
   font-size: 25px;
   margin-bottom: 0px;
 }
-/* line 204, ../scss/main.scss */
+/* line 269, ../scss/main.scss */
 .page .answer .feedback {
   text-align: center;
 }
-/* line 208, ../scss/main.scss */
+/* line 273, ../scss/main.scss */
 .page .answer button {
   background-color: #4D6172;
   border: 0;
@@ -10516,30 +10577,30 @@ html, body {
   width: 100%;
   margin-top: 20px;
 }
-/* line 219, ../scss/main.scss */
+/* line 284, ../scss/main.scss */
 .page .answer button:focus {
   outline: 0;
 }
-/* line 225, ../scss/main.scss */
+/* line 290, ../scss/main.scss */
 .page .testing {
   padding-top: 50px;
   margin-top: 100px;
 }
-/* line 228, ../scss/main.scss */
+/* line 293, ../scss/main.scss */
 .page .testing h3 {
   color: rgba(202, 196, 206, 0.8);
 }
 
 @media only screen and (min-width: 576px) {
-  /* line 238, ../scss/main.scss */
+  /* line 303, ../scss/main.scss */
   .page .question {
     font-size: 35px;
   }
-  /* line 241, ../scss/main.scss */
+  /* line 306, ../scss/main.scss */
   .page .answer {
     overflow: auto;
   }
-  /* line 244, ../scss/main.scss */
+  /* line 309, ../scss/main.scss */
   .page .answer button {
     width: auto;
     float: right;

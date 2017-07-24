@@ -23,11 +23,11 @@
     })
 
     .state({
-      name: 'goQuestion', url: '/game/question', component: 'gameIndex'
+      name: 'goToQuestion', url: '/game/question', component: 'gameIndex'
     })
 
     .state({
-      name: 'goAnswer', url: '/game/answer', component: 'gameIndex'
+      name: 'goToAnswer', url: '/game/answer', component: 'gameIndex'
     })
 
   } // config

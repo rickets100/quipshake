@@ -45,6 +45,12 @@
       // console.log('===== start game =====')
     }
 
+    // ===== GO TO QUESTION =====
+    vm.goToQuestion = function(info) {
+      console.log('game.index.js - goToQuestion')
+      console.log('info is ', info);
+      $state.go('goToQuestion', info)
+    }
 
     // ===== POPULATE A GIVEN QUESTION =====
     function populateQuestion(questionConstraints) {
@@ -69,7 +75,7 @@
     // ===== UPDATE GAME STATE =====
     vm.updateGameState = function (currentState) {
       console.log('in the update game-state function, currentState is ', currentState)
-      
+
       vm.testRandomQuestion()
     }
 

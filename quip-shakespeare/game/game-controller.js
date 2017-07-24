@@ -62,7 +62,6 @@ function getOneWork() {
 
 // ===== GET N RANDOM WORKS  ✅ ===
 function getNRandomWorks(num, toBeExcluded = []) {
-  console.log('yyyyyyyyyyyyyy');
   return game.getNRandomWorks('works', num, toBeExcluded)
 }
 
@@ -83,8 +82,6 @@ function test3RandomWorks(correctWorkIdno, character, toBeExcluded = []) {
 
 // ===== GET A RANDOM CHARACTER FROM A GIVEN WORK  ✅ =====
 function getNCharacters(workIdno, num, toBeExcluded = []) {
-  console.log('CONTROLLER-GETNCHARACTERS: workIdno is ', workIdno)
-  console.log('CONTROLLER-GETNCHARACTERS: toBeExcluded is ', toBeExcluded)
   return game.getNRandomCharacters(workIdno, num, toBeExcluded)
 }
 
@@ -95,9 +92,8 @@ function getNWorksConcord(num, includeList) {
 }
 
 
-// ===== GET N RANDOM WORDS FROM A GIVEN WORK ⭕️ =====
+// ===== GET N RANDOM WORDS FROM A GIVEN WORK ✅ =====
 function getNWords(workIdno, num) {
-  console.log('CONTROLLER-GETNWORDS:  workIdno is ', workIdno)
   return game.getNRandomWords(workIdno, num)
 }
 
@@ -192,8 +188,6 @@ function newGetSpeech(doc, count) {
     }
   node = result.iterateNext()
 }
-console.log('MODEL: newGetSpeech...speech is ', speech)
-console.log('MODEL: newGetSpeech...length of speech is ', wordCount)
 return speech
 }
 
@@ -203,8 +197,6 @@ function getRandomSpeech (doc) {
   let speechCount = getSpeechCount(doc)
   let count = random(speechCount)
   let randomSpeech = newGetSpeech(doc, count)
-  console.log('MODEL: getRandomSpeech...speechCount is ', speechCount)
-  console.log('MODEL: getRandomSpeech...count is ', count, '\n')
   return randomSpeech
 }
 

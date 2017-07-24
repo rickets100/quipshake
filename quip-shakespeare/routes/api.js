@@ -154,8 +154,8 @@ router.get('/character-weight', function(req, res, next) {
             ]
           } // data
           res.send(data)
-      }) // .then of getNRandomCharacters
-    }) // .then of getNRandomWorks
+      })
+    })
   }) // function router.get
 
 
@@ -244,14 +244,15 @@ router.get('/quote-origin', function(req, res, next) {
           ]
         } // data
       res.send (data)
-    }) // .then of get3RandomWorks
-  }) // .then of getNRandomWorks
+    })
+  })
 }) // QUOTE-ORIGIN
 
 
 // ===== CONCORDANCE (WORD FREQUENCY) =====
 router.get ('/word-frequency', function(req, res, next) {
-  // need a query to the 'most common words' table/object to know which results to reject and retry
+  // TODO: a query to the 'most common words' table/object to know which results to reject and retry
+
   let concordance = ['1H4', '1H6', '2H4', '2H6', 'AWW']
   let superset = 40
 
@@ -261,13 +262,9 @@ router.get ('/word-frequency', function(req, res, next) {
       let title = work[0].title
       gameController.getNWords(selectedWork, superset).then(function(wordOptions) {
         let choices = util.buildConcordOptions(wordOptions, 4)
-        console.log('choices: \n', choices)
         let shuffled = util.shuffle(choices)
-        console.log('shuffled: \n', shuffled)
         let inOrder = (util.sortArrayByKey(choices, 'instances')).reverse()
-        console.log('inOrder: \n', inOrder)
         let first = inOrder[0]
-        console.log('first: ', first)
 
         let data = {
           imageUpdate: false,
@@ -293,8 +290,8 @@ router.get ('/word-frequency', function(req, res, next) {
           ]
         } // data
         res.send(data)
-      }) // .then of getNRandomWords
-    }) // getNWorksConcord
+      })
+    })
 }) // CONCORDANCE (WORD FREQUENCY)
 
 module.exports = router

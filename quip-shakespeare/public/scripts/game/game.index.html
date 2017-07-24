@@ -48,11 +48,18 @@
           <div class="col-12 col-sm-6 options-answers">
             <div class="options">
               <div ng-repeat="option in $ctrl.options track by $index" class="radio">
-                <label><input
-                  ng-click="$ctrl.updateAnswer(option.isCorrect, option.label, true, $index)" ng-model="checked"
-                  ng-init="checked=false"
-                  type="checkbox"
-                  name="optradio"> {{option.label}} <span ng-if="checked && !option.isCorrect == true" class="animate-if"> X </span></label>
+
+                <input id="answer_{{$index}}"
+                ng-change="$ctrl.updateAnswer(option.isCorrect, option.label, true, $index)" ng-model="checked"
+                ng-init="checked=false"
+                type="radio"
+                name="optradio"
+                >
+                <label for="answer_{{$index}}" class="is-correct-{{option.isCorrect}}">
+                   {{option.label}}
+                  <span ng-if="checked && !option.isCorrect == true" class="animate-if">  </span>
+                </label>
+
                 </div> <!-- answer-options -->
               </div> <!-- options -->
 
@@ -60,7 +67,7 @@
             <div class="feedback">
               <strong>{{$ctrl.exclamation}} </strong> {{$ctrl.elaboration}}
             </div>
-            <!-- <button ui-sref="$ctrl.currentState({id: post.id})" class="btn-next">Test</button> -->
+            <!-- <button ui-sref="$ctrl.currentState({'hey there'})" class="btn-next">Test</button> -->
             <button ng-click="$ctrl.updateGameState()">NEXT</button class="btn-next">
           </div>
         </div> <!-- end column graphic-->

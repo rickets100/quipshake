@@ -39,3 +39,25 @@
     @content;
   }
 }
+
+// my own mixins
+@mixin header-text-regular {
+  font-family: 'Raleway', sans-serif;
+  font-weight: regular;
+}
+
+@mixin body-text-regular {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: regular;
+}
+
+
+@mixin header-text-bold {
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+}
+
+@mixin body-text-bold {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+}

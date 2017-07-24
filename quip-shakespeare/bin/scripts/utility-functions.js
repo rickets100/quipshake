@@ -80,26 +80,26 @@ function sortArrayByKey(objArray, val) {
   return arrKeys.sort(function(a,b) { return a - b })
 }
 
-// ===== ASSESS WHETHER A STRING HAS A CAPITAL LETTER AT INDEX 1 ======
+// ===== ASSESS WHETHER A STRING HAS A CAPITAL LETTER AT INDEX 1 ✅ ======
 function rejectCharacter(character) {
   console.log('assessing character name', ((character.charCodeAt(1) > 65) && (character.charCodeAt(1) < 90)))
   return ((character.charCodeAt(1) > 65) && (character.charCodeAt(1) < 90))
 }
 
-// ===== BUILD N-LENGTH ARRAY OF CONCORDANCE OPTIONS
+
+// ===== BUILD N-LENGTH ARRAY OF CONCORDANCE OPTIONS ✅ =====
 function buildConcordOptions(objArray, num) {
   let length = objArray.length
   let trackingObject = {}
-  let finalArray = []
 
   for (let index=0; index<length; index++) {
     if (!(trackingObject[`instances${objArray[index].instances}`])) {
       trackingObject[`instances${objArray[index].instances}`] = objArray[index]
     }
   }
-  finalArray = Object.values(trackingObject).slice(0,num)
-  return finalArray
+  return Object.values(trackingObject).slice(0,num)
 } // buildConcordOptions
+
 
 module.exports = {
   randomNum,
