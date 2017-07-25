@@ -22,13 +22,5 @@
       name: 'home', url: '/', redirectTo: 'landingIndex'
     })
 
-    .state({
-      name: 'goToQuestion', url: '/game/question', component: 'gameIndex'
-    })
-
-    .state({
-      name: 'goToAnswer', url: '/game/answer', component: 'gameIndex'
-    })
-
   } // config
 }())

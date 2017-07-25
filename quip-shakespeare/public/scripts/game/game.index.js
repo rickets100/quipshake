@@ -1,6 +1,5 @@
 
 (function(){
-  console.log('GAME.INDEX.JS')
   angular.module('app')
   .component('gameIndex', {
     controller: controller,
@@ -16,7 +15,7 @@
     vm.answered = false
 
     vm.score = 0
-    vm.totalAsked = -1
+    vm.totalAsked = 0
     vm.question = ''
 
     vm.graphic = "/images/shakespeare-bw.png"
@@ -35,14 +34,6 @@
     // ===== INIT =====
     vm.$onInit = function () {
       vm.updateToQuestion()
-    }
-
-
-    // ===== GO TO QUESTION =====
-    vm.goToQuestion = function(info) {
-      console.log('game.index.js - goToQuestion')
-      console.log('info is ', info);
-      $state.go('goToQuestion', info)
     }
 
 
@@ -67,10 +58,13 @@
 
     // ===== UPDATE TO NEW QUESTION =====
     vm.updateToQuestion = function () {
+      // vm.totalAsked = vm.totalAsked + 1
+
       console.log('in updateToQuestion')
         $("#answers input[type='radio']").prop('checked', false)
         $("#answers input[type='radio']").prop('disabled', false)
-        vm.totalAsked = vm.totalAsked + 1
+        // TODO is there a way to do the above, but add-in the requirement that the inputs of type radio also have a class property of "x" in order to have something apply, like: $("#answers input[type='radio'][prop('x')]").prop('disabled', false)
+
         vm.exclamation = ''
         vm.elaboration = ''
         vm.getRandomQuestion()
@@ -78,12 +72,22 @@
 
 
     // ===== UPDATE TO ANSWER =====
-    vm.updateToAnswer = function (isCorrect, label, isChosen, $index) {
-      console.log('in the updateToAnswer function, label is ', label)
+    vm.updateToAnswer = function (isCorrect, label, isChosen, $index, options) {
+
+      console.log('updateToAnswer: vm.');
+      let rightAnswer = ''
+      vm.options.forEach(function(option) {
+        if (option.isCorrect === true) {
+          rightAnswer = option.label
+        }
+      })
+
       vm.answered = true
-      $("#answers input[type='radio']").prop('disabled', true)
-      vm.updateReveal(isCorrect, label)
+      console.log('updateToAnswer: before heading off to updateReveal, rightAnswer is: ', rightAnswer)
+      vm.updateReveal(isCorrect, label, rightAnswer)
       vm.updateScore(isCorrect)
+      $("#answers input[type='radio']").prop('disabled', true)
+
     }
 
 
@@ -133,14 +137,16 @@
 
 
     // ===== UPDATE REVEAL =====
-    vm.updateReveal = function (isCorrect, label) {
+    vm.updateReveal = function (isCorrect, label, rightAnswer) {
+      console.log('In updateReveal, right answer is coming in as ', rightAnswer);
       if (isCorrect === true) {
         vm.exclamation = 'SCORE!'
         vm.elaboration = 'You just earned a point!'
       } else if (isCorrect === false) {
         vm.exclamation = 'NOPE.'
-        vm.elaboration = 'The correct answer was something else.'
+        vm.elaboration = `The correct answer was ${rightAnswer}.`
       } else {
+        console.log('WHY AM I HERE????');
         vm.exclamation = ''
         vm.elaboration = ''
       }
@@ -149,9 +155,12 @@
 
     // ===== UPDATE SCORE =====
     vm.updateScore = function (isCorrect) {
+      console.log('in updateScore isCorrect is: ', isCorrect);
       if (isCorrect === true) {
         vm.score = vm.score + 1
     }
+    vm.totalAsked = vm.totalAsked + 1
+
   }
 
 

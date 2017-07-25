@@ -10,10 +10,11 @@ $recurring-black: rgba(36, 32, 56, 1);
 $recurring-blue: rgba(88, 132, 149, 0.8);
 $recurring-grey-blue: #4D6172;
 $recurring-grey: rgba(202, 196, 206, 0.8);
-$recurring-green: rgba(78, 110, 101, 0.8);
+$recurring-green: rgba(78, 139, 101, 1);
 $recurring-white: rgba(245, 245, 245, 1);
 $recurring-charcoal: rgba(20,20,20,.75);
 $recurring-coral: rgba(224, 97, 82, 1);
+
 $testing-red: rgba(194,51,8,.9);
 
 
@@ -34,14 +35,17 @@ html, body{
 .navvy {
   padding: 15px;
   position: relative;
+  background: white;
+  opacity: .5;
 
   .score {
-    color: white;
     font-size: 16px;
-    color: $recurring-black;
+    color: $recurring-coral;
+    font-weight: bold;
     font-size: 16px;
     display: block;
     padding: 0.5em 1em;
+    opacity: 1;
   }
   .nav-item {
 
@@ -104,7 +108,6 @@ html, body{
     .btn-hero {
 
       @include body-text-bold;
-      background-color: $recurring-coral;
       display: inline-block;
       padding: 10px 30px;
       border-radius: 13px;
@@ -119,25 +122,13 @@ html, body{
       }
     }
 
-    .btn-hero:active {
-    color: $recurring-blue !important;
-    }
+    // .btn-hero:active {
+    // color: $recurring-blue !important;
+    // }
 
     }
 } // splash-hero
 
-.game-page {
-  background-size: cover;
-  background-image: url("../images/ophelia.jpg");
-  opacity:.7;
-  margin: 0;
-  padding: 0;
-  width: 100%;
-  height: 100%;
-  background-position: top center;
-  position: absolute;
-
-}
 
 @include bp-large {
   body {
@@ -148,7 +139,6 @@ html, body{
 
 // !!!!!!!!!
 %generic-box {
-  border: 1px solid $recurring-charcoal;
   padding: 10px;
   margin-bottom: 15px;
 }
@@ -159,14 +149,30 @@ html, body{
   padding: 25px 20px 35px 20px;
   color: $recurring-white;
 
+  .darkened {
+    background-color: rgba(0,0,0,.3);
+  }
+
+  .inset-10 {
+    padding: 5px;
+  }
   .question {
 
     @include header-text-regular;
     font-size: 24px;
     min-height: 150px;
+    margin: 0 0 20px 0;
 
     a {
       color: $recurring-white;
+      opacity: 0;
+    }
+
+  }
+
+  @include bp-small {
+    .graphic {
+      min-height: 380px;
     }
   }
 
@@ -175,6 +181,7 @@ html, body{
     img {
       max-width: 100%;
     }
+
     .preformatted-quote-text {
       white-space: pre;
       overflow: auto;
@@ -223,7 +230,7 @@ html, body{
 
       &.is-correct-true {
         &:before{
-          background-color:green;
+          background-color:$recurring-green;
         }
       }
 
@@ -329,6 +336,7 @@ html, body{
     }
   }
 } // page
+
 
 @include bp-small {
   .answer {

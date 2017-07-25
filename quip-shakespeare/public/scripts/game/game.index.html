@@ -33,39 +33,45 @@
     <div class="page">
       <ngform id="answers" name="answers">
         <div class="container">
+          <div class="row">
+
+
+            <!-- ===== QUESTION ===== -->
+            <div class="col-12">
+              <div class="question darkened">
+              {{$ctrl.question}}
+            </div>
+            </div> <!-- column -->
+          </div> <!-- row -->
         <div class="row">
 
 
-        <!-- ===== QUESTION ===== -->
-        <div class="col-12 question" >
-         {{$ctrl.question}}
-        </div> <!-- end column -->
-      </div> <!-- end row -->
-      <div class="row">
-
-
-        <!-- ===== QUOTE BODY ===== -->
-        <div class="col-6 col-sm-6 graphic">
-          <div class="preformatted-quote-text" ng-hide="!$ctrl.showQuoteBody">
-            {{$ctrl.quoteBody}}
-          </div>
-        </div> <!-- column -->
+          <!-- ===== QUOTE BODY ===== -->
+          <div class="col-6 col-sm-6">
+            <div class="inset-10 darkened">
+              <div class="graphic">
+                <div class="preformatted-quote-text" ng-hide="!$ctrl.showQuoteBody">
+                  {{$ctrl.quoteBody}}
+                </div>
+              </div>
+            </div>
+          </div> <!-- column -->
 
 
         <!-- ===== ANSWER OPTIONS ===== -->
         <div class="col-6 col-sm-6 options-answers">
+          <div class="darkened">
           <div class="options">
 
             <div ng-repeat="option in $ctrl.options track by $index" class="radio">
               <input
                 id="answer_{{$index}}"
                 name="answer_{{$index}}"
-                ng-change="$ctrl.updateToAnswer(option.isCorrect, option.label, true, $index)"
+                ng-change="$ctrl.updateToAnswer(option.isCorrect, option.label, true, $index, options)"
                 ng-model="checked"
                 ng-init="checked=false"
                 type="radio"
                 name="optradio"
-                ng-submit="$ctrl.temp(answer)"
               >
               <label for="answer_{{$index}}" class="is-correct-{{option.isCorrect}}">
                 {{option.label}}
@@ -73,10 +79,10 @@
               </label>
             </div> <!-- answer-options -->
         </div> <!-- options -->
-
+</div>
 
           <!-- ===== ANSWER REVEAL ===== -->
-          <div class="answer">
+          <div class="answer darkened">
             <div class="feedback">
               <strong>{{$ctrl.exclamation}} </strong> {{$ctrl.elaboration}}
             </div>
