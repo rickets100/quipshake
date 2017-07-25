@@ -35,7 +35,7 @@
     // ===== INIT =====
     vm.$onInit = function () {
       vm.updateToQuestion()
-    } // on.init
+    }
 
 
     // ===== GO TO QUESTION =====
@@ -45,33 +45,31 @@
       $state.go('goToQuestion', info)
     }
 
+
     // ===== POPULATE A GIVEN QUESTION =====
     function populateQuestion(questionConstraints) {
       let endpoint = (questionConstraints.type).split(' ').join('-')
       console.log('hitting ', (`${baseUrl}/api/${endpoint}`))
       $http.get(`${baseUrl}/api/${endpoint}`)
         .then((result)=>{
-          console.log('RESULT: ', result);
-          // vm.answers.$setPristine();
           vm.showQuoteBody = result.data.imageUpdate
           vm.question = result.data.question
           vm.options = result.data.options
           vm.isChosen = result.data.isChosen
-
-          console.log("vm.options",vm.options)
 
           if (vm.showQuoteBody) {
             console.log('showQuoteBody is ', vm.showQuoteBody)
             vm.updateImage(result.data.quoteBody)
           }
         })
-    } // function populateQuestion
+    }
 
 
     // ===== UPDATE TO NEW QUESTION =====
     vm.updateToQuestion = function () {
-      console.log('in updateToQuestion');
-        $("#answers input[type='radio']").prop("checked",false);
+      console.log('in updateToQuestion')
+        $("#answers input[type='radio']").prop('checked', false)
+        $("#answers input[type='radio']").prop('disabled', false)
         vm.totalAsked = vm.totalAsked + 1
         vm.exclamation = ''
         vm.elaboration = ''
@@ -79,10 +77,11 @@
     }
 
 
-    // ===== UPDATE To ANSWER =====
+    // ===== UPDATE TO ANSWER =====
     vm.updateToAnswer = function (isCorrect, label, isChosen, $index) {
       console.log('in the updateToAnswer function, label is ', label)
       vm.answered = true
+      $("#answers input[type='radio']").prop('disabled', true)
       vm.updateReveal(isCorrect, label)
       vm.updateScore(isCorrect)
     }
@@ -120,7 +119,6 @@
     // ===== UPDATE GRAPHIC PART =====
     vm.updateImage = function (quoteBody) {
       console.log('***** in the updateImage function *****')
-      console.log(quoteBody)
       vm.showImage = false
       vm.showQuoteBody = true
       vm.showChart = false
@@ -131,13 +129,11 @@
     // ===== UPDATE ANSWER-OPTIONS =====
     vm.updateAnswerOptions = function (isCorrect) {
       console.log('***** in the updateAnswerOptions function *****')
-
     }
 
 
     // ===== UPDATE REVEAL =====
     vm.updateReveal = function (isCorrect, label) {
-      console.log('***** in updateReveal  *****')
       if (isCorrect === true) {
         vm.exclamation = 'SCORE!'
         vm.elaboration = 'You just earned a point!'
@@ -148,20 +144,15 @@
         vm.exclamation = ''
         vm.elaboration = ''
       }
-
     }
 
 
     // ===== UPDATE SCORE =====
     vm.updateScore = function (isCorrect) {
-      console.log('***** in the updateScore function *****')
       if (isCorrect === true) {
         vm.score = vm.score + 1
     }
-  } // updateScore
-
-
-
+  }
 
 
     // ===== UPDATE CHART =====

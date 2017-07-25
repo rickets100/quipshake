@@ -123,45 +123,27 @@ html, body{
     color: $recurring-blue !important;
     }
 
-
-
     }
-}
+} // splash-hero
 
+.game-page {
+  background-size: cover;
+  background-image: url("../images/ophelia.jpg");
+  opacity:.7;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  background-position: top center;
+  position: absolute;
+
+}
 
 @include bp-large {
   body {
     background-color: white;
     color: $recurring-black
   }
-}
-
-.incorrect {
-    color:white;
-    background-color:red;
-    padding:20px;
-    font-family:Verdana;
-}
-
-.iscorrect {
-    color:white;
-    background-color:lightblue;
-    padding:20px;
-    font-family:"Courier New";
-}
-
-.picked {
-    color:white;
-    background-color:red;
-    padding:20px;
-    font-family:Verdana;
-}
-
-.not-picked {
-    color:white;
-    background-color:lightblue;
-    padding:20px;
-    font-family:"Courier New";
 }
 
 // !!!!!!!!!
@@ -229,6 +211,8 @@ html, body{
         width:20px;
         margin-right: 10px;
       }
+
+
     }
 
     input[type='radio']:checked+label {
@@ -238,15 +222,28 @@ html, body{
       }
 
       &.is-correct-true {
-        color:$recurring-coral;
+        &:before{
+          background-color:green;
+        }
+      }
+
+      &.is-correct-false {
+        &:before{
+          background-color:$recurring-coral;
+        }
+      }
+
+      &.is-correct-true {
+        color:$recurring-white;
 
       }
 
       &.is-correct-false {
-        color:$recurring-charcoal;
+        color:$recurring-white;
 
         &:after {
           content:"X";
+          color: $recurring-coral;
           display: inline-block;
         }
       }
@@ -333,11 +330,12 @@ html, body{
   }
 } // page
 
-@include bp-large {
+@include bp-small {
   .answer {
     min-height: 200px;
   }
 }
+
 // anything from 'small' on up
 @include bp-small {
   .page {
