@@ -202,6 +202,7 @@ html, body{
   @include bp-large {
     .graphic {
 
+      max-height: 300px;
       img {
         max-width: 100%;
       }
@@ -232,23 +233,23 @@ html, body{
 
     input[type='radio']:checked+label {
       font-weight: bold;
-      &:before{
+      &:before {
         background-color: #cccccc;
       }
-      &:after {
-        content:"X";
-        display: inline-block;
+
+      &.is-correct-true {
+        color:$recurring-coral;
+
       }
 
-      &.is-correct-true{
-        color:$recurring-green;
+      &.is-correct-false {
+        color:$recurring-charcoal;
+
+        &:after {
+          content:"X";
+          display: inline-block;
+        }
       }
-
-      &.is-correct-false{
-        color:$testing-red;
-      }
-
-
     }
 
     .radio {
@@ -261,13 +262,6 @@ html, body{
         .unanswered {
           color: $recurring-charcoal;
         }
-
-        span {
-
-          .x-marker {
-            color: $testing-red;
-          }
-        } // span
     } // ul
 
 
@@ -303,12 +297,11 @@ html, body{
     @extend %generic-box;
     font-size: 25px;
     margin-bottom: 0px;
+    position: relative;
 
     .feedback {
       text-align: center;
     }
-
-
   } // .answer
 
   button {
@@ -321,6 +314,9 @@ html, body{
     padding: 10px 20px;
     width: 100%;
     margin-top: 20px;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
 
     &:focus {
       outline: 0;
@@ -337,6 +333,11 @@ html, body{
   }
 } // page
 
+@include bp-large {
+  .answer {
+    min-height: 200px;
+  }
+}
 // anything from 'small' on up
 @include bp-small {
   .page {

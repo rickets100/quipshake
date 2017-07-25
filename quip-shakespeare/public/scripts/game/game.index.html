@@ -31,7 +31,7 @@
   <!-- ===== MAIN PORTION ===== -->
   <div>
     <div class="page">
-      <form id="answers" name="answers">
+      <ngform id="answers" name="answers">
         <div class="container">
         <div class="row">
 
@@ -57,16 +57,16 @@
           <div class="options">
 
             <div ng-repeat="option in $ctrl.options track by $index" class="radio">
-              <input id="answer_{{$index}}"
+              <input
+                id="answer_{{$index}}"
                 name="answer_{{$index}}"
-                ng-change="$ctrl.updateAnswer(option.isCorrect, option.label, true, $index)"
+                ng-change="$ctrl.updateToAnswer(option.isCorrect, option.label, true, $index)"
                 ng-model="checked"
                 ng-init="checked=false"
                 type="radio"
                 name="optradio"
                 ng-submit="$ctrl.temp(answer)"
-
-                >
+              >
               <label for="answer_{{$index}}" class="is-correct-{{option.isCorrect}}">
                 {{option.label}}
                 <span ng-if="checked && !option.isCorrect == true" class="animate-if">  </span>
@@ -80,19 +80,20 @@
             <div class="feedback">
               <strong>{{$ctrl.exclamation}} </strong> {{$ctrl.elaboration}}
             </div>
-            <button ng-click="$ctrl.updateGameState($ctrl.answers)">NEXT</button "btn-hero custom-button">
+            <button ng-click="$ctrl.updateToQuestion()">NEXT</button "btn-hero custom-button">
 
           </div>
         </div> <!-- end column graphic-->
       </div> <!-- end row -->
       <div class="row">
         <div class="col-sm-12">
-          <!-- <button ui-sref="$ctrl.currentState({'hey there'})" class="btn-next">Test</button> -->
         </div>
       </div>
     </div>
   </div> <!-- end container -->
-  </form>
+</ngform>
+</div> <!-- row -->
+</div> <!-- testing -->
 
     <!-- <div class="testing">
       <h3>AREA BELOW IS FOR TESTING PURPOSES</h3>
@@ -104,10 +105,7 @@
       <div ng-class="home">
         <h3>Testing</h3>
       </div>
- -->
       </div> <!-- column -->
-    </div> <!-- row -->
-    </div> <!-- testing -->
     <!-- <canvas id="line" class="chart chart-line" chart-data="$ctrl.chartData"
       chart-labels="$ctrl.chartLabels" chart-series="$ctrl.chartSeries" chart-options="$ctrl.chartOptions"
       chart-dataset-override="$ctrl.datasetOverride">

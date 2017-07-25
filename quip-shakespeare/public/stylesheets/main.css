@@ -10505,20 +10505,24 @@ html, body {
   overflow: auto;
 }
 @media only screen and (min-width: 992px) {
-  /* line 205, ../scss/main.scss */
+  /* line 203, ../scss/main.scss */
+  .page .graphic {
+    max-height: 300px;
+  }
+  /* line 206, ../scss/main.scss */
   .page .graphic img {
     max-width: 100%;
   }
-  /* line 208, ../scss/main.scss */
+  /* line 209, ../scss/main.scss */
   .page .graphic .preformatted-quote-text {
     white-space: pre;
   }
 }
-/* line 217, ../scss/main.scss */
+/* line 218, ../scss/main.scss */
 .page .options input[type='radio'] {
   display: none;
 }
-/* line 222, ../scss/main.scss */
+/* line 223, ../scss/main.scss */
 .page .options input[type='radio'] + label:before {
   content: "";
   display: inline-block;
@@ -10528,73 +10532,70 @@ html, body {
   width: 20px;
   margin-right: 10px;
 }
-/* line 233, ../scss/main.scss */
+/* line 234, ../scss/main.scss */
 .page .options input[type='radio']:checked + label {
   font-weight: bold;
 }
-/* line 235, ../scss/main.scss */
+/* line 236, ../scss/main.scss */
 .page .options input[type='radio']:checked + label:before {
   background-color: #cccccc;
 }
-/* line 238, ../scss/main.scss */
-.page .options input[type='radio']:checked + label:after {
+/* line 240, ../scss/main.scss */
+.page .options input[type='radio']:checked + label.is-correct-true {
+  color: #e06152;
+}
+/* line 245, ../scss/main.scss */
+.page .options input[type='radio']:checked + label.is-correct-false {
+  color: rgba(20, 20, 20, 0.75);
+}
+/* line 248, ../scss/main.scss */
+.page .options input[type='radio']:checked + label.is-correct-false:after {
   content: "X";
   display: inline-block;
 }
-/* line 243, ../scss/main.scss */
-.page .options input[type='radio']:checked + label.is-correct-true {
-  color: rgba(78, 110, 101, 0.8);
-}
-/* line 247, ../scss/main.scss */
-.page .options input[type='radio']:checked + label.is-correct-false {
-  color: rgba(194, 51, 8, 0.9);
-}
-/* line 254, ../scss/main.scss */
+/* line 255, ../scss/main.scss */
 .page .options .radio {
   font-size: 20px;
 }
-/* line 257, ../scss/main.scss */
+/* line 258, ../scss/main.scss */
 .page .options .radio .answered {
   color: rgba(88, 132, 149, 0.8);
 }
-/* line 261, ../scss/main.scss */
+/* line 262, ../scss/main.scss */
 .page .options .radio .unanswered {
   color: rgba(20, 20, 20, 0.75);
 }
-/* line 267, ../scss/main.scss */
-.page .options .radio span .x-marker {
-  color: rgba(194, 51, 8, 0.9);
-}
-/* line 276, ../scss/main.scss */
+/* line 270, ../scss/main.scss */
 .page .options ul li {
   font-size: 25px;
 }
-/* line 279, ../scss/main.scss */
+/* line 273, ../scss/main.scss */
 .page .options ul li .answered {
   color: rgba(88, 132, 149, 0.8);
 }
-/* line 283, ../scss/main.scss */
+/* line 277, ../scss/main.scss */
 .page .options ul li .unanswered {
   color: rgba(20, 20, 20, 0.75);
 }
-/* line 287, ../scss/main.scss */
+/* line 281, ../scss/main.scss */
 .page .options ul li .selected-class-name {
   color: red !important;
 }
-/* line 292, ../scss/main.scss */
+/* line 286, ../scss/main.scss */
 .page .options ul li span .x-marker {
   color: rgba(194, 51, 8, 0.9);
 }
-/* line 302, ../scss/main.scss */
+/* line 296, ../scss/main.scss */
 .page .answer {
   font-size: 25px;
   margin-bottom: 0px;
+  position: relative;
 }
-/* line 307, ../scss/main.scss */
+/* line 302, ../scss/main.scss */
 .page .answer .feedback {
   text-align: center;
 }
-/* line 314, ../scss/main.scss */
+/* line 307, ../scss/main.scss */
 .page button {
   background-color: #4D6172;
   border: 0;
@@ -10605,28 +10606,37 @@ html, body {
   padding: 10px 20px;
   width: 100%;
   margin-top: 20px;
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
 }
-/* line 325, ../scss/main.scss */
+/* line 321, ../scss/main.scss */
 .page button:focus {
   outline: 0;
 }
-/* line 330, ../scss/main.scss */
+/* line 326, ../scss/main.scss */
 .page .testing {
   padding-top: 50px;
   margin-top: 100px;
 }
-/* line 333, ../scss/main.scss */
+/* line 329, ../scss/main.scss */
 .page .testing h3 {
   color: rgba(202, 196, 206, 0.8);
 }
 
+@media only screen and (min-width: 992px) {
+  /* line 337, ../scss/main.scss */
+  .answer {
+    min-height: 200px;
+  }
+}
 @media only screen and (min-width: 576px) {
-  /* line 343, ../scss/main.scss */
+  /* line 344, ../scss/main.scss */
   .page .question {
     font-size: 35px;
     padding-top: 25px;
   }
-  /* line 346, ../scss/main.scss */
+  /* line 347, ../scss/main.scss */
   .page .question:before {
     font-family: 'MedievalSharp', cursive;
     font-weight: regular;
@@ -10637,11 +10647,11 @@ html, body {
     margin-top: -10px;
     padding-right: 20px;
   }
-  /* line 358, ../scss/main.scss */
+  /* line 359, ../scss/main.scss */
   .page .answer {
     overflow: auto;
   }
-  /* line 364, ../scss/main.scss */
+  /* line 365, ../scss/main.scss */
   .page button {
     width: auto;
     float: right;

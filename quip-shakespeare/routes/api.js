@@ -270,7 +270,7 @@ router.get ('/word-frequency', function(req, res, next) {
 
         let data = {
           imageUpdate: false,
-          question: `Which of the following occurs more frequently in ${title}?`,
+          question: `Which of the following words occurs more frequently in ${title}?`,
           questionType: 'word-frequency',
           options: [
             {

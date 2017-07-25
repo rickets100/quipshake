@@ -30,11 +30,11 @@
     vm.selectedIndex = 0
 
     vm.exclamation = ''
-
+    vm.elaboration = ''
 
     // ===== INIT =====
     vm.$onInit = function () {
-      vm.updateGameState()
+      vm.updateToQuestion()
     } // on.init
 
 
@@ -68,27 +68,23 @@
     } // function populateQuestion
 
 
-    vm.temp = function(blah){
-      console.log('blah blah blah', blah);
-  }
-
-    // ===== UPDATE GAME STATE =====
-    vm.updateGameState = function (form) {
-      // console.log("v-----",document.getElementById("answers"));
-      console.log('v-----',form)
-      // let formElements = document.getElementById('answers').elements;
-      // for(var i=0; i<formElements.length; i++){
-      //   formElements[i].checked = false
-      // }
-
-      $("#answers input[type='radio']").prop("checked",false);
+    // ===== UPDATE TO NEW QUESTION =====
+    vm.updateToQuestion = function () {
+      console.log('in updateToQuestion');
+        $("#answers input[type='radio']").prop("checked",false);
+        vm.totalAsked = vm.totalAsked + 1
+        vm.exclamation = ''
+        vm.elaboration = ''
+        vm.getRandomQuestion()
+    }
 
 
-
-
-
-      vm.totalAsked = vm.totalAsked + 1
-      vm.getRandomQuestion()
+    // ===== UPDATE To ANSWER =====
+    vm.updateToAnswer = function (isCorrect, label, isChosen, $index) {
+      console.log('in the updateToAnswer function, label is ', label)
+      vm.answered = true
+      vm.updateReveal(isCorrect, label)
+      vm.updateScore(isCorrect)
     }
 
 
@@ -129,28 +125,28 @@
       vm.showQuoteBody = true
       vm.showChart = false
       vm.quoteBody = quoteBody
-      // if (isCorrect === true) {
-      //   vm.graphic = "/images/shakespeare-bw.png"
-      // }
     }
 
 
-    // ===== UPDATE ANSWER-OPTIONS PART =====
+    // ===== UPDATE ANSWER-OPTIONS =====
     vm.updateAnswerOptions = function (isCorrect) {
       console.log('***** in the updateAnswerOptions function *****')
 
     }
 
 
-    // ===== UPDATE REVEAL PART =====
+    // ===== UPDATE REVEAL =====
     vm.updateReveal = function (isCorrect, label) {
       console.log('***** in updateReveal  *****')
       if (isCorrect === true) {
         vm.exclamation = 'SCORE!'
-        vm.elaboration = 'You just earned some points!'
-      } else {
+        vm.elaboration = 'You just earned a point!'
+      } else if (isCorrect === false) {
         vm.exclamation = 'NOPE.'
         vm.elaboration = 'The correct answer was something else.'
+      } else {
+        vm.exclamation = ''
+        vm.elaboration = ''
       }
 
     }
@@ -165,21 +161,7 @@
   } // updateScore
 
 
-    // ===== UPDATE ANSWER =====
-    vm.updateAnswer = function (isCorrect, label, isChosen, $index) {
-      console.log('in the updateAnswer function')
-      vm.answered = true
-      // vm.updateImage(isCorrect)
-      vm.updateReveal(isCorrect, label)
-      vm.updateScore(isCorrect)
 
-      /*
-      this function needs to:
-      - update the updateImage area, possibly, with a chart if applicable
-      - update this area (answer options) to grey-out the incorrect answers, mark an x if they guessed incorrectly, and make the correct anwer bold
-      - update the score
-      */
-    }
 
 
     // ===== UPDATE CHART =====
@@ -210,6 +192,5 @@
         }
       }
     } // update chart
-
   } // controller
 })()
