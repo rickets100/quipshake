@@ -68,7 +68,7 @@
               <input
                 id="answer_{{$index}}"
                 name="answer_{{$index}}"
-                ng-change="$ctrl.updateToAnswer(option.isCorrect, option.label, true, $index, options)"
+                ng-click="$ctrl.updateToAnswer(option.isCorrect, option.label, true, $index, options)"
                 ng-model="checked"
                 ng-init="checked=false"
                 type="radio"

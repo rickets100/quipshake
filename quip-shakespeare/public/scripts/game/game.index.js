@@ -77,9 +77,9 @@
 
     // ===== UPDATE TO ANSWER =====
     vm.updateToAnswer = function (isCorrect, label, isChosen, $index, options) {
-
-      console.log('+++++updateToAnswer: vm.options is ', vm.options)
-      console.log('+++++updateToAnswer: totalAsked is ', vm.totalAsked)
+      console.log('called updateToAnswer, now at the top ');
+      // console.log('+++++updateToAnswer: vm.options is ', vm.options)
+      // console.log('+++++updateToAnswer: totalAsked is ', vm.totalAsked)
 
       let rightAnswer = ''
       vm.options.forEach(function(option) {
@@ -89,10 +89,10 @@
       })
 
       vm.answered = true
-      console.log('+++++updateToAnswer: before heading off to updateReveal, rightAnswer is: ', rightAnswer)
-      console.log('+++++updateToAnswer, about to set the disabled prop in html to true');
+      // console.log('+++++updateToAnswer: before heading off to updateReveal, rightAnswer is: ', rightAnswer)
       vm.updateReveal(isCorrect, label, rightAnswer)
       vm.updateScore(isCorrect)
+      console.log('%%%%%%%%%%%%%updateToAnswer, about to set the disabled prop in html to true');
       $("#answers input[type='radio']").prop('disabled', true)
 
     }
