@@ -43,6 +43,8 @@
       console.log('hitting ', (`${baseUrl}/api/${endpoint}`))
       $http.get(`${baseUrl}/api/${endpoint}`)
         .then((result)=>{
+          console.log('+++++populateQuestion: result of the get is: ', result);
+          console.log('+++++populateQuestion: right after the get, vm.elaboration and vm.exclamation are ', vm.elaboration, vm.exclamation);
           vm.showQuoteBody = result.data.imageUpdate
           vm.question = result.data.question
           vm.options = result.data.options
@@ -58,23 +60,27 @@
 
     // ===== UPDATE TO NEW QUESTION =====
     vm.updateToQuestion = function () {
-      // vm.totalAsked = vm.totalAsked + 1
+      vm.totalAsked = vm.totalAsked + 1
 
-      console.log('in updateToQuestion')
+      console.log('+++++updateToQuestion, about to set the checked and disabled properties on the html to both be false')
         $("#answers input[type='radio']").prop('checked', false)
         $("#answers input[type='radio']").prop('disabled', false)
-        // TODO is there a way to do the above, but add-in the requirement that the inputs of type radio also have a class property of "x" in order to have something apply, like: $("#answers input[type='radio'][prop('x')]").prop('disabled', false)
 
         vm.exclamation = ''
         vm.elaboration = ''
+        console.log('+++++updateToQuestion: exclamation and elaboration are: ', vm.exclamation, vm.elaboration);
         vm.getRandomQuestion()
+        console.log('+++++updateToQuestion: now they are: ', vm.exclamation, vm.elaboration);
+
     }
 
 
     // ===== UPDATE TO ANSWER =====
     vm.updateToAnswer = function (isCorrect, label, isChosen, $index, options) {
 
-      console.log('updateToAnswer: vm.');
+      console.log('+++++updateToAnswer: vm.options is ', vm.options)
+      console.log('+++++updateToAnswer: totalAsked is ', vm.totalAsked)
+
       let rightAnswer = ''
       vm.options.forEach(function(option) {
         if (option.isCorrect === true) {
@@ -83,7 +89,8 @@
       })
 
       vm.answered = true
-      console.log('updateToAnswer: before heading off to updateReveal, rightAnswer is: ', rightAnswer)
+      console.log('+++++updateToAnswer: before heading off to updateReveal, rightAnswer is: ', rightAnswer)
+      console.log('+++++updateToAnswer, about to set the disabled prop in html to true');
       vm.updateReveal(isCorrect, label, rightAnswer)
       vm.updateScore(isCorrect)
       $("#answers input[type='radio']").prop('disabled', true)
@@ -96,6 +103,7 @@
       vm.showQuoteBody = false
       $http.get( `${baseUrl}/api/formulate-question`)
       .then((result)=>{
+        console.log('+++++getRandomQuestion, result is: ', result);
         let questionConstraints = {
           work: result.data.word,
           type: result.data.type.question_type,
@@ -122,7 +130,7 @@
 
     // ===== UPDATE GRAPHIC PART =====
     vm.updateImage = function (quoteBody) {
-      console.log('***** in the updateImage function *****')
+      console.log('+++++updateImage')
       vm.showImage = false
       vm.showQuoteBody = true
       vm.showChart = false
@@ -132,13 +140,13 @@
 
     // ===== UPDATE ANSWER-OPTIONS =====
     vm.updateAnswerOptions = function (isCorrect) {
-      console.log('***** in the updateAnswerOptions function *****')
+      console.log('+++++updateAnswerOptions')
     }
 
 
     // ===== UPDATE REVEAL =====
     vm.updateReveal = function (isCorrect, label, rightAnswer) {
-      console.log('In updateReveal, right answer is coming in as ', rightAnswer);
+      console.log('+++++updateReveal, right answer is coming in as ', rightAnswer);
       if (isCorrect === true) {
         vm.exclamation = 'SCORE!'
         vm.elaboration = 'You just earned a point!'
@@ -146,7 +154,7 @@
         vm.exclamation = 'NOPE.'
         vm.elaboration = `The correct answer was ${rightAnswer}.`
       } else {
-        console.log('WHY AM I HERE????');
+        console.log('UMMMM...WHY AM I HERE????');
         vm.exclamation = ''
         vm.elaboration = ''
       }
@@ -155,42 +163,12 @@
 
     // ===== UPDATE SCORE =====
     vm.updateScore = function (isCorrect) {
-      console.log('in updateScore isCorrect is: ', isCorrect);
+      console.log('+++++updateScore: isCorrect is: ', isCorrect)
+      console.log('+++++updateScore: incoming score is ', vm.score);
       if (isCorrect === true) {
         vm.score = vm.score + 1
     }
-    vm.totalAsked = vm.totalAsked + 1
-
+    console.log('+++++updateScore: now incoming score is ', vm.score);
   }
-
-
-    // ===== UPDATE CHART =====
-    function updateChart() {
-      vm.chartLabels = ["January", "February", "March", "April", "May", "June", "July"];
-      vm.chartSeries = ['Series A', 'Series B'];
-      vm.chartData = [
-        [65, 59, 80, 81, 56, 55, 40],
-        [28, 48, 40, 19, 86, 27, 90]
-      ]
-      vm.datasetOverride = [{ yAxisID: 'y-axis-1' }, { yAxisID: 'y-axis-2' }];
-      vm.chartOptions = {
-        scales: {
-          yAxes: [
-            {
-              id: 'y-axis-1',
-              type: 'linear',
-              display: true,
-              position: 'left'
-            },
-            {
-              id: 'y-axis-2',
-              type: 'linear',
-              display: true,
-              position: 'right'
-            }
-          ]
-        }
-      }
-    } // update chart
   } // controller
 })()

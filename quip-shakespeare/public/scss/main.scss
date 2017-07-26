@@ -7,7 +7,7 @@
 
 // variables
 $recurring-black: rgba(36, 32, 56, 1);
-$recurring-blue: rgba(88, 132, 149, 0.8);
+$recurring-blue: rgba(88, 132, 149, 1);
 $recurring-grey-blue: #4D6172;
 $recurring-grey: rgba(202, 196, 206, 0.8);
 $recurring-green: rgba(78, 139, 101, 1);
@@ -308,23 +308,28 @@ html, body{
     }
   } // .answer
 
-  button {
-    background-color: $recurring-grey-blue ;
+
+  .btn-next {
+    @include body-text-bold;
+    padding: 10px 20px;
     border: 0;
     border-radius: 10px;
     color: white;
     font-weight: bold;
     font-size: 24px;
-    padding: 10px 20px;
     width: 100%;
     margin-top: 20px;
     position: absolute;
     bottom: 20px;
     right: 20px;
+    background-color: rgba(88, 132, 149, .75);
+    transition: background-color .25s;
 
-    &:focus {
-      outline: 0;
+    &:hover {
+      text-decoration: none;
+      background-color: $recurring-blue;
     }
+
   }
 
   .testing {

@@ -255,7 +255,7 @@ router.get('/quote-origin', function(req, res, next) {
 router.get ('/word-frequency', function(req, res, next) {
   // TODO: a query to the 'most common words' table/object to know which results to reject and retry
 
-  let concordance = ['1H4', '1H6', '2H4', '2H6', 'AWW']
+  let concordance = ['1H4', '1H6', '2H4', 'AWW']
   let superset = 40
 
   gameController.getNWorksConcord(1, concordance)

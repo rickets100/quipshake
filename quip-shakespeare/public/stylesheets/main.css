@@ -10549,7 +10549,7 @@ html, body {
 }
 /* line 262, ../scss/main.scss */
 .page .options .radio .answered {
-  color: rgba(88, 132, 149, 0.8);
+  color: #588495;
 }
 /* line 266, ../scss/main.scss */
 .page .options .radio .unanswered {
@@ -10561,7 +10561,7 @@ html, body {
 }
 /* line 277, ../scss/main.scss */
 .page .options ul li .answered {
-  color: rgba(88, 132, 149, 0.8);
+  color: #588495;
 }
 /* line 281, ../scss/main.scss */
 .page .options ul li .unanswered {
@@ -10585,48 +10585,52 @@ html, body {
 .page .answer .feedback {
   text-align: center;
 }
-/* line 311, ../scss/main.scss */
-.page button {
-  background-color: #4D6172;
+/* line 312, ../scss/main.scss */
+.page .btn-next {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  padding: 10px 20px;
   border: 0;
   border-radius: 10px;
   color: white;
   font-weight: bold;
   font-size: 24px;
-  padding: 10px 20px;
   width: 100%;
   margin-top: 20px;
   position: absolute;
   bottom: 20px;
   right: 20px;
+  background-color: rgba(88, 132, 149, 0.75);
+  transition: background-color .25s;
 }
-/* line 325, ../scss/main.scss */
-.page button:focus {
-  outline: 0;
+/* line 328, ../scss/main.scss */
+.page .btn-next:hover {
+  text-decoration: none;
+  background-color: #588495;
 }
-/* line 330, ../scss/main.scss */
+/* line 335, ../scss/main.scss */
 .page .testing {
   padding-top: 50px;
   margin-top: 100px;
 }
-/* line 333, ../scss/main.scss */
+/* line 338, ../scss/main.scss */
 .page .testing h3 {
   color: rgba(202, 196, 206, 0.8);
 }
 
 @media only screen and (min-width: 576px) {
-  /* line 342, ../scss/main.scss */
+  /* line 347, ../scss/main.scss */
   .answer {
     min-height: 200px;
   }
 }
 @media only screen and (min-width: 576px) {
-  /* line 350, ../scss/main.scss */
+  /* line 355, ../scss/main.scss */
   .page .question {
     font-size: 35px;
     padding-top: 25px;
   }
-  /* line 353, ../scss/main.scss */
+  /* line 358, ../scss/main.scss */
   .page .question:before {
     font-family: 'MedievalSharp', cursive;
     font-weight: regular;
@@ -10637,11 +10641,11 @@ html, body {
     margin-top: -10px;
     padding-right: 20px;
   }
-  /* line 365, ../scss/main.scss */
+  /* line 370, ../scss/main.scss */
   .page .answer {
     overflow: auto;
   }
-  /* line 371, ../scss/main.scss */
+  /* line 376, ../scss/main.scss */
   .page button {
     width: auto;
     float: right;
