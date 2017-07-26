@@ -306,7 +306,7 @@ let playList = [
   {id: 39,
   xmlName: 'Tro.xml',
   jsName: 'Tro.js',
-  title: 'Trollius and Cresside',
+  title: 'Troilus and Cresside',
   yearFirst: 1600,
   yearText: '1600-1602',
   order: 27},
@@ -334,7 +334,7 @@ let playList = [
   yearFirst: 1597,
   yearText: '1597',
   order: 19}]
-  
+
 module.exports = playList
 
 // database name =  learning-xpath

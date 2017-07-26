@@ -355,7 +355,7 @@ exports.seed = function(knex) {
         {id: 36,
         xmlName: 'Tro.xml',
         jsName: 'Tro.js',
-        title: 'Trollius and Cresside',
+        title: 'Troilus and Cresside',
         yearFirst: 1600,
         yearText: '1600-1602',
         order: 27,
