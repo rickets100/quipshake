@@ -66,12 +66,11 @@ function getNRandomWorks(num, toBeExcluded = []) {
 }
 
 
-// ===== GET 3 RANDOM WORKS THAT AREN'T A GIVEN WORK  ✅ =====
+// ===== GET 3 RANDOM WORKS THAT AREN'T A GIVEN WORK ✅ =====
 function get3RandomWorks(correctOption, toBeExcluded = []) {
   let correctIdno = correctOption[0].idno
   return game.getNRandomWorksNotId('works', correctIdno, toBeExcluded)
 }
-
 
 
 // ===== GET 3 RANDOM WORKS WITHOUT A PARTICULAR CHARACTER  ✅ =====
@@ -98,7 +97,7 @@ function getNWords(workIdno, num) {
 }
 
 
-// ===== GET SCENE COUNT =====
+// ===== GET SCENE COUNT ✅ =====
 function getSceneCount(doc) {
   let sceneNodes = 'count(/TEI/text/body/div1[@type="act"]/div2[@type="scene"])'
   let scenes = xpath.evaluate (
@@ -128,25 +127,7 @@ function getSpeechCount (doc) {
 }
 
 
-// ===== GET SPEECH BY INDEX =====
-// function getSpeechByIndex (doc, count) {
-//   let speechNodes = '/TEI/text/body/div1/div2/sp/ab[' + (count+1) + ']//text()'
-//   let masterNode = '/TEI/text/body/div1/div2/sp/ab[' + (count+1)
-//   let speaker = masterNode.parentNode
-//     // to get the speaker, go up one node to sp, get the "who=" value, chop off the pound sign and everything from the underscore on
-//
-//   let speeches = xpath.evaluate(
-//     speechNodes,                 // xpathExpression
-//     doc,                        // contextNode
-//     null,                       // namespaceResolver
-//     xpath.XPathResult.ANY_TYPE, // resultType
-//     null                        // result
-//   )
-//   return speeches.nodes.join('').split('\r\n\r\n').join(' ').split('  ').join('')
-// }
-
-
-// ===== GET A SINGLE SPEECH =====
+// ===== GET A SINGLE SPEECH ✅ =====
 function newGetSpeech(doc, count) {
   // the query below will also get lb, w, c, and pc nodes
   // let speechNodes = "/TEI/text/body/div1[1]/div2[1]/sp[1]/ab//*[self::lb | self::w | self::c | self::pc]"
@@ -192,7 +173,7 @@ return speech
 }
 
 
-// ===== GET A RANDOM SPEECH PART 2: ELECTRIC BOOGALOO =====
+// ===== GET A RANDOM SPEECH PART 2: ELECTRIC BOOGALOO ✅ =====
 function getRandomSpeech (doc) {
   let speechCount = getSpeechCount(doc)
   let count = random(speechCount)

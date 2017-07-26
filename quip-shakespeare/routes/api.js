@@ -59,7 +59,7 @@ router.get('/formulate-question', function(req, res, next) {
 // ===== CHRONOLOGY ✅ =====
 // /api/chronology
 router.get('/chronology', function(req, res, next) {
-  // will need to deal with plays with same date - use 'order' to choose, but have a caveat/explanation on reveal that this is based on wikipedia's entry on the subject, and display the yearRange field for the object
+  // this is based on wikipedia's entry on the subject
   let correctID = 0 // this type of question does not need to exclude any plays
   let numOptions = 4
 
@@ -111,14 +111,14 @@ router.get('/chronology', function(req, res, next) {
 })
 
 
-// ===== CHARACTER-WEIGHT =====
+// ===== CHARACTER-WEIGHT ✅ =====
 router.get('/character-weight', function(req, res, next) {
   gameController.getNRandomWorks(1, excludeList)
     .then(function(work) {
       let title = work[0].title
       let id = work[0].id
       let idno = work[0].idno
-      let num = 4 // hardcoded for now
+      let num = 4
 
       gameController.getNCharacters(idno, num, excludeList)
         .then(function(characters) {
@@ -157,11 +157,11 @@ router.get('/character-weight', function(req, res, next) {
           res.send(data)
       })
     })
-  }) // function router.get
+  }) // CHARACTER-WEIGHT
 
 
 
-// ===== CHARACTER-ORIGIN =====
+// ===== CHARACTER-ORIGIN ✅ =====
 router.get('/character-origin', function(req, res, next) {
   let sample = 'CHARACTER NAME'
   gameController.getNRandomWorks(1, excludeList)
@@ -169,7 +169,7 @@ router.get('/character-origin', function(req, res, next) {
     let correctWorkId = correctOption[0].id
     let correctWorkIdno = correctOption[0].idno
     let correctWorkTitle = correctOption[0].title
-    let numOptions = 3 // hardcoded for now
+    let numOptions = 3
 
     gameController.getNCharacters(correctWorkIdno, 1, excludeList)
       .then(function(character) {
@@ -208,10 +208,8 @@ router.get('/character-origin', function(req, res, next) {
 }) // CHARACTER-ORIGIN
 
 
-// ===== QUOTE-ORIGIN =====
+// ===== QUOTE-ORIGIN ✅ =====
 router.get('/quote-origin', function(req, res, next) {
-// will need to limit the size of the text (at least a certain length, but maybe truncated if too long)
-
   gameController.getNRandomWorks(1, excludeList)
     .then(function(correctOption) {
       let correctTitle = correctOption[0].title
@@ -251,7 +249,7 @@ router.get('/quote-origin', function(req, res, next) {
 }) // QUOTE-ORIGIN
 
 
-// ===== CONCORDANCE (WORD FREQUENCY) =====
+// ===== CONCORDANCE (WORD FREQUENCY) ✅ =====
 router.get ('/word-frequency', function(req, res, next) {
   // TODO: a query to the 'most common words' table/object to know which results to reject and retry
 

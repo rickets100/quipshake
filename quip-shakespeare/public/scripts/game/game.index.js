@@ -43,15 +43,12 @@
       console.log('hitting ', (`${baseUrl}/api/${endpoint}`))
       $http.get(`${baseUrl}/api/${endpoint}`)
         .then((result)=>{
-          console.log('+++++populateQuestion: result of the get is: ', result);
-          console.log('+++++populateQuestion: right after the get, vm.elaboration and vm.exclamation are ', vm.elaboration, vm.exclamation);
           vm.showQuoteBody = result.data.imageUpdate
           vm.question = result.data.question
           vm.options = result.data.options
           vm.isChosen = result.data.isChosen
 
           if (vm.showQuoteBody) {
-            console.log('showQuoteBody is ', vm.showQuoteBody)
             vm.updateImage(result.data.quoteBody)
           }
         })
@@ -61,8 +58,6 @@
     // ===== UPDATE TO NEW QUESTION =====
     vm.updateToQuestion = function () {
       vm.totalAsked = vm.totalAsked + 1
-
-      console.log('+++++updateToQuestion, about to set the checked and disabled properties on the html to both be false')
         $("#answers input[type='radio']").prop('checked', false)
         $("#answers input[type='radio']").prop('disabled', false)
 
@@ -78,8 +73,6 @@
     // ===== UPDATE TO ANSWER =====
     vm.updateToAnswer = function (isCorrect, label, isChosen, $index, options) {
       console.log('called updateToAnswer, now at the top ');
-      // console.log('+++++updateToAnswer: vm.options is ', vm.options)
-      // console.log('+++++updateToAnswer: totalAsked is ', vm.totalAsked)
 
       let rightAnswer = ''
       vm.options.forEach(function(option) {
@@ -89,12 +82,10 @@
       })
 
       vm.answered = true
-      // console.log('+++++updateToAnswer: before heading off to updateReveal, rightAnswer is: ', rightAnswer)
       vm.updateReveal(isCorrect, label, rightAnswer)
       vm.updateScore(isCorrect)
-      console.log('%%%%%%%%%%%%%updateToAnswer, about to set the disabled prop in html to true');
+      console.log('%%%%%%%%%%%%%just updated score from updateToAnswer, score is ', vm.score);
       $("#answers input[type='radio']").prop('disabled', true)
-
     }
 
 
@@ -103,7 +94,6 @@
       vm.showQuoteBody = false
       $http.get( `${baseUrl}/api/formulate-question`)
       .then((result)=>{
-        console.log('+++++getRandomQuestion, result is: ', result);
         let questionConstraints = {
           work: result.data.word,
           type: result.data.type.question_type,
@@ -130,7 +120,6 @@
 
     // ===== UPDATE GRAPHIC PART =====
     vm.updateImage = function (quoteBody) {
-      console.log('+++++updateImage')
       vm.showImage = false
       vm.showQuoteBody = true
       vm.showChart = false
@@ -146,7 +135,6 @@
 
     // ===== UPDATE REVEAL =====
     vm.updateReveal = function (isCorrect, label, rightAnswer) {
-      console.log('+++++updateReveal, right answer is coming in as ', rightAnswer);
       if (isCorrect === true) {
         vm.exclamation = 'SCORE!'
         vm.elaboration = 'You just earned a point!'

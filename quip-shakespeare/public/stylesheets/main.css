@@ -10331,27 +10331,27 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
-/* line 25, ../scss/main.scss */
+/* line 19, ../scss/main.scss */
 body {
   background-color: white;
   font-family: 'Open Sans', sans-serif;
   font-weight: regular;
 }
 
-/* line 31, ../scss/main.scss */
+/* line 24, ../scss/main.scss */
 html, body {
   padding: 0;
   margin: 0;
 }
 
-/* line 36, ../scss/main.scss */
+/* line 29, ../scss/main.scss */
 .navvy {
   padding: 15px;
   position: relative;
   background: white;
   background-color: rgba(255, 255, 255, 0.5);
 }
-/* line 42, ../scss/main.scss */
+/* line 35, ../scss/main.scss */
 .navvy .score {
   font-size: 16px;
   color: #e06152;
@@ -10360,17 +10360,17 @@ html, body {
   display: block;
   padding: 0.5em 1em;
 }
-/* line 53, ../scss/main.scss */
+/* line 46, ../scss/main.scss */
 .navvy .nav-item .nav-link {
   color: #242038;
   font-size: 16px;
 }
-/* line 59, ../scss/main.scss */
+/* line 51, ../scss/main.scss */
 .navvy .nav-item .nav-link:active {
   color: #4D6172;
 }
 
-/* line 67, ../scss/main.scss */
+/* line 57, ../scss/main.scss */
 .splash-hero {
   background-size: cover;
   background-image: url("../images/ophelia.jpg");
@@ -10381,7 +10381,7 @@ html, body {
   background-position: top center;
   position: fixed;
 }
-/* line 77, ../scss/main.scss */
+/* line 67, ../scss/main.scss */
 .splash-hero .hero-meat {
   position: absolute;
   top: 50%;
@@ -10393,7 +10393,7 @@ html, body {
   padding: 50px;
   background-color: rgba(0, 0, 0, 0.35);
 }
-/* line 89, ../scss/main.scss */
+/* line 79, ../scss/main.scss */
 .splash-hero .hero-meat h1 {
   font-family: 'Raleway', sans-serif;
   font-weight: regular;
@@ -10401,7 +10401,7 @@ html, body {
   line-height: 125%;
   text-shadow: 1px 0px 6px black;
 }
-/* line 96, ../scss/main.scss */
+/* line 86, ../scss/main.scss */
 .splash-hero .hero-meat h2 {
   font-family: 'Raleway', sans-serif;
   font-size: 30px;
@@ -10411,7 +10411,7 @@ html, body {
   padding-bottom: 60px;
   text-shadow: 1px 0px 6px black;
 }
-/* line 110, ../scss/main.scss */
+/* line 100, ../scss/main.scss */
 .splash-hero .hero-meat .btn-hero {
   font-family: 'Open Sans', sans-serif;
   font-weight: bold;
@@ -10423,31 +10423,31 @@ html, body {
   background-color: rgba(224, 97, 82, 0.75);
   transition: background-color .25s;
 }
-/* line 121, ../scss/main.scss */
+/* line 111, ../scss/main.scss */
 .splash-hero .hero-meat .btn-hero:hover {
   text-decoration: none;
   background-color: #e06152;
 }
 
 @media only screen and (min-width: 992px) {
-  /* line 136, ../scss/main.scss */
+  /* line 121, ../scss/main.scss */
   body {
     background-color: white;
     color: #242038;
   }
 }
-/* line 143, ../scss/main.scss */
+/* line 127, ../scss/main.scss */
 .page .options, .page .answer {
   padding: 10px;
   margin-bottom: 15px;
 }
 
-/* line 148, ../scss/main.scss */
+/* line 132, ../scss/main.scss */
 .page-wrapper {
   overflow: hidden;
 }
 
-/* line 152, ../scss/main.scss */
+/* line 136, ../scss/main.scss */
 .page {
   max-width: 900px;
   background-color: rgba(0, 0, 0, 0.5);
@@ -10455,17 +10455,17 @@ html, body {
   color: whitesmoke;
   margin: -15px;
 }
-/* line 159, ../scss/main.scss */
+/* line 143, ../scss/main.scss */
 .page .darkened {
   background-color: rgba(0, 0, 0, 0.3);
 }
-/* line 163, ../scss/main.scss */
+/* line 147, ../scss/main.scss */
 .page .inset-10 {
   padding: 15px;
   box-shadow: 5px 5px 15px rgba(20, 20, 20, 0.75);
-  background-color: rgba(255, 255, 255, 0.75);
+  background-color: rgba(255, 255, 255, 0.5);
 }
-/* line 169, ../scss/main.scss */
+/* line 153, ../scss/main.scss */
 .page .question {
   font-family: 'Raleway', sans-serif;
   font-weight: regular;
@@ -10473,20 +10473,20 @@ html, body {
   margin: 0 0 20px 0;
   padding: 25px;
 }
-/* line 176, ../scss/main.scss */
+/* line 159, ../scss/main.scss */
 .page .question a {
   color: whitesmoke;
   opacity: 0;
 }
-/* line 183, ../scss/main.scss */
+/* line 165, ../scss/main.scss */
 .page .graphic {
   position: relative;
 }
-/* line 185, ../scss/main.scss */
+/* line 168, ../scss/main.scss */
 .page .graphic img {
   max-width: 100%;
 }
-/* line 189, ../scss/main.scss */
+/* line 172, ../scss/main.scss */
 .page .graphic .preformatted-quote-text {
   font-family: 'Fondamento', cursive;
   font-weight: regular;
@@ -10496,11 +10496,11 @@ html, body {
   white-space: pre;
 }
 @media only screen and (min-width: 576px) {
-  /* line 201, ../scss/main.scss */
+  /* line 182, ../scss/main.scss */
   .page .graphic {
     min-height: 356px;
   }
-  /* line 205, ../scss/main.scss */
+  /* line 186, ../scss/main.scss */
   .page .preformatted-quote-text {
     position: absolute;
     top: 0;
@@ -10510,24 +10510,24 @@ html, body {
   }
 }
 @media only screen and (min-width: 992px) {
-  /* line 216, ../scss/main.scss */
+  /* line 196, ../scss/main.scss */
   .page .graphic {
     max-height: 300px;
   }
-  /* line 219, ../scss/main.scss */
+  /* line 199, ../scss/main.scss */
   .page .graphic img {
     max-width: 100%;
   }
-  /* line 222, ../scss/main.scss */
+  /* line 203, ../scss/main.scss */
   .page .graphic .preformatted-quote-text {
     white-space: pre;
   }
 }
-/* line 231, ../scss/main.scss */
+/* line 212, ../scss/main.scss */
 .page .options input[type='radio'] {
   display: none;
 }
-/* line 236, ../scss/main.scss */
+/* line 217, ../scss/main.scss */
 .page .options input[type='radio'] + label:before {
   content: "";
   display: inline-block;
@@ -10537,89 +10537,77 @@ html, body {
   width: 20px;
   margin-right: 10px;
 }
-/* line 249, ../scss/main.scss */
+/* line 228, ../scss/main.scss */
 .page .options input[type='radio']:checked + label {
   font-weight: bold;
 }
-/* line 251, ../scss/main.scss */
+/* line 231, ../scss/main.scss */
 .page .options input[type='radio']:checked + label:before {
   background-color: #cccccc;
 }
-/* line 256, ../scss/main.scss */
+/* line 237, ../scss/main.scss */
 .page .options input[type='radio']:checked + label.is-correct-true:before {
   background-color: #4e8b65;
 }
-/* line 262, ../scss/main.scss */
+/* line 244, ../scss/main.scss */
 .page .options input[type='radio']:checked + label.is-correct-false:before {
   background-color: #e06152;
 }
-/* line 267, ../scss/main.scss */
+/* line 249, ../scss/main.scss */
 .page .options input[type='radio']:checked + label.is-correct-true {
   color: whitesmoke;
 }
-/* line 272, ../scss/main.scss */
+/* line 254, ../scss/main.scss */
 .page .options input[type='radio']:checked + label.is-correct-false {
   color: whitesmoke;
 }
-/* line 275, ../scss/main.scss */
+/* line 257, ../scss/main.scss */
 .page .options input[type='radio']:checked + label.is-correct-false:after {
   content: "X";
   color: #e06152;
   display: inline-block;
 }
-/* line 283, ../scss/main.scss */
+/* line 265, ../scss/main.scss */
 .page .options .radio {
   font-size: 20px;
 }
-/* line 286, ../scss/main.scss */
+/* line 268, ../scss/main.scss */
 .page .options .radio .answered {
   color: #588495;
 }
-/* line 290, ../scss/main.scss */
+/* line 272, ../scss/main.scss */
 .page .options .radio .unanswered {
   color: rgba(20, 20, 20, 0.75);
 }
-/* line 298, ../scss/main.scss */
+/* line 280, ../scss/main.scss */
 .page .options ul li {
   font-size: 25px;
 }
-/* line 301, ../scss/main.scss */
-.page .options ul li .answered {
-  color: #588495;
-}
-/* line 305, ../scss/main.scss */
+/* line 283, ../scss/main.scss */
 .page .options ul li .unanswered {
   color: rgba(20, 20, 20, 0.75);
 }
-/* line 309, ../scss/main.scss */
-.page .options ul li .selected-class-name {
-  color: red !important;
-}
-/* line 314, ../scss/main.scss */
-.page .options ul li span .x-marker {
-  color: rgba(194, 51, 8, 0.9);
-}
-/* line 324, ../scss/main.scss */
+/* line 293, ../scss/main.scss */
 .page .answer {
   font-size: 25px;
   margin-bottom: 0px;
   position: relative;
 }
-/* line 330, ../scss/main.scss */
+/* line 299, ../scss/main.scss */
 .page .answer .feedback {
   text-align: center;
 }
-/* line 338, ../scss/main.scss */
+/* line 304, ../scss/main.scss */
 .page .testing {
   padding-top: 50px;
   margin-top: 100px;
 }
-/* line 341, ../scss/main.scss */
+/* line 308, ../scss/main.scss */
 .page .testing h3 {
   color: rgba(202, 196, 206, 0.8);
 }
 
-/* line 349, ../scss/main.scss */
+/* line 315, ../scss/main.scss */
 .btn-next {
   font-family: 'Open Sans', sans-serif;
   font-weight: bold;
@@ -10635,18 +10623,18 @@ html, body {
   background-color: rgba(88, 132, 149, 0.75);
   transition: background-color .25s;
 }
-/* line 363, ../scss/main.scss */
+/* line 329, ../scss/main.scss */
 .btn-next:hover {
   text-decoration: none;
   background-color: #588495;
 }
-/* line 367, ../scss/main.scss */
+/* line 334, ../scss/main.scss */
 .btn-next:focus {
   outline: 1px solid #588495;
 }
 
 @media only screen and (min-width: 576px) {
-  /* line 373, ../scss/main.scss */
+  /* line 340, ../scss/main.scss */
   .btn-next {
     width: auto;
     float: right;
@@ -10657,23 +10645,23 @@ html, body {
   }
 }
 @media only screen and (min-width: 576px) {
-  /* line 384, ../scss/main.scss */
+  /* line 351, ../scss/main.scss */
   .answer {
     min-height: 200px;
   }
 }
 @media only screen and (min-width: 576px) {
-  /* line 391, ../scss/main.scss */
+  /* line 358, ../scss/main.scss */
   .page {
     padding: 25px;
     margin: auto;
   }
-  /* line 395, ../scss/main.scss */
+  /* line 362, ../scss/main.scss */
   .page .question {
     font-size: 35px;
     min-height: 150px;
   }
-  /* line 399, ../scss/main.scss */
+  /* line 366, ../scss/main.scss */
   .page .question:before {
     font-family: 'MedievalSharp', cursive;
     font-weight: regular;
@@ -10684,7 +10672,7 @@ html, body {
     margin-top: -10px;
     padding-right: 20px;
   }
-  /* line 410, ../scss/main.scss */
+  /* line 377, ../scss/main.scss */
   .page .answer {
     overflow: auto;
   }

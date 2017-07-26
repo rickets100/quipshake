@@ -5,14 +5,17 @@ const regex = '*.*'
 class Game {
   constructor () {}
 
+  // get all works
   static getAllWorks (works) {
     return db(works)
   }
 
+  // get a particular work by id
   static getOneWork (works, id) {
     return db(works).select('*').where('id', id).first()
   }
 
+  // get a particular work by its idno
   static getOneWorkByIDNO (works, idno) {
     return db(works).select('*').where('idno', idno).first()
   }
@@ -23,7 +26,7 @@ class Game {
   }
 
   // get N random works, excluding those that lack a character list
-  // exclude idnos = luc, pht, son, ven
+  // exclude idnos = luc, pht, son, ven (poetical works)
   static getNRandomWorksNoChar(works, num, toBeExcluded = []) {
     return db(works).select('*').whereNotIn('idno', toBeExcluded).orderByRaw('RANDOM()').limit(num)
   }
@@ -39,45 +42,27 @@ class Game {
     .select('*')
     .innerJoin('all_people', 'works.idno', 'all_people.origin')
     .whereNot('works.idno', correctWorkIdno)
-    // .whereNot('all_people.character', character.character)
     .orderByRaw('RANDOM()').limit(3)
   }
 
+  // get N random characters, with optional exclusion list
   static getNRandomCharacters(workIdno, number, toBeExcluded = []) {
     return db('all_people').select('*').where('origin', workIdno).andWhere('lines', '>', 260).orderByRaw('RANDOM()').limit(number)
-
-    // return db('all_people').select('*').where('origin', workIdno)
-    // .orderByRaw('RANDOM()').limit(number)
-
-    // return db('all_people').select('*').where('origin', workIdno).havingRaw('character <>', regex).orderByRaw('RANDOM()').limit(number)
   }
 
-
+  // get N random works, concordance
   static getNRandomWorksConcord(num, toBeIncluded = ['Ham']) {
     return db('works').select('*').whereIn('idno', toBeIncluded).orderByRaw('RANDOM()').limit(num)
-
-    // return db('all_people').select('*').where('origin', workIdno)
-    // .orderByRaw('RANDOM()').limit(number)
-
-    // return db('all_people').select('*').where('origin', workIdno).havingRaw('character <>', regex).orderByRaw('RANDOM()').limit(number)
   }
 
+  // get a random word from a given work, with exclusions
    static getOneRandomWord(workIdno, exclusionList) {
     return db('word_frequency').select('*').whereIn('work', workIdno).whereNotIn('instances', exclusionList).orderByRaw('RANDOM()').limit(1)
   }
 
+  // get N random words for a given work
   static getNRandomWords(workIdno, num) {
-    return db('word_frequency').select('*').whereIn('work', workIdno).orderByRaw('RANDOM()').limit(num);
-    // return db('word_frequency').select('instances', 'id', 'work').whereIn('work', workIdno).groupBy('id','instances').orderByRaw('RANDOM()').limit(num);
-
-    // return db('word_frequency').where('work', workIdno).select('*').orderByRaw('RANDOM()').where(function() {
-    //   this.distinct('instances').select('*')}).limit(4)
-    // db.raw()
-
-  }
-
-  static getCharacterCount(tableName) {
-    return db(tableName).count('id').first()
+    return db('word_frequency').select('*').whereIn('work', workIdno).orderByRaw('RANDOM()').limit(num)
   }
 
 }
