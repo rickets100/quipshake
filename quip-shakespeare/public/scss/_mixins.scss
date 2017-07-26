@@ -70,3 +70,8 @@ font-weight: regular;
 font-family: 'MedievalSharp', cursive;
 font-weight: bold;
 }
+
+@mixin handwriting-regular {
+font-family: 'Fondamento', cursive;
+font-weight: regular;
+}

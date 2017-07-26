@@ -30,7 +30,7 @@
 
 
   <!-- ===== MAIN PORTION ===== -->
-  <div>
+  <div class="page-wrapper">
     <div class="page">
       <form id="answers" name="answers">
         <div class="container">
@@ -48,7 +48,7 @@
 
 
           <!-- ===== QUOTE BODY ===== -->
-          <div class="col-6 col-sm-6">
+          <div class="col-md-6">
             <div class="inset-10 darkened">
               <div class="graphic">
                 <div class="preformatted-quote-text" ng-hide="!$ctrl.showQuoteBody">
@@ -60,7 +60,7 @@
 
 
         <!-- ===== ANSWER OPTIONS ===== -->
-        <div class="col-6 col-sm-6 options-answers">
+        <div class="col-md-6 options-answers">
           <div class="darkened">
           <div class="options">
 
@@ -86,8 +86,8 @@
             <div class="answer darkened">
               <div class="feedback">
                 <strong>{{$ctrl.exclamation}} </strong> {{$ctrl.elaboration}}
-                <button ng-click="$ctrl.updateToQuestion()">NEXT
-                </button "btn-next custom-button">
+                <button ng-click="$ctrl.updateToQuestion()" class="btn-next custom-button">NEXT
+                </button>
               </div> <!-- feedback -->
             </div> <!-- answer darkened -->
           </div> <!-- row -->
