@@ -28,31 +28,10 @@ function randomNum (limit) {
 } // randomNum
 
 
-// ===== GET RANDOM ARRAY OF NUMBERS != CORRECT ✅ =====
-function randomArray (num, upperLimit, correct) {
-  let i = 1
-  let arr = []
-  while (i<= num) {
-    let temp = randomNum(upperLimit)
-    if (!(arr.includes(temp)) && (temp != correct)) {
-      arr.push(temp)
-      i++
-    }
-  }
-  return arr
-} // randomArray
-
-
 // ===== GET A RANDOM PLAY ✅ =====
 function getRandomPlay() {
   return playList[randomNum(canon)]
 } // getRandomPlay
-
-
-// ===== GET A RANDOM QUESTION TYPE ✅ =====
-function getRandomQuestionType() {
-  return playList[randomNum(canon)]
-} // getRandomQuestionType
 
 
 // ===== RANDOMIZE AN ARRAY (FISHER-YATES) ✅ =====
@@ -103,9 +82,7 @@ function buildConcordOptions(objArray, num) {
 
 module.exports = {
   randomNum,
-  randomArray,
   getRandomPlay,
-  getRandomQuestionType,
   loadXml,
   shuffle,
   sortArrayByKey,

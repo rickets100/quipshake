@@ -27,7 +27,8 @@ function getActCount() {
     null                        // result
   )
   console.log('Acts: ',  acts.numberValue)
-} // getActCount
+}
+
 
 // ===== GET SCENE COUNT =====
 function getSceneCount() {
@@ -39,13 +40,7 @@ function getSceneCount() {
     xpath.XPathResult.ANY_TYPE, // resultType
     null                        // result
   )
-  console.log('Scenes: ',  scenes.numberValue)
-} // getSceneCount
+}
 
 getActCount()
 getSceneCount()
-
-// module.exports = {
-//   getActCount,
-//   getSceneCount
-// }

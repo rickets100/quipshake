@@ -2,10 +2,6 @@
 // https://www.npmjs.com/package/file-system
 // https://www.npmjs.com/package/xpath
 
-// needed to install/require path package
-// tried to include express and get it to set a default directory, failed at that
-// wound-up using path.join to assemble the path to the test file
-
 /* xpath example: //title[@lang] (select all nodes named lang)
 - xpath example: //title[@lang='en'] (select all nodes with lang attribute that have a value of "en")
 
@@ -60,25 +56,10 @@ const playList = require('../data-sources/playList')
 const app = express()
 const parser = new xml2js.Parser()
 
-// app.set('texts', path.join(__dirname, 'texts')) // didn't seem to work
-
-// create a variable for each play's corresponding xml file
-// playList.forEach(function(play){
-//   let currentPlay = play.fileName
-//   let fullPath = (path.join(__dirname, 'texts/') + currentPlay)
-//   let targetFile = fs.readFileSync(fullPath, 'utf-8')
-//   let doc = new dom().parseFromString(targetFile)
-//   console.log('currentPlay: ', currentPlay)
-//
-// }) // forEach
 let currentPlay = playList[1].xmlName
-console.log('currentPlay: ', currentPlay)
 let readPath = (path.join(__dirname, 'data-sources/') + currentPlay)
-console.log('readpath: ', readPath);
 let writeFileName = (currentPlay.split('.')[0]) + '.js'
-console.log('writeFileName: ', writeFileName)
 let writePath = (path.join(__dirname, '../data-sources/') + writeFileName)
-console.log('writePath: ', writePath)
 fs.readFile(readPath, function(err, data) {
   parser.parseString(data, function (err, result) {
       console.dir(result)

@@ -1,16 +1,8 @@
-const express = require('express')
 const path = require('path')
 const xpath = require('xpath')
-const dom = require('xmldom').DOMParser
-const xml2js = require('xml2js')
-const parseString = require('xml2js').parseString
-const parser = new xml2js.Parser()
-const fs = require('file-system')
-const app = express()
-const playList = require('../bin/data-sources/playList')
 const questionTypes = 15
 const canon = 42
-const excludeList = ['Luc', 'PhT', 'Son', 'Ven']
+const excludeList = ['Luc', 'PhT', 'Son', 'Ven'] // these have no characters
 const game = require('./game-model').Game
 const type = require('./game-model').Type
 const random = require('../bin/scripts/utility-functions').randomNum
@@ -20,7 +12,7 @@ const random = require('../bin/scripts/utility-functions').randomNum
 function getQuestionType () {
   let randomTypeId = random(questionTypes)
   return type.getType('question_types', randomTypeId)
-} // getQuestionType
+}
 
 
 // ===== FORMULATE QUESTION ✅ =====
@@ -134,12 +126,12 @@ function newGetSpeech(doc, count) {
   let parent = '/TEI/text/body/div1[@type="act"]/div2[@type="scene"]/sp/ab[' + (count) + ']/'
   let speechNodes = `${parent}w` + ` | ` + `${parent}c` + ` | ` + `${parent}pc` + ` | ` + `${parent}lb`
   let result = xpath.evaluate(
-      speechNodes,                // xpathExpression
-      doc,                        // contextNode
-      null,                       // namespaceResolver
-      xpath.XPathResult.ANY_TYPE, // resultType
-      null                        // result
-    )
+    speechNodes,                // xpathExpression
+    doc,                        // contextNode
+    null,                       // namespaceResolver
+    xpath.XPathResult.ANY_TYPE, // resultType
+    null                        // result
+  )
   let node = result.iterateNext()
   let speech = ""
   let wordCount = 0
@@ -155,21 +147,20 @@ function newGetSpeech(doc, count) {
       if (node.childNodes[0].data) {
         speech = speech + node.childNodes[0].data
       }
-  }
+    }
     if (node.nodeName == 'pc') {
       // node.childnodes[0].data will give you an item of punctuation
       if (node.childNodes[0].data) {
         speech = speech + node.childNodes[0].data
       }
-}
+    }
     if (node.nodeName == 'c') {
       // node.childnodes[0].data will give you a space
       speech = speech + ' '
-
     }
-  node = result.iterateNext()
-}
-return speech
+    node = result.iterateNext()
+  }
+  return speech
 }
 
 

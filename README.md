@@ -1,63 +1,32 @@
 # quipshake
 Q4 Project
 
-# Why
-To demonstrate the viability of, and need for, a good API for the Folger Digital Texts. Case in point: listen to what this professor from the University of Calgary says in an article in The Spenser Review:
-
-"I direct a project to analyze Shakespeare’s rhetorical figures, and have approached the FDT’s developers about how research teams like mine can extract speeches (minus prefixes) from plays, and analyze their clausal syntax. (Knowing that “Featured like him, like him with friends possessed” is two clauses helps identify its anadiplosis.) I understand that the FDT’s editors are working to make this extraction easier, and they know they can’t anticipate every possible extraction and transformation."
-
-(source: Michael Ullyot, "Mark me: Using the Folger Digital Texts," Spenser Review 44.1.7 (Spring-Summer 2014). http://www.english.cam.ac.uk/spenseronline/review/volume-44/441/digital-projects/folger-digital-texts)
+# Summary
+Shakespeare quiz application
 
 
-# Available APIs
+# Source material
 Folger Digital Texts API
 http://www.folgerdigitaltexts.org/api
 (full texts of Shakespeare's plays for download in XML format, and limited information on character and word breakdowns, available as html)
 
-Netflix API
-https://www.programmableweb.com/api/netflix
-(10,000+ movies on file)
+Background image of Ophelia by Alexandre Cabanel
 
-JSTOR
-https://labs.jstor.org/developers/
-(JSTOR is a digital library of academic journals, books, and primary sources)
 
-Highcharts
-https://www.highcharts.com/docs
-(this is free for non-commercial uses - would allow visual representation of word-frequency and that kind of thing)
-
-# Possible Quiz Types
-1. Word frequency
-  - within a given play, pick which of two words occurs more often (example: "Which word appears more often in Much Ado About Nothing: 'this' or 'this other word?'")
-  - Given a list of 3 words from a given play, place them in order of frequency
+# Quiz Types
+1. Word frequency (concordance)
+  - within a given play, pick which of several words occurs more often
 2. Character weight
-  - Within a given play, which of two characters has more lines?
-  - Given a list of 3 characters from a given play, rank them by most lines spoken
-3. Quote recognition
-  - Given a quote of some fixed number of lines, guess the play from which it comes
-    - possibly have the ability to ask for additional lines for help (but would reduce score)
-  - True or false: does a given quote come from a given play?
+  - Within a given play, which of several characters has more lines?
+3. Quote origin
+  - Given a quote, guess the play from which it comes
 4. Play chronology
-  - Given a list of 3 plays, place them in chronological order
-  - True or False: play x was written before play y
-5. Character placement
-  - Name the play from whence a given character comes (could possibly ask for additional characters to be listed in order to help with guessing)
-  - True or False: a given character appears in a given play
-6. Silly Bonus questions
-  - using Watson to parse-through a character's words, analyze that "person" for things like "likelihood to take safety into account when purchasing a car" and then have the user guess (i.e. "Who would be more likely to show brand loyalty when purchasing sneakers: Hamlet or Lady Macbeth?") I have to see if Watson can handle old-English, though. It might not be able to.
-
-  For at least some of the questions, once the user has made their guess, the answer could be shown with an accompanying graph using Highcharts (example: in Romeo & Juliet, Romeo has 43% more lines than Mercutio - something like that).
+  - Given a list of several plays, guess which one was published first
+5. Character origin
+  - Name the play from whence a given character comes
 
 
-
-
-
-# Other relevant sites
-https://www.shakespearehelp.com/public-domain-shakespeare-images/
-
-
-# options for expanding down the road
-- could include audio recordings of the lines, so people could guess that way instead of via reading the text
-
-Movie adaptations
-  - could augment with questions about movie adaptations of Shakespeare's plays using a film-related API
+#To install:
+Fork and clone
+npm install
+npm run to start the server

@@ -38,12 +38,7 @@ let doc = new dom().parseFromString(targetFile)
     node = result.iterateNext()
   }
   console.log('speech: ', speech)
-} // getSpeech
-
-// module.exports = {
-//   getSpeech
-// }
-
+}
 
 
   // ===== TEST 1 =====
@@ -61,16 +56,13 @@ let doc = new dom().parseFromString(targetFile)
 
     while (node) {
       if (node.data != '\r\n') {
-      // console.log('node.nodeValue', node.nodeValue)
       speech = speech + node.nodeValue
     }
 
     node = result.iterateNext()
   }
   console.log('speech: ', speech)
-} // getSpeech
-
-
+}
 
 
 // ===== TEST 2 =====
@@ -79,7 +71,6 @@ function newGetSpeech(play, contextNode) {
   // let speechNodes = "/TEI/text/body/div1[1]/div2[1]/sp[1]/ab//*[self::lb | self::w | self::c | self::pc]"
   let parent = "/TEI/text/body/div1[1]/div2[1]/sp[1]/ab/"
   let speechNodes = `${parent}w` + ` | ` + `${parent}c` + ` | ` + `${parent}pc` + ` | ` + `${parent}lb`
-  // console.log('query will be ', speechNodes);
    let result = xpath.evaluate(
     speechNodes,                // xpathExpression
     contextNode,                // contextNode
@@ -98,18 +89,17 @@ function newGetSpeech(play, contextNode) {
       // node.childnodes[0].data will give you a word
       // console.log('node.childNodes[0].data: ', node.childNodes[0].data)
       speech = speech + node.childNodes[0].data
-  }
+    }
     if (node.nodeName == 'pc') {
       // node.childnodes[0].data will give you an item of punctuation
       // console.log('node.childNodes[0].data: ', node.childNodes[0].data);
       speech = speech + node.childNodes[0].data
-}
+    }
     if (node.nodeName == 'c') {
       console.log('node.childNodes[0].data: ', node.childNodes[0].data);
       speech = speech + ' '
 
     }
-  node = result.iterateNext()
+    node = result.iterateNext()
+  }
 }
-console.log('speech: ', speech)
-} // newGetSpeech

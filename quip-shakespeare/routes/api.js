@@ -1,7 +1,6 @@
 const express = require('express')
 const router = express.Router()
 const gameController = require('../game/game-controller')
-const fs = require('file-system')
 const path = require('path')
 const dom = require('xmldom').DOMParser
 const util = require('../bin/scripts/utility-functions')

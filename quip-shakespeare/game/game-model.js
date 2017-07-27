@@ -26,7 +26,7 @@ class Game {
   }
 
   // get N random works, excluding those that lack a character list
-  // exclude idnos = luc, pht, son, ven (poetical works)
+  // exclude idnos = Luc, PhT, Son, Ven (poetical works)
   static getNRandomWorksNoChar(works, num, toBeExcluded = []) {
     return db(works).select('*').whereNotIn('idno', toBeExcluded).orderByRaw('RANDOM()').limit(num)
   }
@@ -64,7 +64,6 @@ class Game {
   static getNRandomWords(workIdno, num) {
     return db('word_frequency').select('*').whereIn('work', workIdno).orderByRaw('RANDOM()').limit(num)
   }
-
 }
 
 class Type {
