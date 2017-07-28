@@ -13,32 +13,32 @@ http://www.folgerdigitaltexts.org/api
 Background image of Ophelia by Alexandre Cabanel
 
 #Landing page
-![alt text](https://github.com/rickets100/quipshake/qs-landing-page.png "Landing Page")
+![](https://github.com/rickets100/quipshake/qs-landing-page.png "Landing Page")
 
 #Mobile View
-![alt text](https://github.com/rickets100/quipshake/qs-mobile-view.png "Mobile View")
+![](https://github.com/rickets100/quipshake/qs-mobile-view.png "Mobile View")
 
 # Quiz Types
 1. Word frequency (concordance)
   - within a given play, pick which of several words occurs more often
-![alt text](https://github.com/rickets100/quipshake/qs-word-frequency.png "Word Frequency")
+![](https://github.com/rickets100/quipshake/qs-word-frequency.png "Word Frequency")
 
 2. Character weight
   - Within a given play, which of several characters has more lines?
-  ![alt text](https://github.com/rickets100/quipshake/qs-character-weight.png "Character Weight")
+  ![](https://github.com/rickets100/quipshake/qs-character-weight.png "Character Weight")
 
 3. Quote origin
   - Given a quote, guess the play from which it comes
-  ![alt text](https://github.com/rickets100/quipshake/qs-quote-origin.png "Quote Origin")
+  ![](https://github.com/rickets100/quipshake/qs-quote-origin.png "Quote Origin")
 
 4. Play chronology
   - Given a list of several plays, guess which one was published first
-  ![alt text](https://github.com/rickets100/quipshake/qs-chronology.png "Chronology")
+  ![](https://github.com/rickets100/quipshake/qs-chronology.png "Chronology")
 
 
 5. Character origin
   - Name the play from whence a given character comes
-  ![alt text](https://github.com/rickets100/quipshake/qs-character-origin.png "Character Origin")
+  ![](https://github.com/rickets100/quipshake/qs-character-origin.png "Character Origin")
 
 
 #To install:
