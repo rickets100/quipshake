@@ -12,9 +12,9 @@ http://www.folgerdigitaltexts.org/api
 
 Background image of Ophelia by Alexandre Cabanel
 
-![]https://github.com/rickets100/quipshake/qs-landing-page.png "Landing Page"
+![]qs-landing-page.png "Landing Page"
 
-![]https://github.com/rickets100/quipshake/qs-mobile-view.png "Mobile View"
+!([]/qs-mobile-view.png "Mobile View")
 
 # Quiz Types
 1. Word frequency (concordance)
