@@ -6,16 +6,6 @@
 @import url('https://fonts.googleapis.com/css?family=MedievalSharp');
 @import url('https://fonts.googleapis.com/css?family=Fondamento');
 
-// variables
-$recurring-black: rgba(36, 32, 56, 1);
-$recurring-blue: rgba(88, 132, 149, 1);
-$recurring-grey-blue: #4D6172;
-$recurring-grey: rgba(202, 196, 206, 0.8);
-$recurring-green: rgba(78, 139, 101, 1);
-$recurring-white: rgba(245, 245, 245, 1);
-$recurring-charcoal: rgba(20,20,20,.75);
-$recurring-coral: rgba(224, 97, 82, 1);
-
 body {
   background-color: white;
   @include body-text-regular;
@@ -49,7 +39,7 @@ html, body{
     }
 
     .nav-link:active {
-      color: $recurring-grey-blue;
+      color: $recurring-blue;
     }
   }
 }
@@ -103,7 +93,7 @@ html, body{
       border-radius: 13px;
       color: white;
       text-transform: uppercase;
-      background-color: rgba(224, 97, 82, .75);
+      background-color: $faded-recurring-coral;
       transition: background-color .25s;
 
       &:hover {
@@ -321,7 +311,7 @@ html, body{
   width: 100%;
   margin-top: 20px;
   margin-bottom: 35px;
-  background-color: rgba(88, 132, 149, .75);
+  background-color: $faded-recurring-blue;
   transition: background-color .25s;
 
   &:hover {

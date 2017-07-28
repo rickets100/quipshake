@@ -2,7 +2,6 @@ const path = require('path')
 const xpath = require('xpath')
 const questionTypes = 15
 const canon = 42
-const excludeList = ['Luc', 'PhT', 'Son', 'Ven'] // these have no characters
 const game = require('./game-model').Game
 const type = require('./game-model').Type
 const random = require('../bin/scripts/utility-functions').randomNum
@@ -71,7 +70,7 @@ function test3RandomWorks(correctWorkIdno, character, toBeExcluded = []) {
 }
 
 
-// ===== GET A RANDOM CHARACTER FROM A GIVEN WORK  ✅ =====
+// ===== GET A RANDOM CHARACTER FROM A GIVEN WORK ✅ =====
 function getNCharacters(workIdno, num, toBeExcluded = []) {
   return game.getNRandomCharacters(workIdno, num, toBeExcluded)
 }
@@ -164,7 +163,7 @@ function newGetSpeech(doc, count) {
 }
 
 
-// ===== GET A RANDOM SPEECH PART 2: ELECTRIC BOOGALOO ✅ =====
+// ===== GET A RANDOM SPEECH ✅ =====
 function getRandomSpeech (doc) {
   let speechCount = getSpeechCount(doc)
   let count = random(speechCount)
@@ -173,7 +172,7 @@ function getRandomSpeech (doc) {
 }
 
 
-// ===== GET A RANDOM SPEECH ✅ =====
+// ===== GET A SPEECH ✅ =====
 function getSpeech (doc) {
   let speech = getRandomSpeech (doc)
   return speech

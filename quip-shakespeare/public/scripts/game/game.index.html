@@ -1,6 +1,5 @@
 <div class="splash-hero">
 </div>
-<div>
 
   <!-- ===== NAVBAR ===== -->
   <div class="navvy">
@@ -45,55 +44,51 @@
           <div class="row">
 
 
-          <!-- ===== QUOTE BODY ===== -->
-          <div class="col-md-6">
-            <div class="inset-10 darkened">
-              <div class="graphic">
-                <div class="preformatted-quote-text" ng-hide="!$ctrl.showQuoteBody">
-                  {{$ctrl.quoteBody}}
+            <!-- ===== QUOTE BODY ===== -->
+            <div class="col-md-6">
+              <div class="inset-10 darkened">
+                <div class="graphic">
+                  <div class="preformatted-quote-text" ng-hide="!$ctrl.showQuoteBody">
+                    {{$ctrl.quoteBody}}
+                  </div>
                 </div>
               </div>
-            </div>
-          </div> <!-- column -->
-
-
-        <!-- ===== ANSWER OPTIONS ===== -->
-        <div class="col-md-6 options-answers">
-          <div class="darkened">
-          <div class="options">
-
-            <div ng-repeat="option in $ctrl.options track by $index" class="radio">
-              <input
-                id="answer_{{$index}}"
-                name="answer_{{$index}}"
-                ng-click="$ctrl.updateToAnswer(option.isCorrect, option.label, true, $index, options)"
-                ng-model="checked"
-                ng-init="checked=false"
-                type="radio"
-                name="optradio"
-              >
-              <label for="answer_{{$index}}" class="is-correct-{{option.isCorrect}}">
-                {{option.label}}
-                <span ng-if="checked && !option.isCorrect == true" class="animate-if">  </span>
-              </label>
-            </div> <!-- answer-options -->
-        </div> <!-- options -->
-        </div>
-
-          <!-- ===== ANSWER REVEAL ===== -->
-            <div class="answer darkened">
-              <div class="feedback">
-                <strong>{{$ctrl.exclamation}} </strong> {{$ctrl.elaboration}}
-                <button ng-click="$ctrl.updateToQuestion()" class="btn-next custom-button">NEXT
-                </button>
-              </div> <!-- feedback -->
-            </div> <!-- answer darkened -->
-          </div> <!-- row -->
-          <div class="row">
-            <div class="col-sm-12">
             </div> <!-- column -->
-          </div> <!-- container -->
-        </div> <!-- container -->
-      </form> <!-- form -->
+
+
+            <!-- ===== ANSWER OPTIONS ===== -->
+            <div class="col-md-6 options-answers">
+              <div class="darkened">
+                <div class="options">
+
+                  <div ng-repeat="option in $ctrl.options track by $index" class="radio">
+                    <input
+                    id="answer_{{$index}}"
+                    name="answer_{{$index}}"
+                    ng-click="$ctrl.updateToAnswer(option.isCorrect, option.label, true, $index, options)"
+                    ng-model="checked"
+                    ng-init="checked=false"
+                    type="radio"
+                    name="optradio"
+                    >
+                    <label for="answer_{{$index}}" class="is-correct-{{option.isCorrect}}">
+                      {{option.label}}
+                      <span ng-if="checked && !option.isCorrect == true" class="animate-if">  </span>
+                    </label>
+                  </div> <!-- answer-options -->
+                </div> <!-- options -->
+              </div>
+
+              <!-- ===== ANSWER REVEAL ===== -->
+              <div class="answer darkened">
+                <div class="feedback">
+                  <strong>{{$ctrl.exclamation}} </strong> {{$ctrl.elaboration}}
+                  <button ng-click="$ctrl.updateToQuestion()" class="btn-next custom-button">NEXT
+                  </button>
+                </div> <!-- feedback -->
+              </div> <!-- answer darkened -->
+            </div> <!-- row -->
+        </form>
+      </div> <!-- container -->
     </div> <!-- page -->
-</div> <!-- encompassing div -->
+  </div> <!-- page wrapper -->

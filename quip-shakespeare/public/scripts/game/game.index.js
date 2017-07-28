@@ -13,21 +13,17 @@
   function controller (baseUrl, $http){
     const vm = this
     vm.answered = false
-
     vm.score = 0
     vm.totalAsked = 0
     vm.question = ''
-
     vm.graphic = "/images/shakespeare-bw.png"
     vm.showImage = true
     vm.quoteBody = ''
     vm.showQuoteBody = false
     vm.showChart = true
-
     vm.options = []
     vm.isChosen = false
     vm.selectedIndex = 0
-
     vm.exclamation = ''
     vm.elaboration = ''
 
@@ -41,18 +37,17 @@
     // ===== POPULATE A GIVEN QUESTION =====
     function populateQuestion(questionConstraints) {
       let endpoint = (questionConstraints.type).split(' ').join('-')
-      console.log('hitting ', (`${baseUrl}/api/${endpoint}`))
       $http.get(`${baseUrl}/api/${endpoint}`)
-        .then((result)=>{
-          vm.showQuoteBody = result.data.imageUpdate
-          vm.question = result.data.question
-          vm.options = result.data.options
-          vm.isChosen = result.data.isChosen
+      .then((result)=>{
+        vm.showQuoteBody = result.data.imageUpdate
+        vm.question = result.data.question
+        vm.options = result.data.options
+        vm.isChosen = result.data.isChosen
 
-          if (vm.showQuoteBody) {
-            vm.updateImage(result.data.quoteBody)
-          }
-        })
+        if (vm.showQuoteBody) {
+          vm.updateImage(result.data.quoteBody)
+        }
+      })
     }
 
 
@@ -99,7 +94,7 @@
     }
 
 
-    // ===== TEST QUESTION PART | this is for testing only =====
+    // ===== TEST QUESTION PART | this is for testing / demo =====
     vm.testQuestion = function (qtype) {
       vm.showQuoteBody = false
       vm.totalAsked = vm.totalAsked + 1
@@ -120,7 +115,7 @@
     }
 
 
-    // ===== UPDATE GRAPHIC PART =====
+    // ===== UPDATE GRAPHIC =====
     vm.updateImage = function (quoteBody) {
       vm.showImage = false
       vm.showQuoteBody = true
