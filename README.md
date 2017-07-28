@@ -19,8 +19,8 @@ Background image of Ophelia by Alexandre Cabanel
 # Quiz Types
 1. Word frequency (concordance)
   - within a given play, pick which of several words occurs more often
-[Word frequency](https://raw.githubusercontent.com/rickets100/quipshake/master/qs-word-frequency.png)
-[Word frequency](./qs-word-frequency.png)
+![](https://raw.githubusercontent.com/rickets100/quipshake/master/qs-word-frequency.png) "Word frequency"
+![](./qs-word-frequency.png) "Word frequency"
 
 2. Character weight
 -Within a given play, which of several characters has more lines?
