@@ -65,7 +65,6 @@ html, body{
   position: fixed;
 
   .hero-meat {
-
     position: absolute;
     top: 50%;
     color: white;
@@ -98,7 +97,6 @@ html, body{
     }
 
     .btn-hero {
-
       @include body-text-bold;
       display: inline-block;
       padding: 10px 30px;

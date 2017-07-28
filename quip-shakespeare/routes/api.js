@@ -12,7 +12,6 @@ const excludeList = ['Luc', 'PhT', 'Son', 'Ven']
 
 // ===== FORMULATE QUESTION ✅ =====
 router.get ('/', function(req, res, next) {
-  console.log('(SERVER)/api/')
   var result = gameController.formulateQuestion(function(question) {
     let data = [
       {
@@ -40,7 +39,6 @@ router.get ('/', function(req, res, next) {
         endpoint:'/api/word-frequency'
       },
     ]
-    console.log('FORMULATE QUESTION: req', req)
     res.send(data)
   })
 })
@@ -212,7 +210,6 @@ router.get('/quote-origin', function(req, res, next) {
   gameController.getNRandomWorks(1, excludeList)
     .then(function(correctOption) {
       let correctTitle = correctOption[0].title
-      console.log('API QUOTE ORIGIN...working with ', correctTitle);
       gameController.get3RandomWorks(correctOption).then(function(wrongOptions) {
         wrongOptions.push(correctOption[0])
         let shuffled = util.shuffle(wrongOptions)
