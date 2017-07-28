@@ -29,7 +29,7 @@ Background image of Ophelia by Alexandre Cabanel
 
 3. Quote origin
   - Given a quote, guess the play from which it comes
-  ![]https://github.com/rickets100/quipshake/qs-quote-origin.png "Quote Origin"
+  ![]https://github.com/rickets100/quipshake/qs-quote-origin.png?raw=true
 
 4. Play chronology
   - Given a list of several plays, guess which one was published first
