@@ -12,10 +12,8 @@ http://www.folgerdigitaltexts.org/api
 
 Background image of Ophelia by Alexandre Cabanel
 
-#Landing page
 ![]https://github.com/rickets100/quipshake/qs-landing-page.png "Landing Page"
 
-#Mobile View
 ![]https://github.com/rickets100/quipshake/qs-mobile-view.png "Mobile View"
 
 # Quiz Types
