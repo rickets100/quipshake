@@ -12,37 +12,35 @@ http://www.folgerdigitaltexts.org/api
 
 Background image of Ophelia by Alexandre Cabanel
 
+
+# The Application
 ![](./qs-landing-page.png) "Landing Page"
 
 ![](./qs-mobile-view.png) "Mobile View"
 
-# Quiz Types
+## Quiz Types
 1. Word frequency (concordance)
   - within a given play, pick which of several words occurs more often
-
 ![](./qs-word-frequency.png) "Word frequency"
 
-2. Character weight
+### 2. Character weight
 -Within a given play, which of several characters has more lines?
-
-
 ![](./qs-character-weight.png) "Character Weight"
 
-3. Quote origin
+### 3. Quote origin
   - Given a quote, guess the play from which it comes
 ![](./qs-quote-origin.png)
 
-4. Play chronology
+### 4. Play chronology
   - Given a list of several plays, guess which one was published first
   ![](./qs-chronology.png) "Chronology"
 
-
-5. Character origin
+### 5. Character origin
   - Name the play from whence a given character comes
   ![](./qs-character-origin.png) "Character Origin"
 
 
-#To install:
+## To install:
 Fork and clone
 npm install
 npm run to start the server
