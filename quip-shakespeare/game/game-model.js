@@ -39,10 +39,18 @@ class Game {
   // get N random WORKS, excluding the "correct" work and a given character
   static getNWorksNotIdOrChar(works, correctWorkIdno, character, toBeExcluded = []) {
     return db(works)
-    .select('*')
+    .select('title')
     .innerJoin('all_people', 'works.idno', 'all_people.origin')
     .whereNot('works.idno', correctWorkIdno)
     .orderByRaw('RANDOM()').limit(3)
+
+
+    // return db.raw("SELECT DISTINCT title FROM (select title, idno from works inner join all_people on works.idno = all_people.origin WHERE works.idno != '"+correctWorkIdno+"' ) as fred ")
+
+
+    // .innerJoin('all_people', 'works.idno', 'all_people.origin')
+    // .whereNot('works.idno', correctWorkIdno)
+    // .orderByRaw('RANDOM()').limit(3)
   }
 
   // get N random CHARACTERS, with optional exclusion list

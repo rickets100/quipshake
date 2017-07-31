@@ -79,7 +79,7 @@
     }
 
 
-    // ===== TEST QUESTION PART =====
+    // ===== GET RANDOM QUESTION =====
     vm.getRandomQuestion = function () {
       vm.showQuoteBody = false
       $http.get( `${baseUrl}/api/formulate-question`)

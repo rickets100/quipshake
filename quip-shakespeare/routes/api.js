@@ -171,6 +171,8 @@ router.get('/character-origin', function(req, res, next) {
     gameController.getNCharacters(correctWorkIdno, 1, excludeList)
       .then(function(character) {
       gameController.test3RandomWorks(correctWorkIdno, character[0], excludeList).then(function(wrongOptions) {
+        console.log("wrongOptions",wrongOptions)
+        // wrongOptions = wrongOptions.rows;
         let selectedCharacter = character[0].character
         wrongOptions.push(correctOption[0])
         let shuffled = util.shuffle(wrongOptions)

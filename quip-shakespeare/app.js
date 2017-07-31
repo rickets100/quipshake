@@ -8,14 +8,29 @@ const Chart = require('chart.js')
 require('dotenv').config()
 
 var apiRoutes = require('./routes/api') // api.js in routes
-
 var app = express()
+
+var allowCrossDomain = function(req, res, next) {
+    res.header('Access-Control-Allow-Origin', '*');
+    res.header('Access-Control-Allow-Methods', 'GET')
+    res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization, Content-Length, X-Requested-With');
+
+    // intercept OPTIONS method
+    if ('OPTIONS' == req.method) {
+      res.send(200);
+    }
+    else {
+      next();
+    }
+};
 
 app.enable('trust proxy')
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'))
 app.set('view engine', 'hbs');
+
+app.use(allowCrossDomain)
 app.use(require('express-partials')())
 
 app.use(favicon(path.join(__dirname, 'public', 'favicon.ico')))
