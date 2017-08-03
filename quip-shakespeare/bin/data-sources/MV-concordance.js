@@ -1,3257 +1,3255 @@
-Concordance of Merchant of Venice:
-
-802: The
-647: I
-574: And
-448: You
-446: To
-438: Of
-415: A
-364: My
-294: In
-263: Is
-262: Me
-255: That
-233: It
-224: For
-219: Not
-187: Be
-184: With
-181: But
-175: He
-175: Your
-161: Have
-154: His
-148: This
-141: As
-132: Will
-120: If
-118: So
-114: Do
-110: Him
-108: Shall
-105: What
-104: By
-104: Thou
-101: Are
-91: No
-82: All
-80: Well
-76: Am
-74: There
-72: Would
-68: Here
-68: On
-67: From
-67: Let
-66: Her
-65: More
-65: Thee
-64: Come
-64: Then
-64: We
-63: At
-63: Good
-63: Than
-60: Which
-59: How
-59: Love
-59: Thy
-57: Jew
-56: Go
-56: When
-55: Man
-52: An
-52: Hath
-51: Or
-51: Should
-50: Upon
-49: Give
-48: Did
-48: Much
-47: I’ll
-47: Now
-47: Was
-46: One
-45: Lord
-45: See
-45: Who
-44: Antonio
-44: Say
-43: Such
-43: Take
-43: They
-42: Had
-42: Know
-42: Pray
-42: Them
-40: Why
-39: Bond
-39: Doth
-39: Sir
-37: May
-37: Ring
-37: She
-35: Must
-35: Nor
-35: Were
-35: Yet
-34: Fair
-33: Bassanio
-33: Make
-33: O
-33: Some
-32: Like
-32: Master
-32: Never
-31: Father
-31: Therefore
-31: These
-30: Ducats
-30: Tell
-30: Too
-30: Us
-30: Very
-29: Our
-28: Can
-27: Choose
-27: Lady
-27: Lancelet
-27: Where
-26: Friend
-26: Three
-26: Two
-25: Hear
-25: Leave
-25: Men
-25: Mine
-24: House
-24: Lorenzo
-24: Many
-24: Think
-24: True
-23: Before
-23: Day
-23: Flesh
-23: Nothing
-23: Speak
-23: Swear
-23: Sweet
-23: Their
-23: Young
-22: Away
-22: Christian
-22: Comes
-22: Life
-22: Look
-22: Night
-22: Old
-22: Out
-22: Thousand
-22: Time
-21: Any
-21: Better
-21: Fortune
-21: Hand
-21: Jessica
-21: Judge
-21: Other
-21: Stand
-21: ’tis
-20: Cannot
-20: Daughter
-20: Most
-20: Own
-19: Eyes
-19: Heart
-19: Myself
-19: Part
-19: Venice
-19: Wife
-18: Bid
-18: Even
-17: Live
-17: Made
-17: Mind
-17: Nerissa
-17: Same
-17: Shylock
-17: Welcome
-16: Being
-16: Doctor
-16: Find
-16: God
-16: Heaven
-16: Into
-16: Law
-16: Show
-16: Yours
-15: Blood
-15: Boy
-15: Fear
-15: First
-15: Gold
-15: Justice
-15: Madam
-15: Money
-15: Music
-15: Says
-15: Soul
-15: Times
-15: World
-14: Again
-14: Answer
-14: Ay
-14: Both
-14: Court
-14: Devil
-14: Faith
-14: Gentle
-14: Gratiano
-14: Half
-14: Indeed
-14: Letter
-14: News
-14: None
-14: Portia
-14: Run
-14: Unto
-13: Been
-13: Clerk
-13: Dear
-13: Deny
-13: Head
-13: Mercy
-13: Thus
-13: Till
-13: Up
-13: Wish
-13: Wrong
-12: Duke
-12: Every
-12: Friends
-12: Get
-12: Gone
-12: Honest
-12: Honor
-12: Hope
-12: Kind
-12: Little
-12: Lose
-12: Nay
-12: Neither
-12: Only
-12: Poor
-12: Rather
-12: Rest
-12: State
-12: Talk
-12: Told
-12: Turn
-12: Word
-11: Art
-11: Bound
-11: Bring
-11: Call
-11: Chooseth
-11: Could
-11: Desire
-11: Dinner
-11: Forfeit
-11: Forth
-11: Gave
-11: Gentleman
-11: Hazard
-11: Himself
-11: Hold
-11: Means
-11: Pound
-11: Power
-11: Prince
-11: Shalt
-11: Since
-11: Something
-11: Spirit
-11: Still
-11: Suit
-11: Th’
-11: Tonight
-11: Use
-11: Way
-10: Another
-10: Between
-10: Conscience
-10: Cut
-10: Death
-10: Enough
-10: Ever
-10: Eye
-10: Fiend
-10: Grace
-10: Hard
-10: Hast
-10: Husband
-10: Jew’s
-10: Keep
-10: Merry
-10: Pardon
-10: Place
-10: Son
-10: Stay
-10: Sure
-10: Thank
-10: Things
-10: Twenty
-10: Whose
-10: Within
-10: Words
-9: About
-9: Best
-9: Break
-9: Came
-9: Done
-9: Down
-9: Draw
-9: Else
-9: Fare
-9: Fool
-9: Heard
-9: Judgment
-9: Lead
-9: Lend
-9: Lie
-9: Mark
-9: Marry
-9: Oath
-9: Off
-9: Play
-9: Please
-9: Present
-9: Return
-9: Rich
-9: Right
-9: Sad
-9: Signior
-9: Sum
-9: That’s
-9: Though
-9: Thought
-9: Tubal
-9: Unless
-9: Whether
-9: Whom
-9: Wind
-9: Wise
-9: Without
-8: Become
-8: Bellario
-8: Dog
-8: Dost
-8: End
-8: Ere
-8: Full
-8: Glad
-8: Home
-8: Last
-8: Learnèd
-8: Left
-8: Light
-8: Makes
-8: Meet
-8: Months
-8: Name
-8: Pay
-8: Reason
-8: Serve
-8: Sola
-8: Truth
-8: Wear
-8: What’s
-8: Wit
-8: Yes
-8: Youth
-7: After
-7: Anything
-7: Appear
-7: Bassanio’s
-7: Bear
-7: Belmont
-7: Beseech
-7: Casket
-7: Company
-7: Deed
-7: Far
-7: Follow
-7: Forfeiture
-7: Four
-7: Great
-7: Grow
-7: Holy
-7: Long
-7: Lost
-7: Might
-7: Mistress
-7: New
-7: Noble
-7: Offer
-7: Once
-7: O’er
-7: Parts
-7: Plain
-7: Prepare
-7: Presently
-7: Promise
-7: Saying
-7: Seek
-7: Ship
-7: Silver
-7: Straight
-7: Strange
-7: Teach
-7: There’s
-7: Tongue
-7: Under
-7: Until
-7: Value
-7: Wealth
-7: While
-7: Withal
-7: Worth
-6: Adieu
-6: Back
-6: Because
-6: Bed
-6: Body
-6: Caskets
-6: Certain
-6: Daniel
-6: Deserves
-6: Face
-6: Fail
-6: Farewell
-6: Father’s
-6: Fie
-6: Gobbo
-6: Golden
-6: Got
-6: Ha
-6: Haste
-6: Hence
-6: Hour
-6: Itself
-6: Joy
-6: Knew
-6: Less
-6: Loved
-6: Matter
-6: Mean
-6: Merchant
-6: Methinks
-6: Morning
-6: Mother
-6: Near
-6: Opinion
-6: Purpose
-6: Put
-6: Question
-6: Seal
-6: Set
-6: Six
-6: Soft
-6: Ten
-6: Thing
-6: Third
-6: Those
-6: Thoughts
-6: Understand
-6: Voice
-6: Wilt
-6: Woman
-5: Affection
-5: Among
-5: Answered
-5: Antonio’s
-5: Assured
-5: Aught
-5: Begged
-5: Believe
-5: Blessing
-5: Bought
-5: Cause
-5: Choice
-5: Confess
-5: Content
-5: Counsel
-5: Dead
-5: Deserve
-5: Doubt
-5: Earth
-5: Entreat
-5: Expect
-5: Fall
-5: Fast
-5: Feed
-5: Fell
-5: Finger
-5: Fools
-5: Force
-5: Found
-5: Grant
-5: Hair
-5: Hate
-5: Ho
-5: Ill
-5: Interest
-5: Kiss
-5: Knows
-5: Lay
-5: Lies
-5: Maid
-5: Man’s
-5: Moneys
-5: Next
-5: Ne’er
-5: Owe
-5: Padua
-5: Paid
-5: Paper
-5: Penalty
-5: Pleased
-5: Praise
-5: Prodigal
-5: Prove
-5: Raise
-5: Ready
-5: Refuse
-5: Render
-5: Revenge
-5: Rialto
-5: Sake
-5: Salerio
-5: Saw
-5: Sea
-5: Sick
-5: Silence
-5: Sound
-5: Speed
-5: Spoke
-5: Stones
-5: Supper
-5: Sworn
-5: Thrice
-5: Together
-5: View
-5: We’ll
-5: Whereof
-5: Wild
-5: Worse
-5: Worship
-5: ’t
-4: Above
-4: Against
-4: Alas
-4: Almost
-4: Appears
-4: Besides
-4: Breath
-4: Bred
-4: Business
-4: Candle
-4: Change
-4: Charge
-4: Cheer
-4: Child
-4: Christians
-4: Cold
-4: Coming
-4: Complexion
-4: Cover
-4: Damned
-4: Dare
-4: Die
-4: Difference
-4: Doing
-4: Ear
-4: Ears
-4: England
-4: Estate
-4: Expressed
-4: Feast
-4: Fee
-4: Fire
-4: Foot
-4: Forgive
-4: Fortunes
-4: Gain
-4: Genoa
-4: Gift
-4: Given
-4: God’s
-4: Goods
-4: Hands
-4: Happy
-4: Having
-4: Hearts
-4: Here’s
-4: High
-4: Hours
-4: Husbands
-4: Jacob
-4: Jailer
-4: Jewels
-4: Knife
-4: Lack
-4: Laugh
-4: Lest
-4: Lodging
-4: Losses
-4: Low
-4: Luck
-4: Making
-4: Marriage
-4: Married
-4: Messenger
-4: Moon
-4: Nature
-4: Needs
-4: Note
-4: Oft
-4: Pains
-4: Parted
-4: Pause
-4: Plea
-4: Possessed
-4: Prayer
-4: Read
-4: Sail
-4: Second
-4: Seen
-4: Service
-4: Shadow
-4: Ships
-4: Shows
-4: Signify
-4: Simple
-4: Sit
-4: Sober
-4: Sounds
-4: Steal
-4: Stood
-4: Stop
-4: Table
-4: Tarry
-4: Terms
-4: Themselves
-4: Thine
-4: Toward
-4: Tribe
-4: Truly
-4: Turning
-4: Upright
-4: Venetian
-4: Ventures
-4: Waste
-4: Watch
-4: Waters
-4: Wherein
-4: Wives
-4: Won
-4: Wont
-4: Worthy
-4: Yield
-4: Yourself
-4: You’ll
-4: ’gainst
-4: ’twere
-3: Abroad
-3: Absence
-3: According
-3: Account
-3: Acquainted
-3: Act
-3: Afeard
-3: Affections
-3: Air
-3: Alack
-3: Alone
-3: Along
-3: Already
-3: Ancient
-3: Angel
-3: Anon
-3: Ask
-3: A’
-3: Bad
-3: Bar
-3: Bears
-3: Beg
-3: Behind
-3: Behold
-3: Bless
-3: Blest
-3: Blind
-3: Bold
-3: Bosom
-3: Breathing
-3: Brief
-3: Brings
-3: Budge
-3: Buy
-3: Calls
-3: Canst
-3: Care
-3: Carrion
-3: Certainly
-3: Chance
-3: Commend
-3: Common
-3: Condition
-3: Contains
-3: Course
-3: Courteous
-3: Courtesy
-3: Creep
-3: Cruelty
-3: Cur
-3: Danger
-3: Dangerous
-3: Debt
-3: Debts
-3: Deceived
-3: Deserved
-3: Desires
-3: Dies
-3: Doors
-3: Double
-3: Drop
-3: Drops
-3: Ducat
-3: Due
-3: Dull
-3: Dumb
-3: Enemy
-3: Ergo
-3: Estimation
-3: Ewes
-3: E’er
-3: Fairer
-3: Falls
-3: False
-3: Fault
-3: Fellow
-3: Fine
-3: Fleece
-3: Fly
-3: Fourscore
-3: Freely
-3: French
-3: Furnish
-3: Gaping
-3: Gate
-3: Girl
-3: Gives
-3: Goodly
-3: Gratis
-3: Grieve
-3: Gross
-3: Ground
-3: Grows
-3: Habit
-3: Hates
-3: Hearing
-3: Hell
-3: Hercules
-3: Herein
-3: Herself
-3: Hid
-3: Honorable
-3: Hopes
-3: Horse
-3: Husband’s
-3: Immediately
-3: Inquire
-3: Instantly
-3: Italy
-3: I’
-3: Jacob’s
-3: Judge’s
-3: Keen
-3: Key
-3: Kindness
-3: King
-3: Known
-3: Late
-3: Laws
-3: Learn
-3: Learning
-3: Letters
-3: Let’s
-3: Liberal
-3: Longer
-3: Looks
-3: Lord’s
-3: Loss
-3: Loving
-3: Mad
-3: Mak’st
-3: Masque
-3: Mayst
-3: Meaning
-3: Merchandise
-3: Merchants
-3: Merchant’s
-3: Merit
-3: Month
-3: Nation
-3: Naughty
-3: Need
-3: Notwithstanding
-3: Oaths
-3: Obtained
-3: Offices
-3: Often
-3: Ornament
-3: Outward
-3: Over
-3: O’clock
-3: Past
-3: Peril
-3: Picture
-3: Pity
-3: Pluck
-3: Pork
-3: Precious
-3: Principal
-3: Prop
-3: Provided
-3: Purchased
-3: Purse
-3: Quick
-3: Rack
-3: Rate
-3: Receive
-3: Remember
-3: Repent
-3: Respect
-3: Returned
-3: Reverence
-3: Ribs
-3: Richly
-3: Rocks
-3: Ruin
-3: Satisfied
-3: Scarce
-3: Scroll
-3: Search
-3: Seasoned
-3: Seem
-3: Self
-3: Send
-3: Sent
-3: Sentence
-3: Servants
-3: Shame
-3: Shines
-3: Shortly
-3: Sin
-3: Sing
-3: Sirrah
-3: Sleeps
-3: Soon
-3: Sorry
-3: Sort
-3: Souls
-3: Speaks
-3: Spet
-3: Spirits
-3: Staff
-3: Substance
-3: Summer
-3: Sun
-3: Swore
-3: Tail
-3: Taken
-3: Tears
-3: Thieves
-3: Thrift
-3: Through
-3: Thyself
-3: Today
-3: Torchbearer
-3: Treason
-3: Tried
-3: Trifle
-3: Tripolis
-3: Try
-3: Twice
-3: Venture
-3: Virtue
-3: Void
-3: Ways
-3: Wealthy
-3: Whole
-3: Win
-3: Wine
-3: Wisdom
-3: Witness
-3: Work
-3: Worst
-3: Yea
-3: Year
-3: Years
-2: Abide
-2: Able
-2: Abram
-2: Absent
-2: Accept
-2: Acquitted
-2: Advised
-2: Afternoon
-2: Age
-2: Albeit
-2: Alcides
-2: Alive
-2: Allay
-2: Aloof
-2: Alter
-2: Ambitious
-2: Amen
-2: Amity
-2: Answers
-2: Approach
-2: Argosies
-2: Argosy
-2: Armed
-2: Ashamed
-2: Aspect
-2: Assume
-2: Attempt
-2: Attend
-2: Attended
-2: Attribute
-2: Authority
-2: Awards
-2: Bagpipe
-2: Bags
-2: Bait
-2: Balthazar
-2: Bankrout
-2: Bare
-2: Bargains
-2: Bark
-2: Bars
-2: Base
-2: Bastard
-2: Bated
-2: Beard
-2: Bearing
-2: Beauty
-2: Bedfellow
-2: Beggar
-2: Begone
-2: Behavior
-2: Bell
-2: Beshrew
-2: Bestowed
-2: Bethink
-2: Bids
-2: Blame
-2: Bleed
-2: Bliss
-2: Bloody
-2: Blow
-2: Books
-2: Born
-2: Borrow
-2: Borrowed
-2: Bragging
-2: Breast
-2: Breed
-2: Bright
-2: Brook
-2: Brow
-2: Called
-2: Casements
-2: Cat
-2: Catch
-2: Chaff
-2: Changed
-2: Charity
-2: Cheek
-2: Chooses
-2: Choosing
-2: Chose
-2: Church
-2: Claim
-2: Clear
-2: Clock
-2: Close
-2: Commandment
-2: Commendable
-2: Commends
-2: Commit
-2: Commodity
-2: Commonwealth
-2: Conceit
-2: Confiscate
-2: Constant
-2: Contain
-2: Contrary
-2: Converse
-2: Cooled
-2: Corners
-2: Cost
-2: Countrymen
-2: Courtesies
-2: Creature
-2: Credit
-2: Creditors
-2: Cross
-2: Cruel
-2: Currish
-2: Curtain
-2: Curtains
-2: Custom
-2: Dagger
-2: Dam
-2: Dark
-2: Daughter’s
-2: Dearest
-2: Decree
-2: Deeds
-2: Deep
-2: Delight
-2: Deliver
-2: Delivered
-2: Description
-2: Deserts
-2: Deserving
-2: Deservings
-2: Destiny
-2: Diana
-2: Ding
-2: Direct
-2: Directed
-2: Direction
-2: Directly
-2: Discharge
-2: Dismay
-2: Doctor’s
-2: Dong
-2: Door
-2: Doubtful
-2: Dread
-2: Drive
-2: Dwell
-2: Dwells
-2: Earthly
-2: Easy
-2: Eat
-2: Either
-2: Election
-2: Embracèd
-2: Empty
-2: Enforcèd
-2: Engaged
-2: English
-2: Enow
-2: Enter
-2: Entrap
-2: Equal
-2: Error
-2: Esteemed
-2: Evermore
-2: Evil
-2: Example
-2: Exceeding
-2: Excess
-2: Excuse
-2: Extend
-2: Fairly
-2: Fancy
-2: Farther
-2: Fashion
-2: Faster
-2: Favor
-2: Fed
-2: Fellows
-2: Fifth
-2: Fish
-2: Fleet
-2: Flight
-2: Flood
-2: Follows
-2: Fond
-2: Food
-2: Foolish
-2: Fool’s
-2: Forbid
-2: Forever
-2: Forsworn
-2: Freedom
-2: Frenchman
-2: Friendship
-2: Frowning
-2: Furnished
-2: Gallows
-2: Gaze
-2: Gazing
-2: Gear
-2: Gentlemen
-2: Gifts
-2: Giving
-2: Goes
-2: Goest
-2: Gossip
-2: Gracious
-2: Grave
-2: Greater
-2: Grossly
-2: Hairs
-2: Halter
-2: Hang
-2: Hanged
-2: Hanging
-2: Hark
-2: Harmony
-2: Has
-2: Heartily
-2: Heart’s
-2: Heat
-2: Heavenly
-2: Heavens
-2: Heavy
-2: Hebrew
-2: Heed
-2: Heels
-2: Held
-2: Help
-2: Hie
-2: Hip
-2: Hit
-2: Hither
-2: Holds
-2: Hood
-2: Hot
-2: Hue
-2: Humbleness
-2: Impeach
-2: Imposition
-2: Indirectly
-2: Infidel
-2: Instant
-2: Issue
-2: Jasons
-2: Jewish
-2: Just
-2: Kept
-2: Kill
-2: Kings
-2: Knave
-2: Know’st
-2: Ladies
-2: Land
-2: Leisure
-2: Lieu
-2: Lips
-2: Liveries
-2: Livery
-2: Lives
-2: Living
-2: Locks
-2: Looked
-2: Lords
-2: Loud
-2: Lover
-2: Lovers
-2: Madness
-2: Maids
-2: Main
-2: Malice
-2: Manly
-2: Manners
-2: Margery
-2: Masters
-2: Master’s
-2: Match
-2: Meantime
-2: Measure
-2: Meat
-2: Memory
-2: Merciful
-2: Metal
-2: Mexico
-2: Mightiest
-2: Miles
-2: Mirth
-2: Miscarried
-2: Misfortune
-2: Miss
-2: Moan
-2: Modesty
-2: Monarch
-2: Moor
-2: Morocco
-2: Motion
-2: Multitude
-2: Narrow
-2: Naught
-2: Nearest
-2: Necessity
-2: Neighbor
-2: Nine
-2: Noise
-2: Nominated
-2: Nose
-2: Occasion
-2: Offend
-2: Offers
-2: Ope
-2: Others
-2: Ours
-2: Outside
-2: Palatine
-2: Parrots
-2: Pass
-2: Passion
-2: Passions
-2: Patience
-2: Peace
-2: People
-2: Petty
-2: Pierce
-2: Pig
-2: Pleasure
-2: Port
-2: Portia’s
-2: Post
-2: Posy
-2: Praising
-2: Prayers
-2: Presence
-2: Press
-2: Pretty
-2: Price
-2: Prize
-2: Proceed
-2: Profit
-2: Proper
-2: Proved
-2: Proverb
-2: Puts
-2: Quality
-2: Queen
-2: Rage
-2: Rain
-2: Rams
-2: Ran
-2: Rank
-2: Rare
-2: Rated
-2: Rats
-2: Renownèd
-2: Reply
-2: Request
-2: Reverend
-2: Rhenish
-2: Rightly
-2: Rings
-2: Road
-2: Round
-2: Royal
-2: Rude
-2: Ruled
-2: Sacrifice
-2: Sadness
-2: Said
-2: Sailors
-2: Saint
-2: Sand
-2: Sandblind
-2: Save
-2: Saving
-2: Scant
-2: School
-2: Scrubbèd
-2: Sealèd
-2: Seas
-2: Secret
-2: Selfsame
-2: Sell
-2: Sensible
-2: Served
-2: Serves
-2: Seven
-2: Shames
-2: Shed
-2: She’s
-2: Shoot
-2: Shut
-2: Side
-2: Sigh
-2: Sign
-2: Signiors
-2: Sings
-2: Sins
-2: Sits
-2: Sleep
-2: Sooth
-2: Speak’st
-2: Specify
-2: Spent
-2: Sport
-2: Spurn
-2: Stake
-2: Stands
-2: Stayed
-2: Stays
-2: Stead
-2: Stephano
-2: Stillness
-2: Stol’n
-2: Store
-2: Stranger
-2: Strangers
-2: Stream
-2: Strumpet
-2: Stuck
-2: Subject
-2: Suddenly
-2: Suffice
-2: Sufficient
-2: Suited
-2: Suitors
-2: Supply
-2: Surety
-2: Surfeit
-2: Swearing
-2: Sweat
-2: Synagogue
-2: Tainted
-2: Taste
-2: Ta’en
-2: Teaches
-2: Teaching
-2: Tedious
-2: Tells
-2: Tender
-2: Thankfully
-2: Thanks
-2: Therein
-2: Thief
-2: Thinks
-2: Thrive
-2: Title
-2: Took
-2: Touch
-2: Touches
-2: Towards
-2: Trees
-2: Tribute
-2: Trouble
-2: Trumpet
-2: Trust
-2: Trusted
-2: Turned
-2: Undervalued
-2: Unlike
-2: Unquiet
-2: Urge
-2: Usance
-2: Uttermost
-2: Varnished
-2: Veins
-2: Vessel
-2: Vile
-2: Vilely
-2: Villain
-2: Virgin
-2: Virtues
-2: Visages
-2: Vow
-2: Wager
-2: Walk
-2: Wanton
-2: Wants
-2: Water
-2: Wearies
-2: Wednesday
-2: Weigh
-2: Weight
-2: Whilst
-2: White
-2: Who’s
-2: Wide
-2: Widows
-2: Wife’s
-2: Willful
-2: Winds
-2: Wings
-2: Wolf
-2: Wondrous
-2: Woo
-2: Worship’s
-2: Wouldst
-2: Woven
-2: Writ
-2: Writing
-2: Yond
-2: Yonder
-2: ’scape
-2: ’tween
-2: ’twill
-1: A-bleeding
-1: A-brewing
-1: A-cap’ring
-1: Abate
-1: Abject
-1: Aboard
-1: Abode
-1: Abridged
-1: Abundance
-1: Acceptance
-1: Accepted
-1: Accident
-1: Accomplishèd
-1: Accoutered
-1: Accused
-1: Achieved
-1: Acknowledge
-1: Acquaintance
-1: Add
-1: Addressed
-1: Admit
-1: Ado
-1: Advantage
-1: Advantages
-1: Adventuring
-1: Adversary
-1: Advice
-1: Advisedly
-1: Advisèd
-1: Aeson
-1: Affairs
-1: Aforesaid
-1: Afterward
-1: Agitation
-1: Agree
-1: Ague
-1: Aim
-1: Alabaster
-1: Alien
-1: Alighted
-1: Allows
-1: Although
-1: Always
-1: Amazed
-1: Ambassador
-1: Amiss
-1: Amorous
-1: Andrew
-1: Animals
-1: Antipodes
-1: Anyone
-1: Apparel
-1: Apparent
-1: Appeareth
-1: Appetite
-1: Applause
-1: Apple
-1: Approaching
-1: Appropriation
-1: Approve
-1: April
-1: Arabia
-1: Argus
-1: Army
-1: Arragon
-1: Arrow
-1: Ash
-1: Aside
-1: Asses
-1: Assumes
-1: Attain
-1: Attempts
-1: Attendeth
-1: Attentive
-1: Autumn
-1: Awaked
-1: Awe
-1: Aweary
-1: Axe
-1: Bachelor
-1: Backward
-1: Badge
-1: Bag
-1: Bagpiper
-1: Balance
-1: Balls
-1: Baned
-1: Bank
-1: Barabbas
-1: Barbarous
-1: Barbary
-1: Barely
-1: Bargain
-1: Baron
-1: Barren
-1: Bate
-1: Bay
-1: Beach
-1: Beams
-1: Beards
-1: Beast
-1: Beaten
-1: Beauteous
-1: Beauties
-1: Beautiful
-1: Became
-1: Bechanced
-1: Becomes
-1: Beds
-1: Beefs
-1: Beest
-1: Beggared
-1: Begin
-1: Begot
-1: Begotten
-1: Behalf
-1: Beheld
-1: Beholding
-1: Behold’st
-1: Bellario’s
-1: Bellowing
-1: Belly
-1: Belovèd
-1: Bend
-1: Beneath
-1: Bereft
-1: Beset
-1: Besmear
-1: Bespeak
-1: Bestow
-1: Bestows
-1: Betimes
-1: Bettered
-1: Beware
-1: Bidding
-1: Big
-1: Bind
-1: Bird
-1: Birth
-1: Black
-1: Blearèd
-1: Bleat
-1: Blent
-1: Blesseth
-1: Blessèd
-1: Blinking
-1: Bloods
-1: Blotted
-1: Blunt
-1: Blush
-1: Boards
-1: Boldest
-1: Bon
-1: Bondman’s
-1: Bonds
-1: Bone
-1: Bones
-1: Bonnet
-1: Book
-1: Bootless
-1: Borne
-1: Bosoms
-1: Bottom
-1: Bounds
-1: Bounty
-1: Bow
-1: Box
-1: Boys
-1: Braggart
-1: Brain
-1: Branches
-1: Brassy
-1: Brave
-1: Braver
-1: Breathed
-1: Breeders
-1: Breeding
-1: Bridegroom’s
-1: Brightly
-1: Bringeth
-1: Broth
-1: Brothers
-1: Brought
-1: Brutus’
-1: Builds
-1: Burdens
-1: Burghers
-1: Burial
-1: Buried
-1: Burning
-1: Burnished
-1: Bushels
-1: Buzzing
-1: Cackling
-1: Call’dst
-1: Candles
-1: Carcasses
-1: Carries
-1: Carry
-1: Carthage
-1: Cast
-1: Casualty
-1: Cater-cousins
-1: Cato’s
-1: Caught
-1: Cerecloth
-1: Ceremoniously
-1: Ceremony
-1: Certainty
-1: Certified
-1: Chancèd
-1: Chapels
-1: Charter
-1: Charybdis
-1: Chaste
-1: Chasèd
-1: Cheer’st
-1: Cherubins
-1: Chest
-1: Chests
-1: Chief
-1: Chiefest
-1: Childhood
-1: Children
-1: Chin
-1: Chins
-1: Choiring
-1: Chosen
-1: Christ’ning
-1: Churches
-1: Chus
-1: Circumstance
-1: Cite
-1: Citizen
-1: City
-1: City’s
-1: Civil
-1: Civility
-1: Clamber
-1: Cleared
-1: Clerk’s
-1: Clime
-1: Coach
-1: Coals
-1: Coast
-1: Cobwebs
-1: Coffer
-1: Coffin
-1: Coin
-1: Colchos’
-1: Color
-1: Colt
-1: Colts
-1: Comer
-1: Comforts
-1: Coming-in
-1: Command
-1: Commanded
-1: Commands
-1: Commendation
-1: Commiseration
-1: Commits
-1: Companions
-1: Comparison
-1: Competency
-1: Compromised
-1: Compulsion
-1: Conceits
-1: Conceive
-1: Conceiving
-1: Concord
-1: Conditioned
-1: Conduct
-1: Confession
-1: Confirmed
-1: Confound
-1: Confused
-1: Confusion
-1: Confusions
-1: Congregate
-1: Conjured
-1: Consequence
-1: Consider
-1: Consisteth
-1: Conspired
-1: Constitution
-1: Contained
-1: Contemplation
-1: Contending
-1: Contented
-1: Contents
-1: Continent
-1: Continuance
-1: Contrive
-1: Contrived
-1: Controversy
-1: Conveniency
-1: Convenient
-1: Conveniently
-1: Converted
-1: Converting
-1: Cool
-1: Cooling
-1: Cope
-1: Cord
-1: Corrupt
-1: Corruptly
-1: Costly
-1: Cottages
-1: Couching
-1: Counsels
-1: Count
-1: Counterfeit
-1: Country
-1: County
-1: Courage
-1: Courageous
-1: Courtship
-1: Cousin’s
-1: Covered
-1: Cowards
-1: Cozen
-1: Cradle
-1: Crave
-1: Cream
-1: Creation
-1: Creditor
-1: Cressid
-1: Cripple
-1: Crispèd
-1: Crossed
-1: Crosses
-1: Crossing
-1: Crow
-1: Crown
-1: Cry
-1: Crying
-1: Cubs
-1: Cuckold
-1: Cuckolds
-1: Cuckoo
-1: Cudgel
-1: Cunning
-1: Cupid
-1: Cupid’s
-1: Curb
-1: Curbed
-1: Cureless
-1: Current
-1: Curse
-1: Cursed’st
-1: Cursèd
-1: Curtsy
-1: Cur’sy
-1: Customary
-1: Cutler’s
-1: Cutthroat
-1: Cutting
-1: Damn
-1: Damnation
-1: Damnèd
-1: Dardanian
-1: Daring
-1: Daylight
-1: Days
-1: Deal
-1: Dealings
-1: Dearly
-1: Deathbed
-1: Death’s-head
-1: Debating
-1: Debtor
-1: Decay
-1: Deceased
-1: Decrees
-1: Deface
-1: Defect
-1: Defend
-1: Defendant
-1: Defended
-1: Defending
-1: Defy
-1: Degrees
-1: Deliberate
-1: Deliverance
-1: Delivering
-1: Demand
-1: Demigod
-1: Demurely
-1: Denied
-1: Denying
-1: Depart
-1: Departure
-1: Depending
-1: Depends
-1: Derived
-1: Descend
-1: Describe
-1: Desert
-1: Desired
-1: Desir’st
-1: Despair
-1: Despise
-1: Destinies
-1: Detain
-1: Determinations
-1: Determine
-1: Device
-1: Devise
-1: Devised
-1: Dew
-1: Diamond
-1: Dice
-1: Dido
-1: Didst
-1: Died
-1: Diest
-1: Digest
-1: Dignity
-1: Dim
-1: Dimensions
-1: Dine
-1: Disabled
-1: Disabling
-1: Discontinued
-1: Discourse
-1: Discover
-1: Discovery
-1: Discretion
-1: Diseases
-1: Disgraced
-1: Disguise
-1: Dish
-1: Dislike
-1: Dismayed
-1: Dismiss
-1: Dispatch
-1: Displeased
-1: Displeasure
-1: Distinct
-1: Divers
-1: Divided
-1: Divine
-1: Division
-1: Dobbin
-1: Dobbin’s
-1: Docked
-1: Dogs
-1: Doit
-1: Dote
-1: Doublet
-1: Doubly
-1: Doves
-1: Dowry
-1: Dram
-1: Draws
-1: Dreadful
-1: Dream
-1: Dreaming
-1: Dressed
-1: Drew
-1: Dried
-1: Drink
-1: Drones
-1: Droppeth
-1: Dross
-1: Drown
-1: Drowning
-1: Drudge
-1: Drum
-1: Drunk
-1: Dry
-1: Dulcet
-1: Dull-eyed
-1: Duty
-1: Each
-1: Eaning
-1: Eanlings
-1: Earliest
-1: Early
-1: Earnestly
-1: Easier
-1: Eaters
-1: Eche
-1: Ecstasy
-1: Edge
-1: Edifice
-1: Elbow
-1: Elder
-1: Eleven
-1: Eloquence
-1: Embrace
-1: Embraced
-1: Employ
-1: Employed
-1: Empties
-1: Enacted
-1: Enchanted
-1: Endeavor
-1: Endeavors
-1: Endymion
-1: Enemies
-1: Enforce
-1: Enforced
-1: Engendered
-1: Englishman
-1: Enjoined
-1: Enjoyed
-1: Enjoying
-1: Enrobe
-1: Enscrolled
-1: Entered
-1: Entertain
-1: Enthronèd
-1: Entirely
-1: Envious
-1: Envy
-1: Envy’s
-1: Epitaph
-1: Erebus
-1: Escaped
-1: Establishèd
-1: Estates
-1: Estimable
-1: Events
-1: Everyone
-1: Everywhere
-1: Ewe
-1: Exact
-1: Exaction
-1: Exacts
-1: Exceed
-1: Excellent
-1: Except
-1: Exchange
-1: Exclaim
-1: Excrement
-1: Execute
-1: Exhibit
-1: Exhortation
-1: Expires
-1: Exploit
-1: Exposition
-1: Expressing
-1: Expressly
-1: Extremest
-1: E’en
-1: Faces
-1: Fading
-1: Failed
-1: Faint
-1: Fairest
-1: Fairness
-1: Faithfully
-1: Faithless
-1: Falconbridge
-1: Falling
-1: Fall’n
-1: Falsehood
-1: Famished
-1: Fancy’s
-1: Fangs
-1: Farthest
-1: Fashioned
-1: Fat
-1: Fatal
-1: Fates
-1: Faults
-1: Fawning
-1: Feared
-1: Fearful
-1: Fearfully
-1: Feasting
-1: Featherbed
-1: Feeder
-1: Feel
-1: Feign
-1: Fellows’
-1: Felt
-1: Fence
-1: Ferry
-1: Fetching
-1: Few
-1: Fia
-1: Fields
-1: Fife
-1: Fifteen
-1: Fight
-1: Figure
-1: Fill
-1: Fill-horse
-1: Finds
-1: Firm
-1: Fit
-1: Five
-1: Flat
-1: Flatly
-1: Flats
-1: Flatter
-1: Fled
-1: Fledge
-1: Flew
-1: Flint
-1: Flock
-1: Floods
-1: Floor
-1: Flourish
-1: Follies
-1: Followed
-1: Follower
-1: Following
-1: Font
-1: Fooling
-1: Footing
-1: Fopp’ry
-1: Forbear
-1: Fore-spurrer
-1: Foreign
-1: Forerunner
-1: Forfeitures
-1: Forgave
-1: Forget
-1: Forgot
-1: Form
-1: Formerly
-1: Forthwith
-1: Fortnight
-1: Fortunate
-1: Forward
-1: Fourth
-1: Framed
-1: France
-1: Frankfurt
-1: Fraught
-1: Fray
-1: Frays
-1: Free
-1: Fretten
-1: Friendly
-1: Frost
-1: Frown
-1: Fruit
-1: Frutify
-1: Fulsome
-1: Further
-1: Furthermore
-1: Fury
-1: Gaberdine
-1: Gaged
-1: Gains
-1: Gambols
-1: Garments
-1: Garnish
-1: Garnished
-1: Gathered
-1: Gaudy
-1: Gauge
-1: Gelt
-1: Gem
-1: General
-1: Generation
-1: Gentleness
-1: Gently
-1: German
-1: Germany
-1: Getting
-1: Giddy
-1: Gild
-1: Gilded
-1: Ginger
-1: Glancing
-1: Glass
-1: Gleaned
-1: Glisters
-1: Glory
-1: Gloves
-1: Gnats
-1: Goats
-1: Godfathers
-1: Godlike
-1: Gods
-1: Gondola
-1: Goodwins
-1: Goose
-1: Gormandize
-1: Govern
-1: Governed
-1: Governor
-1: Graces
-1: Grace’s
-1: Grains
-1: Gramercy
-1: Grandam
-1: Grandsire
-1: Grass
-1: Gratiano’s
-1: Gratify
-1: Graved
-1: Gravelblind
-1: Gravity
-1: Grazed
-1: Greatest
-1: Greatness
-1: Grecian
-1: Greedy
-1: Green-eyed
-1: Greets
-1: Grief
-1: Griefs
-1: Grieved
-1: Grieving
-1: Grievous
-1: Groans
-1: Grossness
-1: Grudge
-1: Guard
-1: Guarded
-1: Gudgeon
-1: Guess
-1: Guest
-1: Guilty
-1: Guilèd
-1: Gusts
-1: Habitation
-1: Hadst
-1: Hagar’s
-1: Hall
-1: Hangman’s
-1: Happier
-1: Happiest
-1: Happily
-1: Happiness
-1: Harbor
-1: Harder
-1: Hardly
-1: Hare
-1: Harm
-1: Harmless
-1: Harsh
-1: Hasted
-1: Hat
-1: Healed
-1: Hears
-1: Hearsed
-1: Heated
-1: Heaviness
-1: Hedged
-1: Height
-1: Heinous
-1: Heirs
-1: Hellish
-1: Herbs
-1: Herd
-1: Hereafter
-1: Heresy
-1: Hermit
-1: Hers
-1: Hiding
-1: High-day
-1: Higher
-1: Highway
-1: Highways
-1: Hindered
-1: Hire
-1: Hive
-1: Hogs
-1: Holloaing
-1: Hollow
-1: Honored
-1: Honors
-1: Hoop
-1: Horn
-1: Hose
-1: Hourglass
-1: House’s
-1: Hovel-post
-1: Howling
-1: Howsome’er
-1: Huddled
-1: Huge
-1: Hugged
-1: Human
-1: Humane
-1: Humbly
-1: Humility
-1: Humor
-1: Humors
-1: Hurt
-1: Husbandry
-1: Husbands’
-1: Hymn
-1: Hyrcanian
-1: Icicles
-1: Idiot
-1: Ignorant
-1: Imagined
-1: Immortal
-1: Immured
-1: Impart
-1: Impediment
-1: Impenetrable
-1: Impertinent
-1: Importunity
-1: Impossible
-1: Impugn
-1: Imputation
-1: Incarnation
-1: Incision
-1: Incurred
-1: Indebted
-1: India
-1: Indian
-1: Indies
-1: Indirect
-1: Inevitable
-1: Inexecrable
-1: Infection
-1: Infinite
-1: Infinitely
-1: Infold
-1: Informèd
-1: Infuse
-1: Infused
-1: Ingratitude
-1: Inhuman
-1: Injunctions
-1: Inlaid
-1: Inland
-1: Innocence
-1: Inscription
-1: Inscriptions
-1: Insculped
-1: Inserted
-1: Inspirations
-1: Instruction
-1: Instructions
-1: Intent
-1: Intercessors
-1: Interior
-1: Intermission
-1: Interposer
-1: Interpreter
-1: Inter’gatories
-1: Inter’gatory
-1: Int’rest
-1: Inward
-1: Issuing
-1: Italian
-1: Ivory
-1: Iwis
-1: Jacks
-1: Janus
-1: Jaundice
-1: Jealous
-1: Jealousy
-1: Jest
-1: Jet
-1: Jewel
-1: Jewess’
-1: Jews
-1: Jot
-1: Joys
-1: Jump
-1: Keenness
-1: Keeping
-1: Keys
-1: Killed
-1: Kin
-1: Kinder
-1: Kindest
-1: Kingdom
-1: Kinsman
-1: Knapped
-1: Kneels
-1: Knell
-1: Knocks
-1: Knowing
-1: Knowledge
-1: Laban
-1: Laban’s
-1: Labor
-1: Lading
-1: Ladyship
-1: Laid
-1: Lamb
-1: Lambs
-1: Lands
-1: Lark
-1: Lastly
-1: Lately
-1: Latin
-1: Latter
-1: Laughable
-1: Laughed
-1: Laughter
-1: Lawful
-1: Lawfully
-1: Layest
-1: Lays
-1: Le
-1: Leaden
-1: Leadest
-1: Leading
-1: Leah
-1: Lean
-1: Leap
-1: Leaps
-1: Least
-1: Led
-1: Legs
-1: Leisures
-1: Lends
-1: Length
-1: Lent
-1: Leonardo
-1: Lets
-1: Level
-1: Lewd
-1: Lightest
-1: Lights
-1: Likely
-1: Likeness
-1: Likes
-1: Likest
-1: Limbs
-1: Limp
-1: Line
-1: Lineaments
-1: Linger
-1: Ling’ring
-1: Lion
-1: Lion’s
-1: Lisbon
-1: Liver
-1: Livers
-1: Livings
-1: Loath
-1: Loathes
-1: Loathing
-1: Lock
-1: Locked
-1: Lodged
-1: Loose
-1: Lordship
-1: Losers
-1: Losing
-1: Lottery
-1: Lott’ry
-1: Lovely
-1: Loves
-1: Love’s
-1: Lower
-1: Lungs
-1: Lychas
-1: Lying
-1: Madwoman
-1: Magnificoes
-1: Maiden
-1: Maiden’s
-1: Majesty
-1: Maketh
-1: Manage
-1: Manifest
-1: Manna
-1: Manner
-1: Mannerly
-1: Mansion
-1: Mantle
-1: Maps
-1: Mar
-1: Marquess
-1: Mars
-1: Mart
-1: Martlet
-1: Marvel
-1: Marvelously
-1: Masques
-1: Masquing
-1: Mastership
-1: Matched
-1: Mates
-1: Meager
-1: Meant
-1: Measures
-1: Medea
-1: Meetest
-1: Meeting
-1: Melancholy
-1: Member
-1: Mending
-1: Men’s
-1: Mercenary
-1: Merchant-marring
-1: Mere
-1: Merely
-1: Merriment
-1: Mesh
-1: Meshes
-1: Messages
-1: Methoughts
-1: Midas
-1: Milk
-1: Million
-1: Mincing
-1: Mingled
-1: Miracle
-1: Misbeliever
-1: Miscarrièd
-1: Misconstered
-1: Miseries
-1: Misery
-1: Mislike
-1: Mistress’
-1: Mistrust
-1: Mitigate
-1: Mock
-1: Mocked
-1: Mocker
-1: Moderate
-1: Modest
-1: Moi’ty
-1: Monastery
-1: Monday
-1: Monkey
-1: Monkeys
-1: Monsieur
-1: Montferrat
-1: Mood
-1: Moonlight
-1: Moreover
-1: Morrow
-1: Mortal
-1: Mortifying
-1: Moth
-1: Motions
-1: Mountain
-1: Mounted
-1: Mouth
-1: Mouths
-1: Move
-1: Moved
-1: Moves
-1: Muddy
-1: Mules
-1: Multitudes
-1: Murder
-1: Musician
-1: Muttons
-1: Mutual
-1: Namest
-1: Nations
-1: Native
-1: Natures
-1: Nazarite
-1: Neapolitan
-1: Neapolitan’s
-1: Neat’s
-1: Necessary
-1: Neck
-1: Negro’s
-1: Neighborly
-1: Neighbors
-1: Neighing
-1: Nephew
-1: Nerissa’s
-1: Nestor
-1: New-crownèd
-1: New-made
-1: Nice
-1: Nightingale
-1: Nobody
-1: Northward
-1: Notary
-1: Notary’s
-1: Notes
-1: Nourishèd
-1: Nuptial
-1: Obdurate
-1: Obey
-1: Object
-1: Obligèd
-1: Obscure
-1: Obscured
-1: Obscures
-1: Observance
-1: Observe
-1: Occasions
-1: Ocean
-1: Odd
-1: Oddly
-1: Offence
-1: Offended
-1: Offender’s
-1: Offend’st
-1: Offered
-1: Office
-1: Officer
-1: Offspring
-1: Open
-1: Oppose
-1: Opposèd
-1: Oracle
-1: Oration
-1: Orb
-1: Order
-1: Ordered
-1: Orderly
-1: Organs
-1: Orpheus
-1: Ostent
-1: Ostents
-1: Out-night
-1: Outbrave
-1: Outcries
-1: Outdwells
-1: Outface
-1: Outlive
-1: Outrageous
-1: Outswear
-1: Overname
-1: Overpeer
-1: Overtake
-1: Overweathered
-1: Owes
-1: Owners
-1: O’
-1: O’erlooked
-1: O’erstare
-1: O’erta’en
-1: O’ertrip
-1: Pace
-1: Pack
-1: Pagan
-1: Page
-1: Pageants
-1: Page’s
-1: Pain
-1: Painter
-1: Palaces
-1: Palates
-1: Pale
-1: Paleness
-1: Paler
-1: Paltry
-1: Parcel
-1: Park
-1: Parti-colored
-1: Partly
-1: Party
-1: Patch
-1: Patens
-1: Patient
-1: Patiently
-1: Pawned
-1: Paying
-1: Pays
-1: Peals
-1: Peasantry
-1: Peep
-1: Peevish
-1: Peize
-1: Pen
-1: Penalties
-1: Penance
-1: Pennyworth
-1: Penthouse
-1: People’s
-1: Perceive
-1: Perchance
-1: Perfection
-1: Perform
-1: Perhaps
-1: Perjury
-1: Persian
-1: Person
-1: Persuade
-1: Persuaded
-1: Pertains
-1: Peruse
-1: Philosopher
-1: Phoebus’
-1: Picked
-1: Pied
-1: Piers
-1: Pigeons
-1: Pilgrimage
-1: Pillar
-1: Pilled
-1: Pines
-1: Pirates
-1: Piring
-1: Placèd
-1: Plague
-1: Planted
-1: Played
-1: Plays
-1: Pleaseth
-1: Pleasèd
-1: Plies
-1: Plots
-1: Plucking
-1: Pocket
-1: Poet
-1: Poetry
-1: Poison
-1: Pond
-1: Portly
-1: Portrait
-1: Ports
-1: Possessor
-1: Possible
-1: Poverty
-1: Powers
-1: Practice
-1: Prating
-1: Praying
-1: Prays
-1: Precedent
-1: Predicament
-1: Preferment
-1: Preferred
-1: Preparation
-1: Prepared
-1: Presage
-1: Presages
-1: Presenting
-1: Prest
-1: Presume
-1: Prettier
-1: Prevented
-1: Prey
-1: Prick
-1: Pries
-1: Princely
-1: Princes
-1: Princes’
-1: Privately
-1: Privy
-1: Proceeding
-1: Process
-1: Proclamation
-1: Producing
-1: Profitable
-1: Profound
-1: Prolixity
-1: Promised
-1: Pronounced
-1: Pronouncèd
-1: Proof
-1: Prophet
-1: Proportion
-1: Prosper
-1: Protection
-1: Protest
-1: Prouder
-1: Public
-1: Publican
-1: Publish
-1: Puny
-1: Purchasing
-1: Pure
-1: Purposes
-1: Pursue
-1: Pythagoras
-1: Quaint
-1: Quaintly
-1: Qualify
-1: Qualities
-1: Quarrel
-1: Quarreling
-1: Quarrels
-1: Quest
-1: Questionless
-1: Question’s
-1: Quicken
-1: Quietness
-1: Quit
-1: Quite
-1: Race
-1: Racked
-1: Raggèd
-1: Rail
-1: Rails
-1: Raised
-1: Rash
-1: Rasher
-1: Rat
-1: Ratified
-1: Rating
-1: Ravenous
-1: Raw
-1: Reach
-1: Readiness
-1: Reasonable
-1: Reasoned
-1: Reasoning
-1: Reasons
-1: Rebel
-1: Rebels
-1: Recant
-1: Receipt
-1: Received
-1: Record
-1: Recorded
-1: Red
-1: Reddest
-1: Redeem
-1: Redoubted
-1: Reed
-1: Refused
-1: Regard
-1: Regarded
-1: Regreets
-1: Rehearsed
-1: Relation
-1: Relent
-1: Relief
-1: Religion
-1: Remembered
-1: Remembrance
-1: Remorse
-1: Rend
-1: Rendered
-1: Rend’ring
-1: Renew
-1: Rent
-1: Repair
-1: Repay
-1: Repents
-1: Report
-1: Reproach
-1: Reputed
-1: Requite
-1: Resemble
-1: Respective
-1: Rheum
-1: Rib
-1: Riddance
-1: Riding
-1: Rightful
-1: Rights
-1: Rigorous
-1: Ripe
-1: Riping
-1: Riseth
-1: Rites
-1: Rival
-1: Riveted
-1: Roads
-1: Roaring
-1: Roars
-1: Rob
-1: Roman
-1: Rome
-1: Roof
-1: Room
-1: Rotten
-1: Rough
-1: Rouse
-1: Rule
-1: Runaway
-1: Running
-1: Rush
-1: Sabbath
-1: Sacred
-1: Safe
-1: Safely
-1: Sails
-1: Salvation
-1: Sandy
-1: Satisfaction
-1: Savage
-1: Saved
-1: Saxony’s
-1: Sayest
-1: Sayings
-1: Scale
-1: Scanted
-1: Scarf
-1: Scarfèd
-1: Scatter
-1: Scepter
-1: Sceptered
-1: Schedule
-1: Scholar
-1: Scimitar
-1: Scorn
-1: Scorned
-1: Scottish
-1: Scripture
-1: Scruple
-1: Scylla
-1: Sea-banks
-1: Sea-monster
-1: Sealed
-1: Searched
-1: Season
-1: Seasons
-1: Seat
-1: Seated
-1: Secretly
-1: Seed
-1: Seeks
-1: Seeming
-1: Sees
-1: Seize
-1: Semblance
-1: Sense
-1: Senses
-1: Sentences
-1: Sepulcher
-1: Serpent
-1: Several
-1: Severed
-1: Shadowed
-1: Shadows
-1: Shadow’s
-1: Shaft
-1: Shake
-1: Shallow
-1: Shallows
-1: Shape
-1: Sharp
-1: She-bear
-1: Shedding
-1: Sheep
-1: Shepherd
-1: Shift
-1: Shoe
-1: Shone
-1: Shore
-1: Short
-1: Shot
-1: Shoulders
-1: Shouldst
-1: Shout
-1: Showed
-1: Showing
-1: Shrew
-1: Shrewd
-1: Shrine
-1: Shrive
-1: Shrug
-1: Shudd’ring
-1: Shun
-1: Shylock’s
-1: Sibylla
-1: Sighed
-1: Sighs
-1: Signed
-1: Silks
-1: Silvered
-1: Simplicity
-1: Sinful
-1: Singed
-1: Single
-1: Sisters
-1: Sitting
-1: Skillful
-1: Skip
-1: Skipping
-1: Skull
-1: Slander
-1: Slaughter
-1: Slave
-1: Slaves
-1: Slavish
-1: Slew
-1: Slightly
-1: Slink
-1: Slips
-1: Slubber
-1: Smack
-1: Small
-1: Smallest
-1: Smell
-1: Smile
-1: Smiles
-1: Smiling
-1: Smith
-1: Smug
-1: Snail-slow
-1: Snaky
-1: Snore
-1: Snow
-1: Soften
-1: Sold
-1: Soldier
-1: Sole
-1: Solely
-1: Solemnize
-1: Solemnized
-1: Solyman
-1: Sometimes
-1: Sonties
-1: Sooner
-1: Sophy
-1: Sore
-1: Sought
-1: Spare
-1: Speaking
-1: Special
-1: Sped
-1: Speech
-1: Speechless
-1: Spend
-1: Spend’st
-1: Spets
-1: Spices
-1: Spider
-1: Spoils
-1: Sponge
-1: Spurned
-1: Squandered
-1: Squealing
-1: Stage
-1: Stained
-1: Stairs
-1: Stale
-1: Stamp
-1: Stamped
-1: Standing
-1: Stand’st
-1: Start
-1: Starve
-1: Starved
-1: Starvèd
-1: State’s
-1: Stealing
-1: Steals
-1: Steps
-1: Sternest
-1: Stick’st
-1: Sting
-1: Stirring
-1: Stock
-1: Stockish
-1: Stole
-1: Stomach
-1: Stomachs
-1: Stone
-1: Stony
-1: Stoops
-1: Storm
-1: Strained
-1: Stratagems
-1: Stray
-1: Strayed
-1: Streaked
-1: Street
-1: Streets
-1: Strength
-1: Strict
-1: Stride
-1: Strife
-1: Strond
-1: Strongly
-1: Stubborn
-1: Studied
-1: Stuff
-1: Subjects
-1: Substitute
-1: Success
-1: Sucking
-1: Suffer
-1: Sufferance
-1: Suffered
-1: Suff’rance
-1: Sugar
-1: Sultan
-1: Summary
-1: Summon
-1: Sums
-1: Sunder
-1: Sunny
-1: Sup
-1: Superfluity
-1: Supposition
-1: Supposèd
-1: Surgeon
-1: Survey
-1: Suspect
-1: Sustain
-1: Swanlike
-1: Sway
-1: Swayed
-1: Sways
-1: Sweeter
-1: Sweetest
-1: Sweetly
-1: Swelling
-1: Swift
-1: Tailor
-1: Takes
-1: Taking
-1: Tak’st
-1: Tale
-1: Tales
-1: Talker
-1: Tall
-1: Tartars
-1: Taught
-1: Tear
-1: Tediousness
-1: Teeth
-1: Tell-tales
-1: Temper
-1: Temple
-1: Temples
-1: Temporal
-1: Temptation
-1: Tempts
-1: Tenor
-1: Tents
-1: Term
-1: Text
-1: Thanked
-1: Thaws
-1: They’ll
-1: Thick
-1: Thisbe
-1: Thither
-1: Threatens
-1: Threaten’st
-1: Threshold
-1: Thrice-fair
-1: Thrifty
-1: Thronèd
-1: Throstle
-1: Throughfares
-1: Throughly
-1: Throw
-1: Throws
-1: Thrust
-1: Thwarted
-1: Tickle
-1: Tombs
-1: Tomorrow
-1: Top
-1: Tops
-1: Torchbearers
-1: Torment
-1: Torture
-1: Torturer
-1: Torturest
-1: Tossing
-1: Touched
-1: Touching
-1: Trade
-1: Trades
-1: Traffickers
-1: Trained
-1: Traject
-1: Transformèd
-1: Treads
-1: Treasons
-1: Treasure
-1: Treble
-1: Trebled
-1: Trial
-1: Tricks
-1: Tricksy
-1: Troilus
-1: Trojan
-1: Troth
-1: Troubled
-1: Troy
-1: Trunks
-1: Turks
-1: Turns
-1: Turnèd
-1: Turquoise
-1: Twain
-1: Twelve
-1: Twelvemonth
-1: Twentieth
-1: Twinkling
-1: Two-headed
-1: Tyranny
-1: T’
-1: Ugly
-1: Unbated
-1: Unburden
-1: Uncapable
-1: Unchecked
-1: Uncle
-1: Underprizing
-1: Understands
-1: Undertook
-1: Undeservèd
-1: Undone
-1: Unfeeling
-1: Unfold
-1: Unforfeited
-1: Unfurnished
-1: Unhallowed
-1: Unhandled
-1: Unhappy
-1: Universal
-1: Unkind
-1: Unknown
-1: Unlessoned
-1: Unlock
-1: Unlocked
-1: Unmannerly
-1: Unpleasant’st
-1: Unpracticed
-1: Unreasonable
-1: Unschooled
-1: Unseal
-1: Unthrift
-1: Unthrifty
-1: Untread
-1: Unwearied
-1: Unwillingly
-1: Unworthier
-1: Urgest
-1: Urine
-1: Usances
-1: Used
-1: Usual
-1: Usurer
-1: Utter
-1: Vailing
-1: Valiant
-1: Valor’s
-1: Valued
-1: Vantage
-1: Variable
-1: Vasty
-1: Vehement
-1: Veiling
-1: Vendible
-1: Venus’
-1: Vessel’s
-1: Vesture
-1: Viands
-1: Vice
-1: Villainy
-1: Villain’s
-1: Vinegar
-1: Virgins
-1: Virtuous
-1: Visit
-1: Visitation
-1: Visited
-1: Voluntary
-1: Vows
-1: Waft
-1: Wag
-1: Wait
-1: Wake
-1: Wakes
-1: Walks
-1: Wall
-1: Walls
-1: Wands
-1: Want-wit
-1: Wanted
-1: Warm
-1: Warmed
-1: Warmth
-1: Warning
-1: Warrant
-1: Warranty
-1: Watery
-1: Wat’ry
-1: Waver
-1: Weak
-1: Weaker
-1: Weakest
-1: Weapons
-1: Wearer
-1: Weather
-1: Wedding
-1: Wedlock
-1: Weeping
-1: Welfare
-1: Well-deserving
-1: Well-won
-1: Wench
-1: Went
-1: Wept
-1: Wert
-1: Wether
-1: Wheat
-1: Whereby
-1: Wherefore
-1: Where’s
-1: Whet
-1: Whiles
-1: Whisp’ring
-1: Whiter
-1: Whither
-1: Wildcat
-1: Wilderness
-1: Wilds
-1: Willow
-1: Window
-1: Wins
-1: Winter
-1: Wisely
-1: Wisest
-1: Wished
-1: Wishes
-1: Wit-snapper
-1: Wive
-1: Wiving
-1: Wo
-1: Wolfish
-1: Woman’s
-1: Women
-1: Wonder
-1: Wooer
-1: Wooers
-1: Wooing
-1: Woolen
-1: Woolly
-1: Works
-1: Worms
-1: Worshiped
-1: Worthier
-1: Worthiness
-1: Worthless
-1: Wound
-1: Wounds
-1: Wrack
-1: Wracked
-1: Wren
-1: Wrest
-1: Wretch
-1: Wretched
-1: Wrinkled
-1: Wrinkles
-1: Write
-1: Writes
-1: Written
-1: Wroth
-1: Wrought
-1: Wrung
-1: Wry-necked
-1: Yesterday
-1: Yoke
-1: Young-eyed
-1: Younger
-1: Youthful
-1: Zeal
-1: ’gree
-1: ’lt
-1: ’mong
-1: ’s
-1: ’scapes
-1: ’scuse
-1: ’twas
-1: ’twixt
+instances: 802, word: 'The', work: 'MV'},
+instances: 647, word: 'I', work: 'MV'},
+instances: 574, word: 'And', work: 'MV'},
+instances: 448, word: 'You', work: 'MV'},
+instances: 446, word: 'To', work: 'MV'},
+instances: 438, word: 'Of', work: 'MV'},
+instances: 415, word: 'A', work: 'MV'},
+instances: 364, word: 'My', work: 'MV'},
+instances: 294, word: 'In', work: 'MV'},
+instances: 263, word: 'Is', work: 'MV'},
+instances: 262, word: 'Me', work: 'MV'},
+instances: 255, word: 'That', work: 'MV'},
+instances: 233, word: 'It', work: 'MV'},
+instances: 224, word: 'For', work: 'MV'},
+instances: 219, word: 'Not', work: 'MV'},
+instances: 187, word: 'Be', work: 'MV'},
+instances: 184, word: 'With', work: 'MV'},
+instances: 181, word: 'But', work: 'MV'},
+instances: 175, word: 'He', work: 'MV'},
+instances: 175, word: 'Your', work: 'MV'},
+instances: 161, word: 'Have', work: 'MV'},
+instances: 154, word: 'His', work: 'MV'},
+instances: 148, word: 'This', work: 'MV'},
+instances: 141, word: 'As', work: 'MV'},
+instances: 132, word: 'Will', work: 'MV'},
+instances: 120, word: 'If', work: 'MV'},
+instances: 118, word: 'So', work: 'MV'},
+instances: 114, word: 'Do', work: 'MV'},
+instances: 110, word: 'Him', work: 'MV'},
+instances: 108, word: 'Shall', work: 'MV'},
+instances: 105, word: 'What', work: 'MV'},
+instances: 104, word: 'By', work: 'MV'},
+instances: 104, word: 'Thou', work: 'MV'},
+instances: 101, word: 'Are', work: 'MV'},
+instances: 91, word: 'No', work: 'MV'},
+instances: 82, word: 'All', work: 'MV'},
+instances: 80, word: 'Well', work: 'MV'},
+instances: 76, word: 'Am', work: 'MV'},
+instances: 74, word: 'There', work: 'MV'},
+instances: 72, word: 'Would', work: 'MV'},
+instances: 68, word: 'Here', work: 'MV'},
+instances: 68, word: 'On', work: 'MV'},
+instances: 67, word: 'From', work: 'MV'},
+instances: 67, word: 'Let', work: 'MV'},
+instances: 66, word: 'Her', work: 'MV'},
+instances: 65, word: 'More', work: 'MV'},
+instances: 65, word: 'Thee', work: 'MV'},
+instances: 64, word: 'Come', work: 'MV'},
+instances: 64, word: 'Then', work: 'MV'},
+instances: 64, word: 'We', work: 'MV'},
+instances: 63, word: 'At', work: 'MV'},
+instances: 63, word: 'Good', work: 'MV'},
+instances: 63, word: 'Than', work: 'MV'},
+instances: 60, word: 'Which', work: 'MV'},
+instances: 59, word: 'How', work: 'MV'},
+instances: 59, word: 'Love', work: 'MV'},
+instances: 59, word: 'Thy', work: 'MV'},
+instances: 57, word: 'Jew', work: 'MV'},
+instances: 56, word: 'Go', work: 'MV'},
+instances: 56, word: 'When', work: 'MV'},
+instances: 55, word: 'Man', work: 'MV'},
+instances: 52, word: 'An', work: 'MV'},
+instances: 52, word: 'Hath', work: 'MV'},
+instances: 51, word: 'Or', work: 'MV'},
+instances: 51, word: 'Should', work: 'MV'},
+instances: 50, word: 'Upon', work: 'MV'},
+instances: 49, word: 'Give', work: 'MV'},
+instances: 48, word: 'Did', work: 'MV'},
+instances: 48, word: 'Much', work: 'MV'},
+instances: 47, word: 'I\'ll', work: 'MV'},
+instances: 47, word: 'Now', work: 'MV'},
+instances: 47, word: 'Was', work: 'MV'},
+instances: 46, word: 'One', work: 'MV'},
+instances: 45, word: 'Lord', work: 'MV'},
+instances: 45, word: 'See', work: 'MV'},
+instances: 45, word: 'Who', work: 'MV'},
+instances: 44, word: 'Antonio', work: 'MV'},
+instances: 44, word: 'Say', work: 'MV'},
+instances: 43, word: 'Such', work: 'MV'},
+instances: 43, word: 'Take', work: 'MV'},
+instances: 43, word: 'They', work: 'MV'},
+instances: 42, word: 'Had', work: 'MV'},
+instances: 42, word: 'Know', work: 'MV'},
+instances: 42, word: 'Pray', work: 'MV'},
+instances: 42, word: 'Them', work: 'MV'},
+instances: 40, word: 'Why', work: 'MV'},
+instances: 39, word: 'Bond', work: 'MV'},
+instances: 39, word: 'Doth', work: 'MV'},
+instances: 39, word: 'Sir', work: 'MV'},
+instances: 37, word: 'May', work: 'MV'},
+instances: 37, word: 'Ring', work: 'MV'},
+instances: 37, word: 'She', work: 'MV'},
+instances: 35, word: 'Must', work: 'MV'},
+instances: 35, word: 'Nor', work: 'MV'},
+instances: 35, word: 'Were', work: 'MV'},
+instances: 35, word: 'Yet', work: 'MV'},
+instances: 34, word: 'Fair', work: 'MV'},
+instances: 33, word: 'Bassanio', work: 'MV'},
+instances: 33, word: 'Make', work: 'MV'},
+instances: 33, word: 'O', work: 'MV'},
+instances: 33, word: 'Some', work: 'MV'},
+instances: 32, word: 'Like', work: 'MV'},
+instances: 32, word: 'Master', work: 'MV'},
+instances: 32, word: 'Never', work: 'MV'},
+instances: 31, word: 'Father', work: 'MV'},
+instances: 31, word: 'Therefore', work: 'MV'},
+instances: 31, word: 'These', work: 'MV'},
+instances: 30, word: 'Ducats', work: 'MV'},
+instances: 30, word: 'Tell', work: 'MV'},
+instances: 30, word: 'Too', work: 'MV'},
+instances: 30, word: 'Us', work: 'MV'},
+instances: 30, word: 'Very', work: 'MV'},
+instances: 29, word: 'Our', work: 'MV'},
+instances: 28, word: 'Can', work: 'MV'},
+instances: 27, word: 'Choose', work: 'MV'},
+instances: 27, word: 'Lady', work: 'MV'},
+instances: 27, word: 'Lancelet', work: 'MV'},
+instances: 27, word: 'Where', work: 'MV'},
+instances: 26, word: 'Friend', work: 'MV'},
+instances: 26, word: 'Three', work: 'MV'},
+instances: 26, word: 'Two', work: 'MV'},
+instances: 25, word: 'Hear', work: 'MV'},
+instances: 25, word: 'Leave', work: 'MV'},
+instances: 25, word: 'Men', work: 'MV'},
+instances: 25, word: 'Mine', work: 'MV'},
+instances: 24, word: 'House', work: 'MV'},
+instances: 24, word: 'Lorenzo', work: 'MV'},
+instances: 24, word: 'Many', work: 'MV'},
+instances: 24, word: 'Think', work: 'MV'},
+instances: 24, word: 'True', work: 'MV'},
+instances: 23, word: 'Before', work: 'MV'},
+instances: 23, word: 'Day', work: 'MV'},
+instances: 23, word: 'Flesh', work: 'MV'},
+instances: 23, word: 'Nothing', work: 'MV'},
+instances: 23, word: 'Speak', work: 'MV'},
+instances: 23, word: 'Swear', work: 'MV'},
+instances: 23, word: 'Sweet', work: 'MV'},
+instances: 23, word: 'Their', work: 'MV'},
+instances: 23, word: 'Young', work: 'MV'},
+instances: 22, word: 'Away', work: 'MV'},
+instances: 22, word: 'Christian', work: 'MV'},
+instances: 22, word: 'Comes', work: 'MV'},
+instances: 22, word: 'Life', work: 'MV'},
+instances: 22, word: 'Look', work: 'MV'},
+instances: 22, word: 'Night', work: 'MV'},
+instances: 22, word: 'Old', work: 'MV'},
+instances: 22, word: 'Out', work: 'MV'},
+instances: 22, word: 'Thousand', work: 'MV'},
+instances: 22, word: 'Time', work: 'MV'},
+instances: 21, word: 'Any', work: 'MV'},
+instances: 21, word: 'Better', work: 'MV'},
+instances: 21, word: 'Fortune', work: 'MV'},
+instances: 21, word: 'Hand', work: 'MV'},
+instances: 21, word: 'Jessica', work: 'MV'},
+instances: 21, word: 'Judge', work: 'MV'},
+instances: 21, word: 'Other', work: 'MV'},
+instances: 21, word: 'Stand', work: 'MV'},
+instances: 21, word: '\'tis', work: 'MV'},
+instances: 20, word: 'Cannot', work: 'MV'},
+instances: 20, word: 'Daughter', work: 'MV'},
+instances: 20, word: 'Most', work: 'MV'},
+instances: 20, word: 'Own', work: 'MV'},
+instances: 19, word: 'Eyes', work: 'MV'},
+instances: 19, word: 'Heart', work: 'MV'},
+instances: 19, word: 'Myself', work: 'MV'},
+instances: 19, word: 'Part', work: 'MV'},
+instances: 19, word: 'Venice', work: 'MV'},
+instances: 19, word: 'Wife', work: 'MV'},
+instances: 18, word: 'Bid', work: 'MV'},
+instances: 18, word: 'Even', work: 'MV'},
+instances: 17, word: 'Live', work: 'MV'},
+instances: 17, word: 'Made', work: 'MV'},
+instances: 17, word: 'Mind', work: 'MV'},
+instances: 17, word: 'Nerissa', work: 'MV'},
+instances: 17, word: 'Same', work: 'MV'},
+instances: 17, word: 'Shylock', work: 'MV'},
+instances: 17, word: 'Welcome', work: 'MV'},
+instances: 16, word: 'Being', work: 'MV'},
+instances: 16, word: 'Doctor', work: 'MV'},
+instances: 16, word: 'Find', work: 'MV'},
+instances: 16, word: 'God', work: 'MV'},
+instances: 16, word: 'Heaven', work: 'MV'},
+instances: 16, word: 'Into', work: 'MV'},
+instances: 16, word: 'Law', work: 'MV'},
+instances: 16, word: 'Show', work: 'MV'},
+instances: 16, word: 'Yours', work: 'MV'},
+instances: 15, word: 'Blood', work: 'MV'},
+instances: 15, word: 'Boy', work: 'MV'},
+instances: 15, word: 'Fear', work: 'MV'},
+instances: 15, word: 'First', work: 'MV'},
+instances: 15, word: 'Gold', work: 'MV'},
+instances: 15, word: 'Justice', work: 'MV'},
+instances: 15, word: 'Madam', work: 'MV'},
+instances: 15, word: 'Money', work: 'MV'},
+instances: 15, word: 'Music', work: 'MV'},
+instances: 15, word: 'Says', work: 'MV'},
+instances: 15, word: 'Soul', work: 'MV'},
+instances: 15, word: 'Times', work: 'MV'},
+instances: 15, word: 'World', work: 'MV'},
+instances: 14, word: 'Again', work: 'MV'},
+instances: 14, word: 'Answer', work: 'MV'},
+instances: 14, word: 'Ay', work: 'MV'},
+instances: 14, word: 'Both', work: 'MV'},
+instances: 14, word: 'Court', work: 'MV'},
+instances: 14, word: 'Devil', work: 'MV'},
+instances: 14, word: 'Faith', work: 'MV'},
+instances: 14, word: 'Gentle', work: 'MV'},
+instances: 14, word: 'Gratiano', work: 'MV'},
+instances: 14, word: 'Half', work: 'MV'},
+instances: 14, word: 'Indeed', work: 'MV'},
+instances: 14, word: 'Letter', work: 'MV'},
+instances: 14, word: 'News', work: 'MV'},
+instances: 14, word: 'None', work: 'MV'},
+instances: 14, word: 'Portia', work: 'MV'},
+instances: 14, word: 'Run', work: 'MV'},
+instances: 14, word: 'Unto', work: 'MV'},
+instances: 13, word: 'Been', work: 'MV'},
+instances: 13, word: 'Clerk', work: 'MV'},
+instances: 13, word: 'Dear', work: 'MV'},
+instances: 13, word: 'Deny', work: 'MV'},
+instances: 13, word: 'Head', work: 'MV'},
+instances: 13, word: 'Mercy', work: 'MV'},
+instances: 13, word: 'Thus', work: 'MV'},
+instances: 13, word: 'Till', work: 'MV'},
+instances: 13, word: 'Up', work: 'MV'},
+instances: 13, word: 'Wish', work: 'MV'},
+instances: 13, word: 'Wrong', work: 'MV'},
+instances: 12, word: 'Duke', work: 'MV'},
+instances: 12, word: 'Every', work: 'MV'},
+instances: 12, word: 'Friends', work: 'MV'},
+instances: 12, word: 'Get', work: 'MV'},
+instances: 12, word: 'Gone', work: 'MV'},
+instances: 12, word: 'Honest', work: 'MV'},
+instances: 12, word: 'Honor', work: 'MV'},
+instances: 12, word: 'Hope', work: 'MV'},
+instances: 12, word: 'Kind', work: 'MV'},
+instances: 12, word: 'Little', work: 'MV'},
+instances: 12, word: 'Lose', work: 'MV'},
+instances: 12, word: 'Nay', work: 'MV'},
+instances: 12, word: 'Neither', work: 'MV'},
+instances: 12, word: 'Only', work: 'MV'},
+instances: 12, word: 'Poor', work: 'MV'},
+instances: 12, word: 'Rather', work: 'MV'},
+instances: 12, word: 'Rest', work: 'MV'},
+instances: 12, word: 'State', work: 'MV'},
+instances: 12, word: 'Talk', work: 'MV'},
+instances: 12, word: 'Told', work: 'MV'},
+instances: 12, word: 'Turn', work: 'MV'},
+instances: 12, word: 'Word', work: 'MV'},
+instances: 11, word: 'Art', work: 'MV'},
+instances: 11, word: 'Bound', work: 'MV'},
+instances: 11, word: 'Bring', work: 'MV'},
+instances: 11, word: 'Call', work: 'MV'},
+instances: 11, word: 'Chooseth', work: 'MV'},
+instances: 11, word: 'Could', work: 'MV'},
+instances: 11, word: 'Desire', work: 'MV'},
+instances: 11, word: 'Dinner', work: 'MV'},
+instances: 11, word: 'Forfeit', work: 'MV'},
+instances: 11, word: 'Forth', work: 'MV'},
+instances: 11, word: 'Gave', work: 'MV'},
+instances: 11, word: 'Gentleman', work: 'MV'},
+instances: 11, word: 'Hazard', work: 'MV'},
+instances: 11, word: 'Himself', work: 'MV'},
+instances: 11, word: 'Hold', work: 'MV'},
+instances: 11, word: 'Means', work: 'MV'},
+instances: 11, word: 'Pound', work: 'MV'},
+instances: 11, word: 'Power', work: 'MV'},
+instances: 11, word: 'Prince', work: 'MV'},
+instances: 11, word: 'Shalt', work: 'MV'},
+instances: 11, word: 'Since', work: 'MV'},
+instances: 11, word: 'Something', work: 'MV'},
+instances: 11, word: 'Spirit', work: 'MV'},
+instances: 11, word: 'Still', work: 'MV'},
+instances: 11, word: 'Suit', work: 'MV'},
+instances: 11, word: 'Th\'', work: 'MV'},
+instances: 11, word: 'Tonight', work: 'MV'},
+instances: 11, word: 'Use', work: 'MV'},
+instances: 11, word: 'Way', work: 'MV'},
+instances: 10, word: 'Another', work: 'MV'},
+instances: 10, word: 'Between', work: 'MV'},
+instances: 10, word: 'Conscience', work: 'MV'},
+instances: 10, word: 'Cut', work: 'MV'},
+instances: 10, word: 'Death', work: 'MV'},
+instances: 10, word: 'Enough', work: 'MV'},
+instances: 10, word: 'Ever', work: 'MV'},
+instances: 10, word: 'Eye', work: 'MV'},
+instances: 10, word: 'Fiend', work: 'MV'},
+instances: 10, word: 'Grace', work: 'MV'},
+instances: 10, word: 'Hard', work: 'MV'},
+instances: 10, word: 'Hast', work: 'MV'},
+instances: 10, word: 'Husband', work: 'MV'},
+instances: 10, word: 'Jew\'s', work: 'MV'},
+instances: 10, word: 'Keep', work: 'MV'},
+instances: 10, word: 'Merry', work: 'MV'},
+instances: 10, word: 'Pardon', work: 'MV'},
+instances: 10, word: 'Place', work: 'MV'},
+instances: 10, word: 'Son', work: 'MV'},
+instances: 10, word: 'Stay', work: 'MV'},
+instances: 10, word: 'Sure', work: 'MV'},
+instances: 10, word: 'Thank', work: 'MV'},
+instances: 10, word: 'Things', work: 'MV'},
+instances: 10, word: 'Twenty', work: 'MV'},
+instances: 10, word: 'Whose', work: 'MV'},
+instances: 10, word: 'Within', work: 'MV'},
+instances: 10, word: 'Words', work: 'MV'},
+instances: 9, word: 'About', work: 'MV'},
+instances: 9, word: 'Best', work: 'MV'},
+instances: 9, word: 'Break', work: 'MV'},
+instances: 9, word: 'Came', work: 'MV'},
+instances: 9, word: 'Done', work: 'MV'},
+instances: 9, word: 'Down', work: 'MV'},
+instances: 9, word: 'Draw', work: 'MV'},
+instances: 9, word: 'Else', work: 'MV'},
+instances: 9, word: 'Fare', work: 'MV'},
+instances: 9, word: 'Fool', work: 'MV'},
+instances: 9, word: 'Heard', work: 'MV'},
+instances: 9, word: 'Judgment', work: 'MV'},
+instances: 9, word: 'Lead', work: 'MV'},
+instances: 9, word: 'Lend', work: 'MV'},
+instances: 9, word: 'Lie', work: 'MV'},
+instances: 9, word: 'Mark', work: 'MV'},
+instances: 9, word: 'Marry', work: 'MV'},
+instances: 9, word: 'Oath', work: 'MV'},
+instances: 9, word: 'Off', work: 'MV'},
+instances: 9, word: 'Play', work: 'MV'},
+instances: 9, word: 'Please', work: 'MV'},
+instances: 9, word: 'Present', work: 'MV'},
+instances: 9, word: 'Return', work: 'MV'},
+instances: 9, word: 'Rich', work: 'MV'},
+instances: 9, word: 'Right', work: 'MV'},
+instances: 9, word: 'Sad', work: 'MV'},
+instances: 9, word: 'Signior', work: 'MV'},
+instances: 9, word: 'Sum', work: 'MV'},
+instances: 9, word: 'That\'s', work: 'MV'},
+instances: 9, word: 'Though', work: 'MV'},
+instances: 9, word: 'Thought', work: 'MV'},
+instances: 9, word: 'Tubal', work: 'MV'},
+instances: 9, word: 'Unless', work: 'MV'},
+instances: 9, word: 'Whether', work: 'MV'},
+instances: 9, word: 'Whom', work: 'MV'},
+instances: 9, word: 'Wind', work: 'MV'},
+instances: 9, word: 'Wise', work: 'MV'},
+instances: 9, word: 'Without', work: 'MV'},
+instances: 8, word: 'Become', work: 'MV'},
+instances: 8, word: 'Bellario', work: 'MV'},
+instances: 8, word: 'Dog', work: 'MV'},
+instances: 8, word: 'Dost', work: 'MV'},
+instances: 8, word: 'End', work: 'MV'},
+instances: 8, word: 'Ere', work: 'MV'},
+instances: 8, word: 'Full', work: 'MV'},
+instances: 8, word: 'Glad', work: 'MV'},
+instances: 8, word: 'Home', work: 'MV'},
+instances: 8, word: 'Last', work: 'MV'},
+instances: 8, word: 'Learnèd', work: 'MV'},
+instances: 8, word: 'Left', work: 'MV'},
+instances: 8, word: 'Light', work: 'MV'},
+instances: 8, word: 'Makes', work: 'MV'},
+instances: 8, word: 'Meet', work: 'MV'},
+instances: 8, word: 'Months', work: 'MV'},
+instances: 8, word: 'Name', work: 'MV'},
+instances: 8, word: 'Pay', work: 'MV'},
+instances: 8, word: 'Reason', work: 'MV'},
+instances: 8, word: 'Serve', work: 'MV'},
+instances: 8, word: 'Sola', work: 'MV'},
+instances: 8, word: 'Truth', work: 'MV'},
+instances: 8, word: 'Wear', work: 'MV'},
+instances: 8, word: 'What\'s', work: 'MV'},
+instances: 8, word: 'Wit', work: 'MV'},
+instances: 8, word: 'Yes', work: 'MV'},
+instances: 8, word: 'Youth', work: 'MV'},
+instances: 7, word: 'After', work: 'MV'},
+instances: 7, word: 'Anything', work: 'MV'},
+instances: 7, word: 'Appear', work: 'MV'},
+instances: 7, word: 'Bassanio\'s', work: 'MV'},
+instances: 7, word: 'Bear', work: 'MV'},
+instances: 7, word: 'Belmont', work: 'MV'},
+instances: 7, word: 'Beseech', work: 'MV'},
+instances: 7, word: 'Casket', work: 'MV'},
+instances: 7, word: 'Company', work: 'MV'},
+instances: 7, word: 'Deed', work: 'MV'},
+instances: 7, word: 'Far', work: 'MV'},
+instances: 7, word: 'Follow', work: 'MV'},
+instances: 7, word: 'Forfeiture', work: 'MV'},
+instances: 7, word: 'Four', work: 'MV'},
+instances: 7, word: 'Great', work: 'MV'},
+instances: 7, word: 'Grow', work: 'MV'},
+instances: 7, word: 'Holy', work: 'MV'},
+instances: 7, word: 'Long', work: 'MV'},
+instances: 7, word: 'Lost', work: 'MV'},
+instances: 7, word: 'Might', work: 'MV'},
+instances: 7, word: 'Mistress', work: 'MV'},
+instances: 7, word: 'New', work: 'MV'},
+instances: 7, word: 'Noble', work: 'MV'},
+instances: 7, word: 'Offer', work: 'MV'},
+instances: 7, word: 'Once', work: 'MV'},
+instances: 7, word: 'O\'er', work: 'MV'},
+instances: 7, word: 'Parts', work: 'MV'},
+instances: 7, word: 'Plain', work: 'MV'},
+instances: 7, word: 'Prepare', work: 'MV'},
+instances: 7, word: 'Presently', work: 'MV'},
+instances: 7, word: 'Promise', work: 'MV'},
+instances: 7, word: 'Saying', work: 'MV'},
+instances: 7, word: 'Seek', work: 'MV'},
+instances: 7, word: 'Ship', work: 'MV'},
+instances: 7, word: 'Silver', work: 'MV'},
+instances: 7, word: 'Straight', work: 'MV'},
+instances: 7, word: 'Strange', work: 'MV'},
+instances: 7, word: 'Teach', work: 'MV'},
+instances: 7, word: 'There\'s', work: 'MV'},
+instances: 7, word: 'Tongue', work: 'MV'},
+instances: 7, word: 'Under', work: 'MV'},
+instances: 7, word: 'Until', work: 'MV'},
+instances: 7, word: 'Value', work: 'MV'},
+instances: 7, word: 'Wealth', work: 'MV'},
+instances: 7, word: 'While', work: 'MV'},
+instances: 7, word: 'Withal', work: 'MV'},
+instances: 7, word: 'Worth', work: 'MV'},
+instances: 6, word: 'Adieu', work: 'MV'},
+instances: 6, word: 'Back', work: 'MV'},
+instances: 6, word: 'Because', work: 'MV'},
+instances: 6, word: 'Bed', work: 'MV'},
+instances: 6, word: 'Body', work: 'MV'},
+instances: 6, word: 'Caskets', work: 'MV'},
+instances: 6, word: 'Certain', work: 'MV'},
+instances: 6, word: 'Daniel', work: 'MV'},
+instances: 6, word: 'Deserves', work: 'MV'},
+instances: 6, word: 'Face', work: 'MV'},
+instances: 6, word: 'Fail', work: 'MV'},
+instances: 6, word: 'Farewell', work: 'MV'},
+instances: 6, word: 'Father\'s', work: 'MV'},
+instances: 6, word: 'Fie', work: 'MV'},
+instances: 6, word: 'Gobbo', work: 'MV'},
+instances: 6, word: 'Golden', work: 'MV'},
+instances: 6, word: 'Got', work: 'MV'},
+instances: 6, word: 'Ha', work: 'MV'},
+instances: 6, word: 'Haste', work: 'MV'},
+instances: 6, word: 'Hence', work: 'MV'},
+instances: 6, word: 'Hour', work: 'MV'},
+instances: 6, word: 'Itself', work: 'MV'},
+instances: 6, word: 'Joy', work: 'MV'},
+instances: 6, word: 'Knew', work: 'MV'},
+instances: 6, word: 'Less', work: 'MV'},
+instances: 6, word: 'Loved', work: 'MV'},
+instances: 6, word: 'Matter', work: 'MV'},
+instances: 6, word: 'Mean', work: 'MV'},
+instances: 6, word: 'Merchant', work: 'MV'},
+instances: 6, word: 'Methinks', work: 'MV'},
+instances: 6, word: 'Morning', work: 'MV'},
+instances: 6, word: 'Mother', work: 'MV'},
+instances: 6, word: 'Near', work: 'MV'},
+instances: 6, word: 'Opinion', work: 'MV'},
+instances: 6, word: 'Purpose', work: 'MV'},
+instances: 6, word: 'Put', work: 'MV'},
+instances: 6, word: 'Question', work: 'MV'},
+instances: 6, word: 'Seal', work: 'MV'},
+instances: 6, word: 'Set', work: 'MV'},
+instances: 6, word: 'Six', work: 'MV'},
+instances: 6, word: 'Soft', work: 'MV'},
+instances: 6, word: 'Ten', work: 'MV'},
+instances: 6, word: 'Thing', work: 'MV'},
+instances: 6, word: 'Third', work: 'MV'},
+instances: 6, word: 'Those', work: 'MV'},
+instances: 6, word: 'Thoughts', work: 'MV'},
+instances: 6, word: 'Understand', work: 'MV'},
+instances: 6, word: 'Voice', work: 'MV'},
+instances: 6, word: 'Wilt', work: 'MV'},
+instances: 6, word: 'Woman', work: 'MV'},
+instances: 5, word: 'Affection', work: 'MV'},
+instances: 5, word: 'Among', work: 'MV'},
+instances: 5, word: 'Answered', work: 'MV'},
+instances: 5, word: 'Antonio\'s', work: 'MV'},
+instances: 5, word: 'Assured', work: 'MV'},
+instances: 5, word: 'Aught', work: 'MV'},
+instances: 5, word: 'Begged', work: 'MV'},
+instances: 5, word: 'Believe', work: 'MV'},
+instances: 5, word: 'Blessing', work: 'MV'},
+instances: 5, word: 'Bought', work: 'MV'},
+instances: 5, word: 'Cause', work: 'MV'},
+instances: 5, word: 'Choice', work: 'MV'},
+instances: 5, word: 'Confess', work: 'MV'},
+instances: 5, word: 'Content', work: 'MV'},
+instances: 5, word: 'Counsel', work: 'MV'},
+instances: 5, word: 'Dead', work: 'MV'},
+instances: 5, word: 'Deserve', work: 'MV'},
+instances: 5, word: 'Doubt', work: 'MV'},
+instances: 5, word: 'Earth', work: 'MV'},
+instances: 5, word: 'Entreat', work: 'MV'},
+instances: 5, word: 'Expect', work: 'MV'},
+instances: 5, word: 'Fall', work: 'MV'},
+instances: 5, word: 'Fast', work: 'MV'},
+instances: 5, word: 'Feed', work: 'MV'},
+instances: 5, word: 'Fell', work: 'MV'},
+instances: 5, word: 'Finger', work: 'MV'},
+instances: 5, word: 'Fools', work: 'MV'},
+instances: 5, word: 'Force', work: 'MV'},
+instances: 5, word: 'Found', work: 'MV'},
+instances: 5, word: 'Grant', work: 'MV'},
+instances: 5, word: 'Hair', work: 'MV'},
+instances: 5, word: 'Hate', work: 'MV'},
+instances: 5, word: 'Ho', work: 'MV'},
+instances: 5, word: 'Ill', work: 'MV'},
+instances: 5, word: 'Interest', work: 'MV'},
+instances: 5, word: 'Kiss', work: 'MV'},
+instances: 5, word: 'Knows', work: 'MV'},
+instances: 5, word: 'Lay', work: 'MV'},
+instances: 5, word: 'Lies', work: 'MV'},
+instances: 5, word: 'Maid', work: 'MV'},
+instances: 5, word: 'Man\'s', work: 'MV'},
+instances: 5, word: 'Moneys', work: 'MV'},
+instances: 5, word: 'Next', work: 'MV'},
+instances: 5, word: 'Ne\'er', work: 'MV'},
+instances: 5, word: 'Owe', work: 'MV'},
+instances: 5, word: 'Padua', work: 'MV'},
+instances: 5, word: 'Paid', work: 'MV'},
+instances: 5, word: 'Paper', work: 'MV'},
+instances: 5, word: 'Penalty', work: 'MV'},
+instances: 5, word: 'Pleased', work: 'MV'},
+instances: 5, word: 'Praise', work: 'MV'},
+instances: 5, word: 'Prodigal', work: 'MV'},
+instances: 5, word: 'Prove', work: 'MV'},
+instances: 5, word: 'Raise', work: 'MV'},
+instances: 5, word: 'Ready', work: 'MV'},
+instances: 5, word: 'Refuse', work: 'MV'},
+instances: 5, word: 'Render', work: 'MV'},
+instances: 5, word: 'Revenge', work: 'MV'},
+instances: 5, word: 'Rialto', work: 'MV'},
+instances: 5, word: 'Sake', work: 'MV'},
+instances: 5, word: 'Salerio', work: 'MV'},
+instances: 5, word: 'Saw', work: 'MV'},
+instances: 5, word: 'Sea', work: 'MV'},
+instances: 5, word: 'Sick', work: 'MV'},
+instances: 5, word: 'Silence', work: 'MV'},
+instances: 5, word: 'Sound', work: 'MV'},
+instances: 5, word: 'Speed', work: 'MV'},
+instances: 5, word: 'Spoke', work: 'MV'},
+instances: 5, word: 'Stones', work: 'MV'},
+instances: 5, word: 'Supper', work: 'MV'},
+instances: 5, word: 'Sworn', work: 'MV'},
+instances: 5, word: 'Thrice', work: 'MV'},
+instances: 5, word: 'Together', work: 'MV'},
+instances: 5, word: 'View', work: 'MV'},
+instances: 5, word: 'We\'ll', work: 'MV'},
+instances: 5, word: 'Whereof', work: 'MV'},
+instances: 5, word: 'Wild', work: 'MV'},
+instances: 5, word: 'Worse', work: 'MV'},
+instances: 5, word: 'Worship', work: 'MV'},
+instances: 5, word: '\'t', work: 'MV'},
+instances: 4, word: 'Above', work: 'MV'},
+instances: 4, word: 'Against', work: 'MV'},
+instances: 4, word: 'Alas', work: 'MV'},
+instances: 4, word: 'Almost', work: 'MV'},
+instances: 4, word: 'Appears', work: 'MV'},
+instances: 4, word: 'Besides', work: 'MV'},
+instances: 4, word: 'Breath', work: 'MV'},
+instances: 4, word: 'Bred', work: 'MV'},
+instances: 4, word: 'Business', work: 'MV'},
+instances: 4, word: 'Candle', work: 'MV'},
+instances: 4, word: 'Change', work: 'MV'},
+instances: 4, word: 'Charge', work: 'MV'},
+instances: 4, word: 'Cheer', work: 'MV'},
+instances: 4, word: 'Child', work: 'MV'},
+instances: 4, word: 'Christians', work: 'MV'},
+instances: 4, word: 'Cold', work: 'MV'},
+instances: 4, word: 'Coming', work: 'MV'},
+instances: 4, word: 'Complexion', work: 'MV'},
+instances: 4, word: 'Cover', work: 'MV'},
+instances: 4, word: 'Damned', work: 'MV'},
+instances: 4, word: 'Dare', work: 'MV'},
+instances: 4, word: 'Die', work: 'MV'},
+instances: 4, word: 'Difference', work: 'MV'},
+instances: 4, word: 'Doing', work: 'MV'},
+instances: 4, word: 'Ear', work: 'MV'},
+instances: 4, word: 'Ears', work: 'MV'},
+instances: 4, word: 'England', work: 'MV'},
+instances: 4, word: 'Estate', work: 'MV'},
+instances: 4, word: 'Expressed', work: 'MV'},
+instances: 4, word: 'Feast', work: 'MV'},
+instances: 4, word: 'Fee', work: 'MV'},
+instances: 4, word: 'Fire', work: 'MV'},
+instances: 4, word: 'Foot', work: 'MV'},
+instances: 4, word: 'Forgive', work: 'MV'},
+instances: 4, word: 'Fortunes', work: 'MV'},
+instances: 4, word: 'Gain', work: 'MV'},
+instances: 4, word: 'Genoa', work: 'MV'},
+instances: 4, word: 'Gift', work: 'MV'},
+instances: 4, word: 'Given', work: 'MV'},
+instances: 4, word: 'God\'s', work: 'MV'},
+instances: 4, word: 'Goods', work: 'MV'},
+instances: 4, word: 'Hands', work: 'MV'},
+instances: 4, word: 'Happy', work: 'MV'},
+instances: 4, word: 'Having', work: 'MV'},
+instances: 4, word: 'Hearts', work: 'MV'},
+instances: 4, word: 'Here\'s', work: 'MV'},
+instances: 4, word: 'High', work: 'MV'},
+instances: 4, word: 'Hours', work: 'MV'},
+instances: 4, word: 'Husbands', work: 'MV'},
+instances: 4, word: 'Jacob', work: 'MV'},
+instances: 4, word: 'Jailer', work: 'MV'},
+instances: 4, word: 'Jewels', work: 'MV'},
+instances: 4, word: 'Knife', work: 'MV'},
+instances: 4, word: 'Lack', work: 'MV'},
+instances: 4, word: 'Laugh', work: 'MV'},
+instances: 4, word: 'Lest', work: 'MV'},
+instances: 4, word: 'Lodging', work: 'MV'},
+instances: 4, word: 'Losses', work: 'MV'},
+instances: 4, word: 'Low', work: 'MV'},
+instances: 4, word: 'Luck', work: 'MV'},
+instances: 4, word: 'Making', work: 'MV'},
+instances: 4, word: 'Marriage', work: 'MV'},
+instances: 4, word: 'Married', work: 'MV'},
+instances: 4, word: 'Messenger', work: 'MV'},
+instances: 4, word: 'Moon', work: 'MV'},
+instances: 4, word: 'Nature', work: 'MV'},
+instances: 4, word: 'Needs', work: 'MV'},
+instances: 4, word: 'Note', work: 'MV'},
+instances: 4, word: 'Oft', work: 'MV'},
+instances: 4, word: 'Pains', work: 'MV'},
+instances: 4, word: 'Parted', work: 'MV'},
+instances: 4, word: 'Pause', work: 'MV'},
+instances: 4, word: 'Plea', work: 'MV'},
+instances: 4, word: 'Possessed', work: 'MV'},
+instances: 4, word: 'Prayer', work: 'MV'},
+instances: 4, word: 'Read', work: 'MV'},
+instances: 4, word: 'Sail', work: 'MV'},
+instances: 4, word: 'Second', work: 'MV'},
+instances: 4, word: 'Seen', work: 'MV'},
+instances: 4, word: 'Service', work: 'MV'},
+instances: 4, word: 'Shadow', work: 'MV'},
+instances: 4, word: 'Ships', work: 'MV'},
+instances: 4, word: 'Shows', work: 'MV'},
+instances: 4, word: 'Signify', work: 'MV'},
+instances: 4, word: 'Simple', work: 'MV'},
+instances: 4, word: 'Sit', work: 'MV'},
+instances: 4, word: 'Sober', work: 'MV'},
+instances: 4, word: 'Sounds', work: 'MV'},
+instances: 4, word: 'Steal', work: 'MV'},
+instances: 4, word: 'Stood', work: 'MV'},
+instances: 4, word: 'Stop', work: 'MV'},
+instances: 4, word: 'Table', work: 'MV'},
+instances: 4, word: 'Tarry', work: 'MV'},
+instances: 4, word: 'Terms', work: 'MV'},
+instances: 4, word: 'Themselves', work: 'MV'},
+instances: 4, word: 'Thine', work: 'MV'},
+instances: 4, word: 'Toward', work: 'MV'},
+instances: 4, word: 'Tribe', work: 'MV'},
+instances: 4, word: 'Truly', work: 'MV'},
+instances: 4, word: 'Turning', work: 'MV'},
+instances: 4, word: 'Upright', work: 'MV'},
+instances: 4, word: 'Venetian', work: 'MV'},
+instances: 4, word: 'Ventures', work: 'MV'},
+instances: 4, word: 'Waste', work: 'MV'},
+instances: 4, word: 'Watch', work: 'MV'},
+instances: 4, word: 'Waters', work: 'MV'},
+instances: 4, word: 'Wherein', work: 'MV'},
+instances: 4, word: 'Wives', work: 'MV'},
+instances: 4, word: 'Won', work: 'MV'},
+instances: 4, word: 'Wont', work: 'MV'},
+instances: 4, word: 'Worthy', work: 'MV'},
+instances: 4, word: 'Yield', work: 'MV'},
+instances: 4, word: 'Yourself', work: 'MV'},
+instances: 4, word: 'You\'ll', work: 'MV'},
+instances: 4, word: '\'gainst', work: 'MV'},
+instances: 4, word: '\'twere', work: 'MV'},
+instances: 3, word: 'Abroad', work: 'MV'},
+instances: 3, word: 'Absence', work: 'MV'},
+instances: 3, word: 'According', work: 'MV'},
+instances: 3, word: 'Account', work: 'MV'},
+instances: 3, word: 'Acquainted', work: 'MV'},
+instances: 3, word: 'Act', work: 'MV'},
+instances: 3, word: 'Afeard', work: 'MV'},
+instances: 3, word: 'Affections', work: 'MV'},
+instances: 3, word: 'Air', work: 'MV'},
+instances: 3, word: 'Alack', work: 'MV'},
+instances: 3, word: 'Alone', work: 'MV'},
+instances: 3, word: 'Along', work: 'MV'},
+instances: 3, word: 'Already', work: 'MV'},
+instances: 3, word: 'Ancient', work: 'MV'},
+instances: 3, word: 'Angel', work: 'MV'},
+instances: 3, word: 'Anon', work: 'MV'},
+instances: 3, word: 'Ask', work: 'MV'},
+instances: 3, word: 'A\'', work: 'MV'},
+instances: 3, word: 'Bad', work: 'MV'},
+instances: 3, word: 'Bar', work: 'MV'},
+instances: 3, word: 'Bears', work: 'MV'},
+instances: 3, word: 'Beg', work: 'MV'},
+instances: 3, word: 'Behind', work: 'MV'},
+instances: 3, word: 'Behold', work: 'MV'},
+instances: 3, word: 'Bless', work: 'MV'},
+instances: 3, word: 'Blest', work: 'MV'},
+instances: 3, word: 'Blind', work: 'MV'},
+instances: 3, word: 'Bold', work: 'MV'},
+instances: 3, word: 'Bosom', work: 'MV'},
+instances: 3, word: 'Breathing', work: 'MV'},
+instances: 3, word: 'Brief', work: 'MV'},
+instances: 3, word: 'Brings', work: 'MV'},
+instances: 3, word: 'Budge', work: 'MV'},
+instances: 3, word: 'Buy', work: 'MV'},
+instances: 3, word: 'Calls', work: 'MV'},
+instances: 3, word: 'Canst', work: 'MV'},
+instances: 3, word: 'Care', work: 'MV'},
+instances: 3, word: 'Carrion', work: 'MV'},
+instances: 3, word: 'Certainly', work: 'MV'},
+instances: 3, word: 'Chance', work: 'MV'},
+instances: 3, word: 'Commend', work: 'MV'},
+instances: 3, word: 'Common', work: 'MV'},
+instances: 3, word: 'Condition', work: 'MV'},
+instances: 3, word: 'Contains', work: 'MV'},
+instances: 3, word: 'Course', work: 'MV'},
+instances: 3, word: 'Courteous', work: 'MV'},
+instances: 3, word: 'Courtesy', work: 'MV'},
+instances: 3, word: 'Creep', work: 'MV'},
+instances: 3, word: 'Cruelty', work: 'MV'},
+instances: 3, word: 'Cur', work: 'MV'},
+instances: 3, word: 'Danger', work: 'MV'},
+instances: 3, word: 'Dangerous', work: 'MV'},
+instances: 3, word: 'Debt', work: 'MV'},
+instances: 3, word: 'Debts', work: 'MV'},
+instances: 3, word: 'Deceived', work: 'MV'},
+instances: 3, word: 'Deserved', work: 'MV'},
+instances: 3, word: 'Desires', work: 'MV'},
+instances: 3, word: 'Dies', work: 'MV'},
+instances: 3, word: 'Doors', work: 'MV'},
+instances: 3, word: 'Double', work: 'MV'},
+instances: 3, word: 'Drop', work: 'MV'},
+instances: 3, word: 'Drops', work: 'MV'},
+instances: 3, word: 'Ducat', work: 'MV'},
+instances: 3, word: 'Due', work: 'MV'},
+instances: 3, word: 'Dull', work: 'MV'},
+instances: 3, word: 'Dumb', work: 'MV'},
+instances: 3, word: 'Enemy', work: 'MV'},
+instances: 3, word: 'Ergo', work: 'MV'},
+instances: 3, word: 'Estimation', work: 'MV'},
+instances: 3, word: 'Ewes', work: 'MV'},
+instances: 3, word: 'E\'er', work: 'MV'},
+instances: 3, word: 'Fairer', work: 'MV'},
+instances: 3, word: 'Falls', work: 'MV'},
+instances: 3, word: 'False', work: 'MV'},
+instances: 3, word: 'Fault', work: 'MV'},
+instances: 3, word: 'Fellow', work: 'MV'},
+instances: 3, word: 'Fine', work: 'MV'},
+instances: 3, word: 'Fleece', work: 'MV'},
+instances: 3, word: 'Fly', work: 'MV'},
+instances: 3, word: 'Fourscore', work: 'MV'},
+instances: 3, word: 'Freely', work: 'MV'},
+instances: 3, word: 'French', work: 'MV'},
+instances: 3, word: 'Furnish', work: 'MV'},
+instances: 3, word: 'Gaping', work: 'MV'},
+instances: 3, word: 'Gate', work: 'MV'},
+instances: 3, word: 'Girl', work: 'MV'},
+instances: 3, word: 'Gives', work: 'MV'},
+instances: 3, word: 'Goodly', work: 'MV'},
+instances: 3, word: 'Gratis', work: 'MV'},
+instances: 3, word: 'Grieve', work: 'MV'},
+instances: 3, word: 'Gross', work: 'MV'},
+instances: 3, word: 'Ground', work: 'MV'},
+instances: 3, word: 'Grows', work: 'MV'},
+instances: 3, word: 'Habit', work: 'MV'},
+instances: 3, word: 'Hates', work: 'MV'},
+instances: 3, word: 'Hearing', work: 'MV'},
+instances: 3, word: 'Hell', work: 'MV'},
+instances: 3, word: 'Hercules', work: 'MV'},
+instances: 3, word: 'Herein', work: 'MV'},
+instances: 3, word: 'Herself', work: 'MV'},
+instances: 3, word: 'Hid', work: 'MV'},
+instances: 3, word: 'Honorable', work: 'MV'},
+instances: 3, word: 'Hopes', work: 'MV'},
+instances: 3, word: 'Horse', work: 'MV'},
+instances: 3, word: 'Husband\'s', work: 'MV'},
+instances: 3, word: 'Immediately', work: 'MV'},
+instances: 3, word: 'Inquire', work: 'MV'},
+instances: 3, word: 'Instantly', work: 'MV'},
+instances: 3, word: 'Italy', work: 'MV'},
+instances: 3, word: 'I\'', work: 'MV'},
+instances: 3, word: 'Jacob\'s', work: 'MV'},
+instances: 3, word: 'Judge\'s', work: 'MV'},
+instances: 3, word: 'Keen', work: 'MV'},
+instances: 3, word: 'Key', work: 'MV'},
+instances: 3, word: 'Kindness', work: 'MV'},
+instances: 3, word: 'King', work: 'MV'},
+instances: 3, word: 'Known', work: 'MV'},
+instances: 3, word: 'Late', work: 'MV'},
+instances: 3, word: 'Laws', work: 'MV'},
+instances: 3, word: 'Learn', work: 'MV'},
+instances: 3, word: 'Learning', work: 'MV'},
+instances: 3, word: 'Letters', work: 'MV'},
+instances: 3, word: 'Let\'s', work: 'MV'},
+instances: 3, word: 'Liberal', work: 'MV'},
+instances: 3, word: 'Longer', work: 'MV'},
+instances: 3, word: 'Looks', work: 'MV'},
+instances: 3, word: 'Lord\'s', work: 'MV'},
+instances: 3, word: 'Loss', work: 'MV'},
+instances: 3, word: 'Loving', work: 'MV'},
+instances: 3, word: 'Mad', work: 'MV'},
+instances: 3, word: 'Mak\'st', work: 'MV'},
+instances: 3, word: 'Masque', work: 'MV'},
+instances: 3, word: 'Mayst', work: 'MV'},
+instances: 3, word: 'Meaning', work: 'MV'},
+instances: 3, word: 'Merchandise', work: 'MV'},
+instances: 3, word: 'Merchants', work: 'MV'},
+instances: 3, word: 'Merchant\'s', work: 'MV'},
+instances: 3, word: 'Merit', work: 'MV'},
+instances: 3, word: 'Month', work: 'MV'},
+instances: 3, word: 'Nation', work: 'MV'},
+instances: 3, word: 'Naughty', work: 'MV'},
+instances: 3, word: 'Need', work: 'MV'},
+instances: 3, word: 'Notwithstanding', work: 'MV'},
+instances: 3, word: 'Oaths', work: 'MV'},
+instances: 3, word: 'Obtained', work: 'MV'},
+instances: 3, word: 'Offices', work: 'MV'},
+instances: 3, word: 'Often', work: 'MV'},
+instances: 3, word: 'Ornament', work: 'MV'},
+instances: 3, word: 'Outward', work: 'MV'},
+instances: 3, word: 'Over', work: 'MV'},
+instances: 3, word: 'O\'clock', work: 'MV'},
+instances: 3, word: 'Past', work: 'MV'},
+instances: 3, word: 'Peril', work: 'MV'},
+instances: 3, word: 'Picture', work: 'MV'},
+instances: 3, word: 'Pity', work: 'MV'},
+instances: 3, word: 'Pluck', work: 'MV'},
+instances: 3, word: 'Pork', work: 'MV'},
+instances: 3, word: 'Precious', work: 'MV'},
+instances: 3, word: 'Principal', work: 'MV'},
+instances: 3, word: 'Prop', work: 'MV'},
+instances: 3, word: 'Provided', work: 'MV'},
+instances: 3, word: 'Purchased', work: 'MV'},
+instances: 3, word: 'Purse', work: 'MV'},
+instances: 3, word: 'Quick', work: 'MV'},
+instances: 3, word: 'Rack', work: 'MV'},
+instances: 3, word: 'Rate', work: 'MV'},
+instances: 3, word: 'Receive', work: 'MV'},
+instances: 3, word: 'Remember', work: 'MV'},
+instances: 3, word: 'Repent', work: 'MV'},
+instances: 3, word: 'Respect', work: 'MV'},
+instances: 3, word: 'Returned', work: 'MV'},
+instances: 3, word: 'Reverence', work: 'MV'},
+instances: 3, word: 'Ribs', work: 'MV'},
+instances: 3, word: 'Richly', work: 'MV'},
+instances: 3, word: 'Rocks', work: 'MV'},
+instances: 3, word: 'Ruin', work: 'MV'},
+instances: 3, word: 'Satisfied', work: 'MV'},
+instances: 3, word: 'Scarce', work: 'MV'},
+instances: 3, word: 'Scroll', work: 'MV'},
+instances: 3, word: 'Search', work: 'MV'},
+instances: 3, word: 'Seasoned', work: 'MV'},
+instances: 3, word: 'Seem', work: 'MV'},
+instances: 3, word: 'Self', work: 'MV'},
+instances: 3, word: 'Send', work: 'MV'},
+instances: 3, word: 'Sent', work: 'MV'},
+instances: 3, word: 'Sentence', work: 'MV'},
+instances: 3, word: 'Servants', work: 'MV'},
+instances: 3, word: 'Shame', work: 'MV'},
+instances: 3, word: 'Shines', work: 'MV'},
+instances: 3, word: 'Shortly', work: 'MV'},
+instances: 3, word: 'Sin', work: 'MV'},
+instances: 3, word: 'Sing', work: 'MV'},
+instances: 3, word: 'Sirrah', work: 'MV'},
+instances: 3, word: 'Sleeps', work: 'MV'},
+instances: 3, word: 'Soon', work: 'MV'},
+instances: 3, word: 'Sorry', work: 'MV'},
+instances: 3, word: 'Sort', work: 'MV'},
+instances: 3, word: 'Souls', work: 'MV'},
+instances: 3, word: 'Speaks', work: 'MV'},
+instances: 3, word: 'Spet', work: 'MV'},
+instances: 3, word: 'Spirits', work: 'MV'},
+instances: 3, word: 'Staff', work: 'MV'},
+instances: 3, word: 'Substance', work: 'MV'},
+instances: 3, word: 'Summer', work: 'MV'},
+instances: 3, word: 'Sun', work: 'MV'},
+instances: 3, word: 'Swore', work: 'MV'},
+instances: 3, word: 'Tail', work: 'MV'},
+instances: 3, word: 'Taken', work: 'MV'},
+instances: 3, word: 'Tears', work: 'MV'},
+instances: 3, word: 'Thieves', work: 'MV'},
+instances: 3, word: 'Thrift', work: 'MV'},
+instances: 3, word: 'Through', work: 'MV'},
+instances: 3, word: 'Thyself', work: 'MV'},
+instances: 3, word: 'Today', work: 'MV'},
+instances: 3, word: 'Torchbearer', work: 'MV'},
+instances: 3, word: 'Treason', work: 'MV'},
+instances: 3, word: 'Tried', work: 'MV'},
+instances: 3, word: 'Trifle', work: 'MV'},
+instances: 3, word: 'Tripolis', work: 'MV'},
+instances: 3, word: 'Try', work: 'MV'},
+instances: 3, word: 'Twice', work: 'MV'},
+instances: 3, word: 'Venture', work: 'MV'},
+instances: 3, word: 'Virtue', work: 'MV'},
+instances: 3, word: 'Void', work: 'MV'},
+instances: 3, word: 'Ways', work: 'MV'},
+instances: 3, word: 'Wealthy', work: 'MV'},
+instances: 3, word: 'Whole', work: 'MV'},
+instances: 3, word: 'Win', work: 'MV'},
+instances: 3, word: 'Wine', work: 'MV'},
+instances: 3, word: 'Wisdom', work: 'MV'},
+instances: 3, word: 'Witness', work: 'MV'},
+instances: 3, word: 'Work', work: 'MV'},
+instances: 3, word: 'Worst', work: 'MV'},
+instances: 3, word: 'Yea', work: 'MV'},
+instances: 3, word: 'Year', work: 'MV'},
+instances: 3, word: 'Years', work: 'MV'},
+instances: 2, word: 'Abide', work: 'MV'},
+instances: 2, word: 'Able', work: 'MV'},
+instances: 2, word: 'Abram', work: 'MV'},
+instances: 2, word: 'Absent', work: 'MV'},
+instances: 2, word: 'Accept', work: 'MV'},
+instances: 2, word: 'Acquitted', work: 'MV'},
+instances: 2, word: 'Advised', work: 'MV'},
+instances: 2, word: 'Afternoon', work: 'MV'},
+instances: 2, word: 'Age', work: 'MV'},
+instances: 2, word: 'Albeit', work: 'MV'},
+instances: 2, word: 'Alcides', work: 'MV'},
+instances: 2, word: 'Alive', work: 'MV'},
+instances: 2, word: 'Allay', work: 'MV'},
+instances: 2, word: 'Aloof', work: 'MV'},
+instances: 2, word: 'Alter', work: 'MV'},
+instances: 2, word: 'Ambitious', work: 'MV'},
+instances: 2, word: 'Amen', work: 'MV'},
+instances: 2, word: 'Amity', work: 'MV'},
+instances: 2, word: 'Answers', work: 'MV'},
+instances: 2, word: 'Approach', work: 'MV'},
+instances: 2, word: 'Argosies', work: 'MV'},
+instances: 2, word: 'Argosy', work: 'MV'},
+instances: 2, word: 'Armed', work: 'MV'},
+instances: 2, word: 'Ashamed', work: 'MV'},
+instances: 2, word: 'Aspect', work: 'MV'},
+instances: 2, word: 'Assume', work: 'MV'},
+instances: 2, word: 'Attempt', work: 'MV'},
+instances: 2, word: 'Attend', work: 'MV'},
+instances: 2, word: 'Attended', work: 'MV'},
+instances: 2, word: 'Attribute', work: 'MV'},
+instances: 2, word: 'Authority', work: 'MV'},
+instances: 2, word: 'Awards', work: 'MV'},
+instances: 2, word: 'Bagpipe', work: 'MV'},
+instances: 2, word: 'Bags', work: 'MV'},
+instances: 2, word: 'Bait', work: 'MV'},
+instances: 2, word: 'Balthazar', work: 'MV'},
+instances: 2, word: 'Bankrout', work: 'MV'},
+instances: 2, word: 'Bare', work: 'MV'},
+instances: 2, word: 'Bargains', work: 'MV'},
+instances: 2, word: 'Bark', work: 'MV'},
+instances: 2, word: 'Bars', work: 'MV'},
+instances: 2, word: 'Base', work: 'MV'},
+instances: 2, word: 'Bastard', work: 'MV'},
+instances: 2, word: 'Bated', work: 'MV'},
+instances: 2, word: 'Beard', work: 'MV'},
+instances: 2, word: 'Bearing', work: 'MV'},
+instances: 2, word: 'Beauty', work: 'MV'},
+instances: 2, word: 'Bedfellow', work: 'MV'},
+instances: 2, word: 'Beggar', work: 'MV'},
+instances: 2, word: 'Begone', work: 'MV'},
+instances: 2, word: 'Behavior', work: 'MV'},
+instances: 2, word: 'Bell', work: 'MV'},
+instances: 2, word: 'Beshrew', work: 'MV'},
+instances: 2, word: 'Bestowed', work: 'MV'},
+instances: 2, word: 'Bethink', work: 'MV'},
+instances: 2, word: 'Bids', work: 'MV'},
+instances: 2, word: 'Blame', work: 'MV'},
+instances: 2, word: 'Bleed', work: 'MV'},
+instances: 2, word: 'Bliss', work: 'MV'},
+instances: 2, word: 'Bloody', work: 'MV'},
+instances: 2, word: 'Blow', work: 'MV'},
+instances: 2, word: 'Books', work: 'MV'},
+instances: 2, word: 'Born', work: 'MV'},
+instances: 2, word: 'Borrow', work: 'MV'},
+instances: 2, word: 'Borrowed', work: 'MV'},
+instances: 2, word: 'Bragging', work: 'MV'},
+instances: 2, word: 'Breast', work: 'MV'},
+instances: 2, word: 'Breed', work: 'MV'},
+instances: 2, word: 'Bright', work: 'MV'},
+instances: 2, word: 'Brook', work: 'MV'},
+instances: 2, word: 'Brow', work: 'MV'},
+instances: 2, word: 'Called', work: 'MV'},
+instances: 2, word: 'Casements', work: 'MV'},
+instances: 2, word: 'Cat', work: 'MV'},
+instances: 2, word: 'Catch', work: 'MV'},
+instances: 2, word: 'Chaff', work: 'MV'},
+instances: 2, word: 'Changed', work: 'MV'},
+instances: 2, word: 'Charity', work: 'MV'},
+instances: 2, word: 'Cheek', work: 'MV'},
+instances: 2, word: 'Chooses', work: 'MV'},
+instances: 2, word: 'Choosing', work: 'MV'},
+instances: 2, word: 'Chose', work: 'MV'},
+instances: 2, word: 'Church', work: 'MV'},
+instances: 2, word: 'Claim', work: 'MV'},
+instances: 2, word: 'Clear', work: 'MV'},
+instances: 2, word: 'Clock', work: 'MV'},
+instances: 2, word: 'Close', work: 'MV'},
+instances: 2, word: 'Commandment', work: 'MV'},
+instances: 2, word: 'Commendable', work: 'MV'},
+instances: 2, word: 'Commends', work: 'MV'},
+instances: 2, word: 'Commit', work: 'MV'},
+instances: 2, word: 'Commodity', work: 'MV'},
+instances: 2, word: 'Commonwealth', work: 'MV'},
+instances: 2, word: 'Conceit', work: 'MV'},
+instances: 2, word: 'Confiscate', work: 'MV'},
+instances: 2, word: 'Constant', work: 'MV'},
+instances: 2, word: 'Contain', work: 'MV'},
+instances: 2, word: 'Contrary', work: 'MV'},
+instances: 2, word: 'Converse', work: 'MV'},
+instances: 2, word: 'Cooled', work: 'MV'},
+instances: 2, word: 'Corners', work: 'MV'},
+instances: 2, word: 'Cost', work: 'MV'},
+instances: 2, word: 'Countrymen', work: 'MV'},
+instances: 2, word: 'Courtesies', work: 'MV'},
+instances: 2, word: 'Creature', work: 'MV'},
+instances: 2, word: 'Credit', work: 'MV'},
+instances: 2, word: 'Creditors', work: 'MV'},
+instances: 2, word: 'Cross', work: 'MV'},
+instances: 2, word: 'Cruel', work: 'MV'},
+instances: 2, word: 'Currish', work: 'MV'},
+instances: 2, word: 'Curtain', work: 'MV'},
+instances: 2, word: 'Curtains', work: 'MV'},
+instances: 2, word: 'Custom', work: 'MV'},
+instances: 2, word: 'Dagger', work: 'MV'},
+instances: 2, word: 'Dam', work: 'MV'},
+instances: 2, word: 'Dark', work: 'MV'},
+instances: 2, word: 'Daughter\'s', work: 'MV'},
+instances: 2, word: 'Dearest', work: 'MV'},
+instances: 2, word: 'Decree', work: 'MV'},
+instances: 2, word: 'Deeds', work: 'MV'},
+instances: 2, word: 'Deep', work: 'MV'},
+instances: 2, word: 'Delight', work: 'MV'},
+instances: 2, word: 'Deliver', work: 'MV'},
+instances: 2, word: 'Delivered', work: 'MV'},
+instances: 2, word: 'Description', work: 'MV'},
+instances: 2, word: 'Deserts', work: 'MV'},
+instances: 2, word: 'Deserving', work: 'MV'},
+instances: 2, word: 'Deservings', work: 'MV'},
+instances: 2, word: 'Destiny', work: 'MV'},
+instances: 2, word: 'Diana', work: 'MV'},
+instances: 2, word: 'Ding', work: 'MV'},
+instances: 2, word: 'Direct', work: 'MV'},
+instances: 2, word: 'Directed', work: 'MV'},
+instances: 2, word: 'Direction', work: 'MV'},
+instances: 2, word: 'Directly', work: 'MV'},
+instances: 2, word: 'Discharge', work: 'MV'},
+instances: 2, word: 'Dismay', work: 'MV'},
+instances: 2, word: 'Doctor\'s', work: 'MV'},
+instances: 2, word: 'Dong', work: 'MV'},
+instances: 2, word: 'Door', work: 'MV'},
+instances: 2, word: 'Doubtful', work: 'MV'},
+instances: 2, word: 'Dread', work: 'MV'},
+instances: 2, word: 'Drive', work: 'MV'},
+instances: 2, word: 'Dwell', work: 'MV'},
+instances: 2, word: 'Dwells', work: 'MV'},
+instances: 2, word: 'Earthly', work: 'MV'},
+instances: 2, word: 'Easy', work: 'MV'},
+instances: 2, word: 'Eat', work: 'MV'},
+instances: 2, word: 'Either', work: 'MV'},
+instances: 2, word: 'Election', work: 'MV'},
+instances: 2, word: 'Embracèd', work: 'MV'},
+instances: 2, word: 'Empty', work: 'MV'},
+instances: 2, word: 'Enforcèd', work: 'MV'},
+instances: 2, word: 'Engaged', work: 'MV'},
+instances: 2, word: 'English', work: 'MV'},
+instances: 2, word: 'Enow', work: 'MV'},
+instances: 2, word: 'Enter', work: 'MV'},
+instances: 2, word: 'Entrap', work: 'MV'},
+instances: 2, word: 'Equal', work: 'MV'},
+instances: 2, word: 'Error', work: 'MV'},
+instances: 2, word: 'Esteemed', work: 'MV'},
+instances: 2, word: 'Evermore', work: 'MV'},
+instances: 2, word: 'Evil', work: 'MV'},
+instances: 2, word: 'Example', work: 'MV'},
+instances: 2, word: 'Exceeding', work: 'MV'},
+instances: 2, word: 'Excess', work: 'MV'},
+instances: 2, word: 'Excuse', work: 'MV'},
+instances: 2, word: 'Extend', work: 'MV'},
+instances: 2, word: 'Fairly', work: 'MV'},
+instances: 2, word: 'Fancy', work: 'MV'},
+instances: 2, word: 'Farther', work: 'MV'},
+instances: 2, word: 'Fashion', work: 'MV'},
+instances: 2, word: 'Faster', work: 'MV'},
+instances: 2, word: 'Favor', work: 'MV'},
+instances: 2, word: 'Fed', work: 'MV'},
+instances: 2, word: 'Fellows', work: 'MV'},
+instances: 2, word: 'Fifth', work: 'MV'},
+instances: 2, word: 'Fish', work: 'MV'},
+instances: 2, word: 'Fleet', work: 'MV'},
+instances: 2, word: 'Flight', work: 'MV'},
+instances: 2, word: 'Flood', work: 'MV'},
+instances: 2, word: 'Follows', work: 'MV'},
+instances: 2, word: 'Fond', work: 'MV'},
+instances: 2, word: 'Food', work: 'MV'},
+instances: 2, word: 'Foolish', work: 'MV'},
+instances: 2, word: 'Fool\'s', work: 'MV'},
+instances: 2, word: 'Forbid', work: 'MV'},
+instances: 2, word: 'Forever', work: 'MV'},
+instances: 2, word: 'Forsworn', work: 'MV'},
+instances: 2, word: 'Freedom', work: 'MV'},
+instances: 2, word: 'Frenchman', work: 'MV'},
+instances: 2, word: 'Friendship', work: 'MV'},
+instances: 2, word: 'Frowning', work: 'MV'},
+instances: 2, word: 'Furnished', work: 'MV'},
+instances: 2, word: 'Gallows', work: 'MV'},
+instances: 2, word: 'Gaze', work: 'MV'},
+instances: 2, word: 'Gazing', work: 'MV'},
+instances: 2, word: 'Gear', work: 'MV'},
+instances: 2, word: 'Gentlemen', work: 'MV'},
+instances: 2, word: 'Gifts', work: 'MV'},
+instances: 2, word: 'Giving', work: 'MV'},
+instances: 2, word: 'Goes', work: 'MV'},
+instances: 2, word: 'Goest', work: 'MV'},
+instances: 2, word: 'Gossip', work: 'MV'},
+instances: 2, word: 'Gracious', work: 'MV'},
+instances: 2, word: 'Grave', work: 'MV'},
+instances: 2, word: 'Greater', work: 'MV'},
+instances: 2, word: 'Grossly', work: 'MV'},
+instances: 2, word: 'Hairs', work: 'MV'},
+instances: 2, word: 'Halter', work: 'MV'},
+instances: 2, word: 'Hang', work: 'MV'},
+instances: 2, word: 'Hanged', work: 'MV'},
+instances: 2, word: 'Hanging', work: 'MV'},
+instances: 2, word: 'Hark', work: 'MV'},
+instances: 2, word: 'Harmony', work: 'MV'},
+instances: 2, word: 'Has', work: 'MV'},
+instances: 2, word: 'Heartily', work: 'MV'},
+instances: 2, word: 'Heart\'s', work: 'MV'},
+instances: 2, word: 'Heat', work: 'MV'},
+instances: 2, word: 'Heavenly', work: 'MV'},
+instances: 2, word: 'Heavens', work: 'MV'},
+instances: 2, word: 'Heavy', work: 'MV'},
+instances: 2, word: 'Hebrew', work: 'MV'},
+instances: 2, word: 'Heed', work: 'MV'},
+instances: 2, word: 'Heels', work: 'MV'},
+instances: 2, word: 'Held', work: 'MV'},
+instances: 2, word: 'Help', work: 'MV'},
+instances: 2, word: 'Hie', work: 'MV'},
+instances: 2, word: 'Hip', work: 'MV'},
+instances: 2, word: 'Hit', work: 'MV'},
+instances: 2, word: 'Hither', work: 'MV'},
+instances: 2, word: 'Holds', work: 'MV'},
+instances: 2, word: 'Hood', work: 'MV'},
+instances: 2, word: 'Hot', work: 'MV'},
+instances: 2, word: 'Hue', work: 'MV'},
+instances: 2, word: 'Humbleness', work: 'MV'},
+instances: 2, word: 'Impeach', work: 'MV'},
+instances: 2, word: 'Imposition', work: 'MV'},
+instances: 2, word: 'Indirectly', work: 'MV'},
+instances: 2, word: 'Infidel', work: 'MV'},
+instances: 2, word: 'Instant', work: 'MV'},
+instances: 2, word: 'Issue', work: 'MV'},
+instances: 2, word: 'Jasons', work: 'MV'},
+instances: 2, word: 'Jewish', work: 'MV'},
+instances: 2, word: 'Just', work: 'MV'},
+instances: 2, word: 'Kept', work: 'MV'},
+instances: 2, word: 'Kill', work: 'MV'},
+instances: 2, word: 'Kings', work: 'MV'},
+instances: 2, word: 'Knave', work: 'MV'},
+instances: 2, word: 'Know\'st', work: 'MV'},
+instances: 2, word: 'Ladies', work: 'MV'},
+instances: 2, word: 'Land', work: 'MV'},
+instances: 2, word: 'Leisure', work: 'MV'},
+instances: 2, word: 'Lieu', work: 'MV'},
+instances: 2, word: 'Lips', work: 'MV'},
+instances: 2, word: 'Liveries', work: 'MV'},
+instances: 2, word: 'Livery', work: 'MV'},
+instances: 2, word: 'Lives', work: 'MV'},
+instances: 2, word: 'Living', work: 'MV'},
+instances: 2, word: 'Locks', work: 'MV'},
+instances: 2, word: 'Looked', work: 'MV'},
+instances: 2, word: 'Lords', work: 'MV'},
+instances: 2, word: 'Loud', work: 'MV'},
+instances: 2, word: 'Lover', work: 'MV'},
+instances: 2, word: 'Lovers', work: 'MV'},
+instances: 2, word: 'Madness', work: 'MV'},
+instances: 2, word: 'Maids', work: 'MV'},
+instances: 2, word: 'Main', work: 'MV'},
+instances: 2, word: 'Malice', work: 'MV'},
+instances: 2, word: 'Manly', work: 'MV'},
+instances: 2, word: 'Manners', work: 'MV'},
+instances: 2, word: 'Margery', work: 'MV'},
+instances: 2, word: 'Masters', work: 'MV'},
+instances: 2, word: 'Master\'s', work: 'MV'},
+instances: 2, word: 'Match', work: 'MV'},
+instances: 2, word: 'Meantime', work: 'MV'},
+instances: 2, word: 'Measure', work: 'MV'},
+instances: 2, word: 'Meat', work: 'MV'},
+instances: 2, word: 'Memory', work: 'MV'},
+instances: 2, word: 'Merciful', work: 'MV'},
+instances: 2, word: 'Metal', work: 'MV'},
+instances: 2, word: 'Mexico', work: 'MV'},
+instances: 2, word: 'Mightiest', work: 'MV'},
+instances: 2, word: 'Miles', work: 'MV'},
+instances: 2, word: 'Mirth', work: 'MV'},
+instances: 2, word: 'Miscarried', work: 'MV'},
+instances: 2, word: 'Misfortune', work: 'MV'},
+instances: 2, word: 'Miss', work: 'MV'},
+instances: 2, word: 'Moan', work: 'MV'},
+instances: 2, word: 'Modesty', work: 'MV'},
+instances: 2, word: 'Monarch', work: 'MV'},
+instances: 2, word: 'Moor', work: 'MV'},
+instances: 2, word: 'Morocco', work: 'MV'},
+instances: 2, word: 'Motion', work: 'MV'},
+instances: 2, word: 'Multitude', work: 'MV'},
+instances: 2, word: 'Narrow', work: 'MV'},
+instances: 2, word: 'Naught', work: 'MV'},
+instances: 2, word: 'Nearest', work: 'MV'},
+instances: 2, word: 'Necessity', work: 'MV'},
+instances: 2, word: 'Neighbor', work: 'MV'},
+instances: 2, word: 'Nine', work: 'MV'},
+instances: 2, word: 'Noise', work: 'MV'},
+instances: 2, word: 'Nominated', work: 'MV'},
+instances: 2, word: 'Nose', work: 'MV'},
+instances: 2, word: 'Occasion', work: 'MV'},
+instances: 2, word: 'Offend', work: 'MV'},
+instances: 2, word: 'Offers', work: 'MV'},
+instances: 2, word: 'Ope', work: 'MV'},
+instances: 2, word: 'Others', work: 'MV'},
+instances: 2, word: 'Ours', work: 'MV'},
+instances: 2, word: 'Outside', work: 'MV'},
+instances: 2, word: 'Palatine', work: 'MV'},
+instances: 2, word: 'Parrots', work: 'MV'},
+instances: 2, word: 'Pass', work: 'MV'},
+instances: 2, word: 'Passion', work: 'MV'},
+instances: 2, word: 'Passions', work: 'MV'},
+instances: 2, word: 'Patience', work: 'MV'},
+instances: 2, word: 'Peace', work: 'MV'},
+instances: 2, word: 'People', work: 'MV'},
+instances: 2, word: 'Petty', work: 'MV'},
+instances: 2, word: 'Pierce', work: 'MV'},
+instances: 2, word: 'Pig', work: 'MV'},
+instances: 2, word: 'Pleasure', work: 'MV'},
+instances: 2, word: 'Port', work: 'MV'},
+instances: 2, word: 'Portia\'s', work: 'MV'},
+instances: 2, word: 'Post', work: 'MV'},
+instances: 2, word: 'Posy', work: 'MV'},
+instances: 2, word: 'Praising', work: 'MV'},
+instances: 2, word: 'Prayers', work: 'MV'},
+instances: 2, word: 'Presence', work: 'MV'},
+instances: 2, word: 'Press', work: 'MV'},
+instances: 2, word: 'Pretty', work: 'MV'},
+instances: 2, word: 'Price', work: 'MV'},
+instances: 2, word: 'Prize', work: 'MV'},
+instances: 2, word: 'Proceed', work: 'MV'},
+instances: 2, word: 'Profit', work: 'MV'},
+instances: 2, word: 'Proper', work: 'MV'},
+instances: 2, word: 'Proved', work: 'MV'},
+instances: 2, word: 'Proverb', work: 'MV'},
+instances: 2, word: 'Puts', work: 'MV'},
+instances: 2, word: 'Quality', work: 'MV'},
+instances: 2, word: 'Queen', work: 'MV'},
+instances: 2, word: 'Rage', work: 'MV'},
+instances: 2, word: 'Rain', work: 'MV'},
+instances: 2, word: 'Rams', work: 'MV'},
+instances: 2, word: 'Ran', work: 'MV'},
+instances: 2, word: 'Rank', work: 'MV'},
+instances: 2, word: 'Rare', work: 'MV'},
+instances: 2, word: 'Rated', work: 'MV'},
+instances: 2, word: 'Rats', work: 'MV'},
+instances: 2, word: 'Renownèd', work: 'MV'},
+instances: 2, word: 'Reply', work: 'MV'},
+instances: 2, word: 'Request', work: 'MV'},
+instances: 2, word: 'Reverend', work: 'MV'},
+instances: 2, word: 'Rhenish', work: 'MV'},
+instances: 2, word: 'Rightly', work: 'MV'},
+instances: 2, word: 'Rings', work: 'MV'},
+instances: 2, word: 'Road', work: 'MV'},
+instances: 2, word: 'Round', work: 'MV'},
+instances: 2, word: 'Royal', work: 'MV'},
+instances: 2, word: 'Rude', work: 'MV'},
+instances: 2, word: 'Ruled', work: 'MV'},
+instances: 2, word: 'Sacrifice', work: 'MV'},
+instances: 2, word: 'Sadness', work: 'MV'},
+instances: 2, word: 'Said', work: 'MV'},
+instances: 2, word: 'Sailors', work: 'MV'},
+instances: 2, word: 'Saint', work: 'MV'},
+instances: 2, word: 'Sand', work: 'MV'},
+instances: 2, word: 'Sandblind', work: 'MV'},
+instances: 2, word: 'Save', work: 'MV'},
+instances: 2, word: 'Saving', work: 'MV'},
+instances: 2, word: 'Scant', work: 'MV'},
+instances: 2, word: 'School', work: 'MV'},
+instances: 2, word: 'Scrubbèd', work: 'MV'},
+instances: 2, word: 'Sealèd', work: 'MV'},
+instances: 2, word: 'Seas', work: 'MV'},
+instances: 2, word: 'Secret', work: 'MV'},
+instances: 2, word: 'Selfsame', work: 'MV'},
+instances: 2, word: 'Sell', work: 'MV'},
+instances: 2, word: 'Sensible', work: 'MV'},
+instances: 2, word: 'Served', work: 'MV'},
+instances: 2, word: 'Serves', work: 'MV'},
+instances: 2, word: 'Seven', work: 'MV'},
+instances: 2, word: 'Shames', work: 'MV'},
+instances: 2, word: 'Shed', work: 'MV'},
+instances: 2, word: 'She\'s', work: 'MV'},
+instances: 2, word: 'Shoot', work: 'MV'},
+instances: 2, word: 'Shut', work: 'MV'},
+instances: 2, word: 'Side', work: 'MV'},
+instances: 2, word: 'Sigh', work: 'MV'},
+instances: 2, word: 'Sign', work: 'MV'},
+instances: 2, word: 'Signiors', work: 'MV'},
+instances: 2, word: 'Sings', work: 'MV'},
+instances: 2, word: 'Sins', work: 'MV'},
+instances: 2, word: 'Sits', work: 'MV'},
+instances: 2, word: 'Sleep', work: 'MV'},
+instances: 2, word: 'Sooth', work: 'MV'},
+instances: 2, word: 'Speak\'st', work: 'MV'},
+instances: 2, word: 'Specify', work: 'MV'},
+instances: 2, word: 'Spent', work: 'MV'},
+instances: 2, word: 'Sport', work: 'MV'},
+instances: 2, word: 'Spurn', work: 'MV'},
+instances: 2, word: 'Stake', work: 'MV'},
+instances: 2, word: 'Stands', work: 'MV'},
+instances: 2, word: 'Stayed', work: 'MV'},
+instances: 2, word: 'Stays', work: 'MV'},
+instances: 2, word: 'Stead', work: 'MV'},
+instances: 2, word: 'Stephano', work: 'MV'},
+instances: 2, word: 'Stillness', work: 'MV'},
+instances: 2, word: 'Stol\'n', work: 'MV'},
+instances: 2, word: 'Store', work: 'MV'},
+instances: 2, word: 'Stranger', work: 'MV'},
+instances: 2, word: 'Strangers', work: 'MV'},
+instances: 2, word: 'Stream', work: 'MV'},
+instances: 2, word: 'Strumpet', work: 'MV'},
+instances: 2, word: 'Stuck', work: 'MV'},
+instances: 2, word: 'Subject', work: 'MV'},
+instances: 2, word: 'Suddenly', work: 'MV'},
+instances: 2, word: 'Suffice', work: 'MV'},
+instances: 2, word: 'Sufficient', work: 'MV'},
+instances: 2, word: 'Suited', work: 'MV'},
+instances: 2, word: 'Suitors', work: 'MV'},
+instances: 2, word: 'Supply', work: 'MV'},
+instances: 2, word: 'Surety', work: 'MV'},
+instances: 2, word: 'Surfeit', work: 'MV'},
+instances: 2, word: 'Swearing', work: 'MV'},
+instances: 2, word: 'Sweat', work: 'MV'},
+instances: 2, word: 'Synagogue', work: 'MV'},
+instances: 2, word: 'Tainted', work: 'MV'},
+instances: 2, word: 'Taste', work: 'MV'},
+instances: 2, word: 'Ta\'en', work: 'MV'},
+instances: 2, word: 'Teaches', work: 'MV'},
+instances: 2, word: 'Teaching', work: 'MV'},
+instances: 2, word: 'Tedious', work: 'MV'},
+instances: 2, word: 'Tells', work: 'MV'},
+instances: 2, word: 'Tender', work: 'MV'},
+instances: 2, word: 'Thankfully', work: 'MV'},
+instances: 2, word: 'Thanks', work: 'MV'},
+instances: 2, word: 'Therein', work: 'MV'},
+instances: 2, word: 'Thief', work: 'MV'},
+instances: 2, word: 'Thinks', work: 'MV'},
+instances: 2, word: 'Thrive', work: 'MV'},
+instances: 2, word: 'Title', work: 'MV'},
+instances: 2, word: 'Took', work: 'MV'},
+instances: 2, word: 'Touch', work: 'MV'},
+instances: 2, word: 'Touches', work: 'MV'},
+instances: 2, word: 'Towards', work: 'MV'},
+instances: 2, word: 'Trees', work: 'MV'},
+instances: 2, word: 'Tribute', work: 'MV'},
+instances: 2, word: 'Trouble', work: 'MV'},
+instances: 2, word: 'Trumpet', work: 'MV'},
+instances: 2, word: 'Trust', work: 'MV'},
+instances: 2, word: 'Trusted', work: 'MV'},
+instances: 2, word: 'Turned', work: 'MV'},
+instances: 2, word: 'Undervalued', work: 'MV'},
+instances: 2, word: 'Unlike', work: 'MV'},
+instances: 2, word: 'Unquiet', work: 'MV'},
+instances: 2, word: 'Urge', work: 'MV'},
+instances: 2, word: 'Usance', work: 'MV'},
+instances: 2, word: 'Uttermost', work: 'MV'},
+instances: 2, word: 'Varnished', work: 'MV'},
+instances: 2, word: 'Veins', work: 'MV'},
+instances: 2, word: 'Vessel', work: 'MV'},
+instances: 2, word: 'Vile', work: 'MV'},
+instances: 2, word: 'Vilely', work: 'MV'},
+instances: 2, word: 'Villain', work: 'MV'},
+instances: 2, word: 'Virgin', work: 'MV'},
+instances: 2, word: 'Virtues', work: 'MV'},
+instances: 2, word: 'Visages', work: 'MV'},
+instances: 2, word: 'Vow', work: 'MV'},
+instances: 2, word: 'Wager', work: 'MV'},
+instances: 2, word: 'Walk', work: 'MV'},
+instances: 2, word: 'Wanton', work: 'MV'},
+instances: 2, word: 'Wants', work: 'MV'},
+instances: 2, word: 'Water', work: 'MV'},
+instances: 2, word: 'Wearies', work: 'MV'},
+instances: 2, word: 'Wednesday', work: 'MV'},
+instances: 2, word: 'Weigh', work: 'MV'},
+instances: 2, word: 'Weight', work: 'MV'},
+instances: 2, word: 'Whilst', work: 'MV'},
+instances: 2, word: 'White', work: 'MV'},
+instances: 2, word: 'Who\'s', work: 'MV'},
+instances: 2, word: 'Wide', work: 'MV'},
+instances: 2, word: 'Widows', work: 'MV'},
+instances: 2, word: 'Wife\'s', work: 'MV'},
+instances: 2, word: 'Willful', work: 'MV'},
+instances: 2, word: 'Winds', work: 'MV'},
+instances: 2, word: 'Wings', work: 'MV'},
+instances: 2, word: 'Wolf', work: 'MV'},
+instances: 2, word: 'Wondrous', work: 'MV'},
+instances: 2, word: 'Woo', work: 'MV'},
+instances: 2, word: 'Worship\'s', work: 'MV'},
+instances: 2, word: 'Wouldst', work: 'MV'},
+instances: 2, word: 'Woven', work: 'MV'},
+instances: 2, word: 'Writ', work: 'MV'},
+instances: 2, word: 'Writing', work: 'MV'},
+instances: 2, word: 'Yond', work: 'MV'},
+instances: 2, word: 'Yonder', work: 'MV'},
+instances: 2, word: '\'scape', work: 'MV'},
+instances: 2, word: '\'tween', work: 'MV'},
+instances: 2, word: '\'twill', work: 'MV'},
+instances: 1, word: 'A-bleeding', work: 'MV'},
+instances: 1, word: 'A-brewing', work: 'MV'},
+instances: 1, word: 'A-cap\'ring', work: 'MV'},
+instances: 1, word: 'Abate', work: 'MV'},
+instances: 1, word: 'Abject', work: 'MV'},
+instances: 1, word: 'Aboard', work: 'MV'},
+instances: 1, word: 'Abode', work: 'MV'},
+instances: 1, word: 'Abridged', work: 'MV'},
+instances: 1, word: 'Abundance', work: 'MV'},
+instances: 1, word: 'Acceptance', work: 'MV'},
+instances: 1, word: 'Accepted', work: 'MV'},
+instances: 1, word: 'Accident', work: 'MV'},
+instances: 1, word: 'Accomplishèd', work: 'MV'},
+instances: 1, word: 'Accoutered', work: 'MV'},
+instances: 1, word: 'Accused', work: 'MV'},
+instances: 1, word: 'Achieved', work: 'MV'},
+instances: 1, word: 'Acknowledge', work: 'MV'},
+instances: 1, word: 'Acquaintance', work: 'MV'},
+instances: 1, word: 'Add', work: 'MV'},
+instances: 1, word: 'Addressed', work: 'MV'},
+instances: 1, word: 'Admit', work: 'MV'},
+instances: 1, word: 'Ado', work: 'MV'},
+instances: 1, word: 'Advantage', work: 'MV'},
+instances: 1, word: 'Advantages', work: 'MV'},
+instances: 1, word: 'Adventuring', work: 'MV'},
+instances: 1, word: 'Adversary', work: 'MV'},
+instances: 1, word: 'Advice', work: 'MV'},
+instances: 1, word: 'Advisedly', work: 'MV'},
+instances: 1, word: 'Advisèd', work: 'MV'},
+instances: 1, word: 'Aeson', work: 'MV'},
+instances: 1, word: 'Affairs', work: 'MV'},
+instances: 1, word: 'Aforesaid', work: 'MV'},
+instances: 1, word: 'Afterward', work: 'MV'},
+instances: 1, word: 'Agitation', work: 'MV'},
+instances: 1, word: 'Agree', work: 'MV'},
+instances: 1, word: 'Ague', work: 'MV'},
+instances: 1, word: 'Aim', work: 'MV'},
+instances: 1, word: 'Alabaster', work: 'MV'},
+instances: 1, word: 'Alien', work: 'MV'},
+instances: 1, word: 'Alighted', work: 'MV'},
+instances: 1, word: 'Allows', work: 'MV'},
+instances: 1, word: 'Although', work: 'MV'},
+instances: 1, word: 'Always', work: 'MV'},
+instances: 1, word: 'Amazed', work: 'MV'},
+instances: 1, word: 'Ambassador', work: 'MV'},
+instances: 1, word: 'Amiss', work: 'MV'},
+instances: 1, word: 'Amorous', work: 'MV'},
+instances: 1, word: 'Andrew', work: 'MV'},
+instances: 1, word: 'Animals', work: 'MV'},
+instances: 1, word: 'Antipodes', work: 'MV'},
+instances: 1, word: 'Anyone', work: 'MV'},
+instances: 1, word: 'Apparel', work: 'MV'},
+instances: 1, word: 'Apparent', work: 'MV'},
+instances: 1, word: 'Appeareth', work: 'MV'},
+instances: 1, word: 'Appetite', work: 'MV'},
+instances: 1, word: 'Applause', work: 'MV'},
+instances: 1, word: 'Apple', work: 'MV'},
+instances: 1, word: 'Approaching', work: 'MV'},
+instances: 1, word: 'Appropriation', work: 'MV'},
+instances: 1, word: 'Approve', work: 'MV'},
+instances: 1, word: 'April', work: 'MV'},
+instances: 1, word: 'Arabia', work: 'MV'},
+instances: 1, word: 'Argus', work: 'MV'},
+instances: 1, word: 'Army', work: 'MV'},
+instances: 1, word: 'Arragon', work: 'MV'},
+instances: 1, word: 'Arrow', work: 'MV'},
+instances: 1, word: 'Ash', work: 'MV'},
+instances: 1, word: 'Aside', work: 'MV'},
+instances: 1, word: 'Asses', work: 'MV'},
+instances: 1, word: 'Assumes', work: 'MV'},
+instances: 1, word: 'Attain', work: 'MV'},
+instances: 1, word: 'Attempts', work: 'MV'},
+instances: 1, word: 'Attendeth', work: 'MV'},
+instances: 1, word: 'Attentive', work: 'MV'},
+instances: 1, word: 'Autumn', work: 'MV'},
+instances: 1, word: 'Awaked', work: 'MV'},
+instances: 1, word: 'Awe', work: 'MV'},
+instances: 1, word: 'Aweary', work: 'MV'},
+instances: 1, word: 'Axe', work: 'MV'},
+instances: 1, word: 'Bachelor', work: 'MV'},
+instances: 1, word: 'Backward', work: 'MV'},
+instances: 1, word: 'Badge', work: 'MV'},
+instances: 1, word: 'Bag', work: 'MV'},
+instances: 1, word: 'Bagpiper', work: 'MV'},
+instances: 1, word: 'Balance', work: 'MV'},
+instances: 1, word: 'Balls', work: 'MV'},
+instances: 1, word: 'Baned', work: 'MV'},
+instances: 1, word: 'Bank', work: 'MV'},
+instances: 1, word: 'Barabbas', work: 'MV'},
+instances: 1, word: 'Barbarous', work: 'MV'},
+instances: 1, word: 'Barbary', work: 'MV'},
+instances: 1, word: 'Barely', work: 'MV'},
+instances: 1, word: 'Bargain', work: 'MV'},
+instances: 1, word: 'Baron', work: 'MV'},
+instances: 1, word: 'Barren', work: 'MV'},
+instances: 1, word: 'Bate', work: 'MV'},
+instances: 1, word: 'Bay', work: 'MV'},
+instances: 1, word: 'Beach', work: 'MV'},
+instances: 1, word: 'Beams', work: 'MV'},
+instances: 1, word: 'Beards', work: 'MV'},
+instances: 1, word: 'Beast', work: 'MV'},
+instances: 1, word: 'Beaten', work: 'MV'},
+instances: 1, word: 'Beauteous', work: 'MV'},
+instances: 1, word: 'Beauties', work: 'MV'},
+instances: 1, word: 'Beautiful', work: 'MV'},
+instances: 1, word: 'Became', work: 'MV'},
+instances: 1, word: 'Bechanced', work: 'MV'},
+instances: 1, word: 'Becomes', work: 'MV'},
+instances: 1, word: 'Beds', work: 'MV'},
+instances: 1, word: 'Beefs', work: 'MV'},
+instances: 1, word: 'Beest', work: 'MV'},
+instances: 1, word: 'Beggared', work: 'MV'},
+instances: 1, word: 'Begin', work: 'MV'},
+instances: 1, word: 'Begot', work: 'MV'},
+instances: 1, word: 'Begotten', work: 'MV'},
+instances: 1, word: 'Behalf', work: 'MV'},
+instances: 1, word: 'Beheld', work: 'MV'},
+instances: 1, word: 'Beholding', work: 'MV'},
+instances: 1, word: 'Behold\'st', work: 'MV'},
+instances: 1, word: 'Bellario\'s', work: 'MV'},
+instances: 1, word: 'Bellowing', work: 'MV'},
+instances: 1, word: 'Belly', work: 'MV'},
+instances: 1, word: 'Belovèd', work: 'MV'},
+instances: 1, word: 'Bend', work: 'MV'},
+instances: 1, word: 'Beneath', work: 'MV'},
+instances: 1, word: 'Bereft', work: 'MV'},
+instances: 1, word: 'Beset', work: 'MV'},
+instances: 1, word: 'Besmear', work: 'MV'},
+instances: 1, word: 'Bespeak', work: 'MV'},
+instances: 1, word: 'Bestow', work: 'MV'},
+instances: 1, word: 'Bestows', work: 'MV'},
+instances: 1, word: 'Betimes', work: 'MV'},
+instances: 1, word: 'Bettered', work: 'MV'},
+instances: 1, word: 'Beware', work: 'MV'},
+instances: 1, word: 'Bidding', work: 'MV'},
+instances: 1, word: 'Big', work: 'MV'},
+instances: 1, word: 'Bind', work: 'MV'},
+instances: 1, word: 'Bird', work: 'MV'},
+instances: 1, word: 'Birth', work: 'MV'},
+instances: 1, word: 'Black', work: 'MV'},
+instances: 1, word: 'Blearèd', work: 'MV'},
+instances: 1, word: 'Bleat', work: 'MV'},
+instances: 1, word: 'Blent', work: 'MV'},
+instances: 1, word: 'Blesseth', work: 'MV'},
+instances: 1, word: 'Blessèd', work: 'MV'},
+instances: 1, word: 'Blinking', work: 'MV'},
+instances: 1, word: 'Bloods', work: 'MV'},
+instances: 1, word: 'Blotted', work: 'MV'},
+instances: 1, word: 'Blunt', work: 'MV'},
+instances: 1, word: 'Blush', work: 'MV'},
+instances: 1, word: 'Boards', work: 'MV'},
+instances: 1, word: 'Boldest', work: 'MV'},
+instances: 1, word: 'Bon', work: 'MV'},
+instances: 1, word: 'Bondman\'s', work: 'MV'},
+instances: 1, word: 'Bonds', work: 'MV'},
+instances: 1, word: 'Bone', work: 'MV'},
+instances: 1, word: 'Bones', work: 'MV'},
+instances: 1, word: 'Bonnet', work: 'MV'},
+instances: 1, word: 'Book', work: 'MV'},
+instances: 1, word: 'Bootless', work: 'MV'},
+instances: 1, word: 'Borne', work: 'MV'},
+instances: 1, word: 'Bosoms', work: 'MV'},
+instances: 1, word: 'Bottom', work: 'MV'},
+instances: 1, word: 'Bounds', work: 'MV'},
+instances: 1, word: 'Bounty', work: 'MV'},
+instances: 1, word: 'Bow', work: 'MV'},
+instances: 1, word: 'Box', work: 'MV'},
+instances: 1, word: 'Boys', work: 'MV'},
+instances: 1, word: 'Braggart', work: 'MV'},
+instances: 1, word: 'Brain', work: 'MV'},
+instances: 1, word: 'Branches', work: 'MV'},
+instances: 1, word: 'Brassy', work: 'MV'},
+instances: 1, word: 'Brave', work: 'MV'},
+instances: 1, word: 'Braver', work: 'MV'},
+instances: 1, word: 'Breathed', work: 'MV'},
+instances: 1, word: 'Breeders', work: 'MV'},
+instances: 1, word: 'Breeding', work: 'MV'},
+instances: 1, word: 'Bridegroom\'s', work: 'MV'},
+instances: 1, word: 'Brightly', work: 'MV'},
+instances: 1, word: 'Bringeth', work: 'MV'},
+instances: 1, word: 'Broth', work: 'MV'},
+instances: 1, word: 'Brothers', work: 'MV'},
+instances: 1, word: 'Brought', work: 'MV'},
+instances: 1, word: 'Brutus\'', work: 'MV'},
+instances: 1, word: 'Builds', work: 'MV'},
+instances: 1, word: 'Burdens', work: 'MV'},
+instances: 1, word: 'Burghers', work: 'MV'},
+instances: 1, word: 'Burial', work: 'MV'},
+instances: 1, word: 'Buried', work: 'MV'},
+instances: 1, word: 'Burning', work: 'MV'},
+instances: 1, word: 'Burnished', work: 'MV'},
+instances: 1, word: 'Bushels', work: 'MV'},
+instances: 1, word: 'Buzzing', work: 'MV'},
+instances: 1, word: 'Cackling', work: 'MV'},
+instances: 1, word: 'Call\'dst', work: 'MV'},
+instances: 1, word: 'Candles', work: 'MV'},
+instances: 1, word: 'Carcasses', work: 'MV'},
+instances: 1, word: 'Carries', work: 'MV'},
+instances: 1, word: 'Carry', work: 'MV'},
+instances: 1, word: 'Carthage', work: 'MV'},
+instances: 1, word: 'Cast', work: 'MV'},
+instances: 1, word: 'Casualty', work: 'MV'},
+instances: 1, word: 'Cater-cousins', work: 'MV'},
+instances: 1, word: 'Cato\'s', work: 'MV'},
+instances: 1, word: 'Caught', work: 'MV'},
+instances: 1, word: 'Cerecloth', work: 'MV'},
+instances: 1, word: 'Ceremoniously', work: 'MV'},
+instances: 1, word: 'Ceremony', work: 'MV'},
+instances: 1, word: 'Certainty', work: 'MV'},
+instances: 1, word: 'Certified', work: 'MV'},
+instances: 1, word: 'Chancèd', work: 'MV'},
+instances: 1, word: 'Chapels', work: 'MV'},
+instances: 1, word: 'Charter', work: 'MV'},
+instances: 1, word: 'Charybdis', work: 'MV'},
+instances: 1, word: 'Chaste', work: 'MV'},
+instances: 1, word: 'Chasèd', work: 'MV'},
+instances: 1, word: 'Cheer\'st', work: 'MV'},
+instances: 1, word: 'Cherubins', work: 'MV'},
+instances: 1, word: 'Chest', work: 'MV'},
+instances: 1, word: 'Chests', work: 'MV'},
+instances: 1, word: 'Chief', work: 'MV'},
+instances: 1, word: 'Chiefest', work: 'MV'},
+instances: 1, word: 'Childhood', work: 'MV'},
+instances: 1, word: 'Children', work: 'MV'},
+instances: 1, word: 'Chin', work: 'MV'},
+instances: 1, word: 'Chins', work: 'MV'},
+instances: 1, word: 'Choiring', work: 'MV'},
+instances: 1, word: 'Chosen', work: 'MV'},
+instances: 1, word: 'Christ\'ning', work: 'MV'},
+instances: 1, word: 'Churches', work: 'MV'},
+instances: 1, word: 'Chus', work: 'MV'},
+instances: 1, word: 'Circumstance', work: 'MV'},
+instances: 1, word: 'Cite', work: 'MV'},
+instances: 1, word: 'Citizen', work: 'MV'},
+instances: 1, word: 'City', work: 'MV'},
+instances: 1, word: 'City\'s', work: 'MV'},
+instances: 1, word: 'Civil', work: 'MV'},
+instances: 1, word: 'Civility', work: 'MV'},
+instances: 1, word: 'Clamber', work: 'MV'},
+instances: 1, word: 'Cleared', work: 'MV'},
+instances: 1, word: 'Clerk\'s', work: 'MV'},
+instances: 1, word: 'Clime', work: 'MV'},
+instances: 1, word: 'Coach', work: 'MV'},
+instances: 1, word: 'Coals', work: 'MV'},
+instances: 1, word: 'Coast', work: 'MV'},
+instances: 1, word: 'Cobwebs', work: 'MV'},
+instances: 1, word: 'Coffer', work: 'MV'},
+instances: 1, word: 'Coffin', work: 'MV'},
+instances: 1, word: 'Coin', work: 'MV'},
+instances: 1, word: 'Colchos\'', work: 'MV'},
+instances: 1, word: 'Color', work: 'MV'},
+instances: 1, word: 'Colt', work: 'MV'},
+instances: 1, word: 'Colts', work: 'MV'},
+instances: 1, word: 'Comer', work: 'MV'},
+instances: 1, word: 'Comforts', work: 'MV'},
+instances: 1, word: 'Coming-in', work: 'MV'},
+instances: 1, word: 'Command', work: 'MV'},
+instances: 1, word: 'Commanded', work: 'MV'},
+instances: 1, word: 'Commands', work: 'MV'},
+instances: 1, word: 'Commendation', work: 'MV'},
+instances: 1, word: 'Commiseration', work: 'MV'},
+instances: 1, word: 'Commits', work: 'MV'},
+instances: 1, word: 'Companions', work: 'MV'},
+instances: 1, word: 'Comparison', work: 'MV'},
+instances: 1, word: 'Competency', work: 'MV'},
+instances: 1, word: 'Compromised', work: 'MV'},
+instances: 1, word: 'Compulsion', work: 'MV'},
+instances: 1, word: 'Conceits', work: 'MV'},
+instances: 1, word: 'Conceive', work: 'MV'},
+instances: 1, word: 'Conceiving', work: 'MV'},
+instances: 1, word: 'Concord', work: 'MV'},
+instances: 1, word: 'Conditioned', work: 'MV'},
+instances: 1, word: 'Conduct', work: 'MV'},
+instances: 1, word: 'Confession', work: 'MV'},
+instances: 1, word: 'Confirmed', work: 'MV'},
+instances: 1, word: 'Confound', work: 'MV'},
+instances: 1, word: 'Confused', work: 'MV'},
+instances: 1, word: 'Confusion', work: 'MV'},
+instances: 1, word: 'Confusions', work: 'MV'},
+instances: 1, word: 'Congregate', work: 'MV'},
+instances: 1, word: 'Conjured', work: 'MV'},
+instances: 1, word: 'Consequence', work: 'MV'},
+instances: 1, word: 'Consider', work: 'MV'},
+instances: 1, word: 'Consisteth', work: 'MV'},
+instances: 1, word: 'Conspired', work: 'MV'},
+instances: 1, word: 'Constitution', work: 'MV'},
+instances: 1, word: 'Contained', work: 'MV'},
+instances: 1, word: 'Contemplation', work: 'MV'},
+instances: 1, word: 'Contending', work: 'MV'},
+instances: 1, word: 'Contented', work: 'MV'},
+instances: 1, word: 'Contents', work: 'MV'},
+instances: 1, word: 'Continent', work: 'MV'},
+instances: 1, word: 'Continuance', work: 'MV'},
+instances: 1, word: 'Contrive', work: 'MV'},
+instances: 1, word: 'Contrived', work: 'MV'},
+instances: 1, word: 'Controversy', work: 'MV'},
+instances: 1, word: 'Conveniency', work: 'MV'},
+instances: 1, word: 'Convenient', work: 'MV'},
+instances: 1, word: 'Conveniently', work: 'MV'},
+instances: 1, word: 'Converted', work: 'MV'},
+instances: 1, word: 'Converting', work: 'MV'},
+instances: 1, word: 'Cool', work: 'MV'},
+instances: 1, word: 'Cooling', work: 'MV'},
+instances: 1, word: 'Cope', work: 'MV'},
+instances: 1, word: 'Cord', work: 'MV'},
+instances: 1, word: 'Corrupt', work: 'MV'},
+instances: 1, word: 'Corruptly', work: 'MV'},
+instances: 1, word: 'Costly', work: 'MV'},
+instances: 1, word: 'Cottages', work: 'MV'},
+instances: 1, word: 'Couching', work: 'MV'},
+instances: 1, word: 'Counsels', work: 'MV'},
+instances: 1, word: 'Count', work: 'MV'},
+instances: 1, word: 'Counterfeit', work: 'MV'},
+instances: 1, word: 'Country', work: 'MV'},
+instances: 1, word: 'County', work: 'MV'},
+instances: 1, word: 'Courage', work: 'MV'},
+instances: 1, word: 'Courageous', work: 'MV'},
+instances: 1, word: 'Courtship', work: 'MV'},
+instances: 1, word: 'Cousin\'s', work: 'MV'},
+instances: 1, word: 'Covered', work: 'MV'},
+instances: 1, word: 'Cowards', work: 'MV'},
+instances: 1, word: 'Cozen', work: 'MV'},
+instances: 1, word: 'Cradle', work: 'MV'},
+instances: 1, word: 'Crave', work: 'MV'},
+instances: 1, word: 'Cream', work: 'MV'},
+instances: 1, word: 'Creation', work: 'MV'},
+instances: 1, word: 'Creditor', work: 'MV'},
+instances: 1, word: 'Cressid', work: 'MV'},
+instances: 1, word: 'Cripple', work: 'MV'},
+instances: 1, word: 'Crispèd', work: 'MV'},
+instances: 1, word: 'Crossed', work: 'MV'},
+instances: 1, word: 'Crosses', work: 'MV'},
+instances: 1, word: 'Crossing', work: 'MV'},
+instances: 1, word: 'Crow', work: 'MV'},
+instances: 1, word: 'Crown', work: 'MV'},
+instances: 1, word: 'Cry', work: 'MV'},
+instances: 1, word: 'Crying', work: 'MV'},
+instances: 1, word: 'Cubs', work: 'MV'},
+instances: 1, word: 'Cuckold', work: 'MV'},
+instances: 1, word: 'Cuckolds', work: 'MV'},
+instances: 1, word: 'Cuckoo', work: 'MV'},
+instances: 1, word: 'Cudgel', work: 'MV'},
+instances: 1, word: 'Cunning', work: 'MV'},
+instances: 1, word: 'Cupid', work: 'MV'},
+instances: 1, word: 'Cupid\'s', work: 'MV'},
+instances: 1, word: 'Curb', work: 'MV'},
+instances: 1, word: 'Curbed', work: 'MV'},
+instances: 1, word: 'Cureless', work: 'MV'},
+instances: 1, word: 'Current', work: 'MV'},
+instances: 1, word: 'Curse', work: 'MV'},
+instances: 1, word: 'Cursed\'st', work: 'MV'},
+instances: 1, word: 'Cursèd', work: 'MV'},
+instances: 1, word: 'Curtsy', work: 'MV'},
+instances: 1, word: 'Cur\'sy', work: 'MV'},
+instances: 1, word: 'Customary', work: 'MV'},
+instances: 1, word: 'Cutler\'s', work: 'MV'},
+instances: 1, word: 'Cutthroat', work: 'MV'},
+instances: 1, word: 'Cutting', work: 'MV'},
+instances: 1, word: 'Damn', work: 'MV'},
+instances: 1, word: 'Damnation', work: 'MV'},
+instances: 1, word: 'Damnèd', work: 'MV'},
+instances: 1, word: 'Dardanian', work: 'MV'},
+instances: 1, word: 'Daring', work: 'MV'},
+instances: 1, word: 'Daylight', work: 'MV'},
+instances: 1, word: 'Days', work: 'MV'},
+instances: 1, word: 'Deal', work: 'MV'},
+instances: 1, word: 'Dealings', work: 'MV'},
+instances: 1, word: 'Dearly', work: 'MV'},
+instances: 1, word: 'Deathbed', work: 'MV'},
+instances: 1, word: 'Death\'s-head', work: 'MV'},
+instances: 1, word: 'Debating', work: 'MV'},
+instances: 1, word: 'Debtor', work: 'MV'},
+instances: 1, word: 'Decay', work: 'MV'},
+instances: 1, word: 'Deceased', work: 'MV'},
+instances: 1, word: 'Decrees', work: 'MV'},
+instances: 1, word: 'Deface', work: 'MV'},
+instances: 1, word: 'Defect', work: 'MV'},
+instances: 1, word: 'Defend', work: 'MV'},
+instances: 1, word: 'Defendant', work: 'MV'},
+instances: 1, word: 'Defended', work: 'MV'},
+instances: 1, word: 'Defending', work: 'MV'},
+instances: 1, word: 'Defy', work: 'MV'},
+instances: 1, word: 'Degrees', work: 'MV'},
+instances: 1, word: 'Deliberate', work: 'MV'},
+instances: 1, word: 'Deliverance', work: 'MV'},
+instances: 1, word: 'Delivering', work: 'MV'},
+instances: 1, word: 'Demand', work: 'MV'},
+instances: 1, word: 'Demigod', work: 'MV'},
+instances: 1, word: 'Demurely', work: 'MV'},
+instances: 1, word: 'Denied', work: 'MV'},
+instances: 1, word: 'Denying', work: 'MV'},
+instances: 1, word: 'Depart', work: 'MV'},
+instances: 1, word: 'Departure', work: 'MV'},
+instances: 1, word: 'Depending', work: 'MV'},
+instances: 1, word: 'Depends', work: 'MV'},
+instances: 1, word: 'Derived', work: 'MV'},
+instances: 1, word: 'Descend', work: 'MV'},
+instances: 1, word: 'Describe', work: 'MV'},
+instances: 1, word: 'Desert', work: 'MV'},
+instances: 1, word: 'Desired', work: 'MV'},
+instances: 1, word: 'Desir\'st', work: 'MV'},
+instances: 1, word: 'Despair', work: 'MV'},
+instances: 1, word: 'Despise', work: 'MV'},
+instances: 1, word: 'Destinies', work: 'MV'},
+instances: 1, word: 'Detain', work: 'MV'},
+instances: 1, word: 'Determinations', work: 'MV'},
+instances: 1, word: 'Determine', work: 'MV'},
+instances: 1, word: 'Device', work: 'MV'},
+instances: 1, word: 'Devise', work: 'MV'},
+instances: 1, word: 'Devised', work: 'MV'},
+instances: 1, word: 'Dew', work: 'MV'},
+instances: 1, word: 'Diamond', work: 'MV'},
+instances: 1, word: 'Dice', work: 'MV'},
+instances: 1, word: 'Dido', work: 'MV'},
+instances: 1, word: 'Didst', work: 'MV'},
+instances: 1, word: 'Died', work: 'MV'},
+instances: 1, word: 'Diest', work: 'MV'},
+instances: 1, word: 'Digest', work: 'MV'},
+instances: 1, word: 'Dignity', work: 'MV'},
+instances: 1, word: 'Dim', work: 'MV'},
+instances: 1, word: 'Dimensions', work: 'MV'},
+instances: 1, word: 'Dine', work: 'MV'},
+instances: 1, word: 'Disabled', work: 'MV'},
+instances: 1, word: 'Disabling', work: 'MV'},
+instances: 1, word: 'Discontinued', work: 'MV'},
+instances: 1, word: 'Discourse', work: 'MV'},
+instances: 1, word: 'Discover', work: 'MV'},
+instances: 1, word: 'Discovery', work: 'MV'},
+instances: 1, word: 'Discretion', work: 'MV'},
+instances: 1, word: 'Diseases', work: 'MV'},
+instances: 1, word: 'Disgraced', work: 'MV'},
+instances: 1, word: 'Disguise', work: 'MV'},
+instances: 1, word: 'Dish', work: 'MV'},
+instances: 1, word: 'Dislike', work: 'MV'},
+instances: 1, word: 'Dismayed', work: 'MV'},
+instances: 1, word: 'Dismiss', work: 'MV'},
+instances: 1, word: 'Dispatch', work: 'MV'},
+instances: 1, word: 'Displeased', work: 'MV'},
+instances: 1, word: 'Displeasure', work: 'MV'},
+instances: 1, word: 'Distinct', work: 'MV'},
+instances: 1, word: 'Divers', work: 'MV'},
+instances: 1, word: 'Divided', work: 'MV'},
+instances: 1, word: 'Divine', work: 'MV'},
+instances: 1, word: 'Division', work: 'MV'},
+instances: 1, word: 'Dobbin', work: 'MV'},
+instances: 1, word: 'Dobbin\'s', work: 'MV'},
+instances: 1, word: 'Docked', work: 'MV'},
+instances: 1, word: 'Dogs', work: 'MV'},
+instances: 1, word: 'Doit', work: 'MV'},
+instances: 1, word: 'Dote', work: 'MV'},
+instances: 1, word: 'Doublet', work: 'MV'},
+instances: 1, word: 'Doubly', work: 'MV'},
+instances: 1, word: 'Doves', work: 'MV'},
+instances: 1, word: 'Dowry', work: 'MV'},
+instances: 1, word: 'Dram', work: 'MV'},
+instances: 1, word: 'Draws', work: 'MV'},
+instances: 1, word: 'Dreadful', work: 'MV'},
+instances: 1, word: 'Dream', work: 'MV'},
+instances: 1, word: 'Dreaming', work: 'MV'},
+instances: 1, word: 'Dressed', work: 'MV'},
+instances: 1, word: 'Drew', work: 'MV'},
+instances: 1, word: 'Dried', work: 'MV'},
+instances: 1, word: 'Drink', work: 'MV'},
+instances: 1, word: 'Drones', work: 'MV'},
+instances: 1, word: 'Droppeth', work: 'MV'},
+instances: 1, word: 'Dross', work: 'MV'},
+instances: 1, word: 'Drown', work: 'MV'},
+instances: 1, word: 'Drowning', work: 'MV'},
+instances: 1, word: 'Drudge', work: 'MV'},
+instances: 1, word: 'Drum', work: 'MV'},
+instances: 1, word: 'Drunk', work: 'MV'},
+instances: 1, word: 'Dry', work: 'MV'},
+instances: 1, word: 'Dulcet', work: 'MV'},
+instances: 1, word: 'Dull-eyed', work: 'MV'},
+instances: 1, word: 'Duty', work: 'MV'},
+instances: 1, word: 'Each', work: 'MV'},
+instances: 1, word: 'Eaning', work: 'MV'},
+instances: 1, word: 'Eanlings', work: 'MV'},
+instances: 1, word: 'Earliest', work: 'MV'},
+instances: 1, word: 'Early', work: 'MV'},
+instances: 1, word: 'Earnestly', work: 'MV'},
+instances: 1, word: 'Easier', work: 'MV'},
+instances: 1, word: 'Eaters', work: 'MV'},
+instances: 1, word: 'Eche', work: 'MV'},
+instances: 1, word: 'Ecstasy', work: 'MV'},
+instances: 1, word: 'Edge', work: 'MV'},
+instances: 1, word: 'Edifice', work: 'MV'},
+instances: 1, word: 'Elbow', work: 'MV'},
+instances: 1, word: 'Elder', work: 'MV'},
+instances: 1, word: 'Eleven', work: 'MV'},
+instances: 1, word: 'Eloquence', work: 'MV'},
+instances: 1, word: 'Embrace', work: 'MV'},
+instances: 1, word: 'Embraced', work: 'MV'},
+instances: 1, word: 'Employ', work: 'MV'},
+instances: 1, word: 'Employed', work: 'MV'},
+instances: 1, word: 'Empties', work: 'MV'},
+instances: 1, word: 'Enacted', work: 'MV'},
+instances: 1, word: 'Enchanted', work: 'MV'},
+instances: 1, word: 'Endeavor', work: 'MV'},
+instances: 1, word: 'Endeavors', work: 'MV'},
+instances: 1, word: 'Endymion', work: 'MV'},
+instances: 1, word: 'Enemies', work: 'MV'},
+instances: 1, word: 'Enforce', work: 'MV'},
+instances: 1, word: 'Enforced', work: 'MV'},
+instances: 1, word: 'Engendered', work: 'MV'},
+instances: 1, word: 'Englishman', work: 'MV'},
+instances: 1, word: 'Enjoined', work: 'MV'},
+instances: 1, word: 'Enjoyed', work: 'MV'},
+instances: 1, word: 'Enjoying', work: 'MV'},
+instances: 1, word: 'Enrobe', work: 'MV'},
+instances: 1, word: 'Enscrolled', work: 'MV'},
+instances: 1, word: 'Entered', work: 'MV'},
+instances: 1, word: 'Entertain', work: 'MV'},
+instances: 1, word: 'Enthronèd', work: 'MV'},
+instances: 1, word: 'Entirely', work: 'MV'},
+instances: 1, word: 'Envious', work: 'MV'},
+instances: 1, word: 'Envy', work: 'MV'},
+instances: 1, word: 'Envy\'s', work: 'MV'},
+instances: 1, word: 'Epitaph', work: 'MV'},
+instances: 1, word: 'Erebus', work: 'MV'},
+instances: 1, word: 'Escaped', work: 'MV'},
+instances: 1, word: 'Establishèd', work: 'MV'},
+instances: 1, word: 'Estates', work: 'MV'},
+instances: 1, word: 'Estimable', work: 'MV'},
+instances: 1, word: 'Events', work: 'MV'},
+instances: 1, word: 'Everyone', work: 'MV'},
+instances: 1, word: 'Everywhere', work: 'MV'},
+instances: 1, word: 'Ewe', work: 'MV'},
+instances: 1, word: 'Exact', work: 'MV'},
+instances: 1, word: 'Exaction', work: 'MV'},
+instances: 1, word: 'Exacts', work: 'MV'},
+instances: 1, word: 'Exceed', work: 'MV'},
+instances: 1, word: 'Excellent', work: 'MV'},
+instances: 1, word: 'Except', work: 'MV'},
+instances: 1, word: 'Exchange', work: 'MV'},
+instances: 1, word: 'Exclaim', work: 'MV'},
+instances: 1, word: 'Excrement', work: 'MV'},
+instances: 1, word: 'Execute', work: 'MV'},
+instances: 1, word: 'Exhibit', work: 'MV'},
+instances: 1, word: 'Exhortation', work: 'MV'},
+instances: 1, word: 'Expires', work: 'MV'},
+instances: 1, word: 'Exploit', work: 'MV'},
+instances: 1, word: 'Exposition', work: 'MV'},
+instances: 1, word: 'Expressing', work: 'MV'},
+instances: 1, word: 'Expressly', work: 'MV'},
+instances: 1, word: 'Extremest', work: 'MV'},
+instances: 1, word: 'E\'en', work: 'MV'},
+instances: 1, word: 'Faces', work: 'MV'},
+instances: 1, word: 'Fading', work: 'MV'},
+instances: 1, word: 'Failed', work: 'MV'},
+instances: 1, word: 'Faint', work: 'MV'},
+instances: 1, word: 'Fairest', work: 'MV'},
+instances: 1, word: 'Fairness', work: 'MV'},
+instances: 1, word: 'Faithfully', work: 'MV'},
+instances: 1, word: 'Faithless', work: 'MV'},
+instances: 1, word: 'Falconbridge', work: 'MV'},
+instances: 1, word: 'Falling', work: 'MV'},
+instances: 1, word: 'Fall\'n', work: 'MV'},
+instances: 1, word: 'Falsehood', work: 'MV'},
+instances: 1, word: 'Famished', work: 'MV'},
+instances: 1, word: 'Fancy\'s', work: 'MV'},
+instances: 1, word: 'Fangs', work: 'MV'},
+instances: 1, word: 'Farthest', work: 'MV'},
+instances: 1, word: 'Fashioned', work: 'MV'},
+instances: 1, word: 'Fat', work: 'MV'},
+instances: 1, word: 'Fatal', work: 'MV'},
+instances: 1, word: 'Fates', work: 'MV'},
+instances: 1, word: 'Faults', work: 'MV'},
+instances: 1, word: 'Fawning', work: 'MV'},
+instances: 1, word: 'Feared', work: 'MV'},
+instances: 1, word: 'Fearful', work: 'MV'},
+instances: 1, word: 'Fearfully', work: 'MV'},
+instances: 1, word: 'Feasting', work: 'MV'},
+instances: 1, word: 'Featherbed', work: 'MV'},
+instances: 1, word: 'Feeder', work: 'MV'},
+instances: 1, word: 'Feel', work: 'MV'},
+instances: 1, word: 'Feign', work: 'MV'},
+instances: 1, word: 'Fellows\'', work: 'MV'},
+instances: 1, word: 'Felt', work: 'MV'},
+instances: 1, word: 'Fence', work: 'MV'},
+instances: 1, word: 'Ferry', work: 'MV'},
+instances: 1, word: 'Fetching', work: 'MV'},
+instances: 1, word: 'Few', work: 'MV'},
+instances: 1, word: 'Fia', work: 'MV'},
+instances: 1, word: 'Fields', work: 'MV'},
+instances: 1, word: 'Fife', work: 'MV'},
+instances: 1, word: 'Fifteen', work: 'MV'},
+instances: 1, word: 'Fight', work: 'MV'},
+instances: 1, word: 'Figure', work: 'MV'},
+instances: 1, word: 'Fill', work: 'MV'},
+instances: 1, word: 'Fill-horse', work: 'MV'},
+instances: 1, word: 'Finds', work: 'MV'},
+instances: 1, word: 'Firm', work: 'MV'},
+instances: 1, word: 'Fit', work: 'MV'},
+instances: 1, word: 'Five', work: 'MV'},
+instances: 1, word: 'Flat', work: 'MV'},
+instances: 1, word: 'Flatly', work: 'MV'},
+instances: 1, word: 'Flats', work: 'MV'},
+instances: 1, word: 'Flatter', work: 'MV'},
+instances: 1, word: 'Fled', work: 'MV'},
+instances: 1, word: 'Fledge', work: 'MV'},
+instances: 1, word: 'Flew', work: 'MV'},
+instances: 1, word: 'Flint', work: 'MV'},
+instances: 1, word: 'Flock', work: 'MV'},
+instances: 1, word: 'Floods', work: 'MV'},
+instances: 1, word: 'Floor', work: 'MV'},
+instances: 1, word: 'Flourish', work: 'MV'},
+instances: 1, word: 'Follies', work: 'MV'},
+instances: 1, word: 'Followed', work: 'MV'},
+instances: 1, word: 'Follower', work: 'MV'},
+instances: 1, word: 'Following', work: 'MV'},
+instances: 1, word: 'Font', work: 'MV'},
+instances: 1, word: 'Fooling', work: 'MV'},
+instances: 1, word: 'Footing', work: 'MV'},
+instances: 1, word: 'Fopp\'ry', work: 'MV'},
+instances: 1, word: 'Forbear', work: 'MV'},
+instances: 1, word: 'Fore-spurrer', work: 'MV'},
+instances: 1, word: 'Foreign', work: 'MV'},
+instances: 1, word: 'Forerunner', work: 'MV'},
+instances: 1, word: 'Forfeitures', work: 'MV'},
+instances: 1, word: 'Forgave', work: 'MV'},
+instances: 1, word: 'Forget', work: 'MV'},
+instances: 1, word: 'Forgot', work: 'MV'},
+instances: 1, word: 'Form', work: 'MV'},
+instances: 1, word: 'Formerly', work: 'MV'},
+instances: 1, word: 'Forthwith', work: 'MV'},
+instances: 1, word: 'Fortnight', work: 'MV'},
+instances: 1, word: 'Fortunate', work: 'MV'},
+instances: 1, word: 'Forward', work: 'MV'},
+instances: 1, word: 'Fourth', work: 'MV'},
+instances: 1, word: 'Framed', work: 'MV'},
+instances: 1, word: 'France', work: 'MV'},
+instances: 1, word: 'Frankfurt', work: 'MV'},
+instances: 1, word: 'Fraught', work: 'MV'},
+instances: 1, word: 'Fray', work: 'MV'},
+instances: 1, word: 'Frays', work: 'MV'},
+instances: 1, word: 'Free', work: 'MV'},
+instances: 1, word: 'Fretten', work: 'MV'},
+instances: 1, word: 'Friendly', work: 'MV'},
+instances: 1, word: 'Frost', work: 'MV'},
+instances: 1, word: 'Frown', work: 'MV'},
+instances: 1, word: 'Fruit', work: 'MV'},
+instances: 1, word: 'Frutify', work: 'MV'},
+instances: 1, word: 'Fulsome', work: 'MV'},
+instances: 1, word: 'Further', work: 'MV'},
+instances: 1, word: 'Furthermore', work: 'MV'},
+instances: 1, word: 'Fury', work: 'MV'},
+instances: 1, word: 'Gaberdine', work: 'MV'},
+instances: 1, word: 'Gaged', work: 'MV'},
+instances: 1, word: 'Gains', work: 'MV'},
+instances: 1, word: 'Gambols', work: 'MV'},
+instances: 1, word: 'Garments', work: 'MV'},
+instances: 1, word: 'Garnish', work: 'MV'},
+instances: 1, word: 'Garnished', work: 'MV'},
+instances: 1, word: 'Gathered', work: 'MV'},
+instances: 1, word: 'Gaudy', work: 'MV'},
+instances: 1, word: 'Gauge', work: 'MV'},
+instances: 1, word: 'Gelt', work: 'MV'},
+instances: 1, word: 'Gem', work: 'MV'},
+instances: 1, word: 'General', work: 'MV'},
+instances: 1, word: 'Generation', work: 'MV'},
+instances: 1, word: 'Gentleness', work: 'MV'},
+instances: 1, word: 'Gently', work: 'MV'},
+instances: 1, word: 'German', work: 'MV'},
+instances: 1, word: 'Germany', work: 'MV'},
+instances: 1, word: 'Getting', work: 'MV'},
+instances: 1, word: 'Giddy', work: 'MV'},
+instances: 1, word: 'Gild', work: 'MV'},
+instances: 1, word: 'Gilded', work: 'MV'},
+instances: 1, word: 'Ginger', work: 'MV'},
+instances: 1, word: 'Glancing', work: 'MV'},
+instances: 1, word: 'Glass', work: 'MV'},
+instances: 1, word: 'Gleaned', work: 'MV'},
+instances: 1, word: 'Glisters', work: 'MV'},
+instances: 1, word: 'Glory', work: 'MV'},
+instances: 1, word: 'Gloves', work: 'MV'},
+instances: 1, word: 'Gnats', work: 'MV'},
+instances: 1, word: 'Goats', work: 'MV'},
+instances: 1, word: 'Godfathers', work: 'MV'},
+instances: 1, word: 'Godlike', work: 'MV'},
+instances: 1, word: 'Gods', work: 'MV'},
+instances: 1, word: 'Gondola', work: 'MV'},
+instances: 1, word: 'Goodwins', work: 'MV'},
+instances: 1, word: 'Goose', work: 'MV'},
+instances: 1, word: 'Gormandize', work: 'MV'},
+instances: 1, word: 'Govern', work: 'MV'},
+instances: 1, word: 'Governed', work: 'MV'},
+instances: 1, word: 'Governor', work: 'MV'},
+instances: 1, word: 'Graces', work: 'MV'},
+instances: 1, word: 'Grace\'s', work: 'MV'},
+instances: 1, word: 'Grains', work: 'MV'},
+instances: 1, word: 'Gramercy', work: 'MV'},
+instances: 1, word: 'Grandam', work: 'MV'},
+instances: 1, word: 'Grandsire', work: 'MV'},
+instances: 1, word: 'Grass', work: 'MV'},
+instances: 1, word: 'Gratiano\'s', work: 'MV'},
+instances: 1, word: 'Gratify', work: 'MV'},
+instances: 1, word: 'Graved', work: 'MV'},
+instances: 1, word: 'Gravelblind', work: 'MV'},
+instances: 1, word: 'Gravity', work: 'MV'},
+instances: 1, word: 'Grazed', work: 'MV'},
+instances: 1, word: 'Greatest', work: 'MV'},
+instances: 1, word: 'Greatness', work: 'MV'},
+instances: 1, word: 'Grecian', work: 'MV'},
+instances: 1, word: 'Greedy', work: 'MV'},
+instances: 1, word: 'Green-eyed', work: 'MV'},
+instances: 1, word: 'Greets', work: 'MV'},
+instances: 1, word: 'Grief', work: 'MV'},
+instances: 1, word: 'Griefs', work: 'MV'},
+instances: 1, word: 'Grieved', work: 'MV'},
+instances: 1, word: 'Grieving', work: 'MV'},
+instances: 1, word: 'Grievous', work: 'MV'},
+instances: 1, word: 'Groans', work: 'MV'},
+instances: 1, word: 'Grossness', work: 'MV'},
+instances: 1, word: 'Grudge', work: 'MV'},
+instances: 1, word: 'Guard', work: 'MV'},
+instances: 1, word: 'Guarded', work: 'MV'},
+instances: 1, word: 'Gudgeon', work: 'MV'},
+instances: 1, word: 'Guess', work: 'MV'},
+instances: 1, word: 'Guest', work: 'MV'},
+instances: 1, word: 'Guilty', work: 'MV'},
+instances: 1, word: 'Guilèd', work: 'MV'},
+instances: 1, word: 'Gusts', work: 'MV'},
+instances: 1, word: 'Habitation', work: 'MV'},
+instances: 1, word: 'Hadst', work: 'MV'},
+instances: 1, word: 'Hagar\'s', work: 'MV'},
+instances: 1, word: 'Hall', work: 'MV'},
+instances: 1, word: 'Hangman\'s', work: 'MV'},
+instances: 1, word: 'Happier', work: 'MV'},
+instances: 1, word: 'Happiest', work: 'MV'},
+instances: 1, word: 'Happily', work: 'MV'},
+instances: 1, word: 'Happiness', work: 'MV'},
+instances: 1, word: 'Harbor', work: 'MV'},
+instances: 1, word: 'Harder', work: 'MV'},
+instances: 1, word: 'Hardly', work: 'MV'},
+instances: 1, word: 'Hare', work: 'MV'},
+instances: 1, word: 'Harm', work: 'MV'},
+instances: 1, word: 'Harmless', work: 'MV'},
+instances: 1, word: 'Harsh', work: 'MV'},
+instances: 1, word: 'Hasted', work: 'MV'},
+instances: 1, word: 'Hat', work: 'MV'},
+instances: 1, word: 'Healed', work: 'MV'},
+instances: 1, word: 'Hears', work: 'MV'},
+instances: 1, word: 'Hearsed', work: 'MV'},
+instances: 1, word: 'Heated', work: 'MV'},
+instances: 1, word: 'Heaviness', work: 'MV'},
+instances: 1, word: 'Hedged', work: 'MV'},
+instances: 1, word: 'Height', work: 'MV'},
+instances: 1, word: 'Heinous', work: 'MV'},
+instances: 1, word: 'Heirs', work: 'MV'},
+instances: 1, word: 'Hellish', work: 'MV'},
+instances: 1, word: 'Herbs', work: 'MV'},
+instances: 1, word: 'Herd', work: 'MV'},
+instances: 1, word: 'Hereafter', work: 'MV'},
+instances: 1, word: 'Heresy', work: 'MV'},
+instances: 1, word: 'Hermit', work: 'MV'},
+instances: 1, word: 'Hers', work: 'MV'},
+instances: 1, word: 'Hiding', work: 'MV'},
+instances: 1, word: 'High-day', work: 'MV'},
+instances: 1, word: 'Higher', work: 'MV'},
+instances: 1, word: 'Highway', work: 'MV'},
+instances: 1, word: 'Highways', work: 'MV'},
+instances: 1, word: 'Hindered', work: 'MV'},
+instances: 1, word: 'Hire', work: 'MV'},
+instances: 1, word: 'Hive', work: 'MV'},
+instances: 1, word: 'Hogs', work: 'MV'},
+instances: 1, word: 'Holloaing', work: 'MV'},
+instances: 1, word: 'Hollow', work: 'MV'},
+instances: 1, word: 'Honored', work: 'MV'},
+instances: 1, word: 'Honors', work: 'MV'},
+instances: 1, word: 'Hoop', work: 'MV'},
+instances: 1, word: 'Horn', work: 'MV'},
+instances: 1, word: 'Hose', work: 'MV'},
+instances: 1, word: 'Hourglass', work: 'MV'},
+instances: 1, word: 'House\'s', work: 'MV'},
+instances: 1, word: 'Hovel-post', work: 'MV'},
+instances: 1, word: 'Howling', work: 'MV'},
+instances: 1, word: 'Howsome\'er', work: 'MV'},
+instances: 1, word: 'Huddled', work: 'MV'},
+instances: 1, word: 'Huge', work: 'MV'},
+instances: 1, word: 'Hugged', work: 'MV'},
+instances: 1, word: 'Human', work: 'MV'},
+instances: 1, word: 'Humane', work: 'MV'},
+instances: 1, word: 'Humbly', work: 'MV'},
+instances: 1, word: 'Humility', work: 'MV'},
+instances: 1, word: 'Humor', work: 'MV'},
+instances: 1, word: 'Humors', work: 'MV'},
+instances: 1, word: 'Hurt', work: 'MV'},
+instances: 1, word: 'Husbandry', work: 'MV'},
+instances: 1, word: 'Husbands\'', work: 'MV'},
+instances: 1, word: 'Hymn', work: 'MV'},
+instances: 1, word: 'Hyrcanian', work: 'MV'},
+instances: 1, word: 'Icicles', work: 'MV'},
+instances: 1, word: 'Idiot', work: 'MV'},
+instances: 1, word: 'Ignorant', work: 'MV'},
+instances: 1, word: 'Imagined', work: 'MV'},
+instances: 1, word: 'Immortal', work: 'MV'},
+instances: 1, word: 'Immured', work: 'MV'},
+instances: 1, word: 'Impart', work: 'MV'},
+instances: 1, word: 'Impediment', work: 'MV'},
+instances: 1, word: 'Impenetrable', work: 'MV'},
+instances: 1, word: 'Impertinent', work: 'MV'},
+instances: 1, word: 'Importunity', work: 'MV'},
+instances: 1, word: 'Impossible', work: 'MV'},
+instances: 1, word: 'Impugn', work: 'MV'},
+instances: 1, word: 'Imputation', work: 'MV'},
+instances: 1, word: 'Incarnation', work: 'MV'},
+instances: 1, word: 'Incision', work: 'MV'},
+instances: 1, word: 'Incurred', work: 'MV'},
+instances: 1, word: 'Indebted', work: 'MV'},
+instances: 1, word: 'India', work: 'MV'},
+instances: 1, word: 'Indian', work: 'MV'},
+instances: 1, word: 'Indies', work: 'MV'},
+instances: 1, word: 'Indirect', work: 'MV'},
+instances: 1, word: 'Inevitable', work: 'MV'},
+instances: 1, word: 'Inexecrable', work: 'MV'},
+instances: 1, word: 'Infection', work: 'MV'},
+instances: 1, word: 'Infinite', work: 'MV'},
+instances: 1, word: 'Infinitely', work: 'MV'},
+instances: 1, word: 'Infold', work: 'MV'},
+instances: 1, word: 'Informèd', work: 'MV'},
+instances: 1, word: 'Infuse', work: 'MV'},
+instances: 1, word: 'Infused', work: 'MV'},
+instances: 1, word: 'Ingratitude', work: 'MV'},
+instances: 1, word: 'Inhuman', work: 'MV'},
+instances: 1, word: 'Injunctions', work: 'MV'},
+instances: 1, word: 'Inlaid', work: 'MV'},
+instances: 1, word: 'Inland', work: 'MV'},
+instances: 1, word: 'Innocence', work: 'MV'},
+instances: 1, word: 'Inscription', work: 'MV'},
+instances: 1, word: 'Inscriptions', work: 'MV'},
+instances: 1, word: 'Insculped', work: 'MV'},
+instances: 1, word: 'Inserted', work: 'MV'},
+instances: 1, word: 'Inspirations', work: 'MV'},
+instances: 1, word: 'Instruction', work: 'MV'},
+instances: 1, word: 'Instructions', work: 'MV'},
+instances: 1, word: 'Intent', work: 'MV'},
+instances: 1, word: 'Intercessors', work: 'MV'},
+instances: 1, word: 'Interior', work: 'MV'},
+instances: 1, word: 'Intermission', work: 'MV'},
+instances: 1, word: 'Interposer', work: 'MV'},
+instances: 1, word: 'Interpreter', work: 'MV'},
+instances: 1, word: 'Inter\'gatories', work: 'MV'},
+instances: 1, word: 'Inter\'gatory', work: 'MV'},
+instances: 1, word: 'Int\'rest', work: 'MV'},
+instances: 1, word: 'Inward', work: 'MV'},
+instances: 1, word: 'Issuing', work: 'MV'},
+instances: 1, word: 'Italian', work: 'MV'},
+instances: 1, word: 'Ivory', work: 'MV'},
+instances: 1, word: 'Iwis', work: 'MV'},
+instances: 1, word: 'Jacks', work: 'MV'},
+instances: 1, word: 'Janus', work: 'MV'},
+instances: 1, word: 'Jaundice', work: 'MV'},
+instances: 1, word: 'Jealous', work: 'MV'},
+instances: 1, word: 'Jealousy', work: 'MV'},
+instances: 1, word: 'Jest', work: 'MV'},
+instances: 1, word: 'Jet', work: 'MV'},
+instances: 1, word: 'Jewel', work: 'MV'},
+instances: 1, word: 'Jewess\'', work: 'MV'},
+instances: 1, word: 'Jews', work: 'MV'},
+instances: 1, word: 'Jot', work: 'MV'},
+instances: 1, word: 'Joys', work: 'MV'},
+instances: 1, word: 'Jump', work: 'MV'},
+instances: 1, word: 'Keenness', work: 'MV'},
+instances: 1, word: 'Keeping', work: 'MV'},
+instances: 1, word: 'Keys', work: 'MV'},
+instances: 1, word: 'Killed', work: 'MV'},
+instances: 1, word: 'Kin', work: 'MV'},
+instances: 1, word: 'Kinder', work: 'MV'},
+instances: 1, word: 'Kindest', work: 'MV'},
+instances: 1, word: 'Kingdom', work: 'MV'},
+instances: 1, word: 'Kinsman', work: 'MV'},
+instances: 1, word: 'Knapped', work: 'MV'},
+instances: 1, word: 'Kneels', work: 'MV'},
+instances: 1, word: 'Knell', work: 'MV'},
+instances: 1, word: 'Knocks', work: 'MV'},
+instances: 1, word: 'Knowing', work: 'MV'},
+instances: 1, word: 'Knowledge', work: 'MV'},
+instances: 1, word: 'Laban', work: 'MV'},
+instances: 1, word: 'Laban\'s', work: 'MV'},
+instances: 1, word: 'Labor', work: 'MV'},
+instances: 1, word: 'Lading', work: 'MV'},
+instances: 1, word: 'Ladyship', work: 'MV'},
+instances: 1, word: 'Laid', work: 'MV'},
+instances: 1, word: 'Lamb', work: 'MV'},
+instances: 1, word: 'Lambs', work: 'MV'},
+instances: 1, word: 'Lands', work: 'MV'},
+instances: 1, word: 'Lark', work: 'MV'},
+instances: 1, word: 'Lastly', work: 'MV'},
+instances: 1, word: 'Lately', work: 'MV'},
+instances: 1, word: 'Latin', work: 'MV'},
+instances: 1, word: 'Latter', work: 'MV'},
+instances: 1, word: 'Laughable', work: 'MV'},
+instances: 1, word: 'Laughed', work: 'MV'},
+instances: 1, word: 'Laughter', work: 'MV'},
+instances: 1, word: 'Lawful', work: 'MV'},
+instances: 1, word: 'Lawfully', work: 'MV'},
+instances: 1, word: 'Layest', work: 'MV'},
+instances: 1, word: 'Lays', work: 'MV'},
+instances: 1, word: 'Le', work: 'MV'},
+instances: 1, word: 'Leaden', work: 'MV'},
+instances: 1, word: 'Leadest', work: 'MV'},
+instances: 1, word: 'Leading', work: 'MV'},
+instances: 1, word: 'Leah', work: 'MV'},
+instances: 1, word: 'Lean', work: 'MV'},
+instances: 1, word: 'Leap', work: 'MV'},
+instances: 1, word: 'Leaps', work: 'MV'},
+instances: 1, word: 'Least', work: 'MV'},
+instances: 1, word: 'Led', work: 'MV'},
+instances: 1, word: 'Legs', work: 'MV'},
+instances: 1, word: 'Leisures', work: 'MV'},
+instances: 1, word: 'Lends', work: 'MV'},
+instances: 1, word: 'Length', work: 'MV'},
+instances: 1, word: 'Lent', work: 'MV'},
+instances: 1, word: 'Leonardo', work: 'MV'},
+instances: 1, word: 'Lets', work: 'MV'},
+instances: 1, word: 'Level', work: 'MV'},
+instances: 1, word: 'Lewd', work: 'MV'},
+instances: 1, word: 'Lightest', work: 'MV'},
+instances: 1, word: 'Lights', work: 'MV'},
+instances: 1, word: 'Likely', work: 'MV'},
+instances: 1, word: 'Likeness', work: 'MV'},
+instances: 1, word: 'Likes', work: 'MV'},
+instances: 1, word: 'Likest', work: 'MV'},
+instances: 1, word: 'Limbs', work: 'MV'},
+instances: 1, word: 'Limp', work: 'MV'},
+instances: 1, word: 'Line', work: 'MV'},
+instances: 1, word: 'Lineaments', work: 'MV'},
+instances: 1, word: 'Linger', work: 'MV'},
+instances: 1, word: 'Ling\'ring', work: 'MV'},
+instances: 1, word: 'Lion', work: 'MV'},
+instances: 1, word: 'Lion\'s', work: 'MV'},
+instances: 1, word: 'Lisbon', work: 'MV'},
+instances: 1, word: 'Liver', work: 'MV'},
+instances: 1, word: 'Livers', work: 'MV'},
+instances: 1, word: 'Livings', work: 'MV'},
+instances: 1, word: 'Loath', work: 'MV'},
+instances: 1, word: 'Loathes', work: 'MV'},
+instances: 1, word: 'Loathing', work: 'MV'},
+instances: 1, word: 'Lock', work: 'MV'},
+instances: 1, word: 'Locked', work: 'MV'},
+instances: 1, word: 'Lodged', work: 'MV'},
+instances: 1, word: 'Loose', work: 'MV'},
+instances: 1, word: 'Lordship', work: 'MV'},
+instances: 1, word: 'Losers', work: 'MV'},
+instances: 1, word: 'Losing', work: 'MV'},
+instances: 1, word: 'Lottery', work: 'MV'},
+instances: 1, word: 'Lott\'ry', work: 'MV'},
+instances: 1, word: 'Lovely', work: 'MV'},
+instances: 1, word: 'Loves', work: 'MV'},
+instances: 1, word: 'Love\'s', work: 'MV'},
+instances: 1, word: 'Lower', work: 'MV'},
+instances: 1, word: 'Lungs', work: 'MV'},
+instances: 1, word: 'Lychas', work: 'MV'},
+instances: 1, word: 'Lying', work: 'MV'},
+instances: 1, word: 'Madwoman', work: 'MV'},
+instances: 1, word: 'Magnificoes', work: 'MV'},
+instances: 1, word: 'Maiden', work: 'MV'},
+instances: 1, word: 'Maiden\'s', work: 'MV'},
+instances: 1, word: 'Majesty', work: 'MV'},
+instances: 1, word: 'Maketh', work: 'MV'},
+instances: 1, word: 'Manage', work: 'MV'},
+instances: 1, word: 'Manifest', work: 'MV'},
+instances: 1, word: 'Manna', work: 'MV'},
+instances: 1, word: 'Manner', work: 'MV'},
+instances: 1, word: 'Mannerly', work: 'MV'},
+instances: 1, word: 'Mansion', work: 'MV'},
+instances: 1, word: 'Mantle', work: 'MV'},
+instances: 1, word: 'Maps', work: 'MV'},
+instances: 1, word: 'Mar', work: 'MV'},
+instances: 1, word: 'Marquess', work: 'MV'},
+instances: 1, word: 'Mars', work: 'MV'},
+instances: 1, word: 'Mart', work: 'MV'},
+instances: 1, word: 'Martlet', work: 'MV'},
+instances: 1, word: 'Marvel', work: 'MV'},
+instances: 1, word: 'Marvelously', work: 'MV'},
+instances: 1, word: 'Masques', work: 'MV'},
+instances: 1, word: 'Masquing', work: 'MV'},
+instances: 1, word: 'Mastership', work: 'MV'},
+instances: 1, word: 'Matched', work: 'MV'},
+instances: 1, word: 'Mates', work: 'MV'},
+instances: 1, word: 'Meager', work: 'MV'},
+instances: 1, word: 'Meant', work: 'MV'},
+instances: 1, word: 'Measures', work: 'MV'},
+instances: 1, word: 'Medea', work: 'MV'},
+instances: 1, word: 'Meetest', work: 'MV'},
+instances: 1, word: 'Meeting', work: 'MV'},
+instances: 1, word: 'Melancholy', work: 'MV'},
+instances: 1, word: 'Member', work: 'MV'},
+instances: 1, word: 'Mending', work: 'MV'},
+instances: 1, word: 'Men\'s', work: 'MV'},
+instances: 1, word: 'Mercenary', work: 'MV'},
+instances: 1, word: 'Merchant-marring', work: 'MV'},
+instances: 1, word: 'Mere', work: 'MV'},
+instances: 1, word: 'Merely', work: 'MV'},
+instances: 1, word: 'Merriment', work: 'MV'},
+instances: 1, word: 'Mesh', work: 'MV'},
+instances: 1, word: 'Meshes', work: 'MV'},
+instances: 1, word: 'Messages', work: 'MV'},
+instances: 1, word: 'Methoughts', work: 'MV'},
+instances: 1, word: 'Midas', work: 'MV'},
+instances: 1, word: 'Milk', work: 'MV'},
+instances: 1, word: 'Million', work: 'MV'},
+instances: 1, word: 'Mincing', work: 'MV'},
+instances: 1, word: 'Mingled', work: 'MV'},
+instances: 1, word: 'Miracle', work: 'MV'},
+instances: 1, word: 'Misbeliever', work: 'MV'},
+instances: 1, word: 'Miscarrièd', work: 'MV'},
+instances: 1, word: 'Misconstered', work: 'MV'},
+instances: 1, word: 'Miseries', work: 'MV'},
+instances: 1, word: 'Misery', work: 'MV'},
+instances: 1, word: 'Mislike', work: 'MV'},
+instances: 1, word: 'Mistress\'', work: 'MV'},
+instances: 1, word: 'Mistrust', work: 'MV'},
+instances: 1, word: 'Mitigate', work: 'MV'},
+instances: 1, word: 'Mock', work: 'MV'},
+instances: 1, word: 'Mocked', work: 'MV'},
+instances: 1, word: 'Mocker', work: 'MV'},
+instances: 1, word: 'Moderate', work: 'MV'},
+instances: 1, word: 'Modest', work: 'MV'},
+instances: 1, word: 'Moi\'ty', work: 'MV'},
+instances: 1, word: 'Monastery', work: 'MV'},
+instances: 1, word: 'Monday', work: 'MV'},
+instances: 1, word: 'Monkey', work: 'MV'},
+instances: 1, word: 'Monkeys', work: 'MV'},
+instances: 1, word: 'Monsieur', work: 'MV'},
+instances: 1, word: 'Montferrat', work: 'MV'},
+instances: 1, word: 'Mood', work: 'MV'},
+instances: 1, word: 'Moonlight', work: 'MV'},
+instances: 1, word: 'Moreover', work: 'MV'},
+instances: 1, word: 'Morrow', work: 'MV'},
+instances: 1, word: 'Mortal', work: 'MV'},
+instances: 1, word: 'Mortifying', work: 'MV'},
+instances: 1, word: 'Moth', work: 'MV'},
+instances: 1, word: 'Motions', work: 'MV'},
+instances: 1, word: 'Mountain', work: 'MV'},
+instances: 1, word: 'Mounted', work: 'MV'},
+instances: 1, word: 'Mouth', work: 'MV'},
+instances: 1, word: 'Mouths', work: 'MV'},
+instances: 1, word: 'Move', work: 'MV'},
+instances: 1, word: 'Moved', work: 'MV'},
+instances: 1, word: 'Moves', work: 'MV'},
+instances: 1, word: 'Muddy', work: 'MV'},
+instances: 1, word: 'Mules', work: 'MV'},
+instances: 1, word: 'Multitudes', work: 'MV'},
+instances: 1, word: 'Murder', work: 'MV'},
+instances: 1, word: 'Musician', work: 'MV'},
+instances: 1, word: 'Muttons', work: 'MV'},
+instances: 1, word: 'Mutual', work: 'MV'},
+instances: 1, word: 'Namest', work: 'MV'},
+instances: 1, word: 'Nations', work: 'MV'},
+instances: 1, word: 'Native', work: 'MV'},
+instances: 1, word: 'Natures', work: 'MV'},
+instances: 1, word: 'Nazarite', work: 'MV'},
+instances: 1, word: 'Neapolitan', work: 'MV'},
+instances: 1, word: 'Neapolitan\'s', work: 'MV'},
+instances: 1, word: 'Neat\'s', work: 'MV'},
+instances: 1, word: 'Necessary', work: 'MV'},
+instances: 1, word: 'Neck', work: 'MV'},
+instances: 1, word: 'Negro\'s', work: 'MV'},
+instances: 1, word: 'Neighborly', work: 'MV'},
+instances: 1, word: 'Neighbors', work: 'MV'},
+instances: 1, word: 'Neighing', work: 'MV'},
+instances: 1, word: 'Nephew', work: 'MV'},
+instances: 1, word: 'Nerissa\'s', work: 'MV'},
+instances: 1, word: 'Nestor', work: 'MV'},
+instances: 1, word: 'New-crownèd', work: 'MV'},
+instances: 1, word: 'New-made', work: 'MV'},
+instances: 1, word: 'Nice', work: 'MV'},
+instances: 1, word: 'Nightingale', work: 'MV'},
+instances: 1, word: 'Nobody', work: 'MV'},
+instances: 1, word: 'Northward', work: 'MV'},
+instances: 1, word: 'Notary', work: 'MV'},
+instances: 1, word: 'Notary\'s', work: 'MV'},
+instances: 1, word: 'Notes', work: 'MV'},
+instances: 1, word: 'Nourishèd', work: 'MV'},
+instances: 1, word: 'Nuptial', work: 'MV'},
+instances: 1, word: 'Obdurate', work: 'MV'},
+instances: 1, word: 'Obey', work: 'MV'},
+instances: 1, word: 'Object', work: 'MV'},
+instances: 1, word: 'Obligèd', work: 'MV'},
+instances: 1, word: 'Obscure', work: 'MV'},
+instances: 1, word: 'Obscured', work: 'MV'},
+instances: 1, word: 'Obscures', work: 'MV'},
+instances: 1, word: 'Observance', work: 'MV'},
+instances: 1, word: 'Observe', work: 'MV'},
+instances: 1, word: 'Occasions', work: 'MV'},
+instances: 1, word: 'Ocean', work: 'MV'},
+instances: 1, word: 'Odd', work: 'MV'},
+instances: 1, word: 'Oddly', work: 'MV'},
+instances: 1, word: 'Offence', work: 'MV'},
+instances: 1, word: 'Offended', work: 'MV'},
+instances: 1, word: 'Offender\'s', work: 'MV'},
+instances: 1, word: 'Offend\'st', work: 'MV'},
+instances: 1, word: 'Offered', work: 'MV'},
+instances: 1, word: 'Office', work: 'MV'},
+instances: 1, word: 'Officer', work: 'MV'},
+instances: 1, word: 'Offspring', work: 'MV'},
+instances: 1, word: 'Open', work: 'MV'},
+instances: 1, word: 'Oppose', work: 'MV'},
+instances: 1, word: 'Opposèd', work: 'MV'},
+instances: 1, word: 'Oracle', work: 'MV'},
+instances: 1, word: 'Oration', work: 'MV'},
+instances: 1, word: 'Orb', work: 'MV'},
+instances: 1, word: 'Order', work: 'MV'},
+instances: 1, word: 'Ordered', work: 'MV'},
+instances: 1, word: 'Orderly', work: 'MV'},
+instances: 1, word: 'Organs', work: 'MV'},
+instances: 1, word: 'Orpheus', work: 'MV'},
+instances: 1, word: 'Ostent', work: 'MV'},
+instances: 1, word: 'Ostents', work: 'MV'},
+instances: 1, word: 'Out-night', work: 'MV'},
+instances: 1, word: 'Outbrave', work: 'MV'},
+instances: 1, word: 'Outcries', work: 'MV'},
+instances: 1, word: 'Outdwells', work: 'MV'},
+instances: 1, word: 'Outface', work: 'MV'},
+instances: 1, word: 'Outlive', work: 'MV'},
+instances: 1, word: 'Outrageous', work: 'MV'},
+instances: 1, word: 'Outswear', work: 'MV'},
+instances: 1, word: 'Overname', work: 'MV'},
+instances: 1, word: 'Overpeer', work: 'MV'},
+instances: 1, word: 'Overtake', work: 'MV'},
+instances: 1, word: 'Overweathered', work: 'MV'},
+instances: 1, word: 'Owes', work: 'MV'},
+instances: 1, word: 'Owners', work: 'MV'},
+instances: 1, word: 'O\'', work: 'MV'},
+instances: 1, word: 'O\'erlooked', work: 'MV'},
+instances: 1, word: 'O\'erstare', work: 'MV'},
+instances: 1, word: 'O\'erta\'en', work: 'MV'},
+instances: 1, word: 'O\'ertrip', work: 'MV'},
+instances: 1, word: 'Pace', work: 'MV'},
+instances: 1, word: 'Pack', work: 'MV'},
+instances: 1, word: 'Pagan', work: 'MV'},
+instances: 1, word: 'Page', work: 'MV'},
+instances: 1, word: 'Pageants', work: 'MV'},
+instances: 1, word: 'Page\'s', work: 'MV'},
+instances: 1, word: 'Pain', work: 'MV'},
+instances: 1, word: 'Painter', work: 'MV'},
+instances: 1, word: 'Palaces', work: 'MV'},
+instances: 1, word: 'Palates', work: 'MV'},
+instances: 1, word: 'Pale', work: 'MV'},
+instances: 1, word: 'Paleness', work: 'MV'},
+instances: 1, word: 'Paler', work: 'MV'},
+instances: 1, word: 'Paltry', work: 'MV'},
+instances: 1, word: 'Parcel', work: 'MV'},
+instances: 1, word: 'Park', work: 'MV'},
+instances: 1, word: 'Parti-colored', work: 'MV'},
+instances: 1, word: 'Partly', work: 'MV'},
+instances: 1, word: 'Party', work: 'MV'},
+instances: 1, word: 'Patch', work: 'MV'},
+instances: 1, word: 'Patens', work: 'MV'},
+instances: 1, word: 'Patient', work: 'MV'},
+instances: 1, word: 'Patiently', work: 'MV'},
+instances: 1, word: 'Pawned', work: 'MV'},
+instances: 1, word: 'Paying', work: 'MV'},
+instances: 1, word: 'Pays', work: 'MV'},
+instances: 1, word: 'Peals', work: 'MV'},
+instances: 1, word: 'Peasantry', work: 'MV'},
+instances: 1, word: 'Peep', work: 'MV'},
+instances: 1, word: 'Peevish', work: 'MV'},
+instances: 1, word: 'Peize', work: 'MV'},
+instances: 1, word: 'Pen', work: 'MV'},
+instances: 1, word: 'Penalties', work: 'MV'},
+instances: 1, word: 'Penance', work: 'MV'},
+instances: 1, word: 'Pennyworth', work: 'MV'},
+instances: 1, word: 'Penthouse', work: 'MV'},
+instances: 1, word: 'People\'s', work: 'MV'},
+instances: 1, word: 'Perceive', work: 'MV'},
+instances: 1, word: 'Perchance', work: 'MV'},
+instances: 1, word: 'Perfection', work: 'MV'},
+instances: 1, word: 'Perform', work: 'MV'},
+instances: 1, word: 'Perhaps', work: 'MV'},
+instances: 1, word: 'Perjury', work: 'MV'},
+instances: 1, word: 'Persian', work: 'MV'},
+instances: 1, word: 'Person', work: 'MV'},
+instances: 1, word: 'Persuade', work: 'MV'},
+instances: 1, word: 'Persuaded', work: 'MV'},
+instances: 1, word: 'Pertains', work: 'MV'},
+instances: 1, word: 'Peruse', work: 'MV'},
+instances: 1, word: 'Philosopher', work: 'MV'},
+instances: 1, word: 'Phoebus\'', work: 'MV'},
+instances: 1, word: 'Picked', work: 'MV'},
+instances: 1, word: 'Pied', work: 'MV'},
+instances: 1, word: 'Piers', work: 'MV'},
+instances: 1, word: 'Pigeons', work: 'MV'},
+instances: 1, word: 'Pilgrimage', work: 'MV'},
+instances: 1, word: 'Pillar', work: 'MV'},
+instances: 1, word: 'Pilled', work: 'MV'},
+instances: 1, word: 'Pines', work: 'MV'},
+instances: 1, word: 'Pirates', work: 'MV'},
+instances: 1, word: 'Piring', work: 'MV'},
+instances: 1, word: 'Placèd', work: 'MV'},
+instances: 1, word: 'Plague', work: 'MV'},
+instances: 1, word: 'Planted', work: 'MV'},
+instances: 1, word: 'Played', work: 'MV'},
+instances: 1, word: 'Plays', work: 'MV'},
+instances: 1, word: 'Pleaseth', work: 'MV'},
+instances: 1, word: 'Pleasèd', work: 'MV'},
+instances: 1, word: 'Plies', work: 'MV'},
+instances: 1, word: 'Plots', work: 'MV'},
+instances: 1, word: 'Plucking', work: 'MV'},
+instances: 1, word: 'Pocket', work: 'MV'},
+instances: 1, word: 'Poet', work: 'MV'},
+instances: 1, word: 'Poetry', work: 'MV'},
+instances: 1, word: 'Poison', work: 'MV'},
+instances: 1, word: 'Pond', work: 'MV'},
+instances: 1, word: 'Portly', work: 'MV'},
+instances: 1, word: 'Portrait', work: 'MV'},
+instances: 1, word: 'Ports', work: 'MV'},
+instances: 1, word: 'Possessor', work: 'MV'},
+instances: 1, word: 'Possible', work: 'MV'},
+instances: 1, word: 'Poverty', work: 'MV'},
+instances: 1, word: 'Powers', work: 'MV'},
+instances: 1, word: 'Practice', work: 'MV'},
+instances: 1, word: 'Prating', work: 'MV'},
+instances: 1, word: 'Praying', work: 'MV'},
+instances: 1, word: 'Prays', work: 'MV'},
+instances: 1, word: 'Precedent', work: 'MV'},
+instances: 1, word: 'Predicament', work: 'MV'},
+instances: 1, word: 'Preferment', work: 'MV'},
+instances: 1, word: 'Preferred', work: 'MV'},
+instances: 1, word: 'Preparation', work: 'MV'},
+instances: 1, word: 'Prepared', work: 'MV'},
+instances: 1, word: 'Presage', work: 'MV'},
+instances: 1, word: 'Presages', work: 'MV'},
+instances: 1, word: 'Presenting', work: 'MV'},
+instances: 1, word: 'Prest', work: 'MV'},
+instances: 1, word: 'Presume', work: 'MV'},
+instances: 1, word: 'Prettier', work: 'MV'},
+instances: 1, word: 'Prevented', work: 'MV'},
+instances: 1, word: 'Prey', work: 'MV'},
+instances: 1, word: 'Prick', work: 'MV'},
+instances: 1, word: 'Pries', work: 'MV'},
+instances: 1, word: 'Princely', work: 'MV'},
+instances: 1, word: 'Princes', work: 'MV'},
+instances: 1, word: 'Princes\'', work: 'MV'},
+instances: 1, word: 'Privately', work: 'MV'},
+instances: 1, word: 'Privy', work: 'MV'},
+instances: 1, word: 'Proceeding', work: 'MV'},
+instances: 1, word: 'Process', work: 'MV'},
+instances: 1, word: 'Proclamation', work: 'MV'},
+instances: 1, word: 'Producing', work: 'MV'},
+instances: 1, word: 'Profitable', work: 'MV'},
+instances: 1, word: 'Profound', work: 'MV'},
+instances: 1, word: 'Prolixity', work: 'MV'},
+instances: 1, word: 'Promised', work: 'MV'},
+instances: 1, word: 'Pronounced', work: 'MV'},
+instances: 1, word: 'Pronouncèd', work: 'MV'},
+instances: 1, word: 'Proof', work: 'MV'},
+instances: 1, word: 'Prophet', work: 'MV'},
+instances: 1, word: 'Proportion', work: 'MV'},
+instances: 1, word: 'Prosper', work: 'MV'},
+instances: 1, word: 'Protection', work: 'MV'},
+instances: 1, word: 'Protest', work: 'MV'},
+instances: 1, word: 'Prouder', work: 'MV'},
+instances: 1, word: 'Public', work: 'MV'},
+instances: 1, word: 'Publican', work: 'MV'},
+instances: 1, word: 'Publish', work: 'MV'},
+instances: 1, word: 'Puny', work: 'MV'},
+instances: 1, word: 'Purchasing', work: 'MV'},
+instances: 1, word: 'Pure', work: 'MV'},
+instances: 1, word: 'Purposes', work: 'MV'},
+instances: 1, word: 'Pursue', work: 'MV'},
+instances: 1, word: 'Pythagoras', work: 'MV'},
+instances: 1, word: 'Quaint', work: 'MV'},
+instances: 1, word: 'Quaintly', work: 'MV'},
+instances: 1, word: 'Qualify', work: 'MV'},
+instances: 1, word: 'Qualities', work: 'MV'},
+instances: 1, word: 'Quarrel', work: 'MV'},
+instances: 1, word: 'Quarreling', work: 'MV'},
+instances: 1, word: 'Quarrels', work: 'MV'},
+instances: 1, word: 'Quest', work: 'MV'},
+instances: 1, word: 'Questionless', work: 'MV'},
+instances: 1, word: 'Question\'s', work: 'MV'},
+instances: 1, word: 'Quicken', work: 'MV'},
+instances: 1, word: 'Quietness', work: 'MV'},
+instances: 1, word: 'Quit', work: 'MV'},
+instances: 1, word: 'Quite', work: 'MV'},
+instances: 1, word: 'Race', work: 'MV'},
+instances: 1, word: 'Racked', work: 'MV'},
+instances: 1, word: 'Raggèd', work: 'MV'},
+instances: 1, word: 'Rail', work: 'MV'},
+instances: 1, word: 'Rails', work: 'MV'},
+instances: 1, word: 'Raised', work: 'MV'},
+instances: 1, word: 'Rash', work: 'MV'},
+instances: 1, word: 'Rasher', work: 'MV'},
+instances: 1, word: 'Rat', work: 'MV'},
+instances: 1, word: 'Ratified', work: 'MV'},
+instances: 1, word: 'Rating', work: 'MV'},
+instances: 1, word: 'Ravenous', work: 'MV'},
+instances: 1, word: 'Raw', work: 'MV'},
+instances: 1, word: 'Reach', work: 'MV'},
+instances: 1, word: 'Readiness', work: 'MV'},
+instances: 1, word: 'Reasonable', work: 'MV'},
+instances: 1, word: 'Reasoned', work: 'MV'},
+instances: 1, word: 'Reasoning', work: 'MV'},
+instances: 1, word: 'Reasons', work: 'MV'},
+instances: 1, word: 'Rebel', work: 'MV'},
+instances: 1, word: 'Rebels', work: 'MV'},
+instances: 1, word: 'Recant', work: 'MV'},
+instances: 1, word: 'Receipt', work: 'MV'},
+instances: 1, word: 'Received', work: 'MV'},
+instances: 1, word: 'Record', work: 'MV'},
+instances: 1, word: 'Recorded', work: 'MV'},
+instances: 1, word: 'Red', work: 'MV'},
+instances: 1, word: 'Reddest', work: 'MV'},
+instances: 1, word: 'Redeem', work: 'MV'},
+instances: 1, word: 'Redoubted', work: 'MV'},
+instances: 1, word: 'Reed', work: 'MV'},
+instances: 1, word: 'Refused', work: 'MV'},
+instances: 1, word: 'Regard', work: 'MV'},
+instances: 1, word: 'Regarded', work: 'MV'},
+instances: 1, word: 'Regreets', work: 'MV'},
+instances: 1, word: 'Rehearsed', work: 'MV'},
+instances: 1, word: 'Relation', work: 'MV'},
+instances: 1, word: 'Relent', work: 'MV'},
+instances: 1, word: 'Relief', work: 'MV'},
+instances: 1, word: 'Religion', work: 'MV'},
+instances: 1, word: 'Remembered', work: 'MV'},
+instances: 1, word: 'Remembrance', work: 'MV'},
+instances: 1, word: 'Remorse', work: 'MV'},
+instances: 1, word: 'Rend', work: 'MV'},
+instances: 1, word: 'Rendered', work: 'MV'},
+instances: 1, word: 'Rend\'ring', work: 'MV'},
+instances: 1, word: 'Renew', work: 'MV'},
+instances: 1, word: 'Rent', work: 'MV'},
+instances: 1, word: 'Repair', work: 'MV'},
+instances: 1, word: 'Repay', work: 'MV'},
+instances: 1, word: 'Repents', work: 'MV'},
+instances: 1, word: 'Report', work: 'MV'},
+instances: 1, word: 'Reproach', work: 'MV'},
+instances: 1, word: 'Reputed', work: 'MV'},
+instances: 1, word: 'Requite', work: 'MV'},
+instances: 1, word: 'Resemble', work: 'MV'},
+instances: 1, word: 'Respective', work: 'MV'},
+instances: 1, word: 'Rheum', work: 'MV'},
+instances: 1, word: 'Rib', work: 'MV'},
+instances: 1, word: 'Riddance', work: 'MV'},
+instances: 1, word: 'Riding', work: 'MV'},
+instances: 1, word: 'Rightful', work: 'MV'},
+instances: 1, word: 'Rights', work: 'MV'},
+instances: 1, word: 'Rigorous', work: 'MV'},
+instances: 1, word: 'Ripe', work: 'MV'},
+instances: 1, word: 'Riping', work: 'MV'},
+instances: 1, word: 'Riseth', work: 'MV'},
+instances: 1, word: 'Rites', work: 'MV'},
+instances: 1, word: 'Rival', work: 'MV'},
+instances: 1, word: 'Riveted', work: 'MV'},
+instances: 1, word: 'Roads', work: 'MV'},
+instances: 1, word: 'Roaring', work: 'MV'},
+instances: 1, word: 'Roars', work: 'MV'},
+instances: 1, word: 'Rob', work: 'MV'},
+instances: 1, word: 'Roman', work: 'MV'},
+instances: 1, word: 'Rome', work: 'MV'},
+instances: 1, word: 'Roof', work: 'MV'},
+instances: 1, word: 'Room', work: 'MV'},
+instances: 1, word: 'Rotten', work: 'MV'},
+instances: 1, word: 'Rough', work: 'MV'},
+instances: 1, word: 'Rouse', work: 'MV'},
+instances: 1, word: 'Rule', work: 'MV'},
+instances: 1, word: 'Runaway', work: 'MV'},
+instances: 1, word: 'Running', work: 'MV'},
+instances: 1, word: 'Rush', work: 'MV'},
+instances: 1, word: 'Sabbath', work: 'MV'},
+instances: 1, word: 'Sacred', work: 'MV'},
+instances: 1, word: 'Safe', work: 'MV'},
+instances: 1, word: 'Safely', work: 'MV'},
+instances: 1, word: 'Sails', work: 'MV'},
+instances: 1, word: 'Salvation', work: 'MV'},
+instances: 1, word: 'Sandy', work: 'MV'},
+instances: 1, word: 'Satisfaction', work: 'MV'},
+instances: 1, word: 'Savage', work: 'MV'},
+instances: 1, word: 'Saved', work: 'MV'},
+instances: 1, word: 'Saxony\'s', work: 'MV'},
+instances: 1, word: 'Sayest', work: 'MV'},
+instances: 1, word: 'Sayings', work: 'MV'},
+instances: 1, word: 'Scale', work: 'MV'},
+instances: 1, word: 'Scanted', work: 'MV'},
+instances: 1, word: 'Scarf', work: 'MV'},
+instances: 1, word: 'Scarfèd', work: 'MV'},
+instances: 1, word: 'Scatter', work: 'MV'},
+instances: 1, word: 'Scepter', work: 'MV'},
+instances: 1, word: 'Sceptered', work: 'MV'},
+instances: 1, word: 'Schedule', work: 'MV'},
+instances: 1, word: 'Scholar', work: 'MV'},
+instances: 1, word: 'Scimitar', work: 'MV'},
+instances: 1, word: 'Scorn', work: 'MV'},
+instances: 1, word: 'Scorned', work: 'MV'},
+instances: 1, word: 'Scottish', work: 'MV'},
+instances: 1, word: 'Scripture', work: 'MV'},
+instances: 1, word: 'Scruple', work: 'MV'},
+instances: 1, word: 'Scylla', work: 'MV'},
+instances: 1, word: 'Sea-banks', work: 'MV'},
+instances: 1, word: 'Sea-monster', work: 'MV'},
+instances: 1, word: 'Sealed', work: 'MV'},
+instances: 1, word: 'Searched', work: 'MV'},
+instances: 1, word: 'Season', work: 'MV'},
+instances: 1, word: 'Seasons', work: 'MV'},
+instances: 1, word: 'Seat', work: 'MV'},
+instances: 1, word: 'Seated', work: 'MV'},
+instances: 1, word: 'Secretly', work: 'MV'},
+instances: 1, word: 'Seed', work: 'MV'},
+instances: 1, word: 'Seeks', work: 'MV'},
+instances: 1, word: 'Seeming', work: 'MV'},
+instances: 1, word: 'Sees', work: 'MV'},
+instances: 1, word: 'Seize', work: 'MV'},
+instances: 1, word: 'Semblance', work: 'MV'},
+instances: 1, word: 'Sense', work: 'MV'},
+instances: 1, word: 'Senses', work: 'MV'},
+instances: 1, word: 'Sentences', work: 'MV'},
+instances: 1, word: 'Sepulcher', work: 'MV'},
+instances: 1, word: 'Serpent', work: 'MV'},
+instances: 1, word: 'Several', work: 'MV'},
+instances: 1, word: 'Severed', work: 'MV'},
+instances: 1, word: 'Shadowed', work: 'MV'},
+instances: 1, word: 'Shadows', work: 'MV'},
+instances: 1, word: 'Shadow\'s', work: 'MV'},
+instances: 1, word: 'Shaft', work: 'MV'},
+instances: 1, word: 'Shake', work: 'MV'},
+instances: 1, word: 'Shallow', work: 'MV'},
+instances: 1, word: 'Shallows', work: 'MV'},
+instances: 1, word: 'Shape', work: 'MV'},
+instances: 1, word: 'Sharp', work: 'MV'},
+instances: 1, word: 'She-bear', work: 'MV'},
+instances: 1, word: 'Shedding', work: 'MV'},
+instances: 1, word: 'Sheep', work: 'MV'},
+instances: 1, word: 'Shepherd', work: 'MV'},
+instances: 1, word: 'Shift', work: 'MV'},
+instances: 1, word: 'Shoe', work: 'MV'},
+instances: 1, word: 'Shone', work: 'MV'},
+instances: 1, word: 'Shore', work: 'MV'},
+instances: 1, word: 'Short', work: 'MV'},
+instances: 1, word: 'Shot', work: 'MV'},
+instances: 1, word: 'Shoulders', work: 'MV'},
+instances: 1, word: 'Shouldst', work: 'MV'},
+instances: 1, word: 'Shout', work: 'MV'},
+instances: 1, word: 'Showed', work: 'MV'},
+instances: 1, word: 'Showing', work: 'MV'},
+instances: 1, word: 'Shrew', work: 'MV'},
+instances: 1, word: 'Shrewd', work: 'MV'},
+instances: 1, word: 'Shrine', work: 'MV'},
+instances: 1, word: 'Shrive', work: 'MV'},
+instances: 1, word: 'Shrug', work: 'MV'},
+instances: 1, word: 'Shudd\'ring', work: 'MV'},
+instances: 1, word: 'Shun', work: 'MV'},
+instances: 1, word: 'Shylock\'s', work: 'MV'},
+instances: 1, word: 'Sibylla', work: 'MV'},
+instances: 1, word: 'Sighed', work: 'MV'},
+instances: 1, word: 'Sighs', work: 'MV'},
+instances: 1, word: 'Signed', work: 'MV'},
+instances: 1, word: 'Silks', work: 'MV'},
+instances: 1, word: 'Silvered', work: 'MV'},
+instances: 1, word: 'Simplicity', work: 'MV'},
+instances: 1, word: 'Sinful', work: 'MV'},
+instances: 1, word: 'Singed', work: 'MV'},
+instances: 1, word: 'Single', work: 'MV'},
+instances: 1, word: 'Sisters', work: 'MV'},
+instances: 1, word: 'Sitting', work: 'MV'},
+instances: 1, word: 'Skillful', work: 'MV'},
+instances: 1, word: 'Skip', work: 'MV'},
+instances: 1, word: 'Skipping', work: 'MV'},
+instances: 1, word: 'Skull', work: 'MV'},
+instances: 1, word: 'Slander', work: 'MV'},
+instances: 1, word: 'Slaughter', work: 'MV'},
+instances: 1, word: 'Slave', work: 'MV'},
+instances: 1, word: 'Slaves', work: 'MV'},
+instances: 1, word: 'Slavish', work: 'MV'},
+instances: 1, word: 'Slew', work: 'MV'},
+instances: 1, word: 'Slightly', work: 'MV'},
+instances: 1, word: 'Slink', work: 'MV'},
+instances: 1, word: 'Slips', work: 'MV'},
+instances: 1, word: 'Slubber', work: 'MV'},
+instances: 1, word: 'Smack', work: 'MV'},
+instances: 1, word: 'Small', work: 'MV'},
+instances: 1, word: 'Smallest', work: 'MV'},
+instances: 1, word: 'Smell', work: 'MV'},
+instances: 1, word: 'Smile', work: 'MV'},
+instances: 1, word: 'Smiles', work: 'MV'},
+instances: 1, word: 'Smiling', work: 'MV'},
+instances: 1, word: 'Smith', work: 'MV'},
+instances: 1, word: 'Smug', work: 'MV'},
+instances: 1, word: 'Snail-slow', work: 'MV'},
+instances: 1, word: 'Snaky', work: 'MV'},
+instances: 1, word: 'Snore', work: 'MV'},
+instances: 1, word: 'Snow', work: 'MV'},
+instances: 1, word: 'Soften', work: 'MV'},
+instances: 1, word: 'Sold', work: 'MV'},
+instances: 1, word: 'Soldier', work: 'MV'},
+instances: 1, word: 'Sole', work: 'MV'},
+instances: 1, word: 'Solely', work: 'MV'},
+instances: 1, word: 'Solemnize', work: 'MV'},
+instances: 1, word: 'Solemnized', work: 'MV'},
+instances: 1, word: 'Solyman', work: 'MV'},
+instances: 1, word: 'Sometimes', work: 'MV'},
+instances: 1, word: 'Sonties', work: 'MV'},
+instances: 1, word: 'Sooner', work: 'MV'},
+instances: 1, word: 'Sophy', work: 'MV'},
+instances: 1, word: 'Sore', work: 'MV'},
+instances: 1, word: 'Sought', work: 'MV'},
+instances: 1, word: 'Spare', work: 'MV'},
+instances: 1, word: 'Speaking', work: 'MV'},
+instances: 1, word: 'Special', work: 'MV'},
+instances: 1, word: 'Sped', work: 'MV'},
+instances: 1, word: 'Speech', work: 'MV'},
+instances: 1, word: 'Speechless', work: 'MV'},
+instances: 1, word: 'Spend', work: 'MV'},
+instances: 1, word: 'Spend\'st', work: 'MV'},
+instances: 1, word: 'Spets', work: 'MV'},
+instances: 1, word: 'Spices', work: 'MV'},
+instances: 1, word: 'Spider', work: 'MV'},
+instances: 1, word: 'Spoils', work: 'MV'},
+instances: 1, word: 'Sponge', work: 'MV'},
+instances: 1, word: 'Spurned', work: 'MV'},
+instances: 1, word: 'Squandered', work: 'MV'},
+instances: 1, word: 'Squealing', work: 'MV'},
+instances: 1, word: 'Stage', work: 'MV'},
+instances: 1, word: 'Stained', work: 'MV'},
+instances: 1, word: 'Stairs', work: 'MV'},
+instances: 1, word: 'Stale', work: 'MV'},
+instances: 1, word: 'Stamp', work: 'MV'},
+instances: 1, word: 'Stamped', work: 'MV'},
+instances: 1, word: 'Standing', work: 'MV'},
+instances: 1, word: 'Stand\'st', work: 'MV'},
+instances: 1, word: 'Start', work: 'MV'},
+instances: 1, word: 'Starve', work: 'MV'},
+instances: 1, word: 'Starved', work: 'MV'},
+instances: 1, word: 'Starvèd', work: 'MV'},
+instances: 1, word: 'State\'s', work: 'MV'},
+instances: 1, word: 'Stealing', work: 'MV'},
+instances: 1, word: 'Steals', work: 'MV'},
+instances: 1, word: 'Steps', work: 'MV'},
+instances: 1, word: 'Sternest', work: 'MV'},
+instances: 1, word: 'Stick\'st', work: 'MV'},
+instances: 1, word: 'Sting', work: 'MV'},
+instances: 1, word: 'Stirring', work: 'MV'},
+instances: 1, word: 'Stock', work: 'MV'},
+instances: 1, word: 'Stockish', work: 'MV'},
+instances: 1, word: 'Stole', work: 'MV'},
+instances: 1, word: 'Stomach', work: 'MV'},
+instances: 1, word: 'Stomachs', work: 'MV'},
+instances: 1, word: 'Stone', work: 'MV'},
+instances: 1, word: 'Stony', work: 'MV'},
+instances: 1, word: 'Stoops', work: 'MV'},
+instances: 1, word: 'Storm', work: 'MV'},
+instances: 1, word: 'Strained', work: 'MV'},
+instances: 1, word: 'Stratagems', work: 'MV'},
+instances: 1, word: 'Stray', work: 'MV'},
+instances: 1, word: 'Strayed', work: 'MV'},
+instances: 1, word: 'Streaked', work: 'MV'},
+instances: 1, word: 'Street', work: 'MV'},
+instances: 1, word: 'Streets', work: 'MV'},
+instances: 1, word: 'Strength', work: 'MV'},
+instances: 1, word: 'Strict', work: 'MV'},
+instances: 1, word: 'Stride', work: 'MV'},
+instances: 1, word: 'Strife', work: 'MV'},
+instances: 1, word: 'Strond', work: 'MV'},
+instances: 1, word: 'Strongly', work: 'MV'},
+instances: 1, word: 'Stubborn', work: 'MV'},
+instances: 1, word: 'Studied', work: 'MV'},
+instances: 1, word: 'Stuff', work: 'MV'},
+instances: 1, word: 'Subjects', work: 'MV'},
+instances: 1, word: 'Substitute', work: 'MV'},
+instances: 1, word: 'Success', work: 'MV'},
+instances: 1, word: 'Sucking', work: 'MV'},
+instances: 1, word: 'Suffer', work: 'MV'},
+instances: 1, word: 'Sufferance', work: 'MV'},
+instances: 1, word: 'Suffered', work: 'MV'},
+instances: 1, word: 'Suff\'rance', work: 'MV'},
+instances: 1, word: 'Sugar', work: 'MV'},
+instances: 1, word: 'Sultan', work: 'MV'},
+instances: 1, word: 'Summary', work: 'MV'},
+instances: 1, word: 'Summon', work: 'MV'},
+instances: 1, word: 'Sums', work: 'MV'},
+instances: 1, word: 'Sunder', work: 'MV'},
+instances: 1, word: 'Sunny', work: 'MV'},
+instances: 1, word: 'Sup', work: 'MV'},
+instances: 1, word: 'Superfluity', work: 'MV'},
+instances: 1, word: 'Supposition', work: 'MV'},
+instances: 1, word: 'Supposèd', work: 'MV'},
+instances: 1, word: 'Surgeon', work: 'MV'},
+instances: 1, word: 'Survey', work: 'MV'},
+instances: 1, word: 'Suspect', work: 'MV'},
+instances: 1, word: 'Sustain', work: 'MV'},
+instances: 1, word: 'Swanlike', work: 'MV'},
+instances: 1, word: 'Sway', work: 'MV'},
+instances: 1, word: 'Swayed', work: 'MV'},
+instances: 1, word: 'Sways', work: 'MV'},
+instances: 1, word: 'Sweeter', work: 'MV'},
+instances: 1, word: 'Sweetest', work: 'MV'},
+instances: 1, word: 'Sweetly', work: 'MV'},
+instances: 1, word: 'Swelling', work: 'MV'},
+instances: 1, word: 'Swift', work: 'MV'},
+instances: 1, word: 'Tailor', work: 'MV'},
+instances: 1, word: 'Takes', work: 'MV'},
+instances: 1, word: 'Taking', work: 'MV'},
+instances: 1, word: 'Tak\'st', work: 'MV'},
+instances: 1, word: 'Tale', work: 'MV'},
+instances: 1, word: 'Tales', work: 'MV'},
+instances: 1, word: 'Talker', work: 'MV'},
+instances: 1, word: 'Tall', work: 'MV'},
+instances: 1, word: 'Tartars', work: 'MV'},
+instances: 1, word: 'Taught', work: 'MV'},
+instances: 1, word: 'Tear', work: 'MV'},
+instances: 1, word: 'Tediousness', work: 'MV'},
+instances: 1, word: 'Teeth', work: 'MV'},
+instances: 1, word: 'Tell-tales', work: 'MV'},
+instances: 1, word: 'Temper', work: 'MV'},
+instances: 1, word: 'Temple', work: 'MV'},
+instances: 1, word: 'Temples', work: 'MV'},
+instances: 1, word: 'Temporal', work: 'MV'},
+instances: 1, word: 'Temptation', work: 'MV'},
+instances: 1, word: 'Tempts', work: 'MV'},
+instances: 1, word: 'Tenor', work: 'MV'},
+instances: 1, word: 'Tents', work: 'MV'},
+instances: 1, word: 'Term', work: 'MV'},
+instances: 1, word: 'Text', work: 'MV'},
+instances: 1, word: 'Thanked', work: 'MV'},
+instances: 1, word: 'Thaws', work: 'MV'},
+instances: 1, word: 'They\'ll', work: 'MV'},
+instances: 1, word: 'Thick', work: 'MV'},
+instances: 1, word: 'Thisbe', work: 'MV'},
+instances: 1, word: 'Thither', work: 'MV'},
+instances: 1, word: 'Threatens', work: 'MV'},
+instances: 1, word: 'Threaten\'st', work: 'MV'},
+instances: 1, word: 'Threshold', work: 'MV'},
+instances: 1, word: 'Thrice-fair', work: 'MV'},
+instances: 1, word: 'Thrifty', work: 'MV'},
+instances: 1, word: 'Thronèd', work: 'MV'},
+instances: 1, word: 'Throstle', work: 'MV'},
+instances: 1, word: 'Throughfares', work: 'MV'},
+instances: 1, word: 'Throughly', work: 'MV'},
+instances: 1, word: 'Throw', work: 'MV'},
+instances: 1, word: 'Throws', work: 'MV'},
+instances: 1, word: 'Thrust', work: 'MV'},
+instances: 1, word: 'Thwarted', work: 'MV'},
+instances: 1, word: 'Tickle', work: 'MV'},
+instances: 1, word: 'Tombs', work: 'MV'},
+instances: 1, word: 'Tomorrow', work: 'MV'},
+instances: 1, word: 'Top', work: 'MV'},
+instances: 1, word: 'Tops', work: 'MV'},
+instances: 1, word: 'Torchbearers', work: 'MV'},
+instances: 1, word: 'Torment', work: 'MV'},
+instances: 1, word: 'Torture', work: 'MV'},
+instances: 1, word: 'Torturer', work: 'MV'},
+instances: 1, word: 'Torturest', work: 'MV'},
+instances: 1, word: 'Tossing', work: 'MV'},
+instances: 1, word: 'Touched', work: 'MV'},
+instances: 1, word: 'Touching', work: 'MV'},
+instances: 1, word: 'Trade', work: 'MV'},
+instances: 1, word: 'Trades', work: 'MV'},
+instances: 1, word: 'Traffickers', work: 'MV'},
+instances: 1, word: 'Trained', work: 'MV'},
+instances: 1, word: 'Traject', work: 'MV'},
+instances: 1, word: 'Transformèd', work: 'MV'},
+instances: 1, word: 'Treads', work: 'MV'},
+instances: 1, word: 'Treasons', work: 'MV'},
+instances: 1, word: 'Treasure', work: 'MV'},
+instances: 1, word: 'Treble', work: 'MV'},
+instances: 1, word: 'Trebled', work: 'MV'},
+instances: 1, word: 'Trial', work: 'MV'},
+instances: 1, word: 'Tricks', work: 'MV'},
+instances: 1, word: 'Tricksy', work: 'MV'},
+instances: 1, word: 'Troilus', work: 'MV'},
+instances: 1, word: 'Trojan', work: 'MV'},
+instances: 1, word: 'Troth', work: 'MV'},
+instances: 1, word: 'Troubled', work: 'MV'},
+instances: 1, word: 'Troy', work: 'MV'},
+instances: 1, word: 'Trunks', work: 'MV'},
+instances: 1, word: 'Turks', work: 'MV'},
+instances: 1, word: 'Turns', work: 'MV'},
+instances: 1, word: 'Turnèd', work: 'MV'},
+instances: 1, word: 'Turquoise', work: 'MV'},
+instances: 1, word: 'Twain', work: 'MV'},
+instances: 1, word: 'Twelve', work: 'MV'},
+instances: 1, word: 'Twelvemonth', work: 'MV'},
+instances: 1, word: 'Twentieth', work: 'MV'},
+instances: 1, word: 'Twinkling', work: 'MV'},
+instances: 1, word: 'Two-headed', work: 'MV'},
+instances: 1, word: 'Tyranny', work: 'MV'},
+instances: 1, word: 'T\'', work: 'MV'},
+instances: 1, word: 'Ugly', work: 'MV'},
+instances: 1, word: 'Unbated', work: 'MV'},
+instances: 1, word: 'Unburden', work: 'MV'},
+instances: 1, word: 'Uncapable', work: 'MV'},
+instances: 1, word: 'Unchecked', work: 'MV'},
+instances: 1, word: 'Uncle', work: 'MV'},
+instances: 1, word: 'Underprizing', work: 'MV'},
+instances: 1, word: 'Understands', work: 'MV'},
+instances: 1, word: 'Undertook', work: 'MV'},
+instances: 1, word: 'Undeservèd', work: 'MV'},
+instances: 1, word: 'Undone', work: 'MV'},
+instances: 1, word: 'Unfeeling', work: 'MV'},
+instances: 1, word: 'Unfold', work: 'MV'},
+instances: 1, word: 'Unforfeited', work: 'MV'},
+instances: 1, word: 'Unfurnished', work: 'MV'},
+instances: 1, word: 'Unhallowed', work: 'MV'},
+instances: 1, word: 'Unhandled', work: 'MV'},
+instances: 1, word: 'Unhappy', work: 'MV'},
+instances: 1, word: 'Universal', work: 'MV'},
+instances: 1, word: 'Unkind', work: 'MV'},
+instances: 1, word: 'Unknown', work: 'MV'},
+instances: 1, word: 'Unlessoned', work: 'MV'},
+instances: 1, word: 'Unlock', work: 'MV'},
+instances: 1, word: 'Unlocked', work: 'MV'},
+instances: 1, word: 'Unmannerly', work: 'MV'},
+instances: 1, word: 'Unpleasant\'st', work: 'MV'},
+instances: 1, word: 'Unpracticed', work: 'MV'},
+instances: 1, word: 'Unreasonable', work: 'MV'},
+instances: 1, word: 'Unschooled', work: 'MV'},
+instances: 1, word: 'Unseal', work: 'MV'},
+instances: 1, word: 'Unthrift', work: 'MV'},
+instances: 1, word: 'Unthrifty', work: 'MV'},
+instances: 1, word: 'Untread', work: 'MV'},
+instances: 1, word: 'Unwearied', work: 'MV'},
+instances: 1, word: 'Unwillingly', work: 'MV'},
+instances: 1, word: 'Unworthier', work: 'MV'},
+instances: 1, word: 'Urgest', work: 'MV'},
+instances: 1, word: 'Urine', work: 'MV'},
+instances: 1, word: 'Usances', work: 'MV'},
+instances: 1, word: 'Used', work: 'MV'},
+instances: 1, word: 'Usual', work: 'MV'},
+instances: 1, word: 'Usurer', work: 'MV'},
+instances: 1, word: 'Utter', work: 'MV'},
+instances: 1, word: 'Vailing', work: 'MV'},
+instances: 1, word: 'Valiant', work: 'MV'},
+instances: 1, word: 'Valor\'s', work: 'MV'},
+instances: 1, word: 'Valued', work: 'MV'},
+instances: 1, word: 'Vantage', work: 'MV'},
+instances: 1, word: 'Variable', work: 'MV'},
+instances: 1, word: 'Vasty', work: 'MV'},
+instances: 1, word: 'Vehement', work: 'MV'},
+instances: 1, word: 'Veiling', work: 'MV'},
+instances: 1, word: 'Vendible', work: 'MV'},
+instances: 1, word: 'Venus\'', work: 'MV'},
+instances: 1, word: 'Vessel\'s', work: 'MV'},
+instances: 1, word: 'Vesture', work: 'MV'},
+instances: 1, word: 'Viands', work: 'MV'},
+instances: 1, word: 'Vice', work: 'MV'},
+instances: 1, word: 'Villainy', work: 'MV'},
+instances: 1, word: 'Villain\'s', work: 'MV'},
+instances: 1, word: 'Vinegar', work: 'MV'},
+instances: 1, word: 'Virgins', work: 'MV'},
+instances: 1, word: 'Virtuous', work: 'MV'},
+instances: 1, word: 'Visit', work: 'MV'},
+instances: 1, word: 'Visitation', work: 'MV'},
+instances: 1, word: 'Visited', work: 'MV'},
+instances: 1, word: 'Voluntary', work: 'MV'},
+instances: 1, word: 'Vows', work: 'MV'},
+instances: 1, word: 'Waft', work: 'MV'},
+instances: 1, word: 'Wag', work: 'MV'},
+instances: 1, word: 'Wait', work: 'MV'},
+instances: 1, word: 'Wake', work: 'MV'},
+instances: 1, word: 'Wakes', work: 'MV'},
+instances: 1, word: 'Walks', work: 'MV'},
+instances: 1, word: 'Wall', work: 'MV'},
+instances: 1, word: 'Walls', work: 'MV'},
+instances: 1, word: 'Wands', work: 'MV'},
+instances: 1, word: 'Want-wit', work: 'MV'},
+instances: 1, word: 'Wanted', work: 'MV'},
+instances: 1, word: 'Warm', work: 'MV'},
+instances: 1, word: 'Warmed', work: 'MV'},
+instances: 1, word: 'Warmth', work: 'MV'},
+instances: 1, word: 'Warning', work: 'MV'},
+instances: 1, word: 'Warrant', work: 'MV'},
+instances: 1, word: 'Warranty', work: 'MV'},
+instances: 1, word: 'Watery', work: 'MV'},
+instances: 1, word: 'Wat\'ry', work: 'MV'},
+instances: 1, word: 'Waver', work: 'MV'},
+instances: 1, word: 'Weak', work: 'MV'},
+instances: 1, word: 'Weaker', work: 'MV'},
+instances: 1, word: 'Weakest', work: 'MV'},
+instances: 1, word: 'Weapons', work: 'MV'},
+instances: 1, word: 'Wearer', work: 'MV'},
+instances: 1, word: 'Weather', work: 'MV'},
+instances: 1, word: 'Wedding', work: 'MV'},
+instances: 1, word: 'Wedlock', work: 'MV'},
+instances: 1, word: 'Weeping', work: 'MV'},
+instances: 1, word: 'Welfare', work: 'MV'},
+instances: 1, word: 'Well-deserving', work: 'MV'},
+instances: 1, word: 'Well-won', work: 'MV'},
+instances: 1, word: 'Wench', work: 'MV'},
+instances: 1, word: 'Went', work: 'MV'},
+instances: 1, word: 'Wept', work: 'MV'},
+instances: 1, word: 'Wert', work: 'MV'},
+instances: 1, word: 'Wether', work: 'MV'},
+instances: 1, word: 'Wheat', work: 'MV'},
+instances: 1, word: 'Whereby', work: 'MV'},
+instances: 1, word: 'Wherefore', work: 'MV'},
+instances: 1, word: 'Where\'s', work: 'MV'},
+instances: 1, word: 'Whet', work: 'MV'},
+instances: 1, word: 'Whiles', work: 'MV'},
+instances: 1, word: 'Whisp\'ring', work: 'MV'},
+instances: 1, word: 'Whiter', work: 'MV'},
+instances: 1, word: 'Whither', work: 'MV'},
+instances: 1, word: 'Wildcat', work: 'MV'},
+instances: 1, word: 'Wilderness', work: 'MV'},
+instances: 1, word: 'Wilds', work: 'MV'},
+instances: 1, word: 'Willow', work: 'MV'},
+instances: 1, word: 'Window', work: 'MV'},
+instances: 1, word: 'Wins', work: 'MV'},
+instances: 1, word: 'Winter', work: 'MV'},
+instances: 1, word: 'Wisely', work: 'MV'},
+instances: 1, word: 'Wisest', work: 'MV'},
+instances: 1, word: 'Wished', work: 'MV'},
+instances: 1, word: 'Wishes', work: 'MV'},
+instances: 1, word: 'Wit-snapper', work: 'MV'},
+instances: 1, word: 'Wive', work: 'MV'},
+instances: 1, word: 'Wiving', work: 'MV'},
+instances: 1, word: 'Wo', work: 'MV'},
+instances: 1, word: 'Wolfish', work: 'MV'},
+instances: 1, word: 'Woman\'s', work: 'MV'},
+instances: 1, word: 'Women', work: 'MV'},
+instances: 1, word: 'Wonder', work: 'MV'},
+instances: 1, word: 'Wooer', work: 'MV'},
+instances: 1, word: 'Wooers', work: 'MV'},
+instances: 1, word: 'Wooing', work: 'MV'},
+instances: 1, word: 'Woolen', work: 'MV'},
+instances: 1, word: 'Woolly', work: 'MV'},
+instances: 1, word: 'Works', work: 'MV'},
+instances: 1, word: 'Worms', work: 'MV'},
+instances: 1, word: 'Worshiped', work: 'MV'},
+instances: 1, word: 'Worthier', work: 'MV'},
+instances: 1, word: 'Worthiness', work: 'MV'},
+instances: 1, word: 'Worthless', work: 'MV'},
+instances: 1, word: 'Wound', work: 'MV'},
+instances: 1, word: 'Wounds', work: 'MV'},
+instances: 1, word: 'Wrack', work: 'MV'},
+instances: 1, word: 'Wracked', work: 'MV'},
+instances: 1, word: 'Wren', work: 'MV'},
+instances: 1, word: 'Wrest', work: 'MV'},
+instances: 1, word: 'Wretch', work: 'MV'},
+instances: 1, word: 'Wretched', work: 'MV'},
+instances: 1, word: 'Wrinkled', work: 'MV'},
+instances: 1, word: 'Wrinkles', work: 'MV'},
+instances: 1, word: 'Write', work: 'MV'},
+instances: 1, word: 'Writes', work: 'MV'},
+instances: 1, word: 'Written', work: 'MV'},
+instances: 1, word: 'Wroth', work: 'MV'},
+instances: 1, word: 'Wrought', work: 'MV'},
+instances: 1, word: 'Wrung', work: 'MV'},
+instances: 1, word: 'Wry-necked', work: 'MV'},
+instances: 1, word: 'Yesterday', work: 'MV'},
+instances: 1, word: 'Yoke', work: 'MV'},
+instances: 1, word: 'Young-eyed', work: 'MV'},
+instances: 1, word: 'Younger', work: 'MV'},
+instances: 1, word: 'Youthful', work: 'MV'},
+instances: 1, word: 'Zeal', work: 'MV'},
+instances: 1, word: '\'gree', work: 'MV'},
+instances: 1, word: '\'lt', work: 'MV'},
+instances: 1, word: '\'mong', work: 'MV'},
+instances: 1, word: '\'s', work: 'MV'},
+instances: 1, word: '\'scapes', work: 'MV'},
+instances: 1, word: '\'scuse', work: 'MV'},
+instances: 1, word: '\'twas', work: 'MV'},
+instances: 1, word: '\'twixt', work: 'MV'},

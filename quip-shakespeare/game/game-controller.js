@@ -98,6 +98,7 @@ function getSceneCount(doc) {
     xpath.XPathResult.ANY_TYPE, // resultType
     null                        // result
   )
+
   return scenes.numberValue
 }
 
@@ -119,7 +120,7 @@ function getSpeechCount (doc) {
 
 // ===== GET A SINGLE SPEECH ✅ =====
 function newGetSpeech(doc, count) {
-  // query below will also get lb, w, c, and pc nodes
+  // the query below will also get lb, w, c, and pc nodes
   // let speechNodes = "/TEI/text/body/div1[1]/div2[1]/sp[1]/ab//*[self::lb | self::w | self::c | self::pc]"
   let parent = '/TEI/text/body/div1[@type="act"]/div2[@type="scene"]/sp/ab[' + (count) + ']/'
   let speechNodes = `${parent}w` + ` | ` + `${parent}c` + ` | ` + `${parent}pc` + ` | ` + `${parent}lb`
@@ -136,7 +137,7 @@ function newGetSpeech(doc, count) {
 
   while (node) {
     if (node.nodeName == 'lb') {
-      // node.childnodes[0].data will give you a line break
+      // node.childnodes[0].data will give you a line break as per the source text
       speech = speech + '\n'
     }
     if (node.nodeName == 'w') {

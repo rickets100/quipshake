@@ -1,3284 +1,3282 @@
-Concordance of Macbeth:
-
-639: The
-516: And
-376: To
-332: Of
-314: I
-229: That
-214: A
-206: You
-199: In
-192: My
-188: Is
-165: Not
-153: It
-144: His
-140: With
-139: Be
-122: Have
-121: Your
-120: But
-119: Our
-117: He
-112: Me
-109: For
-104: This
-104: What
-96: So
-93: Thou
-89: Him
-88: As
-87: We
-84: Do
-83: All
-80: Which
-74: Are
-73: Will
-69: They
-68: Shall
-67: No
-64: Th’
-63: On
-63: Upon
-61: Thee
-60: Their
-57: From
-57: Yet
-55: Us
-53: Now
-52: At
-52: Come
-52: Hath
-52: Thy
-51: Good
-51: More
-50: Them
-48: By
-48: Was
-47: Would
-45: If
-45: Time
-45: ’t
-42: Her
-42: Macbeth
-42: Who
-41: Did
-41: Should
-40: Like
-40: Say
-40: Were
-40: When
-39: Make
-39: There
-38: Done
-37: Here
-37: ’tis
-36: Or
-35: Fear
-35: I’ll
-35: Let
-35: Must
-35: Well
-35: Where
-34: Had
-34: Know
-34: Lord
-34: Then
-33: How
-32: Why
-31: Great
-31: King
-31: May
-31: See
-30: Am
-30: Speak
-29: Man
-29: Sir
-29: Than
-28: One
-27: An
-26: Go
-26: Mine
-26: Out
-26: Sleep
-26: Up
-25: Thane
-25: Too
-24: Can
-24: Does
-24: Give
-24: Most
-24: Nor
-24: O
-24: Such
-24: Those
-23: Blood
-23: Look
-23: These
-23: Things
-22: Banquo
-22: Been
-22: Heart
-22: Night
-21: Again
-21: Before
-21: Cawdor
-21: Hand
-20: Cannot
-20: Death
-20: Nature
-20: Till
-19: Art
-19: Has
-19: Love
-19: She
-19: Still
-18: Both
-18: Day
-18: Hear
-18: Life
-18: Take
-18: Way
-17: Ay
-17: I’
-17: Own
-17: Show
-17: Some
-17: Though
-17: Worthy
-16: Down
-16: Hail
-16: Macduff
-16: Men
-16: Nothing
-16: Poor
-16: Put
-16: Strange
-15: Dead
-15: Deed
-15: Heaven
-15: O’
-14: Against
-14: Air
-14: Bloody
-14: Could
-14: God
-14: Name
-14: Other
-14: There’s
-14: Thought
-14: Whose
-14: Without
-13: Comes
-13: Dare
-13: Duncan
-13: Each
-13: Every
-13: Father
-13: Made
-13: Much
-13: Never
-13: Noble
-13: None
-13: Pray
-13: Sword
-13: Think
-13: Thus
-13: Wife
-12: About
-12: Ere
-12: Fly
-12: Hands
-12: Into
-12: Keep
-12: Leave
-12: New
-12: Only
-12: Scotland
-12: What’s
-11: Bear
-11: Bed
-11: Double
-11: Else
-11: Even
-11: Eye
-11: Eyes
-11: Find
-11: First
-11: Hence
-11: Hold
-11: Knock
-11: Myself
-11: Once
-11: Peace
-11: Power
-11: Stand
-11: Very
-11: Welcome
-11: Whom
-11: Wood
-10: Being
-10: Birnam
-10: Call
-10: Enough
-10: Face
-10: Fight
-10: Friends
-10: Grace
-10: Honor
-10: Hour
-10: Known
-10: Live
-10: Lives
-10: Place
-10: Tell
-10: Thine
-10: Thoughts
-10: Tonight
-10: Two
-10: Within
-10: Woman
-10: Words
-9: Away
-9: Bring
-9: Business
-9: Dunsinane
-9: False
-9: Fleance
-9: Full
-9: Further
-9: Get
-9: Gone
-9: Hope
-9: Itself
-9: Kings
-9: Lie
-9: Light
-9: Many
-9: Mind
-9: Report
-9: Rest
-9: Royal
-9: Sight
-9: Son
-9: Thanks
-9: That’s
-9: Tongue
-9: Tyrant
-9: We’ll
-8: Almost
-8: Best
-8: Better
-8: Born
-8: Cauldron
-8: Cry
-8: Drink
-8: England
-8: Fears
-8: Fell
-8: Forth
-8: Given
-8: Glamis
-8: Goes
-8: Hang
-8: Heard
-8: Hell
-8: Here’s
-8: Himself
-8: Last
-8: Less
-8: Lies
-8: Meet
-8: Murder
-8: Off
-8: Present
-8: Rather
-8: Sorrow
-8: Tomorrow
-8: True
-8: Truth
-8: Under
-8: Wisdom
-7: Anon
-7: Bid
-7: Black
-7: Breath
-7: Children
-7: Daggers
-7: Desire
-7: Devil
-7: Died
-7: Earth
-7: Ever
-7: Fled
-7: Fortune
-7: Gracious
-7: Hark
-7: Head
-7: He’s
-7: Knocking
-7: Knows
-7: Let’s
-7: Malcolm
-7: Might
-7: Please
-7: Seem
-7: Set
-7: Shake
-7: Sisters
-7: Sit
-7: State
-7: Three
-7: Throw
-7: Trouble
-7: While
-7: Who’s
-6: After
-6: Any
-6: Back
-6: Came
-6: Chamber
-6: Cold
-6: Coming
-6: Command
-6: Country
-6: Cousin
-6: Crown
-6: Deep
-6: Doth
-6: English
-6: Fair
-6: Fall
-6: Fate
-6: Hast
-6: Help
-6: Highness
-6: House
-6: Issue
-6: Late
-6: Left
-6: Little
-6: Lost
-6: Makes
-6: Mortal
-6: Near
-6: Old
-6: Receive
-6: Rise
-6: Round
-6: Said
-6: Seen
-6: Send
-6: Shalt
-6: Since
-6: Themselves
-6: Thence
-6: Through
-6: Together
-6: Tyrant’s
-6: Use
-6: Weïrd
-6: Whence
-6: Word
-6: World
-6: Wouldst
-6: Young
-6: ’s
-5: Afraid
-5: Amen
-5: Another
-5: Answer
-5: Attend
-5: Banquo’s
-5: Bell
-5: Borne
-5: Called
-5: Care
-5: Certain
-5: Chance
-5: Comfort
-5: Dark
-5: Dearest
-5: Die
-5: Doctor
-5: Donalbain
-5: Duties
-5: Ear
-5: Faces
-5: Faith
-5: Far
-5: Feast
-5: Fife
-5: Fill
-5: Fire
-5: Former
-5: Foul
-5: Free
-5: Friend
-5: Gentle
-5: Grave
-5: Harm
-5: Health
-5: Hither
-5: Home
-5: Honest
-5: Horror
-5: Horses
-5: Hostess
-5: Indeed
-5: Innocent
-5: Killed
-5: Lay
-5: Majesty
-5: Master
-5: Means
-5: Mother
-5: Murdered
-5: Noise
-5: Part
-5: Pleasure
-5: Point
-5: Purpose
-5: Reason
-5: Return
-5: Root
-5: Safe
-5: Saw
-5: Seems
-5: Soldier
-5: Sound
-5: Stands
-5: Stay
-5: Strike
-5: Strong
-5: Sure
-5: Takes
-5: Ten
-5: Terrible
-5: Thanes
-5: Thing
-5: Thither
-5: Thrice
-5: Thyself
-5: Title
-5: Toward
-5: Traitor
-5: Wear
-5: Withal
-5: Worst
-5: ’em
-4: Act
-4: Alas
-4: All’s
-4: Already
-4: Approach
-4: Arm
-4: Become
-4: Behold
-4: Bleed
-4: Blow
-4: Bold
-4: Bosom
-4: Brain
-4: Break
-4: Breed
-4: Broke
-4: Bubble
-4: Burn
-4: Castle
-4: Cause
-4: Charm
-4: Cheer
-4: Clear
-4: Country’s
-4: Court
-4: Cried
-4: Cries
-4: Cruel
-4: Damned
-4: Days
-4: Day’s
-4: Dear
-4: Didst
-4: Doubt
-4: Due
-4: Enemy
-4: Fail
-4: Farewell
-4: Fatal
-4: Feel
-4: Fit
-4: Flight
-4: Gate
-4: General
-4: Gentlemen
-4: Gives
-4: Golden
-4: Grief
-4: Heavy
-4: Hereafter
-4: Hide
-4: Honors
-4: Horse
-4: Host
-4: Husband
-4: Keeps
-4: Kind
-4: Labor
-4: Laugh
-4: Line
-4: Lived
-4: Loves
-4: Man’s
-4: Mark
-4: Mean
-4: Move
-4: Nature’s
-4: News
-4: Nights
-4: Night’s
-4: Nine
-4: Note
-4: Often
-4: Owe
-4: Owl
-4: O’er
-4: Pains
-4: Pale
-4: Pay
-4: People
-4: Perfect
-4: Perform
-4: Play
-4: Pour
-4: Prithee
-4: Promised
-4: Pronounce
-4: Question
-4: Quickly
-4: Remember
-4: Ring
-4: Scorn
-4: Second
-4: Senses
-4: Sent
-4: Seyton
-4: Shame
-4: Siward
-4: Soldiers
-4: Something
-4: Sons
-4: Soul
-4: Speech
-4: Spend
-4: Spirits
-4: Spoke
-4: Start
-4: Stood
-4: Success
-4: Sun
-4: Sweet
-4: Swift
-4: Thank
-4: Thick
-4: Thousand
-4: Throne
-4: Towards
-4: Trust
-4: Valiant
-4: Valor
-4: Villain
-4: Violent
-4: Walk
-4: War
-4: Water
-4: Went
-4: Whiles
-4: Whole
-4: Win
-4: Wind
-4: Women
-4: Work
-4: Worse
-4: Worth
-4: Wrought
-4: Yield
-4: ’gainst
-4: ’twere
-3: Above
-3: Absolute
-3: Afeard
-3: Aid
-3: Alive
-3: Alone
-3: Ambition
-3: Applaud
-3: Armor
-3: Awake
-3: Babe
-3: Babes
-3: Bade
-3: Began
-3: Believe
-3: Besides
-3: Bird
-3: Birds
-3: Bless
-3: Blessing
-3: Body
-3: Boil
-3: Bones
-3: Boy
-3: Broad
-3: Calls
-3: Canst
-3: Cast
-3: Catch
-3: Charge
-3: Close
-3: Contend
-3: Courage
-3: Cousins
-3: Cure
-3: Cut
-3: Dagger
-3: Dares
-3: Deeds
-3: Deny
-3: Disease
-3: Dismal
-3: Door
-3: Dost
-3: Draw
-3: Drop
-3: Duncan’s
-3: Easy
-3: Eat
-3: End
-3: Equivocator
-3: Execution
-3: Fare
-3: Fast
-3: Father’s
-3: Fie
-3: File
-3: Filthy
-3: Fool
-3: Fools
-3: Forever
-3: Found
-3: Front
-3: Fury
-3: Gashes
-3: Gentleman
-3: God’s
-3: Graces
-3: Greater
-3: Greatness
-3: Grooms
-3: Grows
-3: Guest
-3: Hair
-3: Hanged
-3: Happy
-3: Hard
-3: Haste
-3: Having
-3: Hearts
-3: High
-3: Highness’
-3: Ho
-3: Holy
-3: Hopes
-3: Horrible
-3: Horrid
-3: Ill
-3: Instruments
-3: Just
-3: Justice
-3: Kerns
-3: Kill
-3: Knell
-3: Knowledge
-3: Lack
-3: Lady
-3: Land
-3: Leisure
-3: Liege
-3: Life’s
-3: Lips
-3: Long
-3: Looked
-3: Lose
-3: Mad
-3: Madam
-3: Malice
-3: Mayst
-3: Meeting
-3: Mere
-3: Met
-3: Milk
-3: Minds
-3: Miss
-3: Moment
-3: Morrow
-3: Munched
-3: Murders
-3: Need
-3: Needs
-3: Neither
-3: Newest
-3: Ne’er
-3: Nightgown
-3: Norweyan
-3: Obedience
-3: Office
-3: Ones
-3: Open
-3: Palace
-3: Patience
-3: Person
-3: Prayers
-3: Pretty
-3: Pull
-3: Queen
-3: Rapt
-3: Read
-3: Ready
-3: Received
-3: Remembrance
-3: Remove
-3: Ride
-3: Right
-3: Scone
-3: Seek
-3: Seemed
-3: Servants
-3: Service
-3: Shadow
-3: Shine
-3: Shut
-3: Sides
-3: Sights
-3: Single
-3: Slain
-3: Slave
-3: Sometime
-3: Soon
-3: Souls
-3: Speak’st
-3: Speeches
-3: Spirit
-3: Spoken
-3: Sprites
-3: Strength
-3: Suffer
-3: Summons
-3: Sundry
-3: Therefore
-3: Throat
-3: Times
-3: Toil
-3: Touch
-3: Traitors
-3: Treason
-3: Turn
-3: Twenty
-3: Tyranny
-3: Undone
-3: Unnatural
-3: Unto
-3: Vantage
-3: Wait
-3: Wake
-3: Walked
-3: Warlike
-3: Wash
-3: Watch
-3: Ways
-3: Wherefore
-3: Whether
-3: Whither
-3: Wild
-3: Wine
-3: Wing
-3: Wish
-3: Woman’s
-3: Wounds
-3: Yours
-3: Yourselves
-3: You’ll
-2: Abide
-2: Abroad
-2: Absence
-2: According
-2: Account
-2: Accursed
-2: Accursèd
-2: Add
-2: Addition
-2: Adieu
-2: Advice
-2: Advise
-2: Age
-2: Alarum
-2: Amazed
-2: Angel
-2: Angels
-2: Approaches
-2: Armed
-2: Arms
-2: Asked
-2: Asleep
-2: Attempt
-2: Avarice
-2: Awaked
-2: Baby
-2: Bad
-2: Banners
-2: Bat
-2: Battlements
-2: Beard
-2: Bears
-2: Beat
-2: Became
-2: Beg
-2: Begin
-2: Begun
-2: Belief
-2: Beside
-2: Betimes
-2: Betray
-2: Between
-2: Beware
-2: Beyond
-2: Blade
-2: Blame
-2: Blown
-2: Bond
-2: Bosoms
-2: Bought
-2: Brains
-2: Brandished
-2: Brave
-2: Breast
-2: Bright
-2: Brought
-2: Brow
-2: Brows
-2: Buy
-2: Carry
-2: Castle’s
-2: Cat
-2: Causes
-2: Caution
-2: Charged
-2: Charms
-2: Charmèd
-2: Cheeks
-2: Chief
-2: Child
-2: Clean
-2: Cleave
-2: Cling
-2: Clock
-2: Cloud
-2: Commend
-2: Common
-2: Company
-2: Confessed
-2: Confirmed
-2: Confound
-2: Confusion
-2: Consequence
-2: Content
-2: Continue
-2: Cool
-2: Corporal
-2: Couldst
-2: Course
-2: Coward
-2: Crowned
-2: Cruelty
-2: Cumberland
-2: Curse
-2: Cursèd
-2: Custom
-2: Damnèd
-2: Danger
-2: Darkness
-2: Defense
-2: Delight
-2: Desert
-2: Deserved
-2: Deserves
-2: Despair
-2: Destroy
-2: Destruction
-2: Dire
-2: Direction
-2: Discomfort
-2: Disgrace
-2: Dispatch
-2: Distance
-2: Dogs
-2: Doing
-2: Doubtful
-2: Doubts
-2: Dreadful
-2: Dreams
-2: Drown
-2: Drum
-2: Drunk
-2: Earnest
-2: Ears
-2: Eaten
-2: Ecstasy
-2: Edge
-2: Either
-2: Ends
-2: Endure
-2: Entrance
-2: Estate
-2: Esteem
-2: Eternal
-2: Everything
-2: Evils
-2: Expectation
-2: Famine
-2: Fancies
-2: Fantastical
-2: Favor
-2: Feed
-2: Feet
-2: Fellow
-2: Fellows
-2: Field
-2: Fiend
-2: Finds
-2: Finger
-2: Firm
-2: Firstlings
-2: Flower
-2: Foes
-2: Folly
-2: Foot
-2: Forbid
-2: Forest
-2: Forgive
-2: Forgotten
-2: Fought
-2: Frets
-2: Gain
-2: Gall
-2: Gave
-2: Gift
-2: Going
-2: Goodness
-2: Got
-2: Govern
-2: Grant
-2: Graves
-2: Greatest
-2: Green
-2: Greet
-2: Grieve
-2: Ground
-2: Grow
-2: Guilt
-2: Ha
-2: Hadst
-2: Hags
-2: Half
-2: Harms
-2: Hate
-2: Haunt
-2: Heads
-2: Hearing
-2: Heath
-2: Heavens
-2: Heaven’s
-2: Hecate’s
-2: Heels
-2: Hid
-2: Hie
-2: Highly
-2: Hill
-2: Holily
-2: Honored
-2: Hums
-2: Ignorant
-2: Image
-2: Imperial
-2: Impress
-2: Infected
-2: Ingredience
-2: Instant
-2: Interpret
-2: Invite
-2: Ireland
-2: Joy
-2: Joyful
-2: Judgment
-2: Keen
-2: Key
-2: Kingdom’s
-2: King’s
-2: Kinsman
-2: Kinsmen
-2: Kiss
-2: Knife
-2: Laid
-2: Lamb
-2: Large
-2: Lead
-2: Leaf
-2: Least
-2: Leave-taking
-2: Leaves
-2: Lechery
-2: Led
-2: Lesser
-2: Lest
-2: Liars
-2: Liest
-2: Lighted
-2: Lo
-2: Locks
-2: Lodged
-2: Longer
-2: Looks
-2: Loved
-2: Loyal
-2: Lust
-2: Main
-2: Making
-2: Manhood
-2: Manly
-2: March
-2: Marked
-2: Marry
-2: Measure
-2: Meat
-2: Memory
-2: Men’s
-2: Merciful
-2: Mercy
-2: Message
-2: Methought
-2: Mile
-2: Mingle
-2: Minister
-2: Ministers
-2: Minute
-2: Mirth
-2: Mistress
-2: Mock
-2: Moon
-2: Morning
-2: Moves
-2: Naked
-2: Named
-2: Natural
-2: Natures
-2: Naught
-2: Nay
-2: Nearest
-2: Norway
-2: Numbers
-2: Offer
-2: Offices
-2: Order
-2: Others
-2: Ours
-2: Ourself
-2: Ourselves
-2: Owed
-2: Pace
-2: Paid
-2: Painted
-2: Pardon
-2: Partner
-2: Passage
-2: Passion
-2: Patient
-2: Perchance
-2: Pernicious
-2: Pillows
-2: Pine
-2: Pious
-2: Pitiful
-2: Pity
-2: Plant
-2: Plenty
-2: Pluck
-2: Poisoned
-2: Porter
-2: Post
-2: Powers
-2: Praises
-2: Precious
-2: Preparation
-2: Presence
-2: Prick
-2: Prince
-2: Promise
-2: Prosperous
-2: Protest
-2: Provide
-2: Provokes
-2: Purge
-2: Push
-2: Quarrel
-2: Rain
-2: Rebel
-2: Rebellious
-2: Recoil
-2: Regard
-2: Reign
-2: Relate
-2: Remains
-2: Repose
-2: Require
-2: Revenge
-2: Revolt
-2: Robes
-2: Rouse
-2: Royalty
-2: Rubs
-2: Rugged
-2: Rumor
-2: Runs
-2: Safer
-2: Sauce
-2: Saucy
-2: Scale
-2: Scarcely
-2: Scruples
-2: Sea
-2: Season
-2: Seat
-2: Secret
-2: Seeds
-2: Seize
-2: Self
-2: Selfsame
-2: Sense
-2: Serpent
-2: Servant
-2: Serve
-2: Setting
-2: Several
-2: She’ll
-2: Shift
-2: Showed
-2: Sick
-2: Sicken
-2: Sickly
-2: Sightless
-2: Sin
-2: Sinks
-2: Sirrah
-2: Sister
-2: Sleeping
-2: Sleepy
-2: Slept
-2: Slow
-2: Smile
-2: Smiles
-2: Smiling
-2: Snake
-2: Society
-2: Sooner
-2: Sooth
-2: Sore
-2: Sorry
-2: Sovereign
-2: Sovereignty
-2: Speaks
-2: Spent
-2: Spite
-2: Spot
-2: Spring
-2: Spur
-2: Stage
-2: Stars
-2: Station
-2: Steel
-2: Sticking
-2: Stir
-2: Stirring
-2: Stones
-2: Stop
-2: Stopped
-2: Story
-2: Straight
-2: Strangely
-2: Strangers
-2: Strokes
-2: Strongly
-2: Struck
-2: Stuff
-2: Subject
-2: Succeeding
-2: Supped
-2: Supper
-2: Sway
-2: Swear
-2: Swearers
-2: Syllable
-2: Table
-2: Tailor
-2: Tale
-2: Teach
-2: Tear
-2: Tears
-2: Tender
-2: Theirs
-2: Thunder
-2: Tidings
-2: Tiger
-2: Timely
-2: Toe
-2: Told
-2: Tongues
-2: Took
-2: Tooth
-2: Top
-2: Trade
-2: Treachery
-2: Treasons
-2: Tree
-2: Trees
-2: Troubled
-2: Troubles
-2: Truly
-2: Trusted
-2: Truths
-2: Tune
-2: T’
-2: Uncle
-2: Unfix
-2: Unknown
-2: Untimely
-2: Used
-2: Vanished
-2: Venom
-2: Voice
-2: Wail
-2: Walking
-2: Wants
-2: Weak
-2: Weal
-2: Weary
-2: Weep
-2: Weighed
-2: Wicked
-2: Wilt
-2: Wise
-2: Wit
-2: Withered
-2: Witness
-2: Woe
-2: Wolf
-2: Won
-2: Wonder
-2: Wound
-2: Wrack
-2: Wretched
-2: Yes
-2: Yourself
-2: ’dst
-1: A-making
-1: Abed
-1: Abhorrèd
-1: Abjure
-1: Abound
-1: Absent
-1: Abuse
-1: Accents
-1: Access
-1: Accompany
-1: Accounted
-1: Accustomed
-1: Acheron
-1: Acquaint
-1: Acted
-1: Acting
-1: Action
-1: Actions
-1: Acts
-1: Actual
-1: Adage
-1: Added
-1: Adder’s
-1: Addressed
-1: Adhere
-1: Admired
-1: Advance
-1: Advantage
-1: Affair
-1: Affairs
-1: Affection
-1: Affeered
-1: Affliction
-1: Afoot
-1: Afternoon
-1: Afterwards
-1: Agent
-1: Agents
-1: Agitation
-1: Ague
-1: Aim
-1: Air-drawn
-1: Alack
-1: Alarm
-1: Alarumed
-1: Aleppo
-1: Alike
-1: All-hail
-1: All-hailed
-1: All-thing
-1: Allegiance
-1: Aloud
-1: Also
-1: Alter
-1: Always
-1: Amazedly
-1: Amazement
-1: Amend
-1: Amends
-1: Amiss
-1: Among
-1: Anger
-1: Angered
-1: Angerly
-1: Angry
-1: Annoyance
-1: Anointed
-1: Antic
-1: Anticipat’st
-1: Antidote
-1: Antony’s
-1: Anyone
-1: Anywhere
-1: Apace
-1: Apart
-1: Appall
-1: Appalls
-1: Appear
-1: Appears
-1: Appease
-1: Appetite
-1: Apply
-1: Appoint
-1: Approve
-1: Arabia
-1: Arbitrate
-1: Argument
-1: Aright
-1: Aroint
-1: Arrived
-1: Artificial
-1: Aside
-1: Ask
-1: Assailable
-1: Assassination
-1: Assault
-1: Assay
-1: Assistance
-1: Assisted
-1: Assurance
-1: Attire
-1: Audit
-1: Auger
-1: Aught
-1: Augment
-1: Augurs
-1: Authorized
-1: Avaricious
-1: Avaunt
-1: Avoid
-1: Avoided
-1: Avouch
-1: Avouches
-1: Aweary
-1: Aye
-1: Baboon’s
-1: Backs
-1: Backward
-1: Badged
-1: Baited
-1: Bake
-1: Balls
-1: Balm
-1: Bane
-1: Banished
-1: Bank
-1: Banquet
-1: Banquets
-1: Bare
-1: Barefaced
-1: Bark
-1: Barren
-1: Basis
-1: Bath
-1: Bathe
-1: Battered
-1: Battle
-1: Battle’s
-1: Be-all
-1: Bear-like
-1: Beards
-1: Beast
-1: Beaten
-1: Beauteous
-1: Beds
-1: Beelzebub
-1: Beest
-1: Beetle
-1: Beggared
-1: Beguile
-1: Behind
-1: Beldams
-1: Believed
-1: Bellman
-1: Bellona’s
-1: Belt
-1: Bend
-1: Beneath
-1: Benediction
-1: Benefit
-1: Benison
-1: Bent
-1: Bestowed
-1: Bestows
-1: Bestride
-1: Bidding
-1: Bides
-1: Bids
-1: Bill
-1: Bind
-1: Birth
-1: Birth-strangled
-1: Birthdom
-1: Bladed
-1: Blames
-1: Blanched
-1: Blanket
-1: Blaspheme
-1: Blaspheming
-1: Blast
-1: Blasted
-1: Bleeding
-1: Bleeds
-1: Blessings
-1: Blessèd
-1: Blindworm’s
-1: Blisters
-1: Blood-boltered
-1: Bloodier
-1: Bloody-sceptered
-1: Blows
-1: Blunt
-1: Boasting
-1: Bodements
-1: Boneless
-1: Bonfire
-1: Book
-1: Boot
-1: Bore
-1: Borrowed
-1: Borrower
-1: Botches
-1: Bottom
-1: Bough
-1: Bound
-1: Boundless
-1: Bounteous
-1: Bounty
-1: Bowed
-1: Brag
-1: Braggart
-1: Brainsickly
-1: Bravely
-1: Breach
-1: Breasts
-1: Breeched
-1: Brewed
-1: Bridegroom
-1: Brief
-1: Briefly
-1: Brightest
-1: Brinded
-1: Brings
-1: Broil
-1: Brother
-1: Bruited
-1: Bubbles
-1: Buckle
-1: Buffets
-1: Building
-1: Built
-1: Burial
-1: Buried
-1: Burned
-1: Bury
-1: Butcher
-1: Buttress
-1: Cabined
-1: Caesar
-1: Calendar
-1: Calling
-1: Call’st
-1: Cam’st
-1: Cancel
-1: Candle
-1: Candles
-1: Cannons
-1: Capital
-1: Caps
-1: Captains
-1: Captivity
-1: Card
-1: Careless
-1: Carousing
-1: Carried
-1: Carved
-1: Cases
-1: Casing
-1: Castles
-1: Catalogue
-1: Cease
-1: Celebrates
-1: Censures
-1: Ceremony
-1: Chafes
-1: Chalice
-1: Challenge
-1: Chamberlains
-1: Chambers
-1: Champion
-1: Chanced
-1: Charm’s
-1: Charnel
-1: Chastise
-1: Chaudron
-1: Cheaply
-1: Check
-1: Cherubin
-1: Chestnuts
-1: Chickens
-1: Chid
-1: Chiefest
-1: Childhood
-1: Children’s
-1: Chimneys
-1: Choke
-1: Choppy
-1: Chops
-1: Choughs
-1: Christendom
-1: Chuck
-1: Churches
-1: Cistern
-1: Claim
-1: Clamor
-1: Clamored
-1: Clamorous
-1: Clatter
-1: Cleanse
-1: Clearness
-1: Clears
-1: Clept
-1: Climb
-1: Clogs
-1: Cloistered
-1: Closed
-1: Closet
-1: Cloudy
-1: Clutch
-1: Cock
-1: Coign
-1: Colmekill
-1: Colme’s
-1: Color
-1: Colors
-1: Combined
-1: Combustion
-1: Comforted
-1: Commanded
-1: Commands
-1: Commencing
-1: Commendations
-1: Commends
-1: Commission
-1: Committed
-1: Companions
-1: Compared
-1: Compassed
-1: Compelled
-1: Compose
-1: Composition
-1: Compt
-1: Compunctious
-1: Com’st
-1: Conceive
-1: Concern
-1: Conclude
-1: Concluded
-1: Conclusion
-1: Concord
-1: Condemn
-1: Conduct
-1: Conference
-1: Confessing
-1: Confident
-1: Confined
-1: Confineless
-1: Confirm
-1: Conflict
-1: Confounds
-1: Confronted
-1: Confused
-1: Conjure
-1: Consent
-1: Consequences
-1: Consider
-1: Considered
-1: Consort
-1: Conspirers
-1: Constancy
-1: Constrainèd
-1: Construction
-1: Contending
-1: Contented
-1: Continent
-1: Continually
-1: Contradict
-1: Contriver
-1: Convert
-1: Convey
-1: Convince
-1: Convinces
-1: Cooled
-1: Copy’s
-1: Corn
-1: Corner
-1: Council
-1: Counseled
-1: Counselors
-1: Countenance
-1: Counterfeit
-1: Countryman
-1: Couriers
-1: Coursed
-1: Coveted
-1: Cowed
-1: Coz
-1: Crack
-1: Cracks
-1: Cradle
-1: Crave
-1: Craves
-1: Craving
-1: Crazed
-1: Cream-faced
-1: Create
-1: Creation
-1: Creeps
-1: Crests
-1: Crew
-1: Cribbed
-1: Crickets
-1: Crime
-1: Croaks
-1: Crossed
-1: Crow
-1: Crowns
-1: Curbing
-1: Cures
-1: Curs
-1: Curses
-1: Curtained
-1: Cutthroats
-1: Dainty
-1: Dam
-1: Dame
-1: Dames
-1: Damn
-1: Damnation
-1: Dangerous
-1: Dareful
-1: Dashed
-1: Daughters
-1: Dauntless
-1: Deadly
-1: Deaf
-1: Deal
-1: Death’s
-1: Debt
-1: Deceitful
-1: Deceive
-1: Decision
-1: Dedicate
-1: Deeper
-1: Deepest
-1: Deeply
-1: Deer
-1: Defect
-1: Deftly
-1: Degrees
-1: Deign
-1: Delicate
-1: Delights
-1: Delinquents
-1: Deliver
-1: Delivers
-1: Demand
-1: Demerits
-1: Demi-wolves
-1: Denies
-1: Depart
-1: Descended
-1: Deserve
-1: Deservers
-1: Design
-1: Desired
-1: Desires
-1: Desolate
-1: Despise
-1: Destiny
-1: Destroying
-1: Detraction
-1: Devil-porter
-1: Devilish
-1: Devil’s
-1: Devotion
-1: Devour
-1: Dew
-1: Diamond
-1: Digestion
-1: Digged
-1: Dignities
-1: Dignity
-1: Diminutive
-1: Directly
-1: Direful
-1: Direness
-1: Direst
-1: Disasters
-1: Disbursèd
-1: Discharge
-1: Discovery
-1: Disdaining
-1: Diseased
-1: Disguising
-1: Disheartens
-1: Dishonors
-1: Disjoint
-1: Disloyal
-1: Dismayed
-1: Dismiss
-1: Disorder
-1: Dispatched
-1: Displaced
-1: Disposition
-1: Dispute
-1: Disseat
-1: Distempered
-1: Distilled
-1: Distinguishes
-1: Distracted
-1: Distresses
-1: Ditch
-1: Ditch-delivered
-1: Divine
-1: Division
-1: Doff
-1: Dog
-1: Dollars
-1: Dolor
-1: Domestic
-1: Doom
-1: Doom’s
-1: Doors
-1: Doubly
-1: Downfall’n
-1: Downy
-1: Drab
-1: Dragon
-1: Drain
-1: Drawn
-1: Dread
-1: Dreamt
-1: Drenchèd
-1: Dress
-1: Dressed
-1: Droop
-1: Drops
-1: Drowse
-1: Drowsy
-1: Drug
-1: Drugged
-1: Dry
-1: Dudgeon
-1: Dues
-1: Duff
-1: Dull
-1: Dunnest
-1: Durst
-1: Dusty
-1: Dwarfish
-1: Dwell
-1: Dwindle
-1: Dying
-1: Eagles
-1: Earls
-1: Earthbound
-1: Earthly
-1: Easier
-1: East
-1: Echo
-1: Eclipse
-1: Edward
-1: Effect
-1: Effects
-1: Egg
-1: Eighth
-1: Eldest
-1: Elves
-1: Embrace
-1: Eminence
-1: Empty
-1: Emptying
-1: Enchanting
-1: Encounter
-1: End-all
-1: Enfold
-1: Enkindle
-1: Enrage
-1: Enrages
-1: Enter
-1: Enterprise
-1: Entomb
-1: Entrails
-1: Entreat
-1: Entry
-1: Epicures
-1: Equivocate
-1: Equivocates
-1: Equivocation
-1: Err
-1: Especially
-1: Establish
-1: Esteem’st
-1: Eterne
-1: Even-handed
-1: Event
-1: Events
-1: Ever-gentle
-1: Everlasting
-1: Everyone
-1: Evil
-1: Exasperate
-1: Except
-1: Excite
-1: Exiled
-1: Expedition
-1: Expense
-1: Expire
-1: Exploits
-1: Exposure
-1: Extend
-1: Eyeballs
-1: E’er
-1: Faced
-1: Fact
-1: Faculties
-1: Failed
-1: Fain
-1: Faint
-1: Fairer
-1: Fairest
-1: Fairies
-1: Faith-breach
-1: Faithful
-1: Falcon
-1: Falls
-1: Fall’n
-1: Familiar
-1: Fan
-1: Farmer
-1: Farrow
-1: Farther
-1: Fathered
-1: Fatherless
-1: Favors
-1: Feared
-1: Fearful
-1: Feasts
-1: Feat
-1: Fed
-1: Fee-grief
-1: Feeling
-1: Fee’d
-1: Felt
-1: Fenny
-1: Fever
-1: Feverous
-1: Few
-1: Fiend-like
-1: Fiends
-1: Filed
-1: Fillet
-1: Filling
-1: Finding
-1: Fires
-1: Firm-set
-1: Fitful
-1: Fitness
-1: Fits
-1: Fixed
-1: Flame
-1: Flattering
-1: Flaws
-1: Flesh
-1: Flies
-1: Flighty
-1: Float
-1: Flout
-1: Flowers
-1: Flown
-1: Flung
-1: Flying
-1: Foe
-1: Fog
-1: Foggy
-1: Foisons
-1: Fold
-1: Follows
-1: Foolish
-1: Force
-1: Forced
-1: Foreign
-1: Forge
-1: Forget
-1: Forgot
-1: Fork
-1: Form
-1: Forres
-1: Forsworn
-1: Fortifies
-1: Fortitude
-1: Foully
-1: Foundations
-1: Founded
-1: Fountain
-1: Fourth
-1: Frailties
-1: Frame
-1: Franchised
-1: Frankly
-1: Freely
-1: French
-1: Fresh
-1: Frieze
-1: Fright
-1: Frog
-1: Fruitless
-1: Fry
-1: Fullness
-1: Fume
-1: Function
-1: Furbished
-1: Furious
-1: Future
-1: Gains
-1: Galloping
-1: Gallowglasses
-1: Gap
-1: Garments
-1: Gash
-1: Gashed
-1: Gaze
-1: Geese
-1: Genius
-1: Gently
-1: Gentry
-1: Germens
-1: Ghost
-1: Ghosts
-1: Giant’s
-1: Gibbet
-1: Gild
-1: Gin
-1: Girl
-1: Giving
-1: Gladly
-1: Glare
-1: Glass
-1: Glimmers
-1: Glory
-1: Gloss
-1: Goat
-1: Gold-bound
-1: Golgotha
-1: Good-night
-1: Goodly
-1: Goose
-1: Goose-look
-1: Gore
-1: Gorgon
-1: Gory
-1: Gospeled
-1: Got’st
-1: Gouts
-1: Graced
-1: Grace’s
-1: Grafted
-1: Grain
-1: Grandam
-1: Grapples
-1: Grasp
-1: Graymalkin
-1: Grease
-1: Greeting
-1: Greets
-1: Greyhounds
-1: Griefs
-1: Grim
-1: Grip
-1: Groans
-1: Grove
-1: Growing
-1: Grown
-1: Gruel
-1: Guardian
-1: Guess
-1: Guests
-1: Guide
-1: Guise
-1: Gulf
-1: Gums
-1: Hacked
-1: Hailed
-1: Hairs
-1: Hall
-1: Handle
-1: Hanging
-1: Hangman’s
-1: Hangs
-1: Happier
-1: Happily
-1: Happiness
-1: Harbinger
-1: Harbingers
-1: Hardly
-1: Hardy
-1: Hare
-1: Harness
-1: Harped
-1: Harpier
-1: Harvest
-1: Hat
-1: Hatched
-1: Hateful
-1: Hawked
-1: Hay
-1: Healing
-1: Heaped
-1: Hearers
-1: Hearts’
-1: Hearty
-1: Hear’st
-1: Heat
-1: Heat-oppressèd
-1: Heavenly
-1: Heaviest
-1: Heavily
-1: Hecate
-1: Hedge-pig
-1: Held
-1: Hell-broth
-1: Hell-kite
-1: Hellhound
-1: Helped
-1: Hemlock
-1: Henceforth
-1: Herald
-1: Here-approach
-1: Here-remain
-1: Herein
-1: Hermits
-1: Herself
-1: Hew
-1: Hidden
-1: Hideous
-1: High-placed
-1: Hired
-1: Hiss
-1: Hit
-1: Hoarse
-1: Holds
-1: Hole
-1: Homage
-1: Homely
-1: Homeward
-1: Hoodwink
-1: Horrors
-1: Horsed
-1: Hose
-1: Hotter
-1: Hounds
-1: Hours
-1: Hour’s
-1: Housekeeper
-1: Houses
-1: Hover
-1: Howe’er
-1: Howl
-1: Howled
-1: Howlet’s
-1: Howl’s
-1: Hum
-1: Human
-1: Humane
-1: Humble
-1: Humbly
-1: Hunger
-1: Hunter
-1: Hurly-burly’s
-1: Hurt
-1: Hurts
-1: Husbandry
-1: Husband’s
-1: Hush
-1: Hyrcan
-1: Idiot
-1: Ill-composed
-1: Illness
-1: Illusion
-1: Images
-1: Imaginings
-1: Impedes
-1: Impediments
-1: Imperfect
-1: Implored
-1: Impostors
-1: Incarnadine
-1: Incensed
-1: Inch
-1: Inclined
-1: Indissoluble
-1: Industrious
-1: Infirm
-1: Infirmity
-1: Informed
-1: Informs
-1: Ingratitude
-1: Inhabit
-1: Inhabitants
-1: Initiate
-1: Inn
-1: Insane
-1: Instructions
-1: Instrument
-1: Integrity
-1: Intelligence
-1: Intemperance
-1: Intent
-1: Interdiction
-1: Interest
-1: Interim
-1: Intermission
-1: Intrenchant
-1: Invention
-1: Inventor
-1: Inverness
-1: Invest
-1: Invested
-1: Invisible
-1: Invites
-1: Isles
-1: I’d
-1: Jealousies
-1: Jew
-1: Jewel
-1: Jewels
-1: Jocund
-1: Join
-1: Jointly
-1: Journey
-1: Jovial
-1: Joys
-1: Judicious
-1: Juggling
-1: Jump
-1: Jutty
-1: Killing
-1: Kindly
-1: Kindness
-1: Kind’st
-1: King-becoming
-1: Kingdom
-1: Kites
-1: Knees
-1: Knit
-1: Knits
-1: Knives
-1: Knocks
-1: Knolled
-1: Knots
-1: Knowings
-1: Know’st
-1: Labored
-1: Labor’s
-1: Laced
-1: Lamentings
-1: Lamp
-1: Lands
-1: Lap
-1: Lapped
-1: Largess
-1: Latch
-1: Lated
-1: Later
-1: Laudable
-1: Lave
-1: Lavish
-1: Laying
-1: Lays
-1: Leafy
-1: Learn
-1: Learned
-1: Lease
-1: Leaving
-1: Lees
-1: Leg
-1: Legions
-1: Legs
-1: Length
-1: Lent
-1: Letters
-1: Letting
-1: Levy
-1: Liar
-1: Lid
-1: Lightning
-1: Lily-livered
-1: Limbeck
-1: Lime
-1: Limited
-1: Linen
-1: Lion
-1: Lion-mettled
-1: List
-1: Listen
-1: List’ning
-1: Livelong
-1: Liver
-1: Lives’
-1: Living
-1: Lizard’s
-1: Loads
-1: Loon
-1: Loose
-1: Lord’s
-1: Losest
-1: Loud
-1: Low
-1: Lowliness
-1: Loyalty
-1: Luxurious
-1: Macdonwald
-1: Madness
-1: Maggot
-1: Magic
-1: Maids
-1: Malady
-1: Malcolm’s
-1: Males
-1: Malevolence
-1: Malicious
-1: Mankind
-1: Manner
-1: Mansion
-1: Mansionry
-1: Mar
-1: Marble
-1: Market
-1: Marrowless
-1: Mars
-1: Marshal’st
-1: Martlet
-1: Marvel’st
-1: Masking
-1: Masterdom
-1: Masterpiece
-1: Masters’
-1: Master’s
-1: Mated
-1: Material
-1: Matrons
-1: Matter
-1: Matters
-1: Maw
-1: Maws
-1: Meal
-1: Meant
-1: Measured
-1: Measureless
-1: Med’cine
-1: Med’cines
-1: Meek
-1: Melted
-1: Memorize
-1: Men-children
-1: Mend
-1: Merciless
-1: Messenger
-1: Metaphysical
-1: Methinks
-1: Mettle
-1: Mewed
-1: Midnight
-1: Midst
-1: Might’st
-1: Milks
-1: Mind’s
-1: Minion
-1: Minions
-1: Minutely
-1: Miraculous
-1: Mischance
-1: Mischief
-1: Miserable
-1: Missing
-1: Missives
-1: Mistrust
-1: Mock’ry
-1: Modern
-1: Modest
-1: Mold
-1: Momentary
-1: Mongrels
-1: Monkey
-1: Monsters
-1: Monstrous
-1: Monuments
-1: Moon’s
-1: More-having
-1: Morn
-1: Mortality
-1: Mortals’
-1: Mortified
-1: Mother’s
-1: Motion
-1: Motives
-1: Mousing
-1: Mouth-honor
-1: Mouths
-1: Moving
-1: Multiplying
-1: Multitudinous
-1: Mummy
-1: Murderer
-1: Murderers
-1: Murderers’
-1: Murderous
-1: Murd’ring
-1: Murky
-1: Muse
-1: Name’s
-1: Napkins
-1: Nation
-1: Naught’s
-1: Nave
-1: Navigation
-1: Nearer
-1: Nearly
-1: Near’st
-1: Necks
-1: Needed
-1: Needful
-1: Neptune’s
-1: Nerves
-1: Nest
-1: Net
-1: Neutral
-1: Newborn
-1: Newer
-1: Newly
-1: Newt
-1: Next
-1: Nice
-1: Niggard
-1: Nigh
-1: Night-shriek
-1: Nightly
-1: Nimbly
-1: Nipple
-1: Nobleness
-1: Nobles
-1: Nobly
-1: Nod
-1: Nonpareil
-1: Noon
-1: Northumberland
-1: Norways’
-1: Nose
-1: Nose-painting
-1: Notion
-1: Nourisher
-1: Oblivious
-1: Obscure
-1: Observe
-1: Observed
-1: Occasion
-1: Ocean
-1: Odds
-1: Offend
-1: Offended
-1: Officers
-1: Off’rings
-1: Oftentimes
-1: Oft’ner
-1: Olden
-1: Older
-1: One-half
-1: Ope
-1: Opened
-1: Opinions
-1: Oppose
-1: Opposed
-1: Oracles
-1: Ornament
-1: Orphans
-1: Other’s
-1: Outrun
-1: Outward
-1: Outwardly
-1: Over-red
-1: Overbold
-1: Overcharged
-1: Overcome
-1: Overcredulous
-1: Overtake
-1: Overthrown
-1: O’erbear
-1: O’erfraught
-1: O’erleap
-1: O’erleaps
-1: O’ertook
-1: Paddock
-1: Pain
-1: Painting
-1: Palaces
-1: Pale-hearted
-1: Pall
-1: Palpable
-1: Palter
-1: Paper
-1: Parallel
-1: Parley
-1: Parricide
-1: Parted
-1: Particular
-1: Particulars
-1: Partner’s
-1: Passed
-1: Past
-1: Patch
-1: Pauser
-1: Payment
-1: Pays
-1: Peak
-1: Peal
-1: Pearl
-1: Peep
-1: Peerless
-1: Peers
-1: Pendant
-1: Penthouse
-1: Perceive
-1: Perfect’st
-1: Performance
-1: Performances
-1: Performed
-1: Perfumes
-1: Perilous
-1: Perseverance
-1: Personal
-1: Persuades
-1: Pertains
-1: Perturbation
-1: Pestered
-1: Petty
-1: Physic
-1: Physician
-1: Physics
-1: Pictures
-1: Piece
-1: Pieces
-1: Pies
-1: Pilot’s
-1: Pit
-1: Pitfall
-1: Pitied
-1: Placed
-1: Places
-1: Plague
-1: Planted
-1: Played’st
-1: Player
-1: Plead
-1: Pleasant
-1: Pleasures
-1: Pledge
-1: Plenteous
-1: Plight
-1: Plucked
-1: Plucks
-1: Points
-1: Poison
-1: Pole
-1: Poorly
-1: Portable
-1: Ports
-1: Possess
-1: Possets
-1: Posterity
-1: Posters
-1: Pot
-1: Potent
-1: Poured
-1: Powerful
-1: Practice
-1: Prate
-1: Prattler
-1: Predecessors
-1: Prediction
-1: Predominance
-1: Predominant
-1: Prepares
-1: Presently
-1: Preserve
-1: Pretend
-1: Pretense
-1: Preys
-1: Pricking
-1: Pride
-1: Primrose
-1: Prisoner
-1: Pristine
-1: Probation
-1: Proceed
-1: Proceeding
-1: Procreant
-1: Producing
-1: Profess
-1: Professes
-1: Professions
-1: Profit
-1: Profound
-1: Prologues
-1: Pronounced
-1: Proof
-1: Proper
-1: Prophecy
-1: Prophesying
-1: Prophet-like
-1: Prophetic
-1: Proportion
-1: Prospect
-1: Proud
-1: Prove
-1: Proved
-1: Provided
-1: Provoke
-1: Provoker
-1: Prowess
-1: Pure
-1: Purgative
-1: Purged
-1: Purposes
-1: Purveyor
-1: Puts
-1: Pyramids
-1: Quarrels
-1: Quarry
-1: Quarter
-1: Quarters
-1: Quell
-1: Quenched
-1: Quiet
-1: Quit
-1: Quite
-1: Quoth
-1: Rabble’s
-1: Race
-1: Rage
-1: Raise
-1: Ran
-1: Rancors
-1: Rank
-1: Ranks
-1: Rarer
-1: Rat
-1: Ratify
-1: Raveled
-1: Raven
-1: Ravin
-1: Ravined
-1: Ravishing
-1: Rawness
-1: Raze
-1: Readiness
-1: Reads
-1: Reasons
-1: Rebels’
-1: Rebel’s
-1: Rebuked
-1: Receipt
-1: Reckless
-1: Reckon
-1: Recommends
-1: Recompense
-1: Reconcile
-1: Reconciled
-1: Recorded
-1: Red
-1: Redoubled
-1: Redress
-1: Reeking
-1: Referred
-1: Reflection
-1: Refrain
-1: Registered
-1: Reigns
-1: Rejoicing
-1: Relation
-1: Relations
-1: Relish
-1: Remedy
-1: Remembrancer
-1: Remorse
-1: Rendered
-1: Renown
-1: Rent
-1: Repeat’st
-1: Repent
-1: Repentance
-1: Repetition
-1: Reported
-1: Reports
-1: Request
-1: Requited
-1: Resembled
-1: Reserved
-1: Resolute
-1: Resolution
-1: Resolve
-1: Resolved
-1: Resounds
-1: Respect
-1: Restless
-1: Restrain
-1: Retire
-1: Returned
-1: Returning
-1: Returns
-1: Revenges
-1: Revolts
-1: Rhinoceros
-1: Rhubarb
-1: Ribs
-1: Rich
-1: Rid
-1: Riddles
-1: Rides
-1: Rightly
-1: Ripe
-1: Ripped
-1: Rises
-1: Roar
-1: Roast
-1: Robe
-1: Rock
-1: Roman
-1: Roofed
-1: Rooks
-1: Rooky
-1: Rooted
-1: Ross
-1: Rough
-1: Roughest
-1: Ruby
-1: Rue
-1: Ruin’s
-1: Rule
-1: Rump-fed
-1: Run
-1: Rung
-1: Runnion
-1: Rush
-1: Russian
-1: Sacred
-1: Sacrilegious
-1: Sad
-1: Safely
-1: Safest
-1: Safeties
-1: Safety
-1: Sag
-1: Sail
-1: Sailor’s
-1: Saint
-1: Sainted
-1: Sake
-1: Salt-sea
-1: Salutation
-1: Saluted
-1: Same
-1: Sanctity
-1: Satisfied
-1: Satisfy
-1: Savage
-1: Savagely
-1: Save
-1: Saying
-1: Say’st
-1: Scales
-1: Scanned
-1: Scarce
-1: Scarf
-1: Scepter
-1: Scepters
-1: School
-1: Scorched
-1: Score
-1: Scorpions
-1: Scour
-1: Scream
-1: Screams
-1: Screens
-1: Screw
-1: Seal
-1: Sear
-1: Seas
-1: Seated
-1: Secrets
-1: Secret’st
-1: Security
-1: Seeking
-1: Seeling
-1: Seemeth
-1: Seest
-1: Self-abuse
-1: Self-comparisons
-1: Sell
-1: Senna
-1: Sensible
-1: Sentinel
-1: Separated
-1: Sere
-1: Sergeant
-1: Serious
-1: Served
-1: Sets
-1: Settled
-1: Seven
-1: Seventh
-1: Sev’nnights
-1: Shade
-1: Shadows
-1: Shaft
-1: Shag-eared
-1: Shakes
-1: Shaking
-1: Shape
-1: Shard-born
-1: Share
-1: Shares
-1: Shark
-1: Sharp
-1: Sheathe
-1: Shed
-1: Shield
-1: Shipman’s
-1: Shipwracking
-1: Shoal
-1: Shook
-1: Short
-1: Shot
-1: Shoughs
-1: Shouldst
-1: Shows
-1: Shrieked
-1: Shrieks
-1: Siege
-1: Sieve
-1: Sigh
-1: Sighs
-1: Sign
-1: Signifying
-1: Signs
-1: Silenced
-1: Silent
-1: Silver
-1: Sinel’s
-1: Sinful
-1: Sing
-1: Sits
-1: Siward’s
-1: Skin
-1: Skinny
-1: Skipping
-1: Skirr
-1: Sky
-1: Slab
-1: Slaughter
-1: Slaughtered
-1: Slaughterous
-1: Slaves
-1: Sleave
-1: Sleek
-1: Sleepers
-1: Sleeps
-1: Sleights
-1: Slipped
-1: Slips
-1: Slivered
-1: Slope
-1: Slumb’ry
-1: Smack
-1: Smacking
-1: Smear
-1: Smell
-1: Smells
-1: Smoke
-1: Smoked
-1: Smothered
-1: Snares
-1: Snores
-1: Snow
-1: Sold
-1: Soldiership
-1: Soldier’s
-1: Sole
-1: Solely
-1: Solemn
-1: Soliciting
-1: Solicits
-1: Sorely
-1: Sorriest
-1: Sorrows
-1: Sorts
-1: Sought
-1: Soul’s
-1: Soundly
-1: Source
-1: South
-1: Sow’s
-1: Space
-1: Spacious
-1: Spaniels
-1: Sparrows
-1: Speaker
-1: Speakers
-1: Speaking
-1: Special
-1: Speculation
-1: Speculative
-1: Speed
-1: Spells
-1: Spiteful
-1: Spoils
-1: Spongy
-1: Spurn
-1: Spurs
-1: Spy
-1: Stableness
-1: Stabs
-1: Staff
-1: Stake
-1: Stalls
-1: Stamp
-1: Stanchless
-1: Stared
-1: Starting
-1: Starts
-1: Statute
-1: Staves
-1: Stayed
-1: Stays
-1: Stead
-1: Stealing
-1: Steals
-1: Stealthy
-1: Steeped
-1: Step
-1: Stepped
-1: Steps
-1: Stern’st
-1: Stick
-1: Sticks
-1: Sting
-1: Stole
-1: Stol’n
-1: Stone
-1: Stool
-1: Stools
-1: Storehouse
-1: Storms
-1: Stout
-1: Strangles
-1: Streaks
-1: Streams
-1: Stretch
-1: Strides
-1: Striding
-1: Stroke
-1: Struts
-1: Stuck
-1: Studied
-1: Stuffed
-1: Suborned
-1: Substances
-1: Subtle
-1: Succeed
-1: Suck
-1: Sudden
-1: Suffering
-1: Suggestion
-1: Suits
-1: Summer
-1: Summer-seeming
-1: Summer’s
-1: Supernatural
-1: Suppertime
-1: Supplied
-1: Supplies
-1: Surcease
-1: Surfeited
-1: Surgeons
-1: Surgery
-1: Surmise
-1: Surprise
-1: Surprised
-1: Surveying
-1: Suspicion
-1: Swallow
-1: Swarm
-1: Swears
-1: Sweat
-1: Sweaten
-1: Sweep
-1: Sweeten
-1: Sweeter
-1: Sweetly
-1: Swelling
-1: Swells
-1: Sweltered
-1: Sweno
-1: Swiftest
-1: Swimmers
-1: Swine
-1: Swinish
-1: Swoll’n
-1: Swoop
-1: Swords
-1: Sword’s
-1: Sworn
-1: Tables
-1: Table’s
-1: Tail
-1: Taint
-1: Taints
-1: Taking-off
-1: Talk
-1: Talk’st
-1: Tarquin’s
-1: Tarrying
-1: Tartar’s
-1: Taste
-1: Taught
-1: Tedious
-1: Teems
-1: Teeth
-1: Tells
-1: Temper
-1: Tempest-tossed
-1: Temple
-1: Temple-haunting
-1: Temp’rance
-1: Temp’rate
-1: Tend
-1: Tending
-1: Terms
-1: Theft
-1: Theme
-1: Thereby
-1: Therein
-1: Thereto
-1: Therewithal
-1: Thick-coming
-1: Thickens
-1: Thief
-1: Think’st
-1: Third
-1: Thirst
-1: Thirty-one
-1: Thousands
-1: Thralls
-1: Threat
-1: Threatens
-1: Threescore
-1: Thriftless
-1: Throbs
-1: Thrusts
-1: Thumb
-1: Thumbs
-1: Thunders
-1: Tie
-1: Tied
-1: Tiger’s
-1: Titles
-1: Toad
-1: Today
-1: Top-full
-1: Topple
-1: Torture
-1: Touched
-1: Tow’ring
-1: Toys
-1: Trace
-1: Traffic
-1: Trains
-1: Trammel
-1: Transport
-1: Transported
-1: Transpose
-1: Traveler
-1: Traveling
-1: Treacherous
-1: Tread
-1: Treasonous
-1: Treasure
-1: Treatise
-1: Treble
-1: Tremble
-1: Trembling
-1: Trenchèd
-1: Trifle
-1: Trifled
-1: Trifles
-1: Troops
-1: Truest
-1: Trumpet
-1: Trumpet-tongued
-1: Trumpets
-1: Try
-1: Tuesday
-1: Tugged
-1: Tumble
-1: Turk
-1: Turned
-1: Turning
-1: Turns
-1: Twain
-1: Twelve
-1: Twice
-1: Twofold
-1: Ulcerous
-1: Unaccompanied
-1: Unattended
-1: Unbattered
-1: Unbecoming
-1: Unbend
-1: Undaunted
-1: Undeeded
-1: Understand
-1: Understood
-1: Underwrit
-1: Undivulged
-1: Unfelt
-1: Unfold
-1: Unfortunate
-1: Unguarded
-1: Unity
-1: Universal
-1: Unjust
-1: Unkindness
-1: Unless
-1: Unlineal
-1: Unlock
-1: Unmake
-1: Unmanned
-1: Unmannerly
-1: Unprepared
-1: Unprovokes
-1: Unreal
-1: Unrough
-1: Unruly
-1: Unsafe
-1: Unsanctified
-1: Unseamed
-1: Unsex
-1: Unshrinking
-1: Unspeak
-1: Unsure
-1: Untie
-1: Until
-1: Untitled
-1: Unusual
-1: Unwelcome
-1: Unwiped
-1: Upbraid
-1: Uplifted
-1: Uproar
-1: Upward
-1: Urine
-1: Using
-1: Usually
-1: Usurper’s
-1: Utterance
-1: Valor’s
-1: Valued
-1: Vanquished
-1: Vap’rous
-1: Vault
-1: Vaulting
-1: Venture
-1: Verities
-1: Verity
-1: Vessel
-1: Vessels
-1: Vice
-1: Vices
-1: Victory
-1: Viewing
-1: Vile
-1: Villainies
-1: Virtue
-1: Virtues
-1: Virtuous
-1: Vision
-1: Visited
-1: Visitings
-1: Vizards
-1: Voices
-1: Volume
-1: Voluptuousness
-1: Vouched
-1: Vulnerable
-1: Vulture
-1: Wade
-1: Wakes
-1: Walls
-1: Want
-1: Wanton
-1: Warder
-1: Warders’
-1: Warrant
-1: Warranted
-1: Washing
-1: Wassail
-1: Wast
-1: Wasteful
-1: Watched
-1: Watchers
-1: Watchful
-1: Watching
-1: Water-rugs
-1: Waves
-1: Wayward
-1: Wealth
-1: Weapons
-1: Wears
-1: Weeds
-1: Weeps
-1: Weighs
-1: Weighty
-1: West
-1: Western
-1: We’d
-1: Whatever
-1: Whate’er
-1: Whereabouts
-1: Whereby
-1: Wherein
-1: Whereon
-1: Whereto
-1: Wherever
-1: Wherewith
-1: Where’s
-1: Whetstone
-1: Whey-face
-1: Whilst
-1: Whined
-1: Whispers
-1: Whisp’rings
-1: White
-1: Whoever
-1: Wholesome
-1: Whore
-1: Widows
-1: Willing
-1: Winds
-1: Wink
-1: Winter’s
-1: Wiped
-1: Wisely
-1: Wishest
-1: Witch
-1: Witchcraft
-1: Witch’s
-1: Witnessed
-1: Wives
-1: Woeful
-1: Womanly
-1: Womb
-1: Wonders
-1: Wooingly
-1: Wool
-1: Worlds
-1: Worm
-1: Worms
-1: Worn
-1: Worthiest
-1: Wracked
-1: Wrath
-1: Wrathful
-1: Wren
-1: Wrenched
-1: Write
-1: Writes
-1: Written
-1: Wrongly
-1: Wrongs
-1: Yawning
-1: Yeasty
-1: Yelled
-1: Yellow
-1: Yesterday
-1: Yesterdays
-1: Yew
-1: Yoke
-1: Youth
-1: Youths
-1: You’d
-1: ’bove
-1: ’cause
-1: ’gin
-1: ’gins
-1: ’ild
-1: ’lt
-1: ’rt
-1: ’scape
-1: ’scaped
-1: ’twas
-1: ’twixt
-1: ’twould
+instances: 639, word: 'The', work: 'Mac'},
+instances: 516, word: 'And', work: 'Mac'},
+instances: 376, word: 'To', work: 'Mac'},
+instances: 332, word: 'Of', work: 'Mac'},
+instances: 314, word: 'I', work: 'Mac'},
+instances: 229, word: 'That', work: 'Mac'},
+instances: 214, word: 'A', work: 'Mac'},
+instances: 206, word: 'You', work: 'Mac'},
+instances: 199, word: 'In', work: 'Mac'},
+instances: 192, word: 'My', work: 'Mac'},
+instances: 188, word: 'Is', work: 'Mac'},
+instances: 165, word: 'Not', work: 'Mac'},
+instances: 153, word: 'It', work: 'Mac'},
+instances: 144, word: 'His', work: 'Mac'},
+instances: 140, word: 'With', work: 'Mac'},
+instances: 139, word: 'Be', work: 'Mac'},
+instances: 122, word: 'Have', work: 'Mac'},
+instances: 121, word: 'Your', work: 'Mac'},
+instances: 120, word: 'But', work: 'Mac'},
+instances: 119, word: 'Our', work: 'Mac'},
+instances: 117, word: 'He', work: 'Mac'},
+instances: 112, word: 'Me', work: 'Mac'},
+instances: 109, word: 'For', work: 'Mac'},
+instances: 104, word: 'This', work: 'Mac'},
+instances: 104, word: 'What', work: 'Mac'},
+instances: 96, word: 'So', work: 'Mac'},
+instances: 93, word: 'Thou', work: 'Mac'},
+instances: 89, word: 'Him', work: 'Mac'},
+instances: 88, word: 'As', work: 'Mac'},
+instances: 87, word: 'We', work: 'Mac'},
+instances: 84, word: 'Do', work: 'Mac'},
+instances: 83, word: 'All', work: 'Mac'},
+instances: 80, word: 'Which', work: 'Mac'},
+instances: 74, word: 'Are', work: 'Mac'},
+instances: 73, word: 'Will', work: 'Mac'},
+instances: 69, word: 'They', work: 'Mac'},
+instances: 68, word: 'Shall', work: 'Mac'},
+instances: 67, word: 'No', work: 'Mac'},
+instances: 64, word: 'Th\'', work: 'Mac'},
+instances: 63, word: 'On', work: 'Mac'},
+instances: 63, word: 'Upon', work: 'Mac'},
+instances: 61, word: 'Thee', work: 'Mac'},
+instances: 60, word: 'Their', work: 'Mac'},
+instances: 57, word: 'From', work: 'Mac'},
+instances: 57, word: 'Yet', work: 'Mac'},
+instances: 55, word: 'Us', work: 'Mac'},
+instances: 53, word: 'Now', work: 'Mac'},
+instances: 52, word: 'At', work: 'Mac'},
+instances: 52, word: 'Come', work: 'Mac'},
+instances: 52, word: 'Hath', work: 'Mac'},
+instances: 52, word: 'Thy', work: 'Mac'},
+instances: 51, word: 'Good', work: 'Mac'},
+instances: 51, word: 'More', work: 'Mac'},
+instances: 50, word: 'Them', work: 'Mac'},
+instances: 48, word: 'By', work: 'Mac'},
+instances: 48, word: 'Was', work: 'Mac'},
+instances: 47, word: 'Would', work: 'Mac'},
+instances: 45, word: 'If', work: 'Mac'},
+instances: 45, word: 'Time', work: 'Mac'},
+instances: 45, word: '\'t', work: 'Mac'},
+instances: 42, word: 'Her', work: 'Mac'},
+instances: 42, word: 'Macbeth', work: 'Mac'},
+instances: 42, word: 'Who', work: 'Mac'},
+instances: 41, word: 'Did', work: 'Mac'},
+instances: 41, word: 'Should', work: 'Mac'},
+instances: 40, word: 'Like', work: 'Mac'},
+instances: 40, word: 'Say', work: 'Mac'},
+instances: 40, word: 'Were', work: 'Mac'},
+instances: 40, word: 'When', work: 'Mac'},
+instances: 39, word: 'Make', work: 'Mac'},
+instances: 39, word: 'There', work: 'Mac'},
+instances: 38, word: 'Done', work: 'Mac'},
+instances: 37, word: 'Here', work: 'Mac'},
+instances: 37, word: '\'tis', work: 'Mac'},
+instances: 36, word: 'Or', work: 'Mac'},
+instances: 35, word: 'Fear', work: 'Mac'},
+instances: 35, word: 'I\'ll', work: 'Mac'},
+instances: 35, word: 'Let', work: 'Mac'},
+instances: 35, word: 'Must', work: 'Mac'},
+instances: 35, word: 'Well', work: 'Mac'},
+instances: 35, word: 'Where', work: 'Mac'},
+instances: 34, word: 'Had', work: 'Mac'},
+instances: 34, word: 'Know', work: 'Mac'},
+instances: 34, word: 'Lord', work: 'Mac'},
+instances: 34, word: 'Then', work: 'Mac'},
+instances: 33, word: 'How', work: 'Mac'},
+instances: 32, word: 'Why', work: 'Mac'},
+instances: 31, word: 'Great', work: 'Mac'},
+instances: 31, word: 'King', work: 'Mac'},
+instances: 31, word: 'May', work: 'Mac'},
+instances: 31, word: 'See', work: 'Mac'},
+instances: 30, word: 'Am', work: 'Mac'},
+instances: 30, word: 'Speak', work: 'Mac'},
+instances: 29, word: 'Man', work: 'Mac'},
+instances: 29, word: 'Sir', work: 'Mac'},
+instances: 29, word: 'Than', work: 'Mac'},
+instances: 28, word: 'One', work: 'Mac'},
+instances: 27, word: 'An', work: 'Mac'},
+instances: 26, word: 'Go', work: 'Mac'},
+instances: 26, word: 'Mine', work: 'Mac'},
+instances: 26, word: 'Out', work: 'Mac'},
+instances: 26, word: 'Sleep', work: 'Mac'},
+instances: 26, word: 'Up', work: 'Mac'},
+instances: 25, word: 'Thane', work: 'Mac'},
+instances: 25, word: 'Too', work: 'Mac'},
+instances: 24, word: 'Can', work: 'Mac'},
+instances: 24, word: 'Does', work: 'Mac'},
+instances: 24, word: 'Give', work: 'Mac'},
+instances: 24, word: 'Most', work: 'Mac'},
+instances: 24, word: 'Nor', work: 'Mac'},
+instances: 24, word: 'O', work: 'Mac'},
+instances: 24, word: 'Such', work: 'Mac'},
+instances: 24, word: 'Those', work: 'Mac'},
+instances: 23, word: 'Blood', work: 'Mac'},
+instances: 23, word: 'Look', work: 'Mac'},
+instances: 23, word: 'These', work: 'Mac'},
+instances: 23, word: 'Things', work: 'Mac'},
+instances: 22, word: 'Banquo', work: 'Mac'},
+instances: 22, word: 'Been', work: 'Mac'},
+instances: 22, word: 'Heart', work: 'Mac'},
+instances: 22, word: 'Night', work: 'Mac'},
+instances: 21, word: 'Again', work: 'Mac'},
+instances: 21, word: 'Before', work: 'Mac'},
+instances: 21, word: 'Cawdor', work: 'Mac'},
+instances: 21, word: 'Hand', work: 'Mac'},
+instances: 20, word: 'Cannot', work: 'Mac'},
+instances: 20, word: 'Death', work: 'Mac'},
+instances: 20, word: 'Nature', work: 'Mac'},
+instances: 20, word: 'Till', work: 'Mac'},
+instances: 19, word: 'Art', work: 'Mac'},
+instances: 19, word: 'Has', work: 'Mac'},
+instances: 19, word: 'Love', work: 'Mac'},
+instances: 19, word: 'She', work: 'Mac'},
+instances: 19, word: 'Still', work: 'Mac'},
+instances: 18, word: 'Both', work: 'Mac'},
+instances: 18, word: 'Day', work: 'Mac'},
+instances: 18, word: 'Hear', work: 'Mac'},
+instances: 18, word: 'Life', work: 'Mac'},
+instances: 18, word: 'Take', work: 'Mac'},
+instances: 18, word: 'Way', work: 'Mac'},
+instances: 17, word: 'Ay', work: 'Mac'},
+instances: 17, word: 'I\'', work: 'Mac'},
+instances: 17, word: 'Own', work: 'Mac'},
+instances: 17, word: 'Show', work: 'Mac'},
+instances: 17, word: 'Some', work: 'Mac'},
+instances: 17, word: 'Though', work: 'Mac'},
+instances: 17, word: 'Worthy', work: 'Mac'},
+instances: 16, word: 'Down', work: 'Mac'},
+instances: 16, word: 'Hail', work: 'Mac'},
+instances: 16, word: 'Macduff', work: 'Mac'},
+instances: 16, word: 'Men', work: 'Mac'},
+instances: 16, word: 'Nothing', work: 'Mac'},
+instances: 16, word: 'Poor', work: 'Mac'},
+instances: 16, word: 'Put', work: 'Mac'},
+instances: 16, word: 'Strange', work: 'Mac'},
+instances: 15, word: 'Dead', work: 'Mac'},
+instances: 15, word: 'Deed', work: 'Mac'},
+instances: 15, word: 'Heaven', work: 'Mac'},
+instances: 15, word: 'O\'', work: 'Mac'},
+instances: 14, word: 'Against', work: 'Mac'},
+instances: 14, word: 'Air', work: 'Mac'},
+instances: 14, word: 'Bloody', work: 'Mac'},
+instances: 14, word: 'Could', work: 'Mac'},
+instances: 14, word: 'God', work: 'Mac'},
+instances: 14, word: 'Name', work: 'Mac'},
+instances: 14, word: 'Other', work: 'Mac'},
+instances: 14, word: 'There\'s', work: 'Mac'},
+instances: 14, word: 'Thought', work: 'Mac'},
+instances: 14, word: 'Whose', work: 'Mac'},
+instances: 14, word: 'Without', work: 'Mac'},
+instances: 13, word: 'Comes', work: 'Mac'},
+instances: 13, word: 'Dare', work: 'Mac'},
+instances: 13, word: 'Duncan', work: 'Mac'},
+instances: 13, word: 'Each', work: 'Mac'},
+instances: 13, word: 'Every', work: 'Mac'},
+instances: 13, word: 'Father', work: 'Mac'},
+instances: 13, word: 'Made', work: 'Mac'},
+instances: 13, word: 'Much', work: 'Mac'},
+instances: 13, word: 'Never', work: 'Mac'},
+instances: 13, word: 'Noble', work: 'Mac'},
+instances: 13, word: 'None', work: 'Mac'},
+instances: 13, word: 'Pray', work: 'Mac'},
+instances: 13, word: 'Sword', work: 'Mac'},
+instances: 13, word: 'Think', work: 'Mac'},
+instances: 13, word: 'Thus', work: 'Mac'},
+instances: 13, word: 'Wife', work: 'Mac'},
+instances: 12, word: 'About', work: 'Mac'},
+instances: 12, word: 'Ere', work: 'Mac'},
+instances: 12, word: 'Fly', work: 'Mac'},
+instances: 12, word: 'Hands', work: 'Mac'},
+instances: 12, word: 'Into', work: 'Mac'},
+instances: 12, word: 'Keep', work: 'Mac'},
+instances: 12, word: 'Leave', work: 'Mac'},
+instances: 12, word: 'New', work: 'Mac'},
+instances: 12, word: 'Only', work: 'Mac'},
+instances: 12, word: 'Scotland', work: 'Mac'},
+instances: 12, word: 'What\'s', work: 'Mac'},
+instances: 11, word: 'Bear', work: 'Mac'},
+instances: 11, word: 'Bed', work: 'Mac'},
+instances: 11, word: 'Double', work: 'Mac'},
+instances: 11, word: 'Else', work: 'Mac'},
+instances: 11, word: 'Even', work: 'Mac'},
+instances: 11, word: 'Eye', work: 'Mac'},
+instances: 11, word: 'Eyes', work: 'Mac'},
+instances: 11, word: 'Find', work: 'Mac'},
+instances: 11, word: 'First', work: 'Mac'},
+instances: 11, word: 'Hence', work: 'Mac'},
+instances: 11, word: 'Hold', work: 'Mac'},
+instances: 11, word: 'Knock', work: 'Mac'},
+instances: 11, word: 'Myself', work: 'Mac'},
+instances: 11, word: 'Once', work: 'Mac'},
+instances: 11, word: 'Peace', work: 'Mac'},
+instances: 11, word: 'Power', work: 'Mac'},
+instances: 11, word: 'Stand', work: 'Mac'},
+instances: 11, word: 'Very', work: 'Mac'},
+instances: 11, word: 'Welcome', work: 'Mac'},
+instances: 11, word: 'Whom', work: 'Mac'},
+instances: 11, word: 'Wood', work: 'Mac'},
+instances: 10, word: 'Being', work: 'Mac'},
+instances: 10, word: 'Birnam', work: 'Mac'},
+instances: 10, word: 'Call', work: 'Mac'},
+instances: 10, word: 'Enough', work: 'Mac'},
+instances: 10, word: 'Face', work: 'Mac'},
+instances: 10, word: 'Fight', work: 'Mac'},
+instances: 10, word: 'Friends', work: 'Mac'},
+instances: 10, word: 'Grace', work: 'Mac'},
+instances: 10, word: 'Honor', work: 'Mac'},
+instances: 10, word: 'Hour', work: 'Mac'},
+instances: 10, word: 'Known', work: 'Mac'},
+instances: 10, word: 'Live', work: 'Mac'},
+instances: 10, word: 'Lives', work: 'Mac'},
+instances: 10, word: 'Place', work: 'Mac'},
+instances: 10, word: 'Tell', work: 'Mac'},
+instances: 10, word: 'Thine', work: 'Mac'},
+instances: 10, word: 'Thoughts', work: 'Mac'},
+instances: 10, word: 'Tonight', work: 'Mac'},
+instances: 10, word: 'Two', work: 'Mac'},
+instances: 10, word: 'Within', work: 'Mac'},
+instances: 10, word: 'Woman', work: 'Mac'},
+instances: 10, word: 'Words', work: 'Mac'},
+instances: 9, word: 'Away', work: 'Mac'},
+instances: 9, word: 'Bring', work: 'Mac'},
+instances: 9, word: 'Business', work: 'Mac'},
+instances: 9, word: 'Dunsinane', work: 'Mac'},
+instances: 9, word: 'False', work: 'Mac'},
+instances: 9, word: 'Fleance', work: 'Mac'},
+instances: 9, word: 'Full', work: 'Mac'},
+instances: 9, word: 'Further', work: 'Mac'},
+instances: 9, word: 'Get', work: 'Mac'},
+instances: 9, word: 'Gone', work: 'Mac'},
+instances: 9, word: 'Hope', work: 'Mac'},
+instances: 9, word: 'Itself', work: 'Mac'},
+instances: 9, word: 'Kings', work: 'Mac'},
+instances: 9, word: 'Lie', work: 'Mac'},
+instances: 9, word: 'Light', work: 'Mac'},
+instances: 9, word: 'Many', work: 'Mac'},
+instances: 9, word: 'Mind', work: 'Mac'},
+instances: 9, word: 'Report', work: 'Mac'},
+instances: 9, word: 'Rest', work: 'Mac'},
+instances: 9, word: 'Royal', work: 'Mac'},
+instances: 9, word: 'Sight', work: 'Mac'},
+instances: 9, word: 'Son', work: 'Mac'},
+instances: 9, word: 'Thanks', work: 'Mac'},
+instances: 9, word: 'That\'s', work: 'Mac'},
+instances: 9, word: 'Tongue', work: 'Mac'},
+instances: 9, word: 'Tyrant', work: 'Mac'},
+instances: 9, word: 'We\'ll', work: 'Mac'},
+instances: 8, word: 'Almost', work: 'Mac'},
+instances: 8, word: 'Best', work: 'Mac'},
+instances: 8, word: 'Better', work: 'Mac'},
+instances: 8, word: 'Born', work: 'Mac'},
+instances: 8, word: 'Cauldron', work: 'Mac'},
+instances: 8, word: 'Cry', work: 'Mac'},
+instances: 8, word: 'Drink', work: 'Mac'},
+instances: 8, word: 'England', work: 'Mac'},
+instances: 8, word: 'Fears', work: 'Mac'},
+instances: 8, word: 'Fell', work: 'Mac'},
+instances: 8, word: 'Forth', work: 'Mac'},
+instances: 8, word: 'Given', work: 'Mac'},
+instances: 8, word: 'Glamis', work: 'Mac'},
+instances: 8, word: 'Goes', work: 'Mac'},
+instances: 8, word: 'Hang', work: 'Mac'},
+instances: 8, word: 'Heard', work: 'Mac'},
+instances: 8, word: 'Hell', work: 'Mac'},
+instances: 8, word: 'Here\'s', work: 'Mac'},
+instances: 8, word: 'Himself', work: 'Mac'},
+instances: 8, word: 'Last', work: 'Mac'},
+instances: 8, word: 'Less', work: 'Mac'},
+instances: 8, word: 'Lies', work: 'Mac'},
+instances: 8, word: 'Meet', work: 'Mac'},
+instances: 8, word: 'Murder', work: 'Mac'},
+instances: 8, word: 'Off', work: 'Mac'},
+instances: 8, word: 'Present', work: 'Mac'},
+instances: 8, word: 'Rather', work: 'Mac'},
+instances: 8, word: 'Sorrow', work: 'Mac'},
+instances: 8, word: 'Tomorrow', work: 'Mac'},
+instances: 8, word: 'True', work: 'Mac'},
+instances: 8, word: 'Truth', work: 'Mac'},
+instances: 8, word: 'Under', work: 'Mac'},
+instances: 8, word: 'Wisdom', work: 'Mac'},
+instances: 7, word: 'Anon', work: 'Mac'},
+instances: 7, word: 'Bid', work: 'Mac'},
+instances: 7, word: 'Black', work: 'Mac'},
+instances: 7, word: 'Breath', work: 'Mac'},
+instances: 7, word: 'Children', work: 'Mac'},
+instances: 7, word: 'Daggers', work: 'Mac'},
+instances: 7, word: 'Desire', work: 'Mac'},
+instances: 7, word: 'Devil', work: 'Mac'},
+instances: 7, word: 'Died', work: 'Mac'},
+instances: 7, word: 'Earth', work: 'Mac'},
+instances: 7, word: 'Ever', work: 'Mac'},
+instances: 7, word: 'Fled', work: 'Mac'},
+instances: 7, word: 'Fortune', work: 'Mac'},
+instances: 7, word: 'Gracious', work: 'Mac'},
+instances: 7, word: 'Hark', work: 'Mac'},
+instances: 7, word: 'Head', work: 'Mac'},
+instances: 7, word: 'He\'s', work: 'Mac'},
+instances: 7, word: 'Knocking', work: 'Mac'},
+instances: 7, word: 'Knows', work: 'Mac'},
+instances: 7, word: 'Let\'s', work: 'Mac'},
+instances: 7, word: 'Malcolm', work: 'Mac'},
+instances: 7, word: 'Might', work: 'Mac'},
+instances: 7, word: 'Please', work: 'Mac'},
+instances: 7, word: 'Seem', work: 'Mac'},
+instances: 7, word: 'Set', work: 'Mac'},
+instances: 7, word: 'Shake', work: 'Mac'},
+instances: 7, word: 'Sisters', work: 'Mac'},
+instances: 7, word: 'Sit', work: 'Mac'},
+instances: 7, word: 'State', work: 'Mac'},
+instances: 7, word: 'Three', work: 'Mac'},
+instances: 7, word: 'Throw', work: 'Mac'},
+instances: 7, word: 'Trouble', work: 'Mac'},
+instances: 7, word: 'While', work: 'Mac'},
+instances: 7, word: 'Who\'s', work: 'Mac'},
+instances: 6, word: 'After', work: 'Mac'},
+instances: 6, word: 'Any', work: 'Mac'},
+instances: 6, word: 'Back', work: 'Mac'},
+instances: 6, word: 'Came', work: 'Mac'},
+instances: 6, word: 'Chamber', work: 'Mac'},
+instances: 6, word: 'Cold', work: 'Mac'},
+instances: 6, word: 'Coming', work: 'Mac'},
+instances: 6, word: 'Command', work: 'Mac'},
+instances: 6, word: 'Country', work: 'Mac'},
+instances: 6, word: 'Cousin', work: 'Mac'},
+instances: 6, word: 'Crown', work: 'Mac'},
+instances: 6, word: 'Deep', work: 'Mac'},
+instances: 6, word: 'Doth', work: 'Mac'},
+instances: 6, word: 'English', work: 'Mac'},
+instances: 6, word: 'Fair', work: 'Mac'},
+instances: 6, word: 'Fall', work: 'Mac'},
+instances: 6, word: 'Fate', work: 'Mac'},
+instances: 6, word: 'Hast', work: 'Mac'},
+instances: 6, word: 'Help', work: 'Mac'},
+instances: 6, word: 'Highness', work: 'Mac'},
+instances: 6, word: 'House', work: 'Mac'},
+instances: 6, word: 'Issue', work: 'Mac'},
+instances: 6, word: 'Late', work: 'Mac'},
+instances: 6, word: 'Left', work: 'Mac'},
+instances: 6, word: 'Little', work: 'Mac'},
+instances: 6, word: 'Lost', work: 'Mac'},
+instances: 6, word: 'Makes', work: 'Mac'},
+instances: 6, word: 'Mortal', work: 'Mac'},
+instances: 6, word: 'Near', work: 'Mac'},
+instances: 6, word: 'Old', work: 'Mac'},
+instances: 6, word: 'Receive', work: 'Mac'},
+instances: 6, word: 'Rise', work: 'Mac'},
+instances: 6, word: 'Round', work: 'Mac'},
+instances: 6, word: 'Said', work: 'Mac'},
+instances: 6, word: 'Seen', work: 'Mac'},
+instances: 6, word: 'Send', work: 'Mac'},
+instances: 6, word: 'Shalt', work: 'Mac'},
+instances: 6, word: 'Since', work: 'Mac'},
+instances: 6, word: 'Themselves', work: 'Mac'},
+instances: 6, word: 'Thence', work: 'Mac'},
+instances: 6, word: 'Through', work: 'Mac'},
+instances: 6, word: 'Together', work: 'Mac'},
+instances: 6, word: 'Tyrant\'s', work: 'Mac'},
+instances: 6, word: 'Use', work: 'Mac'},
+instances: 6, word: 'Weïrd', work: 'Mac'},
+instances: 6, word: 'Whence', work: 'Mac'},
+instances: 6, word: 'Word', work: 'Mac'},
+instances: 6, word: 'World', work: 'Mac'},
+instances: 6, word: 'Wouldst', work: 'Mac'},
+instances: 6, word: 'Young', work: 'Mac'},
+instances: 6, word: '\'s', work: 'Mac'},
+instances: 5, word: 'Afraid', work: 'Mac'},
+instances: 5, word: 'Amen', work: 'Mac'},
+instances: 5, word: 'Another', work: 'Mac'},
+instances: 5, word: 'Answer', work: 'Mac'},
+instances: 5, word: 'Attend', work: 'Mac'},
+instances: 5, word: 'Banquo\'s', work: 'Mac'},
+instances: 5, word: 'Bell', work: 'Mac'},
+instances: 5, word: 'Borne', work: 'Mac'},
+instances: 5, word: 'Called', work: 'Mac'},
+instances: 5, word: 'Care', work: 'Mac'},
+instances: 5, word: 'Certain', work: 'Mac'},
+instances: 5, word: 'Chance', work: 'Mac'},
+instances: 5, word: 'Comfort', work: 'Mac'},
+instances: 5, word: 'Dark', work: 'Mac'},
+instances: 5, word: 'Dearest', work: 'Mac'},
+instances: 5, word: 'Die', work: 'Mac'},
+instances: 5, word: 'Doctor', work: 'Mac'},
+instances: 5, word: 'Donalbain', work: 'Mac'},
+instances: 5, word: 'Duties', work: 'Mac'},
+instances: 5, word: 'Ear', work: 'Mac'},
+instances: 5, word: 'Faces', work: 'Mac'},
+instances: 5, word: 'Faith', work: 'Mac'},
+instances: 5, word: 'Far', work: 'Mac'},
+instances: 5, word: 'Feast', work: 'Mac'},
+instances: 5, word: 'Fife', work: 'Mac'},
+instances: 5, word: 'Fill', work: 'Mac'},
+instances: 5, word: 'Fire', work: 'Mac'},
+instances: 5, word: 'Former', work: 'Mac'},
+instances: 5, word: 'Foul', work: 'Mac'},
+instances: 5, word: 'Free', work: 'Mac'},
+instances: 5, word: 'Friend', work: 'Mac'},
+instances: 5, word: 'Gentle', work: 'Mac'},
+instances: 5, word: 'Grave', work: 'Mac'},
+instances: 5, word: 'Harm', work: 'Mac'},
+instances: 5, word: 'Health', work: 'Mac'},
+instances: 5, word: 'Hither', work: 'Mac'},
+instances: 5, word: 'Home', work: 'Mac'},
+instances: 5, word: 'Honest', work: 'Mac'},
+instances: 5, word: 'Horror', work: 'Mac'},
+instances: 5, word: 'Horses', work: 'Mac'},
+instances: 5, word: 'Hostess', work: 'Mac'},
+instances: 5, word: 'Indeed', work: 'Mac'},
+instances: 5, word: 'Innocent', work: 'Mac'},
+instances: 5, word: 'Killed', work: 'Mac'},
+instances: 5, word: 'Lay', work: 'Mac'},
+instances: 5, word: 'Majesty', work: 'Mac'},
+instances: 5, word: 'Master', work: 'Mac'},
+instances: 5, word: 'Means', work: 'Mac'},
+instances: 5, word: 'Mother', work: 'Mac'},
+instances: 5, word: 'Murdered', work: 'Mac'},
+instances: 5, word: 'Noise', work: 'Mac'},
+instances: 5, word: 'Part', work: 'Mac'},
+instances: 5, word: 'Pleasure', work: 'Mac'},
+instances: 5, word: 'Point', work: 'Mac'},
+instances: 5, word: 'Purpose', work: 'Mac'},
+instances: 5, word: 'Reason', work: 'Mac'},
+instances: 5, word: 'Return', work: 'Mac'},
+instances: 5, word: 'Root', work: 'Mac'},
+instances: 5, word: 'Safe', work: 'Mac'},
+instances: 5, word: 'Saw', work: 'Mac'},
+instances: 5, word: 'Seems', work: 'Mac'},
+instances: 5, word: 'Soldier', work: 'Mac'},
+instances: 5, word: 'Sound', work: 'Mac'},
+instances: 5, word: 'Stands', work: 'Mac'},
+instances: 5, word: 'Stay', work: 'Mac'},
+instances: 5, word: 'Strike', work: 'Mac'},
+instances: 5, word: 'Strong', work: 'Mac'},
+instances: 5, word: 'Sure', work: 'Mac'},
+instances: 5, word: 'Takes', work: 'Mac'},
+instances: 5, word: 'Ten', work: 'Mac'},
+instances: 5, word: 'Terrible', work: 'Mac'},
+instances: 5, word: 'Thanes', work: 'Mac'},
+instances: 5, word: 'Thing', work: 'Mac'},
+instances: 5, word: 'Thither', work: 'Mac'},
+instances: 5, word: 'Thrice', work: 'Mac'},
+instances: 5, word: 'Thyself', work: 'Mac'},
+instances: 5, word: 'Title', work: 'Mac'},
+instances: 5, word: 'Toward', work: 'Mac'},
+instances: 5, word: 'Traitor', work: 'Mac'},
+instances: 5, word: 'Wear', work: 'Mac'},
+instances: 5, word: 'Withal', work: 'Mac'},
+instances: 5, word: 'Worst', work: 'Mac'},
+instances: 5, word: '\'em', work: 'Mac'},
+instances: 4, word: 'Act', work: 'Mac'},
+instances: 4, word: 'Alas', work: 'Mac'},
+instances: 4, word: 'All\'s', work: 'Mac'},
+instances: 4, word: 'Already', work: 'Mac'},
+instances: 4, word: 'Approach', work: 'Mac'},
+instances: 4, word: 'Arm', work: 'Mac'},
+instances: 4, word: 'Become', work: 'Mac'},
+instances: 4, word: 'Behold', work: 'Mac'},
+instances: 4, word: 'Bleed', work: 'Mac'},
+instances: 4, word: 'Blow', work: 'Mac'},
+instances: 4, word: 'Bold', work: 'Mac'},
+instances: 4, word: 'Bosom', work: 'Mac'},
+instances: 4, word: 'Brain', work: 'Mac'},
+instances: 4, word: 'Break', work: 'Mac'},
+instances: 4, word: 'Breed', work: 'Mac'},
+instances: 4, word: 'Broke', work: 'Mac'},
+instances: 4, word: 'Bubble', work: 'Mac'},
+instances: 4, word: 'Burn', work: 'Mac'},
+instances: 4, word: 'Castle', work: 'Mac'},
+instances: 4, word: 'Cause', work: 'Mac'},
+instances: 4, word: 'Charm', work: 'Mac'},
+instances: 4, word: 'Cheer', work: 'Mac'},
+instances: 4, word: 'Clear', work: 'Mac'},
+instances: 4, word: 'Country\'s', work: 'Mac'},
+instances: 4, word: 'Court', work: 'Mac'},
+instances: 4, word: 'Cried', work: 'Mac'},
+instances: 4, word: 'Cries', work: 'Mac'},
+instances: 4, word: 'Cruel', work: 'Mac'},
+instances: 4, word: 'Damned', work: 'Mac'},
+instances: 4, word: 'Days', work: 'Mac'},
+instances: 4, word: 'Day\'s', work: 'Mac'},
+instances: 4, word: 'Dear', work: 'Mac'},
+instances: 4, word: 'Didst', work: 'Mac'},
+instances: 4, word: 'Doubt', work: 'Mac'},
+instances: 4, word: 'Due', work: 'Mac'},
+instances: 4, word: 'Enemy', work: 'Mac'},
+instances: 4, word: 'Fail', work: 'Mac'},
+instances: 4, word: 'Farewell', work: 'Mac'},
+instances: 4, word: 'Fatal', work: 'Mac'},
+instances: 4, word: 'Feel', work: 'Mac'},
+instances: 4, word: 'Fit', work: 'Mac'},
+instances: 4, word: 'Flight', work: 'Mac'},
+instances: 4, word: 'Gate', work: 'Mac'},
+instances: 4, word: 'General', work: 'Mac'},
+instances: 4, word: 'Gentlemen', work: 'Mac'},
+instances: 4, word: 'Gives', work: 'Mac'},
+instances: 4, word: 'Golden', work: 'Mac'},
+instances: 4, word: 'Grief', work: 'Mac'},
+instances: 4, word: 'Heavy', work: 'Mac'},
+instances: 4, word: 'Hereafter', work: 'Mac'},
+instances: 4, word: 'Hide', work: 'Mac'},
+instances: 4, word: 'Honors', work: 'Mac'},
+instances: 4, word: 'Horse', work: 'Mac'},
+instances: 4, word: 'Host', work: 'Mac'},
+instances: 4, word: 'Husband', work: 'Mac'},
+instances: 4, word: 'Keeps', work: 'Mac'},
+instances: 4, word: 'Kind', work: 'Mac'},
+instances: 4, word: 'Labor', work: 'Mac'},
+instances: 4, word: 'Laugh', work: 'Mac'},
+instances: 4, word: 'Line', work: 'Mac'},
+instances: 4, word: 'Lived', work: 'Mac'},
+instances: 4, word: 'Loves', work: 'Mac'},
+instances: 4, word: 'Man\'s', work: 'Mac'},
+instances: 4, word: 'Mark', work: 'Mac'},
+instances: 4, word: 'Mean', work: 'Mac'},
+instances: 4, word: 'Move', work: 'Mac'},
+instances: 4, word: 'Nature\'s', work: 'Mac'},
+instances: 4, word: 'News', work: 'Mac'},
+instances: 4, word: 'Nights', work: 'Mac'},
+instances: 4, word: 'Night\'s', work: 'Mac'},
+instances: 4, word: 'Nine', work: 'Mac'},
+instances: 4, word: 'Note', work: 'Mac'},
+instances: 4, word: 'Often', work: 'Mac'},
+instances: 4, word: 'Owe', work: 'Mac'},
+instances: 4, word: 'Owl', work: 'Mac'},
+instances: 4, word: 'O\'er', work: 'Mac'},
+instances: 4, word: 'Pains', work: 'Mac'},
+instances: 4, word: 'Pale', work: 'Mac'},
+instances: 4, word: 'Pay', work: 'Mac'},
+instances: 4, word: 'People', work: 'Mac'},
+instances: 4, word: 'Perfect', work: 'Mac'},
+instances: 4, word: 'Perform', work: 'Mac'},
+instances: 4, word: 'Play', work: 'Mac'},
+instances: 4, word: 'Pour', work: 'Mac'},
+instances: 4, word: 'Prithee', work: 'Mac'},
+instances: 4, word: 'Promised', work: 'Mac'},
+instances: 4, word: 'Pronounce', work: 'Mac'},
+instances: 4, word: 'Question', work: 'Mac'},
+instances: 4, word: 'Quickly', work: 'Mac'},
+instances: 4, word: 'Remember', work: 'Mac'},
+instances: 4, word: 'Ring', work: 'Mac'},
+instances: 4, word: 'Scorn', work: 'Mac'},
+instances: 4, word: 'Second', work: 'Mac'},
+instances: 4, word: 'Senses', work: 'Mac'},
+instances: 4, word: 'Sent', work: 'Mac'},
+instances: 4, word: 'Seyton', work: 'Mac'},
+instances: 4, word: 'Shame', work: 'Mac'},
+instances: 4, word: 'Siward', work: 'Mac'},
+instances: 4, word: 'Soldiers', work: 'Mac'},
+instances: 4, word: 'Something', work: 'Mac'},
+instances: 4, word: 'Sons', work: 'Mac'},
+instances: 4, word: 'Soul', work: 'Mac'},
+instances: 4, word: 'Speech', work: 'Mac'},
+instances: 4, word: 'Spend', work: 'Mac'},
+instances: 4, word: 'Spirits', work: 'Mac'},
+instances: 4, word: 'Spoke', work: 'Mac'},
+instances: 4, word: 'Start', work: 'Mac'},
+instances: 4, word: 'Stood', work: 'Mac'},
+instances: 4, word: 'Success', work: 'Mac'},
+instances: 4, word: 'Sun', work: 'Mac'},
+instances: 4, word: 'Sweet', work: 'Mac'},
+instances: 4, word: 'Swift', work: 'Mac'},
+instances: 4, word: 'Thank', work: 'Mac'},
+instances: 4, word: 'Thick', work: 'Mac'},
+instances: 4, word: 'Thousand', work: 'Mac'},
+instances: 4, word: 'Throne', work: 'Mac'},
+instances: 4, word: 'Towards', work: 'Mac'},
+instances: 4, word: 'Trust', work: 'Mac'},
+instances: 4, word: 'Valiant', work: 'Mac'},
+instances: 4, word: 'Valor', work: 'Mac'},
+instances: 4, word: 'Villain', work: 'Mac'},
+instances: 4, word: 'Violent', work: 'Mac'},
+instances: 4, word: 'Walk', work: 'Mac'},
+instances: 4, word: 'War', work: 'Mac'},
+instances: 4, word: 'Water', work: 'Mac'},
+instances: 4, word: 'Went', work: 'Mac'},
+instances: 4, word: 'Whiles', work: 'Mac'},
+instances: 4, word: 'Whole', work: 'Mac'},
+instances: 4, word: 'Win', work: 'Mac'},
+instances: 4, word: 'Wind', work: 'Mac'},
+instances: 4, word: 'Women', work: 'Mac'},
+instances: 4, word: 'Work', work: 'Mac'},
+instances: 4, word: 'Worse', work: 'Mac'},
+instances: 4, word: 'Worth', work: 'Mac'},
+instances: 4, word: 'Wrought', work: 'Mac'},
+instances: 4, word: 'Yield', work: 'Mac'},
+instances: 4, word: '\'gainst', work: 'Mac'},
+instances: 4, word: '\'twere', work: 'Mac'},
+instances: 3, word: 'Above', work: 'Mac'},
+instances: 3, word: 'Absolute', work: 'Mac'},
+instances: 3, word: 'Afeard', work: 'Mac'},
+instances: 3, word: 'Aid', work: 'Mac'},
+instances: 3, word: 'Alive', work: 'Mac'},
+instances: 3, word: 'Alone', work: 'Mac'},
+instances: 3, word: 'Ambition', work: 'Mac'},
+instances: 3, word: 'Applaud', work: 'Mac'},
+instances: 3, word: 'Armor', work: 'Mac'},
+instances: 3, word: 'Awake', work: 'Mac'},
+instances: 3, word: 'Babe', work: 'Mac'},
+instances: 3, word: 'Babes', work: 'Mac'},
+instances: 3, word: 'Bade', work: 'Mac'},
+instances: 3, word: 'Began', work: 'Mac'},
+instances: 3, word: 'Believe', work: 'Mac'},
+instances: 3, word: 'Besides', work: 'Mac'},
+instances: 3, word: 'Bird', work: 'Mac'},
+instances: 3, word: 'Birds', work: 'Mac'},
+instances: 3, word: 'Bless', work: 'Mac'},
+instances: 3, word: 'Blessing', work: 'Mac'},
+instances: 3, word: 'Body', work: 'Mac'},
+instances: 3, word: 'Boil', work: 'Mac'},
+instances: 3, word: 'Bones', work: 'Mac'},
+instances: 3, word: 'Boy', work: 'Mac'},
+instances: 3, word: 'Broad', work: 'Mac'},
+instances: 3, word: 'Calls', work: 'Mac'},
+instances: 3, word: 'Canst', work: 'Mac'},
+instances: 3, word: 'Cast', work: 'Mac'},
+instances: 3, word: 'Catch', work: 'Mac'},
+instances: 3, word: 'Charge', work: 'Mac'},
+instances: 3, word: 'Close', work: 'Mac'},
+instances: 3, word: 'Contend', work: 'Mac'},
+instances: 3, word: 'Courage', work: 'Mac'},
+instances: 3, word: 'Cousins', work: 'Mac'},
+instances: 3, word: 'Cure', work: 'Mac'},
+instances: 3, word: 'Cut', work: 'Mac'},
+instances: 3, word: 'Dagger', work: 'Mac'},
+instances: 3, word: 'Dares', work: 'Mac'},
+instances: 3, word: 'Deeds', work: 'Mac'},
+instances: 3, word: 'Deny', work: 'Mac'},
+instances: 3, word: 'Disease', work: 'Mac'},
+instances: 3, word: 'Dismal', work: 'Mac'},
+instances: 3, word: 'Door', work: 'Mac'},
+instances: 3, word: 'Dost', work: 'Mac'},
+instances: 3, word: 'Draw', work: 'Mac'},
+instances: 3, word: 'Drop', work: 'Mac'},
+instances: 3, word: 'Duncan\'s', work: 'Mac'},
+instances: 3, word: 'Easy', work: 'Mac'},
+instances: 3, word: 'Eat', work: 'Mac'},
+instances: 3, word: 'End', work: 'Mac'},
+instances: 3, word: 'Equivocator', work: 'Mac'},
+instances: 3, word: 'Execution', work: 'Mac'},
+instances: 3, word: 'Fare', work: 'Mac'},
+instances: 3, word: 'Fast', work: 'Mac'},
+instances: 3, word: 'Father\'s', work: 'Mac'},
+instances: 3, word: 'Fie', work: 'Mac'},
+instances: 3, word: 'File', work: 'Mac'},
+instances: 3, word: 'Filthy', work: 'Mac'},
+instances: 3, word: 'Fool', work: 'Mac'},
+instances: 3, word: 'Fools', work: 'Mac'},
+instances: 3, word: 'Forever', work: 'Mac'},
+instances: 3, word: 'Found', work: 'Mac'},
+instances: 3, word: 'Front', work: 'Mac'},
+instances: 3, word: 'Fury', work: 'Mac'},
+instances: 3, word: 'Gashes', work: 'Mac'},
+instances: 3, word: 'Gentleman', work: 'Mac'},
+instances: 3, word: 'God\'s', work: 'Mac'},
+instances: 3, word: 'Graces', work: 'Mac'},
+instances: 3, word: 'Greater', work: 'Mac'},
+instances: 3, word: 'Greatness', work: 'Mac'},
+instances: 3, word: 'Grooms', work: 'Mac'},
+instances: 3, word: 'Grows', work: 'Mac'},
+instances: 3, word: 'Guest', work: 'Mac'},
+instances: 3, word: 'Hair', work: 'Mac'},
+instances: 3, word: 'Hanged', work: 'Mac'},
+instances: 3, word: 'Happy', work: 'Mac'},
+instances: 3, word: 'Hard', work: 'Mac'},
+instances: 3, word: 'Haste', work: 'Mac'},
+instances: 3, word: 'Having', work: 'Mac'},
+instances: 3, word: 'Hearts', work: 'Mac'},
+instances: 3, word: 'High', work: 'Mac'},
+instances: 3, word: 'Highness\'', work: 'Mac'},
+instances: 3, word: 'Ho', work: 'Mac'},
+instances: 3, word: 'Holy', work: 'Mac'},
+instances: 3, word: 'Hopes', work: 'Mac'},
+instances: 3, word: 'Horrible', work: 'Mac'},
+instances: 3, word: 'Horrid', work: 'Mac'},
+instances: 3, word: 'Ill', work: 'Mac'},
+instances: 3, word: 'Instruments', work: 'Mac'},
+instances: 3, word: 'Just', work: 'Mac'},
+instances: 3, word: 'Justice', work: 'Mac'},
+instances: 3, word: 'Kerns', work: 'Mac'},
+instances: 3, word: 'Kill', work: 'Mac'},
+instances: 3, word: 'Knell', work: 'Mac'},
+instances: 3, word: 'Knowledge', work: 'Mac'},
+instances: 3, word: 'Lack', work: 'Mac'},
+instances: 3, word: 'Lady', work: 'Mac'},
+instances: 3, word: 'Land', work: 'Mac'},
+instances: 3, word: 'Leisure', work: 'Mac'},
+instances: 3, word: 'Liege', work: 'Mac'},
+instances: 3, word: 'Life\'s', work: 'Mac'},
+instances: 3, word: 'Lips', work: 'Mac'},
+instances: 3, word: 'Long', work: 'Mac'},
+instances: 3, word: 'Looked', work: 'Mac'},
+instances: 3, word: 'Lose', work: 'Mac'},
+instances: 3, word: 'Mad', work: 'Mac'},
+instances: 3, word: 'Madam', work: 'Mac'},
+instances: 3, word: 'Malice', work: 'Mac'},
+instances: 3, word: 'Mayst', work: 'Mac'},
+instances: 3, word: 'Meeting', work: 'Mac'},
+instances: 3, word: 'Mere', work: 'Mac'},
+instances: 3, word: 'Met', work: 'Mac'},
+instances: 3, word: 'Milk', work: 'Mac'},
+instances: 3, word: 'Minds', work: 'Mac'},
+instances: 3, word: 'Miss', work: 'Mac'},
+instances: 3, word: 'Moment', work: 'Mac'},
+instances: 3, word: 'Morrow', work: 'Mac'},
+instances: 3, word: 'Munched', work: 'Mac'},
+instances: 3, word: 'Murders', work: 'Mac'},
+instances: 3, word: 'Need', work: 'Mac'},
+instances: 3, word: 'Needs', work: 'Mac'},
+instances: 3, word: 'Neither', work: 'Mac'},
+instances: 3, word: 'Newest', work: 'Mac'},
+instances: 3, word: 'Ne\'er', work: 'Mac'},
+instances: 3, word: 'Nightgown', work: 'Mac'},
+instances: 3, word: 'Norweyan', work: 'Mac'},
+instances: 3, word: 'Obedience', work: 'Mac'},
+instances: 3, word: 'Office', work: 'Mac'},
+instances: 3, word: 'Ones', work: 'Mac'},
+instances: 3, word: 'Open', work: 'Mac'},
+instances: 3, word: 'Palace', work: 'Mac'},
+instances: 3, word: 'Patience', work: 'Mac'},
+instances: 3, word: 'Person', work: 'Mac'},
+instances: 3, word: 'Prayers', work: 'Mac'},
+instances: 3, word: 'Pretty', work: 'Mac'},
+instances: 3, word: 'Pull', work: 'Mac'},
+instances: 3, word: 'Queen', work: 'Mac'},
+instances: 3, word: 'Rapt', work: 'Mac'},
+instances: 3, word: 'Read', work: 'Mac'},
+instances: 3, word: 'Ready', work: 'Mac'},
+instances: 3, word: 'Received', work: 'Mac'},
+instances: 3, word: 'Remembrance', work: 'Mac'},
+instances: 3, word: 'Remove', work: 'Mac'},
+instances: 3, word: 'Ride', work: 'Mac'},
+instances: 3, word: 'Right', work: 'Mac'},
+instances: 3, word: 'Scone', work: 'Mac'},
+instances: 3, word: 'Seek', work: 'Mac'},
+instances: 3, word: 'Seemed', work: 'Mac'},
+instances: 3, word: 'Servants', work: 'Mac'},
+instances: 3, word: 'Service', work: 'Mac'},
+instances: 3, word: 'Shadow', work: 'Mac'},
+instances: 3, word: 'Shine', work: 'Mac'},
+instances: 3, word: 'Shut', work: 'Mac'},
+instances: 3, word: 'Sides', work: 'Mac'},
+instances: 3, word: 'Sights', work: 'Mac'},
+instances: 3, word: 'Single', work: 'Mac'},
+instances: 3, word: 'Slain', work: 'Mac'},
+instances: 3, word: 'Slave', work: 'Mac'},
+instances: 3, word: 'Sometime', work: 'Mac'},
+instances: 3, word: 'Soon', work: 'Mac'},
+instances: 3, word: 'Souls', work: 'Mac'},
+instances: 3, word: 'Speak\'st', work: 'Mac'},
+instances: 3, word: 'Speeches', work: 'Mac'},
+instances: 3, word: 'Spirit', work: 'Mac'},
+instances: 3, word: 'Spoken', work: 'Mac'},
+instances: 3, word: 'Sprites', work: 'Mac'},
+instances: 3, word: 'Strength', work: 'Mac'},
+instances: 3, word: 'Suffer', work: 'Mac'},
+instances: 3, word: 'Summons', work: 'Mac'},
+instances: 3, word: 'Sundry', work: 'Mac'},
+instances: 3, word: 'Therefore', work: 'Mac'},
+instances: 3, word: 'Throat', work: 'Mac'},
+instances: 3, word: 'Times', work: 'Mac'},
+instances: 3, word: 'Toil', work: 'Mac'},
+instances: 3, word: 'Touch', work: 'Mac'},
+instances: 3, word: 'Traitors', work: 'Mac'},
+instances: 3, word: 'Treason', work: 'Mac'},
+instances: 3, word: 'Turn', work: 'Mac'},
+instances: 3, word: 'Twenty', work: 'Mac'},
+instances: 3, word: 'Tyranny', work: 'Mac'},
+instances: 3, word: 'Undone', work: 'Mac'},
+instances: 3, word: 'Unnatural', work: 'Mac'},
+instances: 3, word: 'Unto', work: 'Mac'},
+instances: 3, word: 'Vantage', work: 'Mac'},
+instances: 3, word: 'Wait', work: 'Mac'},
+instances: 3, word: 'Wake', work: 'Mac'},
+instances: 3, word: 'Walked', work: 'Mac'},
+instances: 3, word: 'Warlike', work: 'Mac'},
+instances: 3, word: 'Wash', work: 'Mac'},
+instances: 3, word: 'Watch', work: 'Mac'},
+instances: 3, word: 'Ways', work: 'Mac'},
+instances: 3, word: 'Wherefore', work: 'Mac'},
+instances: 3, word: 'Whether', work: 'Mac'},
+instances: 3, word: 'Whither', work: 'Mac'},
+instances: 3, word: 'Wild', work: 'Mac'},
+instances: 3, word: 'Wine', work: 'Mac'},
+instances: 3, word: 'Wing', work: 'Mac'},
+instances: 3, word: 'Wish', work: 'Mac'},
+instances: 3, word: 'Woman\'s', work: 'Mac'},
+instances: 3, word: 'Wounds', work: 'Mac'},
+instances: 3, word: 'Yours', work: 'Mac'},
+instances: 3, word: 'Yourselves', work: 'Mac'},
+instances: 3, word: 'You\'ll', work: 'Mac'},
+instances: 2, word: 'Abide', work: 'Mac'},
+instances: 2, word: 'Abroad', work: 'Mac'},
+instances: 2, word: 'Absence', work: 'Mac'},
+instances: 2, word: 'According', work: 'Mac'},
+instances: 2, word: 'Account', work: 'Mac'},
+instances: 2, word: 'Accursed', work: 'Mac'},
+instances: 2, word: 'Accursèd', work: 'Mac'},
+instances: 2, word: 'Add', work: 'Mac'},
+instances: 2, word: 'Addition', work: 'Mac'},
+instances: 2, word: 'Adieu', work: 'Mac'},
+instances: 2, word: 'Advice', work: 'Mac'},
+instances: 2, word: 'Advise', work: 'Mac'},
+instances: 2, word: 'Age', work: 'Mac'},
+instances: 2, word: 'Alarum', work: 'Mac'},
+instances: 2, word: 'Amazed', work: 'Mac'},
+instances: 2, word: 'Angel', work: 'Mac'},
+instances: 2, word: 'Angels', work: 'Mac'},
+instances: 2, word: 'Approaches', work: 'Mac'},
+instances: 2, word: 'Armed', work: 'Mac'},
+instances: 2, word: 'Arms', work: 'Mac'},
+instances: 2, word: 'Asked', work: 'Mac'},
+instances: 2, word: 'Asleep', work: 'Mac'},
+instances: 2, word: 'Attempt', work: 'Mac'},
+instances: 2, word: 'Avarice', work: 'Mac'},
+instances: 2, word: 'Awaked', work: 'Mac'},
+instances: 2, word: 'Baby', work: 'Mac'},
+instances: 2, word: 'Bad', work: 'Mac'},
+instances: 2, word: 'Banners', work: 'Mac'},
+instances: 2, word: 'Bat', work: 'Mac'},
+instances: 2, word: 'Battlements', work: 'Mac'},
+instances: 2, word: 'Beard', work: 'Mac'},
+instances: 2, word: 'Bears', work: 'Mac'},
+instances: 2, word: 'Beat', work: 'Mac'},
+instances: 2, word: 'Became', work: 'Mac'},
+instances: 2, word: 'Beg', work: 'Mac'},
+instances: 2, word: 'Begin', work: 'Mac'},
+instances: 2, word: 'Begun', work: 'Mac'},
+instances: 2, word: 'Belief', work: 'Mac'},
+instances: 2, word: 'Beside', work: 'Mac'},
+instances: 2, word: 'Betimes', work: 'Mac'},
+instances: 2, word: 'Betray', work: 'Mac'},
+instances: 2, word: 'Between', work: 'Mac'},
+instances: 2, word: 'Beware', work: 'Mac'},
+instances: 2, word: 'Beyond', work: 'Mac'},
+instances: 2, word: 'Blade', work: 'Mac'},
+instances: 2, word: 'Blame', work: 'Mac'},
+instances: 2, word: 'Blown', work: 'Mac'},
+instances: 2, word: 'Bond', work: 'Mac'},
+instances: 2, word: 'Bosoms', work: 'Mac'},
+instances: 2, word: 'Bought', work: 'Mac'},
+instances: 2, word: 'Brains', work: 'Mac'},
+instances: 2, word: 'Brandished', work: 'Mac'},
+instances: 2, word: 'Brave', work: 'Mac'},
+instances: 2, word: 'Breast', work: 'Mac'},
+instances: 2, word: 'Bright', work: 'Mac'},
+instances: 2, word: 'Brought', work: 'Mac'},
+instances: 2, word: 'Brow', work: 'Mac'},
+instances: 2, word: 'Brows', work: 'Mac'},
+instances: 2, word: 'Buy', work: 'Mac'},
+instances: 2, word: 'Carry', work: 'Mac'},
+instances: 2, word: 'Castle\'s', work: 'Mac'},
+instances: 2, word: 'Cat', work: 'Mac'},
+instances: 2, word: 'Causes', work: 'Mac'},
+instances: 2, word: 'Caution', work: 'Mac'},
+instances: 2, word: 'Charged', work: 'Mac'},
+instances: 2, word: 'Charms', work: 'Mac'},
+instances: 2, word: 'Charmèd', work: 'Mac'},
+instances: 2, word: 'Cheeks', work: 'Mac'},
+instances: 2, word: 'Chief', work: 'Mac'},
+instances: 2, word: 'Child', work: 'Mac'},
+instances: 2, word: 'Clean', work: 'Mac'},
+instances: 2, word: 'Cleave', work: 'Mac'},
+instances: 2, word: 'Cling', work: 'Mac'},
+instances: 2, word: 'Clock', work: 'Mac'},
+instances: 2, word: 'Cloud', work: 'Mac'},
+instances: 2, word: 'Commend', work: 'Mac'},
+instances: 2, word: 'Common', work: 'Mac'},
+instances: 2, word: 'Company', work: 'Mac'},
+instances: 2, word: 'Confessed', work: 'Mac'},
+instances: 2, word: 'Confirmed', work: 'Mac'},
+instances: 2, word: 'Confound', work: 'Mac'},
+instances: 2, word: 'Confusion', work: 'Mac'},
+instances: 2, word: 'Consequence', work: 'Mac'},
+instances: 2, word: 'Content', work: 'Mac'},
+instances: 2, word: 'Continue', work: 'Mac'},
+instances: 2, word: 'Cool', work: 'Mac'},
+instances: 2, word: 'Corporal', work: 'Mac'},
+instances: 2, word: 'Couldst', work: 'Mac'},
+instances: 2, word: 'Course', work: 'Mac'},
+instances: 2, word: 'Coward', work: 'Mac'},
+instances: 2, word: 'Crowned', work: 'Mac'},
+instances: 2, word: 'Cruelty', work: 'Mac'},
+instances: 2, word: 'Cumberland', work: 'Mac'},
+instances: 2, word: 'Curse', work: 'Mac'},
+instances: 2, word: 'Cursèd', work: 'Mac'},
+instances: 2, word: 'Custom', work: 'Mac'},
+instances: 2, word: 'Damnèd', work: 'Mac'},
+instances: 2, word: 'Danger', work: 'Mac'},
+instances: 2, word: 'Darkness', work: 'Mac'},
+instances: 2, word: 'Defense', work: 'Mac'},
+instances: 2, word: 'Delight', work: 'Mac'},
+instances: 2, word: 'Desert', work: 'Mac'},
+instances: 2, word: 'Deserved', work: 'Mac'},
+instances: 2, word: 'Deserves', work: 'Mac'},
+instances: 2, word: 'Despair', work: 'Mac'},
+instances: 2, word: 'Destroy', work: 'Mac'},
+instances: 2, word: 'Destruction', work: 'Mac'},
+instances: 2, word: 'Dire', work: 'Mac'},
+instances: 2, word: 'Direction', work: 'Mac'},
+instances: 2, word: 'Discomfort', work: 'Mac'},
+instances: 2, word: 'Disgrace', work: 'Mac'},
+instances: 2, word: 'Dispatch', work: 'Mac'},
+instances: 2, word: 'Distance', work: 'Mac'},
+instances: 2, word: 'Dogs', work: 'Mac'},
+instances: 2, word: 'Doing', work: 'Mac'},
+instances: 2, word: 'Doubtful', work: 'Mac'},
+instances: 2, word: 'Doubts', work: 'Mac'},
+instances: 2, word: 'Dreadful', work: 'Mac'},
+instances: 2, word: 'Dreams', work: 'Mac'},
+instances: 2, word: 'Drown', work: 'Mac'},
+instances: 2, word: 'Drum', work: 'Mac'},
+instances: 2, word: 'Drunk', work: 'Mac'},
+instances: 2, word: 'Earnest', work: 'Mac'},
+instances: 2, word: 'Ears', work: 'Mac'},
+instances: 2, word: 'Eaten', work: 'Mac'},
+instances: 2, word: 'Ecstasy', work: 'Mac'},
+instances: 2, word: 'Edge', work: 'Mac'},
+instances: 2, word: 'Either', work: 'Mac'},
+instances: 2, word: 'Ends', work: 'Mac'},
+instances: 2, word: 'Endure', work: 'Mac'},
+instances: 2, word: 'Entrance', work: 'Mac'},
+instances: 2, word: 'Estate', work: 'Mac'},
+instances: 2, word: 'Esteem', work: 'Mac'},
+instances: 2, word: 'Eternal', work: 'Mac'},
+instances: 2, word: 'Everything', work: 'Mac'},
+instances: 2, word: 'Evils', work: 'Mac'},
+instances: 2, word: 'Expectation', work: 'Mac'},
+instances: 2, word: 'Famine', work: 'Mac'},
+instances: 2, word: 'Fancies', work: 'Mac'},
+instances: 2, word: 'Fantastical', work: 'Mac'},
+instances: 2, word: 'Favor', work: 'Mac'},
+instances: 2, word: 'Feed', work: 'Mac'},
+instances: 2, word: 'Feet', work: 'Mac'},
+instances: 2, word: 'Fellow', work: 'Mac'},
+instances: 2, word: 'Fellows', work: 'Mac'},
+instances: 2, word: 'Field', work: 'Mac'},
+instances: 2, word: 'Fiend', work: 'Mac'},
+instances: 2, word: 'Finds', work: 'Mac'},
+instances: 2, word: 'Finger', work: 'Mac'},
+instances: 2, word: 'Firm', work: 'Mac'},
+instances: 2, word: 'Firstlings', work: 'Mac'},
+instances: 2, word: 'Flower', work: 'Mac'},
+instances: 2, word: 'Foes', work: 'Mac'},
+instances: 2, word: 'Folly', work: 'Mac'},
+instances: 2, word: 'Foot', work: 'Mac'},
+instances: 2, word: 'Forbid', work: 'Mac'},
+instances: 2, word: 'Forest', work: 'Mac'},
+instances: 2, word: 'Forgive', work: 'Mac'},
+instances: 2, word: 'Forgotten', work: 'Mac'},
+instances: 2, word: 'Fought', work: 'Mac'},
+instances: 2, word: 'Frets', work: 'Mac'},
+instances: 2, word: 'Gain', work: 'Mac'},
+instances: 2, word: 'Gall', work: 'Mac'},
+instances: 2, word: 'Gave', work: 'Mac'},
+instances: 2, word: 'Gift', work: 'Mac'},
+instances: 2, word: 'Going', work: 'Mac'},
+instances: 2, word: 'Goodness', work: 'Mac'},
+instances: 2, word: 'Got', work: 'Mac'},
+instances: 2, word: 'Govern', work: 'Mac'},
+instances: 2, word: 'Grant', work: 'Mac'},
+instances: 2, word: 'Graves', work: 'Mac'},
+instances: 2, word: 'Greatest', work: 'Mac'},
+instances: 2, word: 'Green', work: 'Mac'},
+instances: 2, word: 'Greet', work: 'Mac'},
+instances: 2, word: 'Grieve', work: 'Mac'},
+instances: 2, word: 'Ground', work: 'Mac'},
+instances: 2, word: 'Grow', work: 'Mac'},
+instances: 2, word: 'Guilt', work: 'Mac'},
+instances: 2, word: 'Ha', work: 'Mac'},
+instances: 2, word: 'Hadst', work: 'Mac'},
+instances: 2, word: 'Hags', work: 'Mac'},
+instances: 2, word: 'Half', work: 'Mac'},
+instances: 2, word: 'Harms', work: 'Mac'},
+instances: 2, word: 'Hate', work: 'Mac'},
+instances: 2, word: 'Haunt', work: 'Mac'},
+instances: 2, word: 'Heads', work: 'Mac'},
+instances: 2, word: 'Hearing', work: 'Mac'},
+instances: 2, word: 'Heath', work: 'Mac'},
+instances: 2, word: 'Heavens', work: 'Mac'},
+instances: 2, word: 'Heaven\'s', work: 'Mac'},
+instances: 2, word: 'Hecate\'s', work: 'Mac'},
+instances: 2, word: 'Heels', work: 'Mac'},
+instances: 2, word: 'Hid', work: 'Mac'},
+instances: 2, word: 'Hie', work: 'Mac'},
+instances: 2, word: 'Highly', work: 'Mac'},
+instances: 2, word: 'Hill', work: 'Mac'},
+instances: 2, word: 'Holily', work: 'Mac'},
+instances: 2, word: 'Honored', work: 'Mac'},
+instances: 2, word: 'Hums', work: 'Mac'},
+instances: 2, word: 'Ignorant', work: 'Mac'},
+instances: 2, word: 'Image', work: 'Mac'},
+instances: 2, word: 'Imperial', work: 'Mac'},
+instances: 2, word: 'Impress', work: 'Mac'},
+instances: 2, word: 'Infected', work: 'Mac'},
+instances: 2, word: 'Ingredience', work: 'Mac'},
+instances: 2, word: 'Instant', work: 'Mac'},
+instances: 2, word: 'Interpret', work: 'Mac'},
+instances: 2, word: 'Invite', work: 'Mac'},
+instances: 2, word: 'Ireland', work: 'Mac'},
+instances: 2, word: 'Joy', work: 'Mac'},
+instances: 2, word: 'Joyful', work: 'Mac'},
+instances: 2, word: 'Judgment', work: 'Mac'},
+instances: 2, word: 'Keen', work: 'Mac'},
+instances: 2, word: 'Key', work: 'Mac'},
+instances: 2, word: 'Kingdom\'s', work: 'Mac'},
+instances: 2, word: 'King\'s', work: 'Mac'},
+instances: 2, word: 'Kinsman', work: 'Mac'},
+instances: 2, word: 'Kinsmen', work: 'Mac'},
+instances: 2, word: 'Kiss', work: 'Mac'},
+instances: 2, word: 'Knife', work: 'Mac'},
+instances: 2, word: 'Laid', work: 'Mac'},
+instances: 2, word: 'Lamb', work: 'Mac'},
+instances: 2, word: 'Large', work: 'Mac'},
+instances: 2, word: 'Lead', work: 'Mac'},
+instances: 2, word: 'Leaf', work: 'Mac'},
+instances: 2, word: 'Least', work: 'Mac'},
+instances: 2, word: 'Leave-taking', work: 'Mac'},
+instances: 2, word: 'Leaves', work: 'Mac'},
+instances: 2, word: 'Lechery', work: 'Mac'},
+instances: 2, word: 'Led', work: 'Mac'},
+instances: 2, word: 'Lesser', work: 'Mac'},
+instances: 2, word: 'Lest', work: 'Mac'},
+instances: 2, word: 'Liars', work: 'Mac'},
+instances: 2, word: 'Liest', work: 'Mac'},
+instances: 2, word: 'Lighted', work: 'Mac'},
+instances: 2, word: 'Lo', work: 'Mac'},
+instances: 2, word: 'Locks', work: 'Mac'},
+instances: 2, word: 'Lodged', work: 'Mac'},
+instances: 2, word: 'Longer', work: 'Mac'},
+instances: 2, word: 'Looks', work: 'Mac'},
+instances: 2, word: 'Loved', work: 'Mac'},
+instances: 2, word: 'Loyal', work: 'Mac'},
+instances: 2, word: 'Lust', work: 'Mac'},
+instances: 2, word: 'Main', work: 'Mac'},
+instances: 2, word: 'Making', work: 'Mac'},
+instances: 2, word: 'Manhood', work: 'Mac'},
+instances: 2, word: 'Manly', work: 'Mac'},
+instances: 2, word: 'March', work: 'Mac'},
+instances: 2, word: 'Marked', work: 'Mac'},
+instances: 2, word: 'Marry', work: 'Mac'},
+instances: 2, word: 'Measure', work: 'Mac'},
+instances: 2, word: 'Meat', work: 'Mac'},
+instances: 2, word: 'Memory', work: 'Mac'},
+instances: 2, word: 'Men\'s', work: 'Mac'},
+instances: 2, word: 'Merciful', work: 'Mac'},
+instances: 2, word: 'Mercy', work: 'Mac'},
+instances: 2, word: 'Message', work: 'Mac'},
+instances: 2, word: 'Methought', work: 'Mac'},
+instances: 2, word: 'Mile', work: 'Mac'},
+instances: 2, word: 'Mingle', work: 'Mac'},
+instances: 2, word: 'Minister', work: 'Mac'},
+instances: 2, word: 'Ministers', work: 'Mac'},
+instances: 2, word: 'Minute', work: 'Mac'},
+instances: 2, word: 'Mirth', work: 'Mac'},
+instances: 2, word: 'Mistress', work: 'Mac'},
+instances: 2, word: 'Mock', work: 'Mac'},
+instances: 2, word: 'Moon', work: 'Mac'},
+instances: 2, word: 'Morning', work: 'Mac'},
+instances: 2, word: 'Moves', work: 'Mac'},
+instances: 2, word: 'Naked', work: 'Mac'},
+instances: 2, word: 'Named', work: 'Mac'},
+instances: 2, word: 'Natural', work: 'Mac'},
+instances: 2, word: 'Natures', work: 'Mac'},
+instances: 2, word: 'Naught', work: 'Mac'},
+instances: 2, word: 'Nay', work: 'Mac'},
+instances: 2, word: 'Nearest', work: 'Mac'},
+instances: 2, word: 'Norway', work: 'Mac'},
+instances: 2, word: 'Numbers', work: 'Mac'},
+instances: 2, word: 'Offer', work: 'Mac'},
+instances: 2, word: 'Offices', work: 'Mac'},
+instances: 2, word: 'Order', work: 'Mac'},
+instances: 2, word: 'Others', work: 'Mac'},
+instances: 2, word: 'Ours', work: 'Mac'},
+instances: 2, word: 'Ourself', work: 'Mac'},
+instances: 2, word: 'Ourselves', work: 'Mac'},
+instances: 2, word: 'Owed', work: 'Mac'},
+instances: 2, word: 'Pace', work: 'Mac'},
+instances: 2, word: 'Paid', work: 'Mac'},
+instances: 2, word: 'Painted', work: 'Mac'},
+instances: 2, word: 'Pardon', work: 'Mac'},
+instances: 2, word: 'Partner', work: 'Mac'},
+instances: 2, word: 'Passage', work: 'Mac'},
+instances: 2, word: 'Passion', work: 'Mac'},
+instances: 2, word: 'Patient', work: 'Mac'},
+instances: 2, word: 'Perchance', work: 'Mac'},
+instances: 2, word: 'Pernicious', work: 'Mac'},
+instances: 2, word: 'Pillows', work: 'Mac'},
+instances: 2, word: 'Pine', work: 'Mac'},
+instances: 2, word: 'Pious', work: 'Mac'},
+instances: 2, word: 'Pitiful', work: 'Mac'},
+instances: 2, word: 'Pity', work: 'Mac'},
+instances: 2, word: 'Plant', work: 'Mac'},
+instances: 2, word: 'Plenty', work: 'Mac'},
+instances: 2, word: 'Pluck', work: 'Mac'},
+instances: 2, word: 'Poisoned', work: 'Mac'},
+instances: 2, word: 'Porter', work: 'Mac'},
+instances: 2, word: 'Post', work: 'Mac'},
+instances: 2, word: 'Powers', work: 'Mac'},
+instances: 2, word: 'Praises', work: 'Mac'},
+instances: 2, word: 'Precious', work: 'Mac'},
+instances: 2, word: 'Preparation', work: 'Mac'},
+instances: 2, word: 'Presence', work: 'Mac'},
+instances: 2, word: 'Prick', work: 'Mac'},
+instances: 2, word: 'Prince', work: 'Mac'},
+instances: 2, word: 'Promise', work: 'Mac'},
+instances: 2, word: 'Prosperous', work: 'Mac'},
+instances: 2, word: 'Protest', work: 'Mac'},
+instances: 2, word: 'Provide', work: 'Mac'},
+instances: 2, word: 'Provokes', work: 'Mac'},
+instances: 2, word: 'Purge', work: 'Mac'},
+instances: 2, word: 'Push', work: 'Mac'},
+instances: 2, word: 'Quarrel', work: 'Mac'},
+instances: 2, word: 'Rain', work: 'Mac'},
+instances: 2, word: 'Rebel', work: 'Mac'},
+instances: 2, word: 'Rebellious', work: 'Mac'},
+instances: 2, word: 'Recoil', work: 'Mac'},
+instances: 2, word: 'Regard', work: 'Mac'},
+instances: 2, word: 'Reign', work: 'Mac'},
+instances: 2, word: 'Relate', work: 'Mac'},
+instances: 2, word: 'Remains', work: 'Mac'},
+instances: 2, word: 'Repose', work: 'Mac'},
+instances: 2, word: 'Require', work: 'Mac'},
+instances: 2, word: 'Revenge', work: 'Mac'},
+instances: 2, word: 'Revolt', work: 'Mac'},
+instances: 2, word: 'Robes', work: 'Mac'},
+instances: 2, word: 'Rouse', work: 'Mac'},
+instances: 2, word: 'Royalty', work: 'Mac'},
+instances: 2, word: 'Rubs', work: 'Mac'},
+instances: 2, word: 'Rugged', work: 'Mac'},
+instances: 2, word: 'Rumor', work: 'Mac'},
+instances: 2, word: 'Runs', work: 'Mac'},
+instances: 2, word: 'Safer', work: 'Mac'},
+instances: 2, word: 'Sauce', work: 'Mac'},
+instances: 2, word: 'Saucy', work: 'Mac'},
+instances: 2, word: 'Scale', work: 'Mac'},
+instances: 2, word: 'Scarcely', work: 'Mac'},
+instances: 2, word: 'Scruples', work: 'Mac'},
+instances: 2, word: 'Sea', work: 'Mac'},
+instances: 2, word: 'Season', work: 'Mac'},
+instances: 2, word: 'Seat', work: 'Mac'},
+instances: 2, word: 'Secret', work: 'Mac'},
+instances: 2, word: 'Seeds', work: 'Mac'},
+instances: 2, word: 'Seize', work: 'Mac'},
+instances: 2, word: 'Self', work: 'Mac'},
+instances: 2, word: 'Selfsame', work: 'Mac'},
+instances: 2, word: 'Sense', work: 'Mac'},
+instances: 2, word: 'Serpent', work: 'Mac'},
+instances: 2, word: 'Servant', work: 'Mac'},
+instances: 2, word: 'Serve', work: 'Mac'},
+instances: 2, word: 'Setting', work: 'Mac'},
+instances: 2, word: 'Several', work: 'Mac'},
+instances: 2, word: 'She\'ll', work: 'Mac'},
+instances: 2, word: 'Shift', work: 'Mac'},
+instances: 2, word: 'Showed', work: 'Mac'},
+instances: 2, word: 'Sick', work: 'Mac'},
+instances: 2, word: 'Sicken', work: 'Mac'},
+instances: 2, word: 'Sickly', work: 'Mac'},
+instances: 2, word: 'Sightless', work: 'Mac'},
+instances: 2, word: 'Sin', work: 'Mac'},
+instances: 2, word: 'Sinks', work: 'Mac'},
+instances: 2, word: 'Sirrah', work: 'Mac'},
+instances: 2, word: 'Sister', work: 'Mac'},
+instances: 2, word: 'Sleeping', work: 'Mac'},
+instances: 2, word: 'Sleepy', work: 'Mac'},
+instances: 2, word: 'Slept', work: 'Mac'},
+instances: 2, word: 'Slow', work: 'Mac'},
+instances: 2, word: 'Smile', work: 'Mac'},
+instances: 2, word: 'Smiles', work: 'Mac'},
+instances: 2, word: 'Smiling', work: 'Mac'},
+instances: 2, word: 'Snake', work: 'Mac'},
+instances: 2, word: 'Society', work: 'Mac'},
+instances: 2, word: 'Sooner', work: 'Mac'},
+instances: 2, word: 'Sooth', work: 'Mac'},
+instances: 2, word: 'Sore', work: 'Mac'},
+instances: 2, word: 'Sorry', work: 'Mac'},
+instances: 2, word: 'Sovereign', work: 'Mac'},
+instances: 2, word: 'Sovereignty', work: 'Mac'},
+instances: 2, word: 'Speaks', work: 'Mac'},
+instances: 2, word: 'Spent', work: 'Mac'},
+instances: 2, word: 'Spite', work: 'Mac'},
+instances: 2, word: 'Spot', work: 'Mac'},
+instances: 2, word: 'Spring', work: 'Mac'},
+instances: 2, word: 'Spur', work: 'Mac'},
+instances: 2, word: 'Stage', work: 'Mac'},
+instances: 2, word: 'Stars', work: 'Mac'},
+instances: 2, word: 'Station', work: 'Mac'},
+instances: 2, word: 'Steel', work: 'Mac'},
+instances: 2, word: 'Sticking', work: 'Mac'},
+instances: 2, word: 'Stir', work: 'Mac'},
+instances: 2, word: 'Stirring', work: 'Mac'},
+instances: 2, word: 'Stones', work: 'Mac'},
+instances: 2, word: 'Stop', work: 'Mac'},
+instances: 2, word: 'Stopped', work: 'Mac'},
+instances: 2, word: 'Story', work: 'Mac'},
+instances: 2, word: 'Straight', work: 'Mac'},
+instances: 2, word: 'Strangely', work: 'Mac'},
+instances: 2, word: 'Strangers', work: 'Mac'},
+instances: 2, word: 'Strokes', work: 'Mac'},
+instances: 2, word: 'Strongly', work: 'Mac'},
+instances: 2, word: 'Struck', work: 'Mac'},
+instances: 2, word: 'Stuff', work: 'Mac'},
+instances: 2, word: 'Subject', work: 'Mac'},
+instances: 2, word: 'Succeeding', work: 'Mac'},
+instances: 2, word: 'Supped', work: 'Mac'},
+instances: 2, word: 'Supper', work: 'Mac'},
+instances: 2, word: 'Sway', work: 'Mac'},
+instances: 2, word: 'Swear', work: 'Mac'},
+instances: 2, word: 'Swearers', work: 'Mac'},
+instances: 2, word: 'Syllable', work: 'Mac'},
+instances: 2, word: 'Table', work: 'Mac'},
+instances: 2, word: 'Tailor', work: 'Mac'},
+instances: 2, word: 'Tale', work: 'Mac'},
+instances: 2, word: 'Teach', work: 'Mac'},
+instances: 2, word: 'Tear', work: 'Mac'},
+instances: 2, word: 'Tears', work: 'Mac'},
+instances: 2, word: 'Tender', work: 'Mac'},
+instances: 2, word: 'Theirs', work: 'Mac'},
+instances: 2, word: 'Thunder', work: 'Mac'},
+instances: 2, word: 'Tidings', work: 'Mac'},
+instances: 2, word: 'Tiger', work: 'Mac'},
+instances: 2, word: 'Timely', work: 'Mac'},
+instances: 2, word: 'Toe', work: 'Mac'},
+instances: 2, word: 'Told', work: 'Mac'},
+instances: 2, word: 'Tongues', work: 'Mac'},
+instances: 2, word: 'Took', work: 'Mac'},
+instances: 2, word: 'Tooth', work: 'Mac'},
+instances: 2, word: 'Top', work: 'Mac'},
+instances: 2, word: 'Trade', work: 'Mac'},
+instances: 2, word: 'Treachery', work: 'Mac'},
+instances: 2, word: 'Treasons', work: 'Mac'},
+instances: 2, word: 'Tree', work: 'Mac'},
+instances: 2, word: 'Trees', work: 'Mac'},
+instances: 2, word: 'Troubled', work: 'Mac'},
+instances: 2, word: 'Troubles', work: 'Mac'},
+instances: 2, word: 'Truly', work: 'Mac'},
+instances: 2, word: 'Trusted', work: 'Mac'},
+instances: 2, word: 'Truths', work: 'Mac'},
+instances: 2, word: 'Tune', work: 'Mac'},
+instances: 2, word: 'T\'', work: 'Mac'},
+instances: 2, word: 'Uncle', work: 'Mac'},
+instances: 2, word: 'Unfix', work: 'Mac'},
+instances: 2, word: 'Unknown', work: 'Mac'},
+instances: 2, word: 'Untimely', work: 'Mac'},
+instances: 2, word: 'Used', work: 'Mac'},
+instances: 2, word: 'Vanished', work: 'Mac'},
+instances: 2, word: 'Venom', work: 'Mac'},
+instances: 2, word: 'Voice', work: 'Mac'},
+instances: 2, word: 'Wail', work: 'Mac'},
+instances: 2, word: 'Walking', work: 'Mac'},
+instances: 2, word: 'Wants', work: 'Mac'},
+instances: 2, word: 'Weak', work: 'Mac'},
+instances: 2, word: 'Weal', work: 'Mac'},
+instances: 2, word: 'Weary', work: 'Mac'},
+instances: 2, word: 'Weep', work: 'Mac'},
+instances: 2, word: 'Weighed', work: 'Mac'},
+instances: 2, word: 'Wicked', work: 'Mac'},
+instances: 2, word: 'Wilt', work: 'Mac'},
+instances: 2, word: 'Wise', work: 'Mac'},
+instances: 2, word: 'Wit', work: 'Mac'},
+instances: 2, word: 'Withered', work: 'Mac'},
+instances: 2, word: 'Witness', work: 'Mac'},
+instances: 2, word: 'Woe', work: 'Mac'},
+instances: 2, word: 'Wolf', work: 'Mac'},
+instances: 2, word: 'Won', work: 'Mac'},
+instances: 2, word: 'Wonder', work: 'Mac'},
+instances: 2, word: 'Wound', work: 'Mac'},
+instances: 2, word: 'Wrack', work: 'Mac'},
+instances: 2, word: 'Wretched', work: 'Mac'},
+instances: 2, word: 'Yes', work: 'Mac'},
+instances: 2, word: 'Yourself', work: 'Mac'},
+instances: 2, word: '\'dst', work: 'Mac'},
+instances: 1, word: 'A-making', work: 'Mac'},
+instances: 1, word: 'Abed', work: 'Mac'},
+instances: 1, word: 'Abhorrèd', work: 'Mac'},
+instances: 1, word: 'Abjure', work: 'Mac'},
+instances: 1, word: 'Abound', work: 'Mac'},
+instances: 1, word: 'Absent', work: 'Mac'},
+instances: 1, word: 'Abuse', work: 'Mac'},
+instances: 1, word: 'Accents', work: 'Mac'},
+instances: 1, word: 'Access', work: 'Mac'},
+instances: 1, word: 'Accompany', work: 'Mac'},
+instances: 1, word: 'Accounted', work: 'Mac'},
+instances: 1, word: 'Accustomed', work: 'Mac'},
+instances: 1, word: 'Acheron', work: 'Mac'},
+instances: 1, word: 'Acquaint', work: 'Mac'},
+instances: 1, word: 'Acted', work: 'Mac'},
+instances: 1, word: 'Acting', work: 'Mac'},
+instances: 1, word: 'Action', work: 'Mac'},
+instances: 1, word: 'Actions', work: 'Mac'},
+instances: 1, word: 'Acts', work: 'Mac'},
+instances: 1, word: 'Actual', work: 'Mac'},
+instances: 1, word: 'Adage', work: 'Mac'},
+instances: 1, word: 'Added', work: 'Mac'},
+instances: 1, word: 'Adder\'s', work: 'Mac'},
+instances: 1, word: 'Addressed', work: 'Mac'},
+instances: 1, word: 'Adhere', work: 'Mac'},
+instances: 1, word: 'Admired', work: 'Mac'},
+instances: 1, word: 'Advance', work: 'Mac'},
+instances: 1, word: 'Advantage', work: 'Mac'},
+instances: 1, word: 'Affair', work: 'Mac'},
+instances: 1, word: 'Affairs', work: 'Mac'},
+instances: 1, word: 'Affection', work: 'Mac'},
+instances: 1, word: 'Affeered', work: 'Mac'},
+instances: 1, word: 'Affliction', work: 'Mac'},
+instances: 1, word: 'Afoot', work: 'Mac'},
+instances: 1, word: 'Afternoon', work: 'Mac'},
+instances: 1, word: 'Afterwards', work: 'Mac'},
+instances: 1, word: 'Agent', work: 'Mac'},
+instances: 1, word: 'Agents', work: 'Mac'},
+instances: 1, word: 'Agitation', work: 'Mac'},
+instances: 1, word: 'Ague', work: 'Mac'},
+instances: 1, word: 'Aim', work: 'Mac'},
+instances: 1, word: 'Air-drawn', work: 'Mac'},
+instances: 1, word: 'Alack', work: 'Mac'},
+instances: 1, word: 'Alarm', work: 'Mac'},
+instances: 1, word: 'Alarumed', work: 'Mac'},
+instances: 1, word: 'Aleppo', work: 'Mac'},
+instances: 1, word: 'Alike', work: 'Mac'},
+instances: 1, word: 'All-hail', work: 'Mac'},
+instances: 1, word: 'All-hailed', work: 'Mac'},
+instances: 1, word: 'All-thing', work: 'Mac'},
+instances: 1, word: 'Allegiance', work: 'Mac'},
+instances: 1, word: 'Aloud', work: 'Mac'},
+instances: 1, word: 'Also', work: 'Mac'},
+instances: 1, word: 'Alter', work: 'Mac'},
+instances: 1, word: 'Always', work: 'Mac'},
+instances: 1, word: 'Amazedly', work: 'Mac'},
+instances: 1, word: 'Amazement', work: 'Mac'},
+instances: 1, word: 'Amend', work: 'Mac'},
+instances: 1, word: 'Amends', work: 'Mac'},
+instances: 1, word: 'Amiss', work: 'Mac'},
+instances: 1, word: 'Among', work: 'Mac'},
+instances: 1, word: 'Anger', work: 'Mac'},
+instances: 1, word: 'Angered', work: 'Mac'},
+instances: 1, word: 'Angerly', work: 'Mac'},
+instances: 1, word: 'Angry', work: 'Mac'},
+instances: 1, word: 'Annoyance', work: 'Mac'},
+instances: 1, word: 'Anointed', work: 'Mac'},
+instances: 1, word: 'Antic', work: 'Mac'},
+instances: 1, word: 'Anticipat\'st', work: 'Mac'},
+instances: 1, word: 'Antidote', work: 'Mac'},
+instances: 1, word: 'Antony\'s', work: 'Mac'},
+instances: 1, word: 'Anyone', work: 'Mac'},
+instances: 1, word: 'Anywhere', work: 'Mac'},
+instances: 1, word: 'Apace', work: 'Mac'},
+instances: 1, word: 'Apart', work: 'Mac'},
+instances: 1, word: 'Appall', work: 'Mac'},
+instances: 1, word: 'Appalls', work: 'Mac'},
+instances: 1, word: 'Appear', work: 'Mac'},
+instances: 1, word: 'Appears', work: 'Mac'},
+instances: 1, word: 'Appease', work: 'Mac'},
+instances: 1, word: 'Appetite', work: 'Mac'},
+instances: 1, word: 'Apply', work: 'Mac'},
+instances: 1, word: 'Appoint', work: 'Mac'},
+instances: 1, word: 'Approve', work: 'Mac'},
+instances: 1, word: 'Arabia', work: 'Mac'},
+instances: 1, word: 'Arbitrate', work: 'Mac'},
+instances: 1, word: 'Argument', work: 'Mac'},
+instances: 1, word: 'Aright', work: 'Mac'},
+instances: 1, word: 'Aroint', work: 'Mac'},
+instances: 1, word: 'Arrived', work: 'Mac'},
+instances: 1, word: 'Artificial', work: 'Mac'},
+instances: 1, word: 'Aside', work: 'Mac'},
+instances: 1, word: 'Ask', work: 'Mac'},
+instances: 1, word: 'Assailable', work: 'Mac'},
+instances: 1, word: 'Assassination', work: 'Mac'},
+instances: 1, word: 'Assault', work: 'Mac'},
+instances: 1, word: 'Assay', work: 'Mac'},
+instances: 1, word: 'Assistance', work: 'Mac'},
+instances: 1, word: 'Assisted', work: 'Mac'},
+instances: 1, word: 'Assurance', work: 'Mac'},
+instances: 1, word: 'Attire', work: 'Mac'},
+instances: 1, word: 'Audit', work: 'Mac'},
+instances: 1, word: 'Auger', work: 'Mac'},
+instances: 1, word: 'Aught', work: 'Mac'},
+instances: 1, word: 'Augment', work: 'Mac'},
+instances: 1, word: 'Augurs', work: 'Mac'},
+instances: 1, word: 'Authorized', work: 'Mac'},
+instances: 1, word: 'Avaricious', work: 'Mac'},
+instances: 1, word: 'Avaunt', work: 'Mac'},
+instances: 1, word: 'Avoid', work: 'Mac'},
+instances: 1, word: 'Avoided', work: 'Mac'},
+instances: 1, word: 'Avouch', work: 'Mac'},
+instances: 1, word: 'Avouches', work: 'Mac'},
+instances: 1, word: 'Aweary', work: 'Mac'},
+instances: 1, word: 'Aye', work: 'Mac'},
+instances: 1, word: 'Baboon\'s', work: 'Mac'},
+instances: 1, word: 'Backs', work: 'Mac'},
+instances: 1, word: 'Backward', work: 'Mac'},
+instances: 1, word: 'Badged', work: 'Mac'},
+instances: 1, word: 'Baited', work: 'Mac'},
+instances: 1, word: 'Bake', work: 'Mac'},
+instances: 1, word: 'Balls', work: 'Mac'},
+instances: 1, word: 'Balm', work: 'Mac'},
+instances: 1, word: 'Bane', work: 'Mac'},
+instances: 1, word: 'Banished', work: 'Mac'},
+instances: 1, word: 'Bank', work: 'Mac'},
+instances: 1, word: 'Banquet', work: 'Mac'},
+instances: 1, word: 'Banquets', work: 'Mac'},
+instances: 1, word: 'Bare', work: 'Mac'},
+instances: 1, word: 'Barefaced', work: 'Mac'},
+instances: 1, word: 'Bark', work: 'Mac'},
+instances: 1, word: 'Barren', work: 'Mac'},
+instances: 1, word: 'Basis', work: 'Mac'},
+instances: 1, word: 'Bath', work: 'Mac'},
+instances: 1, word: 'Bathe', work: 'Mac'},
+instances: 1, word: 'Battered', work: 'Mac'},
+instances: 1, word: 'Battle', work: 'Mac'},
+instances: 1, word: 'Battle\'s', work: 'Mac'},
+instances: 1, word: 'Be-all', work: 'Mac'},
+instances: 1, word: 'Bear-like', work: 'Mac'},
+instances: 1, word: 'Beards', work: 'Mac'},
+instances: 1, word: 'Beast', work: 'Mac'},
+instances: 1, word: 'Beaten', work: 'Mac'},
+instances: 1, word: 'Beauteous', work: 'Mac'},
+instances: 1, word: 'Beds', work: 'Mac'},
+instances: 1, word: 'Beelzebub', work: 'Mac'},
+instances: 1, word: 'Beest', work: 'Mac'},
+instances: 1, word: 'Beetle', work: 'Mac'},
+instances: 1, word: 'Beggared', work: 'Mac'},
+instances: 1, word: 'Beguile', work: 'Mac'},
+instances: 1, word: 'Behind', work: 'Mac'},
+instances: 1, word: 'Beldams', work: 'Mac'},
+instances: 1, word: 'Believed', work: 'Mac'},
+instances: 1, word: 'Bellman', work: 'Mac'},
+instances: 1, word: 'Bellona\'s', work: 'Mac'},
+instances: 1, word: 'Belt', work: 'Mac'},
+instances: 1, word: 'Bend', work: 'Mac'},
+instances: 1, word: 'Beneath', work: 'Mac'},
+instances: 1, word: 'Benediction', work: 'Mac'},
+instances: 1, word: 'Benefit', work: 'Mac'},
+instances: 1, word: 'Benison', work: 'Mac'},
+instances: 1, word: 'Bent', work: 'Mac'},
+instances: 1, word: 'Bestowed', work: 'Mac'},
+instances: 1, word: 'Bestows', work: 'Mac'},
+instances: 1, word: 'Bestride', work: 'Mac'},
+instances: 1, word: 'Bidding', work: 'Mac'},
+instances: 1, word: 'Bides', work: 'Mac'},
+instances: 1, word: 'Bids', work: 'Mac'},
+instances: 1, word: 'Bill', work: 'Mac'},
+instances: 1, word: 'Bind', work: 'Mac'},
+instances: 1, word: 'Birth', work: 'Mac'},
+instances: 1, word: 'Birth-strangled', work: 'Mac'},
+instances: 1, word: 'Birthdom', work: 'Mac'},
+instances: 1, word: 'Bladed', work: 'Mac'},
+instances: 1, word: 'Blames', work: 'Mac'},
+instances: 1, word: 'Blanched', work: 'Mac'},
+instances: 1, word: 'Blanket', work: 'Mac'},
+instances: 1, word: 'Blaspheme', work: 'Mac'},
+instances: 1, word: 'Blaspheming', work: 'Mac'},
+instances: 1, word: 'Blast', work: 'Mac'},
+instances: 1, word: 'Blasted', work: 'Mac'},
+instances: 1, word: 'Bleeding', work: 'Mac'},
+instances: 1, word: 'Bleeds', work: 'Mac'},
+instances: 1, word: 'Blessings', work: 'Mac'},
+instances: 1, word: 'Blessèd', work: 'Mac'},
+instances: 1, word: 'Blindworm\'s', work: 'Mac'},
+instances: 1, word: 'Blisters', work: 'Mac'},
+instances: 1, word: 'Blood-boltered', work: 'Mac'},
+instances: 1, word: 'Bloodier', work: 'Mac'},
+instances: 1, word: 'Bloody-sceptered', work: 'Mac'},
+instances: 1, word: 'Blows', work: 'Mac'},
+instances: 1, word: 'Blunt', work: 'Mac'},
+instances: 1, word: 'Boasting', work: 'Mac'},
+instances: 1, word: 'Bodements', work: 'Mac'},
+instances: 1, word: 'Boneless', work: 'Mac'},
+instances: 1, word: 'Bonfire', work: 'Mac'},
+instances: 1, word: 'Book', work: 'Mac'},
+instances: 1, word: 'Boot', work: 'Mac'},
+instances: 1, word: 'Bore', work: 'Mac'},
+instances: 1, word: 'Borrowed', work: 'Mac'},
+instances: 1, word: 'Borrower', work: 'Mac'},
+instances: 1, word: 'Botches', work: 'Mac'},
+instances: 1, word: 'Bottom', work: 'Mac'},
+instances: 1, word: 'Bough', work: 'Mac'},
+instances: 1, word: 'Bound', work: 'Mac'},
+instances: 1, word: 'Boundless', work: 'Mac'},
+instances: 1, word: 'Bounteous', work: 'Mac'},
+instances: 1, word: 'Bounty', work: 'Mac'},
+instances: 1, word: 'Bowed', work: 'Mac'},
+instances: 1, word: 'Brag', work: 'Mac'},
+instances: 1, word: 'Braggart', work: 'Mac'},
+instances: 1, word: 'Brainsickly', work: 'Mac'},
+instances: 1, word: 'Bravely', work: 'Mac'},
+instances: 1, word: 'Breach', work: 'Mac'},
+instances: 1, word: 'Breasts', work: 'Mac'},
+instances: 1, word: 'Breeched', work: 'Mac'},
+instances: 1, word: 'Brewed', work: 'Mac'},
+instances: 1, word: 'Bridegroom', work: 'Mac'},
+instances: 1, word: 'Brief', work: 'Mac'},
+instances: 1, word: 'Briefly', work: 'Mac'},
+instances: 1, word: 'Brightest', work: 'Mac'},
+instances: 1, word: 'Brinded', work: 'Mac'},
+instances: 1, word: 'Brings', work: 'Mac'},
+instances: 1, word: 'Broil', work: 'Mac'},
+instances: 1, word: 'Brother', work: 'Mac'},
+instances: 1, word: 'Bruited', work: 'Mac'},
+instances: 1, word: 'Bubbles', work: 'Mac'},
+instances: 1, word: 'Buckle', work: 'Mac'},
+instances: 1, word: 'Buffets', work: 'Mac'},
+instances: 1, word: 'Building', work: 'Mac'},
+instances: 1, word: 'Built', work: 'Mac'},
+instances: 1, word: 'Burial', work: 'Mac'},
+instances: 1, word: 'Buried', work: 'Mac'},
+instances: 1, word: 'Burned', work: 'Mac'},
+instances: 1, word: 'Bury', work: 'Mac'},
+instances: 1, word: 'Butcher', work: 'Mac'},
+instances: 1, word: 'Buttress', work: 'Mac'},
+instances: 1, word: 'Cabined', work: 'Mac'},
+instances: 1, word: 'Caesar', work: 'Mac'},
+instances: 1, word: 'Calendar', work: 'Mac'},
+instances: 1, word: 'Calling', work: 'Mac'},
+instances: 1, word: 'Call\'st', work: 'Mac'},
+instances: 1, word: 'Cam\'st', work: 'Mac'},
+instances: 1, word: 'Cancel', work: 'Mac'},
+instances: 1, word: 'Candle', work: 'Mac'},
+instances: 1, word: 'Candles', work: 'Mac'},
+instances: 1, word: 'Cannons', work: 'Mac'},
+instances: 1, word: 'Capital', work: 'Mac'},
+instances: 1, word: 'Caps', work: 'Mac'},
+instances: 1, word: 'Captains', work: 'Mac'},
+instances: 1, word: 'Captivity', work: 'Mac'},
+instances: 1, word: 'Card', work: 'Mac'},
+instances: 1, word: 'Careless', work: 'Mac'},
+instances: 1, word: 'Carousing', work: 'Mac'},
+instances: 1, word: 'Carried', work: 'Mac'},
+instances: 1, word: 'Carved', work: 'Mac'},
+instances: 1, word: 'Cases', work: 'Mac'},
+instances: 1, word: 'Casing', work: 'Mac'},
+instances: 1, word: 'Castles', work: 'Mac'},
+instances: 1, word: 'Catalogue', work: 'Mac'},
+instances: 1, word: 'Cease', work: 'Mac'},
+instances: 1, word: 'Celebrates', work: 'Mac'},
+instances: 1, word: 'Censures', work: 'Mac'},
+instances: 1, word: 'Ceremony', work: 'Mac'},
+instances: 1, word: 'Chafes', work: 'Mac'},
+instances: 1, word: 'Chalice', work: 'Mac'},
+instances: 1, word: 'Challenge', work: 'Mac'},
+instances: 1, word: 'Chamberlains', work: 'Mac'},
+instances: 1, word: 'Chambers', work: 'Mac'},
+instances: 1, word: 'Champion', work: 'Mac'},
+instances: 1, word: 'Chanced', work: 'Mac'},
+instances: 1, word: 'Charm\'s', work: 'Mac'},
+instances: 1, word: 'Charnel', work: 'Mac'},
+instances: 1, word: 'Chastise', work: 'Mac'},
+instances: 1, word: 'Chaudron', work: 'Mac'},
+instances: 1, word: 'Cheaply', work: 'Mac'},
+instances: 1, word: 'Check', work: 'Mac'},
+instances: 1, word: 'Cherubin', work: 'Mac'},
+instances: 1, word: 'Chestnuts', work: 'Mac'},
+instances: 1, word: 'Chickens', work: 'Mac'},
+instances: 1, word: 'Chid', work: 'Mac'},
+instances: 1, word: 'Chiefest', work: 'Mac'},
+instances: 1, word: 'Childhood', work: 'Mac'},
+instances: 1, word: 'Children\'s', work: 'Mac'},
+instances: 1, word: 'Chimneys', work: 'Mac'},
+instances: 1, word: 'Choke', work: 'Mac'},
+instances: 1, word: 'Choppy', work: 'Mac'},
+instances: 1, word: 'Chops', work: 'Mac'},
+instances: 1, word: 'Choughs', work: 'Mac'},
+instances: 1, word: 'Christendom', work: 'Mac'},
+instances: 1, word: 'Chuck', work: 'Mac'},
+instances: 1, word: 'Churches', work: 'Mac'},
+instances: 1, word: 'Cistern', work: 'Mac'},
+instances: 1, word: 'Claim', work: 'Mac'},
+instances: 1, word: 'Clamor', work: 'Mac'},
+instances: 1, word: 'Clamored', work: 'Mac'},
+instances: 1, word: 'Clamorous', work: 'Mac'},
+instances: 1, word: 'Clatter', work: 'Mac'},
+instances: 1, word: 'Cleanse', work: 'Mac'},
+instances: 1, word: 'Clearness', work: 'Mac'},
+instances: 1, word: 'Clears', work: 'Mac'},
+instances: 1, word: 'Clept', work: 'Mac'},
+instances: 1, word: 'Climb', work: 'Mac'},
+instances: 1, word: 'Clogs', work: 'Mac'},
+instances: 1, word: 'Cloistered', work: 'Mac'},
+instances: 1, word: 'Closed', work: 'Mac'},
+instances: 1, word: 'Closet', work: 'Mac'},
+instances: 1, word: 'Cloudy', work: 'Mac'},
+instances: 1, word: 'Clutch', work: 'Mac'},
+instances: 1, word: 'Cock', work: 'Mac'},
+instances: 1, word: 'Coign', work: 'Mac'},
+instances: 1, word: 'Colmekill', work: 'Mac'},
+instances: 1, word: 'Colme\'s', work: 'Mac'},
+instances: 1, word: 'Color', work: 'Mac'},
+instances: 1, word: 'Colors', work: 'Mac'},
+instances: 1, word: 'Combined', work: 'Mac'},
+instances: 1, word: 'Combustion', work: 'Mac'},
+instances: 1, word: 'Comforted', work: 'Mac'},
+instances: 1, word: 'Commanded', work: 'Mac'},
+instances: 1, word: 'Commands', work: 'Mac'},
+instances: 1, word: 'Commencing', work: 'Mac'},
+instances: 1, word: 'Commendations', work: 'Mac'},
+instances: 1, word: 'Commends', work: 'Mac'},
+instances: 1, word: 'Commission', work: 'Mac'},
+instances: 1, word: 'Committed', work: 'Mac'},
+instances: 1, word: 'Companions', work: 'Mac'},
+instances: 1, word: 'Compared', work: 'Mac'},
+instances: 1, word: 'Compassed', work: 'Mac'},
+instances: 1, word: 'Compelled', work: 'Mac'},
+instances: 1, word: 'Compose', work: 'Mac'},
+instances: 1, word: 'Composition', work: 'Mac'},
+instances: 1, word: 'Compt', work: 'Mac'},
+instances: 1, word: 'Compunctious', work: 'Mac'},
+instances: 1, word: 'Com\'st', work: 'Mac'},
+instances: 1, word: 'Conceive', work: 'Mac'},
+instances: 1, word: 'Concern', work: 'Mac'},
+instances: 1, word: 'Conclude', work: 'Mac'},
+instances: 1, word: 'Concluded', work: 'Mac'},
+instances: 1, word: 'Conclusion', work: 'Mac'},
+instances: 1, word: 'Concord', work: 'Mac'},
+instances: 1, word: 'Condemn', work: 'Mac'},
+instances: 1, word: 'Conduct', work: 'Mac'},
+instances: 1, word: 'Conference', work: 'Mac'},
+instances: 1, word: 'Confessing', work: 'Mac'},
+instances: 1, word: 'Confident', work: 'Mac'},
+instances: 1, word: 'Confined', work: 'Mac'},
+instances: 1, word: 'Confineless', work: 'Mac'},
+instances: 1, word: 'Confirm', work: 'Mac'},
+instances: 1, word: 'Conflict', work: 'Mac'},
+instances: 1, word: 'Confounds', work: 'Mac'},
+instances: 1, word: 'Confronted', work: 'Mac'},
+instances: 1, word: 'Confused', work: 'Mac'},
+instances: 1, word: 'Conjure', work: 'Mac'},
+instances: 1, word: 'Consent', work: 'Mac'},
+instances: 1, word: 'Consequences', work: 'Mac'},
+instances: 1, word: 'Consider', work: 'Mac'},
+instances: 1, word: 'Considered', work: 'Mac'},
+instances: 1, word: 'Consort', work: 'Mac'},
+instances: 1, word: 'Conspirers', work: 'Mac'},
+instances: 1, word: 'Constancy', work: 'Mac'},
+instances: 1, word: 'Constrainèd', work: 'Mac'},
+instances: 1, word: 'Construction', work: 'Mac'},
+instances: 1, word: 'Contending', work: 'Mac'},
+instances: 1, word: 'Contented', work: 'Mac'},
+instances: 1, word: 'Continent', work: 'Mac'},
+instances: 1, word: 'Continually', work: 'Mac'},
+instances: 1, word: 'Contradict', work: 'Mac'},
+instances: 1, word: 'Contriver', work: 'Mac'},
+instances: 1, word: 'Convert', work: 'Mac'},
+instances: 1, word: 'Convey', work: 'Mac'},
+instances: 1, word: 'Convince', work: 'Mac'},
+instances: 1, word: 'Convinces', work: 'Mac'},
+instances: 1, word: 'Cooled', work: 'Mac'},
+instances: 1, word: 'Copy\'s', work: 'Mac'},
+instances: 1, word: 'Corn', work: 'Mac'},
+instances: 1, word: 'Corner', work: 'Mac'},
+instances: 1, word: 'Council', work: 'Mac'},
+instances: 1, word: 'Counseled', work: 'Mac'},
+instances: 1, word: 'Counselors', work: 'Mac'},
+instances: 1, word: 'Countenance', work: 'Mac'},
+instances: 1, word: 'Counterfeit', work: 'Mac'},
+instances: 1, word: 'Countryman', work: 'Mac'},
+instances: 1, word: 'Couriers', work: 'Mac'},
+instances: 1, word: 'Coursed', work: 'Mac'},
+instances: 1, word: 'Coveted', work: 'Mac'},
+instances: 1, word: 'Cowed', work: 'Mac'},
+instances: 1, word: 'Coz', work: 'Mac'},
+instances: 1, word: 'Crack', work: 'Mac'},
+instances: 1, word: 'Cracks', work: 'Mac'},
+instances: 1, word: 'Cradle', work: 'Mac'},
+instances: 1, word: 'Crave', work: 'Mac'},
+instances: 1, word: 'Craves', work: 'Mac'},
+instances: 1, word: 'Craving', work: 'Mac'},
+instances: 1, word: 'Crazed', work: 'Mac'},
+instances: 1, word: 'Cream-faced', work: 'Mac'},
+instances: 1, word: 'Create', work: 'Mac'},
+instances: 1, word: 'Creation', work: 'Mac'},
+instances: 1, word: 'Creeps', work: 'Mac'},
+instances: 1, word: 'Crests', work: 'Mac'},
+instances: 1, word: 'Crew', work: 'Mac'},
+instances: 1, word: 'Cribbed', work: 'Mac'},
+instances: 1, word: 'Crickets', work: 'Mac'},
+instances: 1, word: 'Crime', work: 'Mac'},
+instances: 1, word: 'Croaks', work: 'Mac'},
+instances: 1, word: 'Crossed', work: 'Mac'},
+instances: 1, word: 'Crow', work: 'Mac'},
+instances: 1, word: 'Crowns', work: 'Mac'},
+instances: 1, word: 'Curbing', work: 'Mac'},
+instances: 1, word: 'Cures', work: 'Mac'},
+instances: 1, word: 'Curs', work: 'Mac'},
+instances: 1, word: 'Curses', work: 'Mac'},
+instances: 1, word: 'Curtained', work: 'Mac'},
+instances: 1, word: 'Cutthroats', work: 'Mac'},
+instances: 1, word: 'Dainty', work: 'Mac'},
+instances: 1, word: 'Dam', work: 'Mac'},
+instances: 1, word: 'Dame', work: 'Mac'},
+instances: 1, word: 'Dames', work: 'Mac'},
+instances: 1, word: 'Damn', work: 'Mac'},
+instances: 1, word: 'Damnation', work: 'Mac'},
+instances: 1, word: 'Dangerous', work: 'Mac'},
+instances: 1, word: 'Dareful', work: 'Mac'},
+instances: 1, word: 'Dashed', work: 'Mac'},
+instances: 1, word: 'Daughters', work: 'Mac'},
+instances: 1, word: 'Dauntless', work: 'Mac'},
+instances: 1, word: 'Deadly', work: 'Mac'},
+instances: 1, word: 'Deaf', work: 'Mac'},
+instances: 1, word: 'Deal', work: 'Mac'},
+instances: 1, word: 'Death\'s', work: 'Mac'},
+instances: 1, word: 'Debt', work: 'Mac'},
+instances: 1, word: 'Deceitful', work: 'Mac'},
+instances: 1, word: 'Deceive', work: 'Mac'},
+instances: 1, word: 'Decision', work: 'Mac'},
+instances: 1, word: 'Dedicate', work: 'Mac'},
+instances: 1, word: 'Deeper', work: 'Mac'},
+instances: 1, word: 'Deepest', work: 'Mac'},
+instances: 1, word: 'Deeply', work: 'Mac'},
+instances: 1, word: 'Deer', work: 'Mac'},
+instances: 1, word: 'Defect', work: 'Mac'},
+instances: 1, word: 'Deftly', work: 'Mac'},
+instances: 1, word: 'Degrees', work: 'Mac'},
+instances: 1, word: 'Deign', work: 'Mac'},
+instances: 1, word: 'Delicate', work: 'Mac'},
+instances: 1, word: 'Delights', work: 'Mac'},
+instances: 1, word: 'Delinquents', work: 'Mac'},
+instances: 1, word: 'Deliver', work: 'Mac'},
+instances: 1, word: 'Delivers', work: 'Mac'},
+instances: 1, word: 'Demand', work: 'Mac'},
+instances: 1, word: 'Demerits', work: 'Mac'},
+instances: 1, word: 'Demi-wolves', work: 'Mac'},
+instances: 1, word: 'Denies', work: 'Mac'},
+instances: 1, word: 'Depart', work: 'Mac'},
+instances: 1, word: 'Descended', work: 'Mac'},
+instances: 1, word: 'Deserve', work: 'Mac'},
+instances: 1, word: 'Deservers', work: 'Mac'},
+instances: 1, word: 'Design', work: 'Mac'},
+instances: 1, word: 'Desired', work: 'Mac'},
+instances: 1, word: 'Desires', work: 'Mac'},
+instances: 1, word: 'Desolate', work: 'Mac'},
+instances: 1, word: 'Despise', work: 'Mac'},
+instances: 1, word: 'Destiny', work: 'Mac'},
+instances: 1, word: 'Destroying', work: 'Mac'},
+instances: 1, word: 'Detraction', work: 'Mac'},
+instances: 1, word: 'Devil-porter', work: 'Mac'},
+instances: 1, word: 'Devilish', work: 'Mac'},
+instances: 1, word: 'Devil\'s', work: 'Mac'},
+instances: 1, word: 'Devotion', work: 'Mac'},
+instances: 1, word: 'Devour', work: 'Mac'},
+instances: 1, word: 'Dew', work: 'Mac'},
+instances: 1, word: 'Diamond', work: 'Mac'},
+instances: 1, word: 'Digestion', work: 'Mac'},
+instances: 1, word: 'Digged', work: 'Mac'},
+instances: 1, word: 'Dignities', work: 'Mac'},
+instances: 1, word: 'Dignity', work: 'Mac'},
+instances: 1, word: 'Diminutive', work: 'Mac'},
+instances: 1, word: 'Directly', work: 'Mac'},
+instances: 1, word: 'Direful', work: 'Mac'},
+instances: 1, word: 'Direness', work: 'Mac'},
+instances: 1, word: 'Direst', work: 'Mac'},
+instances: 1, word: 'Disasters', work: 'Mac'},
+instances: 1, word: 'Disbursèd', work: 'Mac'},
+instances: 1, word: 'Discharge', work: 'Mac'},
+instances: 1, word: 'Discovery', work: 'Mac'},
+instances: 1, word: 'Disdaining', work: 'Mac'},
+instances: 1, word: 'Diseased', work: 'Mac'},
+instances: 1, word: 'Disguising', work: 'Mac'},
+instances: 1, word: 'Disheartens', work: 'Mac'},
+instances: 1, word: 'Dishonors', work: 'Mac'},
+instances: 1, word: 'Disjoint', work: 'Mac'},
+instances: 1, word: 'Disloyal', work: 'Mac'},
+instances: 1, word: 'Dismayed', work: 'Mac'},
+instances: 1, word: 'Dismiss', work: 'Mac'},
+instances: 1, word: 'Disorder', work: 'Mac'},
+instances: 1, word: 'Dispatched', work: 'Mac'},
+instances: 1, word: 'Displaced', work: 'Mac'},
+instances: 1, word: 'Disposition', work: 'Mac'},
+instances: 1, word: 'Dispute', work: 'Mac'},
+instances: 1, word: 'Disseat', work: 'Mac'},
+instances: 1, word: 'Distempered', work: 'Mac'},
+instances: 1, word: 'Distilled', work: 'Mac'},
+instances: 1, word: 'Distinguishes', work: 'Mac'},
+instances: 1, word: 'Distracted', work: 'Mac'},
+instances: 1, word: 'Distresses', work: 'Mac'},
+instances: 1, word: 'Ditch', work: 'Mac'},
+instances: 1, word: 'Ditch-delivered', work: 'Mac'},
+instances: 1, word: 'Divine', work: 'Mac'},
+instances: 1, word: 'Division', work: 'Mac'},
+instances: 1, word: 'Doff', work: 'Mac'},
+instances: 1, word: 'Dog', work: 'Mac'},
+instances: 1, word: 'Dollars', work: 'Mac'},
+instances: 1, word: 'Dolor', work: 'Mac'},
+instances: 1, word: 'Domestic', work: 'Mac'},
+instances: 1, word: 'Doom', work: 'Mac'},
+instances: 1, word: 'Doom\'s', work: 'Mac'},
+instances: 1, word: 'Doors', work: 'Mac'},
+instances: 1, word: 'Doubly', work: 'Mac'},
+instances: 1, word: 'Downfall\'n', work: 'Mac'},
+instances: 1, word: 'Downy', work: 'Mac'},
+instances: 1, word: 'Drab', work: 'Mac'},
+instances: 1, word: 'Dragon', work: 'Mac'},
+instances: 1, word: 'Drain', work: 'Mac'},
+instances: 1, word: 'Drawn', work: 'Mac'},
+instances: 1, word: 'Dread', work: 'Mac'},
+instances: 1, word: 'Dreamt', work: 'Mac'},
+instances: 1, word: 'Drenchèd', work: 'Mac'},
+instances: 1, word: 'Dress', work: 'Mac'},
+instances: 1, word: 'Dressed', work: 'Mac'},
+instances: 1, word: 'Droop', work: 'Mac'},
+instances: 1, word: 'Drops', work: 'Mac'},
+instances: 1, word: 'Drowse', work: 'Mac'},
+instances: 1, word: 'Drowsy', work: 'Mac'},
+instances: 1, word: 'Drug', work: 'Mac'},
+instances: 1, word: 'Drugged', work: 'Mac'},
+instances: 1, word: 'Dry', work: 'Mac'},
+instances: 1, word: 'Dudgeon', work: 'Mac'},
+instances: 1, word: 'Dues', work: 'Mac'},
+instances: 1, word: 'Duff', work: 'Mac'},
+instances: 1, word: 'Dull', work: 'Mac'},
+instances: 1, word: 'Dunnest', work: 'Mac'},
+instances: 1, word: 'Durst', work: 'Mac'},
+instances: 1, word: 'Dusty', work: 'Mac'},
+instances: 1, word: 'Dwarfish', work: 'Mac'},
+instances: 1, word: 'Dwell', work: 'Mac'},
+instances: 1, word: 'Dwindle', work: 'Mac'},
+instances: 1, word: 'Dying', work: 'Mac'},
+instances: 1, word: 'Eagles', work: 'Mac'},
+instances: 1, word: 'Earls', work: 'Mac'},
+instances: 1, word: 'Earthbound', work: 'Mac'},
+instances: 1, word: 'Earthly', work: 'Mac'},
+instances: 1, word: 'Easier', work: 'Mac'},
+instances: 1, word: 'East', work: 'Mac'},
+instances: 1, word: 'Echo', work: 'Mac'},
+instances: 1, word: 'Eclipse', work: 'Mac'},
+instances: 1, word: 'Edward', work: 'Mac'},
+instances: 1, word: 'Effect', work: 'Mac'},
+instances: 1, word: 'Effects', work: 'Mac'},
+instances: 1, word: 'Egg', work: 'Mac'},
+instances: 1, word: 'Eighth', work: 'Mac'},
+instances: 1, word: 'Eldest', work: 'Mac'},
+instances: 1, word: 'Elves', work: 'Mac'},
+instances: 1, word: 'Embrace', work: 'Mac'},
+instances: 1, word: 'Eminence', work: 'Mac'},
+instances: 1, word: 'Empty', work: 'Mac'},
+instances: 1, word: 'Emptying', work: 'Mac'},
+instances: 1, word: 'Enchanting', work: 'Mac'},
+instances: 1, word: 'Encounter', work: 'Mac'},
+instances: 1, word: 'End-all', work: 'Mac'},
+instances: 1, word: 'Enfold', work: 'Mac'},
+instances: 1, word: 'Enkindle', work: 'Mac'},
+instances: 1, word: 'Enrage', work: 'Mac'},
+instances: 1, word: 'Enrages', work: 'Mac'},
+instances: 1, word: 'Enter', work: 'Mac'},
+instances: 1, word: 'Enterprise', work: 'Mac'},
+instances: 1, word: 'Entomb', work: 'Mac'},
+instances: 1, word: 'Entrails', work: 'Mac'},
+instances: 1, word: 'Entreat', work: 'Mac'},
+instances: 1, word: 'Entry', work: 'Mac'},
+instances: 1, word: 'Epicures', work: 'Mac'},
+instances: 1, word: 'Equivocate', work: 'Mac'},
+instances: 1, word: 'Equivocates', work: 'Mac'},
+instances: 1, word: 'Equivocation', work: 'Mac'},
+instances: 1, word: 'Err', work: 'Mac'},
+instances: 1, word: 'Especially', work: 'Mac'},
+instances: 1, word: 'Establish', work: 'Mac'},
+instances: 1, word: 'Esteem\'st', work: 'Mac'},
+instances: 1, word: 'Eterne', work: 'Mac'},
+instances: 1, word: 'Even-handed', work: 'Mac'},
+instances: 1, word: 'Event', work: 'Mac'},
+instances: 1, word: 'Events', work: 'Mac'},
+instances: 1, word: 'Ever-gentle', work: 'Mac'},
+instances: 1, word: 'Everlasting', work: 'Mac'},
+instances: 1, word: 'Everyone', work: 'Mac'},
+instances: 1, word: 'Evil', work: 'Mac'},
+instances: 1, word: 'Exasperate', work: 'Mac'},
+instances: 1, word: 'Except', work: 'Mac'},
+instances: 1, word: 'Excite', work: 'Mac'},
+instances: 1, word: 'Exiled', work: 'Mac'},
+instances: 1, word: 'Expedition', work: 'Mac'},
+instances: 1, word: 'Expense', work: 'Mac'},
+instances: 1, word: 'Expire', work: 'Mac'},
+instances: 1, word: 'Exploits', work: 'Mac'},
+instances: 1, word: 'Exposure', work: 'Mac'},
+instances: 1, word: 'Extend', work: 'Mac'},
+instances: 1, word: 'Eyeballs', work: 'Mac'},
+instances: 1, word: 'E\'er', work: 'Mac'},
+instances: 1, word: 'Faced', work: 'Mac'},
+instances: 1, word: 'Fact', work: 'Mac'},
+instances: 1, word: 'Faculties', work: 'Mac'},
+instances: 1, word: 'Failed', work: 'Mac'},
+instances: 1, word: 'Fain', work: 'Mac'},
+instances: 1, word: 'Faint', work: 'Mac'},
+instances: 1, word: 'Fairer', work: 'Mac'},
+instances: 1, word: 'Fairest', work: 'Mac'},
+instances: 1, word: 'Fairies', work: 'Mac'},
+instances: 1, word: 'Faith-breach', work: 'Mac'},
+instances: 1, word: 'Faithful', work: 'Mac'},
+instances: 1, word: 'Falcon', work: 'Mac'},
+instances: 1, word: 'Falls', work: 'Mac'},
+instances: 1, word: 'Fall\'n', work: 'Mac'},
+instances: 1, word: 'Familiar', work: 'Mac'},
+instances: 1, word: 'Fan', work: 'Mac'},
+instances: 1, word: 'Farmer', work: 'Mac'},
+instances: 1, word: 'Farrow', work: 'Mac'},
+instances: 1, word: 'Farther', work: 'Mac'},
+instances: 1, word: 'Fathered', work: 'Mac'},
+instances: 1, word: 'Fatherless', work: 'Mac'},
+instances: 1, word: 'Favors', work: 'Mac'},
+instances: 1, word: 'Feared', work: 'Mac'},
+instances: 1, word: 'Fearful', work: 'Mac'},
+instances: 1, word: 'Feasts', work: 'Mac'},
+instances: 1, word: 'Feat', work: 'Mac'},
+instances: 1, word: 'Fed', work: 'Mac'},
+instances: 1, word: 'Fee-grief', work: 'Mac'},
+instances: 1, word: 'Feeling', work: 'Mac'},
+instances: 1, word: 'Fee\'d', work: 'Mac'},
+instances: 1, word: 'Felt', work: 'Mac'},
+instances: 1, word: 'Fenny', work: 'Mac'},
+instances: 1, word: 'Fever', work: 'Mac'},
+instances: 1, word: 'Feverous', work: 'Mac'},
+instances: 1, word: 'Few', work: 'Mac'},
+instances: 1, word: 'Fiend-like', work: 'Mac'},
+instances: 1, word: 'Fiends', work: 'Mac'},
+instances: 1, word: 'Filed', work: 'Mac'},
+instances: 1, word: 'Fillet', work: 'Mac'},
+instances: 1, word: 'Filling', work: 'Mac'},
+instances: 1, word: 'Finding', work: 'Mac'},
+instances: 1, word: 'Fires', work: 'Mac'},
+instances: 1, word: 'Firm-set', work: 'Mac'},
+instances: 1, word: 'Fitful', work: 'Mac'},
+instances: 1, word: 'Fitness', work: 'Mac'},
+instances: 1, word: 'Fits', work: 'Mac'},
+instances: 1, word: 'Fixed', work: 'Mac'},
+instances: 1, word: 'Flame', work: 'Mac'},
+instances: 1, word: 'Flattering', work: 'Mac'},
+instances: 1, word: 'Flaws', work: 'Mac'},
+instances: 1, word: 'Flesh', work: 'Mac'},
+instances: 1, word: 'Flies', work: 'Mac'},
+instances: 1, word: 'Flighty', work: 'Mac'},
+instances: 1, word: 'Float', work: 'Mac'},
+instances: 1, word: 'Flout', work: 'Mac'},
+instances: 1, word: 'Flowers', work: 'Mac'},
+instances: 1, word: 'Flown', work: 'Mac'},
+instances: 1, word: 'Flung', work: 'Mac'},
+instances: 1, word: 'Flying', work: 'Mac'},
+instances: 1, word: 'Foe', work: 'Mac'},
+instances: 1, word: 'Fog', work: 'Mac'},
+instances: 1, word: 'Foggy', work: 'Mac'},
+instances: 1, word: 'Foisons', work: 'Mac'},
+instances: 1, word: 'Fold', work: 'Mac'},
+instances: 1, word: 'Follows', work: 'Mac'},
+instances: 1, word: 'Foolish', work: 'Mac'},
+instances: 1, word: 'Force', work: 'Mac'},
+instances: 1, word: 'Forced', work: 'Mac'},
+instances: 1, word: 'Foreign', work: 'Mac'},
+instances: 1, word: 'Forge', work: 'Mac'},
+instances: 1, word: 'Forget', work: 'Mac'},
+instances: 1, word: 'Forgot', work: 'Mac'},
+instances: 1, word: 'Fork', work: 'Mac'},
+instances: 1, word: 'Form', work: 'Mac'},
+instances: 1, word: 'Forres', work: 'Mac'},
+instances: 1, word: 'Forsworn', work: 'Mac'},
+instances: 1, word: 'Fortifies', work: 'Mac'},
+instances: 1, word: 'Fortitude', work: 'Mac'},
+instances: 1, word: 'Foully', work: 'Mac'},
+instances: 1, word: 'Foundations', work: 'Mac'},
+instances: 1, word: 'Founded', work: 'Mac'},
+instances: 1, word: 'Fountain', work: 'Mac'},
+instances: 1, word: 'Fourth', work: 'Mac'},
+instances: 1, word: 'Frailties', work: 'Mac'},
+instances: 1, word: 'Frame', work: 'Mac'},
+instances: 1, word: 'Franchised', work: 'Mac'},
+instances: 1, word: 'Frankly', work: 'Mac'},
+instances: 1, word: 'Freely', work: 'Mac'},
+instances: 1, word: 'French', work: 'Mac'},
+instances: 1, word: 'Fresh', work: 'Mac'},
+instances: 1, word: 'Frieze', work: 'Mac'},
+instances: 1, word: 'Fright', work: 'Mac'},
+instances: 1, word: 'Frog', work: 'Mac'},
+instances: 1, word: 'Fruitless', work: 'Mac'},
+instances: 1, word: 'Fry', work: 'Mac'},
+instances: 1, word: 'Fullness', work: 'Mac'},
+instances: 1, word: 'Fume', work: 'Mac'},
+instances: 1, word: 'Function', work: 'Mac'},
+instances: 1, word: 'Furbished', work: 'Mac'},
+instances: 1, word: 'Furious', work: 'Mac'},
+instances: 1, word: 'Future', work: 'Mac'},
+instances: 1, word: 'Gains', work: 'Mac'},
+instances: 1, word: 'Galloping', work: 'Mac'},
+instances: 1, word: 'Gallowglasses', work: 'Mac'},
+instances: 1, word: 'Gap', work: 'Mac'},
+instances: 1, word: 'Garments', work: 'Mac'},
+instances: 1, word: 'Gash', work: 'Mac'},
+instances: 1, word: 'Gashed', work: 'Mac'},
+instances: 1, word: 'Gaze', work: 'Mac'},
+instances: 1, word: 'Geese', work: 'Mac'},
+instances: 1, word: 'Genius', work: 'Mac'},
+instances: 1, word: 'Gently', work: 'Mac'},
+instances: 1, word: 'Gentry', work: 'Mac'},
+instances: 1, word: 'Germens', work: 'Mac'},
+instances: 1, word: 'Ghost', work: 'Mac'},
+instances: 1, word: 'Ghosts', work: 'Mac'},
+instances: 1, word: 'Giant\'s', work: 'Mac'},
+instances: 1, word: 'Gibbet', work: 'Mac'},
+instances: 1, word: 'Gild', work: 'Mac'},
+instances: 1, word: 'Gin', work: 'Mac'},
+instances: 1, word: 'Girl', work: 'Mac'},
+instances: 1, word: 'Giving', work: 'Mac'},
+instances: 1, word: 'Gladly', work: 'Mac'},
+instances: 1, word: 'Glare', work: 'Mac'},
+instances: 1, word: 'Glass', work: 'Mac'},
+instances: 1, word: 'Glimmers', work: 'Mac'},
+instances: 1, word: 'Glory', work: 'Mac'},
+instances: 1, word: 'Gloss', work: 'Mac'},
+instances: 1, word: 'Goat', work: 'Mac'},
+instances: 1, word: 'Gold-bound', work: 'Mac'},
+instances: 1, word: 'Golgotha', work: 'Mac'},
+instances: 1, word: 'Good-night', work: 'Mac'},
+instances: 1, word: 'Goodly', work: 'Mac'},
+instances: 1, word: 'Goose', work: 'Mac'},
+instances: 1, word: 'Goose-look', work: 'Mac'},
+instances: 1, word: 'Gore', work: 'Mac'},
+instances: 1, word: 'Gorgon', work: 'Mac'},
+instances: 1, word: 'Gory', work: 'Mac'},
+instances: 1, word: 'Gospeled', work: 'Mac'},
+instances: 1, word: 'Got\'st', work: 'Mac'},
+instances: 1, word: 'Gouts', work: 'Mac'},
+instances: 1, word: 'Graced', work: 'Mac'},
+instances: 1, word: 'Grace\'s', work: 'Mac'},
+instances: 1, word: 'Grafted', work: 'Mac'},
+instances: 1, word: 'Grain', work: 'Mac'},
+instances: 1, word: 'Grandam', work: 'Mac'},
+instances: 1, word: 'Grapples', work: 'Mac'},
+instances: 1, word: 'Grasp', work: 'Mac'},
+instances: 1, word: 'Graymalkin', work: 'Mac'},
+instances: 1, word: 'Grease', work: 'Mac'},
+instances: 1, word: 'Greeting', work: 'Mac'},
+instances: 1, word: 'Greets', work: 'Mac'},
+instances: 1, word: 'Greyhounds', work: 'Mac'},
+instances: 1, word: 'Griefs', work: 'Mac'},
+instances: 1, word: 'Grim', work: 'Mac'},
+instances: 1, word: 'Grip', work: 'Mac'},
+instances: 1, word: 'Groans', work: 'Mac'},
+instances: 1, word: 'Grove', work: 'Mac'},
+instances: 1, word: 'Growing', work: 'Mac'},
+instances: 1, word: 'Grown', work: 'Mac'},
+instances: 1, word: 'Gruel', work: 'Mac'},
+instances: 1, word: 'Guardian', work: 'Mac'},
+instances: 1, word: 'Guess', work: 'Mac'},
+instances: 1, word: 'Guests', work: 'Mac'},
+instances: 1, word: 'Guide', work: 'Mac'},
+instances: 1, word: 'Guise', work: 'Mac'},
+instances: 1, word: 'Gulf', work: 'Mac'},
+instances: 1, word: 'Gums', work: 'Mac'},
+instances: 1, word: 'Hacked', work: 'Mac'},
+instances: 1, word: 'Hailed', work: 'Mac'},
+instances: 1, word: 'Hairs', work: 'Mac'},
+instances: 1, word: 'Hall', work: 'Mac'},
+instances: 1, word: 'Handle', work: 'Mac'},
+instances: 1, word: 'Hanging', work: 'Mac'},
+instances: 1, word: 'Hangman\'s', work: 'Mac'},
+instances: 1, word: 'Hangs', work: 'Mac'},
+instances: 1, word: 'Happier', work: 'Mac'},
+instances: 1, word: 'Happily', work: 'Mac'},
+instances: 1, word: 'Happiness', work: 'Mac'},
+instances: 1, word: 'Harbinger', work: 'Mac'},
+instances: 1, word: 'Harbingers', work: 'Mac'},
+instances: 1, word: 'Hardly', work: 'Mac'},
+instances: 1, word: 'Hardy', work: 'Mac'},
+instances: 1, word: 'Hare', work: 'Mac'},
+instances: 1, word: 'Harness', work: 'Mac'},
+instances: 1, word: 'Harped', work: 'Mac'},
+instances: 1, word: 'Harpier', work: 'Mac'},
+instances: 1, word: 'Harvest', work: 'Mac'},
+instances: 1, word: 'Hat', work: 'Mac'},
+instances: 1, word: 'Hatched', work: 'Mac'},
+instances: 1, word: 'Hateful', work: 'Mac'},
+instances: 1, word: 'Hawked', work: 'Mac'},
+instances: 1, word: 'Hay', work: 'Mac'},
+instances: 1, word: 'Healing', work: 'Mac'},
+instances: 1, word: 'Heaped', work: 'Mac'},
+instances: 1, word: 'Hearers', work: 'Mac'},
+instances: 1, word: 'Hearts\'', work: 'Mac'},
+instances: 1, word: 'Hearty', work: 'Mac'},
+instances: 1, word: 'Hear\'st', work: 'Mac'},
+instances: 1, word: 'Heat', work: 'Mac'},
+instances: 1, word: 'Heat-oppressèd', work: 'Mac'},
+instances: 1, word: 'Heavenly', work: 'Mac'},
+instances: 1, word: 'Heaviest', work: 'Mac'},
+instances: 1, word: 'Heavily', work: 'Mac'},
+instances: 1, word: 'Hecate', work: 'Mac'},
+instances: 1, word: 'Hedge-pig', work: 'Mac'},
+instances: 1, word: 'Held', work: 'Mac'},
+instances: 1, word: 'Hell-broth', work: 'Mac'},
+instances: 1, word: 'Hell-kite', work: 'Mac'},
+instances: 1, word: 'Hellhound', work: 'Mac'},
+instances: 1, word: 'Helped', work: 'Mac'},
+instances: 1, word: 'Hemlock', work: 'Mac'},
+instances: 1, word: 'Henceforth', work: 'Mac'},
+instances: 1, word: 'Herald', work: 'Mac'},
+instances: 1, word: 'Here-approach', work: 'Mac'},
+instances: 1, word: 'Here-remain', work: 'Mac'},
+instances: 1, word: 'Herein', work: 'Mac'},
+instances: 1, word: 'Hermits', work: 'Mac'},
+instances: 1, word: 'Herself', work: 'Mac'},
+instances: 1, word: 'Hew', work: 'Mac'},
+instances: 1, word: 'Hidden', work: 'Mac'},
+instances: 1, word: 'Hideous', work: 'Mac'},
+instances: 1, word: 'High-placed', work: 'Mac'},
+instances: 1, word: 'Hired', work: 'Mac'},
+instances: 1, word: 'Hiss', work: 'Mac'},
+instances: 1, word: 'Hit', work: 'Mac'},
+instances: 1, word: 'Hoarse', work: 'Mac'},
+instances: 1, word: 'Holds', work: 'Mac'},
+instances: 1, word: 'Hole', work: 'Mac'},
+instances: 1, word: 'Homage', work: 'Mac'},
+instances: 1, word: 'Homely', work: 'Mac'},
+instances: 1, word: 'Homeward', work: 'Mac'},
+instances: 1, word: 'Hoodwink', work: 'Mac'},
+instances: 1, word: 'Horrors', work: 'Mac'},
+instances: 1, word: 'Horsed', work: 'Mac'},
+instances: 1, word: 'Hose', work: 'Mac'},
+instances: 1, word: 'Hotter', work: 'Mac'},
+instances: 1, word: 'Hounds', work: 'Mac'},
+instances: 1, word: 'Hours', work: 'Mac'},
+instances: 1, word: 'Hour\'s', work: 'Mac'},
+instances: 1, word: 'Housekeeper', work: 'Mac'},
+instances: 1, word: 'Houses', work: 'Mac'},
+instances: 1, word: 'Hover', work: 'Mac'},
+instances: 1, word: 'Howe\'er', work: 'Mac'},
+instances: 1, word: 'Howl', work: 'Mac'},
+instances: 1, word: 'Howled', work: 'Mac'},
+instances: 1, word: 'Howlet\'s', work: 'Mac'},
+instances: 1, word: 'Howl\'s', work: 'Mac'},
+instances: 1, word: 'Hum', work: 'Mac'},
+instances: 1, word: 'Human', work: 'Mac'},
+instances: 1, word: 'Humane', work: 'Mac'},
+instances: 1, word: 'Humble', work: 'Mac'},
+instances: 1, word: 'Humbly', work: 'Mac'},
+instances: 1, word: 'Hunger', work: 'Mac'},
+instances: 1, word: 'Hunter', work: 'Mac'},
+instances: 1, word: 'Hurly-burly\'s', work: 'Mac'},
+instances: 1, word: 'Hurt', work: 'Mac'},
+instances: 1, word: 'Hurts', work: 'Mac'},
+instances: 1, word: 'Husbandry', work: 'Mac'},
+instances: 1, word: 'Husband\'s', work: 'Mac'},
+instances: 1, word: 'Hush', work: 'Mac'},
+instances: 1, word: 'Hyrcan', work: 'Mac'},
+instances: 1, word: 'Idiot', work: 'Mac'},
+instances: 1, word: 'Ill-composed', work: 'Mac'},
+instances: 1, word: 'Illness', work: 'Mac'},
+instances: 1, word: 'Illusion', work: 'Mac'},
+instances: 1, word: 'Images', work: 'Mac'},
+instances: 1, word: 'Imaginings', work: 'Mac'},
+instances: 1, word: 'Impedes', work: 'Mac'},
+instances: 1, word: 'Impediments', work: 'Mac'},
+instances: 1, word: 'Imperfect', work: 'Mac'},
+instances: 1, word: 'Implored', work: 'Mac'},
+instances: 1, word: 'Impostors', work: 'Mac'},
+instances: 1, word: 'Incarnadine', work: 'Mac'},
+instances: 1, word: 'Incensed', work: 'Mac'},
+instances: 1, word: 'Inch', work: 'Mac'},
+instances: 1, word: 'Inclined', work: 'Mac'},
+instances: 1, word: 'Indissoluble', work: 'Mac'},
+instances: 1, word: 'Industrious', work: 'Mac'},
+instances: 1, word: 'Infirm', work: 'Mac'},
+instances: 1, word: 'Infirmity', work: 'Mac'},
+instances: 1, word: 'Informed', work: 'Mac'},
+instances: 1, word: 'Informs', work: 'Mac'},
+instances: 1, word: 'Ingratitude', work: 'Mac'},
+instances: 1, word: 'Inhabit', work: 'Mac'},
+instances: 1, word: 'Inhabitants', work: 'Mac'},
+instances: 1, word: 'Initiate', work: 'Mac'},
+instances: 1, word: 'Inn', work: 'Mac'},
+instances: 1, word: 'Insane', work: 'Mac'},
+instances: 1, word: 'Instructions', work: 'Mac'},
+instances: 1, word: 'Instrument', work: 'Mac'},
+instances: 1, word: 'Integrity', work: 'Mac'},
+instances: 1, word: 'Intelligence', work: 'Mac'},
+instances: 1, word: 'Intemperance', work: 'Mac'},
+instances: 1, word: 'Intent', work: 'Mac'},
+instances: 1, word: 'Interdiction', work: 'Mac'},
+instances: 1, word: 'Interest', work: 'Mac'},
+instances: 1, word: 'Interim', work: 'Mac'},
+instances: 1, word: 'Intermission', work: 'Mac'},
+instances: 1, word: 'Intrenchant', work: 'Mac'},
+instances: 1, word: 'Invention', work: 'Mac'},
+instances: 1, word: 'Inventor', work: 'Mac'},
+instances: 1, word: 'Inverness', work: 'Mac'},
+instances: 1, word: 'Invest', work: 'Mac'},
+instances: 1, word: 'Invested', work: 'Mac'},
+instances: 1, word: 'Invisible', work: 'Mac'},
+instances: 1, word: 'Invites', work: 'Mac'},
+instances: 1, word: 'Isles', work: 'Mac'},
+instances: 1, word: 'I\'d', work: 'Mac'},
+instances: 1, word: 'Jealousies', work: 'Mac'},
+instances: 1, word: 'Jew', work: 'Mac'},
+instances: 1, word: 'Jewel', work: 'Mac'},
+instances: 1, word: 'Jewels', work: 'Mac'},
+instances: 1, word: 'Jocund', work: 'Mac'},
+instances: 1, word: 'Join', work: 'Mac'},
+instances: 1, word: 'Jointly', work: 'Mac'},
+instances: 1, word: 'Journey', work: 'Mac'},
+instances: 1, word: 'Jovial', work: 'Mac'},
+instances: 1, word: 'Joys', work: 'Mac'},
+instances: 1, word: 'Judicious', work: 'Mac'},
+instances: 1, word: 'Juggling', work: 'Mac'},
+instances: 1, word: 'Jump', work: 'Mac'},
+instances: 1, word: 'Jutty', work: 'Mac'},
+instances: 1, word: 'Killing', work: 'Mac'},
+instances: 1, word: 'Kindly', work: 'Mac'},
+instances: 1, word: 'Kindness', work: 'Mac'},
+instances: 1, word: 'Kind\'st', work: 'Mac'},
+instances: 1, word: 'King-becoming', work: 'Mac'},
+instances: 1, word: 'Kingdom', work: 'Mac'},
+instances: 1, word: 'Kites', work: 'Mac'},
+instances: 1, word: 'Knees', work: 'Mac'},
+instances: 1, word: 'Knit', work: 'Mac'},
+instances: 1, word: 'Knits', work: 'Mac'},
+instances: 1, word: 'Knives', work: 'Mac'},
+instances: 1, word: 'Knocks', work: 'Mac'},
+instances: 1, word: 'Knolled', work: 'Mac'},
+instances: 1, word: 'Knots', work: 'Mac'},
+instances: 1, word: 'Knowings', work: 'Mac'},
+instances: 1, word: 'Know\'st', work: 'Mac'},
+instances: 1, word: 'Labored', work: 'Mac'},
+instances: 1, word: 'Labor\'s', work: 'Mac'},
+instances: 1, word: 'Laced', work: 'Mac'},
+instances: 1, word: 'Lamentings', work: 'Mac'},
+instances: 1, word: 'Lamp', work: 'Mac'},
+instances: 1, word: 'Lands', work: 'Mac'},
+instances: 1, word: 'Lap', work: 'Mac'},
+instances: 1, word: 'Lapped', work: 'Mac'},
+instances: 1, word: 'Largess', work: 'Mac'},
+instances: 1, word: 'Latch', work: 'Mac'},
+instances: 1, word: 'Lated', work: 'Mac'},
+instances: 1, word: 'Later', work: 'Mac'},
+instances: 1, word: 'Laudable', work: 'Mac'},
+instances: 1, word: 'Lave', work: 'Mac'},
+instances: 1, word: 'Lavish', work: 'Mac'},
+instances: 1, word: 'Laying', work: 'Mac'},
+instances: 1, word: 'Lays', work: 'Mac'},
+instances: 1, word: 'Leafy', work: 'Mac'},
+instances: 1, word: 'Learn', work: 'Mac'},
+instances: 1, word: 'Learned', work: 'Mac'},
+instances: 1, word: 'Lease', work: 'Mac'},
+instances: 1, word: 'Leaving', work: 'Mac'},
+instances: 1, word: 'Lees', work: 'Mac'},
+instances: 1, word: 'Leg', work: 'Mac'},
+instances: 1, word: 'Legions', work: 'Mac'},
+instances: 1, word: 'Legs', work: 'Mac'},
+instances: 1, word: 'Length', work: 'Mac'},
+instances: 1, word: 'Lent', work: 'Mac'},
+instances: 1, word: 'Letters', work: 'Mac'},
+instances: 1, word: 'Letting', work: 'Mac'},
+instances: 1, word: 'Levy', work: 'Mac'},
+instances: 1, word: 'Liar', work: 'Mac'},
+instances: 1, word: 'Lid', work: 'Mac'},
+instances: 1, word: 'Lightning', work: 'Mac'},
+instances: 1, word: 'Lily-livered', work: 'Mac'},
+instances: 1, word: 'Limbeck', work: 'Mac'},
+instances: 1, word: 'Lime', work: 'Mac'},
+instances: 1, word: 'Limited', work: 'Mac'},
+instances: 1, word: 'Linen', work: 'Mac'},
+instances: 1, word: 'Lion', work: 'Mac'},
+instances: 1, word: 'Lion-mettled', work: 'Mac'},
+instances: 1, word: 'List', work: 'Mac'},
+instances: 1, word: 'Listen', work: 'Mac'},
+instances: 1, word: 'List\'ning', work: 'Mac'},
+instances: 1, word: 'Livelong', work: 'Mac'},
+instances: 1, word: 'Liver', work: 'Mac'},
+instances: 1, word: 'Lives\'', work: 'Mac'},
+instances: 1, word: 'Living', work: 'Mac'},
+instances: 1, word: 'Lizard\'s', work: 'Mac'},
+instances: 1, word: 'Loads', work: 'Mac'},
+instances: 1, word: 'Loon', work: 'Mac'},
+instances: 1, word: 'Loose', work: 'Mac'},
+instances: 1, word: 'Lord\'s', work: 'Mac'},
+instances: 1, word: 'Losest', work: 'Mac'},
+instances: 1, word: 'Loud', work: 'Mac'},
+instances: 1, word: 'Low', work: 'Mac'},
+instances: 1, word: 'Lowliness', work: 'Mac'},
+instances: 1, word: 'Loyalty', work: 'Mac'},
+instances: 1, word: 'Luxurious', work: 'Mac'},
+instances: 1, word: 'Macdonwald', work: 'Mac'},
+instances: 1, word: 'Madness', work: 'Mac'},
+instances: 1, word: 'Maggot', work: 'Mac'},
+instances: 1, word: 'Magic', work: 'Mac'},
+instances: 1, word: 'Maids', work: 'Mac'},
+instances: 1, word: 'Malady', work: 'Mac'},
+instances: 1, word: 'Malcolm\'s', work: 'Mac'},
+instances: 1, word: 'Males', work: 'Mac'},
+instances: 1, word: 'Malevolence', work: 'Mac'},
+instances: 1, word: 'Malicious', work: 'Mac'},
+instances: 1, word: 'Mankind', work: 'Mac'},
+instances: 1, word: 'Manner', work: 'Mac'},
+instances: 1, word: 'Mansion', work: 'Mac'},
+instances: 1, word: 'Mansionry', work: 'Mac'},
+instances: 1, word: 'Mar', work: 'Mac'},
+instances: 1, word: 'Marble', work: 'Mac'},
+instances: 1, word: 'Market', work: 'Mac'},
+instances: 1, word: 'Marrowless', work: 'Mac'},
+instances: 1, word: 'Mars', work: 'Mac'},
+instances: 1, word: 'Marshal\'st', work: 'Mac'},
+instances: 1, word: 'Martlet', work: 'Mac'},
+instances: 1, word: 'Marvel\'st', work: 'Mac'},
+instances: 1, word: 'Masking', work: 'Mac'},
+instances: 1, word: 'Masterdom', work: 'Mac'},
+instances: 1, word: 'Masterpiece', work: 'Mac'},
+instances: 1, word: 'Masters\'', work: 'Mac'},
+instances: 1, word: 'Master\'s', work: 'Mac'},
+instances: 1, word: 'Mated', work: 'Mac'},
+instances: 1, word: 'Material', work: 'Mac'},
+instances: 1, word: 'Matrons', work: 'Mac'},
+instances: 1, word: 'Matter', work: 'Mac'},
+instances: 1, word: 'Matters', work: 'Mac'},
+instances: 1, word: 'Maw', work: 'Mac'},
+instances: 1, word: 'Maws', work: 'Mac'},
+instances: 1, word: 'Meal', work: 'Mac'},
+instances: 1, word: 'Meant', work: 'Mac'},
+instances: 1, word: 'Measured', work: 'Mac'},
+instances: 1, word: 'Measureless', work: 'Mac'},
+instances: 1, word: 'Med\'cine', work: 'Mac'},
+instances: 1, word: 'Med\'cines', work: 'Mac'},
+instances: 1, word: 'Meek', work: 'Mac'},
+instances: 1, word: 'Melted', work: 'Mac'},
+instances: 1, word: 'Memorize', work: 'Mac'},
+instances: 1, word: 'Men-children', work: 'Mac'},
+instances: 1, word: 'Mend', work: 'Mac'},
+instances: 1, word: 'Merciless', work: 'Mac'},
+instances: 1, word: 'Messenger', work: 'Mac'},
+instances: 1, word: 'Metaphysical', work: 'Mac'},
+instances: 1, word: 'Methinks', work: 'Mac'},
+instances: 1, word: 'Mettle', work: 'Mac'},
+instances: 1, word: 'Mewed', work: 'Mac'},
+instances: 1, word: 'Midnight', work: 'Mac'},
+instances: 1, word: 'Midst', work: 'Mac'},
+instances: 1, word: 'Might\'st', work: 'Mac'},
+instances: 1, word: 'Milks', work: 'Mac'},
+instances: 1, word: 'Mind\'s', work: 'Mac'},
+instances: 1, word: 'Minion', work: 'Mac'},
+instances: 1, word: 'Minions', work: 'Mac'},
+instances: 1, word: 'Minutely', work: 'Mac'},
+instances: 1, word: 'Miraculous', work: 'Mac'},
+instances: 1, word: 'Mischance', work: 'Mac'},
+instances: 1, word: 'Mischief', work: 'Mac'},
+instances: 1, word: 'Miserable', work: 'Mac'},
+instances: 1, word: 'Missing', work: 'Mac'},
+instances: 1, word: 'Missives', work: 'Mac'},
+instances: 1, word: 'Mistrust', work: 'Mac'},
+instances: 1, word: 'Mock\'ry', work: 'Mac'},
+instances: 1, word: 'Modern', work: 'Mac'},
+instances: 1, word: 'Modest', work: 'Mac'},
+instances: 1, word: 'Mold', work: 'Mac'},
+instances: 1, word: 'Momentary', work: 'Mac'},
+instances: 1, word: 'Mongrels', work: 'Mac'},
+instances: 1, word: 'Monkey', work: 'Mac'},
+instances: 1, word: 'Monsters', work: 'Mac'},
+instances: 1, word: 'Monstrous', work: 'Mac'},
+instances: 1, word: 'Monuments', work: 'Mac'},
+instances: 1, word: 'Moon\'s', work: 'Mac'},
+instances: 1, word: 'More-having', work: 'Mac'},
+instances: 1, word: 'Morn', work: 'Mac'},
+instances: 1, word: 'Mortality', work: 'Mac'},
+instances: 1, word: 'Mortals\'', work: 'Mac'},
+instances: 1, word: 'Mortified', work: 'Mac'},
+instances: 1, word: 'Mother\'s', work: 'Mac'},
+instances: 1, word: 'Motion', work: 'Mac'},
+instances: 1, word: 'Motives', work: 'Mac'},
+instances: 1, word: 'Mousing', work: 'Mac'},
+instances: 1, word: 'Mouth-honor', work: 'Mac'},
+instances: 1, word: 'Mouths', work: 'Mac'},
+instances: 1, word: 'Moving', work: 'Mac'},
+instances: 1, word: 'Multiplying', work: 'Mac'},
+instances: 1, word: 'Multitudinous', work: 'Mac'},
+instances: 1, word: 'Mummy', work: 'Mac'},
+instances: 1, word: 'Murderer', work: 'Mac'},
+instances: 1, word: 'Murderers', work: 'Mac'},
+instances: 1, word: 'Murderers\'', work: 'Mac'},
+instances: 1, word: 'Murderous', work: 'Mac'},
+instances: 1, word: 'Murd\'ring', work: 'Mac'},
+instances: 1, word: 'Murky', work: 'Mac'},
+instances: 1, word: 'Muse', work: 'Mac'},
+instances: 1, word: 'Name\'s', work: 'Mac'},
+instances: 1, word: 'Napkins', work: 'Mac'},
+instances: 1, word: 'Nation', work: 'Mac'},
+instances: 1, word: 'Naught\'s', work: 'Mac'},
+instances: 1, word: 'Nave', work: 'Mac'},
+instances: 1, word: 'Navigation', work: 'Mac'},
+instances: 1, word: 'Nearer', work: 'Mac'},
+instances: 1, word: 'Nearly', work: 'Mac'},
+instances: 1, word: 'Near\'st', work: 'Mac'},
+instances: 1, word: 'Necks', work: 'Mac'},
+instances: 1, word: 'Needed', work: 'Mac'},
+instances: 1, word: 'Needful', work: 'Mac'},
+instances: 1, word: 'Neptune\'s', work: 'Mac'},
+instances: 1, word: 'Nerves', work: 'Mac'},
+instances: 1, word: 'Nest', work: 'Mac'},
+instances: 1, word: 'Net', work: 'Mac'},
+instances: 1, word: 'Neutral', work: 'Mac'},
+instances: 1, word: 'Newborn', work: 'Mac'},
+instances: 1, word: 'Newer', work: 'Mac'},
+instances: 1, word: 'Newly', work: 'Mac'},
+instances: 1, word: 'Newt', work: 'Mac'},
+instances: 1, word: 'Next', work: 'Mac'},
+instances: 1, word: 'Nice', work: 'Mac'},
+instances: 1, word: 'Niggard', work: 'Mac'},
+instances: 1, word: 'Nigh', work: 'Mac'},
+instances: 1, word: 'Night-shriek', work: 'Mac'},
+instances: 1, word: 'Nightly', work: 'Mac'},
+instances: 1, word: 'Nimbly', work: 'Mac'},
+instances: 1, word: 'Nipple', work: 'Mac'},
+instances: 1, word: 'Nobleness', work: 'Mac'},
+instances: 1, word: 'Nobles', work: 'Mac'},
+instances: 1, word: 'Nobly', work: 'Mac'},
+instances: 1, word: 'Nod', work: 'Mac'},
+instances: 1, word: 'Nonpareil', work: 'Mac'},
+instances: 1, word: 'Noon', work: 'Mac'},
+instances: 1, word: 'Northumberland', work: 'Mac'},
+instances: 1, word: 'Norways\'', work: 'Mac'},
+instances: 1, word: 'Nose', work: 'Mac'},
+instances: 1, word: 'Nose-painting', work: 'Mac'},
+instances: 1, word: 'Notion', work: 'Mac'},
+instances: 1, word: 'Nourisher', work: 'Mac'},
+instances: 1, word: 'Oblivious', work: 'Mac'},
+instances: 1, word: 'Obscure', work: 'Mac'},
+instances: 1, word: 'Observe', work: 'Mac'},
+instances: 1, word: 'Observed', work: 'Mac'},
+instances: 1, word: 'Occasion', work: 'Mac'},
+instances: 1, word: 'Ocean', work: 'Mac'},
+instances: 1, word: 'Odds', work: 'Mac'},
+instances: 1, word: 'Offend', work: 'Mac'},
+instances: 1, word: 'Offended', work: 'Mac'},
+instances: 1, word: 'Officers', work: 'Mac'},
+instances: 1, word: 'Off\'rings', work: 'Mac'},
+instances: 1, word: 'Oftentimes', work: 'Mac'},
+instances: 1, word: 'Oft\'ner', work: 'Mac'},
+instances: 1, word: 'Olden', work: 'Mac'},
+instances: 1, word: 'Older', work: 'Mac'},
+instances: 1, word: 'One-half', work: 'Mac'},
+instances: 1, word: 'Ope', work: 'Mac'},
+instances: 1, word: 'Opened', work: 'Mac'},
+instances: 1, word: 'Opinions', work: 'Mac'},
+instances: 1, word: 'Oppose', work: 'Mac'},
+instances: 1, word: 'Opposed', work: 'Mac'},
+instances: 1, word: 'Oracles', work: 'Mac'},
+instances: 1, word: 'Ornament', work: 'Mac'},
+instances: 1, word: 'Orphans', work: 'Mac'},
+instances: 1, word: 'Other\'s', work: 'Mac'},
+instances: 1, word: 'Outrun', work: 'Mac'},
+instances: 1, word: 'Outward', work: 'Mac'},
+instances: 1, word: 'Outwardly', work: 'Mac'},
+instances: 1, word: 'Over-red', work: 'Mac'},
+instances: 1, word: 'Overbold', work: 'Mac'},
+instances: 1, word: 'Overcharged', work: 'Mac'},
+instances: 1, word: 'Overcome', work: 'Mac'},
+instances: 1, word: 'Overcredulous', work: 'Mac'},
+instances: 1, word: 'Overtake', work: 'Mac'},
+instances: 1, word: 'Overthrown', work: 'Mac'},
+instances: 1, word: 'O\'erbear', work: 'Mac'},
+instances: 1, word: 'O\'erfraught', work: 'Mac'},
+instances: 1, word: 'O\'erleap', work: 'Mac'},
+instances: 1, word: 'O\'erleaps', work: 'Mac'},
+instances: 1, word: 'O\'ertook', work: 'Mac'},
+instances: 1, word: 'Paddock', work: 'Mac'},
+instances: 1, word: 'Pain', work: 'Mac'},
+instances: 1, word: 'Painting', work: 'Mac'},
+instances: 1, word: 'Palaces', work: 'Mac'},
+instances: 1, word: 'Pale-hearted', work: 'Mac'},
+instances: 1, word: 'Pall', work: 'Mac'},
+instances: 1, word: 'Palpable', work: 'Mac'},
+instances: 1, word: 'Palter', work: 'Mac'},
+instances: 1, word: 'Paper', work: 'Mac'},
+instances: 1, word: 'Parallel', work: 'Mac'},
+instances: 1, word: 'Parley', work: 'Mac'},
+instances: 1, word: 'Parricide', work: 'Mac'},
+instances: 1, word: 'Parted', work: 'Mac'},
+instances: 1, word: 'Particular', work: 'Mac'},
+instances: 1, word: 'Particulars', work: 'Mac'},
+instances: 1, word: 'Partner\'s', work: 'Mac'},
+instances: 1, word: 'Passed', work: 'Mac'},
+instances: 1, word: 'Past', work: 'Mac'},
+instances: 1, word: 'Patch', work: 'Mac'},
+instances: 1, word: 'Pauser', work: 'Mac'},
+instances: 1, word: 'Payment', work: 'Mac'},
+instances: 1, word: 'Pays', work: 'Mac'},
+instances: 1, word: 'Peak', work: 'Mac'},
+instances: 1, word: 'Peal', work: 'Mac'},
+instances: 1, word: 'Pearl', work: 'Mac'},
+instances: 1, word: 'Peep', work: 'Mac'},
+instances: 1, word: 'Peerless', work: 'Mac'},
+instances: 1, word: 'Peers', work: 'Mac'},
+instances: 1, word: 'Pendant', work: 'Mac'},
+instances: 1, word: 'Penthouse', work: 'Mac'},
+instances: 1, word: 'Perceive', work: 'Mac'},
+instances: 1, word: 'Perfect\'st', work: 'Mac'},
+instances: 1, word: 'Performance', work: 'Mac'},
+instances: 1, word: 'Performances', work: 'Mac'},
+instances: 1, word: 'Performed', work: 'Mac'},
+instances: 1, word: 'Perfumes', work: 'Mac'},
+instances: 1, word: 'Perilous', work: 'Mac'},
+instances: 1, word: 'Perseverance', work: 'Mac'},
+instances: 1, word: 'Personal', work: 'Mac'},
+instances: 1, word: 'Persuades', work: 'Mac'},
+instances: 1, word: 'Pertains', work: 'Mac'},
+instances: 1, word: 'Perturbation', work: 'Mac'},
+instances: 1, word: 'Pestered', work: 'Mac'},
+instances: 1, word: 'Petty', work: 'Mac'},
+instances: 1, word: 'Physic', work: 'Mac'},
+instances: 1, word: 'Physician', work: 'Mac'},
+instances: 1, word: 'Physics', work: 'Mac'},
+instances: 1, word: 'Pictures', work: 'Mac'},
+instances: 1, word: 'Piece', work: 'Mac'},
+instances: 1, word: 'Pieces', work: 'Mac'},
+instances: 1, word: 'Pies', work: 'Mac'},
+instances: 1, word: 'Pilot\'s', work: 'Mac'},
+instances: 1, word: 'Pit', work: 'Mac'},
+instances: 1, word: 'Pitfall', work: 'Mac'},
+instances: 1, word: 'Pitied', work: 'Mac'},
+instances: 1, word: 'Placed', work: 'Mac'},
+instances: 1, word: 'Places', work: 'Mac'},
+instances: 1, word: 'Plague', work: 'Mac'},
+instances: 1, word: 'Planted', work: 'Mac'},
+instances: 1, word: 'Played\'st', work: 'Mac'},
+instances: 1, word: 'Player', work: 'Mac'},
+instances: 1, word: 'Plead', work: 'Mac'},
+instances: 1, word: 'Pleasant', work: 'Mac'},
+instances: 1, word: 'Pleasures', work: 'Mac'},
+instances: 1, word: 'Pledge', work: 'Mac'},
+instances: 1, word: 'Plenteous', work: 'Mac'},
+instances: 1, word: 'Plight', work: 'Mac'},
+instances: 1, word: 'Plucked', work: 'Mac'},
+instances: 1, word: 'Plucks', work: 'Mac'},
+instances: 1, word: 'Points', work: 'Mac'},
+instances: 1, word: 'Poison', work: 'Mac'},
+instances: 1, word: 'Pole', work: 'Mac'},
+instances: 1, word: 'Poorly', work: 'Mac'},
+instances: 1, word: 'Portable', work: 'Mac'},
+instances: 1, word: 'Ports', work: 'Mac'},
+instances: 1, word: 'Possess', work: 'Mac'},
+instances: 1, word: 'Possets', work: 'Mac'},
+instances: 1, word: 'Posterity', work: 'Mac'},
+instances: 1, word: 'Posters', work: 'Mac'},
+instances: 1, word: 'Pot', work: 'Mac'},
+instances: 1, word: 'Potent', work: 'Mac'},
+instances: 1, word: 'Poured', work: 'Mac'},
+instances: 1, word: 'Powerful', work: 'Mac'},
+instances: 1, word: 'Practice', work: 'Mac'},
+instances: 1, word: 'Prate', work: 'Mac'},
+instances: 1, word: 'Prattler', work: 'Mac'},
+instances: 1, word: 'Predecessors', work: 'Mac'},
+instances: 1, word: 'Prediction', work: 'Mac'},
+instances: 1, word: 'Predominance', work: 'Mac'},
+instances: 1, word: 'Predominant', work: 'Mac'},
+instances: 1, word: 'Prepares', work: 'Mac'},
+instances: 1, word: 'Presently', work: 'Mac'},
+instances: 1, word: 'Preserve', work: 'Mac'},
+instances: 1, word: 'Pretend', work: 'Mac'},
+instances: 1, word: 'Pretense', work: 'Mac'},
+instances: 1, word: 'Preys', work: 'Mac'},
+instances: 1, word: 'Pricking', work: 'Mac'},
+instances: 1, word: 'Pride', work: 'Mac'},
+instances: 1, word: 'Primrose', work: 'Mac'},
+instances: 1, word: 'Prisoner', work: 'Mac'},
+instances: 1, word: 'Pristine', work: 'Mac'},
+instances: 1, word: 'Probation', work: 'Mac'},
+instances: 1, word: 'Proceed', work: 'Mac'},
+instances: 1, word: 'Proceeding', work: 'Mac'},
+instances: 1, word: 'Procreant', work: 'Mac'},
+instances: 1, word: 'Producing', work: 'Mac'},
+instances: 1, word: 'Profess', work: 'Mac'},
+instances: 1, word: 'Professes', work: 'Mac'},
+instances: 1, word: 'Professions', work: 'Mac'},
+instances: 1, word: 'Profit', work: 'Mac'},
+instances: 1, word: 'Profound', work: 'Mac'},
+instances: 1, word: 'Prologues', work: 'Mac'},
+instances: 1, word: 'Pronounced', work: 'Mac'},
+instances: 1, word: 'Proof', work: 'Mac'},
+instances: 1, word: 'Proper', work: 'Mac'},
+instances: 1, word: 'Prophecy', work: 'Mac'},
+instances: 1, word: 'Prophesying', work: 'Mac'},
+instances: 1, word: 'Prophet-like', work: 'Mac'},
+instances: 1, word: 'Prophetic', work: 'Mac'},
+instances: 1, word: 'Proportion', work: 'Mac'},
+instances: 1, word: 'Prospect', work: 'Mac'},
+instances: 1, word: 'Proud', work: 'Mac'},
+instances: 1, word: 'Prove', work: 'Mac'},
+instances: 1, word: 'Proved', work: 'Mac'},
+instances: 1, word: 'Provided', work: 'Mac'},
+instances: 1, word: 'Provoke', work: 'Mac'},
+instances: 1, word: 'Provoker', work: 'Mac'},
+instances: 1, word: 'Prowess', work: 'Mac'},
+instances: 1, word: 'Pure', work: 'Mac'},
+instances: 1, word: 'Purgative', work: 'Mac'},
+instances: 1, word: 'Purged', work: 'Mac'},
+instances: 1, word: 'Purposes', work: 'Mac'},
+instances: 1, word: 'Purveyor', work: 'Mac'},
+instances: 1, word: 'Puts', work: 'Mac'},
+instances: 1, word: 'Pyramids', work: 'Mac'},
+instances: 1, word: 'Quarrels', work: 'Mac'},
+instances: 1, word: 'Quarry', work: 'Mac'},
+instances: 1, word: 'Quarter', work: 'Mac'},
+instances: 1, word: 'Quarters', work: 'Mac'},
+instances: 1, word: 'Quell', work: 'Mac'},
+instances: 1, word: 'Quenched', work: 'Mac'},
+instances: 1, word: 'Quiet', work: 'Mac'},
+instances: 1, word: 'Quit', work: 'Mac'},
+instances: 1, word: 'Quite', work: 'Mac'},
+instances: 1, word: 'Quoth', work: 'Mac'},
+instances: 1, word: 'Rabble\'s', work: 'Mac'},
+instances: 1, word: 'Race', work: 'Mac'},
+instances: 1, word: 'Rage', work: 'Mac'},
+instances: 1, word: 'Raise', work: 'Mac'},
+instances: 1, word: 'Ran', work: 'Mac'},
+instances: 1, word: 'Rancors', work: 'Mac'},
+instances: 1, word: 'Rank', work: 'Mac'},
+instances: 1, word: 'Ranks', work: 'Mac'},
+instances: 1, word: 'Rarer', work: 'Mac'},
+instances: 1, word: 'Rat', work: 'Mac'},
+instances: 1, word: 'Ratify', work: 'Mac'},
+instances: 1, word: 'Raveled', work: 'Mac'},
+instances: 1, word: 'Raven', work: 'Mac'},
+instances: 1, word: 'Ravin', work: 'Mac'},
+instances: 1, word: 'Ravined', work: 'Mac'},
+instances: 1, word: 'Ravishing', work: 'Mac'},
+instances: 1, word: 'Rawness', work: 'Mac'},
+instances: 1, word: 'Raze', work: 'Mac'},
+instances: 1, word: 'Readiness', work: 'Mac'},
+instances: 1, word: 'Reads', work: 'Mac'},
+instances: 1, word: 'Reasons', work: 'Mac'},
+instances: 1, word: 'Rebels\'', work: 'Mac'},
+instances: 1, word: 'Rebel\'s', work: 'Mac'},
+instances: 1, word: 'Rebuked', work: 'Mac'},
+instances: 1, word: 'Receipt', work: 'Mac'},
+instances: 1, word: 'Reckless', work: 'Mac'},
+instances: 1, word: 'Reckon', work: 'Mac'},
+instances: 1, word: 'Recommends', work: 'Mac'},
+instances: 1, word: 'Recompense', work: 'Mac'},
+instances: 1, word: 'Reconcile', work: 'Mac'},
+instances: 1, word: 'Reconciled', work: 'Mac'},
+instances: 1, word: 'Recorded', work: 'Mac'},
+instances: 1, word: 'Red', work: 'Mac'},
+instances: 1, word: 'Redoubled', work: 'Mac'},
+instances: 1, word: 'Redress', work: 'Mac'},
+instances: 1, word: 'Reeking', work: 'Mac'},
+instances: 1, word: 'Referred', work: 'Mac'},
+instances: 1, word: 'Reflection', work: 'Mac'},
+instances: 1, word: 'Refrain', work: 'Mac'},
+instances: 1, word: 'Registered', work: 'Mac'},
+instances: 1, word: 'Reigns', work: 'Mac'},
+instances: 1, word: 'Rejoicing', work: 'Mac'},
+instances: 1, word: 'Relation', work: 'Mac'},
+instances: 1, word: 'Relations', work: 'Mac'},
+instances: 1, word: 'Relish', work: 'Mac'},
+instances: 1, word: 'Remedy', work: 'Mac'},
+instances: 1, word: 'Remembrancer', work: 'Mac'},
+instances: 1, word: 'Remorse', work: 'Mac'},
+instances: 1, word: 'Rendered', work: 'Mac'},
+instances: 1, word: 'Renown', work: 'Mac'},
+instances: 1, word: 'Rent', work: 'Mac'},
+instances: 1, word: 'Repeat\'st', work: 'Mac'},
+instances: 1, word: 'Repent', work: 'Mac'},
+instances: 1, word: 'Repentance', work: 'Mac'},
+instances: 1, word: 'Repetition', work: 'Mac'},
+instances: 1, word: 'Reported', work: 'Mac'},
+instances: 1, word: 'Reports', work: 'Mac'},
+instances: 1, word: 'Request', work: 'Mac'},
+instances: 1, word: 'Requited', work: 'Mac'},
+instances: 1, word: 'Resembled', work: 'Mac'},
+instances: 1, word: 'Reserved', work: 'Mac'},
+instances: 1, word: 'Resolute', work: 'Mac'},
+instances: 1, word: 'Resolution', work: 'Mac'},
+instances: 1, word: 'Resolve', work: 'Mac'},
+instances: 1, word: 'Resolved', work: 'Mac'},
+instances: 1, word: 'Resounds', work: 'Mac'},
+instances: 1, word: 'Respect', work: 'Mac'},
+instances: 1, word: 'Restless', work: 'Mac'},
+instances: 1, word: 'Restrain', work: 'Mac'},
+instances: 1, word: 'Retire', work: 'Mac'},
+instances: 1, word: 'Returned', work: 'Mac'},
+instances: 1, word: 'Returning', work: 'Mac'},
+instances: 1, word: 'Returns', work: 'Mac'},
+instances: 1, word: 'Revenges', work: 'Mac'},
+instances: 1, word: 'Revolts', work: 'Mac'},
+instances: 1, word: 'Rhinoceros', work: 'Mac'},
+instances: 1, word: 'Rhubarb', work: 'Mac'},
+instances: 1, word: 'Ribs', work: 'Mac'},
+instances: 1, word: 'Rich', work: 'Mac'},
+instances: 1, word: 'Rid', work: 'Mac'},
+instances: 1, word: 'Riddles', work: 'Mac'},
+instances: 1, word: 'Rides', work: 'Mac'},
+instances: 1, word: 'Rightly', work: 'Mac'},
+instances: 1, word: 'Ripe', work: 'Mac'},
+instances: 1, word: 'Ripped', work: 'Mac'},
+instances: 1, word: 'Rises', work: 'Mac'},
+instances: 1, word: 'Roar', work: 'Mac'},
+instances: 1, word: 'Roast', work: 'Mac'},
+instances: 1, word: 'Robe', work: 'Mac'},
+instances: 1, word: 'Rock', work: 'Mac'},
+instances: 1, word: 'Roman', work: 'Mac'},
+instances: 1, word: 'Roofed', work: 'Mac'},
+instances: 1, word: 'Rooks', work: 'Mac'},
+instances: 1, word: 'Rooky', work: 'Mac'},
+instances: 1, word: 'Rooted', work: 'Mac'},
+instances: 1, word: 'Ross', work: 'Mac'},
+instances: 1, word: 'Rough', work: 'Mac'},
+instances: 1, word: 'Roughest', work: 'Mac'},
+instances: 1, word: 'Ruby', work: 'Mac'},
+instances: 1, word: 'Rue', work: 'Mac'},
+instances: 1, word: 'Ruin\'s', work: 'Mac'},
+instances: 1, word: 'Rule', work: 'Mac'},
+instances: 1, word: 'Rump-fed', work: 'Mac'},
+instances: 1, word: 'Run', work: 'Mac'},
+instances: 1, word: 'Rung', work: 'Mac'},
+instances: 1, word: 'Runnion', work: 'Mac'},
+instances: 1, word: 'Rush', work: 'Mac'},
+instances: 1, word: 'Russian', work: 'Mac'},
+instances: 1, word: 'Sacred', work: 'Mac'},
+instances: 1, word: 'Sacrilegious', work: 'Mac'},
+instances: 1, word: 'Sad', work: 'Mac'},
+instances: 1, word: 'Safely', work: 'Mac'},
+instances: 1, word: 'Safest', work: 'Mac'},
+instances: 1, word: 'Safeties', work: 'Mac'},
+instances: 1, word: 'Safety', work: 'Mac'},
+instances: 1, word: 'Sag', work: 'Mac'},
+instances: 1, word: 'Sail', work: 'Mac'},
+instances: 1, word: 'Sailor\'s', work: 'Mac'},
+instances: 1, word: 'Saint', work: 'Mac'},
+instances: 1, word: 'Sainted', work: 'Mac'},
+instances: 1, word: 'Sake', work: 'Mac'},
+instances: 1, word: 'Salt-sea', work: 'Mac'},
+instances: 1, word: 'Salutation', work: 'Mac'},
+instances: 1, word: 'Saluted', work: 'Mac'},
+instances: 1, word: 'Same', work: 'Mac'},
+instances: 1, word: 'Sanctity', work: 'Mac'},
+instances: 1, word: 'Satisfied', work: 'Mac'},
+instances: 1, word: 'Satisfy', work: 'Mac'},
+instances: 1, word: 'Savage', work: 'Mac'},
+instances: 1, word: 'Savagely', work: 'Mac'},
+instances: 1, word: 'Save', work: 'Mac'},
+instances: 1, word: 'Saying', work: 'Mac'},
+instances: 1, word: 'Say\'st', work: 'Mac'},
+instances: 1, word: 'Scales', work: 'Mac'},
+instances: 1, word: 'Scanned', work: 'Mac'},
+instances: 1, word: 'Scarce', work: 'Mac'},
+instances: 1, word: 'Scarf', work: 'Mac'},
+instances: 1, word: 'Scepter', work: 'Mac'},
+instances: 1, word: 'Scepters', work: 'Mac'},
+instances: 1, word: 'School', work: 'Mac'},
+instances: 1, word: 'Scorched', work: 'Mac'},
+instances: 1, word: 'Score', work: 'Mac'},
+instances: 1, word: 'Scorpions', work: 'Mac'},
+instances: 1, word: 'Scour', work: 'Mac'},
+instances: 1, word: 'Scream', work: 'Mac'},
+instances: 1, word: 'Screams', work: 'Mac'},
+instances: 1, word: 'Screens', work: 'Mac'},
+instances: 1, word: 'Screw', work: 'Mac'},
+instances: 1, word: 'Seal', work: 'Mac'},
+instances: 1, word: 'Sear', work: 'Mac'},
+instances: 1, word: 'Seas', work: 'Mac'},
+instances: 1, word: 'Seated', work: 'Mac'},
+instances: 1, word: 'Secrets', work: 'Mac'},
+instances: 1, word: 'Secret\'st', work: 'Mac'},
+instances: 1, word: 'Security', work: 'Mac'},
+instances: 1, word: 'Seeking', work: 'Mac'},
+instances: 1, word: 'Seeling', work: 'Mac'},
+instances: 1, word: 'Seemeth', work: 'Mac'},
+instances: 1, word: 'Seest', work: 'Mac'},
+instances: 1, word: 'Self-abuse', work: 'Mac'},
+instances: 1, word: 'Self-comparisons', work: 'Mac'},
+instances: 1, word: 'Sell', work: 'Mac'},
+instances: 1, word: 'Senna', work: 'Mac'},
+instances: 1, word: 'Sensible', work: 'Mac'},
+instances: 1, word: 'Sentinel', work: 'Mac'},
+instances: 1, word: 'Separated', work: 'Mac'},
+instances: 1, word: 'Sere', work: 'Mac'},
+instances: 1, word: 'Sergeant', work: 'Mac'},
+instances: 1, word: 'Serious', work: 'Mac'},
+instances: 1, word: 'Served', work: 'Mac'},
+instances: 1, word: 'Sets', work: 'Mac'},
+instances: 1, word: 'Settled', work: 'Mac'},
+instances: 1, word: 'Seven', work: 'Mac'},
+instances: 1, word: 'Seventh', work: 'Mac'},
+instances: 1, word: 'Sev\'nnights', work: 'Mac'},
+instances: 1, word: 'Shade', work: 'Mac'},
+instances: 1, word: 'Shadows', work: 'Mac'},
+instances: 1, word: 'Shaft', work: 'Mac'},
+instances: 1, word: 'Shag-eared', work: 'Mac'},
+instances: 1, word: 'Shakes', work: 'Mac'},
+instances: 1, word: 'Shaking', work: 'Mac'},
+instances: 1, word: 'Shape', work: 'Mac'},
+instances: 1, word: 'Shard-born', work: 'Mac'},
+instances: 1, word: 'Share', work: 'Mac'},
+instances: 1, word: 'Shares', work: 'Mac'},
+instances: 1, word: 'Shark', work: 'Mac'},
+instances: 1, word: 'Sharp', work: 'Mac'},
+instances: 1, word: 'Sheathe', work: 'Mac'},
+instances: 1, word: 'Shed', work: 'Mac'},
+instances: 1, word: 'Shield', work: 'Mac'},
+instances: 1, word: 'Shipman\'s', work: 'Mac'},
+instances: 1, word: 'Shipwracking', work: 'Mac'},
+instances: 1, word: 'Shoal', work: 'Mac'},
+instances: 1, word: 'Shook', work: 'Mac'},
+instances: 1, word: 'Short', work: 'Mac'},
+instances: 1, word: 'Shot', work: 'Mac'},
+instances: 1, word: 'Shoughs', work: 'Mac'},
+instances: 1, word: 'Shouldst', work: 'Mac'},
+instances: 1, word: 'Shows', work: 'Mac'},
+instances: 1, word: 'Shrieked', work: 'Mac'},
+instances: 1, word: 'Shrieks', work: 'Mac'},
+instances: 1, word: 'Siege', work: 'Mac'},
+instances: 1, word: 'Sieve', work: 'Mac'},
+instances: 1, word: 'Sigh', work: 'Mac'},
+instances: 1, word: 'Sighs', work: 'Mac'},
+instances: 1, word: 'Sign', work: 'Mac'},
+instances: 1, word: 'Signifying', work: 'Mac'},
+instances: 1, word: 'Signs', work: 'Mac'},
+instances: 1, word: 'Silenced', work: 'Mac'},
+instances: 1, word: 'Silent', work: 'Mac'},
+instances: 1, word: 'Silver', work: 'Mac'},
+instances: 1, word: 'Sinel\'s', work: 'Mac'},
+instances: 1, word: 'Sinful', work: 'Mac'},
+instances: 1, word: 'Sing', work: 'Mac'},
+instances: 1, word: 'Sits', work: 'Mac'},
+instances: 1, word: 'Siward\'s', work: 'Mac'},
+instances: 1, word: 'Skin', work: 'Mac'},
+instances: 1, word: 'Skinny', work: 'Mac'},
+instances: 1, word: 'Skipping', work: 'Mac'},
+instances: 1, word: 'Skirr', work: 'Mac'},
+instances: 1, word: 'Sky', work: 'Mac'},
+instances: 1, word: 'Slab', work: 'Mac'},
+instances: 1, word: 'Slaughter', work: 'Mac'},
+instances: 1, word: 'Slaughtered', work: 'Mac'},
+instances: 1, word: 'Slaughterous', work: 'Mac'},
+instances: 1, word: 'Slaves', work: 'Mac'},
+instances: 1, word: 'Sleave', work: 'Mac'},
+instances: 1, word: 'Sleek', work: 'Mac'},
+instances: 1, word: 'Sleepers', work: 'Mac'},
+instances: 1, word: 'Sleeps', work: 'Mac'},
+instances: 1, word: 'Sleights', work: 'Mac'},
+instances: 1, word: 'Slipped', work: 'Mac'},
+instances: 1, word: 'Slips', work: 'Mac'},
+instances: 1, word: 'Slivered', work: 'Mac'},
+instances: 1, word: 'Slope', work: 'Mac'},
+instances: 1, word: 'Slumb\'ry', work: 'Mac'},
+instances: 1, word: 'Smack', work: 'Mac'},
+instances: 1, word: 'Smacking', work: 'Mac'},
+instances: 1, word: 'Smear', work: 'Mac'},
+instances: 1, word: 'Smell', work: 'Mac'},
+instances: 1, word: 'Smells', work: 'Mac'},
+instances: 1, word: 'Smoke', work: 'Mac'},
+instances: 1, word: 'Smoked', work: 'Mac'},
+instances: 1, word: 'Smothered', work: 'Mac'},
+instances: 1, word: 'Snares', work: 'Mac'},
+instances: 1, word: 'Snores', work: 'Mac'},
+instances: 1, word: 'Snow', work: 'Mac'},
+instances: 1, word: 'Sold', work: 'Mac'},
+instances: 1, word: 'Soldiership', work: 'Mac'},
+instances: 1, word: 'Soldier\'s', work: 'Mac'},
+instances: 1, word: 'Sole', work: 'Mac'},
+instances: 1, word: 'Solely', work: 'Mac'},
+instances: 1, word: 'Solemn', work: 'Mac'},
+instances: 1, word: 'Soliciting', work: 'Mac'},
+instances: 1, word: 'Solicits', work: 'Mac'},
+instances: 1, word: 'Sorely', work: 'Mac'},
+instances: 1, word: 'Sorriest', work: 'Mac'},
+instances: 1, word: 'Sorrows', work: 'Mac'},
+instances: 1, word: 'Sorts', work: 'Mac'},
+instances: 1, word: 'Sought', work: 'Mac'},
+instances: 1, word: 'Soul\'s', work: 'Mac'},
+instances: 1, word: 'Soundly', work: 'Mac'},
+instances: 1, word: 'Source', work: 'Mac'},
+instances: 1, word: 'South', work: 'Mac'},
+instances: 1, word: 'Sow\'s', work: 'Mac'},
+instances: 1, word: 'Space', work: 'Mac'},
+instances: 1, word: 'Spacious', work: 'Mac'},
+instances: 1, word: 'Spaniels', work: 'Mac'},
+instances: 1, word: 'Sparrows', work: 'Mac'},
+instances: 1, word: 'Speaker', work: 'Mac'},
+instances: 1, word: 'Speakers', work: 'Mac'},
+instances: 1, word: 'Speaking', work: 'Mac'},
+instances: 1, word: 'Special', work: 'Mac'},
+instances: 1, word: 'Speculation', work: 'Mac'},
+instances: 1, word: 'Speculative', work: 'Mac'},
+instances: 1, word: 'Speed', work: 'Mac'},
+instances: 1, word: 'Spells', work: 'Mac'},
+instances: 1, word: 'Spiteful', work: 'Mac'},
+instances: 1, word: 'Spoils', work: 'Mac'},
+instances: 1, word: 'Spongy', work: 'Mac'},
+instances: 1, word: 'Spurn', work: 'Mac'},
+instances: 1, word: 'Spurs', work: 'Mac'},
+instances: 1, word: 'Spy', work: 'Mac'},
+instances: 1, word: 'Stableness', work: 'Mac'},
+instances: 1, word: 'Stabs', work: 'Mac'},
+instances: 1, word: 'Staff', work: 'Mac'},
+instances: 1, word: 'Stake', work: 'Mac'},
+instances: 1, word: 'Stalls', work: 'Mac'},
+instances: 1, word: 'Stamp', work: 'Mac'},
+instances: 1, word: 'Stanchless', work: 'Mac'},
+instances: 1, word: 'Stared', work: 'Mac'},
+instances: 1, word: 'Starting', work: 'Mac'},
+instances: 1, word: 'Starts', work: 'Mac'},
+instances: 1, word: 'Statute', work: 'Mac'},
+instances: 1, word: 'Staves', work: 'Mac'},
+instances: 1, word: 'Stayed', work: 'Mac'},
+instances: 1, word: 'Stays', work: 'Mac'},
+instances: 1, word: 'Stead', work: 'Mac'},
+instances: 1, word: 'Stealing', work: 'Mac'},
+instances: 1, word: 'Steals', work: 'Mac'},
+instances: 1, word: 'Stealthy', work: 'Mac'},
+instances: 1, word: 'Steeped', work: 'Mac'},
+instances: 1, word: 'Step', work: 'Mac'},
+instances: 1, word: 'Stepped', work: 'Mac'},
+instances: 1, word: 'Steps', work: 'Mac'},
+instances: 1, word: 'Stern\'st', work: 'Mac'},
+instances: 1, word: 'Stick', work: 'Mac'},
+instances: 1, word: 'Sticks', work: 'Mac'},
+instances: 1, word: 'Sting', work: 'Mac'},
+instances: 1, word: 'Stole', work: 'Mac'},
+instances: 1, word: 'Stol\'n', work: 'Mac'},
+instances: 1, word: 'Stone', work: 'Mac'},
+instances: 1, word: 'Stool', work: 'Mac'},
+instances: 1, word: 'Stools', work: 'Mac'},
+instances: 1, word: 'Storehouse', work: 'Mac'},
+instances: 1, word: 'Storms', work: 'Mac'},
+instances: 1, word: 'Stout', work: 'Mac'},
+instances: 1, word: 'Strangles', work: 'Mac'},
+instances: 1, word: 'Streaks', work: 'Mac'},
+instances: 1, word: 'Streams', work: 'Mac'},
+instances: 1, word: 'Stretch', work: 'Mac'},
+instances: 1, word: 'Strides', work: 'Mac'},
+instances: 1, word: 'Striding', work: 'Mac'},
+instances: 1, word: 'Stroke', work: 'Mac'},
+instances: 1, word: 'Struts', work: 'Mac'},
+instances: 1, word: 'Stuck', work: 'Mac'},
+instances: 1, word: 'Studied', work: 'Mac'},
+instances: 1, word: 'Stuffed', work: 'Mac'},
+instances: 1, word: 'Suborned', work: 'Mac'},
+instances: 1, word: 'Substances', work: 'Mac'},
+instances: 1, word: 'Subtle', work: 'Mac'},
+instances: 1, word: 'Succeed', work: 'Mac'},
+instances: 1, word: 'Suck', work: 'Mac'},
+instances: 1, word: 'Sudden', work: 'Mac'},
+instances: 1, word: 'Suffering', work: 'Mac'},
+instances: 1, word: 'Suggestion', work: 'Mac'},
+instances: 1, word: 'Suits', work: 'Mac'},
+instances: 1, word: 'Summer', work: 'Mac'},
+instances: 1, word: 'Summer-seeming', work: 'Mac'},
+instances: 1, word: 'Summer\'s', work: 'Mac'},
+instances: 1, word: 'Supernatural', work: 'Mac'},
+instances: 1, word: 'Suppertime', work: 'Mac'},
+instances: 1, word: 'Supplied', work: 'Mac'},
+instances: 1, word: 'Supplies', work: 'Mac'},
+instances: 1, word: 'Surcease', work: 'Mac'},
+instances: 1, word: 'Surfeited', work: 'Mac'},
+instances: 1, word: 'Surgeons', work: 'Mac'},
+instances: 1, word: 'Surgery', work: 'Mac'},
+instances: 1, word: 'Surmise', work: 'Mac'},
+instances: 1, word: 'Surprise', work: 'Mac'},
+instances: 1, word: 'Surprised', work: 'Mac'},
+instances: 1, word: 'Surveying', work: 'Mac'},
+instances: 1, word: 'Suspicion', work: 'Mac'},
+instances: 1, word: 'Swallow', work: 'Mac'},
+instances: 1, word: 'Swarm', work: 'Mac'},
+instances: 1, word: 'Swears', work: 'Mac'},
+instances: 1, word: 'Sweat', work: 'Mac'},
+instances: 1, word: 'Sweaten', work: 'Mac'},
+instances: 1, word: 'Sweep', work: 'Mac'},
+instances: 1, word: 'Sweeten', work: 'Mac'},
+instances: 1, word: 'Sweeter', work: 'Mac'},
+instances: 1, word: 'Sweetly', work: 'Mac'},
+instances: 1, word: 'Swelling', work: 'Mac'},
+instances: 1, word: 'Swells', work: 'Mac'},
+instances: 1, word: 'Sweltered', work: 'Mac'},
+instances: 1, word: 'Sweno', work: 'Mac'},
+instances: 1, word: 'Swiftest', work: 'Mac'},
+instances: 1, word: 'Swimmers', work: 'Mac'},
+instances: 1, word: 'Swine', work: 'Mac'},
+instances: 1, word: 'Swinish', work: 'Mac'},
+instances: 1, word: 'Swoll\'n', work: 'Mac'},
+instances: 1, word: 'Swoop', work: 'Mac'},
+instances: 1, word: 'Swords', work: 'Mac'},
+instances: 1, word: 'Sword\'s', work: 'Mac'},
+instances: 1, word: 'Sworn', work: 'Mac'},
+instances: 1, word: 'Tables', work: 'Mac'},
+instances: 1, word: 'Table\'s', work: 'Mac'},
+instances: 1, word: 'Tail', work: 'Mac'},
+instances: 1, word: 'Taint', work: 'Mac'},
+instances: 1, word: 'Taints', work: 'Mac'},
+instances: 1, word: 'Taking-off', work: 'Mac'},
+instances: 1, word: 'Talk', work: 'Mac'},
+instances: 1, word: 'Talk\'st', work: 'Mac'},
+instances: 1, word: 'Tarquin\'s', work: 'Mac'},
+instances: 1, word: 'Tarrying', work: 'Mac'},
+instances: 1, word: 'Tartar\'s', work: 'Mac'},
+instances: 1, word: 'Taste', work: 'Mac'},
+instances: 1, word: 'Taught', work: 'Mac'},
+instances: 1, word: 'Tedious', work: 'Mac'},
+instances: 1, word: 'Teems', work: 'Mac'},
+instances: 1, word: 'Teeth', work: 'Mac'},
+instances: 1, word: 'Tells', work: 'Mac'},
+instances: 1, word: 'Temper', work: 'Mac'},
+instances: 1, word: 'Tempest-tossed', work: 'Mac'},
+instances: 1, word: 'Temple', work: 'Mac'},
+instances: 1, word: 'Temple-haunting', work: 'Mac'},
+instances: 1, word: 'Temp\'rance', work: 'Mac'},
+instances: 1, word: 'Temp\'rate', work: 'Mac'},
+instances: 1, word: 'Tend', work: 'Mac'},
+instances: 1, word: 'Tending', work: 'Mac'},
+instances: 1, word: 'Terms', work: 'Mac'},
+instances: 1, word: 'Theft', work: 'Mac'},
+instances: 1, word: 'Theme', work: 'Mac'},
+instances: 1, word: 'Thereby', work: 'Mac'},
+instances: 1, word: 'Therein', work: 'Mac'},
+instances: 1, word: 'Thereto', work: 'Mac'},
+instances: 1, word: 'Therewithal', work: 'Mac'},
+instances: 1, word: 'Thick-coming', work: 'Mac'},
+instances: 1, word: 'Thickens', work: 'Mac'},
+instances: 1, word: 'Thief', work: 'Mac'},
+instances: 1, word: 'Think\'st', work: 'Mac'},
+instances: 1, word: 'Third', work: 'Mac'},
+instances: 1, word: 'Thirst', work: 'Mac'},
+instances: 1, word: 'Thirty-one', work: 'Mac'},
+instances: 1, word: 'Thousands', work: 'Mac'},
+instances: 1, word: 'Thralls', work: 'Mac'},
+instances: 1, word: 'Threat', work: 'Mac'},
+instances: 1, word: 'Threatens', work: 'Mac'},
+instances: 1, word: 'Threescore', work: 'Mac'},
+instances: 1, word: 'Thriftless', work: 'Mac'},
+instances: 1, word: 'Throbs', work: 'Mac'},
+instances: 1, word: 'Thrusts', work: 'Mac'},
+instances: 1, word: 'Thumb', work: 'Mac'},
+instances: 1, word: 'Thumbs', work: 'Mac'},
+instances: 1, word: 'Thunders', work: 'Mac'},
+instances: 1, word: 'Tie', work: 'Mac'},
+instances: 1, word: 'Tied', work: 'Mac'},
+instances: 1, word: 'Tiger\'s', work: 'Mac'},
+instances: 1, word: 'Titles', work: 'Mac'},
+instances: 1, word: 'Toad', work: 'Mac'},
+instances: 1, word: 'Today', work: 'Mac'},
+instances: 1, word: 'Top-full', work: 'Mac'},
+instances: 1, word: 'Topple', work: 'Mac'},
+instances: 1, word: 'Torture', work: 'Mac'},
+instances: 1, word: 'Touched', work: 'Mac'},
+instances: 1, word: 'Tow\'ring', work: 'Mac'},
+instances: 1, word: 'Toys', work: 'Mac'},
+instances: 1, word: 'Trace', work: 'Mac'},
+instances: 1, word: 'Traffic', work: 'Mac'},
+instances: 1, word: 'Trains', work: 'Mac'},
+instances: 1, word: 'Trammel', work: 'Mac'},
+instances: 1, word: 'Transport', work: 'Mac'},
+instances: 1, word: 'Transported', work: 'Mac'},
+instances: 1, word: 'Transpose', work: 'Mac'},
+instances: 1, word: 'Traveler', work: 'Mac'},
+instances: 1, word: 'Traveling', work: 'Mac'},
+instances: 1, word: 'Treacherous', work: 'Mac'},
+instances: 1, word: 'Tread', work: 'Mac'},
+instances: 1, word: 'Treasonous', work: 'Mac'},
+instances: 1, word: 'Treasure', work: 'Mac'},
+instances: 1, word: 'Treatise', work: 'Mac'},
+instances: 1, word: 'Treble', work: 'Mac'},
+instances: 1, word: 'Tremble', work: 'Mac'},
+instances: 1, word: 'Trembling', work: 'Mac'},
+instances: 1, word: 'Trenchèd', work: 'Mac'},
+instances: 1, word: 'Trifle', work: 'Mac'},
+instances: 1, word: 'Trifled', work: 'Mac'},
+instances: 1, word: 'Trifles', work: 'Mac'},
+instances: 1, word: 'Troops', work: 'Mac'},
+instances: 1, word: 'Truest', work: 'Mac'},
+instances: 1, word: 'Trumpet', work: 'Mac'},
+instances: 1, word: 'Trumpet-tongued', work: 'Mac'},
+instances: 1, word: 'Trumpets', work: 'Mac'},
+instances: 1, word: 'Try', work: 'Mac'},
+instances: 1, word: 'Tuesday', work: 'Mac'},
+instances: 1, word: 'Tugged', work: 'Mac'},
+instances: 1, word: 'Tumble', work: 'Mac'},
+instances: 1, word: 'Turk', work: 'Mac'},
+instances: 1, word: 'Turned', work: 'Mac'},
+instances: 1, word: 'Turning', work: 'Mac'},
+instances: 1, word: 'Turns', work: 'Mac'},
+instances: 1, word: 'Twain', work: 'Mac'},
+instances: 1, word: 'Twelve', work: 'Mac'},
+instances: 1, word: 'Twice', work: 'Mac'},
+instances: 1, word: 'Twofold', work: 'Mac'},
+instances: 1, word: 'Ulcerous', work: 'Mac'},
+instances: 1, word: 'Unaccompanied', work: 'Mac'},
+instances: 1, word: 'Unattended', work: 'Mac'},
+instances: 1, word: 'Unbattered', work: 'Mac'},
+instances: 1, word: 'Unbecoming', work: 'Mac'},
+instances: 1, word: 'Unbend', work: 'Mac'},
+instances: 1, word: 'Undaunted', work: 'Mac'},
+instances: 1, word: 'Undeeded', work: 'Mac'},
+instances: 1, word: 'Understand', work: 'Mac'},
+instances: 1, word: 'Understood', work: 'Mac'},
+instances: 1, word: 'Underwrit', work: 'Mac'},
+instances: 1, word: 'Undivulged', work: 'Mac'},
+instances: 1, word: 'Unfelt', work: 'Mac'},
+instances: 1, word: 'Unfold', work: 'Mac'},
+instances: 1, word: 'Unfortunate', work: 'Mac'},
+instances: 1, word: 'Unguarded', work: 'Mac'},
+instances: 1, word: 'Unity', work: 'Mac'},
+instances: 1, word: 'Universal', work: 'Mac'},
+instances: 1, word: 'Unjust', work: 'Mac'},
+instances: 1, word: 'Unkindness', work: 'Mac'},
+instances: 1, word: 'Unless', work: 'Mac'},
+instances: 1, word: 'Unlineal', work: 'Mac'},
+instances: 1, word: 'Unlock', work: 'Mac'},
+instances: 1, word: 'Unmake', work: 'Mac'},
+instances: 1, word: 'Unmanned', work: 'Mac'},
+instances: 1, word: 'Unmannerly', work: 'Mac'},
+instances: 1, word: 'Unprepared', work: 'Mac'},
+instances: 1, word: 'Unprovokes', work: 'Mac'},
+instances: 1, word: 'Unreal', work: 'Mac'},
+instances: 1, word: 'Unrough', work: 'Mac'},
+instances: 1, word: 'Unruly', work: 'Mac'},
+instances: 1, word: 'Unsafe', work: 'Mac'},
+instances: 1, word: 'Unsanctified', work: 'Mac'},
+instances: 1, word: 'Unseamed', work: 'Mac'},
+instances: 1, word: 'Unsex', work: 'Mac'},
+instances: 1, word: 'Unshrinking', work: 'Mac'},
+instances: 1, word: 'Unspeak', work: 'Mac'},
+instances: 1, word: 'Unsure', work: 'Mac'},
+instances: 1, word: 'Untie', work: 'Mac'},
+instances: 1, word: 'Until', work: 'Mac'},
+instances: 1, word: 'Untitled', work: 'Mac'},
+instances: 1, word: 'Unusual', work: 'Mac'},
+instances: 1, word: 'Unwelcome', work: 'Mac'},
+instances: 1, word: 'Unwiped', work: 'Mac'},
+instances: 1, word: 'Upbraid', work: 'Mac'},
+instances: 1, word: 'Uplifted', work: 'Mac'},
+instances: 1, word: 'Uproar', work: 'Mac'},
+instances: 1, word: 'Upward', work: 'Mac'},
+instances: 1, word: 'Urine', work: 'Mac'},
+instances: 1, word: 'Using', work: 'Mac'},
+instances: 1, word: 'Usually', work: 'Mac'},
+instances: 1, word: 'Usurper\'s', work: 'Mac'},
+instances: 1, word: 'Utterance', work: 'Mac'},
+instances: 1, word: 'Valor\'s', work: 'Mac'},
+instances: 1, word: 'Valued', work: 'Mac'},
+instances: 1, word: 'Vanquished', work: 'Mac'},
+instances: 1, word: 'Vap\'rous', work: 'Mac'},
+instances: 1, word: 'Vault', work: 'Mac'},
+instances: 1, word: 'Vaulting', work: 'Mac'},
+instances: 1, word: 'Venture', work: 'Mac'},
+instances: 1, word: 'Verities', work: 'Mac'},
+instances: 1, word: 'Verity', work: 'Mac'},
+instances: 1, word: 'Vessel', work: 'Mac'},
+instances: 1, word: 'Vessels', work: 'Mac'},
+instances: 1, word: 'Vice', work: 'Mac'},
+instances: 1, word: 'Vices', work: 'Mac'},
+instances: 1, word: 'Victory', work: 'Mac'},
+instances: 1, word: 'Viewing', work: 'Mac'},
+instances: 1, word: 'Vile', work: 'Mac'},
+instances: 1, word: 'Villainies', work: 'Mac'},
+instances: 1, word: 'Virtue', work: 'Mac'},
+instances: 1, word: 'Virtues', work: 'Mac'},
+instances: 1, word: 'Virtuous', work: 'Mac'},
+instances: 1, word: 'Vision', work: 'Mac'},
+instances: 1, word: 'Visited', work: 'Mac'},
+instances: 1, word: 'Visitings', work: 'Mac'},
+instances: 1, word: 'Vizards', work: 'Mac'},
+instances: 1, word: 'Voices', work: 'Mac'},
+instances: 1, word: 'Volume', work: 'Mac'},
+instances: 1, word: 'Voluptuousness', work: 'Mac'},
+instances: 1, word: 'Vouched', work: 'Mac'},
+instances: 1, word: 'Vulnerable', work: 'Mac'},
+instances: 1, word: 'Vulture', work: 'Mac'},
+instances: 1, word: 'Wade', work: 'Mac'},
+instances: 1, word: 'Wakes', work: 'Mac'},
+instances: 1, word: 'Walls', work: 'Mac'},
+instances: 1, word: 'Want', work: 'Mac'},
+instances: 1, word: 'Wanton', work: 'Mac'},
+instances: 1, word: 'Warder', work: 'Mac'},
+instances: 1, word: 'Warders\'', work: 'Mac'},
+instances: 1, word: 'Warrant', work: 'Mac'},
+instances: 1, word: 'Warranted', work: 'Mac'},
+instances: 1, word: 'Washing', work: 'Mac'},
+instances: 1, word: 'Wassail', work: 'Mac'},
+instances: 1, word: 'Wast', work: 'Mac'},
+instances: 1, word: 'Wasteful', work: 'Mac'},
+instances: 1, word: 'Watched', work: 'Mac'},
+instances: 1, word: 'Watchers', work: 'Mac'},
+instances: 1, word: 'Watchful', work: 'Mac'},
+instances: 1, word: 'Watching', work: 'Mac'},
+instances: 1, word: 'Water-rugs', work: 'Mac'},
+instances: 1, word: 'Waves', work: 'Mac'},
+instances: 1, word: 'Wayward', work: 'Mac'},
+instances: 1, word: 'Wealth', work: 'Mac'},
+instances: 1, word: 'Weapons', work: 'Mac'},
+instances: 1, word: 'Wears', work: 'Mac'},
+instances: 1, word: 'Weeds', work: 'Mac'},
+instances: 1, word: 'Weeps', work: 'Mac'},
+instances: 1, word: 'Weighs', work: 'Mac'},
+instances: 1, word: 'Weighty', work: 'Mac'},
+instances: 1, word: 'West', work: 'Mac'},
+instances: 1, word: 'Western', work: 'Mac'},
+instances: 1, word: 'We\'d', work: 'Mac'},
+instances: 1, word: 'Whatever', work: 'Mac'},
+instances: 1, word: 'Whate\'er', work: 'Mac'},
+instances: 1, word: 'Whereabouts', work: 'Mac'},
+instances: 1, word: 'Whereby', work: 'Mac'},
+instances: 1, word: 'Wherein', work: 'Mac'},
+instances: 1, word: 'Whereon', work: 'Mac'},
+instances: 1, word: 'Whereto', work: 'Mac'},
+instances: 1, word: 'Wherever', work: 'Mac'},
+instances: 1, word: 'Wherewith', work: 'Mac'},
+instances: 1, word: 'Where\'s', work: 'Mac'},
+instances: 1, word: 'Whetstone', work: 'Mac'},
+instances: 1, word: 'Whey-face', work: 'Mac'},
+instances: 1, word: 'Whilst', work: 'Mac'},
+instances: 1, word: 'Whined', work: 'Mac'},
+instances: 1, word: 'Whispers', work: 'Mac'},
+instances: 1, word: 'Whisp\'rings', work: 'Mac'},
+instances: 1, word: 'White', work: 'Mac'},
+instances: 1, word: 'Whoever', work: 'Mac'},
+instances: 1, word: 'Wholesome', work: 'Mac'},
+instances: 1, word: 'Whore', work: 'Mac'},
+instances: 1, word: 'Widows', work: 'Mac'},
+instances: 1, word: 'Willing', work: 'Mac'},
+instances: 1, word: 'Winds', work: 'Mac'},
+instances: 1, word: 'Wink', work: 'Mac'},
+instances: 1, word: 'Winter\'s', work: 'Mac'},
+instances: 1, word: 'Wiped', work: 'Mac'},
+instances: 1, word: 'Wisely', work: 'Mac'},
+instances: 1, word: 'Wishest', work: 'Mac'},
+instances: 1, word: 'Witch', work: 'Mac'},
+instances: 1, word: 'Witchcraft', work: 'Mac'},
+instances: 1, word: 'Witch\'s', work: 'Mac'},
+instances: 1, word: 'Witnessed', work: 'Mac'},
+instances: 1, word: 'Wives', work: 'Mac'},
+instances: 1, word: 'Woeful', work: 'Mac'},
+instances: 1, word: 'Womanly', work: 'Mac'},
+instances: 1, word: 'Womb', work: 'Mac'},
+instances: 1, word: 'Wonders', work: 'Mac'},
+instances: 1, word: 'Wooingly', work: 'Mac'},
+instances: 1, word: 'Wool', work: 'Mac'},
+instances: 1, word: 'Worlds', work: 'Mac'},
+instances: 1, word: 'Worm', work: 'Mac'},
+instances: 1, word: 'Worms', work: 'Mac'},
+instances: 1, word: 'Worn', work: 'Mac'},
+instances: 1, word: 'Worthiest', work: 'Mac'},
+instances: 1, word: 'Wracked', work: 'Mac'},
+instances: 1, word: 'Wrath', work: 'Mac'},
+instances: 1, word: 'Wrathful', work: 'Mac'},
+instances: 1, word: 'Wren', work: 'Mac'},
+instances: 1, word: 'Wrenched', work: 'Mac'},
+instances: 1, word: 'Write', work: 'Mac'},
+instances: 1, word: 'Writes', work: 'Mac'},
+instances: 1, word: 'Written', work: 'Mac'},
+instances: 1, word: 'Wrongly', work: 'Mac'},
+instances: 1, word: 'Wrongs', work: 'Mac'},
+instances: 1, word: 'Yawning', work: 'Mac'},
+instances: 1, word: 'Yeasty', work: 'Mac'},
+instances: 1, word: 'Yelled', work: 'Mac'},
+instances: 1, word: 'Yellow', work: 'Mac'},
+instances: 1, word: 'Yesterday', work: 'Mac'},
+instances: 1, word: 'Yesterdays', work: 'Mac'},
+instances: 1, word: 'Yew', work: 'Mac'},
+instances: 1, word: 'Yoke', work: 'Mac'},
+instances: 1, word: 'Youth', work: 'Mac'},
+instances: 1, word: 'Youths', work: 'Mac'},
+instances: 1, word: 'You\'d', work: 'Mac'},
+instances: 1, word: '\'bove', work: 'Mac'},
+instances: 1, word: '\'cause', work: 'Mac'},
+instances: 1, word: '\'gin', work: 'Mac'},
+instances: 1, word: '\'gins', work: 'Mac'},
+instances: 1, word: '\'ild', work: 'Mac'},
+instances: 1, word: '\'lt', work: 'Mac'},
+instances: 1, word: '\'rt', work: 'Mac'},
+instances: 1, word: '\'scape', work: 'Mac'},
+instances: 1, word: '\'scaped', work: 'Mac'},
+instances: 1, word: '\'twas', work: 'Mac'},
+instances: 1, word: '\'twixt', work: 'Mac'},
+instances: 1, word: '\'twould', work: 'Mac'},

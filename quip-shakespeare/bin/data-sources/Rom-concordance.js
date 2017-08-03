@@ -1,3701 +1,3699 @@
-Concordance of Romeo and Juliet:
-
-663: And
-648: The
-569: I
-520: To
-438: A
-381: Of
-355: My
-348: Is
-345: That
-314: In
-299: You
-278: Thou
-265: Me
-259: Not
-236: With
-224: It
-223: For
-223: This
-203: Be
-180: But
-169: Thy
-165: What
-157: As
-152: Her
-151: O
-148: Will
-147: So
-139: Thee
-136: Love
-129: His
-126: He
-125: Have
-118: Romeo
-116: By
-110: Shall
-110: She
-103: Your
-102: No
-97: Him
-95: Come
-94: All
-88: Do
-86: From
-86: Good
-84: Then
-83: If
-82: Here
-81: An
-81: Now
-79: On
-75: Go
-72: I’ll
-69: Death
-68: Night
-67: Are
-67: More
-66: Or
-66: We
-65: At
-65: Man
-64: Hath
-63: There
-63: Which
-61: Our
-60: Am
-60: How
-59: One
-57: Sir
-57: Well
-56: Too
-55: Art
-55: Some
-55: Up
-55: Would
-53: Out
-52: Say
-52: When
-51: They
-51: Where
-50: Should
-49: Was
-48: Dead
-48: Doth
-48: May
-47: Give
-47: Than
-47: Tybalt
-47: Yet
-46: Such
-45: Day
-45: Their
-44: Fair
-44: Let
-44: Tell
-43: Lady
-43: Upon
-42: Them
-42: These
-41: ’tis
-40: Did
-40: Juliet
-40: Must
-40: Take
-39: Can
-39: Nurse
-39: Why
-38: Like
-38: Make
-37: Much
-37: Were
-36: See
-35: Ay
-35: Know
-34: Sweet
-31: Look
-31: Lord
-31: Time
-31: Who
-30: God
-30: Light
-30: Mine
-30: Us
-30: Wilt
-28: Back
-28: Hast
-28: Heaven
-28: Speak
-28: Word
-27: Comes
-27: Eyes
-27: Old
-27: Stay
-27: True
-26: Again
-26: Being
-26: Dear
-26: Gone
-26: Heart
-26: Hence
-26: Stand
-25: Hand
-24: Away
-24: Find
-24: Paris
-24: Very
-23: Bed
-23: Call
-23: Die
-23: Life
-23: Madam
-23: Therefore
-23: Young
-22: Both
-22: Face
-22: Father
-22: Friar
-22: Hear
-22: Marry
-22: Name
-22: Part
-22: Till
-21: Bid
-21: Cannot
-21: Holy
-21: House
-21: Lie
-21: Made
-21: Montague
-21: Think
-20: Been
-20: Before
-20: Earth
-20: Ere
-20: Farewell
-20: Men
-20: Nay
-20: Tears
-20: Two
-19: Banishèd
-19: Eye
-19: Had
-19: Lies
-19: Live
-19: Nor
-19: Peace
-19: Wife
-18: Blood
-18: Faith
-18: Help
-18: Married
-18: Never
-17: Could
-17: Cousin
-17: Hold
-17: Hour
-17: Lips
-17: Own
-17: Poor
-17: Pray
-17: Put
-17: Slain
-17: Villain
-16: Ah
-16: Any
-16: County
-16: Dost
-16: Early
-16: Grave
-16: Keep
-16: Long
-16: Most
-16: Son
-16: World
-15: Child
-15: Down
-15: Fear
-15: Mercutio
-15: Mother
-15: Myself
-15: News
-15: None
-15: Other
-15: Same
-15: Those
-15: Tomorrow
-15: Tonight
-15: Whose
-14: Alone
-14: Breath
-14: Fall
-14: Gentleman
-14: Haste
-14: Head
-14: Husband
-14: Joy
-14: Lives
-14: Makes
-14: Many
-14: Nothing
-14: Poison
-14: Prince
-14: Rest
-14: Run
-14: Said
-14: Sin
-14: Soul
-14: Still
-14: Sun
-14: Thursday
-14: Use
-13: Came
-13: Capulet
-13: Daughter
-13: Else
-13: Friend
-13: Get
-13: Hands
-13: Ho
-13: Leave
-13: Letter
-13: Little
-13: New
-13: Romeo’s
-13: Send
-13: She’s
-13: Soon
-13: Sound
-13: Talk
-13: Thing
-13: Wit
-13: Without
-13: Woe
-12: Bear
-12: Best
-12: Better
-12: Cell
-12: Forth
-12: Gentle
-12: Grief
-12: Happy
-12: Hate
-12: Hither
-12: Ill
-12: Mantua
-12: Shame
-12: Sleep
-12: Thine
-12: Turn
-11: About
-11: Alack
-11: Beauty
-11: Bring
-11: Draw
-11: Even
-11: Ever
-11: Full
-11: He’s
-11: Late
-11: Law
-11: Lay
-11: Love’s
-11: Maid
-11: Marriage
-11: Pale
-11: Quarrel
-11: Shalt
-11: Show
-11: Since
-11: Though
-11: Warrant
-11: Years
-11: ’t
-10: Against
-10: Another
-10: Answer
-10: Because
-10: Black
-10: Boy
-10: Church
-10: Comfort
-10: Done
-10: Dream
-10: Ears
-10: Every
-10: Flower
-10: Gentlemen
-10: Heavy
-10: Here’s
-10: Himself
-10: Kill
-10: Kinsman
-10: Kiss
-10: Mad
-10: Master
-10: Need
-10: Ne’er
-10: Off
-10: Once
-10: O’er
-10: Pardon
-10: Place
-10: Rich
-10: Saw
-10: Says
-10: Set
-10: Straight
-10: Times
-10: Tongue
-10: Twenty
-10: Tybalt’s
-10: Verona
-10: Watch
-10: We’ll
-9: Ancient
-9: Case
-9: Days
-9: Either
-9: First
-9: Foot
-9: Forget
-9: Great
-9: Ground
-9: Hide
-9: Indeed
-9: Into
-9: Lady’s
-9: Move
-9: Only
-9: O’
-9: Rosaline
-9: Silver
-9: Thus
-9: Unto
-9: Vault
-9: Way
-9: Weep
-9: Within
-8: Alas
-8: Anon
-8: Begone
-8: Bite
-8: Body
-8: Bones
-8: Bound
-8: Calls
-8: Clouds
-8: Counsel
-8: Desperate
-8: End
-8: Enough
-8: Having
-8: Hie
-8: High
-8: Last
-8: Mean
-8: Means
-8: Meet
-8: Men’s
-8: Merry
-8: Mind
-8: Mistress
-8: Morning
-8: Noble
-8: Peter
-8: Play
-8: Saint
-8: Sight
-8: Sorrow
-8: Swear
-8: That’s
-8: Things
-8: Thought
-8: Through
-8: Vile
-8: Wall
-8: Welcome
-8: What’s
-8: Woeful
-8: Woes
-7: Above
-7: Awhile
-7: Behold
-7: Beseech
-7: Bloody
-7: Book
-7: Bosom
-7: Canst
-7: Care
-7: Chamber
-7: Close
-7: Cold
-7: Corse
-7: Dark
-7: Ear
-7: E’en
-7: Fearful
-7: Feel
-7: Fetch
-7: Fire
-7: Flesh
-7: Follow
-7: Fortune
-7: Found
-7: Goose
-7: Heart’s
-7: Hit
-7: Honest
-7: Hot
-7: Killed
-7: Looks
-7: Loving
-7: Measure
-7: Murder
-7: Music
-7: Near
-7: Next
-7: Past
-7: Sea
-7: Short
-7: Sick
-7: Sit
-7: Stars
-7: Sudden
-7: Sword
-7: Tender
-7: Thousand
-7: Thyself
-7: Tomb
-7: Where’s
-7: Words
-7: Writ
-6: Age
-6: Air
-6: Among
-6: Arm
-6: Banishment
-6: Benvolio
-6: Breast
-6: Bride
-6: Cheek
-6: Cheeks
-6: Company
-6: Deep
-6: Didst
-6: Doom
-6: Enemy
-6: Envious
-6: Exile
-6: Feast
-6: Fie
-6: Fool
-6: Fourteen
-6: Girl
-6: Hadst
-6: Home
-6: Hours
-6: Hurt
-6: Itself
-6: Jest
-6: Kind
-6: Lark
-6: Lead
-6: Less
-6: Let’s
-6: Maids
-6: Mark
-6: Matter
-6: Might
-6: Monument
-6: Morrow
-6: Moved
-6: Musicians
-6: Noise
-6: Prince’s
-6: Proud
-6: Prove
-6: Read
-6: Remember
-6: Seen
-6: Serve
-6: Shows
-6: Side
-6: Sirrah
-6: Speaks
-6: Spoke
-6: Stir
-6: Stop
-6: Strange
-6: Strength
-6: Tale
-6: Thank
-6: Three
-6: Thumb
-6: Took
-6: Torch
-6: Under
-6: Unless
-6: Wast
-6: Wish
-6: Youth
-5: Already
-5: Ask
-5: Asleep
-5: Banished
-5: Blessèd
-5: Blind
-5: Break
-5: Brief
-5: Bright
-5: Brother
-5: Cause
-5: Chide
-5: Churchyard
-5: Civil
-5: Commend
-5: Consent
-5: Cords
-5: Dagger
-5: Dare
-5: Deny
-5: Dog
-5: Dreams
-5: Ease
-5: Excuse
-5: Fain
-5: Far
-5: Fellow
-5: Fingers
-5: Five
-5: Flowers
-5: Foe
-5: Form
-5: Friends
-5: Gives
-5: Gold
-5: Grace
-5: Ha
-5: Half
-5: Hang
-5: Hare
-5: Heads
-5: Heir
-5: Hell
-5: Herself
-5: Honor
-5: Honorable
-5: Joyful
-5: Knowest
-5: Laid
-5: Lamentable
-5: Lawrence’
-5: Letters
-5: Living
-5: Longer
-5: Man’s
-5: Mercy
-5: Montagues
-5: Night’s
-5: Nine
-5: Patience
-5: Piteous
-5: Pleasure
-5: Point
-5: Power
-5: Prepare
-5: Pretty
-5: Quickly
-5: Quoth
-5: Ready
-5: Reason
-5: Return
-5: Right
-5: Rough
-5: Rude
-5: Sad
-5: Satisfied
-5: Scorn
-5: Second
-5: Shape
-5: Shrift
-5: Sighs
-5: Simple
-5: Slaughtered
-5: Slay
-5: Slew
-5: Soft
-5: State
-5: Strike
-5: Sure
-5: Tear
-5: There’s
-5: Th’
-5: Trust
-5: Truth
-5: Untimely
-5: Voice
-5: Wake
-5: Walk
-5: Wedding
-5: Wherefore
-5: While
-5: Wings
-5: Wise
-5: Wisely
-5: Withal
-5: Wits
-5: Written
-5: Yond
-5: Yonder
-5: Yourself
-4: Adieu
-4: After
-4: Along
-4: Amen
-4: Anger
-4: Anything
-4: Beat
-4: Beg
-4: Begin
-4: Believe
-4: Beshrew
-4: Birth
-4: Bold
-4: Broad
-4: Brow
-4: Capulets
-4: Change
-4: City
-4: Coming
-4: Conjure
-4: Count
-4: Course
-4: Coz
-4: Cry
-4: Cut
-4: Damnèd
-4: Dance
-4: Dares
-4: Daylight
-4: Depart
-4: Dew
-4: Doubt
-4: Drink
-4: Dry
-4: East
-4: Empty
-4: Fatal
-4: Fault
-4: Fine
-4: Fly
-4: Forsworn
-4: Fought
-4: Foul
-4: Fray
-4: Gave
-4: Gentlewoman
-4: Ghostly
-4: Going
-4: Golden
-4: Green
-4: Griefs
-4: Hair
-4: Hark
-4: Hateful
-4: Heavens
-4: Hers
-4: Hoar
-4: Hope
-4: Houses
-4: Intents
-4: Iron
-4: I’
-4: Juliet’s
-4: Keeps
-4: Kinsmen
-4: Knave
-4: Knife
-4: Known
-4: Lamb
-4: Learned
-4: Left
-4: Lent
-4: Lest
-4: Loss
-4: Lover
-4: Lovers’
-4: Loves
-4: Match
-4: Mercutio’s
-4: Met
-4: Minute
-4: Moon
-4: Names
-4: Nature
-4: Needs
-4: Nightly
-4: Note
-4: Oft
-4: Open
-4: Pay
-4: Quiet
-4: Rage
-4: Ran
-4: Rather
-4: Remove
-4: Ring
-4: Sadness
-4: Sake
-4: Save
-4: Search
-4: Secret
-4: Seek
-4: Sell
-4: Shut
-4: Signior
-4: Slow
-4: Something
-4: Sometime
-4: Sought
-4: Sour
-4: Spirit
-4: Spite
-4: Stands
-4: Steel
-4: Streets
-4: Strew
-4: Supper
-4: Thither
-4: Torture
-4: Toward
-4: Town
-4: Tut
-4: Uncle
-4: Veins
-4: Vow
-4: Warm
-4: Weak
-4: Wear
-4: Weeping
-4: Weeps
-4: Wench
-4: Whom
-4: Wild
-4: Wisdom
-4: Womb
-4: Women
-4: Woo
-4: Work
-4: Worn
-4: Wouldst
-4: Yea
-4: Year
-4: You’ll
-3: Abroad
-3: Afford
-3: Afore
-3: Afternoon
-3: Airy
-3: Alike
-3: Almost
-3: Aloof
-3: Another’s
-3: Apothecary
-3: Appear
-3: Apprehend
-3: Approach
-3: Apt
-3: Arise
-3: Aside
-3: Asked
-3: Attend
-3: Backward
-3: Bad
-3: Bare
-3: Bark
-3: Bawd
-3: Beast
-3: Beats
-3: Beauties
-3: Beguiled
-3: Between
-3: Bitter
-3: Blows
-3: Blush
-3: Born
-3: Bow
-3: Brain
-3: Bridal
-3: Bridegroom
-3: Brows
-3: Burden
-3: Burn
-3: Bury
-3: Business
-3: Buy
-3: Called
-3: Calm
-3: Cast
-3: Cease
-3: Chance
-3: Changed
-3: Charge
-3: Choose
-3: Closed
-3: Compare
-3: Conduct
-3: Confess
-3: Confession
-3: Consort
-3: Content
-3: Contrary
-3: Courteous
-3: Courtesy
-3: Cousin’s
-3: Craves
-3: Cries
-3: Cruel
-3: Cup
-3: Cupid
-3: Date
-3: Daughter’s
-3: Day’s
-3: Deadly
-3: Death’s
-3: Delay
-3: Delight
-3: Devil
-3: Devise
-3: Dies
-3: Dinner
-3: Discords
-3: Door
-3: Drawn
-3: Dreamt
-3: Drunk
-3: Dug
-3: Dwell
-3: Encounter
-3: Exchange
-3: E’er
-3: Faithful
-3: Farther
-3: Fast
-3: Father’s
-3: Fellows
-3: Fickle
-3: Fiend
-3: Flies
-3: Fond
-3: Food
-3: Forbid
-3: Fury
-3: Gaze
-3: God’s
-3: Goes
-3: Got
-3: Grow
-3: Guests
-3: Hard
-3: Hearest
-3: Hearts
-3: Hid
-3: Hire
-3: Hollow
-3: Honey
-3: Hood
-3: Humor
-3: Hundred
-3: Immortal
-3: Inconstant
-3: Jealous
-3: Jesu
-3: John
-3: Joint
-3: Joints
-3: Jule
-3: Kisses
-3: Knees
-3: Knew
-3: Knock
-3: Knows
-3: Ladies
-3: Lain
-3: Laugh
-3: Learn
-3: Lends
-3: Liberty
-3: Lick
-3: Likeness
-3: Lo
-3: Loathsome
-3: Lost
-3: Loved
-3: Lovers
-3: Mab
-3: Making
-3: Mayst
-3: Meaning
-3: Meantime
-3: Meat
-3: Methinks
-3: Mistress’
-3: Modesty
-3: Morn
-3: Morning’s
-3: Mortal
-3: Mouse
-3: Murdered
-3: Murderer
-3: Naught
-3: Needy
-3: Nightingale
-3: Occasion
-3: Oppression
-3: Over
-3: Pain
-3: Paris’
-3: Pass
-3: Passion
-3: Patient
-3: Peter’s
-3: Philosophy
-3: Plague
-3: Please
-3: Powder
-3: Precious
-3: Present
-3: Presently
-3: Pronounce
-3: Proof
-3: Protest
-3: Pure
-3: Purpose
-3: Raise
-3: Remedy
-3: Rosemary
-3: Rouse
-3: Ruled
-3: Sail
-3: Saints
-3: Scratch
-3: Seeming
-3: Seems
-3: Sense
-3: Shroud
-3: Slave
-3: Solemnity
-3: Speed
-3: Spent
-3: Stayed
-3: Stays
-3: Strife
-3: Strong
-3: Substance
-3: Susan
-3: Sweetest
-3: Swift
-3: Swords
-3: Sworn
-3: Taste
-3: Teach
-3: Thanks
-3: Thoughts
-3: Thrust
-3: Tidings
-3: Toad
-3: Today
-3: Toil
-3: Told
-3: Touch
-3: Towards
-3: Tree
-3: Truly
-3: Turns
-3: Unaccustomed
-3: Urged
-3: Vain
-3: Vexed
-3: View
-3: Virtuous
-3: Visor
-3: Waking
-3: Walls
-3: Washed
-3: Waste
-3: Wed
-3: Wednesday
-3: Wert
-3: Whole
-3: Wide
-3: Wind
-3: Window
-3: Withdraw
-3: Woman
-3: Worse
-3: Wound
-3: Wretch
-3: Wretched
-3: Yours
-3: Youthful
-3: ’twas
-2: Able
-2: Account
-2: Act
-2: Advanced
-2: Adventure
-2: Affection
-2: Affections
-2: Ago
-2: Alive
-2: Aloud
-2: Amazed
-2: Amorous
-2: Antic
-2: Apace
-2: Aqua
-2: Armed
-2: Arms
-2: Array
-2: Ashes
-2: Aught
-2: Awake
-2: Baggage
-2: Beams
-2: Bears
-2: Beauteous
-2: Beauty’s
-2: Began
-2: Begins
-2: Behind
-2: Bell
-2: Bethink
-2: Bier
-2: Big
-2: Bigger
-2: Bird
-2: Bitterly
-2: Blade
-2: Bless
-2: Blessed
-2: Bliss
-2: Blow
-2: Blubb’ring
-2: Body’s
-2: Bone
-2: Bore
-2: Borrowed
-2: Bottom
-2: Brags
-2: Brains
-2: Brave
-2: Brawl
-2: Brawls
-2: Breathed
-2: Brings
-2: Broke
-2: Brother’s
-2: Bud
-2: Buried
-2: Burièd
-2: Burning
-2: Burnt
-2: Cankered
-2: Capels’
-2: Carrion
-2: Carry
-2: Cat
-2: Cats
-2: Cave
-2: Challenge
-2: Cheer
-2: Cheerly
-2: Children
-2: Choice
-2: Choler
-2: Circumstance
-2: Citizens
-2: Climb
-2: Common
-2: Conceit
-2: Condemnèd
-2: Confessor
-2: Cook
-2: Corns
-2: Couldst
-2: Counselor
-2: Counterfeit
-2: Cover
-2: Cross
-2: Crow
-2: Crutch
-2: Crying
-2: Cupid’s
-2: Cure
-2: Cursèd
-2: Dancing
-2: Daughters
-2: Deaf
-2: Deal
-2: Dearest
-2: Dearly
-2: Debt
-2: Deceived
-2: Delights
-2: Demesnes
-2: Descend
-2: Desire
-2: Despair
-2: Despisèd
-2: Desp’rate
-2: Determine
-2: Detestable
-2: Devotion
-2: Different
-2: Dim
-2: Discourses
-2: Dismal
-2: Disobedient
-2: Disposition
-2: Disturb
-2: Doing
-2: Doomsday
-2: Doors
-2: Doting
-2: Dove
-2: Dovehouse
-2: Dram
-2: Drew
-2: Drift
-2: Drugs
-2: Dry-beat
-2: Duelist
-2: Dull
-2: Dump
-2: Each
-2: Effect
-2: Egg
-2: Eleven
-2: Ended
-2: Endure
-2: Enemies
-2: Enmity
-2: Enter
-2: Entrance
-2: Entreat
-2: Eve
-2: Everlasting
-2: Evermore
-2: Examine
-2: Excellent
-2: Excels
-2: Eyesight
-2: Fa
-2: Fail
-2: Faint
-2: Fairer
-2: Fairies’
-2: Fairly
-2: Falls
-2: False
-2: Farthest
-2: Favor
-2: Feasting
-2: Fee
-2: Feeling
-2: Felt
-2: Festival
-2: Field
-2: Fiery
-2: Fights
-2: Finds
-2: Finger
-2: Fish
-2: Fit
-2: Flattering
-2: Fled
-2: Foolish
-2: Fools
-2: Forbear
-2: Forfeit
-2: Forgive
-2: Forgot
-2: Fortune’s
-2: Forty
-2: Francis
-2: Free
-2: French
-2: Fresh
-2: Friar’s
-2: Frown
-2: Further
-2: Gall
-2: Gallant
-2: Gallops
-2: Gear
-2: General
-2: Giving
-2: Glad
-2: Gladly
-2: Grandsire
-2: Grant
-2: Graves
-2: Gray
-2: Greeting
-2: Gregory
-2: Groan
-2: Groans
-2: Grown
-2: Grows
-2: Guest
-2: Guilty
-2: Hall
-2: Hangs
-2: Hap
-2: Happily
-2: Happiness
-2: Heard
-2: Hearing
-2: Heaviness
-2: Heed
-2: Heel
-2: Held
-2: Helps
-2: Henceforth
-2: Henceforward
-2: Herbs
-2: Hereafter
-2: He’ll
-2: Hist
-2: Hoarse
-2: Horses
-2: Ill-beseeming
-2: Immediately
-2: Import
-2: Infection
-2: Inquire
-2: Instruments
-2: Jack
-2: Joys
-2: Judgment
-2: Just
-2: Kindred’s
-2: King
-2: Knight
-2: Knocks
-2: Ladies’
-2: Lamentation
-2: Lammas
-2: Lawrence
-2: Lazy
-2: Leap
-2: Leaves
-2: Leg
-2: Legs
-2: Leisure
-2: Lightning
-2: Lights
-2: Light’ning
-2: Likewise
-2: Limbs
-2: Livery
-2: Loathèd
-2: Locks
-2: Lodging
-2: Logs
-2: Looked
-2: Lookest
-2: Lose
-2: Lovely
-2: Low
-2: Lusty
-2: Madman
-2: Maidenhead
-2: Manage
-2: Mangled
-2: Manners
-2: Mansion
-2: Mar
-2: Mask
-2: Mass
-2: Master’s
-2: Matched
-2: Mattock
-2: Meant
-2: Mend
-2: Merciful
-2: Merit
-2: Messenger
-2: Mightst
-2: Minstrels
-2: Misadventure
-2: Miserable
-2: Misery
-2: Miss
-2: Misshapen
-2: Monday
-2: Montague’s
-2: Month
-2: Moody
-2: Mortals
-2: Mothers
-2: Motion
-2: Mouth
-2: Murders
-2: Mutiny
-2: Name’s
-2: Native
-2: Natural
-2: Nature’s
-2: Neck
-2: Neither
-2: Nest
-2: New-made
-2: Newly
-2: Nice
-2: Nose
-2: Number
-2: Nursed
-2: Obey
-2: Obsequies
-2: Odd
-2: Offer
-2: Office
-2: Often
-2: Ope
-2: Orchard
-2: Order
-2: Ornament
-2: Ornaments
-2: Others
-2: Ours
-2: Outrage
-2: O’clock
-2: Page
-2: Pains
-2: Pair
-2: Palace
-2: Palm
-2: Paradise
-2: Parents’
-2: Partisans
-2: Parts
-2: Passado
-2: Passing
-2: Perforce
-2: Person
-2: Persons
-2: Piece
-2: Pilgrim
-2: Pilot
-2: Pink
-2: Pitiful
-2: Pity
-2: Pluck
-2: Possessed
-2: Post
-2: Potpan
-2: Poverty
-2: Prates
-2: Prayer
-2: Presence
-2: Press
-2: Presses
-2: Prettiest
-2: Prevent
-2: Price
-2: Prick
-2: Pride
-2: Prison
-2: Private
-2: Prosperous
-2: Pump
-2: Purged
-2: Pursued
-2: Quarreling
-2: Quench
-2: Question
-2: Quick
-2: Quite
-2: R
-2: Rapier
-2: Rate
-2: Re
-2: Reign
-2: Rejoice
-2: Remain
-2: Repent
-2: Respect
-2: Rests
-2: Revived
-2: Rhyme
-2: Riddling
-2: Rite
-2: Roaring
-2: Robes
-2: Room
-2: Roses
-2: Rushes
-2: Salt
-2: Saucy
-2: Sayst
-2: Scarlet
-2: Scene
-2: Scurvy
-2: Seal
-2: Sealed
-2: Seeing
-2: Seest
-2: Self
-2: Sent
-2: Sentence
-2: Sepulcher
-2: Served
-2: Shadows
-2: Shaft
-2: Shake
-2: Shamest
-2: Share
-2: Sharp
-2: Shed
-2: She’ll
-2: Shoes
-2: Shop
-2: Shot
-2: Shown
-2: Shuts
-2: Siege
-2: Sing
-2: Sings
-2: Singular
-2: Sink
-2: Sits
-2: Sitting
-2: Skulls
-2: Slander
-2: Sleeps
-2: Slip
-2: Small
-2: Smile
-2: Smiles
-2: Smoke
-2: Smooth
-2: Soar
-2: Sold
-2: Soldier’s
-2: Sole
-2: Solely
-2: Sorrows
-2: Souls
-2: Sounding
-2: Soundly
-2: Spake
-2: Speak’st
-2: Sport
-2: Spread
-2: Spring
-2: Spurs
-2: Spy
-2: Stained
-2: Starts
-2: Steal
-2: Stiff
-2: Stinted
-2: Stol’n
-2: Stone
-2: Stones
-2: Stony
-2: Store
-2: Storm
-2: Story
-2: Stout
-2: Streaks
-2: Street
-2: Struck
-2: Stuffed
-2: Sucked
-2: Suit
-2: Sullen
-2: Sum
-2: Summer
-2: Supposed
-2: Suspicion
-2: Switch
-2: Tailor
-2: Taken
-2: Taking
-2: Talked
-2: Ta’en
-2: Tedious
-2: Temper
-2: Ten
-2: Term
-2: Terror
-2: Thankful
-2: Thence
-2: Thirty
-2: Threatened
-2: Throne
-2: Torches
-2: Trees
-2: Tremble
-2: Trencher
-2: Trim
-2: Triumph
-2: Troth
-2: Trouble
-2: Trow
-2: Trudge
-2: Try
-2: Turning
-2: Tush
-2: Twain
-2: Twelve
-2: Tyrant
-2: Underneath
-2: Undone
-2: Unhappy
-2: Unworthy
-2: Valiant
-2: Valor
-2: Vanity
-2: Vengeance
-2: Venus
-2: Verona’s
-2: Vestal
-2: Vial
-2: Vice
-2: Violent
-2: Vitae
-2: Volume
-2: Wagoner
-2: Wakes
-2: Want
-2: Wanting
-2: Wanton
-2: Wash
-2: Watching
-2: Water
-2: Wax
-2: Ways
-2: Wealth
-2: Weapon
-2: Weapons
-2: Wearing
-2: Weary
-2: Wedded
-2: Weeds
-2: Week
-2: Weraday
-2: Whence
-2: Whip
-2: White
-2: Whither
-2: Who’s
-2: Windows
-2: Winds
-2: Womanish
-2: Wonder
-2: World’s
-2: Worm
-2: Wormwood
-2: Worser
-2: Worship
-2: Wounded
-2: Write
-2: Wrong
-2: Wrought
-2: Yes
-2: Yew
-2: Younger
-2: Zounds
-2: ’scape
-2: ’twixt
-1: pardon-me ’s
-1: A-bleeding
-1: Abate
-1: Abbey
-1: Abed
-1: Abhorrèd
-1: Abhors
-1: Aboard
-1: Abound’st
-1: Abraham
-1: Abroach
-1: Absolved
-1: Absolver
-1: Abuse
-1: Abused
-1: Abuses
-1: Accent
-1: Access
-1: Accident
-1: Accidents
-1: According
-1: Accursed
-1: Accustomed
-1: Ache
-1: Aches
-1: Aching
-1: Acknowledge
-1: Acquaint
-1: Acquaintance
-1: Acted
-1: Acting
-1: Action
-1: Acts
-1: Add
-1: Added
-1: Adding
-1: Addle
-1: Adjacent
-1: Admirèd
-1: Ado
-1: Advance
-1: Advancèd
-1: Adversary
-1: Adversity’s
-1: Advise
-1: Afeard
-1: Affecting
-1: Affections’
-1: Afflicted
-1: Affliction
-1: Affords
-1: Affray
-1: Affright
-1: Afire
-1: Afraid
-1: After-hours
-1: Agate
-1: Agile
-1: Agreed
-1: Agrees
-1: Aimed
-1: Alderman
-1: All-cheering
-1: All-seeing
-1: Alla
-1: Alliance
-1: Alligator
-1: Allow
-1: Ally
-1: Although
-1: Ambiguities
-1: Ambling
-1: Ambuscadoes
-1: Amended
-1: Amerce
-1: Anatomy
-1: Ancestors
-1: Angel
-1: Angelica
-1: Angelical
-1: Angels
-1: Angered
-1: Angry
-1: Anguish
-1: Anselme
-1: Anthony
-1: Anywhere
-1: Ape
-1: Apology
-1: Appertaining
-1: Appetite
-1: April
-1: Arbitrating
-1: Argues
-1: Argument
-1: Arithmetic
-1: Armor
-1: Arrives
-1: Arrow
-1: Artificial
-1: Ascend
-1: Ashamed
-1: Asking
-1: Aspired
-1: Assailing
-1: Assembly
-1: Assistant
-1: Associate
-1: Assure
-1: Asunder
-1: Atomi
-1: Attach
-1: Attempt
-1: Attending
-1: Attends
-1: Attires
-1: Augmenting
-1: Aurora’s
-1: Awakening
-1: Aweary
-1: Ax
-1: Babe
-1: Bachelor
-1: Backs
-1: Bade
-1: Bad’st
-1: Bait
-1: Baked
-1: Bakes
-1: Baleful
-1: Ball
-1: Balthasar
-1: Bandy
-1: Bandying
-1: Bankrout
-1: Banquet
-1: Baptized
-1: Barefoot
-1: Bargain
-1: Bating
-1: Battlements
-1: Bauble
-1: Bawdy
-1: Beard
-1: Bearing
-1: Beasts
-1: Beaten
-1: Beautiful
-1: Beautify
-1: Becomes
-1: Becomèd
-1: Bedaubed
-1: Bedeck
-1: Beetle
-1: Befits
-1: Beggar
-1: Beggarly
-1: Beggars
-1: Beggary
-1: Beggar’s
-1: Beginners
-1: Begot
-1: Begun
-1: Behalf
-1: Behavior
-1: Behests
-1: Behooveful
-1: Bells
-1: Belong
-1: Belonging
-1: Beloved
-1: Belovèd
-1: Bench
-1: Benedicite
-1: Benefice
-1: Bent
-1: Bepaint
-1: Berhyme
-1: Bescreened
-1: Bestride
-1: Bestrides
-1: Betake
-1: Betossèd
-1: Betrothed
-1: Bewitchèd
-1: Bide
-1: Bids
-1: Bills
-1: Birds
-1: Bird’s
-1: Bit
-1: Bitt’rest
-1: Black-browed
-1: Bladders
-1: Blades
-1: Blame
-1: Blaze
-1: Blazon
-1: Bleeding
-1: Bleeds
-1: Blessing
-1: Blessings
-1: Blistered
-1: Blisters
-1: Blushing
-1: Bodes
-1: Bodies
-1: Boist’rous
-1: Bondage
-1: Bonjour
-1: Books
-1: Borne
-1: Borrow
-1: Bosom’s
-1: Bought
-1: Boundless
-1: Bounds
-1: Bounty
-1: Bout
-1: Bow-boy’s
-1: Bowed
-1: Bower
-1: Bowl
-1: Boxes
-1: Boys
-1: Brace
-1: Braggart
-1: Brawling
-1: Breaches
-1: Bread
-1: Breaks
-1: Breathe
-1: Breathes
-1: Breaths
-1: Bred
-1: Briefly
-1: Brightness
-1: Brine
-1: Bringing
-1: Brisk
-1: Broken
-1: Brotherhood
-1: Brought
-1: Budge
-1: Buds
-1: Bump
-1: Burial
-1: Burneth
-1: Burns
-1: Burying
-1: Busy
-1: Butcher
-1: Butt
-1: Button
-1: Cage
-1: Caitiff
-1: Cakes
-1: Calamity
-1: Calling
-1: Camest
-1: Cam’st
-1: Canceled
-1: Candle
-1: Candles
-1: Canker
-1: Cannon’s
-1: Canopy
-1: Capels
-1: Captain
-1: Capulet’s
-1: Careful
-1: Carelessly
-1: Carriage
-1: Carries
-1: Catch
-1: Catched
-1: Catling
-1: Center
-1: Certain
-1: Chain
-1: Chambermaids
-1: Chances
-1: Changes
-1: Chaos
-1: Chapless
-1: Chariot
-1: Charm
-1: Charnel
-1: Chase
-1: Chaste
-1: Chastity
-1: Chat
-1: Check’ring
-1: Cheerful
-1: Cheers
-1: Cherish
-1: Cherishing
-1: Cheveril
-1: Chid’st
-1: Chiefly
-1: Childhood
-1: Childish
-1: Children’s
-1: Child’s
-1: Chinks
-1: Choking
-1: Chopped
-1: Christian
-1: Churchyard’s
-1: Churl
-1: Circle
-1: Circled
-1: Claps
-1: Clasps
-1: Clear
-1: Clears
-1: Cleft
-1: Cleopatra
-1: Cloak
-1: Clock
-1: Closely
-1: Closet
-1: Clothes
-1: Cloudy
-1: Clout
-1: Club
-1: Clubs
-1: Coachmakers
-1: Coals
-1: Cock
-1: Cock-a-hoop
-1: Cockatrice
-1: Cock’rel’s
-1: Coil
-1: Coldly
-1: Collar
-1: Collars
-1: Colliers
-1: Combine
-1: Combined
-1: Comest
-1: Comfortable
-1: Comforted
-1: Commination
-1: Commission
-1: Compass
-1: Complain
-1: Compliment
-1: Compliments
-1: Compounds
-1: Concealed
-1: Conceive
-1: Concludes
-1: Conduit
-1: Confidence
-1: Confines
-1: Confounds
-1: Confusions
-1: Confusion’s
-1: Conjured
-1: Conquered
-1: Consents
-1: Consequence
-1: Considering
-1: Consorted
-1: Consortest
-1: Conspires
-1: Constable’s
-1: Constrains
-1: Consume
-1: Contagion
-1: Containing
-1: Contempt
-1: Continuance
-1: Continue
-1: Contract
-1: Contradict
-1: Conveniently
-1: Convert
-1: Convey
-1: Convoy
-1: Cooks
-1: Cophetua
-1: Cop’st
-1: Cordial
-1: Cost
-1: Cot-quean
-1: Cote
-1: Couch
-1: Coughing
-1: Counterfeits
-1: Countervail
-1: Country
-1: Counts
-1: County’s
-1: Couple
-1: Courage
-1: Courageous
-1: Court
-1: Courtiers’
-1: Courtier’s
-1: Courts
-1: Courtship
-1: Covered
-1: Covert
-1: Coward
-1: Coying
-1: Cracking
-1: Cram
-1: Crave
-1: Create
-1: Creature
-1: Cricket’s
-1: Cried
-1: Crimson
-1: Crochets
-1: Crossing
-1: Crowed
-1: Crowkeeper
-1: Crowned
-1: Crows
-1: Crush
-1: Crystal
-1: Culled
-1: Culling
-1: Cunning
-1: Cupboard
-1: Cures
-1: Curfew
-1: Curious
-1: Curse
-1: Cursed
-1: Curtain
-1: Curtains
-1: Curtsy
-1: Cur’sies
-1: Custom
-1: Cuts
-1: Cutting
-1: Cutt’st
-1: Cynthia’s
-1: Dainty
-1: Damnation
-1: Danced
-1: Danger
-1: Dangerous
-1: Dank
-1: Dared
-1: Darest
-1: Darkness
-1: Dash
-1: Dashing
-1: Dateless
-1: Dates
-1: Dealing
-1: Dearer
-1: Death-darting
-1: Death-marked
-1: Deathbed
-1: Deceased
-1: Deceit
-1: Deck
-1: Decree
-1: Decreed
-1: Dedicate
-1: Deed
-1: Deeds
-1: Defense
-1: Defiance
-1: Deflowerèd
-1: Deformities
-1: Defy
-1: Deliciousness
-1: Deliver
-1: Delivered
-1: Demand
-1: Denied
-1: Denote
-1: Departed
-1: Depend
-1: Deprived
-1: Depth
-1: Descent
-1: Descry
-1: Desirest
-1: Despised
-1: Despite
-1: Devout
-1: Dew-dropping
-1: Dexterity
-1: Dial
-1: Dian’s
-1: Dido
-1: Died
-1: Digging
-1: Dignified
-1: Dignity
-1: Digressing
-1: Dine
-1: Dined
-1: Dire
-1: Direct
-1: Direction
-1: Direful
-1: Dirges
-1: Discern
-1: Discharged
-1: Discolored
-1: Discover
-1: Discovery
-1: Discoverèd
-1: Discreet
-1: Disgrace
-1: Disguised
-1: Dishclout
-1: Dishonorable
-1: Dishonored
-1: Dislike
-1: Dismembered
-1: Disparagement
-1: Dispatch
-1: Disperse
-1: Displant
-1: Displeased
-1: Displeasure
-1: Dispose
-1: Dispraise
-1: Dispute
-1: Dissemblers
-1: Distance
-1: Distempered
-1: Distemp’rature
-1: Distilled
-1: Distilling
-1: Distraught
-1: Distressèd
-1: Disturbed
-1: Divers
-1: Divideth
-1: Divine
-1: Divinest
-1: Division
-1: Divorcèd
-1: Doctrine
-1: Doff
-1: Dog’s
-1: Doleful
-1: Double
-1: Doublet
-1: Dove-feathered
-1: Doves
-1: Dowdy
-1: Downright
-1: Dozen
-1: Drag
-1: Dragon
-1: Drawer
-1: Draws
-1: Dreadful
-1: Dreamers
-1: Dressed
-1: Dried
-1: Drier
-1: Drinks
-1: Driveling
-1: Driveth
-1: Driving
-1: Drizzle
-1: Drop
-1: Drops
-1: Drove
-1: Drowned
-1: Drowsy
-1: Drudge
-1: Drum
-1: Drums
-1: Drunkard
-1: Ducats
-1: Dumps
-1: Dun
-1: Dun’s
-1: Dust
-1: Dwells
-1: Eagle
-1: Earl
-1: Earliness
-1: Earth-treading
-1: Earthen
-1: Earthquake
-1: Easter
-1: Eastern
-1: Eats
-1: Ebb
-1: Echo
-1: Eden
-1: Effeminate
-1: Eight
-1: Elder
-1: Elflocks
-1: Ell
-1: Eloquence
-1: Embrace
-1: Emperor
-1: Employment
-1: Enamored
-1: Encamp
-1: Endart
-1: Ends
-1: Endured
-1: Enfold
-1: Enforce
-1: Engrossing
-1: Enjoined
-1: Enjoyed
-1: Enpiercèd
-1: Enrich
-1: Ensign
-1: Enters
-1: Entertained
-1: Entreated
-1: Environèd
-1: Errand
-1: Estate
-1: Esteem
-1: Eternal
-1: Ethiop’s
-1: Evening
-1: Everyone
-1: Everything
-1: Excess
-1: Excused
-1: Excuses
-1: Execution
-1: Exhaled
-1: Exiled
-1: Expects
-1: Expire
-1: Exposition
-1: Expressly
-1: Exquisite
-1: Extreme
-1: Extremes
-1: Extremities
-1: Extremity
-1: Eyeless
-1: Eyes’
-1: Fade
-1: Fails
-1: Faintly
-1: Faints
-1: Fairest
-1: Faithfully
-1: Falc’ner’s
-1: Fallen
-1: Fall’st
-1: Falsehood
-1: Familiar
-1: Famine
-1: Fan
-1: Fantasy
-1: Fan’s
-1: Fashion-mongers
-1: Faster
-1: Fate
-1: Fathom
-1: Fay
-1: Fearest
-1: Fearfully
-1: Fears
-1: Feather
-1: Feathers
-1: Fees
-1: Feet
-1: Feign
-1: Fell
-1: Fellowship
-1: Felon
-1: Fennel
-1: Fest’ring
-1: Fettle
-1: Fiddlestick
-1: Field-bed
-1: Fierce
-1: Fiery-footed
-1: Fight
-1: Fighting
-1: Figure
-1: Film
-1: Finding
-1: Fire-eyed
-1: Fired
-1: Fisher
-1: Fishes
-1: Fishified
-1: Fits
-1: Flag
-1: Flask
-1: Fleckled
-1: Fleer
-1: Flint
-1: Flirt-gills
-1: Flood
-1: Flourishes
-1: Flow
-1: Flowed
-1: Flowered
-1: Flow’ring
-1: Foes
-1: Foe’s
-1: Folks
-1: Followed
-1: Follower
-1: Following
-1: Follows
-1: Fool’s
-1: Force
-1: Forefathers’
-1: Forefinger
-1: Forehead
-1: Foreign
-1: Forerun
-1: Forgetting
-1: Forms
-1: Forsaken
-1: Forsooth
-1: Forswear
-1: Fortnight
-1: Fortunes
-1: Forward
-1: Found’st
-1: Fountains
-1: Four
-1: Franciscan
-1: Frank
-1: Free-town
-1: Freezes
-1: Friendly
-1: Friendship
-1: Fright
-1: Frighted
-1: Frost
-1: Frowning
-1: Frowns
-1: Frozen
-1: Fruit
-1: Fruit-tree
-1: Fume
-1: Funeral
-1: Furious
-1: Furnish
-1: Gadding
-1: Gallop
-1: Game
-1: Gapes
-1: Garish
-1: Gate
-1: Gavest
-1: Gentlemanlike
-1: Gentler
-1: Ghost
-1: Giddy
-1: Girls
-1: Gi’
-1: Gleek
-1: Glides
-1: Glooming
-1: Glorious
-1: Glory
-1: Glove
-1: Gnat
-1: Goodly
-1: Goodman
-1: Gore
-1: Gorged
-1: Gorgeous
-1: Gory
-1: Gossamers
-1: Gossip
-1: Gossips
-1: Gossip’s
-1: Government
-1: Gracious
-1: Grasshoppers
-1: Grave-beseeming
-1: Gravity
-1: Gray-coated
-1: Gray-eyed
-1: Graze
-1: Greater
-1: Greatest
-1: Green-sickness
-1: Greetings
-1: Grievance
-1: Grievances
-1: Grieve
-1: Grindstone
-1: Griping
-1: Groaned
-1: Groaning
-1: Gross
-1: Grove
-1: Grub
-1: Grubs
-1: Grudge
-1: Guide
-1: Gun
-1: Gypsy
-1: Gyves
-1: G’
-1: Hag
-1: Hairs
-1: Hams
-1: Handsome
-1: Hanged
-1: Hanging
-1: Haply
-1: Hard-hearted
-1: Harlotry
-1: Harlots
-1: Harsh
-1: Hasten
-1: Hastes
-1: Hasty
-1: Hated
-1: Hatred
-1: Haughty
-1: Haunt
-1: Havior
-1: Hay
-1: Hazel
-1: Hazelnut
-1: Headstrong
-1: Health
-1: Healths
-1: Healthsome
-1: Heaped
-1: Heareth
-1: Heartless
-1: Heartsick
-1: Hearts’
-1: Heat
-1: Heavenly
-1: Heels
-1: Helen
-1: Helena
-1: Helped
-1: Herald
-1: Heralds
-1: Hereabout
-1: Hereabouts
-1: Heretics
-1: Hero
-1: Herring
-1: Hideous
-1: High-lone
-1: Highmost
-1: Highway
-1: Hilding
-1: Hildings
-1: Hill
-1: Hills
-1: Hinds
-1: Hissed
-1: Hoars
-1: Holder
-1: Holding
-1: Hole
-1: Holidam
-1: Holiday
-1: Homely
-1: Honestly
-1: Honesty
-1: Hoodwinked
-1: Hooks
-1: Hop
-1: Hopeful
-1: Hopes
-1: Horrible
-1: Hours’
-1: Households
-1: Households’
-1: Housewife
-1: Howling
-1: Huge
-1: Hugh
-1: Humbly
-1: Humorous
-1: Humors
-1: Hung
-1: Hungry
-1: Hunting
-1: Hunt’s-up
-1: Hurdle
-1: Hurry
-1: Hymns
-1: Idle
-1: Idles
-1: Idolatry
-1: Ignorance
-1: Ill-divining
-1: Ill-shaped
-1: Imagined
-1: Immoderately
-1: Impatient
-1: Impeach
-1: Importuned
-1: Impute
-1: Inauspicious
-1: Inch
-1: Incorporate
-1: Indite
-1: Inexorable
-1: Infant
-1: Infectious
-1: Infinite
-1: Inherit
-1: Injured
-1: Injuries
-1: Ink
-1: Instant
-1: Intend
-1: Intended
-1: Intercession
-1: Interchanging
-1: Interest
-1: Interred
-1: Interrupt
-1: Intrusion
-1: Inundation
-1: Invite
-1: Invited
-1: Invocation
-1: Issue
-1: Issuing
-1: Italy
-1: Itch
-1: Its
-1: Jacks
-1: James
-1: Jaunt
-1: Jaunting
-1: Jaws
-1: Jests
-1: Jewel
-1: Jocund
-1: Joined
-1: Joiner
-1: Jointure
-1: Journey
-1: Jove
-1: Judgment-place
-1: Justice
-1: Justly
-1: Keepers
-1: Kept
-1: Keys
-1: Killing
-1: Kin
-1: Kindly
-1: Kindred
-1: Kings
-1: Kinsman’s
-1: Kitchen
-1: Knaves
-1: Knit
-1: Knot
-1: Label
-1: Labor
-1: Lace
-1: Lacks
-1: Ladder
-1: Ladybird
-1: Ladyship
-1: Lame
-1: Lament
-1: Lammastide
-1: Lamp
-1: Language
-1: Languish
-1: Lantern
-1: Lap
-1: Large
-1: Lash
-1: Lasting
-1: Lately
-1: Lath
-1: Laughs
-1: Laura
-1: Lawyers’
-1: Leaf
-1: Lean
-1: Leans
-1: Leapt
-1: Learning
-1: Learns
-1: Least
-1: Leaving
-1: Lend
-1: Lengthens
-1: Lenity
-1: Lenten
-1: Lessened
-1: Lesser
-1: Lets
-1: Letter’s
-1: Letting
-1: Level
-1: Liars
-1: Lief
-1: Liege
-1: Liest
-1: Life-weary
-1: Lifts
-1: Lightens
-1: Lightly
-1: Lightness
-1: Ligned
-1: Likely
-1: Liking
-1: Limit
-1: Limits
-1: Limping
-1: Lineament
-1: Lip
-1: Liquid
-1: Liquor
-1: Lisping
-1: List
-1: Lived
-1: Lively
-1: Liver
-1: Livest
-1: Livia
-1: Lodge
-1: Lodges
-1: Loggerhead
-1: Logic
-1: Loins
-1: Lolling
-1: Long-experienced
-1: Looking
-1: Loose
-1: Loud
-1: Lour
-1: Louring
-1: Love-devouring
-1: Love-performing
-1: Love-song
-1: Loving-jealous
-1: Lucentio
-1: Lucio
-1: Lure
-1: Lurk
-1: Lustier
-1: Madly
-1: Madman’s
-1: Madmen
-1: Madness
-1: Maiden
-1: Maiden-widowèd
-1: Maidenheads
-1: Maidenhoods
-1: Maintains
-1: Mammet
-1: Mandrakes
-1: Manes
-1: Mangle
-1: Manly
-1: Manner
-1: Mannerly
-1: Mantle
-1: Mantua’s
-1: Many’s
-1: Marchpane
-1: Margent
-1: Maria
-1: Markman
-1: Marred
-1: Marrièd
-1: Martial
-1: Martino
-1: Martyred
-1: Marvelous
-1: Masked
-1: Masks
-1: Masque
-1: Masterless
-1: Masters
-1: Matron
-1: Maw
-1: Meager
-1: Meanest
-1: Measuring
-1: Meats
-1: Meddle
-1: Medicine
-1: Medlar
-1: Medlars
-1: Meeting
-1: Melancholy
-1: Memory
-1: Menace
-1: Merchandise
-1: Merchant
-1: Merrily
-1: Merriment
-1: Messages
-1: Meteor
-1: Mewed
-1: Mickle
-1: Midwife
-1: Miles
-1: Milk
-1: Minded
-1: Minds
-1: Minim
-1: Minion
-1: Ministered
-1: Minstrel
-1: Mire
-1: Mis-sheathèd
-1: Misadventured
-1: Misapplied
-1: Misbehaved
-1: Miscarried
-1: Mischance
-1: Mischief
-1: Misfortune
-1: Misfortune’s
-1: Misgives
-1: Mistaking
-1: Mista’en
-1: Mistempered
-1: Mistermed
-1: Mistlike
-1: Mistresses
-1: Misty
-1: Mixed
-1: Mixture
-1: Moans
-1: Mocker
-1: Moderately
-1: Modern
-1: Monarch
-1: Money
-1: Monster
-1: Monthly
-1: Mood
-1: Moonshine’s
-1: Morsel
-1: Mountain-tops
-1: Mourners
-1: Mouse-hunt
-1: Moves
-1: Moveth
-1: Movèd
-1: Muffle
-1: Muffled
-1: Mumbling
-1: Murderèd
-1: Music’s
-1: Musty
-1: Naked
-1: Named
-1: Narrow
-1: Necessaries
-1: Needful
-1: Needly
-1: Need’st
-1: Neglecting
-1: Neighbor
-1: Neighbor-stainèd
-1: Nell
-1: Nephew
-1: Nets
-1: Nickname
-1: Niece
-1: Nieces
-1: Nights
-1: Nimble
-1: Nimble-pinioned
-1: Nipple
-1: Nobleman
-1: Nobly
-1: Noon
-1: North
-1: Noses
-1: Noted
-1: Notes
-1: Notice
-1: Noting
-1: Nourished
-1: Numbers
-1: Nuns
-1: Nuptial
-1: Nuts
-1: Obscured
-1: Occupy
-1: Oddly
-1: Odds
-1: Offense
-1: Offered
-1: Older
-1: Omit
-1: One’s
-1: Open-arse
-1: Operation
-1: Opportunity
-1: Opposite
-1: Opposition
-1: Opposèd
-1: Oppress
-1: Orb
-1: Ordainèd
-1: Orisons
-1: Osier
-1: Ourselves
-1: Outcry
-1: Overheard’st
-1: Overset
-1: Overthrown
-1: Overthrows
-1: Overwhelming
-1: Owe
-1: Owes
-1: O’ercovered
-1: O’erperch
-1: Pack
-1: Packed
-1: Packthread
-1: Painted
-1: Painter
-1: Palmers
-1: Palmers’
-1: Paly
-1: Pantry
-1: Paper
-1: Paramour
-1: Pardoned
-1: Pardoning
-1: Parentage
-1: Parson’s
-1: Parted
-1: Parties
-1: Parting
-1: Partly
-1: Passage
-1: Passed
-1: Pastry
-1: Pate
-1: Path
-1: Pathways
-1: Pear
-1: Peered
-1: Peevish
-1: Pen
-1: Penalty
-1: Pencil
-1: Penny
-1: Pennyworths
-1: Pens
-1: Pensive
-1: Pentecost
-1: Penury
-1: People
-1: Peppered
-1: Perchance
-1: Perfection
-1: Perform
-1: Perhaps
-1: Peril
-1: Perilous
-1: Perjured
-1: Perjuries
-1: Perjury
-1: Pernicious
-1: Peruse
-1: Perverse
-1: Pestilence
-1: Pestilent
-1: Petrarch
-1: Petruchio
-1: Phantasimes
-1: Phaëton
-1: Phoebus’
-1: Phrase
-1: Physic
-1: Pie
-1: Pieces
-1: Pierced
-1: Piercing
-1: Pilcher
-1: Pilgrimage
-1: Pilgrims
-1: Pilgrims’
-1: Pin
-1: Pined
-1: Pipes
-1: Pitch
-1: Placentio
-1: Plagues
-1: Plain
-1: Plainly
-1: Plant
-1: Plantain
-1: Plants
-1: Plate
-1: Plats
-1: Played
-1: Playing
-1: Plays
-1: Pleading
-1: Pleasant
-1: Plucks
-1: Points
-1: Poised
-1: Pomegranate
-1: Poor-john
-1: Pop’rin
-1: Portentous
-1: Porter
-1: Portly
-1: Possess
-1: Post-horses
-1: Posterity
-1: Potion
-1: Potion’s
-1: Pots
-1: Poultice
-1: Pouts
-1: Powerful
-1: Pox
-1: Practice
-1: Praised
-1: Prating
-1: Prayers
-1: Prayers’
-1: Prayer’s
-1: Precious-juicèd
-1: Predicament
-1: Predominant
-1: Prefixèd
-1: Prepared
-1: Presage
-1: Preserving
-1: Pressed
-1: Prevails
-1: Prevented
-1: Prick-song
-1: Pricked
-1: Pricking
-1: Pricks
-1: Princox
-1: Prisoner
-1: Privy
-1: Proceeding
-1: Procure
-1: Procures
-1: Prodigious
-1: Profane
-1: Profaners
-1: Professed
-1: Progress
-1: Prolixity
-1: Prologue
-1: Promise
-1: Promised
-1: Promotion
-1: Prompt
-1: Prompter
-1: Propagate
-1: Properer
-1: Proportion
-1: Proportioned
-1: Prorogue
-1: Proroguèd
-1: Prostrate
-1: Prouds
-1: Proverbed
-1: Proves
-1: Provided
-1: Provision
-1: Provoke
-1: Prudence
-1: Pry
-1: Public
-1: Puffing
-1: Puffs
-1: Puling
-1: Pulse
-1: Punished
-1: Punishèd
-1: Punto
-1: Pupil
-1: Purblind
-1: Purchase
-1: Purgatory
-1: Purge
-1: Purple
-1: Pursuing
-1: Push
-1: Puts
-1: Putting
-1: Qualities
-1: Quarreled
-1: Quarrels
-1: Quarter
-1: Queen
-1: Quinces
-1: Quit
-1: Quivering
-1: Quivers
-1: Raging
-1: Railest
-1: Rains
-1: Raised
-1: Rancor
-1: Rank
-1: Ranked
-1: Rapier’s
-1: Rash
-1: Rat
-1: Ratcatcher
-1: Rattling
-1: Raven
-1: Raven’s
-1: Ray
-1: Reach
-1: Rearward
-1: Reason’s
-1: Rebeck
-1: Rebellious
-1: Receipt
-1: Receive
-1: Receptacle
-1: Reckoning
-1: Reck’ning
-1: Reclaimed
-1: Reconcile
-1: Redeem
-1: Redress
-1: Reeky
-1: Reels
-1: Reflex
-1: Refuse
-1: Region
-1: Religion
-1: Remedies
-1: Remembered
-1: Rememb’ring
-1: Remnants
-1: Removed
-1: Renowned
-1: Repetition
-1: Repliest
-1: Reply
-1: Report
-1: Repose
-1: Reputation
-1: Request
-1: Residence
-1: Resign
-1: Resolution
-1: Resolve
-1: Resort
-1: Respective
-1: Respects
-1: Restorative
-1: Retain
-1: Retire
-1: Retorts
-1: Returned
-1: Revel
-1: Revels
-1: Revenge
-1: Reverence
-1: Reverend
-1: Reverse
-1: Reverso
-1: Revive
-1: Revolt
-1: Revolts
-1: Ribbon
-1: Rid
-1: Righteous
-1: Rigor
-1: Rind
-1: Ringing
-1: Ripe
-1: Ripening
-1: Rise
-1: Rites
-1: Roared
-1: Rocks
-1: Rode
-1: Roe
-1: Rogue
-1: Rood
-1: Rooteth
-1: Ropery
-1: Ropes
-1: Rosaline’s
-1: Rose
-1: Rote
-1: Rotten
-1: Round
-1: Runagate
-1: Runaways’
-1: Rung
-1: Runn’st
-1: Runs
-1: Rushed
-1: Rust
-1: Sack
-1: Sacrificed
-1: Sacrifices
-1: Sadly
-1: Safety
-1: Sailing
-1: Sails
-1: Saint-seducing
-1: Sale
-1: Sallow
-1: Salutation
-1: Saluteth
-1: Satisfaction
-1: Sauce
-1: Savage-wild
-1: Sayest
-1: Saying
-1: Scales
-1: Scant
-1: Scarce
-1: Scare
-1: Scarf
-1: Scaring
-1: Scars
-1: Scathe
-1: Scattered
-1: School
-1: Schoolboys
-1: Scope
-1: Score
-1: Scourge
-1: Scrape
-1: Searchers
-1: Seasick
-1: Season
-1: Seeds
-1: Seeking
-1: Seeks
-1: Seem
-1: Seem’st
-1: Sees
-1: Seize
-1: Self-willed
-1: Semblance
-1: Sending
-1: Sends
-1: Senseless
-1: Senses
-1: Sententious
-1: Separated
-1: Serious
-1: Serpent
-1: Serpents
-1: Servants
-1: Serves
-1: Serving-creature
-1: Serving-creature’s
-1: Sets
-1: Settled
-1: Severest
-1: Severing
-1: Severity
-1: Shady
-1: Shanks
-1: Sharp-ground
-1: Sharps
-1: Sheath
-1: Sheet
-1: Shelves
-1: Shield
-1: Shift
-1: Shin
-1: Shining
-1: Shirt
-1: Shoemaker
-1: Shore
-1: Shortly
-1: Show’ring
-1: Shrieked
-1: Shrieks
-1: Shrine
-1: Shrived
-1: Shrunk
-1: Shunned
-1: Sides
-1: Sigh
-1: Signal
-1: Signify
-1: Silk
-1: Silken
-1: Silver-sweet
-1: Simon
-1: Simpleness
-1: Simples
-1: Singer
-1: Single
-1: Single-soled
-1: Singleness
-1: Sinners’
-1: Sisterhood
-1: Sisters
-1: Skains-mates
-1: Skill
-1: Skilless
-1: Skins
-1: Slack
-1: Slandered
-1: Sleeping
-1: Slewest
-1: Slop
-1: Slowed
-1: Slugabed
-1: Sluttish
-1: Smallest
-1: Smatter
-1: Smell
-1: Smelling
-1: Smells
-1: Smelt
-1: Smilest
-1: Smock
-1: Snow
-1: Snowy
-1: Sober-suited
-1: Sociable
-1: Society
-1: Softened
-1: Softest
-1: Sojourn
-1: Solace
-1: Solemn
-1: Soles
-1: Sometimes
-1: Son-in-law
-1: Son’s
-1: Soon-speeding
-1: Sooner
-1: Soonest
-1: Sore
-1: Sorry
-1: Sort
-1: Sorted
-1: Soundpost
-1: Sounds
-1: South
-1: Sovereign
-1: Spade
-1: Spakest
-1: Spanish
-1: Spare
-1: Sparing
-1: Sparkling
-1: Special
-1: Sped
-1: Speech
-1: Speedy
-1: Spell
-1: Spheres
-1: Spices
-1: Spider
-1: Spilled
-1: Spinners’
-1: Spirits
-1: Spit
-1: Spited
-1: Spleen
-1: Splendor
-1: Spoken
-1: Spokes
-1: Sprung
-1: Squirrel
-1: Stabbed
-1: Stage
-1: Stain
-1: Stainless
-1: Stains
-1: Stair
-1: Stakes
-1: Stale
-1: Star-crossed
-1: Stark
-1: Startles
-1: Starve
-1: Starved
-1: Starveth
-1: Statue
-1: Staying
-1: Steads
-1: Steals
-1: Stealth
-1: Steeds
-1: Steeped
-1: Steerage
-1: Step
-1: Stepping
-1: Stick
-1: Stickest
-1: Stifled
-1: Still-waking
-1: Stint
-1: Stirreth
-1: Stirring
-1: Stirs
-1: Stoccato
-1: Stock
-1: Stole
-1: Stools
-1: Stopped
-1: Strain
-1: Strained
-1: Straining
-1: Strains
-1: Stranger
-1: Strangers
-1: Strangled
-1: Stratagems
-1: Stream
-1: Stretch
-1: Stretches
-1: Strive
-1: Stroke
-1: Strucken
-1: Study
-1: Stumble
-1: Stumbled
-1: Stumblest
-1: Stumbling
-1: Subject
-1: Subjects
-1: Submission
-1: Substantial
-1: Subtly
-1: Sucking
-1: Suffer
-1: Summers
-1: Summer’s
-1: Sunder
-1: Sunset
-1: Sun’s
-1: Supple
-1: Supposèd
-1: Sups
-1: Surcease
-1: Surgeon
-1: Suspected
-1: Suspecting
-1: Swallowed
-1: Swan
-1: Sway
-1: Swears
-1: Swear’st
-1: Sweeten
-1: Sweeter
-1: Sweetheart
-1: Sweeting
-1: Sweetly
-1: Sweetmeats
-1: Swifter
-1: Swoonèd
-1: Swung
-1: Sycamore
-1: Sympathy
-1: Table
-1: Tables
-1: Tackled
-1: Tail
-1: Tainted
-1: Taker
-1: Talk’st
-1: Tall
-1: Tallow
-1: Tardy
-1: Tarry
-1: Tartar’s
-1: Tassel-gentle
-1: Tasted
-1: Tattered
-1: Tavern
-1: Team
-1: Teat
-1: Teen
-1: Teeth
-1: Tempered
-1: Tempest-tossèd
-1: Tempt
-1: Temp’ring
-1: Terms
-1: Testify
-1: Tetchy
-1: Text
-1: Thankings
-1: Theirs
-1: Theme
-1: Thereof
-1: Therewithal
-1: They’ll
-1: Thievish
-1: Thigh
-1: Thin
-1: Thinkest
-1: Thinking
-1: Think’st
-1: Thinly
-1: Third
-1: Thisbe
-1: Thorn
-1: Thread
-1: Three-hours
-1: Thrice
-1: Thrills
-1: Thrive
-1: Throats
-1: Throughout
-1: Throw
-1: Thrown
-1: Thrusts
-1: Thwarted
-1: Tiberio
-1: Tickle
-1: Tickling
-1: Tide
-1: Ties
-1: Tigers
-1: Tilts
-1: Timeless
-1: Tips
-1: Tiptoe
-1: Titan’s
-1: Tithe-pig’s
-1: Title
-1: Toes
-1: Together
-1: Tombs
-1: Tongues
-1: Tongue’s
-1: Tool
-1: Topgallant
-1: Tops
-1: Torchbearer
-1: Torment
-1: Tormented
-1: Torments
-1: Torn
-1: Tortoise
-1: Touching
-1: Tower
-1: Toy
-1: Traces
-1: Traffic
-1: Traitor
-1: Transgression
-1: Transparent
-1: Treacherous
-1: Tread
-1: Treads
-1: Treason
-1: Treasure
-1: Trembles
-1: Trespass
-1: Tributary
-1: Trick
-1: Tried
-1: Trifling
-1: Triumphant
-1: Trooping
-1: Troubled
-1: Truce
-1: Truckle
-1: True-love
-1: Trumpet
-1: Trunk
-1: Trusty
-1: Tune
-1: Tuners
-1: Turned
-1: Tutor
-1: Tutored
-1: Twinkle
-1: Twisted
-1: Tybalts
-1: Tying
-1: Tyrannous
-1: T’
-1: Umpire
-1: Unadvised
-1: Unattainted
-1: Unbound
-1: Unbruisèd
-1: Uncharmed
-1: Unclean
-1: Uncomfortable
-1: Uncovered
-1: Undertake
-1: Uneven
-1: Unfirm
-1: Unfold
-1: Unfurnished
-1: Unhallowed
-1: Universal
-1: Unkind
-1: Unknown
-1: Unlooked-for
-1: Unluckily
-1: Unlucky
-1: Unmade
-1: Unmanned
-1: Unnatural
-1: Unplagued
-1: Unpleasing
-1: Unreasonable
-1: Unrest
-1: Unruly
-1: Unsatisfied
-1: Unsavory
-1: Unseemly
-1: Unseen
-1: Unstained
-1: Unstuffed
-1: Unsubstantial
-1: Untalked
-1: Untangled
-1: Untaught
-1: Unthankfulness
-1: Unthrifty
-1: Unwashed
-1: Unwieldy
-1: Unworthiest
-1: Upfill
-1: Uproused
-1: Urging
-1: Usest
-1: Usurer
-1: Utter
-1: Uttering
-1: Utters
-1: Utterèd
-1: Vainly
-1: Valentine
-1: Valentio
-1: Validity
-1: Valor’s
-1: Vanished
-1: Variable
-1: Vast
-1: Vaulty
-1: Venge
-1: Versal
-1: Vessels
-1: Victory
-1: Villainous
-1: Violence
-1: Violently
-1: Virtue
-1: Virtues
-1: Visage
-1: Visiting
-1: Vitruvio
-1: Voices
-1: Vowed
-1: Vowel
-1: Vows
-1: Waddled
-1: Wagon
-1: Wail
-1: Wailing
-1: Wait
-1: Waken
-1: Wakened
-1: Walking
-1: Wanders
-1: Wantons
-1: Wanton’s
-1: Ward
-1: Ware
-1: Warmth
-1: Warning
-1: Warns
-1: Wary
-1: Washing
-1: Watched
-1: Wat’ry
-1: Waverer
-1: Waxes
-1: Wayward
-1: Weaker
-1: Weakest
-1: Weal
-1: Weaned
-1: Web
-1: Weep’st
-1: Weighed
-1: Well-appareled
-1: Well-governed
-1: Well-seeming
-1: Wench’s
-1: Went
-1: Went’st
-1: West
-1: Westward
-1: Whate’er
-1: Wheels
-1: Wherein
-1: Whereon
-1: Whereto
-1: Whiles
-1: Whining
-1: Whipped
-1: Whispering
-1: Whistle
-1: Whit
-1: White-upturnèd
-1: Whiter
-1: Whoever
-1: Whoe’er
-1: Whore
-1: Whoreson
-1: Wicked
-1: Widow
-1: Wield
-1: Wild-goose
-1: Willful
-1: Willingly
-1: Wills
-1: Wind-swift
-1: Wine
-1: Wingèd
-1: Wink
-1: Winking
-1: Winning
-1: Winter
-1: Wither
-1: Without-book
-1: Wolvish-ravening
-1: Won
-1: Wondrous
-1: Wond’ring
-1: Wood
-1: Wooed
-1: Woos
-1: Word’s
-1: World-wearied
-1: Worms
-1: Worms’
-1: Worshiped
-1: Worst
-1: Worth
-1: Worthy
-1: Wot
-1: Wounds
-1: Wreak
-1: Wrenching
-1: Wretchedness
-1: Wring
-1: Writes
-1: Writing
-1: Wrongèd
-1: Wrong’st
-1: Yard
-1: Yellow
-1: Yesternight
-1: Yielding
-1: Yoke
-1: Yon
-1: Youngest
-1: ’gainst
-1: ’i’
-1: ’pothecary
-1: ’r
-1: ’s
-1: ’twere
-1: ’twill
-1: ’twould
-1: ’ware
+instances: 663, word: 'And', work: 'Rom'},
+instances: 648, word: 'The', work: 'Rom'},
+instances: 569, word: 'I', work: 'Rom'},
+instances: 520, word: 'To', work: 'Rom'},
+instances: 438, word: 'A', work: 'Rom'},
+instances: 381, word: 'Of', work: 'Rom'},
+instances: 355, word: 'My', work: 'Rom'},
+instances: 348, word: 'Is', work: 'Rom'},
+instances: 345, word: 'That', work: 'Rom'},
+instances: 314, word: 'In', work: 'Rom'},
+instances: 299, word: 'You', work: 'Rom'},
+instances: 278, word: 'Thou', work: 'Rom'},
+instances: 265, word: 'Me', work: 'Rom'},
+instances: 259, word: 'Not', work: 'Rom'},
+instances: 236, word: 'With', work: 'Rom'},
+instances: 224, word: 'It', work: 'Rom'},
+instances: 223, word: 'For', work: 'Rom'},
+instances: 223, word: 'This', work: 'Rom'},
+instances: 203, word: 'Be', work: 'Rom'},
+instances: 180, word: 'But', work: 'Rom'},
+instances: 169, word: 'Thy', work: 'Rom'},
+instances: 165, word: 'What', work: 'Rom'},
+instances: 157, word: 'As', work: 'Rom'},
+instances: 152, word: 'Her', work: 'Rom'},
+instances: 151, word: 'O', work: 'Rom'},
+instances: 148, word: 'Will', work: 'Rom'},
+instances: 147, word: 'So', work: 'Rom'},
+instances: 139, word: 'Thee', work: 'Rom'},
+instances: 136, word: 'Love', work: 'Rom'},
+instances: 129, word: 'His', work: 'Rom'},
+instances: 126, word: 'He', work: 'Rom'},
+instances: 125, word: 'Have', work: 'Rom'},
+instances: 118, word: 'Romeo', work: 'Rom'},
+instances: 116, word: 'By', work: 'Rom'},
+instances: 110, word: 'Shall', work: 'Rom'},
+instances: 110, word: 'She', work: 'Rom'},
+instances: 103, word: 'Your', work: 'Rom'},
+instances: 102, word: 'No', work: 'Rom'},
+instances: 97, word: 'Him', work: 'Rom'},
+instances: 95, word: 'Come', work: 'Rom'},
+instances: 94, word: 'All', work: 'Rom'},
+instances: 88, word: 'Do', work: 'Rom'},
+instances: 86, word: 'From', work: 'Rom'},
+instances: 86, word: 'Good', work: 'Rom'},
+instances: 84, word: 'Then', work: 'Rom'},
+instances: 83, word: 'If', work: 'Rom'},
+instances: 82, word: 'Here', work: 'Rom'},
+instances: 81, word: 'An', work: 'Rom'},
+instances: 81, word: 'Now', work: 'Rom'},
+instances: 79, word: 'On', work: 'Rom'},
+instances: 75, word: 'Go', work: 'Rom'},
+instances: 72, word: 'I\'ll', work: 'Rom'},
+instances: 69, word: 'Death', work: 'Rom'},
+instances: 68, word: 'Night', work: 'Rom'},
+instances: 67, word: 'Are', work: 'Rom'},
+instances: 67, word: 'More', work: 'Rom'},
+instances: 66, word: 'Or', work: 'Rom'},
+instances: 66, word: 'We', work: 'Rom'},
+instances: 65, word: 'At', work: 'Rom'},
+instances: 65, word: 'Man', work: 'Rom'},
+instances: 64, word: 'Hath', work: 'Rom'},
+instances: 63, word: 'There', work: 'Rom'},
+instances: 63, word: 'Which', work: 'Rom'},
+instances: 61, word: 'Our', work: 'Rom'},
+instances: 60, word: 'Am', work: 'Rom'},
+instances: 60, word: 'How', work: 'Rom'},
+instances: 59, word: 'One', work: 'Rom'},
+instances: 57, word: 'Sir', work: 'Rom'},
+instances: 57, word: 'Well', work: 'Rom'},
+instances: 56, word: 'Too', work: 'Rom'},
+instances: 55, word: 'Art', work: 'Rom'},
+instances: 55, word: 'Some', work: 'Rom'},
+instances: 55, word: 'Up', work: 'Rom'},
+instances: 55, word: 'Would', work: 'Rom'},
+instances: 53, word: 'Out', work: 'Rom'},
+instances: 52, word: 'Say', work: 'Rom'},
+instances: 52, word: 'When', work: 'Rom'},
+instances: 51, word: 'They', work: 'Rom'},
+instances: 51, word: 'Where', work: 'Rom'},
+instances: 50, word: 'Should', work: 'Rom'},
+instances: 49, word: 'Was', work: 'Rom'},
+instances: 48, word: 'Dead', work: 'Rom'},
+instances: 48, word: 'Doth', work: 'Rom'},
+instances: 48, word: 'May', work: 'Rom'},
+instances: 47, word: 'Give', work: 'Rom'},
+instances: 47, word: 'Than', work: 'Rom'},
+instances: 47, word: 'Tybalt', work: 'Rom'},
+instances: 47, word: 'Yet', work: 'Rom'},
+instances: 46, word: 'Such', work: 'Rom'},
+instances: 45, word: 'Day', work: 'Rom'},
+instances: 45, word: 'Their', work: 'Rom'},
+instances: 44, word: 'Fair', work: 'Rom'},
+instances: 44, word: 'Let', work: 'Rom'},
+instances: 44, word: 'Tell', work: 'Rom'},
+instances: 43, word: 'Lady', work: 'Rom'},
+instances: 43, word: 'Upon', work: 'Rom'},
+instances: 42, word: 'Them', work: 'Rom'},
+instances: 42, word: 'These', work: 'Rom'},
+instances: 41, word: '\'tis', work: 'Rom'},
+instances: 40, word: 'Did', work: 'Rom'},
+instances: 40, word: 'Juliet', work: 'Rom'},
+instances: 40, word: 'Must', work: 'Rom'},
+instances: 40, word: 'Take', work: 'Rom'},
+instances: 39, word: 'Can', work: 'Rom'},
+instances: 39, word: 'Nurse', work: 'Rom'},
+instances: 39, word: 'Why', work: 'Rom'},
+instances: 38, word: 'Like', work: 'Rom'},
+instances: 38, word: 'Make', work: 'Rom'},
+instances: 37, word: 'Much', work: 'Rom'},
+instances: 37, word: 'Were', work: 'Rom'},
+instances: 36, word: 'See', work: 'Rom'},
+instances: 35, word: 'Ay', work: 'Rom'},
+instances: 35, word: 'Know', work: 'Rom'},
+instances: 34, word: 'Sweet', work: 'Rom'},
+instances: 31, word: 'Look', work: 'Rom'},
+instances: 31, word: 'Lord', work: 'Rom'},
+instances: 31, word: 'Time', work: 'Rom'},
+instances: 31, word: 'Who', work: 'Rom'},
+instances: 30, word: 'God', work: 'Rom'},
+instances: 30, word: 'Light', work: 'Rom'},
+instances: 30, word: 'Mine', work: 'Rom'},
+instances: 30, word: 'Us', work: 'Rom'},
+instances: 30, word: 'Wilt', work: 'Rom'},
+instances: 28, word: 'Back', work: 'Rom'},
+instances: 28, word: 'Hast', work: 'Rom'},
+instances: 28, word: 'Heaven', work: 'Rom'},
+instances: 28, word: 'Speak', work: 'Rom'},
+instances: 28, word: 'Word', work: 'Rom'},
+instances: 27, word: 'Comes', work: 'Rom'},
+instances: 27, word: 'Eyes', work: 'Rom'},
+instances: 27, word: 'Old', work: 'Rom'},
+instances: 27, word: 'Stay', work: 'Rom'},
+instances: 27, word: 'True', work: 'Rom'},
+instances: 26, word: 'Again', work: 'Rom'},
+instances: 26, word: 'Being', work: 'Rom'},
+instances: 26, word: 'Dear', work: 'Rom'},
+instances: 26, word: 'Gone', work: 'Rom'},
+instances: 26, word: 'Heart', work: 'Rom'},
+instances: 26, word: 'Hence', work: 'Rom'},
+instances: 26, word: 'Stand', work: 'Rom'},
+instances: 25, word: 'Hand', work: 'Rom'},
+instances: 24, word: 'Away', work: 'Rom'},
+instances: 24, word: 'Find', work: 'Rom'},
+instances: 24, word: 'Paris', work: 'Rom'},
+instances: 24, word: 'Very', work: 'Rom'},
+instances: 23, word: 'Bed', work: 'Rom'},
+instances: 23, word: 'Call', work: 'Rom'},
+instances: 23, word: 'Die', work: 'Rom'},
+instances: 23, word: 'Life', work: 'Rom'},
+instances: 23, word: 'Madam', work: 'Rom'},
+instances: 23, word: 'Therefore', work: 'Rom'},
+instances: 23, word: 'Young', work: 'Rom'},
+instances: 22, word: 'Both', work: 'Rom'},
+instances: 22, word: 'Face', work: 'Rom'},
+instances: 22, word: 'Father', work: 'Rom'},
+instances: 22, word: 'Friar', work: 'Rom'},
+instances: 22, word: 'Hear', work: 'Rom'},
+instances: 22, word: 'Marry', work: 'Rom'},
+instances: 22, word: 'Name', work: 'Rom'},
+instances: 22, word: 'Part', work: 'Rom'},
+instances: 22, word: 'Till', work: 'Rom'},
+instances: 21, word: 'Bid', work: 'Rom'},
+instances: 21, word: 'Cannot', work: 'Rom'},
+instances: 21, word: 'Holy', work: 'Rom'},
+instances: 21, word: 'House', work: 'Rom'},
+instances: 21, word: 'Lie', work: 'Rom'},
+instances: 21, word: 'Made', work: 'Rom'},
+instances: 21, word: 'Montague', work: 'Rom'},
+instances: 21, word: 'Think', work: 'Rom'},
+instances: 20, word: 'Been', work: 'Rom'},
+instances: 20, word: 'Before', work: 'Rom'},
+instances: 20, word: 'Earth', work: 'Rom'},
+instances: 20, word: 'Ere', work: 'Rom'},
+instances: 20, word: 'Farewell', work: 'Rom'},
+instances: 20, word: 'Men', work: 'Rom'},
+instances: 20, word: 'Nay', work: 'Rom'},
+instances: 20, word: 'Tears', work: 'Rom'},
+instances: 20, word: 'Two', work: 'Rom'},
+instances: 19, word: 'Banishèd', work: 'Rom'},
+instances: 19, word: 'Eye', work: 'Rom'},
+instances: 19, word: 'Had', work: 'Rom'},
+instances: 19, word: 'Lies', work: 'Rom'},
+instances: 19, word: 'Live', work: 'Rom'},
+instances: 19, word: 'Nor', work: 'Rom'},
+instances: 19, word: 'Peace', work: 'Rom'},
+instances: 19, word: 'Wife', work: 'Rom'},
+instances: 18, word: 'Blood', work: 'Rom'},
+instances: 18, word: 'Faith', work: 'Rom'},
+instances: 18, word: 'Help', work: 'Rom'},
+instances: 18, word: 'Married', work: 'Rom'},
+instances: 18, word: 'Never', work: 'Rom'},
+instances: 17, word: 'Could', work: 'Rom'},
+instances: 17, word: 'Cousin', work: 'Rom'},
+instances: 17, word: 'Hold', work: 'Rom'},
+instances: 17, word: 'Hour', work: 'Rom'},
+instances: 17, word: 'Lips', work: 'Rom'},
+instances: 17, word: 'Own', work: 'Rom'},
+instances: 17, word: 'Poor', work: 'Rom'},
+instances: 17, word: 'Pray', work: 'Rom'},
+instances: 17, word: 'Put', work: 'Rom'},
+instances: 17, word: 'Slain', work: 'Rom'},
+instances: 17, word: 'Villain', work: 'Rom'},
+instances: 16, word: 'Ah', work: 'Rom'},
+instances: 16, word: 'Any', work: 'Rom'},
+instances: 16, word: 'County', work: 'Rom'},
+instances: 16, word: 'Dost', work: 'Rom'},
+instances: 16, word: 'Early', work: 'Rom'},
+instances: 16, word: 'Grave', work: 'Rom'},
+instances: 16, word: 'Keep', work: 'Rom'},
+instances: 16, word: 'Long', work: 'Rom'},
+instances: 16, word: 'Most', work: 'Rom'},
+instances: 16, word: 'Son', work: 'Rom'},
+instances: 16, word: 'World', work: 'Rom'},
+instances: 15, word: 'Child', work: 'Rom'},
+instances: 15, word: 'Down', work: 'Rom'},
+instances: 15, word: 'Fear', work: 'Rom'},
+instances: 15, word: 'Mercutio', work: 'Rom'},
+instances: 15, word: 'Mother', work: 'Rom'},
+instances: 15, word: 'Myself', work: 'Rom'},
+instances: 15, word: 'News', work: 'Rom'},
+instances: 15, word: 'None', work: 'Rom'},
+instances: 15, word: 'Other', work: 'Rom'},
+instances: 15, word: 'Same', work: 'Rom'},
+instances: 15, word: 'Those', work: 'Rom'},
+instances: 15, word: 'Tomorrow', work: 'Rom'},
+instances: 15, word: 'Tonight', work: 'Rom'},
+instances: 15, word: 'Whose', work: 'Rom'},
+instances: 14, word: 'Alone', work: 'Rom'},
+instances: 14, word: 'Breath', work: 'Rom'},
+instances: 14, word: 'Fall', work: 'Rom'},
+instances: 14, word: 'Gentleman', work: 'Rom'},
+instances: 14, word: 'Haste', work: 'Rom'},
+instances: 14, word: 'Head', work: 'Rom'},
+instances: 14, word: 'Husband', work: 'Rom'},
+instances: 14, word: 'Joy', work: 'Rom'},
+instances: 14, word: 'Lives', work: 'Rom'},
+instances: 14, word: 'Makes', work: 'Rom'},
+instances: 14, word: 'Many', work: 'Rom'},
+instances: 14, word: 'Nothing', work: 'Rom'},
+instances: 14, word: 'Poison', work: 'Rom'},
+instances: 14, word: 'Prince', work: 'Rom'},
+instances: 14, word: 'Rest', work: 'Rom'},
+instances: 14, word: 'Run', work: 'Rom'},
+instances: 14, word: 'Said', work: 'Rom'},
+instances: 14, word: 'Sin', work: 'Rom'},
+instances: 14, word: 'Soul', work: 'Rom'},
+instances: 14, word: 'Still', work: 'Rom'},
+instances: 14, word: 'Sun', work: 'Rom'},
+instances: 14, word: 'Thursday', work: 'Rom'},
+instances: 14, word: 'Use', work: 'Rom'},
+instances: 13, word: 'Came', work: 'Rom'},
+instances: 13, word: 'Capulet', work: 'Rom'},
+instances: 13, word: 'Daughter', work: 'Rom'},
+instances: 13, word: 'Else', work: 'Rom'},
+instances: 13, word: 'Friend', work: 'Rom'},
+instances: 13, word: 'Get', work: 'Rom'},
+instances: 13, word: 'Hands', work: 'Rom'},
+instances: 13, word: 'Ho', work: 'Rom'},
+instances: 13, word: 'Leave', work: 'Rom'},
+instances: 13, word: 'Letter', work: 'Rom'},
+instances: 13, word: 'Little', work: 'Rom'},
+instances: 13, word: 'New', work: 'Rom'},
+instances: 13, word: 'Romeo\'s', work: 'Rom'},
+instances: 13, word: 'Send', work: 'Rom'},
+instances: 13, word: 'She\'s', work: 'Rom'},
+instances: 13, word: 'Soon', work: 'Rom'},
+instances: 13, word: 'Sound', work: 'Rom'},
+instances: 13, word: 'Talk', work: 'Rom'},
+instances: 13, word: 'Thing', work: 'Rom'},
+instances: 13, word: 'Wit', work: 'Rom'},
+instances: 13, word: 'Without', work: 'Rom'},
+instances: 13, word: 'Woe', work: 'Rom'},
+instances: 12, word: 'Bear', work: 'Rom'},
+instances: 12, word: 'Best', work: 'Rom'},
+instances: 12, word: 'Better', work: 'Rom'},
+instances: 12, word: 'Cell', work: 'Rom'},
+instances: 12, word: 'Forth', work: 'Rom'},
+instances: 12, word: 'Gentle', work: 'Rom'},
+instances: 12, word: 'Grief', work: 'Rom'},
+instances: 12, word: 'Happy', work: 'Rom'},
+instances: 12, word: 'Hate', work: 'Rom'},
+instances: 12, word: 'Hither', work: 'Rom'},
+instances: 12, word: 'Ill', work: 'Rom'},
+instances: 12, word: 'Mantua', work: 'Rom'},
+instances: 12, word: 'Shame', work: 'Rom'},
+instances: 12, word: 'Sleep', work: 'Rom'},
+instances: 12, word: 'Thine', work: 'Rom'},
+instances: 12, word: 'Turn', work: 'Rom'},
+instances: 11, word: 'About', work: 'Rom'},
+instances: 11, word: 'Alack', work: 'Rom'},
+instances: 11, word: 'Beauty', work: 'Rom'},
+instances: 11, word: 'Bring', work: 'Rom'},
+instances: 11, word: 'Draw', work: 'Rom'},
+instances: 11, word: 'Even', work: 'Rom'},
+instances: 11, word: 'Ever', work: 'Rom'},
+instances: 11, word: 'Full', work: 'Rom'},
+instances: 11, word: 'He\'s', work: 'Rom'},
+instances: 11, word: 'Late', work: 'Rom'},
+instances: 11, word: 'Law', work: 'Rom'},
+instances: 11, word: 'Lay', work: 'Rom'},
+instances: 11, word: 'Love\'s', work: 'Rom'},
+instances: 11, word: 'Maid', work: 'Rom'},
+instances: 11, word: 'Marriage', work: 'Rom'},
+instances: 11, word: 'Pale', work: 'Rom'},
+instances: 11, word: 'Quarrel', work: 'Rom'},
+instances: 11, word: 'Shalt', work: 'Rom'},
+instances: 11, word: 'Show', work: 'Rom'},
+instances: 11, word: 'Since', work: 'Rom'},
+instances: 11, word: 'Though', work: 'Rom'},
+instances: 11, word: 'Warrant', work: 'Rom'},
+instances: 11, word: 'Years', work: 'Rom'},
+instances: 11, word: '\'t', work: 'Rom'},
+instances: 10, word: 'Against', work: 'Rom'},
+instances: 10, word: 'Another', work: 'Rom'},
+instances: 10, word: 'Answer', work: 'Rom'},
+instances: 10, word: 'Because', work: 'Rom'},
+instances: 10, word: 'Black', work: 'Rom'},
+instances: 10, word: 'Boy', work: 'Rom'},
+instances: 10, word: 'Church', work: 'Rom'},
+instances: 10, word: 'Comfort', work: 'Rom'},
+instances: 10, word: 'Done', work: 'Rom'},
+instances: 10, word: 'Dream', work: 'Rom'},
+instances: 10, word: 'Ears', work: 'Rom'},
+instances: 10, word: 'Every', work: 'Rom'},
+instances: 10, word: 'Flower', work: 'Rom'},
+instances: 10, word: 'Gentlemen', work: 'Rom'},
+instances: 10, word: 'Heavy', work: 'Rom'},
+instances: 10, word: 'Here\'s', work: 'Rom'},
+instances: 10, word: 'Himself', work: 'Rom'},
+instances: 10, word: 'Kill', work: 'Rom'},
+instances: 10, word: 'Kinsman', work: 'Rom'},
+instances: 10, word: 'Kiss', work: 'Rom'},
+instances: 10, word: 'Mad', work: 'Rom'},
+instances: 10, word: 'Master', work: 'Rom'},
+instances: 10, word: 'Need', work: 'Rom'},
+instances: 10, word: 'Ne\'er', work: 'Rom'},
+instances: 10, word: 'Off', work: 'Rom'},
+instances: 10, word: 'Once', work: 'Rom'},
+instances: 10, word: 'O\'er', work: 'Rom'},
+instances: 10, word: 'Pardon', work: 'Rom'},
+instances: 10, word: 'Place', work: 'Rom'},
+instances: 10, word: 'Rich', work: 'Rom'},
+instances: 10, word: 'Saw', work: 'Rom'},
+instances: 10, word: 'Says', work: 'Rom'},
+instances: 10, word: 'Set', work: 'Rom'},
+instances: 10, word: 'Straight', work: 'Rom'},
+instances: 10, word: 'Times', work: 'Rom'},
+instances: 10, word: 'Tongue', work: 'Rom'},
+instances: 10, word: 'Twenty', work: 'Rom'},
+instances: 10, word: 'Tybalt\'s', work: 'Rom'},
+instances: 10, word: 'Verona', work: 'Rom'},
+instances: 10, word: 'Watch', work: 'Rom'},
+instances: 10, word: 'We\'ll', work: 'Rom'},
+instances: 9, word: 'Ancient', work: 'Rom'},
+instances: 9, word: 'Case', work: 'Rom'},
+instances: 9, word: 'Days', work: 'Rom'},
+instances: 9, word: 'Either', work: 'Rom'},
+instances: 9, word: 'First', work: 'Rom'},
+instances: 9, word: 'Foot', work: 'Rom'},
+instances: 9, word: 'Forget', work: 'Rom'},
+instances: 9, word: 'Great', work: 'Rom'},
+instances: 9, word: 'Ground', work: 'Rom'},
+instances: 9, word: 'Hide', work: 'Rom'},
+instances: 9, word: 'Indeed', work: 'Rom'},
+instances: 9, word: 'Into', work: 'Rom'},
+instances: 9, word: 'Lady\'s', work: 'Rom'},
+instances: 9, word: 'Move', work: 'Rom'},
+instances: 9, word: 'Only', work: 'Rom'},
+instances: 9, word: 'O\'', work: 'Rom'},
+instances: 9, word: 'Rosaline', work: 'Rom'},
+instances: 9, word: 'Silver', work: 'Rom'},
+instances: 9, word: 'Thus', work: 'Rom'},
+instances: 9, word: 'Unto', work: 'Rom'},
+instances: 9, word: 'Vault', work: 'Rom'},
+instances: 9, word: 'Way', work: 'Rom'},
+instances: 9, word: 'Weep', work: 'Rom'},
+instances: 9, word: 'Within', work: 'Rom'},
+instances: 8, word: 'Alas', work: 'Rom'},
+instances: 8, word: 'Anon', work: 'Rom'},
+instances: 8, word: 'Begone', work: 'Rom'},
+instances: 8, word: 'Bite', work: 'Rom'},
+instances: 8, word: 'Body', work: 'Rom'},
+instances: 8, word: 'Bones', work: 'Rom'},
+instances: 8, word: 'Bound', work: 'Rom'},
+instances: 8, word: 'Calls', work: 'Rom'},
+instances: 8, word: 'Clouds', work: 'Rom'},
+instances: 8, word: 'Counsel', work: 'Rom'},
+instances: 8, word: 'Desperate', work: 'Rom'},
+instances: 8, word: 'End', work: 'Rom'},
+instances: 8, word: 'Enough', work: 'Rom'},
+instances: 8, word: 'Having', work: 'Rom'},
+instances: 8, word: 'Hie', work: 'Rom'},
+instances: 8, word: 'High', work: 'Rom'},
+instances: 8, word: 'Last', work: 'Rom'},
+instances: 8, word: 'Mean', work: 'Rom'},
+instances: 8, word: 'Means', work: 'Rom'},
+instances: 8, word: 'Meet', work: 'Rom'},
+instances: 8, word: 'Men\'s', work: 'Rom'},
+instances: 8, word: 'Merry', work: 'Rom'},
+instances: 8, word: 'Mind', work: 'Rom'},
+instances: 8, word: 'Mistress', work: 'Rom'},
+instances: 8, word: 'Morning', work: 'Rom'},
+instances: 8, word: 'Noble', work: 'Rom'},
+instances: 8, word: 'Peter', work: 'Rom'},
+instances: 8, word: 'Play', work: 'Rom'},
+instances: 8, word: 'Saint', work: 'Rom'},
+instances: 8, word: 'Sight', work: 'Rom'},
+instances: 8, word: 'Sorrow', work: 'Rom'},
+instances: 8, word: 'Swear', work: 'Rom'},
+instances: 8, word: 'That\'s', work: 'Rom'},
+instances: 8, word: 'Things', work: 'Rom'},
+instances: 8, word: 'Thought', work: 'Rom'},
+instances: 8, word: 'Through', work: 'Rom'},
+instances: 8, word: 'Vile', work: 'Rom'},
+instances: 8, word: 'Wall', work: 'Rom'},
+instances: 8, word: 'Welcome', work: 'Rom'},
+instances: 8, word: 'What\'s', work: 'Rom'},
+instances: 8, word: 'Woeful', work: 'Rom'},
+instances: 8, word: 'Woes', work: 'Rom'},
+instances: 7, word: 'Above', work: 'Rom'},
+instances: 7, word: 'Awhile', work: 'Rom'},
+instances: 7, word: 'Behold', work: 'Rom'},
+instances: 7, word: 'Beseech', work: 'Rom'},
+instances: 7, word: 'Bloody', work: 'Rom'},
+instances: 7, word: 'Book', work: 'Rom'},
+instances: 7, word: 'Bosom', work: 'Rom'},
+instances: 7, word: 'Canst', work: 'Rom'},
+instances: 7, word: 'Care', work: 'Rom'},
+instances: 7, word: 'Chamber', work: 'Rom'},
+instances: 7, word: 'Close', work: 'Rom'},
+instances: 7, word: 'Cold', work: 'Rom'},
+instances: 7, word: 'Corse', work: 'Rom'},
+instances: 7, word: 'Dark', work: 'Rom'},
+instances: 7, word: 'Ear', work: 'Rom'},
+instances: 7, word: 'E\'en', work: 'Rom'},
+instances: 7, word: 'Fearful', work: 'Rom'},
+instances: 7, word: 'Feel', work: 'Rom'},
+instances: 7, word: 'Fetch', work: 'Rom'},
+instances: 7, word: 'Fire', work: 'Rom'},
+instances: 7, word: 'Flesh', work: 'Rom'},
+instances: 7, word: 'Follow', work: 'Rom'},
+instances: 7, word: 'Fortune', work: 'Rom'},
+instances: 7, word: 'Found', work: 'Rom'},
+instances: 7, word: 'Goose', work: 'Rom'},
+instances: 7, word: 'Heart\'s', work: 'Rom'},
+instances: 7, word: 'Hit', work: 'Rom'},
+instances: 7, word: 'Honest', work: 'Rom'},
+instances: 7, word: 'Hot', work: 'Rom'},
+instances: 7, word: 'Killed', work: 'Rom'},
+instances: 7, word: 'Looks', work: 'Rom'},
+instances: 7, word: 'Loving', work: 'Rom'},
+instances: 7, word: 'Measure', work: 'Rom'},
+instances: 7, word: 'Murder', work: 'Rom'},
+instances: 7, word: 'Music', work: 'Rom'},
+instances: 7, word: 'Near', work: 'Rom'},
+instances: 7, word: 'Next', work: 'Rom'},
+instances: 7, word: 'Past', work: 'Rom'},
+instances: 7, word: 'Sea', work: 'Rom'},
+instances: 7, word: 'Short', work: 'Rom'},
+instances: 7, word: 'Sick', work: 'Rom'},
+instances: 7, word: 'Sit', work: 'Rom'},
+instances: 7, word: 'Stars', work: 'Rom'},
+instances: 7, word: 'Sudden', work: 'Rom'},
+instances: 7, word: 'Sword', work: 'Rom'},
+instances: 7, word: 'Tender', work: 'Rom'},
+instances: 7, word: 'Thousand', work: 'Rom'},
+instances: 7, word: 'Thyself', work: 'Rom'},
+instances: 7, word: 'Tomb', work: 'Rom'},
+instances: 7, word: 'Where\'s', work: 'Rom'},
+instances: 7, word: 'Words', work: 'Rom'},
+instances: 7, word: 'Writ', work: 'Rom'},
+instances: 6, word: 'Age', work: 'Rom'},
+instances: 6, word: 'Air', work: 'Rom'},
+instances: 6, word: 'Among', work: 'Rom'},
+instances: 6, word: 'Arm', work: 'Rom'},
+instances: 6, word: 'Banishment', work: 'Rom'},
+instances: 6, word: 'Benvolio', work: 'Rom'},
+instances: 6, word: 'Breast', work: 'Rom'},
+instances: 6, word: 'Bride', work: 'Rom'},
+instances: 6, word: 'Cheek', work: 'Rom'},
+instances: 6, word: 'Cheeks', work: 'Rom'},
+instances: 6, word: 'Company', work: 'Rom'},
+instances: 6, word: 'Deep', work: 'Rom'},
+instances: 6, word: 'Didst', work: 'Rom'},
+instances: 6, word: 'Doom', work: 'Rom'},
+instances: 6, word: 'Enemy', work: 'Rom'},
+instances: 6, word: 'Envious', work: 'Rom'},
+instances: 6, word: 'Exile', work: 'Rom'},
+instances: 6, word: 'Feast', work: 'Rom'},
+instances: 6, word: 'Fie', work: 'Rom'},
+instances: 6, word: 'Fool', work: 'Rom'},
+instances: 6, word: 'Fourteen', work: 'Rom'},
+instances: 6, word: 'Girl', work: 'Rom'},
+instances: 6, word: 'Hadst', work: 'Rom'},
+instances: 6, word: 'Home', work: 'Rom'},
+instances: 6, word: 'Hours', work: 'Rom'},
+instances: 6, word: 'Hurt', work: 'Rom'},
+instances: 6, word: 'Itself', work: 'Rom'},
+instances: 6, word: 'Jest', work: 'Rom'},
+instances: 6, word: 'Kind', work: 'Rom'},
+instances: 6, word: 'Lark', work: 'Rom'},
+instances: 6, word: 'Lead', work: 'Rom'},
+instances: 6, word: 'Less', work: 'Rom'},
+instances: 6, word: 'Let\'s', work: 'Rom'},
+instances: 6, word: 'Maids', work: 'Rom'},
+instances: 6, word: 'Mark', work: 'Rom'},
+instances: 6, word: 'Matter', work: 'Rom'},
+instances: 6, word: 'Might', work: 'Rom'},
+instances: 6, word: 'Monument', work: 'Rom'},
+instances: 6, word: 'Morrow', work: 'Rom'},
+instances: 6, word: 'Moved', work: 'Rom'},
+instances: 6, word: 'Musicians', work: 'Rom'},
+instances: 6, word: 'Noise', work: 'Rom'},
+instances: 6, word: 'Prince\'s', work: 'Rom'},
+instances: 6, word: 'Proud', work: 'Rom'},
+instances: 6, word: 'Prove', work: 'Rom'},
+instances: 6, word: 'Read', work: 'Rom'},
+instances: 6, word: 'Remember', work: 'Rom'},
+instances: 6, word: 'Seen', work: 'Rom'},
+instances: 6, word: 'Serve', work: 'Rom'},
+instances: 6, word: 'Shows', work: 'Rom'},
+instances: 6, word: 'Side', work: 'Rom'},
+instances: 6, word: 'Sirrah', work: 'Rom'},
+instances: 6, word: 'Speaks', work: 'Rom'},
+instances: 6, word: 'Spoke', work: 'Rom'},
+instances: 6, word: 'Stir', work: 'Rom'},
+instances: 6, word: 'Stop', work: 'Rom'},
+instances: 6, word: 'Strange', work: 'Rom'},
+instances: 6, word: 'Strength', work: 'Rom'},
+instances: 6, word: 'Tale', work: 'Rom'},
+instances: 6, word: 'Thank', work: 'Rom'},
+instances: 6, word: 'Three', work: 'Rom'},
+instances: 6, word: 'Thumb', work: 'Rom'},
+instances: 6, word: 'Took', work: 'Rom'},
+instances: 6, word: 'Torch', work: 'Rom'},
+instances: 6, word: 'Under', work: 'Rom'},
+instances: 6, word: 'Unless', work: 'Rom'},
+instances: 6, word: 'Wast', work: 'Rom'},
+instances: 6, word: 'Wish', work: 'Rom'},
+instances: 6, word: 'Youth', work: 'Rom'},
+instances: 5, word: 'Already', work: 'Rom'},
+instances: 5, word: 'Ask', work: 'Rom'},
+instances: 5, word: 'Asleep', work: 'Rom'},
+instances: 5, word: 'Banished', work: 'Rom'},
+instances: 5, word: 'Blessèd', work: 'Rom'},
+instances: 5, word: 'Blind', work: 'Rom'},
+instances: 5, word: 'Break', work: 'Rom'},
+instances: 5, word: 'Brief', work: 'Rom'},
+instances: 5, word: 'Bright', work: 'Rom'},
+instances: 5, word: 'Brother', work: 'Rom'},
+instances: 5, word: 'Cause', work: 'Rom'},
+instances: 5, word: 'Chide', work: 'Rom'},
+instances: 5, word: 'Churchyard', work: 'Rom'},
+instances: 5, word: 'Civil', work: 'Rom'},
+instances: 5, word: 'Commend', work: 'Rom'},
+instances: 5, word: 'Consent', work: 'Rom'},
+instances: 5, word: 'Cords', work: 'Rom'},
+instances: 5, word: 'Dagger', work: 'Rom'},
+instances: 5, word: 'Dare', work: 'Rom'},
+instances: 5, word: 'Deny', work: 'Rom'},
+instances: 5, word: 'Dog', work: 'Rom'},
+instances: 5, word: 'Dreams', work: 'Rom'},
+instances: 5, word: 'Ease', work: 'Rom'},
+instances: 5, word: 'Excuse', work: 'Rom'},
+instances: 5, word: 'Fain', work: 'Rom'},
+instances: 5, word: 'Far', work: 'Rom'},
+instances: 5, word: 'Fellow', work: 'Rom'},
+instances: 5, word: 'Fingers', work: 'Rom'},
+instances: 5, word: 'Five', work: 'Rom'},
+instances: 5, word: 'Flowers', work: 'Rom'},
+instances: 5, word: 'Foe', work: 'Rom'},
+instances: 5, word: 'Form', work: 'Rom'},
+instances: 5, word: 'Friends', work: 'Rom'},
+instances: 5, word: 'Gives', work: 'Rom'},
+instances: 5, word: 'Gold', work: 'Rom'},
+instances: 5, word: 'Grace', work: 'Rom'},
+instances: 5, word: 'Ha', work: 'Rom'},
+instances: 5, word: 'Half', work: 'Rom'},
+instances: 5, word: 'Hang', work: 'Rom'},
+instances: 5, word: 'Hare', work: 'Rom'},
+instances: 5, word: 'Heads', work: 'Rom'},
+instances: 5, word: 'Heir', work: 'Rom'},
+instances: 5, word: 'Hell', work: 'Rom'},
+instances: 5, word: 'Herself', work: 'Rom'},
+instances: 5, word: 'Honor', work: 'Rom'},
+instances: 5, word: 'Honorable', work: 'Rom'},
+instances: 5, word: 'Joyful', work: 'Rom'},
+instances: 5, word: 'Knowest', work: 'Rom'},
+instances: 5, word: 'Laid', work: 'Rom'},
+instances: 5, word: 'Lamentable', work: 'Rom'},
+instances: 5, word: 'Lawrence\'', work: 'Rom'},
+instances: 5, word: 'Letters', work: 'Rom'},
+instances: 5, word: 'Living', work: 'Rom'},
+instances: 5, word: 'Longer', work: 'Rom'},
+instances: 5, word: 'Man\'s', work: 'Rom'},
+instances: 5, word: 'Mercy', work: 'Rom'},
+instances: 5, word: 'Montagues', work: 'Rom'},
+instances: 5, word: 'Night\'s', work: 'Rom'},
+instances: 5, word: 'Nine', work: 'Rom'},
+instances: 5, word: 'Patience', work: 'Rom'},
+instances: 5, word: 'Piteous', work: 'Rom'},
+instances: 5, word: 'Pleasure', work: 'Rom'},
+instances: 5, word: 'Point', work: 'Rom'},
+instances: 5, word: 'Power', work: 'Rom'},
+instances: 5, word: 'Prepare', work: 'Rom'},
+instances: 5, word: 'Pretty', work: 'Rom'},
+instances: 5, word: 'Quickly', work: 'Rom'},
+instances: 5, word: 'Quoth', work: 'Rom'},
+instances: 5, word: 'Ready', work: 'Rom'},
+instances: 5, word: 'Reason', work: 'Rom'},
+instances: 5, word: 'Return', work: 'Rom'},
+instances: 5, word: 'Right', work: 'Rom'},
+instances: 5, word: 'Rough', work: 'Rom'},
+instances: 5, word: 'Rude', work: 'Rom'},
+instances: 5, word: 'Sad', work: 'Rom'},
+instances: 5, word: 'Satisfied', work: 'Rom'},
+instances: 5, word: 'Scorn', work: 'Rom'},
+instances: 5, word: 'Second', work: 'Rom'},
+instances: 5, word: 'Shape', work: 'Rom'},
+instances: 5, word: 'Shrift', work: 'Rom'},
+instances: 5, word: 'Sighs', work: 'Rom'},
+instances: 5, word: 'Simple', work: 'Rom'},
+instances: 5, word: 'Slaughtered', work: 'Rom'},
+instances: 5, word: 'Slay', work: 'Rom'},
+instances: 5, word: 'Slew', work: 'Rom'},
+instances: 5, word: 'Soft', work: 'Rom'},
+instances: 5, word: 'State', work: 'Rom'},
+instances: 5, word: 'Strike', work: 'Rom'},
+instances: 5, word: 'Sure', work: 'Rom'},
+instances: 5, word: 'Tear', work: 'Rom'},
+instances: 5, word: 'There\'s', work: 'Rom'},
+instances: 5, word: 'Th\'', work: 'Rom'},
+instances: 5, word: 'Trust', work: 'Rom'},
+instances: 5, word: 'Truth', work: 'Rom'},
+instances: 5, word: 'Untimely', work: 'Rom'},
+instances: 5, word: 'Voice', work: 'Rom'},
+instances: 5, word: 'Wake', work: 'Rom'},
+instances: 5, word: 'Walk', work: 'Rom'},
+instances: 5, word: 'Wedding', work: 'Rom'},
+instances: 5, word: 'Wherefore', work: 'Rom'},
+instances: 5, word: 'While', work: 'Rom'},
+instances: 5, word: 'Wings', work: 'Rom'},
+instances: 5, word: 'Wise', work: 'Rom'},
+instances: 5, word: 'Wisely', work: 'Rom'},
+instances: 5, word: 'Withal', work: 'Rom'},
+instances: 5, word: 'Wits', work: 'Rom'},
+instances: 5, word: 'Written', work: 'Rom'},
+instances: 5, word: 'Yond', work: 'Rom'},
+instances: 5, word: 'Yonder', work: 'Rom'},
+instances: 5, word: 'Yourself', work: 'Rom'},
+instances: 4, word: 'Adieu', work: 'Rom'},
+instances: 4, word: 'After', work: 'Rom'},
+instances: 4, word: 'Along', work: 'Rom'},
+instances: 4, word: 'Amen', work: 'Rom'},
+instances: 4, word: 'Anger', work: 'Rom'},
+instances: 4, word: 'Anything', work: 'Rom'},
+instances: 4, word: 'Beat', work: 'Rom'},
+instances: 4, word: 'Beg', work: 'Rom'},
+instances: 4, word: 'Begin', work: 'Rom'},
+instances: 4, word: 'Believe', work: 'Rom'},
+instances: 4, word: 'Beshrew', work: 'Rom'},
+instances: 4, word: 'Birth', work: 'Rom'},
+instances: 4, word: 'Bold', work: 'Rom'},
+instances: 4, word: 'Broad', work: 'Rom'},
+instances: 4, word: 'Brow', work: 'Rom'},
+instances: 4, word: 'Capulets', work: 'Rom'},
+instances: 4, word: 'Change', work: 'Rom'},
+instances: 4, word: 'City', work: 'Rom'},
+instances: 4, word: 'Coming', work: 'Rom'},
+instances: 4, word: 'Conjure', work: 'Rom'},
+instances: 4, word: 'Count', work: 'Rom'},
+instances: 4, word: 'Course', work: 'Rom'},
+instances: 4, word: 'Coz', work: 'Rom'},
+instances: 4, word: 'Cry', work: 'Rom'},
+instances: 4, word: 'Cut', work: 'Rom'},
+instances: 4, word: 'Damnèd', work: 'Rom'},
+instances: 4, word: 'Dance', work: 'Rom'},
+instances: 4, word: 'Dares', work: 'Rom'},
+instances: 4, word: 'Daylight', work: 'Rom'},
+instances: 4, word: 'Depart', work: 'Rom'},
+instances: 4, word: 'Dew', work: 'Rom'},
+instances: 4, word: 'Doubt', work: 'Rom'},
+instances: 4, word: 'Drink', work: 'Rom'},
+instances: 4, word: 'Dry', work: 'Rom'},
+instances: 4, word: 'East', work: 'Rom'},
+instances: 4, word: 'Empty', work: 'Rom'},
+instances: 4, word: 'Fatal', work: 'Rom'},
+instances: 4, word: 'Fault', work: 'Rom'},
+instances: 4, word: 'Fine', work: 'Rom'},
+instances: 4, word: 'Fly', work: 'Rom'},
+instances: 4, word: 'Forsworn', work: 'Rom'},
+instances: 4, word: 'Fought', work: 'Rom'},
+instances: 4, word: 'Foul', work: 'Rom'},
+instances: 4, word: 'Fray', work: 'Rom'},
+instances: 4, word: 'Gave', work: 'Rom'},
+instances: 4, word: 'Gentlewoman', work: 'Rom'},
+instances: 4, word: 'Ghostly', work: 'Rom'},
+instances: 4, word: 'Going', work: 'Rom'},
+instances: 4, word: 'Golden', work: 'Rom'},
+instances: 4, word: 'Green', work: 'Rom'},
+instances: 4, word: 'Griefs', work: 'Rom'},
+instances: 4, word: 'Hair', work: 'Rom'},
+instances: 4, word: 'Hark', work: 'Rom'},
+instances: 4, word: 'Hateful', work: 'Rom'},
+instances: 4, word: 'Heavens', work: 'Rom'},
+instances: 4, word: 'Hers', work: 'Rom'},
+instances: 4, word: 'Hoar', work: 'Rom'},
+instances: 4, word: 'Hope', work: 'Rom'},
+instances: 4, word: 'Houses', work: 'Rom'},
+instances: 4, word: 'Intents', work: 'Rom'},
+instances: 4, word: 'Iron', work: 'Rom'},
+instances: 4, word: 'I\'', work: 'Rom'},
+instances: 4, word: 'Juliet\'s', work: 'Rom'},
+instances: 4, word: 'Keeps', work: 'Rom'},
+instances: 4, word: 'Kinsmen', work: 'Rom'},
+instances: 4, word: 'Knave', work: 'Rom'},
+instances: 4, word: 'Knife', work: 'Rom'},
+instances: 4, word: 'Known', work: 'Rom'},
+instances: 4, word: 'Lamb', work: 'Rom'},
+instances: 4, word: 'Learned', work: 'Rom'},
+instances: 4, word: 'Left', work: 'Rom'},
+instances: 4, word: 'Lent', work: 'Rom'},
+instances: 4, word: 'Lest', work: 'Rom'},
+instances: 4, word: 'Loss', work: 'Rom'},
+instances: 4, word: 'Lover', work: 'Rom'},
+instances: 4, word: 'Lovers\'', work: 'Rom'},
+instances: 4, word: 'Loves', work: 'Rom'},
+instances: 4, word: 'Match', work: 'Rom'},
+instances: 4, word: 'Mercutio\'s', work: 'Rom'},
+instances: 4, word: 'Met', work: 'Rom'},
+instances: 4, word: 'Minute', work: 'Rom'},
+instances: 4, word: 'Moon', work: 'Rom'},
+instances: 4, word: 'Names', work: 'Rom'},
+instances: 4, word: 'Nature', work: 'Rom'},
+instances: 4, word: 'Needs', work: 'Rom'},
+instances: 4, word: 'Nightly', work: 'Rom'},
+instances: 4, word: 'Note', work: 'Rom'},
+instances: 4, word: 'Oft', work: 'Rom'},
+instances: 4, word: 'Open', work: 'Rom'},
+instances: 4, word: 'Pay', work: 'Rom'},
+instances: 4, word: 'Quiet', work: 'Rom'},
+instances: 4, word: 'Rage', work: 'Rom'},
+instances: 4, word: 'Ran', work: 'Rom'},
+instances: 4, word: 'Rather', work: 'Rom'},
+instances: 4, word: 'Remove', work: 'Rom'},
+instances: 4, word: 'Ring', work: 'Rom'},
+instances: 4, word: 'Sadness', work: 'Rom'},
+instances: 4, word: 'Sake', work: 'Rom'},
+instances: 4, word: 'Save', work: 'Rom'},
+instances: 4, word: 'Search', work: 'Rom'},
+instances: 4, word: 'Secret', work: 'Rom'},
+instances: 4, word: 'Seek', work: 'Rom'},
+instances: 4, word: 'Sell', work: 'Rom'},
+instances: 4, word: 'Shut', work: 'Rom'},
+instances: 4, word: 'Signior', work: 'Rom'},
+instances: 4, word: 'Slow', work: 'Rom'},
+instances: 4, word: 'Something', work: 'Rom'},
+instances: 4, word: 'Sometime', work: 'Rom'},
+instances: 4, word: 'Sought', work: 'Rom'},
+instances: 4, word: 'Sour', work: 'Rom'},
+instances: 4, word: 'Spirit', work: 'Rom'},
+instances: 4, word: 'Spite', work: 'Rom'},
+instances: 4, word: 'Stands', work: 'Rom'},
+instances: 4, word: 'Steel', work: 'Rom'},
+instances: 4, word: 'Streets', work: 'Rom'},
+instances: 4, word: 'Strew', work: 'Rom'},
+instances: 4, word: 'Supper', work: 'Rom'},
+instances: 4, word: 'Thither', work: 'Rom'},
+instances: 4, word: 'Torture', work: 'Rom'},
+instances: 4, word: 'Toward', work: 'Rom'},
+instances: 4, word: 'Town', work: 'Rom'},
+instances: 4, word: 'Tut', work: 'Rom'},
+instances: 4, word: 'Uncle', work: 'Rom'},
+instances: 4, word: 'Veins', work: 'Rom'},
+instances: 4, word: 'Vow', work: 'Rom'},
+instances: 4, word: 'Warm', work: 'Rom'},
+instances: 4, word: 'Weak', work: 'Rom'},
+instances: 4, word: 'Wear', work: 'Rom'},
+instances: 4, word: 'Weeping', work: 'Rom'},
+instances: 4, word: 'Weeps', work: 'Rom'},
+instances: 4, word: 'Wench', work: 'Rom'},
+instances: 4, word: 'Whom', work: 'Rom'},
+instances: 4, word: 'Wild', work: 'Rom'},
+instances: 4, word: 'Wisdom', work: 'Rom'},
+instances: 4, word: 'Womb', work: 'Rom'},
+instances: 4, word: 'Women', work: 'Rom'},
+instances: 4, word: 'Woo', work: 'Rom'},
+instances: 4, word: 'Work', work: 'Rom'},
+instances: 4, word: 'Worn', work: 'Rom'},
+instances: 4, word: 'Wouldst', work: 'Rom'},
+instances: 4, word: 'Yea', work: 'Rom'},
+instances: 4, word: 'Year', work: 'Rom'},
+instances: 4, word: 'You\'ll', work: 'Rom'},
+instances: 3, word: 'Abroad', work: 'Rom'},
+instances: 3, word: 'Afford', work: 'Rom'},
+instances: 3, word: 'Afore', work: 'Rom'},
+instances: 3, word: 'Afternoon', work: 'Rom'},
+instances: 3, word: 'Airy', work: 'Rom'},
+instances: 3, word: 'Alike', work: 'Rom'},
+instances: 3, word: 'Almost', work: 'Rom'},
+instances: 3, word: 'Aloof', work: 'Rom'},
+instances: 3, word: 'Another\'s', work: 'Rom'},
+instances: 3, word: 'Apothecary', work: 'Rom'},
+instances: 3, word: 'Appear', work: 'Rom'},
+instances: 3, word: 'Apprehend', work: 'Rom'},
+instances: 3, word: 'Approach', work: 'Rom'},
+instances: 3, word: 'Apt', work: 'Rom'},
+instances: 3, word: 'Arise', work: 'Rom'},
+instances: 3, word: 'Aside', work: 'Rom'},
+instances: 3, word: 'Asked', work: 'Rom'},
+instances: 3, word: 'Attend', work: 'Rom'},
+instances: 3, word: 'Backward', work: 'Rom'},
+instances: 3, word: 'Bad', work: 'Rom'},
+instances: 3, word: 'Bare', work: 'Rom'},
+instances: 3, word: 'Bark', work: 'Rom'},
+instances: 3, word: 'Bawd', work: 'Rom'},
+instances: 3, word: 'Beast', work: 'Rom'},
+instances: 3, word: 'Beats', work: 'Rom'},
+instances: 3, word: 'Beauties', work: 'Rom'},
+instances: 3, word: 'Beguiled', work: 'Rom'},
+instances: 3, word: 'Between', work: 'Rom'},
+instances: 3, word: 'Bitter', work: 'Rom'},
+instances: 3, word: 'Blows', work: 'Rom'},
+instances: 3, word: 'Blush', work: 'Rom'},
+instances: 3, word: 'Born', work: 'Rom'},
+instances: 3, word: 'Bow', work: 'Rom'},
+instances: 3, word: 'Brain', work: 'Rom'},
+instances: 3, word: 'Bridal', work: 'Rom'},
+instances: 3, word: 'Bridegroom', work: 'Rom'},
+instances: 3, word: 'Brows', work: 'Rom'},
+instances: 3, word: 'Burden', work: 'Rom'},
+instances: 3, word: 'Burn', work: 'Rom'},
+instances: 3, word: 'Bury', work: 'Rom'},
+instances: 3, word: 'Business', work: 'Rom'},
+instances: 3, word: 'Buy', work: 'Rom'},
+instances: 3, word: 'Called', work: 'Rom'},
+instances: 3, word: 'Calm', work: 'Rom'},
+instances: 3, word: 'Cast', work: 'Rom'},
+instances: 3, word: 'Cease', work: 'Rom'},
+instances: 3, word: 'Chance', work: 'Rom'},
+instances: 3, word: 'Changed', work: 'Rom'},
+instances: 3, word: 'Charge', work: 'Rom'},
+instances: 3, word: 'Choose', work: 'Rom'},
+instances: 3, word: 'Closed', work: 'Rom'},
+instances: 3, word: 'Compare', work: 'Rom'},
+instances: 3, word: 'Conduct', work: 'Rom'},
+instances: 3, word: 'Confess', work: 'Rom'},
+instances: 3, word: 'Confession', work: 'Rom'},
+instances: 3, word: 'Consort', work: 'Rom'},
+instances: 3, word: 'Content', work: 'Rom'},
+instances: 3, word: 'Contrary', work: 'Rom'},
+instances: 3, word: 'Courteous', work: 'Rom'},
+instances: 3, word: 'Courtesy', work: 'Rom'},
+instances: 3, word: 'Cousin\'s', work: 'Rom'},
+instances: 3, word: 'Craves', work: 'Rom'},
+instances: 3, word: 'Cries', work: 'Rom'},
+instances: 3, word: 'Cruel', work: 'Rom'},
+instances: 3, word: 'Cup', work: 'Rom'},
+instances: 3, word: 'Cupid', work: 'Rom'},
+instances: 3, word: 'Date', work: 'Rom'},
+instances: 3, word: 'Daughter\'s', work: 'Rom'},
+instances: 3, word: 'Day\'s', work: 'Rom'},
+instances: 3, word: 'Deadly', work: 'Rom'},
+instances: 3, word: 'Death\'s', work: 'Rom'},
+instances: 3, word: 'Delay', work: 'Rom'},
+instances: 3, word: 'Delight', work: 'Rom'},
+instances: 3, word: 'Devil', work: 'Rom'},
+instances: 3, word: 'Devise', work: 'Rom'},
+instances: 3, word: 'Dies', work: 'Rom'},
+instances: 3, word: 'Dinner', work: 'Rom'},
+instances: 3, word: 'Discords', work: 'Rom'},
+instances: 3, word: 'Door', work: 'Rom'},
+instances: 3, word: 'Drawn', work: 'Rom'},
+instances: 3, word: 'Dreamt', work: 'Rom'},
+instances: 3, word: 'Drunk', work: 'Rom'},
+instances: 3, word: 'Dug', work: 'Rom'},
+instances: 3, word: 'Dwell', work: 'Rom'},
+instances: 3, word: 'Encounter', work: 'Rom'},
+instances: 3, word: 'Exchange', work: 'Rom'},
+instances: 3, word: 'E\'er', work: 'Rom'},
+instances: 3, word: 'Faithful', work: 'Rom'},
+instances: 3, word: 'Farther', work: 'Rom'},
+instances: 3, word: 'Fast', work: 'Rom'},
+instances: 3, word: 'Father\'s', work: 'Rom'},
+instances: 3, word: 'Fellows', work: 'Rom'},
+instances: 3, word: 'Fickle', work: 'Rom'},
+instances: 3, word: 'Fiend', work: 'Rom'},
+instances: 3, word: 'Flies', work: 'Rom'},
+instances: 3, word: 'Fond', work: 'Rom'},
+instances: 3, word: 'Food', work: 'Rom'},
+instances: 3, word: 'Forbid', work: 'Rom'},
+instances: 3, word: 'Fury', work: 'Rom'},
+instances: 3, word: 'Gaze', work: 'Rom'},
+instances: 3, word: 'God\'s', work: 'Rom'},
+instances: 3, word: 'Goes', work: 'Rom'},
+instances: 3, word: 'Got', work: 'Rom'},
+instances: 3, word: 'Grow', work: 'Rom'},
+instances: 3, word: 'Guests', work: 'Rom'},
+instances: 3, word: 'Hard', work: 'Rom'},
+instances: 3, word: 'Hearest', work: 'Rom'},
+instances: 3, word: 'Hearts', work: 'Rom'},
+instances: 3, word: 'Hid', work: 'Rom'},
+instances: 3, word: 'Hire', work: 'Rom'},
+instances: 3, word: 'Hollow', work: 'Rom'},
+instances: 3, word: 'Honey', work: 'Rom'},
+instances: 3, word: 'Hood', work: 'Rom'},
+instances: 3, word: 'Humor', work: 'Rom'},
+instances: 3, word: 'Hundred', work: 'Rom'},
+instances: 3, word: 'Immortal', work: 'Rom'},
+instances: 3, word: 'Inconstant', work: 'Rom'},
+instances: 3, word: 'Jealous', work: 'Rom'},
+instances: 3, word: 'Jesu', work: 'Rom'},
+instances: 3, word: 'John', work: 'Rom'},
+instances: 3, word: 'Joint', work: 'Rom'},
+instances: 3, word: 'Joints', work: 'Rom'},
+instances: 3, word: 'Jule', work: 'Rom'},
+instances: 3, word: 'Kisses', work: 'Rom'},
+instances: 3, word: 'Knees', work: 'Rom'},
+instances: 3, word: 'Knew', work: 'Rom'},
+instances: 3, word: 'Knock', work: 'Rom'},
+instances: 3, word: 'Knows', work: 'Rom'},
+instances: 3, word: 'Ladies', work: 'Rom'},
+instances: 3, word: 'Lain', work: 'Rom'},
+instances: 3, word: 'Laugh', work: 'Rom'},
+instances: 3, word: 'Learn', work: 'Rom'},
+instances: 3, word: 'Lends', work: 'Rom'},
+instances: 3, word: 'Liberty', work: 'Rom'},
+instances: 3, word: 'Lick', work: 'Rom'},
+instances: 3, word: 'Likeness', work: 'Rom'},
+instances: 3, word: 'Lo', work: 'Rom'},
+instances: 3, word: 'Loathsome', work: 'Rom'},
+instances: 3, word: 'Lost', work: 'Rom'},
+instances: 3, word: 'Loved', work: 'Rom'},
+instances: 3, word: 'Lovers', work: 'Rom'},
+instances: 3, word: 'Mab', work: 'Rom'},
+instances: 3, word: 'Making', work: 'Rom'},
+instances: 3, word: 'Mayst', work: 'Rom'},
+instances: 3, word: 'Meaning', work: 'Rom'},
+instances: 3, word: 'Meantime', work: 'Rom'},
+instances: 3, word: 'Meat', work: 'Rom'},
+instances: 3, word: 'Methinks', work: 'Rom'},
+instances: 3, word: 'Mistress\'', work: 'Rom'},
+instances: 3, word: 'Modesty', work: 'Rom'},
+instances: 3, word: 'Morn', work: 'Rom'},
+instances: 3, word: 'Morning\'s', work: 'Rom'},
+instances: 3, word: 'Mortal', work: 'Rom'},
+instances: 3, word: 'Mouse', work: 'Rom'},
+instances: 3, word: 'Murdered', work: 'Rom'},
+instances: 3, word: 'Murderer', work: 'Rom'},
+instances: 3, word: 'Naught', work: 'Rom'},
+instances: 3, word: 'Needy', work: 'Rom'},
+instances: 3, word: 'Nightingale', work: 'Rom'},
+instances: 3, word: 'Occasion', work: 'Rom'},
+instances: 3, word: 'Oppression', work: 'Rom'},
+instances: 3, word: 'Over', work: 'Rom'},
+instances: 3, word: 'Pain', work: 'Rom'},
+instances: 3, word: 'Paris\'', work: 'Rom'},
+instances: 3, word: 'Pass', work: 'Rom'},
+instances: 3, word: 'Passion', work: 'Rom'},
+instances: 3, word: 'Patient', work: 'Rom'},
+instances: 3, word: 'Peter\'s', work: 'Rom'},
+instances: 3, word: 'Philosophy', work: 'Rom'},
+instances: 3, word: 'Plague', work: 'Rom'},
+instances: 3, word: 'Please', work: 'Rom'},
+instances: 3, word: 'Powder', work: 'Rom'},
+instances: 3, word: 'Precious', work: 'Rom'},
+instances: 3, word: 'Present', work: 'Rom'},
+instances: 3, word: 'Presently', work: 'Rom'},
+instances: 3, word: 'Pronounce', work: 'Rom'},
+instances: 3, word: 'Proof', work: 'Rom'},
+instances: 3, word: 'Protest', work: 'Rom'},
+instances: 3, word: 'Pure', work: 'Rom'},
+instances: 3, word: 'Purpose', work: 'Rom'},
+instances: 3, word: 'Raise', work: 'Rom'},
+instances: 3, word: 'Remedy', work: 'Rom'},
+instances: 3, word: 'Rosemary', work: 'Rom'},
+instances: 3, word: 'Rouse', work: 'Rom'},
+instances: 3, word: 'Ruled', work: 'Rom'},
+instances: 3, word: 'Sail', work: 'Rom'},
+instances: 3, word: 'Saints', work: 'Rom'},
+instances: 3, word: 'Scratch', work: 'Rom'},
+instances: 3, word: 'Seeming', work: 'Rom'},
+instances: 3, word: 'Seems', work: 'Rom'},
+instances: 3, word: 'Sense', work: 'Rom'},
+instances: 3, word: 'Shroud', work: 'Rom'},
+instances: 3, word: 'Slave', work: 'Rom'},
+instances: 3, word: 'Solemnity', work: 'Rom'},
+instances: 3, word: 'Speed', work: 'Rom'},
+instances: 3, word: 'Spent', work: 'Rom'},
+instances: 3, word: 'Stayed', work: 'Rom'},
+instances: 3, word: 'Stays', work: 'Rom'},
+instances: 3, word: 'Strife', work: 'Rom'},
+instances: 3, word: 'Strong', work: 'Rom'},
+instances: 3, word: 'Substance', work: 'Rom'},
+instances: 3, word: 'Susan', work: 'Rom'},
+instances: 3, word: 'Sweetest', work: 'Rom'},
+instances: 3, word: 'Swift', work: 'Rom'},
+instances: 3, word: 'Swords', work: 'Rom'},
+instances: 3, word: 'Sworn', work: 'Rom'},
+instances: 3, word: 'Taste', work: 'Rom'},
+instances: 3, word: 'Teach', work: 'Rom'},
+instances: 3, word: 'Thanks', work: 'Rom'},
+instances: 3, word: 'Thoughts', work: 'Rom'},
+instances: 3, word: 'Thrust', work: 'Rom'},
+instances: 3, word: 'Tidings', work: 'Rom'},
+instances: 3, word: 'Toad', work: 'Rom'},
+instances: 3, word: 'Today', work: 'Rom'},
+instances: 3, word: 'Toil', work: 'Rom'},
+instances: 3, word: 'Told', work: 'Rom'},
+instances: 3, word: 'Touch', work: 'Rom'},
+instances: 3, word: 'Towards', work: 'Rom'},
+instances: 3, word: 'Tree', work: 'Rom'},
+instances: 3, word: 'Truly', work: 'Rom'},
+instances: 3, word: 'Turns', work: 'Rom'},
+instances: 3, word: 'Unaccustomed', work: 'Rom'},
+instances: 3, word: 'Urged', work: 'Rom'},
+instances: 3, word: 'Vain', work: 'Rom'},
+instances: 3, word: 'Vexed', work: 'Rom'},
+instances: 3, word: 'View', work: 'Rom'},
+instances: 3, word: 'Virtuous', work: 'Rom'},
+instances: 3, word: 'Visor', work: 'Rom'},
+instances: 3, word: 'Waking', work: 'Rom'},
+instances: 3, word: 'Walls', work: 'Rom'},
+instances: 3, word: 'Washed', work: 'Rom'},
+instances: 3, word: 'Waste', work: 'Rom'},
+instances: 3, word: 'Wed', work: 'Rom'},
+instances: 3, word: 'Wednesday', work: 'Rom'},
+instances: 3, word: 'Wert', work: 'Rom'},
+instances: 3, word: 'Whole', work: 'Rom'},
+instances: 3, word: 'Wide', work: 'Rom'},
+instances: 3, word: 'Wind', work: 'Rom'},
+instances: 3, word: 'Window', work: 'Rom'},
+instances: 3, word: 'Withdraw', work: 'Rom'},
+instances: 3, word: 'Woman', work: 'Rom'},
+instances: 3, word: 'Worse', work: 'Rom'},
+instances: 3, word: 'Wound', work: 'Rom'},
+instances: 3, word: 'Wretch', work: 'Rom'},
+instances: 3, word: 'Wretched', work: 'Rom'},
+instances: 3, word: 'Yours', work: 'Rom'},
+instances: 3, word: 'Youthful', work: 'Rom'},
+instances: 3, word: '\'twas', work: 'Rom'},
+instances: 2, word: 'Able', work: 'Rom'},
+instances: 2, word: 'Account', work: 'Rom'},
+instances: 2, word: 'Act', work: 'Rom'},
+instances: 2, word: 'Advanced', work: 'Rom'},
+instances: 2, word: 'Adventure', work: 'Rom'},
+instances: 2, word: 'Affection', work: 'Rom'},
+instances: 2, word: 'Affections', work: 'Rom'},
+instances: 2, word: 'Ago', work: 'Rom'},
+instances: 2, word: 'Alive', work: 'Rom'},
+instances: 2, word: 'Aloud', work: 'Rom'},
+instances: 2, word: 'Amazed', work: 'Rom'},
+instances: 2, word: 'Amorous', work: 'Rom'},
+instances: 2, word: 'Antic', work: 'Rom'},
+instances: 2, word: 'Apace', work: 'Rom'},
+instances: 2, word: 'Aqua', work: 'Rom'},
+instances: 2, word: 'Armed', work: 'Rom'},
+instances: 2, word: 'Arms', work: 'Rom'},
+instances: 2, word: 'Array', work: 'Rom'},
+instances: 2, word: 'Ashes', work: 'Rom'},
+instances: 2, word: 'Aught', work: 'Rom'},
+instances: 2, word: 'Awake', work: 'Rom'},
+instances: 2, word: 'Baggage', work: 'Rom'},
+instances: 2, word: 'Beams', work: 'Rom'},
+instances: 2, word: 'Bears', work: 'Rom'},
+instances: 2, word: 'Beauteous', work: 'Rom'},
+instances: 2, word: 'Beauty\'s', work: 'Rom'},
+instances: 2, word: 'Began', work: 'Rom'},
+instances: 2, word: 'Begins', work: 'Rom'},
+instances: 2, word: 'Behind', work: 'Rom'},
+instances: 2, word: 'Bell', work: 'Rom'},
+instances: 2, word: 'Bethink', work: 'Rom'},
+instances: 2, word: 'Bier', work: 'Rom'},
+instances: 2, word: 'Big', work: 'Rom'},
+instances: 2, word: 'Bigger', work: 'Rom'},
+instances: 2, word: 'Bird', work: 'Rom'},
+instances: 2, word: 'Bitterly', work: 'Rom'},
+instances: 2, word: 'Blade', work: 'Rom'},
+instances: 2, word: 'Bless', work: 'Rom'},
+instances: 2, word: 'Blessed', work: 'Rom'},
+instances: 2, word: 'Bliss', work: 'Rom'},
+instances: 2, word: 'Blow', work: 'Rom'},
+instances: 2, word: 'Blubb\'ring', work: 'Rom'},
+instances: 2, word: 'Body\'s', work: 'Rom'},
+instances: 2, word: 'Bone', work: 'Rom'},
+instances: 2, word: 'Bore', work: 'Rom'},
+instances: 2, word: 'Borrowed', work: 'Rom'},
+instances: 2, word: 'Bottom', work: 'Rom'},
+instances: 2, word: 'Brags', work: 'Rom'},
+instances: 2, word: 'Brains', work: 'Rom'},
+instances: 2, word: 'Brave', work: 'Rom'},
+instances: 2, word: 'Brawl', work: 'Rom'},
+instances: 2, word: 'Brawls', work: 'Rom'},
+instances: 2, word: 'Breathed', work: 'Rom'},
+instances: 2, word: 'Brings', work: 'Rom'},
+instances: 2, word: 'Broke', work: 'Rom'},
+instances: 2, word: 'Brother\'s', work: 'Rom'},
+instances: 2, word: 'Bud', work: 'Rom'},
+instances: 2, word: 'Buried', work: 'Rom'},
+instances: 2, word: 'Burièd', work: 'Rom'},
+instances: 2, word: 'Burning', work: 'Rom'},
+instances: 2, word: 'Burnt', work: 'Rom'},
+instances: 2, word: 'Cankered', work: 'Rom'},
+instances: 2, word: 'Capels\'', work: 'Rom'},
+instances: 2, word: 'Carrion', work: 'Rom'},
+instances: 2, word: 'Carry', work: 'Rom'},
+instances: 2, word: 'Cat', work: 'Rom'},
+instances: 2, word: 'Cats', work: 'Rom'},
+instances: 2, word: 'Cave', work: 'Rom'},
+instances: 2, word: 'Challenge', work: 'Rom'},
+instances: 2, word: 'Cheer', work: 'Rom'},
+instances: 2, word: 'Cheerly', work: 'Rom'},
+instances: 2, word: 'Children', work: 'Rom'},
+instances: 2, word: 'Choice', work: 'Rom'},
+instances: 2, word: 'Choler', work: 'Rom'},
+instances: 2, word: 'Circumstance', work: 'Rom'},
+instances: 2, word: 'Citizens', work: 'Rom'},
+instances: 2, word: 'Climb', work: 'Rom'},
+instances: 2, word: 'Common', work: 'Rom'},
+instances: 2, word: 'Conceit', work: 'Rom'},
+instances: 2, word: 'Condemnèd', work: 'Rom'},
+instances: 2, word: 'Confessor', work: 'Rom'},
+instances: 2, word: 'Cook', work: 'Rom'},
+instances: 2, word: 'Corns', work: 'Rom'},
+instances: 2, word: 'Couldst', work: 'Rom'},
+instances: 2, word: 'Counselor', work: 'Rom'},
+instances: 2, word: 'Counterfeit', work: 'Rom'},
+instances: 2, word: 'Cover', work: 'Rom'},
+instances: 2, word: 'Cross', work: 'Rom'},
+instances: 2, word: 'Crow', work: 'Rom'},
+instances: 2, word: 'Crutch', work: 'Rom'},
+instances: 2, word: 'Crying', work: 'Rom'},
+instances: 2, word: 'Cupid\'s', work: 'Rom'},
+instances: 2, word: 'Cure', work: 'Rom'},
+instances: 2, word: 'Cursèd', work: 'Rom'},
+instances: 2, word: 'Dancing', work: 'Rom'},
+instances: 2, word: 'Daughters', work: 'Rom'},
+instances: 2, word: 'Deaf', work: 'Rom'},
+instances: 2, word: 'Deal', work: 'Rom'},
+instances: 2, word: 'Dearest', work: 'Rom'},
+instances: 2, word: 'Dearly', work: 'Rom'},
+instances: 2, word: 'Debt', work: 'Rom'},
+instances: 2, word: 'Deceived', work: 'Rom'},
+instances: 2, word: 'Delights', work: 'Rom'},
+instances: 2, word: 'Demesnes', work: 'Rom'},
+instances: 2, word: 'Descend', work: 'Rom'},
+instances: 2, word: 'Desire', work: 'Rom'},
+instances: 2, word: 'Despair', work: 'Rom'},
+instances: 2, word: 'Despisèd', work: 'Rom'},
+instances: 2, word: 'Desp\'rate', work: 'Rom'},
+instances: 2, word: 'Determine', work: 'Rom'},
+instances: 2, word: 'Detestable', work: 'Rom'},
+instances: 2, word: 'Devotion', work: 'Rom'},
+instances: 2, word: 'Different', work: 'Rom'},
+instances: 2, word: 'Dim', work: 'Rom'},
+instances: 2, word: 'Discourses', work: 'Rom'},
+instances: 2, word: 'Dismal', work: 'Rom'},
+instances: 2, word: 'Disobedient', work: 'Rom'},
+instances: 2, word: 'Disposition', work: 'Rom'},
+instances: 2, word: 'Disturb', work: 'Rom'},
+instances: 2, word: 'Doing', work: 'Rom'},
+instances: 2, word: 'Doomsday', work: 'Rom'},
+instances: 2, word: 'Doors', work: 'Rom'},
+instances: 2, word: 'Doting', work: 'Rom'},
+instances: 2, word: 'Dove', work: 'Rom'},
+instances: 2, word: 'Dovehouse', work: 'Rom'},
+instances: 2, word: 'Dram', work: 'Rom'},
+instances: 2, word: 'Drew', work: 'Rom'},
+instances: 2, word: 'Drift', work: 'Rom'},
+instances: 2, word: 'Drugs', work: 'Rom'},
+instances: 2, word: 'Dry-beat', work: 'Rom'},
+instances: 2, word: 'Duelist', work: 'Rom'},
+instances: 2, word: 'Dull', work: 'Rom'},
+instances: 2, word: 'Dump', work: 'Rom'},
+instances: 2, word: 'Each', work: 'Rom'},
+instances: 2, word: 'Effect', work: 'Rom'},
+instances: 2, word: 'Egg', work: 'Rom'},
+instances: 2, word: 'Eleven', work: 'Rom'},
+instances: 2, word: 'Ended', work: 'Rom'},
+instances: 2, word: 'Endure', work: 'Rom'},
+instances: 2, word: 'Enemies', work: 'Rom'},
+instances: 2, word: 'Enmity', work: 'Rom'},
+instances: 2, word: 'Enter', work: 'Rom'},
+instances: 2, word: 'Entrance', work: 'Rom'},
+instances: 2, word: 'Entreat', work: 'Rom'},
+instances: 2, word: 'Eve', work: 'Rom'},
+instances: 2, word: 'Everlasting', work: 'Rom'},
+instances: 2, word: 'Evermore', work: 'Rom'},
+instances: 2, word: 'Examine', work: 'Rom'},
+instances: 2, word: 'Excellent', work: 'Rom'},
+instances: 2, word: 'Excels', work: 'Rom'},
+instances: 2, word: 'Eyesight', work: 'Rom'},
+instances: 2, word: 'Fa', work: 'Rom'},
+instances: 2, word: 'Fail', work: 'Rom'},
+instances: 2, word: 'Faint', work: 'Rom'},
+instances: 2, word: 'Fairer', work: 'Rom'},
+instances: 2, word: 'Fairies\'', work: 'Rom'},
+instances: 2, word: 'Fairly', work: 'Rom'},
+instances: 2, word: 'Falls', work: 'Rom'},
+instances: 2, word: 'False', work: 'Rom'},
+instances: 2, word: 'Farthest', work: 'Rom'},
+instances: 2, word: 'Favor', work: 'Rom'},
+instances: 2, word: 'Feasting', work: 'Rom'},
+instances: 2, word: 'Fee', work: 'Rom'},
+instances: 2, word: 'Feeling', work: 'Rom'},
+instances: 2, word: 'Felt', work: 'Rom'},
+instances: 2, word: 'Festival', work: 'Rom'},
+instances: 2, word: 'Field', work: 'Rom'},
+instances: 2, word: 'Fiery', work: 'Rom'},
+instances: 2, word: 'Fights', work: 'Rom'},
+instances: 2, word: 'Finds', work: 'Rom'},
+instances: 2, word: 'Finger', work: 'Rom'},
+instances: 2, word: 'Fish', work: 'Rom'},
+instances: 2, word: 'Fit', work: 'Rom'},
+instances: 2, word: 'Flattering', work: 'Rom'},
+instances: 2, word: 'Fled', work: 'Rom'},
+instances: 2, word: 'Foolish', work: 'Rom'},
+instances: 2, word: 'Fools', work: 'Rom'},
+instances: 2, word: 'Forbear', work: 'Rom'},
+instances: 2, word: 'Forfeit', work: 'Rom'},
+instances: 2, word: 'Forgive', work: 'Rom'},
+instances: 2, word: 'Forgot', work: 'Rom'},
+instances: 2, word: 'Fortune\'s', work: 'Rom'},
+instances: 2, word: 'Forty', work: 'Rom'},
+instances: 2, word: 'Francis', work: 'Rom'},
+instances: 2, word: 'Free', work: 'Rom'},
+instances: 2, word: 'French', work: 'Rom'},
+instances: 2, word: 'Fresh', work: 'Rom'},
+instances: 2, word: 'Friar\'s', work: 'Rom'},
+instances: 2, word: 'Frown', work: 'Rom'},
+instances: 2, word: 'Further', work: 'Rom'},
+instances: 2, word: 'Gall', work: 'Rom'},
+instances: 2, word: 'Gallant', work: 'Rom'},
+instances: 2, word: 'Gallops', work: 'Rom'},
+instances: 2, word: 'Gear', work: 'Rom'},
+instances: 2, word: 'General', work: 'Rom'},
+instances: 2, word: 'Giving', work: 'Rom'},
+instances: 2, word: 'Glad', work: 'Rom'},
+instances: 2, word: 'Gladly', work: 'Rom'},
+instances: 2, word: 'Grandsire', work: 'Rom'},
+instances: 2, word: 'Grant', work: 'Rom'},
+instances: 2, word: 'Graves', work: 'Rom'},
+instances: 2, word: 'Gray', work: 'Rom'},
+instances: 2, word: 'Greeting', work: 'Rom'},
+instances: 2, word: 'Gregory', work: 'Rom'},
+instances: 2, word: 'Groan', work: 'Rom'},
+instances: 2, word: 'Groans', work: 'Rom'},
+instances: 2, word: 'Grown', work: 'Rom'},
+instances: 2, word: 'Grows', work: 'Rom'},
+instances: 2, word: 'Guest', work: 'Rom'},
+instances: 2, word: 'Guilty', work: 'Rom'},
+instances: 2, word: 'Hall', work: 'Rom'},
+instances: 2, word: 'Hangs', work: 'Rom'},
+instances: 2, word: 'Hap', work: 'Rom'},
+instances: 2, word: 'Happily', work: 'Rom'},
+instances: 2, word: 'Happiness', work: 'Rom'},
+instances: 2, word: 'Heard', work: 'Rom'},
+instances: 2, word: 'Hearing', work: 'Rom'},
+instances: 2, word: 'Heaviness', work: 'Rom'},
+instances: 2, word: 'Heed', work: 'Rom'},
+instances: 2, word: 'Heel', work: 'Rom'},
+instances: 2, word: 'Held', work: 'Rom'},
+instances: 2, word: 'Helps', work: 'Rom'},
+instances: 2, word: 'Henceforth', work: 'Rom'},
+instances: 2, word: 'Henceforward', work: 'Rom'},
+instances: 2, word: 'Herbs', work: 'Rom'},
+instances: 2, word: 'Hereafter', work: 'Rom'},
+instances: 2, word: 'He\'ll', work: 'Rom'},
+instances: 2, word: 'Hist', work: 'Rom'},
+instances: 2, word: 'Hoarse', work: 'Rom'},
+instances: 2, word: 'Horses', work: 'Rom'},
+instances: 2, word: 'Ill-beseeming', work: 'Rom'},
+instances: 2, word: 'Immediately', work: 'Rom'},
+instances: 2, word: 'Import', work: 'Rom'},
+instances: 2, word: 'Infection', work: 'Rom'},
+instances: 2, word: 'Inquire', work: 'Rom'},
+instances: 2, word: 'Instruments', work: 'Rom'},
+instances: 2, word: 'Jack', work: 'Rom'},
+instances: 2, word: 'Joys', work: 'Rom'},
+instances: 2, word: 'Judgment', work: 'Rom'},
+instances: 2, word: 'Just', work: 'Rom'},
+instances: 2, word: 'Kindred\'s', work: 'Rom'},
+instances: 2, word: 'King', work: 'Rom'},
+instances: 2, word: 'Knight', work: 'Rom'},
+instances: 2, word: 'Knocks', work: 'Rom'},
+instances: 2, word: 'Ladies\'', work: 'Rom'},
+instances: 2, word: 'Lamentation', work: 'Rom'},
+instances: 2, word: 'Lammas', work: 'Rom'},
+instances: 2, word: 'Lawrence', work: 'Rom'},
+instances: 2, word: 'Lazy', work: 'Rom'},
+instances: 2, word: 'Leap', work: 'Rom'},
+instances: 2, word: 'Leaves', work: 'Rom'},
+instances: 2, word: 'Leg', work: 'Rom'},
+instances: 2, word: 'Legs', work: 'Rom'},
+instances: 2, word: 'Leisure', work: 'Rom'},
+instances: 2, word: 'Lightning', work: 'Rom'},
+instances: 2, word: 'Lights', work: 'Rom'},
+instances: 2, word: 'Light\'ning', work: 'Rom'},
+instances: 2, word: 'Likewise', work: 'Rom'},
+instances: 2, word: 'Limbs', work: 'Rom'},
+instances: 2, word: 'Livery', work: 'Rom'},
+instances: 2, word: 'Loathèd', work: 'Rom'},
+instances: 2, word: 'Locks', work: 'Rom'},
+instances: 2, word: 'Lodging', work: 'Rom'},
+instances: 2, word: 'Logs', work: 'Rom'},
+instances: 2, word: 'Looked', work: 'Rom'},
+instances: 2, word: 'Lookest', work: 'Rom'},
+instances: 2, word: 'Lose', work: 'Rom'},
+instances: 2, word: 'Lovely', work: 'Rom'},
+instances: 2, word: 'Low', work: 'Rom'},
+instances: 2, word: 'Lusty', work: 'Rom'},
+instances: 2, word: 'Madman', work: 'Rom'},
+instances: 2, word: 'Maidenhead', work: 'Rom'},
+instances: 2, word: 'Manage', work: 'Rom'},
+instances: 2, word: 'Mangled', work: 'Rom'},
+instances: 2, word: 'Manners', work: 'Rom'},
+instances: 2, word: 'Mansion', work: 'Rom'},
+instances: 2, word: 'Mar', work: 'Rom'},
+instances: 2, word: 'Mask', work: 'Rom'},
+instances: 2, word: 'Mass', work: 'Rom'},
+instances: 2, word: 'Master\'s', work: 'Rom'},
+instances: 2, word: 'Matched', work: 'Rom'},
+instances: 2, word: 'Mattock', work: 'Rom'},
+instances: 2, word: 'Meant', work: 'Rom'},
+instances: 2, word: 'Mend', work: 'Rom'},
+instances: 2, word: 'Merciful', work: 'Rom'},
+instances: 2, word: 'Merit', work: 'Rom'},
+instances: 2, word: 'Messenger', work: 'Rom'},
+instances: 2, word: 'Mightst', work: 'Rom'},
+instances: 2, word: 'Minstrels', work: 'Rom'},
+instances: 2, word: 'Misadventure', work: 'Rom'},
+instances: 2, word: 'Miserable', work: 'Rom'},
+instances: 2, word: 'Misery', work: 'Rom'},
+instances: 2, word: 'Miss', work: 'Rom'},
+instances: 2, word: 'Misshapen', work: 'Rom'},
+instances: 2, word: 'Monday', work: 'Rom'},
+instances: 2, word: 'Montague\'s', work: 'Rom'},
+instances: 2, word: 'Month', work: 'Rom'},
+instances: 2, word: 'Moody', work: 'Rom'},
+instances: 2, word: 'Mortals', work: 'Rom'},
+instances: 2, word: 'Mothers', work: 'Rom'},
+instances: 2, word: 'Motion', work: 'Rom'},
+instances: 2, word: 'Mouth', work: 'Rom'},
+instances: 2, word: 'Murders', work: 'Rom'},
+instances: 2, word: 'Mutiny', work: 'Rom'},
+instances: 2, word: 'Name\'s', work: 'Rom'},
+instances: 2, word: 'Native', work: 'Rom'},
+instances: 2, word: 'Natural', work: 'Rom'},
+instances: 2, word: 'Nature\'s', work: 'Rom'},
+instances: 2, word: 'Neck', work: 'Rom'},
+instances: 2, word: 'Neither', work: 'Rom'},
+instances: 2, word: 'Nest', work: 'Rom'},
+instances: 2, word: 'New-made', work: 'Rom'},
+instances: 2, word: 'Newly', work: 'Rom'},
+instances: 2, word: 'Nice', work: 'Rom'},
+instances: 2, word: 'Nose', work: 'Rom'},
+instances: 2, word: 'Number', work: 'Rom'},
+instances: 2, word: 'Nursed', work: 'Rom'},
+instances: 2, word: 'Obey', work: 'Rom'},
+instances: 2, word: 'Obsequies', work: 'Rom'},
+instances: 2, word: 'Odd', work: 'Rom'},
+instances: 2, word: 'Offer', work: 'Rom'},
+instances: 2, word: 'Office', work: 'Rom'},
+instances: 2, word: 'Often', work: 'Rom'},
+instances: 2, word: 'Ope', work: 'Rom'},
+instances: 2, word: 'Orchard', work: 'Rom'},
+instances: 2, word: 'Order', work: 'Rom'},
+instances: 2, word: 'Ornament', work: 'Rom'},
+instances: 2, word: 'Ornaments', work: 'Rom'},
+instances: 2, word: 'Others', work: 'Rom'},
+instances: 2, word: 'Ours', work: 'Rom'},
+instances: 2, word: 'Outrage', work: 'Rom'},
+instances: 2, word: 'O\'clock', work: 'Rom'},
+instances: 2, word: 'Page', work: 'Rom'},
+instances: 2, word: 'Pains', work: 'Rom'},
+instances: 2, word: 'Pair', work: 'Rom'},
+instances: 2, word: 'Palace', work: 'Rom'},
+instances: 2, word: 'Palm', work: 'Rom'},
+instances: 2, word: 'Paradise', work: 'Rom'},
+instances: 2, word: 'Parents\'', work: 'Rom'},
+instances: 2, word: 'Partisans', work: 'Rom'},
+instances: 2, word: 'Parts', work: 'Rom'},
+instances: 2, word: 'Passado', work: 'Rom'},
+instances: 2, word: 'Passing', work: 'Rom'},
+instances: 2, word: 'Perforce', work: 'Rom'},
+instances: 2, word: 'Person', work: 'Rom'},
+instances: 2, word: 'Persons', work: 'Rom'},
+instances: 2, word: 'Piece', work: 'Rom'},
+instances: 2, word: 'Pilgrim', work: 'Rom'},
+instances: 2, word: 'Pilot', work: 'Rom'},
+instances: 2, word: 'Pink', work: 'Rom'},
+instances: 2, word: 'Pitiful', work: 'Rom'},
+instances: 2, word: 'Pity', work: 'Rom'},
+instances: 2, word: 'Pluck', work: 'Rom'},
+instances: 2, word: 'Possessed', work: 'Rom'},
+instances: 2, word: 'Post', work: 'Rom'},
+instances: 2, word: 'Potpan', work: 'Rom'},
+instances: 2, word: 'Poverty', work: 'Rom'},
+instances: 2, word: 'Prates', work: 'Rom'},
+instances: 2, word: 'Prayer', work: 'Rom'},
+instances: 2, word: 'Presence', work: 'Rom'},
+instances: 2, word: 'Press', work: 'Rom'},
+instances: 2, word: 'Presses', work: 'Rom'},
+instances: 2, word: 'Prettiest', work: 'Rom'},
+instances: 2, word: 'Prevent', work: 'Rom'},
+instances: 2, word: 'Price', work: 'Rom'},
+instances: 2, word: 'Prick', work: 'Rom'},
+instances: 2, word: 'Pride', work: 'Rom'},
+instances: 2, word: 'Prison', work: 'Rom'},
+instances: 2, word: 'Private', work: 'Rom'},
+instances: 2, word: 'Prosperous', work: 'Rom'},
+instances: 2, word: 'Pump', work: 'Rom'},
+instances: 2, word: 'Purged', work: 'Rom'},
+instances: 2, word: 'Pursued', work: 'Rom'},
+instances: 2, word: 'Quarreling', work: 'Rom'},
+instances: 2, word: 'Quench', work: 'Rom'},
+instances: 2, word: 'Question', work: 'Rom'},
+instances: 2, word: 'Quick', work: 'Rom'},
+instances: 2, word: 'Quite', work: 'Rom'},
+instances: 2, word: 'R', work: 'Rom'},
+instances: 2, word: 'Rapier', work: 'Rom'},
+instances: 2, word: 'Rate', work: 'Rom'},
+instances: 2, word: 'Re', work: 'Rom'},
+instances: 2, word: 'Reign', work: 'Rom'},
+instances: 2, word: 'Rejoice', work: 'Rom'},
+instances: 2, word: 'Remain', work: 'Rom'},
+instances: 2, word: 'Repent', work: 'Rom'},
+instances: 2, word: 'Respect', work: 'Rom'},
+instances: 2, word: 'Rests', work: 'Rom'},
+instances: 2, word: 'Revived', work: 'Rom'},
+instances: 2, word: 'Rhyme', work: 'Rom'},
+instances: 2, word: 'Riddling', work: 'Rom'},
+instances: 2, word: 'Rite', work: 'Rom'},
+instances: 2, word: 'Roaring', work: 'Rom'},
+instances: 2, word: 'Robes', work: 'Rom'},
+instances: 2, word: 'Room', work: 'Rom'},
+instances: 2, word: 'Roses', work: 'Rom'},
+instances: 2, word: 'Rushes', work: 'Rom'},
+instances: 2, word: 'Salt', work: 'Rom'},
+instances: 2, word: 'Saucy', work: 'Rom'},
+instances: 2, word: 'Sayst', work: 'Rom'},
+instances: 2, word: 'Scarlet', work: 'Rom'},
+instances: 2, word: 'Scene', work: 'Rom'},
+instances: 2, word: 'Scurvy', work: 'Rom'},
+instances: 2, word: 'Seal', work: 'Rom'},
+instances: 2, word: 'Sealed', work: 'Rom'},
+instances: 2, word: 'Seeing', work: 'Rom'},
+instances: 2, word: 'Seest', work: 'Rom'},
+instances: 2, word: 'Self', work: 'Rom'},
+instances: 2, word: 'Sent', work: 'Rom'},
+instances: 2, word: 'Sentence', work: 'Rom'},
+instances: 2, word: 'Sepulcher', work: 'Rom'},
+instances: 2, word: 'Served', work: 'Rom'},
+instances: 2, word: 'Shadows', work: 'Rom'},
+instances: 2, word: 'Shaft', work: 'Rom'},
+instances: 2, word: 'Shake', work: 'Rom'},
+instances: 2, word: 'Shamest', work: 'Rom'},
+instances: 2, word: 'Share', work: 'Rom'},
+instances: 2, word: 'Sharp', work: 'Rom'},
+instances: 2, word: 'Shed', work: 'Rom'},
+instances: 2, word: 'She\'ll', work: 'Rom'},
+instances: 2, word: 'Shoes', work: 'Rom'},
+instances: 2, word: 'Shop', work: 'Rom'},
+instances: 2, word: 'Shot', work: 'Rom'},
+instances: 2, word: 'Shown', work: 'Rom'},
+instances: 2, word: 'Shuts', work: 'Rom'},
+instances: 2, word: 'Siege', work: 'Rom'},
+instances: 2, word: 'Sing', work: 'Rom'},
+instances: 2, word: 'Sings', work: 'Rom'},
+instances: 2, word: 'Singular', work: 'Rom'},
+instances: 2, word: 'Sink', work: 'Rom'},
+instances: 2, word: 'Sits', work: 'Rom'},
+instances: 2, word: 'Sitting', work: 'Rom'},
+instances: 2, word: 'Skulls', work: 'Rom'},
+instances: 2, word: 'Slander', work: 'Rom'},
+instances: 2, word: 'Sleeps', work: 'Rom'},
+instances: 2, word: 'Slip', work: 'Rom'},
+instances: 2, word: 'Small', work: 'Rom'},
+instances: 2, word: 'Smile', work: 'Rom'},
+instances: 2, word: 'Smiles', work: 'Rom'},
+instances: 2, word: 'Smoke', work: 'Rom'},
+instances: 2, word: 'Smooth', work: 'Rom'},
+instances: 2, word: 'Soar', work: 'Rom'},
+instances: 2, word: 'Sold', work: 'Rom'},
+instances: 2, word: 'Soldier\'s', work: 'Rom'},
+instances: 2, word: 'Sole', work: 'Rom'},
+instances: 2, word: 'Solely', work: 'Rom'},
+instances: 2, word: 'Sorrows', work: 'Rom'},
+instances: 2, word: 'Souls', work: 'Rom'},
+instances: 2, word: 'Sounding', work: 'Rom'},
+instances: 2, word: 'Soundly', work: 'Rom'},
+instances: 2, word: 'Spake', work: 'Rom'},
+instances: 2, word: 'Speak\'st', work: 'Rom'},
+instances: 2, word: 'Sport', work: 'Rom'},
+instances: 2, word: 'Spread', work: 'Rom'},
+instances: 2, word: 'Spring', work: 'Rom'},
+instances: 2, word: 'Spurs', work: 'Rom'},
+instances: 2, word: 'Spy', work: 'Rom'},
+instances: 2, word: 'Stained', work: 'Rom'},
+instances: 2, word: 'Starts', work: 'Rom'},
+instances: 2, word: 'Steal', work: 'Rom'},
+instances: 2, word: 'Stiff', work: 'Rom'},
+instances: 2, word: 'Stinted', work: 'Rom'},
+instances: 2, word: 'Stol\'n', work: 'Rom'},
+instances: 2, word: 'Stone', work: 'Rom'},
+instances: 2, word: 'Stones', work: 'Rom'},
+instances: 2, word: 'Stony', work: 'Rom'},
+instances: 2, word: 'Store', work: 'Rom'},
+instances: 2, word: 'Storm', work: 'Rom'},
+instances: 2, word: 'Story', work: 'Rom'},
+instances: 2, word: 'Stout', work: 'Rom'},
+instances: 2, word: 'Streaks', work: 'Rom'},
+instances: 2, word: 'Street', work: 'Rom'},
+instances: 2, word: 'Struck', work: 'Rom'},
+instances: 2, word: 'Stuffed', work: 'Rom'},
+instances: 2, word: 'Sucked', work: 'Rom'},
+instances: 2, word: 'Suit', work: 'Rom'},
+instances: 2, word: 'Sullen', work: 'Rom'},
+instances: 2, word: 'Sum', work: 'Rom'},
+instances: 2, word: 'Summer', work: 'Rom'},
+instances: 2, word: 'Supposed', work: 'Rom'},
+instances: 2, word: 'Suspicion', work: 'Rom'},
+instances: 2, word: 'Switch', work: 'Rom'},
+instances: 2, word: 'Tailor', work: 'Rom'},
+instances: 2, word: 'Taken', work: 'Rom'},
+instances: 2, word: 'Taking', work: 'Rom'},
+instances: 2, word: 'Talked', work: 'Rom'},
+instances: 2, word: 'Ta\'en', work: 'Rom'},
+instances: 2, word: 'Tedious', work: 'Rom'},
+instances: 2, word: 'Temper', work: 'Rom'},
+instances: 2, word: 'Ten', work: 'Rom'},
+instances: 2, word: 'Term', work: 'Rom'},
+instances: 2, word: 'Terror', work: 'Rom'},
+instances: 2, word: 'Thankful', work: 'Rom'},
+instances: 2, word: 'Thence', work: 'Rom'},
+instances: 2, word: 'Thirty', work: 'Rom'},
+instances: 2, word: 'Threatened', work: 'Rom'},
+instances: 2, word: 'Throne', work: 'Rom'},
+instances: 2, word: 'Torches', work: 'Rom'},
+instances: 2, word: 'Trees', work: 'Rom'},
+instances: 2, word: 'Tremble', work: 'Rom'},
+instances: 2, word: 'Trencher', work: 'Rom'},
+instances: 2, word: 'Trim', work: 'Rom'},
+instances: 2, word: 'Triumph', work: 'Rom'},
+instances: 2, word: 'Troth', work: 'Rom'},
+instances: 2, word: 'Trouble', work: 'Rom'},
+instances: 2, word: 'Trow', work: 'Rom'},
+instances: 2, word: 'Trudge', work: 'Rom'},
+instances: 2, word: 'Try', work: 'Rom'},
+instances: 2, word: 'Turning', work: 'Rom'},
+instances: 2, word: 'Tush', work: 'Rom'},
+instances: 2, word: 'Twain', work: 'Rom'},
+instances: 2, word: 'Twelve', work: 'Rom'},
+instances: 2, word: 'Tyrant', work: 'Rom'},
+instances: 2, word: 'Underneath', work: 'Rom'},
+instances: 2, word: 'Undone', work: 'Rom'},
+instances: 2, word: 'Unhappy', work: 'Rom'},
+instances: 2, word: 'Unworthy', work: 'Rom'},
+instances: 2, word: 'Valiant', work: 'Rom'},
+instances: 2, word: 'Valor', work: 'Rom'},
+instances: 2, word: 'Vanity', work: 'Rom'},
+instances: 2, word: 'Vengeance', work: 'Rom'},
+instances: 2, word: 'Venus', work: 'Rom'},
+instances: 2, word: 'Verona\'s', work: 'Rom'},
+instances: 2, word: 'Vestal', work: 'Rom'},
+instances: 2, word: 'Vial', work: 'Rom'},
+instances: 2, word: 'Vice', work: 'Rom'},
+instances: 2, word: 'Violent', work: 'Rom'},
+instances: 2, word: 'Vitae', work: 'Rom'},
+instances: 2, word: 'Volume', work: 'Rom'},
+instances: 2, word: 'Wagoner', work: 'Rom'},
+instances: 2, word: 'Wakes', work: 'Rom'},
+instances: 2, word: 'Want', work: 'Rom'},
+instances: 2, word: 'Wanting', work: 'Rom'},
+instances: 2, word: 'Wanton', work: 'Rom'},
+instances: 2, word: 'Wash', work: 'Rom'},
+instances: 2, word: 'Watching', work: 'Rom'},
+instances: 2, word: 'Water', work: 'Rom'},
+instances: 2, word: 'Wax', work: 'Rom'},
+instances: 2, word: 'Ways', work: 'Rom'},
+instances: 2, word: 'Wealth', work: 'Rom'},
+instances: 2, word: 'Weapon', work: 'Rom'},
+instances: 2, word: 'Weapons', work: 'Rom'},
+instances: 2, word: 'Wearing', work: 'Rom'},
+instances: 2, word: 'Weary', work: 'Rom'},
+instances: 2, word: 'Wedded', work: 'Rom'},
+instances: 2, word: 'Weeds', work: 'Rom'},
+instances: 2, word: 'Week', work: 'Rom'},
+instances: 2, word: 'Weraday', work: 'Rom'},
+instances: 2, word: 'Whence', work: 'Rom'},
+instances: 2, word: 'Whip', work: 'Rom'},
+instances: 2, word: 'White', work: 'Rom'},
+instances: 2, word: 'Whither', work: 'Rom'},
+instances: 2, word: 'Who\'s', work: 'Rom'},
+instances: 2, word: 'Windows', work: 'Rom'},
+instances: 2, word: 'Winds', work: 'Rom'},
+instances: 2, word: 'Womanish', work: 'Rom'},
+instances: 2, word: 'Wonder', work: 'Rom'},
+instances: 2, word: 'World\'s', work: 'Rom'},
+instances: 2, word: 'Worm', work: 'Rom'},
+instances: 2, word: 'Wormwood', work: 'Rom'},
+instances: 2, word: 'Worser', work: 'Rom'},
+instances: 2, word: 'Worship', work: 'Rom'},
+instances: 2, word: 'Wounded', work: 'Rom'},
+instances: 2, word: 'Write', work: 'Rom'},
+instances: 2, word: 'Wrong', work: 'Rom'},
+instances: 2, word: 'Wrought', work: 'Rom'},
+instances: 2, word: 'Yes', work: 'Rom'},
+instances: 2, word: 'Yew', work: 'Rom'},
+instances: 2, word: 'Younger', work: 'Rom'},
+instances: 2, word: 'Zounds', work: 'Rom'},
+instances: 2, word: '\'scape', work: 'Rom'},
+instances: 2, word: '\'twixt', work: 'Rom'},
+instances: 1, word: 'pardon-me \'s', work: 'Rom'},
+instances: 1, word: 'A-bleeding', work: 'Rom'},
+instances: 1, word: 'Abate', work: 'Rom'},
+instances: 1, word: 'Abbey', work: 'Rom'},
+instances: 1, word: 'Abed', work: 'Rom'},
+instances: 1, word: 'Abhorrèd', work: 'Rom'},
+instances: 1, word: 'Abhors', work: 'Rom'},
+instances: 1, word: 'Aboard', work: 'Rom'},
+instances: 1, word: 'Abound\'st', work: 'Rom'},
+instances: 1, word: 'Abraham', work: 'Rom'},
+instances: 1, word: 'Abroach', work: 'Rom'},
+instances: 1, word: 'Absolved', work: 'Rom'},
+instances: 1, word: 'Absolver', work: 'Rom'},
+instances: 1, word: 'Abuse', work: 'Rom'},
+instances: 1, word: 'Abused', work: 'Rom'},
+instances: 1, word: 'Abuses', work: 'Rom'},
+instances: 1, word: 'Accent', work: 'Rom'},
+instances: 1, word: 'Access', work: 'Rom'},
+instances: 1, word: 'Accident', work: 'Rom'},
+instances: 1, word: 'Accidents', work: 'Rom'},
+instances: 1, word: 'According', work: 'Rom'},
+instances: 1, word: 'Accursed', work: 'Rom'},
+instances: 1, word: 'Accustomed', work: 'Rom'},
+instances: 1, word: 'Ache', work: 'Rom'},
+instances: 1, word: 'Aches', work: 'Rom'},
+instances: 1, word: 'Aching', work: 'Rom'},
+instances: 1, word: 'Acknowledge', work: 'Rom'},
+instances: 1, word: 'Acquaint', work: 'Rom'},
+instances: 1, word: 'Acquaintance', work: 'Rom'},
+instances: 1, word: 'Acted', work: 'Rom'},
+instances: 1, word: 'Acting', work: 'Rom'},
+instances: 1, word: 'Action', work: 'Rom'},
+instances: 1, word: 'Acts', work: 'Rom'},
+instances: 1, word: 'Add', work: 'Rom'},
+instances: 1, word: 'Added', work: 'Rom'},
+instances: 1, word: 'Adding', work: 'Rom'},
+instances: 1, word: 'Addle', work: 'Rom'},
+instances: 1, word: 'Adjacent', work: 'Rom'},
+instances: 1, word: 'Admirèd', work: 'Rom'},
+instances: 1, word: 'Ado', work: 'Rom'},
+instances: 1, word: 'Advance', work: 'Rom'},
+instances: 1, word: 'Advancèd', work: 'Rom'},
+instances: 1, word: 'Adversary', work: 'Rom'},
+instances: 1, word: 'Adversity\'s', work: 'Rom'},
+instances: 1, word: 'Advise', work: 'Rom'},
+instances: 1, word: 'Afeard', work: 'Rom'},
+instances: 1, word: 'Affecting', work: 'Rom'},
+instances: 1, word: 'Affections\'', work: 'Rom'},
+instances: 1, word: 'Afflicted', work: 'Rom'},
+instances: 1, word: 'Affliction', work: 'Rom'},
+instances: 1, word: 'Affords', work: 'Rom'},
+instances: 1, word: 'Affray', work: 'Rom'},
+instances: 1, word: 'Affright', work: 'Rom'},
+instances: 1, word: 'Afire', work: 'Rom'},
+instances: 1, word: 'Afraid', work: 'Rom'},
+instances: 1, word: 'After-hours', work: 'Rom'},
+instances: 1, word: 'Agate', work: 'Rom'},
+instances: 1, word: 'Agile', work: 'Rom'},
+instances: 1, word: 'Agreed', work: 'Rom'},
+instances: 1, word: 'Agrees', work: 'Rom'},
+instances: 1, word: 'Aimed', work: 'Rom'},
+instances: 1, word: 'Alderman', work: 'Rom'},
+instances: 1, word: 'All-cheering', work: 'Rom'},
+instances: 1, word: 'All-seeing', work: 'Rom'},
+instances: 1, word: 'Alla', work: 'Rom'},
+instances: 1, word: 'Alliance', work: 'Rom'},
+instances: 1, word: 'Alligator', work: 'Rom'},
+instances: 1, word: 'Allow', work: 'Rom'},
+instances: 1, word: 'Ally', work: 'Rom'},
+instances: 1, word: 'Although', work: 'Rom'},
+instances: 1, word: 'Ambiguities', work: 'Rom'},
+instances: 1, word: 'Ambling', work: 'Rom'},
+instances: 1, word: 'Ambuscadoes', work: 'Rom'},
+instances: 1, word: 'Amended', work: 'Rom'},
+instances: 1, word: 'Amerce', work: 'Rom'},
+instances: 1, word: 'Anatomy', work: 'Rom'},
+instances: 1, word: 'Ancestors', work: 'Rom'},
+instances: 1, word: 'Angel', work: 'Rom'},
+instances: 1, word: 'Angelica', work: 'Rom'},
+instances: 1, word: 'Angelical', work: 'Rom'},
+instances: 1, word: 'Angels', work: 'Rom'},
+instances: 1, word: 'Angered', work: 'Rom'},
+instances: 1, word: 'Angry', work: 'Rom'},
+instances: 1, word: 'Anguish', work: 'Rom'},
+instances: 1, word: 'Anselme', work: 'Rom'},
+instances: 1, word: 'Anthony', work: 'Rom'},
+instances: 1, word: 'Anywhere', work: 'Rom'},
+instances: 1, word: 'Ape', work: 'Rom'},
+instances: 1, word: 'Apology', work: 'Rom'},
+instances: 1, word: 'Appertaining', work: 'Rom'},
+instances: 1, word: 'Appetite', work: 'Rom'},
+instances: 1, word: 'April', work: 'Rom'},
+instances: 1, word: 'Arbitrating', work: 'Rom'},
+instances: 1, word: 'Argues', work: 'Rom'},
+instances: 1, word: 'Argument', work: 'Rom'},
+instances: 1, word: 'Arithmetic', work: 'Rom'},
+instances: 1, word: 'Armor', work: 'Rom'},
+instances: 1, word: 'Arrives', work: 'Rom'},
+instances: 1, word: 'Arrow', work: 'Rom'},
+instances: 1, word: 'Artificial', work: 'Rom'},
+instances: 1, word: 'Ascend', work: 'Rom'},
+instances: 1, word: 'Ashamed', work: 'Rom'},
+instances: 1, word: 'Asking', work: 'Rom'},
+instances: 1, word: 'Aspired', work: 'Rom'},
+instances: 1, word: 'Assailing', work: 'Rom'},
+instances: 1, word: 'Assembly', work: 'Rom'},
+instances: 1, word: 'Assistant', work: 'Rom'},
+instances: 1, word: 'Associate', work: 'Rom'},
+instances: 1, word: 'Assure', work: 'Rom'},
+instances: 1, word: 'Asunder', work: 'Rom'},
+instances: 1, word: 'Atomi', work: 'Rom'},
+instances: 1, word: 'Attach', work: 'Rom'},
+instances: 1, word: 'Attempt', work: 'Rom'},
+instances: 1, word: 'Attending', work: 'Rom'},
+instances: 1, word: 'Attends', work: 'Rom'},
+instances: 1, word: 'Attires', work: 'Rom'},
+instances: 1, word: 'Augmenting', work: 'Rom'},
+instances: 1, word: 'Aurora\'s', work: 'Rom'},
+instances: 1, word: 'Awakening', work: 'Rom'},
+instances: 1, word: 'Aweary', work: 'Rom'},
+instances: 1, word: 'Ax', work: 'Rom'},
+instances: 1, word: 'Babe', work: 'Rom'},
+instances: 1, word: 'Bachelor', work: 'Rom'},
+instances: 1, word: 'Backs', work: 'Rom'},
+instances: 1, word: 'Bade', work: 'Rom'},
+instances: 1, word: 'Bad\'st', work: 'Rom'},
+instances: 1, word: 'Bait', work: 'Rom'},
+instances: 1, word: 'Baked', work: 'Rom'},
+instances: 1, word: 'Bakes', work: 'Rom'},
+instances: 1, word: 'Baleful', work: 'Rom'},
+instances: 1, word: 'Ball', work: 'Rom'},
+instances: 1, word: 'Balthasar', work: 'Rom'},
+instances: 1, word: 'Bandy', work: 'Rom'},
+instances: 1, word: 'Bandying', work: 'Rom'},
+instances: 1, word: 'Bankrout', work: 'Rom'},
+instances: 1, word: 'Banquet', work: 'Rom'},
+instances: 1, word: 'Baptized', work: 'Rom'},
+instances: 1, word: 'Barefoot', work: 'Rom'},
+instances: 1, word: 'Bargain', work: 'Rom'},
+instances: 1, word: 'Bating', work: 'Rom'},
+instances: 1, word: 'Battlements', work: 'Rom'},
+instances: 1, word: 'Bauble', work: 'Rom'},
+instances: 1, word: 'Bawdy', work: 'Rom'},
+instances: 1, word: 'Beard', work: 'Rom'},
+instances: 1, word: 'Bearing', work: 'Rom'},
+instances: 1, word: 'Beasts', work: 'Rom'},
+instances: 1, word: 'Beaten', work: 'Rom'},
+instances: 1, word: 'Beautiful', work: 'Rom'},
+instances: 1, word: 'Beautify', work: 'Rom'},
+instances: 1, word: 'Becomes', work: 'Rom'},
+instances: 1, word: 'Becomèd', work: 'Rom'},
+instances: 1, word: 'Bedaubed', work: 'Rom'},
+instances: 1, word: 'Bedeck', work: 'Rom'},
+instances: 1, word: 'Beetle', work: 'Rom'},
+instances: 1, word: 'Befits', work: 'Rom'},
+instances: 1, word: 'Beggar', work: 'Rom'},
+instances: 1, word: 'Beggarly', work: 'Rom'},
+instances: 1, word: 'Beggars', work: 'Rom'},
+instances: 1, word: 'Beggary', work: 'Rom'},
+instances: 1, word: 'Beggar\'s', work: 'Rom'},
+instances: 1, word: 'Beginners', work: 'Rom'},
+instances: 1, word: 'Begot', work: 'Rom'},
+instances: 1, word: 'Begun', work: 'Rom'},
+instances: 1, word: 'Behalf', work: 'Rom'},
+instances: 1, word: 'Behavior', work: 'Rom'},
+instances: 1, word: 'Behests', work: 'Rom'},
+instances: 1, word: 'Behooveful', work: 'Rom'},
+instances: 1, word: 'Bells', work: 'Rom'},
+instances: 1, word: 'Belong', work: 'Rom'},
+instances: 1, word: 'Belonging', work: 'Rom'},
+instances: 1, word: 'Beloved', work: 'Rom'},
+instances: 1, word: 'Belovèd', work: 'Rom'},
+instances: 1, word: 'Bench', work: 'Rom'},
+instances: 1, word: 'Benedicite', work: 'Rom'},
+instances: 1, word: 'Benefice', work: 'Rom'},
+instances: 1, word: 'Bent', work: 'Rom'},
+instances: 1, word: 'Bepaint', work: 'Rom'},
+instances: 1, word: 'Berhyme', work: 'Rom'},
+instances: 1, word: 'Bescreened', work: 'Rom'},
+instances: 1, word: 'Bestride', work: 'Rom'},
+instances: 1, word: 'Bestrides', work: 'Rom'},
+instances: 1, word: 'Betake', work: 'Rom'},
+instances: 1, word: 'Betossèd', work: 'Rom'},
+instances: 1, word: 'Betrothed', work: 'Rom'},
+instances: 1, word: 'Bewitchèd', work: 'Rom'},
+instances: 1, word: 'Bide', work: 'Rom'},
+instances: 1, word: 'Bids', work: 'Rom'},
+instances: 1, word: 'Bills', work: 'Rom'},
+instances: 1, word: 'Birds', work: 'Rom'},
+instances: 1, word: 'Bird\'s', work: 'Rom'},
+instances: 1, word: 'Bit', work: 'Rom'},
+instances: 1, word: 'Bitt\'rest', work: 'Rom'},
+instances: 1, word: 'Black-browed', work: 'Rom'},
+instances: 1, word: 'Bladders', work: 'Rom'},
+instances: 1, word: 'Blades', work: 'Rom'},
+instances: 1, word: 'Blame', work: 'Rom'},
+instances: 1, word: 'Blaze', work: 'Rom'},
+instances: 1, word: 'Blazon', work: 'Rom'},
+instances: 1, word: 'Bleeding', work: 'Rom'},
+instances: 1, word: 'Bleeds', work: 'Rom'},
+instances: 1, word: 'Blessing', work: 'Rom'},
+instances: 1, word: 'Blessings', work: 'Rom'},
+instances: 1, word: 'Blistered', work: 'Rom'},
+instances: 1, word: 'Blisters', work: 'Rom'},
+instances: 1, word: 'Blushing', work: 'Rom'},
+instances: 1, word: 'Bodes', work: 'Rom'},
+instances: 1, word: 'Bodies', work: 'Rom'},
+instances: 1, word: 'Boist\'rous', work: 'Rom'},
+instances: 1, word: 'Bondage', work: 'Rom'},
+instances: 1, word: 'Bonjour', work: 'Rom'},
+instances: 1, word: 'Books', work: 'Rom'},
+instances: 1, word: 'Borne', work: 'Rom'},
+instances: 1, word: 'Borrow', work: 'Rom'},
+instances: 1, word: 'Bosom\'s', work: 'Rom'},
+instances: 1, word: 'Bought', work: 'Rom'},
+instances: 1, word: 'Boundless', work: 'Rom'},
+instances: 1, word: 'Bounds', work: 'Rom'},
+instances: 1, word: 'Bounty', work: 'Rom'},
+instances: 1, word: 'Bout', work: 'Rom'},
+instances: 1, word: 'Bow-boy\'s', work: 'Rom'},
+instances: 1, word: 'Bowed', work: 'Rom'},
+instances: 1, word: 'Bower', work: 'Rom'},
+instances: 1, word: 'Bowl', work: 'Rom'},
+instances: 1, word: 'Boxes', work: 'Rom'},
+instances: 1, word: 'Boys', work: 'Rom'},
+instances: 1, word: 'Brace', work: 'Rom'},
+instances: 1, word: 'Braggart', work: 'Rom'},
+instances: 1, word: 'Brawling', work: 'Rom'},
+instances: 1, word: 'Breaches', work: 'Rom'},
+instances: 1, word: 'Bread', work: 'Rom'},
+instances: 1, word: 'Breaks', work: 'Rom'},
+instances: 1, word: 'Breathe', work: 'Rom'},
+instances: 1, word: 'Breathes', work: 'Rom'},
+instances: 1, word: 'Breaths', work: 'Rom'},
+instances: 1, word: 'Bred', work: 'Rom'},
+instances: 1, word: 'Briefly', work: 'Rom'},
+instances: 1, word: 'Brightness', work: 'Rom'},
+instances: 1, word: 'Brine', work: 'Rom'},
+instances: 1, word: 'Bringing', work: 'Rom'},
+instances: 1, word: 'Brisk', work: 'Rom'},
+instances: 1, word: 'Broken', work: 'Rom'},
+instances: 1, word: 'Brotherhood', work: 'Rom'},
+instances: 1, word: 'Brought', work: 'Rom'},
+instances: 1, word: 'Budge', work: 'Rom'},
+instances: 1, word: 'Buds', work: 'Rom'},
+instances: 1, word: 'Bump', work: 'Rom'},
+instances: 1, word: 'Burial', work: 'Rom'},
+instances: 1, word: 'Burneth', work: 'Rom'},
+instances: 1, word: 'Burns', work: 'Rom'},
+instances: 1, word: 'Burying', work: 'Rom'},
+instances: 1, word: 'Busy', work: 'Rom'},
+instances: 1, word: 'Butcher', work: 'Rom'},
+instances: 1, word: 'Butt', work: 'Rom'},
+instances: 1, word: 'Button', work: 'Rom'},
+instances: 1, word: 'Cage', work: 'Rom'},
+instances: 1, word: 'Caitiff', work: 'Rom'},
+instances: 1, word: 'Cakes', work: 'Rom'},
+instances: 1, word: 'Calamity', work: 'Rom'},
+instances: 1, word: 'Calling', work: 'Rom'},
+instances: 1, word: 'Camest', work: 'Rom'},
+instances: 1, word: 'Cam\'st', work: 'Rom'},
+instances: 1, word: 'Canceled', work: 'Rom'},
+instances: 1, word: 'Candle', work: 'Rom'},
+instances: 1, word: 'Candles', work: 'Rom'},
+instances: 1, word: 'Canker', work: 'Rom'},
+instances: 1, word: 'Cannon\'s', work: 'Rom'},
+instances: 1, word: 'Canopy', work: 'Rom'},
+instances: 1, word: 'Capels', work: 'Rom'},
+instances: 1, word: 'Captain', work: 'Rom'},
+instances: 1, word: 'Capulet\'s', work: 'Rom'},
+instances: 1, word: 'Careful', work: 'Rom'},
+instances: 1, word: 'Carelessly', work: 'Rom'},
+instances: 1, word: 'Carriage', work: 'Rom'},
+instances: 1, word: 'Carries', work: 'Rom'},
+instances: 1, word: 'Catch', work: 'Rom'},
+instances: 1, word: 'Catched', work: 'Rom'},
+instances: 1, word: 'Catling', work: 'Rom'},
+instances: 1, word: 'Center', work: 'Rom'},
+instances: 1, word: 'Certain', work: 'Rom'},
+instances: 1, word: 'Chain', work: 'Rom'},
+instances: 1, word: 'Chambermaids', work: 'Rom'},
+instances: 1, word: 'Chances', work: 'Rom'},
+instances: 1, word: 'Changes', work: 'Rom'},
+instances: 1, word: 'Chaos', work: 'Rom'},
+instances: 1, word: 'Chapless', work: 'Rom'},
+instances: 1, word: 'Chariot', work: 'Rom'},
+instances: 1, word: 'Charm', work: 'Rom'},
+instances: 1, word: 'Charnel', work: 'Rom'},
+instances: 1, word: 'Chase', work: 'Rom'},
+instances: 1, word: 'Chaste', work: 'Rom'},
+instances: 1, word: 'Chastity', work: 'Rom'},
+instances: 1, word: 'Chat', work: 'Rom'},
+instances: 1, word: 'Check\'ring', work: 'Rom'},
+instances: 1, word: 'Cheerful', work: 'Rom'},
+instances: 1, word: 'Cheers', work: 'Rom'},
+instances: 1, word: 'Cherish', work: 'Rom'},
+instances: 1, word: 'Cherishing', work: 'Rom'},
+instances: 1, word: 'Cheveril', work: 'Rom'},
+instances: 1, word: 'Chid\'st', work: 'Rom'},
+instances: 1, word: 'Chiefly', work: 'Rom'},
+instances: 1, word: 'Childhood', work: 'Rom'},
+instances: 1, word: 'Childish', work: 'Rom'},
+instances: 1, word: 'Children\'s', work: 'Rom'},
+instances: 1, word: 'Child\'s', work: 'Rom'},
+instances: 1, word: 'Chinks', work: 'Rom'},
+instances: 1, word: 'Choking', work: 'Rom'},
+instances: 1, word: 'Chopped', work: 'Rom'},
+instances: 1, word: 'Christian', work: 'Rom'},
+instances: 1, word: 'Churchyard\'s', work: 'Rom'},
+instances: 1, word: 'Churl', work: 'Rom'},
+instances: 1, word: 'Circle', work: 'Rom'},
+instances: 1, word: 'Circled', work: 'Rom'},
+instances: 1, word: 'Claps', work: 'Rom'},
+instances: 1, word: 'Clasps', work: 'Rom'},
+instances: 1, word: 'Clear', work: 'Rom'},
+instances: 1, word: 'Clears', work: 'Rom'},
+instances: 1, word: 'Cleft', work: 'Rom'},
+instances: 1, word: 'Cleopatra', work: 'Rom'},
+instances: 1, word: 'Cloak', work: 'Rom'},
+instances: 1, word: 'Clock', work: 'Rom'},
+instances: 1, word: 'Closely', work: 'Rom'},
+instances: 1, word: 'Closet', work: 'Rom'},
+instances: 1, word: 'Clothes', work: 'Rom'},
+instances: 1, word: 'Cloudy', work: 'Rom'},
+instances: 1, word: 'Clout', work: 'Rom'},
+instances: 1, word: 'Club', work: 'Rom'},
+instances: 1, word: 'Clubs', work: 'Rom'},
+instances: 1, word: 'Coachmakers', work: 'Rom'},
+instances: 1, word: 'Coals', work: 'Rom'},
+instances: 1, word: 'Cock', work: 'Rom'},
+instances: 1, word: 'Cock-a-hoop', work: 'Rom'},
+instances: 1, word: 'Cockatrice', work: 'Rom'},
+instances: 1, word: 'Cock\'rel\'s', work: 'Rom'},
+instances: 1, word: 'Coil', work: 'Rom'},
+instances: 1, word: 'Coldly', work: 'Rom'},
+instances: 1, word: 'Collar', work: 'Rom'},
+instances: 1, word: 'Collars', work: 'Rom'},
+instances: 1, word: 'Colliers', work: 'Rom'},
+instances: 1, word: 'Combine', work: 'Rom'},
+instances: 1, word: 'Combined', work: 'Rom'},
+instances: 1, word: 'Comest', work: 'Rom'},
+instances: 1, word: 'Comfortable', work: 'Rom'},
+instances: 1, word: 'Comforted', work: 'Rom'},
+instances: 1, word: 'Commination', work: 'Rom'},
+instances: 1, word: 'Commission', work: 'Rom'},
+instances: 1, word: 'Compass', work: 'Rom'},
+instances: 1, word: 'Complain', work: 'Rom'},
+instances: 1, word: 'Compliment', work: 'Rom'},
+instances: 1, word: 'Compliments', work: 'Rom'},
+instances: 1, word: 'Compounds', work: 'Rom'},
+instances: 1, word: 'Concealed', work: 'Rom'},
+instances: 1, word: 'Conceive', work: 'Rom'},
+instances: 1, word: 'Concludes', work: 'Rom'},
+instances: 1, word: 'Conduit', work: 'Rom'},
+instances: 1, word: 'Confidence', work: 'Rom'},
+instances: 1, word: 'Confines', work: 'Rom'},
+instances: 1, word: 'Confounds', work: 'Rom'},
+instances: 1, word: 'Confusions', work: 'Rom'},
+instances: 1, word: 'Confusion\'s', work: 'Rom'},
+instances: 1, word: 'Conjured', work: 'Rom'},
+instances: 1, word: 'Conquered', work: 'Rom'},
+instances: 1, word: 'Consents', work: 'Rom'},
+instances: 1, word: 'Consequence', work: 'Rom'},
+instances: 1, word: 'Considering', work: 'Rom'},
+instances: 1, word: 'Consorted', work: 'Rom'},
+instances: 1, word: 'Consortest', work: 'Rom'},
+instances: 1, word: 'Conspires', work: 'Rom'},
+instances: 1, word: 'Constable\'s', work: 'Rom'},
+instances: 1, word: 'Constrains', work: 'Rom'},
+instances: 1, word: 'Consume', work: 'Rom'},
+instances: 1, word: 'Contagion', work: 'Rom'},
+instances: 1, word: 'Containing', work: 'Rom'},
+instances: 1, word: 'Contempt', work: 'Rom'},
+instances: 1, word: 'Continuance', work: 'Rom'},
+instances: 1, word: 'Continue', work: 'Rom'},
+instances: 1, word: 'Contract', work: 'Rom'},
+instances: 1, word: 'Contradict', work: 'Rom'},
+instances: 1, word: 'Conveniently', work: 'Rom'},
+instances: 1, word: 'Convert', work: 'Rom'},
+instances: 1, word: 'Convey', work: 'Rom'},
+instances: 1, word: 'Convoy', work: 'Rom'},
+instances: 1, word: 'Cooks', work: 'Rom'},
+instances: 1, word: 'Cophetua', work: 'Rom'},
+instances: 1, word: 'Cop\'st', work: 'Rom'},
+instances: 1, word: 'Cordial', work: 'Rom'},
+instances: 1, word: 'Cost', work: 'Rom'},
+instances: 1, word: 'Cot-quean', work: 'Rom'},
+instances: 1, word: 'Cote', work: 'Rom'},
+instances: 1, word: 'Couch', work: 'Rom'},
+instances: 1, word: 'Coughing', work: 'Rom'},
+instances: 1, word: 'Counterfeits', work: 'Rom'},
+instances: 1, word: 'Countervail', work: 'Rom'},
+instances: 1, word: 'Country', work: 'Rom'},
+instances: 1, word: 'Counts', work: 'Rom'},
+instances: 1, word: 'County\'s', work: 'Rom'},
+instances: 1, word: 'Couple', work: 'Rom'},
+instances: 1, word: 'Courage', work: 'Rom'},
+instances: 1, word: 'Courageous', work: 'Rom'},
+instances: 1, word: 'Court', work: 'Rom'},
+instances: 1, word: 'Courtiers\'', work: 'Rom'},
+instances: 1, word: 'Courtier\'s', work: 'Rom'},
+instances: 1, word: 'Courts', work: 'Rom'},
+instances: 1, word: 'Courtship', work: 'Rom'},
+instances: 1, word: 'Covered', work: 'Rom'},
+instances: 1, word: 'Covert', work: 'Rom'},
+instances: 1, word: 'Coward', work: 'Rom'},
+instances: 1, word: 'Coying', work: 'Rom'},
+instances: 1, word: 'Cracking', work: 'Rom'},
+instances: 1, word: 'Cram', work: 'Rom'},
+instances: 1, word: 'Crave', work: 'Rom'},
+instances: 1, word: 'Create', work: 'Rom'},
+instances: 1, word: 'Creature', work: 'Rom'},
+instances: 1, word: 'Cricket\'s', work: 'Rom'},
+instances: 1, word: 'Cried', work: 'Rom'},
+instances: 1, word: 'Crimson', work: 'Rom'},
+instances: 1, word: 'Crochets', work: 'Rom'},
+instances: 1, word: 'Crossing', work: 'Rom'},
+instances: 1, word: 'Crowed', work: 'Rom'},
+instances: 1, word: 'Crowkeeper', work: 'Rom'},
+instances: 1, word: 'Crowned', work: 'Rom'},
+instances: 1, word: 'Crows', work: 'Rom'},
+instances: 1, word: 'Crush', work: 'Rom'},
+instances: 1, word: 'Crystal', work: 'Rom'},
+instances: 1, word: 'Culled', work: 'Rom'},
+instances: 1, word: 'Culling', work: 'Rom'},
+instances: 1, word: 'Cunning', work: 'Rom'},
+instances: 1, word: 'Cupboard', work: 'Rom'},
+instances: 1, word: 'Cures', work: 'Rom'},
+instances: 1, word: 'Curfew', work: 'Rom'},
+instances: 1, word: 'Curious', work: 'Rom'},
+instances: 1, word: 'Curse', work: 'Rom'},
+instances: 1, word: 'Cursed', work: 'Rom'},
+instances: 1, word: 'Curtain', work: 'Rom'},
+instances: 1, word: 'Curtains', work: 'Rom'},
+instances: 1, word: 'Curtsy', work: 'Rom'},
+instances: 1, word: 'Cur\'sies', work: 'Rom'},
+instances: 1, word: 'Custom', work: 'Rom'},
+instances: 1, word: 'Cuts', work: 'Rom'},
+instances: 1, word: 'Cutting', work: 'Rom'},
+instances: 1, word: 'Cutt\'st', work: 'Rom'},
+instances: 1, word: 'Cynthia\'s', work: 'Rom'},
+instances: 1, word: 'Dainty', work: 'Rom'},
+instances: 1, word: 'Damnation', work: 'Rom'},
+instances: 1, word: 'Danced', work: 'Rom'},
+instances: 1, word: 'Danger', work: 'Rom'},
+instances: 1, word: 'Dangerous', work: 'Rom'},
+instances: 1, word: 'Dank', work: 'Rom'},
+instances: 1, word: 'Dared', work: 'Rom'},
+instances: 1, word: 'Darest', work: 'Rom'},
+instances: 1, word: 'Darkness', work: 'Rom'},
+instances: 1, word: 'Dash', work: 'Rom'},
+instances: 1, word: 'Dashing', work: 'Rom'},
+instances: 1, word: 'Dateless', work: 'Rom'},
+instances: 1, word: 'Dates', work: 'Rom'},
+instances: 1, word: 'Dealing', work: 'Rom'},
+instances: 1, word: 'Dearer', work: 'Rom'},
+instances: 1, word: 'Death-darting', work: 'Rom'},
+instances: 1, word: 'Death-marked', work: 'Rom'},
+instances: 1, word: 'Deathbed', work: 'Rom'},
+instances: 1, word: 'Deceased', work: 'Rom'},
+instances: 1, word: 'Deceit', work: 'Rom'},
+instances: 1, word: 'Deck', work: 'Rom'},
+instances: 1, word: 'Decree', work: 'Rom'},
+instances: 1, word: 'Decreed', work: 'Rom'},
+instances: 1, word: 'Dedicate', work: 'Rom'},
+instances: 1, word: 'Deed', work: 'Rom'},
+instances: 1, word: 'Deeds', work: 'Rom'},
+instances: 1, word: 'Defense', work: 'Rom'},
+instances: 1, word: 'Defiance', work: 'Rom'},
+instances: 1, word: 'Deflowerèd', work: 'Rom'},
+instances: 1, word: 'Deformities', work: 'Rom'},
+instances: 1, word: 'Defy', work: 'Rom'},
+instances: 1, word: 'Deliciousness', work: 'Rom'},
+instances: 1, word: 'Deliver', work: 'Rom'},
+instances: 1, word: 'Delivered', work: 'Rom'},
+instances: 1, word: 'Demand', work: 'Rom'},
+instances: 1, word: 'Denied', work: 'Rom'},
+instances: 1, word: 'Denote', work: 'Rom'},
+instances: 1, word: 'Departed', work: 'Rom'},
+instances: 1, word: 'Depend', work: 'Rom'},
+instances: 1, word: 'Deprived', work: 'Rom'},
+instances: 1, word: 'Depth', work: 'Rom'},
+instances: 1, word: 'Descent', work: 'Rom'},
+instances: 1, word: 'Descry', work: 'Rom'},
+instances: 1, word: 'Desirest', work: 'Rom'},
+instances: 1, word: 'Despised', work: 'Rom'},
+instances: 1, word: 'Despite', work: 'Rom'},
+instances: 1, word: 'Devout', work: 'Rom'},
+instances: 1, word: 'Dew-dropping', work: 'Rom'},
+instances: 1, word: 'Dexterity', work: 'Rom'},
+instances: 1, word: 'Dial', work: 'Rom'},
+instances: 1, word: 'Dian\'s', work: 'Rom'},
+instances: 1, word: 'Dido', work: 'Rom'},
+instances: 1, word: 'Died', work: 'Rom'},
+instances: 1, word: 'Digging', work: 'Rom'},
+instances: 1, word: 'Dignified', work: 'Rom'},
+instances: 1, word: 'Dignity', work: 'Rom'},
+instances: 1, word: 'Digressing', work: 'Rom'},
+instances: 1, word: 'Dine', work: 'Rom'},
+instances: 1, word: 'Dined', work: 'Rom'},
+instances: 1, word: 'Dire', work: 'Rom'},
+instances: 1, word: 'Direct', work: 'Rom'},
+instances: 1, word: 'Direction', work: 'Rom'},
+instances: 1, word: 'Direful', work: 'Rom'},
+instances: 1, word: 'Dirges', work: 'Rom'},
+instances: 1, word: 'Discern', work: 'Rom'},
+instances: 1, word: 'Discharged', work: 'Rom'},
+instances: 1, word: 'Discolored', work: 'Rom'},
+instances: 1, word: 'Discover', work: 'Rom'},
+instances: 1, word: 'Discovery', work: 'Rom'},
+instances: 1, word: 'Discoverèd', work: 'Rom'},
+instances: 1, word: 'Discreet', work: 'Rom'},
+instances: 1, word: 'Disgrace', work: 'Rom'},
+instances: 1, word: 'Disguised', work: 'Rom'},
+instances: 1, word: 'Dishclout', work: 'Rom'},
+instances: 1, word: 'Dishonorable', work: 'Rom'},
+instances: 1, word: 'Dishonored', work: 'Rom'},
+instances: 1, word: 'Dislike', work: 'Rom'},
+instances: 1, word: 'Dismembered', work: 'Rom'},
+instances: 1, word: 'Disparagement', work: 'Rom'},
+instances: 1, word: 'Dispatch', work: 'Rom'},
+instances: 1, word: 'Disperse', work: 'Rom'},
+instances: 1, word: 'Displant', work: 'Rom'},
+instances: 1, word: 'Displeased', work: 'Rom'},
+instances: 1, word: 'Displeasure', work: 'Rom'},
+instances: 1, word: 'Dispose', work: 'Rom'},
+instances: 1, word: 'Dispraise', work: 'Rom'},
+instances: 1, word: 'Dispute', work: 'Rom'},
+instances: 1, word: 'Dissemblers', work: 'Rom'},
+instances: 1, word: 'Distance', work: 'Rom'},
+instances: 1, word: 'Distempered', work: 'Rom'},
+instances: 1, word: 'Distemp\'rature', work: 'Rom'},
+instances: 1, word: 'Distilled', work: 'Rom'},
+instances: 1, word: 'Distilling', work: 'Rom'},
+instances: 1, word: 'Distraught', work: 'Rom'},
+instances: 1, word: 'Distressèd', work: 'Rom'},
+instances: 1, word: 'Disturbed', work: 'Rom'},
+instances: 1, word: 'Divers', work: 'Rom'},
+instances: 1, word: 'Divideth', work: 'Rom'},
+instances: 1, word: 'Divine', work: 'Rom'},
+instances: 1, word: 'Divinest', work: 'Rom'},
+instances: 1, word: 'Division', work: 'Rom'},
+instances: 1, word: 'Divorcèd', work: 'Rom'},
+instances: 1, word: 'Doctrine', work: 'Rom'},
+instances: 1, word: 'Doff', work: 'Rom'},
+instances: 1, word: 'Dog\'s', work: 'Rom'},
+instances: 1, word: 'Doleful', work: 'Rom'},
+instances: 1, word: 'Double', work: 'Rom'},
+instances: 1, word: 'Doublet', work: 'Rom'},
+instances: 1, word: 'Dove-feathered', work: 'Rom'},
+instances: 1, word: 'Doves', work: 'Rom'},
+instances: 1, word: 'Dowdy', work: 'Rom'},
+instances: 1, word: 'Downright', work: 'Rom'},
+instances: 1, word: 'Dozen', work: 'Rom'},
+instances: 1, word: 'Drag', work: 'Rom'},
+instances: 1, word: 'Dragon', work: 'Rom'},
+instances: 1, word: 'Drawer', work: 'Rom'},
+instances: 1, word: 'Draws', work: 'Rom'},
+instances: 1, word: 'Dreadful', work: 'Rom'},
+instances: 1, word: 'Dreamers', work: 'Rom'},
+instances: 1, word: 'Dressed', work: 'Rom'},
+instances: 1, word: 'Dried', work: 'Rom'},
+instances: 1, word: 'Drier', work: 'Rom'},
+instances: 1, word: 'Drinks', work: 'Rom'},
+instances: 1, word: 'Driveling', work: 'Rom'},
+instances: 1, word: 'Driveth', work: 'Rom'},
+instances: 1, word: 'Driving', work: 'Rom'},
+instances: 1, word: 'Drizzle', work: 'Rom'},
+instances: 1, word: 'Drop', work: 'Rom'},
+instances: 1, word: 'Drops', work: 'Rom'},
+instances: 1, word: 'Drove', work: 'Rom'},
+instances: 1, word: 'Drowned', work: 'Rom'},
+instances: 1, word: 'Drowsy', work: 'Rom'},
+instances: 1, word: 'Drudge', work: 'Rom'},
+instances: 1, word: 'Drum', work: 'Rom'},
+instances: 1, word: 'Drums', work: 'Rom'},
+instances: 1, word: 'Drunkard', work: 'Rom'},
+instances: 1, word: 'Ducats', work: 'Rom'},
+instances: 1, word: 'Dumps', work: 'Rom'},
+instances: 1, word: 'Dun', work: 'Rom'},
+instances: 1, word: 'Dun\'s', work: 'Rom'},
+instances: 1, word: 'Dust', work: 'Rom'},
+instances: 1, word: 'Dwells', work: 'Rom'},
+instances: 1, word: 'Eagle', work: 'Rom'},
+instances: 1, word: 'Earl', work: 'Rom'},
+instances: 1, word: 'Earliness', work: 'Rom'},
+instances: 1, word: 'Earth-treading', work: 'Rom'},
+instances: 1, word: 'Earthen', work: 'Rom'},
+instances: 1, word: 'Earthquake', work: 'Rom'},
+instances: 1, word: 'Easter', work: 'Rom'},
+instances: 1, word: 'Eastern', work: 'Rom'},
+instances: 1, word: 'Eats', work: 'Rom'},
+instances: 1, word: 'Ebb', work: 'Rom'},
+instances: 1, word: 'Echo', work: 'Rom'},
+instances: 1, word: 'Eden', work: 'Rom'},
+instances: 1, word: 'Effeminate', work: 'Rom'},
+instances: 1, word: 'Eight', work: 'Rom'},
+instances: 1, word: 'Elder', work: 'Rom'},
+instances: 1, word: 'Elflocks', work: 'Rom'},
+instances: 1, word: 'Ell', work: 'Rom'},
+instances: 1, word: 'Eloquence', work: 'Rom'},
+instances: 1, word: 'Embrace', work: 'Rom'},
+instances: 1, word: 'Emperor', work: 'Rom'},
+instances: 1, word: 'Employment', work: 'Rom'},
+instances: 1, word: 'Enamored', work: 'Rom'},
+instances: 1, word: 'Encamp', work: 'Rom'},
+instances: 1, word: 'Endart', work: 'Rom'},
+instances: 1, word: 'Ends', work: 'Rom'},
+instances: 1, word: 'Endured', work: 'Rom'},
+instances: 1, word: 'Enfold', work: 'Rom'},
+instances: 1, word: 'Enforce', work: 'Rom'},
+instances: 1, word: 'Engrossing', work: 'Rom'},
+instances: 1, word: 'Enjoined', work: 'Rom'},
+instances: 1, word: 'Enjoyed', work: 'Rom'},
+instances: 1, word: 'Enpiercèd', work: 'Rom'},
+instances: 1, word: 'Enrich', work: 'Rom'},
+instances: 1, word: 'Ensign', work: 'Rom'},
+instances: 1, word: 'Enters', work: 'Rom'},
+instances: 1, word: 'Entertained', work: 'Rom'},
+instances: 1, word: 'Entreated', work: 'Rom'},
+instances: 1, word: 'Environèd', work: 'Rom'},
+instances: 1, word: 'Errand', work: 'Rom'},
+instances: 1, word: 'Estate', work: 'Rom'},
+instances: 1, word: 'Esteem', work: 'Rom'},
+instances: 1, word: 'Eternal', work: 'Rom'},
+instances: 1, word: 'Ethiop\'s', work: 'Rom'},
+instances: 1, word: 'Evening', work: 'Rom'},
+instances: 1, word: 'Everyone', work: 'Rom'},
+instances: 1, word: 'Everything', work: 'Rom'},
+instances: 1, word: 'Excess', work: 'Rom'},
+instances: 1, word: 'Excused', work: 'Rom'},
+instances: 1, word: 'Excuses', work: 'Rom'},
+instances: 1, word: 'Execution', work: 'Rom'},
+instances: 1, word: 'Exhaled', work: 'Rom'},
+instances: 1, word: 'Exiled', work: 'Rom'},
+instances: 1, word: 'Expects', work: 'Rom'},
+instances: 1, word: 'Expire', work: 'Rom'},
+instances: 1, word: 'Exposition', work: 'Rom'},
+instances: 1, word: 'Expressly', work: 'Rom'},
+instances: 1, word: 'Exquisite', work: 'Rom'},
+instances: 1, word: 'Extreme', work: 'Rom'},
+instances: 1, word: 'Extremes', work: 'Rom'},
+instances: 1, word: 'Extremities', work: 'Rom'},
+instances: 1, word: 'Extremity', work: 'Rom'},
+instances: 1, word: 'Eyeless', work: 'Rom'},
+instances: 1, word: 'Eyes\'', work: 'Rom'},
+instances: 1, word: 'Fade', work: 'Rom'},
+instances: 1, word: 'Fails', work: 'Rom'},
+instances: 1, word: 'Faintly', work: 'Rom'},
+instances: 1, word: 'Faints', work: 'Rom'},
+instances: 1, word: 'Fairest', work: 'Rom'},
+instances: 1, word: 'Faithfully', work: 'Rom'},
+instances: 1, word: 'Falc\'ner\'s', work: 'Rom'},
+instances: 1, word: 'Fallen', work: 'Rom'},
+instances: 1, word: 'Fall\'st', work: 'Rom'},
+instances: 1, word: 'Falsehood', work: 'Rom'},
+instances: 1, word: 'Familiar', work: 'Rom'},
+instances: 1, word: 'Famine', work: 'Rom'},
+instances: 1, word: 'Fan', work: 'Rom'},
+instances: 1, word: 'Fantasy', work: 'Rom'},
+instances: 1, word: 'Fan\'s', work: 'Rom'},
+instances: 1, word: 'Fashion-mongers', work: 'Rom'},
+instances: 1, word: 'Faster', work: 'Rom'},
+instances: 1, word: 'Fate', work: 'Rom'},
+instances: 1, word: 'Fathom', work: 'Rom'},
+instances: 1, word: 'Fay', work: 'Rom'},
+instances: 1, word: 'Fearest', work: 'Rom'},
+instances: 1, word: 'Fearfully', work: 'Rom'},
+instances: 1, word: 'Fears', work: 'Rom'},
+instances: 1, word: 'Feather', work: 'Rom'},
+instances: 1, word: 'Feathers', work: 'Rom'},
+instances: 1, word: 'Fees', work: 'Rom'},
+instances: 1, word: 'Feet', work: 'Rom'},
+instances: 1, word: 'Feign', work: 'Rom'},
+instances: 1, word: 'Fell', work: 'Rom'},
+instances: 1, word: 'Fellowship', work: 'Rom'},
+instances: 1, word: 'Felon', work: 'Rom'},
+instances: 1, word: 'Fennel', work: 'Rom'},
+instances: 1, word: 'Fest\'ring', work: 'Rom'},
+instances: 1, word: 'Fettle', work: 'Rom'},
+instances: 1, word: 'Fiddlestick', work: 'Rom'},
+instances: 1, word: 'Field-bed', work: 'Rom'},
+instances: 1, word: 'Fierce', work: 'Rom'},
+instances: 1, word: 'Fiery-footed', work: 'Rom'},
+instances: 1, word: 'Fight', work: 'Rom'},
+instances: 1, word: 'Fighting', work: 'Rom'},
+instances: 1, word: 'Figure', work: 'Rom'},
+instances: 1, word: 'Film', work: 'Rom'},
+instances: 1, word: 'Finding', work: 'Rom'},
+instances: 1, word: 'Fire-eyed', work: 'Rom'},
+instances: 1, word: 'Fired', work: 'Rom'},
+instances: 1, word: 'Fisher', work: 'Rom'},
+instances: 1, word: 'Fishes', work: 'Rom'},
+instances: 1, word: 'Fishified', work: 'Rom'},
+instances: 1, word: 'Fits', work: 'Rom'},
+instances: 1, word: 'Flag', work: 'Rom'},
+instances: 1, word: 'Flask', work: 'Rom'},
+instances: 1, word: 'Fleckled', work: 'Rom'},
+instances: 1, word: 'Fleer', work: 'Rom'},
+instances: 1, word: 'Flint', work: 'Rom'},
+instances: 1, word: 'Flirt-gills', work: 'Rom'},
+instances: 1, word: 'Flood', work: 'Rom'},
+instances: 1, word: 'Flourishes', work: 'Rom'},
+instances: 1, word: 'Flow', work: 'Rom'},
+instances: 1, word: 'Flowed', work: 'Rom'},
+instances: 1, word: 'Flowered', work: 'Rom'},
+instances: 1, word: 'Flow\'ring', work: 'Rom'},
+instances: 1, word: 'Foes', work: 'Rom'},
+instances: 1, word: 'Foe\'s', work: 'Rom'},
+instances: 1, word: 'Folks', work: 'Rom'},
+instances: 1, word: 'Followed', work: 'Rom'},
+instances: 1, word: 'Follower', work: 'Rom'},
+instances: 1, word: 'Following', work: 'Rom'},
+instances: 1, word: 'Follows', work: 'Rom'},
+instances: 1, word: 'Fool\'s', work: 'Rom'},
+instances: 1, word: 'Force', work: 'Rom'},
+instances: 1, word: 'Forefathers\'', work: 'Rom'},
+instances: 1, word: 'Forefinger', work: 'Rom'},
+instances: 1, word: 'Forehead', work: 'Rom'},
+instances: 1, word: 'Foreign', work: 'Rom'},
+instances: 1, word: 'Forerun', work: 'Rom'},
+instances: 1, word: 'Forgetting', work: 'Rom'},
+instances: 1, word: 'Forms', work: 'Rom'},
+instances: 1, word: 'Forsaken', work: 'Rom'},
+instances: 1, word: 'Forsooth', work: 'Rom'},
+instances: 1, word: 'Forswear', work: 'Rom'},
+instances: 1, word: 'Fortnight', work: 'Rom'},
+instances: 1, word: 'Fortunes', work: 'Rom'},
+instances: 1, word: 'Forward', work: 'Rom'},
+instances: 1, word: 'Found\'st', work: 'Rom'},
+instances: 1, word: 'Fountains', work: 'Rom'},
+instances: 1, word: 'Four', work: 'Rom'},
+instances: 1, word: 'Franciscan', work: 'Rom'},
+instances: 1, word: 'Frank', work: 'Rom'},
+instances: 1, word: 'Free-town', work: 'Rom'},
+instances: 1, word: 'Freezes', work: 'Rom'},
+instances: 1, word: 'Friendly', work: 'Rom'},
+instances: 1, word: 'Friendship', work: 'Rom'},
+instances: 1, word: 'Fright', work: 'Rom'},
+instances: 1, word: 'Frighted', work: 'Rom'},
+instances: 1, word: 'Frost', work: 'Rom'},
+instances: 1, word: 'Frowning', work: 'Rom'},
+instances: 1, word: 'Frowns', work: 'Rom'},
+instances: 1, word: 'Frozen', work: 'Rom'},
+instances: 1, word: 'Fruit', work: 'Rom'},
+instances: 1, word: 'Fruit-tree', work: 'Rom'},
+instances: 1, word: 'Fume', work: 'Rom'},
+instances: 1, word: 'Funeral', work: 'Rom'},
+instances: 1, word: 'Furious', work: 'Rom'},
+instances: 1, word: 'Furnish', work: 'Rom'},
+instances: 1, word: 'Gadding', work: 'Rom'},
+instances: 1, word: 'Gallop', work: 'Rom'},
+instances: 1, word: 'Game', work: 'Rom'},
+instances: 1, word: 'Gapes', work: 'Rom'},
+instances: 1, word: 'Garish', work: 'Rom'},
+instances: 1, word: 'Gate', work: 'Rom'},
+instances: 1, word: 'Gavest', work: 'Rom'},
+instances: 1, word: 'Gentlemanlike', work: 'Rom'},
+instances: 1, word: 'Gentler', work: 'Rom'},
+instances: 1, word: 'Ghost', work: 'Rom'},
+instances: 1, word: 'Giddy', work: 'Rom'},
+instances: 1, word: 'Girls', work: 'Rom'},
+instances: 1, word: 'Gi\'', work: 'Rom'},
+instances: 1, word: 'Gleek', work: 'Rom'},
+instances: 1, word: 'Glides', work: 'Rom'},
+instances: 1, word: 'Glooming', work: 'Rom'},
+instances: 1, word: 'Glorious', work: 'Rom'},
+instances: 1, word: 'Glory', work: 'Rom'},
+instances: 1, word: 'Glove', work: 'Rom'},
+instances: 1, word: 'Gnat', work: 'Rom'},
+instances: 1, word: 'Goodly', work: 'Rom'},
+instances: 1, word: 'Goodman', work: 'Rom'},
+instances: 1, word: 'Gore', work: 'Rom'},
+instances: 1, word: 'Gorged', work: 'Rom'},
+instances: 1, word: 'Gorgeous', work: 'Rom'},
+instances: 1, word: 'Gory', work: 'Rom'},
+instances: 1, word: 'Gossamers', work: 'Rom'},
+instances: 1, word: 'Gossip', work: 'Rom'},
+instances: 1, word: 'Gossips', work: 'Rom'},
+instances: 1, word: 'Gossip\'s', work: 'Rom'},
+instances: 1, word: 'Government', work: 'Rom'},
+instances: 1, word: 'Gracious', work: 'Rom'},
+instances: 1, word: 'Grasshoppers', work: 'Rom'},
+instances: 1, word: 'Grave-beseeming', work: 'Rom'},
+instances: 1, word: 'Gravity', work: 'Rom'},
+instances: 1, word: 'Gray-coated', work: 'Rom'},
+instances: 1, word: 'Gray-eyed', work: 'Rom'},
+instances: 1, word: 'Graze', work: 'Rom'},
+instances: 1, word: 'Greater', work: 'Rom'},
+instances: 1, word: 'Greatest', work: 'Rom'},
+instances: 1, word: 'Green-sickness', work: 'Rom'},
+instances: 1, word: 'Greetings', work: 'Rom'},
+instances: 1, word: 'Grievance', work: 'Rom'},
+instances: 1, word: 'Grievances', work: 'Rom'},
+instances: 1, word: 'Grieve', work: 'Rom'},
+instances: 1, word: 'Grindstone', work: 'Rom'},
+instances: 1, word: 'Griping', work: 'Rom'},
+instances: 1, word: 'Groaned', work: 'Rom'},
+instances: 1, word: 'Groaning', work: 'Rom'},
+instances: 1, word: 'Gross', work: 'Rom'},
+instances: 1, word: 'Grove', work: 'Rom'},
+instances: 1, word: 'Grub', work: 'Rom'},
+instances: 1, word: 'Grubs', work: 'Rom'},
+instances: 1, word: 'Grudge', work: 'Rom'},
+instances: 1, word: 'Guide', work: 'Rom'},
+instances: 1, word: 'Gun', work: 'Rom'},
+instances: 1, word: 'Gypsy', work: 'Rom'},
+instances: 1, word: 'Gyves', work: 'Rom'},
+instances: 1, word: 'G\'', work: 'Rom'},
+instances: 1, word: 'Hag', work: 'Rom'},
+instances: 1, word: 'Hairs', work: 'Rom'},
+instances: 1, word: 'Hams', work: 'Rom'},
+instances: 1, word: 'Handsome', work: 'Rom'},
+instances: 1, word: 'Hanged', work: 'Rom'},
+instances: 1, word: 'Hanging', work: 'Rom'},
+instances: 1, word: 'Haply', work: 'Rom'},
+instances: 1, word: 'Hard-hearted', work: 'Rom'},
+instances: 1, word: 'Harlotry', work: 'Rom'},
+instances: 1, word: 'Harlots', work: 'Rom'},
+instances: 1, word: 'Harsh', work: 'Rom'},
+instances: 1, word: 'Hasten', work: 'Rom'},
+instances: 1, word: 'Hastes', work: 'Rom'},
+instances: 1, word: 'Hasty', work: 'Rom'},
+instances: 1, word: 'Hated', work: 'Rom'},
+instances: 1, word: 'Hatred', work: 'Rom'},
+instances: 1, word: 'Haughty', work: 'Rom'},
+instances: 1, word: 'Haunt', work: 'Rom'},
+instances: 1, word: 'Havior', work: 'Rom'},
+instances: 1, word: 'Hay', work: 'Rom'},
+instances: 1, word: 'Hazel', work: 'Rom'},
+instances: 1, word: 'Hazelnut', work: 'Rom'},
+instances: 1, word: 'Headstrong', work: 'Rom'},
+instances: 1, word: 'Health', work: 'Rom'},
+instances: 1, word: 'Healths', work: 'Rom'},
+instances: 1, word: 'Healthsome', work: 'Rom'},
+instances: 1, word: 'Heaped', work: 'Rom'},
+instances: 1, word: 'Heareth', work: 'Rom'},
+instances: 1, word: 'Heartless', work: 'Rom'},
+instances: 1, word: 'Heartsick', work: 'Rom'},
+instances: 1, word: 'Hearts\'', work: 'Rom'},
+instances: 1, word: 'Heat', work: 'Rom'},
+instances: 1, word: 'Heavenly', work: 'Rom'},
+instances: 1, word: 'Heels', work: 'Rom'},
+instances: 1, word: 'Helen', work: 'Rom'},
+instances: 1, word: 'Helena', work: 'Rom'},
+instances: 1, word: 'Helped', work: 'Rom'},
+instances: 1, word: 'Herald', work: 'Rom'},
+instances: 1, word: 'Heralds', work: 'Rom'},
+instances: 1, word: 'Hereabout', work: 'Rom'},
+instances: 1, word: 'Hereabouts', work: 'Rom'},
+instances: 1, word: 'Heretics', work: 'Rom'},
+instances: 1, word: 'Hero', work: 'Rom'},
+instances: 1, word: 'Herring', work: 'Rom'},
+instances: 1, word: 'Hideous', work: 'Rom'},
+instances: 1, word: 'High-lone', work: 'Rom'},
+instances: 1, word: 'Highmost', work: 'Rom'},
+instances: 1, word: 'Highway', work: 'Rom'},
+instances: 1, word: 'Hilding', work: 'Rom'},
+instances: 1, word: 'Hildings', work: 'Rom'},
+instances: 1, word: 'Hill', work: 'Rom'},
+instances: 1, word: 'Hills', work: 'Rom'},
+instances: 1, word: 'Hinds', work: 'Rom'},
+instances: 1, word: 'Hissed', work: 'Rom'},
+instances: 1, word: 'Hoars', work: 'Rom'},
+instances: 1, word: 'Holder', work: 'Rom'},
+instances: 1, word: 'Holding', work: 'Rom'},
+instances: 1, word: 'Hole', work: 'Rom'},
+instances: 1, word: 'Holidam', work: 'Rom'},
+instances: 1, word: 'Holiday', work: 'Rom'},
+instances: 1, word: 'Homely', work: 'Rom'},
+instances: 1, word: 'Honestly', work: 'Rom'},
+instances: 1, word: 'Honesty', work: 'Rom'},
+instances: 1, word: 'Hoodwinked', work: 'Rom'},
+instances: 1, word: 'Hooks', work: 'Rom'},
+instances: 1, word: 'Hop', work: 'Rom'},
+instances: 1, word: 'Hopeful', work: 'Rom'},
+instances: 1, word: 'Hopes', work: 'Rom'},
+instances: 1, word: 'Horrible', work: 'Rom'},
+instances: 1, word: 'Hours\'', work: 'Rom'},
+instances: 1, word: 'Households', work: 'Rom'},
+instances: 1, word: 'Households\'', work: 'Rom'},
+instances: 1, word: 'Housewife', work: 'Rom'},
+instances: 1, word: 'Howling', work: 'Rom'},
+instances: 1, word: 'Huge', work: 'Rom'},
+instances: 1, word: 'Hugh', work: 'Rom'},
+instances: 1, word: 'Humbly', work: 'Rom'},
+instances: 1, word: 'Humorous', work: 'Rom'},
+instances: 1, word: 'Humors', work: 'Rom'},
+instances: 1, word: 'Hung', work: 'Rom'},
+instances: 1, word: 'Hungry', work: 'Rom'},
+instances: 1, word: 'Hunting', work: 'Rom'},
+instances: 1, word: 'Hunt\'s-up', work: 'Rom'},
+instances: 1, word: 'Hurdle', work: 'Rom'},
+instances: 1, word: 'Hurry', work: 'Rom'},
+instances: 1, word: 'Hymns', work: 'Rom'},
+instances: 1, word: 'Idle', work: 'Rom'},
+instances: 1, word: 'Idles', work: 'Rom'},
+instances: 1, word: 'Idolatry', work: 'Rom'},
+instances: 1, word: 'Ignorance', work: 'Rom'},
+instances: 1, word: 'Ill-divining', work: 'Rom'},
+instances: 1, word: 'Ill-shaped', work: 'Rom'},
+instances: 1, word: 'Imagined', work: 'Rom'},
+instances: 1, word: 'Immoderately', work: 'Rom'},
+instances: 1, word: 'Impatient', work: 'Rom'},
+instances: 1, word: 'Impeach', work: 'Rom'},
+instances: 1, word: 'Importuned', work: 'Rom'},
+instances: 1, word: 'Impute', work: 'Rom'},
+instances: 1, word: 'Inauspicious', work: 'Rom'},
+instances: 1, word: 'Inch', work: 'Rom'},
+instances: 1, word: 'Incorporate', work: 'Rom'},
+instances: 1, word: 'Indite', work: 'Rom'},
+instances: 1, word: 'Inexorable', work: 'Rom'},
+instances: 1, word: 'Infant', work: 'Rom'},
+instances: 1, word: 'Infectious', work: 'Rom'},
+instances: 1, word: 'Infinite', work: 'Rom'},
+instances: 1, word: 'Inherit', work: 'Rom'},
+instances: 1, word: 'Injured', work: 'Rom'},
+instances: 1, word: 'Injuries', work: 'Rom'},
+instances: 1, word: 'Ink', work: 'Rom'},
+instances: 1, word: 'Instant', work: 'Rom'},
+instances: 1, word: 'Intend', work: 'Rom'},
+instances: 1, word: 'Intended', work: 'Rom'},
+instances: 1, word: 'Intercession', work: 'Rom'},
+instances: 1, word: 'Interchanging', work: 'Rom'},
+instances: 1, word: 'Interest', work: 'Rom'},
+instances: 1, word: 'Interred', work: 'Rom'},
+instances: 1, word: 'Interrupt', work: 'Rom'},
+instances: 1, word: 'Intrusion', work: 'Rom'},
+instances: 1, word: 'Inundation', work: 'Rom'},
+instances: 1, word: 'Invite', work: 'Rom'},
+instances: 1, word: 'Invited', work: 'Rom'},
+instances: 1, word: 'Invocation', work: 'Rom'},
+instances: 1, word: 'Issue', work: 'Rom'},
+instances: 1, word: 'Issuing', work: 'Rom'},
+instances: 1, word: 'Italy', work: 'Rom'},
+instances: 1, word: 'Itch', work: 'Rom'},
+instances: 1, word: 'Its', work: 'Rom'},
+instances: 1, word: 'Jacks', work: 'Rom'},
+instances: 1, word: 'James', work: 'Rom'},
+instances: 1, word: 'Jaunt', work: 'Rom'},
+instances: 1, word: 'Jaunting', work: 'Rom'},
+instances: 1, word: 'Jaws', work: 'Rom'},
+instances: 1, word: 'Jests', work: 'Rom'},
+instances: 1, word: 'Jewel', work: 'Rom'},
+instances: 1, word: 'Jocund', work: 'Rom'},
+instances: 1, word: 'Joined', work: 'Rom'},
+instances: 1, word: 'Joiner', work: 'Rom'},
+instances: 1, word: 'Jointure', work: 'Rom'},
+instances: 1, word: 'Journey', work: 'Rom'},
+instances: 1, word: 'Jove', work: 'Rom'},
+instances: 1, word: 'Judgment-place', work: 'Rom'},
+instances: 1, word: 'Justice', work: 'Rom'},
+instances: 1, word: 'Justly', work: 'Rom'},
+instances: 1, word: 'Keepers', work: 'Rom'},
+instances: 1, word: 'Kept', work: 'Rom'},
+instances: 1, word: 'Keys', work: 'Rom'},
+instances: 1, word: 'Killing', work: 'Rom'},
+instances: 1, word: 'Kin', work: 'Rom'},
+instances: 1, word: 'Kindly', work: 'Rom'},
+instances: 1, word: 'Kindred', work: 'Rom'},
+instances: 1, word: 'Kings', work: 'Rom'},
+instances: 1, word: 'Kinsman\'s', work: 'Rom'},
+instances: 1, word: 'Kitchen', work: 'Rom'},
+instances: 1, word: 'Knaves', work: 'Rom'},
+instances: 1, word: 'Knit', work: 'Rom'},
+instances: 1, word: 'Knot', work: 'Rom'},
+instances: 1, word: 'Label', work: 'Rom'},
+instances: 1, word: 'Labor', work: 'Rom'},
+instances: 1, word: 'Lace', work: 'Rom'},
+instances: 1, word: 'Lacks', work: 'Rom'},
+instances: 1, word: 'Ladder', work: 'Rom'},
+instances: 1, word: 'Ladybird', work: 'Rom'},
+instances: 1, word: 'Ladyship', work: 'Rom'},
+instances: 1, word: 'Lame', work: 'Rom'},
+instances: 1, word: 'Lament', work: 'Rom'},
+instances: 1, word: 'Lammastide', work: 'Rom'},
+instances: 1, word: 'Lamp', work: 'Rom'},
+instances: 1, word: 'Language', work: 'Rom'},
+instances: 1, word: 'Languish', work: 'Rom'},
+instances: 1, word: 'Lantern', work: 'Rom'},
+instances: 1, word: 'Lap', work: 'Rom'},
+instances: 1, word: 'Large', work: 'Rom'},
+instances: 1, word: 'Lash', work: 'Rom'},
+instances: 1, word: 'Lasting', work: 'Rom'},
+instances: 1, word: 'Lately', work: 'Rom'},
+instances: 1, word: 'Lath', work: 'Rom'},
+instances: 1, word: 'Laughs', work: 'Rom'},
+instances: 1, word: 'Laura', work: 'Rom'},
+instances: 1, word: 'Lawyers\'', work: 'Rom'},
+instances: 1, word: 'Leaf', work: 'Rom'},
+instances: 1, word: 'Lean', work: 'Rom'},
+instances: 1, word: 'Leans', work: 'Rom'},
+instances: 1, word: 'Leapt', work: 'Rom'},
+instances: 1, word: 'Learning', work: 'Rom'},
+instances: 1, word: 'Learns', work: 'Rom'},
+instances: 1, word: 'Least', work: 'Rom'},
+instances: 1, word: 'Leaving', work: 'Rom'},
+instances: 1, word: 'Lend', work: 'Rom'},
+instances: 1, word: 'Lengthens', work: 'Rom'},
+instances: 1, word: 'Lenity', work: 'Rom'},
+instances: 1, word: 'Lenten', work: 'Rom'},
+instances: 1, word: 'Lessened', work: 'Rom'},
+instances: 1, word: 'Lesser', work: 'Rom'},
+instances: 1, word: 'Lets', work: 'Rom'},
+instances: 1, word: 'Letter\'s', work: 'Rom'},
+instances: 1, word: 'Letting', work: 'Rom'},
+instances: 1, word: 'Level', work: 'Rom'},
+instances: 1, word: 'Liars', work: 'Rom'},
+instances: 1, word: 'Lief', work: 'Rom'},
+instances: 1, word: 'Liege', work: 'Rom'},
+instances: 1, word: 'Liest', work: 'Rom'},
+instances: 1, word: 'Life-weary', work: 'Rom'},
+instances: 1, word: 'Lifts', work: 'Rom'},
+instances: 1, word: 'Lightens', work: 'Rom'},
+instances: 1, word: 'Lightly', work: 'Rom'},
+instances: 1, word: 'Lightness', work: 'Rom'},
+instances: 1, word: 'Ligned', work: 'Rom'},
+instances: 1, word: 'Likely', work: 'Rom'},
+instances: 1, word: 'Liking', work: 'Rom'},
+instances: 1, word: 'Limit', work: 'Rom'},
+instances: 1, word: 'Limits', work: 'Rom'},
+instances: 1, word: 'Limping', work: 'Rom'},
+instances: 1, word: 'Lineament', work: 'Rom'},
+instances: 1, word: 'Lip', work: 'Rom'},
+instances: 1, word: 'Liquid', work: 'Rom'},
+instances: 1, word: 'Liquor', work: 'Rom'},
+instances: 1, word: 'Lisping', work: 'Rom'},
+instances: 1, word: 'List', work: 'Rom'},
+instances: 1, word: 'Lived', work: 'Rom'},
+instances: 1, word: 'Lively', work: 'Rom'},
+instances: 1, word: 'Liver', work: 'Rom'},
+instances: 1, word: 'Livest', work: 'Rom'},
+instances: 1, word: 'Livia', work: 'Rom'},
+instances: 1, word: 'Lodge', work: 'Rom'},
+instances: 1, word: 'Lodges', work: 'Rom'},
+instances: 1, word: 'Loggerhead', work: 'Rom'},
+instances: 1, word: 'Logic', work: 'Rom'},
+instances: 1, word: 'Loins', work: 'Rom'},
+instances: 1, word: 'Lolling', work: 'Rom'},
+instances: 1, word: 'Long-experienced', work: 'Rom'},
+instances: 1, word: 'Looking', work: 'Rom'},
+instances: 1, word: 'Loose', work: 'Rom'},
+instances: 1, word: 'Loud', work: 'Rom'},
+instances: 1, word: 'Lour', work: 'Rom'},
+instances: 1, word: 'Louring', work: 'Rom'},
+instances: 1, word: 'Love-devouring', work: 'Rom'},
+instances: 1, word: 'Love-performing', work: 'Rom'},
+instances: 1, word: 'Love-song', work: 'Rom'},
+instances: 1, word: 'Loving-jealous', work: 'Rom'},
+instances: 1, word: 'Lucentio', work: 'Rom'},
+instances: 1, word: 'Lucio', work: 'Rom'},
+instances: 1, word: 'Lure', work: 'Rom'},
+instances: 1, word: 'Lurk', work: 'Rom'},
+instances: 1, word: 'Lustier', work: 'Rom'},
+instances: 1, word: 'Madly', work: 'Rom'},
+instances: 1, word: 'Madman\'s', work: 'Rom'},
+instances: 1, word: 'Madmen', work: 'Rom'},
+instances: 1, word: 'Madness', work: 'Rom'},
+instances: 1, word: 'Maiden', work: 'Rom'},
+instances: 1, word: 'Maiden-widowèd', work: 'Rom'},
+instances: 1, word: 'Maidenheads', work: 'Rom'},
+instances: 1, word: 'Maidenhoods', work: 'Rom'},
+instances: 1, word: 'Maintains', work: 'Rom'},
+instances: 1, word: 'Mammet', work: 'Rom'},
+instances: 1, word: 'Mandrakes', work: 'Rom'},
+instances: 1, word: 'Manes', work: 'Rom'},
+instances: 1, word: 'Mangle', work: 'Rom'},
+instances: 1, word: 'Manly', work: 'Rom'},
+instances: 1, word: 'Manner', work: 'Rom'},
+instances: 1, word: 'Mannerly', work: 'Rom'},
+instances: 1, word: 'Mantle', work: 'Rom'},
+instances: 1, word: 'Mantua\'s', work: 'Rom'},
+instances: 1, word: 'Many\'s', work: 'Rom'},
+instances: 1, word: 'Marchpane', work: 'Rom'},
+instances: 1, word: 'Margent', work: 'Rom'},
+instances: 1, word: 'Maria', work: 'Rom'},
+instances: 1, word: 'Markman', work: 'Rom'},
+instances: 1, word: 'Marred', work: 'Rom'},
+instances: 1, word: 'Marrièd', work: 'Rom'},
+instances: 1, word: 'Martial', work: 'Rom'},
+instances: 1, word: 'Martino', work: 'Rom'},
+instances: 1, word: 'Martyred', work: 'Rom'},
+instances: 1, word: 'Marvelous', work: 'Rom'},
+instances: 1, word: 'Masked', work: 'Rom'},
+instances: 1, word: 'Masks', work: 'Rom'},
+instances: 1, word: 'Masque', work: 'Rom'},
+instances: 1, word: 'Masterless', work: 'Rom'},
+instances: 1, word: 'Masters', work: 'Rom'},
+instances: 1, word: 'Matron', work: 'Rom'},
+instances: 1, word: 'Maw', work: 'Rom'},
+instances: 1, word: 'Meager', work: 'Rom'},
+instances: 1, word: 'Meanest', work: 'Rom'},
+instances: 1, word: 'Measuring', work: 'Rom'},
+instances: 1, word: 'Meats', work: 'Rom'},
+instances: 1, word: 'Meddle', work: 'Rom'},
+instances: 1, word: 'Medicine', work: 'Rom'},
+instances: 1, word: 'Medlar', work: 'Rom'},
+instances: 1, word: 'Medlars', work: 'Rom'},
+instances: 1, word: 'Meeting', work: 'Rom'},
+instances: 1, word: 'Melancholy', work: 'Rom'},
+instances: 1, word: 'Memory', work: 'Rom'},
+instances: 1, word: 'Menace', work: 'Rom'},
+instances: 1, word: 'Merchandise', work: 'Rom'},
+instances: 1, word: 'Merchant', work: 'Rom'},
+instances: 1, word: 'Merrily', work: 'Rom'},
+instances: 1, word: 'Merriment', work: 'Rom'},
+instances: 1, word: 'Messages', work: 'Rom'},
+instances: 1, word: 'Meteor', work: 'Rom'},
+instances: 1, word: 'Mewed', work: 'Rom'},
+instances: 1, word: 'Mickle', work: 'Rom'},
+instances: 1, word: 'Midwife', work: 'Rom'},
+instances: 1, word: 'Miles', work: 'Rom'},
+instances: 1, word: 'Milk', work: 'Rom'},
+instances: 1, word: 'Minded', work: 'Rom'},
+instances: 1, word: 'Minds', work: 'Rom'},
+instances: 1, word: 'Minim', work: 'Rom'},
+instances: 1, word: 'Minion', work: 'Rom'},
+instances: 1, word: 'Ministered', work: 'Rom'},
+instances: 1, word: 'Minstrel', work: 'Rom'},
+instances: 1, word: 'Mire', work: 'Rom'},
+instances: 1, word: 'Mis-sheathèd', work: 'Rom'},
+instances: 1, word: 'Misadventured', work: 'Rom'},
+instances: 1, word: 'Misapplied', work: 'Rom'},
+instances: 1, word: 'Misbehaved', work: 'Rom'},
+instances: 1, word: 'Miscarried', work: 'Rom'},
+instances: 1, word: 'Mischance', work: 'Rom'},
+instances: 1, word: 'Mischief', work: 'Rom'},
+instances: 1, word: 'Misfortune', work: 'Rom'},
+instances: 1, word: 'Misfortune\'s', work: 'Rom'},
+instances: 1, word: 'Misgives', work: 'Rom'},
+instances: 1, word: 'Mistaking', work: 'Rom'},
+instances: 1, word: 'Mista\'en', work: 'Rom'},
+instances: 1, word: 'Mistempered', work: 'Rom'},
+instances: 1, word: 'Mistermed', work: 'Rom'},
+instances: 1, word: 'Mistlike', work: 'Rom'},
+instances: 1, word: 'Mistresses', work: 'Rom'},
+instances: 1, word: 'Misty', work: 'Rom'},
+instances: 1, word: 'Mixed', work: 'Rom'},
+instances: 1, word: 'Mixture', work: 'Rom'},
+instances: 1, word: 'Moans', work: 'Rom'},
+instances: 1, word: 'Mocker', work: 'Rom'},
+instances: 1, word: 'Moderately', work: 'Rom'},
+instances: 1, word: 'Modern', work: 'Rom'},
+instances: 1, word: 'Monarch', work: 'Rom'},
+instances: 1, word: 'Money', work: 'Rom'},
+instances: 1, word: 'Monster', work: 'Rom'},
+instances: 1, word: 'Monthly', work: 'Rom'},
+instances: 1, word: 'Mood', work: 'Rom'},
+instances: 1, word: 'Moonshine\'s', work: 'Rom'},
+instances: 1, word: 'Morsel', work: 'Rom'},
+instances: 1, word: 'Mountain-tops', work: 'Rom'},
+instances: 1, word: 'Mourners', work: 'Rom'},
+instances: 1, word: 'Mouse-hunt', work: 'Rom'},
+instances: 1, word: 'Moves', work: 'Rom'},
+instances: 1, word: 'Moveth', work: 'Rom'},
+instances: 1, word: 'Movèd', work: 'Rom'},
+instances: 1, word: 'Muffle', work: 'Rom'},
+instances: 1, word: 'Muffled', work: 'Rom'},
+instances: 1, word: 'Mumbling', work: 'Rom'},
+instances: 1, word: 'Murderèd', work: 'Rom'},
+instances: 1, word: 'Music\'s', work: 'Rom'},
+instances: 1, word: 'Musty', work: 'Rom'},
+instances: 1, word: 'Naked', work: 'Rom'},
+instances: 1, word: 'Named', work: 'Rom'},
+instances: 1, word: 'Narrow', work: 'Rom'},
+instances: 1, word: 'Necessaries', work: 'Rom'},
+instances: 1, word: 'Needful', work: 'Rom'},
+instances: 1, word: 'Needly', work: 'Rom'},
+instances: 1, word: 'Need\'st', work: 'Rom'},
+instances: 1, word: 'Neglecting', work: 'Rom'},
+instances: 1, word: 'Neighbor', work: 'Rom'},
+instances: 1, word: 'Neighbor-stainèd', work: 'Rom'},
+instances: 1, word: 'Nell', work: 'Rom'},
+instances: 1, word: 'Nephew', work: 'Rom'},
+instances: 1, word: 'Nets', work: 'Rom'},
+instances: 1, word: 'Nickname', work: 'Rom'},
+instances: 1, word: 'Niece', work: 'Rom'},
+instances: 1, word: 'Nieces', work: 'Rom'},
+instances: 1, word: 'Nights', work: 'Rom'},
+instances: 1, word: 'Nimble', work: 'Rom'},
+instances: 1, word: 'Nimble-pinioned', work: 'Rom'},
+instances: 1, word: 'Nipple', work: 'Rom'},
+instances: 1, word: 'Nobleman', work: 'Rom'},
+instances: 1, word: 'Nobly', work: 'Rom'},
+instances: 1, word: 'Noon', work: 'Rom'},
+instances: 1, word: 'North', work: 'Rom'},
+instances: 1, word: 'Noses', work: 'Rom'},
+instances: 1, word: 'Noted', work: 'Rom'},
+instances: 1, word: 'Notes', work: 'Rom'},
+instances: 1, word: 'Notice', work: 'Rom'},
+instances: 1, word: 'Noting', work: 'Rom'},
+instances: 1, word: 'Nourished', work: 'Rom'},
+instances: 1, word: 'Numbers', work: 'Rom'},
+instances: 1, word: 'Nuns', work: 'Rom'},
+instances: 1, word: 'Nuptial', work: 'Rom'},
+instances: 1, word: 'Nuts', work: 'Rom'},
+instances: 1, word: 'Obscured', work: 'Rom'},
+instances: 1, word: 'Occupy', work: 'Rom'},
+instances: 1, word: 'Oddly', work: 'Rom'},
+instances: 1, word: 'Odds', work: 'Rom'},
+instances: 1, word: 'Offense', work: 'Rom'},
+instances: 1, word: 'Offered', work: 'Rom'},
+instances: 1, word: 'Older', work: 'Rom'},
+instances: 1, word: 'Omit', work: 'Rom'},
+instances: 1, word: 'One\'s', work: 'Rom'},
+instances: 1, word: 'Open-arse', work: 'Rom'},
+instances: 1, word: 'Operation', work: 'Rom'},
+instances: 1, word: 'Opportunity', work: 'Rom'},
+instances: 1, word: 'Opposite', work: 'Rom'},
+instances: 1, word: 'Opposition', work: 'Rom'},
+instances: 1, word: 'Opposèd', work: 'Rom'},
+instances: 1, word: 'Oppress', work: 'Rom'},
+instances: 1, word: 'Orb', work: 'Rom'},
+instances: 1, word: 'Ordainèd', work: 'Rom'},
+instances: 1, word: 'Orisons', work: 'Rom'},
+instances: 1, word: 'Osier', work: 'Rom'},
+instances: 1, word: 'Ourselves', work: 'Rom'},
+instances: 1, word: 'Outcry', work: 'Rom'},
+instances: 1, word: 'Overheard\'st', work: 'Rom'},
+instances: 1, word: 'Overset', work: 'Rom'},
+instances: 1, word: 'Overthrown', work: 'Rom'},
+instances: 1, word: 'Overthrows', work: 'Rom'},
+instances: 1, word: 'Overwhelming', work: 'Rom'},
+instances: 1, word: 'Owe', work: 'Rom'},
+instances: 1, word: 'Owes', work: 'Rom'},
+instances: 1, word: 'O\'ercovered', work: 'Rom'},
+instances: 1, word: 'O\'erperch', work: 'Rom'},
+instances: 1, word: 'Pack', work: 'Rom'},
+instances: 1, word: 'Packed', work: 'Rom'},
+instances: 1, word: 'Packthread', work: 'Rom'},
+instances: 1, word: 'Painted', work: 'Rom'},
+instances: 1, word: 'Painter', work: 'Rom'},
+instances: 1, word: 'Palmers', work: 'Rom'},
+instances: 1, word: 'Palmers\'', work: 'Rom'},
+instances: 1, word: 'Paly', work: 'Rom'},
+instances: 1, word: 'Pantry', work: 'Rom'},
+instances: 1, word: 'Paper', work: 'Rom'},
+instances: 1, word: 'Paramour', work: 'Rom'},
+instances: 1, word: 'Pardoned', work: 'Rom'},
+instances: 1, word: 'Pardoning', work: 'Rom'},
+instances: 1, word: 'Parentage', work: 'Rom'},
+instances: 1, word: 'Parson\'s', work: 'Rom'},
+instances: 1, word: 'Parted', work: 'Rom'},
+instances: 1, word: 'Parties', work: 'Rom'},
+instances: 1, word: 'Parting', work: 'Rom'},
+instances: 1, word: 'Partly', work: 'Rom'},
+instances: 1, word: 'Passage', work: 'Rom'},
+instances: 1, word: 'Passed', work: 'Rom'},
+instances: 1, word: 'Pastry', work: 'Rom'},
+instances: 1, word: 'Pate', work: 'Rom'},
+instances: 1, word: 'Path', work: 'Rom'},
+instances: 1, word: 'Pathways', work: 'Rom'},
+instances: 1, word: 'Pear', work: 'Rom'},
+instances: 1, word: 'Peered', work: 'Rom'},
+instances: 1, word: 'Peevish', work: 'Rom'},
+instances: 1, word: 'Pen', work: 'Rom'},
+instances: 1, word: 'Penalty', work: 'Rom'},
+instances: 1, word: 'Pencil', work: 'Rom'},
+instances: 1, word: 'Penny', work: 'Rom'},
+instances: 1, word: 'Pennyworths', work: 'Rom'},
+instances: 1, word: 'Pens', work: 'Rom'},
+instances: 1, word: 'Pensive', work: 'Rom'},
+instances: 1, word: 'Pentecost', work: 'Rom'},
+instances: 1, word: 'Penury', work: 'Rom'},
+instances: 1, word: 'People', work: 'Rom'},
+instances: 1, word: 'Peppered', work: 'Rom'},
+instances: 1, word: 'Perchance', work: 'Rom'},
+instances: 1, word: 'Perfection', work: 'Rom'},
+instances: 1, word: 'Perform', work: 'Rom'},
+instances: 1, word: 'Perhaps', work: 'Rom'},
+instances: 1, word: 'Peril', work: 'Rom'},
+instances: 1, word: 'Perilous', work: 'Rom'},
+instances: 1, word: 'Perjured', work: 'Rom'},
+instances: 1, word: 'Perjuries', work: 'Rom'},
+instances: 1, word: 'Perjury', work: 'Rom'},
+instances: 1, word: 'Pernicious', work: 'Rom'},
+instances: 1, word: 'Peruse', work: 'Rom'},
+instances: 1, word: 'Perverse', work: 'Rom'},
+instances: 1, word: 'Pestilence', work: 'Rom'},
+instances: 1, word: 'Pestilent', work: 'Rom'},
+instances: 1, word: 'Petrarch', work: 'Rom'},
+instances: 1, word: 'Petruchio', work: 'Rom'},
+instances: 1, word: 'Phantasimes', work: 'Rom'},
+instances: 1, word: 'Phaëton', work: 'Rom'},
+instances: 1, word: 'Phoebus\'', work: 'Rom'},
+instances: 1, word: 'Phrase', work: 'Rom'},
+instances: 1, word: 'Physic', work: 'Rom'},
+instances: 1, word: 'Pie', work: 'Rom'},
+instances: 1, word: 'Pieces', work: 'Rom'},
+instances: 1, word: 'Pierced', work: 'Rom'},
+instances: 1, word: 'Piercing', work: 'Rom'},
+instances: 1, word: 'Pilcher', work: 'Rom'},
+instances: 1, word: 'Pilgrimage', work: 'Rom'},
+instances: 1, word: 'Pilgrims', work: 'Rom'},
+instances: 1, word: 'Pilgrims\'', work: 'Rom'},
+instances: 1, word: 'Pin', work: 'Rom'},
+instances: 1, word: 'Pined', work: 'Rom'},
+instances: 1, word: 'Pipes', work: 'Rom'},
+instances: 1, word: 'Pitch', work: 'Rom'},
+instances: 1, word: 'Placentio', work: 'Rom'},
+instances: 1, word: 'Plagues', work: 'Rom'},
+instances: 1, word: 'Plain', work: 'Rom'},
+instances: 1, word: 'Plainly', work: 'Rom'},
+instances: 1, word: 'Plant', work: 'Rom'},
+instances: 1, word: 'Plantain', work: 'Rom'},
+instances: 1, word: 'Plants', work: 'Rom'},
+instances: 1, word: 'Plate', work: 'Rom'},
+instances: 1, word: 'Plats', work: 'Rom'},
+instances: 1, word: 'Played', work: 'Rom'},
+instances: 1, word: 'Playing', work: 'Rom'},
+instances: 1, word: 'Plays', work: 'Rom'},
+instances: 1, word: 'Pleading', work: 'Rom'},
+instances: 1, word: 'Pleasant', work: 'Rom'},
+instances: 1, word: 'Plucks', work: 'Rom'},
+instances: 1, word: 'Points', work: 'Rom'},
+instances: 1, word: 'Poised', work: 'Rom'},
+instances: 1, word: 'Pomegranate', work: 'Rom'},
+instances: 1, word: 'Poor-john', work: 'Rom'},
+instances: 1, word: 'Pop\'rin', work: 'Rom'},
+instances: 1, word: 'Portentous', work: 'Rom'},
+instances: 1, word: 'Porter', work: 'Rom'},
+instances: 1, word: 'Portly', work: 'Rom'},
+instances: 1, word: 'Possess', work: 'Rom'},
+instances: 1, word: 'Post-horses', work: 'Rom'},
+instances: 1, word: 'Posterity', work: 'Rom'},
+instances: 1, word: 'Potion', work: 'Rom'},
+instances: 1, word: 'Potion\'s', work: 'Rom'},
+instances: 1, word: 'Pots', work: 'Rom'},
+instances: 1, word: 'Poultice', work: 'Rom'},
+instances: 1, word: 'Pouts', work: 'Rom'},
+instances: 1, word: 'Powerful', work: 'Rom'},
+instances: 1, word: 'Pox', work: 'Rom'},
+instances: 1, word: 'Practice', work: 'Rom'},
+instances: 1, word: 'Praised', work: 'Rom'},
+instances: 1, word: 'Prating', work: 'Rom'},
+instances: 1, word: 'Prayers', work: 'Rom'},
+instances: 1, word: 'Prayers\'', work: 'Rom'},
+instances: 1, word: 'Prayer\'s', work: 'Rom'},
+instances: 1, word: 'Precious-juicèd', work: 'Rom'},
+instances: 1, word: 'Predicament', work: 'Rom'},
+instances: 1, word: 'Predominant', work: 'Rom'},
+instances: 1, word: 'Prefixèd', work: 'Rom'},
+instances: 1, word: 'Prepared', work: 'Rom'},
+instances: 1, word: 'Presage', work: 'Rom'},
+instances: 1, word: 'Preserving', work: 'Rom'},
+instances: 1, word: 'Pressed', work: 'Rom'},
+instances: 1, word: 'Prevails', work: 'Rom'},
+instances: 1, word: 'Prevented', work: 'Rom'},
+instances: 1, word: 'Prick-song', work: 'Rom'},
+instances: 1, word: 'Pricked', work: 'Rom'},
+instances: 1, word: 'Pricking', work: 'Rom'},
+instances: 1, word: 'Pricks', work: 'Rom'},
+instances: 1, word: 'Princox', work: 'Rom'},
+instances: 1, word: 'Prisoner', work: 'Rom'},
+instances: 1, word: 'Privy', work: 'Rom'},
+instances: 1, word: 'Proceeding', work: 'Rom'},
+instances: 1, word: 'Procure', work: 'Rom'},
+instances: 1, word: 'Procures', work: 'Rom'},
+instances: 1, word: 'Prodigious', work: 'Rom'},
+instances: 1, word: 'Profane', work: 'Rom'},
+instances: 1, word: 'Profaners', work: 'Rom'},
+instances: 1, word: 'Professed', work: 'Rom'},
+instances: 1, word: 'Progress', work: 'Rom'},
+instances: 1, word: 'Prolixity', work: 'Rom'},
+instances: 1, word: 'Prologue', work: 'Rom'},
+instances: 1, word: 'Promise', work: 'Rom'},
+instances: 1, word: 'Promised', work: 'Rom'},
+instances: 1, word: 'Promotion', work: 'Rom'},
+instances: 1, word: 'Prompt', work: 'Rom'},
+instances: 1, word: 'Prompter', work: 'Rom'},
+instances: 1, word: 'Propagate', work: 'Rom'},
+instances: 1, word: 'Properer', work: 'Rom'},
+instances: 1, word: 'Proportion', work: 'Rom'},
+instances: 1, word: 'Proportioned', work: 'Rom'},
+instances: 1, word: 'Prorogue', work: 'Rom'},
+instances: 1, word: 'Proroguèd', work: 'Rom'},
+instances: 1, word: 'Prostrate', work: 'Rom'},
+instances: 1, word: 'Prouds', work: 'Rom'},
+instances: 1, word: 'Proverbed', work: 'Rom'},
+instances: 1, word: 'Proves', work: 'Rom'},
+instances: 1, word: 'Provided', work: 'Rom'},
+instances: 1, word: 'Provision', work: 'Rom'},
+instances: 1, word: 'Provoke', work: 'Rom'},
+instances: 1, word: 'Prudence', work: 'Rom'},
+instances: 1, word: 'Pry', work: 'Rom'},
+instances: 1, word: 'Public', work: 'Rom'},
+instances: 1, word: 'Puffing', work: 'Rom'},
+instances: 1, word: 'Puffs', work: 'Rom'},
+instances: 1, word: 'Puling', work: 'Rom'},
+instances: 1, word: 'Pulse', work: 'Rom'},
+instances: 1, word: 'Punished', work: 'Rom'},
+instances: 1, word: 'Punishèd', work: 'Rom'},
+instances: 1, word: 'Punto', work: 'Rom'},
+instances: 1, word: 'Pupil', work: 'Rom'},
+instances: 1, word: 'Purblind', work: 'Rom'},
+instances: 1, word: 'Purchase', work: 'Rom'},
+instances: 1, word: 'Purgatory', work: 'Rom'},
+instances: 1, word: 'Purge', work: 'Rom'},
+instances: 1, word: 'Purple', work: 'Rom'},
+instances: 1, word: 'Pursuing', work: 'Rom'},
+instances: 1, word: 'Push', work: 'Rom'},
+instances: 1, word: 'Puts', work: 'Rom'},
+instances: 1, word: 'Putting', work: 'Rom'},
+instances: 1, word: 'Qualities', work: 'Rom'},
+instances: 1, word: 'Quarreled', work: 'Rom'},
+instances: 1, word: 'Quarrels', work: 'Rom'},
+instances: 1, word: 'Quarter', work: 'Rom'},
+instances: 1, word: 'Queen', work: 'Rom'},
+instances: 1, word: 'Quinces', work: 'Rom'},
+instances: 1, word: 'Quit', work: 'Rom'},
+instances: 1, word: 'Quivering', work: 'Rom'},
+instances: 1, word: 'Quivers', work: 'Rom'},
+instances: 1, word: 'Raging', work: 'Rom'},
+instances: 1, word: 'Railest', work: 'Rom'},
+instances: 1, word: 'Rains', work: 'Rom'},
+instances: 1, word: 'Raised', work: 'Rom'},
+instances: 1, word: 'Rancor', work: 'Rom'},
+instances: 1, word: 'Rank', work: 'Rom'},
+instances: 1, word: 'Ranked', work: 'Rom'},
+instances: 1, word: 'Rapier\'s', work: 'Rom'},
+instances: 1, word: 'Rash', work: 'Rom'},
+instances: 1, word: 'Rat', work: 'Rom'},
+instances: 1, word: 'Ratcatcher', work: 'Rom'},
+instances: 1, word: 'Rattling', work: 'Rom'},
+instances: 1, word: 'Raven', work: 'Rom'},
+instances: 1, word: 'Raven\'s', work: 'Rom'},
+instances: 1, word: 'Ray', work: 'Rom'},
+instances: 1, word: 'Reach', work: 'Rom'},
+instances: 1, word: 'Rearward', work: 'Rom'},
+instances: 1, word: 'Reason\'s', work: 'Rom'},
+instances: 1, word: 'Rebeck', work: 'Rom'},
+instances: 1, word: 'Rebellious', work: 'Rom'},
+instances: 1, word: 'Receipt', work: 'Rom'},
+instances: 1, word: 'Receive', work: 'Rom'},
+instances: 1, word: 'Receptacle', work: 'Rom'},
+instances: 1, word: 'Reckoning', work: 'Rom'},
+instances: 1, word: 'Reck\'ning', work: 'Rom'},
+instances: 1, word: 'Reclaimed', work: 'Rom'},
+instances: 1, word: 'Reconcile', work: 'Rom'},
+instances: 1, word: 'Redeem', work: 'Rom'},
+instances: 1, word: 'Redress', work: 'Rom'},
+instances: 1, word: 'Reeky', work: 'Rom'},
+instances: 1, word: 'Reels', work: 'Rom'},
+instances: 1, word: 'Reflex', work: 'Rom'},
+instances: 1, word: 'Refuse', work: 'Rom'},
+instances: 1, word: 'Region', work: 'Rom'},
+instances: 1, word: 'Religion', work: 'Rom'},
+instances: 1, word: 'Remedies', work: 'Rom'},
+instances: 1, word: 'Remembered', work: 'Rom'},
+instances: 1, word: 'Rememb\'ring', work: 'Rom'},
+instances: 1, word: 'Remnants', work: 'Rom'},
+instances: 1, word: 'Removed', work: 'Rom'},
+instances: 1, word: 'Renowned', work: 'Rom'},
+instances: 1, word: 'Repetition', work: 'Rom'},
+instances: 1, word: 'Repliest', work: 'Rom'},
+instances: 1, word: 'Reply', work: 'Rom'},
+instances: 1, word: 'Report', work: 'Rom'},
+instances: 1, word: 'Repose', work: 'Rom'},
+instances: 1, word: 'Reputation', work: 'Rom'},
+instances: 1, word: 'Request', work: 'Rom'},
+instances: 1, word: 'Residence', work: 'Rom'},
+instances: 1, word: 'Resign', work: 'Rom'},
+instances: 1, word: 'Resolution', work: 'Rom'},
+instances: 1, word: 'Resolve', work: 'Rom'},
+instances: 1, word: 'Resort', work: 'Rom'},
+instances: 1, word: 'Respective', work: 'Rom'},
+instances: 1, word: 'Respects', work: 'Rom'},
+instances: 1, word: 'Restorative', work: 'Rom'},
+instances: 1, word: 'Retain', work: 'Rom'},
+instances: 1, word: 'Retire', work: 'Rom'},
+instances: 1, word: 'Retorts', work: 'Rom'},
+instances: 1, word: 'Returned', work: 'Rom'},
+instances: 1, word: 'Revel', work: 'Rom'},
+instances: 1, word: 'Revels', work: 'Rom'},
+instances: 1, word: 'Revenge', work: 'Rom'},
+instances: 1, word: 'Reverence', work: 'Rom'},
+instances: 1, word: 'Reverend', work: 'Rom'},
+instances: 1, word: 'Reverse', work: 'Rom'},
+instances: 1, word: 'Reverso', work: 'Rom'},
+instances: 1, word: 'Revive', work: 'Rom'},
+instances: 1, word: 'Revolt', work: 'Rom'},
+instances: 1, word: 'Revolts', work: 'Rom'},
+instances: 1, word: 'Ribbon', work: 'Rom'},
+instances: 1, word: 'Rid', work: 'Rom'},
+instances: 1, word: 'Righteous', work: 'Rom'},
+instances: 1, word: 'Rigor', work: 'Rom'},
+instances: 1, word: 'Rind', work: 'Rom'},
+instances: 1, word: 'Ringing', work: 'Rom'},
+instances: 1, word: 'Ripe', work: 'Rom'},
+instances: 1, word: 'Ripening', work: 'Rom'},
+instances: 1, word: 'Rise', work: 'Rom'},
+instances: 1, word: 'Rites', work: 'Rom'},
+instances: 1, word: 'Roared', work: 'Rom'},
+instances: 1, word: 'Rocks', work: 'Rom'},
+instances: 1, word: 'Rode', work: 'Rom'},
+instances: 1, word: 'Roe', work: 'Rom'},
+instances: 1, word: 'Rogue', work: 'Rom'},
+instances: 1, word: 'Rood', work: 'Rom'},
+instances: 1, word: 'Rooteth', work: 'Rom'},
+instances: 1, word: 'Ropery', work: 'Rom'},
+instances: 1, word: 'Ropes', work: 'Rom'},
+instances: 1, word: 'Rosaline\'s', work: 'Rom'},
+instances: 1, word: 'Rose', work: 'Rom'},
+instances: 1, word: 'Rote', work: 'Rom'},
+instances: 1, word: 'Rotten', work: 'Rom'},
+instances: 1, word: 'Round', work: 'Rom'},
+instances: 1, word: 'Runagate', work: 'Rom'},
+instances: 1, word: 'Runaways\'', work: 'Rom'},
+instances: 1, word: 'Rung', work: 'Rom'},
+instances: 1, word: 'Runn\'st', work: 'Rom'},
+instances: 1, word: 'Runs', work: 'Rom'},
+instances: 1, word: 'Rushed', work: 'Rom'},
+instances: 1, word: 'Rust', work: 'Rom'},
+instances: 1, word: 'Sack', work: 'Rom'},
+instances: 1, word: 'Sacrificed', work: 'Rom'},
+instances: 1, word: 'Sacrifices', work: 'Rom'},
+instances: 1, word: 'Sadly', work: 'Rom'},
+instances: 1, word: 'Safety', work: 'Rom'},
+instances: 1, word: 'Sailing', work: 'Rom'},
+instances: 1, word: 'Sails', work: 'Rom'},
+instances: 1, word: 'Saint-seducing', work: 'Rom'},
+instances: 1, word: 'Sale', work: 'Rom'},
+instances: 1, word: 'Sallow', work: 'Rom'},
+instances: 1, word: 'Salutation', work: 'Rom'},
+instances: 1, word: 'Saluteth', work: 'Rom'},
+instances: 1, word: 'Satisfaction', work: 'Rom'},
+instances: 1, word: 'Sauce', work: 'Rom'},
+instances: 1, word: 'Savage-wild', work: 'Rom'},
+instances: 1, word: 'Sayest', work: 'Rom'},
+instances: 1, word: 'Saying', work: 'Rom'},
+instances: 1, word: 'Scales', work: 'Rom'},
+instances: 1, word: 'Scant', work: 'Rom'},
+instances: 1, word: 'Scarce', work: 'Rom'},
+instances: 1, word: 'Scare', work: 'Rom'},
+instances: 1, word: 'Scarf', work: 'Rom'},
+instances: 1, word: 'Scaring', work: 'Rom'},
+instances: 1, word: 'Scars', work: 'Rom'},
+instances: 1, word: 'Scathe', work: 'Rom'},
+instances: 1, word: 'Scattered', work: 'Rom'},
+instances: 1, word: 'School', work: 'Rom'},
+instances: 1, word: 'Schoolboys', work: 'Rom'},
+instances: 1, word: 'Scope', work: 'Rom'},
+instances: 1, word: 'Score', work: 'Rom'},
+instances: 1, word: 'Scourge', work: 'Rom'},
+instances: 1, word: 'Scrape', work: 'Rom'},
+instances: 1, word: 'Searchers', work: 'Rom'},
+instances: 1, word: 'Seasick', work: 'Rom'},
+instances: 1, word: 'Season', work: 'Rom'},
+instances: 1, word: 'Seeds', work: 'Rom'},
+instances: 1, word: 'Seeking', work: 'Rom'},
+instances: 1, word: 'Seeks', work: 'Rom'},
+instances: 1, word: 'Seem', work: 'Rom'},
+instances: 1, word: 'Seem\'st', work: 'Rom'},
+instances: 1, word: 'Sees', work: 'Rom'},
+instances: 1, word: 'Seize', work: 'Rom'},
+instances: 1, word: 'Self-willed', work: 'Rom'},
+instances: 1, word: 'Semblance', work: 'Rom'},
+instances: 1, word: 'Sending', work: 'Rom'},
+instances: 1, word: 'Sends', work: 'Rom'},
+instances: 1, word: 'Senseless', work: 'Rom'},
+instances: 1, word: 'Senses', work: 'Rom'},
+instances: 1, word: 'Sententious', work: 'Rom'},
+instances: 1, word: 'Separated', work: 'Rom'},
+instances: 1, word: 'Serious', work: 'Rom'},
+instances: 1, word: 'Serpent', work: 'Rom'},
+instances: 1, word: 'Serpents', work: 'Rom'},
+instances: 1, word: 'Servants', work: 'Rom'},
+instances: 1, word: 'Serves', work: 'Rom'},
+instances: 1, word: 'Serving-creature', work: 'Rom'},
+instances: 1, word: 'Serving-creature\'s', work: 'Rom'},
+instances: 1, word: 'Sets', work: 'Rom'},
+instances: 1, word: 'Settled', work: 'Rom'},
+instances: 1, word: 'Severest', work: 'Rom'},
+instances: 1, word: 'Severing', work: 'Rom'},
+instances: 1, word: 'Severity', work: 'Rom'},
+instances: 1, word: 'Shady', work: 'Rom'},
+instances: 1, word: 'Shanks', work: 'Rom'},
+instances: 1, word: 'Sharp-ground', work: 'Rom'},
+instances: 1, word: 'Sharps', work: 'Rom'},
+instances: 1, word: 'Sheath', work: 'Rom'},
+instances: 1, word: 'Sheet', work: 'Rom'},
+instances: 1, word: 'Shelves', work: 'Rom'},
+instances: 1, word: 'Shield', work: 'Rom'},
+instances: 1, word: 'Shift', work: 'Rom'},
+instances: 1, word: 'Shin', work: 'Rom'},
+instances: 1, word: 'Shining', work: 'Rom'},
+instances: 1, word: 'Shirt', work: 'Rom'},
+instances: 1, word: 'Shoemaker', work: 'Rom'},
+instances: 1, word: 'Shore', work: 'Rom'},
+instances: 1, word: 'Shortly', work: 'Rom'},
+instances: 1, word: 'Show\'ring', work: 'Rom'},
+instances: 1, word: 'Shrieked', work: 'Rom'},
+instances: 1, word: 'Shrieks', work: 'Rom'},
+instances: 1, word: 'Shrine', work: 'Rom'},
+instances: 1, word: 'Shrived', work: 'Rom'},
+instances: 1, word: 'Shrunk', work: 'Rom'},
+instances: 1, word: 'Shunned', work: 'Rom'},
+instances: 1, word: 'Sides', work: 'Rom'},
+instances: 1, word: 'Sigh', work: 'Rom'},
+instances: 1, word: 'Signal', work: 'Rom'},
+instances: 1, word: 'Signify', work: 'Rom'},
+instances: 1, word: 'Silk', work: 'Rom'},
+instances: 1, word: 'Silken', work: 'Rom'},
+instances: 1, word: 'Silver-sweet', work: 'Rom'},
+instances: 1, word: 'Simon', work: 'Rom'},
+instances: 1, word: 'Simpleness', work: 'Rom'},
+instances: 1, word: 'Simples', work: 'Rom'},
+instances: 1, word: 'Singer', work: 'Rom'},
+instances: 1, word: 'Single', work: 'Rom'},
+instances: 1, word: 'Single-soled', work: 'Rom'},
+instances: 1, word: 'Singleness', work: 'Rom'},
+instances: 1, word: 'Sinners\'', work: 'Rom'},
+instances: 1, word: 'Sisterhood', work: 'Rom'},
+instances: 1, word: 'Sisters', work: 'Rom'},
+instances: 1, word: 'Skains-mates', work: 'Rom'},
+instances: 1, word: 'Skill', work: 'Rom'},
+instances: 1, word: 'Skilless', work: 'Rom'},
+instances: 1, word: 'Skins', work: 'Rom'},
+instances: 1, word: 'Slack', work: 'Rom'},
+instances: 1, word: 'Slandered', work: 'Rom'},
+instances: 1, word: 'Sleeping', work: 'Rom'},
+instances: 1, word: 'Slewest', work: 'Rom'},
+instances: 1, word: 'Slop', work: 'Rom'},
+instances: 1, word: 'Slowed', work: 'Rom'},
+instances: 1, word: 'Slugabed', work: 'Rom'},
+instances: 1, word: 'Sluttish', work: 'Rom'},
+instances: 1, word: 'Smallest', work: 'Rom'},
+instances: 1, word: 'Smatter', work: 'Rom'},
+instances: 1, word: 'Smell', work: 'Rom'},
+instances: 1, word: 'Smelling', work: 'Rom'},
+instances: 1, word: 'Smells', work: 'Rom'},
+instances: 1, word: 'Smelt', work: 'Rom'},
+instances: 1, word: 'Smilest', work: 'Rom'},
+instances: 1, word: 'Smock', work: 'Rom'},
+instances: 1, word: 'Snow', work: 'Rom'},
+instances: 1, word: 'Snowy', work: 'Rom'},
+instances: 1, word: 'Sober-suited', work: 'Rom'},
+instances: 1, word: 'Sociable', work: 'Rom'},
+instances: 1, word: 'Society', work: 'Rom'},
+instances: 1, word: 'Softened', work: 'Rom'},
+instances: 1, word: 'Softest', work: 'Rom'},
+instances: 1, word: 'Sojourn', work: 'Rom'},
+instances: 1, word: 'Solace', work: 'Rom'},
+instances: 1, word: 'Solemn', work: 'Rom'},
+instances: 1, word: 'Soles', work: 'Rom'},
+instances: 1, word: 'Sometimes', work: 'Rom'},
+instances: 1, word: 'Son-in-law', work: 'Rom'},
+instances: 1, word: 'Son\'s', work: 'Rom'},
+instances: 1, word: 'Soon-speeding', work: 'Rom'},
+instances: 1, word: 'Sooner', work: 'Rom'},
+instances: 1, word: 'Soonest', work: 'Rom'},
+instances: 1, word: 'Sore', work: 'Rom'},
+instances: 1, word: 'Sorry', work: 'Rom'},
+instances: 1, word: 'Sort', work: 'Rom'},
+instances: 1, word: 'Sorted', work: 'Rom'},
+instances: 1, word: 'Soundpost', work: 'Rom'},
+instances: 1, word: 'Sounds', work: 'Rom'},
+instances: 1, word: 'South', work: 'Rom'},
+instances: 1, word: 'Sovereign', work: 'Rom'},
+instances: 1, word: 'Spade', work: 'Rom'},
+instances: 1, word: 'Spakest', work: 'Rom'},
+instances: 1, word: 'Spanish', work: 'Rom'},
+instances: 1, word: 'Spare', work: 'Rom'},
+instances: 1, word: 'Sparing', work: 'Rom'},
+instances: 1, word: 'Sparkling', work: 'Rom'},
+instances: 1, word: 'Special', work: 'Rom'},
+instances: 1, word: 'Sped', work: 'Rom'},
+instances: 1, word: 'Speech', work: 'Rom'},
+instances: 1, word: 'Speedy', work: 'Rom'},
+instances: 1, word: 'Spell', work: 'Rom'},
+instances: 1, word: 'Spheres', work: 'Rom'},
+instances: 1, word: 'Spices', work: 'Rom'},
+instances: 1, word: 'Spider', work: 'Rom'},
+instances: 1, word: 'Spilled', work: 'Rom'},
+instances: 1, word: 'Spinners\'', work: 'Rom'},
+instances: 1, word: 'Spirits', work: 'Rom'},
+instances: 1, word: 'Spit', work: 'Rom'},
+instances: 1, word: 'Spited', work: 'Rom'},
+instances: 1, word: 'Spleen', work: 'Rom'},
+instances: 1, word: 'Splendor', work: 'Rom'},
+instances: 1, word: 'Spoken', work: 'Rom'},
+instances: 1, word: 'Spokes', work: 'Rom'},
+instances: 1, word: 'Sprung', work: 'Rom'},
+instances: 1, word: 'Squirrel', work: 'Rom'},
+instances: 1, word: 'Stabbed', work: 'Rom'},
+instances: 1, word: 'Stage', work: 'Rom'},
+instances: 1, word: 'Stain', work: 'Rom'},
+instances: 1, word: 'Stainless', work: 'Rom'},
+instances: 1, word: 'Stains', work: 'Rom'},
+instances: 1, word: 'Stair', work: 'Rom'},
+instances: 1, word: 'Stakes', work: 'Rom'},
+instances: 1, word: 'Stale', work: 'Rom'},
+instances: 1, word: 'Star-crossed', work: 'Rom'},
+instances: 1, word: 'Stark', work: 'Rom'},
+instances: 1, word: 'Startles', work: 'Rom'},
+instances: 1, word: 'Starve', work: 'Rom'},
+instances: 1, word: 'Starved', work: 'Rom'},
+instances: 1, word: 'Starveth', work: 'Rom'},
+instances: 1, word: 'Statue', work: 'Rom'},
+instances: 1, word: 'Staying', work: 'Rom'},
+instances: 1, word: 'Steads', work: 'Rom'},
+instances: 1, word: 'Steals', work: 'Rom'},
+instances: 1, word: 'Stealth', work: 'Rom'},
+instances: 1, word: 'Steeds', work: 'Rom'},
+instances: 1, word: 'Steeped', work: 'Rom'},
+instances: 1, word: 'Steerage', work: 'Rom'},
+instances: 1, word: 'Step', work: 'Rom'},
+instances: 1, word: 'Stepping', work: 'Rom'},
+instances: 1, word: 'Stick', work: 'Rom'},
+instances: 1, word: 'Stickest', work: 'Rom'},
+instances: 1, word: 'Stifled', work: 'Rom'},
+instances: 1, word: 'Still-waking', work: 'Rom'},
+instances: 1, word: 'Stint', work: 'Rom'},
+instances: 1, word: 'Stirreth', work: 'Rom'},
+instances: 1, word: 'Stirring', work: 'Rom'},
+instances: 1, word: 'Stirs', work: 'Rom'},
+instances: 1, word: 'Stoccato', work: 'Rom'},
+instances: 1, word: 'Stock', work: 'Rom'},
+instances: 1, word: 'Stole', work: 'Rom'},
+instances: 1, word: 'Stools', work: 'Rom'},
+instances: 1, word: 'Stopped', work: 'Rom'},
+instances: 1, word: 'Strain', work: 'Rom'},
+instances: 1, word: 'Strained', work: 'Rom'},
+instances: 1, word: 'Straining', work: 'Rom'},
+instances: 1, word: 'Strains', work: 'Rom'},
+instances: 1, word: 'Stranger', work: 'Rom'},
+instances: 1, word: 'Strangers', work: 'Rom'},
+instances: 1, word: 'Strangled', work: 'Rom'},
+instances: 1, word: 'Stratagems', work: 'Rom'},
+instances: 1, word: 'Stream', work: 'Rom'},
+instances: 1, word: 'Stretch', work: 'Rom'},
+instances: 1, word: 'Stretches', work: 'Rom'},
+instances: 1, word: 'Strive', work: 'Rom'},
+instances: 1, word: 'Stroke', work: 'Rom'},
+instances: 1, word: 'Strucken', work: 'Rom'},
+instances: 1, word: 'Study', work: 'Rom'},
+instances: 1, word: 'Stumble', work: 'Rom'},
+instances: 1, word: 'Stumbled', work: 'Rom'},
+instances: 1, word: 'Stumblest', work: 'Rom'},
+instances: 1, word: 'Stumbling', work: 'Rom'},
+instances: 1, word: 'Subject', work: 'Rom'},
+instances: 1, word: 'Subjects', work: 'Rom'},
+instances: 1, word: 'Submission', work: 'Rom'},
+instances: 1, word: 'Substantial', work: 'Rom'},
+instances: 1, word: 'Subtly', work: 'Rom'},
+instances: 1, word: 'Sucking', work: 'Rom'},
+instances: 1, word: 'Suffer', work: 'Rom'},
+instances: 1, word: 'Summers', work: 'Rom'},
+instances: 1, word: 'Summer\'s', work: 'Rom'},
+instances: 1, word: 'Sunder', work: 'Rom'},
+instances: 1, word: 'Sunset', work: 'Rom'},
+instances: 1, word: 'Sun\'s', work: 'Rom'},
+instances: 1, word: 'Supple', work: 'Rom'},
+instances: 1, word: 'Supposèd', work: 'Rom'},
+instances: 1, word: 'Sups', work: 'Rom'},
+instances: 1, word: 'Surcease', work: 'Rom'},
+instances: 1, word: 'Surgeon', work: 'Rom'},
+instances: 1, word: 'Suspected', work: 'Rom'},
+instances: 1, word: 'Suspecting', work: 'Rom'},
+instances: 1, word: 'Swallowed', work: 'Rom'},
+instances: 1, word: 'Swan', work: 'Rom'},
+instances: 1, word: 'Sway', work: 'Rom'},
+instances: 1, word: 'Swears', work: 'Rom'},
+instances: 1, word: 'Swear\'st', work: 'Rom'},
+instances: 1, word: 'Sweeten', work: 'Rom'},
+instances: 1, word: 'Sweeter', work: 'Rom'},
+instances: 1, word: 'Sweetheart', work: 'Rom'},
+instances: 1, word: 'Sweeting', work: 'Rom'},
+instances: 1, word: 'Sweetly', work: 'Rom'},
+instances: 1, word: 'Sweetmeats', work: 'Rom'},
+instances: 1, word: 'Swifter', work: 'Rom'},
+instances: 1, word: 'Swoonèd', work: 'Rom'},
+instances: 1, word: 'Swung', work: 'Rom'},
+instances: 1, word: 'Sycamore', work: 'Rom'},
+instances: 1, word: 'Sympathy', work: 'Rom'},
+instances: 1, word: 'Table', work: 'Rom'},
+instances: 1, word: 'Tables', work: 'Rom'},
+instances: 1, word: 'Tackled', work: 'Rom'},
+instances: 1, word: 'Tail', work: 'Rom'},
+instances: 1, word: 'Tainted', work: 'Rom'},
+instances: 1, word: 'Taker', work: 'Rom'},
+instances: 1, word: 'Talk\'st', work: 'Rom'},
+instances: 1, word: 'Tall', work: 'Rom'},
+instances: 1, word: 'Tallow', work: 'Rom'},
+instances: 1, word: 'Tardy', work: 'Rom'},
+instances: 1, word: 'Tarry', work: 'Rom'},
+instances: 1, word: 'Tartar\'s', work: 'Rom'},
+instances: 1, word: 'Tassel-gentle', work: 'Rom'},
+instances: 1, word: 'Tasted', work: 'Rom'},
+instances: 1, word: 'Tattered', work: 'Rom'},
+instances: 1, word: 'Tavern', work: 'Rom'},
+instances: 1, word: 'Team', work: 'Rom'},
+instances: 1, word: 'Teat', work: 'Rom'},
+instances: 1, word: 'Teen', work: 'Rom'},
+instances: 1, word: 'Teeth', work: 'Rom'},
+instances: 1, word: 'Tempered', work: 'Rom'},
+instances: 1, word: 'Tempest-tossèd', work: 'Rom'},
+instances: 1, word: 'Tempt', work: 'Rom'},
+instances: 1, word: 'Temp\'ring', work: 'Rom'},
+instances: 1, word: 'Terms', work: 'Rom'},
+instances: 1, word: 'Testify', work: 'Rom'},
+instances: 1, word: 'Tetchy', work: 'Rom'},
+instances: 1, word: 'Text', work: 'Rom'},
+instances: 1, word: 'Thankings', work: 'Rom'},
+instances: 1, word: 'Theirs', work: 'Rom'},
+instances: 1, word: 'Theme', work: 'Rom'},
+instances: 1, word: 'Thereof', work: 'Rom'},
+instances: 1, word: 'Therewithal', work: 'Rom'},
+instances: 1, word: 'They\'ll', work: 'Rom'},
+instances: 1, word: 'Thievish', work: 'Rom'},
+instances: 1, word: 'Thigh', work: 'Rom'},
+instances: 1, word: 'Thin', work: 'Rom'},
+instances: 1, word: 'Thinkest', work: 'Rom'},
+instances: 1, word: 'Thinking', work: 'Rom'},
+instances: 1, word: 'Think\'st', work: 'Rom'},
+instances: 1, word: 'Thinly', work: 'Rom'},
+instances: 1, word: 'Third', work: 'Rom'},
+instances: 1, word: 'Thisbe', work: 'Rom'},
+instances: 1, word: 'Thorn', work: 'Rom'},
+instances: 1, word: 'Thread', work: 'Rom'},
+instances: 1, word: 'Three-hours', work: 'Rom'},
+instances: 1, word: 'Thrice', work: 'Rom'},
+instances: 1, word: 'Thrills', work: 'Rom'},
+instances: 1, word: 'Thrive', work: 'Rom'},
+instances: 1, word: 'Throats', work: 'Rom'},
+instances: 1, word: 'Throughout', work: 'Rom'},
+instances: 1, word: 'Throw', work: 'Rom'},
+instances: 1, word: 'Thrown', work: 'Rom'},
+instances: 1, word: 'Thrusts', work: 'Rom'},
+instances: 1, word: 'Thwarted', work: 'Rom'},
+instances: 1, word: 'Tiberio', work: 'Rom'},
+instances: 1, word: 'Tickle', work: 'Rom'},
+instances: 1, word: 'Tickling', work: 'Rom'},
+instances: 1, word: 'Tide', work: 'Rom'},
+instances: 1, word: 'Ties', work: 'Rom'},
+instances: 1, word: 'Tigers', work: 'Rom'},
+instances: 1, word: 'Tilts', work: 'Rom'},
+instances: 1, word: 'Timeless', work: 'Rom'},
+instances: 1, word: 'Tips', work: 'Rom'},
+instances: 1, word: 'Tiptoe', work: 'Rom'},
+instances: 1, word: 'Titan\'s', work: 'Rom'},
+instances: 1, word: 'Tithe-pig\'s', work: 'Rom'},
+instances: 1, word: 'Title', work: 'Rom'},
+instances: 1, word: 'Toes', work: 'Rom'},
+instances: 1, word: 'Together', work: 'Rom'},
+instances: 1, word: 'Tombs', work: 'Rom'},
+instances: 1, word: 'Tongues', work: 'Rom'},
+instances: 1, word: 'Tongue\'s', work: 'Rom'},
+instances: 1, word: 'Tool', work: 'Rom'},
+instances: 1, word: 'Topgallant', work: 'Rom'},
+instances: 1, word: 'Tops', work: 'Rom'},
+instances: 1, word: 'Torchbearer', work: 'Rom'},
+instances: 1, word: 'Torment', work: 'Rom'},
+instances: 1, word: 'Tormented', work: 'Rom'},
+instances: 1, word: 'Torments', work: 'Rom'},
+instances: 1, word: 'Torn', work: 'Rom'},
+instances: 1, word: 'Tortoise', work: 'Rom'},
+instances: 1, word: 'Touching', work: 'Rom'},
+instances: 1, word: 'Tower', work: 'Rom'},
+instances: 1, word: 'Toy', work: 'Rom'},
+instances: 1, word: 'Traces', work: 'Rom'},
+instances: 1, word: 'Traffic', work: 'Rom'},
+instances: 1, word: 'Traitor', work: 'Rom'},
+instances: 1, word: 'Transgression', work: 'Rom'},
+instances: 1, word: 'Transparent', work: 'Rom'},
+instances: 1, word: 'Treacherous', work: 'Rom'},
+instances: 1, word: 'Tread', work: 'Rom'},
+instances: 1, word: 'Treads', work: 'Rom'},
+instances: 1, word: 'Treason', work: 'Rom'},
+instances: 1, word: 'Treasure', work: 'Rom'},
+instances: 1, word: 'Trembles', work: 'Rom'},
+instances: 1, word: 'Trespass', work: 'Rom'},
+instances: 1, word: 'Tributary', work: 'Rom'},
+instances: 1, word: 'Trick', work: 'Rom'},
+instances: 1, word: 'Tried', work: 'Rom'},
+instances: 1, word: 'Trifling', work: 'Rom'},
+instances: 1, word: 'Triumphant', work: 'Rom'},
+instances: 1, word: 'Trooping', work: 'Rom'},
+instances: 1, word: 'Troubled', work: 'Rom'},
+instances: 1, word: 'Truce', work: 'Rom'},
+instances: 1, word: 'Truckle', work: 'Rom'},
+instances: 1, word: 'True-love', work: 'Rom'},
+instances: 1, word: 'Trumpet', work: 'Rom'},
+instances: 1, word: 'Trunk', work: 'Rom'},
+instances: 1, word: 'Trusty', work: 'Rom'},
+instances: 1, word: 'Tune', work: 'Rom'},
+instances: 1, word: 'Tuners', work: 'Rom'},
+instances: 1, word: 'Turned', work: 'Rom'},
+instances: 1, word: 'Tutor', work: 'Rom'},
+instances: 1, word: 'Tutored', work: 'Rom'},
+instances: 1, word: 'Twinkle', work: 'Rom'},
+instances: 1, word: 'Twisted', work: 'Rom'},
+instances: 1, word: 'Tybalts', work: 'Rom'},
+instances: 1, word: 'Tying', work: 'Rom'},
+instances: 1, word: 'Tyrannous', work: 'Rom'},
+instances: 1, word: 'T\'', work: 'Rom'},
+instances: 1, word: 'Umpire', work: 'Rom'},
+instances: 1, word: 'Unadvised', work: 'Rom'},
+instances: 1, word: 'Unattainted', work: 'Rom'},
+instances: 1, word: 'Unbound', work: 'Rom'},
+instances: 1, word: 'Unbruisèd', work: 'Rom'},
+instances: 1, word: 'Uncharmed', work: 'Rom'},
+instances: 1, word: 'Unclean', work: 'Rom'},
+instances: 1, word: 'Uncomfortable', work: 'Rom'},
+instances: 1, word: 'Uncovered', work: 'Rom'},
+instances: 1, word: 'Undertake', work: 'Rom'},
+instances: 1, word: 'Uneven', work: 'Rom'},
+instances: 1, word: 'Unfirm', work: 'Rom'},
+instances: 1, word: 'Unfold', work: 'Rom'},
+instances: 1, word: 'Unfurnished', work: 'Rom'},
+instances: 1, word: 'Unhallowed', work: 'Rom'},
+instances: 1, word: 'Universal', work: 'Rom'},
+instances: 1, word: 'Unkind', work: 'Rom'},
+instances: 1, word: 'Unknown', work: 'Rom'},
+instances: 1, word: 'Unlooked-for', work: 'Rom'},
+instances: 1, word: 'Unluckily', work: 'Rom'},
+instances: 1, word: 'Unlucky', work: 'Rom'},
+instances: 1, word: 'Unmade', work: 'Rom'},
+instances: 1, word: 'Unmanned', work: 'Rom'},
+instances: 1, word: 'Unnatural', work: 'Rom'},
+instances: 1, word: 'Unplagued', work: 'Rom'},
+instances: 1, word: 'Unpleasing', work: 'Rom'},
+instances: 1, word: 'Unreasonable', work: 'Rom'},
+instances: 1, word: 'Unrest', work: 'Rom'},
+instances: 1, word: 'Unruly', work: 'Rom'},
+instances: 1, word: 'Unsatisfied', work: 'Rom'},
+instances: 1, word: 'Unsavory', work: 'Rom'},
+instances: 1, word: 'Unseemly', work: 'Rom'},
+instances: 1, word: 'Unseen', work: 'Rom'},
+instances: 1, word: 'Unstained', work: 'Rom'},
+instances: 1, word: 'Unstuffed', work: 'Rom'},
+instances: 1, word: 'Unsubstantial', work: 'Rom'},
+instances: 1, word: 'Untalked', work: 'Rom'},
+instances: 1, word: 'Untangled', work: 'Rom'},
+instances: 1, word: 'Untaught', work: 'Rom'},
+instances: 1, word: 'Unthankfulness', work: 'Rom'},
+instances: 1, word: 'Unthrifty', work: 'Rom'},
+instances: 1, word: 'Unwashed', work: 'Rom'},
+instances: 1, word: 'Unwieldy', work: 'Rom'},
+instances: 1, word: 'Unworthiest', work: 'Rom'},
+instances: 1, word: 'Upfill', work: 'Rom'},
+instances: 1, word: 'Uproused', work: 'Rom'},
+instances: 1, word: 'Urging', work: 'Rom'},
+instances: 1, word: 'Usest', work: 'Rom'},
+instances: 1, word: 'Usurer', work: 'Rom'},
+instances: 1, word: 'Utter', work: 'Rom'},
+instances: 1, word: 'Uttering', work: 'Rom'},
+instances: 1, word: 'Utters', work: 'Rom'},
+instances: 1, word: 'Utterèd', work: 'Rom'},
+instances: 1, word: 'Vainly', work: 'Rom'},
+instances: 1, word: 'Valentine', work: 'Rom'},
+instances: 1, word: 'Valentio', work: 'Rom'},
+instances: 1, word: 'Validity', work: 'Rom'},
+instances: 1, word: 'Valor\'s', work: 'Rom'},
+instances: 1, word: 'Vanished', work: 'Rom'},
+instances: 1, word: 'Variable', work: 'Rom'},
+instances: 1, word: 'Vast', work: 'Rom'},
+instances: 1, word: 'Vaulty', work: 'Rom'},
+instances: 1, word: 'Venge', work: 'Rom'},
+instances: 1, word: 'Versal', work: 'Rom'},
+instances: 1, word: 'Vessels', work: 'Rom'},
+instances: 1, word: 'Victory', work: 'Rom'},
+instances: 1, word: 'Villainous', work: 'Rom'},
+instances: 1, word: 'Violence', work: 'Rom'},
+instances: 1, word: 'Violently', work: 'Rom'},
+instances: 1, word: 'Virtue', work: 'Rom'},
+instances: 1, word: 'Virtues', work: 'Rom'},
+instances: 1, word: 'Visage', work: 'Rom'},
+instances: 1, word: 'Visiting', work: 'Rom'},
+instances: 1, word: 'Vitruvio', work: 'Rom'},
+instances: 1, word: 'Voices', work: 'Rom'},
+instances: 1, word: 'Vowed', work: 'Rom'},
+instances: 1, word: 'Vowel', work: 'Rom'},
+instances: 1, word: 'Vows', work: 'Rom'},
+instances: 1, word: 'Waddled', work: 'Rom'},
+instances: 1, word: 'Wagon', work: 'Rom'},
+instances: 1, word: 'Wail', work: 'Rom'},
+instances: 1, word: 'Wailing', work: 'Rom'},
+instances: 1, word: 'Wait', work: 'Rom'},
+instances: 1, word: 'Waken', work: 'Rom'},
+instances: 1, word: 'Wakened', work: 'Rom'},
+instances: 1, word: 'Walking', work: 'Rom'},
+instances: 1, word: 'Wanders', work: 'Rom'},
+instances: 1, word: 'Wantons', work: 'Rom'},
+instances: 1, word: 'Wanton\'s', work: 'Rom'},
+instances: 1, word: 'Ward', work: 'Rom'},
+instances: 1, word: 'Ware', work: 'Rom'},
+instances: 1, word: 'Warmth', work: 'Rom'},
+instances: 1, word: 'Warning', work: 'Rom'},
+instances: 1, word: 'Warns', work: 'Rom'},
+instances: 1, word: 'Wary', work: 'Rom'},
+instances: 1, word: 'Washing', work: 'Rom'},
+instances: 1, word: 'Watched', work: 'Rom'},
+instances: 1, word: 'Wat\'ry', work: 'Rom'},
+instances: 1, word: 'Waverer', work: 'Rom'},
+instances: 1, word: 'Waxes', work: 'Rom'},
+instances: 1, word: 'Wayward', work: 'Rom'},
+instances: 1, word: 'Weaker', work: 'Rom'},
+instances: 1, word: 'Weakest', work: 'Rom'},
+instances: 1, word: 'Weal', work: 'Rom'},
+instances: 1, word: 'Weaned', work: 'Rom'},
+instances: 1, word: 'Web', work: 'Rom'},
+instances: 1, word: 'Weep\'st', work: 'Rom'},
+instances: 1, word: 'Weighed', work: 'Rom'},
+instances: 1, word: 'Well-appareled', work: 'Rom'},
+instances: 1, word: 'Well-governed', work: 'Rom'},
+instances: 1, word: 'Well-seeming', work: 'Rom'},
+instances: 1, word: 'Wench\'s', work: 'Rom'},
+instances: 1, word: 'Went', work: 'Rom'},
+instances: 1, word: 'Went\'st', work: 'Rom'},
+instances: 1, word: 'West', work: 'Rom'},
+instances: 1, word: 'Westward', work: 'Rom'},
+instances: 1, word: 'Whate\'er', work: 'Rom'},
+instances: 1, word: 'Wheels', work: 'Rom'},
+instances: 1, word: 'Wherein', work: 'Rom'},
+instances: 1, word: 'Whereon', work: 'Rom'},
+instances: 1, word: 'Whereto', work: 'Rom'},
+instances: 1, word: 'Whiles', work: 'Rom'},
+instances: 1, word: 'Whining', work: 'Rom'},
+instances: 1, word: 'Whipped', work: 'Rom'},
+instances: 1, word: 'Whispering', work: 'Rom'},
+instances: 1, word: 'Whistle', work: 'Rom'},
+instances: 1, word: 'Whit', work: 'Rom'},
+instances: 1, word: 'White-upturnèd', work: 'Rom'},
+instances: 1, word: 'Whiter', work: 'Rom'},
+instances: 1, word: 'Whoever', work: 'Rom'},
+instances: 1, word: 'Whoe\'er', work: 'Rom'},
+instances: 1, word: 'Whore', work: 'Rom'},
+instances: 1, word: 'Whoreson', work: 'Rom'},
+instances: 1, word: 'Wicked', work: 'Rom'},
+instances: 1, word: 'Widow', work: 'Rom'},
+instances: 1, word: 'Wield', work: 'Rom'},
+instances: 1, word: 'Wild-goose', work: 'Rom'},
+instances: 1, word: 'Willful', work: 'Rom'},
+instances: 1, word: 'Willingly', work: 'Rom'},
+instances: 1, word: 'Wills', work: 'Rom'},
+instances: 1, word: 'Wind-swift', work: 'Rom'},
+instances: 1, word: 'Wine', work: 'Rom'},
+instances: 1, word: 'Wingèd', work: 'Rom'},
+instances: 1, word: 'Wink', work: 'Rom'},
+instances: 1, word: 'Winking', work: 'Rom'},
+instances: 1, word: 'Winning', work: 'Rom'},
+instances: 1, word: 'Winter', work: 'Rom'},
+instances: 1, word: 'Wither', work: 'Rom'},
+instances: 1, word: 'Without-book', work: 'Rom'},
+instances: 1, word: 'Wolvish-ravening', work: 'Rom'},
+instances: 1, word: 'Won', work: 'Rom'},
+instances: 1, word: 'Wondrous', work: 'Rom'},
+instances: 1, word: 'Wond\'ring', work: 'Rom'},
+instances: 1, word: 'Wood', work: 'Rom'},
+instances: 1, word: 'Wooed', work: 'Rom'},
+instances: 1, word: 'Woos', work: 'Rom'},
+instances: 1, word: 'Word\'s', work: 'Rom'},
+instances: 1, word: 'World-wearied', work: 'Rom'},
+instances: 1, word: 'Worms', work: 'Rom'},
+instances: 1, word: 'Worms\'', work: 'Rom'},
+instances: 1, word: 'Worshiped', work: 'Rom'},
+instances: 1, word: 'Worst', work: 'Rom'},
+instances: 1, word: 'Worth', work: 'Rom'},
+instances: 1, word: 'Worthy', work: 'Rom'},
+instances: 1, word: 'Wot', work: 'Rom'},
+instances: 1, word: 'Wounds', work: 'Rom'},
+instances: 1, word: 'Wreak', work: 'Rom'},
+instances: 1, word: 'Wrenching', work: 'Rom'},
+instances: 1, word: 'Wretchedness', work: 'Rom'},
+instances: 1, word: 'Wring', work: 'Rom'},
+instances: 1, word: 'Writes', work: 'Rom'},
+instances: 1, word: 'Writing', work: 'Rom'},
+instances: 1, word: 'Wrongèd', work: 'Rom'},
+instances: 1, word: 'Wrong\'st', work: 'Rom'},
+instances: 1, word: 'Yard', work: 'Rom'},
+instances: 1, word: 'Yellow', work: 'Rom'},
+instances: 1, word: 'Yesternight', work: 'Rom'},
+instances: 1, word: 'Yielding', work: 'Rom'},
+instances: 1, word: 'Yoke', work: 'Rom'},
+instances: 1, word: 'Yon', work: 'Rom'},
+instances: 1, word: 'Youngest', work: 'Rom'},
+instances: 1, word: '\'gainst', work: 'Rom'},
+instances: 1, word: '\'i\'', work: 'Rom'},
+instances: 1, word: '\'pothecary', work: 'Rom'},
+instances: 1, word: '\'r', work: 'Rom'},
+instances: 1, word: '\'s', work: 'Rom'},
+instances: 1, word: '\'twere', work: 'Rom'},
+instances: 1, word: '\'twill', work: 'Rom'},
+instances: 1, word: '\'twould', work: 'Rom'},
+instances: 1, word: '\'ware', work: 'Rom'},

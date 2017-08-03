@@ -1,3857 +1,3855 @@
-Concordance of Two Noble Kinsmen:
-
-760: And
-623: The
-599: I
-490: A
-484: To
-422: You
-419: Of
-310: That
-254: In
-222: Me
-212: My
-210: Her
-206: Be
-201: This
-198: Not
-196: For
-192: Is
-185: Your
-182: With
-180: Have
-169: His
-168: But
-168: It
-155: He
-147: As
-144: Him
-140: We
-138: Are
-133: Our
-128: All
-127: What
-125: Shall
-125: So
-116: Will
-115: If
-107: She
-106: They
-105: Do
-103: No
-97: Now
-96: Then
-95: By
-90: Th’
-88: Their
-84: More
-84: One
-84: Thou
-84: Would
-83: Love
-80: Must
-79: I’ll
-78: Am
-78: Sir
-78: Thy
-75: Or
-75: Us
-73: Yet
-70: Good
-70: On
-69: Was
-68: Than
-67: May
-67: O
-67: Palamon
-64: There
-64: Which
-63: Let
-63: ’t
-61: When
-60: At
-59: Like
-58: From
-58: Here
-57: Never
-55: Arcite
-55: Such
-55: ’em
-54: Make
-53: Cousin
-53: Well
-53: Were
-52: How
-51: Come
-49: Know
-49: Too
-49: ’tis
-48: Man
-46: Had
-46: Take
-46: Thee
-46: Upon
-45: Has
-44: Say
-43: See
-43: Think
-42: Fair
-42: Should
-42: Where
-41: Out
-41: These
-40: Go
-40: Two
-39: An
-39: Some
-38: Did
-38: Noble
-38: Yes
-36: Honor
-36: Why
-33: Again
-33: Give
-33: Made
-33: Them
-33: Who
-32: Any
-32: O’
-31: Can
-31: Mine
-31: Pray
-30: Both
-30: Life
-30: Men
-30: Nor
-29: Gods
-29: Most
-28: Much
-27: Could
-27: Ever
-27: First
-27: Great
-27: Those
-27: Very
-26: Before
-26: Duke
-26: Sweet
-25: Hand
-25: Way
-24: Cannot
-24: Whose
-23: Art
-23: Done
-23: He’s
-23: Might
-23: Nothing
-23: Own
-23: Sister
-23: Tell
-23: That’s
-23: Up
-22: Else
-22: Eyes
-22: Hold
-22: I’
-22: True
-22: World
-22: Young
-21: Another
-21: Bring
-21: Lady
-21: Lord
-21: Still
-20: Better
-20: Find
-20: Friend
-20: Leave
-20: Off
-20: Time
-19: Day
-19: End
-19: Pity
-19: Place
-19: Poor
-19: Though
-19: Thus
-18: Best
-18: Die
-18: Farewell
-18: Hour
-18: Long
-18: Look
-18: Lose
-18: Stand
-18: Till
-17: Alas
-17: Down
-17: Fall
-17: Hath
-17: Many
-17: Other
-17: Put
-17: Saw
-17: Set
-17: Sure
-17: Sword
-16: Blood
-16: Dare
-16: Eye
-16: Hear
-16: Heart
-16: Into
-16: Keep
-16: Little
-16: None
-16: Once
-16: Soul
-16: Wish
-16: Woman
-15: About
-15: Been
-15: Far
-15: Fear
-15: Fortune
-15: Heard
-15: Said
-15: We’ll
-14: Being
-14: Business
-14: Comes
-14: Dear
-14: Faith
-14: Father
-14: Heaven
-14: Maids
-14: Mercy
-14: Ne’er
-14: Night
-14: Speak
-14: Theseus
-13: Away
-13: Beauty
-13: Boys
-13: Brave
-13: Cry
-13: Death
-13: Does
-13: Face
-13: Fit
-13: Hast
-13: Let’s
-13: Maid
-13: Near
-13: Power
-13: Thebes
-13: Things
-12: Against
-12: Between
-12: Content
-12: Each
-12: Even
-12: Get
-12: Hope
-12: Ladies
-12: Lead
-12: Lives
-12: Loved
-12: Mad
-12: Name
-12: Old
-12: Only
-12: Play
-12: Prison
-12: Rather
-12: Right
-12: Show
-12: Sing
-12: Stay
-12: Through
-12: Together
-12: Told
-12: Wench
-12: Without
-11: After
-11: Arms
-11: Body
-11: Cause
-11: Head
-11: Justice
-11: Kill
-11: Kind
-11: Nature
-11: Next
-11: Prince
-11: Seen
-11: She’s
-11: Since
-11: Sleep
-11: Soldier
-11: There’s
-11: Thine
-11: Use
-10: Bear
-10: Child
-10: Cold
-10: Dance
-10: Ere
-10: Fail
-10: Fire
-10: Flowers
-10: Gave
-10: Gone
-10: Himself
-10: Honest
-10: Last
-10: Liberty
-10: Mind
-10: Part
-10: Perceive
-10: Please
-10: Remember
-10: Strong
-10: Sun
-10: Thing
-10: Tomorrow
-10: Twenty
-10: Under
-10: War
-10: Where’s
-10: Women
-10: ’s
-9: Ask
-9: Break
-9: Bright
-9: Call
-9: Came
-9: Chance
-9: Comfort
-9: Coz
-9: Dead
-9: Ear
-9: Eat
-9: Emily
-9: Enough
-9: Fight
-9: Fine
-9: Friends
-9: Gentle
-9: Hence
-9: He’ll
-9: Knights
-9: Live
-9: Lost
-9: Master
-9: Methinks
-9: Mistress
-9: Nay
-9: Neither
-9: Pardon
-9: Presently
-9: Run
-9: Service
-9: Sight
-9: Thank
-9: Three
-9: Title
-9: Wanton
-9: Worth
-9: Worthy
-9: You’ll
-9: ’twas
-8: Almost
-8: Alone
-8: Arm
-8: Believe
-8: Bold
-8: Close
-8: Daughter
-8: Desire
-8: Emilia
-8: E’en
-8: Fool
-8: Force
-8: Forth
-8: Gentleman
-8: Hands
-8: Holy
-8: Law
-8: Lie
-8: Looked
-8: Madam
-8: Makes
-8: Marry
-8: Morning
-8: Mortal
-8: Proud
-8: Question
-8: Sake
-8: Seek
-8: Spirits
-8: Traitor
-8: Unto
-8: Weep
-8: White
-8: Whom
-8: Yea
-8: Yours
-8: You’re
-8: ’twere
-7: Anger
-7: Become
-7: Brother
-7: Called
-7: Charge
-7: Earth
-7: Enjoy
-7: Every
-7: Feel
-7: Fell
-7: Field
-7: Follow
-7: Free
-7: Further
-7: Glad
-7: Goddess
-7: Goodness
-7: Grace
-7: Grief
-7: Heavenly
-7: Horse
-7: Kinsman
-7: Kiss
-7: Knew
-7: Laid
-7: Light
-7: Lords
-7: Loves
-7: Mark
-7: Means
-7: Needs
-7: New
-7: News
-7: Note
-7: Offer
-7: Ones
-7: Perish
-7: Piece
-7: Pleased
-7: Princes
-7: Reason
-7: Save
-7: Sense
-7: Shake
-7: Shows
-7: Sound
-7: State
-7: Strange
-7: Strength
-7: Talk
-7: Truly
-7: Want
-7: Wife
-7: Wind
-7: Within
-7: Wood
-7: ’fore
-6: Act
-6: Age
-6: Altar
-6: Anything
-6: Appear
-6: Beyond
-6: Bones
-6: Boy
-6: Brought
-6: Canst
-6: Country
-6: Cure
-6: Cut
-6: Either
-6: Enemy
-6: Equal
-6: Ev’ry
-6: Fame
-6: Forward
-6: Full
-6: Garden
-6: God
-6: Handsome
-6: Hang
-6: Hard
-6: Honesty
-6: Ill
-6: King
-6: Kings
-6: Knees
-6: Lay
-6: Least
-6: Left
-6: Lies
-6: Looks
-6: Lovers
-6: Loving
-6: Mars
-6: Matter
-6: Myself
-6: Nonny
-6: Oath
-6: Pirithous
-6: Present
-6: Pretty
-6: Prisoners
-6: Quickly
-6: Sacred
-6: Shalt
-6: Sigh
-6: Spoke
-6: Sung
-6: Thousand
-6: Times
-6: Took
-6: Valor
-6: Victory
-6: Went
-6: What’s
-6: Wise
-6: Won
-6: Youth
-6: ’gainst
-5: Above
-5: Air
-5: Assure
-5: Athens
-5: Ay
-5: Behind
-5: Blessed
-5: Blessèd
-5: Breath
-5: Buy
-5: Care
-5: Carry
-5: Certain
-5: Children
-5: Choice
-5: City
-5: Command
-5: Commend
-5: Company
-5: Compassion
-5: Court
-5: Creon
-5: Cries
-5: Crown
-5: Curse
-5: Draw
-5: Due
-5: Excellent
-5: False
-5: Fancy
-5: Favor
-5: Fly
-5: Forever
-5: Fortunes
-5: Found
-5: Given
-5: Gives
-5: Going
-5: Goodly
-5: Green
-5: Ground
-5: Grow
-5: Heavens
-5: Ho
-5: Home
-5: Horses
-5: Hundred
-5: Husband
-5: Itself
-5: Joy
-5: Just
-5: Keeper
-5: Kept
-5: Language
-5: Laugh
-5: Lend
-5: Lo
-5: Lover
-5: Manly
-5: Mere
-5: Met
-5: Mirth
-5: Misery
-5: Naught
-5: O’er
-5: Patience
-5: Peace
-5: Petition
-5: Prayers
-5: Prithee
-5: Queen
-5: Rare
-5: Sad
-5: Says
-5: Servant
-5: Shadow
-5: Skill
-5: Small
-5: Something
-5: Sorrow
-5: Sorry
-5: Souls
-5: Stands
-5: Success
-5: Swords
-5: Ten
-5: Tender
-5: Themselves
-5: Therefore
-5: Touch
-5: Turn
-5: Venture
-5: Warrant
-5: Water
-5: Wenches
-5: Wishes
-5: Word
-5: Work
-5: Wrong
-4: Able
-4: Abroad
-4: Affection
-4: Affections
-4: Appears
-4: Asked
-4: Banished
-4: Base
-4: Battle
-4: Beast
-4: Behold
-4: Black
-4: Blow
-4: Blows
-4: Bodies
-4: Bound
-4: Bow
-4: Bravely
-4: Bury
-4: Chaste
-4: Choose
-4: Clap
-4: Clear
-4: Conscience
-4: Course
-4: Cruel
-4: Dainty
-4: Days
-4: Deal
-4: Deed
-4: Deny
-4: Died
-4: Doctor
-4: Dost
-4: Dwell
-4: Entreat
-4: Etc.
-4: E’er
-4: Falls
-4: Fate
-4: Fellow
-4: Figure
-4: Flower
-4: Food
-4: Foot
-4: Foul
-4: Four
-4: Friendship
-4: Garland
-4: Gently
-4: Glass
-4: Goes
-4: Got
-4: Grant
-4: Grave
-4: Griefs
-4: Ha
-4: Hark
-4: Haste
-4: Having
-4: Health
-4: Hearts
-4: Heed
-4: Help
-4: Here’s
-4: Hippolyta
-4: Hours
-4: House
-4: Hurt
-4: Indeed
-4: Innocent
-4: Jove
-4: Kingdom
-4: Kinsmen
-4: Kissed
-4: Knight
-4: Labor
-4: Labored
-4: Learnèd
-4: Legs
-4: Lips
-4: Living
-4: Longing
-4: Loss
-4: Madness
-4: Manhood
-4: Meet
-4: Merry
-4: Methought
-4: Modest
-4: Moon
-4: Morris
-4: Mothers
-4: Number
-4: Office
-4: Passion
-4: Pay
-4: Pleasure
-4: Pluck
-4: Promise
-4: Pure
-4: Purpose
-4: Quality
-4: Queens
-4: Rarely
-4: Reach
-4: Read
-4: Return
-4: Royal
-4: Ruin
-4: Same
-4: Shackles
-4: Shame
-4: Sharp
-4: Short
-4: Silver
-4: Slain
-4: Songs
-4: Soon
-4: Spare
-4: Speech
-4: Spirit
-4: Sport
-4: Sports
-4: Stars
-4: Straight
-4: Strike
-4: Suffer
-4: Sweetly
-4: Sweetness
-4: Swore
-4: Tail
-4: Taken
-4: Takes
-4: Thanks
-4: Thought
-4: Thyself
-4: Token
-4: Tongue
-4: Top
-4: Towards
-4: Tree
-4: Valiant
-4: Villain
-4: Virgin
-4: Virtues
-4: Wanting
-4: Ways
-4: Whereto
-4: Whether
-4: While
-4: Whilst
-4: Wild
-4: Wilt
-4: Win
-4: Window
-4: Woes
-4: Worse
-4: Wreath
-4: Yourself
-4: ’twill
-3: Actions
-3: Advance
-3: Advice
-3: All’s
-3: Ancient
-3: Angry
-3: Anon
-3: Another’s
-3: Appetite
-3: Arcite’s
-3: Armed
-3: Armor
-3: Army
-3: Ashes
-3: Banquet
-3: Beats
-3: Beauties
-3: Because
-3: Bed
-3: Beg
-3: Begged
-3: Bells
-3: Bent
-3: Bleed
-3: Bless
-3: Blush
-3: Bread
-3: Bred
-3: Brow
-3: Brown
-3: Calls
-3: Careless
-3: Cast
-3: Catch
-3: Ceremony
-3: Clouds
-3: Color
-3: Comforts
-3: Complexion
-3: Conditions
-3: Constant
-3: Convent
-3: Cousin’s
-3: Cross
-3: Curses
-3: Dangerous
-3: Dares
-3: Dar’st
-3: Death’s
-3: Deep
-3: Dies
-3: Discourse
-3: Domine
-3: Doubt
-3: Doubtless
-3: Drink
-3: Drown
-3: Drum
-3: Durst
-3: Dying
-3: Ears
-3: Edify
-3: Embrace
-3: Ended
-3: Enter
-3: Envy
-3: Extremely
-3: Fain
-3: Fair-eyed
-3: Fairer
-3: Fears
-3: Feat
-3: Felt
-3: Few
-3: Fie
-3: Fiery
-3: Fights
-3: File
-3: Files
-3: Finely
-3: Fixed
-3: Followed
-3: Follows
-3: Fools
-3: Forgive
-3: Form
-3: Fought
-3: Freedom
-3: Frowns
-3: Funeral
-3: Fury
-3: Gain
-3: Games
-3: Gather
-3: Gentlemen
-3: Godlike
-3: Grand
-3: Greater
-3: Guard
-3: Hail
-3: Hair
-3: Half
-3: Hallowed
-3: Hanged
-3: Happy
-3: Hardy
-3: Hawk
-3: Hazard
-3: Heads
-3: Heavy
-3: Hey
-3: High
-3: Higher
-3: Hither
-3: Honorable
-3: Honored
-3: Hopes
-3: Hot
-3: Hurts
-3: Ice
-3: Instant
-3: Instruments
-3: Iron
-3: Jot
-3: Judgment
-3: Knee
-3: Kneel
-3: Known
-3: Knows
-3: Lest
-3: Lighter
-3: Likely
-3: Longer
-3: Love’s
-3: Lusty
-3: Manners
-3: Marriage
-3: Mars’s
-3: Masters
-3: Mean
-3: Meant
-3: Meat
-3: Melancholy
-3: Memory
-3: Mighty
-3: Mile
-3: Minister
-3: Morrow
-3: Motion
-3: Nobleness
-3: Offense
-3: Often
-3: Open
-3: Ours
-3: Owgh
-3: Pair
-3: Path
-3: Patiently
-3: Person
-3: Phoebus
-3: Pieces
-3: Powers
-3: Prim’st
-3: Prisoner
-3: Purchase
-3: Question’s
-3: Quit
-3: Respect
-3: Rest
-3: Restored
-3: Rise
-3: Roses
-3: Rough
-3: Rude
-3: Sail
-3: Schoolmaster
-3: Scorn
-3: Seal
-3: Seeing
-3: Seemed
-3: Seeming
-3: Sent
-3: Sex
-3: Share
-3: Side
-3: Signs
-3: Sinews
-3: Sins
-3: Sit
-3: Smile
-3: Soft
-3: Sometimes
-3: Son
-3: Speaks
-3: Speed
-3: Spoken
-3: Star
-3: Start
-3: Stream
-3: Stuck
-3: Sweeter
-3: Swim
-3: Tack
-3: Tall
-3: Tears
-3: Teeth
-3: Tells
-3: Temper
-3: Terms
-3: Thick
-3: Tie
-3: Tied
-3: Tinker
-3: Titles
-3: Today
-3: Town
-3: Toy
-3: Trace
-3: Travel
-3: Trial
-3: Trick
-3: Turns
-3: Twain
-3: Undone
-3: Unless
-3: Uses
-3: Vengeance
-3: Venus
-3: Virtue
-3: Virtuous
-3: Visit
-3: Vowed
-3: Wars
-3: Weak
-3: Wedding
-3: Whate’er
-3: Whither
-3: Whole
-3: Willow
-3: Wine
-3: Wondrous
-3: Woo
-3: Woods
-3: Words
-3: World’s
-3: Worthiest
-3: Yon
-3: ’tween
-2: A-hunting
-2: Acquaintance
-2: Adieu
-2: Adventure
-2: Affect
-2: Afoot
-2: Agèd
-2: Aid
-2: Alack
-2: Along
-2: Altars
-2: Among
-2: Amongst
-2: Answer
-2: Answered
-2: Appointment
-2: Approach
-2: Approved
-2: Arcas
-2: Assurance
-2: Assured
-2: Attention
-2: Aught
-2: Awhile
-2: Bachelor
-2: Balms
-2: Banishment
-2: Banishments
-2: Banks
-2: Baser
-2: Bavian
-2: Bears
-2: Beat
-2: Beauteous
-2: Becomes
-2: Beds
-2: Begging
-2: Begin
-2: Beginning
-2: Behavior
-2: Beheld
-2: Bell
-2: Bellona
-2: Below
-2: Bend
-2: Beshrew
-2: Besides
-2: Bestow
-2: Betray
-2: Bid
-2: Bids
-2: Bigger
-2: Bind
-2: Bird
-2: Births
-2: Blast
-2: Blessing
-2: Blest
-2: Blind
-2: Blossom
-2: Blushing
-2: Boar
-2: Boldly
-2: Born
-2: Bosom
-2: Boughs
-2: Brains
-2: Breast
-2: Breathed
-2: Breed
-2: Breeds
-2: Bride
-2: Brine
-2: Brings
-2: Broad
-2: Broke
-2: Buckle
-2: Burn
-2: Captivity
-2: Celebration
-2: Certainly
-2: Chamber
-2: Chastity
-2: Chatt’ring
-2: Cheek
-2: Clown
-2: Colors
-2: Combat
-2: Comely
-2: Coming
-2: Common
-2: Companions
-2: Concerns
-2: Confessed
-2: Confirm
-2: Confound
-2: Consent
-2: Consider
-2: Contending
-2: Contention
-2: Continually
-2: Continue
-2: Cool
-2: Corruption
-2: Cost
-2: Count
-2: Courage
-2: Cousins
-2: Coward
-2: Coy
-2: Creature
-2: Credit
-2: Crimes
-2: Cruelty
-2: Cunning
-2: Cunningly
-2: Cursèd
-2: Curtsy
-2: Danced
-2: Dangers
-2: Darkness
-2: Deadly
-2: Dearest
-2: Dearly
-2: Decays
-2: Decider
-2: Deeper
-2: Defier
-2: Delay
-2: Deliver
-2: Depart
-2: Departed
-2: Derry
-2: Despise
-2: Devil
-2: Devils
-2: Difference
-2: Diff’ring
-2: Dii
-2: Disguise
-2: Dishonor
-2: Dispatch
-2: Distempered
-2: Distinguish
-2: Dogs
-2: Doing
-2: Doughty
-2: Down-a
-2: Draught
-2: Dreadful
-2: Dream
-2: Driven
-2: Drops
-2: Dukedom
-2: Dull
-2: Dust
-2: East
-2: Echoes
-2: Edict
-2: Eleven
-2: Embraces
-2: Endless
-2: Ends
-2: Endured
-2: Enemies
-2: Enforce
-2: Enjoying
-2: Envious
-2: Equally
-2: Escape
-2: Evil
-2: Example
-2: Exceed
-2: Execution
-2: Expectation
-2: Expire
-2: Extinct
-2: Faculties
-2: Faint
-2: Fairly
-2: Faithfully
-2: Fall’n
-2: Falsehood
-2: Famed
-2: Fathers
-2: Fearful
-2: Feast
-2: Feed
-2: Feel’st
-2: Feet
-2: Fever
-2: Figures
-2: Finds
-2: Fires
-2: Fish
-2: Fitting
-2: Flames
-2: Flavina
-2: Flew
-2: Fling
-2: Foe
-2: Foes
-2: Folly
-2: Forget
-2: Fruit
-2: Furnished
-2: Gallants
-2: Game
-2: Garlands
-2: Garments
-2: Gaze
-2: General
-2: Generous
-2: Glory
-2: God’s
-2: Gold
-2: Gout
-2: Gown
-2: Gravity
-2: Grew
-2: Groan
-2: Grown
-2: Grows
-2: Guess
-2: Guiltless
-2: Guilty
-2: Gyves
-2: Hailed
-2: Hangs
-2: Haply
-2: Happiness
-2: Harm
-2: Hate
-2: Head’s
-2: Hearing
-2: Heaven’s
-2: Heir
-2: Hercules
-2: Hereafter
-2: Hers
-2: Hidden
-2: Hip
-2: Hiss
-2: Honors
-2: Horns
-2: Howls
-2: Human
-2: Humble
-2: Humor
-2: Hung
-2: Ignorance
-2: Inch
-2: Infects
-2: Infinite
-2: Infuse
-2: Instruct
-2: Invent
-2: Its
-2: I’d
-2: Jewel
-2: Judge
-2: Juno’s
-2: Justly
-2: Kindly
-2: Kindred
-2: Lads
-2: Lake
-2: Large
-2: Lass
-2: Learning
-2: Leaves
-2: Led
-2: Length
-2: Less
-2: Lightning
-2: Lined
-2: Lions
-2: Locks
-2: Lodging
-2: Loses
-2: Madwoman
-2: Maidenhead
-2: Main
-2: Maintain
-2: Making
-2: Mak’st
-2: Mantle
-2: Man’s
-2: March
-2: Mare
-2: Millions
-2: Miscarry
-2: Miserable
-2: Modesty
-2: Money
-2: Month
-2: Mother
-2: Mounted
-2: Move
-2: Moved
-2: Music
-2: Names
-2: Narcissus
-2: Nec
-2: Need
-2: Needful
-2: North
-2: Nullity
-2: Nymph
-2: Object
-2: Observe
-2: Odors
-2: Offices
-2: Omit
-2: Others
-2: Ought
-2: Ourselves
-2: Over
-2: Owl
-2: Pace
-2: Pains
-2: Palamon’s
-2: Parts
-2: Past
-2: People
-2: People’s
-2: Perfect
-2: Perfume
-2: Perfumes
-2: Perished
-2: Persons
-2: Persuade
-2: Pillar
-2: Pinch
-2: Pleasures
-2: Pledge
-2: Plight
-2: Plum
-2: Poet
-2: Point
-2: Pointed
-2: Poise
-2: Poison
-2: Port
-2: Possible
-2: Post
-2: Praise
-2: Precious
-2: Presents
-2: Preserve
-2: Prey
-2: Price
-2: Priest
-2: Prize
-2: Proceeding
-2: Proclaim
-2: Proclaimed
-2: Prove
-2: Provide
-2: Punishment
-2: Pursue
-2: Pyramid
-2: Quarrel
-2: Questions
-2: Rage
-2: Rain
-2: Raise
-2: Rashly
-2: Ready
-2: Receive
-2: Recompense
-2: Red
-2: Reeds
-2: Refuses
-2: Regard
-2: Remedy
-2: Repeat
-2: Report
-2: Require
-2: Resolved
-2: Revealed
-2: Ride
-2: Rider
-2: Ripe
-2: Robin
-2: Rose
-2: Rotten
-2: Round
-2: Rout
-2: Ruins
-2: Running
-2: Rushes
-2: Sadness
-2: Sanctuary
-2: Saved
-2: Scandal
-2: Scattered
-2: Scenes
-2: Schoolboys
-2: Scorch
-2: Scornful
-2: Scurvy
-2: Sea
-2: Seas
-2: Season
-2: Seasoned
-2: Seat
-2: Second
-2: Seem
-2: Seems
-2: Self
-2: Selfsame
-2: Serve
-2: Served
-2: Settle
-2: Several
-2: Shine
-2: Shining
-2: Ship
-2: Shortly
-2: Showed
-2: Sick
-2: Sink
-2: Sirrah
-2: Sits
-2: Smell
-2: Smiles
-2: Smiling
-2: Soldiers
-2: Solemn
-2: Solemnity
-2: Sometime
-2: Somewhat
-2: Sons
-2: Sought
-2: Sounds
-2: Sovereign
-2: Spread
-2: Spur
-2: Square
-2: Stag
-2: Stale
-2: Stays
-2: Steed
-2: Step
-2: Stol’n
-2: Stomach
-2: Stood
-2: Stop
-2: Story
-2: Stout-hearted
-2: Strangers
-2: Strife
-2: Stroke
-2: Struck
-2: Stuff
-2: Styled
-2: Subdued
-2: Suit
-2: Suitor
-2: Surely
-2: Surfeit
-2: Sweetheart
-2: Swell
-2: Swift
-2: Swine
-2: Tailor
-2: Tale
-2: Teach
-2: Temples
-2: Tenor
-2: Thankful
-2: Therein
-2: Threaten
-2: Threats
-2: Thrive
-2: Throats
-2: Throw
-2: Thunder
-2: Tickle
-2: Toil
-2: Tough
-2: Traitors
-2: Transported
-2: Treacherous
-2: Treachery
-2: Treasure
-2: Tresses
-2: Tried
-2: Trifle
-2: Troth
-2: Truer
-2: Truest
-2: Trust
-2: Twins
-2: Tyrant
-2: Understand
-2: Understanding
-2: Unlike
-2: Unworthy
-2: Utter
-2: Vain
-2: Vainly
-2: Ventured
-2: Victors
-2: Victor’s
-2: View
-2: Voice
-2: Vow
-2: Wast
-2: Waters
-2: Wears
-2: Weary
-2: Weight
-2: Well-steeled
-2: Wept
-2: Wheaten
-2: Whence
-2: Whereon
-2: Whistle
-2: Wide
-2: Willing
-2: Wills
-2: Winds
-2: Wings
-2: Wins
-2: Withal
-2: Witless
-2: Wits
-2: Woe
-2: Wolf
-2: Woman’s
-2: Wonder
-2: Wore
-2: Worst
-2: Wrath
-2: Wrestle
-2: Wretched
-2: Year
-2: Yellow
-2: Youngest
-2: Youths
-2: À
-2: ’scape
-2: ’twould
-1: A-begging
-1: A-pieces
-1: Abandoner
-1: Abatement
-1: Ablest
-1: Aboard
-1: Absent
-1: Absolute
-1: Abstaining
-1: Abstinence
-1: Abuse
-1: Acceptance
-1: Accompanied
-1: Account
-1: Accounts
-1: Accursed
-1: Achieved
-1: Acknowledge
-1: Acquainted
-1: Action
-1: Action’s
-1: Active
-1: Addition
-1: Add’st
-1: Admire
-1: Admired
-1: Adopt
-1: Advanced
-1: Advances
-1: Advantage
-1: Advantages
-1: Adversity
-1: Advertised
-1: Advised
-1: Advocate
-1: Aeneas
-1: Affected
-1: Affliction
-1: Affords
-1: Afire
-1: Afore
-1: Afternoon
-1: Afterward
-1: Agents
-1: Ages
-1: Aghast
-1: Aglets
-1: Agony
-1: Agree
-1: Ah
-1: Ail
-1: Akin
-1: Alacrity
-1: Alarm
-1: Alcides
-1: Aliis
-1: Alive
-1: All-feared
-1: All-noble
-1: All-royal
-1: Alliance
-1: Allow
-1: Allowance
-1: Allow’st
-1: Alow
-1: Also
-1: Alters
-1: Although
-1: Altogether
-1: Amazonian
-1: Ambitious
-1: Amen
-1: Amiss
-1: Anatomy
-1: Anew
-1: Angel
-1: Angers
-1: Angle
-1: Angling
-1: Antic
-1: Apes
-1: Apollo
-1: Apollo’s
-1: Appalls
-1: Appeared
-1: Appliance
-1: Appointed
-1: Apprehension
-1: Approachers
-1: Approaches
-1: Apricock
-1: Apter
-1: Arbitrament
-1: Arbitrator
-1: Arbor
-1: Arched
-1: Ardently
-1: Argue
-1: Argument
-1: Arise
-1: Armies
-1: Armipotent
-1: Armors
-1: Armor’s
-1: Arouse
-1: Arraignment
-1: Arras
-1: Arrouse
-1: Artesius
-1: Ashamed
-1: Aspect
-1: Aspire
-1: Assistants
-1: Ate
-1: Athenians
-1: Attend
-1: Attendance
-1: Attending
-1: Attentive
-1: Attributes
-1: Auburn
-1: Audacity
-1: Audience
-1: Aulis
-1: Aunt’s
-1: Auspiciously
-1: Authority
-1: Authors
-1: Axe
-1: Aye
-1: Babe
-1: Babes
-1: Backed
-1: Backward
-1: Bacon
-1: Bad
-1: Baldric
-1: Band
-1: Banish
-1: Bank
-1: Barbary
-1: Barbary-a
-1: Barber
-1: Bare
-1: Bare-armed
-1: Bargain
-1: Bark
-1: Barley-break
-1: Basely
-1: Bastard
-1: Bate
-1: Bay
-1: Bays
-1: Beaks
-1: Beard
-1: Bear’s
-1: Beastly
-1: Beautiful
-1: Becking
-1: Beck’ning
-1: Bedfellows
-1: Beech
-1: Beest-eating
-1: Began
-1: Begetting
-1: Begins
-1: Beguile
-1: Behalfs
-1: Behests
-1: Behoof
-1: Belief
-1: Believed
-1: Beneficial
-1: Benefit
-1: Bequeath
-1: Bequeathing
-1: Bereave
-1: Beside
-1: Best-boding
-1: Best-tempered
-1: Betake
-1: Betime
-1: Betwixt
-1: Bevy
-1: Be’st
-1: Bier
-1: Birch
-1: Birthday
-1: Birthright
-1: Bitter
-1: Black-eyed
-1: Black-haired
-1: Blade
-1: Blasted
-1: Blasts
-1: Blazon
-1: Bleeding
-1: Blend
-1: Blessings
-1: Blissful
-1: Blist’ring
-1: Blood-sized
-1: Bloomed
-1: Blooming
-1: Blossoms
-1: Blot
-1: Blowing
-1: Blown
-1: Blubbered
-1: Blue
-1: Blushed
-1: Blushes
-1: Boast
-1: Boding
-1: Body’s
-1: Boil
-1: Boiling
-1: Boist’rous
-1: Bolder
-1: Boldest
-1: Bond
-1: Bondage
-1: Bonfires
-1: Boni
-1: Bonny
-1: Book
-1: Boot
-1: Bootless
-1: Bore
-1: Borrowed
-1: Bosoms
-1: Bottles
-1: Bottom
-1: Bought
-1: Bouncing
-1: Bound-a
-1: Bounded
-1: Boundless
-1: Bounds
-1: Bounty
-1: Bowels
-1: Bowline
-1: Bows
-1: Brace
-1: Bracelets
-1: Brake
-1: Branded
-1: Braver
-1: Bravery
-1: Brawny
-1: Breaking
-1: Breaks
-1: Break’st
-1: Breasts
-1: Breathe
-1: Breathing
-1: Breathless
-1: Breech
-1: Breeches
-1: Breeder
-1: Bride-habited
-1: Brided
-1: Bridegrooms
-1: Bridegroom’s
-1: Bridehouse
-1: Brief
-1: Briers
-1: Brimmed
-1: Bringst
-1: Broached
-1: Broken
-1: Brook
-1: Broom
-1: Broth
-1: Brother’s
-1: Brows
-1: Bruise
-1: Buckled
-1: Bud
-1: Budge
-1: Bulrush
-1: Burden
-1: Burning
-1: Burns
-1: Burst
-1: Bush
-1: Buttons
-1: Buzz
-1: By-and-by
-1: Cabined
-1: Calkins
-1: Call’st
-1: Camp
-1: Canon
-1: Cap
-1: Capacities
-1: Capaneus
-1: Capital
-1: Captive
-1: Cards
-1: Carrack
-1: Carrier
-1: Carries
-1: Carve
-1: Case
-1: Casque
-1: Casting
-1: Castor
-1: Casts
-1: Catching
-1: Cauldron
-1: Cedar
-1: Celerity
-1: Center
-1: Ceres’
-1: Certain’st
-1: Chaff
-1: Chaffy
-1: Challenge
-1: Chambermaid
-1: Chanced
-1: Chances
-1: Changeling
-1: Chapel
-1: Chaplets
-1: Character
-1: Chared
-1: Charged
-1: Charging-staff
-1: Charitable
-1: Charity
-1: Charm
-1: Charmed
-1: Charmers
-1: Chase
-1: Chastise
-1: Chaucer
-1: Cheap
-1: Cheaply
-1: Cheeks
-1: Cheer
-1: Cheerfully
-1: Cheerly
-1: Cheers
-1: Cherish
-1: Cherries
-1: Cherry
-1: Chestnut
-1: Chi
-1: Chicken
-1: Chid
-1: Chide
-1: Chiding
-1: Childishly
-1: Chin
-1: Chirp
-1: Choke
-1: Chop
-1: Chorus
-1: Chough
-1: Cicely
-1: Circles
-1: Circuit
-1: Cistern
-1: Cities
-1: Clamor
-1: Clamors
-1: Clasp
-1: Clean
-1: Clear-spirited
-1: Cleared
-1: Cleaving
-1: Clip
-1: Clock
-1: Clogs
-1: Closed
-1: Clothes
-1: Club
-1: Coarse
-1: Coarse-frieze
-1: Coast
-1: Coat
-1: Cockle
-1: Cockleshell
-1: Cocklight
-1: Coil
-1: Coinage
-1: Coins
-1: Coldly
-1: Collected
-1: Combated
-1: Combat’s
-1: Comets
-1: Comforted
-1: Commanded
-1: Commands
-1: Commends
-1: Comment
-1: Commit
-1: Committed
-1: Commune
-1: Companion
-1: Compass
-1: Compelled
-1: Composed
-1: Compounded
-1: Concealments
-1: Conceived
-1: Conceives
-1: Concern
-1: Concerning
-1: Condemn
-1: Condemned
-1: Condition
-1: Confessors
-1: Confine
-1: Conjurer
-1: Conjurings
-1: Conquer
-1: Conquered
-1: Conquers
-1: Consciences
-1: Considering
-1: Considers
-1: Constantly
-1: Constellation
-1: Constrain
-1: Consume
-1: Consumers
-1: Consummation
-1: Contemns
-1: Contemplative
-1: Contempt
-1: Contentious
-1: Continues
-1: Conversation
-1: Convulsions
-1: Cope
-1: Cords
-1: Corn
-1: Corner
-1: Corrector
-1: Corselet
-1: Costliness
-1: Costly
-1: Couch
-1: Counsel
-1: Counter-reflect
-1: Counting
-1: Couple
-1: Courageous
-1: Courtiers
-1: Courts
-1: Cowards
-1: Cozener
-1: Cozens
-1: Crack
-1: Cracked
-1: Cradle
-1: Cradles
-1: Cramp
-1: Cranks
-1: Crave
-1: Craved
-1: Craves
-1: Craving
-1: Creation
-1: Crestfall’n
-1: Crickets
-1: Cried
-1: Cripple
-1: Crossed
-1: Crosses
-1: Crow
-1: Crowns’
-1: Crownèd
-1: Crows
-1: Crutch
-1: Cry’s
-1: Cuckoo
-1: Cue
-1: Cuff
-1: Cull
-1: Cum
-1: Cupids
-1: Curb
-1: Cured
-1: Cures
-1: Curious
-1: Curled
-1: Curling
-1: Currant
-1: Current
-1: Cursing
-1: Cur’st
-1: Cutpurse
-1: Cutpurses
-1: Cuts
-1: Cynthia
-1: Daedalus
-1: Daffadillies
-1: Daisies
-1: Dam
-1: Damage
-1: Damask
-1: Damsel
-1: Dances
-1: Dancing
-1: Danger
-1: Dangle
-1: Daring
-1: Dark
-1: Darken
-1: Darker
-1: Darted
-1: Darts
-1: Daughters
-1: Daughter’s
-1: Dawn
-1: Day’s
-1: Dead-cold
-1: Deaeque
-1: Deaf
-1: Deafed
-1: Deafing
-1: Dearer
-1: Deathbeds
-1: Deaths
-1: Debt
-1: Decay
-1: Deceived
-1: Deceiving
-1: Decently
-1: Decision
-1: Deck
-1: Decking
-1: Deeds
-1: Deem’st
-1: Defiance
-1: Defy
-1: Deifies
-1: Deities
-1: Deity
-1: Delights
-1: Deliverance
-1: Delivered
-1: Deliverly
-1: Demand
-1: Demonstration
-1: Denials
-1: Denied
-1: Denies
-1: Depend
-1: Depute
-1: Descend
-1: Descends
-1: Described
-1: Deserve
-1: Deserves
-1: Deserving
-1: Design
-1: Desired
-1: Desires
-1: Desperate
-1: Despisers
-1: Despisings
-1: Destiny
-1: Destroy
-1: Determine
-1: Deum
-1: Devour
-1: Dew
-1: Diana
-1: Dian’s
-1: Dido
-1: Differing
-1: Diff’rence
-1: Dignities
-1: Dignity
-1: Dim
-1: Dimpled
-1: Dinner
-1: Direct
-1: Directing
-1: Dirge
-1: Dis
-1: Disasters
-1: Discharge
-1: Dischargest
-1: Disclaim
-1: Discord
-1: Discovered
-1: Disdains
-1: Disgrace
-1: Disinsanity
-1: Dismal
-1: Disobedient
-1: Disorder
-1: Disparity
-1: Dispersed
-1: Dispose
-1: Disposed
-1: Disposers
-1: Dispute
-1: Disroot
-1: Disseat
-1: Dissolve
-1: Distemper
-1: Distraction
-1: Distress
-1: Distressed
-1: Distresses
-1: Disturb
-1: Divided
-1: Divine
-1: Doers
-1: Dogskin
-1: Dole
-1: Don
-1: Doom
-1: Doth
-1: Doubled
-1: Doubted
-1: Dove-like
-1: Dove’s
-1: Dowagers
-1: Dowry
-1: Dowsets
-1: Dozens
-1: Dragged
-1: Drams
-1: Drawn
-1: Dread
-1: Dreaded
-1: Dreamed
-1: Dreaming
-1: Dreams
-1: Dream’st
-1: Dregged
-1: Drift-winds
-1: Drinking
-1: Drop
-1: Dropped
-1: Drunk
-1: Dry
-1: Dues
-1: Dukes
-1: Duke’s
-1: Dumb
-1: Dunces
-1: Dure
-1: Dusty
-1: Duty
-1: Dwelling
-1: Dwells
-1: Eagles
-1: Eared
-1: Earn’st
-1: Easily
-1: Ebbs
-1: Eddy
-1: Edge
-1: Eel
-1: Effect
-1: Eftsoons
-1: Eggs
-1: Eighteen
-1: Eighty
-1: Eke
-1: Election
-1: Elements
-1: Elysium
-1: Emblem
-1: Embossed
-1: Emilia’s
-1: Emulous
-1: Enameled
-1: Enclose
-1: Encompassed
-1: Encountered
-1: Ending
-1: Endowments
-1: Enforced
-1: Engine
-1: Engraffed
-1: Enjoyed
-1: Enormous
-1: Enquired
-1: Enriched
-1: Entangled
-1: Entered
-1: Enterprise
-1: Entertain’st
-1: Enthroned
-1: Entice
-1: Entreating
-1: Epitaph
-1: Epitaphs
-1: Err
-1: Errant
-1: Errors
-1: Escaped
-1: Estate
-1: Et
-1: Eternally
-1: Eternity
-1: Evening
-1: Event
-1: Ever-blinded
-1: Everything
-1: Everywhere
-1: Exceeded
-1: Excess
-1: Exclaimed
-1: Execute
-1: Executioners
-1: Exegi
-1: Exercise
-1: Expels
-1: Express
-1: Extant
-1: Extravagant
-1: Extremes
-1: Extremity
-1: Exulting
-1: Eye-glance
-1: Fable
-1: Facto
-1: Failed
-1: Fainting
-1: Faints
-1: Fairest
-1: Falsehoods
-1: Falser
-1: Falsest
-1: Families
-1: Famishing
-1: Famous
-1: Fan
-1: Fancies
-1: Fantastical
-1: Farces
-1: Fare
-1: Fared
-1: Fast
-1: Fat
-1: Father’s
-1: Fatting
-1: Fatuus
-1: Fat’s
-1: Favorite’s
-1: Favors
-1: Feared
-1: Fearless
-1: Feasts
-1: Feast’s
-1: Fed
-1: Fee
-1: Feeble
-1: Feeding
-1: Feeds
-1: Female
-1: Fere
-1: Ferry
-1: Ferula
-1: Fescue
-1: Fidius
-1: Fields
-1: Fierce
-1: Fierceness
-1: Fiercest
-1: Fifteen
-1: Filch
-1: Filii
-1: Filled
-1: Finding
-1: Finger
-1: Fingers
-1: Finish
-1: Fired
-1: Firstborn
-1: Fishermen
-1: Fist
-1: Fits
-1: Fitter
-1: Fitt’st
-1: Five-and-twenty
-1: Flame
-1: Flaming
-1: Flax
-1: Fled
-1: Flesh
-1: Flies
-1: Flinch
-1: Flint
-1: Flinty
-1: Flirted
-1: Floats
-1: Flood
-1: Flourish
-1: Flowery
-1: Flows
-1: Fluently
-1: Flying
-1: Foil
-1: Foison
-1: Follower
-1: Following
-1: Fond
-1: Foolish
-1: Forbid
-1: Forces
-1: Foregone
-1: Forehorse
-1: Forest
-1: Forfeit
-1: Forgets
-1: Forgiven
-1: Forgot
-1: Former
-1: Fortunate
-1: Forty-thousandfold
-1: Forwhy
-1: Foul-mouthed
-1: Foulest
-1: Founder
-1: Fourteen
-1: Frame
-1: Frampold
-1: Freckle-faced
-1: Freckled
-1: Freed
-1: Freely
-1: Freeze
-1: Freezes
-1: Fresher
-1: Freshwater
-1: Frets
-1: Friends’
-1: Frights
-1: Frisk
-1: Friskins
-1: Fritz
-1: Frog
-1: Frustrate
-1: Frying
-1: Fully
-1: Fury-innocent
-1: Futurely
-1: Gait
-1: Gall
-1: Gallops
-1: Gallèd
-1: Gambols
-1: Gammon
-1: Ganymede
-1: Gap
-1: Gathered
-1: Gauds
-1: Gaudy
-1: Gauntlets
-1: Gelt
-1: Gentility’s
-1: Gentleness
-1: George
-1: Gerald
-1: Geraldo
-1: German
-1: Gifts
-1: Girl
-1: Girls
-1: Girt
-1: Girth
-1: Girths
-1: Giver
-1: Giv’n
-1: Gladder
-1: Glade
-1: Glance
-1: Glassy
-1: Glister
-1: Globy
-1: Gloss
-1: Gloves
-1: Glued
-1: Golden
-1: Good’s
-1: Got’st
-1: Governors
-1: Graced
-1: Graces
-1: Gracious
-1: Grain
-1: Granted
-1: Granting
-1: Grape
-1: Grasp
-1: Grateful
-1: Graved
-1: Graves
-1: Gray
-1: Grease
-1: Great-eyed
-1: Greatest
-1: Greatness
-1: Grey-eyed
-1: Grieves
-1: Grievous
-1: Grinning
-1: Grise
-1: Groaned
-1: Groom
-1: Gross
-1: Groundpiece
-1: Growing
-1: Grudge
-1: Guards
-1: Guides
-1: Gums
-1: Gypsy
-1: Half-hour
-1: Half-persuaded
-1: Half-sights
-1: Halloo
-1: Hallow
-1: Halting
-1: Hanging
-1: Happen
-1: Happier
-1: Harbinger
-1: Hard-haired
-1: Hard-hearted
-1: Hardly
-1: Hare
-1: Harmless
-1: Harsh
-1: Harsher
-1: Hasten
-1: Hated
-1: Hates
-1: Havoc
-1: Hawthorn
-1: Hay
-1: Heal’st
-1: Heap
-1: Hears
-1: Heart-deep
-1: Heart-pierced
-1: Hearty
-1: Heart’s
-1: Heated
-1: Heats
-1: Heavier
-1: Heaviest
-1: Heav’nly
-1: Heels
-1: Heigh
-1: Held
-1: Helm
-1: Helmeted
-1: Helms
-1: Helpers
-1: Helping
-1: Henceforth
-1: Herd
-1: Herds
-1: Herself
-1: Hid
-1: Hide
-1: High-speeded
-1: Hilding
-1: Hind
-1: Hissing
-1: Hoar
-1: Hoarse
-1: Hobbyhorse
-1: Hoist
-1: Holds
-1: Holes
-1: Holiday
-1: Honest-hearted
-1: Honor’s
-1: Hood
-1: Hoofs
-1: Hooves
-1: Hopeless
-1: Hornbook
-1: Horribly
-1: Horrid
-1: Horror
-1: Horseman
-1: Horsemanship
-1: Host
-1: Hostage
-1: Hostler
-1: Hotly
-1: Hotter
-1: Hounds
-1: Hourly
-1: Hours’
-1: Household’s
-1: Howl
-1: Howled
-1: Howling
-1: Howsoe’er
-1: Hubbub
-1: Hue
-1: Humbled
-1: Hummed
-1: Humors
-1: Hums
-1: Hunger
-1: Hungry
-1: Huntress
-1: Hunt’st
-1: Hurry
-1: Husband’s
-1: Hypocrisy
-1: Ignis
-1: Ignorant
-1: Ill-dealing
-1: Illustrate
-1: Imagination
-1: Imaginations
-1: Imitation
-1: Impartial
-1: Impatient
-1: Impediments
-1: Imperfect
-1: Implore
-1: Importment’s
-1: Imports
-1: Imposition
-1: Incense
-1: Incite
-1: Incline
-1: Inclining
-1: Incontinence
-1: Indebted
-1: Indifferent
-1: Individual
-1: Induce
-1: Infamy
-1: Infants
-1: Infinitely
-1: Inflame
-1: Inflict
-1: Informs
-1: Ingots
-1: Inhabit
-1: Inheritance
-1: Injuries
-1: Inquire
-1: Inserted
-1: Inspire
-1: Inspired
-1: Instantly
-1: Intelligence
-1: Intemp’rate
-1: Intercession
-1: Interest
-1: Intermingle
-1: Intertangled
-1: Intrate
-1: Invest
-1: Inviting
-1: Iovis
-1: Ipso
-1: Ira
-1: Ire
-1: Iris
-1: Irons
-1: Issue
-1: Issues
-1: Ivy
-1: Jade
-1: Jadery
-1: Jades’
-1: Javelins
-1: Jaw
-1: Jealous
-1: Jealousy
-1: Jean
-1: Jest
-1: Jig
-1: Jingling
-1: Jolly
-1: Journey
-1: Joyful
-1: Joys
-1: Judged
-1: Judgments
-1: Jump
-1: Juno
-1: Jupiter
-1: Justify
-1: Justifying
-1: Keeper’s
-1: Keeps
-1: Kenned
-1: Kenn’st
-1: Key
-1: Killing
-1: Kill’st
-1: Kin
-1: Kindle
-1: Kindness
-1: Kindreds
-1: Kinds
-1: Kingdoms
-1: Kisses
-1: Kissing
-1: Kites
-1: Knacks
-1: Knee-deep
-1: Knew’st
-1: Knightly
-1: Knit
-1: Knives
-1: Knock
-1: Knolls
-1: Knot
-1: Knots
-1: Knowest
-1: Labors
-1: Lack
-1: Ladies’
-1: Lag
-1: Lamenting
-1: Laments
-1: Lamps
-1: Lance
-1: Land
-1: Lanes
-1: Lards
-1: Lark’s-heels
-1: Lastly
-1: Late
-1: Latest
-1: Laud
-1: Laund
-1: Lawfully
-1: Laws
-1: Lays
-1: Lazy
-1: Leaden-footed
-1: Leak
-1: Leap
-1: Learn
-1: Leave-taking
-1: Leeches
-1: Lees
-1: Leg
-1: Lengthened
-1: Leprous
-1: Lesson
-1: Lets
-1: Levy
-1: Lewdly
-1: Liable
-1: Libels
-1: Liberal
-1: Lid
-1: Lids
-1: Lied
-1: Lief
-1: Liest
-1: Liked
-1: Likelihood
-1: Likes
-1: Likewise
-1: Liking
-1: Limiter
-1: Line
-1: Lineaments
-1: Lion
-1: Lion’s
-1: Lip
-1: Lisps
-1: List
-1: Listen
-1: Listened
-1: Lived
-1: Livelong
-1: Livers
-1: Livery
-1: Load
-1: Loaden
-1: Loath
-1: Loathes
-1: Loathsome
-1: Loathsomeness
-1: Lock
-1: Lodged
-1: Longs
-1: Lordship
-1: Losses
-1: Lot
-1: Loud
-1: Loudness
-1: Lov’st
-1: Low
-1: Lower
-1: Luce
-1: Lust
-1: Machine
-1: Maculate
-1: Maiden
-1: Maiden-hearted
-1: Maidenheads
-1: Maim
-1: Mainly
-1: Majesty
-1: Makest
-1: Male
-1: Malevolent
-1: Malicious
-1: Manage
-1: Mankind
-1: Marigolds
-1: Marked
-1: Market
-1: Market-place
-1: Married
-1: Marrow
-1: Marshal’s
-1: Martialist
-1: Martyr
-1: Martyred
-1: Marvel
-1: Masoned
-1: Mast’ry
-1: Match
-1: Matchless
-1: Matter’s
-1: Maturely
-1: Maudlin
-1: Maying
-1: Maypole
-1: Mayst
-1: Mead
-1: Meager
-1: Meal
-1: Meantime
-1: Measure
-1: Meditance
-1: Meditation
-1: Medius
-1: Med’cine
-1: Meed
-1: Meeting
-1: Meets
-1: Meleager
-1: Melodious
-1: Melts
-1: Menacing
-1: Mention
-1: Men’s
-1: Merit
-1: Merrily
-1: Merry-hearted
-1: Metamorphosed
-1: Mickle
-1: Mightst
-1: Military
-1: Milk
-1: Milked
-1: Miller’s
-1: Million
-1: Minds
-1: Mingled
-1: Minnow
-1: Minnows
-1: Minstrels
-1: Minute
-1: Misadventure
-1: Misbecomingly
-1: Miscarrying
-1: Miseries
-1: Misgives
-1: Mislike
-1: Mistake
-1: Mistakes
-1: Mistook
-1: Mistress’
-1: Modestly
-1: Moiety
-1: Moist
-1: Momentary
-1: Monsters
-1: Mood
-1: Moonlight
-1: Moped
-1: Morn
-1: Morr
-1: Mother’s
-1: Mouth
-1: Mouths
-1: Muddy
-1: Mulberries
-1: Multis
-1: Mumble
-1: Murder
-1: Muset
-1: Musical
-1: Musicians
-1: Music’s
-1: Mute
-1: Mutual
-1: Mystery
-1: Nail
-1: Natural
-1: Nature’s
-1: Navel
-1: Nearer
-1: Nearness
-1: Necessaries
-1: Neck
-1: Necks
-1: Nectar
-1: Neglected
-1: Neighing
-1: Nell
-1: Nemean
-1: Nephews
-1: Neptune
-1: Nerves
-1: Nettle
-1: Nettles
-1: Neutral
-1: Never-erring
-1: New-conceived
-1: Newly
-1: Nibbling
-1: Nice
-1: Niceness
-1: Nick
-1: Niggard
-1: Nightingale
-1: Nights
-1: Night’s
-1: Nimble-set
-1: Nimbler
-1: Ninety
-1: Nobility
-1: Noblest
-1: Nobly
-1: Nods
-1: Noise
-1: Northeast
-1: Nose
-1: Nosegay
-1: Notice
-1: Nourishment
-1: Nurse
-1: Oak
-1: Oaths
-1: Oats
-1: Obeys
-1: Objects
-1: Observance
-1: Observed
-1: Obtained
-1: Ocean
-1: Odds
-1: Odor
-1: Offended
-1: Offender
-1: Offending
-1: Offends
-1: Offenses
-1: Offered
-1: Offerers
-1: Officers
-1: Oft
-1: Oil
-1: Omnes
-1: Operance
-1: Opinion
-1: Opportunity
-1: Oppose
-1: Oppressed
-1: Oppressor
-1: Opus
-1: Oracle
-1: Ordain
-1: Order
-1: Order’s
-1: Origin
-1: Ornament
-1: Ospreys
-1: Others’
-1: Out-breasted
-1: Outdid
-1: Outdure
-1: Outlived
-1: Outside
-1: Outstripped
-1: Outwent
-1: Outworn
-1: Overflow
-1: Owe
-1: Owing
-1: Owlet
-1: Owner
-1: Ow’st
-1: Oxlips
-1: O’er-rank
-1: O’er-weigh
-1: O’er-wrestling
-1: O’erflowing
-1: Pack
-1: Paid
-1: Paint
-1: Painted
-1: Painter
-1: Paints
-1: Palace
-1: Pale
-1: Pallas
-1: Parcel
-1: Pardons
-1: Parish
-1: Parleys
-1: Parlously
-1: Parthian
-1: Parting
-1: Party
-1: Passa
-1: Passage
-1: Passages
-1: Passed
-1: Passes
-1: Pastime
-1: Pastimes
-1: Pasture
-1: Pattern
-1: Pavement
-1: Pebbles
-1: Pecks
-1: Peculiar
-1: Pedagogus
-1: Pelops’
-1: Pelting
-1: Penciled
-1: Penned
-1: Penner
-1: Penn’orth
-1: Perceived
-1: Perch
-1: Perfidious
-1: Perform
-1: Peril
-1: Permitted
-1: Perpetual
-1: Personal
-1: Persuaded
-1: Persuasion
-1: Persuasively
-1: Pertains
-1: Perturbed
-1: Petitions
-1: Petticoat
-1: Philomels
-1: Phoenix-like
-1: Physic
-1: Pick
-1: Picture
-1: Pie
-1: Pig-like
-1: Pilot
-1: Pinks
-1: Pirithous’
-1: Piss
-1: Pitch
-1: Piteous
-1: Pitied
-1: Pity’s
-1: Plainly
-1: Plains
-1: Plane
-1: Plant
-1: Plantain
-1: Played
-1: Playfellow
-1: Playferes
-1: Playing
-1: Plays
-1: Plea
-1: Pleases
-1: Pleasure’s
-1: Pleurisy
-1: Plighted
-1: Plough
-1: Plucked
-1: Plunges
-1: Po
-1: Pointing
-1: Pole
-1: Polled
-1: Porridge
-1: Portion
-1: Posed
-1: Posies
-1: Position
-1: Possess
-1: Possessed
-1: Possession
-1: Pour
-1: Poutings
-1: Powerful
-1: Practiced
-1: Praises
-1: Pranks
-1: Prate
-1: Precipitance
-1: Preface
-1: Prefer
-1: Prefixed
-1: Prejudice
-1: Premeditating
-1: Preordained
-1: Prepared
-1: Presence
-1: Press
-1: Pressed
-1: Presuming
-1: Pretended
-1: Pretenders
-1: Prettiest
-1: Prettily
-1: Prevailed
-1: Prevent
-1: Prewarn
-1: Prick
-1: Pride
-1: Prime
-1: Primrose
-1: Prisonment
-1: Privately
-1: Prized
-1: Proceedings
-1: Proclaiming
-1: Procured
-1: Produce
-1: Professes
-1: Profession
-1: Profound
-1: Proh
-1: Project
-1: Prolong
-1: Promised
-1: Promises
-1: Promontory
-1: Prone
-1: Pronounces
-1: Proof
-1: Proper
-1: Prophets
-1: Propound
-1: Props
-1: Prorogue
-1: Proserpine
-1: Provender
-1: Proves
-1: Provocations
-1: Prune
-1: Public
-1: Puissance
-1: Punished
-1: Pupil
-1: Purge
-1: Purger
-1: Purple
-1: Pursuest
-1: Pursuit
-1: Push
-1: Pushes
-1: Puts
-1: Pygmies
-1: Quaint
-1: Quaking
-1: Qualities
-1: Quarrels
-1: Quarter
-1: Quick
-1: Quick-eyed
-1: Quiet
-1: Quite
-1: Quiver
-1: Quo
-1: Quod
-1: Rabble
-1: Race
-1: Rages
-1: Raging
-1: Rank
-1: Rapier
-1: Rarest
-1: Rash
-1: Rate
-1: Rates
-1: Raven
-1: Ravens
-1: Ravens’
-1: Ravish
-1: Ravished
-1: Raw
-1: Raze
-1: Really
-1: Reasonably
-1: Reasons
-1: Rebellious
-1: Rebuke
-1: Reck
-1: Reck’ning
-1: Reconciled
-1: Record
-1: Recovered
-1: Rectifier
-1: Red-eyed
-1: Redemption
-1: Redress
-1: Reduce
-1: Reel
-1: Reels
-1: Refreshing
-1: Refuse
-1: Regiment
-1: Rehearsal
-1: Rehearse
-1: Reign’st
-1: Rejoicer
-1: Relish
-1: Remain
-1: Remove
-1: Repair
-1: Repletion
-1: Reported
-1: Reputation
-1: Request
-1: Requiring
-1: Requite
-1: Residing
-1: Resistance
-1: Restraint
-1: Resume
-1: Retain
-1: Retains
-1: Retire
-1: Returned
-1: Returning
-1: Reveal
-1: Revels
-1: Revenge
-1: Reverence
-1: Rewarded
-1: Rheum
-1: Ribbons
-1: Richest
-1: Richness
-1: Rid
-1: Rider’s
-1: Ring
-1: Rings
-1: Rinsing
-1: Rips
-1: Rising
-1: Rite
-1: Rites
-1: Roar
-1: Roaring
-1: Roast
-1: Robe
-1: Rock
-1: Rocks
-1: Rolling
-1: Roof
-1: Root
-1: Roots
-1: Round-faced
-1: Rounded
-1: Rowel
-1: Rub
-1: Ruddy
-1: Ruder
-1: Rudiments
-1: Ruling
-1: Rumination
-1: Runs
-1: Rust
-1: Rusty
-1: Rycas
-1: Sacrifice
-1: Sacrifices
-1: Saddle
-1: Sadly
-1: Safe
-1: Safely
-1: Safer
-1: Safety
-1: Sails
-1: Salmon
-1: Salutes
-1: Sat
-1: Saturn
-1: Sauce
-1: Scarce
-1: Scarcely
-1: Scars
-1: Scene’s
-1: School
-1: School-doing
-1: Schoolmaster’s
-1: Scissored
-1: Scorning
-1: Scorns
-1: Scoured
-1: Screech
-1: Screwed
-1: Scruples
-1: Scurrile
-1: Scythe-tusked
-1: Sealed
-1: Secret
-1: Secrets
-1: Secure
-1: Sedges
-1: Seeds
-1: Seeks
-1: Sees
-1: Seize
-1: Seldom
-1: Sempster’s
-1: Send
-1: Sennois
-1: Senses
-1: Sensually
-1: Sentencing
-1: Sequent
-1: Serious
-1: Seriousness
-1: Services
-1: Servingman
-1: Settled
-1: Seventy
-1: Sever
-1: Shades
-1: Shadowy
-1: Shaker
-1: Shames
-1: Shape
-1: Sharpens
-1: Sharpness
-1: Sheath
-1: Shed
-1: She’ll
-1: Shield
-1: Ships
-1: Shirts
-1: Shook
-1: Shore
-1: Shortness
-1: Shoulder
-1: Shoulder-piece
-1: Shoulders
-1: Shouldst
-1: Showing
-1: Shrewd
-1: Shrill
-1: Shrunk
-1: Shun
-1: Sib
-1: Sicken
-1: Sickly
-1: Sickness
-1: Sides
-1: Sighed
-1: Sigher
-1: Sighs
-1: Sights
-1: Sign
-1: Silence
-1: Silent
-1: Silk
-1: Sillily
-1: Simp’ring
-1: Sin
-1: Single
-1: Sinister
-1: Sipped
-1: Sire
-1: Sirs
-1: Sisters’
-1: Six
-1: Six-and-thirty
-1: Skiffed
-1: Skip
-1: Skipped
-1: Skirt
-1: Skulls
-1: Sland’rous
-1: Sleeping
-1: Sleeps
-1: Slight
-1: Slightly
-1: Slip
-1: Slipped
-1: Sloth
-1: Slumbers
-1: Smallness
-1: Smeared
-1: Smell-less
-1: Smells
-1: Smiled
-1: Smocks
-1: Smoke
-1: Smoother
-1: Snails
-1: Snatch
-1: Snow
-1: So-scorned
-1: Sod
-1: Soe’er
-1: Soft-hearted
-1: Soiled
-1: Sojourn
-1: Sold
-1: Soldieress
-1: Soldier’s
-1: Sole
-1: Solicit
-1: Solicitation
-1: Solitary
-1: Song
-1: Sooner
-1: Sore
-1: Sores
-1: Sort
-1: Sotted
-1: Sound-a
-1: Soundly
-1: South
-1: Sovereigns
-1: Sow
-1: Sows
-1: Space
-1: Spacious
-1: Spake
-1: Spared
-1: Spark
-1: Sparkle
-1: Speaker
-1: Speaking
-1: Speedily
-1: Spent
-1: Spheres
-1: Spines
-1: Spinsters
-1: Spoiling
-1: Spotless
-1: Spouse
-1: Spreads
-1: Sprightly
-1: Spring
-1: Springtime’s
-1: Sprung
-1: Spurn
-1: Spurred
-1: Spurs
-1: Spy
-1: Stab
-1: Staff
-1: Stage
-1: Staggering
-1: Stammers
-1: Stamp
-1: States
-1: Stayed
-1: Stead
-1: Steal
-1: Steeds
-1: Steeled
-1: Stench
-1: Stern
-1: Sternness
-1: Steward’s
-1: Stick
-1: Sticks
-1: Stings
-1: Stir
-1: Stirring
-1: Stirs
-1: Stole
-1: Stone
-1: Stones
-1: Stony
-1: Stool-ball
-1: Store
-1: Stout
-1: Stow
-1: Strained
-1: Strait
-1: Strangely
-1: Straying
-1: Streamer
-1: Street
-1: Streets
-1: Strengthens
-1: Stretch
-1: Strewings
-1: Strive
-1: Striving
-1: Strong-hearted
-1: Strongly
-1: Strove
-1: Stubborn
-1: Studied
-1: Study
-1: Stuff’s
-1: Subdue
-1: Subduing
-1: Subject’s
-1: Subtler
-1: Successes
-1: Sucked
-1: Suffered
-1: Sufficient
-1: Suff’rers
-1: Suggested
-1: Suing
-1: Suits
-1: Sully
-1: Sulphur
-1: Sum
-1: Summer
-1: Sundered
-1: Sundry
-1: Superstition
-1: Suppliants’
-1: Supply
-1: Surfeits
-1: Surge
-1: Surgeons
-1: Suspected
-1: Swallow
-1: Swart
-1: Swear
-1: Sweat
-1: Sweating
-1: Swelling
-1: Swifter
-1: Swiftness
-1: Swoll’n
-1: Sword’s
-1: Sworn
-1: Synod
-1: Taborer
-1: Tackle
-1: Tackling
-1: Tails
-1: Taint
-1: Tainted
-1: Tales
-1: Talked
-1: Talons
-1: Tame
-1: Tandem
-1: Tanner’s
-1: Tapster
-1: Tart
-1: Task
-1: Taste
-1: Tasted
-1: Tasteful
-1: Tastes
-1: Team
-1: Tear
-1: Tediosity
-1: Teeming
-1: Tempests
-1: Temple
-1: Temptings
-1: Tenderly
-1: Tenner
-1: Tennis
-1: Tent
-1: Term
-1: Terrene
-1: Terror
-1: Thanked
-1: Thaw
-1: Thawed
-1: Theban
-1: Theirs
-1: Theme
-1: Thereby
-1: Thereto
-1: Theseus’
-1: They’d
-1: They’ll
-1: They’re
-1: Thick-twined
-1: Thicket
-1: Thief
-1: Thigh
-1: Think’st
-1: Third
-1: Thirds
-1: Thither
-1: Thoughts
-1: Three-a
-1: Threshed
-1: Thrice
-1: Throat
-1: Throne
-1: Thrust
-1: Thyme
-1: Tides
-1: Tidings
-1: Ties
-1: Tiger
-1: Tigers
-1: Tile
-1: Timorous
-1: Timothy
-1: Tip
-1: Tiptoe
-1: Titlers
-1: Tods
-1: Tokens
-1: Tongues
-1: Tonight
-1: Too-timely
-1: Tool
-1: Torment
-1: Torn
-1: Torrents
-1: Torture
-1: Torturing
-1: Tott’ring
-1: Tougher
-1: Trained
-1: Trample
-1: Traveler
-1: Tread
-1: Treason
-1: Treble
-1: Trembled
-1: Trent
-1: Trespass
-1: Trespasses
-1: Trials
-1: Tribute
-1: Trice
-1: Trim
-1: Trinkets
-1: Trip
-1: Triumphs
-1: Trod
-1: Troop
-1: Troops
-1: Trotting
-1: Troubled
-1: Trumpet
-1: Trussed
-1: Trusty
-1: Truth
-1: Try
-1: Tumble
-1: Tumbled
-1: Tumbles
-1: Tune
-1: Turkey
-1: Turned
-1: Turrets
-1: Tutor
-1: Twelve
-1: Twice
-1: Twined
-1: Twinkling
-1: Twinning
-1: Tyrannous
-1: Tyranny
-1: T’
-1: Umpire
-1: Unarmed
-1: Unblessed
-1: Unborn
-1: Unbounded
-1: Unbroken
-1: Unburied
-1: Uncandied
-1: Unclasp
-1: Uncle
-1: Unconsidered
-1: Underground
-1: Understood
-1: Undertaker
-1: Undertakes
-1: Undo
-1: Unearthèd
-1: Unfeared
-1: Unfeignedly
-1: Unfriended
-1: Ungrateful
-1: Unhappy
-1: Unhardened
-1: Unjust
-1: Unjustly
-1: Unkind
-1: Unmanly
-1: Unmarried
-1: Unpanged
-1: Unplucked
-1: Unreasoned
-1: Unseasonably
-1: Unsentenced
-1: Unsettle
-1: Unsettled
-1: Unspotted
-1: Until
-1: Untimely
-1: Unwappered
-1: Unwept
-1: Upbraidings
-1: Uphold
-1: Urge
-1: Urn
-1: Urns
-1: Usage
-1: Used
-1: Usque
-1: Usurers’
-1: Utterly
-1: Utters
-1: Vagary
-1: Valerius
-1: Value
-1: Value’s
-1: Vanity
-1: Vantage
-1: Vapors
-1: Vassal
-1: Vast
-1: Vault
-1: Venison
-1: Ver
-1: Verily
-1: Verity
-1: Vessel
-1: Vessels
-1: Vestal
-1: Vials
-1: Viands
-1: Victor
-1: Victuals
-1: Videlicet
-1: Vigor
-1: Vile
-1: Villager
-1: Villainy
-1: Vine
-1: Virginals
-1: Virginity
-1: Virgin’s
-1: Visage
-1: Visaged
-1: Visages
-1: Visitating
-1: Void
-1: Void’st
-1: Voluble
-1: Vouched
-1: Vouchsafe
-1: Vows
-1: Wagging
-1: Wait
-1: Waked
-1: Wakes
-1: Walk
-1: Walking
-1: Wander
-1: Wants
-1: Ward
-1: Warlike
-1: Warm
-1: Warped
-1: Warranting
-1: War’s
-1: Washed
-1: Waste
-1: Watch
-1: Watching
-1: Weakens
-1: Weaker
-1: Weakness
-1: Wealthy
-1: Weapon
-1: Weapons
-1: Wear
-1: Weaved
-1: Weavers
-1: Wed
-1: Wedlock
-1: Weeds
-1: Week
-1: Week’s
-1: Weeping
-1: Weigh
-1: Welcome
-1: Welcomes
-1: Well-found
-1: Well-nigh
-1: Well-willer
-1: West
-1: Wet
-1: Wherefore
-1: Wherever
-1: Where’er
-1: Whines
-1: Whipstock
-1: Whispered
-1: Whispers
-1: White-haired
-1: Wholesome
-1: Whooped
-1: Whore
-1: Whosoever
-1: Wicked
-1: Widow
-1: Widows
-1: Widows’
-1: Wind-fanned
-1: Windows
-1: Wind’s
-1: Wing
-1: Wink
-1: Winner
-1: Winner’s
-1: Winning
-1: Winter
-1: Winters
-1: Wisdom
-1: Wished
-1: Wit
-1: Witch
-1: Wither
-1: Wi’
-1: Woeful
-1: Wolves
-1: Womb
-1: Works
-1: Worn
-1: Worship
-1: Worshippers
-1: Worthily
-1: Wor’st
-1: Wots
-1: Wouldst
-1: Wound
-1: Wounds
-1: Wren
-1: Wrestled
-1: Wrestling
-1: Wrinkled
-1: Write
-1: Writer
-1: Written
-1: Wronged
-1: Wrongs
-1: Ye
-1: Years
-1: Yield
-1: Yielded
-1: Yields
-1: Yoke
-1: Yonder
-1: Yonder’s
-1: Yourselves
-1: You’d
-1: You’ve
-1: Zeal
-1: ’pointed
-1: ’twixt
+instances: 760, word: 'And', work: 'TNK'},
+instances: 623, word: 'The', work: 'TNK'},
+instances: 599, word: 'I', work: 'TNK'},
+instances: 490, word: 'A', work: 'TNK'},
+instances: 484, word: 'To', work: 'TNK'},
+instances: 422, word: 'You', work: 'TNK'},
+instances: 419, word: 'Of', work: 'TNK'},
+instances: 310, word: 'That', work: 'TNK'},
+instances: 254, word: 'In', work: 'TNK'},
+instances: 222, word: 'Me', work: 'TNK'},
+instances: 212, word: 'My', work: 'TNK'},
+instances: 210, word: 'Her', work: 'TNK'},
+instances: 206, word: 'Be', work: 'TNK'},
+instances: 201, word: 'This', work: 'TNK'},
+instances: 198, word: 'Not', work: 'TNK'},
+instances: 196, word: 'For', work: 'TNK'},
+instances: 192, word: 'Is', work: 'TNK'},
+instances: 185, word: 'Your', work: 'TNK'},
+instances: 182, word: 'With', work: 'TNK'},
+instances: 180, word: 'Have', work: 'TNK'},
+instances: 169, word: 'His', work: 'TNK'},
+instances: 168, word: 'But', work: 'TNK'},
+instances: 168, word: 'It', work: 'TNK'},
+instances: 155, word: 'He', work: 'TNK'},
+instances: 147, word: 'As', work: 'TNK'},
+instances: 144, word: 'Him', work: 'TNK'},
+instances: 140, word: 'We', work: 'TNK'},
+instances: 138, word: 'Are', work: 'TNK'},
+instances: 133, word: 'Our', work: 'TNK'},
+instances: 128, word: 'All', work: 'TNK'},
+instances: 127, word: 'What', work: 'TNK'},
+instances: 125, word: 'Shall', work: 'TNK'},
+instances: 125, word: 'So', work: 'TNK'},
+instances: 116, word: 'Will', work: 'TNK'},
+instances: 115, word: 'If', work: 'TNK'},
+instances: 107, word: 'She', work: 'TNK'},
+instances: 106, word: 'They', work: 'TNK'},
+instances: 105, word: 'Do', work: 'TNK'},
+instances: 103, word: 'No', work: 'TNK'},
+instances: 97, word: 'Now', work: 'TNK'},
+instances: 96, word: 'Then', work: 'TNK'},
+instances: 95, word: 'By', work: 'TNK'},
+instances: 90, word: 'Th\'', work: 'TNK'},
+instances: 88, word: 'Their', work: 'TNK'},
+instances: 84, word: 'More', work: 'TNK'},
+instances: 84, word: 'One', work: 'TNK'},
+instances: 84, word: 'Thou', work: 'TNK'},
+instances: 84, word: 'Would', work: 'TNK'},
+instances: 83, word: 'Love', work: 'TNK'},
+instances: 80, word: 'Must', work: 'TNK'},
+instances: 79, word: 'I\'ll', work: 'TNK'},
+instances: 78, word: 'Am', work: 'TNK'},
+instances: 78, word: 'Sir', work: 'TNK'},
+instances: 78, word: 'Thy', work: 'TNK'},
+instances: 75, word: 'Or', work: 'TNK'},
+instances: 75, word: 'Us', work: 'TNK'},
+instances: 73, word: 'Yet', work: 'TNK'},
+instances: 70, word: 'Good', work: 'TNK'},
+instances: 70, word: 'On', work: 'TNK'},
+instances: 69, word: 'Was', work: 'TNK'},
+instances: 68, word: 'Than', work: 'TNK'},
+instances: 67, word: 'May', work: 'TNK'},
+instances: 67, word: 'O', work: 'TNK'},
+instances: 67, word: 'Palamon', work: 'TNK'},
+instances: 64, word: 'There', work: 'TNK'},
+instances: 64, word: 'Which', work: 'TNK'},
+instances: 63, word: 'Let', work: 'TNK'},
+instances: 63, word: '\'t', work: 'TNK'},
+instances: 61, word: 'When', work: 'TNK'},
+instances: 60, word: 'At', work: 'TNK'},
+instances: 59, word: 'Like', work: 'TNK'},
+instances: 58, word: 'From', work: 'TNK'},
+instances: 58, word: 'Here', work: 'TNK'},
+instances: 57, word: 'Never', work: 'TNK'},
+instances: 55, word: 'Arcite', work: 'TNK'},
+instances: 55, word: 'Such', work: 'TNK'},
+instances: 55, word: '\'em', work: 'TNK'},
+instances: 54, word: 'Make', work: 'TNK'},
+instances: 53, word: 'Cousin', work: 'TNK'},
+instances: 53, word: 'Well', work: 'TNK'},
+instances: 53, word: 'Were', work: 'TNK'},
+instances: 52, word: 'How', work: 'TNK'},
+instances: 51, word: 'Come', work: 'TNK'},
+instances: 49, word: 'Know', work: 'TNK'},
+instances: 49, word: 'Too', work: 'TNK'},
+instances: 49, word: '\'tis', work: 'TNK'},
+instances: 48, word: 'Man', work: 'TNK'},
+instances: 46, word: 'Had', work: 'TNK'},
+instances: 46, word: 'Take', work: 'TNK'},
+instances: 46, word: 'Thee', work: 'TNK'},
+instances: 46, word: 'Upon', work: 'TNK'},
+instances: 45, word: 'Has', work: 'TNK'},
+instances: 44, word: 'Say', work: 'TNK'},
+instances: 43, word: 'See', work: 'TNK'},
+instances: 43, word: 'Think', work: 'TNK'},
+instances: 42, word: 'Fair', work: 'TNK'},
+instances: 42, word: 'Should', work: 'TNK'},
+instances: 42, word: 'Where', work: 'TNK'},
+instances: 41, word: 'Out', work: 'TNK'},
+instances: 41, word: 'These', work: 'TNK'},
+instances: 40, word: 'Go', work: 'TNK'},
+instances: 40, word: 'Two', work: 'TNK'},
+instances: 39, word: 'An', work: 'TNK'},
+instances: 39, word: 'Some', work: 'TNK'},
+instances: 38, word: 'Did', work: 'TNK'},
+instances: 38, word: 'Noble', work: 'TNK'},
+instances: 38, word: 'Yes', work: 'TNK'},
+instances: 36, word: 'Honor', work: 'TNK'},
+instances: 36, word: 'Why', work: 'TNK'},
+instances: 33, word: 'Again', work: 'TNK'},
+instances: 33, word: 'Give', work: 'TNK'},
+instances: 33, word: 'Made', work: 'TNK'},
+instances: 33, word: 'Them', work: 'TNK'},
+instances: 33, word: 'Who', work: 'TNK'},
+instances: 32, word: 'Any', work: 'TNK'},
+instances: 32, word: 'O\'', work: 'TNK'},
+instances: 31, word: 'Can', work: 'TNK'},
+instances: 31, word: 'Mine', work: 'TNK'},
+instances: 31, word: 'Pray', work: 'TNK'},
+instances: 30, word: 'Both', work: 'TNK'},
+instances: 30, word: 'Life', work: 'TNK'},
+instances: 30, word: 'Men', work: 'TNK'},
+instances: 30, word: 'Nor', work: 'TNK'},
+instances: 29, word: 'Gods', work: 'TNK'},
+instances: 29, word: 'Most', work: 'TNK'},
+instances: 28, word: 'Much', work: 'TNK'},
+instances: 27, word: 'Could', work: 'TNK'},
+instances: 27, word: 'Ever', work: 'TNK'},
+instances: 27, word: 'First', work: 'TNK'},
+instances: 27, word: 'Great', work: 'TNK'},
+instances: 27, word: 'Those', work: 'TNK'},
+instances: 27, word: 'Very', work: 'TNK'},
+instances: 26, word: 'Before', work: 'TNK'},
+instances: 26, word: 'Duke', work: 'TNK'},
+instances: 26, word: 'Sweet', work: 'TNK'},
+instances: 25, word: 'Hand', work: 'TNK'},
+instances: 25, word: 'Way', work: 'TNK'},
+instances: 24, word: 'Cannot', work: 'TNK'},
+instances: 24, word: 'Whose', work: 'TNK'},
+instances: 23, word: 'Art', work: 'TNK'},
+instances: 23, word: 'Done', work: 'TNK'},
+instances: 23, word: 'He\'s', work: 'TNK'},
+instances: 23, word: 'Might', work: 'TNK'},
+instances: 23, word: 'Nothing', work: 'TNK'},
+instances: 23, word: 'Own', work: 'TNK'},
+instances: 23, word: 'Sister', work: 'TNK'},
+instances: 23, word: 'Tell', work: 'TNK'},
+instances: 23, word: 'That\'s', work: 'TNK'},
+instances: 23, word: 'Up', work: 'TNK'},
+instances: 22, word: 'Else', work: 'TNK'},
+instances: 22, word: 'Eyes', work: 'TNK'},
+instances: 22, word: 'Hold', work: 'TNK'},
+instances: 22, word: 'I\'', work: 'TNK'},
+instances: 22, word: 'True', work: 'TNK'},
+instances: 22, word: 'World', work: 'TNK'},
+instances: 22, word: 'Young', work: 'TNK'},
+instances: 21, word: 'Another', work: 'TNK'},
+instances: 21, word: 'Bring', work: 'TNK'},
+instances: 21, word: 'Lady', work: 'TNK'},
+instances: 21, word: 'Lord', work: 'TNK'},
+instances: 21, word: 'Still', work: 'TNK'},
+instances: 20, word: 'Better', work: 'TNK'},
+instances: 20, word: 'Find', work: 'TNK'},
+instances: 20, word: 'Friend', work: 'TNK'},
+instances: 20, word: 'Leave', work: 'TNK'},
+instances: 20, word: 'Off', work: 'TNK'},
+instances: 20, word: 'Time', work: 'TNK'},
+instances: 19, word: 'Day', work: 'TNK'},
+instances: 19, word: 'End', work: 'TNK'},
+instances: 19, word: 'Pity', work: 'TNK'},
+instances: 19, word: 'Place', work: 'TNK'},
+instances: 19, word: 'Poor', work: 'TNK'},
+instances: 19, word: 'Though', work: 'TNK'},
+instances: 19, word: 'Thus', work: 'TNK'},
+instances: 18, word: 'Best', work: 'TNK'},
+instances: 18, word: 'Die', work: 'TNK'},
+instances: 18, word: 'Farewell', work: 'TNK'},
+instances: 18, word: 'Hour', work: 'TNK'},
+instances: 18, word: 'Long', work: 'TNK'},
+instances: 18, word: 'Look', work: 'TNK'},
+instances: 18, word: 'Lose', work: 'TNK'},
+instances: 18, word: 'Stand', work: 'TNK'},
+instances: 18, word: 'Till', work: 'TNK'},
+instances: 17, word: 'Alas', work: 'TNK'},
+instances: 17, word: 'Down', work: 'TNK'},
+instances: 17, word: 'Fall', work: 'TNK'},
+instances: 17, word: 'Hath', work: 'TNK'},
+instances: 17, word: 'Many', work: 'TNK'},
+instances: 17, word: 'Other', work: 'TNK'},
+instances: 17, word: 'Put', work: 'TNK'},
+instances: 17, word: 'Saw', work: 'TNK'},
+instances: 17, word: 'Set', work: 'TNK'},
+instances: 17, word: 'Sure', work: 'TNK'},
+instances: 17, word: 'Sword', work: 'TNK'},
+instances: 16, word: 'Blood', work: 'TNK'},
+instances: 16, word: 'Dare', work: 'TNK'},
+instances: 16, word: 'Eye', work: 'TNK'},
+instances: 16, word: 'Hear', work: 'TNK'},
+instances: 16, word: 'Heart', work: 'TNK'},
+instances: 16, word: 'Into', work: 'TNK'},
+instances: 16, word: 'Keep', work: 'TNK'},
+instances: 16, word: 'Little', work: 'TNK'},
+instances: 16, word: 'None', work: 'TNK'},
+instances: 16, word: 'Once', work: 'TNK'},
+instances: 16, word: 'Soul', work: 'TNK'},
+instances: 16, word: 'Wish', work: 'TNK'},
+instances: 16, word: 'Woman', work: 'TNK'},
+instances: 15, word: 'About', work: 'TNK'},
+instances: 15, word: 'Been', work: 'TNK'},
+instances: 15, word: 'Far', work: 'TNK'},
+instances: 15, word: 'Fear', work: 'TNK'},
+instances: 15, word: 'Fortune', work: 'TNK'},
+instances: 15, word: 'Heard', work: 'TNK'},
+instances: 15, word: 'Said', work: 'TNK'},
+instances: 15, word: 'We\'ll', work: 'TNK'},
+instances: 14, word: 'Being', work: 'TNK'},
+instances: 14, word: 'Business', work: 'TNK'},
+instances: 14, word: 'Comes', work: 'TNK'},
+instances: 14, word: 'Dear', work: 'TNK'},
+instances: 14, word: 'Faith', work: 'TNK'},
+instances: 14, word: 'Father', work: 'TNK'},
+instances: 14, word: 'Heaven', work: 'TNK'},
+instances: 14, word: 'Maids', work: 'TNK'},
+instances: 14, word: 'Mercy', work: 'TNK'},
+instances: 14, word: 'Ne\'er', work: 'TNK'},
+instances: 14, word: 'Night', work: 'TNK'},
+instances: 14, word: 'Speak', work: 'TNK'},
+instances: 14, word: 'Theseus', work: 'TNK'},
+instances: 13, word: 'Away', work: 'TNK'},
+instances: 13, word: 'Beauty', work: 'TNK'},
+instances: 13, word: 'Boys', work: 'TNK'},
+instances: 13, word: 'Brave', work: 'TNK'},
+instances: 13, word: 'Cry', work: 'TNK'},
+instances: 13, word: 'Death', work: 'TNK'},
+instances: 13, word: 'Does', work: 'TNK'},
+instances: 13, word: 'Face', work: 'TNK'},
+instances: 13, word: 'Fit', work: 'TNK'},
+instances: 13, word: 'Hast', work: 'TNK'},
+instances: 13, word: 'Let\'s', work: 'TNK'},
+instances: 13, word: 'Maid', work: 'TNK'},
+instances: 13, word: 'Near', work: 'TNK'},
+instances: 13, word: 'Power', work: 'TNK'},
+instances: 13, word: 'Thebes', work: 'TNK'},
+instances: 13, word: 'Things', work: 'TNK'},
+instances: 12, word: 'Against', work: 'TNK'},
+instances: 12, word: 'Between', work: 'TNK'},
+instances: 12, word: 'Content', work: 'TNK'},
+instances: 12, word: 'Each', work: 'TNK'},
+instances: 12, word: 'Even', work: 'TNK'},
+instances: 12, word: 'Get', work: 'TNK'},
+instances: 12, word: 'Hope', work: 'TNK'},
+instances: 12, word: 'Ladies', work: 'TNK'},
+instances: 12, word: 'Lead', work: 'TNK'},
+instances: 12, word: 'Lives', work: 'TNK'},
+instances: 12, word: 'Loved', work: 'TNK'},
+instances: 12, word: 'Mad', work: 'TNK'},
+instances: 12, word: 'Name', work: 'TNK'},
+instances: 12, word: 'Old', work: 'TNK'},
+instances: 12, word: 'Only', work: 'TNK'},
+instances: 12, word: 'Play', work: 'TNK'},
+instances: 12, word: 'Prison', work: 'TNK'},
+instances: 12, word: 'Rather', work: 'TNK'},
+instances: 12, word: 'Right', work: 'TNK'},
+instances: 12, word: 'Show', work: 'TNK'},
+instances: 12, word: 'Sing', work: 'TNK'},
+instances: 12, word: 'Stay', work: 'TNK'},
+instances: 12, word: 'Through', work: 'TNK'},
+instances: 12, word: 'Together', work: 'TNK'},
+instances: 12, word: 'Told', work: 'TNK'},
+instances: 12, word: 'Wench', work: 'TNK'},
+instances: 12, word: 'Without', work: 'TNK'},
+instances: 11, word: 'After', work: 'TNK'},
+instances: 11, word: 'Arms', work: 'TNK'},
+instances: 11, word: 'Body', work: 'TNK'},
+instances: 11, word: 'Cause', work: 'TNK'},
+instances: 11, word: 'Head', work: 'TNK'},
+instances: 11, word: 'Justice', work: 'TNK'},
+instances: 11, word: 'Kill', work: 'TNK'},
+instances: 11, word: 'Kind', work: 'TNK'},
+instances: 11, word: 'Nature', work: 'TNK'},
+instances: 11, word: 'Next', work: 'TNK'},
+instances: 11, word: 'Prince', work: 'TNK'},
+instances: 11, word: 'Seen', work: 'TNK'},
+instances: 11, word: 'She\'s', work: 'TNK'},
+instances: 11, word: 'Since', work: 'TNK'},
+instances: 11, word: 'Sleep', work: 'TNK'},
+instances: 11, word: 'Soldier', work: 'TNK'},
+instances: 11, word: 'There\'s', work: 'TNK'},
+instances: 11, word: 'Thine', work: 'TNK'},
+instances: 11, word: 'Use', work: 'TNK'},
+instances: 10, word: 'Bear', work: 'TNK'},
+instances: 10, word: 'Child', work: 'TNK'},
+instances: 10, word: 'Cold', work: 'TNK'},
+instances: 10, word: 'Dance', work: 'TNK'},
+instances: 10, word: 'Ere', work: 'TNK'},
+instances: 10, word: 'Fail', work: 'TNK'},
+instances: 10, word: 'Fire', work: 'TNK'},
+instances: 10, word: 'Flowers', work: 'TNK'},
+instances: 10, word: 'Gave', work: 'TNK'},
+instances: 10, word: 'Gone', work: 'TNK'},
+instances: 10, word: 'Himself', work: 'TNK'},
+instances: 10, word: 'Honest', work: 'TNK'},
+instances: 10, word: 'Last', work: 'TNK'},
+instances: 10, word: 'Liberty', work: 'TNK'},
+instances: 10, word: 'Mind', work: 'TNK'},
+instances: 10, word: 'Part', work: 'TNK'},
+instances: 10, word: 'Perceive', work: 'TNK'},
+instances: 10, word: 'Please', work: 'TNK'},
+instances: 10, word: 'Remember', work: 'TNK'},
+instances: 10, word: 'Strong', work: 'TNK'},
+instances: 10, word: 'Sun', work: 'TNK'},
+instances: 10, word: 'Thing', work: 'TNK'},
+instances: 10, word: 'Tomorrow', work: 'TNK'},
+instances: 10, word: 'Twenty', work: 'TNK'},
+instances: 10, word: 'Under', work: 'TNK'},
+instances: 10, word: 'War', work: 'TNK'},
+instances: 10, word: 'Where\'s', work: 'TNK'},
+instances: 10, word: 'Women', work: 'TNK'},
+instances: 10, word: '\'s', work: 'TNK'},
+instances: 9, word: 'Ask', work: 'TNK'},
+instances: 9, word: 'Break', work: 'TNK'},
+instances: 9, word: 'Bright', work: 'TNK'},
+instances: 9, word: 'Call', work: 'TNK'},
+instances: 9, word: 'Came', work: 'TNK'},
+instances: 9, word: 'Chance', work: 'TNK'},
+instances: 9, word: 'Comfort', work: 'TNK'},
+instances: 9, word: 'Coz', work: 'TNK'},
+instances: 9, word: 'Dead', work: 'TNK'},
+instances: 9, word: 'Ear', work: 'TNK'},
+instances: 9, word: 'Eat', work: 'TNK'},
+instances: 9, word: 'Emily', work: 'TNK'},
+instances: 9, word: 'Enough', work: 'TNK'},
+instances: 9, word: 'Fight', work: 'TNK'},
+instances: 9, word: 'Fine', work: 'TNK'},
+instances: 9, word: 'Friends', work: 'TNK'},
+instances: 9, word: 'Gentle', work: 'TNK'},
+instances: 9, word: 'Hence', work: 'TNK'},
+instances: 9, word: 'He\'ll', work: 'TNK'},
+instances: 9, word: 'Knights', work: 'TNK'},
+instances: 9, word: 'Live', work: 'TNK'},
+instances: 9, word: 'Lost', work: 'TNK'},
+instances: 9, word: 'Master', work: 'TNK'},
+instances: 9, word: 'Methinks', work: 'TNK'},
+instances: 9, word: 'Mistress', work: 'TNK'},
+instances: 9, word: 'Nay', work: 'TNK'},
+instances: 9, word: 'Neither', work: 'TNK'},
+instances: 9, word: 'Pardon', work: 'TNK'},
+instances: 9, word: 'Presently', work: 'TNK'},
+instances: 9, word: 'Run', work: 'TNK'},
+instances: 9, word: 'Service', work: 'TNK'},
+instances: 9, word: 'Sight', work: 'TNK'},
+instances: 9, word: 'Thank', work: 'TNK'},
+instances: 9, word: 'Three', work: 'TNK'},
+instances: 9, word: 'Title', work: 'TNK'},
+instances: 9, word: 'Wanton', work: 'TNK'},
+instances: 9, word: 'Worth', work: 'TNK'},
+instances: 9, word: 'Worthy', work: 'TNK'},
+instances: 9, word: 'You\'ll', work: 'TNK'},
+instances: 9, word: '\'twas', work: 'TNK'},
+instances: 8, word: 'Almost', work: 'TNK'},
+instances: 8, word: 'Alone', work: 'TNK'},
+instances: 8, word: 'Arm', work: 'TNK'},
+instances: 8, word: 'Believe', work: 'TNK'},
+instances: 8, word: 'Bold', work: 'TNK'},
+instances: 8, word: 'Close', work: 'TNK'},
+instances: 8, word: 'Daughter', work: 'TNK'},
+instances: 8, word: 'Desire', work: 'TNK'},
+instances: 8, word: 'Emilia', work: 'TNK'},
+instances: 8, word: 'E\'en', work: 'TNK'},
+instances: 8, word: 'Fool', work: 'TNK'},
+instances: 8, word: 'Force', work: 'TNK'},
+instances: 8, word: 'Forth', work: 'TNK'},
+instances: 8, word: 'Gentleman', work: 'TNK'},
+instances: 8, word: 'Hands', work: 'TNK'},
+instances: 8, word: 'Holy', work: 'TNK'},
+instances: 8, word: 'Law', work: 'TNK'},
+instances: 8, word: 'Lie', work: 'TNK'},
+instances: 8, word: 'Looked', work: 'TNK'},
+instances: 8, word: 'Madam', work: 'TNK'},
+instances: 8, word: 'Makes', work: 'TNK'},
+instances: 8, word: 'Marry', work: 'TNK'},
+instances: 8, word: 'Morning', work: 'TNK'},
+instances: 8, word: 'Mortal', work: 'TNK'},
+instances: 8, word: 'Proud', work: 'TNK'},
+instances: 8, word: 'Question', work: 'TNK'},
+instances: 8, word: 'Sake', work: 'TNK'},
+instances: 8, word: 'Seek', work: 'TNK'},
+instances: 8, word: 'Spirits', work: 'TNK'},
+instances: 8, word: 'Traitor', work: 'TNK'},
+instances: 8, word: 'Unto', work: 'TNK'},
+instances: 8, word: 'Weep', work: 'TNK'},
+instances: 8, word: 'White', work: 'TNK'},
+instances: 8, word: 'Whom', work: 'TNK'},
+instances: 8, word: 'Yea', work: 'TNK'},
+instances: 8, word: 'Yours', work: 'TNK'},
+instances: 8, word: 'You\'re', work: 'TNK'},
+instances: 8, word: '\'twere', work: 'TNK'},
+instances: 7, word: 'Anger', work: 'TNK'},
+instances: 7, word: 'Become', work: 'TNK'},
+instances: 7, word: 'Brother', work: 'TNK'},
+instances: 7, word: 'Called', work: 'TNK'},
+instances: 7, word: 'Charge', work: 'TNK'},
+instances: 7, word: 'Earth', work: 'TNK'},
+instances: 7, word: 'Enjoy', work: 'TNK'},
+instances: 7, word: 'Every', work: 'TNK'},
+instances: 7, word: 'Feel', work: 'TNK'},
+instances: 7, word: 'Fell', work: 'TNK'},
+instances: 7, word: 'Field', work: 'TNK'},
+instances: 7, word: 'Follow', work: 'TNK'},
+instances: 7, word: 'Free', work: 'TNK'},
+instances: 7, word: 'Further', work: 'TNK'},
+instances: 7, word: 'Glad', work: 'TNK'},
+instances: 7, word: 'Goddess', work: 'TNK'},
+instances: 7, word: 'Goodness', work: 'TNK'},
+instances: 7, word: 'Grace', work: 'TNK'},
+instances: 7, word: 'Grief', work: 'TNK'},
+instances: 7, word: 'Heavenly', work: 'TNK'},
+instances: 7, word: 'Horse', work: 'TNK'},
+instances: 7, word: 'Kinsman', work: 'TNK'},
+instances: 7, word: 'Kiss', work: 'TNK'},
+instances: 7, word: 'Knew', work: 'TNK'},
+instances: 7, word: 'Laid', work: 'TNK'},
+instances: 7, word: 'Light', work: 'TNK'},
+instances: 7, word: 'Lords', work: 'TNK'},
+instances: 7, word: 'Loves', work: 'TNK'},
+instances: 7, word: 'Mark', work: 'TNK'},
+instances: 7, word: 'Means', work: 'TNK'},
+instances: 7, word: 'Needs', work: 'TNK'},
+instances: 7, word: 'New', work: 'TNK'},
+instances: 7, word: 'News', work: 'TNK'},
+instances: 7, word: 'Note', work: 'TNK'},
+instances: 7, word: 'Offer', work: 'TNK'},
+instances: 7, word: 'Ones', work: 'TNK'},
+instances: 7, word: 'Perish', work: 'TNK'},
+instances: 7, word: 'Piece', work: 'TNK'},
+instances: 7, word: 'Pleased', work: 'TNK'},
+instances: 7, word: 'Princes', work: 'TNK'},
+instances: 7, word: 'Reason', work: 'TNK'},
+instances: 7, word: 'Save', work: 'TNK'},
+instances: 7, word: 'Sense', work: 'TNK'},
+instances: 7, word: 'Shake', work: 'TNK'},
+instances: 7, word: 'Shows', work: 'TNK'},
+instances: 7, word: 'Sound', work: 'TNK'},
+instances: 7, word: 'State', work: 'TNK'},
+instances: 7, word: 'Strange', work: 'TNK'},
+instances: 7, word: 'Strength', work: 'TNK'},
+instances: 7, word: 'Talk', work: 'TNK'},
+instances: 7, word: 'Truly', work: 'TNK'},
+instances: 7, word: 'Want', work: 'TNK'},
+instances: 7, word: 'Wife', work: 'TNK'},
+instances: 7, word: 'Wind', work: 'TNK'},
+instances: 7, word: 'Within', work: 'TNK'},
+instances: 7, word: 'Wood', work: 'TNK'},
+instances: 7, word: '\'fore', work: 'TNK'},
+instances: 6, word: 'Act', work: 'TNK'},
+instances: 6, word: 'Age', work: 'TNK'},
+instances: 6, word: 'Altar', work: 'TNK'},
+instances: 6, word: 'Anything', work: 'TNK'},
+instances: 6, word: 'Appear', work: 'TNK'},
+instances: 6, word: 'Beyond', work: 'TNK'},
+instances: 6, word: 'Bones', work: 'TNK'},
+instances: 6, word: 'Boy', work: 'TNK'},
+instances: 6, word: 'Brought', work: 'TNK'},
+instances: 6, word: 'Canst', work: 'TNK'},
+instances: 6, word: 'Country', work: 'TNK'},
+instances: 6, word: 'Cure', work: 'TNK'},
+instances: 6, word: 'Cut', work: 'TNK'},
+instances: 6, word: 'Either', work: 'TNK'},
+instances: 6, word: 'Enemy', work: 'TNK'},
+instances: 6, word: 'Equal', work: 'TNK'},
+instances: 6, word: 'Ev\'ry', work: 'TNK'},
+instances: 6, word: 'Fame', work: 'TNK'},
+instances: 6, word: 'Forward', work: 'TNK'},
+instances: 6, word: 'Full', work: 'TNK'},
+instances: 6, word: 'Garden', work: 'TNK'},
+instances: 6, word: 'God', work: 'TNK'},
+instances: 6, word: 'Handsome', work: 'TNK'},
+instances: 6, word: 'Hang', work: 'TNK'},
+instances: 6, word: 'Hard', work: 'TNK'},
+instances: 6, word: 'Honesty', work: 'TNK'},
+instances: 6, word: 'Ill', work: 'TNK'},
+instances: 6, word: 'King', work: 'TNK'},
+instances: 6, word: 'Kings', work: 'TNK'},
+instances: 6, word: 'Knees', work: 'TNK'},
+instances: 6, word: 'Lay', work: 'TNK'},
+instances: 6, word: 'Least', work: 'TNK'},
+instances: 6, word: 'Left', work: 'TNK'},
+instances: 6, word: 'Lies', work: 'TNK'},
+instances: 6, word: 'Looks', work: 'TNK'},
+instances: 6, word: 'Lovers', work: 'TNK'},
+instances: 6, word: 'Loving', work: 'TNK'},
+instances: 6, word: 'Mars', work: 'TNK'},
+instances: 6, word: 'Matter', work: 'TNK'},
+instances: 6, word: 'Myself', work: 'TNK'},
+instances: 6, word: 'Nonny', work: 'TNK'},
+instances: 6, word: 'Oath', work: 'TNK'},
+instances: 6, word: 'Pirithous', work: 'TNK'},
+instances: 6, word: 'Present', work: 'TNK'},
+instances: 6, word: 'Pretty', work: 'TNK'},
+instances: 6, word: 'Prisoners', work: 'TNK'},
+instances: 6, word: 'Quickly', work: 'TNK'},
+instances: 6, word: 'Sacred', work: 'TNK'},
+instances: 6, word: 'Shalt', work: 'TNK'},
+instances: 6, word: 'Sigh', work: 'TNK'},
+instances: 6, word: 'Spoke', work: 'TNK'},
+instances: 6, word: 'Sung', work: 'TNK'},
+instances: 6, word: 'Thousand', work: 'TNK'},
+instances: 6, word: 'Times', work: 'TNK'},
+instances: 6, word: 'Took', work: 'TNK'},
+instances: 6, word: 'Valor', work: 'TNK'},
+instances: 6, word: 'Victory', work: 'TNK'},
+instances: 6, word: 'Went', work: 'TNK'},
+instances: 6, word: 'What\'s', work: 'TNK'},
+instances: 6, word: 'Wise', work: 'TNK'},
+instances: 6, word: 'Won', work: 'TNK'},
+instances: 6, word: 'Youth', work: 'TNK'},
+instances: 6, word: '\'gainst', work: 'TNK'},
+instances: 5, word: 'Above', work: 'TNK'},
+instances: 5, word: 'Air', work: 'TNK'},
+instances: 5, word: 'Assure', work: 'TNK'},
+instances: 5, word: 'Athens', work: 'TNK'},
+instances: 5, word: 'Ay', work: 'TNK'},
+instances: 5, word: 'Behind', work: 'TNK'},
+instances: 5, word: 'Blessed', work: 'TNK'},
+instances: 5, word: 'Blessèd', work: 'TNK'},
+instances: 5, word: 'Breath', work: 'TNK'},
+instances: 5, word: 'Buy', work: 'TNK'},
+instances: 5, word: 'Care', work: 'TNK'},
+instances: 5, word: 'Carry', work: 'TNK'},
+instances: 5, word: 'Certain', work: 'TNK'},
+instances: 5, word: 'Children', work: 'TNK'},
+instances: 5, word: 'Choice', work: 'TNK'},
+instances: 5, word: 'City', work: 'TNK'},
+instances: 5, word: 'Command', work: 'TNK'},
+instances: 5, word: 'Commend', work: 'TNK'},
+instances: 5, word: 'Company', work: 'TNK'},
+instances: 5, word: 'Compassion', work: 'TNK'},
+instances: 5, word: 'Court', work: 'TNK'},
+instances: 5, word: 'Creon', work: 'TNK'},
+instances: 5, word: 'Cries', work: 'TNK'},
+instances: 5, word: 'Crown', work: 'TNK'},
+instances: 5, word: 'Curse', work: 'TNK'},
+instances: 5, word: 'Draw', work: 'TNK'},
+instances: 5, word: 'Due', work: 'TNK'},
+instances: 5, word: 'Excellent', work: 'TNK'},
+instances: 5, word: 'False', work: 'TNK'},
+instances: 5, word: 'Fancy', work: 'TNK'},
+instances: 5, word: 'Favor', work: 'TNK'},
+instances: 5, word: 'Fly', work: 'TNK'},
+instances: 5, word: 'Forever', work: 'TNK'},
+instances: 5, word: 'Fortunes', work: 'TNK'},
+instances: 5, word: 'Found', work: 'TNK'},
+instances: 5, word: 'Given', work: 'TNK'},
+instances: 5, word: 'Gives', work: 'TNK'},
+instances: 5, word: 'Going', work: 'TNK'},
+instances: 5, word: 'Goodly', work: 'TNK'},
+instances: 5, word: 'Green', work: 'TNK'},
+instances: 5, word: 'Ground', work: 'TNK'},
+instances: 5, word: 'Grow', work: 'TNK'},
+instances: 5, word: 'Heavens', work: 'TNK'},
+instances: 5, word: 'Ho', work: 'TNK'},
+instances: 5, word: 'Home', work: 'TNK'},
+instances: 5, word: 'Horses', work: 'TNK'},
+instances: 5, word: 'Hundred', work: 'TNK'},
+instances: 5, word: 'Husband', work: 'TNK'},
+instances: 5, word: 'Itself', work: 'TNK'},
+instances: 5, word: 'Joy', work: 'TNK'},
+instances: 5, word: 'Just', work: 'TNK'},
+instances: 5, word: 'Keeper', work: 'TNK'},
+instances: 5, word: 'Kept', work: 'TNK'},
+instances: 5, word: 'Language', work: 'TNK'},
+instances: 5, word: 'Laugh', work: 'TNK'},
+instances: 5, word: 'Lend', work: 'TNK'},
+instances: 5, word: 'Lo', work: 'TNK'},
+instances: 5, word: 'Lover', work: 'TNK'},
+instances: 5, word: 'Manly', work: 'TNK'},
+instances: 5, word: 'Mere', work: 'TNK'},
+instances: 5, word: 'Met', work: 'TNK'},
+instances: 5, word: 'Mirth', work: 'TNK'},
+instances: 5, word: 'Misery', work: 'TNK'},
+instances: 5, word: 'Naught', work: 'TNK'},
+instances: 5, word: 'O\'er', work: 'TNK'},
+instances: 5, word: 'Patience', work: 'TNK'},
+instances: 5, word: 'Peace', work: 'TNK'},
+instances: 5, word: 'Petition', work: 'TNK'},
+instances: 5, word: 'Prayers', work: 'TNK'},
+instances: 5, word: 'Prithee', work: 'TNK'},
+instances: 5, word: 'Queen', work: 'TNK'},
+instances: 5, word: 'Rare', work: 'TNK'},
+instances: 5, word: 'Sad', work: 'TNK'},
+instances: 5, word: 'Says', work: 'TNK'},
+instances: 5, word: 'Servant', work: 'TNK'},
+instances: 5, word: 'Shadow', work: 'TNK'},
+instances: 5, word: 'Skill', work: 'TNK'},
+instances: 5, word: 'Small', work: 'TNK'},
+instances: 5, word: 'Something', work: 'TNK'},
+instances: 5, word: 'Sorrow', work: 'TNK'},
+instances: 5, word: 'Sorry', work: 'TNK'},
+instances: 5, word: 'Souls', work: 'TNK'},
+instances: 5, word: 'Stands', work: 'TNK'},
+instances: 5, word: 'Success', work: 'TNK'},
+instances: 5, word: 'Swords', work: 'TNK'},
+instances: 5, word: 'Ten', work: 'TNK'},
+instances: 5, word: 'Tender', work: 'TNK'},
+instances: 5, word: 'Themselves', work: 'TNK'},
+instances: 5, word: 'Therefore', work: 'TNK'},
+instances: 5, word: 'Touch', work: 'TNK'},
+instances: 5, word: 'Turn', work: 'TNK'},
+instances: 5, word: 'Venture', work: 'TNK'},
+instances: 5, word: 'Warrant', work: 'TNK'},
+instances: 5, word: 'Water', work: 'TNK'},
+instances: 5, word: 'Wenches', work: 'TNK'},
+instances: 5, word: 'Wishes', work: 'TNK'},
+instances: 5, word: 'Word', work: 'TNK'},
+instances: 5, word: 'Work', work: 'TNK'},
+instances: 5, word: 'Wrong', work: 'TNK'},
+instances: 4, word: 'Able', work: 'TNK'},
+instances: 4, word: 'Abroad', work: 'TNK'},
+instances: 4, word: 'Affection', work: 'TNK'},
+instances: 4, word: 'Affections', work: 'TNK'},
+instances: 4, word: 'Appears', work: 'TNK'},
+instances: 4, word: 'Asked', work: 'TNK'},
+instances: 4, word: 'Banished', work: 'TNK'},
+instances: 4, word: 'Base', work: 'TNK'},
+instances: 4, word: 'Battle', work: 'TNK'},
+instances: 4, word: 'Beast', work: 'TNK'},
+instances: 4, word: 'Behold', work: 'TNK'},
+instances: 4, word: 'Black', work: 'TNK'},
+instances: 4, word: 'Blow', work: 'TNK'},
+instances: 4, word: 'Blows', work: 'TNK'},
+instances: 4, word: 'Bodies', work: 'TNK'},
+instances: 4, word: 'Bound', work: 'TNK'},
+instances: 4, word: 'Bow', work: 'TNK'},
+instances: 4, word: 'Bravely', work: 'TNK'},
+instances: 4, word: 'Bury', work: 'TNK'},
+instances: 4, word: 'Chaste', work: 'TNK'},
+instances: 4, word: 'Choose', work: 'TNK'},
+instances: 4, word: 'Clap', work: 'TNK'},
+instances: 4, word: 'Clear', work: 'TNK'},
+instances: 4, word: 'Conscience', work: 'TNK'},
+instances: 4, word: 'Course', work: 'TNK'},
+instances: 4, word: 'Cruel', work: 'TNK'},
+instances: 4, word: 'Dainty', work: 'TNK'},
+instances: 4, word: 'Days', work: 'TNK'},
+instances: 4, word: 'Deal', work: 'TNK'},
+instances: 4, word: 'Deed', work: 'TNK'},
+instances: 4, word: 'Deny', work: 'TNK'},
+instances: 4, word: 'Died', work: 'TNK'},
+instances: 4, word: 'Doctor', work: 'TNK'},
+instances: 4, word: 'Dost', work: 'TNK'},
+instances: 4, word: 'Dwell', work: 'TNK'},
+instances: 4, word: 'Entreat', work: 'TNK'},
+instances: 4, word: 'Etc.', work: 'TNK'},
+instances: 4, word: 'E\'er', work: 'TNK'},
+instances: 4, word: 'Falls', work: 'TNK'},
+instances: 4, word: 'Fate', work: 'TNK'},
+instances: 4, word: 'Fellow', work: 'TNK'},
+instances: 4, word: 'Figure', work: 'TNK'},
+instances: 4, word: 'Flower', work: 'TNK'},
+instances: 4, word: 'Food', work: 'TNK'},
+instances: 4, word: 'Foot', work: 'TNK'},
+instances: 4, word: 'Foul', work: 'TNK'},
+instances: 4, word: 'Four', work: 'TNK'},
+instances: 4, word: 'Friendship', work: 'TNK'},
+instances: 4, word: 'Garland', work: 'TNK'},
+instances: 4, word: 'Gently', work: 'TNK'},
+instances: 4, word: 'Glass', work: 'TNK'},
+instances: 4, word: 'Goes', work: 'TNK'},
+instances: 4, word: 'Got', work: 'TNK'},
+instances: 4, word: 'Grant', work: 'TNK'},
+instances: 4, word: 'Grave', work: 'TNK'},
+instances: 4, word: 'Griefs', work: 'TNK'},
+instances: 4, word: 'Ha', work: 'TNK'},
+instances: 4, word: 'Hark', work: 'TNK'},
+instances: 4, word: 'Haste', work: 'TNK'},
+instances: 4, word: 'Having', work: 'TNK'},
+instances: 4, word: 'Health', work: 'TNK'},
+instances: 4, word: 'Hearts', work: 'TNK'},
+instances: 4, word: 'Heed', work: 'TNK'},
+instances: 4, word: 'Help', work: 'TNK'},
+instances: 4, word: 'Here\'s', work: 'TNK'},
+instances: 4, word: 'Hippolyta', work: 'TNK'},
+instances: 4, word: 'Hours', work: 'TNK'},
+instances: 4, word: 'House', work: 'TNK'},
+instances: 4, word: 'Hurt', work: 'TNK'},
+instances: 4, word: 'Indeed', work: 'TNK'},
+instances: 4, word: 'Innocent', work: 'TNK'},
+instances: 4, word: 'Jove', work: 'TNK'},
+instances: 4, word: 'Kingdom', work: 'TNK'},
+instances: 4, word: 'Kinsmen', work: 'TNK'},
+instances: 4, word: 'Kissed', work: 'TNK'},
+instances: 4, word: 'Knight', work: 'TNK'},
+instances: 4, word: 'Labor', work: 'TNK'},
+instances: 4, word: 'Labored', work: 'TNK'},
+instances: 4, word: 'Learnèd', work: 'TNK'},
+instances: 4, word: 'Legs', work: 'TNK'},
+instances: 4, word: 'Lips', work: 'TNK'},
+instances: 4, word: 'Living', work: 'TNK'},
+instances: 4, word: 'Longing', work: 'TNK'},
+instances: 4, word: 'Loss', work: 'TNK'},
+instances: 4, word: 'Madness', work: 'TNK'},
+instances: 4, word: 'Manhood', work: 'TNK'},
+instances: 4, word: 'Meet', work: 'TNK'},
+instances: 4, word: 'Merry', work: 'TNK'},
+instances: 4, word: 'Methought', work: 'TNK'},
+instances: 4, word: 'Modest', work: 'TNK'},
+instances: 4, word: 'Moon', work: 'TNK'},
+instances: 4, word: 'Morris', work: 'TNK'},
+instances: 4, word: 'Mothers', work: 'TNK'},
+instances: 4, word: 'Number', work: 'TNK'},
+instances: 4, word: 'Office', work: 'TNK'},
+instances: 4, word: 'Passion', work: 'TNK'},
+instances: 4, word: 'Pay', work: 'TNK'},
+instances: 4, word: 'Pleasure', work: 'TNK'},
+instances: 4, word: 'Pluck', work: 'TNK'},
+instances: 4, word: 'Promise', work: 'TNK'},
+instances: 4, word: 'Pure', work: 'TNK'},
+instances: 4, word: 'Purpose', work: 'TNK'},
+instances: 4, word: 'Quality', work: 'TNK'},
+instances: 4, word: 'Queens', work: 'TNK'},
+instances: 4, word: 'Rarely', work: 'TNK'},
+instances: 4, word: 'Reach', work: 'TNK'},
+instances: 4, word: 'Read', work: 'TNK'},
+instances: 4, word: 'Return', work: 'TNK'},
+instances: 4, word: 'Royal', work: 'TNK'},
+instances: 4, word: 'Ruin', work: 'TNK'},
+instances: 4, word: 'Same', work: 'TNK'},
+instances: 4, word: 'Shackles', work: 'TNK'},
+instances: 4, word: 'Shame', work: 'TNK'},
+instances: 4, word: 'Sharp', work: 'TNK'},
+instances: 4, word: 'Short', work: 'TNK'},
+instances: 4, word: 'Silver', work: 'TNK'},
+instances: 4, word: 'Slain', work: 'TNK'},
+instances: 4, word: 'Songs', work: 'TNK'},
+instances: 4, word: 'Soon', work: 'TNK'},
+instances: 4, word: 'Spare', work: 'TNK'},
+instances: 4, word: 'Speech', work: 'TNK'},
+instances: 4, word: 'Spirit', work: 'TNK'},
+instances: 4, word: 'Sport', work: 'TNK'},
+instances: 4, word: 'Sports', work: 'TNK'},
+instances: 4, word: 'Stars', work: 'TNK'},
+instances: 4, word: 'Straight', work: 'TNK'},
+instances: 4, word: 'Strike', work: 'TNK'},
+instances: 4, word: 'Suffer', work: 'TNK'},
+instances: 4, word: 'Sweetly', work: 'TNK'},
+instances: 4, word: 'Sweetness', work: 'TNK'},
+instances: 4, word: 'Swore', work: 'TNK'},
+instances: 4, word: 'Tail', work: 'TNK'},
+instances: 4, word: 'Taken', work: 'TNK'},
+instances: 4, word: 'Takes', work: 'TNK'},
+instances: 4, word: 'Thanks', work: 'TNK'},
+instances: 4, word: 'Thought', work: 'TNK'},
+instances: 4, word: 'Thyself', work: 'TNK'},
+instances: 4, word: 'Token', work: 'TNK'},
+instances: 4, word: 'Tongue', work: 'TNK'},
+instances: 4, word: 'Top', work: 'TNK'},
+instances: 4, word: 'Towards', work: 'TNK'},
+instances: 4, word: 'Tree', work: 'TNK'},
+instances: 4, word: 'Valiant', work: 'TNK'},
+instances: 4, word: 'Villain', work: 'TNK'},
+instances: 4, word: 'Virgin', work: 'TNK'},
+instances: 4, word: 'Virtues', work: 'TNK'},
+instances: 4, word: 'Wanting', work: 'TNK'},
+instances: 4, word: 'Ways', work: 'TNK'},
+instances: 4, word: 'Whereto', work: 'TNK'},
+instances: 4, word: 'Whether', work: 'TNK'},
+instances: 4, word: 'While', work: 'TNK'},
+instances: 4, word: 'Whilst', work: 'TNK'},
+instances: 4, word: 'Wild', work: 'TNK'},
+instances: 4, word: 'Wilt', work: 'TNK'},
+instances: 4, word: 'Win', work: 'TNK'},
+instances: 4, word: 'Window', work: 'TNK'},
+instances: 4, word: 'Woes', work: 'TNK'},
+instances: 4, word: 'Worse', work: 'TNK'},
+instances: 4, word: 'Wreath', work: 'TNK'},
+instances: 4, word: 'Yourself', work: 'TNK'},
+instances: 4, word: '\'twill', work: 'TNK'},
+instances: 3, word: 'Actions', work: 'TNK'},
+instances: 3, word: 'Advance', work: 'TNK'},
+instances: 3, word: 'Advice', work: 'TNK'},
+instances: 3, word: 'All\'s', work: 'TNK'},
+instances: 3, word: 'Ancient', work: 'TNK'},
+instances: 3, word: 'Angry', work: 'TNK'},
+instances: 3, word: 'Anon', work: 'TNK'},
+instances: 3, word: 'Another\'s', work: 'TNK'},
+instances: 3, word: 'Appetite', work: 'TNK'},
+instances: 3, word: 'Arcite\'s', work: 'TNK'},
+instances: 3, word: 'Armed', work: 'TNK'},
+instances: 3, word: 'Armor', work: 'TNK'},
+instances: 3, word: 'Army', work: 'TNK'},
+instances: 3, word: 'Ashes', work: 'TNK'},
+instances: 3, word: 'Banquet', work: 'TNK'},
+instances: 3, word: 'Beats', work: 'TNK'},
+instances: 3, word: 'Beauties', work: 'TNK'},
+instances: 3, word: 'Because', work: 'TNK'},
+instances: 3, word: 'Bed', work: 'TNK'},
+instances: 3, word: 'Beg', work: 'TNK'},
+instances: 3, word: 'Begged', work: 'TNK'},
+instances: 3, word: 'Bells', work: 'TNK'},
+instances: 3, word: 'Bent', work: 'TNK'},
+instances: 3, word: 'Bleed', work: 'TNK'},
+instances: 3, word: 'Bless', work: 'TNK'},
+instances: 3, word: 'Blush', work: 'TNK'},
+instances: 3, word: 'Bread', work: 'TNK'},
+instances: 3, word: 'Bred', work: 'TNK'},
+instances: 3, word: 'Brow', work: 'TNK'},
+instances: 3, word: 'Brown', work: 'TNK'},
+instances: 3, word: 'Calls', work: 'TNK'},
+instances: 3, word: 'Careless', work: 'TNK'},
+instances: 3, word: 'Cast', work: 'TNK'},
+instances: 3, word: 'Catch', work: 'TNK'},
+instances: 3, word: 'Ceremony', work: 'TNK'},
+instances: 3, word: 'Clouds', work: 'TNK'},
+instances: 3, word: 'Color', work: 'TNK'},
+instances: 3, word: 'Comforts', work: 'TNK'},
+instances: 3, word: 'Complexion', work: 'TNK'},
+instances: 3, word: 'Conditions', work: 'TNK'},
+instances: 3, word: 'Constant', work: 'TNK'},
+instances: 3, word: 'Convent', work: 'TNK'},
+instances: 3, word: 'Cousin\'s', work: 'TNK'},
+instances: 3, word: 'Cross', work: 'TNK'},
+instances: 3, word: 'Curses', work: 'TNK'},
+instances: 3, word: 'Dangerous', work: 'TNK'},
+instances: 3, word: 'Dares', work: 'TNK'},
+instances: 3, word: 'Dar\'st', work: 'TNK'},
+instances: 3, word: 'Death\'s', work: 'TNK'},
+instances: 3, word: 'Deep', work: 'TNK'},
+instances: 3, word: 'Dies', work: 'TNK'},
+instances: 3, word: 'Discourse', work: 'TNK'},
+instances: 3, word: 'Domine', work: 'TNK'},
+instances: 3, word: 'Doubt', work: 'TNK'},
+instances: 3, word: 'Doubtless', work: 'TNK'},
+instances: 3, word: 'Drink', work: 'TNK'},
+instances: 3, word: 'Drown', work: 'TNK'},
+instances: 3, word: 'Drum', work: 'TNK'},
+instances: 3, word: 'Durst', work: 'TNK'},
+instances: 3, word: 'Dying', work: 'TNK'},
+instances: 3, word: 'Ears', work: 'TNK'},
+instances: 3, word: 'Edify', work: 'TNK'},
+instances: 3, word: 'Embrace', work: 'TNK'},
+instances: 3, word: 'Ended', work: 'TNK'},
+instances: 3, word: 'Enter', work: 'TNK'},
+instances: 3, word: 'Envy', work: 'TNK'},
+instances: 3, word: 'Extremely', work: 'TNK'},
+instances: 3, word: 'Fain', work: 'TNK'},
+instances: 3, word: 'Fair-eyed', work: 'TNK'},
+instances: 3, word: 'Fairer', work: 'TNK'},
+instances: 3, word: 'Fears', work: 'TNK'},
+instances: 3, word: 'Feat', work: 'TNK'},
+instances: 3, word: 'Felt', work: 'TNK'},
+instances: 3, word: 'Few', work: 'TNK'},
+instances: 3, word: 'Fie', work: 'TNK'},
+instances: 3, word: 'Fiery', work: 'TNK'},
+instances: 3, word: 'Fights', work: 'TNK'},
+instances: 3, word: 'File', work: 'TNK'},
+instances: 3, word: 'Files', work: 'TNK'},
+instances: 3, word: 'Finely', work: 'TNK'},
+instances: 3, word: 'Fixed', work: 'TNK'},
+instances: 3, word: 'Followed', work: 'TNK'},
+instances: 3, word: 'Follows', work: 'TNK'},
+instances: 3, word: 'Fools', work: 'TNK'},
+instances: 3, word: 'Forgive', work: 'TNK'},
+instances: 3, word: 'Form', work: 'TNK'},
+instances: 3, word: 'Fought', work: 'TNK'},
+instances: 3, word: 'Freedom', work: 'TNK'},
+instances: 3, word: 'Frowns', work: 'TNK'},
+instances: 3, word: 'Funeral', work: 'TNK'},
+instances: 3, word: 'Fury', work: 'TNK'},
+instances: 3, word: 'Gain', work: 'TNK'},
+instances: 3, word: 'Games', work: 'TNK'},
+instances: 3, word: 'Gather', work: 'TNK'},
+instances: 3, word: 'Gentlemen', work: 'TNK'},
+instances: 3, word: 'Godlike', work: 'TNK'},
+instances: 3, word: 'Grand', work: 'TNK'},
+instances: 3, word: 'Greater', work: 'TNK'},
+instances: 3, word: 'Guard', work: 'TNK'},
+instances: 3, word: 'Hail', work: 'TNK'},
+instances: 3, word: 'Hair', work: 'TNK'},
+instances: 3, word: 'Half', work: 'TNK'},
+instances: 3, word: 'Hallowed', work: 'TNK'},
+instances: 3, word: 'Hanged', work: 'TNK'},
+instances: 3, word: 'Happy', work: 'TNK'},
+instances: 3, word: 'Hardy', work: 'TNK'},
+instances: 3, word: 'Hawk', work: 'TNK'},
+instances: 3, word: 'Hazard', work: 'TNK'},
+instances: 3, word: 'Heads', work: 'TNK'},
+instances: 3, word: 'Heavy', work: 'TNK'},
+instances: 3, word: 'Hey', work: 'TNK'},
+instances: 3, word: 'High', work: 'TNK'},
+instances: 3, word: 'Higher', work: 'TNK'},
+instances: 3, word: 'Hither', work: 'TNK'},
+instances: 3, word: 'Honorable', work: 'TNK'},
+instances: 3, word: 'Honored', work: 'TNK'},
+instances: 3, word: 'Hopes', work: 'TNK'},
+instances: 3, word: 'Hot', work: 'TNK'},
+instances: 3, word: 'Hurts', work: 'TNK'},
+instances: 3, word: 'Ice', work: 'TNK'},
+instances: 3, word: 'Instant', work: 'TNK'},
+instances: 3, word: 'Instruments', work: 'TNK'},
+instances: 3, word: 'Iron', work: 'TNK'},
+instances: 3, word: 'Jot', work: 'TNK'},
+instances: 3, word: 'Judgment', work: 'TNK'},
+instances: 3, word: 'Knee', work: 'TNK'},
+instances: 3, word: 'Kneel', work: 'TNK'},
+instances: 3, word: 'Known', work: 'TNK'},
+instances: 3, word: 'Knows', work: 'TNK'},
+instances: 3, word: 'Lest', work: 'TNK'},
+instances: 3, word: 'Lighter', work: 'TNK'},
+instances: 3, word: 'Likely', work: 'TNK'},
+instances: 3, word: 'Longer', work: 'TNK'},
+instances: 3, word: 'Love\'s', work: 'TNK'},
+instances: 3, word: 'Lusty', work: 'TNK'},
+instances: 3, word: 'Manners', work: 'TNK'},
+instances: 3, word: 'Marriage', work: 'TNK'},
+instances: 3, word: 'Mars\'s', work: 'TNK'},
+instances: 3, word: 'Masters', work: 'TNK'},
+instances: 3, word: 'Mean', work: 'TNK'},
+instances: 3, word: 'Meant', work: 'TNK'},
+instances: 3, word: 'Meat', work: 'TNK'},
+instances: 3, word: 'Melancholy', work: 'TNK'},
+instances: 3, word: 'Memory', work: 'TNK'},
+instances: 3, word: 'Mighty', work: 'TNK'},
+instances: 3, word: 'Mile', work: 'TNK'},
+instances: 3, word: 'Minister', work: 'TNK'},
+instances: 3, word: 'Morrow', work: 'TNK'},
+instances: 3, word: 'Motion', work: 'TNK'},
+instances: 3, word: 'Nobleness', work: 'TNK'},
+instances: 3, word: 'Offense', work: 'TNK'},
+instances: 3, word: 'Often', work: 'TNK'},
+instances: 3, word: 'Open', work: 'TNK'},
+instances: 3, word: 'Ours', work: 'TNK'},
+instances: 3, word: 'Owgh', work: 'TNK'},
+instances: 3, word: 'Pair', work: 'TNK'},
+instances: 3, word: 'Path', work: 'TNK'},
+instances: 3, word: 'Patiently', work: 'TNK'},
+instances: 3, word: 'Person', work: 'TNK'},
+instances: 3, word: 'Phoebus', work: 'TNK'},
+instances: 3, word: 'Pieces', work: 'TNK'},
+instances: 3, word: 'Powers', work: 'TNK'},
+instances: 3, word: 'Prim\'st', work: 'TNK'},
+instances: 3, word: 'Prisoner', work: 'TNK'},
+instances: 3, word: 'Purchase', work: 'TNK'},
+instances: 3, word: 'Question\'s', work: 'TNK'},
+instances: 3, word: 'Quit', work: 'TNK'},
+instances: 3, word: 'Respect', work: 'TNK'},
+instances: 3, word: 'Rest', work: 'TNK'},
+instances: 3, word: 'Restored', work: 'TNK'},
+instances: 3, word: 'Rise', work: 'TNK'},
+instances: 3, word: 'Roses', work: 'TNK'},
+instances: 3, word: 'Rough', work: 'TNK'},
+instances: 3, word: 'Rude', work: 'TNK'},
+instances: 3, word: 'Sail', work: 'TNK'},
+instances: 3, word: 'Schoolmaster', work: 'TNK'},
+instances: 3, word: 'Scorn', work: 'TNK'},
+instances: 3, word: 'Seal', work: 'TNK'},
+instances: 3, word: 'Seeing', work: 'TNK'},
+instances: 3, word: 'Seemed', work: 'TNK'},
+instances: 3, word: 'Seeming', work: 'TNK'},
+instances: 3, word: 'Sent', work: 'TNK'},
+instances: 3, word: 'Sex', work: 'TNK'},
+instances: 3, word: 'Share', work: 'TNK'},
+instances: 3, word: 'Side', work: 'TNK'},
+instances: 3, word: 'Signs', work: 'TNK'},
+instances: 3, word: 'Sinews', work: 'TNK'},
+instances: 3, word: 'Sins', work: 'TNK'},
+instances: 3, word: 'Sit', work: 'TNK'},
+instances: 3, word: 'Smile', work: 'TNK'},
+instances: 3, word: 'Soft', work: 'TNK'},
+instances: 3, word: 'Sometimes', work: 'TNK'},
+instances: 3, word: 'Son', work: 'TNK'},
+instances: 3, word: 'Speaks', work: 'TNK'},
+instances: 3, word: 'Speed', work: 'TNK'},
+instances: 3, word: 'Spoken', work: 'TNK'},
+instances: 3, word: 'Star', work: 'TNK'},
+instances: 3, word: 'Start', work: 'TNK'},
+instances: 3, word: 'Stream', work: 'TNK'},
+instances: 3, word: 'Stuck', work: 'TNK'},
+instances: 3, word: 'Sweeter', work: 'TNK'},
+instances: 3, word: 'Swim', work: 'TNK'},
+instances: 3, word: 'Tack', work: 'TNK'},
+instances: 3, word: 'Tall', work: 'TNK'},
+instances: 3, word: 'Tears', work: 'TNK'},
+instances: 3, word: 'Teeth', work: 'TNK'},
+instances: 3, word: 'Tells', work: 'TNK'},
+instances: 3, word: 'Temper', work: 'TNK'},
+instances: 3, word: 'Terms', work: 'TNK'},
+instances: 3, word: 'Thick', work: 'TNK'},
+instances: 3, word: 'Tie', work: 'TNK'},
+instances: 3, word: 'Tied', work: 'TNK'},
+instances: 3, word: 'Tinker', work: 'TNK'},
+instances: 3, word: 'Titles', work: 'TNK'},
+instances: 3, word: 'Today', work: 'TNK'},
+instances: 3, word: 'Town', work: 'TNK'},
+instances: 3, word: 'Toy', work: 'TNK'},
+instances: 3, word: 'Trace', work: 'TNK'},
+instances: 3, word: 'Travel', work: 'TNK'},
+instances: 3, word: 'Trial', work: 'TNK'},
+instances: 3, word: 'Trick', work: 'TNK'},
+instances: 3, word: 'Turns', work: 'TNK'},
+instances: 3, word: 'Twain', work: 'TNK'},
+instances: 3, word: 'Undone', work: 'TNK'},
+instances: 3, word: 'Unless', work: 'TNK'},
+instances: 3, word: 'Uses', work: 'TNK'},
+instances: 3, word: 'Vengeance', work: 'TNK'},
+instances: 3, word: 'Venus', work: 'TNK'},
+instances: 3, word: 'Virtue', work: 'TNK'},
+instances: 3, word: 'Virtuous', work: 'TNK'},
+instances: 3, word: 'Visit', work: 'TNK'},
+instances: 3, word: 'Vowed', work: 'TNK'},
+instances: 3, word: 'Wars', work: 'TNK'},
+instances: 3, word: 'Weak', work: 'TNK'},
+instances: 3, word: 'Wedding', work: 'TNK'},
+instances: 3, word: 'Whate\'er', work: 'TNK'},
+instances: 3, word: 'Whither', work: 'TNK'},
+instances: 3, word: 'Whole', work: 'TNK'},
+instances: 3, word: 'Willow', work: 'TNK'},
+instances: 3, word: 'Wine', work: 'TNK'},
+instances: 3, word: 'Wondrous', work: 'TNK'},
+instances: 3, word: 'Woo', work: 'TNK'},
+instances: 3, word: 'Woods', work: 'TNK'},
+instances: 3, word: 'Words', work: 'TNK'},
+instances: 3, word: 'World\'s', work: 'TNK'},
+instances: 3, word: 'Worthiest', work: 'TNK'},
+instances: 3, word: 'Yon', work: 'TNK'},
+instances: 3, word: '\'tween', work: 'TNK'},
+instances: 2, word: 'A-hunting', work: 'TNK'},
+instances: 2, word: 'Acquaintance', work: 'TNK'},
+instances: 2, word: 'Adieu', work: 'TNK'},
+instances: 2, word: 'Adventure', work: 'TNK'},
+instances: 2, word: 'Affect', work: 'TNK'},
+instances: 2, word: 'Afoot', work: 'TNK'},
+instances: 2, word: 'Agèd', work: 'TNK'},
+instances: 2, word: 'Aid', work: 'TNK'},
+instances: 2, word: 'Alack', work: 'TNK'},
+instances: 2, word: 'Along', work: 'TNK'},
+instances: 2, word: 'Altars', work: 'TNK'},
+instances: 2, word: 'Among', work: 'TNK'},
+instances: 2, word: 'Amongst', work: 'TNK'},
+instances: 2, word: 'Answer', work: 'TNK'},
+instances: 2, word: 'Answered', work: 'TNK'},
+instances: 2, word: 'Appointment', work: 'TNK'},
+instances: 2, word: 'Approach', work: 'TNK'},
+instances: 2, word: 'Approved', work: 'TNK'},
+instances: 2, word: 'Arcas', work: 'TNK'},
+instances: 2, word: 'Assurance', work: 'TNK'},
+instances: 2, word: 'Assured', work: 'TNK'},
+instances: 2, word: 'Attention', work: 'TNK'},
+instances: 2, word: 'Aught', work: 'TNK'},
+instances: 2, word: 'Awhile', work: 'TNK'},
+instances: 2, word: 'Bachelor', work: 'TNK'},
+instances: 2, word: 'Balms', work: 'TNK'},
+instances: 2, word: 'Banishment', work: 'TNK'},
+instances: 2, word: 'Banishments', work: 'TNK'},
+instances: 2, word: 'Banks', work: 'TNK'},
+instances: 2, word: 'Baser', work: 'TNK'},
+instances: 2, word: 'Bavian', work: 'TNK'},
+instances: 2, word: 'Bears', work: 'TNK'},
+instances: 2, word: 'Beat', work: 'TNK'},
+instances: 2, word: 'Beauteous', work: 'TNK'},
+instances: 2, word: 'Becomes', work: 'TNK'},
+instances: 2, word: 'Beds', work: 'TNK'},
+instances: 2, word: 'Begging', work: 'TNK'},
+instances: 2, word: 'Begin', work: 'TNK'},
+instances: 2, word: 'Beginning', work: 'TNK'},
+instances: 2, word: 'Behavior', work: 'TNK'},
+instances: 2, word: 'Beheld', work: 'TNK'},
+instances: 2, word: 'Bell', work: 'TNK'},
+instances: 2, word: 'Bellona', work: 'TNK'},
+instances: 2, word: 'Below', work: 'TNK'},
+instances: 2, word: 'Bend', work: 'TNK'},
+instances: 2, word: 'Beshrew', work: 'TNK'},
+instances: 2, word: 'Besides', work: 'TNK'},
+instances: 2, word: 'Bestow', work: 'TNK'},
+instances: 2, word: 'Betray', work: 'TNK'},
+instances: 2, word: 'Bid', work: 'TNK'},
+instances: 2, word: 'Bids', work: 'TNK'},
+instances: 2, word: 'Bigger', work: 'TNK'},
+instances: 2, word: 'Bind', work: 'TNK'},
+instances: 2, word: 'Bird', work: 'TNK'},
+instances: 2, word: 'Births', work: 'TNK'},
+instances: 2, word: 'Blast', work: 'TNK'},
+instances: 2, word: 'Blessing', work: 'TNK'},
+instances: 2, word: 'Blest', work: 'TNK'},
+instances: 2, word: 'Blind', work: 'TNK'},
+instances: 2, word: 'Blossom', work: 'TNK'},
+instances: 2, word: 'Blushing', work: 'TNK'},
+instances: 2, word: 'Boar', work: 'TNK'},
+instances: 2, word: 'Boldly', work: 'TNK'},
+instances: 2, word: 'Born', work: 'TNK'},
+instances: 2, word: 'Bosom', work: 'TNK'},
+instances: 2, word: 'Boughs', work: 'TNK'},
+instances: 2, word: 'Brains', work: 'TNK'},
+instances: 2, word: 'Breast', work: 'TNK'},
+instances: 2, word: 'Breathed', work: 'TNK'},
+instances: 2, word: 'Breed', work: 'TNK'},
+instances: 2, word: 'Breeds', work: 'TNK'},
+instances: 2, word: 'Bride', work: 'TNK'},
+instances: 2, word: 'Brine', work: 'TNK'},
+instances: 2, word: 'Brings', work: 'TNK'},
+instances: 2, word: 'Broad', work: 'TNK'},
+instances: 2, word: 'Broke', work: 'TNK'},
+instances: 2, word: 'Buckle', work: 'TNK'},
+instances: 2, word: 'Burn', work: 'TNK'},
+instances: 2, word: 'Captivity', work: 'TNK'},
+instances: 2, word: 'Celebration', work: 'TNK'},
+instances: 2, word: 'Certainly', work: 'TNK'},
+instances: 2, word: 'Chamber', work: 'TNK'},
+instances: 2, word: 'Chastity', work: 'TNK'},
+instances: 2, word: 'Chatt\'ring', work: 'TNK'},
+instances: 2, word: 'Cheek', work: 'TNK'},
+instances: 2, word: 'Clown', work: 'TNK'},
+instances: 2, word: 'Colors', work: 'TNK'},
+instances: 2, word: 'Combat', work: 'TNK'},
+instances: 2, word: 'Comely', work: 'TNK'},
+instances: 2, word: 'Coming', work: 'TNK'},
+instances: 2, word: 'Common', work: 'TNK'},
+instances: 2, word: 'Companions', work: 'TNK'},
+instances: 2, word: 'Concerns', work: 'TNK'},
+instances: 2, word: 'Confessed', work: 'TNK'},
+instances: 2, word: 'Confirm', work: 'TNK'},
+instances: 2, word: 'Confound', work: 'TNK'},
+instances: 2, word: 'Consent', work: 'TNK'},
+instances: 2, word: 'Consider', work: 'TNK'},
+instances: 2, word: 'Contending', work: 'TNK'},
+instances: 2, word: 'Contention', work: 'TNK'},
+instances: 2, word: 'Continually', work: 'TNK'},
+instances: 2, word: 'Continue', work: 'TNK'},
+instances: 2, word: 'Cool', work: 'TNK'},
+instances: 2, word: 'Corruption', work: 'TNK'},
+instances: 2, word: 'Cost', work: 'TNK'},
+instances: 2, word: 'Count', work: 'TNK'},
+instances: 2, word: 'Courage', work: 'TNK'},
+instances: 2, word: 'Cousins', work: 'TNK'},
+instances: 2, word: 'Coward', work: 'TNK'},
+instances: 2, word: 'Coy', work: 'TNK'},
+instances: 2, word: 'Creature', work: 'TNK'},
+instances: 2, word: 'Credit', work: 'TNK'},
+instances: 2, word: 'Crimes', work: 'TNK'},
+instances: 2, word: 'Cruelty', work: 'TNK'},
+instances: 2, word: 'Cunning', work: 'TNK'},
+instances: 2, word: 'Cunningly', work: 'TNK'},
+instances: 2, word: 'Cursèd', work: 'TNK'},
+instances: 2, word: 'Curtsy', work: 'TNK'},
+instances: 2, word: 'Danced', work: 'TNK'},
+instances: 2, word: 'Dangers', work: 'TNK'},
+instances: 2, word: 'Darkness', work: 'TNK'},
+instances: 2, word: 'Deadly', work: 'TNK'},
+instances: 2, word: 'Dearest', work: 'TNK'},
+instances: 2, word: 'Dearly', work: 'TNK'},
+instances: 2, word: 'Decays', work: 'TNK'},
+instances: 2, word: 'Decider', work: 'TNK'},
+instances: 2, word: 'Deeper', work: 'TNK'},
+instances: 2, word: 'Defier', work: 'TNK'},
+instances: 2, word: 'Delay', work: 'TNK'},
+instances: 2, word: 'Deliver', work: 'TNK'},
+instances: 2, word: 'Depart', work: 'TNK'},
+instances: 2, word: 'Departed', work: 'TNK'},
+instances: 2, word: 'Derry', work: 'TNK'},
+instances: 2, word: 'Despise', work: 'TNK'},
+instances: 2, word: 'Devil', work: 'TNK'},
+instances: 2, word: 'Devils', work: 'TNK'},
+instances: 2, word: 'Difference', work: 'TNK'},
+instances: 2, word: 'Diff\'ring', work: 'TNK'},
+instances: 2, word: 'Dii', work: 'TNK'},
+instances: 2, word: 'Disguise', work: 'TNK'},
+instances: 2, word: 'Dishonor', work: 'TNK'},
+instances: 2, word: 'Dispatch', work: 'TNK'},
+instances: 2, word: 'Distempered', work: 'TNK'},
+instances: 2, word: 'Distinguish', work: 'TNK'},
+instances: 2, word: 'Dogs', work: 'TNK'},
+instances: 2, word: 'Doing', work: 'TNK'},
+instances: 2, word: 'Doughty', work: 'TNK'},
+instances: 2, word: 'Down-a', work: 'TNK'},
+instances: 2, word: 'Draught', work: 'TNK'},
+instances: 2, word: 'Dreadful', work: 'TNK'},
+instances: 2, word: 'Dream', work: 'TNK'},
+instances: 2, word: 'Driven', work: 'TNK'},
+instances: 2, word: 'Drops', work: 'TNK'},
+instances: 2, word: 'Dukedom', work: 'TNK'},
+instances: 2, word: 'Dull', work: 'TNK'},
+instances: 2, word: 'Dust', work: 'TNK'},
+instances: 2, word: 'East', work: 'TNK'},
+instances: 2, word: 'Echoes', work: 'TNK'},
+instances: 2, word: 'Edict', work: 'TNK'},
+instances: 2, word: 'Eleven', work: 'TNK'},
+instances: 2, word: 'Embraces', work: 'TNK'},
+instances: 2, word: 'Endless', work: 'TNK'},
+instances: 2, word: 'Ends', work: 'TNK'},
+instances: 2, word: 'Endured', work: 'TNK'},
+instances: 2, word: 'Enemies', work: 'TNK'},
+instances: 2, word: 'Enforce', work: 'TNK'},
+instances: 2, word: 'Enjoying', work: 'TNK'},
+instances: 2, word: 'Envious', work: 'TNK'},
+instances: 2, word: 'Equally', work: 'TNK'},
+instances: 2, word: 'Escape', work: 'TNK'},
+instances: 2, word: 'Evil', work: 'TNK'},
+instances: 2, word: 'Example', work: 'TNK'},
+instances: 2, word: 'Exceed', work: 'TNK'},
+instances: 2, word: 'Execution', work: 'TNK'},
+instances: 2, word: 'Expectation', work: 'TNK'},
+instances: 2, word: 'Expire', work: 'TNK'},
+instances: 2, word: 'Extinct', work: 'TNK'},
+instances: 2, word: 'Faculties', work: 'TNK'},
+instances: 2, word: 'Faint', work: 'TNK'},
+instances: 2, word: 'Fairly', work: 'TNK'},
+instances: 2, word: 'Faithfully', work: 'TNK'},
+instances: 2, word: 'Fall\'n', work: 'TNK'},
+instances: 2, word: 'Falsehood', work: 'TNK'},
+instances: 2, word: 'Famed', work: 'TNK'},
+instances: 2, word: 'Fathers', work: 'TNK'},
+instances: 2, word: 'Fearful', work: 'TNK'},
+instances: 2, word: 'Feast', work: 'TNK'},
+instances: 2, word: 'Feed', work: 'TNK'},
+instances: 2, word: 'Feel\'st', work: 'TNK'},
+instances: 2, word: 'Feet', work: 'TNK'},
+instances: 2, word: 'Fever', work: 'TNK'},
+instances: 2, word: 'Figures', work: 'TNK'},
+instances: 2, word: 'Finds', work: 'TNK'},
+instances: 2, word: 'Fires', work: 'TNK'},
+instances: 2, word: 'Fish', work: 'TNK'},
+instances: 2, word: 'Fitting', work: 'TNK'},
+instances: 2, word: 'Flames', work: 'TNK'},
+instances: 2, word: 'Flavina', work: 'TNK'},
+instances: 2, word: 'Flew', work: 'TNK'},
+instances: 2, word: 'Fling', work: 'TNK'},
+instances: 2, word: 'Foe', work: 'TNK'},
+instances: 2, word: 'Foes', work: 'TNK'},
+instances: 2, word: 'Folly', work: 'TNK'},
+instances: 2, word: 'Forget', work: 'TNK'},
+instances: 2, word: 'Fruit', work: 'TNK'},
+instances: 2, word: 'Furnished', work: 'TNK'},
+instances: 2, word: 'Gallants', work: 'TNK'},
+instances: 2, word: 'Game', work: 'TNK'},
+instances: 2, word: 'Garlands', work: 'TNK'},
+instances: 2, word: 'Garments', work: 'TNK'},
+instances: 2, word: 'Gaze', work: 'TNK'},
+instances: 2, word: 'General', work: 'TNK'},
+instances: 2, word: 'Generous', work: 'TNK'},
+instances: 2, word: 'Glory', work: 'TNK'},
+instances: 2, word: 'God\'s', work: 'TNK'},
+instances: 2, word: 'Gold', work: 'TNK'},
+instances: 2, word: 'Gout', work: 'TNK'},
+instances: 2, word: 'Gown', work: 'TNK'},
+instances: 2, word: 'Gravity', work: 'TNK'},
+instances: 2, word: 'Grew', work: 'TNK'},
+instances: 2, word: 'Groan', work: 'TNK'},
+instances: 2, word: 'Grown', work: 'TNK'},
+instances: 2, word: 'Grows', work: 'TNK'},
+instances: 2, word: 'Guess', work: 'TNK'},
+instances: 2, word: 'Guiltless', work: 'TNK'},
+instances: 2, word: 'Guilty', work: 'TNK'},
+instances: 2, word: 'Gyves', work: 'TNK'},
+instances: 2, word: 'Hailed', work: 'TNK'},
+instances: 2, word: 'Hangs', work: 'TNK'},
+instances: 2, word: 'Haply', work: 'TNK'},
+instances: 2, word: 'Happiness', work: 'TNK'},
+instances: 2, word: 'Harm', work: 'TNK'},
+instances: 2, word: 'Hate', work: 'TNK'},
+instances: 2, word: 'Head\'s', work: 'TNK'},
+instances: 2, word: 'Hearing', work: 'TNK'},
+instances: 2, word: 'Heaven\'s', work: 'TNK'},
+instances: 2, word: 'Heir', work: 'TNK'},
+instances: 2, word: 'Hercules', work: 'TNK'},
+instances: 2, word: 'Hereafter', work: 'TNK'},
+instances: 2, word: 'Hers', work: 'TNK'},
+instances: 2, word: 'Hidden', work: 'TNK'},
+instances: 2, word: 'Hip', work: 'TNK'},
+instances: 2, word: 'Hiss', work: 'TNK'},
+instances: 2, word: 'Honors', work: 'TNK'},
+instances: 2, word: 'Horns', work: 'TNK'},
+instances: 2, word: 'Howls', work: 'TNK'},
+instances: 2, word: 'Human', work: 'TNK'},
+instances: 2, word: 'Humble', work: 'TNK'},
+instances: 2, word: 'Humor', work: 'TNK'},
+instances: 2, word: 'Hung', work: 'TNK'},
+instances: 2, word: 'Ignorance', work: 'TNK'},
+instances: 2, word: 'Inch', work: 'TNK'},
+instances: 2, word: 'Infects', work: 'TNK'},
+instances: 2, word: 'Infinite', work: 'TNK'},
+instances: 2, word: 'Infuse', work: 'TNK'},
+instances: 2, word: 'Instruct', work: 'TNK'},
+instances: 2, word: 'Invent', work: 'TNK'},
+instances: 2, word: 'Its', work: 'TNK'},
+instances: 2, word: 'I\'d', work: 'TNK'},
+instances: 2, word: 'Jewel', work: 'TNK'},
+instances: 2, word: 'Judge', work: 'TNK'},
+instances: 2, word: 'Juno\'s', work: 'TNK'},
+instances: 2, word: 'Justly', work: 'TNK'},
+instances: 2, word: 'Kindly', work: 'TNK'},
+instances: 2, word: 'Kindred', work: 'TNK'},
+instances: 2, word: 'Lads', work: 'TNK'},
+instances: 2, word: 'Lake', work: 'TNK'},
+instances: 2, word: 'Large', work: 'TNK'},
+instances: 2, word: 'Lass', work: 'TNK'},
+instances: 2, word: 'Learning', work: 'TNK'},
+instances: 2, word: 'Leaves', work: 'TNK'},
+instances: 2, word: 'Led', work: 'TNK'},
+instances: 2, word: 'Length', work: 'TNK'},
+instances: 2, word: 'Less', work: 'TNK'},
+instances: 2, word: 'Lightning', work: 'TNK'},
+instances: 2, word: 'Lined', work: 'TNK'},
+instances: 2, word: 'Lions', work: 'TNK'},
+instances: 2, word: 'Locks', work: 'TNK'},
+instances: 2, word: 'Lodging', work: 'TNK'},
+instances: 2, word: 'Loses', work: 'TNK'},
+instances: 2, word: 'Madwoman', work: 'TNK'},
+instances: 2, word: 'Maidenhead', work: 'TNK'},
+instances: 2, word: 'Main', work: 'TNK'},
+instances: 2, word: 'Maintain', work: 'TNK'},
+instances: 2, word: 'Making', work: 'TNK'},
+instances: 2, word: 'Mak\'st', work: 'TNK'},
+instances: 2, word: 'Mantle', work: 'TNK'},
+instances: 2, word: 'Man\'s', work: 'TNK'},
+instances: 2, word: 'March', work: 'TNK'},
+instances: 2, word: 'Mare', work: 'TNK'},
+instances: 2, word: 'Millions', work: 'TNK'},
+instances: 2, word: 'Miscarry', work: 'TNK'},
+instances: 2, word: 'Miserable', work: 'TNK'},
+instances: 2, word: 'Modesty', work: 'TNK'},
+instances: 2, word: 'Money', work: 'TNK'},
+instances: 2, word: 'Month', work: 'TNK'},
+instances: 2, word: 'Mother', work: 'TNK'},
+instances: 2, word: 'Mounted', work: 'TNK'},
+instances: 2, word: 'Move', work: 'TNK'},
+instances: 2, word: 'Moved', work: 'TNK'},
+instances: 2, word: 'Music', work: 'TNK'},
+instances: 2, word: 'Names', work: 'TNK'},
+instances: 2, word: 'Narcissus', work: 'TNK'},
+instances: 2, word: 'Nec', work: 'TNK'},
+instances: 2, word: 'Need', work: 'TNK'},
+instances: 2, word: 'Needful', work: 'TNK'},
+instances: 2, word: 'North', work: 'TNK'},
+instances: 2, word: 'Nullity', work: 'TNK'},
+instances: 2, word: 'Nymph', work: 'TNK'},
+instances: 2, word: 'Object', work: 'TNK'},
+instances: 2, word: 'Observe', work: 'TNK'},
+instances: 2, word: 'Odors', work: 'TNK'},
+instances: 2, word: 'Offices', work: 'TNK'},
+instances: 2, word: 'Omit', work: 'TNK'},
+instances: 2, word: 'Others', work: 'TNK'},
+instances: 2, word: 'Ought', work: 'TNK'},
+instances: 2, word: 'Ourselves', work: 'TNK'},
+instances: 2, word: 'Over', work: 'TNK'},
+instances: 2, word: 'Owl', work: 'TNK'},
+instances: 2, word: 'Pace', work: 'TNK'},
+instances: 2, word: 'Pains', work: 'TNK'},
+instances: 2, word: 'Palamon\'s', work: 'TNK'},
+instances: 2, word: 'Parts', work: 'TNK'},
+instances: 2, word: 'Past', work: 'TNK'},
+instances: 2, word: 'People', work: 'TNK'},
+instances: 2, word: 'People\'s', work: 'TNK'},
+instances: 2, word: 'Perfect', work: 'TNK'},
+instances: 2, word: 'Perfume', work: 'TNK'},
+instances: 2, word: 'Perfumes', work: 'TNK'},
+instances: 2, word: 'Perished', work: 'TNK'},
+instances: 2, word: 'Persons', work: 'TNK'},
+instances: 2, word: 'Persuade', work: 'TNK'},
+instances: 2, word: 'Pillar', work: 'TNK'},
+instances: 2, word: 'Pinch', work: 'TNK'},
+instances: 2, word: 'Pleasures', work: 'TNK'},
+instances: 2, word: 'Pledge', work: 'TNK'},
+instances: 2, word: 'Plight', work: 'TNK'},
+instances: 2, word: 'Plum', work: 'TNK'},
+instances: 2, word: 'Poet', work: 'TNK'},
+instances: 2, word: 'Point', work: 'TNK'},
+instances: 2, word: 'Pointed', work: 'TNK'},
+instances: 2, word: 'Poise', work: 'TNK'},
+instances: 2, word: 'Poison', work: 'TNK'},
+instances: 2, word: 'Port', work: 'TNK'},
+instances: 2, word: 'Possible', work: 'TNK'},
+instances: 2, word: 'Post', work: 'TNK'},
+instances: 2, word: 'Praise', work: 'TNK'},
+instances: 2, word: 'Precious', work: 'TNK'},
+instances: 2, word: 'Presents', work: 'TNK'},
+instances: 2, word: 'Preserve', work: 'TNK'},
+instances: 2, word: 'Prey', work: 'TNK'},
+instances: 2, word: 'Price', work: 'TNK'},
+instances: 2, word: 'Priest', work: 'TNK'},
+instances: 2, word: 'Prize', work: 'TNK'},
+instances: 2, word: 'Proceeding', work: 'TNK'},
+instances: 2, word: 'Proclaim', work: 'TNK'},
+instances: 2, word: 'Proclaimed', work: 'TNK'},
+instances: 2, word: 'Prove', work: 'TNK'},
+instances: 2, word: 'Provide', work: 'TNK'},
+instances: 2, word: 'Punishment', work: 'TNK'},
+instances: 2, word: 'Pursue', work: 'TNK'},
+instances: 2, word: 'Pyramid', work: 'TNK'},
+instances: 2, word: 'Quarrel', work: 'TNK'},
+instances: 2, word: 'Questions', work: 'TNK'},
+instances: 2, word: 'Rage', work: 'TNK'},
+instances: 2, word: 'Rain', work: 'TNK'},
+instances: 2, word: 'Raise', work: 'TNK'},
+instances: 2, word: 'Rashly', work: 'TNK'},
+instances: 2, word: 'Ready', work: 'TNK'},
+instances: 2, word: 'Receive', work: 'TNK'},
+instances: 2, word: 'Recompense', work: 'TNK'},
+instances: 2, word: 'Red', work: 'TNK'},
+instances: 2, word: 'Reeds', work: 'TNK'},
+instances: 2, word: 'Refuses', work: 'TNK'},
+instances: 2, word: 'Regard', work: 'TNK'},
+instances: 2, word: 'Remedy', work: 'TNK'},
+instances: 2, word: 'Repeat', work: 'TNK'},
+instances: 2, word: 'Report', work: 'TNK'},
+instances: 2, word: 'Require', work: 'TNK'},
+instances: 2, word: 'Resolved', work: 'TNK'},
+instances: 2, word: 'Revealed', work: 'TNK'},
+instances: 2, word: 'Ride', work: 'TNK'},
+instances: 2, word: 'Rider', work: 'TNK'},
+instances: 2, word: 'Ripe', work: 'TNK'},
+instances: 2, word: 'Robin', work: 'TNK'},
+instances: 2, word: 'Rose', work: 'TNK'},
+instances: 2, word: 'Rotten', work: 'TNK'},
+instances: 2, word: 'Round', work: 'TNK'},
+instances: 2, word: 'Rout', work: 'TNK'},
+instances: 2, word: 'Ruins', work: 'TNK'},
+instances: 2, word: 'Running', work: 'TNK'},
+instances: 2, word: 'Rushes', work: 'TNK'},
+instances: 2, word: 'Sadness', work: 'TNK'},
+instances: 2, word: 'Sanctuary', work: 'TNK'},
+instances: 2, word: 'Saved', work: 'TNK'},
+instances: 2, word: 'Scandal', work: 'TNK'},
+instances: 2, word: 'Scattered', work: 'TNK'},
+instances: 2, word: 'Scenes', work: 'TNK'},
+instances: 2, word: 'Schoolboys', work: 'TNK'},
+instances: 2, word: 'Scorch', work: 'TNK'},
+instances: 2, word: 'Scornful', work: 'TNK'},
+instances: 2, word: 'Scurvy', work: 'TNK'},
+instances: 2, word: 'Sea', work: 'TNK'},
+instances: 2, word: 'Seas', work: 'TNK'},
+instances: 2, word: 'Season', work: 'TNK'},
+instances: 2, word: 'Seasoned', work: 'TNK'},
+instances: 2, word: 'Seat', work: 'TNK'},
+instances: 2, word: 'Second', work: 'TNK'},
+instances: 2, word: 'Seem', work: 'TNK'},
+instances: 2, word: 'Seems', work: 'TNK'},
+instances: 2, word: 'Self', work: 'TNK'},
+instances: 2, word: 'Selfsame', work: 'TNK'},
+instances: 2, word: 'Serve', work: 'TNK'},
+instances: 2, word: 'Served', work: 'TNK'},
+instances: 2, word: 'Settle', work: 'TNK'},
+instances: 2, word: 'Several', work: 'TNK'},
+instances: 2, word: 'Shine', work: 'TNK'},
+instances: 2, word: 'Shining', work: 'TNK'},
+instances: 2, word: 'Ship', work: 'TNK'},
+instances: 2, word: 'Shortly', work: 'TNK'},
+instances: 2, word: 'Showed', work: 'TNK'},
+instances: 2, word: 'Sick', work: 'TNK'},
+instances: 2, word: 'Sink', work: 'TNK'},
+instances: 2, word: 'Sirrah', work: 'TNK'},
+instances: 2, word: 'Sits', work: 'TNK'},
+instances: 2, word: 'Smell', work: 'TNK'},
+instances: 2, word: 'Smiles', work: 'TNK'},
+instances: 2, word: 'Smiling', work: 'TNK'},
+instances: 2, word: 'Soldiers', work: 'TNK'},
+instances: 2, word: 'Solemn', work: 'TNK'},
+instances: 2, word: 'Solemnity', work: 'TNK'},
+instances: 2, word: 'Sometime', work: 'TNK'},
+instances: 2, word: 'Somewhat', work: 'TNK'},
+instances: 2, word: 'Sons', work: 'TNK'},
+instances: 2, word: 'Sought', work: 'TNK'},
+instances: 2, word: 'Sounds', work: 'TNK'},
+instances: 2, word: 'Sovereign', work: 'TNK'},
+instances: 2, word: 'Spread', work: 'TNK'},
+instances: 2, word: 'Spur', work: 'TNK'},
+instances: 2, word: 'Square', work: 'TNK'},
+instances: 2, word: 'Stag', work: 'TNK'},
+instances: 2, word: 'Stale', work: 'TNK'},
+instances: 2, word: 'Stays', work: 'TNK'},
+instances: 2, word: 'Steed', work: 'TNK'},
+instances: 2, word: 'Step', work: 'TNK'},
+instances: 2, word: 'Stol\'n', work: 'TNK'},
+instances: 2, word: 'Stomach', work: 'TNK'},
+instances: 2, word: 'Stood', work: 'TNK'},
+instances: 2, word: 'Stop', work: 'TNK'},
+instances: 2, word: 'Story', work: 'TNK'},
+instances: 2, word: 'Stout-hearted', work: 'TNK'},
+instances: 2, word: 'Strangers', work: 'TNK'},
+instances: 2, word: 'Strife', work: 'TNK'},
+instances: 2, word: 'Stroke', work: 'TNK'},
+instances: 2, word: 'Struck', work: 'TNK'},
+instances: 2, word: 'Stuff', work: 'TNK'},
+instances: 2, word: 'Styled', work: 'TNK'},
+instances: 2, word: 'Subdued', work: 'TNK'},
+instances: 2, word: 'Suit', work: 'TNK'},
+instances: 2, word: 'Suitor', work: 'TNK'},
+instances: 2, word: 'Surely', work: 'TNK'},
+instances: 2, word: 'Surfeit', work: 'TNK'},
+instances: 2, word: 'Sweetheart', work: 'TNK'},
+instances: 2, word: 'Swell', work: 'TNK'},
+instances: 2, word: 'Swift', work: 'TNK'},
+instances: 2, word: 'Swine', work: 'TNK'},
+instances: 2, word: 'Tailor', work: 'TNK'},
+instances: 2, word: 'Tale', work: 'TNK'},
+instances: 2, word: 'Teach', work: 'TNK'},
+instances: 2, word: 'Temples', work: 'TNK'},
+instances: 2, word: 'Tenor', work: 'TNK'},
+instances: 2, word: 'Thankful', work: 'TNK'},
+instances: 2, word: 'Therein', work: 'TNK'},
+instances: 2, word: 'Threaten', work: 'TNK'},
+instances: 2, word: 'Threats', work: 'TNK'},
+instances: 2, word: 'Thrive', work: 'TNK'},
+instances: 2, word: 'Throats', work: 'TNK'},
+instances: 2, word: 'Throw', work: 'TNK'},
+instances: 2, word: 'Thunder', work: 'TNK'},
+instances: 2, word: 'Tickle', work: 'TNK'},
+instances: 2, word: 'Toil', work: 'TNK'},
+instances: 2, word: 'Tough', work: 'TNK'},
+instances: 2, word: 'Traitors', work: 'TNK'},
+instances: 2, word: 'Transported', work: 'TNK'},
+instances: 2, word: 'Treacherous', work: 'TNK'},
+instances: 2, word: 'Treachery', work: 'TNK'},
+instances: 2, word: 'Treasure', work: 'TNK'},
+instances: 2, word: 'Tresses', work: 'TNK'},
+instances: 2, word: 'Tried', work: 'TNK'},
+instances: 2, word: 'Trifle', work: 'TNK'},
+instances: 2, word: 'Troth', work: 'TNK'},
+instances: 2, word: 'Truer', work: 'TNK'},
+instances: 2, word: 'Truest', work: 'TNK'},
+instances: 2, word: 'Trust', work: 'TNK'},
+instances: 2, word: 'Twins', work: 'TNK'},
+instances: 2, word: 'Tyrant', work: 'TNK'},
+instances: 2, word: 'Understand', work: 'TNK'},
+instances: 2, word: 'Understanding', work: 'TNK'},
+instances: 2, word: 'Unlike', work: 'TNK'},
+instances: 2, word: 'Unworthy', work: 'TNK'},
+instances: 2, word: 'Utter', work: 'TNK'},
+instances: 2, word: 'Vain', work: 'TNK'},
+instances: 2, word: 'Vainly', work: 'TNK'},
+instances: 2, word: 'Ventured', work: 'TNK'},
+instances: 2, word: 'Victors', work: 'TNK'},
+instances: 2, word: 'Victor\'s', work: 'TNK'},
+instances: 2, word: 'View', work: 'TNK'},
+instances: 2, word: 'Voice', work: 'TNK'},
+instances: 2, word: 'Vow', work: 'TNK'},
+instances: 2, word: 'Wast', work: 'TNK'},
+instances: 2, word: 'Waters', work: 'TNK'},
+instances: 2, word: 'Wears', work: 'TNK'},
+instances: 2, word: 'Weary', work: 'TNK'},
+instances: 2, word: 'Weight', work: 'TNK'},
+instances: 2, word: 'Well-steeled', work: 'TNK'},
+instances: 2, word: 'Wept', work: 'TNK'},
+instances: 2, word: 'Wheaten', work: 'TNK'},
+instances: 2, word: 'Whence', work: 'TNK'},
+instances: 2, word: 'Whereon', work: 'TNK'},
+instances: 2, word: 'Whistle', work: 'TNK'},
+instances: 2, word: 'Wide', work: 'TNK'},
+instances: 2, word: 'Willing', work: 'TNK'},
+instances: 2, word: 'Wills', work: 'TNK'},
+instances: 2, word: 'Winds', work: 'TNK'},
+instances: 2, word: 'Wings', work: 'TNK'},
+instances: 2, word: 'Wins', work: 'TNK'},
+instances: 2, word: 'Withal', work: 'TNK'},
+instances: 2, word: 'Witless', work: 'TNK'},
+instances: 2, word: 'Wits', work: 'TNK'},
+instances: 2, word: 'Woe', work: 'TNK'},
+instances: 2, word: 'Wolf', work: 'TNK'},
+instances: 2, word: 'Woman\'s', work: 'TNK'},
+instances: 2, word: 'Wonder', work: 'TNK'},
+instances: 2, word: 'Wore', work: 'TNK'},
+instances: 2, word: 'Worst', work: 'TNK'},
+instances: 2, word: 'Wrath', work: 'TNK'},
+instances: 2, word: 'Wrestle', work: 'TNK'},
+instances: 2, word: 'Wretched', work: 'TNK'},
+instances: 2, word: 'Year', work: 'TNK'},
+instances: 2, word: 'Yellow', work: 'TNK'},
+instances: 2, word: 'Youngest', work: 'TNK'},
+instances: 2, word: 'Youths', work: 'TNK'},
+instances: 2, word: 'À', work: 'TNK'},
+instances: 2, word: '\'scape', work: 'TNK'},
+instances: 2, word: '\'twould', work: 'TNK'},
+instances: 1, word: 'A-begging', work: 'TNK'},
+instances: 1, word: 'A-pieces', work: 'TNK'},
+instances: 1, word: 'Abandoner', work: 'TNK'},
+instances: 1, word: 'Abatement', work: 'TNK'},
+instances: 1, word: 'Ablest', work: 'TNK'},
+instances: 1, word: 'Aboard', work: 'TNK'},
+instances: 1, word: 'Absent', work: 'TNK'},
+instances: 1, word: 'Absolute', work: 'TNK'},
+instances: 1, word: 'Abstaining', work: 'TNK'},
+instances: 1, word: 'Abstinence', work: 'TNK'},
+instances: 1, word: 'Abuse', work: 'TNK'},
+instances: 1, word: 'Acceptance', work: 'TNK'},
+instances: 1, word: 'Accompanied', work: 'TNK'},
+instances: 1, word: 'Account', work: 'TNK'},
+instances: 1, word: 'Accounts', work: 'TNK'},
+instances: 1, word: 'Accursed', work: 'TNK'},
+instances: 1, word: 'Achieved', work: 'TNK'},
+instances: 1, word: 'Acknowledge', work: 'TNK'},
+instances: 1, word: 'Acquainted', work: 'TNK'},
+instances: 1, word: 'Action', work: 'TNK'},
+instances: 1, word: 'Action\'s', work: 'TNK'},
+instances: 1, word: 'Active', work: 'TNK'},
+instances: 1, word: 'Addition', work: 'TNK'},
+instances: 1, word: 'Add\'st', work: 'TNK'},
+instances: 1, word: 'Admire', work: 'TNK'},
+instances: 1, word: 'Admired', work: 'TNK'},
+instances: 1, word: 'Adopt', work: 'TNK'},
+instances: 1, word: 'Advanced', work: 'TNK'},
+instances: 1, word: 'Advances', work: 'TNK'},
+instances: 1, word: 'Advantage', work: 'TNK'},
+instances: 1, word: 'Advantages', work: 'TNK'},
+instances: 1, word: 'Adversity', work: 'TNK'},
+instances: 1, word: 'Advertised', work: 'TNK'},
+instances: 1, word: 'Advised', work: 'TNK'},
+instances: 1, word: 'Advocate', work: 'TNK'},
+instances: 1, word: 'Aeneas', work: 'TNK'},
+instances: 1, word: 'Affected', work: 'TNK'},
+instances: 1, word: 'Affliction', work: 'TNK'},
+instances: 1, word: 'Affords', work: 'TNK'},
+instances: 1, word: 'Afire', work: 'TNK'},
+instances: 1, word: 'Afore', work: 'TNK'},
+instances: 1, word: 'Afternoon', work: 'TNK'},
+instances: 1, word: 'Afterward', work: 'TNK'},
+instances: 1, word: 'Agents', work: 'TNK'},
+instances: 1, word: 'Ages', work: 'TNK'},
+instances: 1, word: 'Aghast', work: 'TNK'},
+instances: 1, word: 'Aglets', work: 'TNK'},
+instances: 1, word: 'Agony', work: 'TNK'},
+instances: 1, word: 'Agree', work: 'TNK'},
+instances: 1, word: 'Ah', work: 'TNK'},
+instances: 1, word: 'Ail', work: 'TNK'},
+instances: 1, word: 'Akin', work: 'TNK'},
+instances: 1, word: 'Alacrity', work: 'TNK'},
+instances: 1, word: 'Alarm', work: 'TNK'},
+instances: 1, word: 'Alcides', work: 'TNK'},
+instances: 1, word: 'Aliis', work: 'TNK'},
+instances: 1, word: 'Alive', work: 'TNK'},
+instances: 1, word: 'All-feared', work: 'TNK'},
+instances: 1, word: 'All-noble', work: 'TNK'},
+instances: 1, word: 'All-royal', work: 'TNK'},
+instances: 1, word: 'Alliance', work: 'TNK'},
+instances: 1, word: 'Allow', work: 'TNK'},
+instances: 1, word: 'Allowance', work: 'TNK'},
+instances: 1, word: 'Allow\'st', work: 'TNK'},
+instances: 1, word: 'Alow', work: 'TNK'},
+instances: 1, word: 'Also', work: 'TNK'},
+instances: 1, word: 'Alters', work: 'TNK'},
+instances: 1, word: 'Although', work: 'TNK'},
+instances: 1, word: 'Altogether', work: 'TNK'},
+instances: 1, word: 'Amazonian', work: 'TNK'},
+instances: 1, word: 'Ambitious', work: 'TNK'},
+instances: 1, word: 'Amen', work: 'TNK'},
+instances: 1, word: 'Amiss', work: 'TNK'},
+instances: 1, word: 'Anatomy', work: 'TNK'},
+instances: 1, word: 'Anew', work: 'TNK'},
+instances: 1, word: 'Angel', work: 'TNK'},
+instances: 1, word: 'Angers', work: 'TNK'},
+instances: 1, word: 'Angle', work: 'TNK'},
+instances: 1, word: 'Angling', work: 'TNK'},
+instances: 1, word: 'Antic', work: 'TNK'},
+instances: 1, word: 'Apes', work: 'TNK'},
+instances: 1, word: 'Apollo', work: 'TNK'},
+instances: 1, word: 'Apollo\'s', work: 'TNK'},
+instances: 1, word: 'Appalls', work: 'TNK'},
+instances: 1, word: 'Appeared', work: 'TNK'},
+instances: 1, word: 'Appliance', work: 'TNK'},
+instances: 1, word: 'Appointed', work: 'TNK'},
+instances: 1, word: 'Apprehension', work: 'TNK'},
+instances: 1, word: 'Approachers', work: 'TNK'},
+instances: 1, word: 'Approaches', work: 'TNK'},
+instances: 1, word: 'Apricock', work: 'TNK'},
+instances: 1, word: 'Apter', work: 'TNK'},
+instances: 1, word: 'Arbitrament', work: 'TNK'},
+instances: 1, word: 'Arbitrator', work: 'TNK'},
+instances: 1, word: 'Arbor', work: 'TNK'},
+instances: 1, word: 'Arched', work: 'TNK'},
+instances: 1, word: 'Ardently', work: 'TNK'},
+instances: 1, word: 'Argue', work: 'TNK'},
+instances: 1, word: 'Argument', work: 'TNK'},
+instances: 1, word: 'Arise', work: 'TNK'},
+instances: 1, word: 'Armies', work: 'TNK'},
+instances: 1, word: 'Armipotent', work: 'TNK'},
+instances: 1, word: 'Armors', work: 'TNK'},
+instances: 1, word: 'Armor\'s', work: 'TNK'},
+instances: 1, word: 'Arouse', work: 'TNK'},
+instances: 1, word: 'Arraignment', work: 'TNK'},
+instances: 1, word: 'Arras', work: 'TNK'},
+instances: 1, word: 'Arrouse', work: 'TNK'},
+instances: 1, word: 'Artesius', work: 'TNK'},
+instances: 1, word: 'Ashamed', work: 'TNK'},
+instances: 1, word: 'Aspect', work: 'TNK'},
+instances: 1, word: 'Aspire', work: 'TNK'},
+instances: 1, word: 'Assistants', work: 'TNK'},
+instances: 1, word: 'Ate', work: 'TNK'},
+instances: 1, word: 'Athenians', work: 'TNK'},
+instances: 1, word: 'Attend', work: 'TNK'},
+instances: 1, word: 'Attendance', work: 'TNK'},
+instances: 1, word: 'Attending', work: 'TNK'},
+instances: 1, word: 'Attentive', work: 'TNK'},
+instances: 1, word: 'Attributes', work: 'TNK'},
+instances: 1, word: 'Auburn', work: 'TNK'},
+instances: 1, word: 'Audacity', work: 'TNK'},
+instances: 1, word: 'Audience', work: 'TNK'},
+instances: 1, word: 'Aulis', work: 'TNK'},
+instances: 1, word: 'Aunt\'s', work: 'TNK'},
+instances: 1, word: 'Auspiciously', work: 'TNK'},
+instances: 1, word: 'Authority', work: 'TNK'},
+instances: 1, word: 'Authors', work: 'TNK'},
+instances: 1, word: 'Axe', work: 'TNK'},
+instances: 1, word: 'Aye', work: 'TNK'},
+instances: 1, word: 'Babe', work: 'TNK'},
+instances: 1, word: 'Babes', work: 'TNK'},
+instances: 1, word: 'Backed', work: 'TNK'},
+instances: 1, word: 'Backward', work: 'TNK'},
+instances: 1, word: 'Bacon', work: 'TNK'},
+instances: 1, word: 'Bad', work: 'TNK'},
+instances: 1, word: 'Baldric', work: 'TNK'},
+instances: 1, word: 'Band', work: 'TNK'},
+instances: 1, word: 'Banish', work: 'TNK'},
+instances: 1, word: 'Bank', work: 'TNK'},
+instances: 1, word: 'Barbary', work: 'TNK'},
+instances: 1, word: 'Barbary-a', work: 'TNK'},
+instances: 1, word: 'Barber', work: 'TNK'},
+instances: 1, word: 'Bare', work: 'TNK'},
+instances: 1, word: 'Bare-armed', work: 'TNK'},
+instances: 1, word: 'Bargain', work: 'TNK'},
+instances: 1, word: 'Bark', work: 'TNK'},
+instances: 1, word: 'Barley-break', work: 'TNK'},
+instances: 1, word: 'Basely', work: 'TNK'},
+instances: 1, word: 'Bastard', work: 'TNK'},
+instances: 1, word: 'Bate', work: 'TNK'},
+instances: 1, word: 'Bay', work: 'TNK'},
+instances: 1, word: 'Bays', work: 'TNK'},
+instances: 1, word: 'Beaks', work: 'TNK'},
+instances: 1, word: 'Beard', work: 'TNK'},
+instances: 1, word: 'Bear\'s', work: 'TNK'},
+instances: 1, word: 'Beastly', work: 'TNK'},
+instances: 1, word: 'Beautiful', work: 'TNK'},
+instances: 1, word: 'Becking', work: 'TNK'},
+instances: 1, word: 'Beck\'ning', work: 'TNK'},
+instances: 1, word: 'Bedfellows', work: 'TNK'},
+instances: 1, word: 'Beech', work: 'TNK'},
+instances: 1, word: 'Beest-eating', work: 'TNK'},
+instances: 1, word: 'Began', work: 'TNK'},
+instances: 1, word: 'Begetting', work: 'TNK'},
+instances: 1, word: 'Begins', work: 'TNK'},
+instances: 1, word: 'Beguile', work: 'TNK'},
+instances: 1, word: 'Behalfs', work: 'TNK'},
+instances: 1, word: 'Behests', work: 'TNK'},
+instances: 1, word: 'Behoof', work: 'TNK'},
+instances: 1, word: 'Belief', work: 'TNK'},
+instances: 1, word: 'Believed', work: 'TNK'},
+instances: 1, word: 'Beneficial', work: 'TNK'},
+instances: 1, word: 'Benefit', work: 'TNK'},
+instances: 1, word: 'Bequeath', work: 'TNK'},
+instances: 1, word: 'Bequeathing', work: 'TNK'},
+instances: 1, word: 'Bereave', work: 'TNK'},
+instances: 1, word: 'Beside', work: 'TNK'},
+instances: 1, word: 'Best-boding', work: 'TNK'},
+instances: 1, word: 'Best-tempered', work: 'TNK'},
+instances: 1, word: 'Betake', work: 'TNK'},
+instances: 1, word: 'Betime', work: 'TNK'},
+instances: 1, word: 'Betwixt', work: 'TNK'},
+instances: 1, word: 'Bevy', work: 'TNK'},
+instances: 1, word: 'Be\'st', work: 'TNK'},
+instances: 1, word: 'Bier', work: 'TNK'},
+instances: 1, word: 'Birch', work: 'TNK'},
+instances: 1, word: 'Birthday', work: 'TNK'},
+instances: 1, word: 'Birthright', work: 'TNK'},
+instances: 1, word: 'Bitter', work: 'TNK'},
+instances: 1, word: 'Black-eyed', work: 'TNK'},
+instances: 1, word: 'Black-haired', work: 'TNK'},
+instances: 1, word: 'Blade', work: 'TNK'},
+instances: 1, word: 'Blasted', work: 'TNK'},
+instances: 1, word: 'Blasts', work: 'TNK'},
+instances: 1, word: 'Blazon', work: 'TNK'},
+instances: 1, word: 'Bleeding', work: 'TNK'},
+instances: 1, word: 'Blend', work: 'TNK'},
+instances: 1, word: 'Blessings', work: 'TNK'},
+instances: 1, word: 'Blissful', work: 'TNK'},
+instances: 1, word: 'Blist\'ring', work: 'TNK'},
+instances: 1, word: 'Blood-sized', work: 'TNK'},
+instances: 1, word: 'Bloomed', work: 'TNK'},
+instances: 1, word: 'Blooming', work: 'TNK'},
+instances: 1, word: 'Blossoms', work: 'TNK'},
+instances: 1, word: 'Blot', work: 'TNK'},
+instances: 1, word: 'Blowing', work: 'TNK'},
+instances: 1, word: 'Blown', work: 'TNK'},
+instances: 1, word: 'Blubbered', work: 'TNK'},
+instances: 1, word: 'Blue', work: 'TNK'},
+instances: 1, word: 'Blushed', work: 'TNK'},
+instances: 1, word: 'Blushes', work: 'TNK'},
+instances: 1, word: 'Boast', work: 'TNK'},
+instances: 1, word: 'Boding', work: 'TNK'},
+instances: 1, word: 'Body\'s', work: 'TNK'},
+instances: 1, word: 'Boil', work: 'TNK'},
+instances: 1, word: 'Boiling', work: 'TNK'},
+instances: 1, word: 'Boist\'rous', work: 'TNK'},
+instances: 1, word: 'Bolder', work: 'TNK'},
+instances: 1, word: 'Boldest', work: 'TNK'},
+instances: 1, word: 'Bond', work: 'TNK'},
+instances: 1, word: 'Bondage', work: 'TNK'},
+instances: 1, word: 'Bonfires', work: 'TNK'},
+instances: 1, word: 'Boni', work: 'TNK'},
+instances: 1, word: 'Bonny', work: 'TNK'},
+instances: 1, word: 'Book', work: 'TNK'},
+instances: 1, word: 'Boot', work: 'TNK'},
+instances: 1, word: 'Bootless', work: 'TNK'},
+instances: 1, word: 'Bore', work: 'TNK'},
+instances: 1, word: 'Borrowed', work: 'TNK'},
+instances: 1, word: 'Bosoms', work: 'TNK'},
+instances: 1, word: 'Bottles', work: 'TNK'},
+instances: 1, word: 'Bottom', work: 'TNK'},
+instances: 1, word: 'Bought', work: 'TNK'},
+instances: 1, word: 'Bouncing', work: 'TNK'},
+instances: 1, word: 'Bound-a', work: 'TNK'},
+instances: 1, word: 'Bounded', work: 'TNK'},
+instances: 1, word: 'Boundless', work: 'TNK'},
+instances: 1, word: 'Bounds', work: 'TNK'},
+instances: 1, word: 'Bounty', work: 'TNK'},
+instances: 1, word: 'Bowels', work: 'TNK'},
+instances: 1, word: 'Bowline', work: 'TNK'},
+instances: 1, word: 'Bows', work: 'TNK'},
+instances: 1, word: 'Brace', work: 'TNK'},
+instances: 1, word: 'Bracelets', work: 'TNK'},
+instances: 1, word: 'Brake', work: 'TNK'},
+instances: 1, word: 'Branded', work: 'TNK'},
+instances: 1, word: 'Braver', work: 'TNK'},
+instances: 1, word: 'Bravery', work: 'TNK'},
+instances: 1, word: 'Brawny', work: 'TNK'},
+instances: 1, word: 'Breaking', work: 'TNK'},
+instances: 1, word: 'Breaks', work: 'TNK'},
+instances: 1, word: 'Break\'st', work: 'TNK'},
+instances: 1, word: 'Breasts', work: 'TNK'},
+instances: 1, word: 'Breathe', work: 'TNK'},
+instances: 1, word: 'Breathing', work: 'TNK'},
+instances: 1, word: 'Breathless', work: 'TNK'},
+instances: 1, word: 'Breech', work: 'TNK'},
+instances: 1, word: 'Breeches', work: 'TNK'},
+instances: 1, word: 'Breeder', work: 'TNK'},
+instances: 1, word: 'Bride-habited', work: 'TNK'},
+instances: 1, word: 'Brided', work: 'TNK'},
+instances: 1, word: 'Bridegrooms', work: 'TNK'},
+instances: 1, word: 'Bridegroom\'s', work: 'TNK'},
+instances: 1, word: 'Bridehouse', work: 'TNK'},
+instances: 1, word: 'Brief', work: 'TNK'},
+instances: 1, word: 'Briers', work: 'TNK'},
+instances: 1, word: 'Brimmed', work: 'TNK'},
+instances: 1, word: 'Bringst', work: 'TNK'},
+instances: 1, word: 'Broached', work: 'TNK'},
+instances: 1, word: 'Broken', work: 'TNK'},
+instances: 1, word: 'Brook', work: 'TNK'},
+instances: 1, word: 'Broom', work: 'TNK'},
+instances: 1, word: 'Broth', work: 'TNK'},
+instances: 1, word: 'Brother\'s', work: 'TNK'},
+instances: 1, word: 'Brows', work: 'TNK'},
+instances: 1, word: 'Bruise', work: 'TNK'},
+instances: 1, word: 'Buckled', work: 'TNK'},
+instances: 1, word: 'Bud', work: 'TNK'},
+instances: 1, word: 'Budge', work: 'TNK'},
+instances: 1, word: 'Bulrush', work: 'TNK'},
+instances: 1, word: 'Burden', work: 'TNK'},
+instances: 1, word: 'Burning', work: 'TNK'},
+instances: 1, word: 'Burns', work: 'TNK'},
+instances: 1, word: 'Burst', work: 'TNK'},
+instances: 1, word: 'Bush', work: 'TNK'},
+instances: 1, word: 'Buttons', work: 'TNK'},
+instances: 1, word: 'Buzz', work: 'TNK'},
+instances: 1, word: 'By-and-by', work: 'TNK'},
+instances: 1, word: 'Cabined', work: 'TNK'},
+instances: 1, word: 'Calkins', work: 'TNK'},
+instances: 1, word: 'Call\'st', work: 'TNK'},
+instances: 1, word: 'Camp', work: 'TNK'},
+instances: 1, word: 'Canon', work: 'TNK'},
+instances: 1, word: 'Cap', work: 'TNK'},
+instances: 1, word: 'Capacities', work: 'TNK'},
+instances: 1, word: 'Capaneus', work: 'TNK'},
+instances: 1, word: 'Capital', work: 'TNK'},
+instances: 1, word: 'Captive', work: 'TNK'},
+instances: 1, word: 'Cards', work: 'TNK'},
+instances: 1, word: 'Carrack', work: 'TNK'},
+instances: 1, word: 'Carrier', work: 'TNK'},
+instances: 1, word: 'Carries', work: 'TNK'},
+instances: 1, word: 'Carve', work: 'TNK'},
+instances: 1, word: 'Case', work: 'TNK'},
+instances: 1, word: 'Casque', work: 'TNK'},
+instances: 1, word: 'Casting', work: 'TNK'},
+instances: 1, word: 'Castor', work: 'TNK'},
+instances: 1, word: 'Casts', work: 'TNK'},
+instances: 1, word: 'Catching', work: 'TNK'},
+instances: 1, word: 'Cauldron', work: 'TNK'},
+instances: 1, word: 'Cedar', work: 'TNK'},
+instances: 1, word: 'Celerity', work: 'TNK'},
+instances: 1, word: 'Center', work: 'TNK'},
+instances: 1, word: 'Ceres\'', work: 'TNK'},
+instances: 1, word: 'Certain\'st', work: 'TNK'},
+instances: 1, word: 'Chaff', work: 'TNK'},
+instances: 1, word: 'Chaffy', work: 'TNK'},
+instances: 1, word: 'Challenge', work: 'TNK'},
+instances: 1, word: 'Chambermaid', work: 'TNK'},
+instances: 1, word: 'Chanced', work: 'TNK'},
+instances: 1, word: 'Chances', work: 'TNK'},
+instances: 1, word: 'Changeling', work: 'TNK'},
+instances: 1, word: 'Chapel', work: 'TNK'},
+instances: 1, word: 'Chaplets', work: 'TNK'},
+instances: 1, word: 'Character', work: 'TNK'},
+instances: 1, word: 'Chared', work: 'TNK'},
+instances: 1, word: 'Charged', work: 'TNK'},
+instances: 1, word: 'Charging-staff', work: 'TNK'},
+instances: 1, word: 'Charitable', work: 'TNK'},
+instances: 1, word: 'Charity', work: 'TNK'},
+instances: 1, word: 'Charm', work: 'TNK'},
+instances: 1, word: 'Charmed', work: 'TNK'},
+instances: 1, word: 'Charmers', work: 'TNK'},
+instances: 1, word: 'Chase', work: 'TNK'},
+instances: 1, word: 'Chastise', work: 'TNK'},
+instances: 1, word: 'Chaucer', work: 'TNK'},
+instances: 1, word: 'Cheap', work: 'TNK'},
+instances: 1, word: 'Cheaply', work: 'TNK'},
+instances: 1, word: 'Cheeks', work: 'TNK'},
+instances: 1, word: 'Cheer', work: 'TNK'},
+instances: 1, word: 'Cheerfully', work: 'TNK'},
+instances: 1, word: 'Cheerly', work: 'TNK'},
+instances: 1, word: 'Cheers', work: 'TNK'},
+instances: 1, word: 'Cherish', work: 'TNK'},
+instances: 1, word: 'Cherries', work: 'TNK'},
+instances: 1, word: 'Cherry', work: 'TNK'},
+instances: 1, word: 'Chestnut', work: 'TNK'},
+instances: 1, word: 'Chi', work: 'TNK'},
+instances: 1, word: 'Chicken', work: 'TNK'},
+instances: 1, word: 'Chid', work: 'TNK'},
+instances: 1, word: 'Chide', work: 'TNK'},
+instances: 1, word: 'Chiding', work: 'TNK'},
+instances: 1, word: 'Childishly', work: 'TNK'},
+instances: 1, word: 'Chin', work: 'TNK'},
+instances: 1, word: 'Chirp', work: 'TNK'},
+instances: 1, word: 'Choke', work: 'TNK'},
+instances: 1, word: 'Chop', work: 'TNK'},
+instances: 1, word: 'Chorus', work: 'TNK'},
+instances: 1, word: 'Chough', work: 'TNK'},
+instances: 1, word: 'Cicely', work: 'TNK'},
+instances: 1, word: 'Circles', work: 'TNK'},
+instances: 1, word: 'Circuit', work: 'TNK'},
+instances: 1, word: 'Cistern', work: 'TNK'},
+instances: 1, word: 'Cities', work: 'TNK'},
+instances: 1, word: 'Clamor', work: 'TNK'},
+instances: 1, word: 'Clamors', work: 'TNK'},
+instances: 1, word: 'Clasp', work: 'TNK'},
+instances: 1, word: 'Clean', work: 'TNK'},
+instances: 1, word: 'Clear-spirited', work: 'TNK'},
+instances: 1, word: 'Cleared', work: 'TNK'},
+instances: 1, word: 'Cleaving', work: 'TNK'},
+instances: 1, word: 'Clip', work: 'TNK'},
+instances: 1, word: 'Clock', work: 'TNK'},
+instances: 1, word: 'Clogs', work: 'TNK'},
+instances: 1, word: 'Closed', work: 'TNK'},
+instances: 1, word: 'Clothes', work: 'TNK'},
+instances: 1, word: 'Club', work: 'TNK'},
+instances: 1, word: 'Coarse', work: 'TNK'},
+instances: 1, word: 'Coarse-frieze', work: 'TNK'},
+instances: 1, word: 'Coast', work: 'TNK'},
+instances: 1, word: 'Coat', work: 'TNK'},
+instances: 1, word: 'Cockle', work: 'TNK'},
+instances: 1, word: 'Cockleshell', work: 'TNK'},
+instances: 1, word: 'Cocklight', work: 'TNK'},
+instances: 1, word: 'Coil', work: 'TNK'},
+instances: 1, word: 'Coinage', work: 'TNK'},
+instances: 1, word: 'Coins', work: 'TNK'},
+instances: 1, word: 'Coldly', work: 'TNK'},
+instances: 1, word: 'Collected', work: 'TNK'},
+instances: 1, word: 'Combated', work: 'TNK'},
+instances: 1, word: 'Combat\'s', work: 'TNK'},
+instances: 1, word: 'Comets', work: 'TNK'},
+instances: 1, word: 'Comforted', work: 'TNK'},
+instances: 1, word: 'Commanded', work: 'TNK'},
+instances: 1, word: 'Commands', work: 'TNK'},
+instances: 1, word: 'Commends', work: 'TNK'},
+instances: 1, word: 'Comment', work: 'TNK'},
+instances: 1, word: 'Commit', work: 'TNK'},
+instances: 1, word: 'Committed', work: 'TNK'},
+instances: 1, word: 'Commune', work: 'TNK'},
+instances: 1, word: 'Companion', work: 'TNK'},
+instances: 1, word: 'Compass', work: 'TNK'},
+instances: 1, word: 'Compelled', work: 'TNK'},
+instances: 1, word: 'Composed', work: 'TNK'},
+instances: 1, word: 'Compounded', work: 'TNK'},
+instances: 1, word: 'Concealments', work: 'TNK'},
+instances: 1, word: 'Conceived', work: 'TNK'},
+instances: 1, word: 'Conceives', work: 'TNK'},
+instances: 1, word: 'Concern', work: 'TNK'},
+instances: 1, word: 'Concerning', work: 'TNK'},
+instances: 1, word: 'Condemn', work: 'TNK'},
+instances: 1, word: 'Condemned', work: 'TNK'},
+instances: 1, word: 'Condition', work: 'TNK'},
+instances: 1, word: 'Confessors', work: 'TNK'},
+instances: 1, word: 'Confine', work: 'TNK'},
+instances: 1, word: 'Conjurer', work: 'TNK'},
+instances: 1, word: 'Conjurings', work: 'TNK'},
+instances: 1, word: 'Conquer', work: 'TNK'},
+instances: 1, word: 'Conquered', work: 'TNK'},
+instances: 1, word: 'Conquers', work: 'TNK'},
+instances: 1, word: 'Consciences', work: 'TNK'},
+instances: 1, word: 'Considering', work: 'TNK'},
+instances: 1, word: 'Considers', work: 'TNK'},
+instances: 1, word: 'Constantly', work: 'TNK'},
+instances: 1, word: 'Constellation', work: 'TNK'},
+instances: 1, word: 'Constrain', work: 'TNK'},
+instances: 1, word: 'Consume', work: 'TNK'},
+instances: 1, word: 'Consumers', work: 'TNK'},
+instances: 1, word: 'Consummation', work: 'TNK'},
+instances: 1, word: 'Contemns', work: 'TNK'},
+instances: 1, word: 'Contemplative', work: 'TNK'},
+instances: 1, word: 'Contempt', work: 'TNK'},
+instances: 1, word: 'Contentious', work: 'TNK'},
+instances: 1, word: 'Continues', work: 'TNK'},
+instances: 1, word: 'Conversation', work: 'TNK'},
+instances: 1, word: 'Convulsions', work: 'TNK'},
+instances: 1, word: 'Cope', work: 'TNK'},
+instances: 1, word: 'Cords', work: 'TNK'},
+instances: 1, word: 'Corn', work: 'TNK'},
+instances: 1, word: 'Corner', work: 'TNK'},
+instances: 1, word: 'Corrector', work: 'TNK'},
+instances: 1, word: 'Corselet', work: 'TNK'},
+instances: 1, word: 'Costliness', work: 'TNK'},
+instances: 1, word: 'Costly', work: 'TNK'},
+instances: 1, word: 'Couch', work: 'TNK'},
+instances: 1, word: 'Counsel', work: 'TNK'},
+instances: 1, word: 'Counter-reflect', work: 'TNK'},
+instances: 1, word: 'Counting', work: 'TNK'},
+instances: 1, word: 'Couple', work: 'TNK'},
+instances: 1, word: 'Courageous', work: 'TNK'},
+instances: 1, word: 'Courtiers', work: 'TNK'},
+instances: 1, word: 'Courts', work: 'TNK'},
+instances: 1, word: 'Cowards', work: 'TNK'},
+instances: 1, word: 'Cozener', work: 'TNK'},
+instances: 1, word: 'Cozens', work: 'TNK'},
+instances: 1, word: 'Crack', work: 'TNK'},
+instances: 1, word: 'Cracked', work: 'TNK'},
+instances: 1, word: 'Cradle', work: 'TNK'},
+instances: 1, word: 'Cradles', work: 'TNK'},
+instances: 1, word: 'Cramp', work: 'TNK'},
+instances: 1, word: 'Cranks', work: 'TNK'},
+instances: 1, word: 'Crave', work: 'TNK'},
+instances: 1, word: 'Craved', work: 'TNK'},
+instances: 1, word: 'Craves', work: 'TNK'},
+instances: 1, word: 'Craving', work: 'TNK'},
+instances: 1, word: 'Creation', work: 'TNK'},
+instances: 1, word: 'Crestfall\'n', work: 'TNK'},
+instances: 1, word: 'Crickets', work: 'TNK'},
+instances: 1, word: 'Cried', work: 'TNK'},
+instances: 1, word: 'Cripple', work: 'TNK'},
+instances: 1, word: 'Crossed', work: 'TNK'},
+instances: 1, word: 'Crosses', work: 'TNK'},
+instances: 1, word: 'Crow', work: 'TNK'},
+instances: 1, word: 'Crowns\'', work: 'TNK'},
+instances: 1, word: 'Crownèd', work: 'TNK'},
+instances: 1, word: 'Crows', work: 'TNK'},
+instances: 1, word: 'Crutch', work: 'TNK'},
+instances: 1, word: 'Cry\'s', work: 'TNK'},
+instances: 1, word: 'Cuckoo', work: 'TNK'},
+instances: 1, word: 'Cue', work: 'TNK'},
+instances: 1, word: 'Cuff', work: 'TNK'},
+instances: 1, word: 'Cull', work: 'TNK'},
+instances: 1, word: 'Cum', work: 'TNK'},
+instances: 1, word: 'Cupids', work: 'TNK'},
+instances: 1, word: 'Curb', work: 'TNK'},
+instances: 1, word: 'Cured', work: 'TNK'},
+instances: 1, word: 'Cures', work: 'TNK'},
+instances: 1, word: 'Curious', work: 'TNK'},
+instances: 1, word: 'Curled', work: 'TNK'},
+instances: 1, word: 'Curling', work: 'TNK'},
+instances: 1, word: 'Currant', work: 'TNK'},
+instances: 1, word: 'Current', work: 'TNK'},
+instances: 1, word: 'Cursing', work: 'TNK'},
+instances: 1, word: 'Cur\'st', work: 'TNK'},
+instances: 1, word: 'Cutpurse', work: 'TNK'},
+instances: 1, word: 'Cutpurses', work: 'TNK'},
+instances: 1, word: 'Cuts', work: 'TNK'},
+instances: 1, word: 'Cynthia', work: 'TNK'},
+instances: 1, word: 'Daedalus', work: 'TNK'},
+instances: 1, word: 'Daffadillies', work: 'TNK'},
+instances: 1, word: 'Daisies', work: 'TNK'},
+instances: 1, word: 'Dam', work: 'TNK'},
+instances: 1, word: 'Damage', work: 'TNK'},
+instances: 1, word: 'Damask', work: 'TNK'},
+instances: 1, word: 'Damsel', work: 'TNK'},
+instances: 1, word: 'Dances', work: 'TNK'},
+instances: 1, word: 'Dancing', work: 'TNK'},
+instances: 1, word: 'Danger', work: 'TNK'},
+instances: 1, word: 'Dangle', work: 'TNK'},
+instances: 1, word: 'Daring', work: 'TNK'},
+instances: 1, word: 'Dark', work: 'TNK'},
+instances: 1, word: 'Darken', work: 'TNK'},
+instances: 1, word: 'Darker', work: 'TNK'},
+instances: 1, word: 'Darted', work: 'TNK'},
+instances: 1, word: 'Darts', work: 'TNK'},
+instances: 1, word: 'Daughters', work: 'TNK'},
+instances: 1, word: 'Daughter\'s', work: 'TNK'},
+instances: 1, word: 'Dawn', work: 'TNK'},
+instances: 1, word: 'Day\'s', work: 'TNK'},
+instances: 1, word: 'Dead-cold', work: 'TNK'},
+instances: 1, word: 'Deaeque', work: 'TNK'},
+instances: 1, word: 'Deaf', work: 'TNK'},
+instances: 1, word: 'Deafed', work: 'TNK'},
+instances: 1, word: 'Deafing', work: 'TNK'},
+instances: 1, word: 'Dearer', work: 'TNK'},
+instances: 1, word: 'Deathbeds', work: 'TNK'},
+instances: 1, word: 'Deaths', work: 'TNK'},
+instances: 1, word: 'Debt', work: 'TNK'},
+instances: 1, word: 'Decay', work: 'TNK'},
+instances: 1, word: 'Deceived', work: 'TNK'},
+instances: 1, word: 'Deceiving', work: 'TNK'},
+instances: 1, word: 'Decently', work: 'TNK'},
+instances: 1, word: 'Decision', work: 'TNK'},
+instances: 1, word: 'Deck', work: 'TNK'},
+instances: 1, word: 'Decking', work: 'TNK'},
+instances: 1, word: 'Deeds', work: 'TNK'},
+instances: 1, word: 'Deem\'st', work: 'TNK'},
+instances: 1, word: 'Defiance', work: 'TNK'},
+instances: 1, word: 'Defy', work: 'TNK'},
+instances: 1, word: 'Deifies', work: 'TNK'},
+instances: 1, word: 'Deities', work: 'TNK'},
+instances: 1, word: 'Deity', work: 'TNK'},
+instances: 1, word: 'Delights', work: 'TNK'},
+instances: 1, word: 'Deliverance', work: 'TNK'},
+instances: 1, word: 'Delivered', work: 'TNK'},
+instances: 1, word: 'Deliverly', work: 'TNK'},
+instances: 1, word: 'Demand', work: 'TNK'},
+instances: 1, word: 'Demonstration', work: 'TNK'},
+instances: 1, word: 'Denials', work: 'TNK'},
+instances: 1, word: 'Denied', work: 'TNK'},
+instances: 1, word: 'Denies', work: 'TNK'},
+instances: 1, word: 'Depend', work: 'TNK'},
+instances: 1, word: 'Depute', work: 'TNK'},
+instances: 1, word: 'Descend', work: 'TNK'},
+instances: 1, word: 'Descends', work: 'TNK'},
+instances: 1, word: 'Described', work: 'TNK'},
+instances: 1, word: 'Deserve', work: 'TNK'},
+instances: 1, word: 'Deserves', work: 'TNK'},
+instances: 1, word: 'Deserving', work: 'TNK'},
+instances: 1, word: 'Design', work: 'TNK'},
+instances: 1, word: 'Desired', work: 'TNK'},
+instances: 1, word: 'Desires', work: 'TNK'},
+instances: 1, word: 'Desperate', work: 'TNK'},
+instances: 1, word: 'Despisers', work: 'TNK'},
+instances: 1, word: 'Despisings', work: 'TNK'},
+instances: 1, word: 'Destiny', work: 'TNK'},
+instances: 1, word: 'Destroy', work: 'TNK'},
+instances: 1, word: 'Determine', work: 'TNK'},
+instances: 1, word: 'Deum', work: 'TNK'},
+instances: 1, word: 'Devour', work: 'TNK'},
+instances: 1, word: 'Dew', work: 'TNK'},
+instances: 1, word: 'Diana', work: 'TNK'},
+instances: 1, word: 'Dian\'s', work: 'TNK'},
+instances: 1, word: 'Dido', work: 'TNK'},
+instances: 1, word: 'Differing', work: 'TNK'},
+instances: 1, word: 'Diff\'rence', work: 'TNK'},
+instances: 1, word: 'Dignities', work: 'TNK'},
+instances: 1, word: 'Dignity', work: 'TNK'},
+instances: 1, word: 'Dim', work: 'TNK'},
+instances: 1, word: 'Dimpled', work: 'TNK'},
+instances: 1, word: 'Dinner', work: 'TNK'},
+instances: 1, word: 'Direct', work: 'TNK'},
+instances: 1, word: 'Directing', work: 'TNK'},
+instances: 1, word: 'Dirge', work: 'TNK'},
+instances: 1, word: 'Dis', work: 'TNK'},
+instances: 1, word: 'Disasters', work: 'TNK'},
+instances: 1, word: 'Discharge', work: 'TNK'},
+instances: 1, word: 'Dischargest', work: 'TNK'},
+instances: 1, word: 'Disclaim', work: 'TNK'},
+instances: 1, word: 'Discord', work: 'TNK'},
+instances: 1, word: 'Discovered', work: 'TNK'},
+instances: 1, word: 'Disdains', work: 'TNK'},
+instances: 1, word: 'Disgrace', work: 'TNK'},
+instances: 1, word: 'Disinsanity', work: 'TNK'},
+instances: 1, word: 'Dismal', work: 'TNK'},
+instances: 1, word: 'Disobedient', work: 'TNK'},
+instances: 1, word: 'Disorder', work: 'TNK'},
+instances: 1, word: 'Disparity', work: 'TNK'},
+instances: 1, word: 'Dispersed', work: 'TNK'},
+instances: 1, word: 'Dispose', work: 'TNK'},
+instances: 1, word: 'Disposed', work: 'TNK'},
+instances: 1, word: 'Disposers', work: 'TNK'},
+instances: 1, word: 'Dispute', work: 'TNK'},
+instances: 1, word: 'Disroot', work: 'TNK'},
+instances: 1, word: 'Disseat', work: 'TNK'},
+instances: 1, word: 'Dissolve', work: 'TNK'},
+instances: 1, word: 'Distemper', work: 'TNK'},
+instances: 1, word: 'Distraction', work: 'TNK'},
+instances: 1, word: 'Distress', work: 'TNK'},
+instances: 1, word: 'Distressed', work: 'TNK'},
+instances: 1, word: 'Distresses', work: 'TNK'},
+instances: 1, word: 'Disturb', work: 'TNK'},
+instances: 1, word: 'Divided', work: 'TNK'},
+instances: 1, word: 'Divine', work: 'TNK'},
+instances: 1, word: 'Doers', work: 'TNK'},
+instances: 1, word: 'Dogskin', work: 'TNK'},
+instances: 1, word: 'Dole', work: 'TNK'},
+instances: 1, word: 'Don', work: 'TNK'},
+instances: 1, word: 'Doom', work: 'TNK'},
+instances: 1, word: 'Doth', work: 'TNK'},
+instances: 1, word: 'Doubled', work: 'TNK'},
+instances: 1, word: 'Doubted', work: 'TNK'},
+instances: 1, word: 'Dove-like', work: 'TNK'},
+instances: 1, word: 'Dove\'s', work: 'TNK'},
+instances: 1, word: 'Dowagers', work: 'TNK'},
+instances: 1, word: 'Dowry', work: 'TNK'},
+instances: 1, word: 'Dowsets', work: 'TNK'},
+instances: 1, word: 'Dozens', work: 'TNK'},
+instances: 1, word: 'Dragged', work: 'TNK'},
+instances: 1, word: 'Drams', work: 'TNK'},
+instances: 1, word: 'Drawn', work: 'TNK'},
+instances: 1, word: 'Dread', work: 'TNK'},
+instances: 1, word: 'Dreaded', work: 'TNK'},
+instances: 1, word: 'Dreamed', work: 'TNK'},
+instances: 1, word: 'Dreaming', work: 'TNK'},
+instances: 1, word: 'Dreams', work: 'TNK'},
+instances: 1, word: 'Dream\'st', work: 'TNK'},
+instances: 1, word: 'Dregged', work: 'TNK'},
+instances: 1, word: 'Drift-winds', work: 'TNK'},
+instances: 1, word: 'Drinking', work: 'TNK'},
+instances: 1, word: 'Drop', work: 'TNK'},
+instances: 1, word: 'Dropped', work: 'TNK'},
+instances: 1, word: 'Drunk', work: 'TNK'},
+instances: 1, word: 'Dry', work: 'TNK'},
+instances: 1, word: 'Dues', work: 'TNK'},
+instances: 1, word: 'Dukes', work: 'TNK'},
+instances: 1, word: 'Duke\'s', work: 'TNK'},
+instances: 1, word: 'Dumb', work: 'TNK'},
+instances: 1, word: 'Dunces', work: 'TNK'},
+instances: 1, word: 'Dure', work: 'TNK'},
+instances: 1, word: 'Dusty', work: 'TNK'},
+instances: 1, word: 'Duty', work: 'TNK'},
+instances: 1, word: 'Dwelling', work: 'TNK'},
+instances: 1, word: 'Dwells', work: 'TNK'},
+instances: 1, word: 'Eagles', work: 'TNK'},
+instances: 1, word: 'Eared', work: 'TNK'},
+instances: 1, word: 'Earn\'st', work: 'TNK'},
+instances: 1, word: 'Easily', work: 'TNK'},
+instances: 1, word: 'Ebbs', work: 'TNK'},
+instances: 1, word: 'Eddy', work: 'TNK'},
+instances: 1, word: 'Edge', work: 'TNK'},
+instances: 1, word: 'Eel', work: 'TNK'},
+instances: 1, word: 'Effect', work: 'TNK'},
+instances: 1, word: 'Eftsoons', work: 'TNK'},
+instances: 1, word: 'Eggs', work: 'TNK'},
+instances: 1, word: 'Eighteen', work: 'TNK'},
+instances: 1, word: 'Eighty', work: 'TNK'},
+instances: 1, word: 'Eke', work: 'TNK'},
+instances: 1, word: 'Election', work: 'TNK'},
+instances: 1, word: 'Elements', work: 'TNK'},
+instances: 1, word: 'Elysium', work: 'TNK'},
+instances: 1, word: 'Emblem', work: 'TNK'},
+instances: 1, word: 'Embossed', work: 'TNK'},
+instances: 1, word: 'Emilia\'s', work: 'TNK'},
+instances: 1, word: 'Emulous', work: 'TNK'},
+instances: 1, word: 'Enameled', work: 'TNK'},
+instances: 1, word: 'Enclose', work: 'TNK'},
+instances: 1, word: 'Encompassed', work: 'TNK'},
+instances: 1, word: 'Encountered', work: 'TNK'},
+instances: 1, word: 'Ending', work: 'TNK'},
+instances: 1, word: 'Endowments', work: 'TNK'},
+instances: 1, word: 'Enforced', work: 'TNK'},
+instances: 1, word: 'Engine', work: 'TNK'},
+instances: 1, word: 'Engraffed', work: 'TNK'},
+instances: 1, word: 'Enjoyed', work: 'TNK'},
+instances: 1, word: 'Enormous', work: 'TNK'},
+instances: 1, word: 'Enquired', work: 'TNK'},
+instances: 1, word: 'Enriched', work: 'TNK'},
+instances: 1, word: 'Entangled', work: 'TNK'},
+instances: 1, word: 'Entered', work: 'TNK'},
+instances: 1, word: 'Enterprise', work: 'TNK'},
+instances: 1, word: 'Entertain\'st', work: 'TNK'},
+instances: 1, word: 'Enthroned', work: 'TNK'},
+instances: 1, word: 'Entice', work: 'TNK'},
+instances: 1, word: 'Entreating', work: 'TNK'},
+instances: 1, word: 'Epitaph', work: 'TNK'},
+instances: 1, word: 'Epitaphs', work: 'TNK'},
+instances: 1, word: 'Err', work: 'TNK'},
+instances: 1, word: 'Errant', work: 'TNK'},
+instances: 1, word: 'Errors', work: 'TNK'},
+instances: 1, word: 'Escaped', work: 'TNK'},
+instances: 1, word: 'Estate', work: 'TNK'},
+instances: 1, word: 'Et', work: 'TNK'},
+instances: 1, word: 'Eternally', work: 'TNK'},
+instances: 1, word: 'Eternity', work: 'TNK'},
+instances: 1, word: 'Evening', work: 'TNK'},
+instances: 1, word: 'Event', work: 'TNK'},
+instances: 1, word: 'Ever-blinded', work: 'TNK'},
+instances: 1, word: 'Everything', work: 'TNK'},
+instances: 1, word: 'Everywhere', work: 'TNK'},
+instances: 1, word: 'Exceeded', work: 'TNK'},
+instances: 1, word: 'Excess', work: 'TNK'},
+instances: 1, word: 'Exclaimed', work: 'TNK'},
+instances: 1, word: 'Execute', work: 'TNK'},
+instances: 1, word: 'Executioners', work: 'TNK'},
+instances: 1, word: 'Exegi', work: 'TNK'},
+instances: 1, word: 'Exercise', work: 'TNK'},
+instances: 1, word: 'Expels', work: 'TNK'},
+instances: 1, word: 'Express', work: 'TNK'},
+instances: 1, word: 'Extant', work: 'TNK'},
+instances: 1, word: 'Extravagant', work: 'TNK'},
+instances: 1, word: 'Extremes', work: 'TNK'},
+instances: 1, word: 'Extremity', work: 'TNK'},
+instances: 1, word: 'Exulting', work: 'TNK'},
+instances: 1, word: 'Eye-glance', work: 'TNK'},
+instances: 1, word: 'Fable', work: 'TNK'},
+instances: 1, word: 'Facto', work: 'TNK'},
+instances: 1, word: 'Failed', work: 'TNK'},
+instances: 1, word: 'Fainting', work: 'TNK'},
+instances: 1, word: 'Faints', work: 'TNK'},
+instances: 1, word: 'Fairest', work: 'TNK'},
+instances: 1, word: 'Falsehoods', work: 'TNK'},
+instances: 1, word: 'Falser', work: 'TNK'},
+instances: 1, word: 'Falsest', work: 'TNK'},
+instances: 1, word: 'Families', work: 'TNK'},
+instances: 1, word: 'Famishing', work: 'TNK'},
+instances: 1, word: 'Famous', work: 'TNK'},
+instances: 1, word: 'Fan', work: 'TNK'},
+instances: 1, word: 'Fancies', work: 'TNK'},
+instances: 1, word: 'Fantastical', work: 'TNK'},
+instances: 1, word: 'Farces', work: 'TNK'},
+instances: 1, word: 'Fare', work: 'TNK'},
+instances: 1, word: 'Fared', work: 'TNK'},
+instances: 1, word: 'Fast', work: 'TNK'},
+instances: 1, word: 'Fat', work: 'TNK'},
+instances: 1, word: 'Father\'s', work: 'TNK'},
+instances: 1, word: 'Fatting', work: 'TNK'},
+instances: 1, word: 'Fatuus', work: 'TNK'},
+instances: 1, word: 'Fat\'s', work: 'TNK'},
+instances: 1, word: 'Favorite\'s', work: 'TNK'},
+instances: 1, word: 'Favors', work: 'TNK'},
+instances: 1, word: 'Feared', work: 'TNK'},
+instances: 1, word: 'Fearless', work: 'TNK'},
+instances: 1, word: 'Feasts', work: 'TNK'},
+instances: 1, word: 'Feast\'s', work: 'TNK'},
+instances: 1, word: 'Fed', work: 'TNK'},
+instances: 1, word: 'Fee', work: 'TNK'},
+instances: 1, word: 'Feeble', work: 'TNK'},
+instances: 1, word: 'Feeding', work: 'TNK'},
+instances: 1, word: 'Feeds', work: 'TNK'},
+instances: 1, word: 'Female', work: 'TNK'},
+instances: 1, word: 'Fere', work: 'TNK'},
+instances: 1, word: 'Ferry', work: 'TNK'},
+instances: 1, word: 'Ferula', work: 'TNK'},
+instances: 1, word: 'Fescue', work: 'TNK'},
+instances: 1, word: 'Fidius', work: 'TNK'},
+instances: 1, word: 'Fields', work: 'TNK'},
+instances: 1, word: 'Fierce', work: 'TNK'},
+instances: 1, word: 'Fierceness', work: 'TNK'},
+instances: 1, word: 'Fiercest', work: 'TNK'},
+instances: 1, word: 'Fifteen', work: 'TNK'},
+instances: 1, word: 'Filch', work: 'TNK'},
+instances: 1, word: 'Filii', work: 'TNK'},
+instances: 1, word: 'Filled', work: 'TNK'},
+instances: 1, word: 'Finding', work: 'TNK'},
+instances: 1, word: 'Finger', work: 'TNK'},
+instances: 1, word: 'Fingers', work: 'TNK'},
+instances: 1, word: 'Finish', work: 'TNK'},
+instances: 1, word: 'Fired', work: 'TNK'},
+instances: 1, word: 'Firstborn', work: 'TNK'},
+instances: 1, word: 'Fishermen', work: 'TNK'},
+instances: 1, word: 'Fist', work: 'TNK'},
+instances: 1, word: 'Fits', work: 'TNK'},
+instances: 1, word: 'Fitter', work: 'TNK'},
+instances: 1, word: 'Fitt\'st', work: 'TNK'},
+instances: 1, word: 'Five-and-twenty', work: 'TNK'},
+instances: 1, word: 'Flame', work: 'TNK'},
+instances: 1, word: 'Flaming', work: 'TNK'},
+instances: 1, word: 'Flax', work: 'TNK'},
+instances: 1, word: 'Fled', work: 'TNK'},
+instances: 1, word: 'Flesh', work: 'TNK'},
+instances: 1, word: 'Flies', work: 'TNK'},
+instances: 1, word: 'Flinch', work: 'TNK'},
+instances: 1, word: 'Flint', work: 'TNK'},
+instances: 1, word: 'Flinty', work: 'TNK'},
+instances: 1, word: 'Flirted', work: 'TNK'},
+instances: 1, word: 'Floats', work: 'TNK'},
+instances: 1, word: 'Flood', work: 'TNK'},
+instances: 1, word: 'Flourish', work: 'TNK'},
+instances: 1, word: 'Flowery', work: 'TNK'},
+instances: 1, word: 'Flows', work: 'TNK'},
+instances: 1, word: 'Fluently', work: 'TNK'},
+instances: 1, word: 'Flying', work: 'TNK'},
+instances: 1, word: 'Foil', work: 'TNK'},
+instances: 1, word: 'Foison', work: 'TNK'},
+instances: 1, word: 'Follower', work: 'TNK'},
+instances: 1, word: 'Following', work: 'TNK'},
+instances: 1, word: 'Fond', work: 'TNK'},
+instances: 1, word: 'Foolish', work: 'TNK'},
+instances: 1, word: 'Forbid', work: 'TNK'},
+instances: 1, word: 'Forces', work: 'TNK'},
+instances: 1, word: 'Foregone', work: 'TNK'},
+instances: 1, word: 'Forehorse', work: 'TNK'},
+instances: 1, word: 'Forest', work: 'TNK'},
+instances: 1, word: 'Forfeit', work: 'TNK'},
+instances: 1, word: 'Forgets', work: 'TNK'},
+instances: 1, word: 'Forgiven', work: 'TNK'},
+instances: 1, word: 'Forgot', work: 'TNK'},
+instances: 1, word: 'Former', work: 'TNK'},
+instances: 1, word: 'Fortunate', work: 'TNK'},
+instances: 1, word: 'Forty-thousandfold', work: 'TNK'},
+instances: 1, word: 'Forwhy', work: 'TNK'},
+instances: 1, word: 'Foul-mouthed', work: 'TNK'},
+instances: 1, word: 'Foulest', work: 'TNK'},
+instances: 1, word: 'Founder', work: 'TNK'},
+instances: 1, word: 'Fourteen', work: 'TNK'},
+instances: 1, word: 'Frame', work: 'TNK'},
+instances: 1, word: 'Frampold', work: 'TNK'},
+instances: 1, word: 'Freckle-faced', work: 'TNK'},
+instances: 1, word: 'Freckled', work: 'TNK'},
+instances: 1, word: 'Freed', work: 'TNK'},
+instances: 1, word: 'Freely', work: 'TNK'},
+instances: 1, word: 'Freeze', work: 'TNK'},
+instances: 1, word: 'Freezes', work: 'TNK'},
+instances: 1, word: 'Fresher', work: 'TNK'},
+instances: 1, word: 'Freshwater', work: 'TNK'},
+instances: 1, word: 'Frets', work: 'TNK'},
+instances: 1, word: 'Friends\'', work: 'TNK'},
+instances: 1, word: 'Frights', work: 'TNK'},
+instances: 1, word: 'Frisk', work: 'TNK'},
+instances: 1, word: 'Friskins', work: 'TNK'},
+instances: 1, word: 'Fritz', work: 'TNK'},
+instances: 1, word: 'Frog', work: 'TNK'},
+instances: 1, word: 'Frustrate', work: 'TNK'},
+instances: 1, word: 'Frying', work: 'TNK'},
+instances: 1, word: 'Fully', work: 'TNK'},
+instances: 1, word: 'Fury-innocent', work: 'TNK'},
+instances: 1, word: 'Futurely', work: 'TNK'},
+instances: 1, word: 'Gait', work: 'TNK'},
+instances: 1, word: 'Gall', work: 'TNK'},
+instances: 1, word: 'Gallops', work: 'TNK'},
+instances: 1, word: 'Gallèd', work: 'TNK'},
+instances: 1, word: 'Gambols', work: 'TNK'},
+instances: 1, word: 'Gammon', work: 'TNK'},
+instances: 1, word: 'Ganymede', work: 'TNK'},
+instances: 1, word: 'Gap', work: 'TNK'},
+instances: 1, word: 'Gathered', work: 'TNK'},
+instances: 1, word: 'Gauds', work: 'TNK'},
+instances: 1, word: 'Gaudy', work: 'TNK'},
+instances: 1, word: 'Gauntlets', work: 'TNK'},
+instances: 1, word: 'Gelt', work: 'TNK'},
+instances: 1, word: 'Gentility\'s', work: 'TNK'},
+instances: 1, word: 'Gentleness', work: 'TNK'},
+instances: 1, word: 'George', work: 'TNK'},
+instances: 1, word: 'Gerald', work: 'TNK'},
+instances: 1, word: 'Geraldo', work: 'TNK'},
+instances: 1, word: 'German', work: 'TNK'},
+instances: 1, word: 'Gifts', work: 'TNK'},
+instances: 1, word: 'Girl', work: 'TNK'},
+instances: 1, word: 'Girls', work: 'TNK'},
+instances: 1, word: 'Girt', work: 'TNK'},
+instances: 1, word: 'Girth', work: 'TNK'},
+instances: 1, word: 'Girths', work: 'TNK'},
+instances: 1, word: 'Giver', work: 'TNK'},
+instances: 1, word: 'Giv\'n', work: 'TNK'},
+instances: 1, word: 'Gladder', work: 'TNK'},
+instances: 1, word: 'Glade', work: 'TNK'},
+instances: 1, word: 'Glance', work: 'TNK'},
+instances: 1, word: 'Glassy', work: 'TNK'},
+instances: 1, word: 'Glister', work: 'TNK'},
+instances: 1, word: 'Globy', work: 'TNK'},
+instances: 1, word: 'Gloss', work: 'TNK'},
+instances: 1, word: 'Gloves', work: 'TNK'},
+instances: 1, word: 'Glued', work: 'TNK'},
+instances: 1, word: 'Golden', work: 'TNK'},
+instances: 1, word: 'Good\'s', work: 'TNK'},
+instances: 1, word: 'Got\'st', work: 'TNK'},
+instances: 1, word: 'Governors', work: 'TNK'},
+instances: 1, word: 'Graced', work: 'TNK'},
+instances: 1, word: 'Graces', work: 'TNK'},
+instances: 1, word: 'Gracious', work: 'TNK'},
+instances: 1, word: 'Grain', work: 'TNK'},
+instances: 1, word: 'Granted', work: 'TNK'},
+instances: 1, word: 'Granting', work: 'TNK'},
+instances: 1, word: 'Grape', work: 'TNK'},
+instances: 1, word: 'Grasp', work: 'TNK'},
+instances: 1, word: 'Grateful', work: 'TNK'},
+instances: 1, word: 'Graved', work: 'TNK'},
+instances: 1, word: 'Graves', work: 'TNK'},
+instances: 1, word: 'Gray', work: 'TNK'},
+instances: 1, word: 'Grease', work: 'TNK'},
+instances: 1, word: 'Great-eyed', work: 'TNK'},
+instances: 1, word: 'Greatest', work: 'TNK'},
+instances: 1, word: 'Greatness', work: 'TNK'},
+instances: 1, word: 'Grey-eyed', work: 'TNK'},
+instances: 1, word: 'Grieves', work: 'TNK'},
+instances: 1, word: 'Grievous', work: 'TNK'},
+instances: 1, word: 'Grinning', work: 'TNK'},
+instances: 1, word: 'Grise', work: 'TNK'},
+instances: 1, word: 'Groaned', work: 'TNK'},
+instances: 1, word: 'Groom', work: 'TNK'},
+instances: 1, word: 'Gross', work: 'TNK'},
+instances: 1, word: 'Groundpiece', work: 'TNK'},
+instances: 1, word: 'Growing', work: 'TNK'},
+instances: 1, word: 'Grudge', work: 'TNK'},
+instances: 1, word: 'Guards', work: 'TNK'},
+instances: 1, word: 'Guides', work: 'TNK'},
+instances: 1, word: 'Gums', work: 'TNK'},
+instances: 1, word: 'Gypsy', work: 'TNK'},
+instances: 1, word: 'Half-hour', work: 'TNK'},
+instances: 1, word: 'Half-persuaded', work: 'TNK'},
+instances: 1, word: 'Half-sights', work: 'TNK'},
+instances: 1, word: 'Halloo', work: 'TNK'},
+instances: 1, word: 'Hallow', work: 'TNK'},
+instances: 1, word: 'Halting', work: 'TNK'},
+instances: 1, word: 'Hanging', work: 'TNK'},
+instances: 1, word: 'Happen', work: 'TNK'},
+instances: 1, word: 'Happier', work: 'TNK'},
+instances: 1, word: 'Harbinger', work: 'TNK'},
+instances: 1, word: 'Hard-haired', work: 'TNK'},
+instances: 1, word: 'Hard-hearted', work: 'TNK'},
+instances: 1, word: 'Hardly', work: 'TNK'},
+instances: 1, word: 'Hare', work: 'TNK'},
+instances: 1, word: 'Harmless', work: 'TNK'},
+instances: 1, word: 'Harsh', work: 'TNK'},
+instances: 1, word: 'Harsher', work: 'TNK'},
+instances: 1, word: 'Hasten', work: 'TNK'},
+instances: 1, word: 'Hated', work: 'TNK'},
+instances: 1, word: 'Hates', work: 'TNK'},
+instances: 1, word: 'Havoc', work: 'TNK'},
+instances: 1, word: 'Hawthorn', work: 'TNK'},
+instances: 1, word: 'Hay', work: 'TNK'},
+instances: 1, word: 'Heal\'st', work: 'TNK'},
+instances: 1, word: 'Heap', work: 'TNK'},
+instances: 1, word: 'Hears', work: 'TNK'},
+instances: 1, word: 'Heart-deep', work: 'TNK'},
+instances: 1, word: 'Heart-pierced', work: 'TNK'},
+instances: 1, word: 'Hearty', work: 'TNK'},
+instances: 1, word: 'Heart\'s', work: 'TNK'},
+instances: 1, word: 'Heated', work: 'TNK'},
+instances: 1, word: 'Heats', work: 'TNK'},
+instances: 1, word: 'Heavier', work: 'TNK'},
+instances: 1, word: 'Heaviest', work: 'TNK'},
+instances: 1, word: 'Heav\'nly', work: 'TNK'},
+instances: 1, word: 'Heels', work: 'TNK'},
+instances: 1, word: 'Heigh', work: 'TNK'},
+instances: 1, word: 'Held', work: 'TNK'},
+instances: 1, word: 'Helm', work: 'TNK'},
+instances: 1, word: 'Helmeted', work: 'TNK'},
+instances: 1, word: 'Helms', work: 'TNK'},
+instances: 1, word: 'Helpers', work: 'TNK'},
+instances: 1, word: 'Helping', work: 'TNK'},
+instances: 1, word: 'Henceforth', work: 'TNK'},
+instances: 1, word: 'Herd', work: 'TNK'},
+instances: 1, word: 'Herds', work: 'TNK'},
+instances: 1, word: 'Herself', work: 'TNK'},
+instances: 1, word: 'Hid', work: 'TNK'},
+instances: 1, word: 'Hide', work: 'TNK'},
+instances: 1, word: 'High-speeded', work: 'TNK'},
+instances: 1, word: 'Hilding', work: 'TNK'},
+instances: 1, word: 'Hind', work: 'TNK'},
+instances: 1, word: 'Hissing', work: 'TNK'},
+instances: 1, word: 'Hoar', work: 'TNK'},
+instances: 1, word: 'Hoarse', work: 'TNK'},
+instances: 1, word: 'Hobbyhorse', work: 'TNK'},
+instances: 1, word: 'Hoist', work: 'TNK'},
+instances: 1, word: 'Holds', work: 'TNK'},
+instances: 1, word: 'Holes', work: 'TNK'},
+instances: 1, word: 'Holiday', work: 'TNK'},
+instances: 1, word: 'Honest-hearted', work: 'TNK'},
+instances: 1, word: 'Honor\'s', work: 'TNK'},
+instances: 1, word: 'Hood', work: 'TNK'},
+instances: 1, word: 'Hoofs', work: 'TNK'},
+instances: 1, word: 'Hooves', work: 'TNK'},
+instances: 1, word: 'Hopeless', work: 'TNK'},
+instances: 1, word: 'Hornbook', work: 'TNK'},
+instances: 1, word: 'Horribly', work: 'TNK'},
+instances: 1, word: 'Horrid', work: 'TNK'},
+instances: 1, word: 'Horror', work: 'TNK'},
+instances: 1, word: 'Horseman', work: 'TNK'},
+instances: 1, word: 'Horsemanship', work: 'TNK'},
+instances: 1, word: 'Host', work: 'TNK'},
+instances: 1, word: 'Hostage', work: 'TNK'},
+instances: 1, word: 'Hostler', work: 'TNK'},
+instances: 1, word: 'Hotly', work: 'TNK'},
+instances: 1, word: 'Hotter', work: 'TNK'},
+instances: 1, word: 'Hounds', work: 'TNK'},
+instances: 1, word: 'Hourly', work: 'TNK'},
+instances: 1, word: 'Hours\'', work: 'TNK'},
+instances: 1, word: 'Household\'s', work: 'TNK'},
+instances: 1, word: 'Howl', work: 'TNK'},
+instances: 1, word: 'Howled', work: 'TNK'},
+instances: 1, word: 'Howling', work: 'TNK'},
+instances: 1, word: 'Howsoe\'er', work: 'TNK'},
+instances: 1, word: 'Hubbub', work: 'TNK'},
+instances: 1, word: 'Hue', work: 'TNK'},
+instances: 1, word: 'Humbled', work: 'TNK'},
+instances: 1, word: 'Hummed', work: 'TNK'},
+instances: 1, word: 'Humors', work: 'TNK'},
+instances: 1, word: 'Hums', work: 'TNK'},
+instances: 1, word: 'Hunger', work: 'TNK'},
+instances: 1, word: 'Hungry', work: 'TNK'},
+instances: 1, word: 'Huntress', work: 'TNK'},
+instances: 1, word: 'Hunt\'st', work: 'TNK'},
+instances: 1, word: 'Hurry', work: 'TNK'},
+instances: 1, word: 'Husband\'s', work: 'TNK'},
+instances: 1, word: 'Hypocrisy', work: 'TNK'},
+instances: 1, word: 'Ignis', work: 'TNK'},
+instances: 1, word: 'Ignorant', work: 'TNK'},
+instances: 1, word: 'Ill-dealing', work: 'TNK'},
+instances: 1, word: 'Illustrate', work: 'TNK'},
+instances: 1, word: 'Imagination', work: 'TNK'},
+instances: 1, word: 'Imaginations', work: 'TNK'},
+instances: 1, word: 'Imitation', work: 'TNK'},
+instances: 1, word: 'Impartial', work: 'TNK'},
+instances: 1, word: 'Impatient', work: 'TNK'},
+instances: 1, word: 'Impediments', work: 'TNK'},
+instances: 1, word: 'Imperfect', work: 'TNK'},
+instances: 1, word: 'Implore', work: 'TNK'},
+instances: 1, word: 'Importment\'s', work: 'TNK'},
+instances: 1, word: 'Imports', work: 'TNK'},
+instances: 1, word: 'Imposition', work: 'TNK'},
+instances: 1, word: 'Incense', work: 'TNK'},
+instances: 1, word: 'Incite', work: 'TNK'},
+instances: 1, word: 'Incline', work: 'TNK'},
+instances: 1, word: 'Inclining', work: 'TNK'},
+instances: 1, word: 'Incontinence', work: 'TNK'},
+instances: 1, word: 'Indebted', work: 'TNK'},
+instances: 1, word: 'Indifferent', work: 'TNK'},
+instances: 1, word: 'Individual', work: 'TNK'},
+instances: 1, word: 'Induce', work: 'TNK'},
+instances: 1, word: 'Infamy', work: 'TNK'},
+instances: 1, word: 'Infants', work: 'TNK'},
+instances: 1, word: 'Infinitely', work: 'TNK'},
+instances: 1, word: 'Inflame', work: 'TNK'},
+instances: 1, word: 'Inflict', work: 'TNK'},
+instances: 1, word: 'Informs', work: 'TNK'},
+instances: 1, word: 'Ingots', work: 'TNK'},
+instances: 1, word: 'Inhabit', work: 'TNK'},
+instances: 1, word: 'Inheritance', work: 'TNK'},
+instances: 1, word: 'Injuries', work: 'TNK'},
+instances: 1, word: 'Inquire', work: 'TNK'},
+instances: 1, word: 'Inserted', work: 'TNK'},
+instances: 1, word: 'Inspire', work: 'TNK'},
+instances: 1, word: 'Inspired', work: 'TNK'},
+instances: 1, word: 'Instantly', work: 'TNK'},
+instances: 1, word: 'Intelligence', work: 'TNK'},
+instances: 1, word: 'Intemp\'rate', work: 'TNK'},
+instances: 1, word: 'Intercession', work: 'TNK'},
+instances: 1, word: 'Interest', work: 'TNK'},
+instances: 1, word: 'Intermingle', work: 'TNK'},
+instances: 1, word: 'Intertangled', work: 'TNK'},
+instances: 1, word: 'Intrate', work: 'TNK'},
+instances: 1, word: 'Invest', work: 'TNK'},
+instances: 1, word: 'Inviting', work: 'TNK'},
+instances: 1, word: 'Iovis', work: 'TNK'},
+instances: 1, word: 'Ipso', work: 'TNK'},
+instances: 1, word: 'Ira', work: 'TNK'},
+instances: 1, word: 'Ire', work: 'TNK'},
+instances: 1, word: 'Iris', work: 'TNK'},
+instances: 1, word: 'Irons', work: 'TNK'},
+instances: 1, word: 'Issue', work: 'TNK'},
+instances: 1, word: 'Issues', work: 'TNK'},
+instances: 1, word: 'Ivy', work: 'TNK'},
+instances: 1, word: 'Jade', work: 'TNK'},
+instances: 1, word: 'Jadery', work: 'TNK'},
+instances: 1, word: 'Jades\'', work: 'TNK'},
+instances: 1, word: 'Javelins', work: 'TNK'},
+instances: 1, word: 'Jaw', work: 'TNK'},
+instances: 1, word: 'Jealous', work: 'TNK'},
+instances: 1, word: 'Jealousy', work: 'TNK'},
+instances: 1, word: 'Jean', work: 'TNK'},
+instances: 1, word: 'Jest', work: 'TNK'},
+instances: 1, word: 'Jig', work: 'TNK'},
+instances: 1, word: 'Jingling', work: 'TNK'},
+instances: 1, word: 'Jolly', work: 'TNK'},
+instances: 1, word: 'Journey', work: 'TNK'},
+instances: 1, word: 'Joyful', work: 'TNK'},
+instances: 1, word: 'Joys', work: 'TNK'},
+instances: 1, word: 'Judged', work: 'TNK'},
+instances: 1, word: 'Judgments', work: 'TNK'},
+instances: 1, word: 'Jump', work: 'TNK'},
+instances: 1, word: 'Juno', work: 'TNK'},
+instances: 1, word: 'Jupiter', work: 'TNK'},
+instances: 1, word: 'Justify', work: 'TNK'},
+instances: 1, word: 'Justifying', work: 'TNK'},
+instances: 1, word: 'Keeper\'s', work: 'TNK'},
+instances: 1, word: 'Keeps', work: 'TNK'},
+instances: 1, word: 'Kenned', work: 'TNK'},
+instances: 1, word: 'Kenn\'st', work: 'TNK'},
+instances: 1, word: 'Key', work: 'TNK'},
+instances: 1, word: 'Killing', work: 'TNK'},
+instances: 1, word: 'Kill\'st', work: 'TNK'},
+instances: 1, word: 'Kin', work: 'TNK'},
+instances: 1, word: 'Kindle', work: 'TNK'},
+instances: 1, word: 'Kindness', work: 'TNK'},
+instances: 1, word: 'Kindreds', work: 'TNK'},
+instances: 1, word: 'Kinds', work: 'TNK'},
+instances: 1, word: 'Kingdoms', work: 'TNK'},
+instances: 1, word: 'Kisses', work: 'TNK'},
+instances: 1, word: 'Kissing', work: 'TNK'},
+instances: 1, word: 'Kites', work: 'TNK'},
+instances: 1, word: 'Knacks', work: 'TNK'},
+instances: 1, word: 'Knee-deep', work: 'TNK'},
+instances: 1, word: 'Knew\'st', work: 'TNK'},
+instances: 1, word: 'Knightly', work: 'TNK'},
+instances: 1, word: 'Knit', work: 'TNK'},
+instances: 1, word: 'Knives', work: 'TNK'},
+instances: 1, word: 'Knock', work: 'TNK'},
+instances: 1, word: 'Knolls', work: 'TNK'},
+instances: 1, word: 'Knot', work: 'TNK'},
+instances: 1, word: 'Knots', work: 'TNK'},
+instances: 1, word: 'Knowest', work: 'TNK'},
+instances: 1, word: 'Labors', work: 'TNK'},
+instances: 1, word: 'Lack', work: 'TNK'},
+instances: 1, word: 'Ladies\'', work: 'TNK'},
+instances: 1, word: 'Lag', work: 'TNK'},
+instances: 1, word: 'Lamenting', work: 'TNK'},
+instances: 1, word: 'Laments', work: 'TNK'},
+instances: 1, word: 'Lamps', work: 'TNK'},
+instances: 1, word: 'Lance', work: 'TNK'},
+instances: 1, word: 'Land', work: 'TNK'},
+instances: 1, word: 'Lanes', work: 'TNK'},
+instances: 1, word: 'Lards', work: 'TNK'},
+instances: 1, word: 'Lark\'s-heels', work: 'TNK'},
+instances: 1, word: 'Lastly', work: 'TNK'},
+instances: 1, word: 'Late', work: 'TNK'},
+instances: 1, word: 'Latest', work: 'TNK'},
+instances: 1, word: 'Laud', work: 'TNK'},
+instances: 1, word: 'Laund', work: 'TNK'},
+instances: 1, word: 'Lawfully', work: 'TNK'},
+instances: 1, word: 'Laws', work: 'TNK'},
+instances: 1, word: 'Lays', work: 'TNK'},
+instances: 1, word: 'Lazy', work: 'TNK'},
+instances: 1, word: 'Leaden-footed', work: 'TNK'},
+instances: 1, word: 'Leak', work: 'TNK'},
+instances: 1, word: 'Leap', work: 'TNK'},
+instances: 1, word: 'Learn', work: 'TNK'},
+instances: 1, word: 'Leave-taking', work: 'TNK'},
+instances: 1, word: 'Leeches', work: 'TNK'},
+instances: 1, word: 'Lees', work: 'TNK'},
+instances: 1, word: 'Leg', work: 'TNK'},
+instances: 1, word: 'Lengthened', work: 'TNK'},
+instances: 1, word: 'Leprous', work: 'TNK'},
+instances: 1, word: 'Lesson', work: 'TNK'},
+instances: 1, word: 'Lets', work: 'TNK'},
+instances: 1, word: 'Levy', work: 'TNK'},
+instances: 1, word: 'Lewdly', work: 'TNK'},
+instances: 1, word: 'Liable', work: 'TNK'},
+instances: 1, word: 'Libels', work: 'TNK'},
+instances: 1, word: 'Liberal', work: 'TNK'},
+instances: 1, word: 'Lid', work: 'TNK'},
+instances: 1, word: 'Lids', work: 'TNK'},
+instances: 1, word: 'Lied', work: 'TNK'},
+instances: 1, word: 'Lief', work: 'TNK'},
+instances: 1, word: 'Liest', work: 'TNK'},
+instances: 1, word: 'Liked', work: 'TNK'},
+instances: 1, word: 'Likelihood', work: 'TNK'},
+instances: 1, word: 'Likes', work: 'TNK'},
+instances: 1, word: 'Likewise', work: 'TNK'},
+instances: 1, word: 'Liking', work: 'TNK'},
+instances: 1, word: 'Limiter', work: 'TNK'},
+instances: 1, word: 'Line', work: 'TNK'},
+instances: 1, word: 'Lineaments', work: 'TNK'},
+instances: 1, word: 'Lion', work: 'TNK'},
+instances: 1, word: 'Lion\'s', work: 'TNK'},
+instances: 1, word: 'Lip', work: 'TNK'},
+instances: 1, word: 'Lisps', work: 'TNK'},
+instances: 1, word: 'List', work: 'TNK'},
+instances: 1, word: 'Listen', work: 'TNK'},
+instances: 1, word: 'Listened', work: 'TNK'},
+instances: 1, word: 'Lived', work: 'TNK'},
+instances: 1, word: 'Livelong', work: 'TNK'},
+instances: 1, word: 'Livers', work: 'TNK'},
+instances: 1, word: 'Livery', work: 'TNK'},
+instances: 1, word: 'Load', work: 'TNK'},
+instances: 1, word: 'Loaden', work: 'TNK'},
+instances: 1, word: 'Loath', work: 'TNK'},
+instances: 1, word: 'Loathes', work: 'TNK'},
+instances: 1, word: 'Loathsome', work: 'TNK'},
+instances: 1, word: 'Loathsomeness', work: 'TNK'},
+instances: 1, word: 'Lock', work: 'TNK'},
+instances: 1, word: 'Lodged', work: 'TNK'},
+instances: 1, word: 'Longs', work: 'TNK'},
+instances: 1, word: 'Lordship', work: 'TNK'},
+instances: 1, word: 'Losses', work: 'TNK'},
+instances: 1, word: 'Lot', work: 'TNK'},
+instances: 1, word: 'Loud', work: 'TNK'},
+instances: 1, word: 'Loudness', work: 'TNK'},
+instances: 1, word: 'Lov\'st', work: 'TNK'},
+instances: 1, word: 'Low', work: 'TNK'},
+instances: 1, word: 'Lower', work: 'TNK'},
+instances: 1, word: 'Luce', work: 'TNK'},
+instances: 1, word: 'Lust', work: 'TNK'},
+instances: 1, word: 'Machine', work: 'TNK'},
+instances: 1, word: 'Maculate', work: 'TNK'},
+instances: 1, word: 'Maiden', work: 'TNK'},
+instances: 1, word: 'Maiden-hearted', work: 'TNK'},
+instances: 1, word: 'Maidenheads', work: 'TNK'},
+instances: 1, word: 'Maim', work: 'TNK'},
+instances: 1, word: 'Mainly', work: 'TNK'},
+instances: 1, word: 'Majesty', work: 'TNK'},
+instances: 1, word: 'Makest', work: 'TNK'},
+instances: 1, word: 'Male', work: 'TNK'},
+instances: 1, word: 'Malevolent', work: 'TNK'},
+instances: 1, word: 'Malicious', work: 'TNK'},
+instances: 1, word: 'Manage', work: 'TNK'},
+instances: 1, word: 'Mankind', work: 'TNK'},
+instances: 1, word: 'Marigolds', work: 'TNK'},
+instances: 1, word: 'Marked', work: 'TNK'},
+instances: 1, word: 'Market', work: 'TNK'},
+instances: 1, word: 'Market-place', work: 'TNK'},
+instances: 1, word: 'Married', work: 'TNK'},
+instances: 1, word: 'Marrow', work: 'TNK'},
+instances: 1, word: 'Marshal\'s', work: 'TNK'},
+instances: 1, word: 'Martialist', work: 'TNK'},
+instances: 1, word: 'Martyr', work: 'TNK'},
+instances: 1, word: 'Martyred', work: 'TNK'},
+instances: 1, word: 'Marvel', work: 'TNK'},
+instances: 1, word: 'Masoned', work: 'TNK'},
+instances: 1, word: 'Mast\'ry', work: 'TNK'},
+instances: 1, word: 'Match', work: 'TNK'},
+instances: 1, word: 'Matchless', work: 'TNK'},
+instances: 1, word: 'Matter\'s', work: 'TNK'},
+instances: 1, word: 'Maturely', work: 'TNK'},
+instances: 1, word: 'Maudlin', work: 'TNK'},
+instances: 1, word: 'Maying', work: 'TNK'},
+instances: 1, word: 'Maypole', work: 'TNK'},
+instances: 1, word: 'Mayst', work: 'TNK'},
+instances: 1, word: 'Mead', work: 'TNK'},
+instances: 1, word: 'Meager', work: 'TNK'},
+instances: 1, word: 'Meal', work: 'TNK'},
+instances: 1, word: 'Meantime', work: 'TNK'},
+instances: 1, word: 'Measure', work: 'TNK'},
+instances: 1, word: 'Meditance', work: 'TNK'},
+instances: 1, word: 'Meditation', work: 'TNK'},
+instances: 1, word: 'Medius', work: 'TNK'},
+instances: 1, word: 'Med\'cine', work: 'TNK'},
+instances: 1, word: 'Meed', work: 'TNK'},
+instances: 1, word: 'Meeting', work: 'TNK'},
+instances: 1, word: 'Meets', work: 'TNK'},
+instances: 1, word: 'Meleager', work: 'TNK'},
+instances: 1, word: 'Melodious', work: 'TNK'},
+instances: 1, word: 'Melts', work: 'TNK'},
+instances: 1, word: 'Menacing', work: 'TNK'},
+instances: 1, word: 'Mention', work: 'TNK'},
+instances: 1, word: 'Men\'s', work: 'TNK'},
+instances: 1, word: 'Merit', work: 'TNK'},
+instances: 1, word: 'Merrily', work: 'TNK'},
+instances: 1, word: 'Merry-hearted', work: 'TNK'},
+instances: 1, word: 'Metamorphosed', work: 'TNK'},
+instances: 1, word: 'Mickle', work: 'TNK'},
+instances: 1, word: 'Mightst', work: 'TNK'},
+instances: 1, word: 'Military', work: 'TNK'},
+instances: 1, word: 'Milk', work: 'TNK'},
+instances: 1, word: 'Milked', work: 'TNK'},
+instances: 1, word: 'Miller\'s', work: 'TNK'},
+instances: 1, word: 'Million', work: 'TNK'},
+instances: 1, word: 'Minds', work: 'TNK'},
+instances: 1, word: 'Mingled', work: 'TNK'},
+instances: 1, word: 'Minnow', work: 'TNK'},
+instances: 1, word: 'Minnows', work: 'TNK'},
+instances: 1, word: 'Minstrels', work: 'TNK'},
+instances: 1, word: 'Minute', work: 'TNK'},
+instances: 1, word: 'Misadventure', work: 'TNK'},
+instances: 1, word: 'Misbecomingly', work: 'TNK'},
+instances: 1, word: 'Miscarrying', work: 'TNK'},
+instances: 1, word: 'Miseries', work: 'TNK'},
+instances: 1, word: 'Misgives', work: 'TNK'},
+instances: 1, word: 'Mislike', work: 'TNK'},
+instances: 1, word: 'Mistake', work: 'TNK'},
+instances: 1, word: 'Mistakes', work: 'TNK'},
+instances: 1, word: 'Mistook', work: 'TNK'},
+instances: 1, word: 'Mistress\'', work: 'TNK'},
+instances: 1, word: 'Modestly', work: 'TNK'},
+instances: 1, word: 'Moiety', work: 'TNK'},
+instances: 1, word: 'Moist', work: 'TNK'},
+instances: 1, word: 'Momentary', work: 'TNK'},
+instances: 1, word: 'Monsters', work: 'TNK'},
+instances: 1, word: 'Mood', work: 'TNK'},
+instances: 1, word: 'Moonlight', work: 'TNK'},
+instances: 1, word: 'Moped', work: 'TNK'},
+instances: 1, word: 'Morn', work: 'TNK'},
+instances: 1, word: 'Morr', work: 'TNK'},
+instances: 1, word: 'Mother\'s', work: 'TNK'},
+instances: 1, word: 'Mouth', work: 'TNK'},
+instances: 1, word: 'Mouths', work: 'TNK'},
+instances: 1, word: 'Muddy', work: 'TNK'},
+instances: 1, word: 'Mulberries', work: 'TNK'},
+instances: 1, word: 'Multis', work: 'TNK'},
+instances: 1, word: 'Mumble', work: 'TNK'},
+instances: 1, word: 'Murder', work: 'TNK'},
+instances: 1, word: 'Muset', work: 'TNK'},
+instances: 1, word: 'Musical', work: 'TNK'},
+instances: 1, word: 'Musicians', work: 'TNK'},
+instances: 1, word: 'Music\'s', work: 'TNK'},
+instances: 1, word: 'Mute', work: 'TNK'},
+instances: 1, word: 'Mutual', work: 'TNK'},
+instances: 1, word: 'Mystery', work: 'TNK'},
+instances: 1, word: 'Nail', work: 'TNK'},
+instances: 1, word: 'Natural', work: 'TNK'},
+instances: 1, word: 'Nature\'s', work: 'TNK'},
+instances: 1, word: 'Navel', work: 'TNK'},
+instances: 1, word: 'Nearer', work: 'TNK'},
+instances: 1, word: 'Nearness', work: 'TNK'},
+instances: 1, word: 'Necessaries', work: 'TNK'},
+instances: 1, word: 'Neck', work: 'TNK'},
+instances: 1, word: 'Necks', work: 'TNK'},
+instances: 1, word: 'Nectar', work: 'TNK'},
+instances: 1, word: 'Neglected', work: 'TNK'},
+instances: 1, word: 'Neighing', work: 'TNK'},
+instances: 1, word: 'Nell', work: 'TNK'},
+instances: 1, word: 'Nemean', work: 'TNK'},
+instances: 1, word: 'Nephews', work: 'TNK'},
+instances: 1, word: 'Neptune', work: 'TNK'},
+instances: 1, word: 'Nerves', work: 'TNK'},
+instances: 1, word: 'Nettle', work: 'TNK'},
+instances: 1, word: 'Nettles', work: 'TNK'},
+instances: 1, word: 'Neutral', work: 'TNK'},
+instances: 1, word: 'Never-erring', work: 'TNK'},
+instances: 1, word: 'New-conceived', work: 'TNK'},
+instances: 1, word: 'Newly', work: 'TNK'},
+instances: 1, word: 'Nibbling', work: 'TNK'},
+instances: 1, word: 'Nice', work: 'TNK'},
+instances: 1, word: 'Niceness', work: 'TNK'},
+instances: 1, word: 'Nick', work: 'TNK'},
+instances: 1, word: 'Niggard', work: 'TNK'},
+instances: 1, word: 'Nightingale', work: 'TNK'},
+instances: 1, word: 'Nights', work: 'TNK'},
+instances: 1, word: 'Night\'s', work: 'TNK'},
+instances: 1, word: 'Nimble-set', work: 'TNK'},
+instances: 1, word: 'Nimbler', work: 'TNK'},
+instances: 1, word: 'Ninety', work: 'TNK'},
+instances: 1, word: 'Nobility', work: 'TNK'},
+instances: 1, word: 'Noblest', work: 'TNK'},
+instances: 1, word: 'Nobly', work: 'TNK'},
+instances: 1, word: 'Nods', work: 'TNK'},
+instances: 1, word: 'Noise', work: 'TNK'},
+instances: 1, word: 'Northeast', work: 'TNK'},
+instances: 1, word: 'Nose', work: 'TNK'},
+instances: 1, word: 'Nosegay', work: 'TNK'},
+instances: 1, word: 'Notice', work: 'TNK'},
+instances: 1, word: 'Nourishment', work: 'TNK'},
+instances: 1, word: 'Nurse', work: 'TNK'},
+instances: 1, word: 'Oak', work: 'TNK'},
+instances: 1, word: 'Oaths', work: 'TNK'},
+instances: 1, word: 'Oats', work: 'TNK'},
+instances: 1, word: 'Obeys', work: 'TNK'},
+instances: 1, word: 'Objects', work: 'TNK'},
+instances: 1, word: 'Observance', work: 'TNK'},
+instances: 1, word: 'Observed', work: 'TNK'},
+instances: 1, word: 'Obtained', work: 'TNK'},
+instances: 1, word: 'Ocean', work: 'TNK'},
+instances: 1, word: 'Odds', work: 'TNK'},
+instances: 1, word: 'Odor', work: 'TNK'},
+instances: 1, word: 'Offended', work: 'TNK'},
+instances: 1, word: 'Offender', work: 'TNK'},
+instances: 1, word: 'Offending', work: 'TNK'},
+instances: 1, word: 'Offends', work: 'TNK'},
+instances: 1, word: 'Offenses', work: 'TNK'},
+instances: 1, word: 'Offered', work: 'TNK'},
+instances: 1, word: 'Offerers', work: 'TNK'},
+instances: 1, word: 'Officers', work: 'TNK'},
+instances: 1, word: 'Oft', work: 'TNK'},
+instances: 1, word: 'Oil', work: 'TNK'},
+instances: 1, word: 'Omnes', work: 'TNK'},
+instances: 1, word: 'Operance', work: 'TNK'},
+instances: 1, word: 'Opinion', work: 'TNK'},
+instances: 1, word: 'Opportunity', work: 'TNK'},
+instances: 1, word: 'Oppose', work: 'TNK'},
+instances: 1, word: 'Oppressed', work: 'TNK'},
+instances: 1, word: 'Oppressor', work: 'TNK'},
+instances: 1, word: 'Opus', work: 'TNK'},
+instances: 1, word: 'Oracle', work: 'TNK'},
+instances: 1, word: 'Ordain', work: 'TNK'},
+instances: 1, word: 'Order', work: 'TNK'},
+instances: 1, word: 'Order\'s', work: 'TNK'},
+instances: 1, word: 'Origin', work: 'TNK'},
+instances: 1, word: 'Ornament', work: 'TNK'},
+instances: 1, word: 'Ospreys', work: 'TNK'},
+instances: 1, word: 'Others\'', work: 'TNK'},
+instances: 1, word: 'Out-breasted', work: 'TNK'},
+instances: 1, word: 'Outdid', work: 'TNK'},
+instances: 1, word: 'Outdure', work: 'TNK'},
+instances: 1, word: 'Outlived', work: 'TNK'},
+instances: 1, word: 'Outside', work: 'TNK'},
+instances: 1, word: 'Outstripped', work: 'TNK'},
+instances: 1, word: 'Outwent', work: 'TNK'},
+instances: 1, word: 'Outworn', work: 'TNK'},
+instances: 1, word: 'Overflow', work: 'TNK'},
+instances: 1, word: 'Owe', work: 'TNK'},
+instances: 1, word: 'Owing', work: 'TNK'},
+instances: 1, word: 'Owlet', work: 'TNK'},
+instances: 1, word: 'Owner', work: 'TNK'},
+instances: 1, word: 'Ow\'st', work: 'TNK'},
+instances: 1, word: 'Oxlips', work: 'TNK'},
+instances: 1, word: 'O\'er-rank', work: 'TNK'},
+instances: 1, word: 'O\'er-weigh', work: 'TNK'},
+instances: 1, word: 'O\'er-wrestling', work: 'TNK'},
+instances: 1, word: 'O\'erflowing', work: 'TNK'},
+instances: 1, word: 'Pack', work: 'TNK'},
+instances: 1, word: 'Paid', work: 'TNK'},
+instances: 1, word: 'Paint', work: 'TNK'},
+instances: 1, word: 'Painted', work: 'TNK'},
+instances: 1, word: 'Painter', work: 'TNK'},
+instances: 1, word: 'Paints', work: 'TNK'},
+instances: 1, word: 'Palace', work: 'TNK'},
+instances: 1, word: 'Pale', work: 'TNK'},
+instances: 1, word: 'Pallas', work: 'TNK'},
+instances: 1, word: 'Parcel', work: 'TNK'},
+instances: 1, word: 'Pardons', work: 'TNK'},
+instances: 1, word: 'Parish', work: 'TNK'},
+instances: 1, word: 'Parleys', work: 'TNK'},
+instances: 1, word: 'Parlously', work: 'TNK'},
+instances: 1, word: 'Parthian', work: 'TNK'},
+instances: 1, word: 'Parting', work: 'TNK'},
+instances: 1, word: 'Party', work: 'TNK'},
+instances: 1, word: 'Passa', work: 'TNK'},
+instances: 1, word: 'Passage', work: 'TNK'},
+instances: 1, word: 'Passages', work: 'TNK'},
+instances: 1, word: 'Passed', work: 'TNK'},
+instances: 1, word: 'Passes', work: 'TNK'},
+instances: 1, word: 'Pastime', work: 'TNK'},
+instances: 1, word: 'Pastimes', work: 'TNK'},
+instances: 1, word: 'Pasture', work: 'TNK'},
+instances: 1, word: 'Pattern', work: 'TNK'},
+instances: 1, word: 'Pavement', work: 'TNK'},
+instances: 1, word: 'Pebbles', work: 'TNK'},
+instances: 1, word: 'Pecks', work: 'TNK'},
+instances: 1, word: 'Peculiar', work: 'TNK'},
+instances: 1, word: 'Pedagogus', work: 'TNK'},
+instances: 1, word: 'Pelops\'', work: 'TNK'},
+instances: 1, word: 'Pelting', work: 'TNK'},
+instances: 1, word: 'Penciled', work: 'TNK'},
+instances: 1, word: 'Penned', work: 'TNK'},
+instances: 1, word: 'Penner', work: 'TNK'},
+instances: 1, word: 'Penn\'orth', work: 'TNK'},
+instances: 1, word: 'Perceived', work: 'TNK'},
+instances: 1, word: 'Perch', work: 'TNK'},
+instances: 1, word: 'Perfidious', work: 'TNK'},
+instances: 1, word: 'Perform', work: 'TNK'},
+instances: 1, word: 'Peril', work: 'TNK'},
+instances: 1, word: 'Permitted', work: 'TNK'},
+instances: 1, word: 'Perpetual', work: 'TNK'},
+instances: 1, word: 'Personal', work: 'TNK'},
+instances: 1, word: 'Persuaded', work: 'TNK'},
+instances: 1, word: 'Persuasion', work: 'TNK'},
+instances: 1, word: 'Persuasively', work: 'TNK'},
+instances: 1, word: 'Pertains', work: 'TNK'},
+instances: 1, word: 'Perturbed', work: 'TNK'},
+instances: 1, word: 'Petitions', work: 'TNK'},
+instances: 1, word: 'Petticoat', work: 'TNK'},
+instances: 1, word: 'Philomels', work: 'TNK'},
+instances: 1, word: 'Phoenix-like', work: 'TNK'},
+instances: 1, word: 'Physic', work: 'TNK'},
+instances: 1, word: 'Pick', work: 'TNK'},
+instances: 1, word: 'Picture', work: 'TNK'},
+instances: 1, word: 'Pie', work: 'TNK'},
+instances: 1, word: 'Pig-like', work: 'TNK'},
+instances: 1, word: 'Pilot', work: 'TNK'},
+instances: 1, word: 'Pinks', work: 'TNK'},
+instances: 1, word: 'Pirithous\'', work: 'TNK'},
+instances: 1, word: 'Piss', work: 'TNK'},
+instances: 1, word: 'Pitch', work: 'TNK'},
+instances: 1, word: 'Piteous', work: 'TNK'},
+instances: 1, word: 'Pitied', work: 'TNK'},
+instances: 1, word: 'Pity\'s', work: 'TNK'},
+instances: 1, word: 'Plainly', work: 'TNK'},
+instances: 1, word: 'Plains', work: 'TNK'},
+instances: 1, word: 'Plane', work: 'TNK'},
+instances: 1, word: 'Plant', work: 'TNK'},
+instances: 1, word: 'Plantain', work: 'TNK'},
+instances: 1, word: 'Played', work: 'TNK'},
+instances: 1, word: 'Playfellow', work: 'TNK'},
+instances: 1, word: 'Playferes', work: 'TNK'},
+instances: 1, word: 'Playing', work: 'TNK'},
+instances: 1, word: 'Plays', work: 'TNK'},
+instances: 1, word: 'Plea', work: 'TNK'},
+instances: 1, word: 'Pleases', work: 'TNK'},
+instances: 1, word: 'Pleasure\'s', work: 'TNK'},
+instances: 1, word: 'Pleurisy', work: 'TNK'},
+instances: 1, word: 'Plighted', work: 'TNK'},
+instances: 1, word: 'Plough', work: 'TNK'},
+instances: 1, word: 'Plucked', work: 'TNK'},
+instances: 1, word: 'Plunges', work: 'TNK'},
+instances: 1, word: 'Po', work: 'TNK'},
+instances: 1, word: 'Pointing', work: 'TNK'},
+instances: 1, word: 'Pole', work: 'TNK'},
+instances: 1, word: 'Polled', work: 'TNK'},
+instances: 1, word: 'Porridge', work: 'TNK'},
+instances: 1, word: 'Portion', work: 'TNK'},
+instances: 1, word: 'Posed', work: 'TNK'},
+instances: 1, word: 'Posies', work: 'TNK'},
+instances: 1, word: 'Position', work: 'TNK'},
+instances: 1, word: 'Possess', work: 'TNK'},
+instances: 1, word: 'Possessed', work: 'TNK'},
+instances: 1, word: 'Possession', work: 'TNK'},
+instances: 1, word: 'Pour', work: 'TNK'},
+instances: 1, word: 'Poutings', work: 'TNK'},
+instances: 1, word: 'Powerful', work: 'TNK'},
+instances: 1, word: 'Practiced', work: 'TNK'},
+instances: 1, word: 'Praises', work: 'TNK'},
+instances: 1, word: 'Pranks', work: 'TNK'},
+instances: 1, word: 'Prate', work: 'TNK'},
+instances: 1, word: 'Precipitance', work: 'TNK'},
+instances: 1, word: 'Preface', work: 'TNK'},
+instances: 1, word: 'Prefer', work: 'TNK'},
+instances: 1, word: 'Prefixed', work: 'TNK'},
+instances: 1, word: 'Prejudice', work: 'TNK'},
+instances: 1, word: 'Premeditating', work: 'TNK'},
+instances: 1, word: 'Preordained', work: 'TNK'},
+instances: 1, word: 'Prepared', work: 'TNK'},
+instances: 1, word: 'Presence', work: 'TNK'},
+instances: 1, word: 'Press', work: 'TNK'},
+instances: 1, word: 'Pressed', work: 'TNK'},
+instances: 1, word: 'Presuming', work: 'TNK'},
+instances: 1, word: 'Pretended', work: 'TNK'},
+instances: 1, word: 'Pretenders', work: 'TNK'},
+instances: 1, word: 'Prettiest', work: 'TNK'},
+instances: 1, word: 'Prettily', work: 'TNK'},
+instances: 1, word: 'Prevailed', work: 'TNK'},
+instances: 1, word: 'Prevent', work: 'TNK'},
+instances: 1, word: 'Prewarn', work: 'TNK'},
+instances: 1, word: 'Prick', work: 'TNK'},
+instances: 1, word: 'Pride', work: 'TNK'},
+instances: 1, word: 'Prime', work: 'TNK'},
+instances: 1, word: 'Primrose', work: 'TNK'},
+instances: 1, word: 'Prisonment', work: 'TNK'},
+instances: 1, word: 'Privately', work: 'TNK'},
+instances: 1, word: 'Prized', work: 'TNK'},
+instances: 1, word: 'Proceedings', work: 'TNK'},
+instances: 1, word: 'Proclaiming', work: 'TNK'},
+instances: 1, word: 'Procured', work: 'TNK'},
+instances: 1, word: 'Produce', work: 'TNK'},
+instances: 1, word: 'Professes', work: 'TNK'},
+instances: 1, word: 'Profession', work: 'TNK'},
+instances: 1, word: 'Profound', work: 'TNK'},
+instances: 1, word: 'Proh', work: 'TNK'},
+instances: 1, word: 'Project', work: 'TNK'},
+instances: 1, word: 'Prolong', work: 'TNK'},
+instances: 1, word: 'Promised', work: 'TNK'},
+instances: 1, word: 'Promises', work: 'TNK'},
+instances: 1, word: 'Promontory', work: 'TNK'},
+instances: 1, word: 'Prone', work: 'TNK'},
+instances: 1, word: 'Pronounces', work: 'TNK'},
+instances: 1, word: 'Proof', work: 'TNK'},
+instances: 1, word: 'Proper', work: 'TNK'},
+instances: 1, word: 'Prophets', work: 'TNK'},
+instances: 1, word: 'Propound', work: 'TNK'},
+instances: 1, word: 'Props', work: 'TNK'},
+instances: 1, word: 'Prorogue', work: 'TNK'},
+instances: 1, word: 'Proserpine', work: 'TNK'},
+instances: 1, word: 'Provender', work: 'TNK'},
+instances: 1, word: 'Proves', work: 'TNK'},
+instances: 1, word: 'Provocations', work: 'TNK'},
+instances: 1, word: 'Prune', work: 'TNK'},
+instances: 1, word: 'Public', work: 'TNK'},
+instances: 1, word: 'Puissance', work: 'TNK'},
+instances: 1, word: 'Punished', work: 'TNK'},
+instances: 1, word: 'Pupil', work: 'TNK'},
+instances: 1, word: 'Purge', work: 'TNK'},
+instances: 1, word: 'Purger', work: 'TNK'},
+instances: 1, word: 'Purple', work: 'TNK'},
+instances: 1, word: 'Pursuest', work: 'TNK'},
+instances: 1, word: 'Pursuit', work: 'TNK'},
+instances: 1, word: 'Push', work: 'TNK'},
+instances: 1, word: 'Pushes', work: 'TNK'},
+instances: 1, word: 'Puts', work: 'TNK'},
+instances: 1, word: 'Pygmies', work: 'TNK'},
+instances: 1, word: 'Quaint', work: 'TNK'},
+instances: 1, word: 'Quaking', work: 'TNK'},
+instances: 1, word: 'Qualities', work: 'TNK'},
+instances: 1, word: 'Quarrels', work: 'TNK'},
+instances: 1, word: 'Quarter', work: 'TNK'},
+instances: 1, word: 'Quick', work: 'TNK'},
+instances: 1, word: 'Quick-eyed', work: 'TNK'},
+instances: 1, word: 'Quiet', work: 'TNK'},
+instances: 1, word: 'Quite', work: 'TNK'},
+instances: 1, word: 'Quiver', work: 'TNK'},
+instances: 1, word: 'Quo', work: 'TNK'},
+instances: 1, word: 'Quod', work: 'TNK'},
+instances: 1, word: 'Rabble', work: 'TNK'},
+instances: 1, word: 'Race', work: 'TNK'},
+instances: 1, word: 'Rages', work: 'TNK'},
+instances: 1, word: 'Raging', work: 'TNK'},
+instances: 1, word: 'Rank', work: 'TNK'},
+instances: 1, word: 'Rapier', work: 'TNK'},
+instances: 1, word: 'Rarest', work: 'TNK'},
+instances: 1, word: 'Rash', work: 'TNK'},
+instances: 1, word: 'Rate', work: 'TNK'},
+instances: 1, word: 'Rates', work: 'TNK'},
+instances: 1, word: 'Raven', work: 'TNK'},
+instances: 1, word: 'Ravens', work: 'TNK'},
+instances: 1, word: 'Ravens\'', work: 'TNK'},
+instances: 1, word: 'Ravish', work: 'TNK'},
+instances: 1, word: 'Ravished', work: 'TNK'},
+instances: 1, word: 'Raw', work: 'TNK'},
+instances: 1, word: 'Raze', work: 'TNK'},
+instances: 1, word: 'Really', work: 'TNK'},
+instances: 1, word: 'Reasonably', work: 'TNK'},
+instances: 1, word: 'Reasons', work: 'TNK'},
+instances: 1, word: 'Rebellious', work: 'TNK'},
+instances: 1, word: 'Rebuke', work: 'TNK'},
+instances: 1, word: 'Reck', work: 'TNK'},
+instances: 1, word: 'Reck\'ning', work: 'TNK'},
+instances: 1, word: 'Reconciled', work: 'TNK'},
+instances: 1, word: 'Record', work: 'TNK'},
+instances: 1, word: 'Recovered', work: 'TNK'},
+instances: 1, word: 'Rectifier', work: 'TNK'},
+instances: 1, word: 'Red-eyed', work: 'TNK'},
+instances: 1, word: 'Redemption', work: 'TNK'},
+instances: 1, word: 'Redress', work: 'TNK'},
+instances: 1, word: 'Reduce', work: 'TNK'},
+instances: 1, word: 'Reel', work: 'TNK'},
+instances: 1, word: 'Reels', work: 'TNK'},
+instances: 1, word: 'Refreshing', work: 'TNK'},
+instances: 1, word: 'Refuse', work: 'TNK'},
+instances: 1, word: 'Regiment', work: 'TNK'},
+instances: 1, word: 'Rehearsal', work: 'TNK'},
+instances: 1, word: 'Rehearse', work: 'TNK'},
+instances: 1, word: 'Reign\'st', work: 'TNK'},
+instances: 1, word: 'Rejoicer', work: 'TNK'},
+instances: 1, word: 'Relish', work: 'TNK'},
+instances: 1, word: 'Remain', work: 'TNK'},
+instances: 1, word: 'Remove', work: 'TNK'},
+instances: 1, word: 'Repair', work: 'TNK'},
+instances: 1, word: 'Repletion', work: 'TNK'},
+instances: 1, word: 'Reported', work: 'TNK'},
+instances: 1, word: 'Reputation', work: 'TNK'},
+instances: 1, word: 'Request', work: 'TNK'},
+instances: 1, word: 'Requiring', work: 'TNK'},
+instances: 1, word: 'Requite', work: 'TNK'},
+instances: 1, word: 'Residing', work: 'TNK'},
+instances: 1, word: 'Resistance', work: 'TNK'},
+instances: 1, word: 'Restraint', work: 'TNK'},
+instances: 1, word: 'Resume', work: 'TNK'},
+instances: 1, word: 'Retain', work: 'TNK'},
+instances: 1, word: 'Retains', work: 'TNK'},
+instances: 1, word: 'Retire', work: 'TNK'},
+instances: 1, word: 'Returned', work: 'TNK'},
+instances: 1, word: 'Returning', work: 'TNK'},
+instances: 1, word: 'Reveal', work: 'TNK'},
+instances: 1, word: 'Revels', work: 'TNK'},
+instances: 1, word: 'Revenge', work: 'TNK'},
+instances: 1, word: 'Reverence', work: 'TNK'},
+instances: 1, word: 'Rewarded', work: 'TNK'},
+instances: 1, word: 'Rheum', work: 'TNK'},
+instances: 1, word: 'Ribbons', work: 'TNK'},
+instances: 1, word: 'Richest', work: 'TNK'},
+instances: 1, word: 'Richness', work: 'TNK'},
+instances: 1, word: 'Rid', work: 'TNK'},
+instances: 1, word: 'Rider\'s', work: 'TNK'},
+instances: 1, word: 'Ring', work: 'TNK'},
+instances: 1, word: 'Rings', work: 'TNK'},
+instances: 1, word: 'Rinsing', work: 'TNK'},
+instances: 1, word: 'Rips', work: 'TNK'},
+instances: 1, word: 'Rising', work: 'TNK'},
+instances: 1, word: 'Rite', work: 'TNK'},
+instances: 1, word: 'Rites', work: 'TNK'},
+instances: 1, word: 'Roar', work: 'TNK'},
+instances: 1, word: 'Roaring', work: 'TNK'},
+instances: 1, word: 'Roast', work: 'TNK'},
+instances: 1, word: 'Robe', work: 'TNK'},
+instances: 1, word: 'Rock', work: 'TNK'},
+instances: 1, word: 'Rocks', work: 'TNK'},
+instances: 1, word: 'Rolling', work: 'TNK'},
+instances: 1, word: 'Roof', work: 'TNK'},
+instances: 1, word: 'Root', work: 'TNK'},
+instances: 1, word: 'Roots', work: 'TNK'},
+instances: 1, word: 'Round-faced', work: 'TNK'},
+instances: 1, word: 'Rounded', work: 'TNK'},
+instances: 1, word: 'Rowel', work: 'TNK'},
+instances: 1, word: 'Rub', work: 'TNK'},
+instances: 1, word: 'Ruddy', work: 'TNK'},
+instances: 1, word: 'Ruder', work: 'TNK'},
+instances: 1, word: 'Rudiments', work: 'TNK'},
+instances: 1, word: 'Ruling', work: 'TNK'},
+instances: 1, word: 'Rumination', work: 'TNK'},
+instances: 1, word: 'Runs', work: 'TNK'},
+instances: 1, word: 'Rust', work: 'TNK'},
+instances: 1, word: 'Rusty', work: 'TNK'},
+instances: 1, word: 'Rycas', work: 'TNK'},
+instances: 1, word: 'Sacrifice', work: 'TNK'},
+instances: 1, word: 'Sacrifices', work: 'TNK'},
+instances: 1, word: 'Saddle', work: 'TNK'},
+instances: 1, word: 'Sadly', work: 'TNK'},
+instances: 1, word: 'Safe', work: 'TNK'},
+instances: 1, word: 'Safely', work: 'TNK'},
+instances: 1, word: 'Safer', work: 'TNK'},
+instances: 1, word: 'Safety', work: 'TNK'},
+instances: 1, word: 'Sails', work: 'TNK'},
+instances: 1, word: 'Salmon', work: 'TNK'},
+instances: 1, word: 'Salutes', work: 'TNK'},
+instances: 1, word: 'Sat', work: 'TNK'},
+instances: 1, word: 'Saturn', work: 'TNK'},
+instances: 1, word: 'Sauce', work: 'TNK'},
+instances: 1, word: 'Scarce', work: 'TNK'},
+instances: 1, word: 'Scarcely', work: 'TNK'},
+instances: 1, word: 'Scars', work: 'TNK'},
+instances: 1, word: 'Scene\'s', work: 'TNK'},
+instances: 1, word: 'School', work: 'TNK'},
+instances: 1, word: 'School-doing', work: 'TNK'},
+instances: 1, word: 'Schoolmaster\'s', work: 'TNK'},
+instances: 1, word: 'Scissored', work: 'TNK'},
+instances: 1, word: 'Scorning', work: 'TNK'},
+instances: 1, word: 'Scorns', work: 'TNK'},
+instances: 1, word: 'Scoured', work: 'TNK'},
+instances: 1, word: 'Screech', work: 'TNK'},
+instances: 1, word: 'Screwed', work: 'TNK'},
+instances: 1, word: 'Scruples', work: 'TNK'},
+instances: 1, word: 'Scurrile', work: 'TNK'},
+instances: 1, word: 'Scythe-tusked', work: 'TNK'},
+instances: 1, word: 'Sealed', work: 'TNK'},
+instances: 1, word: 'Secret', work: 'TNK'},
+instances: 1, word: 'Secrets', work: 'TNK'},
+instances: 1, word: 'Secure', work: 'TNK'},
+instances: 1, word: 'Sedges', work: 'TNK'},
+instances: 1, word: 'Seeds', work: 'TNK'},
+instances: 1, word: 'Seeks', work: 'TNK'},
+instances: 1, word: 'Sees', work: 'TNK'},
+instances: 1, word: 'Seize', work: 'TNK'},
+instances: 1, word: 'Seldom', work: 'TNK'},
+instances: 1, word: 'Sempster\'s', work: 'TNK'},
+instances: 1, word: 'Send', work: 'TNK'},
+instances: 1, word: 'Sennois', work: 'TNK'},
+instances: 1, word: 'Senses', work: 'TNK'},
+instances: 1, word: 'Sensually', work: 'TNK'},
+instances: 1, word: 'Sentencing', work: 'TNK'},
+instances: 1, word: 'Sequent', work: 'TNK'},
+instances: 1, word: 'Serious', work: 'TNK'},
+instances: 1, word: 'Seriousness', work: 'TNK'},
+instances: 1, word: 'Services', work: 'TNK'},
+instances: 1, word: 'Servingman', work: 'TNK'},
+instances: 1, word: 'Settled', work: 'TNK'},
+instances: 1, word: 'Seventy', work: 'TNK'},
+instances: 1, word: 'Sever', work: 'TNK'},
+instances: 1, word: 'Shades', work: 'TNK'},
+instances: 1, word: 'Shadowy', work: 'TNK'},
+instances: 1, word: 'Shaker', work: 'TNK'},
+instances: 1, word: 'Shames', work: 'TNK'},
+instances: 1, word: 'Shape', work: 'TNK'},
+instances: 1, word: 'Sharpens', work: 'TNK'},
+instances: 1, word: 'Sharpness', work: 'TNK'},
+instances: 1, word: 'Sheath', work: 'TNK'},
+instances: 1, word: 'Shed', work: 'TNK'},
+instances: 1, word: 'She\'ll', work: 'TNK'},
+instances: 1, word: 'Shield', work: 'TNK'},
+instances: 1, word: 'Ships', work: 'TNK'},
+instances: 1, word: 'Shirts', work: 'TNK'},
+instances: 1, word: 'Shook', work: 'TNK'},
+instances: 1, word: 'Shore', work: 'TNK'},
+instances: 1, word: 'Shortness', work: 'TNK'},
+instances: 1, word: 'Shoulder', work: 'TNK'},
+instances: 1, word: 'Shoulder-piece', work: 'TNK'},
+instances: 1, word: 'Shoulders', work: 'TNK'},
+instances: 1, word: 'Shouldst', work: 'TNK'},
+instances: 1, word: 'Showing', work: 'TNK'},
+instances: 1, word: 'Shrewd', work: 'TNK'},
+instances: 1, word: 'Shrill', work: 'TNK'},
+instances: 1, word: 'Shrunk', work: 'TNK'},
+instances: 1, word: 'Shun', work: 'TNK'},
+instances: 1, word: 'Sib', work: 'TNK'},
+instances: 1, word: 'Sicken', work: 'TNK'},
+instances: 1, word: 'Sickly', work: 'TNK'},
+instances: 1, word: 'Sickness', work: 'TNK'},
+instances: 1, word: 'Sides', work: 'TNK'},
+instances: 1, word: 'Sighed', work: 'TNK'},
+instances: 1, word: 'Sigher', work: 'TNK'},
+instances: 1, word: 'Sighs', work: 'TNK'},
+instances: 1, word: 'Sights', work: 'TNK'},
+instances: 1, word: 'Sign', work: 'TNK'},
+instances: 1, word: 'Silence', work: 'TNK'},
+instances: 1, word: 'Silent', work: 'TNK'},
+instances: 1, word: 'Silk', work: 'TNK'},
+instances: 1, word: 'Sillily', work: 'TNK'},
+instances: 1, word: 'Simp\'ring', work: 'TNK'},
+instances: 1, word: 'Sin', work: 'TNK'},
+instances: 1, word: 'Single', work: 'TNK'},
+instances: 1, word: 'Sinister', work: 'TNK'},
+instances: 1, word: 'Sipped', work: 'TNK'},
+instances: 1, word: 'Sire', work: 'TNK'},
+instances: 1, word: 'Sirs', work: 'TNK'},
+instances: 1, word: 'Sisters\'', work: 'TNK'},
+instances: 1, word: 'Six', work: 'TNK'},
+instances: 1, word: 'Six-and-thirty', work: 'TNK'},
+instances: 1, word: 'Skiffed', work: 'TNK'},
+instances: 1, word: 'Skip', work: 'TNK'},
+instances: 1, word: 'Skipped', work: 'TNK'},
+instances: 1, word: 'Skirt', work: 'TNK'},
+instances: 1, word: 'Skulls', work: 'TNK'},
+instances: 1, word: 'Sland\'rous', work: 'TNK'},
+instances: 1, word: 'Sleeping', work: 'TNK'},
+instances: 1, word: 'Sleeps', work: 'TNK'},
+instances: 1, word: 'Slight', work: 'TNK'},
+instances: 1, word: 'Slightly', work: 'TNK'},
+instances: 1, word: 'Slip', work: 'TNK'},
+instances: 1, word: 'Slipped', work: 'TNK'},
+instances: 1, word: 'Sloth', work: 'TNK'},
+instances: 1, word: 'Slumbers', work: 'TNK'},
+instances: 1, word: 'Smallness', work: 'TNK'},
+instances: 1, word: 'Smeared', work: 'TNK'},
+instances: 1, word: 'Smell-less', work: 'TNK'},
+instances: 1, word: 'Smells', work: 'TNK'},
+instances: 1, word: 'Smiled', work: 'TNK'},
+instances: 1, word: 'Smocks', work: 'TNK'},
+instances: 1, word: 'Smoke', work: 'TNK'},
+instances: 1, word: 'Smoother', work: 'TNK'},
+instances: 1, word: 'Snails', work: 'TNK'},
+instances: 1, word: 'Snatch', work: 'TNK'},
+instances: 1, word: 'Snow', work: 'TNK'},
+instances: 1, word: 'So-scorned', work: 'TNK'},
+instances: 1, word: 'Sod', work: 'TNK'},
+instances: 1, word: 'Soe\'er', work: 'TNK'},
+instances: 1, word: 'Soft-hearted', work: 'TNK'},
+instances: 1, word: 'Soiled', work: 'TNK'},
+instances: 1, word: 'Sojourn', work: 'TNK'},
+instances: 1, word: 'Sold', work: 'TNK'},
+instances: 1, word: 'Soldieress', work: 'TNK'},
+instances: 1, word: 'Soldier\'s', work: 'TNK'},
+instances: 1, word: 'Sole', work: 'TNK'},
+instances: 1, word: 'Solicit', work: 'TNK'},
+instances: 1, word: 'Solicitation', work: 'TNK'},
+instances: 1, word: 'Solitary', work: 'TNK'},
+instances: 1, word: 'Song', work: 'TNK'},
+instances: 1, word: 'Sooner', work: 'TNK'},
+instances: 1, word: 'Sore', work: 'TNK'},
+instances: 1, word: 'Sores', work: 'TNK'},
+instances: 1, word: 'Sort', work: 'TNK'},
+instances: 1, word: 'Sotted', work: 'TNK'},
+instances: 1, word: 'Sound-a', work: 'TNK'},
+instances: 1, word: 'Soundly', work: 'TNK'},
+instances: 1, word: 'South', work: 'TNK'},
+instances: 1, word: 'Sovereigns', work: 'TNK'},
+instances: 1, word: 'Sow', work: 'TNK'},
+instances: 1, word: 'Sows', work: 'TNK'},
+instances: 1, word: 'Space', work: 'TNK'},
+instances: 1, word: 'Spacious', work: 'TNK'},
+instances: 1, word: 'Spake', work: 'TNK'},
+instances: 1, word: 'Spared', work: 'TNK'},
+instances: 1, word: 'Spark', work: 'TNK'},
+instances: 1, word: 'Sparkle', work: 'TNK'},
+instances: 1, word: 'Speaker', work: 'TNK'},
+instances: 1, word: 'Speaking', work: 'TNK'},
+instances: 1, word: 'Speedily', work: 'TNK'},
+instances: 1, word: 'Spent', work: 'TNK'},
+instances: 1, word: 'Spheres', work: 'TNK'},
+instances: 1, word: 'Spines', work: 'TNK'},
+instances: 1, word: 'Spinsters', work: 'TNK'},
+instances: 1, word: 'Spoiling', work: 'TNK'},
+instances: 1, word: 'Spotless', work: 'TNK'},
+instances: 1, word: 'Spouse', work: 'TNK'},
+instances: 1, word: 'Spreads', work: 'TNK'},
+instances: 1, word: 'Sprightly', work: 'TNK'},
+instances: 1, word: 'Spring', work: 'TNK'},
+instances: 1, word: 'Springtime\'s', work: 'TNK'},
+instances: 1, word: 'Sprung', work: 'TNK'},
+instances: 1, word: 'Spurn', work: 'TNK'},
+instances: 1, word: 'Spurred', work: 'TNK'},
+instances: 1, word: 'Spurs', work: 'TNK'},
+instances: 1, word: 'Spy', work: 'TNK'},
+instances: 1, word: 'Stab', work: 'TNK'},
+instances: 1, word: 'Staff', work: 'TNK'},
+instances: 1, word: 'Stage', work: 'TNK'},
+instances: 1, word: 'Staggering', work: 'TNK'},
+instances: 1, word: 'Stammers', work: 'TNK'},
+instances: 1, word: 'Stamp', work: 'TNK'},
+instances: 1, word: 'States', work: 'TNK'},
+instances: 1, word: 'Stayed', work: 'TNK'},
+instances: 1, word: 'Stead', work: 'TNK'},
+instances: 1, word: 'Steal', work: 'TNK'},
+instances: 1, word: 'Steeds', work: 'TNK'},
+instances: 1, word: 'Steeled', work: 'TNK'},
+instances: 1, word: 'Stench', work: 'TNK'},
+instances: 1, word: 'Stern', work: 'TNK'},
+instances: 1, word: 'Sternness', work: 'TNK'},
+instances: 1, word: 'Steward\'s', work: 'TNK'},
+instances: 1, word: 'Stick', work: 'TNK'},
+instances: 1, word: 'Sticks', work: 'TNK'},
+instances: 1, word: 'Stings', work: 'TNK'},
+instances: 1, word: 'Stir', work: 'TNK'},
+instances: 1, word: 'Stirring', work: 'TNK'},
+instances: 1, word: 'Stirs', work: 'TNK'},
+instances: 1, word: 'Stole', work: 'TNK'},
+instances: 1, word: 'Stone', work: 'TNK'},
+instances: 1, word: 'Stones', work: 'TNK'},
+instances: 1, word: 'Stony', work: 'TNK'},
+instances: 1, word: 'Stool-ball', work: 'TNK'},
+instances: 1, word: 'Store', work: 'TNK'},
+instances: 1, word: 'Stout', work: 'TNK'},
+instances: 1, word: 'Stow', work: 'TNK'},
+instances: 1, word: 'Strained', work: 'TNK'},
+instances: 1, word: 'Strait', work: 'TNK'},
+instances: 1, word: 'Strangely', work: 'TNK'},
+instances: 1, word: 'Straying', work: 'TNK'},
+instances: 1, word: 'Streamer', work: 'TNK'},
+instances: 1, word: 'Street', work: 'TNK'},
+instances: 1, word: 'Streets', work: 'TNK'},
+instances: 1, word: 'Strengthens', work: 'TNK'},
+instances: 1, word: 'Stretch', work: 'TNK'},
+instances: 1, word: 'Strewings', work: 'TNK'},
+instances: 1, word: 'Strive', work: 'TNK'},
+instances: 1, word: 'Striving', work: 'TNK'},
+instances: 1, word: 'Strong-hearted', work: 'TNK'},
+instances: 1, word: 'Strongly', work: 'TNK'},
+instances: 1, word: 'Strove', work: 'TNK'},
+instances: 1, word: 'Stubborn', work: 'TNK'},
+instances: 1, word: 'Studied', work: 'TNK'},
+instances: 1, word: 'Study', work: 'TNK'},
+instances: 1, word: 'Stuff\'s', work: 'TNK'},
+instances: 1, word: 'Subdue', work: 'TNK'},
+instances: 1, word: 'Subduing', work: 'TNK'},
+instances: 1, word: 'Subject\'s', work: 'TNK'},
+instances: 1, word: 'Subtler', work: 'TNK'},
+instances: 1, word: 'Successes', work: 'TNK'},
+instances: 1, word: 'Sucked', work: 'TNK'},
+instances: 1, word: 'Suffered', work: 'TNK'},
+instances: 1, word: 'Sufficient', work: 'TNK'},
+instances: 1, word: 'Suff\'rers', work: 'TNK'},
+instances: 1, word: 'Suggested', work: 'TNK'},
+instances: 1, word: 'Suing', work: 'TNK'},
+instances: 1, word: 'Suits', work: 'TNK'},
+instances: 1, word: 'Sully', work: 'TNK'},
+instances: 1, word: 'Sulphur', work: 'TNK'},
+instances: 1, word: 'Sum', work: 'TNK'},
+instances: 1, word: 'Summer', work: 'TNK'},
+instances: 1, word: 'Sundered', work: 'TNK'},
+instances: 1, word: 'Sundry', work: 'TNK'},
+instances: 1, word: 'Superstition', work: 'TNK'},
+instances: 1, word: 'Suppliants\'', work: 'TNK'},
+instances: 1, word: 'Supply', work: 'TNK'},
+instances: 1, word: 'Surfeits', work: 'TNK'},
+instances: 1, word: 'Surge', work: 'TNK'},
+instances: 1, word: 'Surgeons', work: 'TNK'},
+instances: 1, word: 'Suspected', work: 'TNK'},
+instances: 1, word: 'Swallow', work: 'TNK'},
+instances: 1, word: 'Swart', work: 'TNK'},
+instances: 1, word: 'Swear', work: 'TNK'},
+instances: 1, word: 'Sweat', work: 'TNK'},
+instances: 1, word: 'Sweating', work: 'TNK'},
+instances: 1, word: 'Swelling', work: 'TNK'},
+instances: 1, word: 'Swifter', work: 'TNK'},
+instances: 1, word: 'Swiftness', work: 'TNK'},
+instances: 1, word: 'Swoll\'n', work: 'TNK'},
+instances: 1, word: 'Sword\'s', work: 'TNK'},
+instances: 1, word: 'Sworn', work: 'TNK'},
+instances: 1, word: 'Synod', work: 'TNK'},
+instances: 1, word: 'Taborer', work: 'TNK'},
+instances: 1, word: 'Tackle', work: 'TNK'},
+instances: 1, word: 'Tackling', work: 'TNK'},
+instances: 1, word: 'Tails', work: 'TNK'},
+instances: 1, word: 'Taint', work: 'TNK'},
+instances: 1, word: 'Tainted', work: 'TNK'},
+instances: 1, word: 'Tales', work: 'TNK'},
+instances: 1, word: 'Talked', work: 'TNK'},
+instances: 1, word: 'Talons', work: 'TNK'},
+instances: 1, word: 'Tame', work: 'TNK'},
+instances: 1, word: 'Tandem', work: 'TNK'},
+instances: 1, word: 'Tanner\'s', work: 'TNK'},
+instances: 1, word: 'Tapster', work: 'TNK'},
+instances: 1, word: 'Tart', work: 'TNK'},
+instances: 1, word: 'Task', work: 'TNK'},
+instances: 1, word: 'Taste', work: 'TNK'},
+instances: 1, word: 'Tasted', work: 'TNK'},
+instances: 1, word: 'Tasteful', work: 'TNK'},
+instances: 1, word: 'Tastes', work: 'TNK'},
+instances: 1, word: 'Team', work: 'TNK'},
+instances: 1, word: 'Tear', work: 'TNK'},
+instances: 1, word: 'Tediosity', work: 'TNK'},
+instances: 1, word: 'Teeming', work: 'TNK'},
+instances: 1, word: 'Tempests', work: 'TNK'},
+instances: 1, word: 'Temple', work: 'TNK'},
+instances: 1, word: 'Temptings', work: 'TNK'},
+instances: 1, word: 'Tenderly', work: 'TNK'},
+instances: 1, word: 'Tenner', work: 'TNK'},
+instances: 1, word: 'Tennis', work: 'TNK'},
+instances: 1, word: 'Tent', work: 'TNK'},
+instances: 1, word: 'Term', work: 'TNK'},
+instances: 1, word: 'Terrene', work: 'TNK'},
+instances: 1, word: 'Terror', work: 'TNK'},
+instances: 1, word: 'Thanked', work: 'TNK'},
+instances: 1, word: 'Thaw', work: 'TNK'},
+instances: 1, word: 'Thawed', work: 'TNK'},
+instances: 1, word: 'Theban', work: 'TNK'},
+instances: 1, word: 'Theirs', work: 'TNK'},
+instances: 1, word: 'Theme', work: 'TNK'},
+instances: 1, word: 'Thereby', work: 'TNK'},
+instances: 1, word: 'Thereto', work: 'TNK'},
+instances: 1, word: 'Theseus\'', work: 'TNK'},
+instances: 1, word: 'They\'d', work: 'TNK'},
+instances: 1, word: 'They\'ll', work: 'TNK'},
+instances: 1, word: 'They\'re', work: 'TNK'},
+instances: 1, word: 'Thick-twined', work: 'TNK'},
+instances: 1, word: 'Thicket', work: 'TNK'},
+instances: 1, word: 'Thief', work: 'TNK'},
+instances: 1, word: 'Thigh', work: 'TNK'},
+instances: 1, word: 'Think\'st', work: 'TNK'},
+instances: 1, word: 'Third', work: 'TNK'},
+instances: 1, word: 'Thirds', work: 'TNK'},
+instances: 1, word: 'Thither', work: 'TNK'},
+instances: 1, word: 'Thoughts', work: 'TNK'},
+instances: 1, word: 'Three-a', work: 'TNK'},
+instances: 1, word: 'Threshed', work: 'TNK'},
+instances: 1, word: 'Thrice', work: 'TNK'},
+instances: 1, word: 'Throat', work: 'TNK'},
+instances: 1, word: 'Throne', work: 'TNK'},
+instances: 1, word: 'Thrust', work: 'TNK'},
+instances: 1, word: 'Thyme', work: 'TNK'},
+instances: 1, word: 'Tides', work: 'TNK'},
+instances: 1, word: 'Tidings', work: 'TNK'},
+instances: 1, word: 'Ties', work: 'TNK'},
+instances: 1, word: 'Tiger', work: 'TNK'},
+instances: 1, word: 'Tigers', work: 'TNK'},
+instances: 1, word: 'Tile', work: 'TNK'},
+instances: 1, word: 'Timorous', work: 'TNK'},
+instances: 1, word: 'Timothy', work: 'TNK'},
+instances: 1, word: 'Tip', work: 'TNK'},
+instances: 1, word: 'Tiptoe', work: 'TNK'},
+instances: 1, word: 'Titlers', work: 'TNK'},
+instances: 1, word: 'Tods', work: 'TNK'},
+instances: 1, word: 'Tokens', work: 'TNK'},
+instances: 1, word: 'Tongues', work: 'TNK'},
+instances: 1, word: 'Tonight', work: 'TNK'},
+instances: 1, word: 'Too-timely', work: 'TNK'},
+instances: 1, word: 'Tool', work: 'TNK'},
+instances: 1, word: 'Torment', work: 'TNK'},
+instances: 1, word: 'Torn', work: 'TNK'},
+instances: 1, word: 'Torrents', work: 'TNK'},
+instances: 1, word: 'Torture', work: 'TNK'},
+instances: 1, word: 'Torturing', work: 'TNK'},
+instances: 1, word: 'Tott\'ring', work: 'TNK'},
+instances: 1, word: 'Tougher', work: 'TNK'},
+instances: 1, word: 'Trained', work: 'TNK'},
+instances: 1, word: 'Trample', work: 'TNK'},
+instances: 1, word: 'Traveler', work: 'TNK'},
+instances: 1, word: 'Tread', work: 'TNK'},
+instances: 1, word: 'Treason', work: 'TNK'},
+instances: 1, word: 'Treble', work: 'TNK'},
+instances: 1, word: 'Trembled', work: 'TNK'},
+instances: 1, word: 'Trent', work: 'TNK'},
+instances: 1, word: 'Trespass', work: 'TNK'},
+instances: 1, word: 'Trespasses', work: 'TNK'},
+instances: 1, word: 'Trials', work: 'TNK'},
+instances: 1, word: 'Tribute', work: 'TNK'},
+instances: 1, word: 'Trice', work: 'TNK'},
+instances: 1, word: 'Trim', work: 'TNK'},
+instances: 1, word: 'Trinkets', work: 'TNK'},
+instances: 1, word: 'Trip', work: 'TNK'},
+instances: 1, word: 'Triumphs', work: 'TNK'},
+instances: 1, word: 'Trod', work: 'TNK'},
+instances: 1, word: 'Troop', work: 'TNK'},
+instances: 1, word: 'Troops', work: 'TNK'},
+instances: 1, word: 'Trotting', work: 'TNK'},
+instances: 1, word: 'Troubled', work: 'TNK'},
+instances: 1, word: 'Trumpet', work: 'TNK'},
+instances: 1, word: 'Trussed', work: 'TNK'},
+instances: 1, word: 'Trusty', work: 'TNK'},
+instances: 1, word: 'Truth', work: 'TNK'},
+instances: 1, word: 'Try', work: 'TNK'},
+instances: 1, word: 'Tumble', work: 'TNK'},
+instances: 1, word: 'Tumbled', work: 'TNK'},
+instances: 1, word: 'Tumbles', work: 'TNK'},
+instances: 1, word: 'Tune', work: 'TNK'},
+instances: 1, word: 'Turkey', work: 'TNK'},
+instances: 1, word: 'Turned', work: 'TNK'},
+instances: 1, word: 'Turrets', work: 'TNK'},
+instances: 1, word: 'Tutor', work: 'TNK'},
+instances: 1, word: 'Twelve', work: 'TNK'},
+instances: 1, word: 'Twice', work: 'TNK'},
+instances: 1, word: 'Twined', work: 'TNK'},
+instances: 1, word: 'Twinkling', work: 'TNK'},
+instances: 1, word: 'Twinning', work: 'TNK'},
+instances: 1, word: 'Tyrannous', work: 'TNK'},
+instances: 1, word: 'Tyranny', work: 'TNK'},
+instances: 1, word: 'T\'', work: 'TNK'},
+instances: 1, word: 'Umpire', work: 'TNK'},
+instances: 1, word: 'Unarmed', work: 'TNK'},
+instances: 1, word: 'Unblessed', work: 'TNK'},
+instances: 1, word: 'Unborn', work: 'TNK'},
+instances: 1, word: 'Unbounded', work: 'TNK'},
+instances: 1, word: 'Unbroken', work: 'TNK'},
+instances: 1, word: 'Unburied', work: 'TNK'},
+instances: 1, word: 'Uncandied', work: 'TNK'},
+instances: 1, word: 'Unclasp', work: 'TNK'},
+instances: 1, word: 'Uncle', work: 'TNK'},
+instances: 1, word: 'Unconsidered', work: 'TNK'},
+instances: 1, word: 'Underground', work: 'TNK'},
+instances: 1, word: 'Understood', work: 'TNK'},
+instances: 1, word: 'Undertaker', work: 'TNK'},
+instances: 1, word: 'Undertakes', work: 'TNK'},
+instances: 1, word: 'Undo', work: 'TNK'},
+instances: 1, word: 'Unearthèd', work: 'TNK'},
+instances: 1, word: 'Unfeared', work: 'TNK'},
+instances: 1, word: 'Unfeignedly', work: 'TNK'},
+instances: 1, word: 'Unfriended', work: 'TNK'},
+instances: 1, word: 'Ungrateful', work: 'TNK'},
+instances: 1, word: 'Unhappy', work: 'TNK'},
+instances: 1, word: 'Unhardened', work: 'TNK'},
+instances: 1, word: 'Unjust', work: 'TNK'},
+instances: 1, word: 'Unjustly', work: 'TNK'},
+instances: 1, word: 'Unkind', work: 'TNK'},
+instances: 1, word: 'Unmanly', work: 'TNK'},
+instances: 1, word: 'Unmarried', work: 'TNK'},
+instances: 1, word: 'Unpanged', work: 'TNK'},
+instances: 1, word: 'Unplucked', work: 'TNK'},
+instances: 1, word: 'Unreasoned', work: 'TNK'},
+instances: 1, word: 'Unseasonably', work: 'TNK'},
+instances: 1, word: 'Unsentenced', work: 'TNK'},
+instances: 1, word: 'Unsettle', work: 'TNK'},
+instances: 1, word: 'Unsettled', work: 'TNK'},
+instances: 1, word: 'Unspotted', work: 'TNK'},
+instances: 1, word: 'Until', work: 'TNK'},
+instances: 1, word: 'Untimely', work: 'TNK'},
+instances: 1, word: 'Unwappered', work: 'TNK'},
+instances: 1, word: 'Unwept', work: 'TNK'},
+instances: 1, word: 'Upbraidings', work: 'TNK'},
+instances: 1, word: 'Uphold', work: 'TNK'},
+instances: 1, word: 'Urge', work: 'TNK'},
+instances: 1, word: 'Urn', work: 'TNK'},
+instances: 1, word: 'Urns', work: 'TNK'},
+instances: 1, word: 'Usage', work: 'TNK'},
+instances: 1, word: 'Used', work: 'TNK'},
+instances: 1, word: 'Usque', work: 'TNK'},
+instances: 1, word: 'Usurers\'', work: 'TNK'},
+instances: 1, word: 'Utterly', work: 'TNK'},
+instances: 1, word: 'Utters', work: 'TNK'},
+instances: 1, word: 'Vagary', work: 'TNK'},
+instances: 1, word: 'Valerius', work: 'TNK'},
+instances: 1, word: 'Value', work: 'TNK'},
+instances: 1, word: 'Value\'s', work: 'TNK'},
+instances: 1, word: 'Vanity', work: 'TNK'},
+instances: 1, word: 'Vantage', work: 'TNK'},
+instances: 1, word: 'Vapors', work: 'TNK'},
+instances: 1, word: 'Vassal', work: 'TNK'},
+instances: 1, word: 'Vast', work: 'TNK'},
+instances: 1, word: 'Vault', work: 'TNK'},
+instances: 1, word: 'Venison', work: 'TNK'},
+instances: 1, word: 'Ver', work: 'TNK'},
+instances: 1, word: 'Verily', work: 'TNK'},
+instances: 1, word: 'Verity', work: 'TNK'},
+instances: 1, word: 'Vessel', work: 'TNK'},
+instances: 1, word: 'Vessels', work: 'TNK'},
+instances: 1, word: 'Vestal', work: 'TNK'},
+instances: 1, word: 'Vials', work: 'TNK'},
+instances: 1, word: 'Viands', work: 'TNK'},
+instances: 1, word: 'Victor', work: 'TNK'},
+instances: 1, word: 'Victuals', work: 'TNK'},
+instances: 1, word: 'Videlicet', work: 'TNK'},
+instances: 1, word: 'Vigor', work: 'TNK'},
+instances: 1, word: 'Vile', work: 'TNK'},
+instances: 1, word: 'Villager', work: 'TNK'},
+instances: 1, word: 'Villainy', work: 'TNK'},
+instances: 1, word: 'Vine', work: 'TNK'},
+instances: 1, word: 'Virginals', work: 'TNK'},
+instances: 1, word: 'Virginity', work: 'TNK'},
+instances: 1, word: 'Virgin\'s', work: 'TNK'},
+instances: 1, word: 'Visage', work: 'TNK'},
+instances: 1, word: 'Visaged', work: 'TNK'},
+instances: 1, word: 'Visages', work: 'TNK'},
+instances: 1, word: 'Visitating', work: 'TNK'},
+instances: 1, word: 'Void', work: 'TNK'},
+instances: 1, word: 'Void\'st', work: 'TNK'},
+instances: 1, word: 'Voluble', work: 'TNK'},
+instances: 1, word: 'Vouched', work: 'TNK'},
+instances: 1, word: 'Vouchsafe', work: 'TNK'},
+instances: 1, word: 'Vows', work: 'TNK'},
+instances: 1, word: 'Wagging', work: 'TNK'},
+instances: 1, word: 'Wait', work: 'TNK'},
+instances: 1, word: 'Waked', work: 'TNK'},
+instances: 1, word: 'Wakes', work: 'TNK'},
+instances: 1, word: 'Walk', work: 'TNK'},
+instances: 1, word: 'Walking', work: 'TNK'},
+instances: 1, word: 'Wander', work: 'TNK'},
+instances: 1, word: 'Wants', work: 'TNK'},
+instances: 1, word: 'Ward', work: 'TNK'},
+instances: 1, word: 'Warlike', work: 'TNK'},
+instances: 1, word: 'Warm', work: 'TNK'},
+instances: 1, word: 'Warped', work: 'TNK'},
+instances: 1, word: 'Warranting', work: 'TNK'},
+instances: 1, word: 'War\'s', work: 'TNK'},
+instances: 1, word: 'Washed', work: 'TNK'},
+instances: 1, word: 'Waste', work: 'TNK'},
+instances: 1, word: 'Watch', work: 'TNK'},
+instances: 1, word: 'Watching', work: 'TNK'},
+instances: 1, word: 'Weakens', work: 'TNK'},
+instances: 1, word: 'Weaker', work: 'TNK'},
+instances: 1, word: 'Weakness', work: 'TNK'},
+instances: 1, word: 'Wealthy', work: 'TNK'},
+instances: 1, word: 'Weapon', work: 'TNK'},
+instances: 1, word: 'Weapons', work: 'TNK'},
+instances: 1, word: 'Wear', work: 'TNK'},
+instances: 1, word: 'Weaved', work: 'TNK'},
+instances: 1, word: 'Weavers', work: 'TNK'},
+instances: 1, word: 'Wed', work: 'TNK'},
+instances: 1, word: 'Wedlock', work: 'TNK'},
+instances: 1, word: 'Weeds', work: 'TNK'},
+instances: 1, word: 'Week', work: 'TNK'},
+instances: 1, word: 'Week\'s', work: 'TNK'},
+instances: 1, word: 'Weeping', work: 'TNK'},
+instances: 1, word: 'Weigh', work: 'TNK'},
+instances: 1, word: 'Welcome', work: 'TNK'},
+instances: 1, word: 'Welcomes', work: 'TNK'},
+instances: 1, word: 'Well-found', work: 'TNK'},
+instances: 1, word: 'Well-nigh', work: 'TNK'},
+instances: 1, word: 'Well-willer', work: 'TNK'},
+instances: 1, word: 'West', work: 'TNK'},
+instances: 1, word: 'Wet', work: 'TNK'},
+instances: 1, word: 'Wherefore', work: 'TNK'},
+instances: 1, word: 'Wherever', work: 'TNK'},
+instances: 1, word: 'Where\'er', work: 'TNK'},
+instances: 1, word: 'Whines', work: 'TNK'},
+instances: 1, word: 'Whipstock', work: 'TNK'},
+instances: 1, word: 'Whispered', work: 'TNK'},
+instances: 1, word: 'Whispers', work: 'TNK'},
+instances: 1, word: 'White-haired', work: 'TNK'},
+instances: 1, word: 'Wholesome', work: 'TNK'},
+instances: 1, word: 'Whooped', work: 'TNK'},
+instances: 1, word: 'Whore', work: 'TNK'},
+instances: 1, word: 'Whosoever', work: 'TNK'},
+instances: 1, word: 'Wicked', work: 'TNK'},
+instances: 1, word: 'Widow', work: 'TNK'},
+instances: 1, word: 'Widows', work: 'TNK'},
+instances: 1, word: 'Widows\'', work: 'TNK'},
+instances: 1, word: 'Wind-fanned', work: 'TNK'},
+instances: 1, word: 'Windows', work: 'TNK'},
+instances: 1, word: 'Wind\'s', work: 'TNK'},
+instances: 1, word: 'Wing', work: 'TNK'},
+instances: 1, word: 'Wink', work: 'TNK'},
+instances: 1, word: 'Winner', work: 'TNK'},
+instances: 1, word: 'Winner\'s', work: 'TNK'},
+instances: 1, word: 'Winning', work: 'TNK'},
+instances: 1, word: 'Winter', work: 'TNK'},
+instances: 1, word: 'Winters', work: 'TNK'},
+instances: 1, word: 'Wisdom', work: 'TNK'},
+instances: 1, word: 'Wished', work: 'TNK'},
+instances: 1, word: 'Wit', work: 'TNK'},
+instances: 1, word: 'Witch', work: 'TNK'},
+instances: 1, word: 'Wither', work: 'TNK'},
+instances: 1, word: 'Wi\'', work: 'TNK'},
+instances: 1, word: 'Woeful', work: 'TNK'},
+instances: 1, word: 'Wolves', work: 'TNK'},
+instances: 1, word: 'Womb', work: 'TNK'},
+instances: 1, word: 'Works', work: 'TNK'},
+instances: 1, word: 'Worn', work: 'TNK'},
+instances: 1, word: 'Worship', work: 'TNK'},
+instances: 1, word: 'Worshippers', work: 'TNK'},
+instances: 1, word: 'Worthily', work: 'TNK'},
+instances: 1, word: 'Wor\'st', work: 'TNK'},
+instances: 1, word: 'Wots', work: 'TNK'},
+instances: 1, word: 'Wouldst', work: 'TNK'},
+instances: 1, word: 'Wound', work: 'TNK'},
+instances: 1, word: 'Wounds', work: 'TNK'},
+instances: 1, word: 'Wren', work: 'TNK'},
+instances: 1, word: 'Wrestled', work: 'TNK'},
+instances: 1, word: 'Wrestling', work: 'TNK'},
+instances: 1, word: 'Wrinkled', work: 'TNK'},
+instances: 1, word: 'Write', work: 'TNK'},
+instances: 1, word: 'Writer', work: 'TNK'},
+instances: 1, word: 'Written', work: 'TNK'},
+instances: 1, word: 'Wronged', work: 'TNK'},
+instances: 1, word: 'Wrongs', work: 'TNK'},
+instances: 1, word: 'Ye', work: 'TNK'},
+instances: 1, word: 'Years', work: 'TNK'},
+instances: 1, word: 'Yield', work: 'TNK'},
+instances: 1, word: 'Yielded', work: 'TNK'},
+instances: 1, word: 'Yields', work: 'TNK'},
+instances: 1, word: 'Yoke', work: 'TNK'},
+instances: 1, word: 'Yonder', work: 'TNK'},
+instances: 1, word: 'Yonder\'s', work: 'TNK'},
+instances: 1, word: 'Yourselves', work: 'TNK'},
+instances: 1, word: 'You\'d', work: 'TNK'},
+instances: 1, word: 'You\'ve', work: 'TNK'},
+instances: 1, word: 'Zeal', work: 'TNK'},
+instances: 1, word: '\'pointed', work: 'TNK'},
+instances: 1, word: '\'twixt', work: 'TNK'},

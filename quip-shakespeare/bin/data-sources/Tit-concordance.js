@@ -1,3391 +1,3389 @@
-Concordance of Titus Andronicus:
-
-749: And
-590: The
-473: To
-402: I
-324: My
-303: Of
-273: That
-268: In
-266: A
-250: You
-225: With
-217: For
-215: This
-206: Thy
-195: Me
-174: Thou
-172: Not
-160: Is
-151: Be
-151: His
-148: It
-137: Her
-133: Will
-127: Have
-124: Your
-117: But
-116: As
-115: Thee
-105: What
-104: Him
-101: So
-98: All
-95: He
-86: Do
-86: Our
-84: Let
-83: By
-83: No
-83: Rome
-81: Are
-80: Shall
-80: Them
-79: We
-77: If
-75: Their
-74: Here
-74: On
-71: Come
-71: Now
-68: O
-68: They
-67: She
-64: Then
-62: From
-62: Lord
-62: These
-59: Hath
-57: At
-55: More
-55: Or
-54: How
-52: Sons
-51: See
-50: When
-50: Would
-49: Emperor
-49: Us
-48: Good
-47: Hand
-45: Make
-45: Was
-45: Why
-44: Andronicus
-44: Know
-43: Go
-43: Like
-42: Than
-41: Lucius
-41: Upon
-40: Marcus
-40: May
-40: Sweet
-39: An
-39: Lavinia
-39: Say
-39: Some
-38: Tears
-38: Were
-37: Brother
-37: Heart
-35: I’ll
-35: Mine
-35: Should
-34: Give
-34: Hast
-34: Must
-34: Nor
-33: Did
-33: Speak
-33: Titus
-33: Well
-31: Am
-31: Had
-31: There
-30: Doth
-29: Away
-29: Can
-29: ’tis
-28: Revenge
-28: Tell
-27: Empress
-27: Goths
-27: Hands
-27: Life
-27: Lords
-27: Man
-27: Noble
-27: Son
-27: Which
-27: Who
-26: Death
-26: Thus
-26: Where
-25: Done
-25: One
-25: Tamora
-25: Yet
-24: Aaron
-24: Boy
-24: Look
-24: Made
-24: Take
-24: Up
-23: Art
-23: Never
-22: Down
-22: Father
-22: Love
-21: Ay
-21: Blood
-21: Rome’s
-21: Two
-20: Dead
-20: Honor
-20: Live
-20: Queen
-20: Therefore
-20: Till
-19: Both
-19: Mother
-19: Such
-19: Tongue
-18: Bassianus
-18: Dost
-18: Father’s
-18: Friends
-18: Help
-18: Justice
-18: Out
-18: Thine
-17: Ever
-17: Heaven
-17: Own
-17: Poor
-17: Sir
-16: Dear
-16: Even
-16: Gentle
-16: God
-16: Moor
-16: Name
-16: Old
-16: Roman
-16: Saturnine
-16: Whose
-15: Bid
-15: Bring
-15: Day
-15: Earth
-15: Eyes
-15: Find
-15: Gracious
-15: Hear
-15: Men
-15: Sorrow
-15: True
-15: Whom
-14: Ah
-14: Bear
-14: Cut
-14: Deed
-14: Die
-14: Fear
-14: Grace
-14: Hither
-14: Into
-14: Leave
-14: Mad
-14: Madam
-14: Much
-14: Right
-14: Sight
-14: Thousand
-14: Too
-14: Unto
-13: Arms
-13: Been
-13: Brought
-13: Cause
-13: Child
-13: Great
-13: Please
-13: Rape
-13: Shalt
-13: Welcome
-13: Word
-12: Again
-12: Comes
-12: Emperor’s
-12: Empress’
-12: King
-12: Long
-12: Many
-12: Myself
-12: Peace
-12: Stand
-12: Think
-12: Tribunes
-12: Villain
-12: Witness
-11: Face
-11: Fair
-11: Fly
-11: Full
-11: Gods
-11: Murder
-11: Pit
-11: Soul
-11: Stay
-11: Sure
-11: Talk
-11: Uncle
-11: Wrongs
-10: Age
-10: Alas
-10: Any
-10: Better
-10: Bloody
-10: Bury
-10: Could
-10: Court
-10: Eye
-10: Grave
-10: Heard
-10: House
-10: Keep
-10: Kneel
-10: Lovely
-10: Plead
-10: Publius
-10: Romans
-10: Send
-10: Sent
-10: Shame
-10: Though
-10: Way
-10: Words
-10: Young
-9: Behold
-9: Black
-9: Body
-9: Cannot
-9: Deeds
-9: Draw
-9: Farewell
-9: Foul
-9: Gone
-9: Grandsire
-9: Hope
-9: Kiss
-9: Mean
-9: Most
-9: Nay
-9: Pardon
-9: People
-9: Proud
-9: Read
-9: Reason
-9: Rest
-9: Set
-9: Show
-9: Signs
-9: Slain
-9: Sorrows
-9: Sword
-9: Thoughts
-9: Turn
-9: Very
-8: About
-8: Back
-8: Because
-8: Before
-8: Brethren
-8: Brothers
-8: Canst
-8: Cheeks
-8: Demetrius
-8: Devil
-8: Else
-8: Entreat
-8: Feast
-8: Feed
-8: Gold
-8: Grief
-8: Hark
-8: Heads
-8: Hence
-8: Here’s
-8: Hole
-8: Hue
-8: Husband
-8: Killed
-8: Lay
-8: Left
-8: Means
-8: Mind
-8: Mother’s
-8: Nature
-8: Niece
-8: Night
-8: Off
-8: Once
-8: Other
-8: Place
-8: Pray
-8: Prince
-8: Sad
-8: Says
-8: Sit
-8: Sleep
-8: Swear
-8: Time
-8: Tribune
-8: Villains
-8: Weep
-8: Wilt
-7: Although
-7: Another
-7: Barbarous
-7: Bitter
-7: Brave
-7: Call
-7: Chiron
-7: Deep
-7: Dishonored
-7: Ears
-7: Ease
-7: Enemies
-7: Fall
-7: Fie
-7: First
-7: Fits
-7: Foes
-7: Forth
-7: Found
-7: Friend
-7: Gave
-7: Get
-7: Half
-7: Head
-7: Herself
-7: Hold
-7: Joy
-7: Just
-7: Kill
-7: Lives
-7: Mistress
-7: Near
-7: None
-7: Pity
-7: Safe
-7: Sea
-7: Serve
-7: Shed
-7: Sirs
-7: Still
-7: Strength
-7: Tale
-7: That’s
-7: There’s
-7: Titus’
-7: Vengeance
-7: Warlike
-7: Woe
-7: Woes
-6: Advice
-6: Against
-6: Attend
-6: Aunt
-6: Beg
-6: Being
-6: Between
-6: Birds
-6: Boys
-6: Bride
-6: Choice
-6: Daughter
-6: Deliver
-6: Doom
-6: End
-6: Enough
-6: Every
-6: Fell
-6: Fit
-6: Girl
-6: Hang
-6: Heavens
-6: Hell
-6: Home
-6: Hunt
-6: Kind
-6: Knew
-6: Knife
-6: Last
-6: Leaves
-6: Letter
-6: Loving
-6: Lust
-6: Makes
-6: Might
-6: Mouth
-6: News
-6: Pale
-6: People’s
-6: Pigeons
-6: Service
-6: Sirrah
-6: Sport
-6: Sun
-6: Surprised
-6: Thanks
-6: Those
-6: Thyself
-6: Told
-6: Troy
-6: Use
-6: Vain
-6: Valiant
-6: Water
-6: Whilst
-6: Wind
-6: Withal
-6: World
-6: Worthy
-6: Wouldst
-6: Wound
-6: Wretched
-6: Youth
-5: Accursèd
-5: Agèd
-5: Alive
-5: Almost
-5: Along
-5: Ask
-5: Babe
-5: Best
-5: Bind
-5: Bones
-5: Bound
-5: Break
-5: Burial
-5: Called
-5: Calm
-5: Care
-5: Careful
-5: Cheer
-5: Dam
-5: Detested
-5: Device
-5: Died
-5: Dishonor
-5: Ear
-5: Fame
-5: Fatal
-5: Favor
-5: Follow
-5: Fury
-5: Goodly
-5: Griefs
-5: Ha
-5: Heavy
-5: Heinous
-5: High
-5: Highly
-5: Highness
-5: Himself
-5: Honorable
-5: Horns
-5: Hour
-5: Join
-5: Learn
-5: Let’s
-5: Limbs
-5: Lips
-5: Majesty
-5: Mark
-5: Mutius
-5: Nothing
-5: Patience
-5: Plot
-5: Point
-5: Power
-5: Presently
-5: Quarrel
-5: Ravished
-5: Receive
-5: Return
-5: Rise
-5: Royal
-5: Sake
-5: Save
-5: Side
-5: Sister
-5: Slave
-5: Stop
-5: Straight
-5: Streets
-5: Strike
-5: Teach
-5: Tear
-5: Thank
-5: Thing
-5: Thought
-5: Tomb
-5: Tongues
-5: Treason
-5: Under
-5: Villainy
-5: Vow
-5: We’ll
-5: Wherefore
-5: Within
-5: Worse
-5: Wrong
-5: ’twas
-4: Ad
-4: Aemilius
-4: After
-4: Aloft
-4: Alone
-4: Among
-4: Asleep
-4: Banquet
-4: Base
-4: Basely
-4: Bed
-4: Betray
-4: Blind
-4: Brother’s
-4: Burn
-4: Burning
-4: Cave
-4: Choose
-4: Comfort
-4: Convey
-4: Country
-4: Country’s
-4: Cry
-4: Days
-4: Deaf
-4: Delivered
-4: Deserts
-4: Desires
-4: Didst
-4: Dog
-4: Door
-4: Dreadful
-4: Drink
-4: Dumb
-4: Eat
-4: Election
-4: Eternal
-4: Faults
-4: Fearful
-4: Feet
-4: Fetch
-4: Fire
-4: Flesh
-4: Followers
-4: Forlorn
-4: Fortune
-4: General
-4: Given
-4: Goth
-4: Govern
-4: Ground
-4: Happy
-4: Hateful
-4: Held
-4: Hide
-4: Hollow
-4: Honor’s
-4: Hounds
-4: Indeed
-4: Jest
-4: Jove
-4: Kinsmen
-4: Known
-4: Law
-4: Led
-4: Lest
-4: Little
-4: Lo
-4: Loved
-4: Merry
-4: Message
-4: Midwife
-4: Mighty
-4: Miserable
-4: Murderer
-4: Nephew
-4: Ne’er
-4: Noise
-4: Nurse
-4: Ocean
-4: Oft
-4: Ours
-4: Palace
-4: Part
-4: Patricians
-4: Philomel
-4: Plain
-4: Pleasing
-4: Pretty
-4: Prey
-4: Princely
-4: Quarrels
-4: Said
-4: Same
-4: Saturninus
-4: Seen
-4: Sends
-4: Shadows
-4: Sharp
-4: Shine
-4: Slumber
-4: Soft
-4: Sons’
-4: Soon
-4: Sorrowful
-4: Steel
-4: Storm
-4: Strong
-4: Struck
-4: Survive
-4: Swords
-4: Ten
-4: Threat’ning
-4: Tidings
-4: Times
-4: Traitorous
-4: Traitors
-4: Tree
-4: Trust
-4: Twenty
-4: Unless
-4: Violent
-4: Virtue
-4: Wait
-4: Wake
-4: War
-4: Wars
-4: Weeping
-4: What’s
-4: Wherein
-4: Wish
-4: Wit
-4: Without
-4: Woman
-4: Wounded
-4: Write
-4: Written
-4: Years
-3: Achieve
-3: Advance
-3: Advanced
-3: Agree
-3: Andronici
-3: Angry
-3: Answer
-3: Applaud
-3: Approach
-3: Arm
-3: Awhile
-3: Bassianus’
-3: Bay
-3: Beastly
-3: Become
-3: Befall
-3: Beget
-3: Begin
-3: Below
-3: Blush
-3: Borne
-3: Bowels
-3: Bright
-3: Buried
-3: Caius
-3: Capitol
-3: Chance
-3: Charitable
-3: Chastity
-3: Chop
-3: Climb
-3: Coal-black
-3: Commit
-3: Common
-3: Commonweal
-3: Company
-3: Consecrate
-3: Content
-3: Course
-3: Create
-3: Damned
-3: Dangerous
-3: Dare
-3: Deadly
-3: Deceive
-3: Dies
-3: Dismal
-3: Dismiss
-3: Doe
-3: Drag
-3: Drops
-3: Drown
-3: Drowned
-3: Dry
-3: Effect
-3: Elder
-3: Empery
-3: Employed
-3: Endure
-3: Enemy
-3: Executed
-3: Execution
-3: Faction
-3: Family
-3: Far
-3: Fast
-3: Fault
-3: Fields
-3: Forced
-3: Forget
-3: Fortunes
-3: Fought
-3: Fountain
-3: Fresh
-3: Funeral
-3: Gates
-3: Gifts
-3: Gives
-3: Goes
-3: Golden
-3: Greet
-3: Grow
-3: Guess
-3: Guilt
-3: Hadst
-3: Hail
-3: Hair
-3: Hanged
-3: Height
-3: Holy
-3: Honors
-3: Horse
-3: Humbled
-3: Humor
-3: Hunting
-3: Huntsman
-3: Hurt
-3: Imperial
-3: Imperious
-3: Innocent
-3: Intend
-3: Issue
-3: Jupiter
-3: Knock
-3: Knows
-3: Lad
-3: Ladies
-3: Lady
-3: Lament
-3: Latest
-3: Lavinia’s
-3: League
-3: Less
-3: Letters
-3: Lies
-3: Lines
-3: Loathsome
-3: Looks
-3: Loose
-3: Loves
-3: Man’s
-3: Martyred
-3: Meaning
-3: Meanwhile
-3: Meed
-3: Melody
-3: Melt
-3: Mercury
-3: Ministers
-3: Misery
-3: Monument
-3: Moon
-3: Mourning
-3: Mouths
-3: Moved
-3: Murdered
-3: Naught
-3: Needs
-3: Nephews
-3: New
-3: Nobility
-3: Oath
-3: Open
-3: Oration
-3: Over
-3: O’er
-3: Pallas
-3: Panther
-3: Pass
-3: Past
-3: Paste
-3: Perforce
-3: Perform
-3: Person
-3: Pleasure
-3: Pluck
-3: Praise
-3: Prayers
-3: Present
-3: Princes
-3: Prison
-3: Prisoner
-3: Prove
-3: Put
-3: Rapine
-3: Raven
-3: Ready
-3: Renownèd
-3: Repent
-3: Repose
-3: Resolved
-3: Returned
-3: Revenged
-3: Reverend
-3: Reward
-3: Ring
-3: Rites
-3: Round
-3: Sacred
-3: Sacrifice
-3: Saw
-3: She’s
-3: Shot
-3: Sighs
-3: Silence
-3: Since
-3: Sith
-3: Soldiers
-3: Solemn
-3: Sort
-3: Souls
-3: Spare
-3: Square
-3: Stab
-3: Stained
-3: Stands
-3: Stone
-3: Stones
-3: Stood
-3: Storms
-3: Strange
-3: Stumps
-3: Subtle
-3: Suddenly
-3: Suffer
-3: Suit
-3: Swallow
-3: Swift
-3: Task
-3: Teeth
-3: Tender
-3: Themselves
-3: Thinks
-3: Throats
-3: Today
-3: Traitor
-3: Trouble
-3: Truth
-3: Turns
-3: Tyranny
-3: Undone
-3: Unhallowed
-3: Urge
-3: Utter
-3: Victorious
-3: Virtue’s
-3: Warm
-3: Warrant
-3: Wash
-3: Weapon
-3: Weeds
-3: Welkin
-3: Wert
-3: Whiles
-3: White
-3: Wicked
-3: Wife
-3: Wipe
-3: Woeful
-3: Won
-3: Wondrous
-3: Woods
-3: Wot
-3: Wrath
-3: Wretch
-3: Writ
-3: Yield
-3: Yoke
-3: ’t
-2: Abominable
-2: Abroad
-2: Accompany
-2: Action
-2: Ado
-2: Adore
-2: Advise
-2: Afflict
-2: Afford
-2: Aim
-2: Air
-2: Alike
-2: Ambitious
-2: Amongst
-2: Apollo
-2: Armory
-2: Aught
-2: Awake
-2: Ax
-2: Babbling
-2: Badge
-2: Bail
-2: Baleful
-2: Band
-2: Banished
-2: Banishment
-2: Banishèd
-2: Bark
-2: Beat
-2: Beats
-2: Becomes
-2: Begged
-2: Beheld
-2: Beholding
-2: Believe
-2: Belovèd
-2: Bestow
-2: Beware
-2: Bewray
-2: Beyond
-2: Bliss
-2: Blushing
-2: Bold
-2: Book
-2: Bootless
-2: Bosom
-2: Bosoms
-2: Bottom
-2: Braves
-2: Breast
-2: Breathe
-2: Breeds
-2: Bull
-2: Business
-2: Buzz
-2: Calls
-2: Callèd
-2: Came
-2: Camp
-2: Carefully
-2: Carry
-2: Chariot
-2: Charm
-2: Chase
-2: Chaste
-2: Children
-2: Chosen
-2: Citizens
-2: City
-2: Close
-2: Closing
-2: Cloudy
-2: Clubs
-2: Cold
-2: Coming
-2: Commander
-2: Complot
-2: Concerns
-2: Condemned
-2: Confederate
-2: Confederates
-2: Confusion
-2: Contempt
-2: Control
-2: Controlled
-2: Cool
-2: Corn
-2: Cornelia
-2: Counsel
-2: Cousin
-2: Cries
-2: Crimson
-2: Cruel
-2: Curse
-2: Cursèd
-2: Dainty
-2: Dame
-2: Dames
-2: Dark
-2: Deal
-2: Dearer
-2: Deaths
-2: Deceived
-2: Deflowered
-2: Delight
-2: Demand
-2: Den
-2: Desert
-2: Desire
-2: Desperate
-2: Destruction
-2: Devices
-2: Devils
-2: Dian
-2: Dig
-2: Dire
-2: Discourse
-2: Distressèd
-2: Doings
-2: Dominator
-2: Double
-2: Drawn
-2: Dread
-2: Drew
-2: Dull
-2: Dust
-2: Duties
-2: Each
-2: Earthy
-2: Easy
-2: Echo
-2: Eldest
-2: Embrace
-2: Emperess
-2: Empire
-2: Enemy’s
-2: Engine
-2: Enjoy
-2: Enmity
-2: Entrails
-2: Entreats
-2: Ere
-2: Erst
-2: Espied
-2: Everlasting
-2: Everything
-2: Everywhere
-2: E’er
-2: Famish
-2: Fed
-2: Feeble
-2: Field
-2: Fight
-2: Fill
-2: Firstborn
-2: Fitted
-2: Five
-2: Flies
-2: Flint
-2: Flood
-2: Flowers
-2: Fold
-2: Fool
-2: Foolish
-2: Fools
-2: Foot
-2: Force
-2: Forest
-2: Fragrant
-2: Framed
-2: Frantic
-2: Frenzy
-2: Friendly
-2: Friends’
-2: Frosty
-2: Frown
-2: Fruit
-2: Gallant
-2: Gathered
-2: Gaze
-2: Giddy
-2: Gnawing
-2: Going
-2: Graciously
-2: Gramercy
-2: Gratify
-2: Greeks
-2: Green
-2: Grind
-2: Guide
-2: Guilty
-2: Hale
-2: Handle
-2: Happily
-2: Happiness
-2: Hard
-2: Has
-2: Having
-2: Hearing
-2: Heartily
-2: Hearts
-2: Heaven’s
-2: Heir
-2: Hellish
-2: Hew
-2: Hit
-2: Honey
-2: Honored
-2: Hopes
-2: Horace
-2: Hound
-2: Humbleness
-2: Humbly
-2: Hunter’s
-2: Ill
-2: Image
-2: Impatient
-2: Ingratitude
-2: Inhuman
-2: Inter
-2: Irreligious
-2: Jet
-2: Joyful
-2: Judge
-2: Keeps
-2: Knee
-2: Knit
-2: Lamb
-2: Lamenting
-2: Lark
-2: Late
-2: Laughed
-2: Least
-2: Lentus
-2: Light
-2: Lily
-2: Lion
-2: Lively
-2: Living
-2: Lopped
-2: Lose
-2: Loss
-2: Lucrece’
-2: Maid
-2: Maintain
-2: Manes
-2: March
-2: Marked
-2: Marks
-2: Marry
-2: Master
-2: Masters
-2: Matter
-2: Meet
-2: Melodious
-2: Men’s
-2: Mercy
-2: Met
-2: Milk
-2: Minds
-2: Mischief
-2: Miseries
-2: Misty
-2: Mocks
-2: Money
-2: Monstrous
-2: Mortal
-2: Mount
-2: Move
-2: Murderers
-2: Murderous
-2: Murders
-2: Murderèd
-2: Mutius’
-2: Mutual
-2: Napkin
-2: Next
-2: Nobly
-2: Object
-2: Often
-2: Only
-2: Ope
-2: Openly
-2: Other’s
-2: Outlive
-2: Owe
-2: Painted
-2: Pantheon
-2: Parley
-2: Passed
-2: Passion
-2: Passions
-2: Pay
-2: Peal
-2: Pearl
-2: Pen
-2: Per
-2: Perceive
-2: Perchance
-2: Performed
-2: Perhaps
-2: Philomela
-2: Picture
-2: Piece
-2: Piety
-2: Pile
-2: Pillow
-2: Pities
-2: Pitiful
-2: Planted
-2: Play
-2: Played
-2: Pleased
-2: Pledges
-2: Plight
-2: Plots
-2: Policy
-2: Possess
-2: Practice
-2: Precious
-2: Prepare
-2: Presence
-2: Presents
-2: Pride
-2: Priest
-2: Prisoners
-2: Private
-2: Privilege
-2: Promise
-2: Prosecute
-2: Proudest
-2: Proved
-2: Puts
-2: Quick
-2: Rage
-2: Ragged
-2: Rain
-2: Raise
-2: Ransom
-2: Rapes
-2: Rapier
-2: Rather
-2: Ravenous
-2: Reach
-2: Receivèd
-2: Receptacle
-2: Relent
-2: Remainder
-2: Remedy
-2: Remember
-2: Render
-2: Repair
-2: Reproachful
-2: Requite
-2: Resalute
-2: Rescue
-2: Resolve
-2: Restore
-2: Rests
-2: Returns
-2: Rob
-2: Rouse
-2: Rue
-2: Rule
-2: Ruthless
-2: Safety
-2: Saturn
-2: Scars
-2: Scattered
-2: Scorn
-2: Scroll
-2: Scythia
-2: Seal
-2: Secure
-2: Seem
-2: Seems
-2: Seize
-2: Semiramis
-2: Senate
-2: Served
-2: Servile
-2: Sewed
-2: Shadow
-2: Shameful
-2: Sheathe
-2: Shield
-2: Shipped
-2: Shoot
-2: Showers
-2: Shows
-2: Sign
-2: Signifies
-2: Silent
-2: Sin
-2: Sing
-2: Sister’s
-2: Sits
-2: Sky
-2: Slaughtered
-2: Slay
-2: Smiles
-2: Smoke
-2: Smooth
-2: Snakes
-2: Somewhat
-2: Son’s
-2: Sooner
-2: Sound
-2: Speaks
-2: Speeches
-2: Speed
-2: Spent
-2: Spirit
-2: Spotless
-2: Stain
-2: Stately
-2: Stern
-2: Stomachs
-2: Story
-2: Stratagem
-2: Strive
-2: Study
-2: Successful
-2: Sudden
-2: Suffrages
-2: Summer
-2: Summer’s
-2: Sung
-2: Supplication
-2: Supposed
-2: Swelling
-2: Swells
-2: Swore
-2: Taken
-2: Takes
-2: Tam
-2: Tapers
-2: Tarquin
-2: Temper
-2: Tempest
-2: Tereus
-2: Terror
-2: Theme
-2: Thereby
-2: Things
-2: Thracian
-2: Threat
-2: Throw
-2: Th’
-2: Tiger
-2: Tigers
-2: Titan’s
-2: Tomorrow
-2: Top
-2: Torment
-2: Touched
-2: Trained
-2: Trees
-2: Tremble
-2: Trembles
-2: Tributary
-2: Trimmed
-2: Triumph
-2: Triumphs
-2: Troop
-2: Troubled
-2: Trumpets
-2: Trunk
-2: Tut
-2: Tyrannize
-2: T’
-2: Undo
-2: Ungrateful
-2: Unkind
-2: Unrest
-2: Unspeakable
-2: Until
-2: Unworthy
-2: Upright
-2: Used
-2: Vale
-2: Valentine
-2: Vast
-2: Verse
-2: Vex
-2: Vile
-2: Virginius
-2: Voice
-2: Voices
-2: Wagon
-2: Walks
-2: Wall
-2: Walls
-2: Wanting
-2: Wants
-2: Warrior
-2: Wave
-2: Wax
-2: Weapons
-2: Weeps
-2: Weighed
-2: Wept
-2: Whate’er
-2: Wheak
-2: Whence
-2: Wide
-2: Wilderness
-2: Willingly
-2: Winds
-2: Wings
-2: Winter
-2: Wise
-2: Withdraw
-2: Withered
-2: Wits
-2: Womanhood
-2: Woman’s
-2: Womb
-2: Wont
-2: Work
-2: Worldly
-2: World’s
-2: Wreak
-2: Wronged
-2: Wrongfully
-2: Wrought
-2: Yours
-2: Yourself
-2: ’twill
-1:
-1: Aaron’s
-1: Abandonèd
-1: Abate
-1: Abed
-1: Abhorrèd
-1: Abide
-1: Abjectly
-1: Able
-1: Above
-1: Abused
-1: Accept
-1: Accited
-1: Accompanied
-1: Accomplish
-1: Account
-1: Accursed
-1: Accuse
-1: Acheron
-1: Acquaint
-1: Acteon’s
-1: Acts
-1: Added
-1: Adder
-1: Adjudged
-1: Admits
-1: Admitted
-1: Adopted
-1: Adorest
-1: Adorn
-1: Adulteress
-1: Advancèd
-1: Advantage
-1: Advent’rous
-1: Advised
-1: Aeneas
-1: Affect
-1: Affected
-1: Afflicted
-1: Affords
-1: Affy
-1: Afoot
-1: Ago
-1: Aid
-1: Ajax
-1: Alarbus
-1: Alarbus’
-1: Alcides
-1: Alehouse
-1: Alms
-1: Aloof
-1: Alphabet
-1: Already
-1: Amain
-1: Ambassador
-1: Ambitiously
-1: Ambush
-1: Amen
-1: Amiss
-1: Amorous
-1: Ancestor
-1: Ancestors
-1: Anchor
-1: Anchorage
-1: Ancient
-1: Andronicus’
-1: Anew
-1: Annoy
-1: Anon
-1: Another’s
-1: Anyone
-1: Apart
-1: Apollinem
-1: Apparent
-1: Appease
-1: Appetite
-1: Applause
-1: Appoint
-1: Appointed
-1: Approve
-1: Approvèd
-1: April
-1: Archer
-1: Archery
-1: Architect
-1: Arcu
-1: Aries
-1: Aright
-1: Arise
-1: Armed
-1: Army
-1: Armèd
-1: Arm’s
-1: Ascend
-1: Aspen
-1: Aspired
-1: Ass
-1: Assure
-1: Astraea
-1: Attempt
-1: Attended
-1: Attired
-1: Attirèd
-1: Audis
-1: Auditory
-1: Aut
-1: Author
-1: Avaunt
-1: Avenged
-1: Baby
-1: Bachelor
-1: Backs
-1: Bad
-1: Bag
-1: Bait
-1: Baits
-1: Baked
-1: Bakèd
-1: Balance
-1: Bandy
-1: Bane
-1: Bare
-1: Barns
-1: Barred
-1: Barren
-1: Barr’st
-1: Basin
-1: Bastard
-1: Bastardy
-1: Bathed
-1: Battered
-1: Battleax
-1: Battles
-1: Bauble
-1: Beams
-1: Bearest
-1: Bearing
-1: Bears
-1: Bearwhelps
-1: Beast
-1: Beasts
-1: Beating
-1: Beauteous
-1: Beautify
-1: Beauty
-1: Bedchamber
-1: Bees
-1: Befriend
-1: Befriended
-1: Begging
-1: Begg’st
-1: Begins
-1: Begot
-1: Beguile
-1: Beheaded
-1: Believest
-1: Belike
-1: Bell
-1: Belongs
-1: Bent
-1: Berayed
-1: Bereft
-1: Berries
-1: Besides
-1: Betide
-1: Betrothed
-1: Betrothèd
-1: Betwixt
-1: Bewet
-1: Bewitched
-1: Bidding
-1: Bide
-1: Bids
-1: Big-boned
-1: Big-swoll’n
-1: Bird
-1: Bite
-1: Bitterest
-1: Bitterness
-1: Blabbed
-1: Blazoning
-1: Bleed
-1: Bleeding
-1: Bless
-1: Blithe
-1: Blood-drinking
-1: Bloodless
-1: Bloodstained
-1: Bloodstainèd
-1: Blossom
-1: Blot
-1: Blow
-1: Blowse
-1: Boar
-1: Boast
-1: Bodes
-1: Body’s
-1: Bondmen
-1: Bonjour
-1: Books
-1: Boon
-1: Boots
-1: Booty
-1: Bottomless
-1: Boughs
-1: Bought
-1: Bounds
-1: Bow
-1: Brabble
-1: Brag
-1: Brainsick
-1: Branches
-1: Brass
-1: Brat
-1: Bravely
-1: Braver
-1: Brawl
-1: Brawls
-1: Breast-deep
-1: Breath
-1: Breathed
-1: Bred
-1: Breeder
-1: Breeders
-1: Brethren’s
-1: Brewed
-1: Brides
-1: Briers
-1: Bright-burning
-1: Brightly
-1: Brine
-1: Brinish
-1: Brink
-1: Broach
-1: Broached
-1: Broad
-1: Broke
-1: Broken
-1: Brood
-1: Brook
-1: Brothers’
-1: Brutus
-1: Bubbling
-1: Build
-1: Building
-1: Burièd
-1: Burnt
-1: Bush
-1: Busily
-1: Butchered
-1: Buzzing
-1: Cabin
-1: Caesar’s
-1: Cage
-1: Calf
-1: Call’st
-1: Cam’st
-1: Candidatus
-1: Captain
-1: Captive
-1: Captives
-1: Car
-1: Card
-1: Careless
-1: Carrier
-1: Carvèd
-1: Case
-1: Cast
-1: Castaway
-1: Castle
-1: Catch
-1: Caterwauling
-1: Cattle
-1: Caucasus
-1: Causeless
-1: Caves
-1: Cease
-1: Cedars
-1: Cell
-1: Centaurs’
-1: Center
-1: Cerberus
-1: Ceremonies
-1: Certain
-1: Chafèd
-1: Chains
-1: Challengèd
-1: Champion
-1: Champions
-1: Chances
-1: Chancèd
-1: Change
-1: Changing
-1: Chant
-1: Chaps
-1: Charge
-1: Charges
-1: Chariots
-1: Charity
-1: Charming
-1: Chastisèd
-1: Cheater
-1: Checkered
-1: Cheerful
-1: Chest
-1: Chief
-1: Chiefest
-1: Chilling
-1: Choke
-1: Christen
-1: Churl
-1: Cimmerian
-1: Cinders
-1: Circle
-1: Circling
-1: Circumscribèd
-1: Circumstance
-1: Citing
-1: Civil
-1: Clean
-1: Cleanly
-1: Clear
-1: Clearness
-1: Cleave
-1: Climbeth
-1: Clime
-1: Closet
-1: Closure
-1: Closèd
-1: Cloud
-1: Clouds
-1: Cloyed
-1: Coach
-1: Cocytus’
-1: Codding
-1: Coffin
-1: Coffins
-1: Coil
-1: Coin
-1: Cometh
-1: Comfortless
-1: Comforts
-1: Command
-1: Commanded
-1: Commiseration
-1: Committed
-1: Commonwealth
-1: Commonweal’s
-1: Compact
-1: Compass
-1: Compassion
-1: Compassionate
-1: Competitor
-1: Competitors
-1: Complainer
-1: Complots
-1: Com’st
-1: Concealèd
-1: Conceit
-1: Condemnèd
-1: Conduct
-1: Conducted
-1: Conduit
-1: Confer
-1: Confident
-1: Conflict
-1: Confound
-1: Confronted
-1: Confusèd
-1: Conqueror
-1: Conquerèd
-1: Conscience
-1: Conspirator
-1: Constrained
-1: Consult
-1: Consume
-1: Consumed
-1: Consuming
-1: Consummate
-1: Contemplation
-1: Contempts
-1: Continence
-1: Continual
-1: Contriver
-1: Controller
-1: Controlment
-1: Convenient
-1: Cook
-1: Cooling
-1: Cord
-1: Cordial
-1: Coriolanus
-1: Corpse
-1: Corrupted
-1: Couch
-1: Counsel-keeping
-1: Counsels
-1: Countenance
-1: Countless
-1: Countryman
-1: Countrymen
-1: Couple
-1: Courtesy
-1: Cousins
-1: Covered
-1: Cow
-1: Coward
-1: Cowardice
-1: Cozened
-1: Crack
-1: Craftier
-1: Craves
-1: Creature
-1: Creatures
-1: Credulous
-1: Crest
-1: Crevice
-1: Cross
-1: Crown
-1: Crying
-1: Cuique
-1: Culled
-1: Cunning
-1: Cunningly
-1: Curds
-1: Curs
-1: Cursed
-1: Curses
-1: Curtained
-1: Curtsy
-1: Cyclops’
-1: Dagger
-1: Dagger’s
-1: Daintily
-1: Damnèd
-1: Danced
-1: Dancing
-1: Dandle
-1: Dangers
-1: Dar’st
-1: Date
-1: Daunt
-1: Dawning
-1: Dazzle
-1: Dearly
-1: Debated
-1: Deceasèd
-1: Deceit
-1: Deciphered
-1: Decreed
-1: Decrees
-1: Deeper
-1: Deeply
-1: Deer
-1: Defend
-1: Defended
-1: Defender
-1: Deflower
-1: Degenerate
-1: Delays
-1: Delicious
-1: Delightful
-1: Deliverèd
-1: Deluge
-1: Denied
-1: Denies
-1: Depart
-1: Descend
-1: Describes
-1: Deserve
-1: Desirous
-1: Despair
-1: Despise
-1: Despised
-1: Despite
-1: Despiteful
-1: Destroy
-1: Detect
-1: Determine
-1: Determined
-1: Detestable
-1: Devil’s
-1: Devise
-1: Devised
-1: Devoid
-1: Devourers
-1: Devouring
-1: Dew
-1: Diadem
-1: Dido
-1: Dido’s
-1: Difference
-1: Digged
-1: Digress
-1: Dim
-1: Dimmed
-1: Direful
-1: Discharged
-1: Discontent
-1: Discontents
-1: Discord’s
-1: Discover
-1: Discovered
-1: Discoverèd
-1: Disdaineth
-1: Disgrace
-1: Dismall’st
-1: Dismal’st
-1: Dismount
-1: Dismounted
-1: Dispatch
-1: Dispatched
-1: Disperse
-1: Display
-1: Displeased
-1: Dispose
-1: Dissemble
-1: Dissembled
-1: Distil
-1: Distilled
-1: Distract
-1: Distress
-1: Disturbed
-1: Disturbers
-1: Dive
-1: Dogs
-1: Doing
-1: Don
-1: Dote
-1: Doubted
-1: Downfall
-1: Downwards
-1: Drank
-1: Dreads
-1: Dream
-1: Dreary
-1: Drinks
-1: Drive
-1: Drop
-1: Dropped
-1: Drought
-1: Drugs
-1: Drum
-1: Drunkard
-1: Dumps
-1: Durst
-1: Eagle
-1: Early
-1: Earnest
-1: Earnestly
-1: Earthly
-1: Earth’s
-1: Easily
-1: East
-1: Eating
-1: Ecstasies
-1: Ecstasy
-1: Edge
-1: Effected
-1: Effectless
-1: Effects
-1: Effectual
-1: Effectually
-1: Eget
-1: Elect
-1: Eloquence
-1: Embracement
-1: Emperal’s
-1: Emperial
-1: Enacts
-1: Encamp
-1: Enceladus
-1: Enchant
-1: Enchanting
-1: Encounter
-1: Encountered
-1: Enemies’
-1: Enforced
-1: Enfranchisèd
-1: Engines
-1: Enjoyed
-1: Ensigns
-1: Entertain
-1: Entrance
-1: Envious
-1: Environed
-1: Envy
-1: Envy’s
-1: Equal
-1: Escape
-1: Espouse
-1: Espoused
-1: Etna
-1: Eunuch
-1: Events
-1: Everburning
-1: Evermore
-1: Everyone
-1: Evils
-1: Ev’n
-1: Excellent
-1: Exclaims
-1: Excuse
-1: Execrable
-1: Exile
-1: Expecting
-1: Experience
-1: Experiments
-1: Exploits
-1: Expressed
-1: Extent
-1: Extreme
-1: Extremes
-1: Extremity
-1: E’en
-1: Fact
-1: Factions
-1: Faggot
-1: Faint
-1: Faint-hearted
-1: Fainting
-1: Fair-faced
-1: Faith
-1: Faithful
-1: Fallen
-1: False
-1: Fame’s
-1: Fas
-1: Fastened
-1: Faster
-1: Fat
-1: Fatal-plotted
-1: Fathers
-1: Fathers’
-1: Favorers
-1: Favors
-1: Fealty
-1: Fee
-1: Feebleness
-1: Feeding
-1: Feeling
-1: Feignèd
-1: Fellow
-1: Fere
-1: Fetter
-1: Fettered
-1: Few
-1: Fiend
-1: Fiendlike
-1: Fiends
-1: Fierce
-1: Fights
-1: File
-1: Filling
-1: Findst
-1: Finger
-1: Fingers
-1: Firmament
-1: Firmly
-1: First-born
-1: Fish
-1: Five-and-twenty
-1: Fix
-1: Flash
-1: Flatter
-1: Flattering
-1: Flatt’ry
-1: Fled
-1: Fleece
-1: Flight
-1: Floods
-1: Flourish
-1: Flourished
-1: Flourishing
-1: Flouted
-1: Flow
-1: Flowered
-1: Foemen’s
-1: Fog
-1: Folded
-1: Follows
-1: Fond
-1: Food
-1: Footman
-1: Forbear
-1: Forbid
-1: Forever
-1: Forfend
-1: Forge
-1: Forgot
-1: Forsooth
-1: Forswear
-1: Forthwith
-1: Fortunate
-1: Fortune’s
-1: Forty
-1: Forward
-1: Forwhy
-1: Foster
-1: Foul-spoken
-1: Fowl
-1: Frankly
-1: Franticly
-1: Fratrum
-1: Fraught
-1: Free
-1: Freedom
-1: Fright
-1: Frost
-1: Frozen
-1: Fumble
-1: Funerals
-1: Furious
-1: Further
-1: Gad
-1: Gain
-1: Gallant’st
-1: Galled
-1: Gallops
-1: Game
-1: Gaping
-1: Gate
-1: Gear
-1: Gentleman
-1: Gentleness
-1: Gently
-1: Gibbet-maker
-1: Gift
-1: Gilded
-1: Gilt
-1: Glad
-1: Gleeful
-1: Glideth
-1: Glistering
-1: Globe
-1: Gloomy
-1: Glorious
-1: Glory
-1: Gloze
-1: Glued
-1: Gnats
-1: Goat
-1: Goddess
-1: Goodliest
-1: Gossip
-1: Got
-1: Governed
-1: Governor
-1: Graced
-1: Grammar
-1: Grandfather
-1: Grandsire’s
-1: Granted
-1: Grass
-1: Gratulate
-1: Graves
-1: Gray
-1: Greater
-1: Greatest
-1: Greatly
-1: Greets
-1: Grieved
-1: Grieves
-1: Groan
-1: Groaning
-1: Groans
-1: Grooms
-1: Groves
-1: Growing
-1: Grown
-1: Grudge
-1: Guard
-1: Guest
-1: Guileful
-1: Gusts
-1: Habiliment
-1: Habited
-1: Halter
-1: Hammering
-1: Handless
-1: Handmaid
-1: Handsomely
-1: Hanging
-1: Hap
-1: Harm
-1: Harmless
-1: Harmony
-1: Harms
-1: Hart
-1: Hatch
-1: Hate
-1: Haughty
-1: Haystalks
-1: Headless
-1: Headlong
-1: Heal
-1: Health
-1: Heap
-1: Hears
-1: Heart’s
-1: Heat
-1: Heavenly
-1: Heaves
-1: Heaviness
-1: Hector’s
-1: Hecuba
-1: Heels
-1: Hellhounds
-1: Henceforth
-1: Herbs
-1: Hermits
-1: Hers
-1: Hewed
-1: He’ll
-1: He’s
-1: Hid
-1: Hie
-1: High-resolvèd
-1: High-witted
-1: Highest
-1: Highest-peering
-1: Highness’
-1: Hills
-1: Hissing
-1: Ho
-1: Holds
-1: Holla
-1: Holp’st
-1: Honest
-1: Honesty
-1: Honey-stalks
-1: Honeydew
-1: Honorably
-1: Hopeful
-1: Horn
-1: Horning
-1: Hostage
-1: Hostages
-1: Hot
-1: Hottest
-1: Hourly
-1: Hours
-1: Hour’s
-1: Household’s
-1: Hover
-1: However
-1: Hug
-1: Humble
-1: Humors
-1: Hundred
-1: Hunted
-1: Hurl
-1: Hymenaeus
-1: Hyperion’s
-1: Iaculis
-1: Idiot
-1: Idle
-1: Ignomy
-1: Ill-favored
-1: Immediately
-1: Impiety
-1: Impregnable
-1: Imprisoned
-1: Incarnate
-1: Incense
-1: Incorporate
-1: Increase
-1: Indifferently
-1: Indignity
-1: Induce
-1: Infants
-1: Infernal
-1: Infinite
-1: Infuse
-1: Ingrateful
-1: Inherit
-1: Ink
-1: Inmost
-1: Innocence
-1: Inquire
-1: Insatiate
-1: Insinuate
-1: Inspire
-1: Inspired
-1: Instruct
-1: Insult
-1: Integer
-1: Integrity
-1: Intent
-1: Intercept
-1: Intercepted
-1: Interest
-1: Interpret
-1: Interrupter
-1: Intolerable
-1: Intrude
-1: Intruder
-1: Issuing
-1: Jar
-1: Jewels
-1: Joints
-1: Jovem
-1: Joyless
-1: Joys
-1: Jubiter
-1: Judges
-1: Junius
-1: Justly
-1: Keeper’s
-1: Kept
-1: Killing
-1: Kills
-1: Kill’st
-1: Kindly
-1: Kindness
-1: Kingdom
-1: Kingdoms
-1: Kings
-1: Kisses
-1: Knees
-1: Knife’s
-1: Knighted
-1: Knot
-1: Knowest
-1: Knowing
-1: Know’st
-1: Lacks
-1: Ladder
-1: Laden
-1: Lading
-1: Ladyship
-1: Laertes’
-1: Lake
-1: Laments
-1: Land
-1: Languishment
-1: Languor
-1: Lap
-1: Larums
-1: Lascivious
-1: Lasting
-1: Lastly
-1: Lately
-1: Lath
-1: Laugh
-1: Laughter
-1: Laurel
-1: Lave
-1: Lawful
-1: Lawless
-1: Laws
-1: Lead
-1: Leads
-1: Lead’st
-1: Leaf
-1: Lean
-1: Leapt
-1: Learned
-1: Leer
-1: Legs
-1: Leisure
-1: Lend
-1: Lent
-1: Lesson
-1: Lessoned
-1: Libeling
-1: Liberality
-1: Library
-1: Lie
-1: Lifeblood
-1: Lift
-1: Lifts
-1: Lightens
-1: Lightly
-1: Lightning
-1: Likely
-1: Likeness
-1: Limbo
-1: Limits
-1: Ling’ring
-1: Lioness
-1: Liquor
-1: List
-1: Listen
-1: Lived
-1: Lives’
-1: Loaden
-1: Loaf
-1: Loathèd
-1: Lodge
-1: Lofty
-1: Long-tongued
-1: Longer
-1: Looking
-1: Look’st
-1: Lordship
-1: Lordships
-1: Losers
-1: Lost
-1: Loud
-1: Love-day
-1: Lovers
-1: Lovesick
-1: Lovingly
-1: Low
-1: Loyalty
-1: Lucius’
-1: Lucrece
-1: Lullaby
-1: Lulls
-1: Lunacy
-1: Lurking-place
-1: Lurks
-1: Lustful
-1: Lustily
-1: Lusty
-1: Lute
-1: Luxurious
-1: Madded
-1: Magni
-1: Maiden
-1: Malice
-1: Man-of-war
-1: Manfully
-1: Mangled
-1: Manners
-1: Map
-1: Marble
-1: Martem
-1: Martyr
-1: Mashed
-1: Massacre
-1: Massacres
-1: Match
-1: Mattock
-1: Maugre
-1: Mauri
-1: Mayst
-1: Meadows
-1: Meads
-1: Meaner
-1: Meanest
-1: Mean’st
-1: Meeting
-1: Melancholy
-1: Melting
-1: Mentioned
-1: Merciful
-1: Merited
-1: Messenger
-1: Metal
-1: Metamorphosis
-1: Methinks
-1: Mightful
-1: Mightily
-1: Mightiness
-1: Mightst
-1: Mild
-1: Mildest
-1: Mildly
-1: Mile
-1: Mill
-1: Miller
-1: Million
-1: Minion
-1: Miry
-1: Misbelieving
-1: Mischiefs
-1: Mishaps
-1: Miss
-1: Mistaking
-1: Mistletoe
-1: Mistresship
-1: Mistress’
-1: Mixed
-1: Mock
-1: Mocked
-1: Molest
-1: Monastery
-1: Monster
-1: Months
-1: Morn
-1: Morning
-1: Morrow
-1: Morrows
-1: Moss
-1: Motion
-1: Mountain
-1: Mourn
-1: Mournful
-1: Movèd
-1: Mud
-1: Muliteus
-1: Music
-1: Mute
-1: Mutiny
-1: Nation
-1: Nec
-1: Neck
-1: Necks
-1: Need
-1: Needful
-1: Nefas
-1: Nest
-1: Nests
-1: Nets
-1: Nettles
-1: Never-heard-of
-1: New-made
-1: New-married
-1: New-shed
-1: New-transformèd
-1: Newly
-1: Nice-preservèd
-1: Nigh
-1: Nightly
-1: Nights
-1: Nilus
-1: Nip
-1: Nobility’s
-1: Noble-minded
-1: Nobler
-1: Noblest
-1: Nod
-1: Non
-1: North
-1: Northern
-1: Nose
-1: Note
-1: Noted
-1: Notes
-1: Notice
-1: Notorious
-1: Notwithstanding
-1: Nourish
-1: Nourished
-1: Numb
-1: Number
-1: Nuptial
-1: Nursed
-1: Nurse’s
-1: Nymph
-1: Nymphs
-1: Obdurate
-1: Obey
-1: Oblivion
-1: Obscure
-1: Obscurity
-1: Obsequies
-1: Obsequious
-1: Observe
-1: Obtain
-1: Odds
-1: Offend
-1: Offended
-1: Offender
-1: Offendeth
-1: Offense
-1: Officious
-1: Offspring
-1: Olympus’
-1: Ones
-1: Onset
-1: Oped
-1: Opinion
-1: Opportunity
-1: Oppose
-1: Orator
-1: Orators
-1: Oratory
-1: Ordained
-1: Ornament
-1: Ornaments
-1: Ourselves
-1: Outrage
-1: Outrageous
-1: Outrages
-1: Oven
-1: Overborne
-1: Overcome
-1: Overflowed
-1: Overlooks
-1: Overshades
-1: Overshine
-1: Overween
-1: Overwhelmed
-1: Ovid’s
-1: Owl
-1: Owners
-1: O’erflow
-1: O’erreach
-1: O’erruns
-1: Pack
-1: Pain
-1: Pains
-1: Pair
-1: Palfreys
-1: Palliament
-1: Parcel
-1: Pared
-1: Park
-1: Parle
-1: Party
-1: Passage
-1: Passing
-1: Passionate
-1: Pasties
-1: Pastimes
-1: Path
-1: Patient
-1: Patron
-1: Patrons
-1: Pattern
-1: Patterned
-1: Paws
-1: Perfect
-1: Performers
-1: Perfume
-1: Permit
-1: Petition
-1: Petty
-1: Phoebe
-1: Physic
-1: Pie
-1: Pierce
-1: Pierced
-1: Pig
-1: Pillage
-1: Pipe
-1: Pitch
-1: Piteously
-1: Pitiless
-1: Pius
-1: Places
-1: Planet
-1: Playeth
-1: Pleading
-1: Pleasant
-1: Plebeians
-1: Plebs
-1: Pledge
-1: Plies
-1: Plotter
-1: Plow
-1: Plucked
-1: Plucking
-1: Pluto
-1: Pluto’s
-1: Ply
-1: Poet
-1: Poetry
-1: Poet’s
-1: Poison
-1: Poli
-1: Pomp
-1: Poniard
-1: Popish
-1: Port
-1: Possessed
-1: Possibility
-1: Post
-1: Poured
-1: Powder
-1: Prayer
-1: Precedent
-1: Prefer
-1: Prepared
-1: Preparèd
-1: Preserve
-1: Preserved
-1: Press
-1: Pretend
-1: Prevailed
-1: Prevailing
-1: Priam
-1: Priam’s
-1: Price
-1: Pried
-1: Prince’s
-1: Print
-1: Prize
-1: Proceedings
-1: Proceeds
-1: Proclaim
-1: Proclamations
-1: Procne
-1: Prodigies
-1: Prometheus
-1: Promised
-1: Promises
-1: Promisèd
-1: Promontory
-1: Prompt
-1: Pronounced
-1: Proper
-1: Proportion
-1: Propose
-1: Protest
-1: Proud’st
-1: Provide
-1: Pull
-1: Punishment
-1: Purchase
-1: Purchased
-1: Pure
-1: Purpose
-1: Purposely
-1: Pursue
-1: Purus
-1: Pyramus
-1: Quake
-1: Quench
-1: Question
-1: Quickly
-1: Quietly
-1: Quit
-1: Quiver
-1: Quotes
-1: Rail
-1: Rainy
-1: Ram’s
-1: Ran
-1: Ransomless
-1: Rapier’s
-1: Rash
-1: Rated
-1: Rates
-1: Rave
-1: Raven-colored
-1: Ravens
-1: Ravish
-1: Ravisher
-1: Ravishèd
-1: Rays
-1: Raze
-1: Razors
-1: Readiest
-1: Readiness
-1: Rear
-1: Reared
-1: Received
-1: Receives
-1: Reconciled
-1: Record
-1: Recount
-1: Red
-1: Redeem
-1: Redress
-1: Reedified
-1: Reflect
-1: Refuse
-1: Regards
-1: Region
-1: Relief
-1: Relieves
-1: Religious
-1: Religiously
-1: Reliquit
-1: Remaineth
-1: Remains
-1: Remembered
-1: Remembrance
-1: Remit
-1: Remunerate
-1: Renew
-1: Rent
-1: Repaid
-1: Replying
-1: Report
-1: Reprehending
-1: Represent
-1: Reproach
-1: Repute
-1: Reputes
-1: Requests
-1: Require
-1: Requites
-1: Resemble
-1: Reserved
-1: Resign
-1: Resolution
-1: Reveal
-1: Revel
-1: Revengeful
-1: Revenge’s
-1: Revengèd
-1: Reverence
-1: Reverse
-1: Revolt
-1: Rich
-1: Righteous
-1: Ripen
-1: Rising
-1: Rite
-1: River
-1: Robbed
-1: Robe
-1: Rock
-1: Rollèd
-1: Root
-1: Roots
-1: Rosèd
-1: Rot
-1: Rotted
-1: Rude-growing
-1: Ruffle
-1: Ruin
-1: Ruinous
-1: Ruins
-1: Ruled
-1: Ruminate
-1: Run
-1: Rung
-1: Runs
-1: Rushed
-1: Ruthful
-1: Sacrificing
-1: Sad-attending
-1: Sad-faced
-1: Safer
-1: Said’st
-1: Saint
-1: Saith
-1: Salutes
-1: Sampler
-1: Sands
-1: Sandy
-1: Sanguine
-1: Sapling
-1: Satisfaction
-1: Satisfy
-1: Saturninus’
-1: Sauciness
-1: Saucy
-1: Sawest
-1: Saying
-1: Scarred
-1: Scathe
-1: Scatter
-1: Scelera
-1: Scelerisque
-1: Scepter
-1: Scimitar’s
-1: Scorns
-1: Scribe
-1: Scrolls
-1: Scrowl
-1: Sea-salt
-1: Search
-1: Seat
-1: Secret
-1: Secretly
-1: Secrets
-1: Securely
-1: Seek
-1: Seeking
-1: Seest
-1: Seizeth
-1: Self
-1: Selfsame
-1: Sempronius
-1: Senate’s
-1: Sensibly
-1: Sentence
-1: Sent’st
-1: Sequence
-1: Sequestered
-1: Servitors
-1: Severed
-1: Shade
-1: Shadowed
-1: Shafts
-1: Shaken
-1: Shakes
-1: Shallow-hearted
-1: Shamed
-1: Shape
-1: Sheaf
-1: Sheath
-1: Sheathed
-1: Sheathing
-1: Sheep
-1: Shelter
-1: Shift
-1: Shifts
-1: Shines
-1: Shipwrack
-1: Shive
-1: Shone
-1: Shore
-1: Short
-1: Shouldst
-1: Showed
-1: Shrilly
-1: Shrink
-1: Shrubs
-1: Shut
-1: Sibyl’s
-1: Sicily
-1: Sigh
-1: Sighing
-1: Silken
-1: Silver
-1: Single
-1: Singled
-1: Sink
-1: Sinon
-1: Sire
-1: Siren
-1: Size
-1: Skill
-1: Skilled
-1: Skins
-1: Slaughterman
-1: Slaught’ring
-1: Slavish
-1: Sleeps
-1: Slender
-1: Slept
-1: Slew
-1: Slime
-1: Slip
-1: Slips
-1: Slunk
-1: Sly
-1: Small
-1: Smells
-1: Snake
-1: Snatch
-1: Snow
-1: Snow-white
-1: Soaking
-1: Sobs
-1: Soe’er
-1: Soldier
-1: Solicit
-1: Solon’s
-1: Something
-1: Sometime
-1: Somewhere
-1: Somewhither
-1: Son-in-law
-1: Song
-1: Sorrow-wreathen
-1: Sorry
-1: Sought
-1: Soul’s
-1: Sounded
-1: Sour
-1: Sovereign
-1: Spacious
-1: Spade
-1: Spake
-1: Speak’st
-1: Special
-1: Speechless
-1: Speedier
-1: Spit
-1: Spleenful
-1: Spoil
-1: Spoils
-1: Sports
-1: Spotted
-1: Spousal
-1: Spouts
-1: Sprawl
-1: Spring
-1: Springtime
-1: Sprung
-1: Spurn
-1: Staff
-1: Stag
-1: Stale
-1: Stamp
-1: Stampèd
-1: Stanch
-1: Standing
-1: Stand’st
-1: Star
-1: Starvèd
-1: State
-1: Stayed
-1: Steal
-1: Steed
-1: Step
-1: Stephen
-1: Steps
-1: Sting
-1: Stinging
-1: Stint
-1: Stir
-1: Stirred
-1: Stock
-1: Stony
-1: Stoop
-1: Stoops
-1: Stopped
-1: Store
-1: Stories
-1: Strangers
-1: Straw
-1: Strayed
-1: Straying
-1: Stream
-1: Strengthen
-1: Strife
-1: Strings
-1: Stroke
-1: Strumpet
-1: Stump
-1: Stuprum
-1: Stygia
-1: Styx
-1: Subscribe
-1: Substance
-1: Substances
-1: Substituted
-1: Succeed
-1: Successantly
-1: Successfully
-1: Successive
-1: Succor
-1: Suck
-1: Suck’st
-1: Sued
-1: Suffers
-1: Suffer’st
-1: Sufficeth
-1: Suitors
-1: Sum
-1: Sumptuously
-1: Suns
-1: Sun’s
-1: Supplant
-1: Suppliant
-1: Suppose
-1: Surance
-1: Surer
-1: Surfeit
-1: Surge
-1: Surmise
-1: Surnamèd
-1: Surprisèd
-1: Survey
-1: Survives
-1: Suspects
-1: Suspicion
-1: Sust’nance
-1: Suum
-1: Swallowing
-1: Swallows
-1: Swan’s
-1: Swarthy
-1: Swears
-1: Sweat
-1: Sweeter
-1: Sweetheart
-1: Sympathy
-1: Tadpole
-1: Tales
-1: Tamora’s
-1: Taper
-1: Tarry
-1: Taste
-1: Tattle
-1: Taught
-1: Taurus’
-1: Tawny
-1: Ta’en
-1: Teat
-1: Tedious
-1: Tempestuous
-1: Temples
-1: Tenders
-1: Tend’ring
-1: Tenfold
-1: Tent
-1: Tereus’
-1: Terms
-1: Terras
-1: Testimony
-1: Thankful
-1: Thereat
-1: Therein
-1: Thick-lipped
-1: Third’s
-1: Thither
-1: Thrash
-1: Threats
-1: Three
-1: Threw
-1: Thrice-noble
-1: Thrice-valiant
-1: Throat
-1: Throne
-1: Through
-1: Thrown
-1: Thrust
-1: Thump
-1: Thunder’s
-1: Thund’rest
-1: Ticed
-1: Tide
-1: Tied
-1: Tiger’s
-1: Timeless
-1: Tired
-1: Tiring
-1: Title
-1: Titles
-1: Toad
-1: Toads
-1: Tofore
-1: Tokens
-1: Took
-1: Tools
-1: Torn
-1: Torturing
-1: Tosseth
-1: Touch
-1: Touches
-1: Towards
-1: Tractable
-1: Tragedies
-1: Tragedy
-1: Tragic
-1: Train
-1: Treacherous
-1: Treasure
-1: Treasury
-1: Treats
-1: Treble
-1: Trembling
-1: Trenches
-1: Tribunal
-1: Tribute
-1: Trick
-1: Tricks
-1: Trim
-1: Trimming
-1: Triumpher
-1: Troops
-1: Trophies
-1: Trot
-1: True-divining
-1: Trull
-1: Truly
-1: Trump
-1: Trusty
-1: Try
-1: Tully’s
-1: Tumble
-1: Turned
-1: Turned-forth
-1: Turn’st
-1: Tutor
-1: Twice
-1: Two-and-twenty
-1: Typhon’s
-1: Tyrant
-1: Unadvised
-1: Unappeased
-1: Unbind
-1: Unburied
-1: Uncouple
-1: Uncouth
-1: Uncurls
-1: Underneath
-1: Understand
-1: Understands
-1: Undertake
-1: Undertook
-1: Unfrequented
-1: Unfurnished
-1: Ungentle
-1: Unhappy
-1: Unjust
-1: Unjustice
-1: Unkindly
-1: Unknit
-1: Unlucky
-1: Unmannerly
-1: Unnatural
-1: Unrecuring
-1: Unrelenting
-1: Unroll
-1: Unsearched
-1: Unsolicited
-1: Uphold
-1: Uprightness
-1: Uprise
-1: Uproars
-1: Urchins
-1: Usage
-1: Usurp
-1: Utterance
-1: Valley
-1: Varied
-1: Vaunter
-1: Vehor
-1: Venereal
-1: Vengeful
-1: Venomous
-1: Venus
-1: Vides
-1: View
-1: Vigor
-1: Villainies
-1: Virgo’s
-1: Virtues
-1: Virtuous
-1: Vitae
-1: Vomit
-1: Vouch
-1: Vulcan’s
-1: Vulture
-1: Wagoner
-1: Wags
-1: Waited
-1: Walk
-1: Walkèd
-1: Wall-eyed
-1: Wan
-1: Wandered
-1: Wand’ring
-1: Want
-1: Wanton
-1: Warded
-1: Warmed
-1: Warrants
-1: Warriors
-1: Washed
-1: Wasp
-1: Wasted
-1: Watched
-1: Wat’ry
-1: Waxing
-1: Ways
-1: Wealth
-1: Wean
-1: Wear
-1: Weary
-1: Weed
-1: Week
-1: Welfare
-1: Well-beseeming
-1: Well-tuned
-1: Wench
-1: Whatsoe’er
-1: Wheel
-1: Wheels
-1: Whelps
-1: Whenas
-1: Whenever
-1: Whereat
-1: Whereof
-1: Where’s
-1: Whether
-1: Whey
-1: While
-1: Whirl
-1: Whirling
-1: Whisper
-1: Whit
-1: White-limed
-1: Whither
-1: Whole
-1: Whore
-1: Willful
-1: Willing
-1: Wills
-1: Wink
-1: Wisdom
-1: Wished
-1: Wishes’
-1: Witnesses
-1: Witty
-1: Woefull’st
-1: Women
-1: Wonder
-1: Wondered
-1: Wood
-1: Wooed
-1: Woolly
-1: Wore
-1: Working
-1: Worn
-1: Worse-than-killing
-1: Worth
-1: Worthily
-1: Worthless
-1: Wots
-1: Wrap
-1: Wrapped
-1: Wreakful
-1: Wreaks
-1: Wreathèd
-1: Wrest
-1: Wretches
-1: Wrinkles
-1: Writes
-1: Writing
-1: Wrongful
-1: Wrote
-1: Wrung
-1: Yea
-1: Year
-1: Yellowing
-1: Yes
-1: Yesternight
-1: Yew
-1: Yoked
-1: Yonder
-1: Youngest
-1: Youngling
-1: Younglings
-1: Yourselves
-1: Youthful
-1: You’ll
-1: Zeal
-1: Zodiac
-1: Zounds
-1: ’cause
-1: ’lt
-1: ’mongst
-1: ’r
-1: ’tween
-1: ’twere
+instancea: 749, word: 'And', work: 'Tit'},
+instances: 590, word: 'The', work: 'Tit'},
+instances: 473, word: 'To', work: 'Tit'},
+instances: 402, word: 'I', work: 'Tit'},
+instances: 324, word: 'My', work: 'Tit'},
+instances: 303, word: 'Of', work: 'Tit'},
+instances: 273, word: 'That', work: 'Tit'},
+instances: 268, word: 'In', work: 'Tit'},
+instances: 266, word: 'A', work: 'Tit'},
+instances: 250, word: 'You', work: 'Tit'},
+instances: 225, word: 'With', work: 'Tit'},
+instances: 217, word: 'For', work: 'Tit'},
+instances: 215, word: 'This', work: 'Tit'},
+instances: 206, word: 'Thy', work: 'Tit'},
+instances: 195, word: 'Me', work: 'Tit'},
+instances: 174, word: 'Thou', work: 'Tit'},
+instances: 172, word: 'Not', work: 'Tit'},
+instances: 160, word: 'Is', work: 'Tit'},
+instances: 151, word: 'Be', work: 'Tit'},
+instances: 151, word: 'His', work: 'Tit'},
+instances: 148, word: 'It', work: 'Tit'},
+instances: 137, word: 'Her', work: 'Tit'},
+instances: 133, word: 'Will', work: 'Tit'},
+instances: 127, word: 'Have', work: 'Tit'},
+instances: 124, word: 'Your', work: 'Tit'},
+instances: 117, word: 'But', work: 'Tit'},
+instances: 116, word: 'As', work: 'Tit'},
+instances: 115, word: 'Thee', work: 'Tit'},
+instances: 105, word: 'What', work: 'Tit'},
+instances: 104, word: 'Him', work: 'Tit'},
+instances: 101, word: 'So', work: 'Tit'},
+instances: 98, word: 'All', work: 'Tit'},
+instances: 95, word: 'He', work: 'Tit'},
+instances: 86, word: 'Do', work: 'Tit'},
+instances: 86, word: 'Our', work: 'Tit'},
+instances: 84, word: 'Let', work: 'Tit'},
+instances: 83, word: 'By', work: 'Tit'},
+instances: 83, word: 'No', work: 'Tit'},
+instances: 83, word: 'Rome', work: 'Tit'},
+instances: 81, word: 'Are', work: 'Tit'},
+instances: 80, word: 'Shall', work: 'Tit'},
+instances: 80, word: 'Them', work: 'Tit'},
+instances: 79, word: 'We', work: 'Tit'},
+instances: 77, word: 'If', work: 'Tit'},
+instances: 75, word: 'Their', work: 'Tit'},
+instances: 74, word: 'Here', work: 'Tit'},
+instances: 74, word: 'On', work: 'Tit'},
+instances: 71, word: 'Come', work: 'Tit'},
+instances: 71, word: 'Now', work: 'Tit'},
+instances: 68, word: 'O', work: 'Tit'},
+instances: 68, word: 'They', work: 'Tit'},
+instances: 67, word: 'She', work: 'Tit'},
+instances: 64, word: 'Then', work: 'Tit'},
+instances: 62, word: 'From', work: 'Tit'},
+instances: 62, word: 'Lord', work: 'Tit'},
+instances: 62, word: 'These', work: 'Tit'},
+instances: 59, word: 'Hath', work: 'Tit'},
+instances: 57, word: 'At', work: 'Tit'},
+instances: 55, word: 'More', work: 'Tit'},
+instances: 55, word: 'Or', work: 'Tit'},
+instances: 54, word: 'How', work: 'Tit'},
+instances: 52, word: 'Sons', work: 'Tit'},
+instances: 51, word: 'See', work: 'Tit'},
+instances: 50, word: 'When', work: 'Tit'},
+instances: 50, word: 'Would', work: 'Tit'},
+instances: 49, word: 'Emperor', work: 'Tit'},
+instances: 49, word: 'Us', work: 'Tit'},
+instances: 48, word: 'Good', work: 'Tit'},
+instances: 47, word: 'Hand', work: 'Tit'},
+instances: 45, word: 'Make', work: 'Tit'},
+instances: 45, word: 'Was', work: 'Tit'},
+instances: 45, word: 'Why', work: 'Tit'},
+instances: 44, word: 'Andronicus', work: 'Tit'},
+instances: 44, word: 'Know', work: 'Tit'},
+instances: 43, word: 'Go', work: 'Tit'},
+instances: 43, word: 'Like', work: 'Tit'},
+instances: 42, word: 'Than', work: 'Tit'},
+instances: 41, word: 'Lucius', work: 'Tit'},
+instances: 41, word: 'Upon', work: 'Tit'},
+instances: 40, word: 'Marcus', work: 'Tit'},
+instances: 40, word: 'May', work: 'Tit'},
+instances: 40, word: 'Sweet', work: 'Tit'},
+instances: 39, word: 'An', work: 'Tit'},
+instances: 39, word: 'Lavinia', work: 'Tit'},
+instances: 39, word: 'Say', work: 'Tit'},
+instances: 39, word: 'Some', work: 'Tit'},
+instances: 38, word: 'Tears', work: 'Tit'},
+instances: 38, word: 'Were', work: 'Tit'},
+instances: 37, word: 'Brother', work: 'Tit'},
+instances: 37, word: 'Heart', work: 'Tit'},
+instances: 35, word: 'I\'ll', work: 'Tit'},
+instances: 35, word: 'Mine', work: 'Tit'},
+instances: 35, word: 'Should', work: 'Tit'},
+instances: 34, word: 'Give', work: 'Tit'},
+instances: 34, word: 'Hast', work: 'Tit'},
+instances: 34, word: 'Must', work: 'Tit'},
+instances: 34, word: 'Nor', work: 'Tit'},
+instances: 33, word: 'Did', work: 'Tit'},
+instances: 33, word: 'Speak', work: 'Tit'},
+instances: 33, word: 'Titus', work: 'Tit'},
+instances: 33, word: 'Well', work: 'Tit'},
+instances: 31, word: 'Am', work: 'Tit'},
+instances: 31, word: 'Had', work: 'Tit'},
+instances: 31, word: 'There', work: 'Tit'},
+instances: 30, word: 'Doth', work: 'Tit'},
+instances: 29, word: 'Away', work: 'Tit'},
+instances: 29, word: 'Can', work: 'Tit'},
+instances: 29, word: '\'tis', work: 'Tit'},
+instances: 28, word: 'Revenge', work: 'Tit'},
+instances: 28, word: 'Tell', work: 'Tit'},
+instances: 27, word: 'Empress', work: 'Tit'},
+instances: 27, word: 'Goths', work: 'Tit'},
+instances: 27, word: 'Hands', work: 'Tit'},
+instances: 27, word: 'Life', work: 'Tit'},
+instances: 27, word: 'Lords', work: 'Tit'},
+instances: 27, word: 'Man', work: 'Tit'},
+instances: 27, word: 'Noble', work: 'Tit'},
+instances: 27, word: 'Son', work: 'Tit'},
+instances: 27, word: 'Which', work: 'Tit'},
+instances: 27, word: 'Who', work: 'Tit'},
+instances: 26, word: 'Death', work: 'Tit'},
+instances: 26, word: 'Thus', work: 'Tit'},
+instances: 26, word: 'Where', work: 'Tit'},
+instances: 25, word: 'Done', work: 'Tit'},
+instances: 25, word: 'One', work: 'Tit'},
+instances: 25, word: 'Tamora', work: 'Tit'},
+instances: 25, word: 'Yet', work: 'Tit'},
+instances: 24, word: 'Aaron', work: 'Tit'},
+instances: 24, word: 'Boy', work: 'Tit'},
+instances: 24, word: 'Look', work: 'Tit'},
+instances: 24, word: 'Made', work: 'Tit'},
+instances: 24, word: 'Take', work: 'Tit'},
+instances: 24, word: 'Up', work: 'Tit'},
+instances: 23, word: 'Art', work: 'Tit'},
+instances: 23, word: 'Never', work: 'Tit'},
+instances: 22, word: 'Down', work: 'Tit'},
+instances: 22, word: 'Father', work: 'Tit'},
+instances: 22, word: 'Love', work: 'Tit'},
+instances: 21, word: 'Ay', work: 'Tit'},
+instances: 21, word: 'Blood', work: 'Tit'},
+instances: 21, word: 'Rome\'s', work: 'Tit'},
+instances: 21, word: 'Two', work: 'Tit'},
+instances: 20, word: 'Dead', work: 'Tit'},
+instances: 20, word: 'Honor', work: 'Tit'},
+instances: 20, word: 'Live', work: 'Tit'},
+instances: 20, word: 'Queen', work: 'Tit'},
+instances: 20, word: 'Therefore', work: 'Tit'},
+instances: 20, word: 'Till', work: 'Tit'},
+instances: 19, word: 'Both', work: 'Tit'},
+instances: 19, word: 'Mother', work: 'Tit'},
+instances: 19, word: 'Such', work: 'Tit'},
+instances: 19, word: 'Tongue', work: 'Tit'},
+instances: 18, word: 'Bassianus', work: 'Tit'},
+instances: 18, word: 'Dost', work: 'Tit'},
+instances: 18, word: 'Father\'s', work: 'Tit'},
+instances: 18, word: 'Friends', work: 'Tit'},
+instances: 18, word: 'Help', work: 'Tit'},
+instances: 18, word: 'Justice', work: 'Tit'},
+instances: 18, word: 'Out', work: 'Tit'},
+instances: 18, word: 'Thine', work: 'Tit'},
+instances: 17, word: 'Ever', work: 'Tit'},
+instances: 17, word: 'Heaven', work: 'Tit'},
+instances: 17, word: 'Own', work: 'Tit'},
+instances: 17, word: 'Poor', work: 'Tit'},
+instances: 17, word: 'Sir', work: 'Tit'},
+instances: 16, word: 'Dear', work: 'Tit'},
+instances: 16, word: 'Even', work: 'Tit'},
+instances: 16, word: 'Gentle', work: 'Tit'},
+instances: 16, word: 'God', work: 'Tit'},
+instances: 16, word: 'Moor', work: 'Tit'},
+instances: 16, word: 'Name', work: 'Tit'},
+instances: 16, word: 'Old', work: 'Tit'},
+instances: 16, word: 'Roman', work: 'Tit'},
+instances: 16, word: 'Saturnine', work: 'Tit'},
+instances: 16, word: 'Whose', work: 'Tit'},
+instances: 15, word: 'Bid', work: 'Tit'},
+instances: 15, word: 'Bring', work: 'Tit'},
+instances: 15, word: 'Day', work: 'Tit'},
+instances: 15, word: 'Earth', work: 'Tit'},
+instances: 15, word: 'Eyes', work: 'Tit'},
+instances: 15, word: 'Find', work: 'Tit'},
+instances: 15, word: 'Gracious', work: 'Tit'},
+instances: 15, word: 'Hear', work: 'Tit'},
+instances: 15, word: 'Men', work: 'Tit'},
+instances: 15, word: 'Sorrow', work: 'Tit'},
+instances: 15, word: 'True', work: 'Tit'},
+instances: 15, word: 'Whom', work: 'Tit'},
+instances: 14, word: 'Ah', work: 'Tit'},
+instances: 14, word: 'Bear', work: 'Tit'},
+instances: 14, word: 'Cut', work: 'Tit'},
+instances: 14, word: 'Deed', work: 'Tit'},
+instances: 14, word: 'Die', work: 'Tit'},
+instances: 14, word: 'Fear', work: 'Tit'},
+instances: 14, word: 'Grace', work: 'Tit'},
+instances: 14, word: 'Hither', work: 'Tit'},
+instances: 14, word: 'Into', work: 'Tit'},
+instances: 14, word: 'Leave', work: 'Tit'},
+instances: 14, word: 'Mad', work: 'Tit'},
+instances: 14, word: 'Madam', work: 'Tit'},
+instances: 14, word: 'Much', work: 'Tit'},
+instances: 14, word: 'Right', work: 'Tit'},
+instances: 14, word: 'Sight', work: 'Tit'},
+instances: 14, word: 'Thousand', work: 'Tit'},
+instances: 14, word: 'Too', work: 'Tit'},
+instances: 14, word: 'Unto', work: 'Tit'},
+instances: 13, word: 'Arms', work: 'Tit'},
+instances: 13, word: 'Been', work: 'Tit'},
+instances: 13, word: 'Brought', work: 'Tit'},
+instances: 13, word: 'Cause', work: 'Tit'},
+instances: 13, word: 'Child', work: 'Tit'},
+instances: 13, word: 'Great', work: 'Tit'},
+instances: 13, word: 'Please', work: 'Tit'},
+instances: 13, word: 'Rape', work: 'Tit'},
+instances: 13, word: 'Shalt', work: 'Tit'},
+instances: 13, word: 'Welcome', work: 'Tit'},
+instances: 13, word: 'Word', work: 'Tit'},
+instances: 12, word: 'Again', work: 'Tit'},
+instances: 12, word: 'Comes', work: 'Tit'},
+instances: 12, word: 'Emperor\'s', work: 'Tit'},
+instances: 12, word: 'Empress\'', work: 'Tit'},
+instances: 12, word: 'King', work: 'Tit'},
+instances: 12, word: 'Long', work: 'Tit'},
+instances: 12, word: 'Many', work: 'Tit'},
+instances: 12, word: 'Myself', work: 'Tit'},
+instances: 12, word: 'Peace', work: 'Tit'},
+instances: 12, word: 'Stand', work: 'Tit'},
+instances: 12, word: 'Think', work: 'Tit'},
+instances: 12, word: 'Tribunes', work: 'Tit'},
+instances: 12, word: 'Villain', work: 'Tit'},
+instances: 12, word: 'Witness', work: 'Tit'},
+instances: 11, word: 'Face', work: 'Tit'},
+instances: 11, word: 'Fair', work: 'Tit'},
+instances: 11, word: 'Fly', work: 'Tit'},
+instances: 11, word: 'Full', work: 'Tit'},
+instances: 11, word: 'Gods', work: 'Tit'},
+instances: 11, word: 'Murder', work: 'Tit'},
+instances: 11, word: 'Pit', work: 'Tit'},
+instances: 11, word: 'Soul', work: 'Tit'},
+instances: 11, word: 'Stay', work: 'Tit'},
+instances: 11, word: 'Sure', work: 'Tit'},
+instances: 11, word: 'Talk', work: 'Tit'},
+instances: 11, word: 'Uncle', work: 'Tit'},
+instances: 11, word: 'Wrongs', work: 'Tit'},
+instances: 10, word: 'Age', work: 'Tit'},
+instances: 10, word: 'Alas', work: 'Tit'},
+instances: 10, word: 'Any', work: 'Tit'},
+instances: 10, word: 'Better', work: 'Tit'},
+instances: 10, word: 'Bloody', work: 'Tit'},
+instances: 10, word: 'Bury', work: 'Tit'},
+instances: 10, word: 'Could', work: 'Tit'},
+instances: 10, word: 'Court', work: 'Tit'},
+instances: 10, word: 'Eye', work: 'Tit'},
+instances: 10, word: 'Grave', work: 'Tit'},
+instances: 10, word: 'Heard', work: 'Tit'},
+instances: 10, word: 'House', work: 'Tit'},
+instances: 10, word: 'Keep', work: 'Tit'},
+instances: 10, word: 'Kneel', work: 'Tit'},
+instances: 10, word: 'Lovely', work: 'Tit'},
+instances: 10, word: 'Plead', work: 'Tit'},
+instances: 10, word: 'Publius', work: 'Tit'},
+instances: 10, word: 'Romans', work: 'Tit'},
+instances: 10, word: 'Send', work: 'Tit'},
+instances: 10, word: 'Sent', work: 'Tit'},
+instances: 10, word: 'Shame', work: 'Tit'},
+instances: 10, word: 'Though', work: 'Tit'},
+instances: 10, word: 'Way', work: 'Tit'},
+instances: 10, word: 'Words', work: 'Tit'},
+instances: 10, word: 'Young', work: 'Tit'},
+instances: 9, word: 'Behold', work: 'Tit'},
+instances: 9, word: 'Black', work: 'Tit'},
+instances: 9, word: 'Body', work: 'Tit'},
+instances: 9, word: 'Cannot', work: 'Tit'},
+instances: 9, word: 'Deeds', work: 'Tit'},
+instances: 9, word: 'Draw', work: 'Tit'},
+instances: 9, word: 'Farewell', work: 'Tit'},
+instances: 9, word: 'Foul', work: 'Tit'},
+instances: 9, word: 'Gone', work: 'Tit'},
+instances: 9, word: 'Grandsire', work: 'Tit'},
+instances: 9, word: 'Hope', work: 'Tit'},
+instances: 9, word: 'Kiss', work: 'Tit'},
+instances: 9, word: 'Mean', work: 'Tit'},
+instances: 9, word: 'Most', work: 'Tit'},
+instances: 9, word: 'Nay', work: 'Tit'},
+instances: 9, word: 'Pardon', work: 'Tit'},
+instances: 9, word: 'People', work: 'Tit'},
+instances: 9, word: 'Proud', work: 'Tit'},
+instances: 9, word: 'Read', work: 'Tit'},
+instances: 9, word: 'Reason', work: 'Tit'},
+instances: 9, word: 'Rest', work: 'Tit'},
+instances: 9, word: 'Set', work: 'Tit'},
+instances: 9, word: 'Show', work: 'Tit'},
+instances: 9, word: 'Signs', work: 'Tit'},
+instances: 9, word: 'Slain', work: 'Tit'},
+instances: 9, word: 'Sorrows', work: 'Tit'},
+instances: 9, word: 'Sword', work: 'Tit'},
+instances: 9, word: 'Thoughts', work: 'Tit'},
+instances: 9, word: 'Turn', work: 'Tit'},
+instances: 9, word: 'Very', work: 'Tit'},
+instances: 8, word: 'About', work: 'Tit'},
+instances: 8, word: 'Back', work: 'Tit'},
+instances: 8, word: 'Because', work: 'Tit'},
+instances: 8, word: 'Before', work: 'Tit'},
+instances: 8, word: 'Brethren', work: 'Tit'},
+instances: 8, word: 'Brothers', work: 'Tit'},
+instances: 8, word: 'Canst', work: 'Tit'},
+instances: 8, word: 'Cheeks', work: 'Tit'},
+instances: 8, word: 'Demetrius', work: 'Tit'},
+instances: 8, word: 'Devil', work: 'Tit'},
+instances: 8, word: 'Else', work: 'Tit'},
+instances: 8, word: 'Entreat', work: 'Tit'},
+instances: 8, word: 'Feast', work: 'Tit'},
+instances: 8, word: 'Feed', work: 'Tit'},
+instances: 8, word: 'Gold', work: 'Tit'},
+instances: 8, word: 'Grief', work: 'Tit'},
+instances: 8, word: 'Hark', work: 'Tit'},
+instances: 8, word: 'Heads', work: 'Tit'},
+instances: 8, word: 'Hence', work: 'Tit'},
+instances: 8, word: 'Here\'s', work: 'Tit'},
+instances: 8, word: 'Hole', work: 'Tit'},
+instances: 8, word: 'Hue', work: 'Tit'},
+instances: 8, word: 'Husband', work: 'Tit'},
+instances: 8, word: 'Killed', work: 'Tit'},
+instances: 8, word: 'Lay', work: 'Tit'},
+instances: 8, word: 'Left', work: 'Tit'},
+instances: 8, word: 'Means', work: 'Tit'},
+instances: 8, word: 'Mind', work: 'Tit'},
+instances: 8, word: 'Mother\'s', work: 'Tit'},
+instances: 8, word: 'Nature', work: 'Tit'},
+instances: 8, word: 'Niece', work: 'Tit'},
+instances: 8, word: 'Night', work: 'Tit'},
+instances: 8, word: 'Off', work: 'Tit'},
+instances: 8, word: 'Once', work: 'Tit'},
+instances: 8, word: 'Other', work: 'Tit'},
+instances: 8, word: 'Place', work: 'Tit'},
+instances: 8, word: 'Pray', work: 'Tit'},
+instances: 8, word: 'Prince', work: 'Tit'},
+instances: 8, word: 'Sad', work: 'Tit'},
+instances: 8, word: 'Says', work: 'Tit'},
+instances: 8, word: 'Sit', work: 'Tit'},
+instances: 8, word: 'Sleep', work: 'Tit'},
+instances: 8, word: 'Swear', work: 'Tit'},
+instances: 8, word: 'Time', work: 'Tit'},
+instances: 8, word: 'Tribune', work: 'Tit'},
+instances: 8, word: 'Villains', work: 'Tit'},
+instances: 8, word: 'Weep', work: 'Tit'},
+instances: 8, word: 'Wilt', work: 'Tit'},
+instances: 7, word: 'Although', work: 'Tit'},
+instances: 7, word: 'Another', work: 'Tit'},
+instances: 7, word: 'Barbarous', work: 'Tit'},
+instances: 7, word: 'Bitter', work: 'Tit'},
+instances: 7, word: 'Brave', work: 'Tit'},
+instances: 7, word: 'Call', work: 'Tit'},
+instances: 7, word: 'Chiron', work: 'Tit'},
+instances: 7, word: 'Deep', work: 'Tit'},
+instances: 7, word: 'Dishonored', work: 'Tit'},
+instances: 7, word: 'Ears', work: 'Tit'},
+instances: 7, word: 'Ease', work: 'Tit'},
+instances: 7, word: 'Enemies', work: 'Tit'},
+instances: 7, word: 'Fall', work: 'Tit'},
+instances: 7, word: 'Fie', work: 'Tit'},
+instances: 7, word: 'First', work: 'Tit'},
+instances: 7, word: 'Fits', work: 'Tit'},
+instances: 7, word: 'Foes', work: 'Tit'},
+instances: 7, word: 'Forth', work: 'Tit'},
+instances: 7, word: 'Found', work: 'Tit'},
+instances: 7, word: 'Friend', work: 'Tit'},
+instances: 7, word: 'Gave', work: 'Tit'},
+instances: 7, word: 'Get', work: 'Tit'},
+instances: 7, word: 'Half', work: 'Tit'},
+instances: 7, word: 'Head', work: 'Tit'},
+instances: 7, word: 'Herself', work: 'Tit'},
+instances: 7, word: 'Hold', work: 'Tit'},
+instances: 7, word: 'Joy', work: 'Tit'},
+instances: 7, word: 'Just', work: 'Tit'},
+instances: 7, word: 'Kill', work: 'Tit'},
+instances: 7, word: 'Lives', work: 'Tit'},
+instances: 7, word: 'Mistress', work: 'Tit'},
+instances: 7, word: 'Near', work: 'Tit'},
+instances: 7, word: 'None', work: 'Tit'},
+instances: 7, word: 'Pity', work: 'Tit'},
+instances: 7, word: 'Safe', work: 'Tit'},
+instances: 7, word: 'Sea', work: 'Tit'},
+instances: 7, word: 'Serve', work: 'Tit'},
+instances: 7, word: 'Shed', work: 'Tit'},
+instances: 7, word: 'Sirs', work: 'Tit'},
+instances: 7, word: 'Still', work: 'Tit'},
+instances: 7, word: 'Strength', work: 'Tit'},
+instances: 7, word: 'Tale', work: 'Tit'},
+instances: 7, word: 'That\'s', work: 'Tit'},
+instances: 7, word: 'There\'s', work: 'Tit'},
+instances: 7, word: 'Titus\'', work: 'Tit'},
+instances: 7, word: 'Vengeance', work: 'Tit'},
+instances: 7, word: 'Warlike', work: 'Tit'},
+instances: 7, word: 'Woe', work: 'Tit'},
+instances: 7, word: 'Woes', work: 'Tit'},
+instances: 6, word: 'Advice', work: 'Tit'},
+instances: 6, word: 'Against', work: 'Tit'},
+instances: 6, word: 'Attend', work: 'Tit'},
+instances: 6, word: 'Aunt', work: 'Tit'},
+instances: 6, word: 'Beg', work: 'Tit'},
+instances: 6, word: 'Being', work: 'Tit'},
+instances: 6, word: 'Between', work: 'Tit'},
+instances: 6, word: 'Birds', work: 'Tit'},
+instances: 6, word: 'Boys', work: 'Tit'},
+instances: 6, word: 'Bride', work: 'Tit'},
+instances: 6, word: 'Choice', work: 'Tit'},
+instances: 6, word: 'Daughter', work: 'Tit'},
+instances: 6, word: 'Deliver', work: 'Tit'},
+instances: 6, word: 'Doom', work: 'Tit'},
+instances: 6, word: 'End', work: 'Tit'},
+instances: 6, word: 'Enough', work: 'Tit'},
+instances: 6, word: 'Every', work: 'Tit'},
+instances: 6, word: 'Fell', work: 'Tit'},
+instances: 6, word: 'Fit', work: 'Tit'},
+instances: 6, word: 'Girl', work: 'Tit'},
+instances: 6, word: 'Hang', work: 'Tit'},
+instances: 6, word: 'Heavens', work: 'Tit'},
+instances: 6, word: 'Hell', work: 'Tit'},
+instances: 6, word: 'Home', work: 'Tit'},
+instances: 6, word: 'Hunt', work: 'Tit'},
+instances: 6, word: 'Kind', work: 'Tit'},
+instances: 6, word: 'Knew', work: 'Tit'},
+instances: 6, word: 'Knife', work: 'Tit'},
+instances: 6, word: 'Last', work: 'Tit'},
+instances: 6, word: 'Leaves', work: 'Tit'},
+instances: 6, word: 'Letter', work: 'Tit'},
+instances: 6, word: 'Loving', work: 'Tit'},
+instances: 6, word: 'Lust', work: 'Tit'},
+instances: 6, word: 'Makes', work: 'Tit'},
+instances: 6, word: 'Might', work: 'Tit'},
+instances: 6, word: 'Mouth', work: 'Tit'},
+instances: 6, word: 'News', work: 'Tit'},
+instances: 6, word: 'Pale', work: 'Tit'},
+instances: 6, word: 'People\'s', work: 'Tit'},
+instances: 6, word: 'Pigeons', work: 'Tit'},
+instances: 6, word: 'Service', work: 'Tit'},
+instances: 6, word: 'Sirrah', work: 'Tit'},
+instances: 6, word: 'Sport', work: 'Tit'},
+instances: 6, word: 'Sun', work: 'Tit'},
+instances: 6, word: 'Surprised', work: 'Tit'},
+instances: 6, word: 'Thanks', work: 'Tit'},
+instances: 6, word: 'Those', work: 'Tit'},
+instances: 6, word: 'Thyself', work: 'Tit'},
+instances: 6, word: 'Told', work: 'Tit'},
+instances: 6, word: 'Troy', work: 'Tit'},
+instances: 6, word: 'Use', work: 'Tit'},
+instances: 6, word: 'Vain', work: 'Tit'},
+instances: 6, word: 'Valiant', work: 'Tit'},
+instances: 6, word: 'Water', work: 'Tit'},
+instances: 6, word: 'Whilst', work: 'Tit'},
+instances: 6, word: 'Wind', work: 'Tit'},
+instances: 6, word: 'Withal', work: 'Tit'},
+instances: 6, word: 'World', work: 'Tit'},
+instances: 6, word: 'Worthy', work: 'Tit'},
+instances: 6, word: 'Wouldst', work: 'Tit'},
+instances: 6, word: 'Wound', work: 'Tit'},
+instances: 6, word: 'Wretched', work: 'Tit'},
+instances: 6, word: 'Youth', work: 'Tit'},
+instances: 5, word: 'Accursèd', work: 'Tit'},
+instances: 5, word: 'Agèd', work: 'Tit'},
+instances: 5, word: 'Alive', work: 'Tit'},
+instances: 5, word: 'Almost', work: 'Tit'},
+instances: 5, word: 'Along', work: 'Tit'},
+instances: 5, word: 'Ask', work: 'Tit'},
+instances: 5, word: 'Babe', work: 'Tit'},
+instances: 5, word: 'Best', work: 'Tit'},
+instances: 5, word: 'Bind', work: 'Tit'},
+instances: 5, word: 'Bones', work: 'Tit'},
+instances: 5, word: 'Bound', work: 'Tit'},
+instances: 5, word: 'Break', work: 'Tit'},
+instances: 5, word: 'Burial', work: 'Tit'},
+instances: 5, word: 'Called', work: 'Tit'},
+instances: 5, word: 'Calm', work: 'Tit'},
+instances: 5, word: 'Care', work: 'Tit'},
+instances: 5, word: 'Careful', work: 'Tit'},
+instances: 5, word: 'Cheer', work: 'Tit'},
+instances: 5, word: 'Dam', work: 'Tit'},
+instances: 5, word: 'Detested', work: 'Tit'},
+instances: 5, word: 'Device', work: 'Tit'},
+instances: 5, word: 'Died', work: 'Tit'},
+instances: 5, word: 'Dishonor', work: 'Tit'},
+instances: 5, word: 'Ear', work: 'Tit'},
+instances: 5, word: 'Fame', work: 'Tit'},
+instances: 5, word: 'Fatal', work: 'Tit'},
+instances: 5, word: 'Favor', work: 'Tit'},
+instances: 5, word: 'Follow', work: 'Tit'},
+instances: 5, word: 'Fury', work: 'Tit'},
+instances: 5, word: 'Goodly', work: 'Tit'},
+instances: 5, word: 'Griefs', work: 'Tit'},
+instances: 5, word: 'Ha', work: 'Tit'},
+instances: 5, word: 'Heavy', work: 'Tit'},
+instances: 5, word: 'Heinous', work: 'Tit'},
+instances: 5, word: 'High', work: 'Tit'},
+instances: 5, word: 'Highly', work: 'Tit'},
+instances: 5, word: 'Highness', work: 'Tit'},
+instances: 5, word: 'Himself', work: 'Tit'},
+instances: 5, word: 'Honorable', work: 'Tit'},
+instances: 5, word: 'Horns', work: 'Tit'},
+instances: 5, word: 'Hour', work: 'Tit'},
+instances: 5, word: 'Join', work: 'Tit'},
+instances: 5, word: 'Learn', work: 'Tit'},
+instances: 5, word: 'Let\'s', work: 'Tit'},
+instances: 5, word: 'Limbs', work: 'Tit'},
+instances: 5, word: 'Lips', work: 'Tit'},
+instances: 5, word: 'Majesty', work: 'Tit'},
+instances: 5, word: 'Mark', work: 'Tit'},
+instances: 5, word: 'Mutius', work: 'Tit'},
+instances: 5, word: 'Nothing', work: 'Tit'},
+instances: 5, word: 'Patience', work: 'Tit'},
+instances: 5, word: 'Plot', work: 'Tit'},
+instances: 5, word: 'Point', work: 'Tit'},
+instances: 5, word: 'Power', work: 'Tit'},
+instances: 5, word: 'Presently', work: 'Tit'},
+instances: 5, word: 'Quarrel', work: 'Tit'},
+instances: 5, word: 'Ravished', work: 'Tit'},
+instances: 5, word: 'Receive', work: 'Tit'},
+instances: 5, word: 'Return', work: 'Tit'},
+instances: 5, word: 'Rise', work: 'Tit'},
+instances: 5, word: 'Royal', work: 'Tit'},
+instances: 5, word: 'Sake', work: 'Tit'},
+instances: 5, word: 'Save', work: 'Tit'},
+instances: 5, word: 'Side', work: 'Tit'},
+instances: 5, word: 'Sister', work: 'Tit'},
+instances: 5, word: 'Slave', work: 'Tit'},
+instances: 5, word: 'Stop', work: 'Tit'},
+instances: 5, word: 'Straight', work: 'Tit'},
+instances: 5, word: 'Streets', work: 'Tit'},
+instances: 5, word: 'Strike', work: 'Tit'},
+instances: 5, word: 'Teach', work: 'Tit'},
+instances: 5, word: 'Tear', work: 'Tit'},
+instances: 5, word: 'Thank', work: 'Tit'},
+instances: 5, word: 'Thing', work: 'Tit'},
+instances: 5, word: 'Thought', work: 'Tit'},
+instances: 5, word: 'Tomb', work: 'Tit'},
+instances: 5, word: 'Tongues', work: 'Tit'},
+instances: 5, word: 'Treason', work: 'Tit'},
+instances: 5, word: 'Under', work: 'Tit'},
+instances: 5, word: 'Villainy', work: 'Tit'},
+instances: 5, word: 'Vow', work: 'Tit'},
+instances: 5, word: 'We\'ll', work: 'Tit'},
+instances: 5, word: 'Wherefore', work: 'Tit'},
+instances: 5, word: 'Within', work: 'Tit'},
+instances: 5, word: 'Worse', work: 'Tit'},
+instances: 5, word: 'Wrong', work: 'Tit'},
+instances: 5, word: '\'twas', work: 'Tit'},
+instances: 4, word: 'Ad', work: 'Tit'},
+instances: 4, word: 'Aemilius', work: 'Tit'},
+instances: 4, word: 'After', work: 'Tit'},
+instances: 4, word: 'Aloft', work: 'Tit'},
+instances: 4, word: 'Alone', work: 'Tit'},
+instances: 4, word: 'Among', work: 'Tit'},
+instances: 4, word: 'Asleep', work: 'Tit'},
+instances: 4, word: 'Banquet', work: 'Tit'},
+instances: 4, word: 'Base', work: 'Tit'},
+instances: 4, word: 'Basely', work: 'Tit'},
+instances: 4, word: 'Bed', work: 'Tit'},
+instances: 4, word: 'Betray', work: 'Tit'},
+instances: 4, word: 'Blind', work: 'Tit'},
+instances: 4, word: 'Brother\'s', work: 'Tit'},
+instances: 4, word: 'Burn', work: 'Tit'},
+instances: 4, word: 'Burning', work: 'Tit'},
+instances: 4, word: 'Cave', work: 'Tit'},
+instances: 4, word: 'Choose', work: 'Tit'},
+instances: 4, word: 'Comfort', work: 'Tit'},
+instances: 4, word: 'Convey', work: 'Tit'},
+instances: 4, word: 'Country', work: 'Tit'},
+instances: 4, word: 'Country\'s', work: 'Tit'},
+instances: 4, word: 'Cry', work: 'Tit'},
+instances: 4, word: 'Days', work: 'Tit'},
+instances: 4, word: 'Deaf', work: 'Tit'},
+instances: 4, word: 'Delivered', work: 'Tit'},
+instances: 4, word: 'Deserts', work: 'Tit'},
+instances: 4, word: 'Desires', work: 'Tit'},
+instances: 4, word: 'Didst', work: 'Tit'},
+instances: 4, word: 'Dog', work: 'Tit'},
+instances: 4, word: 'Door', work: 'Tit'},
+instances: 4, word: 'Dreadful', work: 'Tit'},
+instances: 4, word: 'Drink', work: 'Tit'},
+instances: 4, word: 'Dumb', work: 'Tit'},
+instances: 4, word: 'Eat', work: 'Tit'},
+instances: 4, word: 'Election', work: 'Tit'},
+instances: 4, word: 'Eternal', work: 'Tit'},
+instances: 4, word: 'Faults', work: 'Tit'},
+instances: 4, word: 'Fearful', work: 'Tit'},
+instances: 4, word: 'Feet', work: 'Tit'},
+instances: 4, word: 'Fetch', work: 'Tit'},
+instances: 4, word: 'Fire', work: 'Tit'},
+instances: 4, word: 'Flesh', work: 'Tit'},
+instances: 4, word: 'Followers', work: 'Tit'},
+instances: 4, word: 'Forlorn', work: 'Tit'},
+instances: 4, word: 'Fortune', work: 'Tit'},
+instances: 4, word: 'General', work: 'Tit'},
+instances: 4, word: 'Given', work: 'Tit'},
+instances: 4, word: 'Goth', work: 'Tit'},
+instances: 4, word: 'Govern', work: 'Tit'},
+instances: 4, word: 'Ground', work: 'Tit'},
+instances: 4, word: 'Happy', work: 'Tit'},
+instances: 4, word: 'Hateful', work: 'Tit'},
+instances: 4, word: 'Held', work: 'Tit'},
+instances: 4, word: 'Hide', work: 'Tit'},
+instances: 4, word: 'Hollow', work: 'Tit'},
+instances: 4, word: 'Honor\'s', work: 'Tit'},
+instances: 4, word: 'Hounds', work: 'Tit'},
+instances: 4, word: 'Indeed', work: 'Tit'},
+instances: 4, word: 'Jest', work: 'Tit'},
+instances: 4, word: 'Jove', work: 'Tit'},
+instances: 4, word: 'Kinsmen', work: 'Tit'},
+instances: 4, word: 'Known', work: 'Tit'},
+instances: 4, word: 'Law', work: 'Tit'},
+instances: 4, word: 'Led', work: 'Tit'},
+instances: 4, word: 'Lest', work: 'Tit'},
+instances: 4, word: 'Little', work: 'Tit'},
+instances: 4, word: 'Lo', work: 'Tit'},
+instances: 4, word: 'Loved', work: 'Tit'},
+instances: 4, word: 'Merry', work: 'Tit'},
+instances: 4, word: 'Message', work: 'Tit'},
+instances: 4, word: 'Midwife', work: 'Tit'},
+instances: 4, word: 'Mighty', work: 'Tit'},
+instances: 4, word: 'Miserable', work: 'Tit'},
+instances: 4, word: 'Murderer', work: 'Tit'},
+instances: 4, word: 'Nephew', work: 'Tit'},
+instances: 4, word: 'Ne\'er', work: 'Tit'},
+instances: 4, word: 'Noise', work: 'Tit'},
+instances: 4, word: 'Nurse', work: 'Tit'},
+instances: 4, word: 'Ocean', work: 'Tit'},
+instances: 4, word: 'Oft', work: 'Tit'},
+instances: 4, word: 'Ours', work: 'Tit'},
+instances: 4, word: 'Palace', work: 'Tit'},
+instances: 4, word: 'Part', work: 'Tit'},
+instances: 4, word: 'Patricians', work: 'Tit'},
+instances: 4, word: 'Philomel', work: 'Tit'},
+instances: 4, word: 'Plain', work: 'Tit'},
+instances: 4, word: 'Pleasing', work: 'Tit'},
+instances: 4, word: 'Pretty', work: 'Tit'},
+instances: 4, word: 'Prey', work: 'Tit'},
+instances: 4, word: 'Princely', work: 'Tit'},
+instances: 4, word: 'Quarrels', work: 'Tit'},
+instances: 4, word: 'Said', work: 'Tit'},
+instances: 4, word: 'Same', work: 'Tit'},
+instances: 4, word: 'Saturninus', work: 'Tit'},
+instances: 4, word: 'Seen', work: 'Tit'},
+instances: 4, word: 'Sends', work: 'Tit'},
+instances: 4, word: 'Shadows', work: 'Tit'},
+instances: 4, word: 'Sharp', work: 'Tit'},
+instances: 4, word: 'Shine', work: 'Tit'},
+instances: 4, word: 'Slumber', work: 'Tit'},
+instances: 4, word: 'Soft', work: 'Tit'},
+instances: 4, word: 'Sons\'', work: 'Tit'},
+instances: 4, word: 'Soon', work: 'Tit'},
+instances: 4, word: 'Sorrowful', work: 'Tit'},
+instances: 4, word: 'Steel', work: 'Tit'},
+instances: 4, word: 'Storm', work: 'Tit'},
+instances: 4, word: 'Strong', work: 'Tit'},
+instances: 4, word: 'Struck', work: 'Tit'},
+instances: 4, word: 'Survive', work: 'Tit'},
+instances: 4, word: 'Swords', work: 'Tit'},
+instances: 4, word: 'Ten', work: 'Tit'},
+instances: 4, word: 'Threat\'ning', work: 'Tit'},
+instances: 4, word: 'Tidings', work: 'Tit'},
+instances: 4, word: 'Times', work: 'Tit'},
+instances: 4, word: 'Traitorous', work: 'Tit'},
+instances: 4, word: 'Traitors', work: 'Tit'},
+instances: 4, word: 'Tree', work: 'Tit'},
+instances: 4, word: 'Trust', work: 'Tit'},
+instances: 4, word: 'Twenty', work: 'Tit'},
+instances: 4, word: 'Unless', work: 'Tit'},
+instances: 4, word: 'Violent', work: 'Tit'},
+instances: 4, word: 'Virtue', work: 'Tit'},
+instances: 4, word: 'Wait', work: 'Tit'},
+instances: 4, word: 'Wake', work: 'Tit'},
+instances: 4, word: 'War', work: 'Tit'},
+instances: 4, word: 'Wars', work: 'Tit'},
+instances: 4, word: 'Weeping', work: 'Tit'},
+instances: 4, word: 'What\'s', work: 'Tit'},
+instances: 4, word: 'Wherein', work: 'Tit'},
+instances: 4, word: 'Wish', work: 'Tit'},
+instances: 4, word: 'Wit', work: 'Tit'},
+instances: 4, word: 'Without', work: 'Tit'},
+instances: 4, word: 'Woman', work: 'Tit'},
+instances: 4, word: 'Wounded', work: 'Tit'},
+instances: 4, word: 'Write', work: 'Tit'},
+instances: 4, word: 'Written', work: 'Tit'},
+instances: 4, word: 'Years', work: 'Tit'},
+instances: 3, word: 'Achieve', work: 'Tit'},
+instances: 3, word: 'Advance', work: 'Tit'},
+instances: 3, word: 'Advanced', work: 'Tit'},
+instances: 3, word: 'Agree', work: 'Tit'},
+instances: 3, word: 'Andronici', work: 'Tit'},
+instances: 3, word: 'Angry', work: 'Tit'},
+instances: 3, word: 'Answer', work: 'Tit'},
+instances: 3, word: 'Applaud', work: 'Tit'},
+instances: 3, word: 'Approach', work: 'Tit'},
+instances: 3, word: 'Arm', work: 'Tit'},
+instances: 3, word: 'Awhile', work: 'Tit'},
+instances: 3, word: 'Bassianus\'', work: 'Tit'},
+instances: 3, word: 'Bay', work: 'Tit'},
+instances: 3, word: 'Beastly', work: 'Tit'},
+instances: 3, word: 'Become', work: 'Tit'},
+instances: 3, word: 'Befall', work: 'Tit'},
+instances: 3, word: 'Beget', work: 'Tit'},
+instances: 3, word: 'Begin', work: 'Tit'},
+instances: 3, word: 'Below', work: 'Tit'},
+instances: 3, word: 'Blush', work: 'Tit'},
+instances: 3, word: 'Borne', work: 'Tit'},
+instances: 3, word: 'Bowels', work: 'Tit'},
+instances: 3, word: 'Bright', work: 'Tit'},
+instances: 3, word: 'Buried', work: 'Tit'},
+instances: 3, word: 'Caius', work: 'Tit'},
+instances: 3, word: 'Capitol', work: 'Tit'},
+instances: 3, word: 'Chance', work: 'Tit'},
+instances: 3, word: 'Charitable', work: 'Tit'},
+instances: 3, word: 'Chastity', work: 'Tit'},
+instances: 3, word: 'Chop', work: 'Tit'},
+instances: 3, word: 'Climb', work: 'Tit'},
+instances: 3, word: 'Coal-black', work: 'Tit'},
+instances: 3, word: 'Commit', work: 'Tit'},
+instances: 3, word: 'Common', work: 'Tit'},
+instances: 3, word: 'Commonweal', work: 'Tit'},
+instances: 3, word: 'Company', work: 'Tit'},
+instances: 3, word: 'Consecrate', work: 'Tit'},
+instances: 3, word: 'Content', work: 'Tit'},
+instances: 3, word: 'Course', work: 'Tit'},
+instances: 3, word: 'Create', work: 'Tit'},
+instances: 3, word: 'Damned', work: 'Tit'},
+instances: 3, word: 'Dangerous', work: 'Tit'},
+instances: 3, word: 'Dare', work: 'Tit'},
+instances: 3, word: 'Deadly', work: 'Tit'},
+instances: 3, word: 'Deceive', work: 'Tit'},
+instances: 3, word: 'Dies', work: 'Tit'},
+instances: 3, word: 'Dismal', work: 'Tit'},
+instances: 3, word: 'Dismiss', work: 'Tit'},
+instances: 3, word: 'Doe', work: 'Tit'},
+instances: 3, word: 'Drag', work: 'Tit'},
+instances: 3, word: 'Drops', work: 'Tit'},
+instances: 3, word: 'Drown', work: 'Tit'},
+instances: 3, word: 'Drowned', work: 'Tit'},
+instances: 3, word: 'Dry', work: 'Tit'},
+instances: 3, word: 'Effect', work: 'Tit'},
+instances: 3, word: 'Elder', work: 'Tit'},
+instances: 3, word: 'Empery', work: 'Tit'},
+instances: 3, word: 'Employed', work: 'Tit'},
+instances: 3, word: 'Endure', work: 'Tit'},
+instances: 3, word: 'Enemy', work: 'Tit'},
+instances: 3, word: 'Executed', work: 'Tit'},
+instances: 3, word: 'Execution', work: 'Tit'},
+instances: 3, word: 'Faction', work: 'Tit'},
+instances: 3, word: 'Family', work: 'Tit'},
+instances: 3, word: 'Far', work: 'Tit'},
+instances: 3, word: 'Fast', work: 'Tit'},
+instances: 3, word: 'Fault', work: 'Tit'},
+instances: 3, word: 'Fields', work: 'Tit'},
+instances: 3, word: 'Forced', work: 'Tit'},
+instances: 3, word: 'Forget', work: 'Tit'},
+instances: 3, word: 'Fortunes', work: 'Tit'},
+instances: 3, word: 'Fought', work: 'Tit'},
+instances: 3, word: 'Fountain', work: 'Tit'},
+instances: 3, word: 'Fresh', work: 'Tit'},
+instances: 3, word: 'Funeral', work: 'Tit'},
+instances: 3, word: 'Gates', work: 'Tit'},
+instances: 3, word: 'Gifts', work: 'Tit'},
+instances: 3, word: 'Gives', work: 'Tit'},
+instances: 3, word: 'Goes', work: 'Tit'},
+instances: 3, word: 'Golden', work: 'Tit'},
+instances: 3, word: 'Greet', work: 'Tit'},
+instances: 3, word: 'Grow', work: 'Tit'},
+instances: 3, word: 'Guess', work: 'Tit'},
+instances: 3, word: 'Guilt', work: 'Tit'},
+instances: 3, word: 'Hadst', work: 'Tit'},
+instances: 3, word: 'Hail', work: 'Tit'},
+instances: 3, word: 'Hair', work: 'Tit'},
+instances: 3, word: 'Hanged', work: 'Tit'},
+instances: 3, word: 'Height', work: 'Tit'},
+instances: 3, word: 'Holy', work: 'Tit'},
+instances: 3, word: 'Honors', work: 'Tit'},
+instances: 3, word: 'Horse', work: 'Tit'},
+instances: 3, word: 'Humbled', work: 'Tit'},
+instances: 3, word: 'Humor', work: 'Tit'},
+instances: 3, word: 'Hunting', work: 'Tit'},
+instances: 3, word: 'Huntsman', work: 'Tit'},
+instances: 3, word: 'Hurt', work: 'Tit'},
+instances: 3, word: 'Imperial', work: 'Tit'},
+instances: 3, word: 'Imperious', work: 'Tit'},
+instances: 3, word: 'Innocent', work: 'Tit'},
+instances: 3, word: 'Intend', work: 'Tit'},
+instances: 3, word: 'Issue', work: 'Tit'},
+instances: 3, word: 'Jupiter', work: 'Tit'},
+instances: 3, word: 'Knock', work: 'Tit'},
+instances: 3, word: 'Knows', work: 'Tit'},
+instances: 3, word: 'Lad', work: 'Tit'},
+instances: 3, word: 'Ladies', work: 'Tit'},
+instances: 3, word: 'Lady', work: 'Tit'},
+instances: 3, word: 'Lament', work: 'Tit'},
+instances: 3, word: 'Latest', work: 'Tit'},
+instances: 3, word: 'Lavinia\'s', work: 'Tit'},
+instances: 3, word: 'League', work: 'Tit'},
+instances: 3, word: 'Less', work: 'Tit'},
+instances: 3, word: 'Letters', work: 'Tit'},
+instances: 3, word: 'Lies', work: 'Tit'},
+instances: 3, word: 'Lines', work: 'Tit'},
+instances: 3, word: 'Loathsome', work: 'Tit'},
+instances: 3, word: 'Looks', work: 'Tit'},
+instances: 3, word: 'Loose', work: 'Tit'},
+instances: 3, word: 'Loves', work: 'Tit'},
+instances: 3, word: 'Man\'s', work: 'Tit'},
+instances: 3, word: 'Martyred', work: 'Tit'},
+instances: 3, word: 'Meaning', work: 'Tit'},
+instances: 3, word: 'Meanwhile', work: 'Tit'},
+instances: 3, word: 'Meed', work: 'Tit'},
+instances: 3, word: 'Melody', work: 'Tit'},
+instances: 3, word: 'Melt', work: 'Tit'},
+instances: 3, word: 'Mercury', work: 'Tit'},
+instances: 3, word: 'Ministers', work: 'Tit'},
+instances: 3, word: 'Misery', work: 'Tit'},
+instances: 3, word: 'Monument', work: 'Tit'},
+instances: 3, word: 'Moon', work: 'Tit'},
+instances: 3, word: 'Mourning', work: 'Tit'},
+instances: 3, word: 'Mouths', work: 'Tit'},
+instances: 3, word: 'Moved', work: 'Tit'},
+instances: 3, word: 'Murdered', work: 'Tit'},
+instances: 3, word: 'Naught', work: 'Tit'},
+instances: 3, word: 'Needs', work: 'Tit'},
+instances: 3, word: 'Nephews', work: 'Tit'},
+instances: 3, word: 'New', work: 'Tit'},
+instances: 3, word: 'Nobility', work: 'Tit'},
+instances: 3, word: 'Oath', work: 'Tit'},
+instances: 3, word: 'Open', work: 'Tit'},
+instances: 3, word: 'Oration', work: 'Tit'},
+instances: 3, word: 'Over', work: 'Tit'},
+instances: 3, word: 'O\'er', work: 'Tit'},
+instances: 3, word: 'Pallas', work: 'Tit'},
+instances: 3, word: 'Panther', work: 'Tit'},
+instances: 3, word: 'Pass', work: 'Tit'},
+instances: 3, word: 'Past', work: 'Tit'},
+instances: 3, word: 'Paste', work: 'Tit'},
+instances: 3, word: 'Perforce', work: 'Tit'},
+instances: 3, word: 'Perform', work: 'Tit'},
+instances: 3, word: 'Person', work: 'Tit'},
+instances: 3, word: 'Pleasure', work: 'Tit'},
+instances: 3, word: 'Pluck', work: 'Tit'},
+instances: 3, word: 'Praise', work: 'Tit'},
+instances: 3, word: 'Prayers', work: 'Tit'},
+instances: 3, word: 'Present', work: 'Tit'},
+instances: 3, word: 'Princes', work: 'Tit'},
+instances: 3, word: 'Prison', work: 'Tit'},
+instances: 3, word: 'Prisoner', work: 'Tit'},
+instances: 3, word: 'Prove', work: 'Tit'},
+instances: 3, word: 'Put', work: 'Tit'},
+instances: 3, word: 'Rapine', work: 'Tit'},
+instances: 3, word: 'Raven', work: 'Tit'},
+instances: 3, word: 'Ready', work: 'Tit'},
+instances: 3, word: 'Renownèd', work: 'Tit'},
+instances: 3, word: 'Repent', work: 'Tit'},
+instances: 3, word: 'Repose', work: 'Tit'},
+instances: 3, word: 'Resolved', work: 'Tit'},
+instances: 3, word: 'Returned', work: 'Tit'},
+instances: 3, word: 'Revenged', work: 'Tit'},
+instances: 3, word: 'Reverend', work: 'Tit'},
+instances: 3, word: 'Reward', work: 'Tit'},
+instances: 3, word: 'Ring', work: 'Tit'},
+instances: 3, word: 'Rites', work: 'Tit'},
+instances: 3, word: 'Round', work: 'Tit'},
+instances: 3, word: 'Sacred', work: 'Tit'},
+instances: 3, word: 'Sacrifice', work: 'Tit'},
+instances: 3, word: 'Saw', work: 'Tit'},
+instances: 3, word: 'She\'s', work: 'Tit'},
+instances: 3, word: 'Shot', work: 'Tit'},
+instances: 3, word: 'Sighs', work: 'Tit'},
+instances: 3, word: 'Silence', work: 'Tit'},
+instances: 3, word: 'Since', work: 'Tit'},
+instances: 3, word: 'Sith', work: 'Tit'},
+instances: 3, word: 'Soldiers', work: 'Tit'},
+instances: 3, word: 'Solemn', work: 'Tit'},
+instances: 3, word: 'Sort', work: 'Tit'},
+instances: 3, word: 'Souls', work: 'Tit'},
+instances: 3, word: 'Spare', work: 'Tit'},
+instances: 3, word: 'Square', work: 'Tit'},
+instances: 3, word: 'Stab', work: 'Tit'},
+instances: 3, word: 'Stained', work: 'Tit'},
+instances: 3, word: 'Stands', work: 'Tit'},
+instances: 3, word: 'Stone', work: 'Tit'},
+instances: 3, word: 'Stones', work: 'Tit'},
+instances: 3, word: 'Stood', work: 'Tit'},
+instances: 3, word: 'Storms', work: 'Tit'},
+instances: 3, word: 'Strange', work: 'Tit'},
+instances: 3, word: 'Stumps', work: 'Tit'},
+instances: 3, word: 'Subtle', work: 'Tit'},
+instances: 3, word: 'Suddenly', work: 'Tit'},
+instances: 3, word: 'Suffer', work: 'Tit'},
+instances: 3, word: 'Suit', work: 'Tit'},
+instances: 3, word: 'Swallow', work: 'Tit'},
+instances: 3, word: 'Swift', work: 'Tit'},
+instances: 3, word: 'Task', work: 'Tit'},
+instances: 3, word: 'Teeth', work: 'Tit'},
+instances: 3, word: 'Tender', work: 'Tit'},
+instances: 3, word: 'Themselves', work: 'Tit'},
+instances: 3, word: 'Thinks', work: 'Tit'},
+instances: 3, word: 'Throats', work: 'Tit'},
+instances: 3, word: 'Today', work: 'Tit'},
+instances: 3, word: 'Traitor', work: 'Tit'},
+instances: 3, word: 'Trouble', work: 'Tit'},
+instances: 3, word: 'Truth', work: 'Tit'},
+instances: 3, word: 'Turns', work: 'Tit'},
+instances: 3, word: 'Tyranny', work: 'Tit'},
+instances: 3, word: 'Undone', work: 'Tit'},
+instances: 3, word: 'Unhallowed', work: 'Tit'},
+instances: 3, word: 'Urge', work: 'Tit'},
+instances: 3, word: 'Utter', work: 'Tit'},
+instances: 3, word: 'Victorious', work: 'Tit'},
+instances: 3, word: 'Virtue\'s', work: 'Tit'},
+instances: 3, word: 'Warm', work: 'Tit'},
+instances: 3, word: 'Warrant', work: 'Tit'},
+instances: 3, word: 'Wash', work: 'Tit'},
+instances: 3, word: 'Weapon', work: 'Tit'},
+instances: 3, word: 'Weeds', work: 'Tit'},
+instances: 3, word: 'Welkin', work: 'Tit'},
+instances: 3, word: 'Wert', work: 'Tit'},
+instances: 3, word: 'Whiles', work: 'Tit'},
+instances: 3, word: 'White', work: 'Tit'},
+instances: 3, word: 'Wicked', work: 'Tit'},
+instances: 3, word: 'Wife', work: 'Tit'},
+instances: 3, word: 'Wipe', work: 'Tit'},
+instances: 3, word: 'Woeful', work: 'Tit'},
+instances: 3, word: 'Won', work: 'Tit'},
+instances: 3, word: 'Wondrous', work: 'Tit'},
+instances: 3, word: 'Woods', work: 'Tit'},
+instances: 3, word: 'Wot', work: 'Tit'},
+instances: 3, word: 'Wrath', work: 'Tit'},
+instances: 3, word: 'Wretch', work: 'Tit'},
+instances: 3, word: 'Writ', work: 'Tit'},
+instances: 3, word: 'Yield', work: 'Tit'},
+instances: 3, word: 'Yoke', work: 'Tit'},
+instances: 3, word: '\'t', work: 'Tit'},
+instances: 2, word: 'Abominable', work: 'Tit'},
+instances: 2, word: 'Abroad', work: 'Tit'},
+instances: 2, word: 'Accompany', work: 'Tit'},
+instances: 2, word: 'Action', work: 'Tit'},
+instances: 2, word: 'Ado', work: 'Tit'},
+instances: 2, word: 'Adore', work: 'Tit'},
+instances: 2, word: 'Advise', work: 'Tit'},
+instances: 2, word: 'Afflict', work: 'Tit'},
+instances: 2, word: 'Afford', work: 'Tit'},
+instances: 2, word: 'Aim', work: 'Tit'},
+instances: 2, word: 'Air', work: 'Tit'},
+instances: 2, word: 'Alike', work: 'Tit'},
+instances: 2, word: 'Ambitious', work: 'Tit'},
+instances: 2, word: 'Amongst', work: 'Tit'},
+instances: 2, word: 'Apollo', work: 'Tit'},
+instances: 2, word: 'Armory', work: 'Tit'},
+instances: 2, word: 'Aught', work: 'Tit'},
+instances: 2, word: 'Awake', work: 'Tit'},
+instances: 2, word: 'Ax', work: 'Tit'},
+instances: 2, word: 'Babbling', work: 'Tit'},
+instances: 2, word: 'Badge', work: 'Tit'},
+instances: 2, word: 'Bail', work: 'Tit'},
+instances: 2, word: 'Baleful', work: 'Tit'},
+instances: 2, word: 'Band', work: 'Tit'},
+instances: 2, word: 'Banished', work: 'Tit'},
+instances: 2, word: 'Banishment', work: 'Tit'},
+instances: 2, word: 'Banishèd', work: 'Tit'},
+instances: 2, word: 'Bark', work: 'Tit'},
+instances: 2, word: 'Beat', work: 'Tit'},
+instances: 2, word: 'Beats', work: 'Tit'},
+instances: 2, word: 'Becomes', work: 'Tit'},
+instances: 2, word: 'Begged', work: 'Tit'},
+instances: 2, word: 'Beheld', work: 'Tit'},
+instances: 2, word: 'Beholding', work: 'Tit'},
+instances: 2, word: 'Believe', work: 'Tit'},
+instances: 2, word: 'Belovèd', work: 'Tit'},
+instances: 2, word: 'Bestow', work: 'Tit'},
+instances: 2, word: 'Beware', work: 'Tit'},
+instances: 2, word: 'Bewray', work: 'Tit'},
+instances: 2, word: 'Beyond', work: 'Tit'},
+instances: 2, word: 'Bliss', work: 'Tit'},
+instances: 2, word: 'Blushing', work: 'Tit'},
+instances: 2, word: 'Bold', work: 'Tit'},
+instances: 2, word: 'Book', work: 'Tit'},
+instances: 2, word: 'Bootless', work: 'Tit'},
+instances: 2, word: 'Bosom', work: 'Tit'},
+instances: 2, word: 'Bosoms', work: 'Tit'},
+instances: 2, word: 'Bottom', work: 'Tit'},
+instances: 2, word: 'Braves', work: 'Tit'},
+instances: 2, word: 'Breast', work: 'Tit'},
+instances: 2, word: 'Breathe', work: 'Tit'},
+instances: 2, word: 'Breeds', work: 'Tit'},
+instances: 2, word: 'Bull', work: 'Tit'},
+instances: 2, word: 'Business', work: 'Tit'},
+instances: 2, word: 'Buzz', work: 'Tit'},
+instances: 2, word: 'Calls', work: 'Tit'},
+instances: 2, word: 'Callèd', work: 'Tit'},
+instances: 2, word: 'Came', work: 'Tit'},
+instances: 2, word: 'Camp', work: 'Tit'},
+instances: 2, word: 'Carefully', work: 'Tit'},
+instances: 2, word: 'Carry', work: 'Tit'},
+instances: 2, word: 'Chariot', work: 'Tit'},
+instances: 2, word: 'Charm', work: 'Tit'},
+instances: 2, word: 'Chase', work: 'Tit'},
+instances: 2, word: 'Chaste', work: 'Tit'},
+instances: 2, word: 'Children', work: 'Tit'},
+instances: 2, word: 'Chosen', work: 'Tit'},
+instances: 2, word: 'Citizens', work: 'Tit'},
+instances: 2, word: 'City', work: 'Tit'},
+instances: 2, word: 'Close', work: 'Tit'},
+instances: 2, word: 'Closing', work: 'Tit'},
+instances: 2, word: 'Cloudy', work: 'Tit'},
+instances: 2, word: 'Clubs', work: 'Tit'},
+instances: 2, word: 'Cold', work: 'Tit'},
+instances: 2, word: 'Coming', work: 'Tit'},
+instances: 2, word: 'Commander', work: 'Tit'},
+instances: 2, word: 'Complot', work: 'Tit'},
+instances: 2, word: 'Concerns', work: 'Tit'},
+instances: 2, word: 'Condemned', work: 'Tit'},
+instances: 2, word: 'Confederate', work: 'Tit'},
+instances: 2, word: 'Confederates', work: 'Tit'},
+instances: 2, word: 'Confusion', work: 'Tit'},
+instances: 2, word: 'Contempt', work: 'Tit'},
+instances: 2, word: 'Control', work: 'Tit'},
+instances: 2, word: 'Controlled', work: 'Tit'},
+instances: 2, word: 'Cool', work: 'Tit'},
+instances: 2, word: 'Corn', work: 'Tit'},
+instances: 2, word: 'Cornelia', work: 'Tit'},
+instances: 2, word: 'Counsel', work: 'Tit'},
+instances: 2, word: 'Cousin', work: 'Tit'},
+instances: 2, word: 'Cries', work: 'Tit'},
+instances: 2, word: 'Crimson', work: 'Tit'},
+instances: 2, word: 'Cruel', work: 'Tit'},
+instances: 2, word: 'Curse', work: 'Tit'},
+instances: 2, word: 'Cursèd', work: 'Tit'},
+instances: 2, word: 'Dainty', work: 'Tit'},
+instances: 2, word: 'Dame', work: 'Tit'},
+instances: 2, word: 'Dames', work: 'Tit'},
+instances: 2, word: 'Dark', work: 'Tit'},
+instances: 2, word: 'Deal', work: 'Tit'},
+instances: 2, word: 'Dearer', work: 'Tit'},
+instances: 2, word: 'Deaths', work: 'Tit'},
+instances: 2, word: 'Deceived', work: 'Tit'},
+instances: 2, word: 'Deflowered', work: 'Tit'},
+instances: 2, word: 'Delight', work: 'Tit'},
+instances: 2, word: 'Demand', work: 'Tit'},
+instances: 2, word: 'Den', work: 'Tit'},
+instances: 2, word: 'Desert', work: 'Tit'},
+instances: 2, word: 'Desire', work: 'Tit'},
+instances: 2, word: 'Desperate', work: 'Tit'},
+instances: 2, word: 'Destruction', work: 'Tit'},
+instances: 2, word: 'Devices', work: 'Tit'},
+instances: 2, word: 'Devils', work: 'Tit'},
+instances: 2, word: 'Dian', work: 'Tit'},
+instances: 2, word: 'Dig', work: 'Tit'},
+instances: 2, word: 'Dire', work: 'Tit'},
+instances: 2, word: 'Discourse', work: 'Tit'},
+instances: 2, word: 'Distressèd', work: 'Tit'},
+instances: 2, word: 'Doings', work: 'Tit'},
+instances: 2, word: 'Dominator', work: 'Tit'},
+instances: 2, word: 'Double', work: 'Tit'},
+instances: 2, word: 'Drawn', work: 'Tit'},
+instances: 2, word: 'Dread', work: 'Tit'},
+instances: 2, word: 'Drew', work: 'Tit'},
+instances: 2, word: 'Dull', work: 'Tit'},
+instances: 2, word: 'Dust', work: 'Tit'},
+instances: 2, word: 'Duties', work: 'Tit'},
+instances: 2, word: 'Each', work: 'Tit'},
+instances: 2, word: 'Earthy', work: 'Tit'},
+instances: 2, word: 'Easy', work: 'Tit'},
+instances: 2, word: 'Echo', work: 'Tit'},
+instances: 2, word: 'Eldest', work: 'Tit'},
+instances: 2, word: 'Embrace', work: 'Tit'},
+instances: 2, word: 'Emperess', work: 'Tit'},
+instances: 2, word: 'Empire', work: 'Tit'},
+instances: 2, word: 'Enemy\'s', work: 'Tit'},
+instances: 2, word: 'Engine', work: 'Tit'},
+instances: 2, word: 'Enjoy', work: 'Tit'},
+instances: 2, word: 'Enmity', work: 'Tit'},
+instances: 2, word: 'Entrails', work: 'Tit'},
+instances: 2, word: 'Entreats', work: 'Tit'},
+instances: 2, word: 'Ere', work: 'Tit'},
+instances: 2, word: 'Erst', work: 'Tit'},
+instances: 2, word: 'Espied', work: 'Tit'},
+instances: 2, word: 'Everlasting', work: 'Tit'},
+instances: 2, word: 'Everything', work: 'Tit'},
+instances: 2, word: 'Everywhere', work: 'Tit'},
+instances: 2, word: 'E\'er', work: 'Tit'},
+instances: 2, word: 'Famish', work: 'Tit'},
+instances: 2, word: 'Fed', work: 'Tit'},
+instances: 2, word: 'Feeble', work: 'Tit'},
+instances: 2, word: 'Field', work: 'Tit'},
+instances: 2, word: 'Fight', work: 'Tit'},
+instances: 2, word: 'Fill', work: 'Tit'},
+instances: 2, word: 'Firstborn', work: 'Tit'},
+instances: 2, word: 'Fitted', work: 'Tit'},
+instances: 2, word: 'Five', work: 'Tit'},
+instances: 2, word: 'Flies', work: 'Tit'},
+instances: 2, word: 'Flint', work: 'Tit'},
+instances: 2, word: 'Flood', work: 'Tit'},
+instances: 2, word: 'Flowers', work: 'Tit'},
+instances: 2, word: 'Fold', work: 'Tit'},
+instances: 2, word: 'Fool', work: 'Tit'},
+instances: 2, word: 'Foolish', work: 'Tit'},
+instances: 2, word: 'Fools', work: 'Tit'},
+instances: 2, word: 'Foot', work: 'Tit'},
+instances: 2, word: 'Force', work: 'Tit'},
+instances: 2, word: 'Forest', work: 'Tit'},
+instances: 2, word: 'Fragrant', work: 'Tit'},
+instances: 2, word: 'Framed', work: 'Tit'},
+instances: 2, word: 'Frantic', work: 'Tit'},
+instances: 2, word: 'Frenzy', work: 'Tit'},
+instances: 2, word: 'Friendly', work: 'Tit'},
+instances: 2, word: 'Friends\'', work: 'Tit'},
+instances: 2, word: 'Frosty', work: 'Tit'},
+instances: 2, word: 'Frown', work: 'Tit'},
+instances: 2, word: 'Fruit', work: 'Tit'},
+instances: 2, word: 'Gallant', work: 'Tit'},
+instances: 2, word: 'Gathered', work: 'Tit'},
+instances: 2, word: 'Gaze', work: 'Tit'},
+instances: 2, word: 'Giddy', work: 'Tit'},
+instances: 2, word: 'Gnawing', work: 'Tit'},
+instances: 2, word: 'Going', work: 'Tit'},
+instances: 2, word: 'Graciously', work: 'Tit'},
+instances: 2, word: 'Gramercy', work: 'Tit'},
+instances: 2, word: 'Gratify', work: 'Tit'},
+instances: 2, word: 'Greeks', work: 'Tit'},
+instances: 2, word: 'Green', work: 'Tit'},
+instances: 2, word: 'Grind', work: 'Tit'},
+instances: 2, word: 'Guide', work: 'Tit'},
+instances: 2, word: 'Guilty', work: 'Tit'},
+instances: 2, word: 'Hale', work: 'Tit'},
+instances: 2, word: 'Handle', work: 'Tit'},
+instances: 2, word: 'Happily', work: 'Tit'},
+instances: 2, word: 'Happiness', work: 'Tit'},
+instances: 2, word: 'Hard', work: 'Tit'},
+instances: 2, word: 'Has', work: 'Tit'},
+instances: 2, word: 'Having', work: 'Tit'},
+instances: 2, word: 'Hearing', work: 'Tit'},
+instances: 2, word: 'Heartily', work: 'Tit'},
+instances: 2, word: 'Hearts', work: 'Tit'},
+instances: 2, word: 'Heaven\'s', work: 'Tit'},
+instances: 2, word: 'Heir', work: 'Tit'},
+instances: 2, word: 'Hellish', work: 'Tit'},
+instances: 2, word: 'Hew', work: 'Tit'},
+instances: 2, word: 'Hit', work: 'Tit'},
+instances: 2, word: 'Honey', work: 'Tit'},
+instances: 2, word: 'Honored', work: 'Tit'},
+instances: 2, word: 'Hopes', work: 'Tit'},
+instances: 2, word: 'Horace', work: 'Tit'},
+instances: 2, word: 'Hound', work: 'Tit'},
+instances: 2, word: 'Humbleness', work: 'Tit'},
+instances: 2, word: 'Humbly', work: 'Tit'},
+instances: 2, word: 'Hunter\'s', work: 'Tit'},
+instances: 2, word: 'Ill', work: 'Tit'},
+instances: 2, word: 'Image', work: 'Tit'},
+instances: 2, word: 'Impatient', work: 'Tit'},
+instances: 2, word: 'Ingratitude', work: 'Tit'},
+instances: 2, word: 'Inhuman', work: 'Tit'},
+instances: 2, word: 'Inter', work: 'Tit'},
+instances: 2, word: 'Irreligious', work: 'Tit'},
+instances: 2, word: 'Jet', work: 'Tit'},
+instances: 2, word: 'Joyful', work: 'Tit'},
+instances: 2, word: 'Judge', work: 'Tit'},
+instances: 2, word: 'Keeps', work: 'Tit'},
+instances: 2, word: 'Knee', work: 'Tit'},
+instances: 2, word: 'Knit', work: 'Tit'},
+instances: 2, word: 'Lamb', work: 'Tit'},
+instances: 2, word: 'Lamenting', work: 'Tit'},
+instances: 2, word: 'Lark', work: 'Tit'},
+instances: 2, word: 'Late', work: 'Tit'},
+instances: 2, word: 'Laughed', work: 'Tit'},
+instances: 2, word: 'Least', work: 'Tit'},
+instances: 2, word: 'Lentus', work: 'Tit'},
+instances: 2, word: 'Light', work: 'Tit'},
+instances: 2, word: 'Lily', work: 'Tit'},
+instances: 2, word: 'Lion', work: 'Tit'},
+instances: 2, word: 'Lively', work: 'Tit'},
+instances: 2, word: 'Living', work: 'Tit'},
+instances: 2, word: 'Lopped', work: 'Tit'},
+instances: 2, word: 'Lose', work: 'Tit'},
+instances: 2, word: 'Loss', work: 'Tit'},
+instances: 2, word: 'Lucrece\'', work: 'Tit'},
+instances: 2, word: 'Maid', work: 'Tit'},
+instances: 2, word: 'Maintain', work: 'Tit'},
+instances: 2, word: 'Manes', work: 'Tit'},
+instances: 2, word: 'March', work: 'Tit'},
+instances: 2, word: 'Marked', work: 'Tit'},
+instances: 2, word: 'Marks', work: 'Tit'},
+instances: 2, word: 'Marry', work: 'Tit'},
+instances: 2, word: 'Master', work: 'Tit'},
+instances: 2, word: 'Masters', work: 'Tit'},
+instances: 2, word: 'Matter', work: 'Tit'},
+instances: 2, word: 'Meet', work: 'Tit'},
+instances: 2, word: 'Melodious', work: 'Tit'},
+instances: 2, word: 'Men\'s', work: 'Tit'},
+instances: 2, word: 'Mercy', work: 'Tit'},
+instances: 2, word: 'Met', work: 'Tit'},
+instances: 2, word: 'Milk', work: 'Tit'},
+instances: 2, word: 'Minds', work: 'Tit'},
+instances: 2, word: 'Mischief', work: 'Tit'},
+instances: 2, word: 'Miseries', work: 'Tit'},
+instances: 2, word: 'Misty', work: 'Tit'},
+instances: 2, word: 'Mocks', work: 'Tit'},
+instances: 2, word: 'Money', work: 'Tit'},
+instances: 2, word: 'Monstrous', work: 'Tit'},
+instances: 2, word: 'Mortal', work: 'Tit'},
+instances: 2, word: 'Mount', work: 'Tit'},
+instances: 2, word: 'Move', work: 'Tit'},
+instances: 2, word: 'Murderers', work: 'Tit'},
+instances: 2, word: 'Murderous', work: 'Tit'},
+instances: 2, word: 'Murders', work: 'Tit'},
+instances: 2, word: 'Murderèd', work: 'Tit'},
+instances: 2, word: 'Mutius\'', work: 'Tit'},
+instances: 2, word: 'Mutual', work: 'Tit'},
+instances: 2, word: 'Napkin', work: 'Tit'},
+instances: 2, word: 'Next', work: 'Tit'},
+instances: 2, word: 'Nobly', work: 'Tit'},
+instances: 2, word: 'Object', work: 'Tit'},
+instances: 2, word: 'Often', work: 'Tit'},
+instances: 2, word: 'Only', work: 'Tit'},
+instances: 2, word: 'Ope', work: 'Tit'},
+instances: 2, word: 'Openly', work: 'Tit'},
+instances: 2, word: 'Other\'s', work: 'Tit'},
+instances: 2, word: 'Outlive', work: 'Tit'},
+instances: 2, word: 'Owe', work: 'Tit'},
+instances: 2, word: 'Painted', work: 'Tit'},
+instances: 2, word: 'Pantheon', work: 'Tit'},
+instances: 2, word: 'Parley', work: 'Tit'},
+instances: 2, word: 'Passed', work: 'Tit'},
+instances: 2, word: 'Passion', work: 'Tit'},
+instances: 2, word: 'Passions', work: 'Tit'},
+instances: 2, word: 'Pay', work: 'Tit'},
+instances: 2, word: 'Peal', work: 'Tit'},
+instances: 2, word: 'Pearl', work: 'Tit'},
+instances: 2, word: 'Pen', work: 'Tit'},
+instances: 2, word: 'Per', work: 'Tit'},
+instances: 2, word: 'Perceive', work: 'Tit'},
+instances: 2, word: 'Perchance', work: 'Tit'},
+instances: 2, word: 'Performed', work: 'Tit'},
+instances: 2, word: 'Perhaps', work: 'Tit'},
+instances: 2, word: 'Philomela', work: 'Tit'},
+instances: 2, word: 'Picture', work: 'Tit'},
+instances: 2, word: 'Piece', work: 'Tit'},
+instances: 2, word: 'Piety', work: 'Tit'},
+instances: 2, word: 'Pile', work: 'Tit'},
+instances: 2, word: 'Pillow', work: 'Tit'},
+instances: 2, word: 'Pities', work: 'Tit'},
+instances: 2, word: 'Pitiful', work: 'Tit'},
+instances: 2, word: 'Planted', work: 'Tit'},
+instances: 2, word: 'Play', work: 'Tit'},
+instances: 2, word: 'Played', work: 'Tit'},
+instances: 2, word: 'Pleased', work: 'Tit'},
+instances: 2, word: 'Pledges', work: 'Tit'},
+instances: 2, word: 'Plight', work: 'Tit'},
+instances: 2, word: 'Plots', work: 'Tit'},
+instances: 2, word: 'Policy', work: 'Tit'},
+instances: 2, word: 'Possess', work: 'Tit'},
+instances: 2, word: 'Practice', work: 'Tit'},
+instances: 2, word: 'Precious', work: 'Tit'},
+instances: 2, word: 'Prepare', work: 'Tit'},
+instances: 2, word: 'Presence', work: 'Tit'},
+instances: 2, word: 'Presents', work: 'Tit'},
+instances: 2, word: 'Pride', work: 'Tit'},
+instances: 2, word: 'Priest', work: 'Tit'},
+instances: 2, word: 'Prisoners', work: 'Tit'},
+instances: 2, word: 'Private', work: 'Tit'},
+instances: 2, word: 'Privilege', work: 'Tit'},
+instances: 2, word: 'Promise', work: 'Tit'},
+instances: 2, word: 'Prosecute', work: 'Tit'},
+instances: 2, word: 'Proudest', work: 'Tit'},
+instances: 2, word: 'Proved', work: 'Tit'},
+instances: 2, word: 'Puts', work: 'Tit'},
+instances: 2, word: 'Quick', work: 'Tit'},
+instances: 2, word: 'Rage', work: 'Tit'},
+instances: 2, word: 'Ragged', work: 'Tit'},
+instances: 2, word: 'Rain', work: 'Tit'},
+instances: 2, word: 'Raise', work: 'Tit'},
+instances: 2, word: 'Ransom', work: 'Tit'},
+instances: 2, word: 'Rapes', work: 'Tit'},
+instances: 2, word: 'Rapier', work: 'Tit'},
+instances: 2, word: 'Rather', work: 'Tit'},
+instances: 2, word: 'Ravenous', work: 'Tit'},
+instances: 2, word: 'Reach', work: 'Tit'},
+instances: 2, word: 'Receivèd', work: 'Tit'},
+instances: 2, word: 'Receptacle', work: 'Tit'},
+instances: 2, word: 'Relent', work: 'Tit'},
+instances: 2, word: 'Remainder', work: 'Tit'},
+instances: 2, word: 'Remedy', work: 'Tit'},
+instances: 2, word: 'Remember', work: 'Tit'},
+instances: 2, word: 'Render', work: 'Tit'},
+instances: 2, word: 'Repair', work: 'Tit'},
+instances: 2, word: 'Reproachful', work: 'Tit'},
+instances: 2, word: 'Requite', work: 'Tit'},
+instances: 2, word: 'Resalute', work: 'Tit'},
+instances: 2, word: 'Rescue', work: 'Tit'},
+instances: 2, word: 'Resolve', work: 'Tit'},
+instances: 2, word: 'Restore', work: 'Tit'},
+instances: 2, word: 'Rests', work: 'Tit'},
+instances: 2, word: 'Returns', work: 'Tit'},
+instances: 2, word: 'Rob', work: 'Tit'},
+instances: 2, word: 'Rouse', work: 'Tit'},
+instances: 2, word: 'Rue', work: 'Tit'},
+instances: 2, word: 'Rule', work: 'Tit'},
+instances: 2, word: 'Ruthless', work: 'Tit'},
+instances: 2, word: 'Safety', work: 'Tit'},
+instances: 2, word: 'Saturn', work: 'Tit'},
+instances: 2, word: 'Scars', work: 'Tit'},
+instances: 2, word: 'Scattered', work: 'Tit'},
+instances: 2, word: 'Scorn', work: 'Tit'},
+instances: 2, word: 'Scroll', work: 'Tit'},
+instances: 2, word: 'Scythia', work: 'Tit'},
+instances: 2, word: 'Seal', work: 'Tit'},
+instances: 2, word: 'Secure', work: 'Tit'},
+instances: 2, word: 'Seem', work: 'Tit'},
+instances: 2, word: 'Seems', work: 'Tit'},
+instances: 2, word: 'Seize', work: 'Tit'},
+instances: 2, word: 'Semiramis', work: 'Tit'},
+instances: 2, word: 'Senate', work: 'Tit'},
+instances: 2, word: 'Served', work: 'Tit'},
+instances: 2, word: 'Servile', work: 'Tit'},
+instances: 2, word: 'Sewed', work: 'Tit'},
+instances: 2, word: 'Shadow', work: 'Tit'},
+instances: 2, word: 'Shameful', work: 'Tit'},
+instances: 2, word: 'Sheathe', work: 'Tit'},
+instances: 2, word: 'Shield', work: 'Tit'},
+instances: 2, word: 'Shipped', work: 'Tit'},
+instances: 2, word: 'Shoot', work: 'Tit'},
+instances: 2, word: 'Showers', work: 'Tit'},
+instances: 2, word: 'Shows', work: 'Tit'},
+instances: 2, word: 'Sign', work: 'Tit'},
+instances: 2, word: 'Signifies', work: 'Tit'},
+instances: 2, word: 'Silent', work: 'Tit'},
+instances: 2, word: 'Sin', work: 'Tit'},
+instances: 2, word: 'Sing', work: 'Tit'},
+instances: 2, word: 'Sister\'s', work: 'Tit'},
+instances: 2, word: 'Sits', work: 'Tit'},
+instances: 2, word: 'Sky', work: 'Tit'},
+instances: 2, word: 'Slaughtered', work: 'Tit'},
+instances: 2, word: 'Slay', work: 'Tit'},
+instances: 2, word: 'Smiles', work: 'Tit'},
+instances: 2, word: 'Smoke', work: 'Tit'},
+instances: 2, word: 'Smooth', work: 'Tit'},
+instances: 2, word: 'Snakes', work: 'Tit'},
+instances: 2, word: 'Somewhat', work: 'Tit'},
+instances: 2, word: 'Son\'s', work: 'Tit'},
+instances: 2, word: 'Sooner', work: 'Tit'},
+instances: 2, word: 'Sound', work: 'Tit'},
+instances: 2, word: 'Speaks', work: 'Tit'},
+instances: 2, word: 'Speeches', work: 'Tit'},
+instances: 2, word: 'Speed', work: 'Tit'},
+instances: 2, word: 'Spent', work: 'Tit'},
+instances: 2, word: 'Spirit', work: 'Tit'},
+instances: 2, word: 'Spotless', work: 'Tit'},
+instances: 2, word: 'Stain', work: 'Tit'},
+instances: 2, word: 'Stately', work: 'Tit'},
+instances: 2, word: 'Stern', work: 'Tit'},
+instances: 2, word: 'Stomachs', work: 'Tit'},
+instances: 2, word: 'Story', work: 'Tit'},
+instances: 2, word: 'Stratagem', work: 'Tit'},
+instances: 2, word: 'Strive', work: 'Tit'},
+instances: 2, word: 'Study', work: 'Tit'},
+instances: 2, word: 'Successful', work: 'Tit'},
+instances: 2, word: 'Sudden', work: 'Tit'},
+instances: 2, word: 'Suffrages', work: 'Tit'},
+instances: 2, word: 'Summer', work: 'Tit'},
+instances: 2, word: 'Summer\'s', work: 'Tit'},
+instances: 2, word: 'Sung', work: 'Tit'},
+instances: 2, word: 'Supplication', work: 'Tit'},
+instances: 2, word: 'Supposed', work: 'Tit'},
+instances: 2, word: 'Swelling', work: 'Tit'},
+instances: 2, word: 'Swells', work: 'Tit'},
+instances: 2, word: 'Swore', work: 'Tit'},
+instances: 2, word: 'Taken', work: 'Tit'},
+instances: 2, word: 'Takes', work: 'Tit'},
+instances: 2, word: 'Tam', work: 'Tit'},
+instances: 2, word: 'Tapers', work: 'Tit'},
+instances: 2, word: 'Tarquin', work: 'Tit'},
+instances: 2, word: 'Temper', work: 'Tit'},
+instances: 2, word: 'Tempest', work: 'Tit'},
+instances: 2, word: 'Tereus', work: 'Tit'},
+instances: 2, word: 'Terror', work: 'Tit'},
+instances: 2, word: 'Theme', work: 'Tit'},
+instances: 2, word: 'Thereby', work: 'Tit'},
+instances: 2, word: 'Things', work: 'Tit'},
+instances: 2, word: 'Thracian', work: 'Tit'},
+instances: 2, word: 'Threat', work: 'Tit'},
+instances: 2, word: 'Throw', work: 'Tit'},
+instances: 2, word: 'Th\'', work: 'Tit'},
+instances: 2, word: 'Tiger', work: 'Tit'},
+instances: 2, word: 'Tigers', work: 'Tit'},
+instances: 2, word: 'Titan\'s', work: 'Tit'},
+instances: 2, word: 'Tomorrow', work: 'Tit'},
+instances: 2, word: 'Top', work: 'Tit'},
+instances: 2, word: 'Torment', work: 'Tit'},
+instances: 2, word: 'Touched', work: 'Tit'},
+instances: 2, word: 'Trained', work: 'Tit'},
+instances: 2, word: 'Trees', work: 'Tit'},
+instances: 2, word: 'Tremble', work: 'Tit'},
+instances: 2, word: 'Trembles', work: 'Tit'},
+instances: 2, word: 'Tributary', work: 'Tit'},
+instances: 2, word: 'Trimmed', work: 'Tit'},
+instances: 2, word: 'Triumph', work: 'Tit'},
+instances: 2, word: 'Triumphs', work: 'Tit'},
+instances: 2, word: 'Troop', work: 'Tit'},
+instances: 2, word: 'Troubled', work: 'Tit'},
+instances: 2, word: 'Trumpets', work: 'Tit'},
+instances: 2, word: 'Trunk', work: 'Tit'},
+instances: 2, word: 'Tut', work: 'Tit'},
+instances: 2, word: 'Tyrannize', work: 'Tit'},
+instances: 2, word: 'T\'', work: 'Tit'},
+instances: 2, word: 'Undo', work: 'Tit'},
+instances: 2, word: 'Ungrateful', work: 'Tit'},
+instances: 2, word: 'Unkind', work: 'Tit'},
+instances: 2, word: 'Unrest', work: 'Tit'},
+instances: 2, word: 'Unspeakable', work: 'Tit'},
+instances: 2, word: 'Until', work: 'Tit'},
+instances: 2, word: 'Unworthy', work: 'Tit'},
+instances: 2, word: 'Upright', work: 'Tit'},
+instances: 2, word: 'Used', work: 'Tit'},
+instances: 2, word: 'Vale', work: 'Tit'},
+instances: 2, word: 'Valentine', work: 'Tit'},
+instances: 2, word: 'Vast', work: 'Tit'},
+instances: 2, word: 'Verse', work: 'Tit'},
+instances: 2, word: 'Vex', work: 'Tit'},
+instances: 2, word: 'Vile', work: 'Tit'},
+instances: 2, word: 'Virginius', work: 'Tit'},
+instances: 2, word: 'Voice', work: 'Tit'},
+instances: 2, word: 'Voices', work: 'Tit'},
+instances: 2, word: 'Wagon', work: 'Tit'},
+instances: 2, word: 'Walks', work: 'Tit'},
+instances: 2, word: 'Wall', work: 'Tit'},
+instances: 2, word: 'Walls', work: 'Tit'},
+instances: 2, word: 'Wanting', work: 'Tit'},
+instances: 2, word: 'Wants', work: 'Tit'},
+instances: 2, word: 'Warrior', work: 'Tit'},
+instances: 2, word: 'Wave', work: 'Tit'},
+instances: 2, word: 'Wax', work: 'Tit'},
+instances: 2, word: 'Weapons', work: 'Tit'},
+instances: 2, word: 'Weeps', work: 'Tit'},
+instances: 2, word: 'Weighed', work: 'Tit'},
+instances: 2, word: 'Wept', work: 'Tit'},
+instances: 2, word: 'Whate\'er', work: 'Tit'},
+instances: 2, word: 'Wheak', work: 'Tit'},
+instances: 2, word: 'Whence', work: 'Tit'},
+instances: 2, word: 'Wide', work: 'Tit'},
+instances: 2, word: 'Wilderness', work: 'Tit'},
+instances: 2, word: 'Willingly', work: 'Tit'},
+instances: 2, word: 'Winds', work: 'Tit'},
+instances: 2, word: 'Wings', work: 'Tit'},
+instances: 2, word: 'Winter', work: 'Tit'},
+instances: 2, word: 'Wise', work: 'Tit'},
+instances: 2, word: 'Withdraw', work: 'Tit'},
+instances: 2, word: 'Withered', work: 'Tit'},
+instances: 2, word: 'Wits', work: 'Tit'},
+instances: 2, word: 'Womanhood', work: 'Tit'},
+instances: 2, word: 'Woman\'s', work: 'Tit'},
+instances: 2, word: 'Womb', work: 'Tit'},
+instances: 2, word: 'Wont', work: 'Tit'},
+instances: 2, word: 'Work', work: 'Tit'},
+instances: 2, word: 'Worldly', work: 'Tit'},
+instances: 2, word: 'World\'s', work: 'Tit'},
+instances: 2, word: 'Wreak', work: 'Tit'},
+instances: 2, word: 'Wronged', work: 'Tit'},
+instances: 2, word: 'Wrongfully', work: 'Tit'},
+instances: 2, word: 'Wrought', work: 'Tit'},
+instances: 2, word: 'Yours', work: 'Tit'},
+instances: 2, word: 'Yourself', work: 'Tit'},
+instances: 2, word: '\'twill', work: 'Tit'},
+instances: 1:', work: 'Tit'},
+instances: 1, word: 'Aaron\'s', work: 'Tit'},
+instances: 1, word: 'Abandonèd', work: 'Tit'},
+instances: 1, word: 'Abate', work: 'Tit'},
+instances: 1, word: 'Abed', work: 'Tit'},
+instances: 1, word: 'Abhorrèd', work: 'Tit'},
+instances: 1, word: 'Abide', work: 'Tit'},
+instances: 1, word: 'Abjectly', work: 'Tit'},
+instances: 1, word: 'Able', work: 'Tit'},
+instances: 1, word: 'Above', work: 'Tit'},
+instances: 1, word: 'Abused', work: 'Tit'},
+instances: 1, word: 'Accept', work: 'Tit'},
+instances: 1, word: 'Accited', work: 'Tit'},
+instances: 1, word: 'Accompanied', work: 'Tit'},
+instances: 1, word: 'Accomplish', work: 'Tit'},
+instances: 1, word: 'Account', work: 'Tit'},
+instances: 1, word: 'Accursed', work: 'Tit'},
+instances: 1, word: 'Accuse', work: 'Tit'},
+instances: 1, word: 'Acheron', work: 'Tit'},
+instances: 1, word: 'Acquaint', work: 'Tit'},
+instances: 1, word: 'Acteon\'s', work: 'Tit'},
+instances: 1, word: 'Acts', work: 'Tit'},
+instances: 1, word: 'Added', work: 'Tit'},
+instances: 1, word: 'Adder', work: 'Tit'},
+instances: 1, word: 'Adjudged', work: 'Tit'},
+instances: 1, word: 'Admits', work: 'Tit'},
+instances: 1, word: 'Admitted', work: 'Tit'},
+instances: 1, word: 'Adopted', work: 'Tit'},
+instances: 1, word: 'Adorest', work: 'Tit'},
+instances: 1, word: 'Adorn', work: 'Tit'},
+instances: 1, word: 'Adulteress', work: 'Tit'},
+instances: 1, word: 'Advancèd', work: 'Tit'},
+instances: 1, word: 'Advantage', work: 'Tit'},
+instances: 1, word: 'Advent\'rous', work: 'Tit'},
+instances: 1, word: 'Advised', work: 'Tit'},
+instances: 1, word: 'Aeneas', work: 'Tit'},
+instances: 1, word: 'Affect', work: 'Tit'},
+instances: 1, word: 'Affected', work: 'Tit'},
+instances: 1, word: 'Afflicted', work: 'Tit'},
+instances: 1, word: 'Affords', work: 'Tit'},
+instances: 1, word: 'Affy', work: 'Tit'},
+instances: 1, word: 'Afoot', work: 'Tit'},
+instances: 1, word: 'Ago', work: 'Tit'},
+instances: 1, word: 'Aid', work: 'Tit'},
+instances: 1, word: 'Ajax', work: 'Tit'},
+instances: 1, word: 'Alarbus', work: 'Tit'},
+instances: 1, word: 'Alarbus\'', work: 'Tit'},
+instances: 1, word: 'Alcides', work: 'Tit'},
+instances: 1, word: 'Alehouse', work: 'Tit'},
+instances: 1, word: 'Alms', work: 'Tit'},
+instances: 1, word: 'Aloof', work: 'Tit'},
+instances: 1, word: 'Alphabet', work: 'Tit'},
+instances: 1, word: 'Already', work: 'Tit'},
+instances: 1, word: 'Amain', work: 'Tit'},
+instances: 1, word: 'Ambassador', work: 'Tit'},
+instances: 1, word: 'Ambitiously', work: 'Tit'},
+instances: 1, word: 'Ambush', work: 'Tit'},
+instances: 1, word: 'Amen', work: 'Tit'},
+instances: 1, word: 'Amiss', work: 'Tit'},
+instances: 1, word: 'Amorous', work: 'Tit'},
+instances: 1, word: 'Ancestor', work: 'Tit'},
+instances: 1, word: 'Ancestors', work: 'Tit'},
+instances: 1, word: 'Anchor', work: 'Tit'},
+instances: 1, word: 'Anchorage', work: 'Tit'},
+instances: 1, word: 'Ancient', work: 'Tit'},
+instances: 1, word: 'Andronicus\'', work: 'Tit'},
+instances: 1, word: 'Anew', work: 'Tit'},
+instances: 1, word: 'Annoy', work: 'Tit'},
+instances: 1, word: 'Anon', work: 'Tit'},
+instances: 1, word: 'Another\'s', work: 'Tit'},
+instances: 1, word: 'Anyone', work: 'Tit'},
+instances: 1, word: 'Apart', work: 'Tit'},
+instances: 1, word: 'Apollinem', work: 'Tit'},
+instances: 1, word: 'Apparent', work: 'Tit'},
+instances: 1, word: 'Appease', work: 'Tit'},
+instances: 1, word: 'Appetite', work: 'Tit'},
+instances: 1, word: 'Applause', work: 'Tit'},
+instances: 1, word: 'Appoint', work: 'Tit'},
+instances: 1, word: 'Appointed', work: 'Tit'},
+instances: 1, word: 'Approve', work: 'Tit'},
+instances: 1, word: 'Approvèd', work: 'Tit'},
+instances: 1, word: 'April', work: 'Tit'},
+instances: 1, word: 'Archer', work: 'Tit'},
+instances: 1, word: 'Archery', work: 'Tit'},
+instances: 1, word: 'Architect', work: 'Tit'},
+instances: 1, word: 'Arcu', work: 'Tit'},
+instances: 1, word: 'Aries', work: 'Tit'},
+instances: 1, word: 'Aright', work: 'Tit'},
+instances: 1, word: 'Arise', work: 'Tit'},
+instances: 1, word: 'Armed', work: 'Tit'},
+instances: 1, word: 'Army', work: 'Tit'},
+instances: 1, word: 'Armèd', work: 'Tit'},
+instances: 1, word: 'Arm\'s', work: 'Tit'},
+instances: 1, word: 'Ascend', work: 'Tit'},
+instances: 1, word: 'Aspen', work: 'Tit'},
+instances: 1, word: 'Aspired', work: 'Tit'},
+instances: 1, word: 'Ass', work: 'Tit'},
+instances: 1, word: 'Assure', work: 'Tit'},
+instances: 1, word: 'Astraea', work: 'Tit'},
+instances: 1, word: 'Attempt', work: 'Tit'},
+instances: 1, word: 'Attended', work: 'Tit'},
+instances: 1, word: 'Attired', work: 'Tit'},
+instances: 1, word: 'Attirèd', work: 'Tit'},
+instances: 1, word: 'Audis', work: 'Tit'},
+instances: 1, word: 'Auditory', work: 'Tit'},
+instances: 1, word: 'Aut', work: 'Tit'},
+instances: 1, word: 'Author', work: 'Tit'},
+instances: 1, word: 'Avaunt', work: 'Tit'},
+instances: 1, word: 'Avenged', work: 'Tit'},
+instances: 1, word: 'Baby', work: 'Tit'},
+instances: 1, word: 'Bachelor', work: 'Tit'},
+instances: 1, word: 'Backs', work: 'Tit'},
+instances: 1, word: 'Bad', work: 'Tit'},
+instances: 1, word: 'Bag', work: 'Tit'},
+instances: 1, word: 'Bait', work: 'Tit'},
+instances: 1, word: 'Baits', work: 'Tit'},
+instances: 1, word: 'Baked', work: 'Tit'},
+instances: 1, word: 'Bakèd', work: 'Tit'},
+instances: 1, word: 'Balance', work: 'Tit'},
+instances: 1, word: 'Bandy', work: 'Tit'},
+instances: 1, word: 'Bane', work: 'Tit'},
+instances: 1, word: 'Bare', work: 'Tit'},
+instances: 1, word: 'Barns', work: 'Tit'},
+instances: 1, word: 'Barred', work: 'Tit'},
+instances: 1, word: 'Barren', work: 'Tit'},
+instances: 1, word: 'Barr\'st', work: 'Tit'},
+instances: 1, word: 'Basin', work: 'Tit'},
+instances: 1, word: 'Bastard', work: 'Tit'},
+instances: 1, word: 'Bastardy', work: 'Tit'},
+instances: 1, word: 'Bathed', work: 'Tit'},
+instances: 1, word: 'Battered', work: 'Tit'},
+instances: 1, word: 'Battleax', work: 'Tit'},
+instances: 1, word: 'Battles', work: 'Tit'},
+instances: 1, word: 'Bauble', work: 'Tit'},
+instances: 1, word: 'Beams', work: 'Tit'},
+instances: 1, word: 'Bearest', work: 'Tit'},
+instances: 1, word: 'Bearing', work: 'Tit'},
+instances: 1, word: 'Bears', work: 'Tit'},
+instances: 1, word: 'Bearwhelps', work: 'Tit'},
+instances: 1, word: 'Beast', work: 'Tit'},
+instances: 1, word: 'Beasts', work: 'Tit'},
+instances: 1, word: 'Beating', work: 'Tit'},
+instances: 1, word: 'Beauteous', work: 'Tit'},
+instances: 1, word: 'Beautify', work: 'Tit'},
+instances: 1, word: 'Beauty', work: 'Tit'},
+instances: 1, word: 'Bedchamber', work: 'Tit'},
+instances: 1, word: 'Bees', work: 'Tit'},
+instances: 1, word: 'Befriend', work: 'Tit'},
+instances: 1, word: 'Befriended', work: 'Tit'},
+instances: 1, word: 'Begging', work: 'Tit'},
+instances: 1, word: 'Begg\'st', work: 'Tit'},
+instances: 1, word: 'Begins', work: 'Tit'},
+instances: 1, word: 'Begot', work: 'Tit'},
+instances: 1, word: 'Beguile', work: 'Tit'},
+instances: 1, word: 'Beheaded', work: 'Tit'},
+instances: 1, word: 'Believest', work: 'Tit'},
+instances: 1, word: 'Belike', work: 'Tit'},
+instances: 1, word: 'Bell', work: 'Tit'},
+instances: 1, word: 'Belongs', work: 'Tit'},
+instances: 1, word: 'Bent', work: 'Tit'},
+instances: 1, word: 'Berayed', work: 'Tit'},
+instances: 1, word: 'Bereft', work: 'Tit'},
+instances: 1, word: 'Berries', work: 'Tit'},
+instances: 1, word: 'Besides', work: 'Tit'},
+instances: 1, word: 'Betide', work: 'Tit'},
+instances: 1, word: 'Betrothed', work: 'Tit'},
+instances: 1, word: 'Betrothèd', work: 'Tit'},
+instances: 1, word: 'Betwixt', work: 'Tit'},
+instances: 1, word: 'Bewet', work: 'Tit'},
+instances: 1, word: 'Bewitched', work: 'Tit'},
+instances: 1, word: 'Bidding', work: 'Tit'},
+instances: 1, word: 'Bide', work: 'Tit'},
+instances: 1, word: 'Bids', work: 'Tit'},
+instances: 1, word: 'Big-boned', work: 'Tit'},
+instances: 1, word: 'Big-swoll\'n', work: 'Tit'},
+instances: 1, word: 'Bird', work: 'Tit'},
+instances: 1, word: 'Bite', work: 'Tit'},
+instances: 1, word: 'Bitterest', work: 'Tit'},
+instances: 1, word: 'Bitterness', work: 'Tit'},
+instances: 1, word: 'Blabbed', work: 'Tit'},
+instances: 1, word: 'Blazoning', work: 'Tit'},
+instances: 1, word: 'Bleed', work: 'Tit'},
+instances: 1, word: 'Bleeding', work: 'Tit'},
+instances: 1, word: 'Bless', work: 'Tit'},
+instances: 1, word: 'Blithe', work: 'Tit'},
+instances: 1, word: 'Blood-drinking', work: 'Tit'},
+instances: 1, word: 'Bloodless', work: 'Tit'},
+instances: 1, word: 'Bloodstained', work: 'Tit'},
+instances: 1, word: 'Bloodstainèd', work: 'Tit'},
+instances: 1, word: 'Blossom', work: 'Tit'},
+instances: 1, word: 'Blot', work: 'Tit'},
+instances: 1, word: 'Blow', work: 'Tit'},
+instances: 1, word: 'Blowse', work: 'Tit'},
+instances: 1, word: 'Boar', work: 'Tit'},
+instances: 1, word: 'Boast', work: 'Tit'},
+instances: 1, word: 'Bodes', work: 'Tit'},
+instances: 1, word: 'Body\'s', work: 'Tit'},
+instances: 1, word: 'Bondmen', work: 'Tit'},
+instances: 1, word: 'Bonjour', work: 'Tit'},
+instances: 1, word: 'Books', work: 'Tit'},
+instances: 1, word: 'Boon', work: 'Tit'},
+instances: 1, word: 'Boots', work: 'Tit'},
+instances: 1, word: 'Booty', work: 'Tit'},
+instances: 1, word: 'Bottomless', work: 'Tit'},
+instances: 1, word: 'Boughs', work: 'Tit'},
+instances: 1, word: 'Bought', work: 'Tit'},
+instances: 1, word: 'Bounds', work: 'Tit'},
+instances: 1, word: 'Bow', work: 'Tit'},
+instances: 1, word: 'Brabble', work: 'Tit'},
+instances: 1, word: 'Brag', work: 'Tit'},
+instances: 1, word: 'Brainsick', work: 'Tit'},
+instances: 1, word: 'Branches', work: 'Tit'},
+instances: 1, word: 'Brass', work: 'Tit'},
+instances: 1, word: 'Brat', work: 'Tit'},
+instances: 1, word: 'Bravely', work: 'Tit'},
+instances: 1, word: 'Braver', work: 'Tit'},
+instances: 1, word: 'Brawl', work: 'Tit'},
+instances: 1, word: 'Brawls', work: 'Tit'},
+instances: 1, word: 'Breast-deep', work: 'Tit'},
+instances: 1, word: 'Breath', work: 'Tit'},
+instances: 1, word: 'Breathed', work: 'Tit'},
+instances: 1, word: 'Bred', work: 'Tit'},
+instances: 1, word: 'Breeder', work: 'Tit'},
+instances: 1, word: 'Breeders', work: 'Tit'},
+instances: 1, word: 'Brethren\'s', work: 'Tit'},
+instances: 1, word: 'Brewed', work: 'Tit'},
+instances: 1, word: 'Brides', work: 'Tit'},
+instances: 1, word: 'Briers', work: 'Tit'},
+instances: 1, word: 'Bright-burning', work: 'Tit'},
+instances: 1, word: 'Brightly', work: 'Tit'},
+instances: 1, word: 'Brine', work: 'Tit'},
+instances: 1, word: 'Brinish', work: 'Tit'},
+instances: 1, word: 'Brink', work: 'Tit'},
+instances: 1, word: 'Broach', work: 'Tit'},
+instances: 1, word: 'Broached', work: 'Tit'},
+instances: 1, word: 'Broad', work: 'Tit'},
+instances: 1, word: 'Broke', work: 'Tit'},
+instances: 1, word: 'Broken', work: 'Tit'},
+instances: 1, word: 'Brood', work: 'Tit'},
+instances: 1, word: 'Brook', work: 'Tit'},
+instances: 1, word: 'Brothers\'', work: 'Tit'},
+instances: 1, word: 'Brutus', work: 'Tit'},
+instances: 1, word: 'Bubbling', work: 'Tit'},
+instances: 1, word: 'Build', work: 'Tit'},
+instances: 1, word: 'Building', work: 'Tit'},
+instances: 1, word: 'Burièd', work: 'Tit'},
+instances: 1, word: 'Burnt', work: 'Tit'},
+instances: 1, word: 'Bush', work: 'Tit'},
+instances: 1, word: 'Busily', work: 'Tit'},
+instances: 1, word: 'Butchered', work: 'Tit'},
+instances: 1, word: 'Buzzing', work: 'Tit'},
+instances: 1, word: 'Cabin', work: 'Tit'},
+instances: 1, word: 'Caesar\'s', work: 'Tit'},
+instances: 1, word: 'Cage', work: 'Tit'},
+instances: 1, word: 'Calf', work: 'Tit'},
+instances: 1, word: 'Call\'st', work: 'Tit'},
+instances: 1, word: 'Cam\'st', work: 'Tit'},
+instances: 1, word: 'Candidatus', work: 'Tit'},
+instances: 1, word: 'Captain', work: 'Tit'},
+instances: 1, word: 'Captive', work: 'Tit'},
+instances: 1, word: 'Captives', work: 'Tit'},
+instances: 1, word: 'Car', work: 'Tit'},
+instances: 1, word: 'Card', work: 'Tit'},
+instances: 1, word: 'Careless', work: 'Tit'},
+instances: 1, word: 'Carrier', work: 'Tit'},
+instances: 1, word: 'Carvèd', work: 'Tit'},
+instances: 1, word: 'Case', work: 'Tit'},
+instances: 1, word: 'Cast', work: 'Tit'},
+instances: 1, word: 'Castaway', work: 'Tit'},
+instances: 1, word: 'Castle', work: 'Tit'},
+instances: 1, word: 'Catch', work: 'Tit'},
+instances: 1, word: 'Caterwauling', work: 'Tit'},
+instances: 1, word: 'Cattle', work: 'Tit'},
+instances: 1, word: 'Caucasus', work: 'Tit'},
+instances: 1, word: 'Causeless', work: 'Tit'},
+instances: 1, word: 'Caves', work: 'Tit'},
+instances: 1, word: 'Cease', work: 'Tit'},
+instances: 1, word: 'Cedars', work: 'Tit'},
+instances: 1, word: 'Cell', work: 'Tit'},
+instances: 1, word: 'Centaurs\'', work: 'Tit'},
+instances: 1, word: 'Center', work: 'Tit'},
+instances: 1, word: 'Cerberus', work: 'Tit'},
+instances: 1, word: 'Ceremonies', work: 'Tit'},
+instances: 1, word: 'Certain', work: 'Tit'},
+instances: 1, word: 'Chafèd', work: 'Tit'},
+instances: 1, word: 'Chains', work: 'Tit'},
+instances: 1, word: 'Challengèd', work: 'Tit'},
+instances: 1, word: 'Champion', work: 'Tit'},
+instances: 1, word: 'Champions', work: 'Tit'},
+instances: 1, word: 'Chances', work: 'Tit'},
+instances: 1, word: 'Chancèd', work: 'Tit'},
+instances: 1, word: 'Change', work: 'Tit'},
+instances: 1, word: 'Changing', work: 'Tit'},
+instances: 1, word: 'Chant', work: 'Tit'},
+instances: 1, word: 'Chaps', work: 'Tit'},
+instances: 1, word: 'Charge', work: 'Tit'},
+instances: 1, word: 'Charges', work: 'Tit'},
+instances: 1, word: 'Chariots', work: 'Tit'},
+instances: 1, word: 'Charity', work: 'Tit'},
+instances: 1, word: 'Charming', work: 'Tit'},
+instances: 1, word: 'Chastisèd', work: 'Tit'},
+instances: 1, word: 'Cheater', work: 'Tit'},
+instances: 1, word: 'Checkered', work: 'Tit'},
+instances: 1, word: 'Cheerful', work: 'Tit'},
+instances: 1, word: 'Chest', work: 'Tit'},
+instances: 1, word: 'Chief', work: 'Tit'},
+instances: 1, word: 'Chiefest', work: 'Tit'},
+instances: 1, word: 'Chilling', work: 'Tit'},
+instances: 1, word: 'Choke', work: 'Tit'},
+instances: 1, word: 'Christen', work: 'Tit'},
+instances: 1, word: 'Churl', work: 'Tit'},
+instances: 1, word: 'Cimmerian', work: 'Tit'},
+instances: 1, word: 'Cinders', work: 'Tit'},
+instances: 1, word: 'Circle', work: 'Tit'},
+instances: 1, word: 'Circling', work: 'Tit'},
+instances: 1, word: 'Circumscribèd', work: 'Tit'},
+instances: 1, word: 'Circumstance', work: 'Tit'},
+instances: 1, word: 'Citing', work: 'Tit'},
+instances: 1, word: 'Civil', work: 'Tit'},
+instances: 1, word: 'Clean', work: 'Tit'},
+instances: 1, word: 'Cleanly', work: 'Tit'},
+instances: 1, word: 'Clear', work: 'Tit'},
+instances: 1, word: 'Clearness', work: 'Tit'},
+instances: 1, word: 'Cleave', work: 'Tit'},
+instances: 1, word: 'Climbeth', work: 'Tit'},
+instances: 1, word: 'Clime', work: 'Tit'},
+instances: 1, word: 'Closet', work: 'Tit'},
+instances: 1, word: 'Closure', work: 'Tit'},
+instances: 1, word: 'Closèd', work: 'Tit'},
+instances: 1, word: 'Cloud', work: 'Tit'},
+instances: 1, word: 'Clouds', work: 'Tit'},
+instances: 1, word: 'Cloyed', work: 'Tit'},
+instances: 1, word: 'Coach', work: 'Tit'},
+instances: 1, word: 'Cocytus\'', work: 'Tit'},
+instances: 1, word: 'Codding', work: 'Tit'},
+instances: 1, word: 'Coffin', work: 'Tit'},
+instances: 1, word: 'Coffins', work: 'Tit'},
+instances: 1, word: 'Coil', work: 'Tit'},
+instances: 1, word: 'Coin', work: 'Tit'},
+instances: 1, word: 'Cometh', work: 'Tit'},
+instances: 1, word: 'Comfortless', work: 'Tit'},
+instances: 1, word: 'Comforts', work: 'Tit'},
+instances: 1, word: 'Command', work: 'Tit'},
+instances: 1, word: 'Commanded', work: 'Tit'},
+instances: 1, word: 'Commiseration', work: 'Tit'},
+instances: 1, word: 'Committed', work: 'Tit'},
+instances: 1, word: 'Commonwealth', work: 'Tit'},
+instances: 1, word: 'Commonweal\'s', work: 'Tit'},
+instances: 1, word: 'Compact', work: 'Tit'},
+instances: 1, word: 'Compass', work: 'Tit'},
+instances: 1, word: 'Compassion', work: 'Tit'},
+instances: 1, word: 'Compassionate', work: 'Tit'},
+instances: 1, word: 'Competitor', work: 'Tit'},
+instances: 1, word: 'Competitors', work: 'Tit'},
+instances: 1, word: 'Complainer', work: 'Tit'},
+instances: 1, word: 'Complots', work: 'Tit'},
+instances: 1, word: 'Com\'st', work: 'Tit'},
+instances: 1, word: 'Concealèd', work: 'Tit'},
+instances: 1, word: 'Conceit', work: 'Tit'},
+instances: 1, word: 'Condemnèd', work: 'Tit'},
+instances: 1, word: 'Conduct', work: 'Tit'},
+instances: 1, word: 'Conducted', work: 'Tit'},
+instances: 1, word: 'Conduit', work: 'Tit'},
+instances: 1, word: 'Confer', work: 'Tit'},
+instances: 1, word: 'Confident', work: 'Tit'},
+instances: 1, word: 'Conflict', work: 'Tit'},
+instances: 1, word: 'Confound', work: 'Tit'},
+instances: 1, word: 'Confronted', work: 'Tit'},
+instances: 1, word: 'Confusèd', work: 'Tit'},
+instances: 1, word: 'Conqueror', work: 'Tit'},
+instances: 1, word: 'Conquerèd', work: 'Tit'},
+instances: 1, word: 'Conscience', work: 'Tit'},
+instances: 1, word: 'Conspirator', work: 'Tit'},
+instances: 1, word: 'Constrained', work: 'Tit'},
+instances: 1, word: 'Consult', work: 'Tit'},
+instances: 1, word: 'Consume', work: 'Tit'},
+instances: 1, word: 'Consumed', work: 'Tit'},
+instances: 1, word: 'Consuming', work: 'Tit'},
+instances: 1, word: 'Consummate', work: 'Tit'},
+instances: 1, word: 'Contemplation', work: 'Tit'},
+instances: 1, word: 'Contempts', work: 'Tit'},
+instances: 1, word: 'Continence', work: 'Tit'},
+instances: 1, word: 'Continual', work: 'Tit'},
+instances: 1, word: 'Contriver', work: 'Tit'},
+instances: 1, word: 'Controller', work: 'Tit'},
+instances: 1, word: 'Controlment', work: 'Tit'},
+instances: 1, word: 'Convenient', work: 'Tit'},
+instances: 1, word: 'Cook', work: 'Tit'},
+instances: 1, word: 'Cooling', work: 'Tit'},
+instances: 1, word: 'Cord', work: 'Tit'},
+instances: 1, word: 'Cordial', work: 'Tit'},
+instances: 1, word: 'Coriolanus', work: 'Tit'},
+instances: 1, word: 'Corpse', work: 'Tit'},
+instances: 1, word: 'Corrupted', work: 'Tit'},
+instances: 1, word: 'Couch', work: 'Tit'},
+instances: 1, word: 'Counsel-keeping', work: 'Tit'},
+instances: 1, word: 'Counsels', work: 'Tit'},
+instances: 1, word: 'Countenance', work: 'Tit'},
+instances: 1, word: 'Countless', work: 'Tit'},
+instances: 1, word: 'Countryman', work: 'Tit'},
+instances: 1, word: 'Countrymen', work: 'Tit'},
+instances: 1, word: 'Couple', work: 'Tit'},
+instances: 1, word: 'Courtesy', work: 'Tit'},
+instances: 1, word: 'Cousins', work: 'Tit'},
+instances: 1, word: 'Covered', work: 'Tit'},
+instances: 1, word: 'Cow', work: 'Tit'},
+instances: 1, word: 'Coward', work: 'Tit'},
+instances: 1, word: 'Cowardice', work: 'Tit'},
+instances: 1, word: 'Cozened', work: 'Tit'},
+instances: 1, word: 'Crack', work: 'Tit'},
+instances: 1, word: 'Craftier', work: 'Tit'},
+instances: 1, word: 'Craves', work: 'Tit'},
+instances: 1, word: 'Creature', work: 'Tit'},
+instances: 1, word: 'Creatures', work: 'Tit'},
+instances: 1, word: 'Credulous', work: 'Tit'},
+instances: 1, word: 'Crest', work: 'Tit'},
+instances: 1, word: 'Crevice', work: 'Tit'},
+instances: 1, word: 'Cross', work: 'Tit'},
+instances: 1, word: 'Crown', work: 'Tit'},
+instances: 1, word: 'Crying', work: 'Tit'},
+instances: 1, word: 'Cuique', work: 'Tit'},
+instances: 1, word: 'Culled', work: 'Tit'},
+instances: 1, word: 'Cunning', work: 'Tit'},
+instances: 1, word: 'Cunningly', work: 'Tit'},
+instances: 1, word: 'Curds', work: 'Tit'},
+instances: 1, word: 'Curs', work: 'Tit'},
+instances: 1, word: 'Cursed', work: 'Tit'},
+instances: 1, word: 'Curses', work: 'Tit'},
+instances: 1, word: 'Curtained', work: 'Tit'},
+instances: 1, word: 'Curtsy', work: 'Tit'},
+instances: 1, word: 'Cyclops\'', work: 'Tit'},
+instances: 1, word: 'Dagger', work: 'Tit'},
+instances: 1, word: 'Dagger\'s', work: 'Tit'},
+instances: 1, word: 'Daintily', work: 'Tit'},
+instances: 1, word: 'Damnèd', work: 'Tit'},
+instances: 1, word: 'Danced', work: 'Tit'},
+instances: 1, word: 'Dancing', work: 'Tit'},
+instances: 1, word: 'Dandle', work: 'Tit'},
+instances: 1, word: 'Dangers', work: 'Tit'},
+instances: 1, word: 'Dar\'st', work: 'Tit'},
+instances: 1, word: 'Date', work: 'Tit'},
+instances: 1, word: 'Daunt', work: 'Tit'},
+instances: 1, word: 'Dawning', work: 'Tit'},
+instances: 1, word: 'Dazzle', work: 'Tit'},
+instances: 1, word: 'Dearly', work: 'Tit'},
+instances: 1, word: 'Debated', work: 'Tit'},
+instances: 1, word: 'Deceasèd', work: 'Tit'},
+instances: 1, word: 'Deceit', work: 'Tit'},
+instances: 1, word: 'Deciphered', work: 'Tit'},
+instances: 1, word: 'Decreed', work: 'Tit'},
+instances: 1, word: 'Decrees', work: 'Tit'},
+instances: 1, word: 'Deeper', work: 'Tit'},
+instances: 1, word: 'Deeply', work: 'Tit'},
+instances: 1, word: 'Deer', work: 'Tit'},
+instances: 1, word: 'Defend', work: 'Tit'},
+instances: 1, word: 'Defended', work: 'Tit'},
+instances: 1, word: 'Defender', work: 'Tit'},
+instances: 1, word: 'Deflower', work: 'Tit'},
+instances: 1, word: 'Degenerate', work: 'Tit'},
+instances: 1, word: 'Delays', work: 'Tit'},
+instances: 1, word: 'Delicious', work: 'Tit'},
+instances: 1, word: 'Delightful', work: 'Tit'},
+instances: 1, word: 'Deliverèd', work: 'Tit'},
+instances: 1, word: 'Deluge', work: 'Tit'},
+instances: 1, word: 'Denied', work: 'Tit'},
+instances: 1, word: 'Denies', work: 'Tit'},
+instances: 1, word: 'Depart', work: 'Tit'},
+instances: 1, word: 'Descend', work: 'Tit'},
+instances: 1, word: 'Describes', work: 'Tit'},
+instances: 1, word: 'Deserve', work: 'Tit'},
+instances: 1, word: 'Desirous', work: 'Tit'},
+instances: 1, word: 'Despair', work: 'Tit'},
+instances: 1, word: 'Despise', work: 'Tit'},
+instances: 1, word: 'Despised', work: 'Tit'},
+instances: 1, word: 'Despite', work: 'Tit'},
+instances: 1, word: 'Despiteful', work: 'Tit'},
+instances: 1, word: 'Destroy', work: 'Tit'},
+instances: 1, word: 'Detect', work: 'Tit'},
+instances: 1, word: 'Determine', work: 'Tit'},
+instances: 1, word: 'Determined', work: 'Tit'},
+instances: 1, word: 'Detestable', work: 'Tit'},
+instances: 1, word: 'Devil\'s', work: 'Tit'},
+instances: 1, word: 'Devise', work: 'Tit'},
+instances: 1, word: 'Devised', work: 'Tit'},
+instances: 1, word: 'Devoid', work: 'Tit'},
+instances: 1, word: 'Devourers', work: 'Tit'},
+instances: 1, word: 'Devouring', work: 'Tit'},
+instances: 1, word: 'Dew', work: 'Tit'},
+instances: 1, word: 'Diadem', work: 'Tit'},
+instances: 1, word: 'Dido', work: 'Tit'},
+instances: 1, word: 'Dido\'s', work: 'Tit'},
+instances: 1, word: 'Difference', work: 'Tit'},
+instances: 1, word: 'Digged', work: 'Tit'},
+instances: 1, word: 'Digress', work: 'Tit'},
+instances: 1, word: 'Dim', work: 'Tit'},
+instances: 1, word: 'Dimmed', work: 'Tit'},
+instances: 1, word: 'Direful', work: 'Tit'},
+instances: 1, word: 'Discharged', work: 'Tit'},
+instances: 1, word: 'Discontent', work: 'Tit'},
+instances: 1, word: 'Discontents', work: 'Tit'},
+instances: 1, word: 'Discord\'s', work: 'Tit'},
+instances: 1, word: 'Discover', work: 'Tit'},
+instances: 1, word: 'Discovered', work: 'Tit'},
+instances: 1, word: 'Discoverèd', work: 'Tit'},
+instances: 1, word: 'Disdaineth', work: 'Tit'},
+instances: 1, word: 'Disgrace', work: 'Tit'},
+instances: 1, word: 'Dismall\'st', work: 'Tit'},
+instances: 1, word: 'Dismal\'st', work: 'Tit'},
+instances: 1, word: 'Dismount', work: 'Tit'},
+instances: 1, word: 'Dismounted', work: 'Tit'},
+instances: 1, word: 'Dispatch', work: 'Tit'},
+instances: 1, word: 'Dispatched', work: 'Tit'},
+instances: 1, word: 'Disperse', work: 'Tit'},
+instances: 1, word: 'Display', work: 'Tit'},
+instances: 1, word: 'Displeased', work: 'Tit'},
+instances: 1, word: 'Dispose', work: 'Tit'},
+instances: 1, word: 'Dissemble', work: 'Tit'},
+instances: 1, word: 'Dissembled', work: 'Tit'},
+instances: 1, word: 'Distil', work: 'Tit'},
+instances: 1, word: 'Distilled', work: 'Tit'},
+instances: 1, word: 'Distract', work: 'Tit'},
+instances: 1, word: 'Distress', work: 'Tit'},
+instances: 1, word: 'Disturbed', work: 'Tit'},
+instances: 1, word: 'Disturbers', work: 'Tit'},
+instances: 1, word: 'Dive', work: 'Tit'},
+instances: 1, word: 'Dogs', work: 'Tit'},
+instances: 1, word: 'Doing', work: 'Tit'},
+instances: 1, word: 'Don', work: 'Tit'},
+instances: 1, word: 'Dote', work: 'Tit'},
+instances: 1, word: 'Doubted', work: 'Tit'},
+instances: 1, word: 'Downfall', work: 'Tit'},
+instances: 1, word: 'Downwards', work: 'Tit'},
+instances: 1, word: 'Drank', work: 'Tit'},
+instances: 1, word: 'Dreads', work: 'Tit'},
+instances: 1, word: 'Dream', work: 'Tit'},
+instances: 1, word: 'Dreary', work: 'Tit'},
+instances: 1, word: 'Drinks', work: 'Tit'},
+instances: 1, word: 'Drive', work: 'Tit'},
+instances: 1, word: 'Drop', work: 'Tit'},
+instances: 1, word: 'Dropped', work: 'Tit'},
+instances: 1, word: 'Drought', work: 'Tit'},
+instances: 1, word: 'Drugs', work: 'Tit'},
+instances: 1, word: 'Drum', work: 'Tit'},
+instances: 1, word: 'Drunkard', work: 'Tit'},
+instances: 1, word: 'Dumps', work: 'Tit'},
+instances: 1, word: 'Durst', work: 'Tit'},
+instances: 1, word: 'Eagle', work: 'Tit'},
+instances: 1, word: 'Early', work: 'Tit'},
+instances: 1, word: 'Earnest', work: 'Tit'},
+instances: 1, word: 'Earnestly', work: 'Tit'},
+instances: 1, word: 'Earthly', work: 'Tit'},
+instances: 1, word: 'Earth\'s', work: 'Tit'},
+instances: 1, word: 'Easily', work: 'Tit'},
+instances: 1, word: 'East', work: 'Tit'},
+instances: 1, word: 'Eating', work: 'Tit'},
+instances: 1, word: 'Ecstasies', work: 'Tit'},
+instances: 1, word: 'Ecstasy', work: 'Tit'},
+instances: 1, word: 'Edge', work: 'Tit'},
+instances: 1, word: 'Effected', work: 'Tit'},
+instances: 1, word: 'Effectless', work: 'Tit'},
+instances: 1, word: 'Effects', work: 'Tit'},
+instances: 1, word: 'Effectual', work: 'Tit'},
+instances: 1, word: 'Effectually', work: 'Tit'},
+instances: 1, word: 'Eget', work: 'Tit'},
+instances: 1, word: 'Elect', work: 'Tit'},
+instances: 1, word: 'Eloquence', work: 'Tit'},
+instances: 1, word: 'Embracement', work: 'Tit'},
+instances: 1, word: 'Emperal\'s', work: 'Tit'},
+instances: 1, word: 'Emperial', work: 'Tit'},
+instances: 1, word: 'Enacts', work: 'Tit'},
+instances: 1, word: 'Encamp', work: 'Tit'},
+instances: 1, word: 'Enceladus', work: 'Tit'},
+instances: 1, word: 'Enchant', work: 'Tit'},
+instances: 1, word: 'Enchanting', work: 'Tit'},
+instances: 1, word: 'Encounter', work: 'Tit'},
+instances: 1, word: 'Encountered', work: 'Tit'},
+instances: 1, word: 'Enemies\'', work: 'Tit'},
+instances: 1, word: 'Enforced', work: 'Tit'},
+instances: 1, word: 'Enfranchisèd', work: 'Tit'},
+instances: 1, word: 'Engines', work: 'Tit'},
+instances: 1, word: 'Enjoyed', work: 'Tit'},
+instances: 1, word: 'Ensigns', work: 'Tit'},
+instances: 1, word: 'Entertain', work: 'Tit'},
+instances: 1, word: 'Entrance', work: 'Tit'},
+instances: 1, word: 'Envious', work: 'Tit'},
+instances: 1, word: 'Environed', work: 'Tit'},
+instances: 1, word: 'Envy', work: 'Tit'},
+instances: 1, word: 'Envy\'s', work: 'Tit'},
+instances: 1, word: 'Equal', work: 'Tit'},
+instances: 1, word: 'Escape', work: 'Tit'},
+instances: 1, word: 'Espouse', work: 'Tit'},
+instances: 1, word: 'Espoused', work: 'Tit'},
+instances: 1, word: 'Etna', work: 'Tit'},
+instances: 1, word: 'Eunuch', work: 'Tit'},
+instances: 1, word: 'Events', work: 'Tit'},
+instances: 1, word: 'Everburning', work: 'Tit'},
+instances: 1, word: 'Evermore', work: 'Tit'},
+instances: 1, word: 'Everyone', work: 'Tit'},
+instances: 1, word: 'Evils', work: 'Tit'},
+instances: 1, word: 'Ev\'n', work: 'Tit'},
+instances: 1, word: 'Excellent', work: 'Tit'},
+instances: 1, word: 'Exclaims', work: 'Tit'},
+instances: 1, word: 'Excuse', work: 'Tit'},
+instances: 1, word: 'Execrable', work: 'Tit'},
+instances: 1, word: 'Exile', work: 'Tit'},
+instances: 1, word: 'Expecting', work: 'Tit'},
+instances: 1, word: 'Experience', work: 'Tit'},
+instances: 1, word: 'Experiments', work: 'Tit'},
+instances: 1, word: 'Exploits', work: 'Tit'},
+instances: 1, word: 'Expressed', work: 'Tit'},
+instances: 1, word: 'Extent', work: 'Tit'},
+instances: 1, word: 'Extreme', work: 'Tit'},
+instances: 1, word: 'Extremes', work: 'Tit'},
+instances: 1, word: 'Extremity', work: 'Tit'},
+instances: 1, word: 'E\'en', work: 'Tit'},
+instances: 1, word: 'Fact', work: 'Tit'},
+instances: 1, word: 'Factions', work: 'Tit'},
+instances: 1, word: 'Faggot', work: 'Tit'},
+instances: 1, word: 'Faint', work: 'Tit'},
+instances: 1, word: 'Faint-hearted', work: 'Tit'},
+instances: 1, word: 'Fainting', work: 'Tit'},
+instances: 1, word: 'Fair-faced', work: 'Tit'},
+instances: 1, word: 'Faith', work: 'Tit'},
+instances: 1, word: 'Faithful', work: 'Tit'},
+instances: 1, word: 'Fallen', work: 'Tit'},
+instances: 1, word: 'False', work: 'Tit'},
+instances: 1, word: 'Fame\'s', work: 'Tit'},
+instances: 1, word: 'Fas', work: 'Tit'},
+instances: 1, word: 'Fastened', work: 'Tit'},
+instances: 1, word: 'Faster', work: 'Tit'},
+instances: 1, word: 'Fat', work: 'Tit'},
+instances: 1, word: 'Fatal-plotted', work: 'Tit'},
+instances: 1, word: 'Fathers', work: 'Tit'},
+instances: 1, word: 'Fathers\'', work: 'Tit'},
+instances: 1, word: 'Favorers', work: 'Tit'},
+instances: 1, word: 'Favors', work: 'Tit'},
+instances: 1, word: 'Fealty', work: 'Tit'},
+instances: 1, word: 'Fee', work: 'Tit'},
+instances: 1, word: 'Feebleness', work: 'Tit'},
+instances: 1, word: 'Feeding', work: 'Tit'},
+instances: 1, word: 'Feeling', work: 'Tit'},
+instances: 1, word: 'Feignèd', work: 'Tit'},
+instances: 1, word: 'Fellow', work: 'Tit'},
+instances: 1, word: 'Fere', work: 'Tit'},
+instances: 1, word: 'Fetter', work: 'Tit'},
+instances: 1, word: 'Fettered', work: 'Tit'},
+instances: 1, word: 'Few', work: 'Tit'},
+instances: 1, word: 'Fiend', work: 'Tit'},
+instances: 1, word: 'Fiendlike', work: 'Tit'},
+instances: 1, word: 'Fiends', work: 'Tit'},
+instances: 1, word: 'Fierce', work: 'Tit'},
+instances: 1, word: 'Fights', work: 'Tit'},
+instances: 1, word: 'File', work: 'Tit'},
+instances: 1, word: 'Filling', work: 'Tit'},
+instances: 1, word: 'Findst', work: 'Tit'},
+instances: 1, word: 'Finger', work: 'Tit'},
+instances: 1, word: 'Fingers', work: 'Tit'},
+instances: 1, word: 'Firmament', work: 'Tit'},
+instances: 1, word: 'Firmly', work: 'Tit'},
+instances: 1, word: 'First-born', work: 'Tit'},
+instances: 1, word: 'Fish', work: 'Tit'},
+instances: 1, word: 'Five-and-twenty', work: 'Tit'},
+instances: 1, word: 'Fix', work: 'Tit'},
+instances: 1, word: 'Flash', work: 'Tit'},
+instances: 1, word: 'Flatter', work: 'Tit'},
+instances: 1, word: 'Flattering', work: 'Tit'},
+instances: 1, word: 'Flatt\'ry', work: 'Tit'},
+instances: 1, word: 'Fled', work: 'Tit'},
+instances: 1, word: 'Fleece', work: 'Tit'},
+instances: 1, word: 'Flight', work: 'Tit'},
+instances: 1, word: 'Floods', work: 'Tit'},
+instances: 1, word: 'Flourish', work: 'Tit'},
+instances: 1, word: 'Flourished', work: 'Tit'},
+instances: 1, word: 'Flourishing', work: 'Tit'},
+instances: 1, word: 'Flouted', work: 'Tit'},
+instances: 1, word: 'Flow', work: 'Tit'},
+instances: 1, word: 'Flowered', work: 'Tit'},
+instances: 1, word: 'Foemen\'s', work: 'Tit'},
+instances: 1, word: 'Fog', work: 'Tit'},
+instances: 1, word: 'Folded', work: 'Tit'},
+instances: 1, word: 'Follows', work: 'Tit'},
+instances: 1, word: 'Fond', work: 'Tit'},
+instances: 1, word: 'Food', work: 'Tit'},
+instances: 1, word: 'Footman', work: 'Tit'},
+instances: 1, word: 'Forbear', work: 'Tit'},
+instances: 1, word: 'Forbid', work: 'Tit'},
+instances: 1, word: 'Forever', work: 'Tit'},
+instances: 1, word: 'Forfend', work: 'Tit'},
+instances: 1, word: 'Forge', work: 'Tit'},
+instances: 1, word: 'Forgot', work: 'Tit'},
+instances: 1, word: 'Forsooth', work: 'Tit'},
+instances: 1, word: 'Forswear', work: 'Tit'},
+instances: 1, word: 'Forthwith', work: 'Tit'},
+instances: 1, word: 'Fortunate', work: 'Tit'},
+instances: 1, word: 'Fortune\'s', work: 'Tit'},
+instances: 1, word: 'Forty', work: 'Tit'},
+instances: 1, word: 'Forward', work: 'Tit'},
+instances: 1, word: 'Forwhy', work: 'Tit'},
+instances: 1, word: 'Foster', work: 'Tit'},
+instances: 1, word: 'Foul-spoken', work: 'Tit'},
+instances: 1, word: 'Fowl', work: 'Tit'},
+instances: 1, word: 'Frankly', work: 'Tit'},
+instances: 1, word: 'Franticly', work: 'Tit'},
+instances: 1, word: 'Fratrum', work: 'Tit'},
+instances: 1, word: 'Fraught', work: 'Tit'},
+instances: 1, word: 'Free', work: 'Tit'},
+instances: 1, word: 'Freedom', work: 'Tit'},
+instances: 1, word: 'Fright', work: 'Tit'},
+instances: 1, word: 'Frost', work: 'Tit'},
+instances: 1, word: 'Frozen', work: 'Tit'},
+instances: 1, word: 'Fumble', work: 'Tit'},
+instances: 1, word: 'Funerals', work: 'Tit'},
+instances: 1, word: 'Furious', work: 'Tit'},
+instances: 1, word: 'Further', work: 'Tit'},
+instances: 1, word: 'Gad', work: 'Tit'},
+instances: 1, word: 'Gain', work: 'Tit'},
+instances: 1, word: 'Gallant\'st', work: 'Tit'},
+instances: 1, word: 'Galled', work: 'Tit'},
+instances: 1, word: 'Gallops', work: 'Tit'},
+instances: 1, word: 'Game', work: 'Tit'},
+instances: 1, word: 'Gaping', work: 'Tit'},
+instances: 1, word: 'Gate', work: 'Tit'},
+instances: 1, word: 'Gear', work: 'Tit'},
+instances: 1, word: 'Gentleman', work: 'Tit'},
+instances: 1, word: 'Gentleness', work: 'Tit'},
+instances: 1, word: 'Gently', work: 'Tit'},
+instances: 1, word: 'Gibbet-maker', work: 'Tit'},
+instances: 1, word: 'Gift', work: 'Tit'},
+instances: 1, word: 'Gilded', work: 'Tit'},
+instances: 1, word: 'Gilt', work: 'Tit'},
+instances: 1, word: 'Glad', work: 'Tit'},
+instances: 1, word: 'Gleeful', work: 'Tit'},
+instances: 1, word: 'Glideth', work: 'Tit'},
+instances: 1, word: 'Glistering', work: 'Tit'},
+instances: 1, word: 'Globe', work: 'Tit'},
+instances: 1, word: 'Gloomy', work: 'Tit'},
+instances: 1, word: 'Glorious', work: 'Tit'},
+instances: 1, word: 'Glory', work: 'Tit'},
+instances: 1, word: 'Gloze', work: 'Tit'},
+instances: 1, word: 'Glued', work: 'Tit'},
+instances: 1, word: 'Gnats', work: 'Tit'},
+instances: 1, word: 'Goat', work: 'Tit'},
+instances: 1, word: 'Goddess', work: 'Tit'},
+instances: 1, word: 'Goodliest', work: 'Tit'},
+instances: 1, word: 'Gossip', work: 'Tit'},
+instances: 1, word: 'Got', work: 'Tit'},
+instances: 1, word: 'Governed', work: 'Tit'},
+instances: 1, word: 'Governor', work: 'Tit'},
+instances: 1, word: 'Graced', work: 'Tit'},
+instances: 1, word: 'Grammar', work: 'Tit'},
+instances: 1, word: 'Grandfather', work: 'Tit'},
+instances: 1, word: 'Grandsire\'s', work: 'Tit'},
+instances: 1, word: 'Granted', work: 'Tit'},
+instances: 1, word: 'Grass', work: 'Tit'},
+instances: 1, word: 'Gratulate', work: 'Tit'},
+instances: 1, word: 'Graves', work: 'Tit'},
+instances: 1, word: 'Gray', work: 'Tit'},
+instances: 1, word: 'Greater', work: 'Tit'},
+instances: 1, word: 'Greatest', work: 'Tit'},
+instances: 1, word: 'Greatly', work: 'Tit'},
+instances: 1, word: 'Greets', work: 'Tit'},
+instances: 1, word: 'Grieved', work: 'Tit'},
+instances: 1, word: 'Grieves', work: 'Tit'},
+instances: 1, word: 'Groan', work: 'Tit'},
+instances: 1, word: 'Groaning', work: 'Tit'},
+instances: 1, word: 'Groans', work: 'Tit'},
+instances: 1, word: 'Grooms', work: 'Tit'},
+instances: 1, word: 'Groves', work: 'Tit'},
+instances: 1, word: 'Growing', work: 'Tit'},
+instances: 1, word: 'Grown', work: 'Tit'},
+instances: 1, word: 'Grudge', work: 'Tit'},
+instances: 1, word: 'Guard', work: 'Tit'},
+instances: 1, word: 'Guest', work: 'Tit'},
+instances: 1, word: 'Guileful', work: 'Tit'},
+instances: 1, word: 'Gusts', work: 'Tit'},
+instances: 1, word: 'Habiliment', work: 'Tit'},
+instances: 1, word: 'Habited', work: 'Tit'},
+instances: 1, word: 'Halter', work: 'Tit'},
+instances: 1, word: 'Hammering', work: 'Tit'},
+instances: 1, word: 'Handless', work: 'Tit'},
+instances: 1, word: 'Handmaid', work: 'Tit'},
+instances: 1, word: 'Handsomely', work: 'Tit'},
+instances: 1, word: 'Hanging', work: 'Tit'},
+instances: 1, word: 'Hap', work: 'Tit'},
+instances: 1, word: 'Harm', work: 'Tit'},
+instances: 1, word: 'Harmless', work: 'Tit'},
+instances: 1, word: 'Harmony', work: 'Tit'},
+instances: 1, word: 'Harms', work: 'Tit'},
+instances: 1, word: 'Hart', work: 'Tit'},
+instances: 1, word: 'Hatch', work: 'Tit'},
+instances: 1, word: 'Hate', work: 'Tit'},
+instances: 1, word: 'Haughty', work: 'Tit'},
+instances: 1, word: 'Haystalks', work: 'Tit'},
+instances: 1, word: 'Headless', work: 'Tit'},
+instances: 1, word: 'Headlong', work: 'Tit'},
+instances: 1, word: 'Heal', work: 'Tit'},
+instances: 1, word: 'Health', work: 'Tit'},
+instances: 1, word: 'Heap', work: 'Tit'},
+instances: 1, word: 'Hears', work: 'Tit'},
+instances: 1, word: 'Heart\'s', work: 'Tit'},
+instances: 1, word: 'Heat', work: 'Tit'},
+instances: 1, word: 'Heavenly', work: 'Tit'},
+instances: 1, word: 'Heaves', work: 'Tit'},
+instances: 1, word: 'Heaviness', work: 'Tit'},
+instances: 1, word: 'Hector\'s', work: 'Tit'},
+instances: 1, word: 'Hecuba', work: 'Tit'},
+instances: 1, word: 'Heels', work: 'Tit'},
+instances: 1, word: 'Hellhounds', work: 'Tit'},
+instances: 1, word: 'Henceforth', work: 'Tit'},
+instances: 1, word: 'Herbs', work: 'Tit'},
+instances: 1, word: 'Hermits', work: 'Tit'},
+instances: 1, word: 'Hers', work: 'Tit'},
+instances: 1, word: 'Hewed', work: 'Tit'},
+instances: 1, word: 'He\'ll', work: 'Tit'},
+instances: 1, word: 'He\'s', work: 'Tit'},
+instances: 1, word: 'Hid', work: 'Tit'},
+instances: 1, word: 'Hie', work: 'Tit'},
+instances: 1, word: 'High-resolvèd', work: 'Tit'},
+instances: 1, word: 'High-witted', work: 'Tit'},
+instances: 1, word: 'Highest', work: 'Tit'},
+instances: 1, word: 'Highest-peering', work: 'Tit'},
+instances: 1, word: 'Highness\'', work: 'Tit'},
+instances: 1, word: 'Hills', work: 'Tit'},
+instances: 1, word: 'Hissing', work: 'Tit'},
+instances: 1, word: 'Ho', work: 'Tit'},
+instances: 1, word: 'Holds', work: 'Tit'},
+instances: 1, word: 'Holla', work: 'Tit'},
+instances: 1, word: 'Holp\'st', work: 'Tit'},
+instances: 1, word: 'Honest', work: 'Tit'},
+instances: 1, word: 'Honesty', work: 'Tit'},
+instances: 1, word: 'Honey-stalks', work: 'Tit'},
+instances: 1, word: 'Honeydew', work: 'Tit'},
+instances: 1, word: 'Honorably', work: 'Tit'},
+instances: 1, word: 'Hopeful', work: 'Tit'},
+instances: 1, word: 'Horn', work: 'Tit'},
+instances: 1, word: 'Horning', work: 'Tit'},
+instances: 1, word: 'Hostage', work: 'Tit'},
+instances: 1, word: 'Hostages', work: 'Tit'},
+instances: 1, word: 'Hot', work: 'Tit'},
+instances: 1, word: 'Hottest', work: 'Tit'},
+instances: 1, word: 'Hourly', work: 'Tit'},
+instances: 1, word: 'Hours', work: 'Tit'},
+instances: 1, word: 'Hour\'s', work: 'Tit'},
+instances: 1, word: 'Household\'s', work: 'Tit'},
+instances: 1, word: 'Hover', work: 'Tit'},
+instances: 1, word: 'However', work: 'Tit'},
+instances: 1, word: 'Hug', work: 'Tit'},
+instances: 1, word: 'Humble', work: 'Tit'},
+instances: 1, word: 'Humors', work: 'Tit'},
+instances: 1, word: 'Hundred', work: 'Tit'},
+instances: 1, word: 'Hunted', work: 'Tit'},
+instances: 1, word: 'Hurl', work: 'Tit'},
+instances: 1, word: 'Hymenaeus', work: 'Tit'},
+instances: 1, word: 'Hyperion\'s', work: 'Tit'},
+instances: 1, word: 'Iaculis', work: 'Tit'},
+instances: 1, word: 'Idiot', work: 'Tit'},
+instances: 1, word: 'Idle', work: 'Tit'},
+instances: 1, word: 'Ignomy', work: 'Tit'},
+instances: 1, word: 'Ill-favored', work: 'Tit'},
+instances: 1, word: 'Immediately', work: 'Tit'},
+instances: 1, word: 'Impiety', work: 'Tit'},
+instances: 1, word: 'Impregnable', work: 'Tit'},
+instances: 1, word: 'Imprisoned', work: 'Tit'},
+instances: 1, word: 'Incarnate', work: 'Tit'},
+instances: 1, word: 'Incense', work: 'Tit'},
+instances: 1, word: 'Incorporate', work: 'Tit'},
+instances: 1, word: 'Increase', work: 'Tit'},
+instances: 1, word: 'Indifferently', work: 'Tit'},
+instances: 1, word: 'Indignity', work: 'Tit'},
+instances: 1, word: 'Induce', work: 'Tit'},
+instances: 1, word: 'Infants', work: 'Tit'},
+instances: 1, word: 'Infernal', work: 'Tit'},
+instances: 1, word: 'Infinite', work: 'Tit'},
+instances: 1, word: 'Infuse', work: 'Tit'},
+instances: 1, word: 'Ingrateful', work: 'Tit'},
+instances: 1, word: 'Inherit', work: 'Tit'},
+instances: 1, word: 'Ink', work: 'Tit'},
+instances: 1, word: 'Inmost', work: 'Tit'},
+instances: 1, word: 'Innocence', work: 'Tit'},
+instances: 1, word: 'Inquire', work: 'Tit'},
+instances: 1, word: 'Insatiate', work: 'Tit'},
+instances: 1, word: 'Insinuate', work: 'Tit'},
+instances: 1, word: 'Inspire', work: 'Tit'},
+instances: 1, word: 'Inspired', work: 'Tit'},
+instances: 1, word: 'Instruct', work: 'Tit'},
+instances: 1, word: 'Insult', work: 'Tit'},
+instances: 1, word: 'Integer', work: 'Tit'},
+instances: 1, word: 'Integrity', work: 'Tit'},
+instances: 1, word: 'Intent', work: 'Tit'},
+instances: 1, word: 'Intercept', work: 'Tit'},
+instances: 1, word: 'Intercepted', work: 'Tit'},
+instances: 1, word: 'Interest', work: 'Tit'},
+instances: 1, word: 'Interpret', work: 'Tit'},
+instances: 1, word: 'Interrupter', work: 'Tit'},
+instances: 1, word: 'Intolerable', work: 'Tit'},
+instances: 1, word: 'Intrude', work: 'Tit'},
+instances: 1, word: 'Intruder', work: 'Tit'},
+instances: 1, word: 'Issuing', work: 'Tit'},
+instances: 1, word: 'Jar', work: 'Tit'},
+instances: 1, word: 'Jewels', work: 'Tit'},
+instances: 1, word: 'Joints', work: 'Tit'},
+instances: 1, word: 'Jovem', work: 'Tit'},
+instances: 1, word: 'Joyless', work: 'Tit'},
+instances: 1, word: 'Joys', work: 'Tit'},
+instances: 1, word: 'Jubiter', work: 'Tit'},
+instances: 1, word: 'Judges', work: 'Tit'},
+instances: 1, word: 'Junius', work: 'Tit'},
+instances: 1, word: 'Justly', work: 'Tit'},
+instances: 1, word: 'Keeper\'s', work: 'Tit'},
+instances: 1, word: 'Kept', work: 'Tit'},
+instances: 1, word: 'Killing', work: 'Tit'},
+instances: 1, word: 'Kills', work: 'Tit'},
+instances: 1, word: 'Kill\'st', work: 'Tit'},
+instances: 1, word: 'Kindly', work: 'Tit'},
+instances: 1, word: 'Kindness', work: 'Tit'},
+instances: 1, word: 'Kingdom', work: 'Tit'},
+instances: 1, word: 'Kingdoms', work: 'Tit'},
+instances: 1, word: 'Kings', work: 'Tit'},
+instances: 1, word: 'Kisses', work: 'Tit'},
+instances: 1, word: 'Knees', work: 'Tit'},
+instances: 1, word: 'Knife\'s', work: 'Tit'},
+instances: 1, word: 'Knighted', work: 'Tit'},
+instances: 1, word: 'Knot', work: 'Tit'},
+instances: 1, word: 'Knowest', work: 'Tit'},
+instances: 1, word: 'Knowing', work: 'Tit'},
+instances: 1, word: 'Know\'st', work: 'Tit'},
+instances: 1, word: 'Lacks', work: 'Tit'},
+instances: 1, word: 'Ladder', work: 'Tit'},
+instances: 1, word: 'Laden', work: 'Tit'},
+instances: 1, word: 'Lading', work: 'Tit'},
+instances: 1, word: 'Ladyship', work: 'Tit'},
+instances: 1, word: 'Laertes\'', work: 'Tit'},
+instances: 1, word: 'Lake', work: 'Tit'},
+instances: 1, word: 'Laments', work: 'Tit'},
+instances: 1, word: 'Land', work: 'Tit'},
+instances: 1, word: 'Languishment', work: 'Tit'},
+instances: 1, word: 'Languor', work: 'Tit'},
+instances: 1, word: 'Lap', work: 'Tit'},
+instances: 1, word: 'Larums', work: 'Tit'},
+instances: 1, word: 'Lascivious', work: 'Tit'},
+instances: 1, word: 'Lasting', work: 'Tit'},
+instances: 1, word: 'Lastly', work: 'Tit'},
+instances: 1, word: 'Lately', work: 'Tit'},
+instances: 1, word: 'Lath', work: 'Tit'},
+instances: 1, word: 'Laugh', work: 'Tit'},
+instances: 1, word: 'Laughter', work: 'Tit'},
+instances: 1, word: 'Laurel', work: 'Tit'},
+instances: 1, word: 'Lave', work: 'Tit'},
+instances: 1, word: 'Lawful', work: 'Tit'},
+instances: 1, word: 'Lawless', work: 'Tit'},
+instances: 1, word: 'Laws', work: 'Tit'},
+instances: 1, word: 'Lead', work: 'Tit'},
+instances: 1, word: 'Leads', work: 'Tit'},
+instances: 1, word: 'Lead\'st', work: 'Tit'},
+instances: 1, word: 'Leaf', work: 'Tit'},
+instances: 1, word: 'Lean', work: 'Tit'},
+instances: 1, word: 'Leapt', work: 'Tit'},
+instances: 1, word: 'Learned', work: 'Tit'},
+instances: 1, word: 'Leer', work: 'Tit'},
+instances: 1, word: 'Legs', work: 'Tit'},
+instances: 1, word: 'Leisure', work: 'Tit'},
+instances: 1, word: 'Lend', work: 'Tit'},
+instances: 1, word: 'Lent', work: 'Tit'},
+instances: 1, word: 'Lesson', work: 'Tit'},
+instances: 1, word: 'Lessoned', work: 'Tit'},
+instances: 1, word: 'Libeling', work: 'Tit'},
+instances: 1, word: 'Liberality', work: 'Tit'},
+instances: 1, word: 'Library', work: 'Tit'},
+instances: 1, word: 'Lie', work: 'Tit'},
+instances: 1, word: 'Lifeblood', work: 'Tit'},
+instances: 1, word: 'Lift', work: 'Tit'},
+instances: 1, word: 'Lifts', work: 'Tit'},
+instances: 1, word: 'Lightens', work: 'Tit'},
+instances: 1, word: 'Lightly', work: 'Tit'},
+instances: 1, word: 'Lightning', work: 'Tit'},
+instances: 1, word: 'Likely', work: 'Tit'},
+instances: 1, word: 'Likeness', work: 'Tit'},
+instances: 1, word: 'Limbo', work: 'Tit'},
+instances: 1, word: 'Limits', work: 'Tit'},
+instances: 1, word: 'Ling\'ring', work: 'Tit'},
+instances: 1, word: 'Lioness', work: 'Tit'},
+instances: 1, word: 'Liquor', work: 'Tit'},
+instances: 1, word: 'List', work: 'Tit'},
+instances: 1, word: 'Listen', work: 'Tit'},
+instances: 1, word: 'Lived', work: 'Tit'},
+instances: 1, word: 'Lives\'', work: 'Tit'},
+instances: 1, word: 'Loaden', work: 'Tit'},
+instances: 1, word: 'Loaf', work: 'Tit'},
+instances: 1, word: 'Loathèd', work: 'Tit'},
+instances: 1, word: 'Lodge', work: 'Tit'},
+instances: 1, word: 'Lofty', work: 'Tit'},
+instances: 1, word: 'Long-tongued', work: 'Tit'},
+instances: 1, word: 'Longer', work: 'Tit'},
+instances: 1, word: 'Looking', work: 'Tit'},
+instances: 1, word: 'Look\'st', work: 'Tit'},
+instances: 1, word: 'Lordship', work: 'Tit'},
+instances: 1, word: 'Lordships', work: 'Tit'},
+instances: 1, word: 'Losers', work: 'Tit'},
+instances: 1, word: 'Lost', work: 'Tit'},
+instances: 1, word: 'Loud', work: 'Tit'},
+instances: 1, word: 'Love-day', work: 'Tit'},
+instances: 1, word: 'Lovers', work: 'Tit'},
+instances: 1, word: 'Lovesick', work: 'Tit'},
+instances: 1, word: 'Lovingly', work: 'Tit'},
+instances: 1, word: 'Low', work: 'Tit'},
+instances: 1, word: 'Loyalty', work: 'Tit'},
+instances: 1, word: 'Lucius\'', work: 'Tit'},
+instances: 1, word: 'Lucrece', work: 'Tit'},
+instances: 1, word: 'Lullaby', work: 'Tit'},
+instances: 1, word: 'Lulls', work: 'Tit'},
+instances: 1, word: 'Lunacy', work: 'Tit'},
+instances: 1, word: 'Lurking-place', work: 'Tit'},
+instances: 1, word: 'Lurks', work: 'Tit'},
+instances: 1, word: 'Lustful', work: 'Tit'},
+instances: 1, word: 'Lustily', work: 'Tit'},
+instances: 1, word: 'Lusty', work: 'Tit'},
+instances: 1, word: 'Lute', work: 'Tit'},
+instances: 1, word: 'Luxurious', work: 'Tit'},
+instances: 1, word: 'Madded', work: 'Tit'},
+instances: 1, word: 'Magni', work: 'Tit'},
+instances: 1, word: 'Maiden', work: 'Tit'},
+instances: 1, word: 'Malice', work: 'Tit'},
+instances: 1, word: 'Man-of-war', work: 'Tit'},
+instances: 1, word: 'Manfully', work: 'Tit'},
+instances: 1, word: 'Mangled', work: 'Tit'},
+instances: 1, word: 'Manners', work: 'Tit'},
+instances: 1, word: 'Map', work: 'Tit'},
+instances: 1, word: 'Marble', work: 'Tit'},
+instances: 1, word: 'Martem', work: 'Tit'},
+instances: 1, word: 'Martyr', work: 'Tit'},
+instances: 1, word: 'Mashed', work: 'Tit'},
+instances: 1, word: 'Massacre', work: 'Tit'},
+instances: 1, word: 'Massacres', work: 'Tit'},
+instances: 1, word: 'Match', work: 'Tit'},
+instances: 1, word: 'Mattock', work: 'Tit'},
+instances: 1, word: 'Maugre', work: 'Tit'},
+instances: 1, word: 'Mauri', work: 'Tit'},
+instances: 1, word: 'Mayst', work: 'Tit'},
+instances: 1, word: 'Meadows', work: 'Tit'},
+instances: 1, word: 'Meads', work: 'Tit'},
+instances: 1, word: 'Meaner', work: 'Tit'},
+instances: 1, word: 'Meanest', work: 'Tit'},
+instances: 1, word: 'Mean\'st', work: 'Tit'},
+instances: 1, word: 'Meeting', work: 'Tit'},
+instances: 1, word: 'Melancholy', work: 'Tit'},
+instances: 1, word: 'Melting', work: 'Tit'},
+instances: 1, word: 'Mentioned', work: 'Tit'},
+instances: 1, word: 'Merciful', work: 'Tit'},
+instances: 1, word: 'Merited', work: 'Tit'},
+instances: 1, word: 'Messenger', work: 'Tit'},
+instances: 1, word: 'Metal', work: 'Tit'},
+instances: 1, word: 'Metamorphosis', work: 'Tit'},
+instances: 1, word: 'Methinks', work: 'Tit'},
+instances: 1, word: 'Mightful', work: 'Tit'},
+instances: 1, word: 'Mightily', work: 'Tit'},
+instances: 1, word: 'Mightiness', work: 'Tit'},
+instances: 1, word: 'Mightst', work: 'Tit'},
+instances: 1, word: 'Mild', work: 'Tit'},
+instances: 1, word: 'Mildest', work: 'Tit'},
+instances: 1, word: 'Mildly', work: 'Tit'},
+instances: 1, word: 'Mile', work: 'Tit'},
+instances: 1, word: 'Mill', work: 'Tit'},
+instances: 1, word: 'Miller', work: 'Tit'},
+instances: 1, word: 'Million', work: 'Tit'},
+instances: 1, word: 'Minion', work: 'Tit'},
+instances: 1, word: 'Miry', work: 'Tit'},
+instances: 1, word: 'Misbelieving', work: 'Tit'},
+instances: 1, word: 'Mischiefs', work: 'Tit'},
+instances: 1, word: 'Mishaps', work: 'Tit'},
+instances: 1, word: 'Miss', work: 'Tit'},
+instances: 1, word: 'Mistaking', work: 'Tit'},
+instances: 1, word: 'Mistletoe', work: 'Tit'},
+instances: 1, word: 'Mistresship', work: 'Tit'},
+instances: 1, word: 'Mistress\'', work: 'Tit'},
+instances: 1, word: 'Mixed', work: 'Tit'},
+instances: 1, word: 'Mock', work: 'Tit'},
+instances: 1, word: 'Mocked', work: 'Tit'},
+instances: 1, word: 'Molest', work: 'Tit'},
+instances: 1, word: 'Monastery', work: 'Tit'},
+instances: 1, word: 'Monster', work: 'Tit'},
+instances: 1, word: 'Months', work: 'Tit'},
+instances: 1, word: 'Morn', work: 'Tit'},
+instances: 1, word: 'Morning', work: 'Tit'},
+instances: 1, word: 'Morrow', work: 'Tit'},
+instances: 1, word: 'Morrows', work: 'Tit'},
+instances: 1, word: 'Moss', work: 'Tit'},
+instances: 1, word: 'Motion', work: 'Tit'},
+instances: 1, word: 'Mountain', work: 'Tit'},
+instances: 1, word: 'Mourn', work: 'Tit'},
+instances: 1, word: 'Mournful', work: 'Tit'},
+instances: 1, word: 'Movèd', work: 'Tit'},
+instances: 1, word: 'Mud', work: 'Tit'},
+instances: 1, word: 'Muliteus', work: 'Tit'},
+instances: 1, word: 'Music', work: 'Tit'},
+instances: 1, word: 'Mute', work: 'Tit'},
+instances: 1, word: 'Mutiny', work: 'Tit'},
+instances: 1, word: 'Nation', work: 'Tit'},
+instances: 1, word: 'Nec', work: 'Tit'},
+instances: 1, word: 'Neck', work: 'Tit'},
+instances: 1, word: 'Necks', work: 'Tit'},
+instances: 1, word: 'Need', work: 'Tit'},
+instances: 1, word: 'Needful', work: 'Tit'},
+instances: 1, word: 'Nefas', work: 'Tit'},
+instances: 1, word: 'Nest', work: 'Tit'},
+instances: 1, word: 'Nests', work: 'Tit'},
+instances: 1, word: 'Nets', work: 'Tit'},
+instances: 1, word: 'Nettles', work: 'Tit'},
+instances: 1, word: 'Never-heard-of', work: 'Tit'},
+instances: 1, word: 'New-made', work: 'Tit'},
+instances: 1, word: 'New-married', work: 'Tit'},
+instances: 1, word: 'New-shed', work: 'Tit'},
+instances: 1, word: 'New-transformèd', work: 'Tit'},
+instances: 1, word: 'Newly', work: 'Tit'},
+instances: 1, word: 'Nice-preservèd', work: 'Tit'},
+instances: 1, word: 'Nigh', work: 'Tit'},
+instances: 1, word: 'Nightly', work: 'Tit'},
+instances: 1, word: 'Nights', work: 'Tit'},
+instances: 1, word: 'Nilus', work: 'Tit'},
+instances: 1, word: 'Nip', work: 'Tit'},
+instances: 1, word: 'Nobility\'s', work: 'Tit'},
+instances: 1, word: 'Noble-minded', work: 'Tit'},
+instances: 1, word: 'Nobler', work: 'Tit'},
+instances: 1, word: 'Noblest', work: 'Tit'},
+instances: 1, word: 'Nod', work: 'Tit'},
+instances: 1, word: 'Non', work: 'Tit'},
+instances: 1, word: 'North', work: 'Tit'},
+instances: 1, word: 'Northern', work: 'Tit'},
+instances: 1, word: 'Nose', work: 'Tit'},
+instances: 1, word: 'Note', work: 'Tit'},
+instances: 1, word: 'Noted', work: 'Tit'},
+instances: 1, word: 'Notes', work: 'Tit'},
+instances: 1, word: 'Notice', work: 'Tit'},
+instances: 1, word: 'Notorious', work: 'Tit'},
+instances: 1, word: 'Notwithstanding', work: 'Tit'},
+instances: 1, word: 'Nourish', work: 'Tit'},
+instances: 1, word: 'Nourished', work: 'Tit'},
+instances: 1, word: 'Numb', work: 'Tit'},
+instances: 1, word: 'Number', work: 'Tit'},
+instances: 1, word: 'Nuptial', work: 'Tit'},
+instances: 1, word: 'Nursed', work: 'Tit'},
+instances: 1, word: 'Nurse\'s', work: 'Tit'},
+instances: 1, word: 'Nymph', work: 'Tit'},
+instances: 1, word: 'Nymphs', work: 'Tit'},
+instances: 1, word: 'Obdurate', work: 'Tit'},
+instances: 1, word: 'Obey', work: 'Tit'},
+instances: 1, word: 'Oblivion', work: 'Tit'},
+instances: 1, word: 'Obscure', work: 'Tit'},
+instances: 1, word: 'Obscurity', work: 'Tit'},
+instances: 1, word: 'Obsequies', work: 'Tit'},
+instances: 1, word: 'Obsequious', work: 'Tit'},
+instances: 1, word: 'Observe', work: 'Tit'},
+instances: 1, word: 'Obtain', work: 'Tit'},
+instances: 1, word: 'Odds', work: 'Tit'},
+instances: 1, word: 'Offend', work: 'Tit'},
+instances: 1, word: 'Offended', work: 'Tit'},
+instances: 1, word: 'Offender', work: 'Tit'},
+instances: 1, word: 'Offendeth', work: 'Tit'},
+instances: 1, word: 'Offense', work: 'Tit'},
+instances: 1, word: 'Officious', work: 'Tit'},
+instances: 1, word: 'Offspring', work: 'Tit'},
+instances: 1, word: 'Olympus\'', work: 'Tit'},
+instances: 1, word: 'Ones', work: 'Tit'},
+instances: 1, word: 'Onset', work: 'Tit'},
+instances: 1, word: 'Oped', work: 'Tit'},
+instances: 1, word: 'Opinion', work: 'Tit'},
+instances: 1, word: 'Opportunity', work: 'Tit'},
+instances: 1, word: 'Oppose', work: 'Tit'},
+instances: 1, word: 'Orator', work: 'Tit'},
+instances: 1, word: 'Orators', work: 'Tit'},
+instances: 1, word: 'Oratory', work: 'Tit'},
+instances: 1, word: 'Ordained', work: 'Tit'},
+instances: 1, word: 'Ornament', work: 'Tit'},
+instances: 1, word: 'Ornaments', work: 'Tit'},
+instances: 1, word: 'Ourselves', work: 'Tit'},
+instances: 1, word: 'Outrage', work: 'Tit'},
+instances: 1, word: 'Outrageous', work: 'Tit'},
+instances: 1, word: 'Outrages', work: 'Tit'},
+instances: 1, word: 'Oven', work: 'Tit'},
+instances: 1, word: 'Overborne', work: 'Tit'},
+instances: 1, word: 'Overcome', work: 'Tit'},
+instances: 1, word: 'Overflowed', work: 'Tit'},
+instances: 1, word: 'Overlooks', work: 'Tit'},
+instances: 1, word: 'Overshades', work: 'Tit'},
+instances: 1, word: 'Overshine', work: 'Tit'},
+instances: 1, word: 'Overween', work: 'Tit'},
+instances: 1, word: 'Overwhelmed', work: 'Tit'},
+instances: 1, word: 'Ovid\'s', work: 'Tit'},
+instances: 1, word: 'Owl', work: 'Tit'},
+instances: 1, word: 'Owners', work: 'Tit'},
+instances: 1, word: 'O\'erflow', work: 'Tit'},
+instances: 1, word: 'O\'erreach', work: 'Tit'},
+instances: 1, word: 'O\'erruns', work: 'Tit'},
+instances: 1, word: 'Pack', work: 'Tit'},
+instances: 1, word: 'Pain', work: 'Tit'},
+instances: 1, word: 'Pains', work: 'Tit'},
+instances: 1, word: 'Pair', work: 'Tit'},
+instances: 1, word: 'Palfreys', work: 'Tit'},
+instances: 1, word: 'Palliament', work: 'Tit'},
+instances: 1, word: 'Parcel', work: 'Tit'},
+instances: 1, word: 'Pared', work: 'Tit'},
+instances: 1, word: 'Park', work: 'Tit'},
+instances: 1, word: 'Parle', work: 'Tit'},
+instances: 1, word: 'Party', work: 'Tit'},
+instances: 1, word: 'Passage', work: 'Tit'},
+instances: 1, word: 'Passing', work: 'Tit'},
+instances: 1, word: 'Passionate', work: 'Tit'},
+instances: 1, word: 'Pasties', work: 'Tit'},
+instances: 1, word: 'Pastimes', work: 'Tit'},
+instances: 1, word: 'Path', work: 'Tit'},
+instances: 1, word: 'Patient', work: 'Tit'},
+instances: 1, word: 'Patron', work: 'Tit'},
+instances: 1, word: 'Patrons', work: 'Tit'},
+instances: 1, word: 'Pattern', work: 'Tit'},
+instances: 1, word: 'Patterned', work: 'Tit'},
+instances: 1, word: 'Paws', work: 'Tit'},
+instances: 1, word: 'Perfect', work: 'Tit'},
+instances: 1, word: 'Performers', work: 'Tit'},
+instances: 1, word: 'Perfume', work: 'Tit'},
+instances: 1, word: 'Permit', work: 'Tit'},
+instances: 1, word: 'Petition', work: 'Tit'},
+instances: 1, word: 'Petty', work: 'Tit'},
+instances: 1, word: 'Phoebe', work: 'Tit'},
+instances: 1, word: 'Physic', work: 'Tit'},
+instances: 1, word: 'Pie', work: 'Tit'},
+instances: 1, word: 'Pierce', work: 'Tit'},
+instances: 1, word: 'Pierced', work: 'Tit'},
+instances: 1, word: 'Pig', work: 'Tit'},
+instances: 1, word: 'Pillage', work: 'Tit'},
+instances: 1, word: 'Pipe', work: 'Tit'},
+instances: 1, word: 'Pitch', work: 'Tit'},
+instances: 1, word: 'Piteously', work: 'Tit'},
+instances: 1, word: 'Pitiless', work: 'Tit'},
+instances: 1, word: 'Pius', work: 'Tit'},
+instances: 1, word: 'Places', work: 'Tit'},
+instances: 1, word: 'Planet', work: 'Tit'},
+instances: 1, word: 'Playeth', work: 'Tit'},
+instances: 1, word: 'Pleading', work: 'Tit'},
+instances: 1, word: 'Pleasant', work: 'Tit'},
+instances: 1, word: 'Plebeians', work: 'Tit'},
+instances: 1, word: 'Plebs', work: 'Tit'},
+instances: 1, word: 'Pledge', work: 'Tit'},
+instances: 1, word: 'Plies', work: 'Tit'},
+instances: 1, word: 'Plotter', work: 'Tit'},
+instances: 1, word: 'Plow', work: 'Tit'},
+instances: 1, word: 'Plucked', work: 'Tit'},
+instances: 1, word: 'Plucking', work: 'Tit'},
+instances: 1, word: 'Pluto', work: 'Tit'},
+instances: 1, word: 'Pluto\'s', work: 'Tit'},
+instances: 1, word: 'Ply', work: 'Tit'},
+instances: 1, word: 'Poet', work: 'Tit'},
+instances: 1, word: 'Poetry', work: 'Tit'},
+instances: 1, word: 'Poet\'s', work: 'Tit'},
+instances: 1, word: 'Poison', work: 'Tit'},
+instances: 1, word: 'Poli', work: 'Tit'},
+instances: 1, word: 'Pomp', work: 'Tit'},
+instances: 1, word: 'Poniard', work: 'Tit'},
+instances: 1, word: 'Popish', work: 'Tit'},
+instances: 1, word: 'Port', work: 'Tit'},
+instances: 1, word: 'Possessed', work: 'Tit'},
+instances: 1, word: 'Possibility', work: 'Tit'},
+instances: 1, word: 'Post', work: 'Tit'},
+instances: 1, word: 'Poured', work: 'Tit'},
+instances: 1, word: 'Powder', work: 'Tit'},
+instances: 1, word: 'Prayer', work: 'Tit'},
+instances: 1, word: 'Precedent', work: 'Tit'},
+instances: 1, word: 'Prefer', work: 'Tit'},
+instances: 1, word: 'Prepared', work: 'Tit'},
+instances: 1, word: 'Preparèd', work: 'Tit'},
+instances: 1, word: 'Preserve', work: 'Tit'},
+instances: 1, word: 'Preserved', work: 'Tit'},
+instances: 1, word: 'Press', work: 'Tit'},
+instances: 1, word: 'Pretend', work: 'Tit'},
+instances: 1, word: 'Prevailed', work: 'Tit'},
+instances: 1, word: 'Prevailing', work: 'Tit'},
+instances: 1, word: 'Priam', work: 'Tit'},
+instances: 1, word: 'Priam\'s', work: 'Tit'},
+instances: 1, word: 'Price', work: 'Tit'},
+instances: 1, word: 'Pried', work: 'Tit'},
+instances: 1, word: 'Prince\'s', work: 'Tit'},
+instances: 1, word: 'Print', work: 'Tit'},
+instances: 1, word: 'Prize', work: 'Tit'},
+instances: 1, word: 'Proceedings', work: 'Tit'},
+instances: 1, word: 'Proceeds', work: 'Tit'},
+instances: 1, word: 'Proclaim', work: 'Tit'},
+instances: 1, word: 'Proclamations', work: 'Tit'},
+instances: 1, word: 'Procne', work: 'Tit'},
+instances: 1, word: 'Prodigies', work: 'Tit'},
+instances: 1, word: 'Prometheus', work: 'Tit'},
+instances: 1, word: 'Promised', work: 'Tit'},
+instances: 1, word: 'Promises', work: 'Tit'},
+instances: 1, word: 'Promisèd', work: 'Tit'},
+instances: 1, word: 'Promontory', work: 'Tit'},
+instances: 1, word: 'Prompt', work: 'Tit'},
+instances: 1, word: 'Pronounced', work: 'Tit'},
+instances: 1, word: 'Proper', work: 'Tit'},
+instances: 1, word: 'Proportion', work: 'Tit'},
+instances: 1, word: 'Propose', work: 'Tit'},
+instances: 1, word: 'Protest', work: 'Tit'},
+instances: 1, word: 'Proud\'st', work: 'Tit'},
+instances: 1, word: 'Provide', work: 'Tit'},
+instances: 1, word: 'Pull', work: 'Tit'},
+instances: 1, word: 'Punishment', work: 'Tit'},
+instances: 1, word: 'Purchase', work: 'Tit'},
+instances: 1, word: 'Purchased', work: 'Tit'},
+instances: 1, word: 'Pure', work: 'Tit'},
+instances: 1, word: 'Purpose', work: 'Tit'},
+instances: 1, word: 'Purposely', work: 'Tit'},
+instances: 1, word: 'Pursue', work: 'Tit'},
+instances: 1, word: 'Purus', work: 'Tit'},
+instances: 1, word: 'Pyramus', work: 'Tit'},
+instances: 1, word: 'Quake', work: 'Tit'},
+instances: 1, word: 'Quench', work: 'Tit'},
+instances: 1, word: 'Question', work: 'Tit'},
+instances: 1, word: 'Quickly', work: 'Tit'},
+instances: 1, word: 'Quietly', work: 'Tit'},
+instances: 1, word: 'Quit', work: 'Tit'},
+instances: 1, word: 'Quiver', work: 'Tit'},
+instances: 1, word: 'Quotes', work: 'Tit'},
+instances: 1, word: 'Rail', work: 'Tit'},
+instances: 1, word: 'Rainy', work: 'Tit'},
+instances: 1, word: 'Ram\'s', work: 'Tit'},
+instances: 1, word: 'Ran', work: 'Tit'},
+instances: 1, word: 'Ransomless', work: 'Tit'},
+instances: 1, word: 'Rapier\'s', work: 'Tit'},
+instances: 1, word: 'Rash', work: 'Tit'},
+instances: 1, word: 'Rated', work: 'Tit'},
+instances: 1, word: 'Rates', work: 'Tit'},
+instances: 1, word: 'Rave', work: 'Tit'},
+instances: 1, word: 'Raven-colored', work: 'Tit'},
+instances: 1, word: 'Ravens', work: 'Tit'},
+instances: 1, word: 'Ravish', work: 'Tit'},
+instances: 1, word: 'Ravisher', work: 'Tit'},
+instances: 1, word: 'Ravishèd', work: 'Tit'},
+instances: 1, word: 'Rays', work: 'Tit'},
+instances: 1, word: 'Raze', work: 'Tit'},
+instances: 1, word: 'Razors', work: 'Tit'},
+instances: 1, word: 'Readiest', work: 'Tit'},
+instances: 1, word: 'Readiness', work: 'Tit'},
+instances: 1, word: 'Rear', work: 'Tit'},
+instances: 1, word: 'Reared', work: 'Tit'},
+instances: 1, word: 'Received', work: 'Tit'},
+instances: 1, word: 'Receives', work: 'Tit'},
+instances: 1, word: 'Reconciled', work: 'Tit'},
+instances: 1, word: 'Record', work: 'Tit'},
+instances: 1, word: 'Recount', work: 'Tit'},
+instances: 1, word: 'Red', work: 'Tit'},
+instances: 1, word: 'Redeem', work: 'Tit'},
+instances: 1, word: 'Redress', work: 'Tit'},
+instances: 1, word: 'Reedified', work: 'Tit'},
+instances: 1, word: 'Reflect', work: 'Tit'},
+instances: 1, word: 'Refuse', work: 'Tit'},
+instances: 1, word: 'Regards', work: 'Tit'},
+instances: 1, word: 'Region', work: 'Tit'},
+instances: 1, word: 'Relief', work: 'Tit'},
+instances: 1, word: 'Relieves', work: 'Tit'},
+instances: 1, word: 'Religious', work: 'Tit'},
+instances: 1, word: 'Religiously', work: 'Tit'},
+instances: 1, word: 'Reliquit', work: 'Tit'},
+instances: 1, word: 'Remaineth', work: 'Tit'},
+instances: 1, word: 'Remains', work: 'Tit'},
+instances: 1, word: 'Remembered', work: 'Tit'},
+instances: 1, word: 'Remembrance', work: 'Tit'},
+instances: 1, word: 'Remit', work: 'Tit'},
+instances: 1, word: 'Remunerate', work: 'Tit'},
+instances: 1, word: 'Renew', work: 'Tit'},
+instances: 1, word: 'Rent', work: 'Tit'},
+instances: 1, word: 'Repaid', work: 'Tit'},
+instances: 1, word: 'Replying', work: 'Tit'},
+instances: 1, word: 'Report', work: 'Tit'},
+instances: 1, word: 'Reprehending', work: 'Tit'},
+instances: 1, word: 'Represent', work: 'Tit'},
+instances: 1, word: 'Reproach', work: 'Tit'},
+instances: 1, word: 'Repute', work: 'Tit'},
+instances: 1, word: 'Reputes', work: 'Tit'},
+instances: 1, word: 'Requests', work: 'Tit'},
+instances: 1, word: 'Require', work: 'Tit'},
+instances: 1, word: 'Requites', work: 'Tit'},
+instances: 1, word: 'Resemble', work: 'Tit'},
+instances: 1, word: 'Reserved', work: 'Tit'},
+instances: 1, word: 'Resign', work: 'Tit'},
+instances: 1, word: 'Resolution', work: 'Tit'},
+instances: 1, word: 'Reveal', work: 'Tit'},
+instances: 1, word: 'Revel', work: 'Tit'},
+instances: 1, word: 'Revengeful', work: 'Tit'},
+instances: 1, word: 'Revenge\'s', work: 'Tit'},
+instances: 1, word: 'Revengèd', work: 'Tit'},
+instances: 1, word: 'Reverence', work: 'Tit'},
+instances: 1, word: 'Reverse', work: 'Tit'},
+instances: 1, word: 'Revolt', work: 'Tit'},
+instances: 1, word: 'Rich', work: 'Tit'},
+instances: 1, word: 'Righteous', work: 'Tit'},
+instances: 1, word: 'Ripen', work: 'Tit'},
+instances: 1, word: 'Rising', work: 'Tit'},
+instances: 1, word: 'Rite', work: 'Tit'},
+instances: 1, word: 'River', work: 'Tit'},
+instances: 1, word: 'Robbed', work: 'Tit'},
+instances: 1, word: 'Robe', work: 'Tit'},
+instances: 1, word: 'Rock', work: 'Tit'},
+instances: 1, word: 'Rollèd', work: 'Tit'},
+instances: 1, word: 'Root', work: 'Tit'},
+instances: 1, word: 'Roots', work: 'Tit'},
+instances: 1, word: 'Rosèd', work: 'Tit'},
+instances: 1, word: 'Rot', work: 'Tit'},
+instances: 1, word: 'Rotted', work: 'Tit'},
+instances: 1, word: 'Rude-growing', work: 'Tit'},
+instances: 1, word: 'Ruffle', work: 'Tit'},
+instances: 1, word: 'Ruin', work: 'Tit'},
+instances: 1, word: 'Ruinous', work: 'Tit'},
+instances: 1, word: 'Ruins', work: 'Tit'},
+instances: 1, word: 'Ruled', work: 'Tit'},
+instances: 1, word: 'Ruminate', work: 'Tit'},
+instances: 1, word: 'Run', work: 'Tit'},
+instances: 1, word: 'Rung', work: 'Tit'},
+instances: 1, word: 'Runs', work: 'Tit'},
+instances: 1, word: 'Rushed', work: 'Tit'},
+instances: 1, word: 'Ruthful', work: 'Tit'},
+instances: 1, word: 'Sacrificing', work: 'Tit'},
+instances: 1, word: 'Sad-attending', work: 'Tit'},
+instances: 1, word: 'Sad-faced', work: 'Tit'},
+instances: 1, word: 'Safer', work: 'Tit'},
+instances: 1, word: 'Said\'st', work: 'Tit'},
+instances: 1, word: 'Saint', work: 'Tit'},
+instances: 1, word: 'Saith', work: 'Tit'},
+instances: 1, word: 'Salutes', work: 'Tit'},
+instances: 1, word: 'Sampler', work: 'Tit'},
+instances: 1, word: 'Sands', work: 'Tit'},
+instances: 1, word: 'Sandy', work: 'Tit'},
+instances: 1, word: 'Sanguine', work: 'Tit'},
+instances: 1, word: 'Sapling', work: 'Tit'},
+instances: 1, word: 'Satisfaction', work: 'Tit'},
+instances: 1, word: 'Satisfy', work: 'Tit'},
+instances: 1, word: 'Saturninus\'', work: 'Tit'},
+instances: 1, word: 'Sauciness', work: 'Tit'},
+instances: 1, word: 'Saucy', work: 'Tit'},
+instances: 1, word: 'Sawest', work: 'Tit'},
+instances: 1, word: 'Saying', work: 'Tit'},
+instances: 1, word: 'Scarred', work: 'Tit'},
+instances: 1, word: 'Scathe', work: 'Tit'},
+instances: 1, word: 'Scatter', work: 'Tit'},
+instances: 1, word: 'Scelera', work: 'Tit'},
+instances: 1, word: 'Scelerisque', work: 'Tit'},
+instances: 1, word: 'Scepter', work: 'Tit'},
+instances: 1, word: 'Scimitar\'s', work: 'Tit'},
+instances: 1, word: 'Scorns', work: 'Tit'},
+instances: 1, word: 'Scribe', work: 'Tit'},
+instances: 1, word: 'Scrolls', work: 'Tit'},
+instances: 1, word: 'Scrowl', work: 'Tit'},
+instances: 1, word: 'Sea-salt', work: 'Tit'},
+instances: 1, word: 'Search', work: 'Tit'},
+instances: 1, word: 'Seat', work: 'Tit'},
+instances: 1, word: 'Secret', work: 'Tit'},
+instances: 1, word: 'Secretly', work: 'Tit'},
+instances: 1, word: 'Secrets', work: 'Tit'},
+instances: 1, word: 'Securely', work: 'Tit'},
+instances: 1, word: 'Seek', work: 'Tit'},
+instances: 1, word: 'Seeking', work: 'Tit'},
+instances: 1, word: 'Seest', work: 'Tit'},
+instances: 1, word: 'Seizeth', work: 'Tit'},
+instances: 1, word: 'Self', work: 'Tit'},
+instances: 1, word: 'Selfsame', work: 'Tit'},
+instances: 1, word: 'Sempronius', work: 'Tit'},
+instances: 1, word: 'Senate\'s', work: 'Tit'},
+instances: 1, word: 'Sensibly', work: 'Tit'},
+instances: 1, word: 'Sentence', work: 'Tit'},
+instances: 1, word: 'Sent\'st', work: 'Tit'},
+instances: 1, word: 'Sequence', work: 'Tit'},
+instances: 1, word: 'Sequestered', work: 'Tit'},
+instances: 1, word: 'Servitors', work: 'Tit'},
+instances: 1, word: 'Severed', work: 'Tit'},
+instances: 1, word: 'Shade', work: 'Tit'},
+instances: 1, word: 'Shadowed', work: 'Tit'},
+instances: 1, word: 'Shafts', work: 'Tit'},
+instances: 1, word: 'Shaken', work: 'Tit'},
+instances: 1, word: 'Shakes', work: 'Tit'},
+instances: 1, word: 'Shallow-hearted', work: 'Tit'},
+instances: 1, word: 'Shamed', work: 'Tit'},
+instances: 1, word: 'Shape', work: 'Tit'},
+instances: 1, word: 'Sheaf', work: 'Tit'},
+instances: 1, word: 'Sheath', work: 'Tit'},
+instances: 1, word: 'Sheathed', work: 'Tit'},
+instances: 1, word: 'Sheathing', work: 'Tit'},
+instances: 1, word: 'Sheep', work: 'Tit'},
+instances: 1, word: 'Shelter', work: 'Tit'},
+instances: 1, word: 'Shift', work: 'Tit'},
+instances: 1, word: 'Shifts', work: 'Tit'},
+instances: 1, word: 'Shines', work: 'Tit'},
+instances: 1, word: 'Shipwrack', work: 'Tit'},
+instances: 1, word: 'Shive', work: 'Tit'},
+instances: 1, word: 'Shone', work: 'Tit'},
+instances: 1, word: 'Shore', work: 'Tit'},
+instances: 1, word: 'Short', work: 'Tit'},
+instances: 1, word: 'Shouldst', work: 'Tit'},
+instances: 1, word: 'Showed', work: 'Tit'},
+instances: 1, word: 'Shrilly', work: 'Tit'},
+instances: 1, word: 'Shrink', work: 'Tit'},
+instances: 1, word: 'Shrubs', work: 'Tit'},
+instances: 1, word: 'Shut', work: 'Tit'},
+instances: 1, word: 'Sibyl\'s', work: 'Tit'},
+instances: 1, word: 'Sicily', work: 'Tit'},
+instances: 1, word: 'Sigh', work: 'Tit'},
+instances: 1, word: 'Sighing', work: 'Tit'},
+instances: 1, word: 'Silken', work: 'Tit'},
+instances: 1, word: 'Silver', work: 'Tit'},
+instances: 1, word: 'Single', work: 'Tit'},
+instances: 1, word: 'Singled', work: 'Tit'},
+instances: 1, word: 'Sink', work: 'Tit'},
+instances: 1, word: 'Sinon', work: 'Tit'},
+instances: 1, word: 'Sire', work: 'Tit'},
+instances: 1, word: 'Siren', work: 'Tit'},
+instances: 1, word: 'Size', work: 'Tit'},
+instances: 1, word: 'Skill', work: 'Tit'},
+instances: 1, word: 'Skilled', work: 'Tit'},
+instances: 1, word: 'Skins', work: 'Tit'},
+instances: 1, word: 'Slaughterman', work: 'Tit'},
+instances: 1, word: 'Slaught\'ring', work: 'Tit'},
+instances: 1, word: 'Slavish', work: 'Tit'},
+instances: 1, word: 'Sleeps', work: 'Tit'},
+instances: 1, word: 'Slender', work: 'Tit'},
+instances: 1, word: 'Slept', work: 'Tit'},
+instances: 1, word: 'Slew', work: 'Tit'},
+instances: 1, word: 'Slime', work: 'Tit'},
+instances: 1, word: 'Slip', work: 'Tit'},
+instances: 1, word: 'Slips', work: 'Tit'},
+instances: 1, word: 'Slunk', work: 'Tit'},
+instances: 1, word: 'Sly', work: 'Tit'},
+instances: 1, word: 'Small', work: 'Tit'},
+instances: 1, word: 'Smells', work: 'Tit'},
+instances: 1, word: 'Snake', work: 'Tit'},
+instances: 1, word: 'Snatch', work: 'Tit'},
+instances: 1, word: 'Snow', work: 'Tit'},
+instances: 1, word: 'Snow-white', work: 'Tit'},
+instances: 1, word: 'Soaking', work: 'Tit'},
+instances: 1, word: 'Sobs', work: 'Tit'},
+instances: 1, word: 'Soe\'er', work: 'Tit'},
+instances: 1, word: 'Soldier', work: 'Tit'},
+instances: 1, word: 'Solicit', work: 'Tit'},
+instances: 1, word: 'Solon\'s', work: 'Tit'},
+instances: 1, word: 'Something', work: 'Tit'},
+instances: 1, word: 'Sometime', work: 'Tit'},
+instances: 1, word: 'Somewhere', work: 'Tit'},
+instances: 1, word: 'Somewhither', work: 'Tit'},
+instances: 1, word: 'Son-in-law', work: 'Tit'},
+instances: 1, word: 'Song', work: 'Tit'},
+instances: 1, word: 'Sorrow-wreathen', work: 'Tit'},
+instances: 1, word: 'Sorry', work: 'Tit'},
+instances: 1, word: 'Sought', work: 'Tit'},
+instances: 1, word: 'Soul\'s', work: 'Tit'},
+instances: 1, word: 'Sounded', work: 'Tit'},
+instances: 1, word: 'Sour', work: 'Tit'},
+instances: 1, word: 'Sovereign', work: 'Tit'},
+instances: 1, word: 'Spacious', work: 'Tit'},
+instances: 1, word: 'Spade', work: 'Tit'},
+instances: 1, word: 'Spake', work: 'Tit'},
+instances: 1, word: 'Speak\'st', work: 'Tit'},
+instances: 1, word: 'Special', work: 'Tit'},
+instances: 1, word: 'Speechless', work: 'Tit'},
+instances: 1, word: 'Speedier', work: 'Tit'},
+instances: 1, word: 'Spit', work: 'Tit'},
+instances: 1, word: 'Spleenful', work: 'Tit'},
+instances: 1, word: 'Spoil', work: 'Tit'},
+instances: 1, word: 'Spoils', work: 'Tit'},
+instances: 1, word: 'Sports', work: 'Tit'},
+instances: 1, word: 'Spotted', work: 'Tit'},
+instances: 1, word: 'Spousal', work: 'Tit'},
+instances: 1, word: 'Spouts', work: 'Tit'},
+instances: 1, word: 'Sprawl', work: 'Tit'},
+instances: 1, word: 'Spring', work: 'Tit'},
+instances: 1, word: 'Springtime', work: 'Tit'},
+instances: 1, word: 'Sprung', work: 'Tit'},
+instances: 1, word: 'Spurn', work: 'Tit'},
+instances: 1, word: 'Staff', work: 'Tit'},
+instances: 1, word: 'Stag', work: 'Tit'},
+instances: 1, word: 'Stale', work: 'Tit'},
+instances: 1, word: 'Stamp', work: 'Tit'},
+instances: 1, word: 'Stampèd', work: 'Tit'},
+instances: 1, word: 'Stanch', work: 'Tit'},
+instances: 1, word: 'Standing', work: 'Tit'},
+instances: 1, word: 'Stand\'st', work: 'Tit'},
+instances: 1, word: 'Star', work: 'Tit'},
+instances: 1, word: 'Starvèd', work: 'Tit'},
+instances: 1, word: 'State', work: 'Tit'},
+instances: 1, word: 'Stayed', work: 'Tit'},
+instances: 1, word: 'Steal', work: 'Tit'},
+instances: 1, word: 'Steed', work: 'Tit'},
+instances: 1, word: 'Step', work: 'Tit'},
+instances: 1, word: 'Stephen', work: 'Tit'},
+instances: 1, word: 'Steps', work: 'Tit'},
+instances: 1, word: 'Sting', work: 'Tit'},
+instances: 1, word: 'Stinging', work: 'Tit'},
+instances: 1, word: 'Stint', work: 'Tit'},
+instances: 1, word: 'Stir', work: 'Tit'},
+instances: 1, word: 'Stirred', work: 'Tit'},
+instances: 1, word: 'Stock', work: 'Tit'},
+instances: 1, word: 'Stony', work: 'Tit'},
+instances: 1, word: 'Stoop', work: 'Tit'},
+instances: 1, word: 'Stoops', work: 'Tit'},
+instances: 1, word: 'Stopped', work: 'Tit'},
+instances: 1, word: 'Store', work: 'Tit'},
+instances: 1, word: 'Stories', work: 'Tit'},
+instances: 1, word: 'Strangers', work: 'Tit'},
+instances: 1, word: 'Straw', work: 'Tit'},
+instances: 1, word: 'Strayed', work: 'Tit'},
+instances: 1, word: 'Straying', work: 'Tit'},
+instances: 1, word: 'Stream', work: 'Tit'},
+instances: 1, word: 'Strengthen', work: 'Tit'},
+instances: 1, word: 'Strife', work: 'Tit'},
+instances: 1, word: 'Strings', work: 'Tit'},
+instances: 1, word: 'Stroke', work: 'Tit'},
+instances: 1, word: 'Strumpet', work: 'Tit'},
+instances: 1, word: 'Stump', work: 'Tit'},
+instances: 1, word: 'Stuprum', work: 'Tit'},
+instances: 1, word: 'Stygia', work: 'Tit'},
+instances: 1, word: 'Styx', work: 'Tit'},
+instances: 1, word: 'Subscribe', work: 'Tit'},
+instances: 1, word: 'Substance', work: 'Tit'},
+instances: 1, word: 'Substances', work: 'Tit'},
+instances: 1, word: 'Substituted', work: 'Tit'},
+instances: 1, word: 'Succeed', work: 'Tit'},
+instances: 1, word: 'Successantly', work: 'Tit'},
+instances: 1, word: 'Successfully', work: 'Tit'},
+instances: 1, word: 'Successive', work: 'Tit'},
+instances: 1, word: 'Succor', work: 'Tit'},
+instances: 1, word: 'Suck', work: 'Tit'},
+instances: 1, word: 'Suck\'st', work: 'Tit'},
+instances: 1, word: 'Sued', work: 'Tit'},
+instances: 1, word: 'Suffers', work: 'Tit'},
+instances: 1, word: 'Suffer\'st', work: 'Tit'},
+instances: 1, word: 'Sufficeth', work: 'Tit'},
+instances: 1, word: 'Suitors', work: 'Tit'},
+instances: 1, word: 'Sum', work: 'Tit'},
+instances: 1, word: 'Sumptuously', work: 'Tit'},
+instances: 1, word: 'Suns', work: 'Tit'},
+instances: 1, word: 'Sun\'s', work: 'Tit'},
+instances: 1, word: 'Supplant', work: 'Tit'},
+instances: 1, word: 'Suppliant', work: 'Tit'},
+instances: 1, word: 'Suppose', work: 'Tit'},
+instances: 1, word: 'Surance', work: 'Tit'},
+instances: 1, word: 'Surer', work: 'Tit'},
+instances: 1, word: 'Surfeit', work: 'Tit'},
+instances: 1, word: 'Surge', work: 'Tit'},
+instances: 1, word: 'Surmise', work: 'Tit'},
+instances: 1, word: 'Surnamèd', work: 'Tit'},
+instances: 1, word: 'Surprisèd', work: 'Tit'},
+instances: 1, word: 'Survey', work: 'Tit'},
+instances: 1, word: 'Survives', work: 'Tit'},
+instances: 1, word: 'Suspects', work: 'Tit'},
+instances: 1, word: 'Suspicion', work: 'Tit'},
+instances: 1, word: 'Sust\'nance', work: 'Tit'},
+instances: 1, word: 'Suum', work: 'Tit'},
+instances: 1, word: 'Swallowing', work: 'Tit'},
+instances: 1, word: 'Swallows', work: 'Tit'},
+instances: 1, word: 'Swan\'s', work: 'Tit'},
+instances: 1, word: 'Swarthy', work: 'Tit'},
+instances: 1, word: 'Swears', work: 'Tit'},
+instances: 1, word: 'Sweat', work: 'Tit'},
+instances: 1, word: 'Sweeter', work: 'Tit'},
+instances: 1, word: 'Sweetheart', work: 'Tit'},
+instances: 1, word: 'Sympathy', work: 'Tit'},
+instances: 1, word: 'Tadpole', work: 'Tit'},
+instances: 1, word: 'Tales', work: 'Tit'},
+instances: 1, word: 'Tamora\'s', work: 'Tit'},
+instances: 1, word: 'Taper', work: 'Tit'},
+instances: 1, word: 'Tarry', work: 'Tit'},
+instances: 1, word: 'Taste', work: 'Tit'},
+instances: 1, word: 'Tattle', work: 'Tit'},
+instances: 1, word: 'Taught', work: 'Tit'},
+instances: 1, word: 'Taurus\'', work: 'Tit'},
+instances: 1, word: 'Tawny', work: 'Tit'},
+instances: 1, word: 'Ta\'en', work: 'Tit'},
+instances: 1, word: 'Teat', work: 'Tit'},
+instances: 1, word: 'Tedious', work: 'Tit'},
+instances: 1, word: 'Tempestuous', work: 'Tit'},
+instances: 1, word: 'Temples', work: 'Tit'},
+instances: 1, word: 'Tenders', work: 'Tit'},
+instances: 1, word: 'Tend\'ring', work: 'Tit'},
+instances: 1, word: 'Tenfold', work: 'Tit'},
+instances: 1, word: 'Tent', work: 'Tit'},
+instances: 1, word: 'Tereus\'', work: 'Tit'},
+instances: 1, word: 'Terms', work: 'Tit'},
+instances: 1, word: 'Terras', work: 'Tit'},
+instances: 1, word: 'Testimony', work: 'Tit'},
+instances: 1, word: 'Thankful', work: 'Tit'},
+instances: 1, word: 'Thereat', work: 'Tit'},
+instances: 1, word: 'Therein', work: 'Tit'},
+instances: 1, word: 'Thick-lipped', work: 'Tit'},
+instances: 1, word: 'Third\'s', work: 'Tit'},
+instances: 1, word: 'Thither', work: 'Tit'},
+instances: 1, word: 'Thrash', work: 'Tit'},
+instances: 1, word: 'Threats', work: 'Tit'},
+instances: 1, word: 'Three', work: 'Tit'},
+instances: 1, word: 'Threw', work: 'Tit'},
+instances: 1, word: 'Thrice-noble', work: 'Tit'},
+instances: 1, word: 'Thrice-valiant', work: 'Tit'},
+instances: 1, word: 'Throat', work: 'Tit'},
+instances: 1, word: 'Throne', work: 'Tit'},
+instances: 1, word: 'Through', work: 'Tit'},
+instances: 1, word: 'Thrown', work: 'Tit'},
+instances: 1, word: 'Thrust', work: 'Tit'},
+instances: 1, word: 'Thump', work: 'Tit'},
+instances: 1, word: 'Thunder\'s', work: 'Tit'},
+instances: 1, word: 'Thund\'rest', work: 'Tit'},
+instances: 1, word: 'Ticed', work: 'Tit'},
+instances: 1, word: 'Tide', work: 'Tit'},
+instances: 1, word: 'Tied', work: 'Tit'},
+instances: 1, word: 'Tiger\'s', work: 'Tit'},
+instances: 1, word: 'Timeless', work: 'Tit'},
+instances: 1, word: 'Tired', work: 'Tit'},
+instances: 1, word: 'Tiring', work: 'Tit'},
+instances: 1, word: 'Title', work: 'Tit'},
+instances: 1, word: 'Titles', work: 'Tit'},
+instances: 1, word: 'Toad', work: 'Tit'},
+instances: 1, word: 'Toads', work: 'Tit'},
+instances: 1, word: 'Tofore', work: 'Tit'},
+instances: 1, word: 'Tokens', work: 'Tit'},
+instances: 1, word: 'Took', work: 'Tit'},
+instances: 1, word: 'Tools', work: 'Tit'},
+instances: 1, word: 'Torn', work: 'Tit'},
+instances: 1, word: 'Torturing', work: 'Tit'},
+instances: 1, word: 'Tosseth', work: 'Tit'},
+instances: 1, word: 'Touch', work: 'Tit'},
+instances: 1, word: 'Touches', work: 'Tit'},
+instances: 1, word: 'Towards', work: 'Tit'},
+instances: 1, word: 'Tractable', work: 'Tit'},
+instances: 1, word: 'Tragedies', work: 'Tit'},
+instances: 1, word: 'Tragedy', work: 'Tit'},
+instances: 1, word: 'Tragic', work: 'Tit'},
+instances: 1, word: 'Train', work: 'Tit'},
+instances: 1, word: 'Treacherous', work: 'Tit'},
+instances: 1, word: 'Treasure', work: 'Tit'},
+instances: 1, word: 'Treasury', work: 'Tit'},
+instances: 1, word: 'Treats', work: 'Tit'},
+instances: 1, word: 'Treble', work: 'Tit'},
+instances: 1, word: 'Trembling', work: 'Tit'},
+instances: 1, word: 'Trenches', work: 'Tit'},
+instances: 1, word: 'Tribunal', work: 'Tit'},
+instances: 1, word: 'Tribute', work: 'Tit'},
+instances: 1, word: 'Trick', work: 'Tit'},
+instances: 1, word: 'Tricks', work: 'Tit'},
+instances: 1, word: 'Trim', work: 'Tit'},
+instances: 1, word: 'Trimming', work: 'Tit'},
+instances: 1, word: 'Triumpher', work: 'Tit'},
+instances: 1, word: 'Troops', work: 'Tit'},
+instances: 1, word: 'Trophies', work: 'Tit'},
+instances: 1, word: 'Trot', work: 'Tit'},
+instances: 1, word: 'True-divining', work: 'Tit'},
+instances: 1, word: 'Trull', work: 'Tit'},
+instances: 1, word: 'Truly', work: 'Tit'},
+instances: 1, word: 'Trump', work: 'Tit'},
+instances: 1, word: 'Trusty', work: 'Tit'},
+instances: 1, word: 'Try', work: 'Tit'},
+instances: 1, word: 'Tully\'s', work: 'Tit'},
+instances: 1, word: 'Tumble', work: 'Tit'},
+instances: 1, word: 'Turned', work: 'Tit'},
+instances: 1, word: 'Turned-forth', work: 'Tit'},
+instances: 1, word: 'Turn\'st', work: 'Tit'},
+instances: 1, word: 'Tutor', work: 'Tit'},
+instances: 1, word: 'Twice', work: 'Tit'},
+instances: 1, word: 'Two-and-twenty', work: 'Tit'},
+instances: 1, word: 'Typhon\'s', work: 'Tit'},
+instances: 1, word: 'Tyrant', work: 'Tit'},
+instances: 1, word: 'Unadvised', work: 'Tit'},
+instances: 1, word: 'Unappeased', work: 'Tit'},
+instances: 1, word: 'Unbind', work: 'Tit'},
+instances: 1, word: 'Unburied', work: 'Tit'},
+instances: 1, word: 'Uncouple', work: 'Tit'},
+instances: 1, word: 'Uncouth', work: 'Tit'},
+instances: 1, word: 'Uncurls', work: 'Tit'},
+instances: 1, word: 'Underneath', work: 'Tit'},
+instances: 1, word: 'Understand', work: 'Tit'},
+instances: 1, word: 'Understands', work: 'Tit'},
+instances: 1, word: 'Undertake', work: 'Tit'},
+instances: 1, word: 'Undertook', work: 'Tit'},
+instances: 1, word: 'Unfrequented', work: 'Tit'},
+instances: 1, word: 'Unfurnished', work: 'Tit'},
+instances: 1, word: 'Ungentle', work: 'Tit'},
+instances: 1, word: 'Unhappy', work: 'Tit'},
+instances: 1, word: 'Unjust', work: 'Tit'},
+instances: 1, word: 'Unjustice', work: 'Tit'},
+instances: 1, word: 'Unkindly', work: 'Tit'},
+instances: 1, word: 'Unknit', work: 'Tit'},
+instances: 1, word: 'Unlucky', work: 'Tit'},
+instances: 1, word: 'Unmannerly', work: 'Tit'},
+instances: 1, word: 'Unnatural', work: 'Tit'},
+instances: 1, word: 'Unrecuring', work: 'Tit'},
+instances: 1, word: 'Unrelenting', work: 'Tit'},
+instances: 1, word: 'Unroll', work: 'Tit'},
+instances: 1, word: 'Unsearched', work: 'Tit'},
+instances: 1, word: 'Unsolicited', work: 'Tit'},
+instances: 1, word: 'Uphold', work: 'Tit'},
+instances: 1, word: 'Uprightness', work: 'Tit'},
+instances: 1, word: 'Uprise', work: 'Tit'},
+instances: 1, word: 'Uproars', work: 'Tit'},
+instances: 1, word: 'Urchins', work: 'Tit'},
+instances: 1, word: 'Usage', work: 'Tit'},
+instances: 1, word: 'Usurp', work: 'Tit'},
+instances: 1, word: 'Utterance', work: 'Tit'},
+instances: 1, word: 'Valley', work: 'Tit'},
+instances: 1, word: 'Varied', work: 'Tit'},
+instances: 1, word: 'Vaunter', work: 'Tit'},
+instances: 1, word: 'Vehor', work: 'Tit'},
+instances: 1, word: 'Venereal', work: 'Tit'},
+instances: 1, word: 'Vengeful', work: 'Tit'},
+instances: 1, word: 'Venomous', work: 'Tit'},
+instances: 1, word: 'Venus', work: 'Tit'},
+instances: 1, word: 'Vides', work: 'Tit'},
+instances: 1, word: 'View', work: 'Tit'},
+instances: 1, word: 'Vigor', work: 'Tit'},
+instances: 1, word: 'Villainies', work: 'Tit'},
+instances: 1, word: 'Virgo\'s', work: 'Tit'},
+instances: 1, word: 'Virtues', work: 'Tit'},
+instances: 1, word: 'Virtuous', work: 'Tit'},
+instances: 1, word: 'Vitae', work: 'Tit'},
+instances: 1, word: 'Vomit', work: 'Tit'},
+instances: 1, word: 'Vouch', work: 'Tit'},
+instances: 1, word: 'Vulcan\'s', work: 'Tit'},
+instances: 1, word: 'Vulture', work: 'Tit'},
+instances: 1, word: 'Wagoner', work: 'Tit'},
+instances: 1, word: 'Wags', work: 'Tit'},
+instances: 1, word: 'Waited', work: 'Tit'},
+instances: 1, word: 'Walk', work: 'Tit'},
+instances: 1, word: 'Walkèd', work: 'Tit'},
+instances: 1, word: 'Wall-eyed', work: 'Tit'},
+instances: 1, word: 'Wan', work: 'Tit'},
+instances: 1, word: 'Wandered', work: 'Tit'},
+instances: 1, word: 'Wand\'ring', work: 'Tit'},
+instances: 1, word: 'Want', work: 'Tit'},
+instances: 1, word: 'Wanton', work: 'Tit'},
+instances: 1, word: 'Warded', work: 'Tit'},
+instances: 1, word: 'Warmed', work: 'Tit'},
+instances: 1, word: 'Warrants', work: 'Tit'},
+instances: 1, word: 'Warriors', work: 'Tit'},
+instances: 1, word: 'Washed', work: 'Tit'},
+instances: 1, word: 'Wasp', work: 'Tit'},
+instances: 1, word: 'Wasted', work: 'Tit'},
+instances: 1, word: 'Watched', work: 'Tit'},
+instances: 1, word: 'Wat\'ry', work: 'Tit'},
+instances: 1, word: 'Waxing', work: 'Tit'},
+instances: 1, word: 'Ways', work: 'Tit'},
+instances: 1, word: 'Wealth', work: 'Tit'},
+instances: 1, word: 'Wean', work: 'Tit'},
+instances: 1, word: 'Wear', work: 'Tit'},
+instances: 1, word: 'Weary', work: 'Tit'},
+instances: 1, word: 'Weed', work: 'Tit'},
+instances: 1, word: 'Week', work: 'Tit'},
+instances: 1, word: 'Welfare', work: 'Tit'},
+instances: 1, word: 'Well-beseeming', work: 'Tit'},
+instances: 1, word: 'Well-tuned', work: 'Tit'},
+instances: 1, word: 'Wench', work: 'Tit'},
+instances: 1, word: 'Whatsoe\'er', work: 'Tit'},
+instances: 1, word: 'Wheel', work: 'Tit'},
+instances: 1, word: 'Wheels', work: 'Tit'},
+instances: 1, word: 'Whelps', work: 'Tit'},
+instances: 1, word: 'Whenas', work: 'Tit'},
+instances: 1, word: 'Whenever', work: 'Tit'},
+instances: 1, word: 'Whereat', work: 'Tit'},
+instances: 1, word: 'Whereof', work: 'Tit'},
+instances: 1, word: 'Where\'s', work: 'Tit'},
+instances: 1, word: 'Whether', work: 'Tit'},
+instances: 1, word: 'Whey', work: 'Tit'},
+instances: 1, word: 'While', work: 'Tit'},
+instances: 1, word: 'Whirl', work: 'Tit'},
+instances: 1, word: 'Whirling', work: 'Tit'},
+instances: 1, word: 'Whisper', work: 'Tit'},
+instances: 1, word: 'Whit', work: 'Tit'},
+instances: 1, word: 'White-limed', work: 'Tit'},
+instances: 1, word: 'Whither', work: 'Tit'},
+instances: 1, word: 'Whole', work: 'Tit'},
+instances: 1, word: 'Whore', work: 'Tit'},
+instances: 1, word: 'Willful', work: 'Tit'},
+instances: 1, word: 'Willing', work: 'Tit'},
+instances: 1, word: 'Wills', work: 'Tit'},
+instances: 1, word: 'Wink', work: 'Tit'},
+instances: 1, word: 'Wisdom', work: 'Tit'},
+instances: 1, word: 'Wished', work: 'Tit'},
+instances: 1, word: 'Wishes\'', work: 'Tit'},
+instances: 1, word: 'Witnesses', work: 'Tit'},
+instances: 1, word: 'Witty', work: 'Tit'},
+instances: 1, word: 'Woefull\'st', work: 'Tit'},
+instances: 1, word: 'Women', work: 'Tit'},
+instances: 1, word: 'Wonder', work: 'Tit'},
+instances: 1, word: 'Wondered', work: 'Tit'},
+instances: 1, word: 'Wood', work: 'Tit'},
+instances: 1, word: 'Wooed', work: 'Tit'},
+instances: 1, word: 'Woolly', work: 'Tit'},
+instances: 1, word: 'Wore', work: 'Tit'},
+instances: 1, word: 'Working', work: 'Tit'},
+instances: 1, word: 'Worn', work: 'Tit'},
+instances: 1, word: 'Worse-than-killing', work: 'Tit'},
+instances: 1, word: 'Worth', work: 'Tit'},
+instances: 1, word: 'Worthily', work: 'Tit'},
+instances: 1, word: 'Worthless', work: 'Tit'},
+instances: 1, word: 'Wots', work: 'Tit'},
+instances: 1, word: 'Wrap', work: 'Tit'},
+instances: 1, word: 'Wrapped', work: 'Tit'},
+instances: 1, word: 'Wreakful', work: 'Tit'},
+instances: 1, word: 'Wreaks', work: 'Tit'},
+instances: 1, word: 'Wreathèd', work: 'Tit'},
+instances: 1, word: 'Wrest', work: 'Tit'},
+instances: 1, word: 'Wretches', work: 'Tit'},
+instances: 1, word: 'Wrinkles', work: 'Tit'},
+instances: 1, word: 'Writes', work: 'Tit'},
+instances: 1, word: 'Writing', work: 'Tit'},
+instances: 1, word: 'Wrongful', work: 'Tit'},
+instances: 1, word: 'Wrote', work: 'Tit'},
+instances: 1, word: 'Wrung', work: 'Tit'},
+instances: 1, word: 'Yea', work: 'Tit'},
+instances: 1, word: 'Year', work: 'Tit'},
+instances: 1, word: 'Yellowing', work: 'Tit'},
+instances: 1, word: 'Yes', work: 'Tit'},
+instances: 1, word: 'Yesternight', work: 'Tit'},
+instances: 1, word: 'Yew', work: 'Tit'},
+instances: 1, word: 'Yoked', work: 'Tit'},
+instances: 1, word: 'Yonder', work: 'Tit'},
+instances: 1, word: 'Youngest', work: 'Tit'},
+instances: 1, word: 'Youngling', work: 'Tit'},
+instances: 1, word: 'Younglings', work: 'Tit'},
+instances: 1, word: 'Yourselves', work: 'Tit'},
+instances: 1, word: 'Youthful', work: 'Tit'},
+instances: 1, word: 'You\'ll', work: 'Tit'},
+instances: 1, word: 'Zeal', work: 'Tit'},
+instances: 1, word: 'Zodiac', work: 'Tit'},
+instances: 1, word: 'Zounds', work: 'Tit'},
+instances: 1, word: '\'cause', work: 'Tit'},
+instances: 1, word: '\'lt', work: 'Tit'},
+instances: 1, word: '\'mongst', work: 'Tit'},
+instances: 1, word: '\'r', work: 'Tit'},
+instances: 1, word: '\'tween', work: 'Tit'},
+instances: 1, word: '\'twere', work: 'Tit'},

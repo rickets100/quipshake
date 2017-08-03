@@ -1,4075 +1,4073 @@
-Concordance of Richard III:
-
-920: The
-866: And
-714: To
-699: I
-620: Of
-587: My
-434: That
-397: In
-391: You
-356: A
-310: Me
-282: For
-274: Your
-272: Is
-260: Not
-250: With
-236: His
-221: Be
-214: Lord
-213: It
-213: Thy
-206: Thou
-198: This
-197: Have
-197: He
-190: But
-172: So
-162: Will
-161: By
-160: Him
-157: What
-144: On
-137: All
-137: As
-121: Thee
-120: Our
-118: No
-117: Good
-117: Her
-111: We
-110: If
-104: Do
-100: From
-100: Shall
-96: Then
-95: Are
-92: Now
-90: God
-89: Was
-87: At
-87: King
-83: Their
-82: They
-82: When
-80: Come
-79: O
-76: Which
-74: Were
-72: Well
-69: Go
-68: Death
-67: Upon
-65: Hath
-65: Or
-65: Them
-64: Love
-63: Would
-62: Grace
-62: Say
-61: Let
-60: Am
-59: Here
-59: Who
-58: How
-57: May
-57: Us
-56: Did
-53: More
-52: I’ll
-52: Than
-51: Had
-49: Tell
-48: Make
-48: She
-47: There
-47: Where
-47: Yet
-46: Why
-45: Give
-44: Day
-44: Man
-44: Should
-43: Edward
-43: Myself
-43: Some
-43: These
-42: Mine
-42: Son
-42: Soul
-42: Time
-41: Brother
-41: Mother
-40: Live
-40: See
-39: Blood
-39: Clarence
-39: Made
-39: One
-39: Richard
-39: Take
-38: Buckingham
-38: Duke
-38: Like
-38: Too
-36: Cannot
-36: Dead
-36: Doth
-36: Noble
-36: Think
-35: Die
-35: Know
-34: Heart
-34: Never
-34: Queen
-34: Unto
-33: Done
-33: Poor
-33: Up
-32: Can
-32: Friends
-32: Hastings
-32: Look
-32: Must
-32: ’tis
-31: Most
-31: Richmond
-30: Life
-30: Much
-30: Nor
-30: Prince
-30: Thus
-29: An
-29: Ay
-29: Fair
-29: Peace
-29: Such
-28: Both
-28: Eyes
-28: News
-28: Speak
-27: Fear
-27: Gentle
-27: Hand
-27: Hear
-27: Madam
-27: Name
-27: Royal
-27: Tower
-26: Again
-26: Bloody
-26: Heaven
-26: Men
-25: Long
-25: World
-24: Dear
-24: Father
-24: Gracious
-24: Two
-24: Wife
-24: York
-23: Any
-23: Before
-23: Being
-23: Catesby
-23: True
-22: Deep
-22: Edward’s
-22: Gloucester
-22: Holy
-22: Sir
-21: Bear
-21: Children
-21: Daughter
-21: Happy
-21: Husband
-21: Out
-21: Sweet
-21: Uncle
-20: Against
-20: Been
-20: Curse
-20: Even
-20: Great
-20: Leave
-20: Night
-20: Still
-20: Therefore
-20: Those
-20: Tomorrow
-19: Art
-19: Cousin
-19: Head
-19: Little
-19: Other
-18: Better
-18: Bid
-18: Days
-18: Doubt
-18: Down
-18: Fall
-18: God’s
-18: Set
-18: Sleep
-18: Till
-18: Young
-17: Ah
-17: Comes
-17: Hope
-17: Horse
-17: Lives
-17: Lords
-17: Makes
-17: Many
-17: Mind
-17: Right
-17: Since
-17: Sovereign
-17: Stanley
-17: Stay
-17: Told
-16: Cause
-16: Farewell
-16: Fight
-16: Hate
-16: Kill
-16: Majesty
-16: Marry
-16: Might
-16: None
-16: Put
-16: Rest
-16: Souls
-16: Whom
-15: Arms
-15: Call
-15: Came
-15: Crown
-15: Dost
-15: End
-15: False
-15: Full
-15: Hast
-15: Indeed
-15: Mighty
-15: Off
-15: Once
-15: Please
-15: Princely
-15: Rivers
-15: Sorrow
-15: Thine
-15: Way
-15: Whose
-15: Within
-15: Yours
-14: Comfort
-14: Despair
-14: Else
-14: Ere
-14: Ever
-14: Every
-14: George
-14: Heavy
-14: Help
-14: House
-14: Into
-14: Knows
-14: Last
-14: Looks
-14: Mean
-14: Power
-14: Send
-14: Tender
-14: Thought
-14: Today
-13: Age
-13: Battle
-13: Conscience
-13: Could
-13: Deed
-13: Dorset
-13: Dream
-13: Earth
-13: Foul
-13: Hell
-13: Honor
-13: Shame
-13: Stand
-13: Thereof
-13: Withal
-12: About
-12: Away
-12: Brothers
-12: Child
-12: Didst
-12: Each
-12: Enemies
-12: First
-12: Forth
-12: Fortune
-12: Gone
-12: Land
-12: Lay
-12: Mayor
-12: Nay
-12: Own
-12: Ratcliffe
-12: Sons
-12: Swear
-12: Thank
-12: Thyself
-12: Tongue
-12: Weep
-12: Word
-11: Because
-11: Devil
-11: England’s
-11: Far
-11: Hands
-11: High
-11: Hold
-11: Hour
-11: Killed
-11: Kind
-11: Lady
-11: Loss
-11: Murder
-11: Need
-11: Norfolk
-11: Pardon
-11: Part
-11: Place
-11: Pray
-11: Saint
-11: Sent
-11: Shalt
-11: Tent
-11: Very
-11: Wrong
-10: After
-10: Arm
-10: Back
-10: Bad
-10: Best
-10: Bring
-10: Brother’s
-10: Canst
-10: Charge
-10: Cold
-10: England
-10: Eye
-10: Father’s
-10: Fearful
-10: Grey
-10: Himself
-10: Hither
-10: Hours
-10: Just
-10: Lordship
-10: Loving
-10: Means
-10: Meet
-10: Nothing
-10: Princes
-10: Said
-10: Sake
-10: Says
-10: State
-10: Straight
-10: Sword
-10: Tears
-10: Th’
-10: War
-10: Wear
-10: Welcome
-10: While
-9: Alas
-9: Beseech
-9: Boar
-9: Boy
-9: Break
-9: Citizens
-9: Dangerous
-9: Deadly
-9: Draw
-9: Field
-9: Gentlemen
-9: Grandam
-9: Grant
-9: Guilty
-9: Hearts
-9: Joy
-9: Keep
-9: Kingdom
-9: Law
-9: Learn
-9: Lest
-9: Liege
-9: Looked
-9: Loves
-9: Margaret
-9: Morrow
-9: Pity
-9: Pomfret
-9: Presence
-9: Prove
-9: Remember
-9: Revenge
-9: Self
-9: Side
-9: Slain
-9: Strike
-9: Sun
-9: Though
-9: Times
-9: Virtuous
-9: Wast
-9: Wish
-8: Beauty
-8: Bed
-8: Body
-8: Bold
-8: Bosom
-8: Brief
-8: Curses
-8: Entreat
-8: Face
-8: Faith
-8: Fellow
-8: Fly
-8: France
-8: Friend
-8: Golden
-8: Grievous
-8: Hadst
-8: Hence
-8: Issue
-8: Kindred
-8: Lost
-8: Plantagenet
-8: Proud
-8: Sanctuary
-8: Save
-8: Saw
-8: Scorn
-8: Stabbed
-8: Thing
-8: Thousand
-8: Title
-8: Traitor
-8: Truth
-8: Tyrrel
-8: Victory
-8: Villain
-8: Widow
-8: Win
-8: Without
-8: Wretched
-7: Almost
-7: Amen
-7: Anne
-7: Another
-7: Babes
-7: Between
-7: Birth
-7: Bitter
-7: Black
-7: Called
-7: Charity
-7: Counsel
-7: Course
-7: Cry
-7: Deeds
-7: Defend
-7: Degree
-7: Died
-7: Dispatch
-7: Dreams
-7: Drown
-7: Dull
-7: Duty
-7: Either
-7: Enemy
-7: Find
-7: Follow
-7: Glory
-7: Grave
-7: Guess
-7: Haste
-7: Hatred
-7: Highness
-7: Lancaster
-7: Left
-7: Lie
-7: March
-7: Mortal
-7: Mother’s
-7: Old
-7: Order
-7: Peers
-7: Quiet
-7: Quoth
-7: Return
-7: Sad
-7: Shore
-7: Sister
-7: Sit
-7: Spoke
-7: Tale
-7: Themselves
-7: There’s
-7: Thoughts
-7: Turn
-7: Unless
-7: Urge
-7: Vaughan
-7: Wail
-7: Want
-7: Wept
-7: William
-7: Witness
-7: Woes
-7: Womb
-7: Words
-7: Years
-7: Yield
-6: Angry
-6: Answer
-6: Awake
-6: Beat
-6: Believe
-6: Blame
-6: Bless
-6: Blunt
-6: Breast
-6: Breath
-6: Christian
-6: Company
-6: Corse
-6: Damnèd
-6: Deny
-6: Desire
-6: Dog
-6: Due
-6: Ears
-6: Flourish
-6: Gain
-6: Gentleman
-6: Grief
-6: Happiness
-6: Harm
-6: Health
-6: Henry
-6: Hide
-6: Ill
-6: Intend
-6: Kept
-6: Know’st
-6: Lead
-6: Leisure
-6: Mercy
-6: Methought
-6: Morning
-6: Nature
-6: Near
-6: Only
-6: Open
-6: O’clock
-6: Patience
-6: Person
-6: Plain
-6: Play
-6: Post
-6: Present
-6: Prithee
-6: Promise
-6: Queen’s
-6: Quick
-6: Rather
-6: Reason
-6: Reasons
-6: Seat
-6: Seen
-6: Slaughter
-6: Spirit
-6: Suit
-6: Talk
-6: Teach
-6: Thrive
-6: Tonight
-6: Touch
-6: Toward
-6: Towards
-6: Traitors
-6: Use
-6: Voice
-6: Wilt
-6: Wives
-6: Won
-6: Yourself
-6: ’t
-6: ’twas
-6: ’twere
-5: Adversaries
-5: Aid
-5: Air
-5: Alive
-5: Ancient
-5: Angels
-5: Attend
-5: Beg
-5: Behold
-5: Bids
-5: Book
-5: Breathing
-5: Broken
-5: Business
-5: Cheer
-5: Claim
-5: Close
-5: Clouds
-5: Country’s
-5: Cousins
-5: Crowned
-5: Cursed
-5: Cut
-5: Derby
-5: Deserve
-5: Dignity
-5: Direction
-5: Earl
-5: Effect
-5: Enjoy
-5: Expect
-5: Fast
-5: Fool
-5: Foot
-5: Forward
-5: Found
-5: Get
-5: Given
-5: Glass
-5: Gold
-5: Grow
-5: Guard
-5: Ha
-5: Having
-5: Heard
-5: Heart’s
-5: Height
-5: Heirs
-5: Henry’s
-5: Hie
-5: Home
-5: Humbly
-5: Humor
-5: Innocent
-5: Joys
-5: Kings
-5: King’s
-5: Kiss
-5: Laid
-5: Late
-5: Less
-5: Liberty
-5: Lived
-5: Living
-5: Lo
-5: London
-5: Lose
-5: Marquess
-5: Matter
-5: Melancholy
-5: Met
-5: Mild
-5: Miserable
-5: Neither
-5: Pale
-5: Pass
-5: Patient
-5: Paul
-5: Plead
-5: Pleasure
-5: Prayer
-5: Prayers
-5: Pretty
-5: Prey
-5: Protector
-5: Purpose
-5: Ready
-5: Repent
-5: Reward
-5: Safe
-5: Salisbury
-5: Same
-5: Scarce
-5: Seas
-5: Sends
-5: Service
-5: Several
-5: Shallow
-5: Sight
-5: Sin
-5: Sleeping
-5: Slew
-5: Small
-5: Smothered
-5: Soldiers
-5: Something
-5: Soon
-5: Sound
-5: Spent
-5: Stones
-5: Stroke
-5: Subject
-5: Surrey
-5: Ten
-5: Tewkesbury
-5: Thence
-5: Things
-5: Thither
-5: Thomas
-5: Three
-5: Throne
-5: Toad
-5: Together
-5: Trust
-5: Tut
-5: Uncles
-5: Until
-5: Untimely
-5: Vantage
-5: Virtue
-5: Warrant
-5: Weary
-5: Weeping
-5: Wherefore
-5: Wherein
-5: Whither
-5: Wine
-5: Wise
-5: Woe
-5: Woman
-5: Work
-5: Wouldst
-5: Wrath
-4: Abroad
-4: Account
-4: Adieu
-4: Afford
-4: Afraid
-4: Allies
-4: Along
-4: Army
-4: Assured
-4: Aunt
-4: Awhile
-4: Bar
-4: Become
-4: Beggar
-4: Behalf
-4: Betide
-4: Blessed
-4: Blind
-4: Butchered
-4: Captain
-4: Castle
-4: Chamberlain
-4: Change
-4: Clarence’
-4: Command
-4: Commanded
-4: Committed
-4: Coronation
-4: Coward
-4: Current
-4: Cursèd
-4: Danger
-4: Debt
-4: Delay
-4: Deserved
-4: Destruction
-4: Determined
-4: Divided
-4: Doom
-4: Dreadful
-4: Earnest
-4: Elizabeth
-4: Endure
-4: Entertain
-4: Fares
-4: Fathers
-4: Fault
-4: Favor
-4: Flatter
-4: Fled
-4: Followed
-4: Form
-4: Four
-4: G
-4: General
-4: Ghost
-4: Ground
-4: Growth
-4: Guiltless
-4: Haply
-4: Hark
-4: Harvest
-4: Heads
-4: Heed
-4: Heir
-4: Held
-4: Hereafter
-4: Humble
-4: Idle
-4: Imprisonment
-4: Intent
-4: Isle
-4: Jest
-4: John
-4: Joyful
-4: Keeper
-4: Kindness
-4: Lament
-4: Lawful
-4: Lend
-4: Let’s
-4: Light
-4: Load
-4: Lovell
-4: Margaret’s
-4: Master
-4: Meaning
-4: Meantime
-4: Men’s
-4: Mistress
-4: Moan
-4: Move
-4: Naught
-4: Next
-4: Nurse
-4: Oath
-4: Offended
-4: Opposite
-4: Other’s
-4: Outward
-4: Over
-4: Pain
-4: Paper
-4: Party
-4: Peevish
-4: Pleasing
-4: Poison
-4: Presently
-4: Prime
-4: Purse
-4: Quarrel
-4: Rage
-4: Rebels
-4: Record
-4: Regiment
-4: Remembrance
-4: Report
-4: Request
-4: Rescue
-4: Resolve
-4: Revenged
-4: Reverend
-4: Richard’s
-4: Rise
-4: Serve
-4: Shadow
-4: Shed
-4: Shortly
-4: Simple
-4: Slander
-4: Slaughtered
-4: Slave
-4: Smile
-4: Soft
-4: Sovereignty
-4: Speed
-4: Struck
-4: Subjects
-4: Subtle
-4: Sudden
-4: Suddenly
-4: Tedious
-4: Terror
-4: Thanks
-4: Tidings
-4: Tyranny
-4: Tyrant
-4: Ugly
-4: Unnatural
-4: Vengeance
-4: Wait
-4: Warwick
-4: Watch
-4: What’s
-4: Wit
-4: Withdraw
-4: Wounds
-4: Wrongs
-4: Wrongèd
-4: Youth
-4: Zounds
-3: Accept
-3: Accursèd
-3: Acquaint
-3: Advance
-3: Alone
-3: Already
-3: Amends
-3: Anointed
-3: Apparent
-3: Armor
-3: Aught
-3: Avoided
-3: Bark
-3: Base
-3: Bastardy
-3: Beauteous
-3: Beget
-3: Begin
-3: Begins
-3: Behind
-3: Beholding
-3: Benefit
-3: Besides
-3: Bitterly
-3: Bleeding
-3: Blessèd
-3: Born
-3: Bought
-3: Bound
-3: Bowels
-3: Brakenbury
-3: Brandon
-3: Brave
-3: Breathe
-3: Bright
-3: Brings
-3: Brook
-3: Brought
-3: Brows
-3: Burden
-3: Buried
-3: Bustle
-3: Butt
-3: Caesar
-3: Care
-3: Careful
-3: Chamber
-3: Changed
-3: Cheeks
-3: Cheerfully
-3: Chertsey
-3: Commend
-3: Concluded
-3: Condition
-3: Conduct
-3: Conference
-3: Confound
-3: Conquer
-3: Conqueror
-3: Contempt
-3: Content
-3: Contract
-3: Council
-3: Councils
-3: Creature
-3: Crept
-3: Cries
-3: Crosby
-3: Cross
-3: Dark
-3: Darkness
-3: Daughters
-3: Deal
-3: Deceit
-3: Deceive
-3: Deliver
-3: Desert
-3: Designs
-3: Determine
-3: Devilish
-3: Devotion
-3: Dighton
-3: Dire
-3: Discontented
-3: Dogs
-3: Doubtful
-3: Drawn
-3: Dread
-3: Drops
-3: Drum
-3: Drunken
-3: Duteous
-3: Earldom
-3: Early
-3: Earth’s
-3: Empty
-3: Enforcement
-3: Enmity
-3: Enough
-3: Enrich
-3: Entreaties
-3: Envy
-3: Evil
-3: E’er
-3: Faces
-3: Fain
-3: Fairer
-3: Fame
-3: Famous
-3: Fee
-3: Few
-3: Fiery
-3: Fill
-3: Foes
-3: Forgot
-3: Forrest
-3: Fouler
-3: Frantic
-3: Gift
-3: Gives
-3: Goodly
-3: Got
-3: Graces
-3: Graves
-3: Greet
-3: Half
-3: Harry
-3: Hateful
-3: Hates
-3: Heavens
-3: Helm
-3: Herself
-3: He’ll
-3: He’s
-3: Holds
-3: Holes
-3: Homicide
-3: Hopes
-3: Hurl
-3: Imagine
-3: Increase
-3: Infer
-3: Ink
-3: Jack
-3: Jealous
-3: Join
-3: Judge
-3: Judgment
-3: Justice
-3: Kindly
-3: Kingly
-3: Knocks
-3: Knot
-3: Lambs
-3: Lamentation
-3: Leaden
-3: Leads
-3: League
-3: Letter
-3: Lies
-3: Lightly
-3: Limit
-3: Lip
-3: Loath
-3: Looking
-3: Ludlow
-3: Mad
-3: Mad’st
-3: Man’s
-3: Master’s
-3: Mayst
-3: Meditation
-3: Meed
-3: Metal
-3: Methinks
-3: Methoughts
-3: Mewed
-3: Mistake
-3: Mistrust
-3: Monstrous
-3: Moved
-3: Murdered
-3: Murderer
-3: Murd’rous
-3: Muster
-3: Naked
-3: Needs
-3: Noise
-3: North
-3: Northumberland
-3: Offense
-3: Oft
-3: Often
-3: Oxford
-3: Pains
-3: Past
-3: Pause
-3: Pembroke
-3: Pent
-3: Perforce
-3: Peril
-3: Perjury
-3: Perpetual
-3: Pieces
-3: Piteous
-3: Pleaseth
-3: Plucked
-3: Precious
-3: Prepare
-3: Prevented
-3: Priest
-3: Prophesy
-3: Proportion
-3: Protest
-3: Provokèd
-3: Purchase
-3: Red
-3: Reign
-3: Relent
-3: Remorse
-3: Reported
-3: Requests
-3: Ruin
-3: Rutland
-3: Safety
-3: Saying
-3: Scarcely
-3: Scattered
-3: Scene
-3: Scorned
-3: Sea
-3: Seal
-3: Secret
-3: Secure
-3: Selfsame
-3: She’s
-3: Shine
-3: Shoulders
-3: Sickly
-3: Sights
-3: Sign
-3: Sins
-3: Sixth
-3: Smooth
-3: Sort
-3: Souls’
-3: Spake
-3: Stands
-3: Steal
-3: Stern
-3: Stood
-3: Stop
-3: Stopped
-3: Story
-3: Strength
-3: Strong
-3: Success
-3: Sued
-3: Sues
-3: Summer
-3: Suspect
-3: Swords
-3: Taken
-3: Talked
-3: Tardy
-3: Ta’en
-3: Tempt
-3: That’s
-3: Therein
-3: Think’st
-3: Throat
-3: Throw
-3: Torment
-3: Treacherous
-3: Truly
-3: Twenty
-3: Under
-3: Undertake
-3: Ungoverned
-3: Urged
-3: Used
-3: Usurp
-3: Usurped
-3: Valiant
-3: Vice
-3: Victorious
-3: Vouchsafe
-3: Vow
-3: Wales
-3: Walls
-3: Walter
-3: Warlike
-3: Warn
-3: Wars
-3: Wash
-3: Watchful
-3: Weak
-3: Weeds
-3: Weigh
-3: We’ll
-3: Whiles
-3: Wife’s
-3: Wings
-3: Wished
-3: Woeful
-3: Wonderful
-3: Wont
-3: World’s
-3: Worse
-3: Worthy
-3: Wretch
-3: Write
-3: Yes
-3: Yoke
-3: York’s
-3: Yourselves
-2: Abides
-2: Abortive
-2: Accursed
-2: Accuse
-2: Accused
-2: Acquit
-2: Act
-2: Advancement
-2: Advantage
-2: Adverse
-2: Advised
-2: Aerie
-2: Affairs
-2: Agony
-2: Aim
-2: Airy
-2: Alack
-2: Albeit
-2: Alliance
-2: Aloud
-2: Although
-2: Among
-2: Angel
-2: Anon
-2: Anything
-2: Archers
-2: Argues
-2: Ask
-2: Attempt
-2: Attorney
-2: Avoid
-2: Awaked
-2: Bade
-2: Banishment
-2: Barren
-2: Bastards
-2: Baynard’s
-2: Bears
-2: Beast
-2: Befall
-2: Beggars
-2: Begging
-2: Belike
-2: Below
-2: Bend
-2: Betwixt
-2: Bewept
-2: Bites
-2: Blemished
-2: Blessing
-2: Block
-2: Blush
-2: Bodies
-2: Bones
-2: Boon
-2: Boot
-2: Borne
-2: Bosoms
-2: Bottled
-2: Bottom
-2: Bowl
-2: Boys
-2: Breaks
-2: Breathed
-2: Breton
-2: Bretons
-2: Brittany
-2: Brotherhood
-2: Buckle
-2: Buildeth
-2: Bunch-backed
-2: Busy
-2: Butcheries
-2: Buy
-2: Cam’st
-2: Cares
-2: Case
-2: Cast
-2: Catch
-2: Causer
-2: Censures
-2: Ceremonious
-2: Chair
-2: Chance
-2: Chase
-2: Cheerful
-2: Cherish
-2: Children’s
-2: Choose
-2: Circumstance
-2: Closely
-2: Cloudy
-2: Color
-2: Commanding
-2: Commit
-2: Complaining
-2: Complaints
-2: Complots
-2: Com’st
-2: Confess
-2: Conquerors
-2: Conquest
-2: Consent
-2: Consequence
-2: Consorted
-2: Contrary
-2: Convey
-2: Corruption
-2: Cost
-2: Country
-2: Courageous
-2: Courtesy
-2: Cowardly
-2: Cried
-2: Dagger
-2: Dare
-2: Daring
-2: Daughter’s
-2: Day’s
-2: Dearest
-2: Deaths
-2: Defaced
-2: Deformity
-2: Delight
-2: Delivered
-2: Delivery
-2: Depart
-2: Descant
-2: Despairing
-2: Desperate
-2: Desp’rate
-2: Destiny
-2: Device
-2: Devils
-2: Devised
-2: Devoted
-2: Dew
-2: Did’st
-2: Dinner
-2: Direful
-2: Discipline
-2: Discourse
-2: Disgrace
-2: Disgraced
-2: Disgracious
-2: Dishonored
-2: Dismal
-2: Dispersed
-2: Dissemble
-2: Dissembling
-2: Distress
-2: Distressèd
-2: Divine
-2: Divines
-2: Doing
-2: Double
-2: Dream’st
-2: Drew
-2: Drink
-2: Drop
-2: Drums
-2: Dukes
-2: Dwell
-2: Dwells
-2: Eagles
-2: Ear
-2: East
-2: Edgeless
-2: Ely
-2: Embrace
-2: Employ
-2: Ends
-2: Endured
-2: Enter
-2: Entrails
-2: Envious
-2: Equally
-2: Eternal
-2: Evidence
-2: Excellent
-2: Exclaims
-2: Excuse
-2: Execution
-2: Executioner
-2: Exercise
-2: Exeter
-2: Expedition
-2: Exploit
-2: Extreme
-2: Faction
-2: Factious
-2: Factor
-2: Fairly
-2: Faithful
-2: Falls
-2: Fall’n
-2: Falsely
-2: Fatal
-2: Father-in-law
-2: Feared
-2: Fears
-2: Feel
-2: Felt
-2: Fie
-2: Fiends
-2: Fills
-2: Finds
-2: Firm
-2: Five
-2: Flies
-2: Flood
-2: Flowers
-2: Foe
-2: Followers
-2: Follows
-2: Fond
-2: Foolish
-2: Forbear
-2: Forbids
-2: Force
-2: Foreign
-2: Forever
-2: Forget
-2: Forsake
-2: Framed
-2: Franked
-2: Free
-2: Friendship
-2: Fright
-2: Frown
-2: Frowned
-2: Garland
-2: Garments
-2: Garter
-2: Gave
-2: George’s
-2: Giddy
-2: Glories
-2: Goes
-2: Going
-2: Goodnight
-2: Governed
-2: Government
-2: Graced
-2: Grace’s
-2: Greater
-2: Greatness
-2: Green
-2: Grew
-2: Griefs
-2: Grieves
-2: Gross
-2: Grown
-2: Grows
-2: Guildhall
-2: Guile
-2: Guilt
-2: Hair
-2: Hap
-2: Hardy
-2: Harms
-2: Harp
-2: Hastings’
-2: Hasty
-2: Hatches
-2: Haughty
-2: Haunt
-2: Heap
-2: Heartily
-2: Heavily
-2: Herbert
-2: Hereford
-2: Herein
-2: Honest
-2: Honorable
-2: Hot
-2: Hover
-2: Humility
-2: Hung
-2: Hunt
-2: Hurled
-2: Ignoble
-2: Impart
-2: Impatience
-2: Imperial
-2: Incense
-2: Index
-2: Indirect
-2: Infamy
-2: Infant
-2: Inferred
-2: Injury
-2: Instead
-2: Intelligence
-2: Interchange
-2: Interest
-2: Inward
-2: It’s
-2: James
-2: Jesu
-2: Jocund
-2: Julius
-2: Keeps
-2: Kissed
-2: Knee
-2: Knees
-2: Knew
-2: Knife
-2: Labor
-2: Lands
-2: Land’s
-2: Lap
-2: Lately
-2: Least
-2: Leaves
-2: Led
-2: Leicester
-2: Lengthened
-2: Lent
-2: Letters
-2: Lewd
-2: Liest
-2: Lieutenant
-2: Likelihood
-2: Likes
-2: Lineal
-2: Lineaments
-2: Lips
-2: Longer
-2: Lord’s
-2: Love’s
-2: Low
-2: Loyal
-2: Lucy
-2: Main
-2: Malice
-2: Malmsey
-2: Manner
-2: Manners
-2: Mark
-2: Marriage
-2: Marvel
-2: Massacre
-2: Match
-2: Matched
-2: Meanings
-2: Meant
-2: Mercury
-2: Merry
-2: Millstones
-2: Minds
-2: Minister
-2: Ministers
-2: Miseries
-2: Mock
-2: Mocked
-2: Moiety
-2: Monarchy
-2: Months
-2: Morn
-2: Morton
-2: Mourn
-2: Mourner
-2: Mouth
-2: Movables
-2: Nails
-2: Navy
-2: Nearer
-2: Nearest
-2: Neck
-2: Neighbor
-2: Nest
-2: New
-2: Nights
-2: Nine
-2: Nobility
-2: Number
-2: Obdurate
-2: Obedient
-2: Obey
-2: Obstacles
-2: Occasion
-2: Office
-2: Ominous
-2: Opinion
-2: Orators
-2: Oratory
-2: Ordinance
-2: Orphans
-2: Others
-2: Ours
-2: Outrage
-2: O’er
-2: O’erpast
-2: Painted
-2: Parlous
-2: Partly
-2: Passed
-2: Path
-2: Paul’s
-2: Pawned
-2: Pearl
-2: Perceive
-2: Perfect
-2: Perfection
-2: Perhaps
-2: Period
-2: Piece
-2: Pierce
-2: Pitch
-2: Plague
-2: Plainly
-2: Plant
-2: Plants
-2: Pleasures
-2: Plots
-2: Pluck
-2: Point
-2: Possess
-2: Pour
-2: Praying
-2: Prevail
-2: Prevailed
-2: Princess
-2: Prisoners
-2: Privilege
-2: Proceed
-2: Process
-2: Profaned
-2: Proffered
-2: Promotions
-2: Pronounced
-2: Proof
-2: Proper
-2: Prophecies
-2: Prophesied
-2: Prophet
-2: Prophetess
-2: Prosper
-2: Protect
-2: Provoked
-2: Quake
-2: Queens
-2: Quicken
-2: Quit
-2: Raised
-2: Rancor
-2: Rashly
-2: Reach
-2: Reap
-2: Receive
-2: Redeemer
-2: Reduce
-2: Refuse
-2: Reigns
-2: Renownèd
-2: Repair
-2: Reproof
-2: Resign
-2: Respects
-2: Revolt
-2: Richmond’s
-2: Rid
-2: Rights
-2: Ring
-2: Ripe
-2: Rood
-2: Royalty
-2: Rude
-2: Rue
-2: Rule
-2: Ruled
-2: Run
-2: Sacrament
-2: Saints
-2: Salute
-2: Sap
-2: Satisfied
-2: Savage
-2: Scope
-2: Scorns
-2: Season
-2: Seated
-2: Second
-2: Seem
-2: Seems
-2: Seldom
-2: Sequel
-2: Shade
-2: Shadows
-2: Shake
-2: Shape
-2: Sharp
-2: Shore’s
-2: Short
-2: Show
-2: Showed
-2: Sick
-2: Sickness
-2: Sigh
-2: Signify
-2: Silence
-2: Silent
-2: Sirs
-2: Six
-2: Sky
-2: Slaughterhouse
-2: Slay
-2: Slept
-2: Sly
-2: Snow
-2: Soever
-2: Soldier
-2: Somebody
-2: Sorrows
-2: Soul’s
-2: Sounded
-2: Spare
-2: Speaks
-2: Spider
-2: Spleen
-2: Split
-2: Spurn
-2: Stab
-2: Standards
-2: Standers-by
-2: Stars
-2: Started
-2: Staves
-2: Steeped
-2: Stir
-2: Stock
-2: Store
-2: Strawberries
-2: Strive
-2: Strumpet
-2: Substitute
-2: Succeeders
-2: Successively
-2: Suffer
-2: Sup
-2: Supper
-2: Suppose
-2: Supreme
-2: Sure
-2: Suspects
-2: Suspicion
-2: Sweeter
-2: Swift
-2: Sworn
-2: Taunts
-2: Tear
-2: Telling
-2: Tempest
-2: Temples
-2: Tempted
-2: Tenderness
-2: Thinking
-2: Thinks
-2: Threat
-2: Throng
-2: Through
-2: Titles
-2: Token
-2: Tomorrow’s
-2: Tongue-tied
-2: Tongues
-2: Took
-2: Tooth
-2: Top
-2: Touched
-2: Touches
-2: Town
-2: Train
-2: Treason
-2: Tremble
-2: Trembling
-2: Triumph
-2: Triumphant
-2: Troop
-2: Troops
-2: Trouble
-2: Trumpets
-2: Turned
-2: Unavoided
-2: Unfit
-2: Unhappy
-2: Unity
-2: Unjustly
-2: Unknown
-2: Unlawful
-2: Unquiet
-2: Unrest
-2: Untainted
-2: Unwillingness
-2: Upright
-2: Usurping
-2: Vain
-2: Valor
-2: Vassals
-2: Vein
-2: Venom
-2: View
-2: Vile
-2: Villains
-2: Violence
-2: Visit
-2: Wake
-2: Wakes
-2: Wand’ring
-2: Wanton
-2: Washed
-2: Waters
-2: Wayward
-2: Well-spoken
-2: Went
-2: Western
-2: Wet
-2: Whereof
-2: Whether
-2: Whe’er
-2: White
-2: Who’s
-2: Wicked
-2: Wild
-2: Wind
-2: Windows
-2: Wingèd
-2: Winter
-2: Wisdom
-2: Witch
-2: Witchcraft
-2: Withered
-2: Women
-2: Wonders
-2: Woo
-2: Woodeville
-2: Wooed
-2: Worldly
-2: Worship
-2: Worth
-2: Wot
-2: Wound
-2: Wrangling
-2: Wrinkled
-2: Wronged
-2: Yea
-2: Yielded
-2: Zeal
-2: ’twill
-1: A-doing
-1: A-growing
-1: A-high
-1: Abase
-1: Abate
-1: Abjects
-1: Abode
-1: Above
-1: Abraham’s
-1: Abroach
-1: Absence
-1: Abstract
-1: Abused
-1: Abusing
-1: Accent
-1: Accessory
-1: Accident
-1: Accompanied
-1: Accusers
-1: Accuseth
-1: Accustomed
-1: Acquainted
-1: Acquittance
-1: Action
-1: Admiral
-1: Admit
-1: Admitted
-1: Adoreth
-1: Adorn
-1: Adulterate
-1: Advantaging
-1: Adventure
-1: Adventures
-1: Adversary’s
-1: Advertisèd
-1: Advice
-1: Advocate
-1: Aerie’s
-1: Affected
-1: Afflict
-1: Affords
-1: Affright
-1: Affrighted
-1: Affrights
-1: Afresh
-1: After-hours
-1: After-supper
-1: Afternoon
-1: Afterward
-1: Afterwards
-1: Ages
-1: Ago
-1: Agèd
-1: Aiding
-1: Aiming
-1: Aims
-1: Alabaster
-1: Alacrity
-1: Alarum
-1: Alarums
-1: Albans
-1: Aldermen
-1: All-ending
-1: All-seeing
-1: All-seer
-1: Allegiance
-1: All’s
-1: Altogether
-1: Always
-1: Amaze
-1: Ambition
-1: Ambling
-1: Amend
-1: Amended
-1: Amendment
-1: Amiss
-1: Amity
-1: Amorous
-1: Ample
-1: Ancestors
-1: Ancestry
-1: Anchored
-1: Anchors
-1: Annoy
-1: Another’s
-1: Answered
-1: Anthony
-1: Ap
-1: Apace
-1: Apart
-1: Ape
-1: Apish
-1: Apology
-1: Apostle
-1: Appears
-1: Appearèd
-1: Appease
-1: Appetite
-1: Applause
-1: Appointed
-1: Aptly
-1: Arbitrament
-1: Arch
-1: Arguments
-1: Arise
-1: Armed
-1: Armèd
-1: Arrogance
-1: Arrows
-1: Ascend
-1: Ashes
-1: Ashore
-1: Aside
-1: Asked
-1: Asleep
-1: Aspect
-1: Aspects
-1: Aspiring
-1: Assembled
-1: Assistance
-1: Assistants
-1: Assurance
-1: Assurèd
-1: Asunder
-1: Atonement
-1: Attainder
-1: Attempts
-1: Attendance
-1: Attendant
-1: Attended
-1: Attorneys
-1: Avaunt
-1: Avenged
-1: Avengèd
-1: Avouch
-1: Award
-1: Awe
-1: Aweless
-1: Babbling
-1: Babe
-1: Babies
-1: Bachelor
-1: Backed
-1: Baited
-1: Balm
-1: Banishèd
-1: Banks
-1: Barbèd
-1: Bard
-1: Bare
-1: Bars
-1: Bashful
-1: Basilisks’
-1: Bastard
-1: Battalia
-1: Bay
-1: Beads
-1: Beams
-1: Beastly
-1: Beaten
-1: Beauty-waning
-1: Beauty’s
-1: Beaver
-1: Became
-1: Becomes
-1: Bedashed
-1: Bedchamber
-1: Bedfellows
-1: Befall’n
-1: Began
-1: Beggarly
-1: Beggary
-1: Begged
-1: Begnaw
-1: Begone
-1: Begot
-1: Beheaded
-1: Beheld
-1: Beholders
-1: Belch
-1: Believed
-1: Bending
-1: Bent
-1: Bereft
-1: Berkeley
-1: Bestial
-1: Bethink
-1: Betimes
-1: Betrayed
-1: Betrothed
-1: Bettering
-1: Beware
-1: Beweep
-1: Bewitched
-1: Bigamy
-1: Billows
-1: Bind
-1: Births
-1: Bishop
-1: Bishops
-1: Biting
-1: Bitterness
-1: Black-faced
-1: Blade
-1: Blameful
-1: Blasted
-1: Blasts
-1: Bleed
-1: Blemish
-1: Blessings
-1: Blindly
-1: Blocks
-1: Bloodily
-1: Bloodless
-1: Bloodsuckers
-1: Blots
-1: Blow
-1: Blue
-1: Bluntly
-1: Blushing
-1: Boar-spear
-1: Boar’s
-1: Boat
-1: Bobbed
-1: Body’s
-1: Boist’rous
-1: Bolder
-1: Boldly
-1: Boldness
-1: Bona
-1: Bond
-1: Bonny
-1: Bootless
-1: Bosworth
-1: Bounds
-1: Bounteous
-1: Bounty
-1: Bow
-1: Brace
-1: Brains
-1: Brake
-1: Branches
-1: Branded
-1: Brat
-1: Brats
-1: Braved
-1: Bravely
-1: Brawl
-1: Breach
-1: Breakfast
-1: Breathes
-1: Brecknock
-1: Bred
-1: Breed
-1: Brethren
-1: Bridge
-1: Brittle
-1: Broils
-1: Broke
-1: Brooked
-1: Brow
-1: Bruised
-1: Bruising
-1: Bruisèd
-1: Brutish
-1: Bubble
-1: Buckingham’s
-1: Build
-1: Builds
-1: Built
-1: Bulk
-1: Bulwarks
-1: Burdened
-1: Burgundy
-1: Burial
-1: Burièd
-1: Burn
-1: Burns
-1: Burst
-1: Bury
-1: Butcher
-1: Butchery
-1: Butcherèd
-1: Buzzards
-1: Cabin
-1: Cacodemon
-1: Caesar’s
-1: Caitiff
-1: Calamity
-1: Calendar
-1: Calls
-1: Cancel
-1: Capable
-1: Caparison
-1: Capers
-1: Caps
-1: Captive
-1: Car
-1: Cardinal
-1: Care-crazed
-1: Carnal
-1: Carping
-1: Carters
-1: Castaways
-1: Caused
-1: Cave
-1: Cedar’s
-1: Center
-1: Certain
-1: Certifies
-1: Changing
-1: Chaplain
-1: Characters
-1: Charged
-1: Charges
-1: Charitable
-1: Charm
-1: Charms
-1: Charter
-1: Chastisement
-1: Chastisèd
-1: Cheated
-1: Checked
-1: Checks
-1: Cheek
-1: Cheering
-1: Cheerly
-1: Cheerèd
-1: Cherished
-1: Cherry
-1: Chide
-1: Chiefest
-1: Childish
-1: Childish-foolish
-1: Chop
-1: Christendom
-1: Christened
-1: Christian-like
-1: Christopher
-1: Christ’s
-1: Churchmen
-1: Circling
-1: Circumspect
-1: Circumstances
-1: Cited
-1: Cities
-1: Citizen
-1: City
-1: City’s
-1: Civil
-1: Claimed
-1: Clamorous
-1: Clean
-1: Clergymen
-1: Clients’
-1: Clifford
-1: Cloaks
-1: Clock
-1: Closet
-1: Closure
-1: Clothe
-1: Clout
-1: Cloy
-1: Coast
-1: Cock
-1: Cockatrice
-1: Cockshut
-1: Coffin
-1: Cog
-1: Colder
-1: Colors
-1: Comfortable
-1: Comforter
-1: Comforts
-1: Coming
-1: Commends
-1: Commenting
-1: Commission
-1: Common
-1: Compact
-1: Compare
-1: Compass
-1: Compassion
-1: Compelled
-1: Competitors
-1: Complains
-1: Complete
-1: Compounded
-1: Computation
-1: Conceal
-1: Conceit
-1: Conclude
-1: Conclusion
-1: Condemns
-1: Confederates
-1: Confer
-1: Confines
-1: Confirm
-1: Confirmed
-1: Congealed
-1: Conjoin
-1: Conjunction
-1: Conjures
-1: Conquered
-1: Conqueror’s
-1: Consented
-1: Consider
-1: Considerate
-1: Considered
-1: Considerèd
-1: Consisting
-1: Consistory
-1: Consists
-1: Conspire
-1: Consult
-1: Consumed
-1: Contemplation
-1: Contented
-1: Continually
-1: Continue
-1: Control
-1: Convenient
-1: Conversation
-1: Converse
-1: Conveyance
-1: Conveyed
-1: Convict
-1: Cope
-1: Copious
-1: Cordial
-1: Corpse
-1: Corrupt
-1: Corrupted
-1: Corrupting
-1: Costard
-1: Couldst
-1: Council’s
-1: Counsels
-1: Count
-1: Counted
-1: Counterfeit
-1: Countermand
-1: Countess
-1: Countrymen
-1: Courage
-1: Court
-1: Courtesans
-1: Courtney
-1: Covered
-1: Covert’st
-1: Covet
-1: Cowards
-1: Cozened
-1: Cracked
-1: Cradle
-1: Crave
-1: Crazed
-1: Creation
-1: Creatures
-1: Creeping
-1: Crew
-1: Crimes
-1: Cripple
-1: Cropped
-1: Crosses
-1: Crossrow
-1: Crowning
-1: Crownèd
-1: Crush
-1: Crust
-1: Crutches
-1: Crying
-1: Cue
-1: Cunning
-1: Cup
-1: Cur
-1: Cure
-1: Currents
-1: Cursing
-1: Curst
-1: Curtailed
-1: Cuts
-1: Dabbled
-1: Daggers
-1: Daily
-1: Dallied
-1: Dallies
-1: Dally
-1: Dallying
-1: Damage
-1: Damnable
-1: Damned
-1: Dance
-1: Darkly
-1: Dar’st
-1: Dash
-1: Date
-1: Daubed
-1: Dead-killing
-1: Dealing
-1: Dealings
-1: Dealt
-1: Dearly
-1: Dearth
-1: Deaths’
-1: Decay
-1: Deceived
-1: Decked
-1: Declension
-1: Decline
-1: Deed’s
-1: Deep-revolving
-1: Deeper
-1: Deeply
-1: Defacer
-1: Defects
-1: Deferred
-1: Definitively
-1: Deformed
-1: Defused
-1: Deity
-1: Delightful
-1: Delivers
-1: Deluge
-1: Demise
-1: Denier
-1: Denounced
-1: Denying
-1: Departure
-1: Depose
-1: Deposed
-1: Deputy
-1: Descent
-1: Descried
-1: Deserts
-1: Deserves
-1: Deservèd
-1: Design
-1: Desires
-1: Desolation
-1: Desperately
-1: Despiteful
-1: Destined
-1: Destroy
-1: Detects
-1: Determinèd
-1: Detested
-1: Devisèd
-1: Devonshire
-1: Devout
-1: Dewy
-1: Dickon
-1: Dies
-1: Diet
-1: Differs
-1: Digest
-1: Dimmed
-1: Dimming
-1: Dine
-1: Direct
-1: Directed
-1: Direst
-1: Disclosed
-1: Discontent
-1: Discovered
-1: Disdain
-1: Disdains
-1: Disinherited
-1: Dismayed
-1: Disobeys
-1: Dispatched
-1: Displeased
-1: Disposition
-1: Dispute
-1: Dissembler
-1: Dissentious
-1: Distain
-1: Distinguish
-1: Distraught
-1: Distressed
-1: Distressful
-1: Disturbers
-1: Dive
-1: Dived
-1: Divers
-1: Divinely
-1: Division
-1: Doctor
-1: Doers
-1: Domestic
-1: Doomsday
-1: Dorsetshire
-1: Doting
-1: Downfall
-1: Dragons
-1: Drain
-1: Drawbridge
-1: Dreamed
-1: Dreaming
-1: Dreamt
-1: Dregs
-1: Drew’st
-1: Drink’st
-1: Drowsy
-1: Drunk
-1: Dry
-1: Dubbed
-1: Duck
-1: Dugs
-1: Dukedom
-1: Duke’s
-1: Dull-brained
-1: Dumb
-1: Dungeon
-1: During
-1: Dusky
-1: Dust
-1: Dying
-1: Earls
-1: Ease
-1: Easier
-1: Easily
-1: Easy
-1: Eat
-1: Eavesdropper
-1: Edge
-1: Edict
-1: Effeminate
-1: Eighty-odd
-1: Elbow
-1: Elder
-1: Eleven
-1: Eloquent
-1: Elvish-marked
-1: Embarked
-1: Embassage
-1: Embowelled
-1: Embracements
-1: Empery
-1: Empire
-1: Employed
-1: Emulation
-1: Enacts
-1: Encloseth
-1: Encompasseth
-1: Encounter
-1: Encourage
-1: Encouragement
-1: Endeavors
-1: Endow
-1: Enforce
-1: Enforced
-1: Enforcèd
-1: Enfranchise
-1: English
-1: Englishman
-1: Engrave
-1: Engross
-1: Engrossed
-1: Enjoyed
-1: Enjoys
-1: Ennoble
-1: Enriched
-1: Ensnareth
-1: Ensues
-1: Ensuing
-1: Entered
-1: Enterprise
-1: Entreats
-1: Environed
-1: Equals
-1: Erroneous
-1: Espouse
-1: Established
-1: Estate
-1: Estates
-1: Everlastingly
-1: Evils
-1: Exceeding
-1: Except
-1: Excepting
-1: Exclaim
-1: Exclaimed
-1: Exclamations
-1: Excused
-1: Execute
-1: Executed
-1: Executioners
-1: Exempt
-1: Exhale
-1: Exhales
-1: Expecting
-1: Expedient
-1: Experience
-1: Expiate
-1: Expostulate
-1: Extremest
-1: Extremity
-1: Fail
-1: Fainting
-1: Fairest-boding
-1: Falchion
-1: Falling
-1: False-boding
-1: Falsehood
-1: Familiarly
-1: Famished
-1: Famously
-1: Fare
-1: Farther
-1: Fashions
-1: Fat
-1: Fatherless
-1: Fatting
-1: Faultless
-1: Faults
-1: Favorable
-1: Fawns
-1: Fearfull’st
-1: Fearing
-1: Feature
-1: Feeble
-1: Feed
-1: Feeling
-1: Feet
-1: Feignèd
-1: Fell
-1: Fellows
-1: Ferrers
-1: Ferryman
-1: Fet
-1: Fetch
-1: Fields
-1: Fiend
-1: Fierce
-1: Fights
-1: Figure
-1: Figured
-1: Filled
-1: Finger
-1: Fire-new
-1: Fishes
-1: Fit
-1: Fitter
-1: Fitteth
-1: Fitting
-1: Fixed
-1: Flag
-1: Flaky
-1: Flame
-1: Flattered
-1: Flatterer
-1: Flattering
-1: Fleeting
-1: Flesh
-1: Fleshed
-1: Flint
-1: Flock
-1: Floods
-1: Flout
-1: Flouted
-1: Foil
-1: Folded
-1: Fondly
-1: Fools
-1: Fools’
-1: Foot-cloth
-1: Footing
-1: Forbid
-1: Forces
-1: Forehead
-1: Foreward
-1: Forfeit
-1: Forgetfulness
-1: Forgive
-1: Formal
-1: Former
-1: Forsook
-1: Forsooth
-1: Forswearing
-1: Forswore
-1: Forthwith
-1: Fortnight
-1: Fought
-1: Foul-faced
-1: Foulest
-1: Frail
-1: Freedom
-1: Freezes
-1: French
-1: Friar
-1: Friendly
-1: Friends’
-1: Frightful
-1: Front
-1: Frowning
-1: Frowns
-1: Frozen
-1: Fruit
-1: Fruitful
-1: Fruits
-1: Fulfill
-1: Fulsome
-1: Furies
-1: Furious
-1: Gains
-1: Gallant-springing
-1: Gallèd
-1: Gape
-1: Gapes
-1: Garden
-1: Garish
-1: Garlands
-1: Gav’st
-1: Gaze
-1: Gems
-1: Gentlefolks
-1: Gentlewomen
-1: Gently
-1: Ghastly
-1: Gifts
-1: Gilbert
-1: Girdling
-1: Giving
-1: Glad
-1: Glorious
-1: Gloucester’s
-1: Gnaw
-1: Gnawed
-1: Gnaws
-1: Godfathers
-1: Gods
-1: Goods
-1: Gossips
-1: Govern
-1: Go’st
-1: Graces’
-1: Graft
-1: Gramercy
-1: Grand
-1: Grandam’s
-1: Granted
-1: Grants
-1: Gratulate
-1: Grave’s
-1: Greatest
-1: Greediness
-1: Grim-visaged
-1: Groans
-1: Grossly
-1: Grossness
-1: Grounded
-1: Grudge
-1: Grudging
-1: Guide
-1: Guilfords
-1: Guiltily
-1: Guiltiness
-1: Gulf
-1: Gulls
-1: Hacked
-1: Hag
-1: Halberd
-1: Hall
-1: Halt
-1: Halts
-1: Handiwork
-1: Handkerchief
-1: Handled
-1: Handsome
-1: Hang
-1: Hanged
-1: Hangs
-1: Hard
-1: Hardly
-1: Harlot
-1: Harmed
-1: Harmful
-1: Harmless
-1: Harry’s
-1: Harsh
-1: Has
-1: Hatched
-1: Hated
-1: Hats
-1: Haught
-1: Hazard
-1: Ha’rfordwest
-1: Head’s
-1: Heaps
-1: Hearing
-1: Hearkens
-1: Hears
-1: Hearse
-1: Heart-sorrowing
-1: Heart-strings
-1: Heaved
-1: Heavenly
-1: Heavier
-1: Hedgehog
-1: Heels
-1: Heinous
-1: Hell-governed
-1: Hellhound
-1: Hellish
-1: Hell’s
-1: Helmets
-1: Helms
-1: Helped
-1: Helpless
-1: Help’st
-1: Herald
-1: Heralds
-1: Herbs
-1: Hereby
-1: Here’s
-1: Hers
-1: Hid
-1: Hidden
-1: Hideous
-1: Hid’st
-1: Hies
-1: High-reaching
-1: High-reared
-1: High-swoll’n
-1: Higher
-1: Highest
-1: Highly
-1: Highness’
-1: Hilts
-1: Hind
-1: Hinder
-1: Hire
-1: Hired
-1: History
-1: Hit
-1: Hitherto
-1: Ho
-1: Hog
-1: Hoised
-1: Holborn
-1: Hole
-1: Hollow
-1: Hollow-hearted
-1: Holp
-1: Holp’st
-1: Honesty
-1: Honey
-1: Honors
-1: Honor’s
-1: Hopeful
-1: Hoping
-1: Horses
-1: Hostile
-1: Hour’s
-1: Hower
-1: Howlèd
-1: Hoyday
-1: Hugged
-1: Hull
-1: Humfrey
-1: Hungry
-1: Husband’s
-1: Ice
-1: Icy
-1: Idea
-1: Ifs
-1: Ignorance
-1: Ill-dispersing
-1: Ill-used
-1: Image
-1: Images
-1: Imaginations
-1: Immaculate
-1: Immured
-1: Impeachments
-1: Impediment
-1: Importing
-1: Importune
-1: Impose
-1: Imposition
-1: Impotent
-1: Impression
-1: Imprison
-1: Imprisoned
-1: Impure
-1: Incapable
-1: Incensèd
-1: Inclination
-1: Includes
-1: Inclusive
-1: Increaseth
-1: Incur
-1: Indictment
-1: Indignation
-1: Indirectly
-1: Inducement
-1: Induction
-1: Inductions
-1: Inestimable
-1: Infancy
-1: Infants
-1: Infect
-1: Infected
-1: Infection
-1: Infidels
-1: Infringe
-1: Ingenious
-1: Inhabit
-1: Inheritor
-1: Inhuman
-1: Iniquity
-1: Injured
-1: Injustice
-1: Innocence
-1: Innocents
-1: Inquire
-1: Insatiate
-1: Insinuate
-1: Insinuating
-1: Inspire
-1: Installment
-1: Instance
-1: Instigation
-1: Instinct
-1: Insulting
-1: Intelligencer
-1: Intending
-1: Inter
-1: Intercepted
-1: Intercepts
-1: Interior
-1: Interred
-1: Interruption
-1: Interrèd
-1: Intestate
-1: Inviolable
-1: Invocate
-1: Ireland
-1: Iron-witted
-1: Irons
-1: Issued
-1: Itself
-1: Iwis
-1: Jacks
-1: Jewels
-1: Jockey
-1: Joined
-1: Jolly
-1: Jot
-1: Journeys
-1: Jove’s
-1: Joyfully
-1: Joyless
-1: Jumpeth
-1: Justices
-1: Jut
-1: Keen
-1: Keeping
-1: Keep’st
-1: Kennel
-1: Kent
-1: Key-cold
-1: Keys
-1: Killed’st
-1: Killing
-1: Kindness’
-1: Kingdom’s
-1: Kinsman
-1: Kissing
-1: Kites
-1: Kneeled
-1: Kneels
-1: Knightly
-1: Knit
-1: Knowest
-1: Knowledge
-1: Known
-1: Lace
-1: Lack
-1: Lackey
-1: Ladies
-1: Lads
-1: Lady’s
-1: Lag
-1: Lamely
-1: Lamentations
-1: Lamenting
-1: Lance
-1: Landed
-1: Lark
-1: Lascivious
-1: Lash
-1: Laugh
-1: Launched
-1: Lawless
-1: Leader
-1: Leading
-1: Learned
-1: Leaving
-1: Legion
-1: Legs
-1: Leisurely
-1: Length
-1: Lengthens
-1: Lessened
-1: Lesser
-1: Lessoned
-1: Lethe
-1: Level
-1: Levy
-1: Libels
-1: Liberal
-1: Life’s
-1: Light-foot
-1: Lighted
-1: Lighter
-1: Lightning
-1: Lights
-1: Likewise
-1: Limbs
-1: Lines
-1: Liquid
-1: Livelihood
-1: Livery
-1: Liv’st
-1: Loathed
-1: Loathes
-1: Loathèd
-1: Lodged
-1: Loins
-1: Lolling
-1: Long-usurpèd
-1: Longs
-1: Looker-on
-1: Loose
-1: Lordly
-1: Lordship’s
-1: Lour
-1: Loured
-1: Love-bed
-1: Loved
-1: Lovelier
-1: Lovely
-1: Lover
-1: Loveth
-1: Lower
-1: Lowly
-1: Loyalty
-1: Luck
-1: Lump
-1: Lunatic
-1: Lurked
-1: Lust
-1: Lusted
-1: Lute
-1: Luxury
-1: Magician
-1: Maid’s
-1: Maintain
-1: Majestical
-1: Making
-1: Mak’st
-1: Malapert
-1: Malignant
-1: Manhood
-1: Manly
-1: Map
-1: Marched
-1: Marches
-1: Marked
-1: Market
-1: Marks
-1: Markèd
-1: Marred
-1: Married
-1: Marrying
-1: Marsh
-1: Marv’lous
-1: Mast
-1: Masters
-1: Masters’
-1: Mates
-1: Meaner
-1: Meanly
-1: Mean’st
-1: Measures
-1: Meddle
-1: Meditating
-1: Meekness
-1: Meetest
-1: Meetings
-1: Meets
-1: Mell
-1: Mellow
-1: Mellowed
-1: Melted
-1: Menace
-1: Merciless
-1: Mere
-1: Meseemeth
-1: Messenger
-1: Method
-1: Met’st
-1: Mid
-1: Middle
-1: Midnight
-1: Midst
-1: Mightily
-1: Mildness
-1: Mile
-1: Miles
-1: Milford
-1: Milksop
-1: Minority
-1: Mirrors
-1: Miscarrièd
-1: Miscarry
-1: Mischance
-1: Mischiefs
-1: Misconster
-1: Misdeeds
-1: Misdoubt
-1: Misery
-1: Misplaced
-1: Misshapen
-1: Mista’en
-1: Mistrusting
-1: Misused
-1: Mitigate
-1: Mocks
-1: Mock’ry
-1: Model
-1: Moment
-1: Momentary
-1: Monast’ry
-1: Monuments
-1: Mood
-1: Moody
-1: Moon
-1: Moralize
-1: Moreover
-1: Morrows
-1: Mortal-staring
-1: Mothers
-1: Mount
-1: Mounting
-1: Mouths
-1: Multitude
-1: Mum
-1: Murderers
-1: Murderous
-1: Murd’ring
-1: Muse
-1: Music
-1: Mute
-1: Mutinies
-1: Mutual
-1: Namely
-1: Names
-1: Nap
-1: Nativity
-1: Natural
-1: Necessity
-1: Ned
-1: Needful
-1: Needless
-1: Need’st
-1: Neglect
-1: Neighbors
-1: Neighbor’s
-1: Nephews’
-1: Nevermore
-1: New-appearing
-1: New-delivered
-1: New-healed
-1: Ne’er
-1: Ne’er-changing
-1: Nice
-1: Niece
-1: Night-walking
-1: Nimbly
-1: Nobleness
-1: Nobles
-1: Nod
-1: Nods
-1: Nomination
-1: Nonage
-1: Noontide
-1: Northampton
-1: Note
-1: Noted
-1: Notice
-1: Notwithstanding
-1: Novice
-1: Numb-cold
-1: Nuns
-1: Nymph
-1: Obedience
-1: Obeyed
-1: Object
-1: Oblivion
-1: Obsequiously
-1: Obstinate
-1: Ocean
-1: Odd
-1: Odds
-1: Offend
-1: Offenders
-1: Offered
-1: Officers
-1: Offices
-1: Offspring
-1: Older
-1: Omitted
-1: Ones
-1: Opens
-1: Opprobriously
-1: Oracle
-1: Orator
-1: Orderèd
-1: Orient
-1: Ornaments
-1: Others’
-1: Ought
-1: Out-shining
-1: Outgrown
-1: Outlive
-1: Outstrip
-1: Overblown
-1: Overboard
-1: Overgo
-1: Overmuch
-1: Overshoes
-1: Overta’en
-1: Overweening
-1: Owed
-1: Owls
-1: Ow’st
-1: O’ercast
-1: O’ercloyèd
-1: O’erlook
-1: O’errule
-1: O’ershade
-1: O’erworn
-1: Paced
-1: Pack
-1: Packed
-1: Packhorse
-1: Packing
-1: Pageant
-1: Pair
-1: Palpable
-1: Paltry
-1: Pamper
-1: Panting
-1: Parceled
-1: Parents
-1: Paris
-1: Partake
-1: Parts
-1: Passing
-1: Passionate
-1: Patiently
-1: Pattern
-1: Pay
-1: Pays
-1: Peasants
-1: Peddler
-1: Peise
-1: Pell
-1: Penetrable
-1: Penitent
-1: Penker
-1: People
-1: Perch
-1: Perform
-1: Performed
-1: Perish
-1: Perjured
-1: Persons’
-1: Person’s
-1: Persuade
-1: Persuading
-1: Perturbations
-1: Petitioner
-1: Petty
-1: Pew-fellow
-1: Physicians
-1: Pilate
-1: Pilled
-1: Pillow
-1: Piping
-1: Pirates
-1: Pitchers
-1: Pitied
-1: Pities
-1: Pitiful
-1: Placèd
-1: Plagued
-1: Plainest
-1: Planets
-1: Plantagenets
-1: Playfellow
-1: Plenteous
-1: Plenty
-1: Plotted
-1: Plucks
-1: Poets
-1: Points
-1: Poisonous
-1: Politic
-1: Positively
-1: Possessed
-1: Possible
-1: Post-horse
-1: Posterity
-1: Poverty
-1: Powerful
-1: Praise
-1: Praised
-1: Prate
-1: Prating
-1: Prays
-1: Precedent
-1: Prefer
-1: Preferments
-1: Prelate
-1: Preposterous
-1: Presentation
-1: Preservation
-1: Preserve
-1: Preserved
-1: Presume
-1: Prettily
-1: Prevent
-1: Preys
-1: Pride
-1: Prince’s
-1: Prison
-1: Prisoner
-1: Private
-1: Privy
-1: Prize
-1: Proceeded
-1: Proceeding
-1: Proceedings
-1: Proceeds
-1: Proclaim
-1: Proclaimed
-1: Proclamation
-1: Prodigality
-1: Prodigious
-1: Prolonged
-1: Promised
-1: Promisèd
-1: Prompts
-1: Prophecy
-1: Proposed
-1: Props
-1: Prosperity
-1: Prosperous
-1: Protector’s
-1: Proudest
-1: Proudly
-1: Proved
-1: Provided
-1: Provoke
-1: Provokes
-1: Pry
-1: Publicly
-1: Puissance
-1: Puissant
-1: Punchèd
-1: Punish
-1: Punishment
-1: Pure
-1: Purged
-1: Purple
-1: Pursues
-1: Pursuit
-1: Pursuivant
-1: Pursuivant-at-arms
-1: Quartered
-1: Quest
-1: Quickly
-1: Quite
-1: Quits
-1: Race
-1: Rag
-1: Ragged
-1: Raging
-1: Rags
-1: Rail
-1: Rain
-1: Rancorous
-1: Rankle
-1: Ransom
-1: Rascals
-1: Rash-levied
-1: Rashness
-1: Rats
-1: Ravish
-1: Raw
-1: Raze
-1: Razèd
-1: Re-edified
-1: Read
-1: Readiest
-1: Readiness
-1: Realm
-1: Reasonable
-1: Rebel
-1: Recomforture
-1: Reconcile
-1: Reconciled
-1: Recorded
-1: Recorder
-1: Recourse
-1: Recover
-1: Recreation
-1: Recure
-1: Red-hot
-1: Redeem
-1: Redemption
-1: Redoubted
-1: Reeling
-1: Reflecting
-1: Reft
-1: Registered
-1: Rein
-1: Rejoice
-1: Relenting
-1: Religious
-1: Rely
-1: Remembered
-1: Remnant
-1: Remorseful
-1: Rend
-1: Renders
-1: Repaid
-1: Repaired
-1: Repay
-1: Repays
-1: Repeat
-1: Repentant
-1: Repetition
-1: Replenishèd
-1: Reply
-1: Replying
-1: Repose
-1: Reposing
-1: Reprehend
-1: Reprehended
-1: Reproach
-1: Reprove
-1: Reputation
-1: Requires
-1: Requites
-1: Rescued
-1: Resemblance
-1: Reserved
-1: Resigned
-1: Resolute
-1: Resolution
-1: Resolvèd
-1: Resort
-1: Respect
-1: Respite
-1: Restless
-1: Restore
-1: Restrain
-1: Retail
-1: Retailed
-1: Revel
-1: Revengeful
-1: Revenue
-1: Reverence
-1: Reversed
-1: Revolving
-1: Rewarder
-1: Rice
-1: Riches
-1: Richmonds
-1: Riddle
-1: Ride
-1: Rideth
-1: Riotous
-1: Ripened
-1: Rites
-1: Roar
-1: Robert
-1: Rocky
-1: Rode
-1: Room
-1: Root
-1: Rooting
-1: Rose
-1: Roses
-1: Rotten
-1: Rougemont
-1: Rough
-1: Round
-1: Royalize
-1: Rudely
-1: Ruins
-1: Rules
-1: Rumor
-1: Rumors
-1: Runagate
-1: Runaways
-1: Rush
-1: Ruthless
-1: Rutland’s
-1: Sabbath
-1: Saddle
-1: Sadly
-1: Safe-conducting
-1: Safeguard
-1: Safest
-1: Sage
-1: Sail
-1: Sailor
-1: Sails
-1: Saith
-1: Salt
-1: Salutation
-1: Sapling
-1: Saved
-1: Sawst
-1: Sayst
-1: Scaffold
-1: Scales
-1: Scandal
-1: Scarred
-1: Scars
-1: Scathe
-1: Sceptered
-1: School
-1: Scoffs
-1: Score
-1: Scotland
-1: Scourge
-1: Scripture
-1: Scum
-1: Sealed
-1: Sear
-1: Seasoned
-1: Seasons
-1: Secretly
-1: Secrets
-1: Seduced
-1: Seeking
-1: Sees
-1: Seest
-1: Seigniory
-1: Seize
-1: Seized
-1: Seizing
-1: Self-misused
-1: Self’s
-1: Selves
-1: Semblance
-1: Senseless
-1: Sentence
-1: Sentinels
-1: Separated
-1: Servant
-1: Servant-maid
-1: Servants
-1: Servant’s
-1: Served
-1: Serves
-1: Servitor
-1: Sets
-1: Seven
-1: Shaa
-1: Shamed
-1: Shamefaced
-1: Shameful
-1: Shamefully
-1: Shaped
-1: Share
-1: Sharing
-1: Sharp-pointed
-1: Sharp-provided
-1: Sheltered
-1: Shield
-1: Shining
-1: Ships
-1: Shock
-1: Shook
-1: Shores
-1: Shot
-1: Shouldered
-1: Shouldst
-1: Shout
-1: Shown
-1: Shows
-1: Shrewd
-1: Shrieked
-1: Shrift
-1: Shrink
-1: Shriving
-1: Shrouded
-1: Shun
-1: Shuns
-1: Signified
-1: Silken
-1: Sinfully
-1: Sing’st
-1: Sink
-1: Sire
-1: Sirrah
-1: Sits
-1: Skulls
-1: Slack
-1: Slanders
-1: Sland’rous
-1: Slaughters
-1: Sleeper
-1: Sleeps
-1: Sleepy
-1: Sleep’s
-1: Slightly
-1: Slimy
-1: Slip
-1: Slow
-1: Slower
-1: Slug
-1: Sluggard
-1: Slumber
-1: Slumbers
-1: Slyly
-1: Smiled
-1: Smiles
-1: Smiling
-1: Smoking
-1: Smooth-faced
-1: Smoothed
-1: Smoothing
-1: Smother
-1: Smotherèd
-1: Snail-paced
-1: Snarling
-1: Snatched
-1: So-long-sundered
-1: Sob
-1: Sobs
-1: Society
-1: Soil
-1: Sojourn
-1: Solace
-1: Sold
-1: Sole
-1: Solemnly
-1: Solicit
-1: Someone
-1: Sometime
-1: Sometimes
-1: Songs
-1: Soonest
-1: Soothe
-1: Sop
-1: Sore
-1: Sorrows’
-1: Sorrow’s
-1: Sorry
-1: Soundly
-1: Sounds
-1: Sour
-1: South
-1: Sovereign’s
-1: Spacious
-1: Sparing
-1: Sparingly
-1: Speaking
-1: Speeds
-1: Speedy
-1: Spend
-1: Spicery
-1: Spiders
-1: Spilt
-1: Spirits
-1: Spit
-1: Splintered
-1: Spoil
-1: Spoiled
-1: Sportive
-1: Spotted
-1: Spring
-1: Springs
-1: Spur
-1: Spy
-1: Stabbed’st
-1: Stain
-1: Stains
-1: Stalk
-1: Stalled
-1: Stamp
-1: Stamped
-1: Standard
-1: Standing
-1: Stanley’s
-1: Star
-1: Stared
-1: Start
-1: States
-1: Statues
-1: Stayed
-1: Stays
-1: Stay’st
-1: Stealing
-1: Steeds
-1: Steel
-1: Steeled
-1: Step
-1: Steps
-1: Steward
-1: Still-lasting
-1: Stirred
-1: Stirring
-1: Stol’n
-1: Stone
-1: Stone-hard
-1: Stony
-1: Stops
-1: Storm
-1: Storms
-1: Stormèd
-1: Stout
-1: Stragglers
-1: Straitly
-1: Stranger-soul
-1: Strangling
-1: Stratagems
-1: Stratford
-1: Straw
-1: Streams
-1: Stretched
-1: Strew’st
-1: Strictly
-1: Strifes
-1: String
-1: Stripling
-1: Strokes
-1: Strong-framed
-1: Strut
-1: Study
-1: Stumble
-1: Stumbled
-1: Sty
-1: Style
-1: Submission
-1: Suborn
-1: Substance
-1: Succeeding
-1: Sugar
-1: Sugared
-1: Suggestion
-1: Suitor
-1: Suits
-1: Sullen
-1: Sum
-1: Summers
-1: Summon
-1: Sunrising
-1: Suppertime
-1: Suppliant
-1: Supposed
-1: Supposest
-1: Supposèd
-1: Surfeit
-1: Surmise
-1: Survey
-1: Swallow
-1: Swallowing
-1: Swallow’s
-1: Sweat
-1: Sweating
-1: Sweetest
-1: Sweetly
-1: Sweets
-1: Swell
-1: Swelling
-1: Swift-wingèd
-1: Swills
-1: Swine
-1: Swoon
-1: Swore
-1: Table
-1: Tackling
-1: Tailors
-1: Taking
-1: Tak’st
-1: Talbot
-1: Talkers
-1: Talking
-1: Talk’st
-1: Tall
-1: Tame
-1: Tamworth
-1: Taste
-1: Taught
-1: Taunt
-1: Tear-falling
-1: Teen
-1: Teeth
-1: Tells
-1: Telltale
-1: Tempers
-1: Tenants
-1: Tend
-1: Tend’ring
-1: Tents
-1: Terms
-1: Termèd
-1: Terrible
-1: Testy
-1: Tetchy
-1: Thanked
-1: Thereon
-1: Thereupon
-1: Thin
-1: Thinkest
-1: Third
-1: Thoughts’
-1: Thrall
-1: Thralldom
-1: Threaten
-1: Threefold
-1: Thrice-renownèd
-1: Thriving
-1: Thronging
-1: Thumped
-1: Thunder
-1: Tiger
-1: Timeless
-1: Timorous
-1: Timorously
-1: Tire
-1: Toads
-1: Toe
-1: Toil
-1: Tongueless
-1: Tormenting
-1: Torture
-1: Tossed
-1: Tott’ring
-1: Toucheth
-1: Touching
-1: Towns
-1: Toy
-1: Toys
-1: Track
-1: Tractable
-1: Traditional
-1: Tragedian
-1: Tragedy
-1: Tragic
-1: Tragical
-1: Trainèd
-1: Transformed
-1: Tread
-1: Treasons
-1: Treasure
-1: Trebles
-1: Tree
-1: Trees
-1: Trembles
-1: Tressel
-1: Trial
-1: Tricks
-1: Trifles
-1: Triumphing
-1: Trivial
-1: Troth
-1: Troubled
-1: Troubler
-1: Troubles
-1: Troublest
-1: Troublous
-1: Trough
-1: Trudge
-1: True-derivèd
-1: True-disposing
-1: Truer
-1: Trumpet
-1: Trusted
-1: Trusty
-1: Try
-1: Tumble
-1: Tumbling
-1: Turks
-1: Turns
-1: Twelve-month
-1: Twice
-1: Type
-1: Tyrannous
-1: Tyrants
-1: T’
-1: Unadvisedly
-1: Unarmed
-1: Unblown
-1: Uncertain
-1: Uncharitably
-1: Uncle’s
-1: Underhand
-1: Underneath
-1: Understand
-1: Unexamined
-1: Unfashionable
-1: Unfeignedly
-1: Unfelt
-1: Unfinished
-1: Ungracious
-1: Ungrateful
-1: Unhappiness
-1: Unite
-1: United
-1: Unlawfully
-1: Unlooked
-1: Unmannered
-1: Unmeritable
-1: Unmindful
-1: Unmoaned
-1: Unpitied
-1: Unpleasing
-1: Unpossessed
-1: Unprepared
-1: Unprovided
-1: Unresolved
-1: Unrespective
-1: Unrippedst
-1: Unsatiate
-1: Unscarred
-1: Unsuspected
-1: Unswayed
-1: Unthankfulness
-1: Untired
-1: Untouched
-1: Untroubled
-1: Unvalued
-1: Unwept
-1: Unwilling
-1: Unwise
-1: Unwittingly
-1: Unworthy
-1: Upbraidings
-1: Upper
-1: Urging
-1: Utmost
-1: Vagabonds
-1: Vail
-1: Vanished
-1: Vanity
-1: Vapor
-1: Vast
-1: Vaunts
-1: Vehement
-1: Veil
-1: Veins
-1: Venomed
-1: Venturous
-1: Verdict
-1: Verge
-1: Vexation
-1: Victoress
-1: Victories
-1: Viewing
-1: Village
-1: Villain-slave
-1: Villainy
-1: Villain’s
-1: Vines
-1: Visitation
-1: Visiting
-1: Visor
-1: Voices
-1: Vomits
-1: Vows
-1: Wagging
-1: Wailing
-1: Wails
-1: Waiting
-1: Waits
-1: Waked
-1: Waken
-1: Waking
-1: Walk
-1: Wandered
-1: Wandering
-1: Waning
-1: Wanteth
-1: Wants
-1: Ward
-1: Warm
-1: Warned
-1: Warwick’s
-1: Water
-1: Watery
-1: Weakness
-1: Weapon
-1: Wearisome
-1: Wear’st
-1: Web
-1: Wedd’st
-1: Wedges
-1: Weeder-out
-1: Week
-1: Weeps
-1: Weight
-1: Weightier
-1: Weighty
-1: Welcomer
-1: Welkin
-1: Well-advisèd
-1: Well-learnèd
-1: Well-skilled
-1: Welshman
-1: Welshmen
-1: Wench
-1: Wert
-1: West
-1: Westminster
-1: Whatsoe’er
-1: Whence
-1: Whenever
-1: Where’s
-1: Whet
-1: Whetted
-1: Whet’st
-1: Whilst
-1: Whip
-1: Whirled
-1: Whisper
-1: Whit
-1: White-livered
-1: Whitefriars
-1: Whoever
-1: Whosoe’er
-1: Wide
-1: Widow-dolor
-1: Willful
-1: Willing
-1: Windy
-1: Wing
-1: Wipe
-1: Wisdoms
-1: Wither
-1: Withheld
-1: Wits
-1: Witty
-1: Wizard
-1: Woe-wearied
-1: Woe’s
-1: Wolf
-1: Wolves
-1: Womanish
-1: Woman’s
-1: Wonder
-1: Wooer
-1: Wooer’s
-1: Worm
-1: Worms
-1: Worry
-1: Worser
-1: Worshipful
-1: Worshipfully
-1: Worst
-1: Wrack
-1: Wracked
-1: Wracks
-1: Wreaths
-1: Wrens
-1: Wretched’st
-1: Wretches
-1: Wring
-1: Writ
-1: Wrong-incensèd
-1: Yeomen
-1: Yesternight
-1: Yon
-1: Yonder
-1: Yorkshire
-1: Youngest
-1: You’ll
-1: Zealous
-1: ’r
-1: ’tween
+instances: 920, word: 'The', work: 'R3'},
+instances: 866, word: 'And', work: 'R3'},
+instances: 714, word: 'To', work: 'R3'},
+instances: 699, word: 'I', work: 'R3'},
+instances: 620, word: 'Of', work: 'R3'},
+instances: 587, word: 'My', work: 'R3'},
+instances: 434, word: 'That', work: 'R3'},
+instances: 397, word: 'In', work: 'R3'},
+instances: 391, word: 'You', work: 'R3'},
+instances: 356, word: 'A', work: 'R3'},
+instances: 310, word: 'Me', work: 'R3'},
+instances: 282, word: 'For', work: 'R3'},
+instances: 274, word: 'Your', work: 'R3'},
+instances: 272, word: 'Is', work: 'R3'},
+instances: 260, word: 'Not', work: 'R3'},
+instances: 250, word: 'With', work: 'R3'},
+instances: 236, word: 'His', work: 'R3'},
+instances: 221, word: 'Be', work: 'R3'},
+instances: 214, word: 'Lord', work: 'R3'},
+instances: 213, word: 'It', work: 'R3'},
+instances: 213, word: 'Thy', work: 'R3'},
+instances: 206, word: 'Thou', work: 'R3'},
+instances: 198, word: 'This', work: 'R3'},
+instances: 197, word: 'Have', work: 'R3'},
+instances: 197, word: 'He', work: 'R3'},
+instances: 190, word: 'But', work: 'R3'},
+instances: 172, word: 'So', work: 'R3'},
+instances: 162, word: 'Will', work: 'R3'},
+instances: 161, word: 'By', work: 'R3'},
+instances: 160, word: 'Him', work: 'R3'},
+instances: 157, word: 'What', work: 'R3'},
+instances: 144, word: 'On', work: 'R3'},
+instances: 137, word: 'All', work: 'R3'},
+instances: 137, word: 'As', work: 'R3'},
+instances: 121, word: 'Thee', work: 'R3'},
+instances: 120, word: 'Our', work: 'R3'},
+instances: 118, word: 'No', work: 'R3'},
+instances: 117, word: 'Good', work: 'R3'},
+instances: 117, word: 'Her', work: 'R3'},
+instances: 111, word: 'We', work: 'R3'},
+instances: 110, word: 'If', work: 'R3'},
+instances: 104, word: 'Do', work: 'R3'},
+instances: 100, word: 'From', work: 'R3'},
+instances: 100, word: 'Shall', work: 'R3'},
+instances: 96, word: 'Then', work: 'R3'},
+instances: 95, word: 'Are', work: 'R3'},
+instances: 92, word: 'Now', work: 'R3'},
+instances: 90, word: 'God', work: 'R3'},
+instances: 89, word: 'Was', work: 'R3'},
+instances: 87, word: 'At', work: 'R3'},
+instances: 87, word: 'King', work: 'R3'},
+instances: 83, word: 'Their', work: 'R3'},
+instances: 82, word: 'They', work: 'R3'},
+instances: 82, word: 'When', work: 'R3'},
+instances: 80, word: 'Come', work: 'R3'},
+instances: 79, word: 'O', work: 'R3'},
+instances: 76, word: 'Which', work: 'R3'},
+instances: 74, word: 'Were', work: 'R3'},
+instances: 72, word: 'Well', work: 'R3'},
+instances: 69, word: 'Go', work: 'R3'},
+instances: 68, word: 'Death', work: 'R3'},
+instances: 67, word: 'Upon', work: 'R3'},
+instances: 65, word: 'Hath', work: 'R3'},
+instances: 65, word: 'Or', work: 'R3'},
+instances: 65, word: 'Them', work: 'R3'},
+instances: 64, word: 'Love', work: 'R3'},
+instances: 63, word: 'Would', work: 'R3'},
+instances: 62, word: 'Grace', work: 'R3'},
+instances: 62, word: 'Say', work: 'R3'},
+instances: 61, word: 'Let', work: 'R3'},
+instances: 60, word: 'Am', work: 'R3'},
+instances: 59, word: 'Here', work: 'R3'},
+instances: 59, word: 'Who', work: 'R3'},
+instances: 58, word: 'How', work: 'R3'},
+instances: 57, word: 'May', work: 'R3'},
+instances: 57, word: 'Us', work: 'R3'},
+instances: 56, word: 'Did', work: 'R3'},
+instances: 53, word: 'More', work: 'R3'},
+instances: 52, word: 'I\'ll', work: 'R3'},
+instances: 52, word: 'Than', work: 'R3'},
+instances: 51, word: 'Had', work: 'R3'},
+instances: 49, word: 'Tell', work: 'R3'},
+instances: 48, word: 'Make', work: 'R3'},
+instances: 48, word: 'She', work: 'R3'},
+instances: 47, word: 'There', work: 'R3'},
+instances: 47, word: 'Where', work: 'R3'},
+instances: 47, word: 'Yet', work: 'R3'},
+instances: 46, word: 'Why', work: 'R3'},
+instances: 45, word: 'Give', work: 'R3'},
+instances: 44, word: 'Day', work: 'R3'},
+instances: 44, word: 'Man', work: 'R3'},
+instances: 44, word: 'Should', work: 'R3'},
+instances: 43, word: 'Edward', work: 'R3'},
+instances: 43, word: 'Myself', work: 'R3'},
+instances: 43, word: 'Some', work: 'R3'},
+instances: 43, word: 'These', work: 'R3'},
+instances: 42, word: 'Mine', work: 'R3'},
+instances: 42, word: 'Son', work: 'R3'},
+instances: 42, word: 'Soul', work: 'R3'},
+instances: 42, word: 'Time', work: 'R3'},
+instances: 41, word: 'Brother', work: 'R3'},
+instances: 41, word: 'Mother', work: 'R3'},
+instances: 40, word: 'Live', work: 'R3'},
+instances: 40, word: 'See', work: 'R3'},
+instances: 39, word: 'Blood', work: 'R3'},
+instances: 39, word: 'Clarence', work: 'R3'},
+instances: 39, word: 'Made', work: 'R3'},
+instances: 39, word: 'One', work: 'R3'},
+instances: 39, word: 'Richard', work: 'R3'},
+instances: 39, word: 'Take', work: 'R3'},
+instances: 38, word: 'Buckingham', work: 'R3'},
+instances: 38, word: 'Duke', work: 'R3'},
+instances: 38, word: 'Like', work: 'R3'},
+instances: 38, word: 'Too', work: 'R3'},
+instances: 36, word: 'Cannot', work: 'R3'},
+instances: 36, word: 'Dead', work: 'R3'},
+instances: 36, word: 'Doth', work: 'R3'},
+instances: 36, word: 'Noble', work: 'R3'},
+instances: 36, word: 'Think', work: 'R3'},
+instances: 35, word: 'Die', work: 'R3'},
+instances: 35, word: 'Know', work: 'R3'},
+instances: 34, word: 'Heart', work: 'R3'},
+instances: 34, word: 'Never', work: 'R3'},
+instances: 34, word: 'Queen', work: 'R3'},
+instances: 34, word: 'Unto', work: 'R3'},
+instances: 33, word: 'Done', work: 'R3'},
+instances: 33, word: 'Poor', work: 'R3'},
+instances: 33, word: 'Up', work: 'R3'},
+instances: 32, word: 'Can', work: 'R3'},
+instances: 32, word: 'Friends', work: 'R3'},
+instances: 32, word: 'Hastings', work: 'R3'},
+instances: 32, word: 'Look', work: 'R3'},
+instances: 32, word: 'Must', work: 'R3'},
+instances: 32, word: '\'tis', work: 'R3'},
+instances: 31, word: 'Most', work: 'R3'},
+instances: 31, word: 'Richmond', work: 'R3'},
+instances: 30, word: 'Life', work: 'R3'},
+instances: 30, word: 'Much', work: 'R3'},
+instances: 30, word: 'Nor', work: 'R3'},
+instances: 30, word: 'Prince', work: 'R3'},
+instances: 30, word: 'Thus', work: 'R3'},
+instances: 29, word: 'An', work: 'R3'},
+instances: 29, word: 'Ay', work: 'R3'},
+instances: 29, word: 'Fair', work: 'R3'},
+instances: 29, word: 'Peace', work: 'R3'},
+instances: 29, word: 'Such', work: 'R3'},
+instances: 28, word: 'Both', work: 'R3'},
+instances: 28, word: 'Eyes', work: 'R3'},
+instances: 28, word: 'News', work: 'R3'},
+instances: 28, word: 'Speak', work: 'R3'},
+instances: 27, word: 'Fear', work: 'R3'},
+instances: 27, word: 'Gentle', work: 'R3'},
+instances: 27, word: 'Hand', work: 'R3'},
+instances: 27, word: 'Hear', work: 'R3'},
+instances: 27, word: 'Madam', work: 'R3'},
+instances: 27, word: 'Name', work: 'R3'},
+instances: 27, word: 'Royal', work: 'R3'},
+instances: 27, word: 'Tower', work: 'R3'},
+instances: 26, word: 'Again', work: 'R3'},
+instances: 26, word: 'Bloody', work: 'R3'},
+instances: 26, word: 'Heaven', work: 'R3'},
+instances: 26, word: 'Men', work: 'R3'},
+instances: 25, word: 'Long', work: 'R3'},
+instances: 25, word: 'World', work: 'R3'},
+instances: 24, word: 'Dear', work: 'R3'},
+instances: 24, word: 'Father', work: 'R3'},
+instances: 24, word: 'Gracious', work: 'R3'},
+instances: 24, word: 'Two', work: 'R3'},
+instances: 24, word: 'Wife', work: 'R3'},
+instances: 24, word: 'York', work: 'R3'},
+instances: 23, word: 'Any', work: 'R3'},
+instances: 23, word: 'Before', work: 'R3'},
+instances: 23, word: 'Being', work: 'R3'},
+instances: 23, word: 'Catesby', work: 'R3'},
+instances: 23, word: 'True', work: 'R3'},
+instances: 22, word: 'Deep', work: 'R3'},
+instances: 22, word: 'Edward\'s', work: 'R3'},
+instances: 22, word: 'Gloucester', work: 'R3'},
+instances: 22, word: 'Holy', work: 'R3'},
+instances: 22, word: 'Sir', work: 'R3'},
+instances: 21, word: 'Bear', work: 'R3'},
+instances: 21, word: 'Children', work: 'R3'},
+instances: 21, word: 'Daughter', work: 'R3'},
+instances: 21, word: 'Happy', work: 'R3'},
+instances: 21, word: 'Husband', work: 'R3'},
+instances: 21, word: 'Out', work: 'R3'},
+instances: 21, word: 'Sweet', work: 'R3'},
+instances: 21, word: 'Uncle', work: 'R3'},
+instances: 20, word: 'Against', work: 'R3'},
+instances: 20, word: 'Been', work: 'R3'},
+instances: 20, word: 'Curse', work: 'R3'},
+instances: 20, word: 'Even', work: 'R3'},
+instances: 20, word: 'Great', work: 'R3'},
+instances: 20, word: 'Leave', work: 'R3'},
+instances: 20, word: 'Night', work: 'R3'},
+instances: 20, word: 'Still', work: 'R3'},
+instances: 20, word: 'Therefore', work: 'R3'},
+instances: 20, word: 'Those', work: 'R3'},
+instances: 20, word: 'Tomorrow', work: 'R3'},
+instances: 19, word: 'Art', work: 'R3'},
+instances: 19, word: 'Cousin', work: 'R3'},
+instances: 19, word: 'Head', work: 'R3'},
+instances: 19, word: 'Little', work: 'R3'},
+instances: 19, word: 'Other', work: 'R3'},
+instances: 18, word: 'Better', work: 'R3'},
+instances: 18, word: 'Bid', work: 'R3'},
+instances: 18, word: 'Days', work: 'R3'},
+instances: 18, word: 'Doubt', work: 'R3'},
+instances: 18, word: 'Down', work: 'R3'},
+instances: 18, word: 'Fall', work: 'R3'},
+instances: 18, word: 'God\'s', work: 'R3'},
+instances: 18, word: 'Set', work: 'R3'},
+instances: 18, word: 'Sleep', work: 'R3'},
+instances: 18, word: 'Till', work: 'R3'},
+instances: 18, word: 'Young', work: 'R3'},
+instances: 17, word: 'Ah', work: 'R3'},
+instances: 17, word: 'Comes', work: 'R3'},
+instances: 17, word: 'Hope', work: 'R3'},
+instances: 17, word: 'Horse', work: 'R3'},
+instances: 17, word: 'Lives', work: 'R3'},
+instances: 17, word: 'Lords', work: 'R3'},
+instances: 17, word: 'Makes', work: 'R3'},
+instances: 17, word: 'Many', work: 'R3'},
+instances: 17, word: 'Mind', work: 'R3'},
+instances: 17, word: 'Right', work: 'R3'},
+instances: 17, word: 'Since', work: 'R3'},
+instances: 17, word: 'Sovereign', work: 'R3'},
+instances: 17, word: 'Stanley', work: 'R3'},
+instances: 17, word: 'Stay', work: 'R3'},
+instances: 17, word: 'Told', work: 'R3'},
+instances: 16, word: 'Cause', work: 'R3'},
+instances: 16, word: 'Farewell', work: 'R3'},
+instances: 16, word: 'Fight', work: 'R3'},
+instances: 16, word: 'Hate', work: 'R3'},
+instances: 16, word: 'Kill', work: 'R3'},
+instances: 16, word: 'Majesty', work: 'R3'},
+instances: 16, word: 'Marry', work: 'R3'},
+instances: 16, word: 'Might', work: 'R3'},
+instances: 16, word: 'None', work: 'R3'},
+instances: 16, word: 'Put', work: 'R3'},
+instances: 16, word: 'Rest', work: 'R3'},
+instances: 16, word: 'Souls', work: 'R3'},
+instances: 16, word: 'Whom', work: 'R3'},
+instances: 15, word: 'Arms', work: 'R3'},
+instances: 15, word: 'Call', work: 'R3'},
+instances: 15, word: 'Came', work: 'R3'},
+instances: 15, word: 'Crown', work: 'R3'},
+instances: 15, word: 'Dost', work: 'R3'},
+instances: 15, word: 'End', work: 'R3'},
+instances: 15, word: 'False', work: 'R3'},
+instances: 15, word: 'Full', work: 'R3'},
+instances: 15, word: 'Hast', work: 'R3'},
+instances: 15, word: 'Indeed', work: 'R3'},
+instances: 15, word: 'Mighty', work: 'R3'},
+instances: 15, word: 'Off', work: 'R3'},
+instances: 15, word: 'Once', work: 'R3'},
+instances: 15, word: 'Please', work: 'R3'},
+instances: 15, word: 'Princely', work: 'R3'},
+instances: 15, word: 'Rivers', work: 'R3'},
+instances: 15, word: 'Sorrow', work: 'R3'},
+instances: 15, word: 'Thine', work: 'R3'},
+instances: 15, word: 'Way', work: 'R3'},
+instances: 15, word: 'Whose', work: 'R3'},
+instances: 15, word: 'Within', work: 'R3'},
+instances: 15, word: 'Yours', work: 'R3'},
+instances: 14, word: 'Comfort', work: 'R3'},
+instances: 14, word: 'Despair', work: 'R3'},
+instances: 14, word: 'Else', work: 'R3'},
+instances: 14, word: 'Ere', work: 'R3'},
+instances: 14, word: 'Ever', work: 'R3'},
+instances: 14, word: 'Every', work: 'R3'},
+instances: 14, word: 'George', work: 'R3'},
+instances: 14, word: 'Heavy', work: 'R3'},
+instances: 14, word: 'Help', work: 'R3'},
+instances: 14, word: 'House', work: 'R3'},
+instances: 14, word: 'Into', work: 'R3'},
+instances: 14, word: 'Knows', work: 'R3'},
+instances: 14, word: 'Last', work: 'R3'},
+instances: 14, word: 'Looks', work: 'R3'},
+instances: 14, word: 'Mean', work: 'R3'},
+instances: 14, word: 'Power', work: 'R3'},
+instances: 14, word: 'Send', work: 'R3'},
+instances: 14, word: 'Tender', work: 'R3'},
+instances: 14, word: 'Thought', work: 'R3'},
+instances: 14, word: 'Today', work: 'R3'},
+instances: 13, word: 'Age', work: 'R3'},
+instances: 13, word: 'Battle', work: 'R3'},
+instances: 13, word: 'Conscience', work: 'R3'},
+instances: 13, word: 'Could', work: 'R3'},
+instances: 13, word: 'Deed', work: 'R3'},
+instances: 13, word: 'Dorset', work: 'R3'},
+instances: 13, word: 'Dream', work: 'R3'},
+instances: 13, word: 'Earth', work: 'R3'},
+instances: 13, word: 'Foul', work: 'R3'},
+instances: 13, word: 'Hell', work: 'R3'},
+instances: 13, word: 'Honor', work: 'R3'},
+instances: 13, word: 'Shame', work: 'R3'},
+instances: 13, word: 'Stand', work: 'R3'},
+instances: 13, word: 'Thereof', work: 'R3'},
+instances: 13, word: 'Withal', work: 'R3'},
+instances: 12, word: 'About', work: 'R3'},
+instances: 12, word: 'Away', work: 'R3'},
+instances: 12, word: 'Brothers', work: 'R3'},
+instances: 12, word: 'Child', work: 'R3'},
+instances: 12, word: 'Didst', work: 'R3'},
+instances: 12, word: 'Each', work: 'R3'},
+instances: 12, word: 'Enemies', work: 'R3'},
+instances: 12, word: 'First', work: 'R3'},
+instances: 12, word: 'Forth', work: 'R3'},
+instances: 12, word: 'Fortune', work: 'R3'},
+instances: 12, word: 'Gone', work: 'R3'},
+instances: 12, word: 'Land', work: 'R3'},
+instances: 12, word: 'Lay', work: 'R3'},
+instances: 12, word: 'Mayor', work: 'R3'},
+instances: 12, word: 'Nay', work: 'R3'},
+instances: 12, word: 'Own', work: 'R3'},
+instances: 12, word: 'Ratcliffe', work: 'R3'},
+instances: 12, word: 'Sons', work: 'R3'},
+instances: 12, word: 'Swear', work: 'R3'},
+instances: 12, word: 'Thank', work: 'R3'},
+instances: 12, word: 'Thyself', work: 'R3'},
+instances: 12, word: 'Tongue', work: 'R3'},
+instances: 12, word: 'Weep', work: 'R3'},
+instances: 12, word: 'Word', work: 'R3'},
+instances: 11, word: 'Because', work: 'R3'},
+instances: 11, word: 'Devil', work: 'R3'},
+instances: 11, word: 'England\'s', work: 'R3'},
+instances: 11, word: 'Far', work: 'R3'},
+instances: 11, word: 'Hands', work: 'R3'},
+instances: 11, word: 'High', work: 'R3'},
+instances: 11, word: 'Hold', work: 'R3'},
+instances: 11, word: 'Hour', work: 'R3'},
+instances: 11, word: 'Killed', work: 'R3'},
+instances: 11, word: 'Kind', work: 'R3'},
+instances: 11, word: 'Lady', work: 'R3'},
+instances: 11, word: 'Loss', work: 'R3'},
+instances: 11, word: 'Murder', work: 'R3'},
+instances: 11, word: 'Need', work: 'R3'},
+instances: 11, word: 'Norfolk', work: 'R3'},
+instances: 11, word: 'Pardon', work: 'R3'},
+instances: 11, word: 'Part', work: 'R3'},
+instances: 11, word: 'Place', work: 'R3'},
+instances: 11, word: 'Pray', work: 'R3'},
+instances: 11, word: 'Saint', work: 'R3'},
+instances: 11, word: 'Sent', work: 'R3'},
+instances: 11, word: 'Shalt', work: 'R3'},
+instances: 11, word: 'Tent', work: 'R3'},
+instances: 11, word: 'Very', work: 'R3'},
+instances: 11, word: 'Wrong', work: 'R3'},
+instances: 10, word: 'After', work: 'R3'},
+instances: 10, word: 'Arm', work: 'R3'},
+instances: 10, word: 'Back', work: 'R3'},
+instances: 10, word: 'Bad', work: 'R3'},
+instances: 10, word: 'Best', work: 'R3'},
+instances: 10, word: 'Bring', work: 'R3'},
+instances: 10, word: 'Brother\'s', work: 'R3'},
+instances: 10, word: 'Canst', work: 'R3'},
+instances: 10, word: 'Charge', work: 'R3'},
+instances: 10, word: 'Cold', work: 'R3'},
+instances: 10, word: 'England', work: 'R3'},
+instances: 10, word: 'Eye', work: 'R3'},
+instances: 10, word: 'Father\'s', work: 'R3'},
+instances: 10, word: 'Fearful', work: 'R3'},
+instances: 10, word: 'Grey', work: 'R3'},
+instances: 10, word: 'Himself', work: 'R3'},
+instances: 10, word: 'Hither', work: 'R3'},
+instances: 10, word: 'Hours', work: 'R3'},
+instances: 10, word: 'Just', work: 'R3'},
+instances: 10, word: 'Lordship', work: 'R3'},
+instances: 10, word: 'Loving', work: 'R3'},
+instances: 10, word: 'Means', work: 'R3'},
+instances: 10, word: 'Meet', work: 'R3'},
+instances: 10, word: 'Nothing', work: 'R3'},
+instances: 10, word: 'Princes', work: 'R3'},
+instances: 10, word: 'Said', work: 'R3'},
+instances: 10, word: 'Sake', work: 'R3'},
+instances: 10, word: 'Says', work: 'R3'},
+instances: 10, word: 'State', work: 'R3'},
+instances: 10, word: 'Straight', work: 'R3'},
+instances: 10, word: 'Sword', work: 'R3'},
+instances: 10, word: 'Tears', work: 'R3'},
+instances: 10, word: 'Th\'', work: 'R3'},
+instances: 10, word: 'War', work: 'R3'},
+instances: 10, word: 'Wear', work: 'R3'},
+instances: 10, word: 'Welcome', work: 'R3'},
+instances: 10, word: 'While', work: 'R3'},
+instances: 9, word: 'Alas', work: 'R3'},
+instances: 9, word: 'Beseech', work: 'R3'},
+instances: 9, word: 'Boar', work: 'R3'},
+instances: 9, word: 'Boy', work: 'R3'},
+instances: 9, word: 'Break', work: 'R3'},
+instances: 9, word: 'Citizens', work: 'R3'},
+instances: 9, word: 'Dangerous', work: 'R3'},
+instances: 9, word: 'Deadly', work: 'R3'},
+instances: 9, word: 'Draw', work: 'R3'},
+instances: 9, word: 'Field', work: 'R3'},
+instances: 9, word: 'Gentlemen', work: 'R3'},
+instances: 9, word: 'Grandam', work: 'R3'},
+instances: 9, word: 'Grant', work: 'R3'},
+instances: 9, word: 'Guilty', work: 'R3'},
+instances: 9, word: 'Hearts', work: 'R3'},
+instances: 9, word: 'Joy', work: 'R3'},
+instances: 9, word: 'Keep', work: 'R3'},
+instances: 9, word: 'Kingdom', work: 'R3'},
+instances: 9, word: 'Law', work: 'R3'},
+instances: 9, word: 'Learn', work: 'R3'},
+instances: 9, word: 'Lest', work: 'R3'},
+instances: 9, word: 'Liege', work: 'R3'},
+instances: 9, word: 'Looked', work: 'R3'},
+instances: 9, word: 'Loves', work: 'R3'},
+instances: 9, word: 'Margaret', work: 'R3'},
+instances: 9, word: 'Morrow', work: 'R3'},
+instances: 9, word: 'Pity', work: 'R3'},
+instances: 9, word: 'Pomfret', work: 'R3'},
+instances: 9, word: 'Presence', work: 'R3'},
+instances: 9, word: 'Prove', work: 'R3'},
+instances: 9, word: 'Remember', work: 'R3'},
+instances: 9, word: 'Revenge', work: 'R3'},
+instances: 9, word: 'Self', work: 'R3'},
+instances: 9, word: 'Side', work: 'R3'},
+instances: 9, word: 'Slain', work: 'R3'},
+instances: 9, word: 'Strike', work: 'R3'},
+instances: 9, word: 'Sun', work: 'R3'},
+instances: 9, word: 'Though', work: 'R3'},
+instances: 9, word: 'Times', work: 'R3'},
+instances: 9, word: 'Virtuous', work: 'R3'},
+instances: 9, word: 'Wast', work: 'R3'},
+instances: 9, word: 'Wish', work: 'R3'},
+instances: 8, word: 'Beauty', work: 'R3'},
+instances: 8, word: 'Bed', work: 'R3'},
+instances: 8, word: 'Body', work: 'R3'},
+instances: 8, word: 'Bold', work: 'R3'},
+instances: 8, word: 'Bosom', work: 'R3'},
+instances: 8, word: 'Brief', work: 'R3'},
+instances: 8, word: 'Curses', work: 'R3'},
+instances: 8, word: 'Entreat', work: 'R3'},
+instances: 8, word: 'Face', work: 'R3'},
+instances: 8, word: 'Faith', work: 'R3'},
+instances: 8, word: 'Fellow', work: 'R3'},
+instances: 8, word: 'Fly', work: 'R3'},
+instances: 8, word: 'France', work: 'R3'},
+instances: 8, word: 'Friend', work: 'R3'},
+instances: 8, word: 'Golden', work: 'R3'},
+instances: 8, word: 'Grievous', work: 'R3'},
+instances: 8, word: 'Hadst', work: 'R3'},
+instances: 8, word: 'Hence', work: 'R3'},
+instances: 8, word: 'Issue', work: 'R3'},
+instances: 8, word: 'Kindred', work: 'R3'},
+instances: 8, word: 'Lost', work: 'R3'},
+instances: 8, word: 'Plantagenet', work: 'R3'},
+instances: 8, word: 'Proud', work: 'R3'},
+instances: 8, word: 'Sanctuary', work: 'R3'},
+instances: 8, word: 'Save', work: 'R3'},
+instances: 8, word: 'Saw', work: 'R3'},
+instances: 8, word: 'Scorn', work: 'R3'},
+instances: 8, word: 'Stabbed', work: 'R3'},
+instances: 8, word: 'Thing', work: 'R3'},
+instances: 8, word: 'Thousand', work: 'R3'},
+instances: 8, word: 'Title', work: 'R3'},
+instances: 8, word: 'Traitor', work: 'R3'},
+instances: 8, word: 'Truth', work: 'R3'},
+instances: 8, word: 'Tyrrel', work: 'R3'},
+instances: 8, word: 'Victory', work: 'R3'},
+instances: 8, word: 'Villain', work: 'R3'},
+instances: 8, word: 'Widow', work: 'R3'},
+instances: 8, word: 'Win', work: 'R3'},
+instances: 8, word: 'Without', work: 'R3'},
+instances: 8, word: 'Wretched', work: 'R3'},
+instances: 7, word: 'Almost', work: 'R3'},
+instances: 7, word: 'Amen', work: 'R3'},
+instances: 7, word: 'Anne', work: 'R3'},
+instances: 7, word: 'Another', work: 'R3'},
+instances: 7, word: 'Babes', work: 'R3'},
+instances: 7, word: 'Between', work: 'R3'},
+instances: 7, word: 'Birth', work: 'R3'},
+instances: 7, word: 'Bitter', work: 'R3'},
+instances: 7, word: 'Black', work: 'R3'},
+instances: 7, word: 'Called', work: 'R3'},
+instances: 7, word: 'Charity', work: 'R3'},
+instances: 7, word: 'Counsel', work: 'R3'},
+instances: 7, word: 'Course', work: 'R3'},
+instances: 7, word: 'Cry', work: 'R3'},
+instances: 7, word: 'Deeds', work: 'R3'},
+instances: 7, word: 'Defend', work: 'R3'},
+instances: 7, word: 'Degree', work: 'R3'},
+instances: 7, word: 'Died', work: 'R3'},
+instances: 7, word: 'Dispatch', work: 'R3'},
+instances: 7, word: 'Dreams', work: 'R3'},
+instances: 7, word: 'Drown', work: 'R3'},
+instances: 7, word: 'Dull', work: 'R3'},
+instances: 7, word: 'Duty', work: 'R3'},
+instances: 7, word: 'Either', work: 'R3'},
+instances: 7, word: 'Enemy', work: 'R3'},
+instances: 7, word: 'Find', work: 'R3'},
+instances: 7, word: 'Follow', work: 'R3'},
+instances: 7, word: 'Glory', work: 'R3'},
+instances: 7, word: 'Grave', work: 'R3'},
+instances: 7, word: 'Guess', work: 'R3'},
+instances: 7, word: 'Haste', work: 'R3'},
+instances: 7, word: 'Hatred', work: 'R3'},
+instances: 7, word: 'Highness', work: 'R3'},
+instances: 7, word: 'Lancaster', work: 'R3'},
+instances: 7, word: 'Left', work: 'R3'},
+instances: 7, word: 'Lie', work: 'R3'},
+instances: 7, word: 'March', work: 'R3'},
+instances: 7, word: 'Mortal', work: 'R3'},
+instances: 7, word: 'Mother\'s', work: 'R3'},
+instances: 7, word: 'Old', work: 'R3'},
+instances: 7, word: 'Order', work: 'R3'},
+instances: 7, word: 'Peers', work: 'R3'},
+instances: 7, word: 'Quiet', work: 'R3'},
+instances: 7, word: 'Quoth', work: 'R3'},
+instances: 7, word: 'Return', work: 'R3'},
+instances: 7, word: 'Sad', work: 'R3'},
+instances: 7, word: 'Shore', work: 'R3'},
+instances: 7, word: 'Sister', work: 'R3'},
+instances: 7, word: 'Sit', work: 'R3'},
+instances: 7, word: 'Spoke', work: 'R3'},
+instances: 7, word: 'Tale', work: 'R3'},
+instances: 7, word: 'Themselves', work: 'R3'},
+instances: 7, word: 'There\'s', work: 'R3'},
+instances: 7, word: 'Thoughts', work: 'R3'},
+instances: 7, word: 'Turn', work: 'R3'},
+instances: 7, word: 'Unless', work: 'R3'},
+instances: 7, word: 'Urge', work: 'R3'},
+instances: 7, word: 'Vaughan', work: 'R3'},
+instances: 7, word: 'Wail', work: 'R3'},
+instances: 7, word: 'Want', work: 'R3'},
+instances: 7, word: 'Wept', work: 'R3'},
+instances: 7, word: 'William', work: 'R3'},
+instances: 7, word: 'Witness', work: 'R3'},
+instances: 7, word: 'Woes', work: 'R3'},
+instances: 7, word: 'Womb', work: 'R3'},
+instances: 7, word: 'Words', work: 'R3'},
+instances: 7, word: 'Years', work: 'R3'},
+instances: 7, word: 'Yield', work: 'R3'},
+instances: 6, word: 'Angry', work: 'R3'},
+instances: 6, word: 'Answer', work: 'R3'},
+instances: 6, word: 'Awake', work: 'R3'},
+instances: 6, word: 'Beat', work: 'R3'},
+instances: 6, word: 'Believe', work: 'R3'},
+instances: 6, word: 'Blame', work: 'R3'},
+instances: 6, word: 'Bless', work: 'R3'},
+instances: 6, word: 'Blunt', work: 'R3'},
+instances: 6, word: 'Breast', work: 'R3'},
+instances: 6, word: 'Breath', work: 'R3'},
+instances: 6, word: 'Christian', work: 'R3'},
+instances: 6, word: 'Company', work: 'R3'},
+instances: 6, word: 'Corse', work: 'R3'},
+instances: 6, word: 'Damnèd', work: 'R3'},
+instances: 6, word: 'Deny', work: 'R3'},
+instances: 6, word: 'Desire', work: 'R3'},
+instances: 6, word: 'Dog', work: 'R3'},
+instances: 6, word: 'Due', work: 'R3'},
+instances: 6, word: 'Ears', work: 'R3'},
+instances: 6, word: 'Flourish', work: 'R3'},
+instances: 6, word: 'Gain', work: 'R3'},
+instances: 6, word: 'Gentleman', work: 'R3'},
+instances: 6, word: 'Grief', work: 'R3'},
+instances: 6, word: 'Happiness', work: 'R3'},
+instances: 6, word: 'Harm', work: 'R3'},
+instances: 6, word: 'Health', work: 'R3'},
+instances: 6, word: 'Henry', work: 'R3'},
+instances: 6, word: 'Hide', work: 'R3'},
+instances: 6, word: 'Ill', work: 'R3'},
+instances: 6, word: 'Intend', work: 'R3'},
+instances: 6, word: 'Kept', work: 'R3'},
+instances: 6, word: 'Know\'st', work: 'R3'},
+instances: 6, word: 'Lead', work: 'R3'},
+instances: 6, word: 'Leisure', work: 'R3'},
+instances: 6, word: 'Mercy', work: 'R3'},
+instances: 6, word: 'Methought', work: 'R3'},
+instances: 6, word: 'Morning', work: 'R3'},
+instances: 6, word: 'Nature', work: 'R3'},
+instances: 6, word: 'Near', work: 'R3'},
+instances: 6, word: 'Only', work: 'R3'},
+instances: 6, word: 'Open', work: 'R3'},
+instances: 6, word: 'O\'clock', work: 'R3'},
+instances: 6, word: 'Patience', work: 'R3'},
+instances: 6, word: 'Person', work: 'R3'},
+instances: 6, word: 'Plain', work: 'R3'},
+instances: 6, word: 'Play', work: 'R3'},
+instances: 6, word: 'Post', work: 'R3'},
+instances: 6, word: 'Present', work: 'R3'},
+instances: 6, word: 'Prithee', work: 'R3'},
+instances: 6, word: 'Promise', work: 'R3'},
+instances: 6, word: 'Queen\'s', work: 'R3'},
+instances: 6, word: 'Quick', work: 'R3'},
+instances: 6, word: 'Rather', work: 'R3'},
+instances: 6, word: 'Reason', work: 'R3'},
+instances: 6, word: 'Reasons', work: 'R3'},
+instances: 6, word: 'Seat', work: 'R3'},
+instances: 6, word: 'Seen', work: 'R3'},
+instances: 6, word: 'Slaughter', work: 'R3'},
+instances: 6, word: 'Spirit', work: 'R3'},
+instances: 6, word: 'Suit', work: 'R3'},
+instances: 6, word: 'Talk', work: 'R3'},
+instances: 6, word: 'Teach', work: 'R3'},
+instances: 6, word: 'Thrive', work: 'R3'},
+instances: 6, word: 'Tonight', work: 'R3'},
+instances: 6, word: 'Touch', work: 'R3'},
+instances: 6, word: 'Toward', work: 'R3'},
+instances: 6, word: 'Towards', work: 'R3'},
+instances: 6, word: 'Traitors', work: 'R3'},
+instances: 6, word: 'Use', work: 'R3'},
+instances: 6, word: 'Voice', work: 'R3'},
+instances: 6, word: 'Wilt', work: 'R3'},
+instances: 6, word: 'Wives', work: 'R3'},
+instances: 6, word: 'Won', work: 'R3'},
+instances: 6, word: 'Yourself', work: 'R3'},
+instances: 6, word: '\'t', work: 'R3'},
+instances: 6, word: '\'twas', work: 'R3'},
+instances: 6, word: '\'twere', work: 'R3'},
+instances: 5, word: 'Adversaries', work: 'R3'},
+instances: 5, word: 'Aid', work: 'R3'},
+instances: 5, word: 'Air', work: 'R3'},
+instances: 5, word: 'Alive', work: 'R3'},
+instances: 5, word: 'Ancient', work: 'R3'},
+instances: 5, word: 'Angels', work: 'R3'},
+instances: 5, word: 'Attend', work: 'R3'},
+instances: 5, word: 'Beg', work: 'R3'},
+instances: 5, word: 'Behold', work: 'R3'},
+instances: 5, word: 'Bids', work: 'R3'},
+instances: 5, word: 'Book', work: 'R3'},
+instances: 5, word: 'Breathing', work: 'R3'},
+instances: 5, word: 'Broken', work: 'R3'},
+instances: 5, word: 'Business', work: 'R3'},
+instances: 5, word: 'Cheer', work: 'R3'},
+instances: 5, word: 'Claim', work: 'R3'},
+instances: 5, word: 'Close', work: 'R3'},
+instances: 5, word: 'Clouds', work: 'R3'},
+instances: 5, word: 'Country\'s', work: 'R3'},
+instances: 5, word: 'Cousins', work: 'R3'},
+instances: 5, word: 'Crowned', work: 'R3'},
+instances: 5, word: 'Cursed', work: 'R3'},
+instances: 5, word: 'Cut', work: 'R3'},
+instances: 5, word: 'Derby', work: 'R3'},
+instances: 5, word: 'Deserve', work: 'R3'},
+instances: 5, word: 'Dignity', work: 'R3'},
+instances: 5, word: 'Direction', work: 'R3'},
+instances: 5, word: 'Earl', work: 'R3'},
+instances: 5, word: 'Effect', work: 'R3'},
+instances: 5, word: 'Enjoy', work: 'R3'},
+instances: 5, word: 'Expect', work: 'R3'},
+instances: 5, word: 'Fast', work: 'R3'},
+instances: 5, word: 'Fool', work: 'R3'},
+instances: 5, word: 'Foot', work: 'R3'},
+instances: 5, word: 'Forward', work: 'R3'},
+instances: 5, word: 'Found', work: 'R3'},
+instances: 5, word: 'Get', work: 'R3'},
+instances: 5, word: 'Given', work: 'R3'},
+instances: 5, word: 'Glass', work: 'R3'},
+instances: 5, word: 'Gold', work: 'R3'},
+instances: 5, word: 'Grow', work: 'R3'},
+instances: 5, word: 'Guard', work: 'R3'},
+instances: 5, word: 'Ha', work: 'R3'},
+instances: 5, word: 'Having', work: 'R3'},
+instances: 5, word: 'Heard', work: 'R3'},
+instances: 5, word: 'Heart\'s', work: 'R3'},
+instances: 5, word: 'Height', work: 'R3'},
+instances: 5, word: 'Heirs', work: 'R3'},
+instances: 5, word: 'Henry\'s', work: 'R3'},
+instances: 5, word: 'Hie', work: 'R3'},
+instances: 5, word: 'Home', work: 'R3'},
+instances: 5, word: 'Humbly', work: 'R3'},
+instances: 5, word: 'Humor', work: 'R3'},
+instances: 5, word: 'Innocent', work: 'R3'},
+instances: 5, word: 'Joys', work: 'R3'},
+instances: 5, word: 'Kings', work: 'R3'},
+instances: 5, word: 'King\'s', work: 'R3'},
+instances: 5, word: 'Kiss', work: 'R3'},
+instances: 5, word: 'Laid', work: 'R3'},
+instances: 5, word: 'Late', work: 'R3'},
+instances: 5, word: 'Less', work: 'R3'},
+instances: 5, word: 'Liberty', work: 'R3'},
+instances: 5, word: 'Lived', work: 'R3'},
+instances: 5, word: 'Living', work: 'R3'},
+instances: 5, word: 'Lo', work: 'R3'},
+instances: 5, word: 'London', work: 'R3'},
+instances: 5, word: 'Lose', work: 'R3'},
+instances: 5, word: 'Marquess', work: 'R3'},
+instances: 5, word: 'Matter', work: 'R3'},
+instances: 5, word: 'Melancholy', work: 'R3'},
+instances: 5, word: 'Met', work: 'R3'},
+instances: 5, word: 'Mild', work: 'R3'},
+instances: 5, word: 'Miserable', work: 'R3'},
+instances: 5, word: 'Neither', work: 'R3'},
+instances: 5, word: 'Pale', work: 'R3'},
+instances: 5, word: 'Pass', work: 'R3'},
+instances: 5, word: 'Patient', work: 'R3'},
+instances: 5, word: 'Paul', work: 'R3'},
+instances: 5, word: 'Plead', work: 'R3'},
+instances: 5, word: 'Pleasure', work: 'R3'},
+instances: 5, word: 'Prayer', work: 'R3'},
+instances: 5, word: 'Prayers', work: 'R3'},
+instances: 5, word: 'Pretty', work: 'R3'},
+instances: 5, word: 'Prey', work: 'R3'},
+instances: 5, word: 'Protector', work: 'R3'},
+instances: 5, word: 'Purpose', work: 'R3'},
+instances: 5, word: 'Ready', work: 'R3'},
+instances: 5, word: 'Repent', work: 'R3'},
+instances: 5, word: 'Reward', work: 'R3'},
+instances: 5, word: 'Safe', work: 'R3'},
+instances: 5, word: 'Salisbury', work: 'R3'},
+instances: 5, word: 'Same', work: 'R3'},
+instances: 5, word: 'Scarce', work: 'R3'},
+instances: 5, word: 'Seas', work: 'R3'},
+instances: 5, word: 'Sends', work: 'R3'},
+instances: 5, word: 'Service', work: 'R3'},
+instances: 5, word: 'Several', work: 'R3'},
+instances: 5, word: 'Shallow', work: 'R3'},
+instances: 5, word: 'Sight', work: 'R3'},
+instances: 5, word: 'Sin', work: 'R3'},
+instances: 5, word: 'Sleeping', work: 'R3'},
+instances: 5, word: 'Slew', work: 'R3'},
+instances: 5, word: 'Small', work: 'R3'},
+instances: 5, word: 'Smothered', work: 'R3'},
+instances: 5, word: 'Soldiers', work: 'R3'},
+instances: 5, word: 'Something', work: 'R3'},
+instances: 5, word: 'Soon', work: 'R3'},
+instances: 5, word: 'Sound', work: 'R3'},
+instances: 5, word: 'Spent', work: 'R3'},
+instances: 5, word: 'Stones', work: 'R3'},
+instances: 5, word: 'Stroke', work: 'R3'},
+instances: 5, word: 'Subject', work: 'R3'},
+instances: 5, word: 'Surrey', work: 'R3'},
+instances: 5, word: 'Ten', work: 'R3'},
+instances: 5, word: 'Tewkesbury', work: 'R3'},
+instances: 5, word: 'Thence', work: 'R3'},
+instances: 5, word: 'Things', work: 'R3'},
+instances: 5, word: 'Thither', work: 'R3'},
+instances: 5, word: 'Thomas', work: 'R3'},
+instances: 5, word: 'Three', work: 'R3'},
+instances: 5, word: 'Throne', work: 'R3'},
+instances: 5, word: 'Toad', work: 'R3'},
+instances: 5, word: 'Together', work: 'R3'},
+instances: 5, word: 'Trust', work: 'R3'},
+instances: 5, word: 'Tut', work: 'R3'},
+instances: 5, word: 'Uncles', work: 'R3'},
+instances: 5, word: 'Until', work: 'R3'},
+instances: 5, word: 'Untimely', work: 'R3'},
+instances: 5, word: 'Vantage', work: 'R3'},
+instances: 5, word: 'Virtue', work: 'R3'},
+instances: 5, word: 'Warrant', work: 'R3'},
+instances: 5, word: 'Weary', work: 'R3'},
+instances: 5, word: 'Weeping', work: 'R3'},
+instances: 5, word: 'Wherefore', work: 'R3'},
+instances: 5, word: 'Wherein', work: 'R3'},
+instances: 5, word: 'Whither', work: 'R3'},
+instances: 5, word: 'Wine', work: 'R3'},
+instances: 5, word: 'Wise', work: 'R3'},
+instances: 5, word: 'Woe', work: 'R3'},
+instances: 5, word: 'Woman', work: 'R3'},
+instances: 5, word: 'Work', work: 'R3'},
+instances: 5, word: 'Wouldst', work: 'R3'},
+instances: 5, word: 'Wrath', work: 'R3'},
+instances: 4, word: 'Abroad', work: 'R3'},
+instances: 4, word: 'Account', work: 'R3'},
+instances: 4, word: 'Adieu', work: 'R3'},
+instances: 4, word: 'Afford', work: 'R3'},
+instances: 4, word: 'Afraid', work: 'R3'},
+instances: 4, word: 'Allies', work: 'R3'},
+instances: 4, word: 'Along', work: 'R3'},
+instances: 4, word: 'Army', work: 'R3'},
+instances: 4, word: 'Assured', work: 'R3'},
+instances: 4, word: 'Aunt', work: 'R3'},
+instances: 4, word: 'Awhile', work: 'R3'},
+instances: 4, word: 'Bar', work: 'R3'},
+instances: 4, word: 'Become', work: 'R3'},
+instances: 4, word: 'Beggar', work: 'R3'},
+instances: 4, word: 'Behalf', work: 'R3'},
+instances: 4, word: 'Betide', work: 'R3'},
+instances: 4, word: 'Blessed', work: 'R3'},
+instances: 4, word: 'Blind', work: 'R3'},
+instances: 4, word: 'Butchered', work: 'R3'},
+instances: 4, word: 'Captain', work: 'R3'},
+instances: 4, word: 'Castle', work: 'R3'},
+instances: 4, word: 'Chamberlain', work: 'R3'},
+instances: 4, word: 'Change', work: 'R3'},
+instances: 4, word: 'Clarence\'', work: 'R3'},
+instances: 4, word: 'Command', work: 'R3'},
+instances: 4, word: 'Commanded', work: 'R3'},
+instances: 4, word: 'Committed', work: 'R3'},
+instances: 4, word: 'Coronation', work: 'R3'},
+instances: 4, word: 'Coward', work: 'R3'},
+instances: 4, word: 'Current', work: 'R3'},
+instances: 4, word: 'Cursèd', work: 'R3'},
+instances: 4, word: 'Danger', work: 'R3'},
+instances: 4, word: 'Debt', work: 'R3'},
+instances: 4, word: 'Delay', work: 'R3'},
+instances: 4, word: 'Deserved', work: 'R3'},
+instances: 4, word: 'Destruction', work: 'R3'},
+instances: 4, word: 'Determined', work: 'R3'},
+instances: 4, word: 'Divided', work: 'R3'},
+instances: 4, word: 'Doom', work: 'R3'},
+instances: 4, word: 'Dreadful', work: 'R3'},
+instances: 4, word: 'Earnest', work: 'R3'},
+instances: 4, word: 'Elizabeth', work: 'R3'},
+instances: 4, word: 'Endure', work: 'R3'},
+instances: 4, word: 'Entertain', work: 'R3'},
+instances: 4, word: 'Fares', work: 'R3'},
+instances: 4, word: 'Fathers', work: 'R3'},
+instances: 4, word: 'Fault', work: 'R3'},
+instances: 4, word: 'Favor', work: 'R3'},
+instances: 4, word: 'Flatter', work: 'R3'},
+instances: 4, word: 'Fled', work: 'R3'},
+instances: 4, word: 'Followed', work: 'R3'},
+instances: 4, word: 'Form', work: 'R3'},
+instances: 4, word: 'Four', work: 'R3'},
+instances: 4, word: 'G', work: 'R3'},
+instances: 4, word: 'General', work: 'R3'},
+instances: 4, word: 'Ghost', work: 'R3'},
+instances: 4, word: 'Ground', work: 'R3'},
+instances: 4, word: 'Growth', work: 'R3'},
+instances: 4, word: 'Guiltless', work: 'R3'},
+instances: 4, word: 'Haply', work: 'R3'},
+instances: 4, word: 'Hark', work: 'R3'},
+instances: 4, word: 'Harvest', work: 'R3'},
+instances: 4, word: 'Heads', work: 'R3'},
+instances: 4, word: 'Heed', work: 'R3'},
+instances: 4, word: 'Heir', work: 'R3'},
+instances: 4, word: 'Held', work: 'R3'},
+instances: 4, word: 'Hereafter', work: 'R3'},
+instances: 4, word: 'Humble', work: 'R3'},
+instances: 4, word: 'Idle', work: 'R3'},
+instances: 4, word: 'Imprisonment', work: 'R3'},
+instances: 4, word: 'Intent', work: 'R3'},
+instances: 4, word: 'Isle', work: 'R3'},
+instances: 4, word: 'Jest', work: 'R3'},
+instances: 4, word: 'John', work: 'R3'},
+instances: 4, word: 'Joyful', work: 'R3'},
+instances: 4, word: 'Keeper', work: 'R3'},
+instances: 4, word: 'Kindness', work: 'R3'},
+instances: 4, word: 'Lament', work: 'R3'},
+instances: 4, word: 'Lawful', work: 'R3'},
+instances: 4, word: 'Lend', work: 'R3'},
+instances: 4, word: 'Let\'s', work: 'R3'},
+instances: 4, word: 'Light', work: 'R3'},
+instances: 4, word: 'Load', work: 'R3'},
+instances: 4, word: 'Lovell', work: 'R3'},
+instances: 4, word: 'Margaret\'s', work: 'R3'},
+instances: 4, word: 'Master', work: 'R3'},
+instances: 4, word: 'Meaning', work: 'R3'},
+instances: 4, word: 'Meantime', work: 'R3'},
+instances: 4, word: 'Men\'s', work: 'R3'},
+instances: 4, word: 'Mistress', work: 'R3'},
+instances: 4, word: 'Moan', work: 'R3'},
+instances: 4, word: 'Move', work: 'R3'},
+instances: 4, word: 'Naught', work: 'R3'},
+instances: 4, word: 'Next', work: 'R3'},
+instances: 4, word: 'Nurse', work: 'R3'},
+instances: 4, word: 'Oath', work: 'R3'},
+instances: 4, word: 'Offended', work: 'R3'},
+instances: 4, word: 'Opposite', work: 'R3'},
+instances: 4, word: 'Other\'s', work: 'R3'},
+instances: 4, word: 'Outward', work: 'R3'},
+instances: 4, word: 'Over', work: 'R3'},
+instances: 4, word: 'Pain', work: 'R3'},
+instances: 4, word: 'Paper', work: 'R3'},
+instances: 4, word: 'Party', work: 'R3'},
+instances: 4, word: 'Peevish', work: 'R3'},
+instances: 4, word: 'Pleasing', work: 'R3'},
+instances: 4, word: 'Poison', work: 'R3'},
+instances: 4, word: 'Presently', work: 'R3'},
+instances: 4, word: 'Prime', work: 'R3'},
+instances: 4, word: 'Purse', work: 'R3'},
+instances: 4, word: 'Quarrel', work: 'R3'},
+instances: 4, word: 'Rage', work: 'R3'},
+instances: 4, word: 'Rebels', work: 'R3'},
+instances: 4, word: 'Record', work: 'R3'},
+instances: 4, word: 'Regiment', work: 'R3'},
+instances: 4, word: 'Remembrance', work: 'R3'},
+instances: 4, word: 'Report', work: 'R3'},
+instances: 4, word: 'Request', work: 'R3'},
+instances: 4, word: 'Rescue', work: 'R3'},
+instances: 4, word: 'Resolve', work: 'R3'},
+instances: 4, word: 'Revenged', work: 'R3'},
+instances: 4, word: 'Reverend', work: 'R3'},
+instances: 4, word: 'Richard\'s', work: 'R3'},
+instances: 4, word: 'Rise', work: 'R3'},
+instances: 4, word: 'Serve', work: 'R3'},
+instances: 4, word: 'Shadow', work: 'R3'},
+instances: 4, word: 'Shed', work: 'R3'},
+instances: 4, word: 'Shortly', work: 'R3'},
+instances: 4, word: 'Simple', work: 'R3'},
+instances: 4, word: 'Slander', work: 'R3'},
+instances: 4, word: 'Slaughtered', work: 'R3'},
+instances: 4, word: 'Slave', work: 'R3'},
+instances: 4, word: 'Smile', work: 'R3'},
+instances: 4, word: 'Soft', work: 'R3'},
+instances: 4, word: 'Sovereignty', work: 'R3'},
+instances: 4, word: 'Speed', work: 'R3'},
+instances: 4, word: 'Struck', work: 'R3'},
+instances: 4, word: 'Subjects', work: 'R3'},
+instances: 4, word: 'Subtle', work: 'R3'},
+instances: 4, word: 'Sudden', work: 'R3'},
+instances: 4, word: 'Suddenly', work: 'R3'},
+instances: 4, word: 'Tedious', work: 'R3'},
+instances: 4, word: 'Terror', work: 'R3'},
+instances: 4, word: 'Thanks', work: 'R3'},
+instances: 4, word: 'Tidings', work: 'R3'},
+instances: 4, word: 'Tyranny', work: 'R3'},
+instances: 4, word: 'Tyrant', work: 'R3'},
+instances: 4, word: 'Ugly', work: 'R3'},
+instances: 4, word: 'Unnatural', work: 'R3'},
+instances: 4, word: 'Vengeance', work: 'R3'},
+instances: 4, word: 'Wait', work: 'R3'},
+instances: 4, word: 'Warwick', work: 'R3'},
+instances: 4, word: 'Watch', work: 'R3'},
+instances: 4, word: 'What\'s', work: 'R3'},
+instances: 4, word: 'Wit', work: 'R3'},
+instances: 4, word: 'Withdraw', work: 'R3'},
+instances: 4, word: 'Wounds', work: 'R3'},
+instances: 4, word: 'Wrongs', work: 'R3'},
+instances: 4, word: 'Wrongèd', work: 'R3'},
+instances: 4, word: 'Youth', work: 'R3'},
+instances: 4, word: 'Zounds', work: 'R3'},
+instances: 3, word: 'Accept', work: 'R3'},
+instances: 3, word: 'Accursèd', work: 'R3'},
+instances: 3, word: 'Acquaint', work: 'R3'},
+instances: 3, word: 'Advance', work: 'R3'},
+instances: 3, word: 'Alone', work: 'R3'},
+instances: 3, word: 'Already', work: 'R3'},
+instances: 3, word: 'Amends', work: 'R3'},
+instances: 3, word: 'Anointed', work: 'R3'},
+instances: 3, word: 'Apparent', work: 'R3'},
+instances: 3, word: 'Armor', work: 'R3'},
+instances: 3, word: 'Aught', work: 'R3'},
+instances: 3, word: 'Avoided', work: 'R3'},
+instances: 3, word: 'Bark', work: 'R3'},
+instances: 3, word: 'Base', work: 'R3'},
+instances: 3, word: 'Bastardy', work: 'R3'},
+instances: 3, word: 'Beauteous', work: 'R3'},
+instances: 3, word: 'Beget', work: 'R3'},
+instances: 3, word: 'Begin', work: 'R3'},
+instances: 3, word: 'Begins', work: 'R3'},
+instances: 3, word: 'Behind', work: 'R3'},
+instances: 3, word: 'Beholding', work: 'R3'},
+instances: 3, word: 'Benefit', work: 'R3'},
+instances: 3, word: 'Besides', work: 'R3'},
+instances: 3, word: 'Bitterly', work: 'R3'},
+instances: 3, word: 'Bleeding', work: 'R3'},
+instances: 3, word: 'Blessèd', work: 'R3'},
+instances: 3, word: 'Born', work: 'R3'},
+instances: 3, word: 'Bought', work: 'R3'},
+instances: 3, word: 'Bound', work: 'R3'},
+instances: 3, word: 'Bowels', work: 'R3'},
+instances: 3, word: 'Brakenbury', work: 'R3'},
+instances: 3, word: 'Brandon', work: 'R3'},
+instances: 3, word: 'Brave', work: 'R3'},
+instances: 3, word: 'Breathe', work: 'R3'},
+instances: 3, word: 'Bright', work: 'R3'},
+instances: 3, word: 'Brings', work: 'R3'},
+instances: 3, word: 'Brook', work: 'R3'},
+instances: 3, word: 'Brought', work: 'R3'},
+instances: 3, word: 'Brows', work: 'R3'},
+instances: 3, word: 'Burden', work: 'R3'},
+instances: 3, word: 'Buried', work: 'R3'},
+instances: 3, word: 'Bustle', work: 'R3'},
+instances: 3, word: 'Butt', work: 'R3'},
+instances: 3, word: 'Caesar', work: 'R3'},
+instances: 3, word: 'Care', work: 'R3'},
+instances: 3, word: 'Careful', work: 'R3'},
+instances: 3, word: 'Chamber', work: 'R3'},
+instances: 3, word: 'Changed', work: 'R3'},
+instances: 3, word: 'Cheeks', work: 'R3'},
+instances: 3, word: 'Cheerfully', work: 'R3'},
+instances: 3, word: 'Chertsey', work: 'R3'},
+instances: 3, word: 'Commend', work: 'R3'},
+instances: 3, word: 'Concluded', work: 'R3'},
+instances: 3, word: 'Condition', work: 'R3'},
+instances: 3, word: 'Conduct', work: 'R3'},
+instances: 3, word: 'Conference', work: 'R3'},
+instances: 3, word: 'Confound', work: 'R3'},
+instances: 3, word: 'Conquer', work: 'R3'},
+instances: 3, word: 'Conqueror', work: 'R3'},
+instances: 3, word: 'Contempt', work: 'R3'},
+instances: 3, word: 'Content', work: 'R3'},
+instances: 3, word: 'Contract', work: 'R3'},
+instances: 3, word: 'Council', work: 'R3'},
+instances: 3, word: 'Councils', work: 'R3'},
+instances: 3, word: 'Creature', work: 'R3'},
+instances: 3, word: 'Crept', work: 'R3'},
+instances: 3, word: 'Cries', work: 'R3'},
+instances: 3, word: 'Crosby', work: 'R3'},
+instances: 3, word: 'Cross', work: 'R3'},
+instances: 3, word: 'Dark', work: 'R3'},
+instances: 3, word: 'Darkness', work: 'R3'},
+instances: 3, word: 'Daughters', work: 'R3'},
+instances: 3, word: 'Deal', work: 'R3'},
+instances: 3, word: 'Deceit', work: 'R3'},
+instances: 3, word: 'Deceive', work: 'R3'},
+instances: 3, word: 'Deliver', work: 'R3'},
+instances: 3, word: 'Desert', work: 'R3'},
+instances: 3, word: 'Designs', work: 'R3'},
+instances: 3, word: 'Determine', work: 'R3'},
+instances: 3, word: 'Devilish', work: 'R3'},
+instances: 3, word: 'Devotion', work: 'R3'},
+instances: 3, word: 'Dighton', work: 'R3'},
+instances: 3, word: 'Dire', work: 'R3'},
+instances: 3, word: 'Discontented', work: 'R3'},
+instances: 3, word: 'Dogs', work: 'R3'},
+instances: 3, word: 'Doubtful', work: 'R3'},
+instances: 3, word: 'Drawn', work: 'R3'},
+instances: 3, word: 'Dread', work: 'R3'},
+instances: 3, word: 'Drops', work: 'R3'},
+instances: 3, word: 'Drum', work: 'R3'},
+instances: 3, word: 'Drunken', work: 'R3'},
+instances: 3, word: 'Duteous', work: 'R3'},
+instances: 3, word: 'Earldom', work: 'R3'},
+instances: 3, word: 'Early', work: 'R3'},
+instances: 3, word: 'Earth\'s', work: 'R3'},
+instances: 3, word: 'Empty', work: 'R3'},
+instances: 3, word: 'Enforcement', work: 'R3'},
+instances: 3, word: 'Enmity', work: 'R3'},
+instances: 3, word: 'Enough', work: 'R3'},
+instances: 3, word: 'Enrich', work: 'R3'},
+instances: 3, word: 'Entreaties', work: 'R3'},
+instances: 3, word: 'Envy', work: 'R3'},
+instances: 3, word: 'Evil', work: 'R3'},
+instances: 3, word: 'E\'er', work: 'R3'},
+instances: 3, word: 'Faces', work: 'R3'},
+instances: 3, word: 'Fain', work: 'R3'},
+instances: 3, word: 'Fairer', work: 'R3'},
+instances: 3, word: 'Fame', work: 'R3'},
+instances: 3, word: 'Famous', work: 'R3'},
+instances: 3, word: 'Fee', work: 'R3'},
+instances: 3, word: 'Few', work: 'R3'},
+instances: 3, word: 'Fiery', work: 'R3'},
+instances: 3, word: 'Fill', work: 'R3'},
+instances: 3, word: 'Foes', work: 'R3'},
+instances: 3, word: 'Forgot', work: 'R3'},
+instances: 3, word: 'Forrest', work: 'R3'},
+instances: 3, word: 'Fouler', work: 'R3'},
+instances: 3, word: 'Frantic', work: 'R3'},
+instances: 3, word: 'Gift', work: 'R3'},
+instances: 3, word: 'Gives', work: 'R3'},
+instances: 3, word: 'Goodly', work: 'R3'},
+instances: 3, word: 'Got', work: 'R3'},
+instances: 3, word: 'Graces', work: 'R3'},
+instances: 3, word: 'Graves', work: 'R3'},
+instances: 3, word: 'Greet', work: 'R3'},
+instances: 3, word: 'Half', work: 'R3'},
+instances: 3, word: 'Harry', work: 'R3'},
+instances: 3, word: 'Hateful', work: 'R3'},
+instances: 3, word: 'Hates', work: 'R3'},
+instances: 3, word: 'Heavens', work: 'R3'},
+instances: 3, word: 'Helm', work: 'R3'},
+instances: 3, word: 'Herself', work: 'R3'},
+instances: 3, word: 'He\'ll', work: 'R3'},
+instances: 3, word: 'He\'s', work: 'R3'},
+instances: 3, word: 'Holds', work: 'R3'},
+instances: 3, word: 'Holes', work: 'R3'},
+instances: 3, word: 'Homicide', work: 'R3'},
+instances: 3, word: 'Hopes', work: 'R3'},
+instances: 3, word: 'Hurl', work: 'R3'},
+instances: 3, word: 'Imagine', work: 'R3'},
+instances: 3, word: 'Increase', work: 'R3'},
+instances: 3, word: 'Infer', work: 'R3'},
+instances: 3, word: 'Ink', work: 'R3'},
+instances: 3, word: 'Jack', work: 'R3'},
+instances: 3, word: 'Jealous', work: 'R3'},
+instances: 3, word: 'Join', work: 'R3'},
+instances: 3, word: 'Judge', work: 'R3'},
+instances: 3, word: 'Judgment', work: 'R3'},
+instances: 3, word: 'Justice', work: 'R3'},
+instances: 3, word: 'Kindly', work: 'R3'},
+instances: 3, word: 'Kingly', work: 'R3'},
+instances: 3, word: 'Knocks', work: 'R3'},
+instances: 3, word: 'Knot', work: 'R3'},
+instances: 3, word: 'Lambs', work: 'R3'},
+instances: 3, word: 'Lamentation', work: 'R3'},
+instances: 3, word: 'Leaden', work: 'R3'},
+instances: 3, word: 'Leads', work: 'R3'},
+instances: 3, word: 'League', work: 'R3'},
+instances: 3, word: 'Letter', work: 'R3'},
+instances: 3, word: 'Lies', work: 'R3'},
+instances: 3, word: 'Lightly', work: 'R3'},
+instances: 3, word: 'Limit', work: 'R3'},
+instances: 3, word: 'Lip', work: 'R3'},
+instances: 3, word: 'Loath', work: 'R3'},
+instances: 3, word: 'Looking', work: 'R3'},
+instances: 3, word: 'Ludlow', work: 'R3'},
+instances: 3, word: 'Mad', work: 'R3'},
+instances: 3, word: 'Mad\'st', work: 'R3'},
+instances: 3, word: 'Man\'s', work: 'R3'},
+instances: 3, word: 'Master\'s', work: 'R3'},
+instances: 3, word: 'Mayst', work: 'R3'},
+instances: 3, word: 'Meditation', work: 'R3'},
+instances: 3, word: 'Meed', work: 'R3'},
+instances: 3, word: 'Metal', work: 'R3'},
+instances: 3, word: 'Methinks', work: 'R3'},
+instances: 3, word: 'Methoughts', work: 'R3'},
+instances: 3, word: 'Mewed', work: 'R3'},
+instances: 3, word: 'Mistake', work: 'R3'},
+instances: 3, word: 'Mistrust', work: 'R3'},
+instances: 3, word: 'Monstrous', work: 'R3'},
+instances: 3, word: 'Moved', work: 'R3'},
+instances: 3, word: 'Murdered', work: 'R3'},
+instances: 3, word: 'Murderer', work: 'R3'},
+instances: 3, word: 'Murd\'rous', work: 'R3'},
+instances: 3, word: 'Muster', work: 'R3'},
+instances: 3, word: 'Naked', work: 'R3'},
+instances: 3, word: 'Needs', work: 'R3'},
+instances: 3, word: 'Noise', work: 'R3'},
+instances: 3, word: 'North', work: 'R3'},
+instances: 3, word: 'Northumberland', work: 'R3'},
+instances: 3, word: 'Offense', work: 'R3'},
+instances: 3, word: 'Oft', work: 'R3'},
+instances: 3, word: 'Often', work: 'R3'},
+instances: 3, word: 'Oxford', work: 'R3'},
+instances: 3, word: 'Pains', work: 'R3'},
+instances: 3, word: 'Past', work: 'R3'},
+instances: 3, word: 'Pause', work: 'R3'},
+instances: 3, word: 'Pembroke', work: 'R3'},
+instances: 3, word: 'Pent', work: 'R3'},
+instances: 3, word: 'Perforce', work: 'R3'},
+instances: 3, word: 'Peril', work: 'R3'},
+instances: 3, word: 'Perjury', work: 'R3'},
+instances: 3, word: 'Perpetual', work: 'R3'},
+instances: 3, word: 'Pieces', work: 'R3'},
+instances: 3, word: 'Piteous', work: 'R3'},
+instances: 3, word: 'Pleaseth', work: 'R3'},
+instances: 3, word: 'Plucked', work: 'R3'},
+instances: 3, word: 'Precious', work: 'R3'},
+instances: 3, word: 'Prepare', work: 'R3'},
+instances: 3, word: 'Prevented', work: 'R3'},
+instances: 3, word: 'Priest', work: 'R3'},
+instances: 3, word: 'Prophesy', work: 'R3'},
+instances: 3, word: 'Proportion', work: 'R3'},
+instances: 3, word: 'Protest', work: 'R3'},
+instances: 3, word: 'Provokèd', work: 'R3'},
+instances: 3, word: 'Purchase', work: 'R3'},
+instances: 3, word: 'Red', work: 'R3'},
+instances: 3, word: 'Reign', work: 'R3'},
+instances: 3, word: 'Relent', work: 'R3'},
+instances: 3, word: 'Remorse', work: 'R3'},
+instances: 3, word: 'Reported', work: 'R3'},
+instances: 3, word: 'Requests', work: 'R3'},
+instances: 3, word: 'Ruin', work: 'R3'},
+instances: 3, word: 'Rutland', work: 'R3'},
+instances: 3, word: 'Safety', work: 'R3'},
+instances: 3, word: 'Saying', work: 'R3'},
+instances: 3, word: 'Scarcely', work: 'R3'},
+instances: 3, word: 'Scattered', work: 'R3'},
+instances: 3, word: 'Scene', work: 'R3'},
+instances: 3, word: 'Scorned', work: 'R3'},
+instances: 3, word: 'Sea', work: 'R3'},
+instances: 3, word: 'Seal', work: 'R3'},
+instances: 3, word: 'Secret', work: 'R3'},
+instances: 3, word: 'Secure', work: 'R3'},
+instances: 3, word: 'Selfsame', work: 'R3'},
+instances: 3, word: 'She\'s', work: 'R3'},
+instances: 3, word: 'Shine', work: 'R3'},
+instances: 3, word: 'Shoulders', work: 'R3'},
+instances: 3, word: 'Sickly', work: 'R3'},
+instances: 3, word: 'Sights', work: 'R3'},
+instances: 3, word: 'Sign', work: 'R3'},
+instances: 3, word: 'Sins', work: 'R3'},
+instances: 3, word: 'Sixth', work: 'R3'},
+instances: 3, word: 'Smooth', work: 'R3'},
+instances: 3, word: 'Sort', work: 'R3'},
+instances: 3, word: 'Souls\'', work: 'R3'},
+instances: 3, word: 'Spake', work: 'R3'},
+instances: 3, word: 'Stands', work: 'R3'},
+instances: 3, word: 'Steal', work: 'R3'},
+instances: 3, word: 'Stern', work: 'R3'},
+instances: 3, word: 'Stood', work: 'R3'},
+instances: 3, word: 'Stop', work: 'R3'},
+instances: 3, word: 'Stopped', work: 'R3'},
+instances: 3, word: 'Story', work: 'R3'},
+instances: 3, word: 'Strength', work: 'R3'},
+instances: 3, word: 'Strong', work: 'R3'},
+instances: 3, word: 'Success', work: 'R3'},
+instances: 3, word: 'Sued', work: 'R3'},
+instances: 3, word: 'Sues', work: 'R3'},
+instances: 3, word: 'Summer', work: 'R3'},
+instances: 3, word: 'Suspect', work: 'R3'},
+instances: 3, word: 'Swords', work: 'R3'},
+instances: 3, word: 'Taken', work: 'R3'},
+instances: 3, word: 'Talked', work: 'R3'},
+instances: 3, word: 'Tardy', work: 'R3'},
+instances: 3, word: 'Ta\'en', work: 'R3'},
+instances: 3, word: 'Tempt', work: 'R3'},
+instances: 3, word: 'That\'s', work: 'R3'},
+instances: 3, word: 'Therein', work: 'R3'},
+instances: 3, word: 'Think\'st', work: 'R3'},
+instances: 3, word: 'Throat', work: 'R3'},
+instances: 3, word: 'Throw', work: 'R3'},
+instances: 3, word: 'Torment', work: 'R3'},
+instances: 3, word: 'Treacherous', work: 'R3'},
+instances: 3, word: 'Truly', work: 'R3'},
+instances: 3, word: 'Twenty', work: 'R3'},
+instances: 3, word: 'Under', work: 'R3'},
+instances: 3, word: 'Undertake', work: 'R3'},
+instances: 3, word: 'Ungoverned', work: 'R3'},
+instances: 3, word: 'Urged', work: 'R3'},
+instances: 3, word: 'Used', work: 'R3'},
+instances: 3, word: 'Usurp', work: 'R3'},
+instances: 3, word: 'Usurped', work: 'R3'},
+instances: 3, word: 'Valiant', work: 'R3'},
+instances: 3, word: 'Vice', work: 'R3'},
+instances: 3, word: 'Victorious', work: 'R3'},
+instances: 3, word: 'Vouchsafe', work: 'R3'},
+instances: 3, word: 'Vow', work: 'R3'},
+instances: 3, word: 'Wales', work: 'R3'},
+instances: 3, word: 'Walls', work: 'R3'},
+instances: 3, word: 'Walter', work: 'R3'},
+instances: 3, word: 'Warlike', work: 'R3'},
+instances: 3, word: 'Warn', work: 'R3'},
+instances: 3, word: 'Wars', work: 'R3'},
+instances: 3, word: 'Wash', work: 'R3'},
+instances: 3, word: 'Watchful', work: 'R3'},
+instances: 3, word: 'Weak', work: 'R3'},
+instances: 3, word: 'Weeds', work: 'R3'},
+instances: 3, word: 'Weigh', work: 'R3'},
+instances: 3, word: 'We\'ll', work: 'R3'},
+instances: 3, word: 'Whiles', work: 'R3'},
+instances: 3, word: 'Wife\'s', work: 'R3'},
+instances: 3, word: 'Wings', work: 'R3'},
+instances: 3, word: 'Wished', work: 'R3'},
+instances: 3, word: 'Woeful', work: 'R3'},
+instances: 3, word: 'Wonderful', work: 'R3'},
+instances: 3, word: 'Wont', work: 'R3'},
+instances: 3, word: 'World\'s', work: 'R3'},
+instances: 3, word: 'Worse', work: 'R3'},
+instances: 3, word: 'Worthy', work: 'R3'},
+instances: 3, word: 'Wretch', work: 'R3'},
+instances: 3, word: 'Write', work: 'R3'},
+instances: 3, word: 'Yes', work: 'R3'},
+instances: 3, word: 'Yoke', work: 'R3'},
+instances: 3, word: 'York\'s', work: 'R3'},
+instances: 3, word: 'Yourselves', work: 'R3'},
+instances: 2, word: 'Abides', work: 'R3'},
+instances: 2, word: 'Abortive', work: 'R3'},
+instances: 2, word: 'Accursed', work: 'R3'},
+instances: 2, word: 'Accuse', work: 'R3'},
+instances: 2, word: 'Accused', work: 'R3'},
+instances: 2, word: 'Acquit', work: 'R3'},
+instances: 2, word: 'Act', work: 'R3'},
+instances: 2, word: 'Advancement', work: 'R3'},
+instances: 2, word: 'Advantage', work: 'R3'},
+instances: 2, word: 'Adverse', work: 'R3'},
+instances: 2, word: 'Advised', work: 'R3'},
+instances: 2, word: 'Aerie', work: 'R3'},
+instances: 2, word: 'Affairs', work: 'R3'},
+instances: 2, word: 'Agony', work: 'R3'},
+instances: 2, word: 'Aim', work: 'R3'},
+instances: 2, word: 'Airy', work: 'R3'},
+instances: 2, word: 'Alack', work: 'R3'},
+instances: 2, word: 'Albeit', work: 'R3'},
+instances: 2, word: 'Alliance', work: 'R3'},
+instances: 2, word: 'Aloud', work: 'R3'},
+instances: 2, word: 'Although', work: 'R3'},
+instances: 2, word: 'Among', work: 'R3'},
+instances: 2, word: 'Angel', work: 'R3'},
+instances: 2, word: 'Anon', work: 'R3'},
+instances: 2, word: 'Anything', work: 'R3'},
+instances: 2, word: 'Archers', work: 'R3'},
+instances: 2, word: 'Argues', work: 'R3'},
+instances: 2, word: 'Ask', work: 'R3'},
+instances: 2, word: 'Attempt', work: 'R3'},
+instances: 2, word: 'Attorney', work: 'R3'},
+instances: 2, word: 'Avoid', work: 'R3'},
+instances: 2, word: 'Awaked', work: 'R3'},
+instances: 2, word: 'Bade', work: 'R3'},
+instances: 2, word: 'Banishment', work: 'R3'},
+instances: 2, word: 'Barren', work: 'R3'},
+instances: 2, word: 'Bastards', work: 'R3'},
+instances: 2, word: 'Baynard\'s', work: 'R3'},
+instances: 2, word: 'Bears', work: 'R3'},
+instances: 2, word: 'Beast', work: 'R3'},
+instances: 2, word: 'Befall', work: 'R3'},
+instances: 2, word: 'Beggars', work: 'R3'},
+instances: 2, word: 'Begging', work: 'R3'},
+instances: 2, word: 'Belike', work: 'R3'},
+instances: 2, word: 'Below', work: 'R3'},
+instances: 2, word: 'Bend', work: 'R3'},
+instances: 2, word: 'Betwixt', work: 'R3'},
+instances: 2, word: 'Bewept', work: 'R3'},
+instances: 2, word: 'Bites', work: 'R3'},
+instances: 2, word: 'Blemished', work: 'R3'},
+instances: 2, word: 'Blessing', work: 'R3'},
+instances: 2, word: 'Block', work: 'R3'},
+instances: 2, word: 'Blush', work: 'R3'},
+instances: 2, word: 'Bodies', work: 'R3'},
+instances: 2, word: 'Bones', work: 'R3'},
+instances: 2, word: 'Boon', work: 'R3'},
+instances: 2, word: 'Boot', work: 'R3'},
+instances: 2, word: 'Borne', work: 'R3'},
+instances: 2, word: 'Bosoms', work: 'R3'},
+instances: 2, word: 'Bottled', work: 'R3'},
+instances: 2, word: 'Bottom', work: 'R3'},
+instances: 2, word: 'Bowl', work: 'R3'},
+instances: 2, word: 'Boys', work: 'R3'},
+instances: 2, word: 'Breaks', work: 'R3'},
+instances: 2, word: 'Breathed', work: 'R3'},
+instances: 2, word: 'Breton', work: 'R3'},
+instances: 2, word: 'Bretons', work: 'R3'},
+instances: 2, word: 'Brittany', work: 'R3'},
+instances: 2, word: 'Brotherhood', work: 'R3'},
+instances: 2, word: 'Buckle', work: 'R3'},
+instances: 2, word: 'Buildeth', work: 'R3'},
+instances: 2, word: 'Bunch-backed', work: 'R3'},
+instances: 2, word: 'Busy', work: 'R3'},
+instances: 2, word: 'Butcheries', work: 'R3'},
+instances: 2, word: 'Buy', work: 'R3'},
+instances: 2, word: 'Cam\'st', work: 'R3'},
+instances: 2, word: 'Cares', work: 'R3'},
+instances: 2, word: 'Case', work: 'R3'},
+instances: 2, word: 'Cast', work: 'R3'},
+instances: 2, word: 'Catch', work: 'R3'},
+instances: 2, word: 'Causer', work: 'R3'},
+instances: 2, word: 'Censures', work: 'R3'},
+instances: 2, word: 'Ceremonious', work: 'R3'},
+instances: 2, word: 'Chair', work: 'R3'},
+instances: 2, word: 'Chance', work: 'R3'},
+instances: 2, word: 'Chase', work: 'R3'},
+instances: 2, word: 'Cheerful', work: 'R3'},
+instances: 2, word: 'Cherish', work: 'R3'},
+instances: 2, word: 'Children\'s', work: 'R3'},
+instances: 2, word: 'Choose', work: 'R3'},
+instances: 2, word: 'Circumstance', work: 'R3'},
+instances: 2, word: 'Closely', work: 'R3'},
+instances: 2, word: 'Cloudy', work: 'R3'},
+instances: 2, word: 'Color', work: 'R3'},
+instances: 2, word: 'Commanding', work: 'R3'},
+instances: 2, word: 'Commit', work: 'R3'},
+instances: 2, word: 'Complaining', work: 'R3'},
+instances: 2, word: 'Complaints', work: 'R3'},
+instances: 2, word: 'Complots', work: 'R3'},
+instances: 2, word: 'Com\'st', work: 'R3'},
+instances: 2, word: 'Confess', work: 'R3'},
+instances: 2, word: 'Conquerors', work: 'R3'},
+instances: 2, word: 'Conquest', work: 'R3'},
+instances: 2, word: 'Consent', work: 'R3'},
+instances: 2, word: 'Consequence', work: 'R3'},
+instances: 2, word: 'Consorted', work: 'R3'},
+instances: 2, word: 'Contrary', work: 'R3'},
+instances: 2, word: 'Convey', work: 'R3'},
+instances: 2, word: 'Corruption', work: 'R3'},
+instances: 2, word: 'Cost', work: 'R3'},
+instances: 2, word: 'Country', work: 'R3'},
+instances: 2, word: 'Courageous', work: 'R3'},
+instances: 2, word: 'Courtesy', work: 'R3'},
+instances: 2, word: 'Cowardly', work: 'R3'},
+instances: 2, word: 'Cried', work: 'R3'},
+instances: 2, word: 'Dagger', work: 'R3'},
+instances: 2, word: 'Dare', work: 'R3'},
+instances: 2, word: 'Daring', work: 'R3'},
+instances: 2, word: 'Daughter\'s', work: 'R3'},
+instances: 2, word: 'Day\'s', work: 'R3'},
+instances: 2, word: 'Dearest', work: 'R3'},
+instances: 2, word: 'Deaths', work: 'R3'},
+instances: 2, word: 'Defaced', work: 'R3'},
+instances: 2, word: 'Deformity', work: 'R3'},
+instances: 2, word: 'Delight', work: 'R3'},
+instances: 2, word: 'Delivered', work: 'R3'},
+instances: 2, word: 'Delivery', work: 'R3'},
+instances: 2, word: 'Depart', work: 'R3'},
+instances: 2, word: 'Descant', work: 'R3'},
+instances: 2, word: 'Despairing', work: 'R3'},
+instances: 2, word: 'Desperate', work: 'R3'},
+instances: 2, word: 'Desp\'rate', work: 'R3'},
+instances: 2, word: 'Destiny', work: 'R3'},
+instances: 2, word: 'Device', work: 'R3'},
+instances: 2, word: 'Devils', work: 'R3'},
+instances: 2, word: 'Devised', work: 'R3'},
+instances: 2, word: 'Devoted', work: 'R3'},
+instances: 2, word: 'Dew', work: 'R3'},
+instances: 2, word: 'Did\'st', work: 'R3'},
+instances: 2, word: 'Dinner', work: 'R3'},
+instances: 2, word: 'Direful', work: 'R3'},
+instances: 2, word: 'Discipline', work: 'R3'},
+instances: 2, word: 'Discourse', work: 'R3'},
+instances: 2, word: 'Disgrace', work: 'R3'},
+instances: 2, word: 'Disgraced', work: 'R3'},
+instances: 2, word: 'Disgracious', work: 'R3'},
+instances: 2, word: 'Dishonored', work: 'R3'},
+instances: 2, word: 'Dismal', work: 'R3'},
+instances: 2, word: 'Dispersed', work: 'R3'},
+instances: 2, word: 'Dissemble', work: 'R3'},
+instances: 2, word: 'Dissembling', work: 'R3'},
+instances: 2, word: 'Distress', work: 'R3'},
+instances: 2, word: 'Distressèd', work: 'R3'},
+instances: 2, word: 'Divine', work: 'R3'},
+instances: 2, word: 'Divines', work: 'R3'},
+instances: 2, word: 'Doing', work: 'R3'},
+instances: 2, word: 'Double', work: 'R3'},
+instances: 2, word: 'Dream\'st', work: 'R3'},
+instances: 2, word: 'Drew', work: 'R3'},
+instances: 2, word: 'Drink', work: 'R3'},
+instances: 2, word: 'Drop', work: 'R3'},
+instances: 2, word: 'Drums', work: 'R3'},
+instances: 2, word: 'Dukes', work: 'R3'},
+instances: 2, word: 'Dwell', work: 'R3'},
+instances: 2, word: 'Dwells', work: 'R3'},
+instances: 2, word: 'Eagles', work: 'R3'},
+instances: 2, word: 'Ear', work: 'R3'},
+instances: 2, word: 'East', work: 'R3'},
+instances: 2, word: 'Edgeless', work: 'R3'},
+instances: 2, word: 'Ely', work: 'R3'},
+instances: 2, word: 'Embrace', work: 'R3'},
+instances: 2, word: 'Employ', work: 'R3'},
+instances: 2, word: 'Ends', work: 'R3'},
+instances: 2, word: 'Endured', work: 'R3'},
+instances: 2, word: 'Enter', work: 'R3'},
+instances: 2, word: 'Entrails', work: 'R3'},
+instances: 2, word: 'Envious', work: 'R3'},
+instances: 2, word: 'Equally', work: 'R3'},
+instances: 2, word: 'Eternal', work: 'R3'},
+instances: 2, word: 'Evidence', work: 'R3'},
+instances: 2, word: 'Excellent', work: 'R3'},
+instances: 2, word: 'Exclaims', work: 'R3'},
+instances: 2, word: 'Excuse', work: 'R3'},
+instances: 2, word: 'Execution', work: 'R3'},
+instances: 2, word: 'Executioner', work: 'R3'},
+instances: 2, word: 'Exercise', work: 'R3'},
+instances: 2, word: 'Exeter', work: 'R3'},
+instances: 2, word: 'Expedition', work: 'R3'},
+instances: 2, word: 'Exploit', work: 'R3'},
+instances: 2, word: 'Extreme', work: 'R3'},
+instances: 2, word: 'Faction', work: 'R3'},
+instances: 2, word: 'Factious', work: 'R3'},
+instances: 2, word: 'Factor', work: 'R3'},
+instances: 2, word: 'Fairly', work: 'R3'},
+instances: 2, word: 'Faithful', work: 'R3'},
+instances: 2, word: 'Falls', work: 'R3'},
+instances: 2, word: 'Fall\'n', work: 'R3'},
+instances: 2, word: 'Falsely', work: 'R3'},
+instances: 2, word: 'Fatal', work: 'R3'},
+instances: 2, word: 'Father-in-law', work: 'R3'},
+instances: 2, word: 'Feared', work: 'R3'},
+instances: 2, word: 'Fears', work: 'R3'},
+instances: 2, word: 'Feel', work: 'R3'},
+instances: 2, word: 'Felt', work: 'R3'},
+instances: 2, word: 'Fie', work: 'R3'},
+instances: 2, word: 'Fiends', work: 'R3'},
+instances: 2, word: 'Fills', work: 'R3'},
+instances: 2, word: 'Finds', work: 'R3'},
+instances: 2, word: 'Firm', work: 'R3'},
+instances: 2, word: 'Five', work: 'R3'},
+instances: 2, word: 'Flies', work: 'R3'},
+instances: 2, word: 'Flood', work: 'R3'},
+instances: 2, word: 'Flowers', work: 'R3'},
+instances: 2, word: 'Foe', work: 'R3'},
+instances: 2, word: 'Followers', work: 'R3'},
+instances: 2, word: 'Follows', work: 'R3'},
+instances: 2, word: 'Fond', work: 'R3'},
+instances: 2, word: 'Foolish', work: 'R3'},
+instances: 2, word: 'Forbear', work: 'R3'},
+instances: 2, word: 'Forbids', work: 'R3'},
+instances: 2, word: 'Force', work: 'R3'},
+instances: 2, word: 'Foreign', work: 'R3'},
+instances: 2, word: 'Forever', work: 'R3'},
+instances: 2, word: 'Forget', work: 'R3'},
+instances: 2, word: 'Forsake', work: 'R3'},
+instances: 2, word: 'Framed', work: 'R3'},
+instances: 2, word: 'Franked', work: 'R3'},
+instances: 2, word: 'Free', work: 'R3'},
+instances: 2, word: 'Friendship', work: 'R3'},
+instances: 2, word: 'Fright', work: 'R3'},
+instances: 2, word: 'Frown', work: 'R3'},
+instances: 2, word: 'Frowned', work: 'R3'},
+instances: 2, word: 'Garland', work: 'R3'},
+instances: 2, word: 'Garments', work: 'R3'},
+instances: 2, word: 'Garter', work: 'R3'},
+instances: 2, word: 'Gave', work: 'R3'},
+instances: 2, word: 'George\'s', work: 'R3'},
+instances: 2, word: 'Giddy', work: 'R3'},
+instances: 2, word: 'Glories', work: 'R3'},
+instances: 2, word: 'Goes', work: 'R3'},
+instances: 2, word: 'Going', work: 'R3'},
+instances: 2, word: 'Goodnight', work: 'R3'},
+instances: 2, word: 'Governed', work: 'R3'},
+instances: 2, word: 'Government', work: 'R3'},
+instances: 2, word: 'Graced', work: 'R3'},
+instances: 2, word: 'Grace\'s', work: 'R3'},
+instances: 2, word: 'Greater', work: 'R3'},
+instances: 2, word: 'Greatness', work: 'R3'},
+instances: 2, word: 'Green', work: 'R3'},
+instances: 2, word: 'Grew', work: 'R3'},
+instances: 2, word: 'Griefs', work: 'R3'},
+instances: 2, word: 'Grieves', work: 'R3'},
+instances: 2, word: 'Gross', work: 'R3'},
+instances: 2, word: 'Grown', work: 'R3'},
+instances: 2, word: 'Grows', work: 'R3'},
+instances: 2, word: 'Guildhall', work: 'R3'},
+instances: 2, word: 'Guile', work: 'R3'},
+instances: 2, word: 'Guilt', work: 'R3'},
+instances: 2, word: 'Hair', work: 'R3'},
+instances: 2, word: 'Hap', work: 'R3'},
+instances: 2, word: 'Hardy', work: 'R3'},
+instances: 2, word: 'Harms', work: 'R3'},
+instances: 2, word: 'Harp', work: 'R3'},
+instances: 2, word: 'Hastings\'', work: 'R3'},
+instances: 2, word: 'Hasty', work: 'R3'},
+instances: 2, word: 'Hatches', work: 'R3'},
+instances: 2, word: 'Haughty', work: 'R3'},
+instances: 2, word: 'Haunt', work: 'R3'},
+instances: 2, word: 'Heap', work: 'R3'},
+instances: 2, word: 'Heartily', work: 'R3'},
+instances: 2, word: 'Heavily', work: 'R3'},
+instances: 2, word: 'Herbert', work: 'R3'},
+instances: 2, word: 'Hereford', work: 'R3'},
+instances: 2, word: 'Herein', work: 'R3'},
+instances: 2, word: 'Honest', work: 'R3'},
+instances: 2, word: 'Honorable', work: 'R3'},
+instances: 2, word: 'Hot', work: 'R3'},
+instances: 2, word: 'Hover', work: 'R3'},
+instances: 2, word: 'Humility', work: 'R3'},
+instances: 2, word: 'Hung', work: 'R3'},
+instances: 2, word: 'Hunt', work: 'R3'},
+instances: 2, word: 'Hurled', work: 'R3'},
+instances: 2, word: 'Ignoble', work: 'R3'},
+instances: 2, word: 'Impart', work: 'R3'},
+instances: 2, word: 'Impatience', work: 'R3'},
+instances: 2, word: 'Imperial', work: 'R3'},
+instances: 2, word: 'Incense', work: 'R3'},
+instances: 2, word: 'Index', work: 'R3'},
+instances: 2, word: 'Indirect', work: 'R3'},
+instances: 2, word: 'Infamy', work: 'R3'},
+instances: 2, word: 'Infant', work: 'R3'},
+instances: 2, word: 'Inferred', work: 'R3'},
+instances: 2, word: 'Injury', work: 'R3'},
+instances: 2, word: 'Instead', work: 'R3'},
+instances: 2, word: 'Intelligence', work: 'R3'},
+instances: 2, word: 'Interchange', work: 'R3'},
+instances: 2, word: 'Interest', work: 'R3'},
+instances: 2, word: 'Inward', work: 'R3'},
+instances: 2, word: 'It\'s', work: 'R3'},
+instances: 2, word: 'James', work: 'R3'},
+instances: 2, word: 'Jesu', work: 'R3'},
+instances: 2, word: 'Jocund', work: 'R3'},
+instances: 2, word: 'Julius', work: 'R3'},
+instances: 2, word: 'Keeps', work: 'R3'},
+instances: 2, word: 'Kissed', work: 'R3'},
+instances: 2, word: 'Knee', work: 'R3'},
+instances: 2, word: 'Knees', work: 'R3'},
+instances: 2, word: 'Knew', work: 'R3'},
+instances: 2, word: 'Knife', work: 'R3'},
+instances: 2, word: 'Labor', work: 'R3'},
+instances: 2, word: 'Lands', work: 'R3'},
+instances: 2, word: 'Land\'s', work: 'R3'},
+instances: 2, word: 'Lap', work: 'R3'},
+instances: 2, word: 'Lately', work: 'R3'},
+instances: 2, word: 'Least', work: 'R3'},
+instances: 2, word: 'Leaves', work: 'R3'},
+instances: 2, word: 'Led', work: 'R3'},
+instances: 2, word: 'Leicester', work: 'R3'},
+instances: 2, word: 'Lengthened', work: 'R3'},
+instances: 2, word: 'Lent', work: 'R3'},
+instances: 2, word: 'Letters', work: 'R3'},
+instances: 2, word: 'Lewd', work: 'R3'},
+instances: 2, word: 'Liest', work: 'R3'},
+instances: 2, word: 'Lieutenant', work: 'R3'},
+instances: 2, word: 'Likelihood', work: 'R3'},
+instances: 2, word: 'Likes', work: 'R3'},
+instances: 2, word: 'Lineal', work: 'R3'},
+instances: 2, word: 'Lineaments', work: 'R3'},
+instances: 2, word: 'Lips', work: 'R3'},
+instances: 2, word: 'Longer', work: 'R3'},
+instances: 2, word: 'Lord\'s', work: 'R3'},
+instances: 2, word: 'Love\'s', work: 'R3'},
+instances: 2, word: 'Low', work: 'R3'},
+instances: 2, word: 'Loyal', work: 'R3'},
+instances: 2, word: 'Lucy', work: 'R3'},
+instances: 2, word: 'Main', work: 'R3'},
+instances: 2, word: 'Malice', work: 'R3'},
+instances: 2, word: 'Malmsey', work: 'R3'},
+instances: 2, word: 'Manner', work: 'R3'},
+instances: 2, word: 'Manners', work: 'R3'},
+instances: 2, word: 'Mark', work: 'R3'},
+instances: 2, word: 'Marriage', work: 'R3'},
+instances: 2, word: 'Marvel', work: 'R3'},
+instances: 2, word: 'Massacre', work: 'R3'},
+instances: 2, word: 'Match', work: 'R3'},
+instances: 2, word: 'Matched', work: 'R3'},
+instances: 2, word: 'Meanings', work: 'R3'},
+instances: 2, word: 'Meant', work: 'R3'},
+instances: 2, word: 'Mercury', work: 'R3'},
+instances: 2, word: 'Merry', work: 'R3'},
+instances: 2, word: 'Millstones', work: 'R3'},
+instances: 2, word: 'Minds', work: 'R3'},
+instances: 2, word: 'Minister', work: 'R3'},
+instances: 2, word: 'Ministers', work: 'R3'},
+instances: 2, word: 'Miseries', work: 'R3'},
+instances: 2, word: 'Mock', work: 'R3'},
+instances: 2, word: 'Mocked', work: 'R3'},
+instances: 2, word: 'Moiety', work: 'R3'},
+instances: 2, word: 'Monarchy', work: 'R3'},
+instances: 2, word: 'Months', work: 'R3'},
+instances: 2, word: 'Morn', work: 'R3'},
+instances: 2, word: 'Morton', work: 'R3'},
+instances: 2, word: 'Mourn', work: 'R3'},
+instances: 2, word: 'Mourner', work: 'R3'},
+instances: 2, word: 'Mouth', work: 'R3'},
+instances: 2, word: 'Movables', work: 'R3'},
+instances: 2, word: 'Nails', work: 'R3'},
+instances: 2, word: 'Navy', work: 'R3'},
+instances: 2, word: 'Nearer', work: 'R3'},
+instances: 2, word: 'Nearest', work: 'R3'},
+instances: 2, word: 'Neck', work: 'R3'},
+instances: 2, word: 'Neighbor', work: 'R3'},
+instances: 2, word: 'Nest', work: 'R3'},
+instances: 2, word: 'New', work: 'R3'},
+instances: 2, word: 'Nights', work: 'R3'},
+instances: 2, word: 'Nine', work: 'R3'},
+instances: 2, word: 'Nobility', work: 'R3'},
+instances: 2, word: 'Number', work: 'R3'},
+instances: 2, word: 'Obdurate', work: 'R3'},
+instances: 2, word: 'Obedient', work: 'R3'},
+instances: 2, word: 'Obey', work: 'R3'},
+instances: 2, word: 'Obstacles', work: 'R3'},
+instances: 2, word: 'Occasion', work: 'R3'},
+instances: 2, word: 'Office', work: 'R3'},
+instances: 2, word: 'Ominous', work: 'R3'},
+instances: 2, word: 'Opinion', work: 'R3'},
+instances: 2, word: 'Orators', work: 'R3'},
+instances: 2, word: 'Oratory', work: 'R3'},
+instances: 2, word: 'Ordinance', work: 'R3'},
+instances: 2, word: 'Orphans', work: 'R3'},
+instances: 2, word: 'Others', work: 'R3'},
+instances: 2, word: 'Ours', work: 'R3'},
+instances: 2, word: 'Outrage', work: 'R3'},
+instances: 2, word: 'O\'er', work: 'R3'},
+instances: 2, word: 'O\'erpast', work: 'R3'},
+instances: 2, word: 'Painted', work: 'R3'},
+instances: 2, word: 'Parlous', work: 'R3'},
+instances: 2, word: 'Partly', work: 'R3'},
+instances: 2, word: 'Passed', work: 'R3'},
+instances: 2, word: 'Path', work: 'R3'},
+instances: 2, word: 'Paul\'s', work: 'R3'},
+instances: 2, word: 'Pawned', work: 'R3'},
+instances: 2, word: 'Pearl', work: 'R3'},
+instances: 2, word: 'Perceive', work: 'R3'},
+instances: 2, word: 'Perfect', work: 'R3'},
+instances: 2, word: 'Perfection', work: 'R3'},
+instances: 2, word: 'Perhaps', work: 'R3'},
+instances: 2, word: 'Period', work: 'R3'},
+instances: 2, word: 'Piece', work: 'R3'},
+instances: 2, word: 'Pierce', work: 'R3'},
+instances: 2, word: 'Pitch', work: 'R3'},
+instances: 2, word: 'Plague', work: 'R3'},
+instances: 2, word: 'Plainly', work: 'R3'},
+instances: 2, word: 'Plant', work: 'R3'},
+instances: 2, word: 'Plants', work: 'R3'},
+instances: 2, word: 'Pleasures', work: 'R3'},
+instances: 2, word: 'Plots', work: 'R3'},
+instances: 2, word: 'Pluck', work: 'R3'},
+instances: 2, word: 'Point', work: 'R3'},
+instances: 2, word: 'Possess', work: 'R3'},
+instances: 2, word: 'Pour', work: 'R3'},
+instances: 2, word: 'Praying', work: 'R3'},
+instances: 2, word: 'Prevail', work: 'R3'},
+instances: 2, word: 'Prevailed', work: 'R3'},
+instances: 2, word: 'Princess', work: 'R3'},
+instances: 2, word: 'Prisoners', work: 'R3'},
+instances: 2, word: 'Privilege', work: 'R3'},
+instances: 2, word: 'Proceed', work: 'R3'},
+instances: 2, word: 'Process', work: 'R3'},
+instances: 2, word: 'Profaned', work: 'R3'},
+instances: 2, word: 'Proffered', work: 'R3'},
+instances: 2, word: 'Promotions', work: 'R3'},
+instances: 2, word: 'Pronounced', work: 'R3'},
+instances: 2, word: 'Proof', work: 'R3'},
+instances: 2, word: 'Proper', work: 'R3'},
+instances: 2, word: 'Prophecies', work: 'R3'},
+instances: 2, word: 'Prophesied', work: 'R3'},
+instances: 2, word: 'Prophet', work: 'R3'},
+instances: 2, word: 'Prophetess', work: 'R3'},
+instances: 2, word: 'Prosper', work: 'R3'},
+instances: 2, word: 'Protect', work: 'R3'},
+instances: 2, word: 'Provoked', work: 'R3'},
+instances: 2, word: 'Quake', work: 'R3'},
+instances: 2, word: 'Queens', work: 'R3'},
+instances: 2, word: 'Quicken', work: 'R3'},
+instances: 2, word: 'Quit', work: 'R3'},
+instances: 2, word: 'Raised', work: 'R3'},
+instances: 2, word: 'Rancor', work: 'R3'},
+instances: 2, word: 'Rashly', work: 'R3'},
+instances: 2, word: 'Reach', work: 'R3'},
+instances: 2, word: 'Reap', work: 'R3'},
+instances: 2, word: 'Receive', work: 'R3'},
+instances: 2, word: 'Redeemer', work: 'R3'},
+instances: 2, word: 'Reduce', work: 'R3'},
+instances: 2, word: 'Refuse', work: 'R3'},
+instances: 2, word: 'Reigns', work: 'R3'},
+instances: 2, word: 'Renownèd', work: 'R3'},
+instances: 2, word: 'Repair', work: 'R3'},
+instances: 2, word: 'Reproof', work: 'R3'},
+instances: 2, word: 'Resign', work: 'R3'},
+instances: 2, word: 'Respects', work: 'R3'},
+instances: 2, word: 'Revolt', work: 'R3'},
+instances: 2, word: 'Richmond\'s', work: 'R3'},
+instances: 2, word: 'Rid', work: 'R3'},
+instances: 2, word: 'Rights', work: 'R3'},
+instances: 2, word: 'Ring', work: 'R3'},
+instances: 2, word: 'Ripe', work: 'R3'},
+instances: 2, word: 'Rood', work: 'R3'},
+instances: 2, word: 'Royalty', work: 'R3'},
+instances: 2, word: 'Rude', work: 'R3'},
+instances: 2, word: 'Rue', work: 'R3'},
+instances: 2, word: 'Rule', work: 'R3'},
+instances: 2, word: 'Ruled', work: 'R3'},
+instances: 2, word: 'Run', work: 'R3'},
+instances: 2, word: 'Sacrament', work: 'R3'},
+instances: 2, word: 'Saints', work: 'R3'},
+instances: 2, word: 'Salute', work: 'R3'},
+instances: 2, word: 'Sap', work: 'R3'},
+instances: 2, word: 'Satisfied', work: 'R3'},
+instances: 2, word: 'Savage', work: 'R3'},
+instances: 2, word: 'Scope', work: 'R3'},
+instances: 2, word: 'Scorns', work: 'R3'},
+instances: 2, word: 'Season', work: 'R3'},
+instances: 2, word: 'Seated', work: 'R3'},
+instances: 2, word: 'Second', work: 'R3'},
+instances: 2, word: 'Seem', work: 'R3'},
+instances: 2, word: 'Seems', work: 'R3'},
+instances: 2, word: 'Seldom', work: 'R3'},
+instances: 2, word: 'Sequel', work: 'R3'},
+instances: 2, word: 'Shade', work: 'R3'},
+instances: 2, word: 'Shadows', work: 'R3'},
+instances: 2, word: 'Shake', work: 'R3'},
+instances: 2, word: 'Shape', work: 'R3'},
+instances: 2, word: 'Sharp', work: 'R3'},
+instances: 2, word: 'Shore\'s', work: 'R3'},
+instances: 2, word: 'Short', work: 'R3'},
+instances: 2, word: 'Show', work: 'R3'},
+instances: 2, word: 'Showed', work: 'R3'},
+instances: 2, word: 'Sick', work: 'R3'},
+instances: 2, word: 'Sickness', work: 'R3'},
+instances: 2, word: 'Sigh', work: 'R3'},
+instances: 2, word: 'Signify', work: 'R3'},
+instances: 2, word: 'Silence', work: 'R3'},
+instances: 2, word: 'Silent', work: 'R3'},
+instances: 2, word: 'Sirs', work: 'R3'},
+instances: 2, word: 'Six', work: 'R3'},
+instances: 2, word: 'Sky', work: 'R3'},
+instances: 2, word: 'Slaughterhouse', work: 'R3'},
+instances: 2, word: 'Slay', work: 'R3'},
+instances: 2, word: 'Slept', work: 'R3'},
+instances: 2, word: 'Sly', work: 'R3'},
+instances: 2, word: 'Snow', work: 'R3'},
+instances: 2, word: 'Soever', work: 'R3'},
+instances: 2, word: 'Soldier', work: 'R3'},
+instances: 2, word: 'Somebody', work: 'R3'},
+instances: 2, word: 'Sorrows', work: 'R3'},
+instances: 2, word: 'Soul\'s', work: 'R3'},
+instances: 2, word: 'Sounded', work: 'R3'},
+instances: 2, word: 'Spare', work: 'R3'},
+instances: 2, word: 'Speaks', work: 'R3'},
+instances: 2, word: 'Spider', work: 'R3'},
+instances: 2, word: 'Spleen', work: 'R3'},
+instances: 2, word: 'Split', work: 'R3'},
+instances: 2, word: 'Spurn', work: 'R3'},
+instances: 2, word: 'Stab', work: 'R3'},
+instances: 2, word: 'Standards', work: 'R3'},
+instances: 2, word: 'Standers-by', work: 'R3'},
+instances: 2, word: 'Stars', work: 'R3'},
+instances: 2, word: 'Started', work: 'R3'},
+instances: 2, word: 'Staves', work: 'R3'},
+instances: 2, word: 'Steeped', work: 'R3'},
+instances: 2, word: 'Stir', work: 'R3'},
+instances: 2, word: 'Stock', work: 'R3'},
+instances: 2, word: 'Store', work: 'R3'},
+instances: 2, word: 'Strawberries', work: 'R3'},
+instances: 2, word: 'Strive', work: 'R3'},
+instances: 2, word: 'Strumpet', work: 'R3'},
+instances: 2, word: 'Substitute', work: 'R3'},
+instances: 2, word: 'Succeeders', work: 'R3'},
+instances: 2, word: 'Successively', work: 'R3'},
+instances: 2, word: 'Suffer', work: 'R3'},
+instances: 2, word: 'Sup', work: 'R3'},
+instances: 2, word: 'Supper', work: 'R3'},
+instances: 2, word: 'Suppose', work: 'R3'},
+instances: 2, word: 'Supreme', work: 'R3'},
+instances: 2, word: 'Sure', work: 'R3'},
+instances: 2, word: 'Suspects', work: 'R3'},
+instances: 2, word: 'Suspicion', work: 'R3'},
+instances: 2, word: 'Sweeter', work: 'R3'},
+instances: 2, word: 'Swift', work: 'R3'},
+instances: 2, word: 'Sworn', work: 'R3'},
+instances: 2, word: 'Taunts', work: 'R3'},
+instances: 2, word: 'Tear', work: 'R3'},
+instances: 2, word: 'Telling', work: 'R3'},
+instances: 2, word: 'Tempest', work: 'R3'},
+instances: 2, word: 'Temples', work: 'R3'},
+instances: 2, word: 'Tempted', work: 'R3'},
+instances: 2, word: 'Tenderness', work: 'R3'},
+instances: 2, word: 'Thinking', work: 'R3'},
+instances: 2, word: 'Thinks', work: 'R3'},
+instances: 2, word: 'Threat', work: 'R3'},
+instances: 2, word: 'Throng', work: 'R3'},
+instances: 2, word: 'Through', work: 'R3'},
+instances: 2, word: 'Titles', work: 'R3'},
+instances: 2, word: 'Token', work: 'R3'},
+instances: 2, word: 'Tomorrow\'s', work: 'R3'},
+instances: 2, word: 'Tongue-tied', work: 'R3'},
+instances: 2, word: 'Tongues', work: 'R3'},
+instances: 2, word: 'Took', work: 'R3'},
+instances: 2, word: 'Tooth', work: 'R3'},
+instances: 2, word: 'Top', work: 'R3'},
+instances: 2, word: 'Touched', work: 'R3'},
+instances: 2, word: 'Touches', work: 'R3'},
+instances: 2, word: 'Town', work: 'R3'},
+instances: 2, word: 'Train', work: 'R3'},
+instances: 2, word: 'Treason', work: 'R3'},
+instances: 2, word: 'Tremble', work: 'R3'},
+instances: 2, word: 'Trembling', work: 'R3'},
+instances: 2, word: 'Triumph', work: 'R3'},
+instances: 2, word: 'Triumphant', work: 'R3'},
+instances: 2, word: 'Troop', work: 'R3'},
+instances: 2, word: 'Troops', work: 'R3'},
+instances: 2, word: 'Trouble', work: 'R3'},
+instances: 2, word: 'Trumpets', work: 'R3'},
+instances: 2, word: 'Turned', work: 'R3'},
+instances: 2, word: 'Unavoided', work: 'R3'},
+instances: 2, word: 'Unfit', work: 'R3'},
+instances: 2, word: 'Unhappy', work: 'R3'},
+instances: 2, word: 'Unity', work: 'R3'},
+instances: 2, word: 'Unjustly', work: 'R3'},
+instances: 2, word: 'Unknown', work: 'R3'},
+instances: 2, word: 'Unlawful', work: 'R3'},
+instances: 2, word: 'Unquiet', work: 'R3'},
+instances: 2, word: 'Unrest', work: 'R3'},
+instances: 2, word: 'Untainted', work: 'R3'},
+instances: 2, word: 'Unwillingness', work: 'R3'},
+instances: 2, word: 'Upright', work: 'R3'},
+instances: 2, word: 'Usurping', work: 'R3'},
+instances: 2, word: 'Vain', work: 'R3'},
+instances: 2, word: 'Valor', work: 'R3'},
+instances: 2, word: 'Vassals', work: 'R3'},
+instances: 2, word: 'Vein', work: 'R3'},
+instances: 2, word: 'Venom', work: 'R3'},
+instances: 2, word: 'View', work: 'R3'},
+instances: 2, word: 'Vile', work: 'R3'},
+instances: 2, word: 'Villains', work: 'R3'},
+instances: 2, word: 'Violence', work: 'R3'},
+instances: 2, word: 'Visit', work: 'R3'},
+instances: 2, word: 'Wake', work: 'R3'},
+instances: 2, word: 'Wakes', work: 'R3'},
+instances: 2, word: 'Wand\'ring', work: 'R3'},
+instances: 2, word: 'Wanton', work: 'R3'},
+instances: 2, word: 'Washed', work: 'R3'},
+instances: 2, word: 'Waters', work: 'R3'},
+instances: 2, word: 'Wayward', work: 'R3'},
+instances: 2, word: 'Well-spoken', work: 'R3'},
+instances: 2, word: 'Went', work: 'R3'},
+instances: 2, word: 'Western', work: 'R3'},
+instances: 2, word: 'Wet', work: 'R3'},
+instances: 2, word: 'Whereof', work: 'R3'},
+instances: 2, word: 'Whether', work: 'R3'},
+instances: 2, word: 'Whe\'er', work: 'R3'},
+instances: 2, word: 'White', work: 'R3'},
+instances: 2, word: 'Who\'s', work: 'R3'},
+instances: 2, word: 'Wicked', work: 'R3'},
+instances: 2, word: 'Wild', work: 'R3'},
+instances: 2, word: 'Wind', work: 'R3'},
+instances: 2, word: 'Windows', work: 'R3'},
+instances: 2, word: 'Wingèd', work: 'R3'},
+instances: 2, word: 'Winter', work: 'R3'},
+instances: 2, word: 'Wisdom', work: 'R3'},
+instances: 2, word: 'Witch', work: 'R3'},
+instances: 2, word: 'Witchcraft', work: 'R3'},
+instances: 2, word: 'Withered', work: 'R3'},
+instances: 2, word: 'Women', work: 'R3'},
+instances: 2, word: 'Wonders', work: 'R3'},
+instances: 2, word: 'Woo', work: 'R3'},
+instances: 2, word: 'Woodeville', work: 'R3'},
+instances: 2, word: 'Wooed', work: 'R3'},
+instances: 2, word: 'Worldly', work: 'R3'},
+instances: 2, word: 'Worship', work: 'R3'},
+instances: 2, word: 'Worth', work: 'R3'},
+instances: 2, word: 'Wot', work: 'R3'},
+instances: 2, word: 'Wound', work: 'R3'},
+instances: 2, word: 'Wrangling', work: 'R3'},
+instances: 2, word: 'Wrinkled', work: 'R3'},
+instances: 2, word: 'Wronged', work: 'R3'},
+instances: 2, word: 'Yea', work: 'R3'},
+instances: 2, word: 'Yielded', work: 'R3'},
+instances: 2, word: 'Zeal', work: 'R3'},
+instances: 2, word: '\'twill', work: 'R3'},
+instances: 1, word: 'A-doing', work: 'R3'},
+instances: 1, word: 'A-growing', work: 'R3'},
+instances: 1, word: 'A-high', work: 'R3'},
+instances: 1, word: 'Abase', work: 'R3'},
+instances: 1, word: 'Abate', work: 'R3'},
+instances: 1, word: 'Abjects', work: 'R3'},
+instances: 1, word: 'Abode', work: 'R3'},
+instances: 1, word: 'Above', work: 'R3'},
+instances: 1, word: 'Abraham\'s', work: 'R3'},
+instances: 1, word: 'Abroach', work: 'R3'},
+instances: 1, word: 'Absence', work: 'R3'},
+instances: 1, word: 'Abstract', work: 'R3'},
+instances: 1, word: 'Abused', work: 'R3'},
+instances: 1, word: 'Abusing', work: 'R3'},
+instances: 1, word: 'Accent', work: 'R3'},
+instances: 1, word: 'Accessory', work: 'R3'},
+instances: 1, word: 'Accident', work: 'R3'},
+instances: 1, word: 'Accompanied', work: 'R3'},
+instances: 1, word: 'Accusers', work: 'R3'},
+instances: 1, word: 'Accuseth', work: 'R3'},
+instances: 1, word: 'Accustomed', work: 'R3'},
+instances: 1, word: 'Acquainted', work: 'R3'},
+instances: 1, word: 'Acquittance', work: 'R3'},
+instances: 1, word: 'Action', work: 'R3'},
+instances: 1, word: 'Admiral', work: 'R3'},
+instances: 1, word: 'Admit', work: 'R3'},
+instances: 1, word: 'Admitted', work: 'R3'},
+instances: 1, word: 'Adoreth', work: 'R3'},
+instances: 1, word: 'Adorn', work: 'R3'},
+instances: 1, word: 'Adulterate', work: 'R3'},
+instances: 1, word: 'Advantaging', work: 'R3'},
+instances: 1, word: 'Adventure', work: 'R3'},
+instances: 1, word: 'Adventures', work: 'R3'},
+instances: 1, word: 'Adversary\'s', work: 'R3'},
+instances: 1, word: 'Advertisèd', work: 'R3'},
+instances: 1, word: 'Advice', work: 'R3'},
+instances: 1, word: 'Advocate', work: 'R3'},
+instances: 1, word: 'Aerie\'s', work: 'R3'},
+instances: 1, word: 'Affected', work: 'R3'},
+instances: 1, word: 'Afflict', work: 'R3'},
+instances: 1, word: 'Affords', work: 'R3'},
+instances: 1, word: 'Affright', work: 'R3'},
+instances: 1, word: 'Affrighted', work: 'R3'},
+instances: 1, word: 'Affrights', work: 'R3'},
+instances: 1, word: 'Afresh', work: 'R3'},
+instances: 1, word: 'After-hours', work: 'R3'},
+instances: 1, word: 'After-supper', work: 'R3'},
+instances: 1, word: 'Afternoon', work: 'R3'},
+instances: 1, word: 'Afterward', work: 'R3'},
+instances: 1, word: 'Afterwards', work: 'R3'},
+instances: 1, word: 'Ages', work: 'R3'},
+instances: 1, word: 'Ago', work: 'R3'},
+instances: 1, word: 'Agèd', work: 'R3'},
+instances: 1, word: 'Aiding', work: 'R3'},
+instances: 1, word: 'Aiming', work: 'R3'},
+instances: 1, word: 'Aims', work: 'R3'},
+instances: 1, word: 'Alabaster', work: 'R3'},
+instances: 1, word: 'Alacrity', work: 'R3'},
+instances: 1, word: 'Alarum', work: 'R3'},
+instances: 1, word: 'Alarums', work: 'R3'},
+instances: 1, word: 'Albans', work: 'R3'},
+instances: 1, word: 'Aldermen', work: 'R3'},
+instances: 1, word: 'All-ending', work: 'R3'},
+instances: 1, word: 'All-seeing', work: 'R3'},
+instances: 1, word: 'All-seer', work: 'R3'},
+instances: 1, word: 'Allegiance', work: 'R3'},
+instances: 1, word: 'All\'s', work: 'R3'},
+instances: 1, word: 'Altogether', work: 'R3'},
+instances: 1, word: 'Always', work: 'R3'},
+instances: 1, word: 'Amaze', work: 'R3'},
+instances: 1, word: 'Ambition', work: 'R3'},
+instances: 1, word: 'Ambling', work: 'R3'},
+instances: 1, word: 'Amend', work: 'R3'},
+instances: 1, word: 'Amended', work: 'R3'},
+instances: 1, word: 'Amendment', work: 'R3'},
+instances: 1, word: 'Amiss', work: 'R3'},
+instances: 1, word: 'Amity', work: 'R3'},
+instances: 1, word: 'Amorous', work: 'R3'},
+instances: 1, word: 'Ample', work: 'R3'},
+instances: 1, word: 'Ancestors', work: 'R3'},
+instances: 1, word: 'Ancestry', work: 'R3'},
+instances: 1, word: 'Anchored', work: 'R3'},
+instances: 1, word: 'Anchors', work: 'R3'},
+instances: 1, word: 'Annoy', work: 'R3'},
+instances: 1, word: 'Another\'s', work: 'R3'},
+instances: 1, word: 'Answered', work: 'R3'},
+instances: 1, word: 'Anthony', work: 'R3'},
+instances: 1, word: 'Ap', work: 'R3'},
+instances: 1, word: 'Apace', work: 'R3'},
+instances: 1, word: 'Apart', work: 'R3'},
+instances: 1, word: 'Ape', work: 'R3'},
+instances: 1, word: 'Apish', work: 'R3'},
+instances: 1, word: 'Apology', work: 'R3'},
+instances: 1, word: 'Apostle', work: 'R3'},
+instances: 1, word: 'Appears', work: 'R3'},
+instances: 1, word: 'Appearèd', work: 'R3'},
+instances: 1, word: 'Appease', work: 'R3'},
+instances: 1, word: 'Appetite', work: 'R3'},
+instances: 1, word: 'Applause', work: 'R3'},
+instances: 1, word: 'Appointed', work: 'R3'},
+instances: 1, word: 'Aptly', work: 'R3'},
+instances: 1, word: 'Arbitrament', work: 'R3'},
+instances: 1, word: 'Arch', work: 'R3'},
+instances: 1, word: 'Arguments', work: 'R3'},
+instances: 1, word: 'Arise', work: 'R3'},
+instances: 1, word: 'Armed', work: 'R3'},
+instances: 1, word: 'Armèd', work: 'R3'},
+instances: 1, word: 'Arrogance', work: 'R3'},
+instances: 1, word: 'Arrows', work: 'R3'},
+instances: 1, word: 'Ascend', work: 'R3'},
+instances: 1, word: 'Ashes', work: 'R3'},
+instances: 1, word: 'Ashore', work: 'R3'},
+instances: 1, word: 'Aside', work: 'R3'},
+instances: 1, word: 'Asked', work: 'R3'},
+instances: 1, word: 'Asleep', work: 'R3'},
+instances: 1, word: 'Aspect', work: 'R3'},
+instances: 1, word: 'Aspects', work: 'R3'},
+instances: 1, word: 'Aspiring', work: 'R3'},
+instances: 1, word: 'Assembled', work: 'R3'},
+instances: 1, word: 'Assistance', work: 'R3'},
+instances: 1, word: 'Assistants', work: 'R3'},
+instances: 1, word: 'Assurance', work: 'R3'},
+instances: 1, word: 'Assurèd', work: 'R3'},
+instances: 1, word: 'Asunder', work: 'R3'},
+instances: 1, word: 'Atonement', work: 'R3'},
+instances: 1, word: 'Attainder', work: 'R3'},
+instances: 1, word: 'Attempts', work: 'R3'},
+instances: 1, word: 'Attendance', work: 'R3'},
+instances: 1, word: 'Attendant', work: 'R3'},
+instances: 1, word: 'Attended', work: 'R3'},
+instances: 1, word: 'Attorneys', work: 'R3'},
+instances: 1, word: 'Avaunt', work: 'R3'},
+instances: 1, word: 'Avenged', work: 'R3'},
+instances: 1, word: 'Avengèd', work: 'R3'},
+instances: 1, word: 'Avouch', work: 'R3'},
+instances: 1, word: 'Award', work: 'R3'},
+instances: 1, word: 'Awe', work: 'R3'},
+instances: 1, word: 'Aweless', work: 'R3'},
+instances: 1, word: 'Babbling', work: 'R3'},
+instances: 1, word: 'Babe', work: 'R3'},
+instances: 1, word: 'Babies', work: 'R3'},
+instances: 1, word: 'Bachelor', work: 'R3'},
+instances: 1, word: 'Backed', work: 'R3'},
+instances: 1, word: 'Baited', work: 'R3'},
+instances: 1, word: 'Balm', work: 'R3'},
+instances: 1, word: 'Banishèd', work: 'R3'},
+instances: 1, word: 'Banks', work: 'R3'},
+instances: 1, word: 'Barbèd', work: 'R3'},
+instances: 1, word: 'Bard', work: 'R3'},
+instances: 1, word: 'Bare', work: 'R3'},
+instances: 1, word: 'Bars', work: 'R3'},
+instances: 1, word: 'Bashful', work: 'R3'},
+instances: 1, word: 'Basilisks\'', work: 'R3'},
+instances: 1, word: 'Bastard', work: 'R3'},
+instances: 1, word: 'Battalia', work: 'R3'},
+instances: 1, word: 'Bay', work: 'R3'},
+instances: 1, word: 'Beads', work: 'R3'},
+instances: 1, word: 'Beams', work: 'R3'},
+instances: 1, word: 'Beastly', work: 'R3'},
+instances: 1, word: 'Beaten', work: 'R3'},
+instances: 1, word: 'Beauty-waning', work: 'R3'},
+instances: 1, word: 'Beauty\'s', work: 'R3'},
+instances: 1, word: 'Beaver', work: 'R3'},
+instances: 1, word: 'Became', work: 'R3'},
+instances: 1, word: 'Becomes', work: 'R3'},
+instances: 1, word: 'Bedashed', work: 'R3'},
+instances: 1, word: 'Bedchamber', work: 'R3'},
+instances: 1, word: 'Bedfellows', work: 'R3'},
+instances: 1, word: 'Befall\'n', work: 'R3'},
+instances: 1, word: 'Began', work: 'R3'},
+instances: 1, word: 'Beggarly', work: 'R3'},
+instances: 1, word: 'Beggary', work: 'R3'},
+instances: 1, word: 'Begged', work: 'R3'},
+instances: 1, word: 'Begnaw', work: 'R3'},
+instances: 1, word: 'Begone', work: 'R3'},
+instances: 1, word: 'Begot', work: 'R3'},
+instances: 1, word: 'Beheaded', work: 'R3'},
+instances: 1, word: 'Beheld', work: 'R3'},
+instances: 1, word: 'Beholders', work: 'R3'},
+instances: 1, word: 'Belch', work: 'R3'},
+instances: 1, word: 'Believed', work: 'R3'},
+instances: 1, word: 'Bending', work: 'R3'},
+instances: 1, word: 'Bent', work: 'R3'},
+instances: 1, word: 'Bereft', work: 'R3'},
+instances: 1, word: 'Berkeley', work: 'R3'},
+instances: 1, word: 'Bestial', work: 'R3'},
+instances: 1, word: 'Bethink', work: 'R3'},
+instances: 1, word: 'Betimes', work: 'R3'},
+instances: 1, word: 'Betrayed', work: 'R3'},
+instances: 1, word: 'Betrothed', work: 'R3'},
+instances: 1, word: 'Bettering', work: 'R3'},
+instances: 1, word: 'Beware', work: 'R3'},
+instances: 1, word: 'Beweep', work: 'R3'},
+instances: 1, word: 'Bewitched', work: 'R3'},
+instances: 1, word: 'Bigamy', work: 'R3'},
+instances: 1, word: 'Billows', work: 'R3'},
+instances: 1, word: 'Bind', work: 'R3'},
+instances: 1, word: 'Births', work: 'R3'},
+instances: 1, word: 'Bishop', work: 'R3'},
+instances: 1, word: 'Bishops', work: 'R3'},
+instances: 1, word: 'Biting', work: 'R3'},
+instances: 1, word: 'Bitterness', work: 'R3'},
+instances: 1, word: 'Black-faced', work: 'R3'},
+instances: 1, word: 'Blade', work: 'R3'},
+instances: 1, word: 'Blameful', work: 'R3'},
+instances: 1, word: 'Blasted', work: 'R3'},
+instances: 1, word: 'Blasts', work: 'R3'},
+instances: 1, word: 'Bleed', work: 'R3'},
+instances: 1, word: 'Blemish', work: 'R3'},
+instances: 1, word: 'Blessings', work: 'R3'},
+instances: 1, word: 'Blindly', work: 'R3'},
+instances: 1, word: 'Blocks', work: 'R3'},
+instances: 1, word: 'Bloodily', work: 'R3'},
+instances: 1, word: 'Bloodless', work: 'R3'},
+instances: 1, word: 'Bloodsuckers', work: 'R3'},
+instances: 1, word: 'Blots', work: 'R3'},
+instances: 1, word: 'Blow', work: 'R3'},
+instances: 1, word: 'Blue', work: 'R3'},
+instances: 1, word: 'Bluntly', work: 'R3'},
+instances: 1, word: 'Blushing', work: 'R3'},
+instances: 1, word: 'Boar-spear', work: 'R3'},
+instances: 1, word: 'Boar\'s', work: 'R3'},
+instances: 1, word: 'Boat', work: 'R3'},
+instances: 1, word: 'Bobbed', work: 'R3'},
+instances: 1, word: 'Body\'s', work: 'R3'},
+instances: 1, word: 'Boist\'rous', work: 'R3'},
+instances: 1, word: 'Bolder', work: 'R3'},
+instances: 1, word: 'Boldly', work: 'R3'},
+instances: 1, word: 'Boldness', work: 'R3'},
+instances: 1, word: 'Bona', work: 'R3'},
+instances: 1, word: 'Bond', work: 'R3'},
+instances: 1, word: 'Bonny', work: 'R3'},
+instances: 1, word: 'Bootless', work: 'R3'},
+instances: 1, word: 'Bosworth', work: 'R3'},
+instances: 1, word: 'Bounds', work: 'R3'},
+instances: 1, word: 'Bounteous', work: 'R3'},
+instances: 1, word: 'Bounty', work: 'R3'},
+instances: 1, word: 'Bow', work: 'R3'},
+instances: 1, word: 'Brace', work: 'R3'},
+instances: 1, word: 'Brains', work: 'R3'},
+instances: 1, word: 'Brake', work: 'R3'},
+instances: 1, word: 'Branches', work: 'R3'},
+instances: 1, word: 'Branded', work: 'R3'},
+instances: 1, word: 'Brat', work: 'R3'},
+instances: 1, word: 'Brats', work: 'R3'},
+instances: 1, word: 'Braved', work: 'R3'},
+instances: 1, word: 'Bravely', work: 'R3'},
+instances: 1, word: 'Brawl', work: 'R3'},
+instances: 1, word: 'Breach', work: 'R3'},
+instances: 1, word: 'Breakfast', work: 'R3'},
+instances: 1, word: 'Breathes', work: 'R3'},
+instances: 1, word: 'Brecknock', work: 'R3'},
+instances: 1, word: 'Bred', work: 'R3'},
+instances: 1, word: 'Breed', work: 'R3'},
+instances: 1, word: 'Brethren', work: 'R3'},
+instances: 1, word: 'Bridge', work: 'R3'},
+instances: 1, word: 'Brittle', work: 'R3'},
+instances: 1, word: 'Broils', work: 'R3'},
+instances: 1, word: 'Broke', work: 'R3'},
+instances: 1, word: 'Brooked', work: 'R3'},
+instances: 1, word: 'Brow', work: 'R3'},
+instances: 1, word: 'Bruised', work: 'R3'},
+instances: 1, word: 'Bruising', work: 'R3'},
+instances: 1, word: 'Bruisèd', work: 'R3'},
+instances: 1, word: 'Brutish', work: 'R3'},
+instances: 1, word: 'Bubble', work: 'R3'},
+instances: 1, word: 'Buckingham\'s', work: 'R3'},
+instances: 1, word: 'Build', work: 'R3'},
+instances: 1, word: 'Builds', work: 'R3'},
+instances: 1, word: 'Built', work: 'R3'},
+instances: 1, word: 'Bulk', work: 'R3'},
+instances: 1, word: 'Bulwarks', work: 'R3'},
+instances: 1, word: 'Burdened', work: 'R3'},
+instances: 1, word: 'Burgundy', work: 'R3'},
+instances: 1, word: 'Burial', work: 'R3'},
+instances: 1, word: 'Burièd', work: 'R3'},
+instances: 1, word: 'Burn', work: 'R3'},
+instances: 1, word: 'Burns', work: 'R3'},
+instances: 1, word: 'Burst', work: 'R3'},
+instances: 1, word: 'Bury', work: 'R3'},
+instances: 1, word: 'Butcher', work: 'R3'},
+instances: 1, word: 'Butchery', work: 'R3'},
+instances: 1, word: 'Butcherèd', work: 'R3'},
+instances: 1, word: 'Buzzards', work: 'R3'},
+instances: 1, word: 'Cabin', work: 'R3'},
+instances: 1, word: 'Cacodemon', work: 'R3'},
+instances: 1, word: 'Caesar\'s', work: 'R3'},
+instances: 1, word: 'Caitiff', work: 'R3'},
+instances: 1, word: 'Calamity', work: 'R3'},
+instances: 1, word: 'Calendar', work: 'R3'},
+instances: 1, word: 'Calls', work: 'R3'},
+instances: 1, word: 'Cancel', work: 'R3'},
+instances: 1, word: 'Capable', work: 'R3'},
+instances: 1, word: 'Caparison', work: 'R3'},
+instances: 1, word: 'Capers', work: 'R3'},
+instances: 1, word: 'Caps', work: 'R3'},
+instances: 1, word: 'Captive', work: 'R3'},
+instances: 1, word: 'Car', work: 'R3'},
+instances: 1, word: 'Cardinal', work: 'R3'},
+instances: 1, word: 'Care-crazed', work: 'R3'},
+instances: 1, word: 'Carnal', work: 'R3'},
+instances: 1, word: 'Carping', work: 'R3'},
+instances: 1, word: 'Carters', work: 'R3'},
+instances: 1, word: 'Castaways', work: 'R3'},
+instances: 1, word: 'Caused', work: 'R3'},
+instances: 1, word: 'Cave', work: 'R3'},
+instances: 1, word: 'Cedar\'s', work: 'R3'},
+instances: 1, word: 'Center', work: 'R3'},
+instances: 1, word: 'Certain', work: 'R3'},
+instances: 1, word: 'Certifies', work: 'R3'},
+instances: 1, word: 'Changing', work: 'R3'},
+instances: 1, word: 'Chaplain', work: 'R3'},
+instances: 1, word: 'Characters', work: 'R3'},
+instances: 1, word: 'Charged', work: 'R3'},
+instances: 1, word: 'Charges', work: 'R3'},
+instances: 1, word: 'Charitable', work: 'R3'},
+instances: 1, word: 'Charm', work: 'R3'},
+instances: 1, word: 'Charms', work: 'R3'},
+instances: 1, word: 'Charter', work: 'R3'},
+instances: 1, word: 'Chastisement', work: 'R3'},
+instances: 1, word: 'Chastisèd', work: 'R3'},
+instances: 1, word: 'Cheated', work: 'R3'},
+instances: 1, word: 'Checked', work: 'R3'},
+instances: 1, word: 'Checks', work: 'R3'},
+instances: 1, word: 'Cheek', work: 'R3'},
+instances: 1, word: 'Cheering', work: 'R3'},
+instances: 1, word: 'Cheerly', work: 'R3'},
+instances: 1, word: 'Cheerèd', work: 'R3'},
+instances: 1, word: 'Cherished', work: 'R3'},
+instances: 1, word: 'Cherry', work: 'R3'},
+instances: 1, word: 'Chide', work: 'R3'},
+instances: 1, word: 'Chiefest', work: 'R3'},
+instances: 1, word: 'Childish', work: 'R3'},
+instances: 1, word: 'Childish-foolish', work: 'R3'},
+instances: 1, word: 'Chop', work: 'R3'},
+instances: 1, word: 'Christendom', work: 'R3'},
+instances: 1, word: 'Christened', work: 'R3'},
+instances: 1, word: 'Christian-like', work: 'R3'},
+instances: 1, word: 'Christopher', work: 'R3'},
+instances: 1, word: 'Christ\'s', work: 'R3'},
+instances: 1, word: 'Churchmen', work: 'R3'},
+instances: 1, word: 'Circling', work: 'R3'},
+instances: 1, word: 'Circumspect', work: 'R3'},
+instances: 1, word: 'Circumstances', work: 'R3'},
+instances: 1, word: 'Cited', work: 'R3'},
+instances: 1, word: 'Cities', work: 'R3'},
+instances: 1, word: 'Citizen', work: 'R3'},
+instances: 1, word: 'City', work: 'R3'},
+instances: 1, word: 'City\'s', work: 'R3'},
+instances: 1, word: 'Civil', work: 'R3'},
+instances: 1, word: 'Claimed', work: 'R3'},
+instances: 1, word: 'Clamorous', work: 'R3'},
+instances: 1, word: 'Clean', work: 'R3'},
+instances: 1, word: 'Clergymen', work: 'R3'},
+instances: 1, word: 'Clients\'', work: 'R3'},
+instances: 1, word: 'Clifford', work: 'R3'},
+instances: 1, word: 'Cloaks', work: 'R3'},
+instances: 1, word: 'Clock', work: 'R3'},
+instances: 1, word: 'Closet', work: 'R3'},
+instances: 1, word: 'Closure', work: 'R3'},
+instances: 1, word: 'Clothe', work: 'R3'},
+instances: 1, word: 'Clout', work: 'R3'},
+instances: 1, word: 'Cloy', work: 'R3'},
+instances: 1, word: 'Coast', work: 'R3'},
+instances: 1, word: 'Cock', work: 'R3'},
+instances: 1, word: 'Cockatrice', work: 'R3'},
+instances: 1, word: 'Cockshut', work: 'R3'},
+instances: 1, word: 'Coffin', work: 'R3'},
+instances: 1, word: 'Cog', work: 'R3'},
+instances: 1, word: 'Colder', work: 'R3'},
+instances: 1, word: 'Colors', work: 'R3'},
+instances: 1, word: 'Comfortable', work: 'R3'},
+instances: 1, word: 'Comforter', work: 'R3'},
+instances: 1, word: 'Comforts', work: 'R3'},
+instances: 1, word: 'Coming', work: 'R3'},
+instances: 1, word: 'Commends', work: 'R3'},
+instances: 1, word: 'Commenting', work: 'R3'},
+instances: 1, word: 'Commission', work: 'R3'},
+instances: 1, word: 'Common', work: 'R3'},
+instances: 1, word: 'Compact', work: 'R3'},
+instances: 1, word: 'Compare', work: 'R3'},
+instances: 1, word: 'Compass', work: 'R3'},
+instances: 1, word: 'Compassion', work: 'R3'},
+instances: 1, word: 'Compelled', work: 'R3'},
+instances: 1, word: 'Competitors', work: 'R3'},
+instances: 1, word: 'Complains', work: 'R3'},
+instances: 1, word: 'Complete', work: 'R3'},
+instances: 1, word: 'Compounded', work: 'R3'},
+instances: 1, word: 'Computation', work: 'R3'},
+instances: 1, word: 'Conceal', work: 'R3'},
+instances: 1, word: 'Conceit', work: 'R3'},
+instances: 1, word: 'Conclude', work: 'R3'},
+instances: 1, word: 'Conclusion', work: 'R3'},
+instances: 1, word: 'Condemns', work: 'R3'},
+instances: 1, word: 'Confederates', work: 'R3'},
+instances: 1, word: 'Confer', work: 'R3'},
+instances: 1, word: 'Confines', work: 'R3'},
+instances: 1, word: 'Confirm', work: 'R3'},
+instances: 1, word: 'Confirmed', work: 'R3'},
+instances: 1, word: 'Congealed', work: 'R3'},
+instances: 1, word: 'Conjoin', work: 'R3'},
+instances: 1, word: 'Conjunction', work: 'R3'},
+instances: 1, word: 'Conjures', work: 'R3'},
+instances: 1, word: 'Conquered', work: 'R3'},
+instances: 1, word: 'Conqueror\'s', work: 'R3'},
+instances: 1, word: 'Consented', work: 'R3'},
+instances: 1, word: 'Consider', work: 'R3'},
+instances: 1, word: 'Considerate', work: 'R3'},
+instances: 1, word: 'Considered', work: 'R3'},
+instances: 1, word: 'Considerèd', work: 'R3'},
+instances: 1, word: 'Consisting', work: 'R3'},
+instances: 1, word: 'Consistory', work: 'R3'},
+instances: 1, word: 'Consists', work: 'R3'},
+instances: 1, word: 'Conspire', work: 'R3'},
+instances: 1, word: 'Consult', work: 'R3'},
+instances: 1, word: 'Consumed', work: 'R3'},
+instances: 1, word: 'Contemplation', work: 'R3'},
+instances: 1, word: 'Contented', work: 'R3'},
+instances: 1, word: 'Continually', work: 'R3'},
+instances: 1, word: 'Continue', work: 'R3'},
+instances: 1, word: 'Control', work: 'R3'},
+instances: 1, word: 'Convenient', work: 'R3'},
+instances: 1, word: 'Conversation', work: 'R3'},
+instances: 1, word: 'Converse', work: 'R3'},
+instances: 1, word: 'Conveyance', work: 'R3'},
+instances: 1, word: 'Conveyed', work: 'R3'},
+instances: 1, word: 'Convict', work: 'R3'},
+instances: 1, word: 'Cope', work: 'R3'},
+instances: 1, word: 'Copious', work: 'R3'},
+instances: 1, word: 'Cordial', work: 'R3'},
+instances: 1, word: 'Corpse', work: 'R3'},
+instances: 1, word: 'Corrupt', work: 'R3'},
+instances: 1, word: 'Corrupted', work: 'R3'},
+instances: 1, word: 'Corrupting', work: 'R3'},
+instances: 1, word: 'Costard', work: 'R3'},
+instances: 1, word: 'Couldst', work: 'R3'},
+instances: 1, word: 'Council\'s', work: 'R3'},
+instances: 1, word: 'Counsels', work: 'R3'},
+instances: 1, word: 'Count', work: 'R3'},
+instances: 1, word: 'Counted', work: 'R3'},
+instances: 1, word: 'Counterfeit', work: 'R3'},
+instances: 1, word: 'Countermand', work: 'R3'},
+instances: 1, word: 'Countess', work: 'R3'},
+instances: 1, word: 'Countrymen', work: 'R3'},
+instances: 1, word: 'Courage', work: 'R3'},
+instances: 1, word: 'Court', work: 'R3'},
+instances: 1, word: 'Courtesans', work: 'R3'},
+instances: 1, word: 'Courtney', work: 'R3'},
+instances: 1, word: 'Covered', work: 'R3'},
+instances: 1, word: 'Covert\'st', work: 'R3'},
+instances: 1, word: 'Covet', work: 'R3'},
+instances: 1, word: 'Cowards', work: 'R3'},
+instances: 1, word: 'Cozened', work: 'R3'},
+instances: 1, word: 'Cracked', work: 'R3'},
+instances: 1, word: 'Cradle', work: 'R3'},
+instances: 1, word: 'Crave', work: 'R3'},
+instances: 1, word: 'Crazed', work: 'R3'},
+instances: 1, word: 'Creation', work: 'R3'},
+instances: 1, word: 'Creatures', work: 'R3'},
+instances: 1, word: 'Creeping', work: 'R3'},
+instances: 1, word: 'Crew', work: 'R3'},
+instances: 1, word: 'Crimes', work: 'R3'},
+instances: 1, word: 'Cripple', work: 'R3'},
+instances: 1, word: 'Cropped', work: 'R3'},
+instances: 1, word: 'Crosses', work: 'R3'},
+instances: 1, word: 'Crossrow', work: 'R3'},
+instances: 1, word: 'Crowning', work: 'R3'},
+instances: 1, word: 'Crownèd', work: 'R3'},
+instances: 1, word: 'Crush', work: 'R3'},
+instances: 1, word: 'Crust', work: 'R3'},
+instances: 1, word: 'Crutches', work: 'R3'},
+instances: 1, word: 'Crying', work: 'R3'},
+instances: 1, word: 'Cue', work: 'R3'},
+instances: 1, word: 'Cunning', work: 'R3'},
+instances: 1, word: 'Cup', work: 'R3'},
+instances: 1, word: 'Cur', work: 'R3'},
+instances: 1, word: 'Cure', work: 'R3'},
+instances: 1, word: 'Currents', work: 'R3'},
+instances: 1, word: 'Cursing', work: 'R3'},
+instances: 1, word: 'Curst', work: 'R3'},
+instances: 1, word: 'Curtailed', work: 'R3'},
+instances: 1, word: 'Cuts', work: 'R3'},
+instances: 1, word: 'Dabbled', work: 'R3'},
+instances: 1, word: 'Daggers', work: 'R3'},
+instances: 1, word: 'Daily', work: 'R3'},
+instances: 1, word: 'Dallied', work: 'R3'},
+instances: 1, word: 'Dallies', work: 'R3'},
+instances: 1, word: 'Dally', work: 'R3'},
+instances: 1, word: 'Dallying', work: 'R3'},
+instances: 1, word: 'Damage', work: 'R3'},
+instances: 1, word: 'Damnable', work: 'R3'},
+instances: 1, word: 'Damned', work: 'R3'},
+instances: 1, word: 'Dance', work: 'R3'},
+instances: 1, word: 'Darkly', work: 'R3'},
+instances: 1, word: 'Dar\'st', work: 'R3'},
+instances: 1, word: 'Dash', work: 'R3'},
+instances: 1, word: 'Date', work: 'R3'},
+instances: 1, word: 'Daubed', work: 'R3'},
+instances: 1, word: 'Dead-killing', work: 'R3'},
+instances: 1, word: 'Dealing', work: 'R3'},
+instances: 1, word: 'Dealings', work: 'R3'},
+instances: 1, word: 'Dealt', work: 'R3'},
+instances: 1, word: 'Dearly', work: 'R3'},
+instances: 1, word: 'Dearth', work: 'R3'},
+instances: 1, word: 'Deaths\'', work: 'R3'},
+instances: 1, word: 'Decay', work: 'R3'},
+instances: 1, word: 'Deceived', work: 'R3'},
+instances: 1, word: 'Decked', work: 'R3'},
+instances: 1, word: 'Declension', work: 'R3'},
+instances: 1, word: 'Decline', work: 'R3'},
+instances: 1, word: 'Deed\'s', work: 'R3'},
+instances: 1, word: 'Deep-revolving', work: 'R3'},
+instances: 1, word: 'Deeper', work: 'R3'},
+instances: 1, word: 'Deeply', work: 'R3'},
+instances: 1, word: 'Defacer', work: 'R3'},
+instances: 1, word: 'Defects', work: 'R3'},
+instances: 1, word: 'Deferred', work: 'R3'},
+instances: 1, word: 'Definitively', work: 'R3'},
+instances: 1, word: 'Deformed', work: 'R3'},
+instances: 1, word: 'Defused', work: 'R3'},
+instances: 1, word: 'Deity', work: 'R3'},
+instances: 1, word: 'Delightful', work: 'R3'},
+instances: 1, word: 'Delivers', work: 'R3'},
+instances: 1, word: 'Deluge', work: 'R3'},
+instances: 1, word: 'Demise', work: 'R3'},
+instances: 1, word: 'Denier', work: 'R3'},
+instances: 1, word: 'Denounced', work: 'R3'},
+instances: 1, word: 'Denying', work: 'R3'},
+instances: 1, word: 'Departure', work: 'R3'},
+instances: 1, word: 'Depose', work: 'R3'},
+instances: 1, word: 'Deposed', work: 'R3'},
+instances: 1, word: 'Deputy', work: 'R3'},
+instances: 1, word: 'Descent', work: 'R3'},
+instances: 1, word: 'Descried', work: 'R3'},
+instances: 1, word: 'Deserts', work: 'R3'},
+instances: 1, word: 'Deserves', work: 'R3'},
+instances: 1, word: 'Deservèd', work: 'R3'},
+instances: 1, word: 'Design', work: 'R3'},
+instances: 1, word: 'Desires', work: 'R3'},
+instances: 1, word: 'Desolation', work: 'R3'},
+instances: 1, word: 'Desperately', work: 'R3'},
+instances: 1, word: 'Despiteful', work: 'R3'},
+instances: 1, word: 'Destined', work: 'R3'},
+instances: 1, word: 'Destroy', work: 'R3'},
+instances: 1, word: 'Detects', work: 'R3'},
+instances: 1, word: 'Determinèd', work: 'R3'},
+instances: 1, word: 'Detested', work: 'R3'},
+instances: 1, word: 'Devisèd', work: 'R3'},
+instances: 1, word: 'Devonshire', work: 'R3'},
+instances: 1, word: 'Devout', work: 'R3'},
+instances: 1, word: 'Dewy', work: 'R3'},
+instances: 1, word: 'Dickon', work: 'R3'},
+instances: 1, word: 'Dies', work: 'R3'},
+instances: 1, word: 'Diet', work: 'R3'},
+instances: 1, word: 'Differs', work: 'R3'},
+instances: 1, word: 'Digest', work: 'R3'},
+instances: 1, word: 'Dimmed', work: 'R3'},
+instances: 1, word: 'Dimming', work: 'R3'},
+instances: 1, word: 'Dine', work: 'R3'},
+instances: 1, word: 'Direct', work: 'R3'},
+instances: 1, word: 'Directed', work: 'R3'},
+instances: 1, word: 'Direst', work: 'R3'},
+instances: 1, word: 'Disclosed', work: 'R3'},
+instances: 1, word: 'Discontent', work: 'R3'},
+instances: 1, word: 'Discovered', work: 'R3'},
+instances: 1, word: 'Disdain', work: 'R3'},
+instances: 1, word: 'Disdains', work: 'R3'},
+instances: 1, word: 'Disinherited', work: 'R3'},
+instances: 1, word: 'Dismayed', work: 'R3'},
+instances: 1, word: 'Disobeys', work: 'R3'},
+instances: 1, word: 'Dispatched', work: 'R3'},
+instances: 1, word: 'Displeased', work: 'R3'},
+instances: 1, word: 'Disposition', work: 'R3'},
+instances: 1, word: 'Dispute', work: 'R3'},
+instances: 1, word: 'Dissembler', work: 'R3'},
+instances: 1, word: 'Dissentious', work: 'R3'},
+instances: 1, word: 'Distain', work: 'R3'},
+instances: 1, word: 'Distinguish', work: 'R3'},
+instances: 1, word: 'Distraught', work: 'R3'},
+instances: 1, word: 'Distressed', work: 'R3'},
+instances: 1, word: 'Distressful', work: 'R3'},
+instances: 1, word: 'Disturbers', work: 'R3'},
+instances: 1, word: 'Dive', work: 'R3'},
+instances: 1, word: 'Dived', work: 'R3'},
+instances: 1, word: 'Divers', work: 'R3'},
+instances: 1, word: 'Divinely', work: 'R3'},
+instances: 1, word: 'Division', work: 'R3'},
+instances: 1, word: 'Doctor', work: 'R3'},
+instances: 1, word: 'Doers', work: 'R3'},
+instances: 1, word: 'Domestic', work: 'R3'},
+instances: 1, word: 'Doomsday', work: 'R3'},
+instances: 1, word: 'Dorsetshire', work: 'R3'},
+instances: 1, word: 'Doting', work: 'R3'},
+instances: 1, word: 'Downfall', work: 'R3'},
+instances: 1, word: 'Dragons', work: 'R3'},
+instances: 1, word: 'Drain', work: 'R3'},
+instances: 1, word: 'Drawbridge', work: 'R3'},
+instances: 1, word: 'Dreamed', work: 'R3'},
+instances: 1, word: 'Dreaming', work: 'R3'},
+instances: 1, word: 'Dreamt', work: 'R3'},
+instances: 1, word: 'Dregs', work: 'R3'},
+instances: 1, word: 'Drew\'st', work: 'R3'},
+instances: 1, word: 'Drink\'st', work: 'R3'},
+instances: 1, word: 'Drowsy', work: 'R3'},
+instances: 1, word: 'Drunk', work: 'R3'},
+instances: 1, word: 'Dry', work: 'R3'},
+instances: 1, word: 'Dubbed', work: 'R3'},
+instances: 1, word: 'Duck', work: 'R3'},
+instances: 1, word: 'Dugs', work: 'R3'},
+instances: 1, word: 'Dukedom', work: 'R3'},
+instances: 1, word: 'Duke\'s', work: 'R3'},
+instances: 1, word: 'Dull-brained', work: 'R3'},
+instances: 1, word: 'Dumb', work: 'R3'},
+instances: 1, word: 'Dungeon', work: 'R3'},
+instances: 1, word: 'During', work: 'R3'},
+instances: 1, word: 'Dusky', work: 'R3'},
+instances: 1, word: 'Dust', work: 'R3'},
+instances: 1, word: 'Dying', work: 'R3'},
+instances: 1, word: 'Earls', work: 'R3'},
+instances: 1, word: 'Ease', work: 'R3'},
+instances: 1, word: 'Easier', work: 'R3'},
+instances: 1, word: 'Easily', work: 'R3'},
+instances: 1, word: 'Easy', work: 'R3'},
+instances: 1, word: 'Eat', work: 'R3'},
+instances: 1, word: 'Eavesdropper', work: 'R3'},
+instances: 1, word: 'Edge', work: 'R3'},
+instances: 1, word: 'Edict', work: 'R3'},
+instances: 1, word: 'Effeminate', work: 'R3'},
+instances: 1, word: 'Eighty-odd', work: 'R3'},
+instances: 1, word: 'Elbow', work: 'R3'},
+instances: 1, word: 'Elder', work: 'R3'},
+instances: 1, word: 'Eleven', work: 'R3'},
+instances: 1, word: 'Eloquent', work: 'R3'},
+instances: 1, word: 'Elvish-marked', work: 'R3'},
+instances: 1, word: 'Embarked', work: 'R3'},
+instances: 1, word: 'Embassage', work: 'R3'},
+instances: 1, word: 'Embowelled', work: 'R3'},
+instances: 1, word: 'Embracements', work: 'R3'},
+instances: 1, word: 'Empery', work: 'R3'},
+instances: 1, word: 'Empire', work: 'R3'},
+instances: 1, word: 'Employed', work: 'R3'},
+instances: 1, word: 'Emulation', work: 'R3'},
+instances: 1, word: 'Enacts', work: 'R3'},
+instances: 1, word: 'Encloseth', work: 'R3'},
+instances: 1, word: 'Encompasseth', work: 'R3'},
+instances: 1, word: 'Encounter', work: 'R3'},
+instances: 1, word: 'Encourage', work: 'R3'},
+instances: 1, word: 'Encouragement', work: 'R3'},
+instances: 1, word: 'Endeavors', work: 'R3'},
+instances: 1, word: 'Endow', work: 'R3'},
+instances: 1, word: 'Enforce', work: 'R3'},
+instances: 1, word: 'Enforced', work: 'R3'},
+instances: 1, word: 'Enforcèd', work: 'R3'},
+instances: 1, word: 'Enfranchise', work: 'R3'},
+instances: 1, word: 'English', work: 'R3'},
+instances: 1, word: 'Englishman', work: 'R3'},
+instances: 1, word: 'Engrave', work: 'R3'},
+instances: 1, word: 'Engross', work: 'R3'},
+instances: 1, word: 'Engrossed', work: 'R3'},
+instances: 1, word: 'Enjoyed', work: 'R3'},
+instances: 1, word: 'Enjoys', work: 'R3'},
+instances: 1, word: 'Ennoble', work: 'R3'},
+instances: 1, word: 'Enriched', work: 'R3'},
+instances: 1, word: 'Ensnareth', work: 'R3'},
+instances: 1, word: 'Ensues', work: 'R3'},
+instances: 1, word: 'Ensuing', work: 'R3'},
+instances: 1, word: 'Entered', work: 'R3'},
+instances: 1, word: 'Enterprise', work: 'R3'},
+instances: 1, word: 'Entreats', work: 'R3'},
+instances: 1, word: 'Environed', work: 'R3'},
+instances: 1, word: 'Equals', work: 'R3'},
+instances: 1, word: 'Erroneous', work: 'R3'},
+instances: 1, word: 'Espouse', work: 'R3'},
+instances: 1, word: 'Established', work: 'R3'},
+instances: 1, word: 'Estate', work: 'R3'},
+instances: 1, word: 'Estates', work: 'R3'},
+instances: 1, word: 'Everlastingly', work: 'R3'},
+instances: 1, word: 'Evils', work: 'R3'},
+instances: 1, word: 'Exceeding', work: 'R3'},
+instances: 1, word: 'Except', work: 'R3'},
+instances: 1, word: 'Excepting', work: 'R3'},
+instances: 1, word: 'Exclaim', work: 'R3'},
+instances: 1, word: 'Exclaimed', work: 'R3'},
+instances: 1, word: 'Exclamations', work: 'R3'},
+instances: 1, word: 'Excused', work: 'R3'},
+instances: 1, word: 'Execute', work: 'R3'},
+instances: 1, word: 'Executed', work: 'R3'},
+instances: 1, word: 'Executioners', work: 'R3'},
+instances: 1, word: 'Exempt', work: 'R3'},
+instances: 1, word: 'Exhale', work: 'R3'},
+instances: 1, word: 'Exhales', work: 'R3'},
+instances: 1, word: 'Expecting', work: 'R3'},
+instances: 1, word: 'Expedient', work: 'R3'},
+instances: 1, word: 'Experience', work: 'R3'},
+instances: 1, word: 'Expiate', work: 'R3'},
+instances: 1, word: 'Expostulate', work: 'R3'},
+instances: 1, word: 'Extremest', work: 'R3'},
+instances: 1, word: 'Extremity', work: 'R3'},
+instances: 1, word: 'Fail', work: 'R3'},
+instances: 1, word: 'Fainting', work: 'R3'},
+instances: 1, word: 'Fairest-boding', work: 'R3'},
+instances: 1, word: 'Falchion', work: 'R3'},
+instances: 1, word: 'Falling', work: 'R3'},
+instances: 1, word: 'False-boding', work: 'R3'},
+instances: 1, word: 'Falsehood', work: 'R3'},
+instances: 1, word: 'Familiarly', work: 'R3'},
+instances: 1, word: 'Famished', work: 'R3'},
+instances: 1, word: 'Famously', work: 'R3'},
+instances: 1, word: 'Fare', work: 'R3'},
+instances: 1, word: 'Farther', work: 'R3'},
+instances: 1, word: 'Fashions', work: 'R3'},
+instances: 1, word: 'Fat', work: 'R3'},
+instances: 1, word: 'Fatherless', work: 'R3'},
+instances: 1, word: 'Fatting', work: 'R3'},
+instances: 1, word: 'Faultless', work: 'R3'},
+instances: 1, word: 'Faults', work: 'R3'},
+instances: 1, word: 'Favorable', work: 'R3'},
+instances: 1, word: 'Fawns', work: 'R3'},
+instances: 1, word: 'Fearfull\'st', work: 'R3'},
+instances: 1, word: 'Fearing', work: 'R3'},
+instances: 1, word: 'Feature', work: 'R3'},
+instances: 1, word: 'Feeble', work: 'R3'},
+instances: 1, word: 'Feed', work: 'R3'},
+instances: 1, word: 'Feeling', work: 'R3'},
+instances: 1, word: 'Feet', work: 'R3'},
+instances: 1, word: 'Feignèd', work: 'R3'},
+instances: 1, word: 'Fell', work: 'R3'},
+instances: 1, word: 'Fellows', work: 'R3'},
+instances: 1, word: 'Ferrers', work: 'R3'},
+instances: 1, word: 'Ferryman', work: 'R3'},
+instances: 1, word: 'Fet', work: 'R3'},
+instances: 1, word: 'Fetch', work: 'R3'},
+instances: 1, word: 'Fields', work: 'R3'},
+instances: 1, word: 'Fiend', work: 'R3'},
+instances: 1, word: 'Fierce', work: 'R3'},
+instances: 1, word: 'Fights', work: 'R3'},
+instances: 1, word: 'Figure', work: 'R3'},
+instances: 1, word: 'Figured', work: 'R3'},
+instances: 1, word: 'Filled', work: 'R3'},
+instances: 1, word: 'Finger', work: 'R3'},
+instances: 1, word: 'Fire-new', work: 'R3'},
+instances: 1, word: 'Fishes', work: 'R3'},
+instances: 1, word: 'Fit', work: 'R3'},
+instances: 1, word: 'Fitter', work: 'R3'},
+instances: 1, word: 'Fitteth', work: 'R3'},
+instances: 1, word: 'Fitting', work: 'R3'},
+instances: 1, word: 'Fixed', work: 'R3'},
+instances: 1, word: 'Flag', work: 'R3'},
+instances: 1, word: 'Flaky', work: 'R3'},
+instances: 1, word: 'Flame', work: 'R3'},
+instances: 1, word: 'Flattered', work: 'R3'},
+instances: 1, word: 'Flatterer', work: 'R3'},
+instances: 1, word: 'Flattering', work: 'R3'},
+instances: 1, word: 'Fleeting', work: 'R3'},
+instances: 1, word: 'Flesh', work: 'R3'},
+instances: 1, word: 'Fleshed', work: 'R3'},
+instances: 1, word: 'Flint', work: 'R3'},
+instances: 1, word: 'Flock', work: 'R3'},
+instances: 1, word: 'Floods', work: 'R3'},
+instances: 1, word: 'Flout', work: 'R3'},
+instances: 1, word: 'Flouted', work: 'R3'},
+instances: 1, word: 'Foil', work: 'R3'},
+instances: 1, word: 'Folded', work: 'R3'},
+instances: 1, word: 'Fondly', work: 'R3'},
+instances: 1, word: 'Fools', work: 'R3'},
+instances: 1, word: 'Fools\'', work: 'R3'},
+instances: 1, word: 'Foot-cloth', work: 'R3'},
+instances: 1, word: 'Footing', work: 'R3'},
+instances: 1, word: 'Forbid', work: 'R3'},
+instances: 1, word: 'Forces', work: 'R3'},
+instances: 1, word: 'Forehead', work: 'R3'},
+instances: 1, word: 'Foreward', work: 'R3'},
+instances: 1, word: 'Forfeit', work: 'R3'},
+instances: 1, word: 'Forgetfulness', work: 'R3'},
+instances: 1, word: 'Forgive', work: 'R3'},
+instances: 1, word: 'Formal', work: 'R3'},
+instances: 1, word: 'Former', work: 'R3'},
+instances: 1, word: 'Forsook', work: 'R3'},
+instances: 1, word: 'Forsooth', work: 'R3'},
+instances: 1, word: 'Forswearing', work: 'R3'},
+instances: 1, word: 'Forswore', work: 'R3'},
+instances: 1, word: 'Forthwith', work: 'R3'},
+instances: 1, word: 'Fortnight', work: 'R3'},
+instances: 1, word: 'Fought', work: 'R3'},
+instances: 1, word: 'Foul-faced', work: 'R3'},
+instances: 1, word: 'Foulest', work: 'R3'},
+instances: 1, word: 'Frail', work: 'R3'},
+instances: 1, word: 'Freedom', work: 'R3'},
+instances: 1, word: 'Freezes', work: 'R3'},
+instances: 1, word: 'French', work: 'R3'},
+instances: 1, word: 'Friar', work: 'R3'},
+instances: 1, word: 'Friendly', work: 'R3'},
+instances: 1, word: 'Friends\'', work: 'R3'},
+instances: 1, word: 'Frightful', work: 'R3'},
+instances: 1, word: 'Front', work: 'R3'},
+instances: 1, word: 'Frowning', work: 'R3'},
+instances: 1, word: 'Frowns', work: 'R3'},
+instances: 1, word: 'Frozen', work: 'R3'},
+instances: 1, word: 'Fruit', work: 'R3'},
+instances: 1, word: 'Fruitful', work: 'R3'},
+instances: 1, word: 'Fruits', work: 'R3'},
+instances: 1, word: 'Fulfill', work: 'R3'},
+instances: 1, word: 'Fulsome', work: 'R3'},
+instances: 1, word: 'Furies', work: 'R3'},
+instances: 1, word: 'Furious', work: 'R3'},
+instances: 1, word: 'Gains', work: 'R3'},
+instances: 1, word: 'Gallant-springing', work: 'R3'},
+instances: 1, word: 'Gallèd', work: 'R3'},
+instances: 1, word: 'Gape', work: 'R3'},
+instances: 1, word: 'Gapes', work: 'R3'},
+instances: 1, word: 'Garden', work: 'R3'},
+instances: 1, word: 'Garish', work: 'R3'},
+instances: 1, word: 'Garlands', work: 'R3'},
+instances: 1, word: 'Gav\'st', work: 'R3'},
+instances: 1, word: 'Gaze', work: 'R3'},
+instances: 1, word: 'Gems', work: 'R3'},
+instances: 1, word: 'Gentlefolks', work: 'R3'},
+instances: 1, word: 'Gentlewomen', work: 'R3'},
+instances: 1, word: 'Gently', work: 'R3'},
+instances: 1, word: 'Ghastly', work: 'R3'},
+instances: 1, word: 'Gifts', work: 'R3'},
+instances: 1, word: 'Gilbert', work: 'R3'},
+instances: 1, word: 'Girdling', work: 'R3'},
+instances: 1, word: 'Giving', work: 'R3'},
+instances: 1, word: 'Glad', work: 'R3'},
+instances: 1, word: 'Glorious', work: 'R3'},
+instances: 1, word: 'Gloucester\'s', work: 'R3'},
+instances: 1, word: 'Gnaw', work: 'R3'},
+instances: 1, word: 'Gnawed', work: 'R3'},
+instances: 1, word: 'Gnaws', work: 'R3'},
+instances: 1, word: 'Godfathers', work: 'R3'},
+instances: 1, word: 'Gods', work: 'R3'},
+instances: 1, word: 'Goods', work: 'R3'},
+instances: 1, word: 'Gossips', work: 'R3'},
+instances: 1, word: 'Govern', work: 'R3'},
+instances: 1, word: 'Go\'st', work: 'R3'},
+instances: 1, word: 'Graces\'', work: 'R3'},
+instances: 1, word: 'Graft', work: 'R3'},
+instances: 1, word: 'Gramercy', work: 'R3'},
+instances: 1, word: 'Grand', work: 'R3'},
+instances: 1, word: 'Grandam\'s', work: 'R3'},
+instances: 1, word: 'Granted', work: 'R3'},
+instances: 1, word: 'Grants', work: 'R3'},
+instances: 1, word: 'Gratulate', work: 'R3'},
+instances: 1, word: 'Grave\'s', work: 'R3'},
+instances: 1, word: 'Greatest', work: 'R3'},
+instances: 1, word: 'Greediness', work: 'R3'},
+instances: 1, word: 'Grim-visaged', work: 'R3'},
+instances: 1, word: 'Groans', work: 'R3'},
+instances: 1, word: 'Grossly', work: 'R3'},
+instances: 1, word: 'Grossness', work: 'R3'},
+instances: 1, word: 'Grounded', work: 'R3'},
+instances: 1, word: 'Grudge', work: 'R3'},
+instances: 1, word: 'Grudging', work: 'R3'},
+instances: 1, word: 'Guide', work: 'R3'},
+instances: 1, word: 'Guilfords', work: 'R3'},
+instances: 1, word: 'Guiltily', work: 'R3'},
+instances: 1, word: 'Guiltiness', work: 'R3'},
+instances: 1, word: 'Gulf', work: 'R3'},
+instances: 1, word: 'Gulls', work: 'R3'},
+instances: 1, word: 'Hacked', work: 'R3'},
+instances: 1, word: 'Hag', work: 'R3'},
+instances: 1, word: 'Halberd', work: 'R3'},
+instances: 1, word: 'Hall', work: 'R3'},
+instances: 1, word: 'Halt', work: 'R3'},
+instances: 1, word: 'Halts', work: 'R3'},
+instances: 1, word: 'Handiwork', work: 'R3'},
+instances: 1, word: 'Handkerchief', work: 'R3'},
+instances: 1, word: 'Handled', work: 'R3'},
+instances: 1, word: 'Handsome', work: 'R3'},
+instances: 1, word: 'Hang', work: 'R3'},
+instances: 1, word: 'Hanged', work: 'R3'},
+instances: 1, word: 'Hangs', work: 'R3'},
+instances: 1, word: 'Hard', work: 'R3'},
+instances: 1, word: 'Hardly', work: 'R3'},
+instances: 1, word: 'Harlot', work: 'R3'},
+instances: 1, word: 'Harmed', work: 'R3'},
+instances: 1, word: 'Harmful', work: 'R3'},
+instances: 1, word: 'Harmless', work: 'R3'},
+instances: 1, word: 'Harry\'s', work: 'R3'},
+instances: 1, word: 'Harsh', work: 'R3'},
+instances: 1, word: 'Has', work: 'R3'},
+instances: 1, word: 'Hatched', work: 'R3'},
+instances: 1, word: 'Hated', work: 'R3'},
+instances: 1, word: 'Hats', work: 'R3'},
+instances: 1, word: 'Haught', work: 'R3'},
+instances: 1, word: 'Hazard', work: 'R3'},
+instances: 1, word: 'Ha\'rfordwest', work: 'R3'},
+instances: 1, word: 'Head\'s', work: 'R3'},
+instances: 1, word: 'Heaps', work: 'R3'},
+instances: 1, word: 'Hearing', work: 'R3'},
+instances: 1, word: 'Hearkens', work: 'R3'},
+instances: 1, word: 'Hears', work: 'R3'},
+instances: 1, word: 'Hearse', work: 'R3'},
+instances: 1, word: 'Heart-sorrowing', work: 'R3'},
+instances: 1, word: 'Heart-strings', work: 'R3'},
+instances: 1, word: 'Heaved', work: 'R3'},
+instances: 1, word: 'Heavenly', work: 'R3'},
+instances: 1, word: 'Heavier', work: 'R3'},
+instances: 1, word: 'Hedgehog', work: 'R3'},
+instances: 1, word: 'Heels', work: 'R3'},
+instances: 1, word: 'Heinous', work: 'R3'},
+instances: 1, word: 'Hell-governed', work: 'R3'},
+instances: 1, word: 'Hellhound', work: 'R3'},
+instances: 1, word: 'Hellish', work: 'R3'},
+instances: 1, word: 'Hell\'s', work: 'R3'},
+instances: 1, word: 'Helmets', work: 'R3'},
+instances: 1, word: 'Helms', work: 'R3'},
+instances: 1, word: 'Helped', work: 'R3'},
+instances: 1, word: 'Helpless', work: 'R3'},
+instances: 1, word: 'Help\'st', work: 'R3'},
+instances: 1, word: 'Herald', work: 'R3'},
+instances: 1, word: 'Heralds', work: 'R3'},
+instances: 1, word: 'Herbs', work: 'R3'},
+instances: 1, word: 'Hereby', work: 'R3'},
+instances: 1, word: 'Here\'s', work: 'R3'},
+instances: 1, word: 'Hers', work: 'R3'},
+instances: 1, word: 'Hid', work: 'R3'},
+instances: 1, word: 'Hidden', work: 'R3'},
+instances: 1, word: 'Hideous', work: 'R3'},
+instances: 1, word: 'Hid\'st', work: 'R3'},
+instances: 1, word: 'Hies', work: 'R3'},
+instances: 1, word: 'High-reaching', work: 'R3'},
+instances: 1, word: 'High-reared', work: 'R3'},
+instances: 1, word: 'High-swoll\'n', work: 'R3'},
+instances: 1, word: 'Higher', work: 'R3'},
+instances: 1, word: 'Highest', work: 'R3'},
+instances: 1, word: 'Highly', work: 'R3'},
+instances: 1, word: 'Highness\'', work: 'R3'},
+instances: 1, word: 'Hilts', work: 'R3'},
+instances: 1, word: 'Hind', work: 'R3'},
+instances: 1, word: 'Hinder', work: 'R3'},
+instances: 1, word: 'Hire', work: 'R3'},
+instances: 1, word: 'Hired', work: 'R3'},
+instances: 1, word: 'History', work: 'R3'},
+instances: 1, word: 'Hit', work: 'R3'},
+instances: 1, word: 'Hitherto', work: 'R3'},
+instances: 1, word: 'Ho', work: 'R3'},
+instances: 1, word: 'Hog', work: 'R3'},
+instances: 1, word: 'Hoised', work: 'R3'},
+instances: 1, word: 'Holborn', work: 'R3'},
+instances: 1, word: 'Hole', work: 'R3'},
+instances: 1, word: 'Hollow', work: 'R3'},
+instances: 1, word: 'Hollow-hearted', work: 'R3'},
+instances: 1, word: 'Holp', work: 'R3'},
+instances: 1, word: 'Holp\'st', work: 'R3'},
+instances: 1, word: 'Honesty', work: 'R3'},
+instances: 1, word: 'Honey', work: 'R3'},
+instances: 1, word: 'Honors', work: 'R3'},
+instances: 1, word: 'Honor\'s', work: 'R3'},
+instances: 1, word: 'Hopeful', work: 'R3'},
+instances: 1, word: 'Hoping', work: 'R3'},
+instances: 1, word: 'Horses', work: 'R3'},
+instances: 1, word: 'Hostile', work: 'R3'},
+instances: 1, word: 'Hour\'s', work: 'R3'},
+instances: 1, word: 'Hower', work: 'R3'},
+instances: 1, word: 'Howlèd', work: 'R3'},
+instances: 1, word: 'Hoyday', work: 'R3'},
+instances: 1, word: 'Hugged', work: 'R3'},
+instances: 1, word: 'Hull', work: 'R3'},
+instances: 1, word: 'Humfrey', work: 'R3'},
+instances: 1, word: 'Hungry', work: 'R3'},
+instances: 1, word: 'Husband\'s', work: 'R3'},
+instances: 1, word: 'Ice', work: 'R3'},
+instances: 1, word: 'Icy', work: 'R3'},
+instances: 1, word: 'Idea', work: 'R3'},
+instances: 1, word: 'Ifs', work: 'R3'},
+instances: 1, word: 'Ignorance', work: 'R3'},
+instances: 1, word: 'Ill-dispersing', work: 'R3'},
+instances: 1, word: 'Ill-used', work: 'R3'},
+instances: 1, word: 'Image', work: 'R3'},
+instances: 1, word: 'Images', work: 'R3'},
+instances: 1, word: 'Imaginations', work: 'R3'},
+instances: 1, word: 'Immaculate', work: 'R3'},
+instances: 1, word: 'Immured', work: 'R3'},
+instances: 1, word: 'Impeachments', work: 'R3'},
+instances: 1, word: 'Impediment', work: 'R3'},
+instances: 1, word: 'Importing', work: 'R3'},
+instances: 1, word: 'Importune', work: 'R3'},
+instances: 1, word: 'Impose', work: 'R3'},
+instances: 1, word: 'Imposition', work: 'R3'},
+instances: 1, word: 'Impotent', work: 'R3'},
+instances: 1, word: 'Impression', work: 'R3'},
+instances: 1, word: 'Imprison', work: 'R3'},
+instances: 1, word: 'Imprisoned', work: 'R3'},
+instances: 1, word: 'Impure', work: 'R3'},
+instances: 1, word: 'Incapable', work: 'R3'},
+instances: 1, word: 'Incensèd', work: 'R3'},
+instances: 1, word: 'Inclination', work: 'R3'},
+instances: 1, word: 'Includes', work: 'R3'},
+instances: 1, word: 'Inclusive', work: 'R3'},
+instances: 1, word: 'Increaseth', work: 'R3'},
+instances: 1, word: 'Incur', work: 'R3'},
+instances: 1, word: 'Indictment', work: 'R3'},
+instances: 1, word: 'Indignation', work: 'R3'},
+instances: 1, word: 'Indirectly', work: 'R3'},
+instances: 1, word: 'Inducement', work: 'R3'},
+instances: 1, word: 'Induction', work: 'R3'},
+instances: 1, word: 'Inductions', work: 'R3'},
+instances: 1, word: 'Inestimable', work: 'R3'},
+instances: 1, word: 'Infancy', work: 'R3'},
+instances: 1, word: 'Infants', work: 'R3'},
+instances: 1, word: 'Infect', work: 'R3'},
+instances: 1, word: 'Infected', work: 'R3'},
+instances: 1, word: 'Infection', work: 'R3'},
+instances: 1, word: 'Infidels', work: 'R3'},
+instances: 1, word: 'Infringe', work: 'R3'},
+instances: 1, word: 'Ingenious', work: 'R3'},
+instances: 1, word: 'Inhabit', work: 'R3'},
+instances: 1, word: 'Inheritor', work: 'R3'},
+instances: 1, word: 'Inhuman', work: 'R3'},
+instances: 1, word: 'Iniquity', work: 'R3'},
+instances: 1, word: 'Injured', work: 'R3'},
+instances: 1, word: 'Injustice', work: 'R3'},
+instances: 1, word: 'Innocence', work: 'R3'},
+instances: 1, word: 'Innocents', work: 'R3'},
+instances: 1, word: 'Inquire', work: 'R3'},
+instances: 1, word: 'Insatiate', work: 'R3'},
+instances: 1, word: 'Insinuate', work: 'R3'},
+instances: 1, word: 'Insinuating', work: 'R3'},
+instances: 1, word: 'Inspire', work: 'R3'},
+instances: 1, word: 'Installment', work: 'R3'},
+instances: 1, word: 'Instance', work: 'R3'},
+instances: 1, word: 'Instigation', work: 'R3'},
+instances: 1, word: 'Instinct', work: 'R3'},
+instances: 1, word: 'Insulting', work: 'R3'},
+instances: 1, word: 'Intelligencer', work: 'R3'},
+instances: 1, word: 'Intending', work: 'R3'},
+instances: 1, word: 'Inter', work: 'R3'},
+instances: 1, word: 'Intercepted', work: 'R3'},
+instances: 1, word: 'Intercepts', work: 'R3'},
+instances: 1, word: 'Interior', work: 'R3'},
+instances: 1, word: 'Interred', work: 'R3'},
+instances: 1, word: 'Interruption', work: 'R3'},
+instances: 1, word: 'Interrèd', work: 'R3'},
+instances: 1, word: 'Intestate', work: 'R3'},
+instances: 1, word: 'Inviolable', work: 'R3'},
+instances: 1, word: 'Invocate', work: 'R3'},
+instances: 1, word: 'Ireland', work: 'R3'},
+instances: 1, word: 'Iron-witted', work: 'R3'},
+instances: 1, word: 'Irons', work: 'R3'},
+instances: 1, word: 'Issued', work: 'R3'},
+instances: 1, word: 'Itself', work: 'R3'},
+instances: 1, word: 'Iwis', work: 'R3'},
+instances: 1, word: 'Jacks', work: 'R3'},
+instances: 1, word: 'Jewels', work: 'R3'},
+instances: 1, word: 'Jockey', work: 'R3'},
+instances: 1, word: 'Joined', work: 'R3'},
+instances: 1, word: 'Jolly', work: 'R3'},
+instances: 1, word: 'Jot', work: 'R3'},
+instances: 1, word: 'Journeys', work: 'R3'},
+instances: 1, word: 'Jove\'s', work: 'R3'},
+instances: 1, word: 'Joyfully', work: 'R3'},
+instances: 1, word: 'Joyless', work: 'R3'},
+instances: 1, word: 'Jumpeth', work: 'R3'},
+instances: 1, word: 'Justices', work: 'R3'},
+instances: 1, word: 'Jut', work: 'R3'},
+instances: 1, word: 'Keen', work: 'R3'},
+instances: 1, word: 'Keeping', work: 'R3'},
+instances: 1, word: 'Keep\'st', work: 'R3'},
+instances: 1, word: 'Kennel', work: 'R3'},
+instances: 1, word: 'Kent', work: 'R3'},
+instances: 1, word: 'Key-cold', work: 'R3'},
+instances: 1, word: 'Keys', work: 'R3'},
+instances: 1, word: 'Killed\'st', work: 'R3'},
+instances: 1, word: 'Killing', work: 'R3'},
+instances: 1, word: 'Kindness\'', work: 'R3'},
+instances: 1, word: 'Kingdom\'s', work: 'R3'},
+instances: 1, word: 'Kinsman', work: 'R3'},
+instances: 1, word: 'Kissing', work: 'R3'},
+instances: 1, word: 'Kites', work: 'R3'},
+instances: 1, word: 'Kneeled', work: 'R3'},
+instances: 1, word: 'Kneels', work: 'R3'},
+instances: 1, word: 'Knightly', work: 'R3'},
+instances: 1, word: 'Knit', work: 'R3'},
+instances: 1, word: 'Knowest', work: 'R3'},
+instances: 1, word: 'Knowledge', work: 'R3'},
+instances: 1, word: 'Known', work: 'R3'},
+instances: 1, word: 'Lace', work: 'R3'},
+instances: 1, word: 'Lack', work: 'R3'},
+instances: 1, word: 'Lackey', work: 'R3'},
+instances: 1, word: 'Ladies', work: 'R3'},
+instances: 1, word: 'Lads', work: 'R3'},
+instances: 1, word: 'Lady\'s', work: 'R3'},
+instances: 1, word: 'Lag', work: 'R3'},
+instances: 1, word: 'Lamely', work: 'R3'},
+instances: 1, word: 'Lamentations', work: 'R3'},
+instances: 1, word: 'Lamenting', work: 'R3'},
+instances: 1, word: 'Lance', work: 'R3'},
+instances: 1, word: 'Landed', work: 'R3'},
+instances: 1, word: 'Lark', work: 'R3'},
+instances: 1, word: 'Lascivious', work: 'R3'},
+instances: 1, word: 'Lash', work: 'R3'},
+instances: 1, word: 'Laugh', work: 'R3'},
+instances: 1, word: 'Launched', work: 'R3'},
+instances: 1, word: 'Lawless', work: 'R3'},
+instances: 1, word: 'Leader', work: 'R3'},
+instances: 1, word: 'Leading', work: 'R3'},
+instances: 1, word: 'Learned', work: 'R3'},
+instances: 1, word: 'Leaving', work: 'R3'},
+instances: 1, word: 'Legion', work: 'R3'},
+instances: 1, word: 'Legs', work: 'R3'},
+instances: 1, word: 'Leisurely', work: 'R3'},
+instances: 1, word: 'Length', work: 'R3'},
+instances: 1, word: 'Lengthens', work: 'R3'},
+instances: 1, word: 'Lessened', work: 'R3'},
+instances: 1, word: 'Lesser', work: 'R3'},
+instances: 1, word: 'Lessoned', work: 'R3'},
+instances: 1, word: 'Lethe', work: 'R3'},
+instances: 1, word: 'Level', work: 'R3'},
+instances: 1, word: 'Levy', work: 'R3'},
+instances: 1, word: 'Libels', work: 'R3'},
+instances: 1, word: 'Liberal', work: 'R3'},
+instances: 1, word: 'Life\'s', work: 'R3'},
+instances: 1, word: 'Light-foot', work: 'R3'},
+instances: 1, word: 'Lighted', work: 'R3'},
+instances: 1, word: 'Lighter', work: 'R3'},
+instances: 1, word: 'Lightning', work: 'R3'},
+instances: 1, word: 'Lights', work: 'R3'},
+instances: 1, word: 'Likewise', work: 'R3'},
+instances: 1, word: 'Limbs', work: 'R3'},
+instances: 1, word: 'Lines', work: 'R3'},
+instances: 1, word: 'Liquid', work: 'R3'},
+instances: 1, word: 'Livelihood', work: 'R3'},
+instances: 1, word: 'Livery', work: 'R3'},
+instances: 1, word: 'Liv\'st', work: 'R3'},
+instances: 1, word: 'Loathed', work: 'R3'},
+instances: 1, word: 'Loathes', work: 'R3'},
+instances: 1, word: 'Loathèd', work: 'R3'},
+instances: 1, word: 'Lodged', work: 'R3'},
+instances: 1, word: 'Loins', work: 'R3'},
+instances: 1, word: 'Lolling', work: 'R3'},
+instances: 1, word: 'Long-usurpèd', work: 'R3'},
+instances: 1, word: 'Longs', work: 'R3'},
+instances: 1, word: 'Looker-on', work: 'R3'},
+instances: 1, word: 'Loose', work: 'R3'},
+instances: 1, word: 'Lordly', work: 'R3'},
+instances: 1, word: 'Lordship\'s', work: 'R3'},
+instances: 1, word: 'Lour', work: 'R3'},
+instances: 1, word: 'Loured', work: 'R3'},
+instances: 1, word: 'Love-bed', work: 'R3'},
+instances: 1, word: 'Loved', work: 'R3'},
+instances: 1, word: 'Lovelier', work: 'R3'},
+instances: 1, word: 'Lovely', work: 'R3'},
+instances: 1, word: 'Lover', work: 'R3'},
+instances: 1, word: 'Loveth', work: 'R3'},
+instances: 1, word: 'Lower', work: 'R3'},
+instances: 1, word: 'Lowly', work: 'R3'},
+instances: 1, word: 'Loyalty', work: 'R3'},
+instances: 1, word: 'Luck', work: 'R3'},
+instances: 1, word: 'Lump', work: 'R3'},
+instances: 1, word: 'Lunatic', work: 'R3'},
+instances: 1, word: 'Lurked', work: 'R3'},
+instances: 1, word: 'Lust', work: 'R3'},
+instances: 1, word: 'Lusted', work: 'R3'},
+instances: 1, word: 'Lute', work: 'R3'},
+instances: 1, word: 'Luxury', work: 'R3'},
+instances: 1, word: 'Magician', work: 'R3'},
+instances: 1, word: 'Maid\'s', work: 'R3'},
+instances: 1, word: 'Maintain', work: 'R3'},
+instances: 1, word: 'Majestical', work: 'R3'},
+instances: 1, word: 'Making', work: 'R3'},
+instances: 1, word: 'Mak\'st', work: 'R3'},
+instances: 1, word: 'Malapert', work: 'R3'},
+instances: 1, word: 'Malignant', work: 'R3'},
+instances: 1, word: 'Manhood', work: 'R3'},
+instances: 1, word: 'Manly', work: 'R3'},
+instances: 1, word: 'Map', work: 'R3'},
+instances: 1, word: 'Marched', work: 'R3'},
+instances: 1, word: 'Marches', work: 'R3'},
+instances: 1, word: 'Marked', work: 'R3'},
+instances: 1, word: 'Market', work: 'R3'},
+instances: 1, word: 'Marks', work: 'R3'},
+instances: 1, word: 'Markèd', work: 'R3'},
+instances: 1, word: 'Marred', work: 'R3'},
+instances: 1, word: 'Married', work: 'R3'},
+instances: 1, word: 'Marrying', work: 'R3'},
+instances: 1, word: 'Marsh', work: 'R3'},
+instances: 1, word: 'Marv\'lous', work: 'R3'},
+instances: 1, word: 'Mast', work: 'R3'},
+instances: 1, word: 'Masters', work: 'R3'},
+instances: 1, word: 'Masters\'', work: 'R3'},
+instances: 1, word: 'Mates', work: 'R3'},
+instances: 1, word: 'Meaner', work: 'R3'},
+instances: 1, word: 'Meanly', work: 'R3'},
+instances: 1, word: 'Mean\'st', work: 'R3'},
+instances: 1, word: 'Measures', work: 'R3'},
+instances: 1, word: 'Meddle', work: 'R3'},
+instances: 1, word: 'Meditating', work: 'R3'},
+instances: 1, word: 'Meekness', work: 'R3'},
+instances: 1, word: 'Meetest', work: 'R3'},
+instances: 1, word: 'Meetings', work: 'R3'},
+instances: 1, word: 'Meets', work: 'R3'},
+instances: 1, word: 'Mell', work: 'R3'},
+instances: 1, word: 'Mellow', work: 'R3'},
+instances: 1, word: 'Mellowed', work: 'R3'},
+instances: 1, word: 'Melted', work: 'R3'},
+instances: 1, word: 'Menace', work: 'R3'},
+instances: 1, word: 'Merciless', work: 'R3'},
+instances: 1, word: 'Mere', work: 'R3'},
+instances: 1, word: 'Meseemeth', work: 'R3'},
+instances: 1, word: 'Messenger', work: 'R3'},
+instances: 1, word: 'Method', work: 'R3'},
+instances: 1, word: 'Met\'st', work: 'R3'},
+instances: 1, word: 'Mid', work: 'R3'},
+instances: 1, word: 'Middle', work: 'R3'},
+instances: 1, word: 'Midnight', work: 'R3'},
+instances: 1, word: 'Midst', work: 'R3'},
+instances: 1, word: 'Mightily', work: 'R3'},
+instances: 1, word: 'Mildness', work: 'R3'},
+instances: 1, word: 'Mile', work: 'R3'},
+instances: 1, word: 'Miles', work: 'R3'},
+instances: 1, word: 'Milford', work: 'R3'},
+instances: 1, word: 'Milksop', work: 'R3'},
+instances: 1, word: 'Minority', work: 'R3'},
+instances: 1, word: 'Mirrors', work: 'R3'},
+instances: 1, word: 'Miscarrièd', work: 'R3'},
+instances: 1, word: 'Miscarry', work: 'R3'},
+instances: 1, word: 'Mischance', work: 'R3'},
+instances: 1, word: 'Mischiefs', work: 'R3'},
+instances: 1, word: 'Misconster', work: 'R3'},
+instances: 1, word: 'Misdeeds', work: 'R3'},
+instances: 1, word: 'Misdoubt', work: 'R3'},
+instances: 1, word: 'Misery', work: 'R3'},
+instances: 1, word: 'Misplaced', work: 'R3'},
+instances: 1, word: 'Misshapen', work: 'R3'},
+instances: 1, word: 'Mista\'en', work: 'R3'},
+instances: 1, word: 'Mistrusting', work: 'R3'},
+instances: 1, word: 'Misused', work: 'R3'},
+instances: 1, word: 'Mitigate', work: 'R3'},
+instances: 1, word: 'Mocks', work: 'R3'},
+instances: 1, word: 'Mock\'ry', work: 'R3'},
+instances: 1, word: 'Model', work: 'R3'},
+instances: 1, word: 'Moment', work: 'R3'},
+instances: 1, word: 'Momentary', work: 'R3'},
+instances: 1, word: 'Monast\'ry', work: 'R3'},
+instances: 1, word: 'Monuments', work: 'R3'},
+instances: 1, word: 'Mood', work: 'R3'},
+instances: 1, word: 'Moody', work: 'R3'},
+instances: 1, word: 'Moon', work: 'R3'},
+instances: 1, word: 'Moralize', work: 'R3'},
+instances: 1, word: 'Moreover', work: 'R3'},
+instances: 1, word: 'Morrows', work: 'R3'},
+instances: 1, word: 'Mortal-staring', work: 'R3'},
+instances: 1, word: 'Mothers', work: 'R3'},
+instances: 1, word: 'Mount', work: 'R3'},
+instances: 1, word: 'Mounting', work: 'R3'},
+instances: 1, word: 'Mouths', work: 'R3'},
+instances: 1, word: 'Multitude', work: 'R3'},
+instances: 1, word: 'Mum', work: 'R3'},
+instances: 1, word: 'Murderers', work: 'R3'},
+instances: 1, word: 'Murderous', work: 'R3'},
+instances: 1, word: 'Murd\'ring', work: 'R3'},
+instances: 1, word: 'Muse', work: 'R3'},
+instances: 1, word: 'Music', work: 'R3'},
+instances: 1, word: 'Mute', work: 'R3'},
+instances: 1, word: 'Mutinies', work: 'R3'},
+instances: 1, word: 'Mutual', work: 'R3'},
+instances: 1, word: 'Namely', work: 'R3'},
+instances: 1, word: 'Names', work: 'R3'},
+instances: 1, word: 'Nap', work: 'R3'},
+instances: 1, word: 'Nativity', work: 'R3'},
+instances: 1, word: 'Natural', work: 'R3'},
+instances: 1, word: 'Necessity', work: 'R3'},
+instances: 1, word: 'Ned', work: 'R3'},
+instances: 1, word: 'Needful', work: 'R3'},
+instances: 1, word: 'Needless', work: 'R3'},
+instances: 1, word: 'Need\'st', work: 'R3'},
+instances: 1, word: 'Neglect', work: 'R3'},
+instances: 1, word: 'Neighbors', work: 'R3'},
+instances: 1, word: 'Neighbor\'s', work: 'R3'},
+instances: 1, word: 'Nephews\'', work: 'R3'},
+instances: 1, word: 'Nevermore', work: 'R3'},
+instances: 1, word: 'New-appearing', work: 'R3'},
+instances: 1, word: 'New-delivered', work: 'R3'},
+instances: 1, word: 'New-healed', work: 'R3'},
+instances: 1, word: 'Ne\'er', work: 'R3'},
+instances: 1, word: 'Ne\'er-changing', work: 'R3'},
+instances: 1, word: 'Nice', work: 'R3'},
+instances: 1, word: 'Niece', work: 'R3'},
+instances: 1, word: 'Night-walking', work: 'R3'},
+instances: 1, word: 'Nimbly', work: 'R3'},
+instances: 1, word: 'Nobleness', work: 'R3'},
+instances: 1, word: 'Nobles', work: 'R3'},
+instances: 1, word: 'Nod', work: 'R3'},
+instances: 1, word: 'Nods', work: 'R3'},
+instances: 1, word: 'Nomination', work: 'R3'},
+instances: 1, word: 'Nonage', work: 'R3'},
+instances: 1, word: 'Noontide', work: 'R3'},
+instances: 1, word: 'Northampton', work: 'R3'},
+instances: 1, word: 'Note', work: 'R3'},
+instances: 1, word: 'Noted', work: 'R3'},
+instances: 1, word: 'Notice', work: 'R3'},
+instances: 1, word: 'Notwithstanding', work: 'R3'},
+instances: 1, word: 'Novice', work: 'R3'},
+instances: 1, word: 'Numb-cold', work: 'R3'},
+instances: 1, word: 'Nuns', work: 'R3'},
+instances: 1, word: 'Nymph', work: 'R3'},
+instances: 1, word: 'Obedience', work: 'R3'},
+instances: 1, word: 'Obeyed', work: 'R3'},
+instances: 1, word: 'Object', work: 'R3'},
+instances: 1, word: 'Oblivion', work: 'R3'},
+instances: 1, word: 'Obsequiously', work: 'R3'},
+instances: 1, word: 'Obstinate', work: 'R3'},
+instances: 1, word: 'Ocean', work: 'R3'},
+instances: 1, word: 'Odd', work: 'R3'},
+instances: 1, word: 'Odds', work: 'R3'},
+instances: 1, word: 'Offend', work: 'R3'},
+instances: 1, word: 'Offenders', work: 'R3'},
+instances: 1, word: 'Offered', work: 'R3'},
+instances: 1, word: 'Officers', work: 'R3'},
+instances: 1, word: 'Offices', work: 'R3'},
+instances: 1, word: 'Offspring', work: 'R3'},
+instances: 1, word: 'Older', work: 'R3'},
+instances: 1, word: 'Omitted', work: 'R3'},
+instances: 1, word: 'Ones', work: 'R3'},
+instances: 1, word: 'Opens', work: 'R3'},
+instances: 1, word: 'Opprobriously', work: 'R3'},
+instances: 1, word: 'Oracle', work: 'R3'},
+instances: 1, word: 'Orator', work: 'R3'},
+instances: 1, word: 'Orderèd', work: 'R3'},
+instances: 1, word: 'Orient', work: 'R3'},
+instances: 1, word: 'Ornaments', work: 'R3'},
+instances: 1, word: 'Others\'', work: 'R3'},
+instances: 1, word: 'Ought', work: 'R3'},
+instances: 1, word: 'Out-shining', work: 'R3'},
+instances: 1, word: 'Outgrown', work: 'R3'},
+instances: 1, word: 'Outlive', work: 'R3'},
+instances: 1, word: 'Outstrip', work: 'R3'},
+instances: 1, word: 'Overblown', work: 'R3'},
+instances: 1, word: 'Overboard', work: 'R3'},
+instances: 1, word: 'Overgo', work: 'R3'},
+instances: 1, word: 'Overmuch', work: 'R3'},
+instances: 1, word: 'Overshoes', work: 'R3'},
+instances: 1, word: 'Overta\'en', work: 'R3'},
+instances: 1, word: 'Overweening', work: 'R3'},
+instances: 1, word: 'Owed', work: 'R3'},
+instances: 1, word: 'Owls', work: 'R3'},
+instances: 1, word: 'Ow\'st', work: 'R3'},
+instances: 1, word: 'O\'ercast', work: 'R3'},
+instances: 1, word: 'O\'ercloyèd', work: 'R3'},
+instances: 1, word: 'O\'erlook', work: 'R3'},
+instances: 1, word: 'O\'errule', work: 'R3'},
+instances: 1, word: 'O\'ershade', work: 'R3'},
+instances: 1, word: 'O\'erworn', work: 'R3'},
+instances: 1, word: 'Paced', work: 'R3'},
+instances: 1, word: 'Pack', work: 'R3'},
+instances: 1, word: 'Packed', work: 'R3'},
+instances: 1, word: 'Packhorse', work: 'R3'},
+instances: 1, word: 'Packing', work: 'R3'},
+instances: 1, word: 'Pageant', work: 'R3'},
+instances: 1, word: 'Pair', work: 'R3'},
+instances: 1, word: 'Palpable', work: 'R3'},
+instances: 1, word: 'Paltry', work: 'R3'},
+instances: 1, word: 'Pamper', work: 'R3'},
+instances: 1, word: 'Panting', work: 'R3'},
+instances: 1, word: 'Parceled', work: 'R3'},
+instances: 1, word: 'Parents', work: 'R3'},
+instances: 1, word: 'Paris', work: 'R3'},
+instances: 1, word: 'Partake', work: 'R3'},
+instances: 1, word: 'Parts', work: 'R3'},
+instances: 1, word: 'Passing', work: 'R3'},
+instances: 1, word: 'Passionate', work: 'R3'},
+instances: 1, word: 'Patiently', work: 'R3'},
+instances: 1, word: 'Pattern', work: 'R3'},
+instances: 1, word: 'Pay', work: 'R3'},
+instances: 1, word: 'Pays', work: 'R3'},
+instances: 1, word: 'Peasants', work: 'R3'},
+instances: 1, word: 'Peddler', work: 'R3'},
+instances: 1, word: 'Peise', work: 'R3'},
+instances: 1, word: 'Pell', work: 'R3'},
+instances: 1, word: 'Penetrable', work: 'R3'},
+instances: 1, word: 'Penitent', work: 'R3'},
+instances: 1, word: 'Penker', work: 'R3'},
+instances: 1, word: 'People', work: 'R3'},
+instances: 1, word: 'Perch', work: 'R3'},
+instances: 1, word: 'Perform', work: 'R3'},
+instances: 1, word: 'Performed', work: 'R3'},
+instances: 1, word: 'Perish', work: 'R3'},
+instances: 1, word: 'Perjured', work: 'R3'},
+instances: 1, word: 'Persons\'', work: 'R3'},
+instances: 1, word: 'Person\'s', work: 'R3'},
+instances: 1, word: 'Persuade', work: 'R3'},
+instances: 1, word: 'Persuading', work: 'R3'},
+instances: 1, word: 'Perturbations', work: 'R3'},
+instances: 1, word: 'Petitioner', work: 'R3'},
+instances: 1, word: 'Petty', work: 'R3'},
+instances: 1, word: 'Pew-fellow', work: 'R3'},
+instances: 1, word: 'Physicians', work: 'R3'},
+instances: 1, word: 'Pilate', work: 'R3'},
+instances: 1, word: 'Pilled', work: 'R3'},
+instances: 1, word: 'Pillow', work: 'R3'},
+instances: 1, word: 'Piping', work: 'R3'},
+instances: 1, word: 'Pirates', work: 'R3'},
+instances: 1, word: 'Pitchers', work: 'R3'},
+instances: 1, word: 'Pitied', work: 'R3'},
+instances: 1, word: 'Pities', work: 'R3'},
+instances: 1, word: 'Pitiful', work: 'R3'},
+instances: 1, word: 'Placèd', work: 'R3'},
+instances: 1, word: 'Plagued', work: 'R3'},
+instances: 1, word: 'Plainest', work: 'R3'},
+instances: 1, word: 'Planets', work: 'R3'},
+instances: 1, word: 'Plantagenets', work: 'R3'},
+instances: 1, word: 'Playfellow', work: 'R3'},
+instances: 1, word: 'Plenteous', work: 'R3'},
+instances: 1, word: 'Plenty', work: 'R3'},
+instances: 1, word: 'Plotted', work: 'R3'},
+instances: 1, word: 'Plucks', work: 'R3'},
+instances: 1, word: 'Poets', work: 'R3'},
+instances: 1, word: 'Points', work: 'R3'},
+instances: 1, word: 'Poisonous', work: 'R3'},
+instances: 1, word: 'Politic', work: 'R3'},
+instances: 1, word: 'Positively', work: 'R3'},
+instances: 1, word: 'Possessed', work: 'R3'},
+instances: 1, word: 'Possible', work: 'R3'},
+instances: 1, word: 'Post-horse', work: 'R3'},
+instances: 1, word: 'Posterity', work: 'R3'},
+instances: 1, word: 'Poverty', work: 'R3'},
+instances: 1, word: 'Powerful', work: 'R3'},
+instances: 1, word: 'Praise', work: 'R3'},
+instances: 1, word: 'Praised', work: 'R3'},
+instances: 1, word: 'Prate', work: 'R3'},
+instances: 1, word: 'Prating', work: 'R3'},
+instances: 1, word: 'Prays', work: 'R3'},
+instances: 1, word: 'Precedent', work: 'R3'},
+instances: 1, word: 'Prefer', work: 'R3'},
+instances: 1, word: 'Preferments', work: 'R3'},
+instances: 1, word: 'Prelate', work: 'R3'},
+instances: 1, word: 'Preposterous', work: 'R3'},
+instances: 1, word: 'Presentation', work: 'R3'},
+instances: 1, word: 'Preservation', work: 'R3'},
+instances: 1, word: 'Preserve', work: 'R3'},
+instances: 1, word: 'Preserved', work: 'R3'},
+instances: 1, word: 'Presume', work: 'R3'},
+instances: 1, word: 'Prettily', work: 'R3'},
+instances: 1, word: 'Prevent', work: 'R3'},
+instances: 1, word: 'Preys', work: 'R3'},
+instances: 1, word: 'Pride', work: 'R3'},
+instances: 1, word: 'Prince\'s', work: 'R3'},
+instances: 1, word: 'Prison', work: 'R3'},
+instances: 1, word: 'Prisoner', work: 'R3'},
+instances: 1, word: 'Private', work: 'R3'},
+instances: 1, word: 'Privy', work: 'R3'},
+instances: 1, word: 'Prize', work: 'R3'},
+instances: 1, word: 'Proceeded', work: 'R3'},
+instances: 1, word: 'Proceeding', work: 'R3'},
+instances: 1, word: 'Proceedings', work: 'R3'},
+instances: 1, word: 'Proceeds', work: 'R3'},
+instances: 1, word: 'Proclaim', work: 'R3'},
+instances: 1, word: 'Proclaimed', work: 'R3'},
+instances: 1, word: 'Proclamation', work: 'R3'},
+instances: 1, word: 'Prodigality', work: 'R3'},
+instances: 1, word: 'Prodigious', work: 'R3'},
+instances: 1, word: 'Prolonged', work: 'R3'},
+instances: 1, word: 'Promised', work: 'R3'},
+instances: 1, word: 'Promisèd', work: 'R3'},
+instances: 1, word: 'Prompts', work: 'R3'},
+instances: 1, word: 'Prophecy', work: 'R3'},
+instances: 1, word: 'Proposed', work: 'R3'},
+instances: 1, word: 'Props', work: 'R3'},
+instances: 1, word: 'Prosperity', work: 'R3'},
+instances: 1, word: 'Prosperous', work: 'R3'},
+instances: 1, word: 'Protector\'s', work: 'R3'},
+instances: 1, word: 'Proudest', work: 'R3'},
+instances: 1, word: 'Proudly', work: 'R3'},
+instances: 1, word: 'Proved', work: 'R3'},
+instances: 1, word: 'Provided', work: 'R3'},
+instances: 1, word: 'Provoke', work: 'R3'},
+instances: 1, word: 'Provokes', work: 'R3'},
+instances: 1, word: 'Pry', work: 'R3'},
+instances: 1, word: 'Publicly', work: 'R3'},
+instances: 1, word: 'Puissance', work: 'R3'},
+instances: 1, word: 'Puissant', work: 'R3'},
+instances: 1, word: 'Punchèd', work: 'R3'},
+instances: 1, word: 'Punish', work: 'R3'},
+instances: 1, word: 'Punishment', work: 'R3'},
+instances: 1, word: 'Pure', work: 'R3'},
+instances: 1, word: 'Purged', work: 'R3'},
+instances: 1, word: 'Purple', work: 'R3'},
+instances: 1, word: 'Pursues', work: 'R3'},
+instances: 1, word: 'Pursuit', work: 'R3'},
+instances: 1, word: 'Pursuivant', work: 'R3'},
+instances: 1, word: 'Pursuivant-at-arms', work: 'R3'},
+instances: 1, word: 'Quartered', work: 'R3'},
+instances: 1, word: 'Quest', work: 'R3'},
+instances: 1, word: 'Quickly', work: 'R3'},
+instances: 1, word: 'Quite', work: 'R3'},
+instances: 1, word: 'Quits', work: 'R3'},
+instances: 1, word: 'Race', work: 'R3'},
+instances: 1, word: 'Rag', work: 'R3'},
+instances: 1, word: 'Ragged', work: 'R3'},
+instances: 1, word: 'Raging', work: 'R3'},
+instances: 1, word: 'Rags', work: 'R3'},
+instances: 1, word: 'Rail', work: 'R3'},
+instances: 1, word: 'Rain', work: 'R3'},
+instances: 1, word: 'Rancorous', work: 'R3'},
+instances: 1, word: 'Rankle', work: 'R3'},
+instances: 1, word: 'Ransom', work: 'R3'},
+instances: 1, word: 'Rascals', work: 'R3'},
+instances: 1, word: 'Rash-levied', work: 'R3'},
+instances: 1, word: 'Rashness', work: 'R3'},
+instances: 1, word: 'Rats', work: 'R3'},
+instances: 1, word: 'Ravish', work: 'R3'},
+instances: 1, word: 'Raw', work: 'R3'},
+instances: 1, word: 'Raze', work: 'R3'},
+instances: 1, word: 'Razèd', work: 'R3'},
+instances: 1, word: 'Re-edified', work: 'R3'},
+instances: 1, word: 'Read', work: 'R3'},
+instances: 1, word: 'Readiest', work: 'R3'},
+instances: 1, word: 'Readiness', work: 'R3'},
+instances: 1, word: 'Realm', work: 'R3'},
+instances: 1, word: 'Reasonable', work: 'R3'},
+instances: 1, word: 'Rebel', work: 'R3'},
+instances: 1, word: 'Recomforture', work: 'R3'},
+instances: 1, word: 'Reconcile', work: 'R3'},
+instances: 1, word: 'Reconciled', work: 'R3'},
+instances: 1, word: 'Recorded', work: 'R3'},
+instances: 1, word: 'Recorder', work: 'R3'},
+instances: 1, word: 'Recourse', work: 'R3'},
+instances: 1, word: 'Recover', work: 'R3'},
+instances: 1, word: 'Recreation', work: 'R3'},
+instances: 1, word: 'Recure', work: 'R3'},
+instances: 1, word: 'Red-hot', work: 'R3'},
+instances: 1, word: 'Redeem', work: 'R3'},
+instances: 1, word: 'Redemption', work: 'R3'},
+instances: 1, word: 'Redoubted', work: 'R3'},
+instances: 1, word: 'Reeling', work: 'R3'},
+instances: 1, word: 'Reflecting', work: 'R3'},
+instances: 1, word: 'Reft', work: 'R3'},
+instances: 1, word: 'Registered', work: 'R3'},
+instances: 1, word: 'Rein', work: 'R3'},
+instances: 1, word: 'Rejoice', work: 'R3'},
+instances: 1, word: 'Relenting', work: 'R3'},
+instances: 1, word: 'Religious', work: 'R3'},
+instances: 1, word: 'Rely', work: 'R3'},
+instances: 1, word: 'Remembered', work: 'R3'},
+instances: 1, word: 'Remnant', work: 'R3'},
+instances: 1, word: 'Remorseful', work: 'R3'},
+instances: 1, word: 'Rend', work: 'R3'},
+instances: 1, word: 'Renders', work: 'R3'},
+instances: 1, word: 'Repaid', work: 'R3'},
+instances: 1, word: 'Repaired', work: 'R3'},
+instances: 1, word: 'Repay', work: 'R3'},
+instances: 1, word: 'Repays', work: 'R3'},
+instances: 1, word: 'Repeat', work: 'R3'},
+instances: 1, word: 'Repentant', work: 'R3'},
+instances: 1, word: 'Repetition', work: 'R3'},
+instances: 1, word: 'Replenishèd', work: 'R3'},
+instances: 1, word: 'Reply', work: 'R3'},
+instances: 1, word: 'Replying', work: 'R3'},
+instances: 1, word: 'Repose', work: 'R3'},
+instances: 1, word: 'Reposing', work: 'R3'},
+instances: 1, word: 'Reprehend', work: 'R3'},
+instances: 1, word: 'Reprehended', work: 'R3'},
+instances: 1, word: 'Reproach', work: 'R3'},
+instances: 1, word: 'Reprove', work: 'R3'},
+instances: 1, word: 'Reputation', work: 'R3'},
+instances: 1, word: 'Requires', work: 'R3'},
+instances: 1, word: 'Requites', work: 'R3'},
+instances: 1, word: 'Rescued', work: 'R3'},
+instances: 1, word: 'Resemblance', work: 'R3'},
+instances: 1, word: 'Reserved', work: 'R3'},
+instances: 1, word: 'Resigned', work: 'R3'},
+instances: 1, word: 'Resolute', work: 'R3'},
+instances: 1, word: 'Resolution', work: 'R3'},
+instances: 1, word: 'Resolvèd', work: 'R3'},
+instances: 1, word: 'Resort', work: 'R3'},
+instances: 1, word: 'Respect', work: 'R3'},
+instances: 1, word: 'Respite', work: 'R3'},
+instances: 1, word: 'Restless', work: 'R3'},
+instances: 1, word: 'Restore', work: 'R3'},
+instances: 1, word: 'Restrain', work: 'R3'},
+instances: 1, word: 'Retail', work: 'R3'},
+instances: 1, word: 'Retailed', work: 'R3'},
+instances: 1, word: 'Revel', work: 'R3'},
+instances: 1, word: 'Revengeful', work: 'R3'},
+instances: 1, word: 'Revenue', work: 'R3'},
+instances: 1, word: 'Reverence', work: 'R3'},
+instances: 1, word: 'Reversed', work: 'R3'},
+instances: 1, word: 'Revolving', work: 'R3'},
+instances: 1, word: 'Rewarder', work: 'R3'},
+instances: 1, word: 'Rice', work: 'R3'},
+instances: 1, word: 'Riches', work: 'R3'},
+instances: 1, word: 'Richmonds', work: 'R3'},
+instances: 1, word: 'Riddle', work: 'R3'},
+instances: 1, word: 'Ride', work: 'R3'},
+instances: 1, word: 'Rideth', work: 'R3'},
+instances: 1, word: 'Riotous', work: 'R3'},
+instances: 1, word: 'Ripened', work: 'R3'},
+instances: 1, word: 'Rites', work: 'R3'},
+instances: 1, word: 'Roar', work: 'R3'},
+instances: 1, word: 'Robert', work: 'R3'},
+instances: 1, word: 'Rocky', work: 'R3'},
+instances: 1, word: 'Rode', work: 'R3'},
+instances: 1, word: 'Room', work: 'R3'},
+instances: 1, word: 'Root', work: 'R3'},
+instances: 1, word: 'Rooting', work: 'R3'},
+instances: 1, word: 'Rose', work: 'R3'},
+instances: 1, word: 'Roses', work: 'R3'},
+instances: 1, word: 'Rotten', work: 'R3'},
+instances: 1, word: 'Rougemont', work: 'R3'},
+instances: 1, word: 'Rough', work: 'R3'},
+instances: 1, word: 'Round', work: 'R3'},
+instances: 1, word: 'Royalize', work: 'R3'},
+instances: 1, word: 'Rudely', work: 'R3'},
+instances: 1, word: 'Ruins', work: 'R3'},
+instances: 1, word: 'Rules', work: 'R3'},
+instances: 1, word: 'Rumor', work: 'R3'},
+instances: 1, word: 'Rumors', work: 'R3'},
+instances: 1, word: 'Runagate', work: 'R3'},
+instances: 1, word: 'Runaways', work: 'R3'},
+instances: 1, word: 'Rush', work: 'R3'},
+instances: 1, word: 'Ruthless', work: 'R3'},
+instances: 1, word: 'Rutland\'s', work: 'R3'},
+instances: 1, word: 'Sabbath', work: 'R3'},
+instances: 1, word: 'Saddle', work: 'R3'},
+instances: 1, word: 'Sadly', work: 'R3'},
+instances: 1, word: 'Safe-conducting', work: 'R3'},
+instances: 1, word: 'Safeguard', work: 'R3'},
+instances: 1, word: 'Safest', work: 'R3'},
+instances: 1, word: 'Sage', work: 'R3'},
+instances: 1, word: 'Sail', work: 'R3'},
+instances: 1, word: 'Sailor', work: 'R3'},
+instances: 1, word: 'Sails', work: 'R3'},
+instances: 1, word: 'Saith', work: 'R3'},
+instances: 1, word: 'Salt', work: 'R3'},
+instances: 1, word: 'Salutation', work: 'R3'},
+instances: 1, word: 'Sapling', work: 'R3'},
+instances: 1, word: 'Saved', work: 'R3'},
+instances: 1, word: 'Sawst', work: 'R3'},
+instances: 1, word: 'Sayst', work: 'R3'},
+instances: 1, word: 'Scaffold', work: 'R3'},
+instances: 1, word: 'Scales', work: 'R3'},
+instances: 1, word: 'Scandal', work: 'R3'},
+instances: 1, word: 'Scarred', work: 'R3'},
+instances: 1, word: 'Scars', work: 'R3'},
+instances: 1, word: 'Scathe', work: 'R3'},
+instances: 1, word: 'Sceptered', work: 'R3'},
+instances: 1, word: 'School', work: 'R3'},
+instances: 1, word: 'Scoffs', work: 'R3'},
+instances: 1, word: 'Score', work: 'R3'},
+instances: 1, word: 'Scotland', work: 'R3'},
+instances: 1, word: 'Scourge', work: 'R3'},
+instances: 1, word: 'Scripture', work: 'R3'},
+instances: 1, word: 'Scum', work: 'R3'},
+instances: 1, word: 'Sealed', work: 'R3'},
+instances: 1, word: 'Sear', work: 'R3'},
+instances: 1, word: 'Seasoned', work: 'R3'},
+instances: 1, word: 'Seasons', work: 'R3'},
+instances: 1, word: 'Secretly', work: 'R3'},
+instances: 1, word: 'Secrets', work: 'R3'},
+instances: 1, word: 'Seduced', work: 'R3'},
+instances: 1, word: 'Seeking', work: 'R3'},
+instances: 1, word: 'Sees', work: 'R3'},
+instances: 1, word: 'Seest', work: 'R3'},
+instances: 1, word: 'Seigniory', work: 'R3'},
+instances: 1, word: 'Seize', work: 'R3'},
+instances: 1, word: 'Seized', work: 'R3'},
+instances: 1, word: 'Seizing', work: 'R3'},
+instances: 1, word: 'Self-misused', work: 'R3'},
+instances: 1, word: 'Self\'s', work: 'R3'},
+instances: 1, word: 'Selves', work: 'R3'},
+instances: 1, word: 'Semblance', work: 'R3'},
+instances: 1, word: 'Senseless', work: 'R3'},
+instances: 1, word: 'Sentence', work: 'R3'},
+instances: 1, word: 'Sentinels', work: 'R3'},
+instances: 1, word: 'Separated', work: 'R3'},
+instances: 1, word: 'Servant', work: 'R3'},
+instances: 1, word: 'Servant-maid', work: 'R3'},
+instances: 1, word: 'Servants', work: 'R3'},
+instances: 1, word: 'Servant\'s', work: 'R3'},
+instances: 1, word: 'Served', work: 'R3'},
+instances: 1, word: 'Serves', work: 'R3'},
+instances: 1, word: 'Servitor', work: 'R3'},
+instances: 1, word: 'Sets', work: 'R3'},
+instances: 1, word: 'Seven', work: 'R3'},
+instances: 1, word: 'Shaa', work: 'R3'},
+instances: 1, word: 'Shamed', work: 'R3'},
+instances: 1, word: 'Shamefaced', work: 'R3'},
+instances: 1, word: 'Shameful', work: 'R3'},
+instances: 1, word: 'Shamefully', work: 'R3'},
+instances: 1, word: 'Shaped', work: 'R3'},
+instances: 1, word: 'Share', work: 'R3'},
+instances: 1, word: 'Sharing', work: 'R3'},
+instances: 1, word: 'Sharp-pointed', work: 'R3'},
+instances: 1, word: 'Sharp-provided', work: 'R3'},
+instances: 1, word: 'Sheltered', work: 'R3'},
+instances: 1, word: 'Shield', work: 'R3'},
+instances: 1, word: 'Shining', work: 'R3'},
+instances: 1, word: 'Ships', work: 'R3'},
+instances: 1, word: 'Shock', work: 'R3'},
+instances: 1, word: 'Shook', work: 'R3'},
+instances: 1, word: 'Shores', work: 'R3'},
+instances: 1, word: 'Shot', work: 'R3'},
+instances: 1, word: 'Shouldered', work: 'R3'},
+instances: 1, word: 'Shouldst', work: 'R3'},
+instances: 1, word: 'Shout', work: 'R3'},
+instances: 1, word: 'Shown', work: 'R3'},
+instances: 1, word: 'Shows', work: 'R3'},
+instances: 1, word: 'Shrewd', work: 'R3'},
+instances: 1, word: 'Shrieked', work: 'R3'},
+instances: 1, word: 'Shrift', work: 'R3'},
+instances: 1, word: 'Shrink', work: 'R3'},
+instances: 1, word: 'Shriving', work: 'R3'},
+instances: 1, word: 'Shrouded', work: 'R3'},
+instances: 1, word: 'Shun', work: 'R3'},
+instances: 1, word: 'Shuns', work: 'R3'},
+instances: 1, word: 'Signified', work: 'R3'},
+instances: 1, word: 'Silken', work: 'R3'},
+instances: 1, word: 'Sinfully', work: 'R3'},
+instances: 1, word: 'Sing\'st', work: 'R3'},
+instances: 1, word: 'Sink', work: 'R3'},
+instances: 1, word: 'Sire', work: 'R3'},
+instances: 1, word: 'Sirrah', work: 'R3'},
+instances: 1, word: 'Sits', work: 'R3'},
+instances: 1, word: 'Skulls', work: 'R3'},
+instances: 1, word: 'Slack', work: 'R3'},
+instances: 1, word: 'Slanders', work: 'R3'},
+instances: 1, word: 'Sland\'rous', work: 'R3'},
+instances: 1, word: 'Slaughters', work: 'R3'},
+instances: 1, word: 'Sleeper', work: 'R3'},
+instances: 1, word: 'Sleeps', work: 'R3'},
+instances: 1, word: 'Sleepy', work: 'R3'},
+instances: 1, word: 'Sleep\'s', work: 'R3'},
+instances: 1, word: 'Slightly', work: 'R3'},
+instances: 1, word: 'Slimy', work: 'R3'},
+instances: 1, word: 'Slip', work: 'R3'},
+instances: 1, word: 'Slow', work: 'R3'},
+instances: 1, word: 'Slower', work: 'R3'},
+instances: 1, word: 'Slug', work: 'R3'},
+instances: 1, word: 'Sluggard', work: 'R3'},
+instances: 1, word: 'Slumber', work: 'R3'},
+instances: 1, word: 'Slumbers', work: 'R3'},
+instances: 1, word: 'Slyly', work: 'R3'},
+instances: 1, word: 'Smiled', work: 'R3'},
+instances: 1, word: 'Smiles', work: 'R3'},
+instances: 1, word: 'Smiling', work: 'R3'},
+instances: 1, word: 'Smoking', work: 'R3'},
+instances: 1, word: 'Smooth-faced', work: 'R3'},
+instances: 1, word: 'Smoothed', work: 'R3'},
+instances: 1, word: 'Smoothing', work: 'R3'},
+instances: 1, word: 'Smother', work: 'R3'},
+instances: 1, word: 'Smotherèd', work: 'R3'},
+instances: 1, word: 'Snail-paced', work: 'R3'},
+instances: 1, word: 'Snarling', work: 'R3'},
+instances: 1, word: 'Snatched', work: 'R3'},
+instances: 1, word: 'So-long-sundered', work: 'R3'},
+instances: 1, word: 'Sob', work: 'R3'},
+instances: 1, word: 'Sobs', work: 'R3'},
+instances: 1, word: 'Society', work: 'R3'},
+instances: 1, word: 'Soil', work: 'R3'},
+instances: 1, word: 'Sojourn', work: 'R3'},
+instances: 1, word: 'Solace', work: 'R3'},
+instances: 1, word: 'Sold', work: 'R3'},
+instances: 1, word: 'Sole', work: 'R3'},
+instances: 1, word: 'Solemnly', work: 'R3'},
+instances: 1, word: 'Solicit', work: 'R3'},
+instances: 1, word: 'Someone', work: 'R3'},
+instances: 1, word: 'Sometime', work: 'R3'},
+instances: 1, word: 'Sometimes', work: 'R3'},
+instances: 1, word: 'Songs', work: 'R3'},
+instances: 1, word: 'Soonest', work: 'R3'},
+instances: 1, word: 'Soothe', work: 'R3'},
+instances: 1, word: 'Sop', work: 'R3'},
+instances: 1, word: 'Sore', work: 'R3'},
+instances: 1, word: 'Sorrows\'', work: 'R3'},
+instances: 1, word: 'Sorrow\'s', work: 'R3'},
+instances: 1, word: 'Sorry', work: 'R3'},
+instances: 1, word: 'Soundly', work: 'R3'},
+instances: 1, word: 'Sounds', work: 'R3'},
+instances: 1, word: 'Sour', work: 'R3'},
+instances: 1, word: 'South', work: 'R3'},
+instances: 1, word: 'Sovereign\'s', work: 'R3'},
+instances: 1, word: 'Spacious', work: 'R3'},
+instances: 1, word: 'Sparing', work: 'R3'},
+instances: 1, word: 'Sparingly', work: 'R3'},
+instances: 1, word: 'Speaking', work: 'R3'},
+instances: 1, word: 'Speeds', work: 'R3'},
+instances: 1, word: 'Speedy', work: 'R3'},
+instances: 1, word: 'Spend', work: 'R3'},
+instances: 1, word: 'Spicery', work: 'R3'},
+instances: 1, word: 'Spiders', work: 'R3'},
+instances: 1, word: 'Spilt', work: 'R3'},
+instances: 1, word: 'Spirits', work: 'R3'},
+instances: 1, word: 'Spit', work: 'R3'},
+instances: 1, word: 'Splintered', work: 'R3'},
+instances: 1, word: 'Spoil', work: 'R3'},
+instances: 1, word: 'Spoiled', work: 'R3'},
+instances: 1, word: 'Sportive', work: 'R3'},
+instances: 1, word: 'Spotted', work: 'R3'},
+instances: 1, word: 'Spring', work: 'R3'},
+instances: 1, word: 'Springs', work: 'R3'},
+instances: 1, word: 'Spur', work: 'R3'},
+instances: 1, word: 'Spy', work: 'R3'},
+instances: 1, word: 'Stabbed\'st', work: 'R3'},
+instances: 1, word: 'Stain', work: 'R3'},
+instances: 1, word: 'Stains', work: 'R3'},
+instances: 1, word: 'Stalk', work: 'R3'},
+instances: 1, word: 'Stalled', work: 'R3'},
+instances: 1, word: 'Stamp', work: 'R3'},
+instances: 1, word: 'Stamped', work: 'R3'},
+instances: 1, word: 'Standard', work: 'R3'},
+instances: 1, word: 'Standing', work: 'R3'},
+instances: 1, word: 'Stanley\'s', work: 'R3'},
+instances: 1, word: 'Star', work: 'R3'},
+instances: 1, word: 'Stared', work: 'R3'},
+instances: 1, word: 'Start', work: 'R3'},
+instances: 1, word: 'States', work: 'R3'},
+instances: 1, word: 'Statues', work: 'R3'},
+instances: 1, word: 'Stayed', work: 'R3'},
+instances: 1, word: 'Stays', work: 'R3'},
+instances: 1, word: 'Stay\'st', work: 'R3'},
+instances: 1, word: 'Stealing', work: 'R3'},
+instances: 1, word: 'Steeds', work: 'R3'},
+instances: 1, word: 'Steel', work: 'R3'},
+instances: 1, word: 'Steeled', work: 'R3'},
+instances: 1, word: 'Step', work: 'R3'},
+instances: 1, word: 'Steps', work: 'R3'},
+instances: 1, word: 'Steward', work: 'R3'},
+instances: 1, word: 'Still-lasting', work: 'R3'},
+instances: 1, word: 'Stirred', work: 'R3'},
+instances: 1, word: 'Stirring', work: 'R3'},
+instances: 1, word: 'Stol\'n', work: 'R3'},
+instances: 1, word: 'Stone', work: 'R3'},
+instances: 1, word: 'Stone-hard', work: 'R3'},
+instances: 1, word: 'Stony', work: 'R3'},
+instances: 1, word: 'Stops', work: 'R3'},
+instances: 1, word: 'Storm', work: 'R3'},
+instances: 1, word: 'Storms', work: 'R3'},
+instances: 1, word: 'Stormèd', work: 'R3'},
+instances: 1, word: 'Stout', work: 'R3'},
+instances: 1, word: 'Stragglers', work: 'R3'},
+instances: 1, word: 'Straitly', work: 'R3'},
+instances: 1, word: 'Stranger-soul', work: 'R3'},
+instances: 1, word: 'Strangling', work: 'R3'},
+instances: 1, word: 'Stratagems', work: 'R3'},
+instances: 1, word: 'Stratford', work: 'R3'},
+instances: 1, word: 'Straw', work: 'R3'},
+instances: 1, word: 'Streams', work: 'R3'},
+instances: 1, word: 'Stretched', work: 'R3'},
+instances: 1, word: 'Strew\'st', work: 'R3'},
+instances: 1, word: 'Strictly', work: 'R3'},
+instances: 1, word: 'Strifes', work: 'R3'},
+instances: 1, word: 'String', work: 'R3'},
+instances: 1, word: 'Stripling', work: 'R3'},
+instances: 1, word: 'Strokes', work: 'R3'},
+instances: 1, word: 'Strong-framed', work: 'R3'},
+instances: 1, word: 'Strut', work: 'R3'},
+instances: 1, word: 'Study', work: 'R3'},
+instances: 1, word: 'Stumble', work: 'R3'},
+instances: 1, word: 'Stumbled', work: 'R3'},
+instances: 1, word: 'Sty', work: 'R3'},
+instances: 1, word: 'Style', work: 'R3'},
+instances: 1, word: 'Submission', work: 'R3'},
+instances: 1, word: 'Suborn', work: 'R3'},
+instances: 1, word: 'Substance', work: 'R3'},
+instances: 1, word: 'Succeeding', work: 'R3'},
+instances: 1, word: 'Sugar', work: 'R3'},
+instances: 1, word: 'Sugared', work: 'R3'},
+instances: 1, word: 'Suggestion', work: 'R3'},
+instances: 1, word: 'Suitor', work: 'R3'},
+instances: 1, word: 'Suits', work: 'R3'},
+instances: 1, word: 'Sullen', work: 'R3'},
+instances: 1, word: 'Sum', work: 'R3'},
+instances: 1, word: 'Summers', work: 'R3'},
+instances: 1, word: 'Summon', work: 'R3'},
+instances: 1, word: 'Sunrising', work: 'R3'},
+instances: 1, word: 'Suppertime', work: 'R3'},
+instances: 1, word: 'Suppliant', work: 'R3'},
+instances: 1, word: 'Supposed', work: 'R3'},
+instances: 1, word: 'Supposest', work: 'R3'},
+instances: 1, word: 'Supposèd', work: 'R3'},
+instances: 1, word: 'Surfeit', work: 'R3'},
+instances: 1, word: 'Surmise', work: 'R3'},
+instances: 1, word: 'Survey', work: 'R3'},
+instances: 1, word: 'Swallow', work: 'R3'},
+instances: 1, word: 'Swallowing', work: 'R3'},
+instances: 1, word: 'Swallow\'s', work: 'R3'},
+instances: 1, word: 'Sweat', work: 'R3'},
+instances: 1, word: 'Sweating', work: 'R3'},
+instances: 1, word: 'Sweetest', work: 'R3'},
+instances: 1, word: 'Sweetly', work: 'R3'},
+instances: 1, word: 'Sweets', work: 'R3'},
+instances: 1, word: 'Swell', work: 'R3'},
+instances: 1, word: 'Swelling', work: 'R3'},
+instances: 1, word: 'Swift-wingèd', work: 'R3'},
+instances: 1, word: 'Swills', work: 'R3'},
+instances: 1, word: 'Swine', work: 'R3'},
+instances: 1, word: 'Swoon', work: 'R3'},
+instances: 1, word: 'Swore', work: 'R3'},
+instances: 1, word: 'Table', work: 'R3'},
+instances: 1, word: 'Tackling', work: 'R3'},
+instances: 1, word: 'Tailors', work: 'R3'},
+instances: 1, word: 'Taking', work: 'R3'},
+instances: 1, word: 'Tak\'st', work: 'R3'},
+instances: 1, word: 'Talbot', work: 'R3'},
+instances: 1, word: 'Talkers', work: 'R3'},
+instances: 1, word: 'Talking', work: 'R3'},
+instances: 1, word: 'Talk\'st', work: 'R3'},
+instances: 1, word: 'Tall', work: 'R3'},
+instances: 1, word: 'Tame', work: 'R3'},
+instances: 1, word: 'Tamworth', work: 'R3'},
+instances: 1, word: 'Taste', work: 'R3'},
+instances: 1, word: 'Taught', work: 'R3'},
+instances: 1, word: 'Taunt', work: 'R3'},
+instances: 1, word: 'Tear-falling', work: 'R3'},
+instances: 1, word: 'Teen', work: 'R3'},
+instances: 1, word: 'Teeth', work: 'R3'},
+instances: 1, word: 'Tells', work: 'R3'},
+instances: 1, word: 'Telltale', work: 'R3'},
+instances: 1, word: 'Tempers', work: 'R3'},
+instances: 1, word: 'Tenants', work: 'R3'},
+instances: 1, word: 'Tend', work: 'R3'},
+instances: 1, word: 'Tend\'ring', work: 'R3'},
+instances: 1, word: 'Tents', work: 'R3'},
+instances: 1, word: 'Terms', work: 'R3'},
+instances: 1, word: 'Termèd', work: 'R3'},
+instances: 1, word: 'Terrible', work: 'R3'},
+instances: 1, word: 'Testy', work: 'R3'},
+instances: 1, word: 'Tetchy', work: 'R3'},
+instances: 1, word: 'Thanked', work: 'R3'},
+instances: 1, word: 'Thereon', work: 'R3'},
+instances: 1, word: 'Thereupon', work: 'R3'},
+instances: 1, word: 'Thin', work: 'R3'},
+instances: 1, word: 'Thinkest', work: 'R3'},
+instances: 1, word: 'Third', work: 'R3'},
+instances: 1, word: 'Thoughts\'', work: 'R3'},
+instances: 1, word: 'Thrall', work: 'R3'},
+instances: 1, word: 'Thralldom', work: 'R3'},
+instances: 1, word: 'Threaten', work: 'R3'},
+instances: 1, word: 'Threefold', work: 'R3'},
+instances: 1, word: 'Thrice-renownèd', work: 'R3'},
+instances: 1, word: 'Thriving', work: 'R3'},
+instances: 1, word: 'Thronging', work: 'R3'},
+instances: 1, word: 'Thumped', work: 'R3'},
+instances: 1, word: 'Thunder', work: 'R3'},
+instances: 1, word: 'Tiger', work: 'R3'},
+instances: 1, word: 'Timeless', work: 'R3'},
+instances: 1, word: 'Timorous', work: 'R3'},
+instances: 1, word: 'Timorously', work: 'R3'},
+instances: 1, word: 'Tire', work: 'R3'},
+instances: 1, word: 'Toads', work: 'R3'},
+instances: 1, word: 'Toe', work: 'R3'},
+instances: 1, word: 'Toil', work: 'R3'},
+instances: 1, word: 'Tongueless', work: 'R3'},
+instances: 1, word: 'Tormenting', work: 'R3'},
+instances: 1, word: 'Torture', work: 'R3'},
+instances: 1, word: 'Tossed', work: 'R3'},
+instances: 1, word: 'Tott\'ring', work: 'R3'},
+instances: 1, word: 'Toucheth', work: 'R3'},
+instances: 1, word: 'Touching', work: 'R3'},
+instances: 1, word: 'Towns', work: 'R3'},
+instances: 1, word: 'Toy', work: 'R3'},
+instances: 1, word: 'Toys', work: 'R3'},
+instances: 1, word: 'Track', work: 'R3'},
+instances: 1, word: 'Tractable', work: 'R3'},
+instances: 1, word: 'Traditional', work: 'R3'},
+instances: 1, word: 'Tragedian', work: 'R3'},
+instances: 1, word: 'Tragedy', work: 'R3'},
+instances: 1, word: 'Tragic', work: 'R3'},
+instances: 1, word: 'Tragical', work: 'R3'},
+instances: 1, word: 'Trainèd', work: 'R3'},
+instances: 1, word: 'Transformed', work: 'R3'},
+instances: 1, word: 'Tread', work: 'R3'},
+instances: 1, word: 'Treasons', work: 'R3'},
+instances: 1, word: 'Treasure', work: 'R3'},
+instances: 1, word: 'Trebles', work: 'R3'},
+instances: 1, word: 'Tree', work: 'R3'},
+instances: 1, word: 'Trees', work: 'R3'},
+instances: 1, word: 'Trembles', work: 'R3'},
+instances: 1, word: 'Tressel', work: 'R3'},
+instances: 1, word: 'Trial', work: 'R3'},
+instances: 1, word: 'Tricks', work: 'R3'},
+instances: 1, word: 'Trifles', work: 'R3'},
+instances: 1, word: 'Triumphing', work: 'R3'},
+instances: 1, word: 'Trivial', work: 'R3'},
+instances: 1, word: 'Troth', work: 'R3'},
+instances: 1, word: 'Troubled', work: 'R3'},
+instances: 1, word: 'Troubler', work: 'R3'},
+instances: 1, word: 'Troubles', work: 'R3'},
+instances: 1, word: 'Troublest', work: 'R3'},
+instances: 1, word: 'Troublous', work: 'R3'},
+instances: 1, word: 'Trough', work: 'R3'},
+instances: 1, word: 'Trudge', work: 'R3'},
+instances: 1, word: 'True-derivèd', work: 'R3'},
+instances: 1, word: 'True-disposing', work: 'R3'},
+instances: 1, word: 'Truer', work: 'R3'},
+instances: 1, word: 'Trumpet', work: 'R3'},
+instances: 1, word: 'Trusted', work: 'R3'},
+instances: 1, word: 'Trusty', work: 'R3'},
+instances: 1, word: 'Try', work: 'R3'},
+instances: 1, word: 'Tumble', work: 'R3'},
+instances: 1, word: 'Tumbling', work: 'R3'},
+instances: 1, word: 'Turks', work: 'R3'},
+instances: 1, word: 'Turns', work: 'R3'},
+instances: 1, word: 'Twelve-month', work: 'R3'},
+instances: 1, word: 'Twice', work: 'R3'},
+instances: 1, word: 'Type', work: 'R3'},
+instances: 1, word: 'Tyrannous', work: 'R3'},
+instances: 1, word: 'Tyrants', work: 'R3'},
+instances: 1, word: 'T\'', work: 'R3'},
+instances: 1, word: 'Unadvisedly', work: 'R3'},
+instances: 1, word: 'Unarmed', work: 'R3'},
+instances: 1, word: 'Unblown', work: 'R3'},
+instances: 1, word: 'Uncertain', work: 'R3'},
+instances: 1, word: 'Uncharitably', work: 'R3'},
+instances: 1, word: 'Uncle\'s', work: 'R3'},
+instances: 1, word: 'Underhand', work: 'R3'},
+instances: 1, word: 'Underneath', work: 'R3'},
+instances: 1, word: 'Understand', work: 'R3'},
+instances: 1, word: 'Unexamined', work: 'R3'},
+instances: 1, word: 'Unfashionable', work: 'R3'},
+instances: 1, word: 'Unfeignedly', work: 'R3'},
+instances: 1, word: 'Unfelt', work: 'R3'},
+instances: 1, word: 'Unfinished', work: 'R3'},
+instances: 1, word: 'Ungracious', work: 'R3'},
+instances: 1, word: 'Ungrateful', work: 'R3'},
+instances: 1, word: 'Unhappiness', work: 'R3'},
+instances: 1, word: 'Unite', work: 'R3'},
+instances: 1, word: 'United', work: 'R3'},
+instances: 1, word: 'Unlawfully', work: 'R3'},
+instances: 1, word: 'Unlooked', work: 'R3'},
+instances: 1, word: 'Unmannered', work: 'R3'},
+instances: 1, word: 'Unmeritable', work: 'R3'},
+instances: 1, word: 'Unmindful', work: 'R3'},
+instances: 1, word: 'Unmoaned', work: 'R3'},
+instances: 1, word: 'Unpitied', work: 'R3'},
+instances: 1, word: 'Unpleasing', work: 'R3'},
+instances: 1, word: 'Unpossessed', work: 'R3'},
+instances: 1, word: 'Unprepared', work: 'R3'},
+instances: 1, word: 'Unprovided', work: 'R3'},
+instances: 1, word: 'Unresolved', work: 'R3'},
+instances: 1, word: 'Unrespective', work: 'R3'},
+instances: 1, word: 'Unrippedst', work: 'R3'},
+instances: 1, word: 'Unsatiate', work: 'R3'},
+instances: 1, word: 'Unscarred', work: 'R3'},
+instances: 1, word: 'Unsuspected', work: 'R3'},
+instances: 1, word: 'Unswayed', work: 'R3'},
+instances: 1, word: 'Unthankfulness', work: 'R3'},
+instances: 1, word: 'Untired', work: 'R3'},
+instances: 1, word: 'Untouched', work: 'R3'},
+instances: 1, word: 'Untroubled', work: 'R3'},
+instances: 1, word: 'Unvalued', work: 'R3'},
+instances: 1, word: 'Unwept', work: 'R3'},
+instances: 1, word: 'Unwilling', work: 'R3'},
+instances: 1, word: 'Unwise', work: 'R3'},
+instances: 1, word: 'Unwittingly', work: 'R3'},
+instances: 1, word: 'Unworthy', work: 'R3'},
+instances: 1, word: 'Upbraidings', work: 'R3'},
+instances: 1, word: 'Upper', work: 'R3'},
+instances: 1, word: 'Urging', work: 'R3'},
+instances: 1, word: 'Utmost', work: 'R3'},
+instances: 1, word: 'Vagabonds', work: 'R3'},
+instances: 1, word: 'Vail', work: 'R3'},
+instances: 1, word: 'Vanished', work: 'R3'},
+instances: 1, word: 'Vanity', work: 'R3'},
+instances: 1, word: 'Vapor', work: 'R3'},
+instances: 1, word: 'Vast', work: 'R3'},
+instances: 1, word: 'Vaunts', work: 'R3'},
+instances: 1, word: 'Vehement', work: 'R3'},
+instances: 1, word: 'Veil', work: 'R3'},
+instances: 1, word: 'Veins', work: 'R3'},
+instances: 1, word: 'Venomed', work: 'R3'},
+instances: 1, word: 'Venturous', work: 'R3'},
+instances: 1, word: 'Verdict', work: 'R3'},
+instances: 1, word: 'Verge', work: 'R3'},
+instances: 1, word: 'Vexation', work: 'R3'},
+instances: 1, word: 'Victoress', work: 'R3'},
+instances: 1, word: 'Victories', work: 'R3'},
+instances: 1, word: 'Viewing', work: 'R3'},
+instances: 1, word: 'Village', work: 'R3'},
+instances: 1, word: 'Villain-slave', work: 'R3'},
+instances: 1, word: 'Villainy', work: 'R3'},
+instances: 1, word: 'Villain\'s', work: 'R3'},
+instances: 1, word: 'Vines', work: 'R3'},
+instances: 1, word: 'Visitation', work: 'R3'},
+instances: 1, word: 'Visiting', work: 'R3'},
+instances: 1, word: 'Visor', work: 'R3'},
+instances: 1, word: 'Voices', work: 'R3'},
+instances: 1, word: 'Vomits', work: 'R3'},
+instances: 1, word: 'Vows', work: 'R3'},
+instances: 1, word: 'Wagging', work: 'R3'},
+instances: 1, word: 'Wailing', work: 'R3'},
+instances: 1, word: 'Wails', work: 'R3'},
+instances: 1, word: 'Waiting', work: 'R3'},
+instances: 1, word: 'Waits', work: 'R3'},
+instances: 1, word: 'Waked', work: 'R3'},
+instances: 1, word: 'Waken', work: 'R3'},
+instances: 1, word: 'Waking', work: 'R3'},
+instances: 1, word: 'Walk', work: 'R3'},
+instances: 1, word: 'Wandered', work: 'R3'},
+instances: 1, word: 'Wandering', work: 'R3'},
+instances: 1, word: 'Waning', work: 'R3'},
+instances: 1, word: 'Wanteth', work: 'R3'},
+instances: 1, word: 'Wants', work: 'R3'},
+instances: 1, word: 'Ward', work: 'R3'},
+instances: 1, word: 'Warm', work: 'R3'},
+instances: 1, word: 'Warned', work: 'R3'},
+instances: 1, word: 'Warwick\'s', work: 'R3'},
+instances: 1, word: 'Water', work: 'R3'},
+instances: 1, word: 'Watery', work: 'R3'},
+instances: 1, word: 'Weakness', work: 'R3'},
+instances: 1, word: 'Weapon', work: 'R3'},
+instances: 1, word: 'Wearisome', work: 'R3'},
+instances: 1, word: 'Wear\'st', work: 'R3'},
+instances: 1, word: 'Web', work: 'R3'},
+instances: 1, word: 'Wedd\'st', work: 'R3'},
+instances: 1, word: 'Wedges', work: 'R3'},
+instances: 1, word: 'Weeder-out', work: 'R3'},
+instances: 1, word: 'Week', work: 'R3'},
+instances: 1, word: 'Weeps', work: 'R3'},
+instances: 1, word: 'Weight', work: 'R3'},
+instances: 1, word: 'Weightier', work: 'R3'},
+instances: 1, word: 'Weighty', work: 'R3'},
+instances: 1, word: 'Welcomer', work: 'R3'},
+instances: 1, word: 'Welkin', work: 'R3'},
+instances: 1, word: 'Well-advisèd', work: 'R3'},
+instances: 1, word: 'Well-learnèd', work: 'R3'},
+instances: 1, word: 'Well-skilled', work: 'R3'},
+instances: 1, word: 'Welshman', work: 'R3'},
+instances: 1, word: 'Welshmen', work: 'R3'},
+instances: 1, word: 'Wench', work: 'R3'},
+instances: 1, word: 'Wert', work: 'R3'},
+instances: 1, word: 'West', work: 'R3'},
+instances: 1, word: 'Westminster', work: 'R3'},
+instances: 1, word: 'Whatsoe\'er', work: 'R3'},
+instances: 1, word: 'Whence', work: 'R3'},
+instances: 1, word: 'Whenever', work: 'R3'},
+instances: 1, word: 'Where\'s', work: 'R3'},
+instances: 1, word: 'Whet', work: 'R3'},
+instances: 1, word: 'Whetted', work: 'R3'},
+instances: 1, word: 'Whet\'st', work: 'R3'},
+instances: 1, word: 'Whilst', work: 'R3'},
+instances: 1, word: 'Whip', work: 'R3'},
+instances: 1, word: 'Whirled', work: 'R3'},
+instances: 1, word: 'Whisper', work: 'R3'},
+instances: 1, word: 'Whit', work: 'R3'},
+instances: 1, word: 'White-livered', work: 'R3'},
+instances: 1, word: 'Whitefriars', work: 'R3'},
+instances: 1, word: 'Whoever', work: 'R3'},
+instances: 1, word: 'Whosoe\'er', work: 'R3'},
+instances: 1, word: 'Wide', work: 'R3'},
+instances: 1, word: 'Widow-dolor', work: 'R3'},
+instances: 1, word: 'Willful', work: 'R3'},
+instances: 1, word: 'Willing', work: 'R3'},
+instances: 1, word: 'Windy', work: 'R3'},
+instances: 1, word: 'Wing', work: 'R3'},
+instances: 1, word: 'Wipe', work: 'R3'},
+instances: 1, word: 'Wisdoms', work: 'R3'},
+instances: 1, word: 'Wither', work: 'R3'},
+instances: 1, word: 'Withheld', work: 'R3'},
+instances: 1, word: 'Wits', work: 'R3'},
+instances: 1, word: 'Witty', work: 'R3'},
+instances: 1, word: 'Wizard', work: 'R3'},
+instances: 1, word: 'Woe-wearied', work: 'R3'},
+instances: 1, word: 'Woe\'s', work: 'R3'},
+instances: 1, word: 'Wolf', work: 'R3'},
+instances: 1, word: 'Wolves', work: 'R3'},
+instances: 1, word: 'Womanish', work: 'R3'},
+instances: 1, word: 'Woman\'s', work: 'R3'},
+instances: 1, word: 'Wonder', work: 'R3'},
+instances: 1, word: 'Wooer', work: 'R3'},
+instances: 1, word: 'Wooer\'s', work: 'R3'},
+instances: 1, word: 'Worm', work: 'R3'},
+instances: 1, word: 'Worms', work: 'R3'},
+instances: 1, word: 'Worry', work: 'R3'},
+instances: 1, word: 'Worser', work: 'R3'},
+instances: 1, word: 'Worshipful', work: 'R3'},
+instances: 1, word: 'Worshipfully', work: 'R3'},
+instances: 1, word: 'Worst', work: 'R3'},
+instances: 1, word: 'Wrack', work: 'R3'},
+instances: 1, word: 'Wracked', work: 'R3'},
+instances: 1, word: 'Wracks', work: 'R3'},
+instances: 1, word: 'Wreaths', work: 'R3'},
+instances: 1, word: 'Wrens', work: 'R3'},
+instances: 1, word: 'Wretched\'st', work: 'R3'},
+instances: 1, word: 'Wretches', work: 'R3'},
+instances: 1, word: 'Wring', work: 'R3'},
+instances: 1, word: 'Writ', work: 'R3'},
+instances: 1, word: 'Wrong-incensèd', work: 'R3'},
+instances: 1, word: 'Yeomen', work: 'R3'},
+instances: 1, word: 'Yesternight', work: 'R3'},
+instances: 1, word: 'Yon', work: 'R3'},
+instances: 1, word: 'Yonder', work: 'R3'},
+instances: 1, word: 'Yorkshire', work: 'R3'},
+instances: 1, word: 'Youngest', work: 'R3'},
+instances: 1, word: 'You\'ll', work: 'R3'},
+instances: 1, word: 'Zealous', work: 'R3'},
+instances: 1, word: '\'r', work: 'R3'},
+instances: 1, word: '\'tween', work: 'R3'},

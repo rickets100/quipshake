@@ -1,4238 +1,4236 @@
-Concordance of Troilus and Cressida:
-
-792: The
-733: And
-533: To
-502: I
-496: Of
-447: A
-439: You
-370: In
-335: Is
-316: My
-315: Not
-307: That
-239: As
-235: He
-227: His
-204: With
-199: But
-192: Be
-188: It
-187: Me
-181: Him
-180: For
-178: What
-168: This
-151: Have
-149: Will
-148: Thou
-145: Do
-143: So
-139: All
-131: No
-128: Shall
-125: Your
-115: Her
-113: Lord
-112: Our
-107: Now
-104: Are
-104: By
-102: Hector
-100: Thy
-97: On
-97: We
-94: Come
-94: If
-92: Than
-92: There
-90: Thee
-88: O
-88: Or
-85: How
-82: I’ll
-81: Troilus
-80: At
-79: Here
-78: From
-78: Good
-78: More
-78: They
-77: Go
-77: She
-75: Let
-75: Would
-73: Man
-72: Achilles
-71: An
-68: When
-67: Love
-63: Great
-63: Why
-62: Then
-60: Hath
-60: Like
-59: Troy
-58: Well
-57: Tell
-57: Their
-54: One
-54: Sweet
-54: Us
-54: Were
-53: Must
-52: Ajax
-51: Say
-51: ’tis
-50: See
-49: Give
-49: Should
-49: Such
-49: Upon
-49: Was
-48: Fair
-48: Know
-46: Too
-46: Yet
-44: Out
-43: May
-43: Them
-43: Which
-39: Heart
-39: Make
-39: Speak
-39: Who
-38: Much
-38: Nor
-37: Am
-37: Doth
-35: Ay
-35: Sir
-34: Most
-34: Th’
-34: True
-33: Cressid
-33: Eyes
-32: Take
-32: Up
-31: Diomed
-31: Paris
-31: Where
-30: Had
-30: These
-28: Art
-28: Blood
-28: Hand
-28: Think
-28: Trojan
-28: ’t
-27: Can
-27: Comes
-27: Helen
-27: Himself
-27: Lady
-27: Look
-27: Stand
-27: Thus
-26: Call
-26: Fool
-26: Honor
-26: Whose
-25: Agamemnon
-25: Fight
-25: Gods
-25: Many
-25: Matter
-25: Nay
-25: Thersites
-25: Time
-25: What’s
-24: Again
-24: Faith
-24: Night
-24: Own
-24: Tent
-23: Better
-23: Did
-23: Done
-23: Nothing
-23: Patroclus
-22: Brother
-22: Queen
-22: Some
-22: Still
-22: Wit
-21: Bring
-21: General
-21: Greek
-21: Ha
-21: Hear
-21: Itself
-21: Other
-20: Full
-20: Grecian
-20: Greeks
-20: Hector’s
-20: Life
-20: Prince
-20: Those
-20: Very
-20: Welcome
-20: Word
-19: Aeneas
-19: Cannot
-19: Cry
-19: Down
-19: Every
-19: Men
-19: That’s
-19: There’s
-19: Truth
-19: Without
-18: Any
-18: Both
-18: Could
-18: Day
-18: Dear
-18: Even
-18: Eye
-18: Fear
-18: Field
-18: Leave
-18: Pride
-18: Sword
-18: Till
-18: Today
-18: Worth
-17: Has
-17: Mine
-17: Never
-17: Peace
-17: Praise
-17: Proud
-17: Ulysses
-16: Another
-16: Answer
-16: Bear
-16: Before
-16: Each
-16: False
-16: Hold
-16: Into
-16: Kiss
-16: Part
-16: Soul
-16: Valiant
-16: Way
-16: Words
-15: Death
-15: Else
-15: Hark
-15: Head
-15: Hot
-15: I’
-15: Keep
-15: Knows
-15: Makes
-15: Meet
-15: Name
-15: Nestor
-15: Pandarus
-15: Reason
-15: Strong
-15: Thing
-15: Tomorrow
-15: Two
-15: War
-14: Brave
-14: Cousin
-14: Fall
-14: Farewell
-14: First
-14: Half
-14: Nature
-14: None
-14: Pray
-14: Purpose
-14: Though
-14: Thought
-14: Uncle
-13: Arms
-13: Beauty
-13: Breath
-13: Deeds
-13: Father
-13: Gone
-13: Heavens
-13: Lies
-13: Little
-13: Made
-13: Old
-13: Place
-13: Poor
-13: Thoughts
-13: Trumpet
-13: Voice
-13: World
-13: Yonder
-12: After
-12: Being
-12: Greece
-12: Ho
-12: Might
-12: Mind
-12: Off
-12: Once
-12: Play
-12: Question
-12: Said
-12: Show
-12: Sun
-12: Young
-11: Antenor
-11: Bed
-11: Been
-11: Earth
-11: Ere
-11: Ever
-11: Find
-11: Hair
-11: He’s
-11: Jove
-11: Morrow
-11: Niece
-11: O’er
-11: Priam
-11: Princes
-11: Right
-11: Set
-11: Together
-11: We’ll
-11: Whom
-10: Back
-10: Beat
-10: Between
-10: Desire
-10: Enough
-10: Friend
-10: Goes
-10: Heaven
-10: Hither
-10: Home
-10: Lie
-10: Noble
-10: Opinion
-10: Says
-10: Shame
-10: Sleeve
-10: Son
-10: Stay
-10: Strike
-10: Things
-10: Through
-10: Use
-10: Whore
-10: Yea
-10: Youth
-9: Action
-9: Alas
-9: Argument
-9: Away
-9: Bastard
-9: Behold
-9: Beseech
-9: Brain
-9: Called
-9: Cause
-9: Does
-9: Fly
-9: Gentle
-9: Greekish
-9: Here’s
-9: He’ll
-9: Horse
-9: Ilium
-9: Keeps
-9: Less
-9: Live
-9: Pardon
-9: Patience
-9: Seen
-9: Sense
-9: She’s
-9: Sick
-9: State
-9: Strange
-9: Therefore
-9: Trojans
-9: Turn
-9: White
-9: Whole
-9: Wind
-8: About
-8: Above
-8: Against
-8: Amen
-8: Bid
-8: Break
-8: Came
-8: Care
-8: Chance
-8: Cressida
-8: Devil
-8: Die
-8: Dost
-8: Draw
-8: Ears
-8: Fame
-8: Forth
-8: Hast
-8: Helenus
-8: Holds
-8: Hour
-8: Indeed
-8: Lips
-8: Long
-8: Looks
-8: Lose
-8: Loves
-8: Mars
-8: Match
-8: Morning
-8: O’
-8: Past
-8: Prithee
-8: Prove
-8: Rather
-8: Same
-8: Service
-8: Spirit
-8: Sworn
-8: Tents
-8: Thousand
-8: Tongue
-8: Walk
-8: Where’s
-8: Who’s
-8: Yourself
-8: You’ll
-7: Ah
-7: Air
-7: Anon
-7: Because
-7: Begin
-7: Believe
-7: Cheek
-7: Chin
-7: Command
-7: Courage
-7: Cur
-7: Dare
-7: Dead
-7: Degree
-7: Dog
-7: End
-7: Fellow
-7: Fie
-7: Folly
-7: Fortune
-7: High
-7: Hurt
-7: Lay
-7: Lechery
-7: Loud
-7: Mad
-7: Menelaus
-7: Music
-7: Myself
-7: Parts
-7: Plague
-7: Please
-7: Pretty
-7: Priam’s
-7: Ready
-7: Seek
-7: Since
-7: Sinews
-7: Sing
-7: Sister
-7: Slain
-7: Sure
-7: Swear
-7: Talk
-7: Taste
-7: Tears
-7: Thanks
-7: Valor
-7: Vows
-7: Whereof
-7: Wife
-7: Wise
-7: Worthy
-7: Wrong
-7: ’twere
-6: Act
-6: Angry
-6: Armed
-6: Ass
-6: Bad
-6: Battle
-6: Body
-6: Business
-6: Charge
-6: Company
-6: Consent
-6: Cries
-6: Defend
-6: Envy
-6: Face
-6: Fears
-6: Force
-6: Free
-6: Get
-6: Goodly
-6: Greatness
-6: Guard
-6: Hecuba
-6: Honey
-6: Host
-6: Ill
-6: Joint
-6: Judgment
-6: Kill
-6: Kin
-6: King
-6: Knew
-6: Knight
-6: Large
-6: Laughed
-6: Lost
-6: Loved
-6: Man’s
-6: Master
-6: Merit
-6: Mock
-6: Next
-6: Ne’er
-6: Others
-6: Pass
-6: Person
-6: Pleasure
-6: Power
-6: Present
-6: Put
-6: Quarrel
-6: Reasons
-6: Rich
-6: Saw
-6: Seem
-6: Shalt
-6: Soft
-6: Sound
-6: Steel
-6: Straight
-6: Swords
-6: Tarry
-6: Themselves
-6: Three
-6: Tonight
-6: Unarm
-6: Under
-6: Unless
-6: Virtue
-6: Wars
-6: Weep
-6: Within
-6: ’twixt
-5: Achilles’
-5: Agamemnon’s
-5: Alone
-5: Among
-5: Anything
-5: Applause
-5: Bade
-5: Best
-5: Birth
-5: Blow
-5: Brown
-5: Buy
-5: Canst
-5: Catch
-5: Challenge
-5: Cold
-5: Coward
-5: Crowns
-5: Cupid
-5: Curse
-5: Daughter
-5: Deep
-5: Deliver
-5: Discourse
-5: Early
-5: Eat
-5: Embrace
-5: Excuse
-5: Fairly
-5: Far
-5: Fashion
-5: Fast
-5: Fate
-5: Fire
-5: Forgot
-5: Form
-5: Gallant
-5: Gives
-5: Glory
-5: Grace
-5: Grecians
-5: Grown
-5: Guide
-5: Hard
-5: Haste
-5: Heat
-5: Helm
-5: Hence
-5: Hide
-5: Hope
-5: Instance
-5: Jupiter
-5: Kind
-5: Kings
-5: Knees
-5: Known
-5: Learn
-5: Lo
-5: Loss
-5: Mark
-5: Mean
-5: Means
-5: Mistress
-5: Needs
-5: Odd
-5: Oft
-5: Ours
-5: Pale
-5: Particular
-5: Policy
-5: Proof
-5: Puts
-5: Quoth
-5: Rank
-5: Rest
-5: Rude
-5: Sent
-5: Sleep
-5: Something
-5: Sons
-5: Soon
-5: Sooner
-5: Sport
-5: Stands
-5: Strength
-5: Swift
-5: Takes
-5: Thyself
-5: Told
-5: Troth
-5: Twain
-5: Unarmed
-5: View
-5: Virtues
-5: Walls
-5: Wear
-5: Went
-5: Whoreson
-5: Wilt
-5: Wings
-5: Woman
-5: Wound
-5: Wounds
-5: Yes
-5: ’s
-5: ’twas
-4: Adieu
-4: Almost
-4: Already
-4: Appetite
-4: Arm
-4: Aught
-4: Base
-4: Bids
-4: Bone
-4: Bones
-4: Borne
-4: Boy
-4: Bright
-4: Calchas
-4: Carry
-4: Cassandra
-4: Change
-4: Commands
-4: Commend
-4: Confess
-4: Course
-4: Courtesy
-4: Crack
-4: Cuckold
-4: Cunning
-4: Cut
-4: Danger
-4: Days
-4: Deadly
-4: Dreadful
-4: Drop
-4: Dry
-4: Due
-4: Ear
-4: Eats
-4: Effect
-4: Either
-4: Emulation
-4: Emulous
-4: Enemy
-4: Enter
-4: Entreat
-4: Everything
-4: Fairer
-4: Fault
-4: Favor
-4: Feast
-4: Firm
-4: Foh
-4: Follow
-4: Follows
-4: Foolish
-4: Fools
-4: Foot
-4: Forbid
-4: Found
-4: Fresh
-4: Friends
-4: Gall
-4: Gates
-4: Gave
-4: Given
-4: Glorious
-4: Glove
-4: God
-4: Grief
-4: Grow
-4: Hairs
-4: Hands
-4: Helen’s
-4: Help
-4: Higher
-4: Ignorance
-4: Infinite
-4: Letter
-4: Let’s
-4: Light
-4: Loo
-4: Lords
-4: Love’s
-4: Making
-4: Marry
-4: Marvel
-4: Mass
-4: Meddle
-4: Meets
-4: Menelaus’
-4: Mercy
-4: Mere
-4: Mighty
-4: Minds
-4: Mother
-4: Moved
-4: Neck
-4: Need
-4: Neither
-4: Note
-4: Oath
-4: Offend
-4: Only
-4: Open
-4: Opposed
-4: Ourselves
-4: Palm
-4: Pandar
-4: Passion
-4: Patient
-4: Pay
-4: Performance
-4: Praised
-4: Praises
-4: Proclamation
-4: Pursue
-4: Quite
-4: Regard
-4: Remember
-4: Request
-4: Rogue
-4: Run
-4: Scorn
-4: Send
-4: Serve
-4: Shape
-4: Shouldst
-4: Sides
-4: Slave
-4: Smiles
-4: Sort
-4: Speaking
-4: Speaks
-4: Speech
-4: Spent
-4: Spy
-4: Stays
-4: Stop
-4: Subject
-4: Success
-4: Surety
-4: Tame
-4: Tarried
-4: Ten
-4: Thank
-4: Theme
-4: Thence
-4: Thine
-4: Throw
-4: Token
-4: Touched
-4: Traitor
-4: Truce
-4: Varlet
-4: Vengeance
-4: Vice
-4: Villain
-4: Voluntary
-4: Vow
-4: Wanton
-4: Water
-4: Weight
-4: Wherefore
-4: Wherein
-4: While
-4: Win
-4: Wisdom
-4: Women
-4: Won
-4: Work
-4: Wouldst
-4: Yesterday
-4: Yours
-3: Add
-3: Addition
-3: Advantage
-3: Afield
-3: Along
-3: Aloud
-3: Although
-3: Amongst
-3: Amorous
-3: Ample
-3: Andromache
-3: Anger
-3: Another’s
-3: Answers
-3: Apollo
-3: Appear
-3: Arming
-3: Ask
-3: Aunt
-3: Awake
-3: Aye
-3: Backward
-3: Beard
-3: Become
-3: Beg
-3: Bent
-3: Bite
-3: Bitter
-3: Bleed
-3: Blind
-3: Bloody
-3: Blush
-3: Born
-3: Bottom
-3: Brief
-3: Broken
-3: Brother’s
-3: Brought
-3: Bull
-3: Burns
-3: Calchas’
-3: Calls
-3: Center
-3: Certain
-3: Chamber
-3: Cheeks
-3: Chivalry
-3: Choice
-3: Clear
-3: Combat
-3: Commends
-3: Common
-3: Comparison
-3: Complexion
-3: Conduct
-3: Core
-3: Cost
-3: Craft
-3: Cressid’s
-3: Crown
-3: Crows
-3: Cruel
-3: Dainty
-3: Dangerous
-3: Deed
-3: Deiphobus
-3: Depend
-3: Designs
-3: Desires
-3: Devils
-3: Digestion
-3: Divide
-3: Divine
-3: Door
-3: Doubt
-3: Drab
-3: Draws
-3: Dull
-3: Dwells
-3: Edge
-3: Egg
-3: Elephant
-3: Esteem
-3: Evil
-3: Excellent
-3: Execute
-3: Execution
-3: E’er
-3: Faction
-3: Fail
-3: Falling
-3: Falsehood
-3: Familiar
-3: Fare
-3: Father’s
-3: Feed
-3: Feel
-3: Fetch
-3: Fever
-3: Figure
-3: Fill
-3: Fine
-3: Fingers
-3: Flies
-3: Fool’s
-3: Footing
-3: Fortune’s
-3: Fountain
-3: Gilt
-3: Girl
-3: Glass
-3: Going
-3: Got
-3: Grant
-3: Greater
-3: Green
-3: Greet
-3: Grieve
-3: Grows
-3: Hall
-3: Harm
-3: Hate
-3: Having
-3: Health
-3: Heard
-3: Heavy
-3: Heels
-3: Hell
-3: Herself
-3: Hit
-3: Hollow
-3: Holy
-3: Horn
-3: House
-3: Humbly
-3: Inches
-3: Infancy
-3: Invite
-3: Issue
-3: It’s
-3: Joints
-3: Just
-3: Keeping
-3: Kisses
-3: Kissing
-3: Knights
-3: Knots
-3: Labor
-3: Last
-3: Late
-3: Laughing
-3: Legs
-3: Lest
-3: Lion
-3: Lip
-3: Livers
-3: Loose
-3: Lovers
-3: Madness
-3: March
-3: Melancholy
-3: Merry
-3: Mocking
-3: Moderate
-3: Monster
-3: Moral
-3: Mouth
-3: Move
-3: Myrmidons
-3: Naught
-3: Near
-3: News
-3: Numbers
-3: Obey
-3: Oblivion
-3: Office
-3: Often
-3: Ominous
-3: Oracle
-3: Order
-3: Other’s
-3: Ox
-3: Palate
-3: Patroclus’
-3: Pause
-3: Perchance
-3: Phrygian
-3: Piece
-3: Plain
-3: Planets
-3: Pluck
-3: Port
-3: Powers
-3: Presume
-3: Priest
-3: Prize
-3: Promise
-3: Prophet
-3: Rage
-3: Rail
-3: Read
-3: Receive
-3: Renew
-3: Resides
-3: Respect
-3: Retire
-3: Rouse
-3: Roused
-3: Rule
-3: Sacrifice
-3: Sake
-3: Salt
-3: Save
-3: Saying
-3: Scarce
-3: Scurvy
-3: Sea
-3: Second
-3: Sell
-3: Servant
-3: Sets
-3: Shake
-3: Sharp
-3: She’ll
-3: Shores
-3: Short
-3: Sigh
-3: Sight
-3: Silence
-3: Single
-3: Sit
-3: Small
-3: Smile
-3: Soldier
-3: Sooth
-3: Sore
-3: Souls
-3: Spirits
-3: Spur
-3: Stirring
-3: Stomach
-3: Strain
-3: Strangeness
-3: Struck
-3: Tail
-3: Talking
-3: Ta’en
-3: Tempt
-3: Tend
-3: Terms
-3: They’ll
-3: Thinks
-3: Thither
-3: Tide
-3: Took
-3: Touch
-3: Town
-3: Troilus’
-3: Trouble
-3: Truer
-3: Trust
-3: Turned
-3: Turns
-3: Tutor
-3: Understand
-3: Venus’
-3: Verse
-3: Vile
-3: Warrant
-3: Watch
-3: Weak
-3: Whilst
-3: Wide
-3: Wish
-3: Wished
-3: Withal
-3: Witness
-3: Woman’s
-3: Wonder
-3: Wooed
-3: World’s
-3: Worse
-3: Worst
-3: Yond
-3: ’mongst
-3: ’twill
-3: ’twould
-2: Abject
-2: Abominable
-2: Accident
-2: Achievements
-2: Aching
-2: Addle
-2: Address
-2: Admirable
-2: Admits
-2: Affairs
-2: Affected
-2: Affection
-2: Afterwards
-2: Age
-2: Alive
-2: Allowance
-2: Amazement
-2: Angels
-2: Answering
-2: Arithmetic
-2: Armor
-2: Army
-2: Armèd
-2: Arrogance
-2: Attest
-2: Authentic
-2: Author’s
-2: Baby
-2: Banks
-2: Bare
-2: Bark
-2: Batters
-2: Bay
-2: Beats
-2: Beggars
-2: Begins
-2: Behalf
-2: Behind
-2: Belly
-2: Beloved
-2: Below
-2: Bend
-2: Beshrew
-2: Besides
-2: Beyond
-2: Bias
-2: Blank
-2: Blench
-2: Bless
-2: Blest
-2: Blown
-2: Blows
-2: Boats
-2: Bode
-2: Boils
-2: Bold
-2: Bolting
-2: Bonds
-2: Bone-ache
-2: Book
-2: Boot
-2: Bosoms
-2: Bound
-2: Bowels
-2: Box
-2: Brains
-2: Bran
-2: Brass
-2: Bravely
-2: Breaks
-2: Breast
-2: Breed
-2: Brethren
-2: Brings
-2: Broad
-2: Broils
-2: Broke
-2: Bulk
-2: Burden
-2: Cake
-2: Calm
-2: Camel
-2: Captain
-2: Captive
-2: Cares
-2: Carries
-2: Case
-2: Cassandra’s
-2: Chafed
-2: Chaff
-2: Characters
-2: Charity
-2: Cheese
-2: Chest
-2: Chide
-2: Choose
-2: Chronicle
-2: Cities
-2: City
-2: Clamors
-2: Close
-2: Cloven
-2: Coldly
-2: Color
-2: Commander
-2: Commerce
-2: Commotion
-2: Comparisons
-2: Complete
-2: Composed
-2: Composure
-2: Condition
-2: Conditions
-2: Conduce
-2: Confession
-2: Conjure
-2: Constancy
-2: Constant
-2: Content
-2: Contention
-2: Convince
-2: Copper
-2: Couldst
-2: Counsel
-2: Count
-2: Countenance
-2: Country
-2: Courtiers
-2: Courtly
-2: Creep
-2: Crest
-2: Cried
-2: Cupid’s
-2: Custom
-2: Dangers
-2: Dardan
-2: Date
-2: Daughters
-2: Daws
-2: Deaf
-2: Deal
-2: Dearly
-2: Decline
-2: Declined
-2: Degrees
-2: Deject
-2: Demand
-2: Desert
-2: Desired
-2: Destiny
-2: Dignity
-2: Diomed’s
-2: Dirt
-2: Discredit
-2: Discretion
-2: Disdain
-2: Diseases
-2: Disgrace
-2: Dish
-2: Disposer
-2: Dispraise
-2: Dissembling
-2: Distaste
-2: Distinct
-2: Distinction
-2: Distraction
-2: Doing
-2: Doubtful
-2: Drawing
-2: Drawn
-2: Dread
-2: Dreaming
-2: Dreams
-2: Dreamt
-2: Dregs
-2: Drink
-2: Drops
-2: Drowsy
-2: Ducks
-2: Earnestly
-2: Ease
-2: Election
-2: Eminence
-2: Employed
-2: Empty
-2: Endeavor
-2: Engaged
-2: Engine
-2: Enterprise
-2: Envious
-2: Error
-2: Evasion
-2: Everywhere
-2: Exact
-2: Expectation
-2: Expected
-2: Exposed
-2: Extremity
-2: E’en
-2: Factions
-2: Factious
-2: Fain
-2: Faint
-2: Fall’n
-2: Famed
-2: Fan
-2: Fancy
-2: Fasting
-2: Fat
-2: Fed
-2: Fell
-2: Fellows
-2: Fetches
-2: Fields
-2: Fierce
-2: Finds
-2: Fineness
-2: Finger
-2: Fist
-2: Fits
-2: Fixed
-2: Flood
-2: Flower
-2: Forehead
-2: Forestall
-2: Forthwith
-2: Fought
-2: Frankly
-2: Friendship
-2: Frown
-2: Fry
-2: Fusty
-2: Gait
-2: Game
-2: Gear
-2: Generation
-2: Gentleman
-2: Gentleness
-2: Giant
-2: Gift
-2: Gifts
-2: Gild
-2: Goddess
-2: Godly
-2: Gold
-2: Gored
-2: Grain
-2: Grandsire
-2: Grasps
-2: Great-sized
-2: Greeting
-2: Grinding
-2: Groans
-2: Guardian
-2: Hacked
-2: Hacks
-2: Hang
-2: Hangs
-2: Hateful
-2: Haunt
-2: Hearts
-2: Heed
-2: Heel
-2: Height
-2: Held
-2: Hem
-2: Heroical
-2: Honors
-2: Hopes
-2: Horns
-2: Horse’s
-2: Hum
-2: Humorous
-2: Hunt
-2: Husband
-2: Idle
-2: Idol
-2: Imitation
-2: Imperial
-2: Important
-2: India
-2: Insolent
-2: Instantly
-2: Instructed
-2: Instruments
-2: Integrity
-2: Intent
-2: Issues
-2: Itch
-2: I’d
-2: Joys
-2: Juggling
-2: Justice
-2: Kindly
-2: Knave
-2: Knock
-2: Knocked
-2: Knower
-2: La
-2: Laboring
-2: Laugh
-2: Law
-2: Lazy
-2: Lead
-2: Leads
-2: Leavening
-2: Led
-2: Left
-2: Leg
-2: Leisure
-2: Lesser
-2: Lift
-2: Limb
-2: Limbs
-2: Lives
-2: Loathed
-2: Locked
-2: Looked
-2: Lott’ry
-2: Lover
-2: Loving
-2: Lungs
-2: Luster
-2: Magnanimous
-2: Maid
-2: Maids
-2: Main
-2: Maintain
-2: Male
-2: Malice
-2: Manhood
-2: Manner
-2: Mask
-2: Massy
-2: Meanest
-2: Measure
-2: Meeting
-2: Member
-2: Memorial
-2: Mental
-2: Men’s
-2: Merchant
-2: Merchants
-2: Mercury
-2: Merits
-2: Message
-2: Methinks
-2: Mirth
-2: Modest
-2: Mongrel
-2: Months
-2: Moon
-2: Mortal
-2: Mothers
-2: Names
-2: Naughty
-2: New
-2: Nine
-2: Nobody
-2: Nod
-2: Noise
-2: Nose
-2: Notes
-2: Object
-2: Observance
-2: Occasion
-2: One’s
-2: Oration
-2: Otherwise
-2: Ourself
-2: Owl
-2: Pace
-2: Pageant
-2: Pain
-2: Painted
-2: Palter
-2: Pandar’s
-2: Panders
-2: Parted
-2: Parting
-2: Passed
-2: Pearl
-2: Pen
-2: Perceive
-2: Perfection
-2: Petition
-2: Phrygia
-2: Phthisic
-2: Picture
-2: Pity
-2: Plagues
-2: Plains
-2: Pleased
-2: Pleases
-2: Pleasures
-2: Pledge
-2: Pluto
-2: Pluto’s
-2: Point
-2: Poised
-2: Possess
-2: Possessed
-2: Possible
-2: Pound
-2: Pour
-2: Prayer
-2: Precious
-2: Presence
-2: Presently
-2: Priamus
-2: Price
-2: Princely
-2: Prisoner
-2: Privacy
-2: Private
-2: Privileged
-2: Prized
-2: Proclaimed
-2: Procure
-2: Promised
-2: Proper
-2: Protest
-2: Prouder
-2: Proudly
-2: Provoked
-2: Pure
-2: Purity
-2: Purse
-2: Pursuit
-2: Quality
-2: Raging
-2: Rails
-2: Rascal
-2: Raven
-2: Reading
-2: Receives
-2: Red
-2: Rein
-2: Relish
-2: Remedy
-2: Render
-2: Reputation
-2: Revenge
-2: Revenue
-2: Reverend
-2: Revolt
-2: Richer
-2: Ride
-2: Rise
-2: Rive
-2: River
-2: Roaring
-2: Rob
-2: Round
-2: Royal
-2: Rudeness
-2: Ruin
-2: Safe
-2: Safe-conduct
-2: Sail
-2: Salute
-2: Savage
-2: Scene
-2: Schools
-2: Scorns
-2: Scraps
-2: Scruple
-2: Seal
-2: Seas
-2: Season
-2: Seeming
-2: Self
-2: Several
-2: Sex
-2: Shapes
-2: Share
-2: Shares
-2: Ships
-2: Shoulder
-2: Shows
-2: Shut
-2: Side
-2: Sighs
-2: Silent
-2: Silver
-2: Simplicity
-2: Sin
-2: Sink
-2: Sith
-2: Skill
-2: Skittish
-2: Slanders
-2: Sleeping
-2: Slept
-2: Slipped
-2: Slippery
-2: Slow
-2: Soil
-2: Soldiers
-2: Song
-2: Spacious
-2: Sparrow
-2: Speeches
-2: Speed
-2: Spleen
-2: Split
-2: Spoke
-2: Spout
-2: Stale
-2: Starting
-2: States
-2: Steed
-2: Step
-2: Stick
-2: Stol’n
-2: Stone
-2: Strained
-2: Strangely
-2: Strikest
-2: Stroke
-2: Strokes
-2: Stubborn
-2: Stuff
-2: Subtle
-2: Suck
-2: Suddenly
-2: Suff’rance
-2: Sum
-2: Superficially
-2: Supple
-2: Sups
-2: Swallowed
-2: Sway
-2: Swore
-2: Sympathize
-2: Table
-2: Taken
-2: Tale
-2: Tear
-2: Tell’st
-2: Tempered
-2: Tempts
-2: Thetis’
-2: They’re
-2: Thinking
-2: Tickles
-2: Tickling
-2: Times
-2: Torch
-2: Toward
-2: Trial
-2: Tricks
-2: Trim
-2: Truly
-2: Trumpets
-2: Truth’s
-2: Tune
-2: Tuned
-2: Two-and-fifty
-2: T’
-2: Undertakings
-2: Ungained
-2: Unity
-2: Universal
-2: Unworthy
-2: Valor’s
-2: Value
-2: Vein
-2: Veins
-2: Venus
-2: Vigor
-2: Vipers
-2: Virtuous
-2: Vowing
-2: Wake
-2: Ward
-2: Ware
-2: Warlike
-2: Warm
-2: Watches
-2: Ways
-2: Weakness
-2: Wears
-2: Weigh
-2: Wench
-2: Wert
-2: Whereupon
-2: Whether
-2: Whiles
-2: Wholly
-2: Wicked
-2: Winds
-2: Wisely
-2: Witch
-2: Withered
-2: Woe
-2: Wolf
-2: Woo
-2: Wrath
-2: Yield
-2: Youngest
-2: Youthful
-2: You’d
-2: Zeal
-2: ’fore
-2: ’gainst
-1: A-mending
-1: A-scorn
-1: A-work
-1: Abandoned
-1: Abashed
-1: Abhorred
-1: Abide
-1: Abilities
-1: Ability
-1: Able
-1: Abreast
-1: Abroad
-1: Abruption
-1: Absence
-1: Abundant
-1: Accent
-1: Accept
-1: Accepted
-1: Accord
-1: Accosting
-1: Ache
-1: Achievement
-1: Acquaintance
-1: Acquainted
-1: Acquired
-1: Actions
-1: Active
-1: Activity
-1: Actor’s
-1: Acts
-1: Adamant
-1: Added
-1: Adders
-1: Additions
-1: Admonishment
-1: Advanced
-1: Advantageous
-1: Adversity
-1: Advertised
-1: Advice
-1: Afeard
-1: Affair
-1: Affect
-1: Affectionately
-1: Affects
-1: Affined
-1: Affronted
-1: Afoot
-1: Aforesaid
-1: Afric
-1: After-dinner’s
-1: Agent
-1: Ague
-1: Aim
-1: Airy
-1: Ajax’
-1: Alacrity
-1: Alarm
-1: Albeit
-1: Alexander
-1: Alike
-1: Allayment
-1: Allege
-1: Allow
-1: All’s
-1: Almighty
-1: Almond
-1: Alms
-1: Altar
-1: Altars
-1: Altogether
-1: Amain
-1: Amazed
-1: Ambassador
-1: Ambition
-1: Amidst
-1: Amity
-1: Amphimachus
-1: Amply
-1: Anchises’
-1: Angle
-1: Annoyance
-1: Answered
-1: Answer’st
-1: Antenorides
-1: Anticipating
-1: Antics
-1: Antiquary
-1: Apollo’s
-1: Appallèd
-1: Appals
-1: Appertainments
-1: Appetites
-1: Apply
-1: Appointment
-1: Apprehend
-1: Apprehended
-1: Apprehensions
-1: Approach
-1: Approbation
-1: Approve
-1: April
-1: Apt
-1: Aquilon
-1: Arbitrator
-1: Arch
-1: Argus
-1: Ariachne’s
-1: Aristotle
-1: Armies
-1: Armorer
-1: Armors
-1: Artist
-1: Arts
-1: Ascribe
-1: Ashamed
-1: Aside
-1: Asinego
-1: Asking
-1: Aspiration
-1: Assault
-1: Asses
-1: Assubjugate
-1: Assume
-1: Assumes
-1: Assure
-1: Astronomers
-1: Athenian
-1: Athens
-1: Attached
-1: Attachment
-1: Attaint
-1: Attend
-1: Attending
-1: Attentive
-1: Attribute
-1: Attributes
-1: Attributive
-1: Author
-1: Authority
-1: Autumn
-1: Avoid
-1: Avouch
-1: Avow
-1: Aweary
-1: Awhile
-1: Axletree
-1: Bait
-1: Baked
-1: Baking
-1: Balm
-1: Bane
-1: Banqueting
-1: Barbarian
-1: Barbarism
-1: Barefoot
-1: Bargain
-1: Barks
-1: Bark’st
-1: Barren
-1: Basis
-1: Bastards
-1: Bastes
-1: Bauble
-1: Bawd
-1: Bawds
-1: Bawdy
-1: Beacon
-1: Beam
-1: Bearer
-1: Bears
-1: Beast
-1: Beastly
-1: Beasts
-1: Beaten
-1: Beauty’s
-1: Beaver
-1: Beck’ning
-1: Becomes
-1: Bed-work
-1: Bedmate
-1: Beds
-1: Beef-witted
-1: Befriended
-1: Befriends
-1: Beget
-1: Begets
-1: Beggar
-1: Beginning
-1: Begone
-1: Begot
-1: Beguiles
-1: Begun
-1: Beheld
-1: Beholders
-1: Beholding
-1: Beholds
-1: Belching
-1: Believed
-1: Bellied
-1: Bending
-1: Bends
-1: Beneath
-1: Benefit
-1: Benumbèd
-1: Bequeath
-1: Bereave
-1: Bereft
-1: Besotted
-1: Bestow
-1: Bestowed
-1: Bestowing
-1: Betimes
-1: Beware
-1: Bias-drawing
-1: Bifold
-1: Big
-1: Billing
-1: Biscuit
-1: Bitchwolf’s
-1: Bites
-1: Bits
-1: Blabbed
-1: Black
-1: Blackamoor
-1: Blackberry
-1: Blackness
-1: Bladders
-1: Blaze
-1: Blended
-1: Blockish
-1: Bloodied
-1: Bloodless
-1: Bloods
-1: Blowest
-1: Blue
-1: Blunt
-1: Blushed
-1: Blushing
-1: Boast
-1: Boasting
-1: Boat
-1: Bob
-1: Bobbed
-1: Bodements
-1: Boil
-1: Boldness
-1: Bolts
-1: Bond
-1: Boreas
-1: Borrowd’st
-1: Borrows
-1: Bosom
-1: Botch
-1: Botchy
-1: Bought
-1: Bounded
-1: Bounding
-1: Boundless
-1: Bounds
-1: Bounties
-1: Bounty
-1: Bourn
-1: Bow
-1: Bows
-1: Boy-queller
-1: Boys
-1: Brabbler
-1: Brace
-1: Brach
-1: Brag
-1: Bragless
-1: Brainless
-1: Brainsick
-1: Brawns
-1: Brazen
-1: Breach
-1: Breadth
-1: Breaking
-1: Breathing
-1: Breeds
-1: Breese
-1: Brevity
-1: Brew
-1: Briareus
-1: Bridegroom’s
-1: Brightness
-1: Broker
-1: Brokers-between
-1: Brotherhoods
-1: Brothers
-1: Bruised
-1: Bruit
-1: Brushes
-1: Buck
-1: Buckle
-1: Buckled
-1: Buckles
-1: Bugbear
-1: Build
-1: Building
-1: Built
-1: Bull-bearing
-1: Buried
-1: Burn
-1: Burning
-1: Burrs
-1: Buss
-1: Busy
-1: Butt
-1: Butterflies
-1: B’
-1: Caduceus
-1: Calf
-1: Calmed
-1: Calumniate
-1: Calumniating
-1: Camp
-1: Cancer
-1: Canonize
-1: Capable
-1: Capacity
-1: Capocchia
-1: Careless
-1: Carpenter
-1: Carriage
-1: Carrion
-1: Casque
-1: Cast
-1: Castle
-1: Cat
-1: Catarrhs
-1: Catlings
-1: Causeth
-1: Cedius
-1: Celerity
-1: Cerberus
-1: Ceremonious
-1: Certainly
-1: Cetera
-1: Chafe
-1: Chain
-1: Challenged
-1: Changed
-1: Changeful
-1: Changes
-1: Chaos
-1: Chapmen
-1: Characterless
-1: Charon
-1: Chaste
-1: Chastised
-1: Check
-1: Checks
-1: Cheer
-1: Cherubins
-1: Chetas
-1: Chickens
-1: Chid
-1: Chidden
-1: Chides
-1: Chiding
-1: Chiefest
-1: Children
-1: Chime
-1: Chipped
-1: Choking
-1: Churlish
-1: Circumstance
-1: Circumvention
-1: Cited
-1: Claim
-1: Clamor
-1: Clap
-1: Clapped
-1: Clapper-clawing
-1: Clasp
-1: Clearer
-1: Clef
-1: Climb
-1: Clock
-1: Clodpolls
-1: Closet
-1: Cloths
-1: Cloud
-1: Clouds
-1: Co-act
-1: Coals
-1: Cobloaf
-1: Cogging
-1: Cognition
-1: Coins
-1: Colder
-1: Colic
-1: Colossus-wise
-1: Combatant
-1: Combatants
-1: Comer
-1: Comfort
-1: Coming
-1: Commanded
-1: Commandment
-1: Commended
-1: Commission
-1: Commit
-1: Commixtion
-1: Commodious
-1: Communicate
-1: Communities
-1: Compare
-1: Compassed
-1: Complimental
-1: Compulsion
-1: Con
-1: Conceit
-1: Conception
-1: Conclude
-1: Concluded
-1: Concupy
-1: Concur
-1: Condemned
-1: Confidence
-1: Confident
-1: Confined
-1: Confines
-1: Confirm
-1: Conflux
-1: Confound
-1: Confounds
-1: Conjecture
-1: Conquering
-1: Consanguinity
-1: Conscience
-1: Consecrate
-1: Consigned
-1: Consisting
-1: Consort
-1: Conspire
-1: Constantly
-1: Constringed
-1: Consumed
-1: Contain
-1: Contaminated
-1: Contemplation
-1: Contend
-1: Contrive
-1: Conveniences
-1: Convive
-1: Convoy
-1: Cool
-1: Cooling
-1: Cope
-1: Coped
-1: Cormorant
-1: Correct
-1: Correction
-1: Corrects
-1: Corresponsive
-1: Corrivaled
-1: Corrupt
-1: Corrupted
-1: Corse
-1: Corses
-1: Costly
-1: Couched
-1: Cough
-1: Council
-1: Counsels
-1: Counterfeit
-1: Counters
-1: Countrywoman
-1: Couple
-1: Coupled
-1: Courses
-1: Courteous
-1: Courteously
-1: Cousin-german
-1: Cousin’s
-1: Covetous
-1: Cowardice
-1: Cradles
-1: Crafty
-1: Crammed
-1: Crams
-1: Craves
-1: Created
-1: Creator
-1: Creature
-1: Credence
-1: Crept
-1: Cressida’s
-1: Cressids
-1: Critics
-1: Croak
-1: Cropped
-1: Crowded
-1: Crowned
-1: Crownets
-1: Crush
-1: Crushed
-1: Crusty
-1: Crutch
-1: Crying
-1: Cuckold-maker
-1: Cuckolds
-1: Cudgeling
-1: Cull
-1: Cunningly
-1: Curb
-1: Curer
-1: Cures
-1: Curs
-1: Cursed
-1: Cursing
-1: Curtain
-1: Cutting
-1: Cygnet’s
-1: Daily
-1: Damage
-1: Dames
-1: Damnable
-1: Damned
-1: Daphnes
-1: Dares
-1: Dark
-1: Darker
-1: Dark’ning
-1: Daylight
-1: Day’s
-1: Dealing
-1: Dear’st
-1: Death-tokens
-1: Debonair
-1: Debt
-1: Debtor
-1: Debts
-1: Decays
-1: Deceive
-1: Deceived
-1: Deceptious
-1: Decision
-1: Decreed
-1: Dedicate
-1: Deedless
-1: Deem
-1: Deep-drawing
-1: Defects
-1: Defended
-1: Defense
-1: Defiance
-1: Degenerate
-1: Deities
-1: Delight
-1: Delights
-1: Delivered
-1: Delivery
-1: Demands
-1: Denied
-1: Denies
-1: Deny
-1: Depart
-1: Dependence
-1: Depending
-1: Depravation
-1: Deputation
-1: Deracinate
-1: Derision
-1: Derive
-1: Descent
-1: Describes
-1: Deserver
-1: Deserves
-1: Design
-1: Despised
-1: Despising
-1: Despiteful
-1: Destroy
-1: Destruction
-1: Destructions
-1: Determination
-1: Device
-1: Devise
-1: Devotion
-1: Devoured
-1: Devours
-1: Devout
-1: Dewdrop
-1: Dexter
-1: Dexterity
-1: Dialogue
-1: Diana’s
-1: Didst
-1: Dies
-1: Diest
-1: Difficulties
-1: Difficulty
-1: Digested
-1: Dignifies
-1: Dignities
-1: Dilated
-1: Diminutive
-1: Diminutives
-1: Dimpled
-1: Diomedes
-1: Diomedes’
-1: Dire
-1: Direct
-1: Direction
-1: Directive
-1: Directs
-1: Dirt-rotten
-1: Disarm
-1: Disasters
-1: Discharge
-1: Discharging
-1: Discipline
-1: Disciplined
-1: Discomfort
-1: Discord
-1: Discover
-1: Discovered
-1: Discoveries
-1: Disdained
-1: Disdainfully
-1: Disgorge
-1: Disguise
-1: Dishonor
-1: Dislike
-1: Dismes
-1: Disobedient
-1: Disorbed
-1: Disorder
-1: Displeasure
-1: Dispose
-1: Disposed
-1: Disposer’s
-1: Disposition
-1: Dissolved
-1: Distains
-1: Distasted
-1: Distempered
-1: Distilled
-1: Distracted
-1: Disunite
-1: Divert
-1: Diverts
-1: Dividable
-1: Divided
-1: Divides
-1: Divination
-1: Division
-1: Divulgèd
-1: Dizzy
-1: Doe
-1: Doff
-1: Dog-fox
-1: Dogged
-1: Dolor
-1: Dolts
-1: Doors
-1: Doreus
-1: Dotes
-1: Doting
-1: Double-horned
-1: Doubly
-1: Doves
-1: Draft-oxen
-1: Dragged
-1: Dragon
-1: Drained
-1: Draught
-1: Drave
-1: Drayman
-1: Dreg
-1: Dress
-1: Dressed
-1: Drift
-1: Drinks
-1: Dropped
-1: Dross
-1: Drowned
-1: Drums
-1: Drunk
-1: Dues
-1: Dumb
-1: Dumb-discursive
-1: Dumbness
-1: During
-1: Durst
-1: Dust
-1: Dusty
-1: Dutiful
-1: Duty
-1: Dwarf
-1: Dying
-1: Eagles
-1: Earnèd
-1: Earwax
-1: Eases
-1: Easily
-1: East
-1: Eastern
-1: Ebbs
-1: Edifies
-1: Effeminate
-1: Elbows
-1: Elder
-1: Elders
-1: Elected
-1: Elements
-1: Eleven
-1: Embassy
-1: Embracement
-1: Embraces
-1: Embrasures
-1: Empale
-1: Enchanting
-1: Enchants
-1: Encounterers
-1: Encounters
-1: Encount’ring
-1: Ended
-1: Endless
-1: Ends
-1: Enemy’s
-1: Enfreed
-1: Engaging
-1: Engendering
-1: Enginer
-1: Enjoy
-1: Enkindled
-1: Enlard
-1: Enlarge
-1: Enmity
-1: Enrage
-1: Enrapt
-1: Ensue
-1: Entered
-1: Entertained
-1: Entertaining
-1: Enthroned
-1: Entomb
-1: Entrance
-1: Entreaties
-1: Epistrophus
-1: Erect
-1: Err
-1: Errand
-1: Errant
-1: Errors
-1: Erudition
-1: Especially
-1: Esperance
-1: Espies
-1: Esteemed
-1: Esteems
-1: Estimate
-1: Estimation
-1: Et
-1: Eternal
-1: Eternity
-1: Evasions
-1: Event
-1: Everlasting
-1: Evermore
-1: Exampled
-1: Exasperate
-1: Exceed
-1: Exceeds
-1: Excel
-1: Excellently
-1: Exchange
-1: Excite
-1: Excitements
-1: Exclaim
-1: Execrations
-1: Exercise
-1: Expect
-1: Expectance
-1: Expecters
-1: Expects
-1: Expense
-1: Experienced
-1: Exploit’s
-1: Expostulation
-1: Exposure
-1: Express
-1: Expressly
-1: Expressure
-1: Extant
-1: Extended
-1: Extenuates
-1: Extremes
-1: Extremest
-1: Fails
-1: Fair’st
-1: Falcon
-1: Falls
-1: False-hearted
-1: Famished
-1: Famous
-1: Fantastic
-1: Farewells
-1: Farther
-1: Fashionable
-1: Fat-already
-1: Fathomless
-1: Fathoms
-1: Fearing
-1: Feasts
-1: Fee-farm
-1: Fee-simple
-1: Feeds
-1: Feels
-1: Fees
-1: Feet
-1: Feeze
-1: Fellest
-1: Feud
-1: Feverous
-1: Few
-1: Fiddler
-1: Fierceness
-1: Fiery
-1: Fifth
-1: Fights
-1: Fillip
-1: Filthy
-1: Finch
-1: Fin’st
-1: Firebrand
-1: Fires
-1: Firstlings
-1: Fish
-1: Fit
-1: Fitchew
-1: Fitness
-1: Five-finger-tied
-1: Fixture
-1: Flame
-1: Flames
-1: Flaming
-1: Flap
-1: Flat
-1: Fled
-1: Flee
-1: Flesh
-1: Flew
-1: Flexible
-1: Flexure
-1: Flight
-1: Flinch
-1: Flint
-1: Flout
-1: Flow
-1: Flowers
-1: Flowing
-1: Flows
-1: Flying
-1: Foams
-1: Foe
-1: Foes
-1: Foiled
-1: Fold
-1: Followers
-1: Fonder
-1: Food
-1: Fooling
-1: Foragers
-1: Forbids
-1: Forced
-1: Forceless
-1: Forcibly
-1: Forehand
-1: Foresaw
-1: Foresee
-1: Foretell
-1: Foretold
-1: Forever
-1: Forfeits
-1: Forfend
-1: Forge
-1: Forget
-1: Forgo
-1: Forked
-1: Formed
-1: Formless
-1: Forms
-1: Forsooth
-1: Forsworn
-1: Forthright
-1: Fortunes
-1: Foul
-1: Four
-1: Fox
-1: Fraction
-1: Fractions
-1: Fragment
-1: Fragments
-1: Frailty
-1: Fraught
-1: Fraughtage
-1: Frayed
-1: Frenzy
-1: Frenzy’s
-1: Fresher
-1: Freshness
-1: Friday
-1: Frighting
-1: Frights
-1: Front
-1: Fronting
-1: Fruit
-1: Frush
-1: Fulfilling
-1: Fumbles
-1: Fumbling
-1: Functions
-1: Fur
-1: Furnish
-1: Further
-1: Fury
-1: Gaging
-1: Gainsay
-1: Galathe
-1: Gallantry
-1: Galls
-1: Gallèd
-1: Games
-1: Gash
-1: Gat
-1: Gate
-1: Gauds
-1: Gauntlet
-1: Gaze
-1: Generally
-1: Generals
-1: General’s
-1: Generous
-1: Genius
-1: Giddy
-1: Girls
-1: Giver
-1: Glad
-1: Gladness
-1: Glance
-1: Glib
-1: Glimpse
-1: Globe
-1: Gloss
-1: Gloves
-1: Glozed
-1: Goblins
-1: God-a-mercy
-1: Godlike
-1: Gods’
-1: God’s
-1: Goers-between
-1: Golden
-1: Good-fellowship
-1: Goodness
-1: Goose
-1: Gorget
-1: Gory
-1: Gouty
-1: Gracious
-1: Grandam
-1: Grandsires
-1: Granted
-1: Grated
-1: Gravel
-1: Greasy
-1: Grecians’
-1: Grecian’s
-1: Greeks’
-1: Grossness
-1: Growth
-1: Grumblest
-1: Guest
-1: Guiding
-1: Guts
-1: Guts-griping
-1: Hadst
-1: Hail
-1: Hale
-1: Half-supped
-1: Hamstring
-1: Handiest
-1: Handless
-1: Handsomeness
-1: Hanged
-1: Hanging
-1: Happy
-1: Harbor
-1: Harder
-1: Hardiment
-1: Hare
-1: Hares
-1: Harmony
-1: Harness
-1: Harnessed
-1: Harsh
-1: Hart
-1: Hatched
-1: Hates
-1: Hazard
-1: Heads
-1: Headstrong
-1: Heal
-1: Heaps
-1: Hearers
-1: Hears
-1: Heart’s
-1: Heating
-1: Heavenly
-1: Heavier
-1: Heaving
-1: Hectors
-1: Hedge
-1: Heifer’s
-1: Helias
-1: Hell’s
-1: Helmet
-1: Hemmed
-1: Henceforth
-1: Herald
-1: Herd
-1: Hereafter
-1: Hermit
-1: Herring
-1: Hers
-1: Hey
-1: Heyday
-1: Hiding
-1: High-soaring
-1: Highest
-1: Hind
-1: Hinder
-1: Hindmost
-1: Hiss
-1: Hisses
-1: Hive
-1: Hold-door
-1: Holiness
-1: Honest
-1: Honesty
-1: Honey-sweet
-1: Honorable
-1: Horribly
-1: Horrors
-1: Hostages
-1: Hostess
-1: Hound
-1: Hours
-1: However
-1: Howsoever
-1: Hulks
-1: Human
-1: Humanity
-1: Humble
-1: Humble-bee
-1: Humors
-1: Hung
-1: Hunter
-1: Hurricano
-1: Husbandry
-1: Husks
-1: Hyperboles
-1: Hyperion
-1: Ice
-1: Idiot
-1: Idiot-worshippers
-1: Idiots
-1: Idly
-1: Idolatry
-1: Ignomy
-1: Ill-disposed
-1: Illegitimate
-1: Illustrious
-1: Image
-1: Imaginary
-1: Imagined
-1: Imbecility
-1: Immaterial
-1: Immediately
-1: Imminence
-1: Imminent
-1: Immortal
-1: Immures
-1: Impair
-1: Imperious
-1: Import
-1: Importless
-1: Imposed
-1: Imposition
-1: Impossibility
-1: Impostume
-1: Impress
-1: Impressure
-1: Impudent
-1: Imputation
-1: Includes
-1: Incontinent
-1: Incurable
-1: Incurred
-1: Incursions
-1: Indexes
-1: Indifferent
-1: Indistinguishable
-1: Indrenched
-1: Indulgence
-1: Inestimable
-1: Infants’
-1: Infect
-1: Infectiously
-1: Infects
-1: Inflamed
-1: Influence
-1: Ingratitudes
-1: Inheritors
-1: Injurious
-1: Injury
-1: Ink
-1: Inseparate
-1: Insisture
-1: Insolence
-1: Instances
-1: Instant
-1: Instead
-1: Instrument
-1: Intelligence
-1: Intend
-1: Intends
-1: Interchange
-1: Interchangeably
-1: Interrupt
-1: Interview
-1: Inveigled
-1: Invert
-1: Inward
-1: Iris
-1: Iron
-1: Irons
-1: Island
-1: Islands
-1: Isles
-1: Iteration
-1: Ithaca
-1: Jade’s
-1: Jar
-1: Jaundice
-1: Jaws
-1: Jealous
-1: Jealousy
-1: Jerkin
-1: Jesting
-1: Jests
-1: Jostles
-1: Journey
-1: Jove’s
-1: Joy
-1: Joy’s
-1: Judgments
-1: Juno
-1: Justness
-1: Ken
-1: Kept
-1: Kernel
-1: Key
-1: Kindness
-1: Kindred
-1: Kingdomed
-1: Kingly
-1: Kinswoman
-1: Kissed
-1: Knavery
-1: Knave’s
-1: Knead
-1: Kneading
-1: Knife
-1: Knit
-1: Knits
-1: Knocking
-1: Knot
-1: Knotted
-1: Knowest
-1: Knowledge
-1: Labyrinth
-1: Lack
-1: Lacked
-1: Lackey
-1: Lacks
-1: Ladder
-1: Lamb
-1: Lambs
-1: Lamp
-1: Lance
-1: Land
-1: Land-fish
-1: Language
-1: Languageless
-1: Larded
-1: Largeness
-1: Lark
-1: Latest
-1: Laud
-1: Laughs
-1: Launched
-1: Laurels
-1: Lavolt
-1: Lawful
-1: Laws
-1: Laying
-1: Lays
-1: Lay’st
-1: Lazar
-1: Lazars
-1: Leaned
-1: Leaning
-1: Leaps
-1: Learning
-1: Leather
-1: Leave-taking
-1: Leaven
-1: Leaves
-1: Lecher
-1: Leers
-1: Lees
-1: Lend
-1: Length
-1: Lethargies
-1: Letting
-1: Levity
-1: Liars
-1: Liberality
-1: Libya
-1: Lid
-1: Lief
-1: Liege
-1: Lifter
-1: Lifts
-1: Lights
-1: Likes
-1: Lily
-1: Limekilns
-1: Limit
-1: Line
-1: Linger
-1: Lion-sick
-1: Lions
-1: Lion’s
-1: Liquid
-1: List
-1: Live-long
-1: Lizard
-1: Loads
-1: Loath
-1: Loathsomest
-1: Local
-1: Lodges
-1: Loins
-1: Lolling
-1: Long-continued
-1: Longer
-1: Longing
-1: Loosed
-1: Lordship
-1: Loud’st
-1: Louse
-1: Lubber
-1: Luck
-1: Lurks
-1: Lust
-1: Lustihood
-1: Lusty
-1: Luxurious
-1: Luxury
-1: Maculation
-1: Madam
-1: Madly
-1: Madmen
-1: Maiden
-1: Maidenheads
-1: Maidens
-1: Mail
-1: Mainly
-1: Majesty
-1: Major
-1: Manage
-1: Mane
-1: Mangled
-1: Mankind
-1: Manly
-1: Mannish
-1: Mapp’ry
-1: Margareton
-1: Married
-1: Marvellous
-1: Marvels
-1: Masculine
-1: Masters
-1: Mastic
-1: Mastiffs
-1: Matchless
-1: Mate
-1: Mater
-1: Mature
-1: Maturity
-1: Maxim
-1: Meals
-1: Mealy
-1: Meaning
-1: Meant
-1: Meat
-1: Medicinable
-1: Medicine
-1: Med’cinable
-1: Melody
-1: Memory
-1: Mended
-1: Mends
-1: Menon
-1: Merely
-1: Merit’s
-1: Merrily
-1: Messengers
-1: Met
-1: Metal
-1: Mettle
-1: Mid-age
-1: Middle
-1: Midway
-1: Millstones
-1: Milo
-1: Minced
-1: Ministers
-1: Mint
-1: Mirable
-1: Miracle
-1: Mirrored
-1: Miscall
-1: Miscarrying
-1: Misers
-1: Misprizing
-1: Miss
-1: Missions
-1: Mixture
-1: Moan
-1: Mock’ry
-1: Moderation
-1: Modestly
-1: Modicums
-1: Moiety
-1: Moist
-1: Molded
-1: Moldeth
-1: Moldy
-1: Moment
-1: Momentary-swift
-1: Monsters
-1: Monstrous
-1: Monstruosity
-1: Monumental
-1: Morn
-1: Mortals
-1: Mother’s
-1: Motion
-1: Motive
-1: Mountains
-1: Mouse-eaten
-1: Moves
-1: Mower’s
-1: Mule
-1: Multipotent
-1: Multitude
-1: Murderer’s
-1: Murrain
-1: Musicians
-1: Mutiny
-1: Mutual
-1: Myrmidon
-1: Mystery
-1: Nail
-1: Nails
-1: Naming
-1: Narrow
-1: Nation
-1: Nations
-1: Native
-1: Natures
-1: Naughtily
-1: Neapolitan
-1: Nearer
-1: Necessary
-1: Necessity
-1: Nectar
-1: Needful
-1: Needle
-1: Needless
-1: Negation
-1: Neglected
-1: Neglection
-1: Negligence
-1: Negligent
-1: Negotiations
-1: Nell
-1: Neoptolemus
-1: Nephew
-1: Neptune
-1: Neptune’s
-1: Nerves
-1: Nettle
-1: Never’s
-1: New-ta’en
-1: Newborn
-1: Ne’ertheless
-1: Nice
-1: Nightly
-1: Ninth
-1: Niobes
-1: Nobler
-1: Nobles
-1: Noblest
-1: Nobly
-1: Noseless
-1: Notable
-1: Noted
-1: Novelty
-1: Nursery
-1: Nut
-1: Oaks
-1: Oaths
-1: Obedience
-1: Obeying
-1: Objects
-1: Obligation
-1: Oblique
-1: Observant
-1: Observe
-1: Observing
-1: Obstinately
-1: Oddly
-1: Odds
-1: Offence
-1: Offended
-1: Offends
-1: Offenses
-1: Offer
-1: Offers
-1: Offspring
-1: Off’ring
-1: Off’rings
-1: Oil
-1: Olympian
-1: Olympus
-1: Omission
-1: Opening
-1: Operate
-1: Operation
-1: Opes
-1: Opportunity
-1: Oppose
-1: Oppress
-1: Oppugnancy
-1: Orchard
-1: Orders
-1: Organs
-1: Orgulous
-1: Orifex
-1: Orts
-1: Others’
-1: Ounces
-1: Outfly
-1: Outliving
-1: Outstretched
-1: Outswell
-1: Outward
-1: Outwardly
-1: Oven
-1: Over
-1: Overbulk
-1: Overhold
-1: Overproud
-1: Overshines
-1: Owes
-1: Owest
-1: Owners
-1: Oyez
-1: O’er-eaten
-1: O’er-gallèd
-1: O’erdusted
-1: O’errun
-1: O’erspreads
-1: O’ertop
-1: O’erwrested
-1: Pageants
-1: Pains
-1: Paint
-1: Pair
-1: Palamedes
-1: Palating
-1: Palsies
-1: Palsy
-1: Paltry
-1: Pander
-1: Panders’
-1: Paradoxes
-1: Parallel
-1: Parallels
-1: Parch
-1: Pard
-1: Paris’
-1: Parrot
-1: Partial
-1: Particulars
-1: Parties
-1: Partly
-1: Party
-1: Pash
-1: Pashèd
-1: Passage
-1: Past-proportion
-1: Patchery
-1: Path
-1: Patiently
-1: Patient’s
-1: Pavement
-1: Pavilion
-1: Pavilions
-1: Peaceful
-1: Peacock
-1: Peculiar
-1: Peers
-1: Peevish
-1: Pelting
-1: Penny
-1: People
-1: Per
-1: Perdition
-1: Perfect
-1: Perfectly
-1: Perforce
-1: Perform
-1: Performs
-1: Perhaps
-1: Peril
-1: Perilous
-1: Perish
-1: Perseus
-1: Perseus’
-1: Perseverance
-1: Persist
-1: Persistive
-1: Perspicuous
-1: Persuade
-1: Persuaded
-1: Persuasion
-1: Pertly
-1: Perused
-1: Pestered
-1: Pestilence
-1: Philosophy
-1: Phoebus
-1: Phrase
-1: Physic
-1: Physician
-1: Pia
-1: Pie
-1: Pierce
-1: Pillar
-1: Pillow
-1: Pilots
-1: Pin
-1: Pine
-1: Pipe
-1: Pitch
-1: Pitched
-1: Pitiful
-1: Placket
-1: Plagued
-1: Plaguy
-1: Plainness
-1: Planet
-1: Plantage
-1: Player
-1: Pleads
-1: Pleasant
-1: Pleasantly
-1: Plight
-1: Plots
-1: Plow
-1: Plowman
-1: Plucks
-1: Plumes
-1: Pointing
-1: Poise
-1: Politic
-1: Polluted
-1: Polydamas
-1: Polyxena
-1: Polyxenes
-1: Poorly
-1: Popped
-1: Porpentine
-1: Porridge
-1: Portable
-1: Portents
-1: Porter
-1: Portly
-1: Ports
-1: Position
-1: Positive
-1: Possession
-1: Possessions
-1: Posts
-1: Pot
-1: Potato
-1: Potency
-1: Potent
-1: Pourest
-1: Powerful
-1: Practice
-1: Praising
-1: Praisèd
-1: Prayers
-1: Precious-dear
-1: Predominance
-1: Prefixed
-1: Pregnant
-1: Prenominate
-1: Prepare
-1: Preposterous
-1: Prerogative
-1: Prescience
-1: Presented
-1: Press
-1: Pressed
-1: Presuming
-1: Prettiest
-1: Preventions
-1: Prevents
-1: Prey
-1: Pricks
-1: Primitive
-1: Primogeneity
-1: Priority
-1: Privately
-1: Privilege
-1: Prizer
-1: Prizes
-1: Proceed
-1: Proceedings
-1: Process
-1: Proclaim
-1: Prodigal’s
-1: Prodigious
-1: Professes
-1: Profit
-1: Profoundly
-1: Project
-1: Project’s
-1: Prologue
-1: Prompt
-1: Prompted
-1: Prompts
-1: Propend
-1: Propension
-1: Prophecy
-1: Prophetic
-1: Prophetically
-1: Proportion
-1: Propose
-1: Proposed
-1: Proposition
-1: Propugnation
-1: Proserpina’s
-1: Protestation
-1: Protractive
-1: Proved
-1: Proves
-1: Provide
-1: Providence
-1: Publication
-1: Publish
-1: Publishing
-1: Puffed
-1: Puffing
-1: Puling
-1: Pulse
-1: Purblind
-1: Purely
-1: Push
-1: Putrefied
-1: Puttock
-1: Pyrrhus
-1: Quails
-1: Qualify
-1: Qualifying
-1: Qualities
-1: Quarrels
-1: Quarrel’s
-1: Quick
-1: Quietness
-1: Quondam
-1: Quoted
-1: Rack
-1: Rages
-1: Railed
-1: Railest
-1: Railing
-1: Rain
-1: Raise
-1: Ram
-1: Ran
-1: Ranks
-1: Ransack
-1: Ransacked
-1: Rape
-1: Rapt
-1: Rapture
-1: Raptures
-1: Rare
-1: Rascally
-1: Rascals
-1: Rash
-1: Rate
-1: Raves
-1: Ravished
-1: Raw
-1: Ray
-1: Reach
-1: Reader
-1: Rear
-1: Reared
-1: Reck
-1: Reckoning
-1: Recompense
-1: Record
-1: Recordation
-1: Recourse
-1: Recovery
-1: Recreant
-1: Redeeming
-1: Reflection
-1: Refractory
-1: Refused
-1: Regal
-1: Regist’red
-1: Reinforcement
-1: Rejoindure
-1: Relates
-1: Relation
-1: Relics
-1: Rely
-1: Remainder
-1: Remembered
-1: Remiss
-1: Remorse
-1: Remuneration
-1: Rend
-1: Rendered
-1: Renders
-1: Renown
-1: Renowned
-1: Repair
-1: Repent
-1: Repining
-1: Replies
-1: Reply
-1: Report
-1: Reproach
-1: Reproof
-1: Repute
-1: Requests
-1: Request’s
-1: Requited
-1: Reserve
-1: Resist
-1: Resolution
-1: Restrains
-1: Resty
-1: Retires
-1: Retort
-1: Retorts
-1: Retract
-1: Returned
-1: Returnèd
-1: Reverb’rate
-1: Reverence
-1: Reversion
-1: Revolted
-1: Revolve
-1: Rheum
-1: Rhyme
-1: Rhymes
-1: Ribald
-1: Ribs
-1: Riches
-1: Rid
-1: Riddance
-1: Rides
-1: Ridiculous
-1: Ring
-1: Ripe
-1: Rises
-1: Rivelled
-1: Rivet
-1: Rivets
-1: Roars
-1: Robbed
-1: Robber’s
-1: Rocks
-1: Rode
-1: Roe
-1: Roguery
-1: Rogues
-1: Roisting
-1: Root
-1: Rose
-1: Rot
-1: Rotten
-1: Roughly
-1: Rounded
-1: Roundly
-1: Rub
-1: Rubs
-1: Rudely
-1: Ruder
-1: Ruffian
-1: Ruinous
-1: Ruled
-1: Ruminate
-1: Ruminates
-1: Rump
-1: Runs
-1: Ruptures
-1: Rush
-1: Rusty
-1: Ruth
-1: Ruthful
-1: Sacred
-1: Sad
-1: Sadness
-1: Safer
-1: Safety
-1: Sagittary
-1: Sailing
-1: Sailor
-1: Sails
-1: Sally
-1: Salutes
-1: Sanctify
-1: Sanctimonies
-1: Sanctimony
-1: Sandy
-1: Sans
-1: Sap
-1: Sarsenet
-1: Satisfaction
-1: Satisfied
-1: Sauced
-1: Saucy
-1: Saved
-1: Scab
-1: Scaffollage
-1: Scale
-1: Scalèd
-1: Scantling
-1: Scants
-1: Scape
-1: Scar
-1: Scarcity
-1: Scare
-1: Scars
-1: Scepters
-1: Sciaticas
-1: Scimitar
-1: Scratch
-1: Scratching
-1: Screech-owl
-1: Scurril
-1: Scurvy-valiant
-1: Se
-1: Seals
-1: Seam
-1: Searches
-1: Searching
-1: Seat
-1: Seconded
-1: Secrecy
-1: Secretly
-1: Secrets
-1: Secure
-1: Securely
-1: Security
-1: Seed
-1: Seeded
-1: Seeing
-1: Seeking
-1: Seeks
-1: Seemest
-1: Seems
-1: Seethes
-1: Seizure
-1: Seld
-1: Self-admission
-1: Self-affected
-1: Self-assumption
-1: Self-breath
-1: Self-willed
-1: Selfsame
-1: Selves
-1: Sends
-1: Senses
-1: Sentinels
-1: Separates
-1: Sequent
-1: Sequest’ring
-1: Serpent
-1: Serpentine
-1: Serpigo
-1: Served
-1: Serves
-1: Seven
-1: Severally
-1: Severals
-1: Sewer
-1: Shade
-1: Shaft
-1: Shaked
-1: Shakes
-1: Shaking
-1: Shallow
-1: Shameful
-1: Shames
-1: Shame’s
-1: Sharpens
-1: Shedding
-1: Sheep
-1: Shell
-1: Shent
-1: Shining
-1: Shipmen
-1: Shivers
-1: Shoeing-horn
-1: Shook
-1: Shoots
-1: Shore
-1: Short-armed
-1: Shout
-1: Showing
-1: Shrewd
-1: Shrewdly
-1: Shriek
-1: Shrieking
-1: Shrills
-1: Shrouded
-1: Shun
-1: Sickness
-1: Siege
-1: Sieve
-1: Sighing
-1: Sigh’st
-1: Signify
-1: Silks
-1: Silly
-1: Similes
-1: Simpler
-1: Simply
-1: Sinew
-1: Sinewy
-1: Singly
-1: Sinister
-1: Sirrah
-1: Sirs
-1: Sisters
-1: Sister’s
-1: Six-gated
-1: Six-or-seven-times-honored
-1: Sixty
-1: Size
-1: Skein
-1: Skilful
-1: Skilless
-1: Sky
-1: Slack
-1: Slanderer
-1: Slaughter
-1: Sleave-silk
-1: Sleeps
-1: Sleep’st
-1: Sleeveless
-1: Slides
-1: Slightly
-1: Slumbers
-1: Sluttish
-1: Smart
-1: Smiling
-1: Smite
-1: Smooth
-1: Snail-paced
-1: Snatch
-1: Sneaking
-1: Sobs
-1: Sociable
-1: Sodden
-1: Sodden-witted
-1: Soever
-1: Softer
-1: Soiled
-1: Soilure
-1: Sol
-1: Sold
-1: Sole
-1: Solid
-1: Somebody
-1: Sometime
-1: Sometimes
-1: Somewhat
-1: Sop
-1: Sorrow
-1: Sorry
-1: Sorts
-1: Soundest
-1: Sounding
-1: Sounds
-1: Sour
-1: South
-1: Space
-1: Spaces
-1: Spans
-1: Spar
-1: Spark
-1: Sparrows
-1: Spartan
-1: Sparta’s
-1: Speaker
-1: Specialty
-1: Spectacles
-1: Speculation
-1: Sped
-1: Spend
-1: Sphered
-1: Spherèd
-1: Spice
-1: Spider
-1: Spied
-1: Spit
-1: Spite
-1: Spiteful
-1: Spleens
-1: Splinter
-1: Splitting
-1: Spoils
-1: Spongy
-1: Sportful
-1: Spotted
-1: Spread
-1: Sprightly
-1: Spring
-1: Sprite
-1: Sprites
-1: Square
-1: Stain
-1: Stainèd
-1: Stake
-1: Stalk
-1: Stalks
-1: Standers-by
-1: Staples
-1: Star
-1: Stars
-1: Starts
-1: Starve
-1: Starved
-1: Statue
-1: Statues
-1: Staying
-1: Stepdame
-1: Steps
-1: Stewed
-1: Stickler-like
-1: Sting
-1: Stints
-1: Stirred
-1: Stirs
-1: Stithied
-1: Stones
-1: Stool
-1: Storms
-1: Strains
-1: Strait
-1: Stranger
-1: Strangles
-1: Strawy
-1: Stream
-1: Stretch
-1: Stretched
-1: Stretched-out
-1: Strewed
-1: Stride
-1: Strife
-1: String
-1: Strong-ribbed
-1: Stronger
-1: Strutting
-1: Stubborn-chaste
-1: Stumbling
-1: Stygian
-1: Styx
-1: Subdued
-1: Subduments
-1: Subjects
-1: Subscribe
-1: Subscribes
-1: Subsequent
-1: Substance
-1: Subtle-potent
-1: Subtly
-1: Such-like
-1: Sucked
-1: Sudden
-1: Sue
-1: Suffer
-1: Suffered
-1: Suffers
-1: Suffices
-1: Suffocate
-1: Suit
-1: Suited
-1: Summer
-1: Sunburnt
-1: Sunday
-1: Sunder
-1: Sunk
-1: Superior
-1: Superstitious
-1: Supper
-1: Suppose
-1: Supposed
-1: Surely
-1: Surgeon’s
-1: Surly
-1: Surmisèd
-1: Swagger
-1: Swains
-1: Swath
-1: Swayed
-1: Swearing
-1: Swears
-1: Sweat
-1: Sweeten
-1: Sweetness
-1: Swell
-1: Swelling
-1: Swerve
-1: Swifter
-1: Swim
-1: Swinge
-1: Swoll’n
-1: Swooning
-1: Syllable
-1: Tables
-1: Taborins
-1: Taciturnity
-1: Taint
-1: Taints
-1: Tamer
-1: Tamèd
-1: Tapster’s
-1: Tar
-1: Tardy
-1: Tarries
-1: Tarrying
-1: Tassel
-1: Tasted
-1: Tax
-1: Taxing
-1: Teach
-1: Tediously
-1: Telling
-1: Tells
-1: Temperate
-1: Tempers
-1: Tempest
-1: Temporize
-1: Tempted
-1: Tender
-1: Tenedos
-1: Tenor
-1: Tenth
-1: Tenths
-1: Tercel
-1: Term
-1: Tetchy
-1: Tetter
-1: Theft
-1: Thefts
-1: Theirs
-1: Therefor
-1: Therein
-1: Thereof
-1: Thetis
-1: They’ve
-1: Thicker
-1: Thicket
-1: Thieves
-1: Thiev’ry
-1: Thills
-1: Think’st
-1: Thoas
-1: Thousandfold
-1: Thrash
-1: Threats
-1: Thrice
-1: Thrice-repurèd
-1: Thrice-worthy
-1: Thrifty
-1: Throat
-1: Thrones
-1: Thrown
-1: Thunder
-1: Thunder-darter
-1: Thunders
-1: Thwart
-1: Thwarted
-1: Tick
-1: Tickle
-1: Tickled
-1: Tie
-1: Tied
-1: Tiger
-1: Tigers
-1: Timbria
-1: Tip
-1: Tired
-1: Titan
-1: Tithe
-1: Titled
-1: Titles
-1: To-be-pitied
-1: Toad
-1: Toads
-1: Toadstool
-1: Toast
-1: Toe
-1: Toes
-1: Toil
-1: Tomorrow’s
-1: Tongue-tied
-1: Too-curious
-1: Tooth
-1: Topless
-1: Tops
-1: Torments
-1: Torn
-1: Tortive
-1: Total
-1: Touches
-1: Toucheth
-1: Tower
-1: Towers
-1: Tractable
-1: Trade
-1: Traded
-1: Traders
-1: Trail
-1: Train
-1: Traitors
-1: Traitor’s
-1: Trampled
-1: Transcends
-1: Transformation
-1: Translate
-1: Transportance
-1: Trash
-1: Travail
-1: Travel
-1: Traveled
-1: Travels
-1: Treason
-1: Trials
-1: Trick
-1: Tripping
-1: Troien
-1: Troiluses
-1: Trojan’s
-1: Troop
-1: Troubled
-1: Troubles
-1: Truant
-1: Truest
-1: Trump
-1: Truncheon
-1: Try
-1: Turbulence
-1: Turpitude
-1: Turtle
-1: Twenty
-1: Typhon
-1: Tyrant
-1: T’other
-1: Ugly
-1: Ulcer
-1: Unacquainted
-1: Unarms
-1: Unawares
-1: Unbodied
-1: Unbolt
-1: Unbridled
-1: Unbruisèd
-1: Unclasp
-1: Uncle’s
-1: Uncomprehensive
-1: Undergo
-1: Underhonest
-1: Undermine
-1: Understand’st
-1: Undertake
-1: Underwrite
-1: Undo
-1: Undone
-1: Unfamed
-1: Unfit
-1: Ungently
-1: Ungracious
-1: Unjust
-1: Unkind
-1: Unknown
-1: Unlike
-1: Unlock
-1: Unloose
-1: Unmingled
-1: Unplausive
-1: Unpracticed
-1: Unread
-1: Unrespective
-1: Unsalted
-1: Unsecret
-1: Unsquared
-1: Untasted
-1: Untent
-1: Untie
-1: Untimbered
-1: Unto
-1: Untraded
-1: Untruths
-1: Untune
-1: Unveil
-1: Unwelcome
-1: Unwholesome
-1: Unworthiest
-1: Upbraid
-1: Uplifted
-1: Usage
-1: Used
-1: Uses
-1: Uttermost
-1: Utters
-1: Vail
-1: Vainglory
-1: Vale
-1: Valiantly
-1: Valorous
-1: Valued
-1: Vambrace
-1: Vantage
-1: Varlets
-1: Vassalage
-1: Vaunt
-1: Venerable
-1: Venomed
-1: Venomous
-1: Vents
-1: Viands
-1: Victor
-1: Victory
-1: Vindicative
-1: Violent
-1: Violenteth
-1: Virgin
-1: Virgins
-1: Virtuously
-1: Visage
-1: Visible
-1: Visions
-1: Visit
-1: Visitation
-1: Visiting
-1: Vizarded
-1: Voices
-1: Volumes
-1: Vouchsafe
-1: Vulcan
-1: Vulcan’s
-1: Waftage
-1: Wails
-1: Waist
-1: Waiting-women
-1: Waked
-1: Waken
-1: Waking
-1: Walked
-1: Wall
-1: Wallet
-1: Wallow
-1: Wander
-1: Wand’ring
-1: Wanting
-1: Wantonness
-1: Wants
-1: Wards
-1: Wares
-1: Warrior
-1: Warriors
-1: Wart
-1: Wast
-1: Watched
-1: Watchful
-1: Watching
-1: Waterflies
-1: Waters
-1: Wat’ry
-1: Waving
-1: Weaken
-1: Weaker
-1: Weakest
-1: Wealth
-1: Weapons
-1: Weary
-1: Weather
-1: Web
-1: Wedges
-1: Wedgèd
-1: Weeds
-1: Week
-1: Weeping
-1: Weighs
-1: Well-famed
-1: Well-ordered
-1: Wells
-1: Wenching
-1: West
-1: Whale
-1: Whatever
-1: Whate’er
-1: Wheat
-1: Wheel
-1: Whence
-1: Whereout
-1: Whetstone
-1: Whirls
-1: Whisper
-1: Whissing
-1: Whit
-1: Whites
-1: Whither
-1: Whoremasterly
-1: Whorish
-1: Whosoever
-1: Whosomever
-1: Wider
-1: Wights
-1: Wild
-1: Wiles
-1: Wills
-1: Winchester
-1: Window
-1: Wine
-1: Wing
-1: Winged
-1: Winnowed
-1: Winnows
-1: Winter
-1: Wiped
-1: Wisdoms
-1: Wiser
-1: Wisest
-1: Withdrew
-1: Withhold
-1: Witless
-1: Witty
-1: Wives
-1: Wi’
-1: Woeful
-1: Womanhood
-1: Womanish
-1: Wooden
-1: Woof
-1: Wooing
-1: Wore
-1: Working
-1: Works
-1: Worn
-1: Worship
-1: Worshipped
-1: Worthier
-1: Worthiest
-1: Worthiness
-1: Worths
-1: Wor’st
-1: Wranglers
-1: Wrathful
-1: Wrest
-1: Wrestling
-1: Wretch
-1: Wrinkle
-1: Wrinkled
-1: Wrinkles
-1: Writes
-1: Writing
-1: Year
-1: Years’
-1: Yesternight
-1: Yielding
-1: Yoke
-1: Yon
-1: Yourselves
-1: Youths
-1: ’a
-1: ’lt
-1: ’sfoot
+instances: 792, word: 'The', work: 'Tro'},
+instances: 733, word: 'And', work: 'Tro'},
+instances: 533, word: 'To', work: 'Tro'},
+instances: 502, word: 'I', work: 'Tro'},
+instances: 496, word: 'Of', work: 'Tro'},
+instances: 447, word: 'A', work: 'Tro'},
+instances: 439, word: 'You', work: 'Tro'},
+instances: 370, word: 'In', work: 'Tro'},
+instances: 335, word: 'Is', work: 'Tro'},
+instances: 316, word: 'My', work: 'Tro'},
+instances: 315, word: 'Not', work: 'Tro'},
+instances: 307, word: 'That', work: 'Tro'},
+instances: 239, word: 'As', work: 'Tro'},
+instances: 235, word: 'He', work: 'Tro'},
+instances: 227, word: 'His', work: 'Tro'},
+instances: 204, word: 'With', work: 'Tro'},
+instances: 199, word: 'But', work: 'Tro'},
+instances: 192, word: 'Be', work: 'Tro'},
+instances: 188, word: 'It', work: 'Tro'},
+instances: 187, word: 'Me', work: 'Tro'},
+instances: 181, word: 'Him', work: 'Tro'},
+instances: 180, word: 'For', work: 'Tro'},
+instances: 178, word: 'What', work: 'Tro'},
+instances: 168, word: 'This', work: 'Tro'},
+instances: 151, word: 'Have', work: 'Tro'},
+instances: 149, word: 'Will', work: 'Tro'},
+instances: 148, word: 'Thou', work: 'Tro'},
+instances: 145, word: 'Do', work: 'Tro'},
+instances: 143, word: 'So', work: 'Tro'},
+instances: 139, word: 'All', work: 'Tro'},
+instances: 131, word: 'No', work: 'Tro'},
+instances: 128, word: 'Shall', work: 'Tro'},
+instances: 125, word: 'Your', work: 'Tro'},
+instances: 115, word: 'Her', work: 'Tro'},
+instances: 113, word: 'Lord', work: 'Tro'},
+instances: 112, word: 'Our', work: 'Tro'},
+instances: 107, word: 'Now', work: 'Tro'},
+instances: 104, word: 'Are', work: 'Tro'},
+instances: 104, word: 'By', work: 'Tro'},
+instances: 102, word: 'Hector', work: 'Tro'},
+instances: 100, word: 'Thy', work: 'Tro'},
+instances: 97, word: 'On', work: 'Tro'},
+instances: 97, word: 'We', work: 'Tro'},
+instances: 94, word: 'Come', work: 'Tro'},
+instances: 94, word: 'If', work: 'Tro'},
+instances: 92, word: 'Than', work: 'Tro'},
+instances: 92, word: 'There', work: 'Tro'},
+instances: 90, word: 'Thee', work: 'Tro'},
+instances: 88, word: 'O', work: 'Tro'},
+instances: 88, word: 'Or', work: 'Tro'},
+instances: 85, word: 'How', work: 'Tro'},
+instances: 82, word: 'I\'ll', work: 'Tro'},
+instances: 81, word: 'Troilus', work: 'Tro'},
+instances: 80, word: 'At', work: 'Tro'},
+instances: 79, word: 'Here', work: 'Tro'},
+instances: 78, word: 'From', work: 'Tro'},
+instances: 78, word: 'Good', work: 'Tro'},
+instances: 78, word: 'More', work: 'Tro'},
+instances: 78, word: 'They', work: 'Tro'},
+instances: 77, word: 'Go', work: 'Tro'},
+instances: 77, word: 'She', work: 'Tro'},
+instances: 75, word: 'Let', work: 'Tro'},
+instances: 75, word: 'Would', work: 'Tro'},
+instances: 73, word: 'Man', work: 'Tro'},
+instances: 72, word: 'Achilles', work: 'Tro'},
+instances: 71, word: 'An', work: 'Tro'},
+instances: 68, word: 'When', work: 'Tro'},
+instances: 67, word: 'Love', work: 'Tro'},
+instances: 63, word: 'Great', work: 'Tro'},
+instances: 63, word: 'Why', work: 'Tro'},
+instances: 62, word: 'Then', work: 'Tro'},
+instances: 60, word: 'Hath', work: 'Tro'},
+instances: 60, word: 'Like', work: 'Tro'},
+instances: 59, word: 'Troy', work: 'Tro'},
+instances: 58, word: 'Well', work: 'Tro'},
+instances: 57, word: 'Tell', work: 'Tro'},
+instances: 57, word: 'Their', work: 'Tro'},
+instances: 54, word: 'One', work: 'Tro'},
+instances: 54, word: 'Sweet', work: 'Tro'},
+instances: 54, word: 'Us', work: 'Tro'},
+instances: 54, word: 'Were', work: 'Tro'},
+instances: 53, word: 'Must', work: 'Tro'},
+instances: 52, word: 'Ajax', work: 'Tro'},
+instances: 51, word: 'Say', work: 'Tro'},
+instances: 51, word: '\'tis', work: 'Tro'},
+instances: 50, word: 'See', work: 'Tro'},
+instances: 49, word: 'Give', work: 'Tro'},
+instances: 49, word: 'Should', work: 'Tro'},
+instances: 49, word: 'Such', work: 'Tro'},
+instances: 49, word: 'Upon', work: 'Tro'},
+instances: 49, word: 'Was', work: 'Tro'},
+instances: 48, word: 'Fair', work: 'Tro'},
+instances: 48, word: 'Know', work: 'Tro'},
+instances: 46, word: 'Too', work: 'Tro'},
+instances: 46, word: 'Yet', work: 'Tro'},
+instances: 44, word: 'Out', work: 'Tro'},
+instances: 43, word: 'May', work: 'Tro'},
+instances: 43, word: 'Them', work: 'Tro'},
+instances: 43, word: 'Which', work: 'Tro'},
+instances: 39, word: 'Heart', work: 'Tro'},
+instances: 39, word: 'Make', work: 'Tro'},
+instances: 39, word: 'Speak', work: 'Tro'},
+instances: 39, word: 'Who', work: 'Tro'},
+instances: 38, word: 'Much', work: 'Tro'},
+instances: 38, word: 'Nor', work: 'Tro'},
+instances: 37, word: 'Am', work: 'Tro'},
+instances: 37, word: 'Doth', work: 'Tro'},
+instances: 35, word: 'Ay', work: 'Tro'},
+instances: 35, word: 'Sir', work: 'Tro'},
+instances: 34, word: 'Most', work: 'Tro'},
+instances: 34, word: 'Th\'', work: 'Tro'},
+instances: 34, word: 'True', work: 'Tro'},
+instances: 33, word: 'Cressid', work: 'Tro'},
+instances: 33, word: 'Eyes', work: 'Tro'},
+instances: 32, word: 'Take', work: 'Tro'},
+instances: 32, word: 'Up', work: 'Tro'},
+instances: 31, word: 'Diomed', work: 'Tro'},
+instances: 31, word: 'Paris', work: 'Tro'},
+instances: 31, word: 'Where', work: 'Tro'},
+instances: 30, word: 'Had', work: 'Tro'},
+instances: 30, word: 'These', work: 'Tro'},
+instances: 28, word: 'Art', work: 'Tro'},
+instances: 28, word: 'Blood', work: 'Tro'},
+instances: 28, word: 'Hand', work: 'Tro'},
+instances: 28, word: 'Think', work: 'Tro'},
+instances: 28, word: 'Trojan', work: 'Tro'},
+instances: 28, word: '\'t', work: 'Tro'},
+instances: 27, word: 'Can', work: 'Tro'},
+instances: 27, word: 'Comes', work: 'Tro'},
+instances: 27, word: 'Helen', work: 'Tro'},
+instances: 27, word: 'Himself', work: 'Tro'},
+instances: 27, word: 'Lady', work: 'Tro'},
+instances: 27, word: 'Look', work: 'Tro'},
+instances: 27, word: 'Stand', work: 'Tro'},
+instances: 27, word: 'Thus', work: 'Tro'},
+instances: 26, word: 'Call', work: 'Tro'},
+instances: 26, word: 'Fool', work: 'Tro'},
+instances: 26, word: 'Honor', work: 'Tro'},
+instances: 26, word: 'Whose', work: 'Tro'},
+instances: 25, word: 'Agamemnon', work: 'Tro'},
+instances: 25, word: 'Fight', work: 'Tro'},
+instances: 25, word: 'Gods', work: 'Tro'},
+instances: 25, word: 'Many', work: 'Tro'},
+instances: 25, word: 'Matter', work: 'Tro'},
+instances: 25, word: 'Nay', work: 'Tro'},
+instances: 25, word: 'Thersites', work: 'Tro'},
+instances: 25, word: 'Time', work: 'Tro'},
+instances: 25, word: 'What\'s', work: 'Tro'},
+instances: 24, word: 'Again', work: 'Tro'},
+instances: 24, word: 'Faith', work: 'Tro'},
+instances: 24, word: 'Night', work: 'Tro'},
+instances: 24, word: 'Own', work: 'Tro'},
+instances: 24, word: 'Tent', work: 'Tro'},
+instances: 23, word: 'Better', work: 'Tro'},
+instances: 23, word: 'Did', work: 'Tro'},
+instances: 23, word: 'Done', work: 'Tro'},
+instances: 23, word: 'Nothing', work: 'Tro'},
+instances: 23, word: 'Patroclus', work: 'Tro'},
+instances: 22, word: 'Brother', work: 'Tro'},
+instances: 22, word: 'Queen', work: 'Tro'},
+instances: 22, word: 'Some', work: 'Tro'},
+instances: 22, word: 'Still', work: 'Tro'},
+instances: 22, word: 'Wit', work: 'Tro'},
+instances: 21, word: 'Bring', work: 'Tro'},
+instances: 21, word: 'General', work: 'Tro'},
+instances: 21, word: 'Greek', work: 'Tro'},
+instances: 21, word: 'Ha', work: 'Tro'},
+instances: 21, word: 'Hear', work: 'Tro'},
+instances: 21, word: 'Itself', work: 'Tro'},
+instances: 21, word: 'Other', work: 'Tro'},
+instances: 20, word: 'Full', work: 'Tro'},
+instances: 20, word: 'Grecian', work: 'Tro'},
+instances: 20, word: 'Greeks', work: 'Tro'},
+instances: 20, word: 'Hector\'s', work: 'Tro'},
+instances: 20, word: 'Life', work: 'Tro'},
+instances: 20, word: 'Prince', work: 'Tro'},
+instances: 20, word: 'Those', work: 'Tro'},
+instances: 20, word: 'Very', work: 'Tro'},
+instances: 20, word: 'Welcome', work: 'Tro'},
+instances: 20, word: 'Word', work: 'Tro'},
+instances: 19, word: 'Aeneas', work: 'Tro'},
+instances: 19, word: 'Cannot', work: 'Tro'},
+instances: 19, word: 'Cry', work: 'Tro'},
+instances: 19, word: 'Down', work: 'Tro'},
+instances: 19, word: 'Every', work: 'Tro'},
+instances: 19, word: 'Men', work: 'Tro'},
+instances: 19, word: 'That\'s', work: 'Tro'},
+instances: 19, word: 'There\'s', work: 'Tro'},
+instances: 19, word: 'Truth', work: 'Tro'},
+instances: 19, word: 'Without', work: 'Tro'},
+instances: 18, word: 'Any', work: 'Tro'},
+instances: 18, word: 'Both', work: 'Tro'},
+instances: 18, word: 'Could', work: 'Tro'},
+instances: 18, word: 'Day', work: 'Tro'},
+instances: 18, word: 'Dear', work: 'Tro'},
+instances: 18, word: 'Even', work: 'Tro'},
+instances: 18, word: 'Eye', work: 'Tro'},
+instances: 18, word: 'Fear', work: 'Tro'},
+instances: 18, word: 'Field', work: 'Tro'},
+instances: 18, word: 'Leave', work: 'Tro'},
+instances: 18, word: 'Pride', work: 'Tro'},
+instances: 18, word: 'Sword', work: 'Tro'},
+instances: 18, word: 'Till', work: 'Tro'},
+instances: 18, word: 'Today', work: 'Tro'},
+instances: 18, word: 'Worth', work: 'Tro'},
+instances: 17, word: 'Has', work: 'Tro'},
+instances: 17, word: 'Mine', work: 'Tro'},
+instances: 17, word: 'Never', work: 'Tro'},
+instances: 17, word: 'Peace', work: 'Tro'},
+instances: 17, word: 'Praise', work: 'Tro'},
+instances: 17, word: 'Proud', work: 'Tro'},
+instances: 17, word: 'Ulysses', work: 'Tro'},
+instances: 16, word: 'Another', work: 'Tro'},
+instances: 16, word: 'Answer', work: 'Tro'},
+instances: 16, word: 'Bear', work: 'Tro'},
+instances: 16, word: 'Before', work: 'Tro'},
+instances: 16, word: 'Each', work: 'Tro'},
+instances: 16, word: 'False', work: 'Tro'},
+instances: 16, word: 'Hold', work: 'Tro'},
+instances: 16, word: 'Into', work: 'Tro'},
+instances: 16, word: 'Kiss', work: 'Tro'},
+instances: 16, word: 'Part', work: 'Tro'},
+instances: 16, word: 'Soul', work: 'Tro'},
+instances: 16, word: 'Valiant', work: 'Tro'},
+instances: 16, word: 'Way', work: 'Tro'},
+instances: 16, word: 'Words', work: 'Tro'},
+instances: 15, word: 'Death', work: 'Tro'},
+instances: 15, word: 'Else', work: 'Tro'},
+instances: 15, word: 'Hark', work: 'Tro'},
+instances: 15, word: 'Head', work: 'Tro'},
+instances: 15, word: 'Hot', work: 'Tro'},
+instances: 15, word: 'I\'', work: 'Tro'},
+instances: 15, word: 'Keep', work: 'Tro'},
+instances: 15, word: 'Knows', work: 'Tro'},
+instances: 15, word: 'Makes', work: 'Tro'},
+instances: 15, word: 'Meet', work: 'Tro'},
+instances: 15, word: 'Name', work: 'Tro'},
+instances: 15, word: 'Nestor', work: 'Tro'},
+instances: 15, word: 'Pandarus', work: 'Tro'},
+instances: 15, word: 'Reason', work: 'Tro'},
+instances: 15, word: 'Strong', work: 'Tro'},
+instances: 15, word: 'Thing', work: 'Tro'},
+instances: 15, word: 'Tomorrow', work: 'Tro'},
+instances: 15, word: 'Two', work: 'Tro'},
+instances: 15, word: 'War', work: 'Tro'},
+instances: 14, word: 'Brave', work: 'Tro'},
+instances: 14, word: 'Cousin', work: 'Tro'},
+instances: 14, word: 'Fall', work: 'Tro'},
+instances: 14, word: 'Farewell', work: 'Tro'},
+instances: 14, word: 'First', work: 'Tro'},
+instances: 14, word: 'Half', work: 'Tro'},
+instances: 14, word: 'Nature', work: 'Tro'},
+instances: 14, word: 'None', work: 'Tro'},
+instances: 14, word: 'Pray', work: 'Tro'},
+instances: 14, word: 'Purpose', work: 'Tro'},
+instances: 14, word: 'Though', work: 'Tro'},
+instances: 14, word: 'Thought', work: 'Tro'},
+instances: 14, word: 'Uncle', work: 'Tro'},
+instances: 13, word: 'Arms', work: 'Tro'},
+instances: 13, word: 'Beauty', work: 'Tro'},
+instances: 13, word: 'Breath', work: 'Tro'},
+instances: 13, word: 'Deeds', work: 'Tro'},
+instances: 13, word: 'Father', work: 'Tro'},
+instances: 13, word: 'Gone', work: 'Tro'},
+instances: 13, word: 'Heavens', work: 'Tro'},
+instances: 13, word: 'Lies', work: 'Tro'},
+instances: 13, word: 'Little', work: 'Tro'},
+instances: 13, word: 'Made', work: 'Tro'},
+instances: 13, word: 'Old', work: 'Tro'},
+instances: 13, word: 'Place', work: 'Tro'},
+instances: 13, word: 'Poor', work: 'Tro'},
+instances: 13, word: 'Thoughts', work: 'Tro'},
+instances: 13, word: 'Trumpet', work: 'Tro'},
+instances: 13, word: 'Voice', work: 'Tro'},
+instances: 13, word: 'World', work: 'Tro'},
+instances: 13, word: 'Yonder', work: 'Tro'},
+instances: 12, word: 'After', work: 'Tro'},
+instances: 12, word: 'Being', work: 'Tro'},
+instances: 12, word: 'Greece', work: 'Tro'},
+instances: 12, word: 'Ho', work: 'Tro'},
+instances: 12, word: 'Might', work: 'Tro'},
+instances: 12, word: 'Mind', work: 'Tro'},
+instances: 12, word: 'Off', work: 'Tro'},
+instances: 12, word: 'Once', work: 'Tro'},
+instances: 12, word: 'Play', work: 'Tro'},
+instances: 12, word: 'Question', work: 'Tro'},
+instances: 12, word: 'Said', work: 'Tro'},
+instances: 12, word: 'Show', work: 'Tro'},
+instances: 12, word: 'Sun', work: 'Tro'},
+instances: 12, word: 'Young', work: 'Tro'},
+instances: 11, word: 'Antenor', work: 'Tro'},
+instances: 11, word: 'Bed', work: 'Tro'},
+instances: 11, word: 'Been', work: 'Tro'},
+instances: 11, word: 'Earth', work: 'Tro'},
+instances: 11, word: 'Ere', work: 'Tro'},
+instances: 11, word: 'Ever', work: 'Tro'},
+instances: 11, word: 'Find', work: 'Tro'},
+instances: 11, word: 'Hair', work: 'Tro'},
+instances: 11, word: 'He\'s', work: 'Tro'},
+instances: 11, word: 'Jove', work: 'Tro'},
+instances: 11, word: 'Morrow', work: 'Tro'},
+instances: 11, word: 'Niece', work: 'Tro'},
+instances: 11, word: 'O\'er', work: 'Tro'},
+instances: 11, word: 'Priam', work: 'Tro'},
+instances: 11, word: 'Princes', work: 'Tro'},
+instances: 11, word: 'Right', work: 'Tro'},
+instances: 11, word: 'Set', work: 'Tro'},
+instances: 11, word: 'Together', work: 'Tro'},
+instances: 11, word: 'We\'ll', work: 'Tro'},
+instances: 11, word: 'Whom', work: 'Tro'},
+instances: 10, word: 'Back', work: 'Tro'},
+instances: 10, word: 'Beat', work: 'Tro'},
+instances: 10, word: 'Between', work: 'Tro'},
+instances: 10, word: 'Desire', work: 'Tro'},
+instances: 10, word: 'Enough', work: 'Tro'},
+instances: 10, word: 'Friend', work: 'Tro'},
+instances: 10, word: 'Goes', work: 'Tro'},
+instances: 10, word: 'Heaven', work: 'Tro'},
+instances: 10, word: 'Hither', work: 'Tro'},
+instances: 10, word: 'Home', work: 'Tro'},
+instances: 10, word: 'Lie', work: 'Tro'},
+instances: 10, word: 'Noble', work: 'Tro'},
+instances: 10, word: 'Opinion', work: 'Tro'},
+instances: 10, word: 'Says', work: 'Tro'},
+instances: 10, word: 'Shame', work: 'Tro'},
+instances: 10, word: 'Sleeve', work: 'Tro'},
+instances: 10, word: 'Son', work: 'Tro'},
+instances: 10, word: 'Stay', work: 'Tro'},
+instances: 10, word: 'Strike', work: 'Tro'},
+instances: 10, word: 'Things', work: 'Tro'},
+instances: 10, word: 'Through', work: 'Tro'},
+instances: 10, word: 'Use', work: 'Tro'},
+instances: 10, word: 'Whore', work: 'Tro'},
+instances: 10, word: 'Yea', work: 'Tro'},
+instances: 10, word: 'Youth', work: 'Tro'},
+instances: 9, word: 'Action', work: 'Tro'},
+instances: 9, word: 'Alas', work: 'Tro'},
+instances: 9, word: 'Argument', work: 'Tro'},
+instances: 9, word: 'Away', work: 'Tro'},
+instances: 9, word: 'Bastard', work: 'Tro'},
+instances: 9, word: 'Behold', work: 'Tro'},
+instances: 9, word: 'Beseech', work: 'Tro'},
+instances: 9, word: 'Brain', work: 'Tro'},
+instances: 9, word: 'Called', work: 'Tro'},
+instances: 9, word: 'Cause', work: 'Tro'},
+instances: 9, word: 'Does', work: 'Tro'},
+instances: 9, word: 'Fly', work: 'Tro'},
+instances: 9, word: 'Gentle', work: 'Tro'},
+instances: 9, word: 'Greekish', work: 'Tro'},
+instances: 9, word: 'Here\'s', work: 'Tro'},
+instances: 9, word: 'He\'ll', work: 'Tro'},
+instances: 9, word: 'Horse', work: 'Tro'},
+instances: 9, word: 'Ilium', work: 'Tro'},
+instances: 9, word: 'Keeps', work: 'Tro'},
+instances: 9, word: 'Less', work: 'Tro'},
+instances: 9, word: 'Live', work: 'Tro'},
+instances: 9, word: 'Pardon', work: 'Tro'},
+instances: 9, word: 'Patience', work: 'Tro'},
+instances: 9, word: 'Seen', work: 'Tro'},
+instances: 9, word: 'Sense', work: 'Tro'},
+instances: 9, word: 'She\'s', work: 'Tro'},
+instances: 9, word: 'Sick', work: 'Tro'},
+instances: 9, word: 'State', work: 'Tro'},
+instances: 9, word: 'Strange', work: 'Tro'},
+instances: 9, word: 'Therefore', work: 'Tro'},
+instances: 9, word: 'Trojans', work: 'Tro'},
+instances: 9, word: 'Turn', work: 'Tro'},
+instances: 9, word: 'White', work: 'Tro'},
+instances: 9, word: 'Whole', work: 'Tro'},
+instances: 9, word: 'Wind', work: 'Tro'},
+instances: 8, word: 'About', work: 'Tro'},
+instances: 8, word: 'Above', work: 'Tro'},
+instances: 8, word: 'Against', work: 'Tro'},
+instances: 8, word: 'Amen', work: 'Tro'},
+instances: 8, word: 'Bid', work: 'Tro'},
+instances: 8, word: 'Break', work: 'Tro'},
+instances: 8, word: 'Came', work: 'Tro'},
+instances: 8, word: 'Care', work: 'Tro'},
+instances: 8, word: 'Chance', work: 'Tro'},
+instances: 8, word: 'Cressida', work: 'Tro'},
+instances: 8, word: 'Devil', work: 'Tro'},
+instances: 8, word: 'Die', work: 'Tro'},
+instances: 8, word: 'Dost', work: 'Tro'},
+instances: 8, word: 'Draw', work: 'Tro'},
+instances: 8, word: 'Ears', work: 'Tro'},
+instances: 8, word: 'Fame', work: 'Tro'},
+instances: 8, word: 'Forth', work: 'Tro'},
+instances: 8, word: 'Hast', work: 'Tro'},
+instances: 8, word: 'Helenus', work: 'Tro'},
+instances: 8, word: 'Holds', work: 'Tro'},
+instances: 8, word: 'Hour', work: 'Tro'},
+instances: 8, word: 'Indeed', work: 'Tro'},
+instances: 8, word: 'Lips', work: 'Tro'},
+instances: 8, word: 'Long', work: 'Tro'},
+instances: 8, word: 'Looks', work: 'Tro'},
+instances: 8, word: 'Lose', work: 'Tro'},
+instances: 8, word: 'Loves', work: 'Tro'},
+instances: 8, word: 'Mars', work: 'Tro'},
+instances: 8, word: 'Match', work: 'Tro'},
+instances: 8, word: 'Morning', work: 'Tro'},
+instances: 8, word: 'O\'', work: 'Tro'},
+instances: 8, word: 'Past', work: 'Tro'},
+instances: 8, word: 'Prithee', work: 'Tro'},
+instances: 8, word: 'Prove', work: 'Tro'},
+instances: 8, word: 'Rather', work: 'Tro'},
+instances: 8, word: 'Same', work: 'Tro'},
+instances: 8, word: 'Service', work: 'Tro'},
+instances: 8, word: 'Spirit', work: 'Tro'},
+instances: 8, word: 'Sworn', work: 'Tro'},
+instances: 8, word: 'Tents', work: 'Tro'},
+instances: 8, word: 'Thousand', work: 'Tro'},
+instances: 8, word: 'Tongue', work: 'Tro'},
+instances: 8, word: 'Walk', work: 'Tro'},
+instances: 8, word: 'Where\'s', work: 'Tro'},
+instances: 8, word: 'Who\'s', work: 'Tro'},
+instances: 8, word: 'Yourself', work: 'Tro'},
+instances: 8, word: 'You\'ll', work: 'Tro'},
+instances: 7, word: 'Ah', work: 'Tro'},
+instances: 7, word: 'Air', work: 'Tro'},
+instances: 7, word: 'Anon', work: 'Tro'},
+instances: 7, word: 'Because', work: 'Tro'},
+instances: 7, word: 'Begin', work: 'Tro'},
+instances: 7, word: 'Believe', work: 'Tro'},
+instances: 7, word: 'Cheek', work: 'Tro'},
+instances: 7, word: 'Chin', work: 'Tro'},
+instances: 7, word: 'Command', work: 'Tro'},
+instances: 7, word: 'Courage', work: 'Tro'},
+instances: 7, word: 'Cur', work: 'Tro'},
+instances: 7, word: 'Dare', work: 'Tro'},
+instances: 7, word: 'Dead', work: 'Tro'},
+instances: 7, word: 'Degree', work: 'Tro'},
+instances: 7, word: 'Dog', work: 'Tro'},
+instances: 7, word: 'End', work: 'Tro'},
+instances: 7, word: 'Fellow', work: 'Tro'},
+instances: 7, word: 'Fie', work: 'Tro'},
+instances: 7, word: 'Folly', work: 'Tro'},
+instances: 7, word: 'Fortune', work: 'Tro'},
+instances: 7, word: 'High', work: 'Tro'},
+instances: 7, word: 'Hurt', work: 'Tro'},
+instances: 7, word: 'Lay', work: 'Tro'},
+instances: 7, word: 'Lechery', work: 'Tro'},
+instances: 7, word: 'Loud', work: 'Tro'},
+instances: 7, word: 'Mad', work: 'Tro'},
+instances: 7, word: 'Menelaus', work: 'Tro'},
+instances: 7, word: 'Music', work: 'Tro'},
+instances: 7, word: 'Myself', work: 'Tro'},
+instances: 7, word: 'Parts', work: 'Tro'},
+instances: 7, word: 'Plague', work: 'Tro'},
+instances: 7, word: 'Please', work: 'Tro'},
+instances: 7, word: 'Pretty', work: 'Tro'},
+instances: 7, word: 'Priam\'s', work: 'Tro'},
+instances: 7, word: 'Ready', work: 'Tro'},
+instances: 7, word: 'Seek', work: 'Tro'},
+instances: 7, word: 'Since', work: 'Tro'},
+instances: 7, word: 'Sinews', work: 'Tro'},
+instances: 7, word: 'Sing', work: 'Tro'},
+instances: 7, word: 'Sister', work: 'Tro'},
+instances: 7, word: 'Slain', work: 'Tro'},
+instances: 7, word: 'Sure', work: 'Tro'},
+instances: 7, word: 'Swear', work: 'Tro'},
+instances: 7, word: 'Talk', work: 'Tro'},
+instances: 7, word: 'Taste', work: 'Tro'},
+instances: 7, word: 'Tears', work: 'Tro'},
+instances: 7, word: 'Thanks', work: 'Tro'},
+instances: 7, word: 'Valor', work: 'Tro'},
+instances: 7, word: 'Vows', work: 'Tro'},
+instances: 7, word: 'Whereof', work: 'Tro'},
+instances: 7, word: 'Wife', work: 'Tro'},
+instances: 7, word: 'Wise', work: 'Tro'},
+instances: 7, word: 'Worthy', work: 'Tro'},
+instances: 7, word: 'Wrong', work: 'Tro'},
+instances: 7, word: '\'twere', work: 'Tro'},
+instances: 6, word: 'Act', work: 'Tro'},
+instances: 6, word: 'Angry', work: 'Tro'},
+instances: 6, word: 'Armed', work: 'Tro'},
+instances: 6, word: 'Ass', work: 'Tro'},
+instances: 6, word: 'Bad', work: 'Tro'},
+instances: 6, word: 'Battle', work: 'Tro'},
+instances: 6, word: 'Body', work: 'Tro'},
+instances: 6, word: 'Business', work: 'Tro'},
+instances: 6, word: 'Charge', work: 'Tro'},
+instances: 6, word: 'Company', work: 'Tro'},
+instances: 6, word: 'Consent', work: 'Tro'},
+instances: 6, word: 'Cries', work: 'Tro'},
+instances: 6, word: 'Defend', work: 'Tro'},
+instances: 6, word: 'Envy', work: 'Tro'},
+instances: 6, word: 'Face', work: 'Tro'},
+instances: 6, word: 'Fears', work: 'Tro'},
+instances: 6, word: 'Force', work: 'Tro'},
+instances: 6, word: 'Free', work: 'Tro'},
+instances: 6, word: 'Get', work: 'Tro'},
+instances: 6, word: 'Goodly', work: 'Tro'},
+instances: 6, word: 'Greatness', work: 'Tro'},
+instances: 6, word: 'Guard', work: 'Tro'},
+instances: 6, word: 'Hecuba', work: 'Tro'},
+instances: 6, word: 'Honey', work: 'Tro'},
+instances: 6, word: 'Host', work: 'Tro'},
+instances: 6, word: 'Ill', work: 'Tro'},
+instances: 6, word: 'Joint', work: 'Tro'},
+instances: 6, word: 'Judgment', work: 'Tro'},
+instances: 6, word: 'Kill', work: 'Tro'},
+instances: 6, word: 'Kin', work: 'Tro'},
+instances: 6, word: 'King', work: 'Tro'},
+instances: 6, word: 'Knew', work: 'Tro'},
+instances: 6, word: 'Knight', work: 'Tro'},
+instances: 6, word: 'Large', work: 'Tro'},
+instances: 6, word: 'Laughed', work: 'Tro'},
+instances: 6, word: 'Lost', work: 'Tro'},
+instances: 6, word: 'Loved', work: 'Tro'},
+instances: 6, word: 'Man\'s', work: 'Tro'},
+instances: 6, word: 'Master', work: 'Tro'},
+instances: 6, word: 'Merit', work: 'Tro'},
+instances: 6, word: 'Mock', work: 'Tro'},
+instances: 6, word: 'Next', work: 'Tro'},
+instances: 6, word: 'Ne\'er', work: 'Tro'},
+instances: 6, word: 'Others', work: 'Tro'},
+instances: 6, word: 'Pass', work: 'Tro'},
+instances: 6, word: 'Person', work: 'Tro'},
+instances: 6, word: 'Pleasure', work: 'Tro'},
+instances: 6, word: 'Power', work: 'Tro'},
+instances: 6, word: 'Present', work: 'Tro'},
+instances: 6, word: 'Put', work: 'Tro'},
+instances: 6, word: 'Quarrel', work: 'Tro'},
+instances: 6, word: 'Reasons', work: 'Tro'},
+instances: 6, word: 'Rich', work: 'Tro'},
+instances: 6, word: 'Saw', work: 'Tro'},
+instances: 6, word: 'Seem', work: 'Tro'},
+instances: 6, word: 'Shalt', work: 'Tro'},
+instances: 6, word: 'Soft', work: 'Tro'},
+instances: 6, word: 'Sound', work: 'Tro'},
+instances: 6, word: 'Steel', work: 'Tro'},
+instances: 6, word: 'Straight', work: 'Tro'},
+instances: 6, word: 'Swords', work: 'Tro'},
+instances: 6, word: 'Tarry', work: 'Tro'},
+instances: 6, word: 'Themselves', work: 'Tro'},
+instances: 6, word: 'Three', work: 'Tro'},
+instances: 6, word: 'Tonight', work: 'Tro'},
+instances: 6, word: 'Unarm', work: 'Tro'},
+instances: 6, word: 'Under', work: 'Tro'},
+instances: 6, word: 'Unless', work: 'Tro'},
+instances: 6, word: 'Virtue', work: 'Tro'},
+instances: 6, word: 'Wars', work: 'Tro'},
+instances: 6, word: 'Weep', work: 'Tro'},
+instances: 6, word: 'Within', work: 'Tro'},
+instances: 6, word: '\'twixt', work: 'Tro'},
+instances: 5, word: 'Achilles\'', work: 'Tro'},
+instances: 5, word: 'Agamemnon\'s', work: 'Tro'},
+instances: 5, word: 'Alone', work: 'Tro'},
+instances: 5, word: 'Among', work: 'Tro'},
+instances: 5, word: 'Anything', work: 'Tro'},
+instances: 5, word: 'Applause', work: 'Tro'},
+instances: 5, word: 'Bade', work: 'Tro'},
+instances: 5, word: 'Best', work: 'Tro'},
+instances: 5, word: 'Birth', work: 'Tro'},
+instances: 5, word: 'Blow', work: 'Tro'},
+instances: 5, word: 'Brown', work: 'Tro'},
+instances: 5, word: 'Buy', work: 'Tro'},
+instances: 5, word: 'Canst', work: 'Tro'},
+instances: 5, word: 'Catch', work: 'Tro'},
+instances: 5, word: 'Challenge', work: 'Tro'},
+instances: 5, word: 'Cold', work: 'Tro'},
+instances: 5, word: 'Coward', work: 'Tro'},
+instances: 5, word: 'Crowns', work: 'Tro'},
+instances: 5, word: 'Cupid', work: 'Tro'},
+instances: 5, word: 'Curse', work: 'Tro'},
+instances: 5, word: 'Daughter', work: 'Tro'},
+instances: 5, word: 'Deep', work: 'Tro'},
+instances: 5, word: 'Deliver', work: 'Tro'},
+instances: 5, word: 'Discourse', work: 'Tro'},
+instances: 5, word: 'Early', work: 'Tro'},
+instances: 5, word: 'Eat', work: 'Tro'},
+instances: 5, word: 'Embrace', work: 'Tro'},
+instances: 5, word: 'Excuse', work: 'Tro'},
+instances: 5, word: 'Fairly', work: 'Tro'},
+instances: 5, word: 'Far', work: 'Tro'},
+instances: 5, word: 'Fashion', work: 'Tro'},
+instances: 5, word: 'Fast', work: 'Tro'},
+instances: 5, word: 'Fate', work: 'Tro'},
+instances: 5, word: 'Fire', work: 'Tro'},
+instances: 5, word: 'Forgot', work: 'Tro'},
+instances: 5, word: 'Form', work: 'Tro'},
+instances: 5, word: 'Gallant', work: 'Tro'},
+instances: 5, word: 'Gives', work: 'Tro'},
+instances: 5, word: 'Glory', work: 'Tro'},
+instances: 5, word: 'Grace', work: 'Tro'},
+instances: 5, word: 'Grecians', work: 'Tro'},
+instances: 5, word: 'Grown', work: 'Tro'},
+instances: 5, word: 'Guide', work: 'Tro'},
+instances: 5, word: 'Hard', work: 'Tro'},
+instances: 5, word: 'Haste', work: 'Tro'},
+instances: 5, word: 'Heat', work: 'Tro'},
+instances: 5, word: 'Helm', work: 'Tro'},
+instances: 5, word: 'Hence', work: 'Tro'},
+instances: 5, word: 'Hide', work: 'Tro'},
+instances: 5, word: 'Hope', work: 'Tro'},
+instances: 5, word: 'Instance', work: 'Tro'},
+instances: 5, word: 'Jupiter', work: 'Tro'},
+instances: 5, word: 'Kind', work: 'Tro'},
+instances: 5, word: 'Kings', work: 'Tro'},
+instances: 5, word: 'Knees', work: 'Tro'},
+instances: 5, word: 'Known', work: 'Tro'},
+instances: 5, word: 'Learn', work: 'Tro'},
+instances: 5, word: 'Lo', work: 'Tro'},
+instances: 5, word: 'Loss', work: 'Tro'},
+instances: 5, word: 'Mark', work: 'Tro'},
+instances: 5, word: 'Mean', work: 'Tro'},
+instances: 5, word: 'Means', work: 'Tro'},
+instances: 5, word: 'Mistress', work: 'Tro'},
+instances: 5, word: 'Needs', work: 'Tro'},
+instances: 5, word: 'Odd', work: 'Tro'},
+instances: 5, word: 'Oft', work: 'Tro'},
+instances: 5, word: 'Ours', work: 'Tro'},
+instances: 5, word: 'Pale', work: 'Tro'},
+instances: 5, word: 'Particular', work: 'Tro'},
+instances: 5, word: 'Policy', work: 'Tro'},
+instances: 5, word: 'Proof', work: 'Tro'},
+instances: 5, word: 'Puts', work: 'Tro'},
+instances: 5, word: 'Quoth', work: 'Tro'},
+instances: 5, word: 'Rank', work: 'Tro'},
+instances: 5, word: 'Rest', work: 'Tro'},
+instances: 5, word: 'Rude', work: 'Tro'},
+instances: 5, word: 'Sent', work: 'Tro'},
+instances: 5, word: 'Sleep', work: 'Tro'},
+instances: 5, word: 'Something', work: 'Tro'},
+instances: 5, word: 'Sons', work: 'Tro'},
+instances: 5, word: 'Soon', work: 'Tro'},
+instances: 5, word: 'Sooner', work: 'Tro'},
+instances: 5, word: 'Sport', work: 'Tro'},
+instances: 5, word: 'Stands', work: 'Tro'},
+instances: 5, word: 'Strength', work: 'Tro'},
+instances: 5, word: 'Swift', work: 'Tro'},
+instances: 5, word: 'Takes', work: 'Tro'},
+instances: 5, word: 'Thyself', work: 'Tro'},
+instances: 5, word: 'Told', work: 'Tro'},
+instances: 5, word: 'Troth', work: 'Tro'},
+instances: 5, word: 'Twain', work: 'Tro'},
+instances: 5, word: 'Unarmed', work: 'Tro'},
+instances: 5, word: 'View', work: 'Tro'},
+instances: 5, word: 'Virtues', work: 'Tro'},
+instances: 5, word: 'Walls', work: 'Tro'},
+instances: 5, word: 'Wear', work: 'Tro'},
+instances: 5, word: 'Went', work: 'Tro'},
+instances: 5, word: 'Whoreson', work: 'Tro'},
+instances: 5, word: 'Wilt', work: 'Tro'},
+instances: 5, word: 'Wings', work: 'Tro'},
+instances: 5, word: 'Woman', work: 'Tro'},
+instances: 5, word: 'Wound', work: 'Tro'},
+instances: 5, word: 'Wounds', work: 'Tro'},
+instances: 5, word: 'Yes', work: 'Tro'},
+instances: 5, word: '\'s', work: 'Tro'},
+instances: 5, word: '\'twas', work: 'Tro'},
+instances: 4, word: 'Adieu', work: 'Tro'},
+instances: 4, word: 'Almost', work: 'Tro'},
+instances: 4, word: 'Already', work: 'Tro'},
+instances: 4, word: 'Appetite', work: 'Tro'},
+instances: 4, word: 'Arm', work: 'Tro'},
+instances: 4, word: 'Aught', work: 'Tro'},
+instances: 4, word: 'Base', work: 'Tro'},
+instances: 4, word: 'Bids', work: 'Tro'},
+instances: 4, word: 'Bone', work: 'Tro'},
+instances: 4, word: 'Bones', work: 'Tro'},
+instances: 4, word: 'Borne', work: 'Tro'},
+instances: 4, word: 'Boy', work: 'Tro'},
+instances: 4, word: 'Bright', work: 'Tro'},
+instances: 4, word: 'Calchas', work: 'Tro'},
+instances: 4, word: 'Carry', work: 'Tro'},
+instances: 4, word: 'Cassandra', work: 'Tro'},
+instances: 4, word: 'Change', work: 'Tro'},
+instances: 4, word: 'Commands', work: 'Tro'},
+instances: 4, word: 'Commend', work: 'Tro'},
+instances: 4, word: 'Confess', work: 'Tro'},
+instances: 4, word: 'Course', work: 'Tro'},
+instances: 4, word: 'Courtesy', work: 'Tro'},
+instances: 4, word: 'Crack', work: 'Tro'},
+instances: 4, word: 'Cuckold', work: 'Tro'},
+instances: 4, word: 'Cunning', work: 'Tro'},
+instances: 4, word: 'Cut', work: 'Tro'},
+instances: 4, word: 'Danger', work: 'Tro'},
+instances: 4, word: 'Days', work: 'Tro'},
+instances: 4, word: 'Deadly', work: 'Tro'},
+instances: 4, word: 'Dreadful', work: 'Tro'},
+instances: 4, word: 'Drop', work: 'Tro'},
+instances: 4, word: 'Dry', work: 'Tro'},
+instances: 4, word: 'Due', work: 'Tro'},
+instances: 4, word: 'Ear', work: 'Tro'},
+instances: 4, word: 'Eats', work: 'Tro'},
+instances: 4, word: 'Effect', work: 'Tro'},
+instances: 4, word: 'Either', work: 'Tro'},
+instances: 4, word: 'Emulation', work: 'Tro'},
+instances: 4, word: 'Emulous', work: 'Tro'},
+instances: 4, word: 'Enemy', work: 'Tro'},
+instances: 4, word: 'Enter', work: 'Tro'},
+instances: 4, word: 'Entreat', work: 'Tro'},
+instances: 4, word: 'Everything', work: 'Tro'},
+instances: 4, word: 'Fairer', work: 'Tro'},
+instances: 4, word: 'Fault', work: 'Tro'},
+instances: 4, word: 'Favor', work: 'Tro'},
+instances: 4, word: 'Feast', work: 'Tro'},
+instances: 4, word: 'Firm', work: 'Tro'},
+instances: 4, word: 'Foh', work: 'Tro'},
+instances: 4, word: 'Follow', work: 'Tro'},
+instances: 4, word: 'Follows', work: 'Tro'},
+instances: 4, word: 'Foolish', work: 'Tro'},
+instances: 4, word: 'Fools', work: 'Tro'},
+instances: 4, word: 'Foot', work: 'Tro'},
+instances: 4, word: 'Forbid', work: 'Tro'},
+instances: 4, word: 'Found', work: 'Tro'},
+instances: 4, word: 'Fresh', work: 'Tro'},
+instances: 4, word: 'Friends', work: 'Tro'},
+instances: 4, word: 'Gall', work: 'Tro'},
+instances: 4, word: 'Gates', work: 'Tro'},
+instances: 4, word: 'Gave', work: 'Tro'},
+instances: 4, word: 'Given', work: 'Tro'},
+instances: 4, word: 'Glorious', work: 'Tro'},
+instances: 4, word: 'Glove', work: 'Tro'},
+instances: 4, word: 'God', work: 'Tro'},
+instances: 4, word: 'Grief', work: 'Tro'},
+instances: 4, word: 'Grow', work: 'Tro'},
+instances: 4, word: 'Hairs', work: 'Tro'},
+instances: 4, word: 'Hands', work: 'Tro'},
+instances: 4, word: 'Helen\'s', work: 'Tro'},
+instances: 4, word: 'Help', work: 'Tro'},
+instances: 4, word: 'Higher', work: 'Tro'},
+instances: 4, word: 'Ignorance', work: 'Tro'},
+instances: 4, word: 'Infinite', work: 'Tro'},
+instances: 4, word: 'Letter', work: 'Tro'},
+instances: 4, word: 'Let\'s', work: 'Tro'},
+instances: 4, word: 'Light', work: 'Tro'},
+instances: 4, word: 'Loo', work: 'Tro'},
+instances: 4, word: 'Lords', work: 'Tro'},
+instances: 4, word: 'Love\'s', work: 'Tro'},
+instances: 4, word: 'Making', work: 'Tro'},
+instances: 4, word: 'Marry', work: 'Tro'},
+instances: 4, word: 'Marvel', work: 'Tro'},
+instances: 4, word: 'Mass', work: 'Tro'},
+instances: 4, word: 'Meddle', work: 'Tro'},
+instances: 4, word: 'Meets', work: 'Tro'},
+instances: 4, word: 'Menelaus\'', work: 'Tro'},
+instances: 4, word: 'Mercy', work: 'Tro'},
+instances: 4, word: 'Mere', work: 'Tro'},
+instances: 4, word: 'Mighty', work: 'Tro'},
+instances: 4, word: 'Minds', work: 'Tro'},
+instances: 4, word: 'Mother', work: 'Tro'},
+instances: 4, word: 'Moved', work: 'Tro'},
+instances: 4, word: 'Neck', work: 'Tro'},
+instances: 4, word: 'Need', work: 'Tro'},
+instances: 4, word: 'Neither', work: 'Tro'},
+instances: 4, word: 'Note', work: 'Tro'},
+instances: 4, word: 'Oath', work: 'Tro'},
+instances: 4, word: 'Offend', work: 'Tro'},
+instances: 4, word: 'Only', work: 'Tro'},
+instances: 4, word: 'Open', work: 'Tro'},
+instances: 4, word: 'Opposed', work: 'Tro'},
+instances: 4, word: 'Ourselves', work: 'Tro'},
+instances: 4, word: 'Palm', work: 'Tro'},
+instances: 4, word: 'Pandar', work: 'Tro'},
+instances: 4, word: 'Passion', work: 'Tro'},
+instances: 4, word: 'Patient', work: 'Tro'},
+instances: 4, word: 'Pay', work: 'Tro'},
+instances: 4, word: 'Performance', work: 'Tro'},
+instances: 4, word: 'Praised', work: 'Tro'},
+instances: 4, word: 'Praises', work: 'Tro'},
+instances: 4, word: 'Proclamation', work: 'Tro'},
+instances: 4, word: 'Pursue', work: 'Tro'},
+instances: 4, word: 'Quite', work: 'Tro'},
+instances: 4, word: 'Regard', work: 'Tro'},
+instances: 4, word: 'Remember', work: 'Tro'},
+instances: 4, word: 'Request', work: 'Tro'},
+instances: 4, word: 'Rogue', work: 'Tro'},
+instances: 4, word: 'Run', work: 'Tro'},
+instances: 4, word: 'Scorn', work: 'Tro'},
+instances: 4, word: 'Send', work: 'Tro'},
+instances: 4, word: 'Serve', work: 'Tro'},
+instances: 4, word: 'Shape', work: 'Tro'},
+instances: 4, word: 'Shouldst', work: 'Tro'},
+instances: 4, word: 'Sides', work: 'Tro'},
+instances: 4, word: 'Slave', work: 'Tro'},
+instances: 4, word: 'Smiles', work: 'Tro'},
+instances: 4, word: 'Sort', work: 'Tro'},
+instances: 4, word: 'Speaking', work: 'Tro'},
+instances: 4, word: 'Speaks', work: 'Tro'},
+instances: 4, word: 'Speech', work: 'Tro'},
+instances: 4, word: 'Spent', work: 'Tro'},
+instances: 4, word: 'Spy', work: 'Tro'},
+instances: 4, word: 'Stays', work: 'Tro'},
+instances: 4, word: 'Stop', work: 'Tro'},
+instances: 4, word: 'Subject', work: 'Tro'},
+instances: 4, word: 'Success', work: 'Tro'},
+instances: 4, word: 'Surety', work: 'Tro'},
+instances: 4, word: 'Tame', work: 'Tro'},
+instances: 4, word: 'Tarried', work: 'Tro'},
+instances: 4, word: 'Ten', work: 'Tro'},
+instances: 4, word: 'Thank', work: 'Tro'},
+instances: 4, word: 'Theme', work: 'Tro'},
+instances: 4, word: 'Thence', work: 'Tro'},
+instances: 4, word: 'Thine', work: 'Tro'},
+instances: 4, word: 'Throw', work: 'Tro'},
+instances: 4, word: 'Token', work: 'Tro'},
+instances: 4, word: 'Touched', work: 'Tro'},
+instances: 4, word: 'Traitor', work: 'Tro'},
+instances: 4, word: 'Truce', work: 'Tro'},
+instances: 4, word: 'Varlet', work: 'Tro'},
+instances: 4, word: 'Vengeance', work: 'Tro'},
+instances: 4, word: 'Vice', work: 'Tro'},
+instances: 4, word: 'Villain', work: 'Tro'},
+instances: 4, word: 'Voluntary', work: 'Tro'},
+instances: 4, word: 'Vow', work: 'Tro'},
+instances: 4, word: 'Wanton', work: 'Tro'},
+instances: 4, word: 'Water', work: 'Tro'},
+instances: 4, word: 'Weight', work: 'Tro'},
+instances: 4, word: 'Wherefore', work: 'Tro'},
+instances: 4, word: 'Wherein', work: 'Tro'},
+instances: 4, word: 'While', work: 'Tro'},
+instances: 4, word: 'Win', work: 'Tro'},
+instances: 4, word: 'Wisdom', work: 'Tro'},
+instances: 4, word: 'Women', work: 'Tro'},
+instances: 4, word: 'Won', work: 'Tro'},
+instances: 4, word: 'Work', work: 'Tro'},
+instances: 4, word: 'Wouldst', work: 'Tro'},
+instances: 4, word: 'Yesterday', work: 'Tro'},
+instances: 4, word: 'Yours', work: 'Tro'},
+instances: 3, word: 'Add', work: 'Tro'},
+instances: 3, word: 'Addition', work: 'Tro'},
+instances: 3, word: 'Advantage', work: 'Tro'},
+instances: 3, word: 'Afield', work: 'Tro'},
+instances: 3, word: 'Along', work: 'Tro'},
+instances: 3, word: 'Aloud', work: 'Tro'},
+instances: 3, word: 'Although', work: 'Tro'},
+instances: 3, word: 'Amongst', work: 'Tro'},
+instances: 3, word: 'Amorous', work: 'Tro'},
+instances: 3, word: 'Ample', work: 'Tro'},
+instances: 3, word: 'Andromache', work: 'Tro'},
+instances: 3, word: 'Anger', work: 'Tro'},
+instances: 3, word: 'Another\'s', work: 'Tro'},
+instances: 3, word: 'Answers', work: 'Tro'},
+instances: 3, word: 'Apollo', work: 'Tro'},
+instances: 3, word: 'Appear', work: 'Tro'},
+instances: 3, word: 'Arming', work: 'Tro'},
+instances: 3, word: 'Ask', work: 'Tro'},
+instances: 3, word: 'Aunt', work: 'Tro'},
+instances: 3, word: 'Awake', work: 'Tro'},
+instances: 3, word: 'Aye', work: 'Tro'},
+instances: 3, word: 'Backward', work: 'Tro'},
+instances: 3, word: 'Beard', work: 'Tro'},
+instances: 3, word: 'Become', work: 'Tro'},
+instances: 3, word: 'Beg', work: 'Tro'},
+instances: 3, word: 'Bent', work: 'Tro'},
+instances: 3, word: 'Bite', work: 'Tro'},
+instances: 3, word: 'Bitter', work: 'Tro'},
+instances: 3, word: 'Bleed', work: 'Tro'},
+instances: 3, word: 'Blind', work: 'Tro'},
+instances: 3, word: 'Bloody', work: 'Tro'},
+instances: 3, word: 'Blush', work: 'Tro'},
+instances: 3, word: 'Born', work: 'Tro'},
+instances: 3, word: 'Bottom', work: 'Tro'},
+instances: 3, word: 'Brief', work: 'Tro'},
+instances: 3, word: 'Broken', work: 'Tro'},
+instances: 3, word: 'Brother\'s', work: 'Tro'},
+instances: 3, word: 'Brought', work: 'Tro'},
+instances: 3, word: 'Bull', work: 'Tro'},
+instances: 3, word: 'Burns', work: 'Tro'},
+instances: 3, word: 'Calchas\'', work: 'Tro'},
+instances: 3, word: 'Calls', work: 'Tro'},
+instances: 3, word: 'Center', work: 'Tro'},
+instances: 3, word: 'Certain', work: 'Tro'},
+instances: 3, word: 'Chamber', work: 'Tro'},
+instances: 3, word: 'Cheeks', work: 'Tro'},
+instances: 3, word: 'Chivalry', work: 'Tro'},
+instances: 3, word: 'Choice', work: 'Tro'},
+instances: 3, word: 'Clear', work: 'Tro'},
+instances: 3, word: 'Combat', work: 'Tro'},
+instances: 3, word: 'Commends', work: 'Tro'},
+instances: 3, word: 'Common', work: 'Tro'},
+instances: 3, word: 'Comparison', work: 'Tro'},
+instances: 3, word: 'Complexion', work: 'Tro'},
+instances: 3, word: 'Conduct', work: 'Tro'},
+instances: 3, word: 'Core', work: 'Tro'},
+instances: 3, word: 'Cost', work: 'Tro'},
+instances: 3, word: 'Craft', work: 'Tro'},
+instances: 3, word: 'Cressid\'s', work: 'Tro'},
+instances: 3, word: 'Crown', work: 'Tro'},
+instances: 3, word: 'Crows', work: 'Tro'},
+instances: 3, word: 'Cruel', work: 'Tro'},
+instances: 3, word: 'Dainty', work: 'Tro'},
+instances: 3, word: 'Dangerous', work: 'Tro'},
+instances: 3, word: 'Deed', work: 'Tro'},
+instances: 3, word: 'Deiphobus', work: 'Tro'},
+instances: 3, word: 'Depend', work: 'Tro'},
+instances: 3, word: 'Designs', work: 'Tro'},
+instances: 3, word: 'Desires', work: 'Tro'},
+instances: 3, word: 'Devils', work: 'Tro'},
+instances: 3, word: 'Digestion', work: 'Tro'},
+instances: 3, word: 'Divide', work: 'Tro'},
+instances: 3, word: 'Divine', work: 'Tro'},
+instances: 3, word: 'Door', work: 'Tro'},
+instances: 3, word: 'Doubt', work: 'Tro'},
+instances: 3, word: 'Drab', work: 'Tro'},
+instances: 3, word: 'Draws', work: 'Tro'},
+instances: 3, word: 'Dull', work: 'Tro'},
+instances: 3, word: 'Dwells', work: 'Tro'},
+instances: 3, word: 'Edge', work: 'Tro'},
+instances: 3, word: 'Egg', work: 'Tro'},
+instances: 3, word: 'Elephant', work: 'Tro'},
+instances: 3, word: 'Esteem', work: 'Tro'},
+instances: 3, word: 'Evil', work: 'Tro'},
+instances: 3, word: 'Excellent', work: 'Tro'},
+instances: 3, word: 'Execute', work: 'Tro'},
+instances: 3, word: 'Execution', work: 'Tro'},
+instances: 3, word: 'E\'er', work: 'Tro'},
+instances: 3, word: 'Faction', work: 'Tro'},
+instances: 3, word: 'Fail', work: 'Tro'},
+instances: 3, word: 'Falling', work: 'Tro'},
+instances: 3, word: 'Falsehood', work: 'Tro'},
+instances: 3, word: 'Familiar', work: 'Tro'},
+instances: 3, word: 'Fare', work: 'Tro'},
+instances: 3, word: 'Father\'s', work: 'Tro'},
+instances: 3, word: 'Feed', work: 'Tro'},
+instances: 3, word: 'Feel', work: 'Tro'},
+instances: 3, word: 'Fetch', work: 'Tro'},
+instances: 3, word: 'Fever', work: 'Tro'},
+instances: 3, word: 'Figure', work: 'Tro'},
+instances: 3, word: 'Fill', work: 'Tro'},
+instances: 3, word: 'Fine', work: 'Tro'},
+instances: 3, word: 'Fingers', work: 'Tro'},
+instances: 3, word: 'Flies', work: 'Tro'},
+instances: 3, word: 'Fool\'s', work: 'Tro'},
+instances: 3, word: 'Footing', work: 'Tro'},
+instances: 3, word: 'Fortune\'s', work: 'Tro'},
+instances: 3, word: 'Fountain', work: 'Tro'},
+instances: 3, word: 'Gilt', work: 'Tro'},
+instances: 3, word: 'Girl', work: 'Tro'},
+instances: 3, word: 'Glass', work: 'Tro'},
+instances: 3, word: 'Going', work: 'Tro'},
+instances: 3, word: 'Got', work: 'Tro'},
+instances: 3, word: 'Grant', work: 'Tro'},
+instances: 3, word: 'Greater', work: 'Tro'},
+instances: 3, word: 'Green', work: 'Tro'},
+instances: 3, word: 'Greet', work: 'Tro'},
+instances: 3, word: 'Grieve', work: 'Tro'},
+instances: 3, word: 'Grows', work: 'Tro'},
+instances: 3, word: 'Hall', work: 'Tro'},
+instances: 3, word: 'Harm', work: 'Tro'},
+instances: 3, word: 'Hate', work: 'Tro'},
+instances: 3, word: 'Having', work: 'Tro'},
+instances: 3, word: 'Health', work: 'Tro'},
+instances: 3, word: 'Heard', work: 'Tro'},
+instances: 3, word: 'Heavy', work: 'Tro'},
+instances: 3, word: 'Heels', work: 'Tro'},
+instances: 3, word: 'Hell', work: 'Tro'},
+instances: 3, word: 'Herself', work: 'Tro'},
+instances: 3, word: 'Hit', work: 'Tro'},
+instances: 3, word: 'Hollow', work: 'Tro'},
+instances: 3, word: 'Holy', work: 'Tro'},
+instances: 3, word: 'Horn', work: 'Tro'},
+instances: 3, word: 'House', work: 'Tro'},
+instances: 3, word: 'Humbly', work: 'Tro'},
+instances: 3, word: 'Inches', work: 'Tro'},
+instances: 3, word: 'Infancy', work: 'Tro'},
+instances: 3, word: 'Invite', work: 'Tro'},
+instances: 3, word: 'Issue', work: 'Tro'},
+instances: 3, word: 'It\'s', work: 'Tro'},
+instances: 3, word: 'Joints', work: 'Tro'},
+instances: 3, word: 'Just', work: 'Tro'},
+instances: 3, word: 'Keeping', work: 'Tro'},
+instances: 3, word: 'Kisses', work: 'Tro'},
+instances: 3, word: 'Kissing', work: 'Tro'},
+instances: 3, word: 'Knights', work: 'Tro'},
+instances: 3, word: 'Knots', work: 'Tro'},
+instances: 3, word: 'Labor', work: 'Tro'},
+instances: 3, word: 'Last', work: 'Tro'},
+instances: 3, word: 'Late', work: 'Tro'},
+instances: 3, word: 'Laughing', work: 'Tro'},
+instances: 3, word: 'Legs', work: 'Tro'},
+instances: 3, word: 'Lest', work: 'Tro'},
+instances: 3, word: 'Lion', work: 'Tro'},
+instances: 3, word: 'Lip', work: 'Tro'},
+instances: 3, word: 'Livers', work: 'Tro'},
+instances: 3, word: 'Loose', work: 'Tro'},
+instances: 3, word: 'Lovers', work: 'Tro'},
+instances: 3, word: 'Madness', work: 'Tro'},
+instances: 3, word: 'March', work: 'Tro'},
+instances: 3, word: 'Melancholy', work: 'Tro'},
+instances: 3, word: 'Merry', work: 'Tro'},
+instances: 3, word: 'Mocking', work: 'Tro'},
+instances: 3, word: 'Moderate', work: 'Tro'},
+instances: 3, word: 'Monster', work: 'Tro'},
+instances: 3, word: 'Moral', work: 'Tro'},
+instances: 3, word: 'Mouth', work: 'Tro'},
+instances: 3, word: 'Move', work: 'Tro'},
+instances: 3, word: 'Myrmidons', work: 'Tro'},
+instances: 3, word: 'Naught', work: 'Tro'},
+instances: 3, word: 'Near', work: 'Tro'},
+instances: 3, word: 'News', work: 'Tro'},
+instances: 3, word: 'Numbers', work: 'Tro'},
+instances: 3, word: 'Obey', work: 'Tro'},
+instances: 3, word: 'Oblivion', work: 'Tro'},
+instances: 3, word: 'Office', work: 'Tro'},
+instances: 3, word: 'Often', work: 'Tro'},
+instances: 3, word: 'Ominous', work: 'Tro'},
+instances: 3, word: 'Oracle', work: 'Tro'},
+instances: 3, word: 'Order', work: 'Tro'},
+instances: 3, word: 'Other\'s', work: 'Tro'},
+instances: 3, word: 'Ox', work: 'Tro'},
+instances: 3, word: 'Palate', work: 'Tro'},
+instances: 3, word: 'Patroclus\'', work: 'Tro'},
+instances: 3, word: 'Pause', work: 'Tro'},
+instances: 3, word: 'Perchance', work: 'Tro'},
+instances: 3, word: 'Phrygian', work: 'Tro'},
+instances: 3, word: 'Piece', work: 'Tro'},
+instances: 3, word: 'Plain', work: 'Tro'},
+instances: 3, word: 'Planets', work: 'Tro'},
+instances: 3, word: 'Pluck', work: 'Tro'},
+instances: 3, word: 'Port', work: 'Tro'},
+instances: 3, word: 'Powers', work: 'Tro'},
+instances: 3, word: 'Presume', work: 'Tro'},
+instances: 3, word: 'Priest', work: 'Tro'},
+instances: 3, word: 'Prize', work: 'Tro'},
+instances: 3, word: 'Promise', work: 'Tro'},
+instances: 3, word: 'Prophet', work: 'Tro'},
+instances: 3, word: 'Rage', work: 'Tro'},
+instances: 3, word: 'Rail', work: 'Tro'},
+instances: 3, word: 'Read', work: 'Tro'},
+instances: 3, word: 'Receive', work: 'Tro'},
+instances: 3, word: 'Renew', work: 'Tro'},
+instances: 3, word: 'Resides', work: 'Tro'},
+instances: 3, word: 'Respect', work: 'Tro'},
+instances: 3, word: 'Retire', work: 'Tro'},
+instances: 3, word: 'Rouse', work: 'Tro'},
+instances: 3, word: 'Roused', work: 'Tro'},
+instances: 3, word: 'Rule', work: 'Tro'},
+instances: 3, word: 'Sacrifice', work: 'Tro'},
+instances: 3, word: 'Sake', work: 'Tro'},
+instances: 3, word: 'Salt', work: 'Tro'},
+instances: 3, word: 'Save', work: 'Tro'},
+instances: 3, word: 'Saying', work: 'Tro'},
+instances: 3, word: 'Scarce', work: 'Tro'},
+instances: 3, word: 'Scurvy', work: 'Tro'},
+instances: 3, word: 'Sea', work: 'Tro'},
+instances: 3, word: 'Second', work: 'Tro'},
+instances: 3, word: 'Sell', work: 'Tro'},
+instances: 3, word: 'Servant', work: 'Tro'},
+instances: 3, word: 'Sets', work: 'Tro'},
+instances: 3, word: 'Shake', work: 'Tro'},
+instances: 3, word: 'Sharp', work: 'Tro'},
+instances: 3, word: 'She\'ll', work: 'Tro'},
+instances: 3, word: 'Shores', work: 'Tro'},
+instances: 3, word: 'Short', work: 'Tro'},
+instances: 3, word: 'Sigh', work: 'Tro'},
+instances: 3, word: 'Sight', work: 'Tro'},
+instances: 3, word: 'Silence', work: 'Tro'},
+instances: 3, word: 'Single', work: 'Tro'},
+instances: 3, word: 'Sit', work: 'Tro'},
+instances: 3, word: 'Small', work: 'Tro'},
+instances: 3, word: 'Smile', work: 'Tro'},
+instances: 3, word: 'Soldier', work: 'Tro'},
+instances: 3, word: 'Sooth', work: 'Tro'},
+instances: 3, word: 'Sore', work: 'Tro'},
+instances: 3, word: 'Souls', work: 'Tro'},
+instances: 3, word: 'Spirits', work: 'Tro'},
+instances: 3, word: 'Spur', work: 'Tro'},
+instances: 3, word: 'Stirring', work: 'Tro'},
+instances: 3, word: 'Stomach', work: 'Tro'},
+instances: 3, word: 'Strain', work: 'Tro'},
+instances: 3, word: 'Strangeness', work: 'Tro'},
+instances: 3, word: 'Struck', work: 'Tro'},
+instances: 3, word: 'Tail', work: 'Tro'},
+instances: 3, word: 'Talking', work: 'Tro'},
+instances: 3, word: 'Ta\'en', work: 'Tro'},
+instances: 3, word: 'Tempt', work: 'Tro'},
+instances: 3, word: 'Tend', work: 'Tro'},
+instances: 3, word: 'Terms', work: 'Tro'},
+instances: 3, word: 'They\'ll', work: 'Tro'},
+instances: 3, word: 'Thinks', work: 'Tro'},
+instances: 3, word: 'Thither', work: 'Tro'},
+instances: 3, word: 'Tide', work: 'Tro'},
+instances: 3, word: 'Took', work: 'Tro'},
+instances: 3, word: 'Touch', work: 'Tro'},
+instances: 3, word: 'Town', work: 'Tro'},
+instances: 3, word: 'Troilus\'', work: 'Tro'},
+instances: 3, word: 'Trouble', work: 'Tro'},
+instances: 3, word: 'Truer', work: 'Tro'},
+instances: 3, word: 'Trust', work: 'Tro'},
+instances: 3, word: 'Turned', work: 'Tro'},
+instances: 3, word: 'Turns', work: 'Tro'},
+instances: 3, word: 'Tutor', work: 'Tro'},
+instances: 3, word: 'Understand', work: 'Tro'},
+instances: 3, word: 'Venus\'', work: 'Tro'},
+instances: 3, word: 'Verse', work: 'Tro'},
+instances: 3, word: 'Vile', work: 'Tro'},
+instances: 3, word: 'Warrant', work: 'Tro'},
+instances: 3, word: 'Watch', work: 'Tro'},
+instances: 3, word: 'Weak', work: 'Tro'},
+instances: 3, word: 'Whilst', work: 'Tro'},
+instances: 3, word: 'Wide', work: 'Tro'},
+instances: 3, word: 'Wish', work: 'Tro'},
+instances: 3, word: 'Wished', work: 'Tro'},
+instances: 3, word: 'Withal', work: 'Tro'},
+instances: 3, word: 'Witness', work: 'Tro'},
+instances: 3, word: 'Woman\'s', work: 'Tro'},
+instances: 3, word: 'Wonder', work: 'Tro'},
+instances: 3, word: 'Wooed', work: 'Tro'},
+instances: 3, word: 'World\'s', work: 'Tro'},
+instances: 3, word: 'Worse', work: 'Tro'},
+instances: 3, word: 'Worst', work: 'Tro'},
+instances: 3, word: 'Yond', work: 'Tro'},
+instances: 3, word: '\'mongst', work: 'Tro'},
+instances: 3, word: '\'twill', work: 'Tro'},
+instances: 3, word: '\'twould', work: 'Tro'},
+instances: 2, word: 'Abject', work: 'Tro'},
+instances: 2, word: 'Abominable', work: 'Tro'},
+instances: 2, word: 'Accident', work: 'Tro'},
+instances: 2, word: 'Achievements', work: 'Tro'},
+instances: 2, word: 'Aching', work: 'Tro'},
+instances: 2, word: 'Addle', work: 'Tro'},
+instances: 2, word: 'Address', work: 'Tro'},
+instances: 2, word: 'Admirable', work: 'Tro'},
+instances: 2, word: 'Admits', work: 'Tro'},
+instances: 2, word: 'Affairs', work: 'Tro'},
+instances: 2, word: 'Affected', work: 'Tro'},
+instances: 2, word: 'Affection', work: 'Tro'},
+instances: 2, word: 'Afterwards', work: 'Tro'},
+instances: 2, word: 'Age', work: 'Tro'},
+instances: 2, word: 'Alive', work: 'Tro'},
+instances: 2, word: 'Allowance', work: 'Tro'},
+instances: 2, word: 'Amazement', work: 'Tro'},
+instances: 2, word: 'Angels', work: 'Tro'},
+instances: 2, word: 'Answering', work: 'Tro'},
+instances: 2, word: 'Arithmetic', work: 'Tro'},
+instances: 2, word: 'Armor', work: 'Tro'},
+instances: 2, word: 'Army', work: 'Tro'},
+instances: 2, word: 'Armèd', work: 'Tro'},
+instances: 2, word: 'Arrogance', work: 'Tro'},
+instances: 2, word: 'Attest', work: 'Tro'},
+instances: 2, word: 'Authentic', work: 'Tro'},
+instances: 2, word: 'Author\'s', work: 'Tro'},
+instances: 2, word: 'Baby', work: 'Tro'},
+instances: 2, word: 'Banks', work: 'Tro'},
+instances: 2, word: 'Bare', work: 'Tro'},
+instances: 2, word: 'Bark', work: 'Tro'},
+instances: 2, word: 'Batters', work: 'Tro'},
+instances: 2, word: 'Bay', work: 'Tro'},
+instances: 2, word: 'Beats', work: 'Tro'},
+instances: 2, word: 'Beggars', work: 'Tro'},
+instances: 2, word: 'Begins', work: 'Tro'},
+instances: 2, word: 'Behalf', work: 'Tro'},
+instances: 2, word: 'Behind', work: 'Tro'},
+instances: 2, word: 'Belly', work: 'Tro'},
+instances: 2, word: 'Beloved', work: 'Tro'},
+instances: 2, word: 'Below', work: 'Tro'},
+instances: 2, word: 'Bend', work: 'Tro'},
+instances: 2, word: 'Beshrew', work: 'Tro'},
+instances: 2, word: 'Besides', work: 'Tro'},
+instances: 2, word: 'Beyond', work: 'Tro'},
+instances: 2, word: 'Bias', work: 'Tro'},
+instances: 2, word: 'Blank', work: 'Tro'},
+instances: 2, word: 'Blench', work: 'Tro'},
+instances: 2, word: 'Bless', work: 'Tro'},
+instances: 2, word: 'Blest', work: 'Tro'},
+instances: 2, word: 'Blown', work: 'Tro'},
+instances: 2, word: 'Blows', work: 'Tro'},
+instances: 2, word: 'Boats', work: 'Tro'},
+instances: 2, word: 'Bode', work: 'Tro'},
+instances: 2, word: 'Boils', work: 'Tro'},
+instances: 2, word: 'Bold', work: 'Tro'},
+instances: 2, word: 'Bolting', work: 'Tro'},
+instances: 2, word: 'Bonds', work: 'Tro'},
+instances: 2, word: 'Bone-ache', work: 'Tro'},
+instances: 2, word: 'Book', work: 'Tro'},
+instances: 2, word: 'Boot', work: 'Tro'},
+instances: 2, word: 'Bosoms', work: 'Tro'},
+instances: 2, word: 'Bound', work: 'Tro'},
+instances: 2, word: 'Bowels', work: 'Tro'},
+instances: 2, word: 'Box', work: 'Tro'},
+instances: 2, word: 'Brains', work: 'Tro'},
+instances: 2, word: 'Bran', work: 'Tro'},
+instances: 2, word: 'Brass', work: 'Tro'},
+instances: 2, word: 'Bravely', work: 'Tro'},
+instances: 2, word: 'Breaks', work: 'Tro'},
+instances: 2, word: 'Breast', work: 'Tro'},
+instances: 2, word: 'Breed', work: 'Tro'},
+instances: 2, word: 'Brethren', work: 'Tro'},
+instances: 2, word: 'Brings', work: 'Tro'},
+instances: 2, word: 'Broad', work: 'Tro'},
+instances: 2, word: 'Broils', work: 'Tro'},
+instances: 2, word: 'Broke', work: 'Tro'},
+instances: 2, word: 'Bulk', work: 'Tro'},
+instances: 2, word: 'Burden', work: 'Tro'},
+instances: 2, word: 'Cake', work: 'Tro'},
+instances: 2, word: 'Calm', work: 'Tro'},
+instances: 2, word: 'Camel', work: 'Tro'},
+instances: 2, word: 'Captain', work: 'Tro'},
+instances: 2, word: 'Captive', work: 'Tro'},
+instances: 2, word: 'Cares', work: 'Tro'},
+instances: 2, word: 'Carries', work: 'Tro'},
+instances: 2, word: 'Case', work: 'Tro'},
+instances: 2, word: 'Cassandra\'s', work: 'Tro'},
+instances: 2, word: 'Chafed', work: 'Tro'},
+instances: 2, word: 'Chaff', work: 'Tro'},
+instances: 2, word: 'Characters', work: 'Tro'},
+instances: 2, word: 'Charity', work: 'Tro'},
+instances: 2, word: 'Cheese', work: 'Tro'},
+instances: 2, word: 'Chest', work: 'Tro'},
+instances: 2, word: 'Chide', work: 'Tro'},
+instances: 2, word: 'Choose', work: 'Tro'},
+instances: 2, word: 'Chronicle', work: 'Tro'},
+instances: 2, word: 'Cities', work: 'Tro'},
+instances: 2, word: 'City', work: 'Tro'},
+instances: 2, word: 'Clamors', work: 'Tro'},
+instances: 2, word: 'Close', work: 'Tro'},
+instances: 2, word: 'Cloven', work: 'Tro'},
+instances: 2, word: 'Coldly', work: 'Tro'},
+instances: 2, word: 'Color', work: 'Tro'},
+instances: 2, word: 'Commander', work: 'Tro'},
+instances: 2, word: 'Commerce', work: 'Tro'},
+instances: 2, word: 'Commotion', work: 'Tro'},
+instances: 2, word: 'Comparisons', work: 'Tro'},
+instances: 2, word: 'Complete', work: 'Tro'},
+instances: 2, word: 'Composed', work: 'Tro'},
+instances: 2, word: 'Composure', work: 'Tro'},
+instances: 2, word: 'Condition', work: 'Tro'},
+instances: 2, word: 'Conditions', work: 'Tro'},
+instances: 2, word: 'Conduce', work: 'Tro'},
+instances: 2, word: 'Confession', work: 'Tro'},
+instances: 2, word: 'Conjure', work: 'Tro'},
+instances: 2, word: 'Constancy', work: 'Tro'},
+instances: 2, word: 'Constant', work: 'Tro'},
+instances: 2, word: 'Content', work: 'Tro'},
+instances: 2, word: 'Contention', work: 'Tro'},
+instances: 2, word: 'Convince', work: 'Tro'},
+instances: 2, word: 'Copper', work: 'Tro'},
+instances: 2, word: 'Couldst', work: 'Tro'},
+instances: 2, word: 'Counsel', work: 'Tro'},
+instances: 2, word: 'Count', work: 'Tro'},
+instances: 2, word: 'Countenance', work: 'Tro'},
+instances: 2, word: 'Country', work: 'Tro'},
+instances: 2, word: 'Courtiers', work: 'Tro'},
+instances: 2, word: 'Courtly', work: 'Tro'},
+instances: 2, word: 'Creep', work: 'Tro'},
+instances: 2, word: 'Crest', work: 'Tro'},
+instances: 2, word: 'Cried', work: 'Tro'},
+instances: 2, word: 'Cupid\'s', work: 'Tro'},
+instances: 2, word: 'Custom', work: 'Tro'},
+instances: 2, word: 'Dangers', work: 'Tro'},
+instances: 2, word: 'Dardan', work: 'Tro'},
+instances: 2, word: 'Date', work: 'Tro'},
+instances: 2, word: 'Daughters', work: 'Tro'},
+instances: 2, word: 'Daws', work: 'Tro'},
+instances: 2, word: 'Deaf', work: 'Tro'},
+instances: 2, word: 'Deal', work: 'Tro'},
+instances: 2, word: 'Dearly', work: 'Tro'},
+instances: 2, word: 'Decline', work: 'Tro'},
+instances: 2, word: 'Declined', work: 'Tro'},
+instances: 2, word: 'Degrees', work: 'Tro'},
+instances: 2, word: 'Deject', work: 'Tro'},
+instances: 2, word: 'Demand', work: 'Tro'},
+instances: 2, word: 'Desert', work: 'Tro'},
+instances: 2, word: 'Desired', work: 'Tro'},
+instances: 2, word: 'Destiny', work: 'Tro'},
+instances: 2, word: 'Dignity', work: 'Tro'},
+instances: 2, word: 'Diomed\'s', work: 'Tro'},
+instances: 2, word: 'Dirt', work: 'Tro'},
+instances: 2, word: 'Discredit', work: 'Tro'},
+instances: 2, word: 'Discretion', work: 'Tro'},
+instances: 2, word: 'Disdain', work: 'Tro'},
+instances: 2, word: 'Diseases', work: 'Tro'},
+instances: 2, word: 'Disgrace', work: 'Tro'},
+instances: 2, word: 'Dish', work: 'Tro'},
+instances: 2, word: 'Disposer', work: 'Tro'},
+instances: 2, word: 'Dispraise', work: 'Tro'},
+instances: 2, word: 'Dissembling', work: 'Tro'},
+instances: 2, word: 'Distaste', work: 'Tro'},
+instances: 2, word: 'Distinct', work: 'Tro'},
+instances: 2, word: 'Distinction', work: 'Tro'},
+instances: 2, word: 'Distraction', work: 'Tro'},
+instances: 2, word: 'Doing', work: 'Tro'},
+instances: 2, word: 'Doubtful', work: 'Tro'},
+instances: 2, word: 'Drawing', work: 'Tro'},
+instances: 2, word: 'Drawn', work: 'Tro'},
+instances: 2, word: 'Dread', work: 'Tro'},
+instances: 2, word: 'Dreaming', work: 'Tro'},
+instances: 2, word: 'Dreams', work: 'Tro'},
+instances: 2, word: 'Dreamt', work: 'Tro'},
+instances: 2, word: 'Dregs', work: 'Tro'},
+instances: 2, word: 'Drink', work: 'Tro'},
+instances: 2, word: 'Drops', work: 'Tro'},
+instances: 2, word: 'Drowsy', work: 'Tro'},
+instances: 2, word: 'Ducks', work: 'Tro'},
+instances: 2, word: 'Earnestly', work: 'Tro'},
+instances: 2, word: 'Ease', work: 'Tro'},
+instances: 2, word: 'Election', work: 'Tro'},
+instances: 2, word: 'Eminence', work: 'Tro'},
+instances: 2, word: 'Employed', work: 'Tro'},
+instances: 2, word: 'Empty', work: 'Tro'},
+instances: 2, word: 'Endeavor', work: 'Tro'},
+instances: 2, word: 'Engaged', work: 'Tro'},
+instances: 2, word: 'Engine', work: 'Tro'},
+instances: 2, word: 'Enterprise', work: 'Tro'},
+instances: 2, word: 'Envious', work: 'Tro'},
+instances: 2, word: 'Error', work: 'Tro'},
+instances: 2, word: 'Evasion', work: 'Tro'},
+instances: 2, word: 'Everywhere', work: 'Tro'},
+instances: 2, word: 'Exact', work: 'Tro'},
+instances: 2, word: 'Expectation', work: 'Tro'},
+instances: 2, word: 'Expected', work: 'Tro'},
+instances: 2, word: 'Exposed', work: 'Tro'},
+instances: 2, word: 'Extremity', work: 'Tro'},
+instances: 2, word: 'E\'en', work: 'Tro'},
+instances: 2, word: 'Factions', work: 'Tro'},
+instances: 2, word: 'Factious', work: 'Tro'},
+instances: 2, word: 'Fain', work: 'Tro'},
+instances: 2, word: 'Faint', work: 'Tro'},
+instances: 2, word: 'Fall\'n', work: 'Tro'},
+instances: 2, word: 'Famed', work: 'Tro'},
+instances: 2, word: 'Fan', work: 'Tro'},
+instances: 2, word: 'Fancy', work: 'Tro'},
+instances: 2, word: 'Fasting', work: 'Tro'},
+instances: 2, word: 'Fat', work: 'Tro'},
+instances: 2, word: 'Fed', work: 'Tro'},
+instances: 2, word: 'Fell', work: 'Tro'},
+instances: 2, word: 'Fellows', work: 'Tro'},
+instances: 2, word: 'Fetches', work: 'Tro'},
+instances: 2, word: 'Fields', work: 'Tro'},
+instances: 2, word: 'Fierce', work: 'Tro'},
+instances: 2, word: 'Finds', work: 'Tro'},
+instances: 2, word: 'Fineness', work: 'Tro'},
+instances: 2, word: 'Finger', work: 'Tro'},
+instances: 2, word: 'Fist', work: 'Tro'},
+instances: 2, word: 'Fits', work: 'Tro'},
+instances: 2, word: 'Fixed', work: 'Tro'},
+instances: 2, word: 'Flood', work: 'Tro'},
+instances: 2, word: 'Flower', work: 'Tro'},
+instances: 2, word: 'Forehead', work: 'Tro'},
+instances: 2, word: 'Forestall', work: 'Tro'},
+instances: 2, word: 'Forthwith', work: 'Tro'},
+instances: 2, word: 'Fought', work: 'Tro'},
+instances: 2, word: 'Frankly', work: 'Tro'},
+instances: 2, word: 'Friendship', work: 'Tro'},
+instances: 2, word: 'Frown', work: 'Tro'},
+instances: 2, word: 'Fry', work: 'Tro'},
+instances: 2, word: 'Fusty', work: 'Tro'},
+instances: 2, word: 'Gait', work: 'Tro'},
+instances: 2, word: 'Game', work: 'Tro'},
+instances: 2, word: 'Gear', work: 'Tro'},
+instances: 2, word: 'Generation', work: 'Tro'},
+instances: 2, word: 'Gentleman', work: 'Tro'},
+instances: 2, word: 'Gentleness', work: 'Tro'},
+instances: 2, word: 'Giant', work: 'Tro'},
+instances: 2, word: 'Gift', work: 'Tro'},
+instances: 2, word: 'Gifts', work: 'Tro'},
+instances: 2, word: 'Gild', work: 'Tro'},
+instances: 2, word: 'Goddess', work: 'Tro'},
+instances: 2, word: 'Godly', work: 'Tro'},
+instances: 2, word: 'Gold', work: 'Tro'},
+instances: 2, word: 'Gored', work: 'Tro'},
+instances: 2, word: 'Grain', work: 'Tro'},
+instances: 2, word: 'Grandsire', work: 'Tro'},
+instances: 2, word: 'Grasps', work: 'Tro'},
+instances: 2, word: 'Great-sized', work: 'Tro'},
+instances: 2, word: 'Greeting', work: 'Tro'},
+instances: 2, word: 'Grinding', work: 'Tro'},
+instances: 2, word: 'Groans', work: 'Tro'},
+instances: 2, word: 'Guardian', work: 'Tro'},
+instances: 2, word: 'Hacked', work: 'Tro'},
+instances: 2, word: 'Hacks', work: 'Tro'},
+instances: 2, word: 'Hang', work: 'Tro'},
+instances: 2, word: 'Hangs', work: 'Tro'},
+instances: 2, word: 'Hateful', work: 'Tro'},
+instances: 2, word: 'Haunt', work: 'Tro'},
+instances: 2, word: 'Hearts', work: 'Tro'},
+instances: 2, word: 'Heed', work: 'Tro'},
+instances: 2, word: 'Heel', work: 'Tro'},
+instances: 2, word: 'Height', work: 'Tro'},
+instances: 2, word: 'Held', work: 'Tro'},
+instances: 2, word: 'Hem', work: 'Tro'},
+instances: 2, word: 'Heroical', work: 'Tro'},
+instances: 2, word: 'Honors', work: 'Tro'},
+instances: 2, word: 'Hopes', work: 'Tro'},
+instances: 2, word: 'Horns', work: 'Tro'},
+instances: 2, word: 'Horse\'s', work: 'Tro'},
+instances: 2, word: 'Hum', work: 'Tro'},
+instances: 2, word: 'Humorous', work: 'Tro'},
+instances: 2, word: 'Hunt', work: 'Tro'},
+instances: 2, word: 'Husband', work: 'Tro'},
+instances: 2, word: 'Idle', work: 'Tro'},
+instances: 2, word: 'Idol', work: 'Tro'},
+instances: 2, word: 'Imitation', work: 'Tro'},
+instances: 2, word: 'Imperial', work: 'Tro'},
+instances: 2, word: 'Important', work: 'Tro'},
+instances: 2, word: 'India', work: 'Tro'},
+instances: 2, word: 'Insolent', work: 'Tro'},
+instances: 2, word: 'Instantly', work: 'Tro'},
+instances: 2, word: 'Instructed', work: 'Tro'},
+instances: 2, word: 'Instruments', work: 'Tro'},
+instances: 2, word: 'Integrity', work: 'Tro'},
+instances: 2, word: 'Intent', work: 'Tro'},
+instances: 2, word: 'Issues', work: 'Tro'},
+instances: 2, word: 'Itch', work: 'Tro'},
+instances: 2, word: 'I\'d', work: 'Tro'},
+instances: 2, word: 'Joys', work: 'Tro'},
+instances: 2, word: 'Juggling', work: 'Tro'},
+instances: 2, word: 'Justice', work: 'Tro'},
+instances: 2, word: 'Kindly', work: 'Tro'},
+instances: 2, word: 'Knave', work: 'Tro'},
+instances: 2, word: 'Knock', work: 'Tro'},
+instances: 2, word: 'Knocked', work: 'Tro'},
+instances: 2, word: 'Knower', work: 'Tro'},
+instances: 2, word: 'La', work: 'Tro'},
+instances: 2, word: 'Laboring', work: 'Tro'},
+instances: 2, word: 'Laugh', work: 'Tro'},
+instances: 2, word: 'Law', work: 'Tro'},
+instances: 2, word: 'Lazy', work: 'Tro'},
+instances: 2, word: 'Lead', work: 'Tro'},
+instances: 2, word: 'Leads', work: 'Tro'},
+instances: 2, word: 'Leavening', work: 'Tro'},
+instances: 2, word: 'Led', work: 'Tro'},
+instances: 2, word: 'Left', work: 'Tro'},
+instances: 2, word: 'Leg', work: 'Tro'},
+instances: 2, word: 'Leisure', work: 'Tro'},
+instances: 2, word: 'Lesser', work: 'Tro'},
+instances: 2, word: 'Lift', work: 'Tro'},
+instances: 2, word: 'Limb', work: 'Tro'},
+instances: 2, word: 'Limbs', work: 'Tro'},
+instances: 2, word: 'Lives', work: 'Tro'},
+instances: 2, word: 'Loathed', work: 'Tro'},
+instances: 2, word: 'Locked', work: 'Tro'},
+instances: 2, word: 'Looked', work: 'Tro'},
+instances: 2, word: 'Lott\'ry', work: 'Tro'},
+instances: 2, word: 'Lover', work: 'Tro'},
+instances: 2, word: 'Loving', work: 'Tro'},
+instances: 2, word: 'Lungs', work: 'Tro'},
+instances: 2, word: 'Luster', work: 'Tro'},
+instances: 2, word: 'Magnanimous', work: 'Tro'},
+instances: 2, word: 'Maid', work: 'Tro'},
+instances: 2, word: 'Maids', work: 'Tro'},
+instances: 2, word: 'Main', work: 'Tro'},
+instances: 2, word: 'Maintain', work: 'Tro'},
+instances: 2, word: 'Male', work: 'Tro'},
+instances: 2, word: 'Malice', work: 'Tro'},
+instances: 2, word: 'Manhood', work: 'Tro'},
+instances: 2, word: 'Manner', work: 'Tro'},
+instances: 2, word: 'Mask', work: 'Tro'},
+instances: 2, word: 'Massy', work: 'Tro'},
+instances: 2, word: 'Meanest', work: 'Tro'},
+instances: 2, word: 'Measure', work: 'Tro'},
+instances: 2, word: 'Meeting', work: 'Tro'},
+instances: 2, word: 'Member', work: 'Tro'},
+instances: 2, word: 'Memorial', work: 'Tro'},
+instances: 2, word: 'Mental', work: 'Tro'},
+instances: 2, word: 'Men\'s', work: 'Tro'},
+instances: 2, word: 'Merchant', work: 'Tro'},
+instances: 2, word: 'Merchants', work: 'Tro'},
+instances: 2, word: 'Mercury', work: 'Tro'},
+instances: 2, word: 'Merits', work: 'Tro'},
+instances: 2, word: 'Message', work: 'Tro'},
+instances: 2, word: 'Methinks', work: 'Tro'},
+instances: 2, word: 'Mirth', work: 'Tro'},
+instances: 2, word: 'Modest', work: 'Tro'},
+instances: 2, word: 'Mongrel', work: 'Tro'},
+instances: 2, word: 'Months', work: 'Tro'},
+instances: 2, word: 'Moon', work: 'Tro'},
+instances: 2, word: 'Mortal', work: 'Tro'},
+instances: 2, word: 'Mothers', work: 'Tro'},
+instances: 2, word: 'Names', work: 'Tro'},
+instances: 2, word: 'Naughty', work: 'Tro'},
+instances: 2, word: 'New', work: 'Tro'},
+instances: 2, word: 'Nine', work: 'Tro'},
+instances: 2, word: 'Nobody', work: 'Tro'},
+instances: 2, word: 'Nod', work: 'Tro'},
+instances: 2, word: 'Noise', work: 'Tro'},
+instances: 2, word: 'Nose', work: 'Tro'},
+instances: 2, word: 'Notes', work: 'Tro'},
+instances: 2, word: 'Object', work: 'Tro'},
+instances: 2, word: 'Observance', work: 'Tro'},
+instances: 2, word: 'Occasion', work: 'Tro'},
+instances: 2, word: 'One\'s', work: 'Tro'},
+instances: 2, word: 'Oration', work: 'Tro'},
+instances: 2, word: 'Otherwise', work: 'Tro'},
+instances: 2, word: 'Ourself', work: 'Tro'},
+instances: 2, word: 'Owl', work: 'Tro'},
+instances: 2, word: 'Pace', work: 'Tro'},
+instances: 2, word: 'Pageant', work: 'Tro'},
+instances: 2, word: 'Pain', work: 'Tro'},
+instances: 2, word: 'Painted', work: 'Tro'},
+instances: 2, word: 'Palter', work: 'Tro'},
+instances: 2, word: 'Pandar\'s', work: 'Tro'},
+instances: 2, word: 'Panders', work: 'Tro'},
+instances: 2, word: 'Parted', work: 'Tro'},
+instances: 2, word: 'Parting', work: 'Tro'},
+instances: 2, word: 'Passed', work: 'Tro'},
+instances: 2, word: 'Pearl', work: 'Tro'},
+instances: 2, word: 'Pen', work: 'Tro'},
+instances: 2, word: 'Perceive', work: 'Tro'},
+instances: 2, word: 'Perfection', work: 'Tro'},
+instances: 2, word: 'Petition', work: 'Tro'},
+instances: 2, word: 'Phrygia', work: 'Tro'},
+instances: 2, word: 'Phthisic', work: 'Tro'},
+instances: 2, word: 'Picture', work: 'Tro'},
+instances: 2, word: 'Pity', work: 'Tro'},
+instances: 2, word: 'Plagues', work: 'Tro'},
+instances: 2, word: 'Plains', work: 'Tro'},
+instances: 2, word: 'Pleased', work: 'Tro'},
+instances: 2, word: 'Pleases', work: 'Tro'},
+instances: 2, word: 'Pleasures', work: 'Tro'},
+instances: 2, word: 'Pledge', work: 'Tro'},
+instances: 2, word: 'Pluto', work: 'Tro'},
+instances: 2, word: 'Pluto\'s', work: 'Tro'},
+instances: 2, word: 'Point', work: 'Tro'},
+instances: 2, word: 'Poised', work: 'Tro'},
+instances: 2, word: 'Possess', work: 'Tro'},
+instances: 2, word: 'Possessed', work: 'Tro'},
+instances: 2, word: 'Possible', work: 'Tro'},
+instances: 2, word: 'Pound', work: 'Tro'},
+instances: 2, word: 'Pour', work: 'Tro'},
+instances: 2, word: 'Prayer', work: 'Tro'},
+instances: 2, word: 'Precious', work: 'Tro'},
+instances: 2, word: 'Presence', work: 'Tro'},
+instances: 2, word: 'Presently', work: 'Tro'},
+instances: 2, word: 'Priamus', work: 'Tro'},
+instances: 2, word: 'Price', work: 'Tro'},
+instances: 2, word: 'Princely', work: 'Tro'},
+instances: 2, word: 'Prisoner', work: 'Tro'},
+instances: 2, word: 'Privacy', work: 'Tro'},
+instances: 2, word: 'Private', work: 'Tro'},
+instances: 2, word: 'Privileged', work: 'Tro'},
+instances: 2, word: 'Prized', work: 'Tro'},
+instances: 2, word: 'Proclaimed', work: 'Tro'},
+instances: 2, word: 'Procure', work: 'Tro'},
+instances: 2, word: 'Promised', work: 'Tro'},
+instances: 2, word: 'Proper', work: 'Tro'},
+instances: 2, word: 'Protest', work: 'Tro'},
+instances: 2, word: 'Prouder', work: 'Tro'},
+instances: 2, word: 'Proudly', work: 'Tro'},
+instances: 2, word: 'Provoked', work: 'Tro'},
+instances: 2, word: 'Pure', work: 'Tro'},
+instances: 2, word: 'Purity', work: 'Tro'},
+instances: 2, word: 'Purse', work: 'Tro'},
+instances: 2, word: 'Pursuit', work: 'Tro'},
+instances: 2, word: 'Quality', work: 'Tro'},
+instances: 2, word: 'Raging', work: 'Tro'},
+instances: 2, word: 'Rails', work: 'Tro'},
+instances: 2, word: 'Rascal', work: 'Tro'},
+instances: 2, word: 'Raven', work: 'Tro'},
+instances: 2, word: 'Reading', work: 'Tro'},
+instances: 2, word: 'Receives', work: 'Tro'},
+instances: 2, word: 'Red', work: 'Tro'},
+instances: 2, word: 'Rein', work: 'Tro'},
+instances: 2, word: 'Relish', work: 'Tro'},
+instances: 2, word: 'Remedy', work: 'Tro'},
+instances: 2, word: 'Render', work: 'Tro'},
+instances: 2, word: 'Reputation', work: 'Tro'},
+instances: 2, word: 'Revenge', work: 'Tro'},
+instances: 2, word: 'Revenue', work: 'Tro'},
+instances: 2, word: 'Reverend', work: 'Tro'},
+instances: 2, word: 'Revolt', work: 'Tro'},
+instances: 2, word: 'Richer', work: 'Tro'},
+instances: 2, word: 'Ride', work: 'Tro'},
+instances: 2, word: 'Rise', work: 'Tro'},
+instances: 2, word: 'Rive', work: 'Tro'},
+instances: 2, word: 'River', work: 'Tro'},
+instances: 2, word: 'Roaring', work: 'Tro'},
+instances: 2, word: 'Rob', work: 'Tro'},
+instances: 2, word: 'Round', work: 'Tro'},
+instances: 2, word: 'Royal', work: 'Tro'},
+instances: 2, word: 'Rudeness', work: 'Tro'},
+instances: 2, word: 'Ruin', work: 'Tro'},
+instances: 2, word: 'Safe', work: 'Tro'},
+instances: 2, word: 'Safe-conduct', work: 'Tro'},
+instances: 2, word: 'Sail', work: 'Tro'},
+instances: 2, word: 'Salute', work: 'Tro'},
+instances: 2, word: 'Savage', work: 'Tro'},
+instances: 2, word: 'Scene', work: 'Tro'},
+instances: 2, word: 'Schools', work: 'Tro'},
+instances: 2, word: 'Scorns', work: 'Tro'},
+instances: 2, word: 'Scraps', work: 'Tro'},
+instances: 2, word: 'Scruple', work: 'Tro'},
+instances: 2, word: 'Seal', work: 'Tro'},
+instances: 2, word: 'Seas', work: 'Tro'},
+instances: 2, word: 'Season', work: 'Tro'},
+instances: 2, word: 'Seeming', work: 'Tro'},
+instances: 2, word: 'Self', work: 'Tro'},
+instances: 2, word: 'Several', work: 'Tro'},
+instances: 2, word: 'Sex', work: 'Tro'},
+instances: 2, word: 'Shapes', work: 'Tro'},
+instances: 2, word: 'Share', work: 'Tro'},
+instances: 2, word: 'Shares', work: 'Tro'},
+instances: 2, word: 'Ships', work: 'Tro'},
+instances: 2, word: 'Shoulder', work: 'Tro'},
+instances: 2, word: 'Shows', work: 'Tro'},
+instances: 2, word: 'Shut', work: 'Tro'},
+instances: 2, word: 'Side', work: 'Tro'},
+instances: 2, word: 'Sighs', work: 'Tro'},
+instances: 2, word: 'Silent', work: 'Tro'},
+instances: 2, word: 'Silver', work: 'Tro'},
+instances: 2, word: 'Simplicity', work: 'Tro'},
+instances: 2, word: 'Sin', work: 'Tro'},
+instances: 2, word: 'Sink', work: 'Tro'},
+instances: 2, word: 'Sith', work: 'Tro'},
+instances: 2, word: 'Skill', work: 'Tro'},
+instances: 2, word: 'Skittish', work: 'Tro'},
+instances: 2, word: 'Slanders', work: 'Tro'},
+instances: 2, word: 'Sleeping', work: 'Tro'},
+instances: 2, word: 'Slept', work: 'Tro'},
+instances: 2, word: 'Slipped', work: 'Tro'},
+instances: 2, word: 'Slippery', work: 'Tro'},
+instances: 2, word: 'Slow', work: 'Tro'},
+instances: 2, word: 'Soil', work: 'Tro'},
+instances: 2, word: 'Soldiers', work: 'Tro'},
+instances: 2, word: 'Song', work: 'Tro'},
+instances: 2, word: 'Spacious', work: 'Tro'},
+instances: 2, word: 'Sparrow', work: 'Tro'},
+instances: 2, word: 'Speeches', work: 'Tro'},
+instances: 2, word: 'Speed', work: 'Tro'},
+instances: 2, word: 'Spleen', work: 'Tro'},
+instances: 2, word: 'Split', work: 'Tro'},
+instances: 2, word: 'Spoke', work: 'Tro'},
+instances: 2, word: 'Spout', work: 'Tro'},
+instances: 2, word: 'Stale', work: 'Tro'},
+instances: 2, word: 'Starting', work: 'Tro'},
+instances: 2, word: 'States', work: 'Tro'},
+instances: 2, word: 'Steed', work: 'Tro'},
+instances: 2, word: 'Step', work: 'Tro'},
+instances: 2, word: 'Stick', work: 'Tro'},
+instances: 2, word: 'Stol\'n', work: 'Tro'},
+instances: 2, word: 'Stone', work: 'Tro'},
+instances: 2, word: 'Strained', work: 'Tro'},
+instances: 2, word: 'Strangely', work: 'Tro'},
+instances: 2, word: 'Strikest', work: 'Tro'},
+instances: 2, word: 'Stroke', work: 'Tro'},
+instances: 2, word: 'Strokes', work: 'Tro'},
+instances: 2, word: 'Stubborn', work: 'Tro'},
+instances: 2, word: 'Stuff', work: 'Tro'},
+instances: 2, word: 'Subtle', work: 'Tro'},
+instances: 2, word: 'Suck', work: 'Tro'},
+instances: 2, word: 'Suddenly', work: 'Tro'},
+instances: 2, word: 'Suff\'rance', work: 'Tro'},
+instances: 2, word: 'Sum', work: 'Tro'},
+instances: 2, word: 'Superficially', work: 'Tro'},
+instances: 2, word: 'Supple', work: 'Tro'},
+instances: 2, word: 'Sups', work: 'Tro'},
+instances: 2, word: 'Swallowed', work: 'Tro'},
+instances: 2, word: 'Sway', work: 'Tro'},
+instances: 2, word: 'Swore', work: 'Tro'},
+instances: 2, word: 'Sympathize', work: 'Tro'},
+instances: 2, word: 'Table', work: 'Tro'},
+instances: 2, word: 'Taken', work: 'Tro'},
+instances: 2, word: 'Tale', work: 'Tro'},
+instances: 2, word: 'Tear', work: 'Tro'},
+instances: 2, word: 'Tell\'st', work: 'Tro'},
+instances: 2, word: 'Tempered', work: 'Tro'},
+instances: 2, word: 'Tempts', work: 'Tro'},
+instances: 2, word: 'Thetis\'', work: 'Tro'},
+instances: 2, word: 'They\'re', work: 'Tro'},
+instances: 2, word: 'Thinking', work: 'Tro'},
+instances: 2, word: 'Tickles', work: 'Tro'},
+instances: 2, word: 'Tickling', work: 'Tro'},
+instances: 2, word: 'Times', work: 'Tro'},
+instances: 2, word: 'Torch', work: 'Tro'},
+instances: 2, word: 'Toward', work: 'Tro'},
+instances: 2, word: 'Trial', work: 'Tro'},
+instances: 2, word: 'Tricks', work: 'Tro'},
+instances: 2, word: 'Trim', work: 'Tro'},
+instances: 2, word: 'Truly', work: 'Tro'},
+instances: 2, word: 'Trumpets', work: 'Tro'},
+instances: 2, word: 'Truth\'s', work: 'Tro'},
+instances: 2, word: 'Tune', work: 'Tro'},
+instances: 2, word: 'Tuned', work: 'Tro'},
+instances: 2, word: 'Two-and-fifty', work: 'Tro'},
+instances: 2, word: 'T\'', work: 'Tro'},
+instances: 2, word: 'Undertakings', work: 'Tro'},
+instances: 2, word: 'Ungained', work: 'Tro'},
+instances: 2, word: 'Unity', work: 'Tro'},
+instances: 2, word: 'Universal', work: 'Tro'},
+instances: 2, word: 'Unworthy', work: 'Tro'},
+instances: 2, word: 'Valor\'s', work: 'Tro'},
+instances: 2, word: 'Value', work: 'Tro'},
+instances: 2, word: 'Vein', work: 'Tro'},
+instances: 2, word: 'Veins', work: 'Tro'},
+instances: 2, word: 'Venus', work: 'Tro'},
+instances: 2, word: 'Vigor', work: 'Tro'},
+instances: 2, word: 'Vipers', work: 'Tro'},
+instances: 2, word: 'Virtuous', work: 'Tro'},
+instances: 2, word: 'Vowing', work: 'Tro'},
+instances: 2, word: 'Wake', work: 'Tro'},
+instances: 2, word: 'Ward', work: 'Tro'},
+instances: 2, word: 'Ware', work: 'Tro'},
+instances: 2, word: 'Warlike', work: 'Tro'},
+instances: 2, word: 'Warm', work: 'Tro'},
+instances: 2, word: 'Watches', work: 'Tro'},
+instances: 2, word: 'Ways', work: 'Tro'},
+instances: 2, word: 'Weakness', work: 'Tro'},
+instances: 2, word: 'Wears', work: 'Tro'},
+instances: 2, word: 'Weigh', work: 'Tro'},
+instances: 2, word: 'Wench', work: 'Tro'},
+instances: 2, word: 'Wert', work: 'Tro'},
+instances: 2, word: 'Whereupon', work: 'Tro'},
+instances: 2, word: 'Whether', work: 'Tro'},
+instances: 2, word: 'Whiles', work: 'Tro'},
+instances: 2, word: 'Wholly', work: 'Tro'},
+instances: 2, word: 'Wicked', work: 'Tro'},
+instances: 2, word: 'Winds', work: 'Tro'},
+instances: 2, word: 'Wisely', work: 'Tro'},
+instances: 2, word: 'Witch', work: 'Tro'},
+instances: 2, word: 'Withered', work: 'Tro'},
+instances: 2, word: 'Woe', work: 'Tro'},
+instances: 2, word: 'Wolf', work: 'Tro'},
+instances: 2, word: 'Woo', work: 'Tro'},
+instances: 2, word: 'Wrath', work: 'Tro'},
+instances: 2, word: 'Yield', work: 'Tro'},
+instances: 2, word: 'Youngest', work: 'Tro'},
+instances: 2, word: 'Youthful', work: 'Tro'},
+instances: 2, word: 'You\'d', work: 'Tro'},
+instances: 2, word: 'Zeal', work: 'Tro'},
+instances: 2, word: '\'fore', work: 'Tro'},
+instances: 2, word: '\'gainst', work: 'Tro'},
+instances: 1, word: 'A-mending', work: 'Tro'},
+instances: 1, word: 'A-scorn', work: 'Tro'},
+instances: 1, word: 'A-work', work: 'Tro'},
+instances: 1, word: 'Abandoned', work: 'Tro'},
+instances: 1, word: 'Abashed', work: 'Tro'},
+instances: 1, word: 'Abhorred', work: 'Tro'},
+instances: 1, word: 'Abide', work: 'Tro'},
+instances: 1, word: 'Abilities', work: 'Tro'},
+instances: 1, word: 'Ability', work: 'Tro'},
+instances: 1, word: 'Able', work: 'Tro'},
+instances: 1, word: 'Abreast', work: 'Tro'},
+instances: 1, word: 'Abroad', work: 'Tro'},
+instances: 1, word: 'Abruption', work: 'Tro'},
+instances: 1, word: 'Absence', work: 'Tro'},
+instances: 1, word: 'Abundant', work: 'Tro'},
+instances: 1, word: 'Accent', work: 'Tro'},
+instances: 1, word: 'Accept', work: 'Tro'},
+instances: 1, word: 'Accepted', work: 'Tro'},
+instances: 1, word: 'Accord', work: 'Tro'},
+instances: 1, word: 'Accosting', work: 'Tro'},
+instances: 1, word: 'Ache', work: 'Tro'},
+instances: 1, word: 'Achievement', work: 'Tro'},
+instances: 1, word: 'Acquaintance', work: 'Tro'},
+instances: 1, word: 'Acquainted', work: 'Tro'},
+instances: 1, word: 'Acquired', work: 'Tro'},
+instances: 1, word: 'Actions', work: 'Tro'},
+instances: 1, word: 'Active', work: 'Tro'},
+instances: 1, word: 'Activity', work: 'Tro'},
+instances: 1, word: 'Actor\'s', work: 'Tro'},
+instances: 1, word: 'Acts', work: 'Tro'},
+instances: 1, word: 'Adamant', work: 'Tro'},
+instances: 1, word: 'Added', work: 'Tro'},
+instances: 1, word: 'Adders', work: 'Tro'},
+instances: 1, word: 'Additions', work: 'Tro'},
+instances: 1, word: 'Admonishment', work: 'Tro'},
+instances: 1, word: 'Advanced', work: 'Tro'},
+instances: 1, word: 'Advantageous', work: 'Tro'},
+instances: 1, word: 'Adversity', work: 'Tro'},
+instances: 1, word: 'Advertised', work: 'Tro'},
+instances: 1, word: 'Advice', work: 'Tro'},
+instances: 1, word: 'Afeard', work: 'Tro'},
+instances: 1, word: 'Affair', work: 'Tro'},
+instances: 1, word: 'Affect', work: 'Tro'},
+instances: 1, word: 'Affectionately', work: 'Tro'},
+instances: 1, word: 'Affects', work: 'Tro'},
+instances: 1, word: 'Affined', work: 'Tro'},
+instances: 1, word: 'Affronted', work: 'Tro'},
+instances: 1, word: 'Afoot', work: 'Tro'},
+instances: 1, word: 'Aforesaid', work: 'Tro'},
+instances: 1, word: 'Afric', work: 'Tro'},
+instances: 1, word: 'After-dinner\'s', work: 'Tro'},
+instances: 1, word: 'Agent', work: 'Tro'},
+instances: 1, word: 'Ague', work: 'Tro'},
+instances: 1, word: 'Aim', work: 'Tro'},
+instances: 1, word: 'Airy', work: 'Tro'},
+instances: 1, word: 'Ajax\'', work: 'Tro'},
+instances: 1, word: 'Alacrity', work: 'Tro'},
+instances: 1, word: 'Alarm', work: 'Tro'},
+instances: 1, word: 'Albeit', work: 'Tro'},
+instances: 1, word: 'Alexander', work: 'Tro'},
+instances: 1, word: 'Alike', work: 'Tro'},
+instances: 1, word: 'Allayment', work: 'Tro'},
+instances: 1, word: 'Allege', work: 'Tro'},
+instances: 1, word: 'Allow', work: 'Tro'},
+instances: 1, word: 'All\'s', work: 'Tro'},
+instances: 1, word: 'Almighty', work: 'Tro'},
+instances: 1, word: 'Almond', work: 'Tro'},
+instances: 1, word: 'Alms', work: 'Tro'},
+instances: 1, word: 'Altar', work: 'Tro'},
+instances: 1, word: 'Altars', work: 'Tro'},
+instances: 1, word: 'Altogether', work: 'Tro'},
+instances: 1, word: 'Amain', work: 'Tro'},
+instances: 1, word: 'Amazed', work: 'Tro'},
+instances: 1, word: 'Ambassador', work: 'Tro'},
+instances: 1, word: 'Ambition', work: 'Tro'},
+instances: 1, word: 'Amidst', work: 'Tro'},
+instances: 1, word: 'Amity', work: 'Tro'},
+instances: 1, word: 'Amphimachus', work: 'Tro'},
+instances: 1, word: 'Amply', work: 'Tro'},
+instances: 1, word: 'Anchises\'', work: 'Tro'},
+instances: 1, word: 'Angle', work: 'Tro'},
+instances: 1, word: 'Annoyance', work: 'Tro'},
+instances: 1, word: 'Answered', work: 'Tro'},
+instances: 1, word: 'Answer\'st', work: 'Tro'},
+instances: 1, word: 'Antenorides', work: 'Tro'},
+instances: 1, word: 'Anticipating', work: 'Tro'},
+instances: 1, word: 'Antics', work: 'Tro'},
+instances: 1, word: 'Antiquary', work: 'Tro'},
+instances: 1, word: 'Apollo\'s', work: 'Tro'},
+instances: 1, word: 'Appallèd', work: 'Tro'},
+instances: 1, word: 'Appals', work: 'Tro'},
+instances: 1, word: 'Appertainments', work: 'Tro'},
+instances: 1, word: 'Appetites', work: 'Tro'},
+instances: 1, word: 'Apply', work: 'Tro'},
+instances: 1, word: 'Appointment', work: 'Tro'},
+instances: 1, word: 'Apprehend', work: 'Tro'},
+instances: 1, word: 'Apprehended', work: 'Tro'},
+instances: 1, word: 'Apprehensions', work: 'Tro'},
+instances: 1, word: 'Approach', work: 'Tro'},
+instances: 1, word: 'Approbation', work: 'Tro'},
+instances: 1, word: 'Approve', work: 'Tro'},
+instances: 1, word: 'April', work: 'Tro'},
+instances: 1, word: 'Apt', work: 'Tro'},
+instances: 1, word: 'Aquilon', work: 'Tro'},
+instances: 1, word: 'Arbitrator', work: 'Tro'},
+instances: 1, word: 'Arch', work: 'Tro'},
+instances: 1, word: 'Argus', work: 'Tro'},
+instances: 1, word: 'Ariachne\'s', work: 'Tro'},
+instances: 1, word: 'Aristotle', work: 'Tro'},
+instances: 1, word: 'Armies', work: 'Tro'},
+instances: 1, word: 'Armorer', work: 'Tro'},
+instances: 1, word: 'Armors', work: 'Tro'},
+instances: 1, word: 'Artist', work: 'Tro'},
+instances: 1, word: 'Arts', work: 'Tro'},
+instances: 1, word: 'Ascribe', work: 'Tro'},
+instances: 1, word: 'Ashamed', work: 'Tro'},
+instances: 1, word: 'Aside', work: 'Tro'},
+instances: 1, word: 'Asinego', work: 'Tro'},
+instances: 1, word: 'Asking', work: 'Tro'},
+instances: 1, word: 'Aspiration', work: 'Tro'},
+instances: 1, word: 'Assault', work: 'Tro'},
+instances: 1, word: 'Asses', work: 'Tro'},
+instances: 1, word: 'Assubjugate', work: 'Tro'},
+instances: 1, word: 'Assume', work: 'Tro'},
+instances: 1, word: 'Assumes', work: 'Tro'},
+instances: 1, word: 'Assure', work: 'Tro'},
+instances: 1, word: 'Astronomers', work: 'Tro'},
+instances: 1, word: 'Athenian', work: 'Tro'},
+instances: 1, word: 'Athens', work: 'Tro'},
+instances: 1, word: 'Attached', work: 'Tro'},
+instances: 1, word: 'Attachment', work: 'Tro'},
+instances: 1, word: 'Attaint', work: 'Tro'},
+instances: 1, word: 'Attend', work: 'Tro'},
+instances: 1, word: 'Attending', work: 'Tro'},
+instances: 1, word: 'Attentive', work: 'Tro'},
+instances: 1, word: 'Attribute', work: 'Tro'},
+instances: 1, word: 'Attributes', work: 'Tro'},
+instances: 1, word: 'Attributive', work: 'Tro'},
+instances: 1, word: 'Author', work: 'Tro'},
+instances: 1, word: 'Authority', work: 'Tro'},
+instances: 1, word: 'Autumn', work: 'Tro'},
+instances: 1, word: 'Avoid', work: 'Tro'},
+instances: 1, word: 'Avouch', work: 'Tro'},
+instances: 1, word: 'Avow', work: 'Tro'},
+instances: 1, word: 'Aweary', work: 'Tro'},
+instances: 1, word: 'Awhile', work: 'Tro'},
+instances: 1, word: 'Axletree', work: 'Tro'},
+instances: 1, word: 'Bait', work: 'Tro'},
+instances: 1, word: 'Baked', work: 'Tro'},
+instances: 1, word: 'Baking', work: 'Tro'},
+instances: 1, word: 'Balm', work: 'Tro'},
+instances: 1, word: 'Bane', work: 'Tro'},
+instances: 1, word: 'Banqueting', work: 'Tro'},
+instances: 1, word: 'Barbarian', work: 'Tro'},
+instances: 1, word: 'Barbarism', work: 'Tro'},
+instances: 1, word: 'Barefoot', work: 'Tro'},
+instances: 1, word: 'Bargain', work: 'Tro'},
+instances: 1, word: 'Barks', work: 'Tro'},
+instances: 1, word: 'Bark\'st', work: 'Tro'},
+instances: 1, word: 'Barren', work: 'Tro'},
+instances: 1, word: 'Basis', work: 'Tro'},
+instances: 1, word: 'Bastards', work: 'Tro'},
+instances: 1, word: 'Bastes', work: 'Tro'},
+instances: 1, word: 'Bauble', work: 'Tro'},
+instances: 1, word: 'Bawd', work: 'Tro'},
+instances: 1, word: 'Bawds', work: 'Tro'},
+instances: 1, word: 'Bawdy', work: 'Tro'},
+instances: 1, word: 'Beacon', work: 'Tro'},
+instances: 1, word: 'Beam', work: 'Tro'},
+instances: 1, word: 'Bearer', work: 'Tro'},
+instances: 1, word: 'Bears', work: 'Tro'},
+instances: 1, word: 'Beast', work: 'Tro'},
+instances: 1, word: 'Beastly', work: 'Tro'},
+instances: 1, word: 'Beasts', work: 'Tro'},
+instances: 1, word: 'Beaten', work: 'Tro'},
+instances: 1, word: 'Beauty\'s', work: 'Tro'},
+instances: 1, word: 'Beaver', work: 'Tro'},
+instances: 1, word: 'Beck\'ning', work: 'Tro'},
+instances: 1, word: 'Becomes', work: 'Tro'},
+instances: 1, word: 'Bed-work', work: 'Tro'},
+instances: 1, word: 'Bedmate', work: 'Tro'},
+instances: 1, word: 'Beds', work: 'Tro'},
+instances: 1, word: 'Beef-witted', work: 'Tro'},
+instances: 1, word: 'Befriended', work: 'Tro'},
+instances: 1, word: 'Befriends', work: 'Tro'},
+instances: 1, word: 'Beget', work: 'Tro'},
+instances: 1, word: 'Begets', work: 'Tro'},
+instances: 1, word: 'Beggar', work: 'Tro'},
+instances: 1, word: 'Beginning', work: 'Tro'},
+instances: 1, word: 'Begone', work: 'Tro'},
+instances: 1, word: 'Begot', work: 'Tro'},
+instances: 1, word: 'Beguiles', work: 'Tro'},
+instances: 1, word: 'Begun', work: 'Tro'},
+instances: 1, word: 'Beheld', work: 'Tro'},
+instances: 1, word: 'Beholders', work: 'Tro'},
+instances: 1, word: 'Beholding', work: 'Tro'},
+instances: 1, word: 'Beholds', work: 'Tro'},
+instances: 1, word: 'Belching', work: 'Tro'},
+instances: 1, word: 'Believed', work: 'Tro'},
+instances: 1, word: 'Bellied', work: 'Tro'},
+instances: 1, word: 'Bending', work: 'Tro'},
+instances: 1, word: 'Bends', work: 'Tro'},
+instances: 1, word: 'Beneath', work: 'Tro'},
+instances: 1, word: 'Benefit', work: 'Tro'},
+instances: 1, word: 'Benumbèd', work: 'Tro'},
+instances: 1, word: 'Bequeath', work: 'Tro'},
+instances: 1, word: 'Bereave', work: 'Tro'},
+instances: 1, word: 'Bereft', work: 'Tro'},
+instances: 1, word: 'Besotted', work: 'Tro'},
+instances: 1, word: 'Bestow', work: 'Tro'},
+instances: 1, word: 'Bestowed', work: 'Tro'},
+instances: 1, word: 'Bestowing', work: 'Tro'},
+instances: 1, word: 'Betimes', work: 'Tro'},
+instances: 1, word: 'Beware', work: 'Tro'},
+instances: 1, word: 'Bias-drawing', work: 'Tro'},
+instances: 1, word: 'Bifold', work: 'Tro'},
+instances: 1, word: 'Big', work: 'Tro'},
+instances: 1, word: 'Billing', work: 'Tro'},
+instances: 1, word: 'Biscuit', work: 'Tro'},
+instances: 1, word: 'Bitchwolf\'s', work: 'Tro'},
+instances: 1, word: 'Bites', work: 'Tro'},
+instances: 1, word: 'Bits', work: 'Tro'},
+instances: 1, word: 'Blabbed', work: 'Tro'},
+instances: 1, word: 'Black', work: 'Tro'},
+instances: 1, word: 'Blackamoor', work: 'Tro'},
+instances: 1, word: 'Blackberry', work: 'Tro'},
+instances: 1, word: 'Blackness', work: 'Tro'},
+instances: 1, word: 'Bladders', work: 'Tro'},
+instances: 1, word: 'Blaze', work: 'Tro'},
+instances: 1, word: 'Blended', work: 'Tro'},
+instances: 1, word: 'Blockish', work: 'Tro'},
+instances: 1, word: 'Bloodied', work: 'Tro'},
+instances: 1, word: 'Bloodless', work: 'Tro'},
+instances: 1, word: 'Bloods', work: 'Tro'},
+instances: 1, word: 'Blowest', work: 'Tro'},
+instances: 1, word: 'Blue', work: 'Tro'},
+instances: 1, word: 'Blunt', work: 'Tro'},
+instances: 1, word: 'Blushed', work: 'Tro'},
+instances: 1, word: 'Blushing', work: 'Tro'},
+instances: 1, word: 'Boast', work: 'Tro'},
+instances: 1, word: 'Boasting', work: 'Tro'},
+instances: 1, word: 'Boat', work: 'Tro'},
+instances: 1, word: 'Bob', work: 'Tro'},
+instances: 1, word: 'Bobbed', work: 'Tro'},
+instances: 1, word: 'Bodements', work: 'Tro'},
+instances: 1, word: 'Boil', work: 'Tro'},
+instances: 1, word: 'Boldness', work: 'Tro'},
+instances: 1, word: 'Bolts', work: 'Tro'},
+instances: 1, word: 'Bond', work: 'Tro'},
+instances: 1, word: 'Boreas', work: 'Tro'},
+instances: 1, word: 'Borrowd\'st', work: 'Tro'},
+instances: 1, word: 'Borrows', work: 'Tro'},
+instances: 1, word: 'Bosom', work: 'Tro'},
+instances: 1, word: 'Botch', work: 'Tro'},
+instances: 1, word: 'Botchy', work: 'Tro'},
+instances: 1, word: 'Bought', work: 'Tro'},
+instances: 1, word: 'Bounded', work: 'Tro'},
+instances: 1, word: 'Bounding', work: 'Tro'},
+instances: 1, word: 'Boundless', work: 'Tro'},
+instances: 1, word: 'Bounds', work: 'Tro'},
+instances: 1, word: 'Bounties', work: 'Tro'},
+instances: 1, word: 'Bounty', work: 'Tro'},
+instances: 1, word: 'Bourn', work: 'Tro'},
+instances: 1, word: 'Bow', work: 'Tro'},
+instances: 1, word: 'Bows', work: 'Tro'},
+instances: 1, word: 'Boy-queller', work: 'Tro'},
+instances: 1, word: 'Boys', work: 'Tro'},
+instances: 1, word: 'Brabbler', work: 'Tro'},
+instances: 1, word: 'Brace', work: 'Tro'},
+instances: 1, word: 'Brach', work: 'Tro'},
+instances: 1, word: 'Brag', work: 'Tro'},
+instances: 1, word: 'Bragless', work: 'Tro'},
+instances: 1, word: 'Brainless', work: 'Tro'},
+instances: 1, word: 'Brainsick', work: 'Tro'},
+instances: 1, word: 'Brawns', work: 'Tro'},
+instances: 1, word: 'Brazen', work: 'Tro'},
+instances: 1, word: 'Breach', work: 'Tro'},
+instances: 1, word: 'Breadth', work: 'Tro'},
+instances: 1, word: 'Breaking', work: 'Tro'},
+instances: 1, word: 'Breathing', work: 'Tro'},
+instances: 1, word: 'Breeds', work: 'Tro'},
+instances: 1, word: 'Breese', work: 'Tro'},
+instances: 1, word: 'Brevity', work: 'Tro'},
+instances: 1, word: 'Brew', work: 'Tro'},
+instances: 1, word: 'Briareus', work: 'Tro'},
+instances: 1, word: 'Bridegroom\'s', work: 'Tro'},
+instances: 1, word: 'Brightness', work: 'Tro'},
+instances: 1, word: 'Broker', work: 'Tro'},
+instances: 1, word: 'Brokers-between', work: 'Tro'},
+instances: 1, word: 'Brotherhoods', work: 'Tro'},
+instances: 1, word: 'Brothers', work: 'Tro'},
+instances: 1, word: 'Bruised', work: 'Tro'},
+instances: 1, word: 'Bruit', work: 'Tro'},
+instances: 1, word: 'Brushes', work: 'Tro'},
+instances: 1, word: 'Buck', work: 'Tro'},
+instances: 1, word: 'Buckle', work: 'Tro'},
+instances: 1, word: 'Buckled', work: 'Tro'},
+instances: 1, word: 'Buckles', work: 'Tro'},
+instances: 1, word: 'Bugbear', work: 'Tro'},
+instances: 1, word: 'Build', work: 'Tro'},
+instances: 1, word: 'Building', work: 'Tro'},
+instances: 1, word: 'Built', work: 'Tro'},
+instances: 1, word: 'Bull-bearing', work: 'Tro'},
+instances: 1, word: 'Buried', work: 'Tro'},
+instances: 1, word: 'Burn', work: 'Tro'},
+instances: 1, word: 'Burning', work: 'Tro'},
+instances: 1, word: 'Burrs', work: 'Tro'},
+instances: 1, word: 'Buss', work: 'Tro'},
+instances: 1, word: 'Busy', work: 'Tro'},
+instances: 1, word: 'Butt', work: 'Tro'},
+instances: 1, word: 'Butterflies', work: 'Tro'},
+instances: 1, word: 'B\'', work: 'Tro'},
+instances: 1, word: 'Caduceus', work: 'Tro'},
+instances: 1, word: 'Calf', work: 'Tro'},
+instances: 1, word: 'Calmed', work: 'Tro'},
+instances: 1, word: 'Calumniate', work: 'Tro'},
+instances: 1, word: 'Calumniating', work: 'Tro'},
+instances: 1, word: 'Camp', work: 'Tro'},
+instances: 1, word: 'Cancer', work: 'Tro'},
+instances: 1, word: 'Canonize', work: 'Tro'},
+instances: 1, word: 'Capable', work: 'Tro'},
+instances: 1, word: 'Capacity', work: 'Tro'},
+instances: 1, word: 'Capocchia', work: 'Tro'},
+instances: 1, word: 'Careless', work: 'Tro'},
+instances: 1, word: 'Carpenter', work: 'Tro'},
+instances: 1, word: 'Carriage', work: 'Tro'},
+instances: 1, word: 'Carrion', work: 'Tro'},
+instances: 1, word: 'Casque', work: 'Tro'},
+instances: 1, word: 'Cast', work: 'Tro'},
+instances: 1, word: 'Castle', work: 'Tro'},
+instances: 1, word: 'Cat', work: 'Tro'},
+instances: 1, word: 'Catarrhs', work: 'Tro'},
+instances: 1, word: 'Catlings', work: 'Tro'},
+instances: 1, word: 'Causeth', work: 'Tro'},
+instances: 1, word: 'Cedius', work: 'Tro'},
+instances: 1, word: 'Celerity', work: 'Tro'},
+instances: 1, word: 'Cerberus', work: 'Tro'},
+instances: 1, word: 'Ceremonious', work: 'Tro'},
+instances: 1, word: 'Certainly', work: 'Tro'},
+instances: 1, word: 'Cetera', work: 'Tro'},
+instances: 1, word: 'Chafe', work: 'Tro'},
+instances: 1, word: 'Chain', work: 'Tro'},
+instances: 1, word: 'Challenged', work: 'Tro'},
+instances: 1, word: 'Changed', work: 'Tro'},
+instances: 1, word: 'Changeful', work: 'Tro'},
+instances: 1, word: 'Changes', work: 'Tro'},
+instances: 1, word: 'Chaos', work: 'Tro'},
+instances: 1, word: 'Chapmen', work: 'Tro'},
+instances: 1, word: 'Characterless', work: 'Tro'},
+instances: 1, word: 'Charon', work: 'Tro'},
+instances: 1, word: 'Chaste', work: 'Tro'},
+instances: 1, word: 'Chastised', work: 'Tro'},
+instances: 1, word: 'Check', work: 'Tro'},
+instances: 1, word: 'Checks', work: 'Tro'},
+instances: 1, word: 'Cheer', work: 'Tro'},
+instances: 1, word: 'Cherubins', work: 'Tro'},
+instances: 1, word: 'Chetas', work: 'Tro'},
+instances: 1, word: 'Chickens', work: 'Tro'},
+instances: 1, word: 'Chid', work: 'Tro'},
+instances: 1, word: 'Chidden', work: 'Tro'},
+instances: 1, word: 'Chides', work: 'Tro'},
+instances: 1, word: 'Chiding', work: 'Tro'},
+instances: 1, word: 'Chiefest', work: 'Tro'},
+instances: 1, word: 'Children', work: 'Tro'},
+instances: 1, word: 'Chime', work: 'Tro'},
+instances: 1, word: 'Chipped', work: 'Tro'},
+instances: 1, word: 'Choking', work: 'Tro'},
+instances: 1, word: 'Churlish', work: 'Tro'},
+instances: 1, word: 'Circumstance', work: 'Tro'},
+instances: 1, word: 'Circumvention', work: 'Tro'},
+instances: 1, word: 'Cited', work: 'Tro'},
+instances: 1, word: 'Claim', work: 'Tro'},
+instances: 1, word: 'Clamor', work: 'Tro'},
+instances: 1, word: 'Clap', work: 'Tro'},
+instances: 1, word: 'Clapped', work: 'Tro'},
+instances: 1, word: 'Clapper-clawing', work: 'Tro'},
+instances: 1, word: 'Clasp', work: 'Tro'},
+instances: 1, word: 'Clearer', work: 'Tro'},
+instances: 1, word: 'Clef', work: 'Tro'},
+instances: 1, word: 'Climb', work: 'Tro'},
+instances: 1, word: 'Clock', work: 'Tro'},
+instances: 1, word: 'Clodpolls', work: 'Tro'},
+instances: 1, word: 'Closet', work: 'Tro'},
+instances: 1, word: 'Cloths', work: 'Tro'},
+instances: 1, word: 'Cloud', work: 'Tro'},
+instances: 1, word: 'Clouds', work: 'Tro'},
+instances: 1, word: 'Co-act', work: 'Tro'},
+instances: 1, word: 'Coals', work: 'Tro'},
+instances: 1, word: 'Cobloaf', work: 'Tro'},
+instances: 1, word: 'Cogging', work: 'Tro'},
+instances: 1, word: 'Cognition', work: 'Tro'},
+instances: 1, word: 'Coins', work: 'Tro'},
+instances: 1, word: 'Colder', work: 'Tro'},
+instances: 1, word: 'Colic', work: 'Tro'},
+instances: 1, word: 'Colossus-wise', work: 'Tro'},
+instances: 1, word: 'Combatant', work: 'Tro'},
+instances: 1, word: 'Combatants', work: 'Tro'},
+instances: 1, word: 'Comer', work: 'Tro'},
+instances: 1, word: 'Comfort', work: 'Tro'},
+instances: 1, word: 'Coming', work: 'Tro'},
+instances: 1, word: 'Commanded', work: 'Tro'},
+instances: 1, word: 'Commandment', work: 'Tro'},
+instances: 1, word: 'Commended', work: 'Tro'},
+instances: 1, word: 'Commission', work: 'Tro'},
+instances: 1, word: 'Commit', work: 'Tro'},
+instances: 1, word: 'Commixtion', work: 'Tro'},
+instances: 1, word: 'Commodious', work: 'Tro'},
+instances: 1, word: 'Communicate', work: 'Tro'},
+instances: 1, word: 'Communities', work: 'Tro'},
+instances: 1, word: 'Compare', work: 'Tro'},
+instances: 1, word: 'Compassed', work: 'Tro'},
+instances: 1, word: 'Complimental', work: 'Tro'},
+instances: 1, word: 'Compulsion', work: 'Tro'},
+instances: 1, word: 'Con', work: 'Tro'},
+instances: 1, word: 'Conceit', work: 'Tro'},
+instances: 1, word: 'Conception', work: 'Tro'},
+instances: 1, word: 'Conclude', work: 'Tro'},
+instances: 1, word: 'Concluded', work: 'Tro'},
+instances: 1, word: 'Concupy', work: 'Tro'},
+instances: 1, word: 'Concur', work: 'Tro'},
+instances: 1, word: 'Condemned', work: 'Tro'},
+instances: 1, word: 'Confidence', work: 'Tro'},
+instances: 1, word: 'Confident', work: 'Tro'},
+instances: 1, word: 'Confined', work: 'Tro'},
+instances: 1, word: 'Confines', work: 'Tro'},
+instances: 1, word: 'Confirm', work: 'Tro'},
+instances: 1, word: 'Conflux', work: 'Tro'},
+instances: 1, word: 'Confound', work: 'Tro'},
+instances: 1, word: 'Confounds', work: 'Tro'},
+instances: 1, word: 'Conjecture', work: 'Tro'},
+instances: 1, word: 'Conquering', work: 'Tro'},
+instances: 1, word: 'Consanguinity', work: 'Tro'},
+instances: 1, word: 'Conscience', work: 'Tro'},
+instances: 1, word: 'Consecrate', work: 'Tro'},
+instances: 1, word: 'Consigned', work: 'Tro'},
+instances: 1, word: 'Consisting', work: 'Tro'},
+instances: 1, word: 'Consort', work: 'Tro'},
+instances: 1, word: 'Conspire', work: 'Tro'},
+instances: 1, word: 'Constantly', work: 'Tro'},
+instances: 1, word: 'Constringed', work: 'Tro'},
+instances: 1, word: 'Consumed', work: 'Tro'},
+instances: 1, word: 'Contain', work: 'Tro'},
+instances: 1, word: 'Contaminated', work: 'Tro'},
+instances: 1, word: 'Contemplation', work: 'Tro'},
+instances: 1, word: 'Contend', work: 'Tro'},
+instances: 1, word: 'Contrive', work: 'Tro'},
+instances: 1, word: 'Conveniences', work: 'Tro'},
+instances: 1, word: 'Convive', work: 'Tro'},
+instances: 1, word: 'Convoy', work: 'Tro'},
+instances: 1, word: 'Cool', work: 'Tro'},
+instances: 1, word: 'Cooling', work: 'Tro'},
+instances: 1, word: 'Cope', work: 'Tro'},
+instances: 1, word: 'Coped', work: 'Tro'},
+instances: 1, word: 'Cormorant', work: 'Tro'},
+instances: 1, word: 'Correct', work: 'Tro'},
+instances: 1, word: 'Correction', work: 'Tro'},
+instances: 1, word: 'Corrects', work: 'Tro'},
+instances: 1, word: 'Corresponsive', work: 'Tro'},
+instances: 1, word: 'Corrivaled', work: 'Tro'},
+instances: 1, word: 'Corrupt', work: 'Tro'},
+instances: 1, word: 'Corrupted', work: 'Tro'},
+instances: 1, word: 'Corse', work: 'Tro'},
+instances: 1, word: 'Corses', work: 'Tro'},
+instances: 1, word: 'Costly', work: 'Tro'},
+instances: 1, word: 'Couched', work: 'Tro'},
+instances: 1, word: 'Cough', work: 'Tro'},
+instances: 1, word: 'Council', work: 'Tro'},
+instances: 1, word: 'Counsels', work: 'Tro'},
+instances: 1, word: 'Counterfeit', work: 'Tro'},
+instances: 1, word: 'Counters', work: 'Tro'},
+instances: 1, word: 'Countrywoman', work: 'Tro'},
+instances: 1, word: 'Couple', work: 'Tro'},
+instances: 1, word: 'Coupled', work: 'Tro'},
+instances: 1, word: 'Courses', work: 'Tro'},
+instances: 1, word: 'Courteous', work: 'Tro'},
+instances: 1, word: 'Courteously', work: 'Tro'},
+instances: 1, word: 'Cousin-german', work: 'Tro'},
+instances: 1, word: 'Cousin\'s', work: 'Tro'},
+instances: 1, word: 'Covetous', work: 'Tro'},
+instances: 1, word: 'Cowardice', work: 'Tro'},
+instances: 1, word: 'Cradles', work: 'Tro'},
+instances: 1, word: 'Crafty', work: 'Tro'},
+instances: 1, word: 'Crammed', work: 'Tro'},
+instances: 1, word: 'Crams', work: 'Tro'},
+instances: 1, word: 'Craves', work: 'Tro'},
+instances: 1, word: 'Created', work: 'Tro'},
+instances: 1, word: 'Creator', work: 'Tro'},
+instances: 1, word: 'Creature', work: 'Tro'},
+instances: 1, word: 'Credence', work: 'Tro'},
+instances: 1, word: 'Crept', work: 'Tro'},
+instances: 1, word: 'Cressida\'s', work: 'Tro'},
+instances: 1, word: 'Cressids', work: 'Tro'},
+instances: 1, word: 'Critics', work: 'Tro'},
+instances: 1, word: 'Croak', work: 'Tro'},
+instances: 1, word: 'Cropped', work: 'Tro'},
+instances: 1, word: 'Crowded', work: 'Tro'},
+instances: 1, word: 'Crowned', work: 'Tro'},
+instances: 1, word: 'Crownets', work: 'Tro'},
+instances: 1, word: 'Crush', work: 'Tro'},
+instances: 1, word: 'Crushed', work: 'Tro'},
+instances: 1, word: 'Crusty', work: 'Tro'},
+instances: 1, word: 'Crutch', work: 'Tro'},
+instances: 1, word: 'Crying', work: 'Tro'},
+instances: 1, word: 'Cuckold-maker', work: 'Tro'},
+instances: 1, word: 'Cuckolds', work: 'Tro'},
+instances: 1, word: 'Cudgeling', work: 'Tro'},
+instances: 1, word: 'Cull', work: 'Tro'},
+instances: 1, word: 'Cunningly', work: 'Tro'},
+instances: 1, word: 'Curb', work: 'Tro'},
+instances: 1, word: 'Curer', work: 'Tro'},
+instances: 1, word: 'Cures', work: 'Tro'},
+instances: 1, word: 'Curs', work: 'Tro'},
+instances: 1, word: 'Cursed', work: 'Tro'},
+instances: 1, word: 'Cursing', work: 'Tro'},
+instances: 1, word: 'Curtain', work: 'Tro'},
+instances: 1, word: 'Cutting', work: 'Tro'},
+instances: 1, word: 'Cygnet\'s', work: 'Tro'},
+instances: 1, word: 'Daily', work: 'Tro'},
+instances: 1, word: 'Damage', work: 'Tro'},
+instances: 1, word: 'Dames', work: 'Tro'},
+instances: 1, word: 'Damnable', work: 'Tro'},
+instances: 1, word: 'Damned', work: 'Tro'},
+instances: 1, word: 'Daphnes', work: 'Tro'},
+instances: 1, word: 'Dares', work: 'Tro'},
+instances: 1, word: 'Dark', work: 'Tro'},
+instances: 1, word: 'Darker', work: 'Tro'},
+instances: 1, word: 'Dark\'ning', work: 'Tro'},
+instances: 1, word: 'Daylight', work: 'Tro'},
+instances: 1, word: 'Day\'s', work: 'Tro'},
+instances: 1, word: 'Dealing', work: 'Tro'},
+instances: 1, word: 'Dear\'st', work: 'Tro'},
+instances: 1, word: 'Death-tokens', work: 'Tro'},
+instances: 1, word: 'Debonair', work: 'Tro'},
+instances: 1, word: 'Debt', work: 'Tro'},
+instances: 1, word: 'Debtor', work: 'Tro'},
+instances: 1, word: 'Debts', work: 'Tro'},
+instances: 1, word: 'Decays', work: 'Tro'},
+instances: 1, word: 'Deceive', work: 'Tro'},
+instances: 1, word: 'Deceived', work: 'Tro'},
+instances: 1, word: 'Deceptious', work: 'Tro'},
+instances: 1, word: 'Decision', work: 'Tro'},
+instances: 1, word: 'Decreed', work: 'Tro'},
+instances: 1, word: 'Dedicate', work: 'Tro'},
+instances: 1, word: 'Deedless', work: 'Tro'},
+instances: 1, word: 'Deem', work: 'Tro'},
+instances: 1, word: 'Deep-drawing', work: 'Tro'},
+instances: 1, word: 'Defects', work: 'Tro'},
+instances: 1, word: 'Defended', work: 'Tro'},
+instances: 1, word: 'Defense', work: 'Tro'},
+instances: 1, word: 'Defiance', work: 'Tro'},
+instances: 1, word: 'Degenerate', work: 'Tro'},
+instances: 1, word: 'Deities', work: 'Tro'},
+instances: 1, word: 'Delight', work: 'Tro'},
+instances: 1, word: 'Delights', work: 'Tro'},
+instances: 1, word: 'Delivered', work: 'Tro'},
+instances: 1, word: 'Delivery', work: 'Tro'},
+instances: 1, word: 'Demands', work: 'Tro'},
+instances: 1, word: 'Denied', work: 'Tro'},
+instances: 1, word: 'Denies', work: 'Tro'},
+instances: 1, word: 'Deny', work: 'Tro'},
+instances: 1, word: 'Depart', work: 'Tro'},
+instances: 1, word: 'Dependence', work: 'Tro'},
+instances: 1, word: 'Depending', work: 'Tro'},
+instances: 1, word: 'Depravation', work: 'Tro'},
+instances: 1, word: 'Deputation', work: 'Tro'},
+instances: 1, word: 'Deracinate', work: 'Tro'},
+instances: 1, word: 'Derision', work: 'Tro'},
+instances: 1, word: 'Derive', work: 'Tro'},
+instances: 1, word: 'Descent', work: 'Tro'},
+instances: 1, word: 'Describes', work: 'Tro'},
+instances: 1, word: 'Deserver', work: 'Tro'},
+instances: 1, word: 'Deserves', work: 'Tro'},
+instances: 1, word: 'Design', work: 'Tro'},
+instances: 1, word: 'Despised', work: 'Tro'},
+instances: 1, word: 'Despising', work: 'Tro'},
+instances: 1, word: 'Despiteful', work: 'Tro'},
+instances: 1, word: 'Destroy', work: 'Tro'},
+instances: 1, word: 'Destruction', work: 'Tro'},
+instances: 1, word: 'Destructions', work: 'Tro'},
+instances: 1, word: 'Determination', work: 'Tro'},
+instances: 1, word: 'Device', work: 'Tro'},
+instances: 1, word: 'Devise', work: 'Tro'},
+instances: 1, word: 'Devotion', work: 'Tro'},
+instances: 1, word: 'Devoured', work: 'Tro'},
+instances: 1, word: 'Devours', work: 'Tro'},
+instances: 1, word: 'Devout', work: 'Tro'},
+instances: 1, word: 'Dewdrop', work: 'Tro'},
+instances: 1, word: 'Dexter', work: 'Tro'},
+instances: 1, word: 'Dexterity', work: 'Tro'},
+instances: 1, word: 'Dialogue', work: 'Tro'},
+instances: 1, word: 'Diana\'s', work: 'Tro'},
+instances: 1, word: 'Didst', work: 'Tro'},
+instances: 1, word: 'Dies', work: 'Tro'},
+instances: 1, word: 'Diest', work: 'Tro'},
+instances: 1, word: 'Difficulties', work: 'Tro'},
+instances: 1, word: 'Difficulty', work: 'Tro'},
+instances: 1, word: 'Digested', work: 'Tro'},
+instances: 1, word: 'Dignifies', work: 'Tro'},
+instances: 1, word: 'Dignities', work: 'Tro'},
+instances: 1, word: 'Dilated', work: 'Tro'},
+instances: 1, word: 'Diminutive', work: 'Tro'},
+instances: 1, word: 'Diminutives', work: 'Tro'},
+instances: 1, word: 'Dimpled', work: 'Tro'},
+instances: 1, word: 'Diomedes', work: 'Tro'},
+instances: 1, word: 'Diomedes\'', work: 'Tro'},
+instances: 1, word: 'Dire', work: 'Tro'},
+instances: 1, word: 'Direct', work: 'Tro'},
+instances: 1, word: 'Direction', work: 'Tro'},
+instances: 1, word: 'Directive', work: 'Tro'},
+instances: 1, word: 'Directs', work: 'Tro'},
+instances: 1, word: 'Dirt-rotten', work: 'Tro'},
+instances: 1, word: 'Disarm', work: 'Tro'},
+instances: 1, word: 'Disasters', work: 'Tro'},
+instances: 1, word: 'Discharge', work: 'Tro'},
+instances: 1, word: 'Discharging', work: 'Tro'},
+instances: 1, word: 'Discipline', work: 'Tro'},
+instances: 1, word: 'Disciplined', work: 'Tro'},
+instances: 1, word: 'Discomfort', work: 'Tro'},
+instances: 1, word: 'Discord', work: 'Tro'},
+instances: 1, word: 'Discover', work: 'Tro'},
+instances: 1, word: 'Discovered', work: 'Tro'},
+instances: 1, word: 'Discoveries', work: 'Tro'},
+instances: 1, word: 'Disdained', work: 'Tro'},
+instances: 1, word: 'Disdainfully', work: 'Tro'},
+instances: 1, word: 'Disgorge', work: 'Tro'},
+instances: 1, word: 'Disguise', work: 'Tro'},
+instances: 1, word: 'Dishonor', work: 'Tro'},
+instances: 1, word: 'Dislike', work: 'Tro'},
+instances: 1, word: 'Dismes', work: 'Tro'},
+instances: 1, word: 'Disobedient', work: 'Tro'},
+instances: 1, word: 'Disorbed', work: 'Tro'},
+instances: 1, word: 'Disorder', work: 'Tro'},
+instances: 1, word: 'Displeasure', work: 'Tro'},
+instances: 1, word: 'Dispose', work: 'Tro'},
+instances: 1, word: 'Disposed', work: 'Tro'},
+instances: 1, word: 'Disposer\'s', work: 'Tro'},
+instances: 1, word: 'Disposition', work: 'Tro'},
+instances: 1, word: 'Dissolved', work: 'Tro'},
+instances: 1, word: 'Distains', work: 'Tro'},
+instances: 1, word: 'Distasted', work: 'Tro'},
+instances: 1, word: 'Distempered', work: 'Tro'},
+instances: 1, word: 'Distilled', work: 'Tro'},
+instances: 1, word: 'Distracted', work: 'Tro'},
+instances: 1, word: 'Disunite', work: 'Tro'},
+instances: 1, word: 'Divert', work: 'Tro'},
+instances: 1, word: 'Diverts', work: 'Tro'},
+instances: 1, word: 'Dividable', work: 'Tro'},
+instances: 1, word: 'Divided', work: 'Tro'},
+instances: 1, word: 'Divides', work: 'Tro'},
+instances: 1, word: 'Divination', work: 'Tro'},
+instances: 1, word: 'Division', work: 'Tro'},
+instances: 1, word: 'Divulgèd', work: 'Tro'},
+instances: 1, word: 'Dizzy', work: 'Tro'},
+instances: 1, word: 'Doe', work: 'Tro'},
+instances: 1, word: 'Doff', work: 'Tro'},
+instances: 1, word: 'Dog-fox', work: 'Tro'},
+instances: 1, word: 'Dogged', work: 'Tro'},
+instances: 1, word: 'Dolor', work: 'Tro'},
+instances: 1, word: 'Dolts', work: 'Tro'},
+instances: 1, word: 'Doors', work: 'Tro'},
+instances: 1, word: 'Doreus', work: 'Tro'},
+instances: 1, word: 'Dotes', work: 'Tro'},
+instances: 1, word: 'Doting', work: 'Tro'},
+instances: 1, word: 'Double-horned', work: 'Tro'},
+instances: 1, word: 'Doubly', work: 'Tro'},
+instances: 1, word: 'Doves', work: 'Tro'},
+instances: 1, word: 'Draft-oxen', work: 'Tro'},
+instances: 1, word: 'Dragged', work: 'Tro'},
+instances: 1, word: 'Dragon', work: 'Tro'},
+instances: 1, word: 'Drained', work: 'Tro'},
+instances: 1, word: 'Draught', work: 'Tro'},
+instances: 1, word: 'Drave', work: 'Tro'},
+instances: 1, word: 'Drayman', work: 'Tro'},
+instances: 1, word: 'Dreg', work: 'Tro'},
+instances: 1, word: 'Dress', work: 'Tro'},
+instances: 1, word: 'Dressed', work: 'Tro'},
+instances: 1, word: 'Drift', work: 'Tro'},
+instances: 1, word: 'Drinks', work: 'Tro'},
+instances: 1, word: 'Dropped', work: 'Tro'},
+instances: 1, word: 'Dross', work: 'Tro'},
+instances: 1, word: 'Drowned', work: 'Tro'},
+instances: 1, word: 'Drums', work: 'Tro'},
+instances: 1, word: 'Drunk', work: 'Tro'},
+instances: 1, word: 'Dues', work: 'Tro'},
+instances: 1, word: 'Dumb', work: 'Tro'},
+instances: 1, word: 'Dumb-discursive', work: 'Tro'},
+instances: 1, word: 'Dumbness', work: 'Tro'},
+instances: 1, word: 'During', work: 'Tro'},
+instances: 1, word: 'Durst', work: 'Tro'},
+instances: 1, word: 'Dust', work: 'Tro'},
+instances: 1, word: 'Dusty', work: 'Tro'},
+instances: 1, word: 'Dutiful', work: 'Tro'},
+instances: 1, word: 'Duty', work: 'Tro'},
+instances: 1, word: 'Dwarf', work: 'Tro'},
+instances: 1, word: 'Dying', work: 'Tro'},
+instances: 1, word: 'Eagles', work: 'Tro'},
+instances: 1, word: 'Earnèd', work: 'Tro'},
+instances: 1, word: 'Earwax', work: 'Tro'},
+instances: 1, word: 'Eases', work: 'Tro'},
+instances: 1, word: 'Easily', work: 'Tro'},
+instances: 1, word: 'East', work: 'Tro'},
+instances: 1, word: 'Eastern', work: 'Tro'},
+instances: 1, word: 'Ebbs', work: 'Tro'},
+instances: 1, word: 'Edifies', work: 'Tro'},
+instances: 1, word: 'Effeminate', work: 'Tro'},
+instances: 1, word: 'Elbows', work: 'Tro'},
+instances: 1, word: 'Elder', work: 'Tro'},
+instances: 1, word: 'Elders', work: 'Tro'},
+instances: 1, word: 'Elected', work: 'Tro'},
+instances: 1, word: 'Elements', work: 'Tro'},
+instances: 1, word: 'Eleven', work: 'Tro'},
+instances: 1, word: 'Embassy', work: 'Tro'},
+instances: 1, word: 'Embracement', work: 'Tro'},
+instances: 1, word: 'Embraces', work: 'Tro'},
+instances: 1, word: 'Embrasures', work: 'Tro'},
+instances: 1, word: 'Empale', work: 'Tro'},
+instances: 1, word: 'Enchanting', work: 'Tro'},
+instances: 1, word: 'Enchants', work: 'Tro'},
+instances: 1, word: 'Encounterers', work: 'Tro'},
+instances: 1, word: 'Encounters', work: 'Tro'},
+instances: 1, word: 'Encount\'ring', work: 'Tro'},
+instances: 1, word: 'Ended', work: 'Tro'},
+instances: 1, word: 'Endless', work: 'Tro'},
+instances: 1, word: 'Ends', work: 'Tro'},
+instances: 1, word: 'Enemy\'s', work: 'Tro'},
+instances: 1, word: 'Enfreed', work: 'Tro'},
+instances: 1, word: 'Engaging', work: 'Tro'},
+instances: 1, word: 'Engendering', work: 'Tro'},
+instances: 1, word: 'Enginer', work: 'Tro'},
+instances: 1, word: 'Enjoy', work: 'Tro'},
+instances: 1, word: 'Enkindled', work: 'Tro'},
+instances: 1, word: 'Enlard', work: 'Tro'},
+instances: 1, word: 'Enlarge', work: 'Tro'},
+instances: 1, word: 'Enmity', work: 'Tro'},
+instances: 1, word: 'Enrage', work: 'Tro'},
+instances: 1, word: 'Enrapt', work: 'Tro'},
+instances: 1, word: 'Ensue', work: 'Tro'},
+instances: 1, word: 'Entered', work: 'Tro'},
+instances: 1, word: 'Entertained', work: 'Tro'},
+instances: 1, word: 'Entertaining', work: 'Tro'},
+instances: 1, word: 'Enthroned', work: 'Tro'},
+instances: 1, word: 'Entomb', work: 'Tro'},
+instances: 1, word: 'Entrance', work: 'Tro'},
+instances: 1, word: 'Entreaties', work: 'Tro'},
+instances: 1, word: 'Epistrophus', work: 'Tro'},
+instances: 1, word: 'Erect', work: 'Tro'},
+instances: 1, word: 'Err', work: 'Tro'},
+instances: 1, word: 'Errand', work: 'Tro'},
+instances: 1, word: 'Errant', work: 'Tro'},
+instances: 1, word: 'Errors', work: 'Tro'},
+instances: 1, word: 'Erudition', work: 'Tro'},
+instances: 1, word: 'Especially', work: 'Tro'},
+instances: 1, word: 'Esperance', work: 'Tro'},
+instances: 1, word: 'Espies', work: 'Tro'},
+instances: 1, word: 'Esteemed', work: 'Tro'},
+instances: 1, word: 'Esteems', work: 'Tro'},
+instances: 1, word: 'Estimate', work: 'Tro'},
+instances: 1, word: 'Estimation', work: 'Tro'},
+instances: 1, word: 'Et', work: 'Tro'},
+instances: 1, word: 'Eternal', work: 'Tro'},
+instances: 1, word: 'Eternity', work: 'Tro'},
+instances: 1, word: 'Evasions', work: 'Tro'},
+instances: 1, word: 'Event', work: 'Tro'},
+instances: 1, word: 'Everlasting', work: 'Tro'},
+instances: 1, word: 'Evermore', work: 'Tro'},
+instances: 1, word: 'Exampled', work: 'Tro'},
+instances: 1, word: 'Exasperate', work: 'Tro'},
+instances: 1, word: 'Exceed', work: 'Tro'},
+instances: 1, word: 'Exceeds', work: 'Tro'},
+instances: 1, word: 'Excel', work: 'Tro'},
+instances: 1, word: 'Excellently', work: 'Tro'},
+instances: 1, word: 'Exchange', work: 'Tro'},
+instances: 1, word: 'Excite', work: 'Tro'},
+instances: 1, word: 'Excitements', work: 'Tro'},
+instances: 1, word: 'Exclaim', work: 'Tro'},
+instances: 1, word: 'Execrations', work: 'Tro'},
+instances: 1, word: 'Exercise', work: 'Tro'},
+instances: 1, word: 'Expect', work: 'Tro'},
+instances: 1, word: 'Expectance', work: 'Tro'},
+instances: 1, word: 'Expecters', work: 'Tro'},
+instances: 1, word: 'Expects', work: 'Tro'},
+instances: 1, word: 'Expense', work: 'Tro'},
+instances: 1, word: 'Experienced', work: 'Tro'},
+instances: 1, word: 'Exploit\'s', work: 'Tro'},
+instances: 1, word: 'Expostulation', work: 'Tro'},
+instances: 1, word: 'Exposure', work: 'Tro'},
+instances: 1, word: 'Express', work: 'Tro'},
+instances: 1, word: 'Expressly', work: 'Tro'},
+instances: 1, word: 'Expressure', work: 'Tro'},
+instances: 1, word: 'Extant', work: 'Tro'},
+instances: 1, word: 'Extended', work: 'Tro'},
+instances: 1, word: 'Extenuates', work: 'Tro'},
+instances: 1, word: 'Extremes', work: 'Tro'},
+instances: 1, word: 'Extremest', work: 'Tro'},
+instances: 1, word: 'Fails', work: 'Tro'},
+instances: 1, word: 'Fair\'st', work: 'Tro'},
+instances: 1, word: 'Falcon', work: 'Tro'},
+instances: 1, word: 'Falls', work: 'Tro'},
+instances: 1, word: 'False-hearted', work: 'Tro'},
+instances: 1, word: 'Famished', work: 'Tro'},
+instances: 1, word: 'Famous', work: 'Tro'},
+instances: 1, word: 'Fantastic', work: 'Tro'},
+instances: 1, word: 'Farewells', work: 'Tro'},
+instances: 1, word: 'Farther', work: 'Tro'},
+instances: 1, word: 'Fashionable', work: 'Tro'},
+instances: 1, word: 'Fat-already', work: 'Tro'},
+instances: 1, word: 'Fathomless', work: 'Tro'},
+instances: 1, word: 'Fathoms', work: 'Tro'},
+instances: 1, word: 'Fearing', work: 'Tro'},
+instances: 1, word: 'Feasts', work: 'Tro'},
+instances: 1, word: 'Fee-farm', work: 'Tro'},
+instances: 1, word: 'Fee-simple', work: 'Tro'},
+instances: 1, word: 'Feeds', work: 'Tro'},
+instances: 1, word: 'Feels', work: 'Tro'},
+instances: 1, word: 'Fees', work: 'Tro'},
+instances: 1, word: 'Feet', work: 'Tro'},
+instances: 1, word: 'Feeze', work: 'Tro'},
+instances: 1, word: 'Fellest', work: 'Tro'},
+instances: 1, word: 'Feud', work: 'Tro'},
+instances: 1, word: 'Feverous', work: 'Tro'},
+instances: 1, word: 'Few', work: 'Tro'},
+instances: 1, word: 'Fiddler', work: 'Tro'},
+instances: 1, word: 'Fierceness', work: 'Tro'},
+instances: 1, word: 'Fiery', work: 'Tro'},
+instances: 1, word: 'Fifth', work: 'Tro'},
+instances: 1, word: 'Fights', work: 'Tro'},
+instances: 1, word: 'Fillip', work: 'Tro'},
+instances: 1, word: 'Filthy', work: 'Tro'},
+instances: 1, word: 'Finch', work: 'Tro'},
+instances: 1, word: 'Fin\'st', work: 'Tro'},
+instances: 1, word: 'Firebrand', work: 'Tro'},
+instances: 1, word: 'Fires', work: 'Tro'},
+instances: 1, word: 'Firstlings', work: 'Tro'},
+instances: 1, word: 'Fish', work: 'Tro'},
+instances: 1, word: 'Fit', work: 'Tro'},
+instances: 1, word: 'Fitchew', work: 'Tro'},
+instances: 1, word: 'Fitness', work: 'Tro'},
+instances: 1, word: 'Five-finger-tied', work: 'Tro'},
+instances: 1, word: 'Fixture', work: 'Tro'},
+instances: 1, word: 'Flame', work: 'Tro'},
+instances: 1, word: 'Flames', work: 'Tro'},
+instances: 1, word: 'Flaming', work: 'Tro'},
+instances: 1, word: 'Flap', work: 'Tro'},
+instances: 1, word: 'Flat', work: 'Tro'},
+instances: 1, word: 'Fled', work: 'Tro'},
+instances: 1, word: 'Flee', work: 'Tro'},
+instances: 1, word: 'Flesh', work: 'Tro'},
+instances: 1, word: 'Flew', work: 'Tro'},
+instances: 1, word: 'Flexible', work: 'Tro'},
+instances: 1, word: 'Flexure', work: 'Tro'},
+instances: 1, word: 'Flight', work: 'Tro'},
+instances: 1, word: 'Flinch', work: 'Tro'},
+instances: 1, word: 'Flint', work: 'Tro'},
+instances: 1, word: 'Flout', work: 'Tro'},
+instances: 1, word: 'Flow', work: 'Tro'},
+instances: 1, word: 'Flowers', work: 'Tro'},
+instances: 1, word: 'Flowing', work: 'Tro'},
+instances: 1, word: 'Flows', work: 'Tro'},
+instances: 1, word: 'Flying', work: 'Tro'},
+instances: 1, word: 'Foams', work: 'Tro'},
+instances: 1, word: 'Foe', work: 'Tro'},
+instances: 1, word: 'Foes', work: 'Tro'},
+instances: 1, word: 'Foiled', work: 'Tro'},
+instances: 1, word: 'Fold', work: 'Tro'},
+instances: 1, word: 'Followers', work: 'Tro'},
+instances: 1, word: 'Fonder', work: 'Tro'},
+instances: 1, word: 'Food', work: 'Tro'},
+instances: 1, word: 'Fooling', work: 'Tro'},
+instances: 1, word: 'Foragers', work: 'Tro'},
+instances: 1, word: 'Forbids', work: 'Tro'},
+instances: 1, word: 'Forced', work: 'Tro'},
+instances: 1, word: 'Forceless', work: 'Tro'},
+instances: 1, word: 'Forcibly', work: 'Tro'},
+instances: 1, word: 'Forehand', work: 'Tro'},
+instances: 1, word: 'Foresaw', work: 'Tro'},
+instances: 1, word: 'Foresee', work: 'Tro'},
+instances: 1, word: 'Foretell', work: 'Tro'},
+instances: 1, word: 'Foretold', work: 'Tro'},
+instances: 1, word: 'Forever', work: 'Tro'},
+instances: 1, word: 'Forfeits', work: 'Tro'},
+instances: 1, word: 'Forfend', work: 'Tro'},
+instances: 1, word: 'Forge', work: 'Tro'},
+instances: 1, word: 'Forget', work: 'Tro'},
+instances: 1, word: 'Forgo', work: 'Tro'},
+instances: 1, word: 'Forked', work: 'Tro'},
+instances: 1, word: 'Formed', work: 'Tro'},
+instances: 1, word: 'Formless', work: 'Tro'},
+instances: 1, word: 'Forms', work: 'Tro'},
+instances: 1, word: 'Forsooth', work: 'Tro'},
+instances: 1, word: 'Forsworn', work: 'Tro'},
+instances: 1, word: 'Forthright', work: 'Tro'},
+instances: 1, word: 'Fortunes', work: 'Tro'},
+instances: 1, word: 'Foul', work: 'Tro'},
+instances: 1, word: 'Four', work: 'Tro'},
+instances: 1, word: 'Fox', work: 'Tro'},
+instances: 1, word: 'Fraction', work: 'Tro'},
+instances: 1, word: 'Fractions', work: 'Tro'},
+instances: 1, word: 'Fragment', work: 'Tro'},
+instances: 1, word: 'Fragments', work: 'Tro'},
+instances: 1, word: 'Frailty', work: 'Tro'},
+instances: 1, word: 'Fraught', work: 'Tro'},
+instances: 1, word: 'Fraughtage', work: 'Tro'},
+instances: 1, word: 'Frayed', work: 'Tro'},
+instances: 1, word: 'Frenzy', work: 'Tro'},
+instances: 1, word: 'Frenzy\'s', work: 'Tro'},
+instances: 1, word: 'Fresher', work: 'Tro'},
+instances: 1, word: 'Freshness', work: 'Tro'},
+instances: 1, word: 'Friday', work: 'Tro'},
+instances: 1, word: 'Frighting', work: 'Tro'},
+instances: 1, word: 'Frights', work: 'Tro'},
+instances: 1, word: 'Front', work: 'Tro'},
+instances: 1, word: 'Fronting', work: 'Tro'},
+instances: 1, word: 'Fruit', work: 'Tro'},
+instances: 1, word: 'Frush', work: 'Tro'},
+instances: 1, word: 'Fulfilling', work: 'Tro'},
+instances: 1, word: 'Fumbles', work: 'Tro'},
+instances: 1, word: 'Fumbling', work: 'Tro'},
+instances: 1, word: 'Functions', work: 'Tro'},
+instances: 1, word: 'Fur', work: 'Tro'},
+instances: 1, word: 'Furnish', work: 'Tro'},
+instances: 1, word: 'Further', work: 'Tro'},
+instances: 1, word: 'Fury', work: 'Tro'},
+instances: 1, word: 'Gaging', work: 'Tro'},
+instances: 1, word: 'Gainsay', work: 'Tro'},
+instances: 1, word: 'Galathe', work: 'Tro'},
+instances: 1, word: 'Gallantry', work: 'Tro'},
+instances: 1, word: 'Galls', work: 'Tro'},
+instances: 1, word: 'Gallèd', work: 'Tro'},
+instances: 1, word: 'Games', work: 'Tro'},
+instances: 1, word: 'Gash', work: 'Tro'},
+instances: 1, word: 'Gat', work: 'Tro'},
+instances: 1, word: 'Gate', work: 'Tro'},
+instances: 1, word: 'Gauds', work: 'Tro'},
+instances: 1, word: 'Gauntlet', work: 'Tro'},
+instances: 1, word: 'Gaze', work: 'Tro'},
+instances: 1, word: 'Generally', work: 'Tro'},
+instances: 1, word: 'Generals', work: 'Tro'},
+instances: 1, word: 'General\'s', work: 'Tro'},
+instances: 1, word: 'Generous', work: 'Tro'},
+instances: 1, word: 'Genius', work: 'Tro'},
+instances: 1, word: 'Giddy', work: 'Tro'},
+instances: 1, word: 'Girls', work: 'Tro'},
+instances: 1, word: 'Giver', work: 'Tro'},
+instances: 1, word: 'Glad', work: 'Tro'},
+instances: 1, word: 'Gladness', work: 'Tro'},
+instances: 1, word: 'Glance', work: 'Tro'},
+instances: 1, word: 'Glib', work: 'Tro'},
+instances: 1, word: 'Glimpse', work: 'Tro'},
+instances: 1, word: 'Globe', work: 'Tro'},
+instances: 1, word: 'Gloss', work: 'Tro'},
+instances: 1, word: 'Gloves', work: 'Tro'},
+instances: 1, word: 'Glozed', work: 'Tro'},
+instances: 1, word: 'Goblins', work: 'Tro'},
+instances: 1, word: 'God-a-mercy', work: 'Tro'},
+instances: 1, word: 'Godlike', work: 'Tro'},
+instances: 1, word: 'Gods\'', work: 'Tro'},
+instances: 1, word: 'God\'s', work: 'Tro'},
+instances: 1, word: 'Goers-between', work: 'Tro'},
+instances: 1, word: 'Golden', work: 'Tro'},
+instances: 1, word: 'Good-fellowship', work: 'Tro'},
+instances: 1, word: 'Goodness', work: 'Tro'},
+instances: 1, word: 'Goose', work: 'Tro'},
+instances: 1, word: 'Gorget', work: 'Tro'},
+instances: 1, word: 'Gory', work: 'Tro'},
+instances: 1, word: 'Gouty', work: 'Tro'},
+instances: 1, word: 'Gracious', work: 'Tro'},
+instances: 1, word: 'Grandam', work: 'Tro'},
+instances: 1, word: 'Grandsires', work: 'Tro'},
+instances: 1, word: 'Granted', work: 'Tro'},
+instances: 1, word: 'Grated', work: 'Tro'},
+instances: 1, word: 'Gravel', work: 'Tro'},
+instances: 1, word: 'Greasy', work: 'Tro'},
+instances: 1, word: 'Grecians\'', work: 'Tro'},
+instances: 1, word: 'Grecian\'s', work: 'Tro'},
+instances: 1, word: 'Greeks\'', work: 'Tro'},
+instances: 1, word: 'Grossness', work: 'Tro'},
+instances: 1, word: 'Growth', work: 'Tro'},
+instances: 1, word: 'Grumblest', work: 'Tro'},
+instances: 1, word: 'Guest', work: 'Tro'},
+instances: 1, word: 'Guiding', work: 'Tro'},
+instances: 1, word: 'Guts', work: 'Tro'},
+instances: 1, word: 'Guts-griping', work: 'Tro'},
+instances: 1, word: 'Hadst', work: 'Tro'},
+instances: 1, word: 'Hail', work: 'Tro'},
+instances: 1, word: 'Hale', work: 'Tro'},
+instances: 1, word: 'Half-supped', work: 'Tro'},
+instances: 1, word: 'Hamstring', work: 'Tro'},
+instances: 1, word: 'Handiest', work: 'Tro'},
+instances: 1, word: 'Handless', work: 'Tro'},
+instances: 1, word: 'Handsomeness', work: 'Tro'},
+instances: 1, word: 'Hanged', work: 'Tro'},
+instances: 1, word: 'Hanging', work: 'Tro'},
+instances: 1, word: 'Happy', work: 'Tro'},
+instances: 1, word: 'Harbor', work: 'Tro'},
+instances: 1, word: 'Harder', work: 'Tro'},
+instances: 1, word: 'Hardiment', work: 'Tro'},
+instances: 1, word: 'Hare', work: 'Tro'},
+instances: 1, word: 'Hares', work: 'Tro'},
+instances: 1, word: 'Harmony', work: 'Tro'},
+instances: 1, word: 'Harness', work: 'Tro'},
+instances: 1, word: 'Harnessed', work: 'Tro'},
+instances: 1, word: 'Harsh', work: 'Tro'},
+instances: 1, word: 'Hart', work: 'Tro'},
+instances: 1, word: 'Hatched', work: 'Tro'},
+instances: 1, word: 'Hates', work: 'Tro'},
+instances: 1, word: 'Hazard', work: 'Tro'},
+instances: 1, word: 'Heads', work: 'Tro'},
+instances: 1, word: 'Headstrong', work: 'Tro'},
+instances: 1, word: 'Heal', work: 'Tro'},
+instances: 1, word: 'Heaps', work: 'Tro'},
+instances: 1, word: 'Hearers', work: 'Tro'},
+instances: 1, word: 'Hears', work: 'Tro'},
+instances: 1, word: 'Heart\'s', work: 'Tro'},
+instances: 1, word: 'Heating', work: 'Tro'},
+instances: 1, word: 'Heavenly', work: 'Tro'},
+instances: 1, word: 'Heavier', work: 'Tro'},
+instances: 1, word: 'Heaving', work: 'Tro'},
+instances: 1, word: 'Hectors', work: 'Tro'},
+instances: 1, word: 'Hedge', work: 'Tro'},
+instances: 1, word: 'Heifer\'s', work: 'Tro'},
+instances: 1, word: 'Helias', work: 'Tro'},
+instances: 1, word: 'Hell\'s', work: 'Tro'},
+instances: 1, word: 'Helmet', work: 'Tro'},
+instances: 1, word: 'Hemmed', work: 'Tro'},
+instances: 1, word: 'Henceforth', work: 'Tro'},
+instances: 1, word: 'Herald', work: 'Tro'},
+instances: 1, word: 'Herd', work: 'Tro'},
+instances: 1, word: 'Hereafter', work: 'Tro'},
+instances: 1, word: 'Hermit', work: 'Tro'},
+instances: 1, word: 'Herring', work: 'Tro'},
+instances: 1, word: 'Hers', work: 'Tro'},
+instances: 1, word: 'Hey', work: 'Tro'},
+instances: 1, word: 'Heyday', work: 'Tro'},
+instances: 1, word: 'Hiding', work: 'Tro'},
+instances: 1, word: 'High-soaring', work: 'Tro'},
+instances: 1, word: 'Highest', work: 'Tro'},
+instances: 1, word: 'Hind', work: 'Tro'},
+instances: 1, word: 'Hinder', work: 'Tro'},
+instances: 1, word: 'Hindmost', work: 'Tro'},
+instances: 1, word: 'Hiss', work: 'Tro'},
+instances: 1, word: 'Hisses', work: 'Tro'},
+instances: 1, word: 'Hive', work: 'Tro'},
+instances: 1, word: 'Hold-door', work: 'Tro'},
+instances: 1, word: 'Holiness', work: 'Tro'},
+instances: 1, word: 'Honest', work: 'Tro'},
+instances: 1, word: 'Honesty', work: 'Tro'},
+instances: 1, word: 'Honey-sweet', work: 'Tro'},
+instances: 1, word: 'Honorable', work: 'Tro'},
+instances: 1, word: 'Horribly', work: 'Tro'},
+instances: 1, word: 'Horrors', work: 'Tro'},
+instances: 1, word: 'Hostages', work: 'Tro'},
+instances: 1, word: 'Hostess', work: 'Tro'},
+instances: 1, word: 'Hound', work: 'Tro'},
+instances: 1, word: 'Hours', work: 'Tro'},
+instances: 1, word: 'However', work: 'Tro'},
+instances: 1, word: 'Howsoever', work: 'Tro'},
+instances: 1, word: 'Hulks', work: 'Tro'},
+instances: 1, word: 'Human', work: 'Tro'},
+instances: 1, word: 'Humanity', work: 'Tro'},
+instances: 1, word: 'Humble', work: 'Tro'},
+instances: 1, word: 'Humble-bee', work: 'Tro'},
+instances: 1, word: 'Humors', work: 'Tro'},
+instances: 1, word: 'Hung', work: 'Tro'},
+instances: 1, word: 'Hunter', work: 'Tro'},
+instances: 1, word: 'Hurricano', work: 'Tro'},
+instances: 1, word: 'Husbandry', work: 'Tro'},
+instances: 1, word: 'Husks', work: 'Tro'},
+instances: 1, word: 'Hyperboles', work: 'Tro'},
+instances: 1, word: 'Hyperion', work: 'Tro'},
+instances: 1, word: 'Ice', work: 'Tro'},
+instances: 1, word: 'Idiot', work: 'Tro'},
+instances: 1, word: 'Idiot-worshippers', work: 'Tro'},
+instances: 1, word: 'Idiots', work: 'Tro'},
+instances: 1, word: 'Idly', work: 'Tro'},
+instances: 1, word: 'Idolatry', work: 'Tro'},
+instances: 1, word: 'Ignomy', work: 'Tro'},
+instances: 1, word: 'Ill-disposed', work: 'Tro'},
+instances: 1, word: 'Illegitimate', work: 'Tro'},
+instances: 1, word: 'Illustrious', work: 'Tro'},
+instances: 1, word: 'Image', work: 'Tro'},
+instances: 1, word: 'Imaginary', work: 'Tro'},
+instances: 1, word: 'Imagined', work: 'Tro'},
+instances: 1, word: 'Imbecility', work: 'Tro'},
+instances: 1, word: 'Immaterial', work: 'Tro'},
+instances: 1, word: 'Immediately', work: 'Tro'},
+instances: 1, word: 'Imminence', work: 'Tro'},
+instances: 1, word: 'Imminent', work: 'Tro'},
+instances: 1, word: 'Immortal', work: 'Tro'},
+instances: 1, word: 'Immures', work: 'Tro'},
+instances: 1, word: 'Impair', work: 'Tro'},
+instances: 1, word: 'Imperious', work: 'Tro'},
+instances: 1, word: 'Import', work: 'Tro'},
+instances: 1, word: 'Importless', work: 'Tro'},
+instances: 1, word: 'Imposed', work: 'Tro'},
+instances: 1, word: 'Imposition', work: 'Tro'},
+instances: 1, word: 'Impossibility', work: 'Tro'},
+instances: 1, word: 'Impostume', work: 'Tro'},
+instances: 1, word: 'Impress', work: 'Tro'},
+instances: 1, word: 'Impressure', work: 'Tro'},
+instances: 1, word: 'Impudent', work: 'Tro'},
+instances: 1, word: 'Imputation', work: 'Tro'},
+instances: 1, word: 'Includes', work: 'Tro'},
+instances: 1, word: 'Incontinent', work: 'Tro'},
+instances: 1, word: 'Incurable', work: 'Tro'},
+instances: 1, word: 'Incurred', work: 'Tro'},
+instances: 1, word: 'Incursions', work: 'Tro'},
+instances: 1, word: 'Indexes', work: 'Tro'},
+instances: 1, word: 'Indifferent', work: 'Tro'},
+instances: 1, word: 'Indistinguishable', work: 'Tro'},
+instances: 1, word: 'Indrenched', work: 'Tro'},
+instances: 1, word: 'Indulgence', work: 'Tro'},
+instances: 1, word: 'Inestimable', work: 'Tro'},
+instances: 1, word: 'Infants\'', work: 'Tro'},
+instances: 1, word: 'Infect', work: 'Tro'},
+instances: 1, word: 'Infectiously', work: 'Tro'},
+instances: 1, word: 'Infects', work: 'Tro'},
+instances: 1, word: 'Inflamed', work: 'Tro'},
+instances: 1, word: 'Influence', work: 'Tro'},
+instances: 1, word: 'Ingratitudes', work: 'Tro'},
+instances: 1, word: 'Inheritors', work: 'Tro'},
+instances: 1, word: 'Injurious', work: 'Tro'},
+instances: 1, word: 'Injury', work: 'Tro'},
+instances: 1, word: 'Ink', work: 'Tro'},
+instances: 1, word: 'Inseparate', work: 'Tro'},
+instances: 1, word: 'Insisture', work: 'Tro'},
+instances: 1, word: 'Insolence', work: 'Tro'},
+instances: 1, word: 'Instances', work: 'Tro'},
+instances: 1, word: 'Instant', work: 'Tro'},
+instances: 1, word: 'Instead', work: 'Tro'},
+instances: 1, word: 'Instrument', work: 'Tro'},
+instances: 1, word: 'Intelligence', work: 'Tro'},
+instances: 1, word: 'Intend', work: 'Tro'},
+instances: 1, word: 'Intends', work: 'Tro'},
+instances: 1, word: 'Interchange', work: 'Tro'},
+instances: 1, word: 'Interchangeably', work: 'Tro'},
+instances: 1, word: 'Interrupt', work: 'Tro'},
+instances: 1, word: 'Interview', work: 'Tro'},
+instances: 1, word: 'Inveigled', work: 'Tro'},
+instances: 1, word: 'Invert', work: 'Tro'},
+instances: 1, word: 'Inward', work: 'Tro'},
+instances: 1, word: 'Iris', work: 'Tro'},
+instances: 1, word: 'Iron', work: 'Tro'},
+instances: 1, word: 'Irons', work: 'Tro'},
+instances: 1, word: 'Island', work: 'Tro'},
+instances: 1, word: 'Islands', work: 'Tro'},
+instances: 1, word: 'Isles', work: 'Tro'},
+instances: 1, word: 'Iteration', work: 'Tro'},
+instances: 1, word: 'Ithaca', work: 'Tro'},
+instances: 1, word: 'Jade\'s', work: 'Tro'},
+instances: 1, word: 'Jar', work: 'Tro'},
+instances: 1, word: 'Jaundice', work: 'Tro'},
+instances: 1, word: 'Jaws', work: 'Tro'},
+instances: 1, word: 'Jealous', work: 'Tro'},
+instances: 1, word: 'Jealousy', work: 'Tro'},
+instances: 1, word: 'Jerkin', work: 'Tro'},
+instances: 1, word: 'Jesting', work: 'Tro'},
+instances: 1, word: 'Jests', work: 'Tro'},
+instances: 1, word: 'Jostles', work: 'Tro'},
+instances: 1, word: 'Journey', work: 'Tro'},
+instances: 1, word: 'Jove\'s', work: 'Tro'},
+instances: 1, word: 'Joy', work: 'Tro'},
+instances: 1, word: 'Joy\'s', work: 'Tro'},
+instances: 1, word: 'Judgments', work: 'Tro'},
+instances: 1, word: 'Juno', work: 'Tro'},
+instances: 1, word: 'Justness', work: 'Tro'},
+instances: 1, word: 'Ken', work: 'Tro'},
+instances: 1, word: 'Kept', work: 'Tro'},
+instances: 1, word: 'Kernel', work: 'Tro'},
+instances: 1, word: 'Key', work: 'Tro'},
+instances: 1, word: 'Kindness', work: 'Tro'},
+instances: 1, word: 'Kindred', work: 'Tro'},
+instances: 1, word: 'Kingdomed', work: 'Tro'},
+instances: 1, word: 'Kingly', work: 'Tro'},
+instances: 1, word: 'Kinswoman', work: 'Tro'},
+instances: 1, word: 'Kissed', work: 'Tro'},
+instances: 1, word: 'Knavery', work: 'Tro'},
+instances: 1, word: 'Knave\'s', work: 'Tro'},
+instances: 1, word: 'Knead', work: 'Tro'},
+instances: 1, word: 'Kneading', work: 'Tro'},
+instances: 1, word: 'Knife', work: 'Tro'},
+instances: 1, word: 'Knit', work: 'Tro'},
+instances: 1, word: 'Knits', work: 'Tro'},
+instances: 1, word: 'Knocking', work: 'Tro'},
+instances: 1, word: 'Knot', work: 'Tro'},
+instances: 1, word: 'Knotted', work: 'Tro'},
+instances: 1, word: 'Knowest', work: 'Tro'},
+instances: 1, word: 'Knowledge', work: 'Tro'},
+instances: 1, word: 'Labyrinth', work: 'Tro'},
+instances: 1, word: 'Lack', work: 'Tro'},
+instances: 1, word: 'Lacked', work: 'Tro'},
+instances: 1, word: 'Lackey', work: 'Tro'},
+instances: 1, word: 'Lacks', work: 'Tro'},
+instances: 1, word: 'Ladder', work: 'Tro'},
+instances: 1, word: 'Lamb', work: 'Tro'},
+instances: 1, word: 'Lambs', work: 'Tro'},
+instances: 1, word: 'Lamp', work: 'Tro'},
+instances: 1, word: 'Lance', work: 'Tro'},
+instances: 1, word: 'Land', work: 'Tro'},
+instances: 1, word: 'Land-fish', work: 'Tro'},
+instances: 1, word: 'Language', work: 'Tro'},
+instances: 1, word: 'Languageless', work: 'Tro'},
+instances: 1, word: 'Larded', work: 'Tro'},
+instances: 1, word: 'Largeness', work: 'Tro'},
+instances: 1, word: 'Lark', work: 'Tro'},
+instances: 1, word: 'Latest', work: 'Tro'},
+instances: 1, word: 'Laud', work: 'Tro'},
+instances: 1, word: 'Laughs', work: 'Tro'},
+instances: 1, word: 'Launched', work: 'Tro'},
+instances: 1, word: 'Laurels', work: 'Tro'},
+instances: 1, word: 'Lavolt', work: 'Tro'},
+instances: 1, word: 'Lawful', work: 'Tro'},
+instances: 1, word: 'Laws', work: 'Tro'},
+instances: 1, word: 'Laying', work: 'Tro'},
+instances: 1, word: 'Lays', work: 'Tro'},
+instances: 1, word: 'Lay\'st', work: 'Tro'},
+instances: 1, word: 'Lazar', work: 'Tro'},
+instances: 1, word: 'Lazars', work: 'Tro'},
+instances: 1, word: 'Leaned', work: 'Tro'},
+instances: 1, word: 'Leaning', work: 'Tro'},
+instances: 1, word: 'Leaps', work: 'Tro'},
+instances: 1, word: 'Learning', work: 'Tro'},
+instances: 1, word: 'Leather', work: 'Tro'},
+instances: 1, word: 'Leave-taking', work: 'Tro'},
+instances: 1, word: 'Leaven', work: 'Tro'},
+instances: 1, word: 'Leaves', work: 'Tro'},
+instances: 1, word: 'Lecher', work: 'Tro'},
+instances: 1, word: 'Leers', work: 'Tro'},
+instances: 1, word: 'Lees', work: 'Tro'},
+instances: 1, word: 'Lend', work: 'Tro'},
+instances: 1, word: 'Length', work: 'Tro'},
+instances: 1, word: 'Lethargies', work: 'Tro'},
+instances: 1, word: 'Letting', work: 'Tro'},
+instances: 1, word: 'Levity', work: 'Tro'},
+instances: 1, word: 'Liars', work: 'Tro'},
+instances: 1, word: 'Liberality', work: 'Tro'},
+instances: 1, word: 'Libya', work: 'Tro'},
+instances: 1, word: 'Lid', work: 'Tro'},
+instances: 1, word: 'Lief', work: 'Tro'},
+instances: 1, word: 'Liege', work: 'Tro'},
+instances: 1, word: 'Lifter', work: 'Tro'},
+instances: 1, word: 'Lifts', work: 'Tro'},
+instances: 1, word: 'Lights', work: 'Tro'},
+instances: 1, word: 'Likes', work: 'Tro'},
+instances: 1, word: 'Lily', work: 'Tro'},
+instances: 1, word: 'Limekilns', work: 'Tro'},
+instances: 1, word: 'Limit', work: 'Tro'},
+instances: 1, word: 'Line', work: 'Tro'},
+instances: 1, word: 'Linger', work: 'Tro'},
+instances: 1, word: 'Lion-sick', work: 'Tro'},
+instances: 1, word: 'Lions', work: 'Tro'},
+instances: 1, word: 'Lion\'s', work: 'Tro'},
+instances: 1, word: 'Liquid', work: 'Tro'},
+instances: 1, word: 'List', work: 'Tro'},
+instances: 1, word: 'Live-long', work: 'Tro'},
+instances: 1, word: 'Lizard', work: 'Tro'},
+instances: 1, word: 'Loads', work: 'Tro'},
+instances: 1, word: 'Loath', work: 'Tro'},
+instances: 1, word: 'Loathsomest', work: 'Tro'},
+instances: 1, word: 'Local', work: 'Tro'},
+instances: 1, word: 'Lodges', work: 'Tro'},
+instances: 1, word: 'Loins', work: 'Tro'},
+instances: 1, word: 'Lolling', work: 'Tro'},
+instances: 1, word: 'Long-continued', work: 'Tro'},
+instances: 1, word: 'Longer', work: 'Tro'},
+instances: 1, word: 'Longing', work: 'Tro'},
+instances: 1, word: 'Loosed', work: 'Tro'},
+instances: 1, word: 'Lordship', work: 'Tro'},
+instances: 1, word: 'Loud\'st', work: 'Tro'},
+instances: 1, word: 'Louse', work: 'Tro'},
+instances: 1, word: 'Lubber', work: 'Tro'},
+instances: 1, word: 'Luck', work: 'Tro'},
+instances: 1, word: 'Lurks', work: 'Tro'},
+instances: 1, word: 'Lust', work: 'Tro'},
+instances: 1, word: 'Lustihood', work: 'Tro'},
+instances: 1, word: 'Lusty', work: 'Tro'},
+instances: 1, word: 'Luxurious', work: 'Tro'},
+instances: 1, word: 'Luxury', work: 'Tro'},
+instances: 1, word: 'Maculation', work: 'Tro'},
+instances: 1, word: 'Madam', work: 'Tro'},
+instances: 1, word: 'Madly', work: 'Tro'},
+instances: 1, word: 'Madmen', work: 'Tro'},
+instances: 1, word: 'Maiden', work: 'Tro'},
+instances: 1, word: 'Maidenheads', work: 'Tro'},
+instances: 1, word: 'Maidens', work: 'Tro'},
+instances: 1, word: 'Mail', work: 'Tro'},
+instances: 1, word: 'Mainly', work: 'Tro'},
+instances: 1, word: 'Majesty', work: 'Tro'},
+instances: 1, word: 'Major', work: 'Tro'},
+instances: 1, word: 'Manage', work: 'Tro'},
+instances: 1, word: 'Mane', work: 'Tro'},
+instances: 1, word: 'Mangled', work: 'Tro'},
+instances: 1, word: 'Mankind', work: 'Tro'},
+instances: 1, word: 'Manly', work: 'Tro'},
+instances: 1, word: 'Mannish', work: 'Tro'},
+instances: 1, word: 'Mapp\'ry', work: 'Tro'},
+instances: 1, word: 'Margareton', work: 'Tro'},
+instances: 1, word: 'Married', work: 'Tro'},
+instances: 1, word: 'Marvellous', work: 'Tro'},
+instances: 1, word: 'Marvels', work: 'Tro'},
+instances: 1, word: 'Masculine', work: 'Tro'},
+instances: 1, word: 'Masters', work: 'Tro'},
+instances: 1, word: 'Mastic', work: 'Tro'},
+instances: 1, word: 'Mastiffs', work: 'Tro'},
+instances: 1, word: 'Matchless', work: 'Tro'},
+instances: 1, word: 'Mate', work: 'Tro'},
+instances: 1, word: 'Mater', work: 'Tro'},
+instances: 1, word: 'Mature', work: 'Tro'},
+instances: 1, word: 'Maturity', work: 'Tro'},
+instances: 1, word: 'Maxim', work: 'Tro'},
+instances: 1, word: 'Meals', work: 'Tro'},
+instances: 1, word: 'Mealy', work: 'Tro'},
+instances: 1, word: 'Meaning', work: 'Tro'},
+instances: 1, word: 'Meant', work: 'Tro'},
+instances: 1, word: 'Meat', work: 'Tro'},
+instances: 1, word: 'Medicinable', work: 'Tro'},
+instances: 1, word: 'Medicine', work: 'Tro'},
+instances: 1, word: 'Med\'cinable', work: 'Tro'},
+instances: 1, word: 'Melody', work: 'Tro'},
+instances: 1, word: 'Memory', work: 'Tro'},
+instances: 1, word: 'Mended', work: 'Tro'},
+instances: 1, word: 'Mends', work: 'Tro'},
+instances: 1, word: 'Menon', work: 'Tro'},
+instances: 1, word: 'Merely', work: 'Tro'},
+instances: 1, word: 'Merit\'s', work: 'Tro'},
+instances: 1, word: 'Merrily', work: 'Tro'},
+instances: 1, word: 'Messengers', work: 'Tro'},
+instances: 1, word: 'Met', work: 'Tro'},
+instances: 1, word: 'Metal', work: 'Tro'},
+instances: 1, word: 'Mettle', work: 'Tro'},
+instances: 1, word: 'Mid-age', work: 'Tro'},
+instances: 1, word: 'Middle', work: 'Tro'},
+instances: 1, word: 'Midway', work: 'Tro'},
+instances: 1, word: 'Millstones', work: 'Tro'},
+instances: 1, word: 'Milo', work: 'Tro'},
+instances: 1, word: 'Minced', work: 'Tro'},
+instances: 1, word: 'Ministers', work: 'Tro'},
+instances: 1, word: 'Mint', work: 'Tro'},
+instances: 1, word: 'Mirable', work: 'Tro'},
+instances: 1, word: 'Miracle', work: 'Tro'},
+instances: 1, word: 'Mirrored', work: 'Tro'},
+instances: 1, word: 'Miscall', work: 'Tro'},
+instances: 1, word: 'Miscarrying', work: 'Tro'},
+instances: 1, word: 'Misers', work: 'Tro'},
+instances: 1, word: 'Misprizing', work: 'Tro'},
+instances: 1, word: 'Miss', work: 'Tro'},
+instances: 1, word: 'Missions', work: 'Tro'},
+instances: 1, word: 'Mixture', work: 'Tro'},
+instances: 1, word: 'Moan', work: 'Tro'},
+instances: 1, word: 'Mock\'ry', work: 'Tro'},
+instances: 1, word: 'Moderation', work: 'Tro'},
+instances: 1, word: 'Modestly', work: 'Tro'},
+instances: 1, word: 'Modicums', work: 'Tro'},
+instances: 1, word: 'Moiety', work: 'Tro'},
+instances: 1, word: 'Moist', work: 'Tro'},
+instances: 1, word: 'Molded', work: 'Tro'},
+instances: 1, word: 'Moldeth', work: 'Tro'},
+instances: 1, word: 'Moldy', work: 'Tro'},
+instances: 1, word: 'Moment', work: 'Tro'},
+instances: 1, word: 'Momentary-swift', work: 'Tro'},
+instances: 1, word: 'Monsters', work: 'Tro'},
+instances: 1, word: 'Monstrous', work: 'Tro'},
+instances: 1, word: 'Monstruosity', work: 'Tro'},
+instances: 1, word: 'Monumental', work: 'Tro'},
+instances: 1, word: 'Morn', work: 'Tro'},
+instances: 1, word: 'Mortals', work: 'Tro'},
+instances: 1, word: 'Mother\'s', work: 'Tro'},
+instances: 1, word: 'Motion', work: 'Tro'},
+instances: 1, word: 'Motive', work: 'Tro'},
+instances: 1, word: 'Mountains', work: 'Tro'},
+instances: 1, word: 'Mouse-eaten', work: 'Tro'},
+instances: 1, word: 'Moves', work: 'Tro'},
+instances: 1, word: 'Mower\'s', work: 'Tro'},
+instances: 1, word: 'Mule', work: 'Tro'},
+instances: 1, word: 'Multipotent', work: 'Tro'},
+instances: 1, word: 'Multitude', work: 'Tro'},
+instances: 1, word: 'Murderer\'s', work: 'Tro'},
+instances: 1, word: 'Murrain', work: 'Tro'},
+instances: 1, word: 'Musicians', work: 'Tro'},
+instances: 1, word: 'Mutiny', work: 'Tro'},
+instances: 1, word: 'Mutual', work: 'Tro'},
+instances: 1, word: 'Myrmidon', work: 'Tro'},
+instances: 1, word: 'Mystery', work: 'Tro'},
+instances: 1, word: 'Nail', work: 'Tro'},
+instances: 1, word: 'Nails', work: 'Tro'},
+instances: 1, word: 'Naming', work: 'Tro'},
+instances: 1, word: 'Narrow', work: 'Tro'},
+instances: 1, word: 'Nation', work: 'Tro'},
+instances: 1, word: 'Nations', work: 'Tro'},
+instances: 1, word: 'Native', work: 'Tro'},
+instances: 1, word: 'Natures', work: 'Tro'},
+instances: 1, word: 'Naughtily', work: 'Tro'},
+instances: 1, word: 'Neapolitan', work: 'Tro'},
+instances: 1, word: 'Nearer', work: 'Tro'},
+instances: 1, word: 'Necessary', work: 'Tro'},
+instances: 1, word: 'Necessity', work: 'Tro'},
+instances: 1, word: 'Nectar', work: 'Tro'},
+instances: 1, word: 'Needful', work: 'Tro'},
+instances: 1, word: 'Needle', work: 'Tro'},
+instances: 1, word: 'Needless', work: 'Tro'},
+instances: 1, word: 'Negation', work: 'Tro'},
+instances: 1, word: 'Neglected', work: 'Tro'},
+instances: 1, word: 'Neglection', work: 'Tro'},
+instances: 1, word: 'Negligence', work: 'Tro'},
+instances: 1, word: 'Negligent', work: 'Tro'},
+instances: 1, word: 'Negotiations', work: 'Tro'},
+instances: 1, word: 'Nell', work: 'Tro'},
+instances: 1, word: 'Neoptolemus', work: 'Tro'},
+instances: 1, word: 'Nephew', work: 'Tro'},
+instances: 1, word: 'Neptune', work: 'Tro'},
+instances: 1, word: 'Neptune\'s', work: 'Tro'},
+instances: 1, word: 'Nerves', work: 'Tro'},
+instances: 1, word: 'Nettle', work: 'Tro'},
+instances: 1, word: 'Never\'s', work: 'Tro'},
+instances: 1, word: 'New-ta\'en', work: 'Tro'},
+instances: 1, word: 'Newborn', work: 'Tro'},
+instances: 1, word: 'Ne\'ertheless', work: 'Tro'},
+instances: 1, word: 'Nice', work: 'Tro'},
+instances: 1, word: 'Nightly', work: 'Tro'},
+instances: 1, word: 'Ninth', work: 'Tro'},
+instances: 1, word: 'Niobes', work: 'Tro'},
+instances: 1, word: 'Nobler', work: 'Tro'},
+instances: 1, word: 'Nobles', work: 'Tro'},
+instances: 1, word: 'Noblest', work: 'Tro'},
+instances: 1, word: 'Nobly', work: 'Tro'},
+instances: 1, word: 'Noseless', work: 'Tro'},
+instances: 1, word: 'Notable', work: 'Tro'},
+instances: 1, word: 'Noted', work: 'Tro'},
+instances: 1, word: 'Novelty', work: 'Tro'},
+instances: 1, word: 'Nursery', work: 'Tro'},
+instances: 1, word: 'Nut', work: 'Tro'},
+instances: 1, word: 'Oaks', work: 'Tro'},
+instances: 1, word: 'Oaths', work: 'Tro'},
+instances: 1, word: 'Obedience', work: 'Tro'},
+instances: 1, word: 'Obeying', work: 'Tro'},
+instances: 1, word: 'Objects', work: 'Tro'},
+instances: 1, word: 'Obligation', work: 'Tro'},
+instances: 1, word: 'Oblique', work: 'Tro'},
+instances: 1, word: 'Observant', work: 'Tro'},
+instances: 1, word: 'Observe', work: 'Tro'},
+instances: 1, word: 'Observing', work: 'Tro'},
+instances: 1, word: 'Obstinately', work: 'Tro'},
+instances: 1, word: 'Oddly', work: 'Tro'},
+instances: 1, word: 'Odds', work: 'Tro'},
+instances: 1, word: 'Offence', work: 'Tro'},
+instances: 1, word: 'Offended', work: 'Tro'},
+instances: 1, word: 'Offends', work: 'Tro'},
+instances: 1, word: 'Offenses', work: 'Tro'},
+instances: 1, word: 'Offer', work: 'Tro'},
+instances: 1, word: 'Offers', work: 'Tro'},
+instances: 1, word: 'Offspring', work: 'Tro'},
+instances: 1, word: 'Off\'ring', work: 'Tro'},
+instances: 1, word: 'Off\'rings', work: 'Tro'},
+instances: 1, word: 'Oil', work: 'Tro'},
+instances: 1, word: 'Olympian', work: 'Tro'},
+instances: 1, word: 'Olympus', work: 'Tro'},
+instances: 1, word: 'Omission', work: 'Tro'},
+instances: 1, word: 'Opening', work: 'Tro'},
+instances: 1, word: 'Operate', work: 'Tro'},
+instances: 1, word: 'Operation', work: 'Tro'},
+instances: 1, word: 'Opes', work: 'Tro'},
+instances: 1, word: 'Opportunity', work: 'Tro'},
+instances: 1, word: 'Oppose', work: 'Tro'},
+instances: 1, word: 'Oppress', work: 'Tro'},
+instances: 1, word: 'Oppugnancy', work: 'Tro'},
+instances: 1, word: 'Orchard', work: 'Tro'},
+instances: 1, word: 'Orders', work: 'Tro'},
+instances: 1, word: 'Organs', work: 'Tro'},
+instances: 1, word: 'Orgulous', work: 'Tro'},
+instances: 1, word: 'Orifex', work: 'Tro'},
+instances: 1, word: 'Orts', work: 'Tro'},
+instances: 1, word: 'Others\'', work: 'Tro'},
+instances: 1, word: 'Ounces', work: 'Tro'},
+instances: 1, word: 'Outfly', work: 'Tro'},
+instances: 1, word: 'Outliving', work: 'Tro'},
+instances: 1, word: 'Outstretched', work: 'Tro'},
+instances: 1, word: 'Outswell', work: 'Tro'},
+instances: 1, word: 'Outward', work: 'Tro'},
+instances: 1, word: 'Outwardly', work: 'Tro'},
+instances: 1, word: 'Oven', work: 'Tro'},
+instances: 1, word: 'Over', work: 'Tro'},
+instances: 1, word: 'Overbulk', work: 'Tro'},
+instances: 1, word: 'Overhold', work: 'Tro'},
+instances: 1, word: 'Overproud', work: 'Tro'},
+instances: 1, word: 'Overshines', work: 'Tro'},
+instances: 1, word: 'Owes', work: 'Tro'},
+instances: 1, word: 'Owest', work: 'Tro'},
+instances: 1, word: 'Owners', work: 'Tro'},
+instances: 1, word: 'Oyez', work: 'Tro'},
+instances: 1, word: 'O\'er-eaten', work: 'Tro'},
+instances: 1, word: 'O\'er-gallèd', work: 'Tro'},
+instances: 1, word: 'O\'erdusted', work: 'Tro'},
+instances: 1, word: 'O\'errun', work: 'Tro'},
+instances: 1, word: 'O\'erspreads', work: 'Tro'},
+instances: 1, word: 'O\'ertop', work: 'Tro'},
+instances: 1, word: 'O\'erwrested', work: 'Tro'},
+instances: 1, word: 'Pageants', work: 'Tro'},
+instances: 1, word: 'Pains', work: 'Tro'},
+instances: 1, word: 'Paint', work: 'Tro'},
+instances: 1, word: 'Pair', work: 'Tro'},
+instances: 1, word: 'Palamedes', work: 'Tro'},
+instances: 1, word: 'Palating', work: 'Tro'},
+instances: 1, word: 'Palsies', work: 'Tro'},
+instances: 1, word: 'Palsy', work: 'Tro'},
+instances: 1, word: 'Paltry', work: 'Tro'},
+instances: 1, word: 'Pander', work: 'Tro'},
+instances: 1, word: 'Panders\'', work: 'Tro'},
+instances: 1, word: 'Paradoxes', work: 'Tro'},
+instances: 1, word: 'Parallel', work: 'Tro'},
+instances: 1, word: 'Parallels', work: 'Tro'},
+instances: 1, word: 'Parch', work: 'Tro'},
+instances: 1, word: 'Pard', work: 'Tro'},
+instances: 1, word: 'Paris\'', work: 'Tro'},
+instances: 1, word: 'Parrot', work: 'Tro'},
+instances: 1, word: 'Partial', work: 'Tro'},
+instances: 1, word: 'Particulars', work: 'Tro'},
+instances: 1, word: 'Parties', work: 'Tro'},
+instances: 1, word: 'Partly', work: 'Tro'},
+instances: 1, word: 'Party', work: 'Tro'},
+instances: 1, word: 'Pash', work: 'Tro'},
+instances: 1, word: 'Pashèd', work: 'Tro'},
+instances: 1, word: 'Passage', work: 'Tro'},
+instances: 1, word: 'Past-proportion', work: 'Tro'},
+instances: 1, word: 'Patchery', work: 'Tro'},
+instances: 1, word: 'Path', work: 'Tro'},
+instances: 1, word: 'Patiently', work: 'Tro'},
+instances: 1, word: 'Patient\'s', work: 'Tro'},
+instances: 1, word: 'Pavement', work: 'Tro'},
+instances: 1, word: 'Pavilion', work: 'Tro'},
+instances: 1, word: 'Pavilions', work: 'Tro'},
+instances: 1, word: 'Peaceful', work: 'Tro'},
+instances: 1, word: 'Peacock', work: 'Tro'},
+instances: 1, word: 'Peculiar', work: 'Tro'},
+instances: 1, word: 'Peers', work: 'Tro'},
+instances: 1, word: 'Peevish', work: 'Tro'},
+instances: 1, word: 'Pelting', work: 'Tro'},
+instances: 1, word: 'Penny', work: 'Tro'},
+instances: 1, word: 'People', work: 'Tro'},
+instances: 1, word: 'Per', work: 'Tro'},
+instances: 1, word: 'Perdition', work: 'Tro'},
+instances: 1, word: 'Perfect', work: 'Tro'},
+instances: 1, word: 'Perfectly', work: 'Tro'},
+instances: 1, word: 'Perforce', work: 'Tro'},
+instances: 1, word: 'Perform', work: 'Tro'},
+instances: 1, word: 'Performs', work: 'Tro'},
+instances: 1, word: 'Perhaps', work: 'Tro'},
+instances: 1, word: 'Peril', work: 'Tro'},
+instances: 1, word: 'Perilous', work: 'Tro'},
+instances: 1, word: 'Perish', work: 'Tro'},
+instances: 1, word: 'Perseus', work: 'Tro'},
+instances: 1, word: 'Perseus\'', work: 'Tro'},
+instances: 1, word: 'Perseverance', work: 'Tro'},
+instances: 1, word: 'Persist', work: 'Tro'},
+instances: 1, word: 'Persistive', work: 'Tro'},
+instances: 1, word: 'Perspicuous', work: 'Tro'},
+instances: 1, word: 'Persuade', work: 'Tro'},
+instances: 1, word: 'Persuaded', work: 'Tro'},
+instances: 1, word: 'Persuasion', work: 'Tro'},
+instances: 1, word: 'Pertly', work: 'Tro'},
+instances: 1, word: 'Perused', work: 'Tro'},
+instances: 1, word: 'Pestered', work: 'Tro'},
+instances: 1, word: 'Pestilence', work: 'Tro'},
+instances: 1, word: 'Philosophy', work: 'Tro'},
+instances: 1, word: 'Phoebus', work: 'Tro'},
+instances: 1, word: 'Phrase', work: 'Tro'},
+instances: 1, word: 'Physic', work: 'Tro'},
+instances: 1, word: 'Physician', work: 'Tro'},
+instances: 1, word: 'Pia', work: 'Tro'},
+instances: 1, word: 'Pie', work: 'Tro'},
+instances: 1, word: 'Pierce', work: 'Tro'},
+instances: 1, word: 'Pillar', work: 'Tro'},
+instances: 1, word: 'Pillow', work: 'Tro'},
+instances: 1, word: 'Pilots', work: 'Tro'},
+instances: 1, word: 'Pin', work: 'Tro'},
+instances: 1, word: 'Pine', work: 'Tro'},
+instances: 1, word: 'Pipe', work: 'Tro'},
+instances: 1, word: 'Pitch', work: 'Tro'},
+instances: 1, word: 'Pitched', work: 'Tro'},
+instances: 1, word: 'Pitiful', work: 'Tro'},
+instances: 1, word: 'Placket', work: 'Tro'},
+instances: 1, word: 'Plagued', work: 'Tro'},
+instances: 1, word: 'Plaguy', work: 'Tro'},
+instances: 1, word: 'Plainness', work: 'Tro'},
+instances: 1, word: 'Planet', work: 'Tro'},
+instances: 1, word: 'Plantage', work: 'Tro'},
+instances: 1, word: 'Player', work: 'Tro'},
+instances: 1, word: 'Pleads', work: 'Tro'},
+instances: 1, word: 'Pleasant', work: 'Tro'},
+instances: 1, word: 'Pleasantly', work: 'Tro'},
+instances: 1, word: 'Plight', work: 'Tro'},
+instances: 1, word: 'Plots', work: 'Tro'},
+instances: 1, word: 'Plow', work: 'Tro'},
+instances: 1, word: 'Plowman', work: 'Tro'},
+instances: 1, word: 'Plucks', work: 'Tro'},
+instances: 1, word: 'Plumes', work: 'Tro'},
+instances: 1, word: 'Pointing', work: 'Tro'},
+instances: 1, word: 'Poise', work: 'Tro'},
+instances: 1, word: 'Politic', work: 'Tro'},
+instances: 1, word: 'Polluted', work: 'Tro'},
+instances: 1, word: 'Polydamas', work: 'Tro'},
+instances: 1, word: 'Polyxena', work: 'Tro'},
+instances: 1, word: 'Polyxenes', work: 'Tro'},
+instances: 1, word: 'Poorly', work: 'Tro'},
+instances: 1, word: 'Popped', work: 'Tro'},
+instances: 1, word: 'Porpentine', work: 'Tro'},
+instances: 1, word: 'Porridge', work: 'Tro'},
+instances: 1, word: 'Portable', work: 'Tro'},
+instances: 1, word: 'Portents', work: 'Tro'},
+instances: 1, word: 'Porter', work: 'Tro'},
+instances: 1, word: 'Portly', work: 'Tro'},
+instances: 1, word: 'Ports', work: 'Tro'},
+instances: 1, word: 'Position', work: 'Tro'},
+instances: 1, word: 'Positive', work: 'Tro'},
+instances: 1, word: 'Possession', work: 'Tro'},
+instances: 1, word: 'Possessions', work: 'Tro'},
+instances: 1, word: 'Posts', work: 'Tro'},
+instances: 1, word: 'Pot', work: 'Tro'},
+instances: 1, word: 'Potato', work: 'Tro'},
+instances: 1, word: 'Potency', work: 'Tro'},
+instances: 1, word: 'Potent', work: 'Tro'},
+instances: 1, word: 'Pourest', work: 'Tro'},
+instances: 1, word: 'Powerful', work: 'Tro'},
+instances: 1, word: 'Practice', work: 'Tro'},
+instances: 1, word: 'Praising', work: 'Tro'},
+instances: 1, word: 'Praisèd', work: 'Tro'},
+instances: 1, word: 'Prayers', work: 'Tro'},
+instances: 1, word: 'Precious-dear', work: 'Tro'},
+instances: 1, word: 'Predominance', work: 'Tro'},
+instances: 1, word: 'Prefixed', work: 'Tro'},
+instances: 1, word: 'Pregnant', work: 'Tro'},
+instances: 1, word: 'Prenominate', work: 'Tro'},
+instances: 1, word: 'Prepare', work: 'Tro'},
+instances: 1, word: 'Preposterous', work: 'Tro'},
+instances: 1, word: 'Prerogative', work: 'Tro'},
+instances: 1, word: 'Prescience', work: 'Tro'},
+instances: 1, word: 'Presented', work: 'Tro'},
+instances: 1, word: 'Press', work: 'Tro'},
+instances: 1, word: 'Pressed', work: 'Tro'},
+instances: 1, word: 'Presuming', work: 'Tro'},
+instances: 1, word: 'Prettiest', work: 'Tro'},
+instances: 1, word: 'Preventions', work: 'Tro'},
+instances: 1, word: 'Prevents', work: 'Tro'},
+instances: 1, word: 'Prey', work: 'Tro'},
+instances: 1, word: 'Pricks', work: 'Tro'},
+instances: 1, word: 'Primitive', work: 'Tro'},
+instances: 1, word: 'Primogeneity', work: 'Tro'},
+instances: 1, word: 'Priority', work: 'Tro'},
+instances: 1, word: 'Privately', work: 'Tro'},
+instances: 1, word: 'Privilege', work: 'Tro'},
+instances: 1, word: 'Prizer', work: 'Tro'},
+instances: 1, word: 'Prizes', work: 'Tro'},
+instances: 1, word: 'Proceed', work: 'Tro'},
+instances: 1, word: 'Proceedings', work: 'Tro'},
+instances: 1, word: 'Process', work: 'Tro'},
+instances: 1, word: 'Proclaim', work: 'Tro'},
+instances: 1, word: 'Prodigal\'s', work: 'Tro'},
+instances: 1, word: 'Prodigious', work: 'Tro'},
+instances: 1, word: 'Professes', work: 'Tro'},
+instances: 1, word: 'Profit', work: 'Tro'},
+instances: 1, word: 'Profoundly', work: 'Tro'},
+instances: 1, word: 'Project', work: 'Tro'},
+instances: 1, word: 'Project\'s', work: 'Tro'},
+instances: 1, word: 'Prologue', work: 'Tro'},
+instances: 1, word: 'Prompt', work: 'Tro'},
+instances: 1, word: 'Prompted', work: 'Tro'},
+instances: 1, word: 'Prompts', work: 'Tro'},
+instances: 1, word: 'Propend', work: 'Tro'},
+instances: 1, word: 'Propension', work: 'Tro'},
+instances: 1, word: 'Prophecy', work: 'Tro'},
+instances: 1, word: 'Prophetic', work: 'Tro'},
+instances: 1, word: 'Prophetically', work: 'Tro'},
+instances: 1, word: 'Proportion', work: 'Tro'},
+instances: 1, word: 'Propose', work: 'Tro'},
+instances: 1, word: 'Proposed', work: 'Tro'},
+instances: 1, word: 'Proposition', work: 'Tro'},
+instances: 1, word: 'Propugnation', work: 'Tro'},
+instances: 1, word: 'Proserpina\'s', work: 'Tro'},
+instances: 1, word: 'Protestation', work: 'Tro'},
+instances: 1, word: 'Protractive', work: 'Tro'},
+instances: 1, word: 'Proved', work: 'Tro'},
+instances: 1, word: 'Proves', work: 'Tro'},
+instances: 1, word: 'Provide', work: 'Tro'},
+instances: 1, word: 'Providence', work: 'Tro'},
+instances: 1, word: 'Publication', work: 'Tro'},
+instances: 1, word: 'Publish', work: 'Tro'},
+instances: 1, word: 'Publishing', work: 'Tro'},
+instances: 1, word: 'Puffed', work: 'Tro'},
+instances: 1, word: 'Puffing', work: 'Tro'},
+instances: 1, word: 'Puling', work: 'Tro'},
+instances: 1, word: 'Pulse', work: 'Tro'},
+instances: 1, word: 'Purblind', work: 'Tro'},
+instances: 1, word: 'Purely', work: 'Tro'},
+instances: 1, word: 'Push', work: 'Tro'},
+instances: 1, word: 'Putrefied', work: 'Tro'},
+instances: 1, word: 'Puttock', work: 'Tro'},
+instances: 1, word: 'Pyrrhus', work: 'Tro'},
+instances: 1, word: 'Quails', work: 'Tro'},
+instances: 1, word: 'Qualify', work: 'Tro'},
+instances: 1, word: 'Qualifying', work: 'Tro'},
+instances: 1, word: 'Qualities', work: 'Tro'},
+instances: 1, word: 'Quarrels', work: 'Tro'},
+instances: 1, word: 'Quarrel\'s', work: 'Tro'},
+instances: 1, word: 'Quick', work: 'Tro'},
+instances: 1, word: 'Quietness', work: 'Tro'},
+instances: 1, word: 'Quondam', work: 'Tro'},
+instances: 1, word: 'Quoted', work: 'Tro'},
+instances: 1, word: 'Rack', work: 'Tro'},
+instances: 1, word: 'Rages', work: 'Tro'},
+instances: 1, word: 'Railed', work: 'Tro'},
+instances: 1, word: 'Railest', work: 'Tro'},
+instances: 1, word: 'Railing', work: 'Tro'},
+instances: 1, word: 'Rain', work: 'Tro'},
+instances: 1, word: 'Raise', work: 'Tro'},
+instances: 1, word: 'Ram', work: 'Tro'},
+instances: 1, word: 'Ran', work: 'Tro'},
+instances: 1, word: 'Ranks', work: 'Tro'},
+instances: 1, word: 'Ransack', work: 'Tro'},
+instances: 1, word: 'Ransacked', work: 'Tro'},
+instances: 1, word: 'Rape', work: 'Tro'},
+instances: 1, word: 'Rapt', work: 'Tro'},
+instances: 1, word: 'Rapture', work: 'Tro'},
+instances: 1, word: 'Raptures', work: 'Tro'},
+instances: 1, word: 'Rare', work: 'Tro'},
+instances: 1, word: 'Rascally', work: 'Tro'},
+instances: 1, word: 'Rascals', work: 'Tro'},
+instances: 1, word: 'Rash', work: 'Tro'},
+instances: 1, word: 'Rate', work: 'Tro'},
+instances: 1, word: 'Raves', work: 'Tro'},
+instances: 1, word: 'Ravished', work: 'Tro'},
+instances: 1, word: 'Raw', work: 'Tro'},
+instances: 1, word: 'Ray', work: 'Tro'},
+instances: 1, word: 'Reach', work: 'Tro'},
+instances: 1, word: 'Reader', work: 'Tro'},
+instances: 1, word: 'Rear', work: 'Tro'},
+instances: 1, word: 'Reared', work: 'Tro'},
+instances: 1, word: 'Reck', work: 'Tro'},
+instances: 1, word: 'Reckoning', work: 'Tro'},
+instances: 1, word: 'Recompense', work: 'Tro'},
+instances: 1, word: 'Record', work: 'Tro'},
+instances: 1, word: 'Recordation', work: 'Tro'},
+instances: 1, word: 'Recourse', work: 'Tro'},
+instances: 1, word: 'Recovery', work: 'Tro'},
+instances: 1, word: 'Recreant', work: 'Tro'},
+instances: 1, word: 'Redeeming', work: 'Tro'},
+instances: 1, word: 'Reflection', work: 'Tro'},
+instances: 1, word: 'Refractory', work: 'Tro'},
+instances: 1, word: 'Refused', work: 'Tro'},
+instances: 1, word: 'Regal', work: 'Tro'},
+instances: 1, word: 'Regist\'red', work: 'Tro'},
+instances: 1, word: 'Reinforcement', work: 'Tro'},
+instances: 1, word: 'Rejoindure', work: 'Tro'},
+instances: 1, word: 'Relates', work: 'Tro'},
+instances: 1, word: 'Relation', work: 'Tro'},
+instances: 1, word: 'Relics', work: 'Tro'},
+instances: 1, word: 'Rely', work: 'Tro'},
+instances: 1, word: 'Remainder', work: 'Tro'},
+instances: 1, word: 'Remembered', work: 'Tro'},
+instances: 1, word: 'Remiss', work: 'Tro'},
+instances: 1, word: 'Remorse', work: 'Tro'},
+instances: 1, word: 'Remuneration', work: 'Tro'},
+instances: 1, word: 'Rend', work: 'Tro'},
+instances: 1, word: 'Rendered', work: 'Tro'},
+instances: 1, word: 'Renders', work: 'Tro'},
+instances: 1, word: 'Renown', work: 'Tro'},
+instances: 1, word: 'Renowned', work: 'Tro'},
+instances: 1, word: 'Repair', work: 'Tro'},
+instances: 1, word: 'Repent', work: 'Tro'},
+instances: 1, word: 'Repining', work: 'Tro'},
+instances: 1, word: 'Replies', work: 'Tro'},
+instances: 1, word: 'Reply', work: 'Tro'},
+instances: 1, word: 'Report', work: 'Tro'},
+instances: 1, word: 'Reproach', work: 'Tro'},
+instances: 1, word: 'Reproof', work: 'Tro'},
+instances: 1, word: 'Repute', work: 'Tro'},
+instances: 1, word: 'Requests', work: 'Tro'},
+instances: 1, word: 'Request\'s', work: 'Tro'},
+instances: 1, word: 'Requited', work: 'Tro'},
+instances: 1, word: 'Reserve', work: 'Tro'},
+instances: 1, word: 'Resist', work: 'Tro'},
+instances: 1, word: 'Resolution', work: 'Tro'},
+instances: 1, word: 'Restrains', work: 'Tro'},
+instances: 1, word: 'Resty', work: 'Tro'},
+instances: 1, word: 'Retires', work: 'Tro'},
+instances: 1, word: 'Retort', work: 'Tro'},
+instances: 1, word: 'Retorts', work: 'Tro'},
+instances: 1, word: 'Retract', work: 'Tro'},
+instances: 1, word: 'Returned', work: 'Tro'},
+instances: 1, word: 'Returnèd', work: 'Tro'},
+instances: 1, word: 'Reverb\'rate', work: 'Tro'},
+instances: 1, word: 'Reverence', work: 'Tro'},
+instances: 1, word: 'Reversion', work: 'Tro'},
+instances: 1, word: 'Revolted', work: 'Tro'},
+instances: 1, word: 'Revolve', work: 'Tro'},
+instances: 1, word: 'Rheum', work: 'Tro'},
+instances: 1, word: 'Rhyme', work: 'Tro'},
+instances: 1, word: 'Rhymes', work: 'Tro'},
+instances: 1, word: 'Ribald', work: 'Tro'},
+instances: 1, word: 'Ribs', work: 'Tro'},
+instances: 1, word: 'Riches', work: 'Tro'},
+instances: 1, word: 'Rid', work: 'Tro'},
+instances: 1, word: 'Riddance', work: 'Tro'},
+instances: 1, word: 'Rides', work: 'Tro'},
+instances: 1, word: 'Ridiculous', work: 'Tro'},
+instances: 1, word: 'Ring', work: 'Tro'},
+instances: 1, word: 'Ripe', work: 'Tro'},
+instances: 1, word: 'Rises', work: 'Tro'},
+instances: 1, word: 'Rivelled', work: 'Tro'},
+instances: 1, word: 'Rivet', work: 'Tro'},
+instances: 1, word: 'Rivets', work: 'Tro'},
+instances: 1, word: 'Roars', work: 'Tro'},
+instances: 1, word: 'Robbed', work: 'Tro'},
+instances: 1, word: 'Robber\'s', work: 'Tro'},
+instances: 1, word: 'Rocks', work: 'Tro'},
+instances: 1, word: 'Rode', work: 'Tro'},
+instances: 1, word: 'Roe', work: 'Tro'},
+instances: 1, word: 'Roguery', work: 'Tro'},
+instances: 1, word: 'Rogues', work: 'Tro'},
+instances: 1, word: 'Roisting', work: 'Tro'},
+instances: 1, word: 'Root', work: 'Tro'},
+instances: 1, word: 'Rose', work: 'Tro'},
+instances: 1, word: 'Rot', work: 'Tro'},
+instances: 1, word: 'Rotten', work: 'Tro'},
+instances: 1, word: 'Roughly', work: 'Tro'},
+instances: 1, word: 'Rounded', work: 'Tro'},
+instances: 1, word: 'Roundly', work: 'Tro'},
+instances: 1, word: 'Rub', work: 'Tro'},
+instances: 1, word: 'Rubs', work: 'Tro'},
+instances: 1, word: 'Rudely', work: 'Tro'},
+instances: 1, word: 'Ruder', work: 'Tro'},
+instances: 1, word: 'Ruffian', work: 'Tro'},
+instances: 1, word: 'Ruinous', work: 'Tro'},
+instances: 1, word: 'Ruled', work: 'Tro'},
+instances: 1, word: 'Ruminate', work: 'Tro'},
+instances: 1, word: 'Ruminates', work: 'Tro'},
+instances: 1, word: 'Rump', work: 'Tro'},
+instances: 1, word: 'Runs', work: 'Tro'},
+instances: 1, word: 'Ruptures', work: 'Tro'},
+instances: 1, word: 'Rush', work: 'Tro'},
+instances: 1, word: 'Rusty', work: 'Tro'},
+instances: 1, word: 'Ruth', work: 'Tro'},
+instances: 1, word: 'Ruthful', work: 'Tro'},
+instances: 1, word: 'Sacred', work: 'Tro'},
+instances: 1, word: 'Sad', work: 'Tro'},
+instances: 1, word: 'Sadness', work: 'Tro'},
+instances: 1, word: 'Safer', work: 'Tro'},
+instances: 1, word: 'Safety', work: 'Tro'},
+instances: 1, word: 'Sagittary', work: 'Tro'},
+instances: 1, word: 'Sailing', work: 'Tro'},
+instances: 1, word: 'Sailor', work: 'Tro'},
+instances: 1, word: 'Sails', work: 'Tro'},
+instances: 1, word: 'Sally', work: 'Tro'},
+instances: 1, word: 'Salutes', work: 'Tro'},
+instances: 1, word: 'Sanctify', work: 'Tro'},
+instances: 1, word: 'Sanctimonies', work: 'Tro'},
+instances: 1, word: 'Sanctimony', work: 'Tro'},
+instances: 1, word: 'Sandy', work: 'Tro'},
+instances: 1, word: 'Sans', work: 'Tro'},
+instances: 1, word: 'Sap', work: 'Tro'},
+instances: 1, word: 'Sarsenet', work: 'Tro'},
+instances: 1, word: 'Satisfaction', work: 'Tro'},
+instances: 1, word: 'Satisfied', work: 'Tro'},
+instances: 1, word: 'Sauced', work: 'Tro'},
+instances: 1, word: 'Saucy', work: 'Tro'},
+instances: 1, word: 'Saved', work: 'Tro'},
+instances: 1, word: 'Scab', work: 'Tro'},
+instances: 1, word: 'Scaffollage', work: 'Tro'},
+instances: 1, word: 'Scale', work: 'Tro'},
+instances: 1, word: 'Scalèd', work: 'Tro'},
+instances: 1, word: 'Scantling', work: 'Tro'},
+instances: 1, word: 'Scants', work: 'Tro'},
+instances: 1, word: 'Scape', work: 'Tro'},
+instances: 1, word: 'Scar', work: 'Tro'},
+instances: 1, word: 'Scarcity', work: 'Tro'},
+instances: 1, word: 'Scare', work: 'Tro'},
+instances: 1, word: 'Scars', work: 'Tro'},
+instances: 1, word: 'Scepters', work: 'Tro'},
+instances: 1, word: 'Sciaticas', work: 'Tro'},
+instances: 1, word: 'Scimitar', work: 'Tro'},
+instances: 1, word: 'Scratch', work: 'Tro'},
+instances: 1, word: 'Scratching', work: 'Tro'},
+instances: 1, word: 'Screech-owl', work: 'Tro'},
+instances: 1, word: 'Scurril', work: 'Tro'},
+instances: 1, word: 'Scurvy-valiant', work: 'Tro'},
+instances: 1, word: 'Se', work: 'Tro'},
+instances: 1, word: 'Seals', work: 'Tro'},
+instances: 1, word: 'Seam', work: 'Tro'},
+instances: 1, word: 'Searches', work: 'Tro'},
+instances: 1, word: 'Searching', work: 'Tro'},
+instances: 1, word: 'Seat', work: 'Tro'},
+instances: 1, word: 'Seconded', work: 'Tro'},
+instances: 1, word: 'Secrecy', work: 'Tro'},
+instances: 1, word: 'Secretly', work: 'Tro'},
+instances: 1, word: 'Secrets', work: 'Tro'},
+instances: 1, word: 'Secure', work: 'Tro'},
+instances: 1, word: 'Securely', work: 'Tro'},
+instances: 1, word: 'Security', work: 'Tro'},
+instances: 1, word: 'Seed', work: 'Tro'},
+instances: 1, word: 'Seeded', work: 'Tro'},
+instances: 1, word: 'Seeing', work: 'Tro'},
+instances: 1, word: 'Seeking', work: 'Tro'},
+instances: 1, word: 'Seeks', work: 'Tro'},
+instances: 1, word: 'Seemest', work: 'Tro'},
+instances: 1, word: 'Seems', work: 'Tro'},
+instances: 1, word: 'Seethes', work: 'Tro'},
+instances: 1, word: 'Seizure', work: 'Tro'},
+instances: 1, word: 'Seld', work: 'Tro'},
+instances: 1, word: 'Self-admission', work: 'Tro'},
+instances: 1, word: 'Self-affected', work: 'Tro'},
+instances: 1, word: 'Self-assumption', work: 'Tro'},
+instances: 1, word: 'Self-breath', work: 'Tro'},
+instances: 1, word: 'Self-willed', work: 'Tro'},
+instances: 1, word: 'Selfsame', work: 'Tro'},
+instances: 1, word: 'Selves', work: 'Tro'},
+instances: 1, word: 'Sends', work: 'Tro'},
+instances: 1, word: 'Senses', work: 'Tro'},
+instances: 1, word: 'Sentinels', work: 'Tro'},
+instances: 1, word: 'Separates', work: 'Tro'},
+instances: 1, word: 'Sequent', work: 'Tro'},
+instances: 1, word: 'Sequest\'ring', work: 'Tro'},
+instances: 1, word: 'Serpent', work: 'Tro'},
+instances: 1, word: 'Serpentine', work: 'Tro'},
+instances: 1, word: 'Serpigo', work: 'Tro'},
+instances: 1, word: 'Served', work: 'Tro'},
+instances: 1, word: 'Serves', work: 'Tro'},
+instances: 1, word: 'Seven', work: 'Tro'},
+instances: 1, word: 'Severally', work: 'Tro'},
+instances: 1, word: 'Severals', work: 'Tro'},
+instances: 1, word: 'Sewer', work: 'Tro'},
+instances: 1, word: 'Shade', work: 'Tro'},
+instances: 1, word: 'Shaft', work: 'Tro'},
+instances: 1, word: 'Shaked', work: 'Tro'},
+instances: 1, word: 'Shakes', work: 'Tro'},
+instances: 1, word: 'Shaking', work: 'Tro'},
+instances: 1, word: 'Shallow', work: 'Tro'},
+instances: 1, word: 'Shameful', work: 'Tro'},
+instances: 1, word: 'Shames', work: 'Tro'},
+instances: 1, word: 'Shame\'s', work: 'Tro'},
+instances: 1, word: 'Sharpens', work: 'Tro'},
+instances: 1, word: 'Shedding', work: 'Tro'},
+instances: 1, word: 'Sheep', work: 'Tro'},
+instances: 1, word: 'Shell', work: 'Tro'},
+instances: 1, word: 'Shent', work: 'Tro'},
+instances: 1, word: 'Shining', work: 'Tro'},
+instances: 1, word: 'Shipmen', work: 'Tro'},
+instances: 1, word: 'Shivers', work: 'Tro'},
+instances: 1, word: 'Shoeing-horn', work: 'Tro'},
+instances: 1, word: 'Shook', work: 'Tro'},
+instances: 1, word: 'Shoots', work: 'Tro'},
+instances: 1, word: 'Shore', work: 'Tro'},
+instances: 1, word: 'Short-armed', work: 'Tro'},
+instances: 1, word: 'Shout', work: 'Tro'},
+instances: 1, word: 'Showing', work: 'Tro'},
+instances: 1, word: 'Shrewd', work: 'Tro'},
+instances: 1, word: 'Shrewdly', work: 'Tro'},
+instances: 1, word: 'Shriek', work: 'Tro'},
+instances: 1, word: 'Shrieking', work: 'Tro'},
+instances: 1, word: 'Shrills', work: 'Tro'},
+instances: 1, word: 'Shrouded', work: 'Tro'},
+instances: 1, word: 'Shun', work: 'Tro'},
+instances: 1, word: 'Sickness', work: 'Tro'},
+instances: 1, word: 'Siege', work: 'Tro'},
+instances: 1, word: 'Sieve', work: 'Tro'},
+instances: 1, word: 'Sighing', work: 'Tro'},
+instances: 1, word: 'Sigh\'st', work: 'Tro'},
+instances: 1, word: 'Signify', work: 'Tro'},
+instances: 1, word: 'Silks', work: 'Tro'},
+instances: 1, word: 'Silly', work: 'Tro'},
+instances: 1, word: 'Similes', work: 'Tro'},
+instances: 1, word: 'Simpler', work: 'Tro'},
+instances: 1, word: 'Simply', work: 'Tro'},
+instances: 1, word: 'Sinew', work: 'Tro'},
+instances: 1, word: 'Sinewy', work: 'Tro'},
+instances: 1, word: 'Singly', work: 'Tro'},
+instances: 1, word: 'Sinister', work: 'Tro'},
+instances: 1, word: 'Sirrah', work: 'Tro'},
+instances: 1, word: 'Sirs', work: 'Tro'},
+instances: 1, word: 'Sisters', work: 'Tro'},
+instances: 1, word: 'Sister\'s', work: 'Tro'},
+instances: 1, word: 'Six-gated', work: 'Tro'},
+instances: 1, word: 'Six-or-seven-times-honored', work: 'Tro'},
+instances: 1, word: 'Sixty', work: 'Tro'},
+instances: 1, word: 'Size', work: 'Tro'},
+instances: 1, word: 'Skein', work: 'Tro'},
+instances: 1, word: 'Skilful', work: 'Tro'},
+instances: 1, word: 'Skilless', work: 'Tro'},
+instances: 1, word: 'Sky', work: 'Tro'},
+instances: 1, word: 'Slack', work: 'Tro'},
+instances: 1, word: 'Slanderer', work: 'Tro'},
+instances: 1, word: 'Slaughter', work: 'Tro'},
+instances: 1, word: 'Sleave-silk', work: 'Tro'},
+instances: 1, word: 'Sleeps', work: 'Tro'},
+instances: 1, word: 'Sleep\'st', work: 'Tro'},
+instances: 1, word: 'Sleeveless', work: 'Tro'},
+instances: 1, word: 'Slides', work: 'Tro'},
+instances: 1, word: 'Slightly', work: 'Tro'},
+instances: 1, word: 'Slumbers', work: 'Tro'},
+instances: 1, word: 'Sluttish', work: 'Tro'},
+instances: 1, word: 'Smart', work: 'Tro'},
+instances: 1, word: 'Smiling', work: 'Tro'},
+instances: 1, word: 'Smite', work: 'Tro'},
+instances: 1, word: 'Smooth', work: 'Tro'},
+instances: 1, word: 'Snail-paced', work: 'Tro'},
+instances: 1, word: 'Snatch', work: 'Tro'},
+instances: 1, word: 'Sneaking', work: 'Tro'},
+instances: 1, word: 'Sobs', work: 'Tro'},
+instances: 1, word: 'Sociable', work: 'Tro'},
+instances: 1, word: 'Sodden', work: 'Tro'},
+instances: 1, word: 'Sodden-witted', work: 'Tro'},
+instances: 1, word: 'Soever', work: 'Tro'},
+instances: 1, word: 'Softer', work: 'Tro'},
+instances: 1, word: 'Soiled', work: 'Tro'},
+instances: 1, word: 'Soilure', work: 'Tro'},
+instances: 1, word: 'Sol', work: 'Tro'},
+instances: 1, word: 'Sold', work: 'Tro'},
+instances: 1, word: 'Sole', work: 'Tro'},
+instances: 1, word: 'Solid', work: 'Tro'},
+instances: 1, word: 'Somebody', work: 'Tro'},
+instances: 1, word: 'Sometime', work: 'Tro'},
+instances: 1, word: 'Sometimes', work: 'Tro'},
+instances: 1, word: 'Somewhat', work: 'Tro'},
+instances: 1, word: 'Sop', work: 'Tro'},
+instances: 1, word: 'Sorrow', work: 'Tro'},
+instances: 1, word: 'Sorry', work: 'Tro'},
+instances: 1, word: 'Sorts', work: 'Tro'},
+instances: 1, word: 'Soundest', work: 'Tro'},
+instances: 1, word: 'Sounding', work: 'Tro'},
+instances: 1, word: 'Sounds', work: 'Tro'},
+instances: 1, word: 'Sour', work: 'Tro'},
+instances: 1, word: 'South', work: 'Tro'},
+instances: 1, word: 'Space', work: 'Tro'},
+instances: 1, word: 'Spaces', work: 'Tro'},
+instances: 1, word: 'Spans', work: 'Tro'},
+instances: 1, word: 'Spar', work: 'Tro'},
+instances: 1, word: 'Spark', work: 'Tro'},
+instances: 1, word: 'Sparrows', work: 'Tro'},
+instances: 1, word: 'Spartan', work: 'Tro'},
+instances: 1, word: 'Sparta\'s', work: 'Tro'},
+instances: 1, word: 'Speaker', work: 'Tro'},
+instances: 1, word: 'Specialty', work: 'Tro'},
+instances: 1, word: 'Spectacles', work: 'Tro'},
+instances: 1, word: 'Speculation', work: 'Tro'},
+instances: 1, word: 'Sped', work: 'Tro'},
+instances: 1, word: 'Spend', work: 'Tro'},
+instances: 1, word: 'Sphered', work: 'Tro'},
+instances: 1, word: 'Spherèd', work: 'Tro'},
+instances: 1, word: 'Spice', work: 'Tro'},
+instances: 1, word: 'Spider', work: 'Tro'},
+instances: 1, word: 'Spied', work: 'Tro'},
+instances: 1, word: 'Spit', work: 'Tro'},
+instances: 1, word: 'Spite', work: 'Tro'},
+instances: 1, word: 'Spiteful', work: 'Tro'},
+instances: 1, word: 'Spleens', work: 'Tro'},
+instances: 1, word: 'Splinter', work: 'Tro'},
+instances: 1, word: 'Splitting', work: 'Tro'},
+instances: 1, word: 'Spoils', work: 'Tro'},
+instances: 1, word: 'Spongy', work: 'Tro'},
+instances: 1, word: 'Sportful', work: 'Tro'},
+instances: 1, word: 'Spotted', work: 'Tro'},
+instances: 1, word: 'Spread', work: 'Tro'},
+instances: 1, word: 'Sprightly', work: 'Tro'},
+instances: 1, word: 'Spring', work: 'Tro'},
+instances: 1, word: 'Sprite', work: 'Tro'},
+instances: 1, word: 'Sprites', work: 'Tro'},
+instances: 1, word: 'Square', work: 'Tro'},
+instances: 1, word: 'Stain', work: 'Tro'},
+instances: 1, word: 'Stainèd', work: 'Tro'},
+instances: 1, word: 'Stake', work: 'Tro'},
+instances: 1, word: 'Stalk', work: 'Tro'},
+instances: 1, word: 'Stalks', work: 'Tro'},
+instances: 1, word: 'Standers-by', work: 'Tro'},
+instances: 1, word: 'Staples', work: 'Tro'},
+instances: 1, word: 'Star', work: 'Tro'},
+instances: 1, word: 'Stars', work: 'Tro'},
+instances: 1, word: 'Starts', work: 'Tro'},
+instances: 1, word: 'Starve', work: 'Tro'},
+instances: 1, word: 'Starved', work: 'Tro'},
+instances: 1, word: 'Statue', work: 'Tro'},
+instances: 1, word: 'Statues', work: 'Tro'},
+instances: 1, word: 'Staying', work: 'Tro'},
+instances: 1, word: 'Stepdame', work: 'Tro'},
+instances: 1, word: 'Steps', work: 'Tro'},
+instances: 1, word: 'Stewed', work: 'Tro'},
+instances: 1, word: 'Stickler-like', work: 'Tro'},
+instances: 1, word: 'Sting', work: 'Tro'},
+instances: 1, word: 'Stints', work: 'Tro'},
+instances: 1, word: 'Stirred', work: 'Tro'},
+instances: 1, word: 'Stirs', work: 'Tro'},
+instances: 1, word: 'Stithied', work: 'Tro'},
+instances: 1, word: 'Stones', work: 'Tro'},
+instances: 1, word: 'Stool', work: 'Tro'},
+instances: 1, word: 'Storms', work: 'Tro'},
+instances: 1, word: 'Strains', work: 'Tro'},
+instances: 1, word: 'Strait', work: 'Tro'},
+instances: 1, word: 'Stranger', work: 'Tro'},
+instances: 1, word: 'Strangles', work: 'Tro'},
+instances: 1, word: 'Strawy', work: 'Tro'},
+instances: 1, word: 'Stream', work: 'Tro'},
+instances: 1, word: 'Stretch', work: 'Tro'},
+instances: 1, word: 'Stretched', work: 'Tro'},
+instances: 1, word: 'Stretched-out', work: 'Tro'},
+instances: 1, word: 'Strewed', work: 'Tro'},
+instances: 1, word: 'Stride', work: 'Tro'},
+instances: 1, word: 'Strife', work: 'Tro'},
+instances: 1, word: 'String', work: 'Tro'},
+instances: 1, word: 'Strong-ribbed', work: 'Tro'},
+instances: 1, word: 'Stronger', work: 'Tro'},
+instances: 1, word: 'Strutting', work: 'Tro'},
+instances: 1, word: 'Stubborn-chaste', work: 'Tro'},
+instances: 1, word: 'Stumbling', work: 'Tro'},
+instances: 1, word: 'Stygian', work: 'Tro'},
+instances: 1, word: 'Styx', work: 'Tro'},
+instances: 1, word: 'Subdued', work: 'Tro'},
+instances: 1, word: 'Subduments', work: 'Tro'},
+instances: 1, word: 'Subjects', work: 'Tro'},
+instances: 1, word: 'Subscribe', work: 'Tro'},
+instances: 1, word: 'Subscribes', work: 'Tro'},
+instances: 1, word: 'Subsequent', work: 'Tro'},
+instances: 1, word: 'Substance', work: 'Tro'},
+instances: 1, word: 'Subtle-potent', work: 'Tro'},
+instances: 1, word: 'Subtly', work: 'Tro'},
+instances: 1, word: 'Such-like', work: 'Tro'},
+instances: 1, word: 'Sucked', work: 'Tro'},
+instances: 1, word: 'Sudden', work: 'Tro'},
+instances: 1, word: 'Sue', work: 'Tro'},
+instances: 1, word: 'Suffer', work: 'Tro'},
+instances: 1, word: 'Suffered', work: 'Tro'},
+instances: 1, word: 'Suffers', work: 'Tro'},
+instances: 1, word: 'Suffices', work: 'Tro'},
+instances: 1, word: 'Suffocate', work: 'Tro'},
+instances: 1, word: 'Suit', work: 'Tro'},
+instances: 1, word: 'Suited', work: 'Tro'},
+instances: 1, word: 'Summer', work: 'Tro'},
+instances: 1, word: 'Sunburnt', work: 'Tro'},
+instances: 1, word: 'Sunday', work: 'Tro'},
+instances: 1, word: 'Sunder', work: 'Tro'},
+instances: 1, word: 'Sunk', work: 'Tro'},
+instances: 1, word: 'Superior', work: 'Tro'},
+instances: 1, word: 'Superstitious', work: 'Tro'},
+instances: 1, word: 'Supper', work: 'Tro'},
+instances: 1, word: 'Suppose', work: 'Tro'},
+instances: 1, word: 'Supposed', work: 'Tro'},
+instances: 1, word: 'Surely', work: 'Tro'},
+instances: 1, word: 'Surgeon\'s', work: 'Tro'},
+instances: 1, word: 'Surly', work: 'Tro'},
+instances: 1, word: 'Surmisèd', work: 'Tro'},
+instances: 1, word: 'Swagger', work: 'Tro'},
+instances: 1, word: 'Swains', work: 'Tro'},
+instances: 1, word: 'Swath', work: 'Tro'},
+instances: 1, word: 'Swayed', work: 'Tro'},
+instances: 1, word: 'Swearing', work: 'Tro'},
+instances: 1, word: 'Swears', work: 'Tro'},
+instances: 1, word: 'Sweat', work: 'Tro'},
+instances: 1, word: 'Sweeten', work: 'Tro'},
+instances: 1, word: 'Sweetness', work: 'Tro'},
+instances: 1, word: 'Swell', work: 'Tro'},
+instances: 1, word: 'Swelling', work: 'Tro'},
+instances: 1, word: 'Swerve', work: 'Tro'},
+instances: 1, word: 'Swifter', work: 'Tro'},
+instances: 1, word: 'Swim', work: 'Tro'},
+instances: 1, word: 'Swinge', work: 'Tro'},
+instances: 1, word: 'Swoll\'n', work: 'Tro'},
+instances: 1, word: 'Swooning', work: 'Tro'},
+instances: 1, word: 'Syllable', work: 'Tro'},
+instances: 1, word: 'Tables', work: 'Tro'},
+instances: 1, word: 'Taborins', work: 'Tro'},
+instances: 1, word: 'Taciturnity', work: 'Tro'},
+instances: 1, word: 'Taint', work: 'Tro'},
+instances: 1, word: 'Taints', work: 'Tro'},
+instances: 1, word: 'Tamer', work: 'Tro'},
+instances: 1, word: 'Tamèd', work: 'Tro'},
+instances: 1, word: 'Tapster\'s', work: 'Tro'},
+instances: 1, word: 'Tar', work: 'Tro'},
+instances: 1, word: 'Tardy', work: 'Tro'},
+instances: 1, word: 'Tarries', work: 'Tro'},
+instances: 1, word: 'Tarrying', work: 'Tro'},
+instances: 1, word: 'Tassel', work: 'Tro'},
+instances: 1, word: 'Tasted', work: 'Tro'},
+instances: 1, word: 'Tax', work: 'Tro'},
+instances: 1, word: 'Taxing', work: 'Tro'},
+instances: 1, word: 'Teach', work: 'Tro'},
+instances: 1, word: 'Tediously', work: 'Tro'},
+instances: 1, word: 'Telling', work: 'Tro'},
+instances: 1, word: 'Tells', work: 'Tro'},
+instances: 1, word: 'Temperate', work: 'Tro'},
+instances: 1, word: 'Tempers', work: 'Tro'},
+instances: 1, word: 'Tempest', work: 'Tro'},
+instances: 1, word: 'Temporize', work: 'Tro'},
+instances: 1, word: 'Tempted', work: 'Tro'},
+instances: 1, word: 'Tender', work: 'Tro'},
+instances: 1, word: 'Tenedos', work: 'Tro'},
+instances: 1, word: 'Tenor', work: 'Tro'},
+instances: 1, word: 'Tenth', work: 'Tro'},
+instances: 1, word: 'Tenths', work: 'Tro'},
+instances: 1, word: 'Tercel', work: 'Tro'},
+instances: 1, word: 'Term', work: 'Tro'},
+instances: 1, word: 'Tetchy', work: 'Tro'},
+instances: 1, word: 'Tetter', work: 'Tro'},
+instances: 1, word: 'Theft', work: 'Tro'},
+instances: 1, word: 'Thefts', work: 'Tro'},
+instances: 1, word: 'Theirs', work: 'Tro'},
+instances: 1, word: 'Therefor', work: 'Tro'},
+instances: 1, word: 'Therein', work: 'Tro'},
+instances: 1, word: 'Thereof', work: 'Tro'},
+instances: 1, word: 'Thetis', work: 'Tro'},
+instances: 1, word: 'They\'ve', work: 'Tro'},
+instances: 1, word: 'Thicker', work: 'Tro'},
+instances: 1, word: 'Thicket', work: 'Tro'},
+instances: 1, word: 'Thieves', work: 'Tro'},
+instances: 1, word: 'Thiev\'ry', work: 'Tro'},
+instances: 1, word: 'Thills', work: 'Tro'},
+instances: 1, word: 'Think\'st', work: 'Tro'},
+instances: 1, word: 'Thoas', work: 'Tro'},
+instances: 1, word: 'Thousandfold', work: 'Tro'},
+instances: 1, word: 'Thrash', work: 'Tro'},
+instances: 1, word: 'Threats', work: 'Tro'},
+instances: 1, word: 'Thrice', work: 'Tro'},
+instances: 1, word: 'Thrice-repurèd', work: 'Tro'},
+instances: 1, word: 'Thrice-worthy', work: 'Tro'},
+instances: 1, word: 'Thrifty', work: 'Tro'},
+instances: 1, word: 'Throat', work: 'Tro'},
+instances: 1, word: 'Thrones', work: 'Tro'},
+instances: 1, word: 'Thrown', work: 'Tro'},
+instances: 1, word: 'Thunder', work: 'Tro'},
+instances: 1, word: 'Thunder-darter', work: 'Tro'},
+instances: 1, word: 'Thunders', work: 'Tro'},
+instances: 1, word: 'Thwart', work: 'Tro'},
+instances: 1, word: 'Thwarted', work: 'Tro'},
+instances: 1, word: 'Tick', work: 'Tro'},
+instances: 1, word: 'Tickle', work: 'Tro'},
+instances: 1, word: 'Tickled', work: 'Tro'},
+instances: 1, word: 'Tie', work: 'Tro'},
+instances: 1, word: 'Tied', work: 'Tro'},
+instances: 1, word: 'Tiger', work: 'Tro'},
+instances: 1, word: 'Tigers', work: 'Tro'},
+instances: 1, word: 'Timbria', work: 'Tro'},
+instances: 1, word: 'Tip', work: 'Tro'},
+instances: 1, word: 'Tired', work: 'Tro'},
+instances: 1, word: 'Titan', work: 'Tro'},
+instances: 1, word: 'Tithe', work: 'Tro'},
+instances: 1, word: 'Titled', work: 'Tro'},
+instances: 1, word: 'Titles', work: 'Tro'},
+instances: 1, word: 'To-be-pitied', work: 'Tro'},
+instances: 1, word: 'Toad', work: 'Tro'},
+instances: 1, word: 'Toads', work: 'Tro'},
+instances: 1, word: 'Toadstool', work: 'Tro'},
+instances: 1, word: 'Toast', work: 'Tro'},
+instances: 1, word: 'Toe', work: 'Tro'},
+instances: 1, word: 'Toes', work: 'Tro'},
+instances: 1, word: 'Toil', work: 'Tro'},
+instances: 1, word: 'Tomorrow\'s', work: 'Tro'},
+instances: 1, word: 'Tongue-tied', work: 'Tro'},
+instances: 1, word: 'Too-curious', work: 'Tro'},
+instances: 1, word: 'Tooth', work: 'Tro'},
+instances: 1, word: 'Topless', work: 'Tro'},
+instances: 1, word: 'Tops', work: 'Tro'},
+instances: 1, word: 'Torments', work: 'Tro'},
+instances: 1, word: 'Torn', work: 'Tro'},
+instances: 1, word: 'Tortive', work: 'Tro'},
+instances: 1, word: 'Total', work: 'Tro'},
+instances: 1, word: 'Touches', work: 'Tro'},
+instances: 1, word: 'Toucheth', work: 'Tro'},
+instances: 1, word: 'Tower', work: 'Tro'},
+instances: 1, word: 'Towers', work: 'Tro'},
+instances: 1, word: 'Tractable', work: 'Tro'},
+instances: 1, word: 'Trade', work: 'Tro'},
+instances: 1, word: 'Traded', work: 'Tro'},
+instances: 1, word: 'Traders', work: 'Tro'},
+instances: 1, word: 'Trail', work: 'Tro'},
+instances: 1, word: 'Train', work: 'Tro'},
+instances: 1, word: 'Traitors', work: 'Tro'},
+instances: 1, word: 'Traitor\'s', work: 'Tro'},
+instances: 1, word: 'Trampled', work: 'Tro'},
+instances: 1, word: 'Transcends', work: 'Tro'},
+instances: 1, word: 'Transformation', work: 'Tro'},
+instances: 1, word: 'Translate', work: 'Tro'},
+instances: 1, word: 'Transportance', work: 'Tro'},
+instances: 1, word: 'Trash', work: 'Tro'},
+instances: 1, word: 'Travail', work: 'Tro'},
+instances: 1, word: 'Travel', work: 'Tro'},
+instances: 1, word: 'Traveled', work: 'Tro'},
+instances: 1, word: 'Travels', work: 'Tro'},
+instances: 1, word: 'Treason', work: 'Tro'},
+instances: 1, word: 'Trials', work: 'Tro'},
+instances: 1, word: 'Trick', work: 'Tro'},
+instances: 1, word: 'Tripping', work: 'Tro'},
+instances: 1, word: 'Troien', work: 'Tro'},
+instances: 1, word: 'Troiluses', work: 'Tro'},
+instances: 1, word: 'Trojan\'s', work: 'Tro'},
+instances: 1, word: 'Troop', work: 'Tro'},
+instances: 1, word: 'Troubled', work: 'Tro'},
+instances: 1, word: 'Troubles', work: 'Tro'},
+instances: 1, word: 'Truant', work: 'Tro'},
+instances: 1, word: 'Truest', work: 'Tro'},
+instances: 1, word: 'Trump', work: 'Tro'},
+instances: 1, word: 'Truncheon', work: 'Tro'},
+instances: 1, word: 'Try', work: 'Tro'},
+instances: 1, word: 'Turbulence', work: 'Tro'},
+instances: 1, word: 'Turpitude', work: 'Tro'},
+instances: 1, word: 'Turtle', work: 'Tro'},
+instances: 1, word: 'Twenty', work: 'Tro'},
+instances: 1, word: 'Typhon', work: 'Tro'},
+instances: 1, word: 'Tyrant', work: 'Tro'},
+instances: 1, word: 'T\'other', work: 'Tro'},
+instances: 1, word: 'Ugly', work: 'Tro'},
+instances: 1, word: 'Ulcer', work: 'Tro'},
+instances: 1, word: 'Unacquainted', work: 'Tro'},
+instances: 1, word: 'Unarms', work: 'Tro'},
+instances: 1, word: 'Unawares', work: 'Tro'},
+instances: 1, word: 'Unbodied', work: 'Tro'},
+instances: 1, word: 'Unbolt', work: 'Tro'},
+instances: 1, word: 'Unbridled', work: 'Tro'},
+instances: 1, word: 'Unbruisèd', work: 'Tro'},
+instances: 1, word: 'Unclasp', work: 'Tro'},
+instances: 1, word: 'Uncle\'s', work: 'Tro'},
+instances: 1, word: 'Uncomprehensive', work: 'Tro'},
+instances: 1, word: 'Undergo', work: 'Tro'},
+instances: 1, word: 'Underhonest', work: 'Tro'},
+instances: 1, word: 'Undermine', work: 'Tro'},
+instances: 1, word: 'Understand\'st', work: 'Tro'},
+instances: 1, word: 'Undertake', work: 'Tro'},
+instances: 1, word: 'Underwrite', work: 'Tro'},
+instances: 1, word: 'Undo', work: 'Tro'},
+instances: 1, word: 'Undone', work: 'Tro'},
+instances: 1, word: 'Unfamed', work: 'Tro'},
+instances: 1, word: 'Unfit', work: 'Tro'},
+instances: 1, word: 'Ungently', work: 'Tro'},
+instances: 1, word: 'Ungracious', work: 'Tro'},
+instances: 1, word: 'Unjust', work: 'Tro'},
+instances: 1, word: 'Unkind', work: 'Tro'},
+instances: 1, word: 'Unknown', work: 'Tro'},
+instances: 1, word: 'Unlike', work: 'Tro'},
+instances: 1, word: 'Unlock', work: 'Tro'},
+instances: 1, word: 'Unloose', work: 'Tro'},
+instances: 1, word: 'Unmingled', work: 'Tro'},
+instances: 1, word: 'Unplausive', work: 'Tro'},
+instances: 1, word: 'Unpracticed', work: 'Tro'},
+instances: 1, word: 'Unread', work: 'Tro'},
+instances: 1, word: 'Unrespective', work: 'Tro'},
+instances: 1, word: 'Unsalted', work: 'Tro'},
+instances: 1, word: 'Unsecret', work: 'Tro'},
+instances: 1, word: 'Unsquared', work: 'Tro'},
+instances: 1, word: 'Untasted', work: 'Tro'},
+instances: 1, word: 'Untent', work: 'Tro'},
+instances: 1, word: 'Untie', work: 'Tro'},
+instances: 1, word: 'Untimbered', work: 'Tro'},
+instances: 1, word: 'Unto', work: 'Tro'},
+instances: 1, word: 'Untraded', work: 'Tro'},
+instances: 1, word: 'Untruths', work: 'Tro'},
+instances: 1, word: 'Untune', work: 'Tro'},
+instances: 1, word: 'Unveil', work: 'Tro'},
+instances: 1, word: 'Unwelcome', work: 'Tro'},
+instances: 1, word: 'Unwholesome', work: 'Tro'},
+instances: 1, word: 'Unworthiest', work: 'Tro'},
+instances: 1, word: 'Upbraid', work: 'Tro'},
+instances: 1, word: 'Uplifted', work: 'Tro'},
+instances: 1, word: 'Usage', work: 'Tro'},
+instances: 1, word: 'Used', work: 'Tro'},
+instances: 1, word: 'Uses', work: 'Tro'},
+instances: 1, word: 'Uttermost', work: 'Tro'},
+instances: 1, word: 'Utters', work: 'Tro'},
+instances: 1, word: 'Vail', work: 'Tro'},
+instances: 1, word: 'Vainglory', work: 'Tro'},
+instances: 1, word: 'Vale', work: 'Tro'},
+instances: 1, word: 'Valiantly', work: 'Tro'},
+instances: 1, word: 'Valorous', work: 'Tro'},
+instances: 1, word: 'Valued', work: 'Tro'},
+instances: 1, word: 'Vambrace', work: 'Tro'},
+instances: 1, word: 'Vantage', work: 'Tro'},
+instances: 1, word: 'Varlets', work: 'Tro'},
+instances: 1, word: 'Vassalage', work: 'Tro'},
+instances: 1, word: 'Vaunt', work: 'Tro'},
+instances: 1, word: 'Venerable', work: 'Tro'},
+instances: 1, word: 'Venomed', work: 'Tro'},
+instances: 1, word: 'Venomous', work: 'Tro'},
+instances: 1, word: 'Vents', work: 'Tro'},
+instances: 1, word: 'Viands', work: 'Tro'},
+instances: 1, word: 'Victor', work: 'Tro'},
+instances: 1, word: 'Victory', work: 'Tro'},
+instances: 1, word: 'Vindicative', work: 'Tro'},
+instances: 1, word: 'Violent', work: 'Tro'},
+instances: 1, word: 'Violenteth', work: 'Tro'},
+instances: 1, word: 'Virgin', work: 'Tro'},
+instances: 1, word: 'Virgins', work: 'Tro'},
+instances: 1, word: 'Virtuously', work: 'Tro'},
+instances: 1, word: 'Visage', work: 'Tro'},
+instances: 1, word: 'Visible', work: 'Tro'},
+instances: 1, word: 'Visions', work: 'Tro'},
+instances: 1, word: 'Visit', work: 'Tro'},
+instances: 1, word: 'Visitation', work: 'Tro'},
+instances: 1, word: 'Visiting', work: 'Tro'},
+instances: 1, word: 'Vizarded', work: 'Tro'},
+instances: 1, word: 'Voices', work: 'Tro'},
+instances: 1, word: 'Volumes', work: 'Tro'},
+instances: 1, word: 'Vouchsafe', work: 'Tro'},
+instances: 1, word: 'Vulcan', work: 'Tro'},
+instances: 1, word: 'Vulcan\'s', work: 'Tro'},
+instances: 1, word: 'Waftage', work: 'Tro'},
+instances: 1, word: 'Wails', work: 'Tro'},
+instances: 1, word: 'Waist', work: 'Tro'},
+instances: 1, word: 'Waiting-women', work: 'Tro'},
+instances: 1, word: 'Waked', work: 'Tro'},
+instances: 1, word: 'Waken', work: 'Tro'},
+instances: 1, word: 'Waking', work: 'Tro'},
+instances: 1, word: 'Walked', work: 'Tro'},
+instances: 1, word: 'Wall', work: 'Tro'},
+instances: 1, word: 'Wallet', work: 'Tro'},
+instances: 1, word: 'Wallow', work: 'Tro'},
+instances: 1, word: 'Wander', work: 'Tro'},
+instances: 1, word: 'Wand\'ring', work: 'Tro'},
+instances: 1, word: 'Wanting', work: 'Tro'},
+instances: 1, word: 'Wantonness', work: 'Tro'},
+instances: 1, word: 'Wants', work: 'Tro'},
+instances: 1, word: 'Wards', work: 'Tro'},
+instances: 1, word: 'Wares', work: 'Tro'},
+instances: 1, word: 'Warrior', work: 'Tro'},
+instances: 1, word: 'Warriors', work: 'Tro'},
+instances: 1, word: 'Wart', work: 'Tro'},
+instances: 1, word: 'Wast', work: 'Tro'},
+instances: 1, word: 'Watched', work: 'Tro'},
+instances: 1, word: 'Watchful', work: 'Tro'},
+instances: 1, word: 'Watching', work: 'Tro'},
+instances: 1, word: 'Waterflies', work: 'Tro'},
+instances: 1, word: 'Waters', work: 'Tro'},
+instances: 1, word: 'Wat\'ry', work: 'Tro'},
+instances: 1, word: 'Waving', work: 'Tro'},
+instances: 1, word: 'Weaken', work: 'Tro'},
+instances: 1, word: 'Weaker', work: 'Tro'},
+instances: 1, word: 'Weakest', work: 'Tro'},
+instances: 1, word: 'Wealth', work: 'Tro'},
+instances: 1, word: 'Weapons', work: 'Tro'},
+instances: 1, word: 'Weary', work: 'Tro'},
+instances: 1, word: 'Weather', work: 'Tro'},
+instances: 1, word: 'Web', work: 'Tro'},
+instances: 1, word: 'Wedges', work: 'Tro'},
+instances: 1, word: 'Wedgèd', work: 'Tro'},
+instances: 1, word: 'Weeds', work: 'Tro'},
+instances: 1, word: 'Week', work: 'Tro'},
+instances: 1, word: 'Weeping', work: 'Tro'},
+instances: 1, word: 'Weighs', work: 'Tro'},
+instances: 1, word: 'Well-famed', work: 'Tro'},
+instances: 1, word: 'Well-ordered', work: 'Tro'},
+instances: 1, word: 'Wells', work: 'Tro'},
+instances: 1, word: 'Wenching', work: 'Tro'},
+instances: 1, word: 'West', work: 'Tro'},
+instances: 1, word: 'Whale', work: 'Tro'},
+instances: 1, word: 'Whatever', work: 'Tro'},
+instances: 1, word: 'Whate\'er', work: 'Tro'},
+instances: 1, word: 'Wheat', work: 'Tro'},
+instances: 1, word: 'Wheel', work: 'Tro'},
+instances: 1, word: 'Whence', work: 'Tro'},
+instances: 1, word: 'Whereout', work: 'Tro'},
+instances: 1, word: 'Whetstone', work: 'Tro'},
+instances: 1, word: 'Whirls', work: 'Tro'},
+instances: 1, word: 'Whisper', work: 'Tro'},
+instances: 1, word: 'Whissing', work: 'Tro'},
+instances: 1, word: 'Whit', work: 'Tro'},
+instances: 1, word: 'Whites', work: 'Tro'},
+instances: 1, word: 'Whither', work: 'Tro'},
+instances: 1, word: 'Whoremasterly', work: 'Tro'},
+instances: 1, word: 'Whorish', work: 'Tro'},
+instances: 1, word: 'Whosoever', work: 'Tro'},
+instances: 1, word: 'Whosomever', work: 'Tro'},
+instances: 1, word: 'Wider', work: 'Tro'},
+instances: 1, word: 'Wights', work: 'Tro'},
+instances: 1, word: 'Wild', work: 'Tro'},
+instances: 1, word: 'Wiles', work: 'Tro'},
+instances: 1, word: 'Wills', work: 'Tro'},
+instances: 1, word: 'Winchester', work: 'Tro'},
+instances: 1, word: 'Window', work: 'Tro'},
+instances: 1, word: 'Wine', work: 'Tro'},
+instances: 1, word: 'Wing', work: 'Tro'},
+instances: 1, word: 'Winged', work: 'Tro'},
+instances: 1, word: 'Winnowed', work: 'Tro'},
+instances: 1, word: 'Winnows', work: 'Tro'},
+instances: 1, word: 'Winter', work: 'Tro'},
+instances: 1, word: 'Wiped', work: 'Tro'},
+instances: 1, word: 'Wisdoms', work: 'Tro'},
+instances: 1, word: 'Wiser', work: 'Tro'},
+instances: 1, word: 'Wisest', work: 'Tro'},
+instances: 1, word: 'Withdrew', work: 'Tro'},
+instances: 1, word: 'Withhold', work: 'Tro'},
+instances: 1, word: 'Witless', work: 'Tro'},
+instances: 1, word: 'Witty', work: 'Tro'},
+instances: 1, word: 'Wives', work: 'Tro'},
+instances: 1, word: 'Wi\'', work: 'Tro'},
+instances: 1, word: 'Woeful', work: 'Tro'},
+instances: 1, word: 'Womanhood', work: 'Tro'},
+instances: 1, word: 'Womanish', work: 'Tro'},
+instances: 1, word: 'Wooden', work: 'Tro'},
+instances: 1, word: 'Woof', work: 'Tro'},
+instances: 1, word: 'Wooing', work: 'Tro'},
+instances: 1, word: 'Wore', work: 'Tro'},
+instances: 1, word: 'Working', work: 'Tro'},
+instances: 1, word: 'Works', work: 'Tro'},
+instances: 1, word: 'Worn', work: 'Tro'},
+instances: 1, word: 'Worship', work: 'Tro'},
+instances: 1, word: 'Worshipped', work: 'Tro'},
+instances: 1, word: 'Worthier', work: 'Tro'},
+instances: 1, word: 'Worthiest', work: 'Tro'},
+instances: 1, word: 'Worthiness', work: 'Tro'},
+instances: 1, word: 'Worths', work: 'Tro'},
+instances: 1, word: 'Wor\'st', work: 'Tro'},
+instances: 1, word: 'Wranglers', work: 'Tro'},
+instances: 1, word: 'Wrathful', work: 'Tro'},
+instances: 1, word: 'Wrest', work: 'Tro'},
+instances: 1, word: 'Wrestling', work: 'Tro'},
+instances: 1, word: 'Wretch', work: 'Tro'},
+instances: 1, word: 'Wrinkle', work: 'Tro'},
+instances: 1, word: 'Wrinkled', work: 'Tro'},
+instances: 1, word: 'Wrinkles', work: 'Tro'},
+instances: 1, word: 'Writes', work: 'Tro'},
+instances: 1, word: 'Writing', work: 'Tro'},
+instances: 1, word: 'Year', work: 'Tro'},
+instances: 1, word: 'Years\'', work: 'Tro'},
+instances: 1, word: 'Yesternight', work: 'Tro'},
+instances: 1, word: 'Yielding', work: 'Tro'},
+instances: 1, word: 'Yoke', work: 'Tro'},
+instances: 1, word: 'Yon', work: 'Tro'},
+instances: 1, word: 'Yourselves', work: 'Tro'},
+instances: 1, word: 'Youths', work: 'Tro'},
+instances: 1, word: '\'a', work: 'Tro'},
+instances: 1, word: '\'lt', work: 'Tro'},
+instances: 1, word: '\'sfoot', work: 'Tro'},

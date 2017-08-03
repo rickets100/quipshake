@@ -1,4675 +1,4673 @@
-Concordance of Hamlet:
-
-1030: The
-900: And
-726: To
-661: Of
-556: You
-546: I
-520: My
-507: A
-429: In
-415: It
-390: That
-360: Is
-313: Not
-300: This
-295: His
-267: But
-257: With
-251: For
-242: Your
-234: Me
-229: As
-226: Be
-221: He
-219: Lord
-207: What
-194: So
-188: Him
-183: Have
-173: Will
-160: Do
-141: No
-139: We
-134: On
-128: Are
-120: Our
-119: By
-118: Shall
-116: If
-114: Or
-112: All
-109: O
-108: Thou
-107: Good
-106: Come
-99: Now
-96: Let
-96: More
-95: From
-95: They
-89: How
-87: Her
-87: Thy
-87: Was
-85: ’t
-83: At
-81: Most
-81: Would
-79: Like
-77: Hamlet
-77: Sir
-77: There
-75: Know
-75: Them
-75: Well
-73: ’tis
-71: May
-71: Th’
-69: Go
-69: Us
-67: King
-67: Love
-66: Did
-65: Hath
-64: Speak
-64: Then
-64: Very
-63: Which
-63: Why
-61: An
-60: Must
-59: Give
-59: Thee
-56: Am
-56: Their
-56: When
-55: Here
-55: I’ll
-55: Make
-55: Such
-54: Say
-54: Should
-54: Upon
-53: Out
-53: Where
-52: Father
-52: Man
-51: Some
-51: Too
-50: Much
-50: Than
-49: Think
-47: These
-46: One
-46: See
-46: Time
-45: She
-44: Heaven
-43: Had
-43: Tell
-43: Yet
-42: Thus
-41: Who
-39: Ay
-39: Own
-37: Mother
-37: Nor
-36: Death
-36: Look
-36: Night
-36: Take
-35: Can
-34: Play
-34: Soul
-34: Up
-33: Hear
-33: Laertes
-32: Again
-32: Life
-32: Might
-32: Whose
-31: Could
-31: God
-31: Horatio
-31: Indeed
-31: Nothing
-30: Hold
-30: Made
-30: Mine
-29: Been
-29: Cannot
-29: Dead
-29: Dear
-29: Heart
-29: Leave
-28: Into
-28: Pray
-27: Does
-27: Doth
-27: Matter
-27: Nature
-27: Never
-26: Both
-26: Great
-26: Nay
-26: Were
-25: Down
-25: Sweet
-24: Against
-24: Away
-24: Earth
-24: Even
-24: Itself
-24: Queen
-24: Though
-24: World
-23: Call
-23: Eyes
-23: Head
-23: Part
-23: Put
-23: True
-22: Done
-22: I’
-22: Mad
-22: Madness
-22: Seen
-22: Set
-22: Those
-21: Comes
-21: Day
-21: Fair
-21: Fear
-21: Follow
-21: Himself
-21: Show
-20: Before
-20: England
-20: Friends
-20: Means
-20: Old
-20: Ophelia
-20: Poor
-20: Son
-20: Still
-20: Till
-20: Two
-20: Words
-19: About
-19: Believe
-19: Blood
-19: Denmark
-19: Once
-19: Without
-18: Else
-18: Hand
-18: Keep
-18: Little
-18: Many
-18: That’s
-17: Art
-17: Cause
-17: Ear
-17: Farewell
-17: Father’s
-17: Find
-17: First
-17: Long
-17: Noble
-17: Sword
-17: There’s
-17: Thing
-17: Thoughts
-17: Welcome
-17: Young
-16: Better
-16: Body
-16: End
-16: Faith
-16: Hast
-16: Majesty
-16: Makes
-16: Marry
-16: Off
-16: Since
-16: Speech
-16: Stand
-16: Use
-16: Watch
-16: Youth
-15: Bear
-15: Between
-15: Daughter
-15: Drink
-15: Eye
-15: Ho
-15: Mark
-15: Players
-15: Question
-15: Said
-15: Therefore
-15: Tongue
-15: Yourself
-14: Act
-14: Answer
-14: Dost
-14: Grace
-14: Grief
-14: Heard
-14: Lady
-14: Last
-14: Live
-14: Murder
-14: Other
-14: O’er
-14: Reason
-14: Rest
-14: Something
-14: Spirit
-14: State
-14: Within
-13: After
-13: Air
-13: Duty
-13: Form
-13: Friend
-13: Gentleman
-13: Gertrude
-13: Goes
-13: Gone
-13: None
-13: Ourselves
-13: Saw
-13: Sense
-13: Sent
-13: Thine
-13: Virtue
-13: We’ll
-12: Any
-12: Being
-12: Bring
-12: Ere
-12: Ever
-12: Fire
-12: Fit
-12: Fortinbras
-12: Further
-12: Gentlemen
-12: Hands
-12: Has
-12: Haste
-12: Kind
-12: Madam
-12: Men
-12: Mind
-12: Myself
-12: Norway
-12: Oft
-12: Please
-12: Purpose
-12: Remember
-12: Revenge
-12: Same
-12: Sleep
-12: Stay
-12: Together
-12: Voice
-12: While
-12: Word
-12: ’twere
-11: Awhile
-11: Bed
-11: Best
-11: Business
-11: Doubt
-11: Each
-11: E’en
-11: Face
-11: Fortune
-11: Foul
-11: Full
-11: Ground
-11: Ha
-11: Honest
-11: Name
-11: Right
-11: Things
-11: Thought
-11: Thousand
-11: Tonight
-11: Villain
-11: Way
-11: What’s
-11: Wind
-11: Work
-10: Alas
-10: Almost
-10: Alone
-10: Aught
-10: Came
-10: Command
-10: Deed
-10: Excellent
-10: Fine
-10: Free
-10: Given
-10: Hell
-10: He’s
-10: Honor
-10: Late
-10: Let’s
-10: Lie
-10: Mean
-10: Memory
-10: Near
-10: Neither
-10: News
-10: Passion
-10: Peace
-10: Phrase
-10: Second
-10: Seem
-10: Soft
-10: Swear
-10: Thanks
-9: Action
-9: Age
-9: Another
-9: Arms
-9: Breath
-9: Brother
-9: Custom
-9: Devil
-9: Draw
-9: Fall
-9: Far
-9: Fell
-9: Fellow
-9: Gave
-9: Get
-9: Grow
-9: Guildenstern
-9: Judgment
-9: Lay
-9: Light
-9: Lost
-9: Meet
-9: Offense
-9: Place
-9: Seek
-9: Sight
-9: Strange
-9: Sure
-9: Thank
-9: Uncle
-9: Walk
-9: Woe
-8: Adieu
-8: Back
-8: Black
-8: Break
-8: Charge
-8: Conscience
-8: Desire
-8: Ears
-8: Fashion
-8: Grave
-8: Hamlet’s
-8: Heavens
-8: Help
-8: Here’s
-8: Hither
-8: Hope
-8: Husband
-8: Joy
-8: Known
-8: Less
-8: Letters
-8: Looks
-8: Lordship
-8: O’
-8: Pale
-8: Particular
-8: Power
-8: Quick
-8: Says
-8: Service
-8: Shame
-8: Shows
-8: Sit
-8: Sun
-8: Tears
-8: Through
-8: Times
-8: Truly
-8: Wherein
-8: Wife
-8: Wilt
-8: ’s
-7: Beg
-7: Begin
-7: Beseech
-7: Bloody
-7: Common
-7: Die
-7: Drowned
-7: Dust
-7: Effect
-7: Enough
-7: Every
-7: Fool
-7: General
-7: Gives
-7: Hour
-7: Killed
-7: King’s
-7: Law
-7: List
-7: Lose
-7: Loves
-7: Marriage
-7: Music
-7: Needs
-7: Noise
-7: Obey
-7: Pardon
-7: Pyrrhus
-7: Rank
-7: Receive
-7: Rosencrantz
-7: Top
-7: Turn
-7: Understand
-7: Unto
-7: Whole
-7: Wholesome
-7: Wisdom
-6: Already
-6: Ambition
-6: Bad
-6: Beard
-6: Beast
-6: Beauty
-6: Behind
-6: Bid
-6: Brains
-6: Brother’s
-6: Brought
-6: Buried
-6: Cast
-6: Choice
-6: Cold
-6: Coming
-6: Confess
-6: Court
-6: Damnèd
-6: Dane
-6: Dare
-6: Days
-6: Discourse
-6: Double
-6: Dream
-6: Dull
-6: Either
-6: Falls
-6: False
-6: Fare
-6: Fat
-6: Feed
-6: Fie
-6: Forth
-6: Ghost
-6: Gracious
-6: Guilty
-6: Health
-6: Heavy
-6: Herself
-6: Hit
-6: Home
-6: Hot
-6: Ill
-6: Lack
-6: Laid
-6: Laugh
-6: Lies
-6: Longer
-6: Loved
-6: Maid
-6: Marcellus
-6: Mother’s
-6: Mouth
-6: Move
-6: Note
-6: Only
-6: Piece
-6: Point
-6: Prison
-6: Prithee
-6: Proof
-6: Round
-6: Sea
-6: Sealed
-6: Season
-6: Shape
-6: Sister
-6: Slain
-6: Sorrow
-6: Speaks
-6: Star
-6: Stood
-6: Struck
-6: Takes
-6: Three
-6: Touch
-6: Toward
-6: Truth
-6: Try
-6: T’
-6: Vows
-6: Water
-6: Went
-6: Whether
-6: Whom
-6: Wicked
-6: Withal
-6: Woman
-6: Wouldst
-6: Wrong
-5: Affection
-5: Ah
-5: Alexander
-5: Anon
-5: Anything
-5: Arm
-5: Audience
-5: Barnardo
-5: Base
-5: Blessing
-5: Bodies
-5: Bore
-5: Bound
-5: Brain
-5: Brief
-5: Carriages
-5: Choose
-5: Circumstance
-5: Cock
-5: Color
-5: Commission
-5: Conceit
-5: Course
-5: Crown
-5: Cry
-5: Damned
-5: Danger
-5: Dangerous
-5: Danish
-5: Didst
-5: Disposition
-5: Door
-5: Dread
-5: Drown
-5: Dumb
-5: Eat
-5: Ecstasy
-5: Fast
-5: Fault
-5: Figure
-5: Fingers
-5: Flesh
-5: Fly
-5: Foils
-5: Forgot
-5: Fortune’s
-5: Found
-5: France
-5: French
-5: Gentle
-5: Grows
-5: Half
-5: Hard
-5: Hearing
-5: Hide
-5: Honesty
-5: Honored
-5: Impart
-5: Keeps
-5: Kingdom
-5: Knave
-5: Knew
-5: Land
-5: Liberty
-5: Man’s
-5: Mass
-5: Mercy
-5: Methinks
-5: Moon
-5: Morning
-5: Mortal
-5: Motive
-5: Natural
-5: Next
-5: Nunnery
-5: Pass
-5: Patience
-5: Perchance
-5: Perhaps
-5: Presently
-5: Quiet
-5: Read
-5: Report
-5: Return
-5: Safety
-5: Save
-5: Seems
-5: Short
-5: Silence
-5: Sing
-5: Skull
-5: Souls
-5: Sound
-5: Spirits
-5: Stir
-5: Sudden
-5: Table
-5: Terms
-5: Themselves
-5: Throw
-5: Thyself
-5: Told
-5: Took
-5: Treason
-5: Trumpet
-5: Twelve
-5: Vile
-5: Visage
-5: Visit
-5: Wager
-5: Warlike
-5: Whereon
-5: Wit
-5: Wits
-5: Woo’t
-5: Writ
-5: Year
-5: Yes
-5: Yours
-4: Above
-4: Affair
-4: Angel
-4: Argument
-4: Ass
-4: Assume
-4: Bestow
-4: Birth
-4: Blame
-4: Bones
-4: Bosom
-4: Breathe
-4: Brow
-4: Burial
-4: Calls
-4: Cannon
-4: Censure
-4: Certain
-4: Christian
-4: Closes
-4: Closet
-4: Clouds
-4: Commandment
-4: Commend
-4: Consent
-4: Consequence
-4: Countenance
-4: Cousin
-4: Cries
-4: Cunning
-4: Cup
-4: Cursèd
-4: Deep
-4: Desperate
-4: Died
-4: Direct
-4: Discretion
-4: Drift
-4: Ease
-4: Elsinore
-4: Entertainment
-4: Fain
-4: Favor
-4: Follows
-4: Forget
-4: Frame
-4: Freely
-4: Funeral
-4: Gifts
-4: Glad
-4: Grown
-4: Habit
-4: Hang
-4: Heat
-4: Hecuba
-4: Hence
-4: Herein
-4: High
-4: Holds
-4: Horrible
-4: House
-4: Humbly
-4: Image
-4: Imagination
-4: Imports
-4: Incestuous
-4: Infinite
-4: Instant
-4: Kept
-4: Kill
-4: Knows
-4: Lands
-4: Lead
-4: Leisure
-4: Lend
-4: Length
-4: Lest
-4: Lights
-4: Lives
-4: Looked
-4: Main
-4: Methought
-4: Mock
-4: Modesty
-4: Month
-4: Months
-4: Motion
-4: Native
-4: Need
-4: Occasion
-4: Oh
-4: Others
-4: Over
-4: Pate
-4: Pause
-4: Pay
-4: Person
-4: Pity
-4: Pleasure
-4: Poison
-4: Poisoned
-4: Polack
-4: Polonius
-4: Possible
-4: Practice
-4: Priam
-4: Prologue
-4: Property
-4: Quality
-4: Quantity
-4: Quite
-4: Rather
-4: Ready
-4: Remembrance
-4: Returned
-4: Rose
-4: Royal
-4: Secret
-4: Send
-4: Sends
-4: Shalt
-4: Shot
-4: Sick
-4: Sigh
-4: Sith
-4: Sits
-4: Six
-4: Slave
-4: Sleeping
-4: Snow
-4: Soldiers
-4: Sorry
-4: Spade
-4: Speed
-4: Stands
-4: Stars
-4: Start
-4: Stop
-4: Straight
-4: Strong
-4: Stronger
-4: Tale
-4: Teach
-4: Ten
-4: Tend
-4: Tender
-4: Thence
-4: Thinking
-4: Thrice
-4: Thrift
-4: Throat
-4: Tomorrow
-4: Treasure
-4: Turned
-4: Twice
-4: Under
-4: Unfold
-4: Unnatural
-4: Violence
-4: Violent
-4: Warrant
-4: Wear
-4: Weeds
-4: Weep
-4: Whereto
-4: White
-4: Wide
-4: Wild
-4: Wittenberg
-4: Wretched
-4: ’gainst
-4: ’twas
-4: ’twill
-3: Aboard
-3: Accident
-3: Actor
-3: Addition
-3: Admiration
-3: Advice
-3: Alack
-3: Along
-3: Ambassadors
-3: Ambitious
-3: Angels
-3: Appear
-3: Appeared
-3: Argal
-3: Armed
-3: Armor
-3: Arras
-3: Assay
-3: Avoid
-3: Beating
-3: Becomes
-3: Beggar
-3: Begun
-3: Below
-3: Bend
-3: Bent
-3: Bitter
-3: Bless
-3: Blow
-3: Bold
-3: Born
-3: Bow
-3: Boy
-3: Brave
-3: Breed
-3: Burst
-3: Canst
-3: Carry
-3: Ceremony
-3: Chamber
-3: Change
-3: Chaste
-3: Cheer
-3: Chief
-3: Children
-3: Clay
-3: Close
-3: Complexion
-3: Confession
-3: Content
-3: Corruption
-3: Corse
-3: Counsel
-3: Count
-3: Country
-3: Courtier
-3: Creatures
-3: Cried
-3: Crimes
-3: Defend
-3: Delight
-3: Delights
-3: Deliver
-3: Denmark’s
-3: Desires
-3: Dew
-3: Dies
-3: Distemper
-3: Distracted
-3: Doomsday
-3: Doors
-3: Dozen
-3: Dreadful
-3: Dreams
-3: Dry
-3: Ducats
-3: Edge
-3: Election
-3: Encounter
-3: Enemy
-3: Enter
-3: Entreat
-3: Estate
-3: Evil
-3: Excellence
-3: Except
-3: Express
-3: Faithful
-3: Fancy
-3: Fantasy
-3: Faults
-3: Feast
-3: Fee
-3: Feeling
-3: Fellows
-3: Few
-3: Fiery
-3: Fight
-3: Fixed
-3: Flat
-3: Followed
-3: Foolish
-3: Foot
-3: Force
-3: Forms
-3: Four
-3: Gallows
-3: Gather
-3: Generous
-3: Gods
-3: God’s
-3: Golden
-3: Gonzago
-3: Goodly
-3: Gross
-3: Guard
-3: Guilt
-3: Hadst
-3: Hangers
-3: Haply
-3: Happy
-3: Hears
-3: Heartily
-3: Heels
-3: Hercules
-3: Hill
-3: Hits
-3: Horse
-3: Idle
-3: Ignorance
-3: Ignorant
-3: Importing
-3: Indifferent
-3: Inward
-3: Jephthah
-3: Jest
-3: Judge
-3: Judgments
-3: Justly
-3: Ladies
-3: Left
-3: Lets
-3: Liege
-3: Liest
-3: Likes
-3: Lines
-3: Livery
-3: Lo
-3: Loud
-3: Loving
-3: Making
-3: March
-3: Married
-3: Masters
-3: Meant
-3: Men’s
-3: Mere
-3: Mistress
-3: Moblèd
-3: Morn
-3: Mountain
-3: Murderer
-3: Nation
-3: Nights
-3: Nine
-3: Nonny
-3: Observe
-3: Odds
-3: Offended
-3: Offer
-3: Order
-3: Organ
-3: Osric
-3: Otherwise
-3: Ourself
-3: Parts
-3: Passing
-3: Past
-3: Patient
-3: Pious
-3: Pipe
-3: Pit
-3: Piteous
-3: Placed
-3: Played
-3: Pluck
-3: Poland
-3: Powers
-3: Presence
-3: Present
-3: Prince
-3: Process
-3: Profit
-3: Proud
-3: Prove
-3: Proved
-3: Pure
-3: Purposes
-3: Purse
-3: Puts
-3: Pyrrhus’
-3: Rage
-3: Rapier
-3: Rash
-3: Rat
-3: Received
-3: Recover
-3: Remains
-3: Repent
-3: Revenged
-3: Reynaldo
-3: Rich
-3: Rogue
-3: Rouse
-3: Ruled
-3: Sail
-3: Saint
-3: Salt
-3: Scene
-3: Scope
-3: Seal
-3: Secrecy
-3: Seeing
-3: Shadow
-3: Shapes
-3: Shortly
-3: Sides
-3: Sirs
-3: Skill
-3: Sleeps
-3: Slow
-3: Smiling
-3: Solemn
-3: Sometime
-3: Sometimes
-3: Sore
-3: Sort
-3: Sovereign
-3: Special
-3: Sponge
-3: Sport
-3: Spring
-3: Stage
-3: Stayed
-3: Steel
-3: Stick
-3: Stole
-3: Story
-3: Stuff
-3: Subject
-3: Suffer
-3: Suffers
-3: Suit
-3: Suits
-3: Sworn
-3: Tame
-3: Ta’en
-3: Tear
-3: Tempt
-3: Tenders
-3: Theme
-3: Thick
-3: Third
-3: Thirty
-3: Thither
-3: Tongues
-3: Touching
-3: Trial
-3: Trick
-3: Tricks
-3: Twenty
-3: Understanding
-3: Unless
-3: Unseen
-3: Uses
-3: Vice
-3: Visitation
-3: Vouchsafe
-3: Wanton
-3: Waves
-3: Ways
-3: Wed
-3: Wheel
-3: Wherefore
-3: Whiles
-3: Whilst
-3: Win
-3: Winds
-3: Wisest
-3: Wish
-3: Withdraw
-3: Wi’
-3: Wonder
-3: Wondrous
-3: Wont
-3: Worm
-3: Worse
-3: Worth
-3: Wretch
-3: Yea
-3: Years
-2:
-2: A-down
-2: Absolute
-2: Absurd
-2: Accent
-2: According
-2: Actions
-2: Actors
-2: Acts
-2: Admit
-2: Advancement
-2: Affliction
-2: Alarm
-2: Allowance
-2: Allowed
-2: Aloof
-2: Amazement
-2: Amiss
-2: Antique
-2: Apart
-2: Ape
-2: Apparition
-2: Appears
-2: Apprehension
-2: Approve
-2: Apt
-2: Arrant
-2: Arrows
-2: Article
-2: Ask
-2: Asking
-2: Assigns
-2: Assistant
-2: Assurance
-2: Assured
-2: Attend
-2: Author
-2: Awake
-2: Awe
-2: Ax
-2: Baby
-2: Baked
-2: Barbary
-2: Baser
-2: Basket
-2: Bearers
-2: Bears
-2: Beasts
-2: Beautified
-2: Begins
-2: Beguile
-2: Behavior
-2: Behold
-2: Belike
-2: Bell
-2: Bestowed
-2: Beware
-2: Beyond
-2: Bird
-2: Blank
-2: Blast
-2: Blasted
-2: Bleed
-2: Blown
-2: Blows
-2: Blush
-2: Book
-2: Borne
-2: Breaks
-2: Breathing
-2: Broad
-2: Broke
-2: Brook
-2: Brothers
-2: Brows
-2: Builds
-2: Bulk
-2: Burn
-2: Burning
-2: Burns
-2: Buzz
-2: Caesar
-2: Called
-2: Calm
-2: Camel
-2: Canker
-2: Cap
-2: Capable
-2: Capital
-2: Card
-2: Carpenter
-2: Catch
-2: Caught
-2: Celestial
-2: Chance
-2: Chances
-2: Chapel
-2: Character
-2: Charitable
-2: Cheek
-2: Cheerfully
-2: Child
-2: Choler
-2: Church
-2: City
-2: Clothes
-2: Coldly
-2: Collected
-2: Collection
-2: Comedy
-2: Compelled
-2: Comply
-2: Com’st
-2: Conference
-2: Confine
-2: Confound
-2: Consider
-2: Considered
-2: Contagion
-2: Continent
-2: Contrive
-2: Convert
-2: Convey
-2: Cost
-2: Coted
-2: Couch
-2: Coward
-2: Craft
-2: Creature
-2: Crew
-2: Cruel
-2: Currents
-2: Cut
-2: Daggers
-2: Dearest
-2: Dearly
-2: Deceived
-2: Defeat
-2: Defect
-2: Defense
-2: Delay
-2: Delicate
-2: Delivered
-2: Demand
-2: Demands
-2: Deny
-2: Depends
-2: Desert
-2: Desperation
-2: Desp’rate
-2: Destroy
-2: Diadem
-2: Diet
-2: Difference
-2: Dig
-2: Dignity
-2: Directly
-2: Dirt
-2: Disclosed
-2: Dishonor
-2: Dismal
-2: Dispatch
-2: Distraction
-2: Distrust
-2: Divide
-2: Divinity
-2: Dog
-2: Doubtful
-2: Dove
-2: Draws
-2: Drinks
-2: Drive
-2: Drowns
-2: Eager
-2: Easiness
-2: Easy
-2: Eats
-2: Effects
-2: Embrace
-2: Empire
-2: Employment
-2: Enact
-2: Ends
-2: Enemies
-2: Enterprise
-2: Entreaty
-2: Envenomed
-2: Envy
-2: Epitaph
-2: Equal
-2: Escape
-2: Especial
-2: Eternal
-2: Event
-2: Everything
-2: Exchange
-2: Exercise
-2: Expel
-2: Extremity
-2: Faces
-2: Faculties
-2: Falling
-2: Fall’n
-2: Fame
-2: Fares
-2: Farm
-2: Fate
-2: Fates
-2: Fathers
-2: Favors
-2: Feared
-2: Fearful
-2: Fears
-2: Fed
-2: Fellowship
-2: Fetch
-2: Fighting
-2: Finding
-2: Finds
-2: Fines
-2: Fish
-2: Fishmonger
-2: Fits
-2: Five
-2: Flame
-2: Flames
-2: Flaming
-2: Flourish
-2: Foe
-2: Foil
-2: Food
-2: Fools
-2: Forbid
-2: Forced
-2: Forehead
-2: Forgive
-2: Former
-2: Fortunes
-2: Forty
-2: Forward
-2: Frankly
-2: Fruit
-2: Gain
-2: Gait
-2: Gall
-2: Galls
-2: Gaming
-2: Garden
-2: Gentry
-2: Giving
-2: Glass
-2: Going
-2: Goodness
-2: Got
-2: Graces
-2: Grapple
-2: Grave-maker
-2: Graves
-2: Greatness
-2: Green
-2: Grieve
-2: Guest
-2: Guts
-2: Hair
-2: Hall
-2: Harsh
-2: Hat
-2: Having
-2: Havior
-2: Heads
-2: Hearers
-2: Hearts
-2: Heavenly
-2: Heed
-2: Heel
-2: Held
-2: Helps
-2: Heraldry
-2: Hey
-2: Hid
-2: Hideous
-2: History
-2: Hitherto
-2: Hobby-horse
-2: Holy
-2: Honorable
-2: Horrid
-2: Horridly
-2: Horses
-2: Hours
-2: Hum
-2: Hundred
-2: Hurt
-2: Husband’s
-2: Ice
-2: Immediate
-2: Imminent
-2: Impawned
-2: Incensed
-2: Inclination
-2: Inform
-2: Inquire
-2: Instrument
-2: Intent
-2: Issue
-2: Its
-2: Jealousy
-2: Jig
-2: Join
-2: Joint
-2: Jot
-2: Jove
-2: Joys
-2: Julius
-2: Jump
-2: Just
-2: Keen
-2: Kills
-2: Kin
-2: Kings
-2: Kisses
-2: Knavery
-2: Knavish
-2: Knees
-2: Knowest
-2: Knowing
-2: Labor
-2: Lap
-2: Larded
-2: Lasting
-2: Lawless
-2: Laying
-2: Least
-2: Leaves
-2: Level
-2: Levies
-2: Liberal
-2: Limbs
-2: Line
-2: Lips
-2: Liquor
-2: Lived
-2: Living
-2: Loam
-2: Lobby
-2: Lock
-2: Locked
-2: Loose
-2: Lunacy
-2: Lungs
-2: Lust
-2: Maggots
-2: Maiden
-2: Majestical
-2: Majesties
-2: Malicious
-2: Manners
-2: Marvelous
-2: Mason
-2: Matters
-2: Meantime
-2: Meeting
-2: Melancholy
-2: Melt
-2: Merely
-2: Merit
-2: Merry
-2: Method
-2: Middle
-2: Mighty
-2: Minds
-2: Mind’s
-2: Mirror
-2: Mirth
-2: Mischance
-2: Mole
-2: Moment
-2: Money
-2: Mount
-2: Mountains
-2: Mouse
-2: Mouths
-2: Naked
-2: Nature’s
-2: Naught
-2: Nearer
-2: Necessary
-2: Neck
-2: Needful
-2: Neglected
-2: Nephew
-2: Nephew’s
-2: Neptune’s
-2: New
-2: Ne’er
-2: Norman
-2: Nose
-2: Numbers
-2: Oath
-2: Obedience
-2: Obligation
-2: Observance
-2: Odd
-2: Officers
-2: Often
-2: Ones
-2: Open
-2: Opinions
-2: Opposition
-2: Orchard
-2: Origin
-2: Ours
-2: Pace
-2: Painted
-2: Pair
-2: Palm
-2: Pardoned
-2: Parle
-2: Passage
-2: Passes
-2: Pastime
-2: Patch
-2: Peasant
-2: Peep
-2: Performed
-2: Perfume
-2: Pestilent
-2: Petty
-2: Philosophy
-2: Picked
-2: Picture
-2: Pith
-2: Plague
-2: Platform
-2: Player
-2: Playing
-2: Pleased
-2: Pleasures
-2: Plots
-2: Plucks
-2: Pole
-2: Potent
-2: Praise
-2: Praised
-2: Prayer
-2: Prayers
-2: Precedent
-2: Precious
-2: Pregnant
-2: Prepare
-2: Pretty
-2: Prevent
-2: Prisoner
-2: Proceed
-2: Proclaim
-2: Proclaims
-2: Prodigal
-2: Profound
-2: Promised
-2: Pronounced
-2: Proper
-2: Prophesy
-2: Propose
-2: Providence
-2: Puffed
-2: Purging
-2: Purposed
-2: Pursue
-2: Quarrel
-2: Quills
-2: Quit
-2: Ranker
-2: Rapiers
-2: Rate
-2: Reasons
-2: Rebellious
-2: Recorders
-2: Recoveries
-2: Red
-2: Regard
-2: Region
-2: Relieved
-2: Relish
-2: Remain
-2: Remove
-2: Repair
-2: Reply
-2: Requite
-2: Respect
-2: Rests
-2: Rewards
-2: Rhenish
-2: Richer
-2: Rights
-2: Ring
-2: Rise
-2: Rises
-2: Rite
-2: Roar
-2: Roman
-2: Rome
-2: Room
-2: Rotten
-2: Roughly
-2: Rub
-2: Rue
-2: Rugged
-2: Run
-2: Runs
-2: Sable
-2: Sables
-2: Safe
-2: Safely
-2: Salvation
-2: Sat
-2: Sayst
-2: Scale
-2: Scandal
-2: Scarce
-2: Scarcely
-2: Scourge
-2: Scripture
-2: Seat
-2: Secure
-2: Seeks
-2: Seemed
-2: Seeming
-2: Sending
-2: Senseless
-2: Serpent
-2: Servants
-2: Serve
-2: Served
-2: Serves
-2: Sets
-2: Shake
-2: She’ll
-2: Ship
-2: Shipwright
-2: Shoes
-2: Shoulder
-2: Shouldst
-2: Shown
-2: Shuffling
-2: Sickly
-2: Sickness
-2: Side
-2: Signify
-2: Sin
-2: Sinews
-2: Single
-2: Slightly
-2: Smile
-2: Smooth
-2: Soil
-2: Soldier
-2: Soldier’s
-2: Songs
-2: Sooner
-2: Source
-2: Spoke
-2: Spoken
-2: Spokes
-2: Spread
-2: Spurns
-2: Stamp
-2: Station
-2: Step
-2: Sting
-2: Stone
-2: Stops
-2: Strangely
-2: Straw
-2: Streets
-2: Strength
-2: Strict
-2: Strike
-2: Strumpet
-2: Substance
-2: Succession
-2: Sucked
-2: Sultry
-2: Sum
-2: Summit
-2: Supper
-2: Suppress
-2: Sweat
-2: Sweep
-2: Swift
-2: Tables
-2: Talk
-2: Talked
-2: Tardy
-2: Tedious
-2: Teeth
-2: Term
-2: Throne
-2: Thrown
-2: Thunder
-2: Today
-2: Toe
-2: Toy
-2: Trace
-2: Trade
-2: Tragedy
-2: Trail
-2: Translate
-2: Travel
-2: Treacherous
-2: Treachery
-2: Treble
-2: Tremble
-2: Tribute
-2: Trouble
-2: Troubles
-2: Truant
-2: Trust
-2: Tush
-2: Twain
-2: Unbated
-2: Unction
-2: Undertake
-2: Union
-2: Unknown
-2: Unworthy
-2: Used
-2: Valiant
-2: Vantage
-2: Variable
-2: Vengeance
-2: Venom
-2: View
-2: Violets
-2: Virtues
-2: Voltemand
-2: Vouchers
-2: Vow
-2: Voyage
-2: Vulgar
-2: Wag
-2: Wait
-2: Walks
-2: Want
-2: Wants
-2: War
-2: Wars
-2: Wary
-2: Wash
-2: Waste
-2: Wax
-2: Waxes
-2: Weak
-2: Weakness
-2: Weapon
-2: Wears
-2: Weary
-2: Weasel
-2: Weigh
-2: Weighed
-2: Whale
-2: Whereof
-2: Where’s
-2: Whips
-2: Whisper
-2: Whoreson
-2: Wildly
-2: Willing
-2: Willingly
-2: Wings
-2: Wipe
-2: Wise
-2: Wisely
-2: Witchcraft
-2: Witness
-2: Wittingly
-2: Women
-2: Wonderful
-2: Wonted
-2: Working
-2: World’s
-2: Wronged
-2: Wrote
-2: Yield
-2: Yonder
-2: You’ll
-2: ’a
-2: ’r
-2: ’sblood
-2: ’scape
-2: ’swounds
-2: ’twixt
-1: ases
-1: heaven-kissing
-1: A-cursing
-1: A-down-a
-1: A-making
-1: A-praying
-1: A-swearing
-1: A-work
-1: Abate
-1: Abatements
-1: Abhorred
-1: Ability
-1: Able
-1: Abominably
-1: Abridgment
-1: Abroad
-1: Absent
-1: Abstinence
-1: Abstract
-1: Abuse
-1: Abused
-1: Abuses
-1: Access
-1: Accidental
-1: Accidents
-1: Accord
-1: Account
-1: Accounted
-1: Accurst
-1: Accuse
-1: Ache
-1: Achievements
-1: Acquaint
-1: Acquire
-1: Acquittance
-1: Acres
-1: Across
-1: Acted
-1: Acting
-1: Actively
-1: Adam
-1: Adam’s
-1: Adders
-1: Addicted
-1: Address
-1: Adheres
-1: Adjoined
-1: Admirable
-1: Admittance
-1: Adoption
-1: Adulterate
-1: Advanced
-1: Advantage
-1: Adventurous
-1: Advise
-1: Aeneas’
-1: Aerie
-1: Afeard
-1: Affairs
-1: Affections
-1: Afflict
-1: Afflictions
-1: Afflicts
-1: Affrighted
-1: Affront
-1: Afoot
-1: Afraid
-1: Afternoon
-1: Afterwards
-1: Ago
-1: Agreeing
-1: Aid
-1: Aim
-1: Aimed
-1: Airs
-1: Airy
-1: Allegiance
-1: Alleys
-1: Allow
-1: All’s
-1: Also
-1: Altitude
-1: Altogether
-1: Always
-1: Amaze
-1: Amazed
-1: Ambassador
-1: Amber
-1: Ambiguous
-1: Amble
-1: Amen
-1: Amities
-1: Among
-1: Anchor’s
-1: Ancient
-1: Anger
-1: Angle
-1: Angry
-1: Animals
-1: Ankle
-1: Annexment
-1: Annual
-1: Anoint
-1: Another’s
-1: Answered
-1: Answerest
-1: Answers
-1: Antic
-1: Anticipation
-1: Antiquity
-1: Apiece
-1: Apoplexed
-1: Appall
-1: Apparel
-1: Appeareth
-1: Appetite
-1: Applaud
-1: Apple
-1: Appliance
-1: Appointment
-1: Appurtenance
-1: Aptly
-1: Ardor
-1: Argues
-1: Aright
-1: Arithmetic
-1: Army
-1: Armèd
-1: Arousèd
-1: Arraign
-1: Arrest
-1: Arrests
-1: Arrived
-1: Arrow
-1: Articles
-1: Artless
-1: Arture
-1: Ashamed
-1: Askant
-1: Asked
-1: Asleep
-1: Aspect
-1: Assail
-1: Assault
-1: Assayed
-1: Assays
-1: Associates
-1: Assure
-1: Asunder
-1: Attended
-1: Attends
-1: Attent
-1: Attractive
-1: Attribute
-1: Audit
-1: Augury
-1: Aunt-mother
-1: Auspicious
-1: Authorities
-1: Avouch
-1: Awry
-1: Aye
-1: Babe
-1: Backed
-1: Backward
-1: Bade
-1: Bait
-1: Baker’s
-1: Ban
-1: Bands
-1: Baptista
-1: Bar
-1: Barber’s
-1: Bare
-1: Barefaced
-1: Barefoot
-1: Bark
-1: Barked
-1: Barred
-1: Barrel
-1: Barren
-1: Baseness
-1: Bastard
-1: Bat
-1: Bated
-1: Battalions
-1: Batten
-1: Battery
-1: Battlements
-1: Bawd
-1: Bawdry
-1: Bawds
-1: Bawdy
-1: Beam
-1: Beards
-1: Beaten
-1: Beats
-1: Beauteous
-1: Beautied
-1: Beauties
-1: Beaver
-1: Became
-1: Because
-1: Beck
-1: Beckons
-1: Bedded
-1: Bedrid
-1: Beds
-1: Beer
-1: Beetles
-1: Befallen
-1: Befitted
-1: Beget
-1: Beggared
-1: Beggars
-1: Beggars’
-1: Behaved
-1: Behooves
-1: Behove
-1: Belief
-1: Believed
-1: Bellow
-1: Bellowed
-1: Bells
-1: Beloved
-1: Bended
-1: Beneath
-1: Benefit
-1: Benetted
-1: Berattle
-1: Beseeched
-1: Beshrew
-1: Besides
-1: Besmirch
-1: Bespeak
-1: Bestial
-1: Bet
-1: Beteem
-1: Bethought
-1: Betime
-1: Betimes
-1: Betoken
-1: Bewept
-1: Bias
-1: Bier
-1: Bilboes
-1: Birds
-1: Bisson
-1: Bites
-1: Blackest
-1: Blanket
-1: Blanks
-1: Blasting
-1: Blastments
-1: Blasts
-1: Blaze
-1: Blazes
-1: Blazon
-1: Bleeding
-1: Blench
-1: Blessed
-1: Blest
-1: Blister
-1: Bloat
-1: Bloodily
-1: Blossoms
-1: Blue
-1: Blunted
-1: Blurs
-1: Board
-1: Boarded
-1: Bodes
-1: Bodiless
-1: Bodkin
-1: Bodykins
-1: Boist’rous
-1: Bonds
-1: Bonnet
-1: Bonny
-1: Books
-1: Borrowed
-1: Borrower
-1: Borrowing
-1: Botch
-1: Boughs
-1: Bought
-1: Bounded
-1: Bounds
-1: Bounteous
-1: Bounty
-1: Bourn
-1: Bout
-1: Bouts
-1: Bowl
-1: Box
-1: Boys
-1: Brainish
-1: Branches
-1: Brands
-1: Bravery
-1: Bray
-1: Brazed
-1: Brazen
-1: Breach
-1: Bread
-1: Breadth
-1: Breaking
-1: Breast
-1: Breathes
-1: Breeder
-1: Breeding
-1: Brevity
-1: Bride-bed
-1: Bringing
-1: Brings
-1: Broken
-1: Brokers
-1: Brooch
-1: Brood
-1: Brothel
-1: Brothers’
-1: Bruit
-1: Brute
-1: Brutus
-1: Bubbles
-1: Budge
-1: Buffets
-1: Bugs
-1: Build
-1: Built
-1: Bulwark
-1: Bunghole
-1: Burden
-1: Burnt
-1: Busy
-1: Button
-1: Buttons
-1: Buy
-1: Buyer
-1: Buys
-1: Buzzers
-1: Cabin
-1: Cain’s
-1: Calamity
-1: Calendar
-1: Calf
-1: Calmly
-1: Calumnious
-1: Calumny
-1: Calves
-1: Calves’
-1: Candied
-1: Cannoneer
-1: Cannons
-1: Canon
-1: Canonized
-1: Canopy
-1: Cap-à-pie
-1: Capability
-1: Capitol
-1: Capons
-1: Caps
-1: Captain
-1: Captains
-1: Carbuncles
-1: Carefully
-1: Careless
-1: Carnal
-1: Carouses
-1: Carp
-1: Carriage
-1: Carries
-1: Carrion
-1: Carrying
-1: Cart
-1: Carters
-1: Carve
-1: Case
-1: Cases
-1: Casual
-1: Cat
-1: Cataplasm
-1: Cautel
-1: Caution
-1: Caviary
-1: Cease
-1: Celebrated
-1: Cell
-1: Cellarage
-1: Center
-1: Cerements
-1: Certainty
-1: Cess
-1: Chalice
-1: Challenger
-1: Chameleon’s
-1: Changeling
-1: Changes
-1: Changèd
-1: Chanson
-1: Chanted
-1: Chapfallen
-1: Chapless
-1: Chariest
-1: Charity
-1: Charm
-1: Chase
-1: Checking
-1: Cherub
-1: Chide
-1: Chiefest
-1: Chiefly
-1: Chopine
-1: Chorus
-1: Chough
-1: Christians
-1: Christians’
-1: Chronicles
-1: Churches
-1: Churchyards
-1: Churlish
-1: Cicatrice
-1: Circumscribed
-1: Circumstances
-1: Circumvent
-1: Clad
-1: Claim
-1: Clamb’ring
-1: Clamor
-1: Clapped
-1: Claudio
-1: Clawed
-1: Clear
-1: Clearly
-1: Cleave
-1: Cleft
-1: Clemency
-1: Clepe
-1: Cliff
-1: Climatures
-1: Cloak
-1: Closely
-1: Clothe
-1: Cloud
-1: Clout
-1: Clouts
-1: Clown
-1: Clowns
-1: Clutch
-1: Coach
-1: Coagulate
-1: Cockle
-1: Coil
-1: Coinage
-1: Collateral
-1: Colleaguèd
-1: Columbines
-1: Comart
-1: Combat
-1: Combated
-1: Combination
-1: Combinèd
-1: Comfort
-1: Coming-o’er
-1: Comma
-1: Commanded
-1: Commands
-1: Commeddled
-1: Commencement
-1: Commendable
-1: Commended
-1: Comment
-1: Commerce
-1: Commune
-1: Commutual
-1: Compact
-1: Companies
-1: Companions
-1: Company
-1: Compare
-1: Compass
-1: Competent
-1: Complete
-1: Composed
-1: Compost
-1: Compound
-1: Compounded
-1: Compulsatory
-1: Compulsive
-1: Concealed
-1: Conceive
-1: Conception
-1: Concernancy
-1: Concernings
-1: Concluded
-1: Conclusions
-1: Condolement
-1: Confederate
-1: Confined
-1: Confines
-1: Confront
-1: Confusion
-1: Congregation
-1: Congruing
-1: Conjectures
-1: Conjoined
-1: Conjunctive
-1: Conjuration
-1: Conjure
-1: Conjures
-1: Conqueror
-1: Conquest
-1: Consonancy
-1: Constant
-1: Constantly
-1: Consummation
-1: Contagious
-1: Containing
-1: Contend
-1: Contents
-1: Continual
-1: Contract
-1: Contracted
-1: Contraction
-1: Contrary
-1: Contriving
-1: Controversy
-1: Contumely
-1: Convenience
-1: Convenient
-1: Conversation
-1: Converse
-1: Converted
-1: Conveyance
-1: Conveyances
-1: Convocation
-1: Cool
-1: Coped
-1: Copied
-1: Core
-1: Cornelius
-1: Corner
-1: Coronation
-1: Coronet
-1: Corrupted
-1: Corses
-1: Costly
-1: Couchèd
-1: Counselor
-1: Counter
-1: Counterfeit
-1: Countries
-1: Countrymen
-1: Country’s
-1: Count’nance
-1: Couple
-1: Couplets
-1: Courage
-1: Courses
-1: Courteous
-1: Courtesy
-1: Courtiers
-1: Courtier’s
-1: Cowards
-1: Cozenage
-1: Cozened
-1: Crab
-1: Crack
-1: Cracked
-1: Cracks
-1: Crafts
-1: Crafty
-1: Crants
-1: Crash
-1: Craven
-1: Craves
-1: Crawling
-1: Creation
-1: Credent
-1: Creep
-1: Crescent
-1: Crib
-1: Criminal
-1: Croaking
-1: Crocodile
-1: Crook
-1: Cross
-1: Crowflowers
-1: Crowing
-1: Crowner
-1: Crowner’s
-1: Crowns
-1: Crust
-1: Cuckold
-1: Cudgel
-1: Cue
-1: Cuffs
-1: Cunnings
-1: Cups
-1: Curb
-1: Curd
-1: Cure
-1: Curiously
-1: Curls
-1: Curse
-1: Customary
-1: Cutpurse
-1: Cyclops’
-1: Dagger
-1: Daily
-1: Daintier
-1: Daisies
-1: Daisy
-1: Dalliance
-1: Dally
-1: Dallying
-1: Damn
-1: Damnable
-1: Damnation
-1: Damon
-1: Danskers
-1: Dared
-1: Dark
-1: Darkest
-1: Dar’st
-1: Daughters
-1: Dawning
-1: Deal
-1: Dealt
-1: Dearth
-1: Deathbed
-1: Deaths
-1: Debate
-1: Debatement
-1: Debt
-1: Decayer
-1: Decked
-1: Declension
-1: Decline
-1: Declining
-1: Deeds
-1: Deeply
-1: Deer
-1: Defeated
-1: Defeats
-1: Defective
-1: Define
-1: Definement
-1: Defy
-1: Deject
-1: Dejected
-1: Delays
-1: Deliberate
-1: Delve
-1: Delver
-1: Demanded
-1: Demi-natured
-1: Demonstrated
-1: Denied
-1: Denies
-1: Denote
-1: Depart
-1: Departed
-1: Deprive
-1: Deprived
-1: Deserve
-1: Deserved
-1: Designed
-1: Desirous
-1: Desk
-1: Despised
-1: Despite
-1: Detecting
-1: Determination
-1: Determine
-1: Device
-1: Devices
-1: Devise
-1: Devised
-1: Devotion’s
-1: Devoutly
-1: Dews
-1: Dexterity
-1: Diameter
-1: Dicers’
-1: Diction
-1: Dido
-1: Differences
-1: Different
-1: Digested
-1: Digged
-1: Dilated
-1: Dild
-1: Diligence
-1: Dip
-1: Dipping
-1: Dire
-1: Directions
-1: Dirge
-1: Dirty
-1: Disappointed
-1: Disasters
-1: Disclaiming
-1: Disclose
-1: Discomfort
-1: Discord
-1: Discovery
-1: Disease
-1: Diseased
-1: Diseases
-1: Dish
-1: Dishes
-1: Disjoint
-1: Dislike
-1: Dismantled
-1: Dismay
-1: Dispatched
-1: Distant
-1: Distempered
-1: Distilled
-1: Distilment
-1: Distinguish
-1: Distract
-1: Distress
-1: Ditchers
-1: Divided
-1: Divine
-1: Divulging
-1: Doctor
-1: Document
-1: Dogs
-1: Doing
-1: Dole
-1: Dominions
-1: Donned
-1: Doom
-1: Doomed
-1: Dotes
-1: Doublet
-1: Doubts
-1: Down-gyvèd
-1: Dowry
-1: Dozy
-1: Drab
-1: Drabbing
-1: Dragged
-1: Drains
-1: Dram
-1: Draughts
-1: Dreaded
-1: Dreadfully
-1: Dreamt
-1: Drinking
-1: Driven
-1: Drives
-1: Drooping
-1: Drop
-1: Dropping
-1: Droppings
-1: Drossy
-1: Drugs
-1: Drum
-1: Drunk
-1: Drunkards
-1: Ducat
-1: Due
-1: Dug
-1: Duke’s
-1: Duller
-1: Dulls
-1: Dungeons
-1: Dupped
-1: Duties
-1: Dwelling
-1: Dye
-1: Dying
-1: Earnest
-1: Earthly
-1: Easier
-1: Easily
-1: Easing
-1: East
-1: Eastward
-1: Eaten
-1: Eclipse
-1: Edified
-1: Eggshell
-1: Eight
-1: Eisel
-1: Elder
-1: Eldest
-1: Element
-1: Eleven
-1: Eloquent
-1: Embarked
-1: Emperor
-1: Emphasis
-1: Employ
-1: Empty
-1: Emulate
-1: Enactures
-1: Encompassment
-1: Encorpsed
-1: Encountered
-1: Encumbered
-1: Endeavor
-1: Ended
-1: Ending
-1: Endued
-1: Endure
-1: Engaged
-1: Enginer
-1: England’s
-1: Enlarged
-1: Enmity
-1: Enseamèd
-1: Enterprises
-1: Entrance
-1: Entreated
-1: Entreatments
-1: Envenom
-1: Envious
-1: Enviously
-1: Equivocation
-1: Err
-1: Erring
-1: Errors
-1: Eruption
-1: Escoted
-1: Especially
-1: Espials
-1: Essentially
-1: Esteemed
-1: Estimation
-1: Et
-1: Etc.
-1: Eterne
-1: Eternity
-1: Even-christian
-1: Events
-1: Ever-preserved
-1: Everlasting
-1: Evermore
-1: Everyone
-1: Evidence
-1: Exact
-1: Exactly
-1: Examples
-1: Exceed
-1: Exceedingly
-1: Exception
-1: Excitements
-1: Exclaim
-1: Excrements
-1: Excuse
-1: Exercises
-1: Exhort
-1: Expectancy
-1: Expend
-1: Expense
-1: Exploit
-1: Exposing
-1: Expostulate
-1: Expressed
-1: Extant
-1: Extent
-1: Exterior
-1: Extinct
-1: Extolment
-1: Extorted
-1: Extravagant
-1: Eyases
-1: Eyelids
-1: E’er
-1: Faction
-1: Faded
-1: Fail
-1: Failed
-1: Fairly
-1: Fairy
-1: Falconers
-1: Falsehood
-1: Falsely
-1: Familiar
-1: Famous
-1: Fanged
-1: Fanned
-1: Fantastic
-1: Fardels
-1: Fathoms
-1: Fatness
-1: Fatted
-1: Favorite
-1: Fawning
-1: Fay
-1: Fear-surprisèd
-1: Fearing
-1: Feather
-1: Feathers
-1: Feats
-1: Feature
-1: Feeds
-1: Feel
-1: Feelingly
-1: Feels
-1: Feet
-1: Felicity
-1: Fellies
-1: Fellow’s
-1: Female
-1: Fencing
-1: Fennel
-1: Fertile
-1: Fetters
-1: Fiction
-1: Field
-1: Fiends
-1: Fifty
-1: Filial
-1: Fill
-1: Film
-1: Find’st
-1: Finger
-1: Fingered
-1: Fires
-1: Firm
-1: Firmament
-1: Fitness
-1: Fitted
-1: Fitting
-1: Flagon
-1: Flash
-1: Flashes
-1: Flats
-1: Flatter
-1: Flattered
-1: Flattering
-1: Flaw
-1: Flaxen
-1: Flies
-1: Flights
-1: Flints
-1: Flood
-1: Flourishes
-1: Flowers
-1: Flush
-1: Flushing
-1: Foh
-1: Folded
-1: Folk
-1: Folly
-1: Fond
-1: Foolery
-1: Forbear
-1: Forcing
-1: Fordo
-1: Fordoes
-1: Foreign
-1: Foreknowing
-1: Foresaid
-1: Forest
-1: Forestall
-1: Forestallèd
-1: Forever
-1: Forfeit
-1: Forged
-1: Forgeries
-1: Forgery
-1: Forgetting
-1: Forgiveness
-1: Forgone
-1: Forgotten
-1: Forgèd
-1: Formal
-1: Forthwith
-1: Fortified
-1: Forts
-1: Fought
-1: Fouled
-1: Fox
-1: Frailty
-1: Francisco
-1: Free-footed
-1: Freeze
-1: Frenchman
-1: Fret
-1: Fretted
-1: Friending
-1: Friendship
-1: Frighted
-1: Frock
-1: Front
-1: Frontier
-1: Frost
-1: Frowned
-1: Frowningly
-1: Fruitful
-1: Fruits
-1: Fulfilled
-1: Function
-1: Functions
-1: Furnish
-1: Fust
-1: Gagèd
-1: Gaingiving
-1: Gallant
-1: Galled
-1: Gallows-maker
-1: Gallèd
-1: Gambol
-1: Gambols
-1: Game
-1: Gape
-1: Garb
-1: Garbage
-1: Gard’ners
-1: Garland
-1: Garlands
-1: Garments
-1: Garrisoned
-1: Gates
-1: Gaudy
-1: Gem
-1: Gender
-1: Gentlewoman
-1: Gently
-1: Germane
-1: Gestures
-1: Gets
-1: Ghost’s
-1: Giant-like
-1: Gib
-1: Gibber
-1: Gibes
-1: Gilded
-1: Girdle
-1: Girl
-1: Gis
-1: Givers
-1: Giving-out
-1: Glares
-1: Glassy
-1: Glean
-1: Gleaned
-1: Glimpses
-1: Globe
-1: Glow
-1: Glowworm
-1: Goblin
-1: Goblins
-1: God-a-mercy
-1: Godlike
-1: Gold
-1: Gonzago’s
-1: Good-bye
-1: Goodman
-1: Goodwill
-1: Goose
-1: Gore
-1: Gorge
-1: Govern
-1: Grainèd
-1: Grand
-1: Grandsire
-1: Grant
-1: Grass
-1: Grass-green
-1: Grating
-1: Gratis
-1: Grave-makers
-1: Grave-making
-1: Graveness
-1: Grave’s
-1: Gray
-1: Greatly
-1: Greeks
-1: Greenly
-1: Greet
-1: Greeted
-1: Greeting
-1: Greetings
-1: Grew
-1: Griefs
-1: Grieved
-1: Grieves
-1: Grinding
-1: Grinning
-1: Grizzled
-1: Groan
-1: Groaning
-1: Groans
-1: Groped
-1: Grosser
-1: Grossly
-1: Groundlings
-1: Grounds
-1: Growing
-1: Grunt
-1: Guarded
-1: Guards
-1: Guiltless
-1: Gules
-1: Gulf
-1: Gum
-1: Gyves
-1: Habits
-1: Hail
-1: Halfpenny
-1: Hallowed
-1: Halt
-1: Hammers
-1: Hams
-1: Handsaw
-1: Handsome
-1: Hap
-1: Happen
-1: Happily
-1: Happiness
-1: Haps
-1: Harbingers
-1: Hardy
-1: Hark
-1: Harlot
-1: Harlot’s
-1: Harmony
-1: Harping
-1: Harrow
-1: Harrows
-1: Harshly
-1: Hart
-1: Hasten
-1: Hasty
-1: Hatch
-1: Hatchment
-1: Hate
-1: Haunt
-1: Havoc
-1: Hawk
-1: Hazard
-1: Ha’
-1: Headshake
-1: Healthful
-1: Hearer
-1: Hearsèd
-1: Heartache
-1: Heart’s
-1: Heated
-1: Heathen
-1: Heaven’s
-1: Heaves
-1: Heavily
-1: Heavy-headed
-1: Hebona
-1: Hecate’s
-1: Hectic
-1: Hedge
-1: Heedful
-1: Height
-1: Heir
-1: Hellish
-1: Helpful
-1: Hems
-1: Hent
-1: Herald
-1: Herb
-1: Hereafter
-1: Herod
-1: Heroes
-1: Heyday
-1: He’ll
-1: Hic
-1: Hies
-1: Higher
-1: Highest
-1: Highly
-1: Highness
-1: Hillo
-1: Hilts
-1: Hinges
-1: Hire
-1: Historical-pastoral
-1: Hoar
-1: Hoist
-1: Holding
-1: Hold’st
-1: Hole
-1: Holla
-1: Hollow
-1: Homage
-1: Honey
-1: Honeying
-1: Honors
-1: Honor’s
-1: Hoodman-blind
-1: Hoops
-1: Hoped
-1: Hopes
-1: Horrors
-1: Horseback
-1: Host
-1: Hourly
-1: Hour’s
-1: Houses
-1: House’s
-1: Hover
-1: Howe’er
-1: Howling
-1: Howsomever
-1: Hue
-1: Huge
-1: Hugger-mugger
-1: Humanity
-1: Humble
-1: Humorous
-1: Hung
-1: Hunts
-1: Hurts
-1: Husbandry
-1: Husbands
-1: Hush
-1: Hymen
-1: Hyperion
-1: Hyperion’s
-1: Hypocrite
-1: Hypocrites
-1: Hyrcanian
-1: Idol
-1: Ilium
-1: Ill-breeding
-1: Illo
-1: Ills
-1: Illume
-1: Illusion
-1: Imaginations
-1: Imagine
-1: Imitated
-1: Immediately
-1: Immortal
-1: Impartment
-1: Impasted
-1: Impatient
-1: Imperfections
-1: Imperial
-1: Imperious
-1: Impious
-1: Impiteous
-1: Implements
-1: Implorators
-1: Important
-1: Importunate
-1: Importuned
-1: Importunity
-1: Impostume
-1: Impotence
-1: Impotent
-1: Impress
-1: Impression
-1: Imputation
-1: Incapable
-1: Incensèd
-1: Incest
-1: Inch
-1: Inclined
-1: Inclining
-1: Incontinency
-1: Incorporal
-1: Incorrect
-1: Increase
-1: Indentures
-1: Index
-1: Indict
-1: Indifferently
-1: Indirections
-1: Indiscretion
-1: Individable
-1: Inexplicable
-1: Infallibly
-1: Infants
-1: Infect
-1: Infected
-1: Infects
-1: Influence
-1: Infusion
-1: Ingenious
-1: Inheritance
-1: Inheritor
-1: Inhibition
-1: Inky
-1: Inmost
-1: Innocent
-1: Innovation
-1: Inoculate
-1: Insert
-1: Insinuation
-1: Insolence
-1: Instance
-1: Instances
-1: Instantly
-1: Instructs
-1: Instrumental
-1: Intend
-1: Intents
-1: Inter
-1: Interim’s
-1: Interpret
-1: Interred
-1: Intruding
-1: Inventorially
-1: Inventors’
-1: Investments
-1: Invests
-1: Invisible
-1: Invite
-1: Invulnerable
-1: Israel
-1: Italian
-1: It’s
-1: Jade
-1: Jangled
-1: Jaw
-1: Jawbone
-1: Jaws
-1: Jelly
-1: Jester
-1: Jig-maker
-1: Jocund
-1: John-a-dreams
-1: Jointly
-1: Jointress
-1: Journeymen
-1: Journeys
-1: Jowls
-1: Joyfully
-1: Judges
-1: Judicious
-1: Juggled
-1: Juice
-1: Justice
-1: Kettle
-1: Kettledrum
-1: Key
-1: Kibe
-1: Kick
-1: Kindless
-1: Kingly
-1: Kissed
-1: Kissing
-1: Kites
-1: Knaves
-1: Knee
-1: Knew’st
-1: Knife
-1: Knight
-1: Knock
-1: Knocked
-1: Knocking
-1: Knotted
-1: Knowledge
-1: Know’st
-1: Labored
-1: Laborer
-1: Laborsome
-1: Lacked
-1: Lacks
-1: Lads
-1: Ladyship
-1: Lady’s
-1: Lament
-1: Lamord
-1: Lank
-1: Lapsed
-1: Lapwing
-1: Large
-1: Larger
-1: Lash
-1: Lasts
-1: Lauds
-1: Lawful
-1: Lawyer
-1: Law’s
-1: Lazar-like
-1: Leads
-1: Lean
-1: Leans
-1: Leaping
-1: Learn
-1: Learning
-1: Lecherous
-1: Lecture
-1: Led
-1: Legs
-1: Lender
-1: Lends
-1: Lenten
-1: Leprous
-1: Lesser
-1: Lesson
-1: Lethe
-1: Letter
-1: Levied
-1: Lewdness
-1: Liar
-1: Liberal-conceited
-1: Libertine
-1: License
-1: Lick
-1: Lids
-1: Lief
-1: Liegemen
-1: Lien
-1: Life-rend’ring
-1: Life’s
-1: Lifted
-1: Lightest
-1: Lightness
-1: Likelihood
-1: Likely
-1: Likeness
-1: Likewise
-1: Limèd
-1: Linked
-1: Lion’s
-1: Liquid
-1: Lisp
-1: Lists
-1: Littlest
-1: Livest
-1: Load
-1: Loan
-1: Loathsome
-1: Locks
-1: Lodge
-1: Lodged
-1: Lofty
-1: Loggets
-1: Loins
-1: Loneliness
-1: Longèd
-1: Looking
-1: Loosèd
-1: Lord’s
-1: Loser
-1: Loses
-1: Losing
-1: Loss
-1: Lot
-1: Loudly
-1: Lover
-1: Lovèd
-1: Low
-1: Lowest
-1: Lucianus
-1: Lug
-1: Luxury
-1: Lying
-1: Machine
-1: Magic
-1: Maids
-1: Maids’
-1: Maid’s
-1: Maimèd
-1: Mainly
-1: Maintains
-1: Malefactions
-1: Mallecho
-1: Mandate
-1: Manner
-1: Mantle
-1: Marble
-1: Margent
-1: Market
-1: Marrow
-1: Marshal
-1: Mars’
-1: Mars’s
-1: Mart
-1: Martial
-1: Marvel
-1: Massy
-1: Masterly
-1: Master’s
-1: Match
-1: Matched
-1: Matin
-1: Matron’s
-1: Mayst
-1: Mazard
-1: Meaning
-1: Meats
-1: Meditation
-1: Med’cine
-1: Meed
-1: Mellow
-1: Melodious
-1: Mend
-1: Mercury
-1: Mermaid-like
-1: Merriment
-1: Mess
-1: Message
-1: Messenger
-1: Messengers
-1: Met
-1: Metal
-1: Metals
-1: Mettle
-1: Mew
-1: Miching
-1: Midnight
-1: Mightier
-1: Mightiest
-1: Milch
-1: Mildewed
-1: Milk
-1: Milky
-1: Million
-1: Millions
-1: Mincing
-1: Mineral
-1: Mines
-1: Mining
-1: Minister
-1: Ministers
-1: Minist’ring
-1: Minute
-1: Minutes
-1: Miraculous
-1: Mis-take
-1: Mischief
-1: Miss
-1: Mistook
-1: Mixture
-1: Moan
-1: Mockery
-1: Model
-1: Moderate
-1: Modesties
-1: Moiety
-1: Moist
-1: Mold
-1: Molt
-1: Monarchs
-1: Monday
-1: Monster
-1: Monsters
-1: Monstrous
-1: Monument
-1: Mood
-1: Moods
-1: Moons
-1: Moor
-1: Mope
-1: Moreover
-1: Morrow
-1: Mortised
-1: Mote
-1: Mothers
-1: Mountebank
-1: Mourn
-1: Mourned
-1: Mourning
-1: Mousetrap
-1: Mouthed
-1: Moved
-1: Moves
-1: Moving
-1: Muddied
-1: Muddy
-1: Muddy-mettled
-1: Multitude
-1: Murdered
-1: Murd’ring
-1: Murd’rous
-1: Musicked
-1: Musty
-1: Mute
-1: Mutes
-1: Mutine
-1: Mutines
-1: Mystery
-1: Name’s
-1: Napkin
-1: Narrow
-1: Nasty
-1: Nations
-1: Natures
-1: Nave
-1: Necessaries
-1: Necessity
-1: Neglect
-1: Negligence
-1: Neighbor
-1: Neighbored
-1: Nemean
-1: Nero
-1: Nerve
-1: Nettles
-1: Neutral
-1: New-hatched
-1: New-lighted
-1: Newborn
-1: Newly
-1: Nickname
-1: Niggard
-1: Nighted
-1: Nightly
-1: Night’s
-1: Nill
-1: Niobe
-1: Nipping
-1: Nobility
-1: Nobler
-1: Noblest
-1: Nods
-1: Nomination
-1: Non
-1: Nonce
-1: Normandy
-1: North-north-west
-1: Northerly
-1: Noted
-1: Notes
-1: Nothing’s
-1: Nowadays
-1: Nowhere
-1: Noyance
-1: Nutshell
-1: Nymph
-1: Oaths
-1: Obeys
-1: Object
-1: Objects
-1: Oblivion
-1: Obscure
-1: Obsequies
-1: Obsequious
-1: Observant
-1: Observation
-1: Observed
-1: Observers
-1: Obstinate
-1: Occasions
-1: Occulted
-1: Occurrents
-1: Ocean
-1: Offal
-1: Offend
-1: Offendendo
-1: Offender’s
-1: Offends
-1: Offenses
-1: Offense’s
-1: Offered
-1: Office
-1: Olympus
-1: Omen
-1: Ominous
-1: Ope
-1: Oped
-1: Opened
-1: Operant
-1: Opinion
-1: Opposed
-1: Opposing
-1: Opposite
-1: Opposites
-1: Opposèd
-1: Oppressed
-1: Oppression
-1: Oppressor’s
-1: Orb
-1: Orbèd
-1: Orderly
-1: Ordinant
-1: Ordnance
-1: Ore
-1: Orisons
-1: Ossa
-1: Ostentation
-1: Out-herods
-1: Outbreak
-1: Outface
-1: Outlive
-1: Outlives
-1: Outrageous
-1: Outstretched
-1: Outward
-1: Outwards
-1: Overcame
-1: Overcome
-1: Overdone
-1: Overhappy
-1: Overlooked
-1: Overpeering
-1: Overthrown
-1: Owl
-1: Owner
-1: O’erbears
-1: O’ercrows
-1: O’erdoing
-1: O’erdone
-1: O’ergrowth
-1: O’erhanging
-1: O’erhasty
-1: O’erhear
-1: O’erleavens
-1: O’ermaster
-1: O’erraught
-1: O’erreaches
-1: O’errule
-1: O’ersizèd
-1: O’erstep
-1: O’ersways
-1: O’erteemèd
-1: O’erthrown
-1: O’ertook
-1: O’ertop
-1: O’erweigh
-1: O’erwhelm
-1: Packet
-1: Packing
-1: Paddling
-1: Paddock
-1: Pagan
-1: Pah
-1: Paid
-1: Pain
-1: Paint
-1: Painting
-1: Paintings
-1: Pajock
-1: Pales
-1: Pall
-1: Palmy
-1: Palpable
-1: Panders
-1: Pangs
-1: Pansies
-1: Paradox
-1: Paragon
-1: Parching
-1: Parchment
-1: Paris
-1: Partial
-1: Partisan
-1: Party
-1: Passages
-1: Passionate
-1: Passions
-1: Passion’s
-1: Pastoral
-1: Pastoral-comical
-1: Pastors
-1: Pat
-1: Patches
-1: Path
-1: Patiently
-1: Patrick
-1: Pays
-1: Peace-parted
-1: Peak
-1: Pearl
-1: Pebbles
-1: Peculiar
-1: Peevish
-1: Pelican
-1: Pelion
-1: Pendant
-1: Penetrable
-1: People
-1: Perceive
-1: Perceived
-1: Perdition
-1: Perdy
-1: Perfect
-1: Perfections
-1: Perform
-1: Performance
-1: Perilous
-1: Periwig-pated
-1: Permanent
-1: Pernicious
-1: Perpend
-1: Persever
-1: Personal
-1: Persons
-1: Persuade
-1: Perturbèd
-1: Perusal
-1: Peruse
-1: Pester
-1: Pestilence
-1: Petard
-1: Petition
-1: Phoebus’
-1: Physic
-1: Pickax
-1: Pickers
-1: Pictures
-1: Pigeon-livered
-1: Pile
-1: Pinch
-1: Pin’s
-1: Pioner
-1: Pirate
-1: Pitch
-1: Pitied
-1: Pitiful
-1: Places
-1: Plain
-1: Planets
-1: Plast’ring
-1: Plausive
-1: Plautus
-1: Plays
-1: Play’s
-1: Pleasant
-1: Pleasing
-1: Pledge
-1: Plentiful
-1: Pleurisy
-1: Plot
-1: Plum-tree
-1: Plunge
-1: Ply
-1: Pocket
-1: Pocky
-1: Poem
-1: Poet
-1: Points
-1: Poisoning
-1: Poisons
-1: Polacks
-1: Policy
-1: Politic
-1: Politician
-1: Poll
-1: Polonius’
-1: Pomp
-1: Ponderous
-1: Poniards
-1: Popped
-1: Porches
-1: Porpentine
-1: Portal
-1: Portentous
-1: Portraiture
-1: Positively
-1: Possess
-1: Possessed
-1: Possession
-1: Posset
-1: Post
-1: Posthaste
-1: Postscript
-1: Posy
-1: Potency
-1: Potently
-1: Potion
-1: Pound
-1: Pour
-1: Poured
-1: Powerfully
-1: Pox
-1: Practices
-1: Praises
-1: Pranks
-1: Prate
-1: Prating
-1: Pray’st
-1: Preaching
-1: Preceding
-1: Precepts
-1: Precisely
-1: Precurse
-1: Prenominate
-1: Preparation
-1: Preparations
-1: Prepared
-1: Prescripts
-1: Presentment
-1: Pressure
-1: Pressures
-1: Prettiness
-1: Prey
-1: Priam’s
-1: Prick
-1: Pricked
-1: Pride
-1: Priest
-1: Primal
-1: Primrose
-1: Primy
-1: Princes
-1: Private
-1: Privates
-1: Privy
-1: Prize
-1: Probation
-1: Proceeded
-1: Proceeding
-1: Proclaimed
-1: Profane
-1: Profanely
-1: Profession
-1: Profoundest
-1: Progress
-1: Project
-1: Prolongs
-1: Promise
-1: Promise-crammed
-1: Promontory
-1: Prompted
-1: Pronounce
-1: Pronouncing
-1: Prophetic
-1: Proportions
-1: Proposer
-1: Props
-1: Prosperously
-1: Protest
-1: Proverb
-1: Provide
-1: Provided
-1: Provincial
-1: Provoke
-1: Public
-1: Puh
-1: Pulled
-1: Pulse
-1: Punish
-1: Punished
-1: Puppets
-1: Purchases
-1: Purer
-1: Purgation
-1: Purged
-1: Purples
-1: Purport
-1: Pursued
-1: Pursues
-1: Pursy
-1: Push
-1: Puzzles
-1: Quaintly
-1: Quake
-1: Qualifies
-1: Quarreling
-1: Quarry
-1: Quartered
-1: Queen-mother
-1: Questionable
-1: Quickly
-1: Quickness
-1: Quicksilver
-1: Quiddities
-1: Quietly
-1: Quietus
-1: Quillities
-1: Quintessence
-1: Quoth
-1: Rabble
-1: Rack
-1: Radiant
-1: Rages
-1: Rags
-1: Rain
-1: Rained
-1: Raised
-1: Range
-1: Rankly
-1: Rant
-1: Rare
-1: Rareness
-1: Rascal
-1: Rashly
-1: Rashness
-1: Ratified
-1: Ratifiers
-1: Ravel
-1: Raven
-1: Raves
-1: Raw
-1: Rawer
-1: Razed
-1: Reach
-1: Reaches
-1: Readiness
-1: Reading
-1: Really
-1: Realm
-1: Rear
-1: Rebellion
-1: Rebels
-1: Rebuke
-1: Receives
-1: Reckless
-1: Reckon
-1: Recks
-1: Reck’ning
-1: Recognizances
-1: Reconcilement
-1: Records
-1: Recount
-1: Recovery
-1: Rede
-1: Redeliver
-1: Reechy
-1: Reels
-1: Reform
-1: Reformed
-1: Refrain
-1: Regards
-1: Reigns
-1: Relative
-1: Relief
-1: Religion
-1: Religious
-1: Remainder
-1: Remedy
-1: Remembered
-1: Remembrances
-1: Remiss
-1: Remorse
-1: Remorseless
-1: Removèd
-1: Rend
-1: Render
-1: Rendezvous
-1: Repast
-1: Repel
-1: Repelled
-1: Repentance
-1: Replication
-1: Replies
-1: Repose
-1: Repugnant
-1: Reputation
-1: Request
-1: Requiem
-1: Resemble
-1: Resembles
-1: Reserve
-1: Reserved
-1: Residence
-1: Resolutes
-1: Resolution
-1: Resolve
-1: Resort
-1: Respeaking
-1: Respects
-1: Responsive
-1: Restore
-1: Restrained
-1: Retain
-1: Retirement
-1: Retrograde
-1: Returneth
-1: Returns
-1: Reveal
-1: Revel
-1: Revels
-1: Revengeful
-1: Revenue
-1: Reverend
-1: Reverted
-1: Revisits
-1: Revolution
-1: Reword
-1: Rhapsody
-1: Rheum
-1: Rhymed
-1: Ribbon
-1: Rightly
-1: Riotous
-1: Ripe
-1: Rites
-1: Rivals
-1: River
-1: Rivet
-1: Roars
-1: Roasted
-1: Robe
-1: Robin
-1: Robustious
-1: Rock
-1: Rood
-1: Roof
-1: Roots
-1: Roscius
-1: Rosemary
-1: Roses
-1: Rot
-1: Rough-hew
-1: Row
-1: Rude
-1: Ruin
-1: Rule
-1: Rummage
-1: Running
-1: Russet
-1: Rusty
-1: Sacred
-1: Sadly
-1: Sadness
-1: Sailors
-1: Salary
-1: Sale
-1: Sallets
-1: Sanctified
-1: Sanctuarize
-1: Sandal
-1: Sanity
-1: Sans
-1: Sate
-1: Satirical
-1: Satisfaction
-1: Satisfied
-1: Satyr
-1: Savageness
-1: Savior’s
-1: Savory
-1: Saws
-1: Saying
-1: Scanned
-1: Scant
-1: Scanter
-1: Scarfed
-1: Scenes
-1: Scent
-1: Scholar
-1: Scholars
-1: Scholar’s
-1: School
-1: Schoolfellows
-1: Sconce
-1: Scorn
-1: Scorns
-1: Scratched
-1: Screened
-1: Scruple
-1: Se
-1: Sea-fight
-1: Sea-gown
-1: Seafaring
-1: Seals
-1: Sear
-1: Search
-1: Seas
-1: Seasoned
-1: Seasons
-1: Seated
-1: Secrets
-1: Seduce
-1: Seed
-1: Seeming-virtuous
-1: Sees
-1: Seest
-1: Seized
-1: Select
-1: Self
-1: Self-slaughter
-1: Semblable
-1: Seneca
-1: Sensible
-1: Sensibly
-1: Sepulcher
-1: Sequel
-1: Sequent
-1: Sergeant
-1: Serious
-1: Servant
-1: Settled
-1: Seven
-1: Several
-1: Sewing
-1: Sexton
-1: Sexton’s
-1: Shadows
-1: Shadow’s
-1: Shaking
-1: Shameful
-1: Shards
-1: Share
-1: Sharked
-1: Sharp
-1: Shatter
-1: Sheen
-1: Sheep
-1: Sheepskins
-1: Sheet
-1: Sheeted
-1: Sheets
-1: Shelf
-1: Shell
-1: Shent
-1: Shepherds
-1: She’s
-1: Shift
-1: Shine
-1: Shipped
-1: Shipwrights
-1: Shirt
-1: Shocks
-1: Shoe
-1: Shook
-1: Shoon
-1: Shoot
-1: Shortens
-1: Shove
-1: Shovel
-1: Showers
-1: Showing
-1: Shreds
-1: Shrewdly
-1: Shrill-sounding
-1: Shriving
-1: Shroud
-1: Shrouding
-1: Shrunk
-1: Shuffled
-1: Shut
-1: Sicklied
-1: Siege
-1: Sift
-1: Sighs
-1: Signet
-1: Silvered
-1: Simple
-1: Simples
-1: Singeing
-1: Singeth
-1: Sings
-1: Sinners
-1: Sins
-1: Sin’s
-1: Sipping
-1: Sirrah
-1: Sister’s
-1: Sitting
-1: Sixteen
-1: Sized
-1: Skin
-1: Skins
-1: Skirts
-1: Skyish
-1: Slander
-1: Slanders
-1: Slaughter
-1: Slaughters
-1: Slave’s
-1: Slay
-1: Sledded
-1: Slender
-1: Slight
-1: Slings
-1: Slips
-1: Sliver
-1: Small
-1: Smart
-1: Smeared
-1: Smelling
-1: Smells
-1: Smelt
-1: Smiles
-1: Smoothness
-1: Smote
-1: Snatches
-1: Snuff
-1: Soaks
-1: Sober
-1: Society
-1: Softly
-1: Soiled
-1: Sold
-1: Sole
-1: Soles
-1: Solicited
-1: Solicitings
-1: Solidity
-1: Something-settled
-1: Somever
-1: Some’er
-1: Song
-1: Sons
-1: Son’s
-1: Soon
-1: Sorrows
-1: Sorts
-1: Soul’s
-1: Sounded
-1: Southerly
-1: Sovereignty
-1: Space
-1: Spacious
-1: Spake
-1: Spark
-1: Sparrow
-1: Spectators
-1: Speeches
-1: Speechless
-1: Speedier
-1: Speedy
-1: Spend
-1: Spendthrift
-1: Spent
-1: Sphere
-1: Spheres
-1: Spies
-1: Spills
-1: Spilt
-1: Spite
-1: Splenitive
-1: Split
-1: Spots
-1: Springe
-1: Springes
-1: Springs
-1: Sprinkle
-1: Sprung
-1: Spur
-1: Squeak
-1: Squeezing
-1: Staff
-1: Stages
-1: Stained
-1: Stairs
-1: Stake
-1: Stale
-1: Stalk
-1: Stalks
-1: Stallion
-1: Standing
-1: Started
-1: Stately
-1: Statists
-1: Stature
-1: Statutes
-1: Stays
-1: Steal
-1: Stealers
-1: Stealing
-1: Steals
-1: Steep
-1: Steeped
-1: Steps
-1: Sterile
-1: Sterling
-1: Stern
-1: Steward
-1: Stewed
-1: Sticks
-1: Stiffly
-1: Stirred
-1: Stirring
-1: Stithy
-1: Stock
-1: Stockings
-1: Stomach
-1: Stones
-1: Stooping
-1: Stoops
-1: Stopping
-1: Storm
-1: Stoup
-1: Stoups
-1: Stowed
-1: Stranger
-1: Straws
-1: Stream
-1: Strengthen
-1: Strew
-1: Strewed
-1: Strewments
-1: Strife
-1: Strikes
-1: Striking
-1: Strings
-1: Strokes
-1: Strongest
-1: Strucken
-1: Struggling
-1: Strutted
-1: Stubborn
-1: Stubbornness
-1: Stuck
-1: Student
-1: Study
-1: Stung
-1: Sty
-1: Subscribed
-1: Successive
-1: Such-a-one
-1: Such-a-one’s
-1: Suchlike
-1: Suddenly
-1: Suffered
-1: Suffering
-1: Sugar
-1: Suiting
-1: Sulf’rous
-1: Sullied
-1: Sullies
-1: Summons
-1: Sunday
-1: Sundays
-1: Superfluous
-1: Supervise
-1: Suppliance
-1: Supply
-1: Supposal
-1: Surely
-1: Surmise
-1: Surrender
-1: Survivor
-1: Suspiration
-1: Sustain
-1: Swaddling
-1: Swagg’ring
-1: Swallowed
-1: Swearing
-1: Sweaty
-1: Sweets
-1: Swinish
-1: Switzers
-1: Swoons
-1: Swoopstake
-1: Swords
-1: Swore
-1: Synod
-1: Table-book
-1: Taint
-1: Taints
-1: Taken
-1: Tanned
-1: Tanner
-1: Tar
-1: Target
-1: Task
-1: Taste
-1: Tatters
-1: Tax
-1: Taxed
-1: Tediousness
-1: Tells
-1: Tellus’
-1: Temperance
-1: Temperately
-1: Tempered
-1: Tempest
-1: Temple
-1: Tenable
-1: Tenantless
-1: Tenants
-1: Tennis
-1: Tent
-1: Tenures
-1: Termagant
-1: Test
-1: Tether
-1: Tetter
-1: Thaw
-1: Theater
-1: Theft
-1: Thereabout
-1: Thereby
-1: Therein
-1: Thereof
-1: Thereon
-1: Thereto
-1: Thereunto
-1: Therewith
-1: Thews
-1: They’ll
-1: They’re
-1: Thicker
-1: Thieves
-1: Thin
-1: Thing’s
-1: Thirties
-1: Thorns
-1: Thorny
-1: Thought-sick
-1: Thralled
-1: Threaten
-1: Threats
-1: Threat’ning
-1: Three-and-twenty
-1: Three-score
-1: Throughly
-1: Throwing
-1: Thumb
-1: Thunders
-1: Tickle
-1: Timbered
-1: Tinct
-1: Tithe
-1: To-do
-1: Toil
-1: Toils
-1: Tokens
-1: Tomb
-1: Too-much
-1: Topped
-1: Tormenting
-1: Torrent
-1: Total
-1: Touched
-1: Touches
-1: Town-crier
-1: Tow’ring
-1: Toys
-1: Traduced
-1: Tragedians
-1: Tragical-comical-historical-pastoral
-1: Tragical-historical
-1: Trains
-1: Traitorous
-1: Transform
-1: Transformation
-1: Transports
-1: Trappings
-1: Traveler
-1: Tread
-1: Treads
-1: Tree
-1: Trespass
-1: Tributary
-1: Tricked
-1: Tried
-1: Trifle
-1: Trifling
-1: Trip
-1: Trippingly
-1: Triumph
-1: Trivial
-1: Trophies
-1: Trophy
-1: Tropically
-1: True-love
-1: Truepenny
-1: Truncheon’s
-1: Truster
-1: Tumbled
-1: Tune
-1: Turbulent
-1: Turf
-1: Turk
-1: Turneth
-1: Turns
-1: Turn’st
-1: Tutor
-1: Tweaks
-1: Twentieth
-1: Twofold
-1: Tyrannically
-1: Tyrannous
-1: Tyrant
-1: Ubique
-1: Ugly
-1: Ulcer
-1: Ulcerous
-1: Umbrage
-1: Unaneled
-1: Unbraced
-1: Uncharge
-1: Uncle-father
-1: Uncle’s
-1: Uncurrent
-1: Undergo
-1: Undertakings
-1: Undiscovered
-1: Undo
-1: Uneffectual
-1: Unequal
-1: Unfellowed
-1: Unfledged
-1: Unforced
-1: Unfortified
-1: Ungallèd
-1: Ungartered
-1: Ungored
-1: Ungracious
-1: Unhand
-1: Unhappily
-1: Unholy
-1: Unhouseled
-1: Unimprovèd
-1: Unite
-1: University
-1: Unkennel
-1: Unkind
-1: Unknowing
-1: Unlimited
-1: Unmanly
-1: Unmannerly
-1: Unmask
-1: Unmastered
-1: Unmatched
-1: Unmixed
-1: Unnervèd
-1: Unpack
-1: Unpeg
-1: Unpolluted
-1: Unpregnant
-1: Unprevailing
-1: Unprofitable
-1: Unproportioned
-1: Unreclaimèd
-1: Unrighteous
-1: Unripe
-1: Unsanctified
-1: Unsatisfied
-1: Unschooled
-1: Unshaken
-1: Unshapèd
-1: Unsifted
-1: Unsinewed
-1: Unskillful
-1: Unsmirchèd
-1: Unsure
-1: Until
-1: Untimely
-1: Unused
-1: Unvalued
-1: Unwatched
-1: Unweeded
-1: Unwholesome
-1: Unworthiest
-1: Unwrung
-1: Unyoke
-1: Uphoarded
-1: Upshot
-1: Upspring
-1: Usual
-1: Usurp
-1: Usurp’st
-1: Utter
-1: Uttered
-1: Utt’rance
-1: Vacancy
-1: Vailèd
-1: Vain
-1: Valanced
-1: Valentine
-1: Valentine’s
-1: Validity
-1: Valor
-1: Vanished
-1: Vanquisher
-1: Vapors
-1: Varnish
-1: Venomed
-1: Ventages
-1: Verity
-1: Verse
-1: Vial
-1: Vicious
-1: Videlicet
-1: Vienna
-1: Vigor
-1: Villainies
-1: Villainous
-1: Villainy
-1: Violet
-1: Virgin
-1: Vision
-1: Volley
-1: Volume
-1: Vouch
-1: Vulcan’s
-1: Wagered
-1: Waist
-1: Waits
-1: Wake
-1: Walked
-1: Wall
-1: Wand’ring
-1: Wanned
-1: Wantonness
-1: Wards
-1: Warms
-1: Warning
-1: Warranty
-1: Wart
-1: Wassail
-1: Watchman
-1: Waterfly
-1: Waving
-1: Weaker
-1: Weakest
-1: Weal
-1: Wealth
-1: Weapons
-1: Wearing
-1: Wedding
-1: Weed
-1: Weedy
-1: Week
-1: Weeping
-1: Weeps
-1: Weighing
-1: Weight
-1: Well-took
-1: West
-1: Westward
-1: Wharf
-1: Whatsomever
-1: Wheaten
-1: Whence
-1: Whensoever
-1: Whereat
-1: Whet
-1: Whe’er
-1: Whiff
-1: Whine
-1: Whipped
-1: Whipping
-1: Whirling
-1: Whirlwind
-1: Whispers
-1: Whit
-1: Whither
-1: Whore
-1: Whored
-1: Who’s
-1: Wick
-1: Widow
-1: Wildness
-1: Willfully
-1: Willow
-1: Wills
-1: Wince
-1: Windlasses
-1: Window
-1: Windy
-1: Wine
-1: Wing
-1: Winking
-1: Winks
-1: Winner
-1: Winnowed
-1: Winter’s
-1: Wisdoms
-1: Wished
-1: Wishes
-1: Witch
-1: Witching
-1: Withdrew
-1: Withered
-1: Withers
-1: Wit’s
-1: Woman’s
-1: Womb
-1: Women’s
-1: Won
-1: Wonder-wounded
-1: Woo
-1: Wood
-1: Woodcock
-1: Woodcocks
-1: Wore
-1: Works
-1: Worlds
-1: Worms
-1: Wormwood
-1: Worm’s
-1: Worn
-1: Worser
-1: Worst
-1: Worthy
-1: Wot
-1: Wounded
-1: Woundless
-1: Wrack
-1: Wrap
-1: Wrath
-1: Wring
-1: Wringing
-1: Wrinkled
-1: Wrist
-1: Write
-1: Writers
-1: Written
-1: Wrung
-1: Yard
-1: Yaw
-1: Yawn
-1: Yeasty
-1: Yeoman’s
-1: Yesterday
-1: Yesternight
-1: Yielding
-1: Yon
-1: Yond
-1: Yorick
-1: Yorick’s
-1: Younger
-1: Yourselves
-1: Zone
-1: ’em
-1: ’fore
-1: ’gins
-1: ’lt
-1: ’pear
-1: ’quest
-1: ’rt
-1: ’scapes
-1: ’scrimers
-1: ’stonish
-1: ’tween
-1: ’twould
+instances: 1030, word: 'The', work: 'Ham'},
+instances: 900, word: 'And', work: 'Ham'},
+instances: 726, word: 'To', work: 'Ham'},
+instances: 661, word: 'Of', work: 'Ham'},
+instances: 556, word: 'You', work: 'Ham'},
+instances: 546, word: 'I', work: 'Ham'},
+instances: 520, word: 'My', work: 'Ham'},
+instances: 507, word: 'A', work: 'Ham'},
+instances: 429, word: 'In', work: 'Ham'},
+instances: 415, word: 'It', work: 'Ham'},
+instances: 390, word: 'That', work: 'Ham'},
+instances: 360, word: 'Is', work: 'Ham'},
+instances: 313, word: 'Not', work: 'Ham'},
+instances: 300, word: 'This', work: 'Ham'},
+instances: 295, word: 'His', work: 'Ham'},
+instances: 267, word: 'But', work: 'Ham'},
+instances: 257, word: 'With', work: 'Ham'},
+instances: 251, word: 'For', work: 'Ham'},
+instances: 242, word: 'Your', work: 'Ham'},
+instances: 234, word: 'Me', work: 'Ham'},
+instances: 229, word: 'As', work: 'Ham'},
+instances: 226, word: 'Be', work: 'Ham'},
+instances: 221, word: 'He', work: 'Ham'},
+instances: 219, word: 'Lord', work: 'Ham'},
+instances: 207, word: 'What', work: 'Ham'},
+instances: 194, word: 'So', work: 'Ham'},
+instances: 188, word: 'Him', work: 'Ham'},
+instances: 183, word: 'Have', work: 'Ham'},
+instances: 173, word: 'Will', work: 'Ham'},
+instances: 160, word: 'Do', work: 'Ham'},
+instances: 141, word: 'No', work: 'Ham'},
+instances: 139, word: 'We', work: 'Ham'},
+instances: 134, word: 'On', work: 'Ham'},
+instances: 128, word: 'Are', work: 'Ham'},
+instances: 120, word: 'Our', work: 'Ham'},
+instances: 119, word: 'By', work: 'Ham'},
+instances: 118, word: 'Shall', work: 'Ham'},
+instances: 116, word: 'If', work: 'Ham'},
+instances: 114, word: 'Or', work: 'Ham'},
+instances: 112, word: 'All', work: 'Ham'},
+instances: 109, word: 'O', work: 'Ham'},
+instances: 108, word: 'Thou', work: 'Ham'},
+instances: 107, word: 'Good', work: 'Ham'},
+instances: 106, word: 'Come', work: 'Ham'},
+instances: 99, word: 'Now', work: 'Ham'},
+instances: 96, word: 'Let', work: 'Ham'},
+instances: 96, word: 'More', work: 'Ham'},
+instances: 95, word: 'From', work: 'Ham'},
+instances: 95, word: 'They', work: 'Ham'},
+instances: 89, word: 'How', work: 'Ham'},
+instances: 87, word: 'Her', work: 'Ham'},
+instances: 87, word: 'Thy', work: 'Ham'},
+instances: 87, word: 'Was', work: 'Ham'},
+instances: 85, word: '\'t', work: 'Ham'},
+instances: 83, word: 'At', work: 'Ham'},
+instances: 81, word: 'Most', work: 'Ham'},
+instances: 81, word: 'Would', work: 'Ham'},
+instances: 79, word: 'Like', work: 'Ham'},
+instances: 77, word: 'Hamlet', work: 'Ham'},
+instances: 77, word: 'Sir', work: 'Ham'},
+instances: 77, word: 'There', work: 'Ham'},
+instances: 75, word: 'Know', work: 'Ham'},
+instances: 75, word: 'Them', work: 'Ham'},
+instances: 75, word: 'Well', work: 'Ham'},
+instances: 73, word: '\'tis', work: 'Ham'},
+instances: 71, word: 'May', work: 'Ham'},
+instances: 71, word: 'Th\'', work: 'Ham'},
+instances: 69, word: 'Go', work: 'Ham'},
+instances: 69, word: 'Us', work: 'Ham'},
+instances: 67, word: 'King', work: 'Ham'},
+instances: 67, word: 'Love', work: 'Ham'},
+instances: 66, word: 'Did', work: 'Ham'},
+instances: 65, word: 'Hath', work: 'Ham'},
+instances: 64, word: 'Speak', work: 'Ham'},
+instances: 64, word: 'Then', work: 'Ham'},
+instances: 64, word: 'Very', work: 'Ham'},
+instances: 63, word: 'Which', work: 'Ham'},
+instances: 63, word: 'Why', work: 'Ham'},
+instances: 61, word: 'An', work: 'Ham'},
+instances: 60, word: 'Must', work: 'Ham'},
+instances: 59, word: 'Give', work: 'Ham'},
+instances: 59, word: 'Thee', work: 'Ham'},
+instances: 56, word: 'Am', work: 'Ham'},
+instances: 56, word: 'Their', work: 'Ham'},
+instances: 56, word: 'When', work: 'Ham'},
+instances: 55, word: 'Here', work: 'Ham'},
+instances: 55, word: 'I\'ll', work: 'Ham'},
+instances: 55, word: 'Make', work: 'Ham'},
+instances: 55, word: 'Such', work: 'Ham'},
+instances: 54, word: 'Say', work: 'Ham'},
+instances: 54, word: 'Should', work: 'Ham'},
+instances: 54, word: 'Upon', work: 'Ham'},
+instances: 53, word: 'Out', work: 'Ham'},
+instances: 53, word: 'Where', work: 'Ham'},
+instances: 52, word: 'Father', work: 'Ham'},
+instances: 52, word: 'Man', work: 'Ham'},
+instances: 51, word: 'Some', work: 'Ham'},
+instances: 51, word: 'Too', work: 'Ham'},
+instances: 50, word: 'Much', work: 'Ham'},
+instances: 50, word: 'Than', work: 'Ham'},
+instances: 49, word: 'Think', work: 'Ham'},
+instances: 47, word: 'These', work: 'Ham'},
+instances: 46, word: 'One', work: 'Ham'},
+instances: 46, word: 'See', work: 'Ham'},
+instances: 46, word: 'Time', work: 'Ham'},
+instances: 45, word: 'She', work: 'Ham'},
+instances: 44, word: 'Heaven', work: 'Ham'},
+instances: 43, word: 'Had', work: 'Ham'},
+instances: 43, word: 'Tell', work: 'Ham'},
+instances: 43, word: 'Yet', work: 'Ham'},
+instances: 42, word: 'Thus', work: 'Ham'},
+instances: 41, word: 'Who', work: 'Ham'},
+instances: 39, word: 'Ay', work: 'Ham'},
+instances: 39, word: 'Own', work: 'Ham'},
+instances: 37, word: 'Mother', work: 'Ham'},
+instances: 37, word: 'Nor', work: 'Ham'},
+instances: 36, word: 'Death', work: 'Ham'},
+instances: 36, word: 'Look', work: 'Ham'},
+instances: 36, word: 'Night', work: 'Ham'},
+instances: 36, word: 'Take', work: 'Ham'},
+instances: 35, word: 'Can', work: 'Ham'},
+instances: 34, word: 'Play', work: 'Ham'},
+instances: 34, word: 'Soul', work: 'Ham'},
+instances: 34, word: 'Up', work: 'Ham'},
+instances: 33, word: 'Hear', work: 'Ham'},
+instances: 33, word: 'Laertes', work: 'Ham'},
+instances: 32, word: 'Again', work: 'Ham'},
+instances: 32, word: 'Life', work: 'Ham'},
+instances: 32, word: 'Might', work: 'Ham'},
+instances: 32, word: 'Whose', work: 'Ham'},
+instances: 31, word: 'Could', work: 'Ham'},
+instances: 31, word: 'God', work: 'Ham'},
+instances: 31, word: 'Horatio', work: 'Ham'},
+instances: 31, word: 'Indeed', work: 'Ham'},
+instances: 31, word: 'Nothing', work: 'Ham'},
+instances: 30, word: 'Hold', work: 'Ham'},
+instances: 30, word: 'Made', work: 'Ham'},
+instances: 30, word: 'Mine', work: 'Ham'},
+instances: 29, word: 'Been', work: 'Ham'},
+instances: 29, word: 'Cannot', work: 'Ham'},
+instances: 29, word: 'Dead', work: 'Ham'},
+instances: 29, word: 'Dear', work: 'Ham'},
+instances: 29, word: 'Heart', work: 'Ham'},
+instances: 29, word: 'Leave', work: 'Ham'},
+instances: 28, word: 'Into', work: 'Ham'},
+instances: 28, word: 'Pray', work: 'Ham'},
+instances: 27, word: 'Does', work: 'Ham'},
+instances: 27, word: 'Doth', work: 'Ham'},
+instances: 27, word: 'Matter', work: 'Ham'},
+instances: 27, word: 'Nature', work: 'Ham'},
+instances: 27, word: 'Never', work: 'Ham'},
+instances: 26, word: 'Both', work: 'Ham'},
+instances: 26, word: 'Great', work: 'Ham'},
+instances: 26, word: 'Nay', work: 'Ham'},
+instances: 26, word: 'Were', work: 'Ham'},
+instances: 25, word: 'Down', work: 'Ham'},
+instances: 25, word: 'Sweet', work: 'Ham'},
+instances: 24, word: 'Against', work: 'Ham'},
+instances: 24, word: 'Away', work: 'Ham'},
+instances: 24, word: 'Earth', work: 'Ham'},
+instances: 24, word: 'Even', work: 'Ham'},
+instances: 24, word: 'Itself', work: 'Ham'},
+instances: 24, word: 'Queen', work: 'Ham'},
+instances: 24, word: 'Though', work: 'Ham'},
+instances: 24, word: 'World', work: 'Ham'},
+instances: 23, word: 'Call', work: 'Ham'},
+instances: 23, word: 'Eyes', work: 'Ham'},
+instances: 23, word: 'Head', work: 'Ham'},
+instances: 23, word: 'Part', work: 'Ham'},
+instances: 23, word: 'Put', work: 'Ham'},
+instances: 23, word: 'True', work: 'Ham'},
+instances: 22, word: 'Done', work: 'Ham'},
+instances: 22, word: 'I\'', work: 'Ham'},
+instances: 22, word: 'Mad', work: 'Ham'},
+instances: 22, word: 'Madness', work: 'Ham'},
+instances: 22, word: 'Seen', work: 'Ham'},
+instances: 22, word: 'Set', work: 'Ham'},
+instances: 22, word: 'Those', work: 'Ham'},
+instances: 21, word: 'Comes', work: 'Ham'},
+instances: 21, word: 'Day', work: 'Ham'},
+instances: 21, word: 'Fair', work: 'Ham'},
+instances: 21, word: 'Fear', work: 'Ham'},
+instances: 21, word: 'Follow', work: 'Ham'},
+instances: 21, word: 'Himself', work: 'Ham'},
+instances: 21, word: 'Show', work: 'Ham'},
+instances: 20, word: 'Before', work: 'Ham'},
+instances: 20, word: 'England', work: 'Ham'},
+instances: 20, word: 'Friends', work: 'Ham'},
+instances: 20, word: 'Means', work: 'Ham'},
+instances: 20, word: 'Old', work: 'Ham'},
+instances: 20, word: 'Ophelia', work: 'Ham'},
+instances: 20, word: 'Poor', work: 'Ham'},
+instances: 20, word: 'Son', work: 'Ham'},
+instances: 20, word: 'Still', work: 'Ham'},
+instances: 20, word: 'Till', work: 'Ham'},
+instances: 20, word: 'Two', work: 'Ham'},
+instances: 20, word: 'Words', work: 'Ham'},
+instances: 19, word: 'About', work: 'Ham'},
+instances: 19, word: 'Believe', work: 'Ham'},
+instances: 19, word: 'Blood', work: 'Ham'},
+instances: 19, word: 'Denmark', work: 'Ham'},
+instances: 19, word: 'Once', work: 'Ham'},
+instances: 19, word: 'Without', work: 'Ham'},
+instances: 18, word: 'Else', work: 'Ham'},
+instances: 18, word: 'Hand', work: 'Ham'},
+instances: 18, word: 'Keep', work: 'Ham'},
+instances: 18, word: 'Little', work: 'Ham'},
+instances: 18, word: 'Many', work: 'Ham'},
+instances: 18, word: 'That\'s', work: 'Ham'},
+instances: 17, word: 'Art', work: 'Ham'},
+instances: 17, word: 'Cause', work: 'Ham'},
+instances: 17, word: 'Ear', work: 'Ham'},
+instances: 17, word: 'Farewell', work: 'Ham'},
+instances: 17, word: 'Father\'s', work: 'Ham'},
+instances: 17, word: 'Find', work: 'Ham'},
+instances: 17, word: 'First', work: 'Ham'},
+instances: 17, word: 'Long', work: 'Ham'},
+instances: 17, word: 'Noble', work: 'Ham'},
+instances: 17, word: 'Sword', work: 'Ham'},
+instances: 17, word: 'There\'s', work: 'Ham'},
+instances: 17, word: 'Thing', work: 'Ham'},
+instances: 17, word: 'Thoughts', work: 'Ham'},
+instances: 17, word: 'Welcome', work: 'Ham'},
+instances: 17, word: 'Young', work: 'Ham'},
+instances: 16, word: 'Better', work: 'Ham'},
+instances: 16, word: 'Body', work: 'Ham'},
+instances: 16, word: 'End', work: 'Ham'},
+instances: 16, word: 'Faith', work: 'Ham'},
+instances: 16, word: 'Hast', work: 'Ham'},
+instances: 16, word: 'Majesty', work: 'Ham'},
+instances: 16, word: 'Makes', work: 'Ham'},
+instances: 16, word: 'Marry', work: 'Ham'},
+instances: 16, word: 'Off', work: 'Ham'},
+instances: 16, word: 'Since', work: 'Ham'},
+instances: 16, word: 'Speech', work: 'Ham'},
+instances: 16, word: 'Stand', work: 'Ham'},
+instances: 16, word: 'Use', work: 'Ham'},
+instances: 16, word: 'Watch', work: 'Ham'},
+instances: 16, word: 'Youth', work: 'Ham'},
+instances: 15, word: 'Bear', work: 'Ham'},
+instances: 15, word: 'Between', work: 'Ham'},
+instances: 15, word: 'Daughter', work: 'Ham'},
+instances: 15, word: 'Drink', work: 'Ham'},
+instances: 15, word: 'Eye', work: 'Ham'},
+instances: 15, word: 'Ho', work: 'Ham'},
+instances: 15, word: 'Mark', work: 'Ham'},
+instances: 15, word: 'Players', work: 'Ham'},
+instances: 15, word: 'Question', work: 'Ham'},
+instances: 15, word: 'Said', work: 'Ham'},
+instances: 15, word: 'Therefore', work: 'Ham'},
+instances: 15, word: 'Tongue', work: 'Ham'},
+instances: 15, word: 'Yourself', work: 'Ham'},
+instances: 14, word: 'Act', work: 'Ham'},
+instances: 14, word: 'Answer', work: 'Ham'},
+instances: 14, word: 'Dost', work: 'Ham'},
+instances: 14, word: 'Grace', work: 'Ham'},
+instances: 14, word: 'Grief', work: 'Ham'},
+instances: 14, word: 'Heard', work: 'Ham'},
+instances: 14, word: 'Lady', work: 'Ham'},
+instances: 14, word: 'Last', work: 'Ham'},
+instances: 14, word: 'Live', work: 'Ham'},
+instances: 14, word: 'Murder', work: 'Ham'},
+instances: 14, word: 'Other', work: 'Ham'},
+instances: 14, word: 'O\'er', work: 'Ham'},
+instances: 14, word: 'Reason', work: 'Ham'},
+instances: 14, word: 'Rest', work: 'Ham'},
+instances: 14, word: 'Something', work: 'Ham'},
+instances: 14, word: 'Spirit', work: 'Ham'},
+instances: 14, word: 'State', work: 'Ham'},
+instances: 14, word: 'Within', work: 'Ham'},
+instances: 13, word: 'After', work: 'Ham'},
+instances: 13, word: 'Air', work: 'Ham'},
+instances: 13, word: 'Duty', work: 'Ham'},
+instances: 13, word: 'Form', work: 'Ham'},
+instances: 13, word: 'Friend', work: 'Ham'},
+instances: 13, word: 'Gentleman', work: 'Ham'},
+instances: 13, word: 'Gertrude', work: 'Ham'},
+instances: 13, word: 'Goes', work: 'Ham'},
+instances: 13, word: 'Gone', work: 'Ham'},
+instances: 13, word: 'None', work: 'Ham'},
+instances: 13, word: 'Ourselves', work: 'Ham'},
+instances: 13, word: 'Saw', work: 'Ham'},
+instances: 13, word: 'Sense', work: 'Ham'},
+instances: 13, word: 'Sent', work: 'Ham'},
+instances: 13, word: 'Thine', work: 'Ham'},
+instances: 13, word: 'Virtue', work: 'Ham'},
+instances: 13, word: 'We\'ll', work: 'Ham'},
+instances: 12, word: 'Any', work: 'Ham'},
+instances: 12, word: 'Being', work: 'Ham'},
+instances: 12, word: 'Bring', work: 'Ham'},
+instances: 12, word: 'Ere', work: 'Ham'},
+instances: 12, word: 'Ever', work: 'Ham'},
+instances: 12, word: 'Fire', work: 'Ham'},
+instances: 12, word: 'Fit', work: 'Ham'},
+instances: 12, word: 'Fortinbras', work: 'Ham'},
+instances: 12, word: 'Further', work: 'Ham'},
+instances: 12, word: 'Gentlemen', work: 'Ham'},
+instances: 12, word: 'Hands', work: 'Ham'},
+instances: 12, word: 'Has', work: 'Ham'},
+instances: 12, word: 'Haste', work: 'Ham'},
+instances: 12, word: 'Kind', work: 'Ham'},
+instances: 12, word: 'Madam', work: 'Ham'},
+instances: 12, word: 'Men', work: 'Ham'},
+instances: 12, word: 'Mind', work: 'Ham'},
+instances: 12, word: 'Myself', work: 'Ham'},
+instances: 12, word: 'Norway', work: 'Ham'},
+instances: 12, word: 'Oft', work: 'Ham'},
+instances: 12, word: 'Please', work: 'Ham'},
+instances: 12, word: 'Purpose', work: 'Ham'},
+instances: 12, word: 'Remember', work: 'Ham'},
+instances: 12, word: 'Revenge', work: 'Ham'},
+instances: 12, word: 'Same', work: 'Ham'},
+instances: 12, word: 'Sleep', work: 'Ham'},
+instances: 12, word: 'Stay', work: 'Ham'},
+instances: 12, word: 'Together', work: 'Ham'},
+instances: 12, word: 'Voice', work: 'Ham'},
+instances: 12, word: 'While', work: 'Ham'},
+instances: 12, word: 'Word', work: 'Ham'},
+instances: 12, word: '\'twere', work: 'Ham'},
+instances: 11, word: 'Awhile', work: 'Ham'},
+instances: 11, word: 'Bed', work: 'Ham'},
+instances: 11, word: 'Best', work: 'Ham'},
+instances: 11, word: 'Business', work: 'Ham'},
+instances: 11, word: 'Doubt', work: 'Ham'},
+instances: 11, word: 'Each', work: 'Ham'},
+instances: 11, word: 'E\'en', work: 'Ham'},
+instances: 11, word: 'Face', work: 'Ham'},
+instances: 11, word: 'Fortune', work: 'Ham'},
+instances: 11, word: 'Foul', work: 'Ham'},
+instances: 11, word: 'Full', work: 'Ham'},
+instances: 11, word: 'Ground', work: 'Ham'},
+instances: 11, word: 'Ha', work: 'Ham'},
+instances: 11, word: 'Honest', work: 'Ham'},
+instances: 11, word: 'Name', work: 'Ham'},
+instances: 11, word: 'Right', work: 'Ham'},
+instances: 11, word: 'Things', work: 'Ham'},
+instances: 11, word: 'Thought', work: 'Ham'},
+instances: 11, word: 'Thousand', work: 'Ham'},
+instances: 11, word: 'Tonight', work: 'Ham'},
+instances: 11, word: 'Villain', work: 'Ham'},
+instances: 11, word: 'Way', work: 'Ham'},
+instances: 11, word: 'What\'s', work: 'Ham'},
+instances: 11, word: 'Wind', work: 'Ham'},
+instances: 11, word: 'Work', work: 'Ham'},
+instances: 10, word: 'Alas', work: 'Ham'},
+instances: 10, word: 'Almost', work: 'Ham'},
+instances: 10, word: 'Alone', work: 'Ham'},
+instances: 10, word: 'Aught', work: 'Ham'},
+instances: 10, word: 'Came', work: 'Ham'},
+instances: 10, word: 'Command', work: 'Ham'},
+instances: 10, word: 'Deed', work: 'Ham'},
+instances: 10, word: 'Excellent', work: 'Ham'},
+instances: 10, word: 'Fine', work: 'Ham'},
+instances: 10, word: 'Free', work: 'Ham'},
+instances: 10, word: 'Given', work: 'Ham'},
+instances: 10, word: 'Hell', work: 'Ham'},
+instances: 10, word: 'He\'s', work: 'Ham'},
+instances: 10, word: 'Honor', work: 'Ham'},
+instances: 10, word: 'Late', work: 'Ham'},
+instances: 10, word: 'Let\'s', work: 'Ham'},
+instances: 10, word: 'Lie', work: 'Ham'},
+instances: 10, word: 'Mean', work: 'Ham'},
+instances: 10, word: 'Memory', work: 'Ham'},
+instances: 10, word: 'Near', work: 'Ham'},
+instances: 10, word: 'Neither', work: 'Ham'},
+instances: 10, word: 'News', work: 'Ham'},
+instances: 10, word: 'Passion', work: 'Ham'},
+instances: 10, word: 'Peace', work: 'Ham'},
+instances: 10, word: 'Phrase', work: 'Ham'},
+instances: 10, word: 'Second', work: 'Ham'},
+instances: 10, word: 'Seem', work: 'Ham'},
+instances: 10, word: 'Soft', work: 'Ham'},
+instances: 10, word: 'Swear', work: 'Ham'},
+instances: 10, word: 'Thanks', work: 'Ham'},
+instances: 9, word: 'Action', work: 'Ham'},
+instances: 9, word: 'Age', work: 'Ham'},
+instances: 9, word: 'Another', work: 'Ham'},
+instances: 9, word: 'Arms', work: 'Ham'},
+instances: 9, word: 'Breath', work: 'Ham'},
+instances: 9, word: 'Brother', work: 'Ham'},
+instances: 9, word: 'Custom', work: 'Ham'},
+instances: 9, word: 'Devil', work: 'Ham'},
+instances: 9, word: 'Draw', work: 'Ham'},
+instances: 9, word: 'Fall', work: 'Ham'},
+instances: 9, word: 'Far', work: 'Ham'},
+instances: 9, word: 'Fell', work: 'Ham'},
+instances: 9, word: 'Fellow', work: 'Ham'},
+instances: 9, word: 'Gave', work: 'Ham'},
+instances: 9, word: 'Get', work: 'Ham'},
+instances: 9, word: 'Grow', work: 'Ham'},
+instances: 9, word: 'Guildenstern', work: 'Ham'},
+instances: 9, word: 'Judgment', work: 'Ham'},
+instances: 9, word: 'Lay', work: 'Ham'},
+instances: 9, word: 'Light', work: 'Ham'},
+instances: 9, word: 'Lost', work: 'Ham'},
+instances: 9, word: 'Meet', work: 'Ham'},
+instances: 9, word: 'Offense', work: 'Ham'},
+instances: 9, word: 'Place', work: 'Ham'},
+instances: 9, word: 'Seek', work: 'Ham'},
+instances: 9, word: 'Sight', work: 'Ham'},
+instances: 9, word: 'Strange', work: 'Ham'},
+instances: 9, word: 'Sure', work: 'Ham'},
+instances: 9, word: 'Thank', work: 'Ham'},
+instances: 9, word: 'Uncle', work: 'Ham'},
+instances: 9, word: 'Walk', work: 'Ham'},
+instances: 9, word: 'Woe', work: 'Ham'},
+instances: 8, word: 'Adieu', work: 'Ham'},
+instances: 8, word: 'Back', work: 'Ham'},
+instances: 8, word: 'Black', work: 'Ham'},
+instances: 8, word: 'Break', work: 'Ham'},
+instances: 8, word: 'Charge', work: 'Ham'},
+instances: 8, word: 'Conscience', work: 'Ham'},
+instances: 8, word: 'Desire', work: 'Ham'},
+instances: 8, word: 'Ears', work: 'Ham'},
+instances: 8, word: 'Fashion', work: 'Ham'},
+instances: 8, word: 'Grave', work: 'Ham'},
+instances: 8, word: 'Hamlet\'s', work: 'Ham'},
+instances: 8, word: 'Heavens', work: 'Ham'},
+instances: 8, word: 'Help', work: 'Ham'},
+instances: 8, word: 'Here\'s', work: 'Ham'},
+instances: 8, word: 'Hither', work: 'Ham'},
+instances: 8, word: 'Hope', work: 'Ham'},
+instances: 8, word: 'Husband', work: 'Ham'},
+instances: 8, word: 'Joy', work: 'Ham'},
+instances: 8, word: 'Known', work: 'Ham'},
+instances: 8, word: 'Less', work: 'Ham'},
+instances: 8, word: 'Letters', work: 'Ham'},
+instances: 8, word: 'Looks', work: 'Ham'},
+instances: 8, word: 'Lordship', work: 'Ham'},
+instances: 8, word: 'O\'', work: 'Ham'},
+instances: 8, word: 'Pale', work: 'Ham'},
+instances: 8, word: 'Particular', work: 'Ham'},
+instances: 8, word: 'Power', work: 'Ham'},
+instances: 8, word: 'Quick', work: 'Ham'},
+instances: 8, word: 'Says', work: 'Ham'},
+instances: 8, word: 'Service', work: 'Ham'},
+instances: 8, word: 'Shame', work: 'Ham'},
+instances: 8, word: 'Shows', work: 'Ham'},
+instances: 8, word: 'Sit', work: 'Ham'},
+instances: 8, word: 'Sun', work: 'Ham'},
+instances: 8, word: 'Tears', work: 'Ham'},
+instances: 8, word: 'Through', work: 'Ham'},
+instances: 8, word: 'Times', work: 'Ham'},
+instances: 8, word: 'Truly', work: 'Ham'},
+instances: 8, word: 'Wherein', work: 'Ham'},
+instances: 8, word: 'Wife', work: 'Ham'},
+instances: 8, word: 'Wilt', work: 'Ham'},
+instances: 8, word: '\'s', work: 'Ham'},
+instances: 7, word: 'Beg', work: 'Ham'},
+instances: 7, word: 'Begin', work: 'Ham'},
+instances: 7, word: 'Beseech', work: 'Ham'},
+instances: 7, word: 'Bloody', work: 'Ham'},
+instances: 7, word: 'Common', work: 'Ham'},
+instances: 7, word: 'Die', work: 'Ham'},
+instances: 7, word: 'Drowned', work: 'Ham'},
+instances: 7, word: 'Dust', work: 'Ham'},
+instances: 7, word: 'Effect', work: 'Ham'},
+instances: 7, word: 'Enough', work: 'Ham'},
+instances: 7, word: 'Every', work: 'Ham'},
+instances: 7, word: 'Fool', work: 'Ham'},
+instances: 7, word: 'General', work: 'Ham'},
+instances: 7, word: 'Gives', work: 'Ham'},
+instances: 7, word: 'Hour', work: 'Ham'},
+instances: 7, word: 'Killed', work: 'Ham'},
+instances: 7, word: 'King\'s', work: 'Ham'},
+instances: 7, word: 'Law', work: 'Ham'},
+instances: 7, word: 'List', work: 'Ham'},
+instances: 7, word: 'Lose', work: 'Ham'},
+instances: 7, word: 'Loves', work: 'Ham'},
+instances: 7, word: 'Marriage', work: 'Ham'},
+instances: 7, word: 'Music', work: 'Ham'},
+instances: 7, word: 'Needs', work: 'Ham'},
+instances: 7, word: 'Noise', work: 'Ham'},
+instances: 7, word: 'Obey', work: 'Ham'},
+instances: 7, word: 'Pardon', work: 'Ham'},
+instances: 7, word: 'Pyrrhus', work: 'Ham'},
+instances: 7, word: 'Rank', work: 'Ham'},
+instances: 7, word: 'Receive', work: 'Ham'},
+instances: 7, word: 'Rosencrantz', work: 'Ham'},
+instances: 7, word: 'Top', work: 'Ham'},
+instances: 7, word: 'Turn', work: 'Ham'},
+instances: 7, word: 'Understand', work: 'Ham'},
+instances: 7, word: 'Unto', work: 'Ham'},
+instances: 7, word: 'Whole', work: 'Ham'},
+instances: 7, word: 'Wholesome', work: 'Ham'},
+instances: 7, word: 'Wisdom', work: 'Ham'},
+instances: 6, word: 'Already', work: 'Ham'},
+instances: 6, word: 'Ambition', work: 'Ham'},
+instances: 6, word: 'Bad', work: 'Ham'},
+instances: 6, word: 'Beard', work: 'Ham'},
+instances: 6, word: 'Beast', work: 'Ham'},
+instances: 6, word: 'Beauty', work: 'Ham'},
+instances: 6, word: 'Behind', work: 'Ham'},
+instances: 6, word: 'Bid', work: 'Ham'},
+instances: 6, word: 'Brains', work: 'Ham'},
+instances: 6, word: 'Brother\'s', work: 'Ham'},
+instances: 6, word: 'Brought', work: 'Ham'},
+instances: 6, word: 'Buried', work: 'Ham'},
+instances: 6, word: 'Cast', work: 'Ham'},
+instances: 6, word: 'Choice', work: 'Ham'},
+instances: 6, word: 'Cold', work: 'Ham'},
+instances: 6, word: 'Coming', work: 'Ham'},
+instances: 6, word: 'Confess', work: 'Ham'},
+instances: 6, word: 'Court', work: 'Ham'},
+instances: 6, word: 'Damnèd', work: 'Ham'},
+instances: 6, word: 'Dane', work: 'Ham'},
+instances: 6, word: 'Dare', work: 'Ham'},
+instances: 6, word: 'Days', work: 'Ham'},
+instances: 6, word: 'Discourse', work: 'Ham'},
+instances: 6, word: 'Double', work: 'Ham'},
+instances: 6, word: 'Dream', work: 'Ham'},
+instances: 6, word: 'Dull', work: 'Ham'},
+instances: 6, word: 'Either', work: 'Ham'},
+instances: 6, word: 'Falls', work: 'Ham'},
+instances: 6, word: 'False', work: 'Ham'},
+instances: 6, word: 'Fare', work: 'Ham'},
+instances: 6, word: 'Fat', work: 'Ham'},
+instances: 6, word: 'Feed', work: 'Ham'},
+instances: 6, word: 'Fie', work: 'Ham'},
+instances: 6, word: 'Forth', work: 'Ham'},
+instances: 6, word: 'Ghost', work: 'Ham'},
+instances: 6, word: 'Gracious', work: 'Ham'},
+instances: 6, word: 'Guilty', work: 'Ham'},
+instances: 6, word: 'Health', work: 'Ham'},
+instances: 6, word: 'Heavy', work: 'Ham'},
+instances: 6, word: 'Herself', work: 'Ham'},
+instances: 6, word: 'Hit', work: 'Ham'},
+instances: 6, word: 'Home', work: 'Ham'},
+instances: 6, word: 'Hot', work: 'Ham'},
+instances: 6, word: 'Ill', work: 'Ham'},
+instances: 6, word: 'Lack', work: 'Ham'},
+instances: 6, word: 'Laid', work: 'Ham'},
+instances: 6, word: 'Laugh', work: 'Ham'},
+instances: 6, word: 'Lies', work: 'Ham'},
+instances: 6, word: 'Longer', work: 'Ham'},
+instances: 6, word: 'Loved', work: 'Ham'},
+instances: 6, word: 'Maid', work: 'Ham'},
+instances: 6, word: 'Marcellus', work: 'Ham'},
+instances: 6, word: 'Mother\'s', work: 'Ham'},
+instances: 6, word: 'Mouth', work: 'Ham'},
+instances: 6, word: 'Move', work: 'Ham'},
+instances: 6, word: 'Note', work: 'Ham'},
+instances: 6, word: 'Only', work: 'Ham'},
+instances: 6, word: 'Piece', work: 'Ham'},
+instances: 6, word: 'Point', work: 'Ham'},
+instances: 6, word: 'Prison', work: 'Ham'},
+instances: 6, word: 'Prithee', work: 'Ham'},
+instances: 6, word: 'Proof', work: 'Ham'},
+instances: 6, word: 'Round', work: 'Ham'},
+instances: 6, word: 'Sea', work: 'Ham'},
+instances: 6, word: 'Sealed', work: 'Ham'},
+instances: 6, word: 'Season', work: 'Ham'},
+instances: 6, word: 'Shape', work: 'Ham'},
+instances: 6, word: 'Sister', work: 'Ham'},
+instances: 6, word: 'Slain', work: 'Ham'},
+instances: 6, word: 'Sorrow', work: 'Ham'},
+instances: 6, word: 'Speaks', work: 'Ham'},
+instances: 6, word: 'Star', work: 'Ham'},
+instances: 6, word: 'Stood', work: 'Ham'},
+instances: 6, word: 'Struck', work: 'Ham'},
+instances: 6, word: 'Takes', work: 'Ham'},
+instances: 6, word: 'Three', work: 'Ham'},
+instances: 6, word: 'Touch', work: 'Ham'},
+instances: 6, word: 'Toward', work: 'Ham'},
+instances: 6, word: 'Truth', work: 'Ham'},
+instances: 6, word: 'Try', work: 'Ham'},
+instances: 6, word: 'T\'', work: 'Ham'},
+instances: 6, word: 'Vows', work: 'Ham'},
+instances: 6, word: 'Water', work: 'Ham'},
+instances: 6, word: 'Went', work: 'Ham'},
+instances: 6, word: 'Whether', work: 'Ham'},
+instances: 6, word: 'Whom', work: 'Ham'},
+instances: 6, word: 'Wicked', work: 'Ham'},
+instances: 6, word: 'Withal', work: 'Ham'},
+instances: 6, word: 'Woman', work: 'Ham'},
+instances: 6, word: 'Wouldst', work: 'Ham'},
+instances: 6, word: 'Wrong', work: 'Ham'},
+instances: 5, word: 'Affection', work: 'Ham'},
+instances: 5, word: 'Ah', work: 'Ham'},
+instances: 5, word: 'Alexander', work: 'Ham'},
+instances: 5, word: 'Anon', work: 'Ham'},
+instances: 5, word: 'Anything', work: 'Ham'},
+instances: 5, word: 'Arm', work: 'Ham'},
+instances: 5, word: 'Audience', work: 'Ham'},
+instances: 5, word: 'Barnardo', work: 'Ham'},
+instances: 5, word: 'Base', work: 'Ham'},
+instances: 5, word: 'Blessing', work: 'Ham'},
+instances: 5, word: 'Bodies', work: 'Ham'},
+instances: 5, word: 'Bore', work: 'Ham'},
+instances: 5, word: 'Bound', work: 'Ham'},
+instances: 5, word: 'Brain', work: 'Ham'},
+instances: 5, word: 'Brief', work: 'Ham'},
+instances: 5, word: 'Carriages', work: 'Ham'},
+instances: 5, word: 'Choose', work: 'Ham'},
+instances: 5, word: 'Circumstance', work: 'Ham'},
+instances: 5, word: 'Cock', work: 'Ham'},
+instances: 5, word: 'Color', work: 'Ham'},
+instances: 5, word: 'Commission', work: 'Ham'},
+instances: 5, word: 'Conceit', work: 'Ham'},
+instances: 5, word: 'Course', work: 'Ham'},
+instances: 5, word: 'Crown', work: 'Ham'},
+instances: 5, word: 'Cry', work: 'Ham'},
+instances: 5, word: 'Damned', work: 'Ham'},
+instances: 5, word: 'Danger', work: 'Ham'},
+instances: 5, word: 'Dangerous', work: 'Ham'},
+instances: 5, word: 'Danish', work: 'Ham'},
+instances: 5, word: 'Didst', work: 'Ham'},
+instances: 5, word: 'Disposition', work: 'Ham'},
+instances: 5, word: 'Door', work: 'Ham'},
+instances: 5, word: 'Dread', work: 'Ham'},
+instances: 5, word: 'Drown', work: 'Ham'},
+instances: 5, word: 'Dumb', work: 'Ham'},
+instances: 5, word: 'Eat', work: 'Ham'},
+instances: 5, word: 'Ecstasy', work: 'Ham'},
+instances: 5, word: 'Fast', work: 'Ham'},
+instances: 5, word: 'Fault', work: 'Ham'},
+instances: 5, word: 'Figure', work: 'Ham'},
+instances: 5, word: 'Fingers', work: 'Ham'},
+instances: 5, word: 'Flesh', work: 'Ham'},
+instances: 5, word: 'Fly', work: 'Ham'},
+instances: 5, word: 'Foils', work: 'Ham'},
+instances: 5, word: 'Forgot', work: 'Ham'},
+instances: 5, word: 'Fortune\'s', work: 'Ham'},
+instances: 5, word: 'Found', work: 'Ham'},
+instances: 5, word: 'France', work: 'Ham'},
+instances: 5, word: 'French', work: 'Ham'},
+instances: 5, word: 'Gentle', work: 'Ham'},
+instances: 5, word: 'Grows', work: 'Ham'},
+instances: 5, word: 'Half', work: 'Ham'},
+instances: 5, word: 'Hard', work: 'Ham'},
+instances: 5, word: 'Hearing', work: 'Ham'},
+instances: 5, word: 'Hide', work: 'Ham'},
+instances: 5, word: 'Honesty', work: 'Ham'},
+instances: 5, word: 'Honored', work: 'Ham'},
+instances: 5, word: 'Impart', work: 'Ham'},
+instances: 5, word: 'Keeps', work: 'Ham'},
+instances: 5, word: 'Kingdom', work: 'Ham'},
+instances: 5, word: 'Knave', work: 'Ham'},
+instances: 5, word: 'Knew', work: 'Ham'},
+instances: 5, word: 'Land', work: 'Ham'},
+instances: 5, word: 'Liberty', work: 'Ham'},
+instances: 5, word: 'Man\'s', work: 'Ham'},
+instances: 5, word: 'Mass', work: 'Ham'},
+instances: 5, word: 'Mercy', work: 'Ham'},
+instances: 5, word: 'Methinks', work: 'Ham'},
+instances: 5, word: 'Moon', work: 'Ham'},
+instances: 5, word: 'Morning', work: 'Ham'},
+instances: 5, word: 'Mortal', work: 'Ham'},
+instances: 5, word: 'Motive', work: 'Ham'},
+instances: 5, word: 'Natural', work: 'Ham'},
+instances: 5, word: 'Next', work: 'Ham'},
+instances: 5, word: 'Nunnery', work: 'Ham'},
+instances: 5, word: 'Pass', work: 'Ham'},
+instances: 5, word: 'Patience', work: 'Ham'},
+instances: 5, word: 'Perchance', work: 'Ham'},
+instances: 5, word: 'Perhaps', work: 'Ham'},
+instances: 5, word: 'Presently', work: 'Ham'},
+instances: 5, word: 'Quiet', work: 'Ham'},
+instances: 5, word: 'Read', work: 'Ham'},
+instances: 5, word: 'Report', work: 'Ham'},
+instances: 5, word: 'Return', work: 'Ham'},
+instances: 5, word: 'Safety', work: 'Ham'},
+instances: 5, word: 'Save', work: 'Ham'},
+instances: 5, word: 'Seems', work: 'Ham'},
+instances: 5, word: 'Short', work: 'Ham'},
+instances: 5, word: 'Silence', work: 'Ham'},
+instances: 5, word: 'Sing', work: 'Ham'},
+instances: 5, word: 'Skull', work: 'Ham'},
+instances: 5, word: 'Souls', work: 'Ham'},
+instances: 5, word: 'Sound', work: 'Ham'},
+instances: 5, word: 'Spirits', work: 'Ham'},
+instances: 5, word: 'Stir', work: 'Ham'},
+instances: 5, word: 'Sudden', work: 'Ham'},
+instances: 5, word: 'Table', work: 'Ham'},
+instances: 5, word: 'Terms', work: 'Ham'},
+instances: 5, word: 'Themselves', work: 'Ham'},
+instances: 5, word: 'Throw', work: 'Ham'},
+instances: 5, word: 'Thyself', work: 'Ham'},
+instances: 5, word: 'Told', work: 'Ham'},
+instances: 5, word: 'Took', work: 'Ham'},
+instances: 5, word: 'Treason', work: 'Ham'},
+instances: 5, word: 'Trumpet', work: 'Ham'},
+instances: 5, word: 'Twelve', work: 'Ham'},
+instances: 5, word: 'Vile', work: 'Ham'},
+instances: 5, word: 'Visage', work: 'Ham'},
+instances: 5, word: 'Visit', work: 'Ham'},
+instances: 5, word: 'Wager', work: 'Ham'},
+instances: 5, word: 'Warlike', work: 'Ham'},
+instances: 5, word: 'Whereon', work: 'Ham'},
+instances: 5, word: 'Wit', work: 'Ham'},
+instances: 5, word: 'Wits', work: 'Ham'},
+instances: 5, word: 'Woo\'t', work: 'Ham'},
+instances: 5, word: 'Writ', work: 'Ham'},
+instances: 5, word: 'Year', work: 'Ham'},
+instances: 5, word: 'Yes', work: 'Ham'},
+instances: 5, word: 'Yours', work: 'Ham'},
+instances: 4, word: 'Above', work: 'Ham'},
+instances: 4, word: 'Affair', work: 'Ham'},
+instances: 4, word: 'Angel', work: 'Ham'},
+instances: 4, word: 'Argument', work: 'Ham'},
+instances: 4, word: 'Ass', work: 'Ham'},
+instances: 4, word: 'Assume', work: 'Ham'},
+instances: 4, word: 'Bestow', work: 'Ham'},
+instances: 4, word: 'Birth', work: 'Ham'},
+instances: 4, word: 'Blame', work: 'Ham'},
+instances: 4, word: 'Bones', work: 'Ham'},
+instances: 4, word: 'Bosom', work: 'Ham'},
+instances: 4, word: 'Breathe', work: 'Ham'},
+instances: 4, word: 'Brow', work: 'Ham'},
+instances: 4, word: 'Burial', work: 'Ham'},
+instances: 4, word: 'Calls', work: 'Ham'},
+instances: 4, word: 'Cannon', work: 'Ham'},
+instances: 4, word: 'Censure', work: 'Ham'},
+instances: 4, word: 'Certain', work: 'Ham'},
+instances: 4, word: 'Christian', work: 'Ham'},
+instances: 4, word: 'Closes', work: 'Ham'},
+instances: 4, word: 'Closet', work: 'Ham'},
+instances: 4, word: 'Clouds', work: 'Ham'},
+instances: 4, word: 'Commandment', work: 'Ham'},
+instances: 4, word: 'Commend', work: 'Ham'},
+instances: 4, word: 'Consent', work: 'Ham'},
+instances: 4, word: 'Consequence', work: 'Ham'},
+instances: 4, word: 'Countenance', work: 'Ham'},
+instances: 4, word: 'Cousin', work: 'Ham'},
+instances: 4, word: 'Cries', work: 'Ham'},
+instances: 4, word: 'Cunning', work: 'Ham'},
+instances: 4, word: 'Cup', work: 'Ham'},
+instances: 4, word: 'Cursèd', work: 'Ham'},
+instances: 4, word: 'Deep', work: 'Ham'},
+instances: 4, word: 'Desperate', work: 'Ham'},
+instances: 4, word: 'Died', work: 'Ham'},
+instances: 4, word: 'Direct', work: 'Ham'},
+instances: 4, word: 'Discretion', work: 'Ham'},
+instances: 4, word: 'Drift', work: 'Ham'},
+instances: 4, word: 'Ease', work: 'Ham'},
+instances: 4, word: 'Elsinore', work: 'Ham'},
+instances: 4, word: 'Entertainment', work: 'Ham'},
+instances: 4, word: 'Fain', work: 'Ham'},
+instances: 4, word: 'Favor', work: 'Ham'},
+instances: 4, word: 'Follows', work: 'Ham'},
+instances: 4, word: 'Forget', work: 'Ham'},
+instances: 4, word: 'Frame', work: 'Ham'},
+instances: 4, word: 'Freely', work: 'Ham'},
+instances: 4, word: 'Funeral', work: 'Ham'},
+instances: 4, word: 'Gifts', work: 'Ham'},
+instances: 4, word: 'Glad', work: 'Ham'},
+instances: 4, word: 'Grown', work: 'Ham'},
+instances: 4, word: 'Habit', work: 'Ham'},
+instances: 4, word: 'Hang', work: 'Ham'},
+instances: 4, word: 'Heat', work: 'Ham'},
+instances: 4, word: 'Hecuba', work: 'Ham'},
+instances: 4, word: 'Hence', work: 'Ham'},
+instances: 4, word: 'Herein', work: 'Ham'},
+instances: 4, word: 'High', work: 'Ham'},
+instances: 4, word: 'Holds', work: 'Ham'},
+instances: 4, word: 'Horrible', work: 'Ham'},
+instances: 4, word: 'House', work: 'Ham'},
+instances: 4, word: 'Humbly', work: 'Ham'},
+instances: 4, word: 'Image', work: 'Ham'},
+instances: 4, word: 'Imagination', work: 'Ham'},
+instances: 4, word: 'Imports', work: 'Ham'},
+instances: 4, word: 'Incestuous', work: 'Ham'},
+instances: 4, word: 'Infinite', work: 'Ham'},
+instances: 4, word: 'Instant', work: 'Ham'},
+instances: 4, word: 'Kept', work: 'Ham'},
+instances: 4, word: 'Kill', work: 'Ham'},
+instances: 4, word: 'Knows', work: 'Ham'},
+instances: 4, word: 'Lands', work: 'Ham'},
+instances: 4, word: 'Lead', work: 'Ham'},
+instances: 4, word: 'Leisure', work: 'Ham'},
+instances: 4, word: 'Lend', work: 'Ham'},
+instances: 4, word: 'Length', work: 'Ham'},
+instances: 4, word: 'Lest', work: 'Ham'},
+instances: 4, word: 'Lights', work: 'Ham'},
+instances: 4, word: 'Lives', work: 'Ham'},
+instances: 4, word: 'Looked', work: 'Ham'},
+instances: 4, word: 'Main', work: 'Ham'},
+instances: 4, word: 'Methought', work: 'Ham'},
+instances: 4, word: 'Mock', work: 'Ham'},
+instances: 4, word: 'Modesty', work: 'Ham'},
+instances: 4, word: 'Month', work: 'Ham'},
+instances: 4, word: 'Months', work: 'Ham'},
+instances: 4, word: 'Motion', work: 'Ham'},
+instances: 4, word: 'Native', work: 'Ham'},
+instances: 4, word: 'Need', work: 'Ham'},
+instances: 4, word: 'Occasion', work: 'Ham'},
+instances: 4, word: 'Oh', work: 'Ham'},
+instances: 4, word: 'Others', work: 'Ham'},
+instances: 4, word: 'Over', work: 'Ham'},
+instances: 4, word: 'Pate', work: 'Ham'},
+instances: 4, word: 'Pause', work: 'Ham'},
+instances: 4, word: 'Pay', work: 'Ham'},
+instances: 4, word: 'Person', work: 'Ham'},
+instances: 4, word: 'Pity', work: 'Ham'},
+instances: 4, word: 'Pleasure', work: 'Ham'},
+instances: 4, word: 'Poison', work: 'Ham'},
+instances: 4, word: 'Poisoned', work: 'Ham'},
+instances: 4, word: 'Polack', work: 'Ham'},
+instances: 4, word: 'Polonius', work: 'Ham'},
+instances: 4, word: 'Possible', work: 'Ham'},
+instances: 4, word: 'Practice', work: 'Ham'},
+instances: 4, word: 'Priam', work: 'Ham'},
+instances: 4, word: 'Prologue', work: 'Ham'},
+instances: 4, word: 'Property', work: 'Ham'},
+instances: 4, word: 'Quality', work: 'Ham'},
+instances: 4, word: 'Quantity', work: 'Ham'},
+instances: 4, word: 'Quite', work: 'Ham'},
+instances: 4, word: 'Rather', work: 'Ham'},
+instances: 4, word: 'Ready', work: 'Ham'},
+instances: 4, word: 'Remembrance', work: 'Ham'},
+instances: 4, word: 'Returned', work: 'Ham'},
+instances: 4, word: 'Rose', work: 'Ham'},
+instances: 4, word: 'Royal', work: 'Ham'},
+instances: 4, word: 'Secret', work: 'Ham'},
+instances: 4, word: 'Send', work: 'Ham'},
+instances: 4, word: 'Sends', work: 'Ham'},
+instances: 4, word: 'Shalt', work: 'Ham'},
+instances: 4, word: 'Shot', work: 'Ham'},
+instances: 4, word: 'Sick', work: 'Ham'},
+instances: 4, word: 'Sigh', work: 'Ham'},
+instances: 4, word: 'Sith', work: 'Ham'},
+instances: 4, word: 'Sits', work: 'Ham'},
+instances: 4, word: 'Six', work: 'Ham'},
+instances: 4, word: 'Slave', work: 'Ham'},
+instances: 4, word: 'Sleeping', work: 'Ham'},
+instances: 4, word: 'Snow', work: 'Ham'},
+instances: 4, word: 'Soldiers', work: 'Ham'},
+instances: 4, word: 'Sorry', work: 'Ham'},
+instances: 4, word: 'Spade', work: 'Ham'},
+instances: 4, word: 'Speed', work: 'Ham'},
+instances: 4, word: 'Stands', work: 'Ham'},
+instances: 4, word: 'Stars', work: 'Ham'},
+instances: 4, word: 'Start', work: 'Ham'},
+instances: 4, word: 'Stop', work: 'Ham'},
+instances: 4, word: 'Straight', work: 'Ham'},
+instances: 4, word: 'Strong', work: 'Ham'},
+instances: 4, word: 'Stronger', work: 'Ham'},
+instances: 4, word: 'Tale', work: 'Ham'},
+instances: 4, word: 'Teach', work: 'Ham'},
+instances: 4, word: 'Ten', work: 'Ham'},
+instances: 4, word: 'Tend', work: 'Ham'},
+instances: 4, word: 'Tender', work: 'Ham'},
+instances: 4, word: 'Thence', work: 'Ham'},
+instances: 4, word: 'Thinking', work: 'Ham'},
+instances: 4, word: 'Thrice', work: 'Ham'},
+instances: 4, word: 'Thrift', work: 'Ham'},
+instances: 4, word: 'Throat', work: 'Ham'},
+instances: 4, word: 'Tomorrow', work: 'Ham'},
+instances: 4, word: 'Treasure', work: 'Ham'},
+instances: 4, word: 'Turned', work: 'Ham'},
+instances: 4, word: 'Twice', work: 'Ham'},
+instances: 4, word: 'Under', work: 'Ham'},
+instances: 4, word: 'Unfold', work: 'Ham'},
+instances: 4, word: 'Unnatural', work: 'Ham'},
+instances: 4, word: 'Violence', work: 'Ham'},
+instances: 4, word: 'Violent', work: 'Ham'},
+instances: 4, word: 'Warrant', work: 'Ham'},
+instances: 4, word: 'Wear', work: 'Ham'},
+instances: 4, word: 'Weeds', work: 'Ham'},
+instances: 4, word: 'Weep', work: 'Ham'},
+instances: 4, word: 'Whereto', work: 'Ham'},
+instances: 4, word: 'White', work: 'Ham'},
+instances: 4, word: 'Wide', work: 'Ham'},
+instances: 4, word: 'Wild', work: 'Ham'},
+instances: 4, word: 'Wittenberg', work: 'Ham'},
+instances: 4, word: 'Wretched', work: 'Ham'},
+instances: 4, word: '\'gainst', work: 'Ham'},
+instances: 4, word: '\'twas', work: 'Ham'},
+instances: 4, word: '\'twill', work: 'Ham'},
+instances: 3, word: 'Aboard', work: 'Ham'},
+instances: 3, word: 'Accident', work: 'Ham'},
+instances: 3, word: 'Actor', work: 'Ham'},
+instances: 3, word: 'Addition', work: 'Ham'},
+instances: 3, word: 'Admiration', work: 'Ham'},
+instances: 3, word: 'Advice', work: 'Ham'},
+instances: 3, word: 'Alack', work: 'Ham'},
+instances: 3, word: 'Along', work: 'Ham'},
+instances: 3, word: 'Ambassadors', work: 'Ham'},
+instances: 3, word: 'Ambitious', work: 'Ham'},
+instances: 3, word: 'Angels', work: 'Ham'},
+instances: 3, word: 'Appear', work: 'Ham'},
+instances: 3, word: 'Appeared', work: 'Ham'},
+instances: 3, word: 'Argal', work: 'Ham'},
+instances: 3, word: 'Armed', work: 'Ham'},
+instances: 3, word: 'Armor', work: 'Ham'},
+instances: 3, word: 'Arras', work: 'Ham'},
+instances: 3, word: 'Assay', work: 'Ham'},
+instances: 3, word: 'Avoid', work: 'Ham'},
+instances: 3, word: 'Beating', work: 'Ham'},
+instances: 3, word: 'Becomes', work: 'Ham'},
+instances: 3, word: 'Beggar', work: 'Ham'},
+instances: 3, word: 'Begun', work: 'Ham'},
+instances: 3, word: 'Below', work: 'Ham'},
+instances: 3, word: 'Bend', work: 'Ham'},
+instances: 3, word: 'Bent', work: 'Ham'},
+instances: 3, word: 'Bitter', work: 'Ham'},
+instances: 3, word: 'Bless', work: 'Ham'},
+instances: 3, word: 'Blow', work: 'Ham'},
+instances: 3, word: 'Bold', work: 'Ham'},
+instances: 3, word: 'Born', work: 'Ham'},
+instances: 3, word: 'Bow', work: 'Ham'},
+instances: 3, word: 'Boy', work: 'Ham'},
+instances: 3, word: 'Brave', work: 'Ham'},
+instances: 3, word: 'Breed', work: 'Ham'},
+instances: 3, word: 'Burst', work: 'Ham'},
+instances: 3, word: 'Canst', work: 'Ham'},
+instances: 3, word: 'Carry', work: 'Ham'},
+instances: 3, word: 'Ceremony', work: 'Ham'},
+instances: 3, word: 'Chamber', work: 'Ham'},
+instances: 3, word: 'Change', work: 'Ham'},
+instances: 3, word: 'Chaste', work: 'Ham'},
+instances: 3, word: 'Cheer', work: 'Ham'},
+instances: 3, word: 'Chief', work: 'Ham'},
+instances: 3, word: 'Children', work: 'Ham'},
+instances: 3, word: 'Clay', work: 'Ham'},
+instances: 3, word: 'Close', work: 'Ham'},
+instances: 3, word: 'Complexion', work: 'Ham'},
+instances: 3, word: 'Confession', work: 'Ham'},
+instances: 3, word: 'Content', work: 'Ham'},
+instances: 3, word: 'Corruption', work: 'Ham'},
+instances: 3, word: 'Corse', work: 'Ham'},
+instances: 3, word: 'Counsel', work: 'Ham'},
+instances: 3, word: 'Count', work: 'Ham'},
+instances: 3, word: 'Country', work: 'Ham'},
+instances: 3, word: 'Courtier', work: 'Ham'},
+instances: 3, word: 'Creatures', work: 'Ham'},
+instances: 3, word: 'Cried', work: 'Ham'},
+instances: 3, word: 'Crimes', work: 'Ham'},
+instances: 3, word: 'Defend', work: 'Ham'},
+instances: 3, word: 'Delight', work: 'Ham'},
+instances: 3, word: 'Delights', work: 'Ham'},
+instances: 3, word: 'Deliver', work: 'Ham'},
+instances: 3, word: 'Denmark\'s', work: 'Ham'},
+instances: 3, word: 'Desires', work: 'Ham'},
+instances: 3, word: 'Dew', work: 'Ham'},
+instances: 3, word: 'Dies', work: 'Ham'},
+instances: 3, word: 'Distemper', work: 'Ham'},
+instances: 3, word: 'Distracted', work: 'Ham'},
+instances: 3, word: 'Doomsday', work: 'Ham'},
+instances: 3, word: 'Doors', work: 'Ham'},
+instances: 3, word: 'Dozen', work: 'Ham'},
+instances: 3, word: 'Dreadful', work: 'Ham'},
+instances: 3, word: 'Dreams', work: 'Ham'},
+instances: 3, word: 'Dry', work: 'Ham'},
+instances: 3, word: 'Ducats', work: 'Ham'},
+instances: 3, word: 'Edge', work: 'Ham'},
+instances: 3, word: 'Election', work: 'Ham'},
+instances: 3, word: 'Encounter', work: 'Ham'},
+instances: 3, word: 'Enemy', work: 'Ham'},
+instances: 3, word: 'Enter', work: 'Ham'},
+instances: 3, word: 'Entreat', work: 'Ham'},
+instances: 3, word: 'Estate', work: 'Ham'},
+instances: 3, word: 'Evil', work: 'Ham'},
+instances: 3, word: 'Excellence', work: 'Ham'},
+instances: 3, word: 'Except', work: 'Ham'},
+instances: 3, word: 'Express', work: 'Ham'},
+instances: 3, word: 'Faithful', work: 'Ham'},
+instances: 3, word: 'Fancy', work: 'Ham'},
+instances: 3, word: 'Fantasy', work: 'Ham'},
+instances: 3, word: 'Faults', work: 'Ham'},
+instances: 3, word: 'Feast', work: 'Ham'},
+instances: 3, word: 'Fee', work: 'Ham'},
+instances: 3, word: 'Feeling', work: 'Ham'},
+instances: 3, word: 'Fellows', work: 'Ham'},
+instances: 3, word: 'Few', work: 'Ham'},
+instances: 3, word: 'Fiery', work: 'Ham'},
+instances: 3, word: 'Fight', work: 'Ham'},
+instances: 3, word: 'Fixed', work: 'Ham'},
+instances: 3, word: 'Flat', work: 'Ham'},
+instances: 3, word: 'Followed', work: 'Ham'},
+instances: 3, word: 'Foolish', work: 'Ham'},
+instances: 3, word: 'Foot', work: 'Ham'},
+instances: 3, word: 'Force', work: 'Ham'},
+instances: 3, word: 'Forms', work: 'Ham'},
+instances: 3, word: 'Four', work: 'Ham'},
+instances: 3, word: 'Gallows', work: 'Ham'},
+instances: 3, word: 'Gather', work: 'Ham'},
+instances: 3, word: 'Generous', work: 'Ham'},
+instances: 3, word: 'Gods', work: 'Ham'},
+instances: 3, word: 'God\'s', work: 'Ham'},
+instances: 3, word: 'Golden', work: 'Ham'},
+instances: 3, word: 'Gonzago', work: 'Ham'},
+instances: 3, word: 'Goodly', work: 'Ham'},
+instances: 3, word: 'Gross', work: 'Ham'},
+instances: 3, word: 'Guard', work: 'Ham'},
+instances: 3, word: 'Guilt', work: 'Ham'},
+instances: 3, word: 'Hadst', work: 'Ham'},
+instances: 3, word: 'Hangers', work: 'Ham'},
+instances: 3, word: 'Haply', work: 'Ham'},
+instances: 3, word: 'Happy', work: 'Ham'},
+instances: 3, word: 'Hears', work: 'Ham'},
+instances: 3, word: 'Heartily', work: 'Ham'},
+instances: 3, word: 'Heels', work: 'Ham'},
+instances: 3, word: 'Hercules', work: 'Ham'},
+instances: 3, word: 'Hill', work: 'Ham'},
+instances: 3, word: 'Hits', work: 'Ham'},
+instances: 3, word: 'Horse', work: 'Ham'},
+instances: 3, word: 'Idle', work: 'Ham'},
+instances: 3, word: 'Ignorance', work: 'Ham'},
+instances: 3, word: 'Ignorant', work: 'Ham'},
+instances: 3, word: 'Importing', work: 'Ham'},
+instances: 3, word: 'Indifferent', work: 'Ham'},
+instances: 3, word: 'Inward', work: 'Ham'},
+instances: 3, word: 'Jephthah', work: 'Ham'},
+instances: 3, word: 'Jest', work: 'Ham'},
+instances: 3, word: 'Judge', work: 'Ham'},
+instances: 3, word: 'Judgments', work: 'Ham'},
+instances: 3, word: 'Justly', work: 'Ham'},
+instances: 3, word: 'Ladies', work: 'Ham'},
+instances: 3, word: 'Left', work: 'Ham'},
+instances: 3, word: 'Lets', work: 'Ham'},
+instances: 3, word: 'Liege', work: 'Ham'},
+instances: 3, word: 'Liest', work: 'Ham'},
+instances: 3, word: 'Likes', work: 'Ham'},
+instances: 3, word: 'Lines', work: 'Ham'},
+instances: 3, word: 'Livery', work: 'Ham'},
+instances: 3, word: 'Lo', work: 'Ham'},
+instances: 3, word: 'Loud', work: 'Ham'},
+instances: 3, word: 'Loving', work: 'Ham'},
+instances: 3, word: 'Making', work: 'Ham'},
+instances: 3, word: 'March', work: 'Ham'},
+instances: 3, word: 'Married', work: 'Ham'},
+instances: 3, word: 'Masters', work: 'Ham'},
+instances: 3, word: 'Meant', work: 'Ham'},
+instances: 3, word: 'Men\'s', work: 'Ham'},
+instances: 3, word: 'Mere', work: 'Ham'},
+instances: 3, word: 'Mistress', work: 'Ham'},
+instances: 3, word: 'Moblèd', work: 'Ham'},
+instances: 3, word: 'Morn', work: 'Ham'},
+instances: 3, word: 'Mountain', work: 'Ham'},
+instances: 3, word: 'Murderer', work: 'Ham'},
+instances: 3, word: 'Nation', work: 'Ham'},
+instances: 3, word: 'Nights', work: 'Ham'},
+instances: 3, word: 'Nine', work: 'Ham'},
+instances: 3, word: 'Nonny', work: 'Ham'},
+instances: 3, word: 'Observe', work: 'Ham'},
+instances: 3, word: 'Odds', work: 'Ham'},
+instances: 3, word: 'Offended', work: 'Ham'},
+instances: 3, word: 'Offer', work: 'Ham'},
+instances: 3, word: 'Order', work: 'Ham'},
+instances: 3, word: 'Organ', work: 'Ham'},
+instances: 3, word: 'Osric', work: 'Ham'},
+instances: 3, word: 'Otherwise', work: 'Ham'},
+instances: 3, word: 'Ourself', work: 'Ham'},
+instances: 3, word: 'Parts', work: 'Ham'},
+instances: 3, word: 'Passing', work: 'Ham'},
+instances: 3, word: 'Past', work: 'Ham'},
+instances: 3, word: 'Patient', work: 'Ham'},
+instances: 3, word: 'Pious', work: 'Ham'},
+instances: 3, word: 'Pipe', work: 'Ham'},
+instances: 3, word: 'Pit', work: 'Ham'},
+instances: 3, word: 'Piteous', work: 'Ham'},
+instances: 3, word: 'Placed', work: 'Ham'},
+instances: 3, word: 'Played', work: 'Ham'},
+instances: 3, word: 'Pluck', work: 'Ham'},
+instances: 3, word: 'Poland', work: 'Ham'},
+instances: 3, word: 'Powers', work: 'Ham'},
+instances: 3, word: 'Presence', work: 'Ham'},
+instances: 3, word: 'Present', work: 'Ham'},
+instances: 3, word: 'Prince', work: 'Ham'},
+instances: 3, word: 'Process', work: 'Ham'},
+instances: 3, word: 'Profit', work: 'Ham'},
+instances: 3, word: 'Proud', work: 'Ham'},
+instances: 3, word: 'Prove', work: 'Ham'},
+instances: 3, word: 'Proved', work: 'Ham'},
+instances: 3, word: 'Pure', work: 'Ham'},
+instances: 3, word: 'Purposes', work: 'Ham'},
+instances: 3, word: 'Purse', work: 'Ham'},
+instances: 3, word: 'Puts', work: 'Ham'},
+instances: 3, word: 'Pyrrhus\'', work: 'Ham'},
+instances: 3, word: 'Rage', work: 'Ham'},
+instances: 3, word: 'Rapier', work: 'Ham'},
+instances: 3, word: 'Rash', work: 'Ham'},
+instances: 3, word: 'Rat', work: 'Ham'},
+instances: 3, word: 'Received', work: 'Ham'},
+instances: 3, word: 'Recover', work: 'Ham'},
+instances: 3, word: 'Remains', work: 'Ham'},
+instances: 3, word: 'Repent', work: 'Ham'},
+instances: 3, word: 'Revenged', work: 'Ham'},
+instances: 3, word: 'Reynaldo', work: 'Ham'},
+instances: 3, word: 'Rich', work: 'Ham'},
+instances: 3, word: 'Rogue', work: 'Ham'},
+instances: 3, word: 'Rouse', work: 'Ham'},
+instances: 3, word: 'Ruled', work: 'Ham'},
+instances: 3, word: 'Sail', work: 'Ham'},
+instances: 3, word: 'Saint', work: 'Ham'},
+instances: 3, word: 'Salt', work: 'Ham'},
+instances: 3, word: 'Scene', work: 'Ham'},
+instances: 3, word: 'Scope', work: 'Ham'},
+instances: 3, word: 'Seal', work: 'Ham'},
+instances: 3, word: 'Secrecy', work: 'Ham'},
+instances: 3, word: 'Seeing', work: 'Ham'},
+instances: 3, word: 'Shadow', work: 'Ham'},
+instances: 3, word: 'Shapes', work: 'Ham'},
+instances: 3, word: 'Shortly', work: 'Ham'},
+instances: 3, word: 'Sides', work: 'Ham'},
+instances: 3, word: 'Sirs', work: 'Ham'},
+instances: 3, word: 'Skill', work: 'Ham'},
+instances: 3, word: 'Sleeps', work: 'Ham'},
+instances: 3, word: 'Slow', work: 'Ham'},
+instances: 3, word: 'Smiling', work: 'Ham'},
+instances: 3, word: 'Solemn', work: 'Ham'},
+instances: 3, word: 'Sometime', work: 'Ham'},
+instances: 3, word: 'Sometimes', work: 'Ham'},
+instances: 3, word: 'Sore', work: 'Ham'},
+instances: 3, word: 'Sort', work: 'Ham'},
+instances: 3, word: 'Sovereign', work: 'Ham'},
+instances: 3, word: 'Special', work: 'Ham'},
+instances: 3, word: 'Sponge', work: 'Ham'},
+instances: 3, word: 'Sport', work: 'Ham'},
+instances: 3, word: 'Spring', work: 'Ham'},
+instances: 3, word: 'Stage', work: 'Ham'},
+instances: 3, word: 'Stayed', work: 'Ham'},
+instances: 3, word: 'Steel', work: 'Ham'},
+instances: 3, word: 'Stick', work: 'Ham'},
+instances: 3, word: 'Stole', work: 'Ham'},
+instances: 3, word: 'Story', work: 'Ham'},
+instances: 3, word: 'Stuff', work: 'Ham'},
+instances: 3, word: 'Subject', work: 'Ham'},
+instances: 3, word: 'Suffer', work: 'Ham'},
+instances: 3, word: 'Suffers', work: 'Ham'},
+instances: 3, word: 'Suit', work: 'Ham'},
+instances: 3, word: 'Suits', work: 'Ham'},
+instances: 3, word: 'Sworn', work: 'Ham'},
+instances: 3, word: 'Tame', work: 'Ham'},
+instances: 3, word: 'Ta\'en', work: 'Ham'},
+instances: 3, word: 'Tear', work: 'Ham'},
+instances: 3, word: 'Tempt', work: 'Ham'},
+instances: 3, word: 'Tenders', work: 'Ham'},
+instances: 3, word: 'Theme', work: 'Ham'},
+instances: 3, word: 'Thick', work: 'Ham'},
+instances: 3, word: 'Third', work: 'Ham'},
+instances: 3, word: 'Thirty', work: 'Ham'},
+instances: 3, word: 'Thither', work: 'Ham'},
+instances: 3, word: 'Tongues', work: 'Ham'},
+instances: 3, word: 'Touching', work: 'Ham'},
+instances: 3, word: 'Trial', work: 'Ham'},
+instances: 3, word: 'Trick', work: 'Ham'},
+instances: 3, word: 'Tricks', work: 'Ham'},
+instances: 3, word: 'Twenty', work: 'Ham'},
+instances: 3, word: 'Understanding', work: 'Ham'},
+instances: 3, word: 'Unless', work: 'Ham'},
+instances: 3, word: 'Unseen', work: 'Ham'},
+instances: 3, word: 'Uses', work: 'Ham'},
+instances: 3, word: 'Vice', work: 'Ham'},
+instances: 3, word: 'Visitation', work: 'Ham'},
+instances: 3, word: 'Vouchsafe', work: 'Ham'},
+instances: 3, word: 'Wanton', work: 'Ham'},
+instances: 3, word: 'Waves', work: 'Ham'},
+instances: 3, word: 'Ways', work: 'Ham'},
+instances: 3, word: 'Wed', work: 'Ham'},
+instances: 3, word: 'Wheel', work: 'Ham'},
+instances: 3, word: 'Wherefore', work: 'Ham'},
+instances: 3, word: 'Whiles', work: 'Ham'},
+instances: 3, word: 'Whilst', work: 'Ham'},
+instances: 3, word: 'Win', work: 'Ham'},
+instances: 3, word: 'Winds', work: 'Ham'},
+instances: 3, word: 'Wisest', work: 'Ham'},
+instances: 3, word: 'Wish', work: 'Ham'},
+instances: 3, word: 'Withdraw', work: 'Ham'},
+instances: 3, word: 'Wi\'', work: 'Ham'},
+instances: 3, word: 'Wonder', work: 'Ham'},
+instances: 3, word: 'Wondrous', work: 'Ham'},
+instances: 3, word: 'Wont', work: 'Ham'},
+instances: 3, word: 'Worm', work: 'Ham'},
+instances: 3, word: 'Worse', work: 'Ham'},
+instances: 3, word: 'Worth', work: 'Ham'},
+instances: 3, word: 'Wretch', work: 'Ham'},
+instances: 3, word: 'Yea', work: 'Ham'},
+instances: 3, word: 'Years', work: 'Ham'},
+instances: 2:', work: 'Ham'},
+instances: 2, word: 'A-down', work: 'Ham'},
+instances: 2, word: 'Absolute', work: 'Ham'},
+instances: 2, word: 'Absurd', work: 'Ham'},
+instances: 2, word: 'Accent', work: 'Ham'},
+instances: 2, word: 'According', work: 'Ham'},
+instances: 2, word: 'Actions', work: 'Ham'},
+instances: 2, word: 'Actors', work: 'Ham'},
+instances: 2, word: 'Acts', work: 'Ham'},
+instances: 2, word: 'Admit', work: 'Ham'},
+instances: 2, word: 'Advancement', work: 'Ham'},
+instances: 2, word: 'Affliction', work: 'Ham'},
+instances: 2, word: 'Alarm', work: 'Ham'},
+instances: 2, word: 'Allowance', work: 'Ham'},
+instances: 2, word: 'Allowed', work: 'Ham'},
+instances: 2, word: 'Aloof', work: 'Ham'},
+instances: 2, word: 'Amazement', work: 'Ham'},
+instances: 2, word: 'Amiss', work: 'Ham'},
+instances: 2, word: 'Antique', work: 'Ham'},
+instances: 2, word: 'Apart', work: 'Ham'},
+instances: 2, word: 'Ape', work: 'Ham'},
+instances: 2, word: 'Apparition', work: 'Ham'},
+instances: 2, word: 'Appears', work: 'Ham'},
+instances: 2, word: 'Apprehension', work: 'Ham'},
+instances: 2, word: 'Approve', work: 'Ham'},
+instances: 2, word: 'Apt', work: 'Ham'},
+instances: 2, word: 'Arrant', work: 'Ham'},
+instances: 2, word: 'Arrows', work: 'Ham'},
+instances: 2, word: 'Article', work: 'Ham'},
+instances: 2, word: 'Ask', work: 'Ham'},
+instances: 2, word: 'Asking', work: 'Ham'},
+instances: 2, word: 'Assigns', work: 'Ham'},
+instances: 2, word: 'Assistant', work: 'Ham'},
+instances: 2, word: 'Assurance', work: 'Ham'},
+instances: 2, word: 'Assured', work: 'Ham'},
+instances: 2, word: 'Attend', work: 'Ham'},
+instances: 2, word: 'Author', work: 'Ham'},
+instances: 2, word: 'Awake', work: 'Ham'},
+instances: 2, word: 'Awe', work: 'Ham'},
+instances: 2, word: 'Ax', work: 'Ham'},
+instances: 2, word: 'Baby', work: 'Ham'},
+instances: 2, word: 'Baked', work: 'Ham'},
+instances: 2, word: 'Barbary', work: 'Ham'},
+instances: 2, word: 'Baser', work: 'Ham'},
+instances: 2, word: 'Basket', work: 'Ham'},
+instances: 2, word: 'Bearers', work: 'Ham'},
+instances: 2, word: 'Bears', work: 'Ham'},
+instances: 2, word: 'Beasts', work: 'Ham'},
+instances: 2, word: 'Beautified', work: 'Ham'},
+instances: 2, word: 'Begins', work: 'Ham'},
+instances: 2, word: 'Beguile', work: 'Ham'},
+instances: 2, word: 'Behavior', work: 'Ham'},
+instances: 2, word: 'Behold', work: 'Ham'},
+instances: 2, word: 'Belike', work: 'Ham'},
+instances: 2, word: 'Bell', work: 'Ham'},
+instances: 2, word: 'Bestowed', work: 'Ham'},
+instances: 2, word: 'Beware', work: 'Ham'},
+instances: 2, word: 'Beyond', work: 'Ham'},
+instances: 2, word: 'Bird', work: 'Ham'},
+instances: 2, word: 'Blank', work: 'Ham'},
+instances: 2, word: 'Blast', work: 'Ham'},
+instances: 2, word: 'Blasted', work: 'Ham'},
+instances: 2, word: 'Bleed', work: 'Ham'},
+instances: 2, word: 'Blown', work: 'Ham'},
+instances: 2, word: 'Blows', work: 'Ham'},
+instances: 2, word: 'Blush', work: 'Ham'},
+instances: 2, word: 'Book', work: 'Ham'},
+instances: 2, word: 'Borne', work: 'Ham'},
+instances: 2, word: 'Breaks', work: 'Ham'},
+instances: 2, word: 'Breathing', work: 'Ham'},
+instances: 2, word: 'Broad', work: 'Ham'},
+instances: 2, word: 'Broke', work: 'Ham'},
+instances: 2, word: 'Brook', work: 'Ham'},
+instances: 2, word: 'Brothers', work: 'Ham'},
+instances: 2, word: 'Brows', work: 'Ham'},
+instances: 2, word: 'Builds', work: 'Ham'},
+instances: 2, word: 'Bulk', work: 'Ham'},
+instances: 2, word: 'Burn', work: 'Ham'},
+instances: 2, word: 'Burning', work: 'Ham'},
+instances: 2, word: 'Burns', work: 'Ham'},
+instances: 2, word: 'Buzz', work: 'Ham'},
+instances: 2, word: 'Caesar', work: 'Ham'},
+instances: 2, word: 'Called', work: 'Ham'},
+instances: 2, word: 'Calm', work: 'Ham'},
+instances: 2, word: 'Camel', work: 'Ham'},
+instances: 2, word: 'Canker', work: 'Ham'},
+instances: 2, word: 'Cap', work: 'Ham'},
+instances: 2, word: 'Capable', work: 'Ham'},
+instances: 2, word: 'Capital', work: 'Ham'},
+instances: 2, word: 'Card', work: 'Ham'},
+instances: 2, word: 'Carpenter', work: 'Ham'},
+instances: 2, word: 'Catch', work: 'Ham'},
+instances: 2, word: 'Caught', work: 'Ham'},
+instances: 2, word: 'Celestial', work: 'Ham'},
+instances: 2, word: 'Chance', work: 'Ham'},
+instances: 2, word: 'Chances', work: 'Ham'},
+instances: 2, word: 'Chapel', work: 'Ham'},
+instances: 2, word: 'Character', work: 'Ham'},
+instances: 2, word: 'Charitable', work: 'Ham'},
+instances: 2, word: 'Cheek', work: 'Ham'},
+instances: 2, word: 'Cheerfully', work: 'Ham'},
+instances: 2, word: 'Child', work: 'Ham'},
+instances: 2, word: 'Choler', work: 'Ham'},
+instances: 2, word: 'Church', work: 'Ham'},
+instances: 2, word: 'City', work: 'Ham'},
+instances: 2, word: 'Clothes', work: 'Ham'},
+instances: 2, word: 'Coldly', work: 'Ham'},
+instances: 2, word: 'Collected', work: 'Ham'},
+instances: 2, word: 'Collection', work: 'Ham'},
+instances: 2, word: 'Comedy', work: 'Ham'},
+instances: 2, word: 'Compelled', work: 'Ham'},
+instances: 2, word: 'Comply', work: 'Ham'},
+instances: 2, word: 'Com\'st', work: 'Ham'},
+instances: 2, word: 'Conference', work: 'Ham'},
+instances: 2, word: 'Confine', work: 'Ham'},
+instances: 2, word: 'Confound', work: 'Ham'},
+instances: 2, word: 'Consider', work: 'Ham'},
+instances: 2, word: 'Considered', work: 'Ham'},
+instances: 2, word: 'Contagion', work: 'Ham'},
+instances: 2, word: 'Continent', work: 'Ham'},
+instances: 2, word: 'Contrive', work: 'Ham'},
+instances: 2, word: 'Convert', work: 'Ham'},
+instances: 2, word: 'Convey', work: 'Ham'},
+instances: 2, word: 'Cost', work: 'Ham'},
+instances: 2, word: 'Coted', work: 'Ham'},
+instances: 2, word: 'Couch', work: 'Ham'},
+instances: 2, word: 'Coward', work: 'Ham'},
+instances: 2, word: 'Craft', work: 'Ham'},
+instances: 2, word: 'Creature', work: 'Ham'},
+instances: 2, word: 'Crew', work: 'Ham'},
+instances: 2, word: 'Cruel', work: 'Ham'},
+instances: 2, word: 'Currents', work: 'Ham'},
+instances: 2, word: 'Cut', work: 'Ham'},
+instances: 2, word: 'Daggers', work: 'Ham'},
+instances: 2, word: 'Dearest', work: 'Ham'},
+instances: 2, word: 'Dearly', work: 'Ham'},
+instances: 2, word: 'Deceived', work: 'Ham'},
+instances: 2, word: 'Defeat', work: 'Ham'},
+instances: 2, word: 'Defect', work: 'Ham'},
+instances: 2, word: 'Defense', work: 'Ham'},
+instances: 2, word: 'Delay', work: 'Ham'},
+instances: 2, word: 'Delicate', work: 'Ham'},
+instances: 2, word: 'Delivered', work: 'Ham'},
+instances: 2, word: 'Demand', work: 'Ham'},
+instances: 2, word: 'Demands', work: 'Ham'},
+instances: 2, word: 'Deny', work: 'Ham'},
+instances: 2, word: 'Depends', work: 'Ham'},
+instances: 2, word: 'Desert', work: 'Ham'},
+instances: 2, word: 'Desperation', work: 'Ham'},
+instances: 2, word: 'Desp\'rate', work: 'Ham'},
+instances: 2, word: 'Destroy', work: 'Ham'},
+instances: 2, word: 'Diadem', work: 'Ham'},
+instances: 2, word: 'Diet', work: 'Ham'},
+instances: 2, word: 'Difference', work: 'Ham'},
+instances: 2, word: 'Dig', work: 'Ham'},
+instances: 2, word: 'Dignity', work: 'Ham'},
+instances: 2, word: 'Directly', work: 'Ham'},
+instances: 2, word: 'Dirt', work: 'Ham'},
+instances: 2, word: 'Disclosed', work: 'Ham'},
+instances: 2, word: 'Dishonor', work: 'Ham'},
+instances: 2, word: 'Dismal', work: 'Ham'},
+instances: 2, word: 'Dispatch', work: 'Ham'},
+instances: 2, word: 'Distraction', work: 'Ham'},
+instances: 2, word: 'Distrust', work: 'Ham'},
+instances: 2, word: 'Divide', work: 'Ham'},
+instances: 2, word: 'Divinity', work: 'Ham'},
+instances: 2, word: 'Dog', work: 'Ham'},
+instances: 2, word: 'Doubtful', work: 'Ham'},
+instances: 2, word: 'Dove', work: 'Ham'},
+instances: 2, word: 'Draws', work: 'Ham'},
+instances: 2, word: 'Drinks', work: 'Ham'},
+instances: 2, word: 'Drive', work: 'Ham'},
+instances: 2, word: 'Drowns', work: 'Ham'},
+instances: 2, word: 'Eager', work: 'Ham'},
+instances: 2, word: 'Easiness', work: 'Ham'},
+instances: 2, word: 'Easy', work: 'Ham'},
+instances: 2, word: 'Eats', work: 'Ham'},
+instances: 2, word: 'Effects', work: 'Ham'},
+instances: 2, word: 'Embrace', work: 'Ham'},
+instances: 2, word: 'Empire', work: 'Ham'},
+instances: 2, word: 'Employment', work: 'Ham'},
+instances: 2, word: 'Enact', work: 'Ham'},
+instances: 2, word: 'Ends', work: 'Ham'},
+instances: 2, word: 'Enemies', work: 'Ham'},
+instances: 2, word: 'Enterprise', work: 'Ham'},
+instances: 2, word: 'Entreaty', work: 'Ham'},
+instances: 2, word: 'Envenomed', work: 'Ham'},
+instances: 2, word: 'Envy', work: 'Ham'},
+instances: 2, word: 'Epitaph', work: 'Ham'},
+instances: 2, word: 'Equal', work: 'Ham'},
+instances: 2, word: 'Escape', work: 'Ham'},
+instances: 2, word: 'Especial', work: 'Ham'},
+instances: 2, word: 'Eternal', work: 'Ham'},
+instances: 2, word: 'Event', work: 'Ham'},
+instances: 2, word: 'Everything', work: 'Ham'},
+instances: 2, word: 'Exchange', work: 'Ham'},
+instances: 2, word: 'Exercise', work: 'Ham'},
+instances: 2, word: 'Expel', work: 'Ham'},
+instances: 2, word: 'Extremity', work: 'Ham'},
+instances: 2, word: 'Faces', work: 'Ham'},
+instances: 2, word: 'Faculties', work: 'Ham'},
+instances: 2, word: 'Falling', work: 'Ham'},
+instances: 2, word: 'Fall\'n', work: 'Ham'},
+instances: 2, word: 'Fame', work: 'Ham'},
+instances: 2, word: 'Fares', work: 'Ham'},
+instances: 2, word: 'Farm', work: 'Ham'},
+instances: 2, word: 'Fate', work: 'Ham'},
+instances: 2, word: 'Fates', work: 'Ham'},
+instances: 2, word: 'Fathers', work: 'Ham'},
+instances: 2, word: 'Favors', work: 'Ham'},
+instances: 2, word: 'Feared', work: 'Ham'},
+instances: 2, word: 'Fearful', work: 'Ham'},
+instances: 2, word: 'Fears', work: 'Ham'},
+instances: 2, word: 'Fed', work: 'Ham'},
+instances: 2, word: 'Fellowship', work: 'Ham'},
+instances: 2, word: 'Fetch', work: 'Ham'},
+instances: 2, word: 'Fighting', work: 'Ham'},
+instances: 2, word: 'Finding', work: 'Ham'},
+instances: 2, word: 'Finds', work: 'Ham'},
+instances: 2, word: 'Fines', work: 'Ham'},
+instances: 2, word: 'Fish', work: 'Ham'},
+instances: 2, word: 'Fishmonger', work: 'Ham'},
+instances: 2, word: 'Fits', work: 'Ham'},
+instances: 2, word: 'Five', work: 'Ham'},
+instances: 2, word: 'Flame', work: 'Ham'},
+instances: 2, word: 'Flames', work: 'Ham'},
+instances: 2, word: 'Flaming', work: 'Ham'},
+instances: 2, word: 'Flourish', work: 'Ham'},
+instances: 2, word: 'Foe', work: 'Ham'},
+instances: 2, word: 'Foil', work: 'Ham'},
+instances: 2, word: 'Food', work: 'Ham'},
+instances: 2, word: 'Fools', work: 'Ham'},
+instances: 2, word: 'Forbid', work: 'Ham'},
+instances: 2, word: 'Forced', work: 'Ham'},
+instances: 2, word: 'Forehead', work: 'Ham'},
+instances: 2, word: 'Forgive', work: 'Ham'},
+instances: 2, word: 'Former', work: 'Ham'},
+instances: 2, word: 'Fortunes', work: 'Ham'},
+instances: 2, word: 'Forty', work: 'Ham'},
+instances: 2, word: 'Forward', work: 'Ham'},
+instances: 2, word: 'Frankly', work: 'Ham'},
+instances: 2, word: 'Fruit', work: 'Ham'},
+instances: 2, word: 'Gain', work: 'Ham'},
+instances: 2, word: 'Gait', work: 'Ham'},
+instances: 2, word: 'Gall', work: 'Ham'},
+instances: 2, word: 'Galls', work: 'Ham'},
+instances: 2, word: 'Gaming', work: 'Ham'},
+instances: 2, word: 'Garden', work: 'Ham'},
+instances: 2, word: 'Gentry', work: 'Ham'},
+instances: 2, word: 'Giving', work: 'Ham'},
+instances: 2, word: 'Glass', work: 'Ham'},
+instances: 2, word: 'Going', work: 'Ham'},
+instances: 2, word: 'Goodness', work: 'Ham'},
+instances: 2, word: 'Got', work: 'Ham'},
+instances: 2, word: 'Graces', work: 'Ham'},
+instances: 2, word: 'Grapple', work: 'Ham'},
+instances: 2, word: 'Grave-maker', work: 'Ham'},
+instances: 2, word: 'Graves', work: 'Ham'},
+instances: 2, word: 'Greatness', work: 'Ham'},
+instances: 2, word: 'Green', work: 'Ham'},
+instances: 2, word: 'Grieve', work: 'Ham'},
+instances: 2, word: 'Guest', work: 'Ham'},
+instances: 2, word: 'Guts', work: 'Ham'},
+instances: 2, word: 'Hair', work: 'Ham'},
+instances: 2, word: 'Hall', work: 'Ham'},
+instances: 2, word: 'Harsh', work: 'Ham'},
+instances: 2, word: 'Hat', work: 'Ham'},
+instances: 2, word: 'Having', work: 'Ham'},
+instances: 2, word: 'Havior', work: 'Ham'},
+instances: 2, word: 'Heads', work: 'Ham'},
+instances: 2, word: 'Hearers', work: 'Ham'},
+instances: 2, word: 'Hearts', work: 'Ham'},
+instances: 2, word: 'Heavenly', work: 'Ham'},
+instances: 2, word: 'Heed', work: 'Ham'},
+instances: 2, word: 'Heel', work: 'Ham'},
+instances: 2, word: 'Held', work: 'Ham'},
+instances: 2, word: 'Helps', work: 'Ham'},
+instances: 2, word: 'Heraldry', work: 'Ham'},
+instances: 2, word: 'Hey', work: 'Ham'},
+instances: 2, word: 'Hid', work: 'Ham'},
+instances: 2, word: 'Hideous', work: 'Ham'},
+instances: 2, word: 'History', work: 'Ham'},
+instances: 2, word: 'Hitherto', work: 'Ham'},
+instances: 2, word: 'Hobby-horse', work: 'Ham'},
+instances: 2, word: 'Holy', work: 'Ham'},
+instances: 2, word: 'Honorable', work: 'Ham'},
+instances: 2, word: 'Horrid', work: 'Ham'},
+instances: 2, word: 'Horridly', work: 'Ham'},
+instances: 2, word: 'Horses', work: 'Ham'},
+instances: 2, word: 'Hours', work: 'Ham'},
+instances: 2, word: 'Hum', work: 'Ham'},
+instances: 2, word: 'Hundred', work: 'Ham'},
+instances: 2, word: 'Hurt', work: 'Ham'},
+instances: 2, word: 'Husband\'s', work: 'Ham'},
+instances: 2, word: 'Ice', work: 'Ham'},
+instances: 2, word: 'Immediate', work: 'Ham'},
+instances: 2, word: 'Imminent', work: 'Ham'},
+instances: 2, word: 'Impawned', work: 'Ham'},
+instances: 2, word: 'Incensed', work: 'Ham'},
+instances: 2, word: 'Inclination', work: 'Ham'},
+instances: 2, word: 'Inform', work: 'Ham'},
+instances: 2, word: 'Inquire', work: 'Ham'},
+instances: 2, word: 'Instrument', work: 'Ham'},
+instances: 2, word: 'Intent', work: 'Ham'},
+instances: 2, word: 'Issue', work: 'Ham'},
+instances: 2, word: 'Its', work: 'Ham'},
+instances: 2, word: 'Jealousy', work: 'Ham'},
+instances: 2, word: 'Jig', work: 'Ham'},
+instances: 2, word: 'Join', work: 'Ham'},
+instances: 2, word: 'Joint', work: 'Ham'},
+instances: 2, word: 'Jot', work: 'Ham'},
+instances: 2, word: 'Jove', work: 'Ham'},
+instances: 2, word: 'Joys', work: 'Ham'},
+instances: 2, word: 'Julius', work: 'Ham'},
+instances: 2, word: 'Jump', work: 'Ham'},
+instances: 2, word: 'Just', work: 'Ham'},
+instances: 2, word: 'Keen', work: 'Ham'},
+instances: 2, word: 'Kills', work: 'Ham'},
+instances: 2, word: 'Kin', work: 'Ham'},
+instances: 2, word: 'Kings', work: 'Ham'},
+instances: 2, word: 'Kisses', work: 'Ham'},
+instances: 2, word: 'Knavery', work: 'Ham'},
+instances: 2, word: 'Knavish', work: 'Ham'},
+instances: 2, word: 'Knees', work: 'Ham'},
+instances: 2, word: 'Knowest', work: 'Ham'},
+instances: 2, word: 'Knowing', work: 'Ham'},
+instances: 2, word: 'Labor', work: 'Ham'},
+instances: 2, word: 'Lap', work: 'Ham'},
+instances: 2, word: 'Larded', work: 'Ham'},
+instances: 2, word: 'Lasting', work: 'Ham'},
+instances: 2, word: 'Lawless', work: 'Ham'},
+instances: 2, word: 'Laying', work: 'Ham'},
+instances: 2, word: 'Least', work: 'Ham'},
+instances: 2, word: 'Leaves', work: 'Ham'},
+instances: 2, word: 'Level', work: 'Ham'},
+instances: 2, word: 'Levies', work: 'Ham'},
+instances: 2, word: 'Liberal', work: 'Ham'},
+instances: 2, word: 'Limbs', work: 'Ham'},
+instances: 2, word: 'Line', work: 'Ham'},
+instances: 2, word: 'Lips', work: 'Ham'},
+instances: 2, word: 'Liquor', work: 'Ham'},
+instances: 2, word: 'Lived', work: 'Ham'},
+instances: 2, word: 'Living', work: 'Ham'},
+instances: 2, word: 'Loam', work: 'Ham'},
+instances: 2, word: 'Lobby', work: 'Ham'},
+instances: 2, word: 'Lock', work: 'Ham'},
+instances: 2, word: 'Locked', work: 'Ham'},
+instances: 2, word: 'Loose', work: 'Ham'},
+instances: 2, word: 'Lunacy', work: 'Ham'},
+instances: 2, word: 'Lungs', work: 'Ham'},
+instances: 2, word: 'Lust', work: 'Ham'},
+instances: 2, word: 'Maggots', work: 'Ham'},
+instances: 2, word: 'Maiden', work: 'Ham'},
+instances: 2, word: 'Majestical', work: 'Ham'},
+instances: 2, word: 'Majesties', work: 'Ham'},
+instances: 2, word: 'Malicious', work: 'Ham'},
+instances: 2, word: 'Manners', work: 'Ham'},
+instances: 2, word: 'Marvelous', work: 'Ham'},
+instances: 2, word: 'Mason', work: 'Ham'},
+instances: 2, word: 'Matters', work: 'Ham'},
+instances: 2, word: 'Meantime', work: 'Ham'},
+instances: 2, word: 'Meeting', work: 'Ham'},
+instances: 2, word: 'Melancholy', work: 'Ham'},
+instances: 2, word: 'Melt', work: 'Ham'},
+instances: 2, word: 'Merely', work: 'Ham'},
+instances: 2, word: 'Merit', work: 'Ham'},
+instances: 2, word: 'Merry', work: 'Ham'},
+instances: 2, word: 'Method', work: 'Ham'},
+instances: 2, word: 'Middle', work: 'Ham'},
+instances: 2, word: 'Mighty', work: 'Ham'},
+instances: 2, word: 'Minds', work: 'Ham'},
+instances: 2, word: 'Mind\'s', work: 'Ham'},
+instances: 2, word: 'Mirror', work: 'Ham'},
+instances: 2, word: 'Mirth', work: 'Ham'},
+instances: 2, word: 'Mischance', work: 'Ham'},
+instances: 2, word: 'Mole', work: 'Ham'},
+instances: 2, word: 'Moment', work: 'Ham'},
+instances: 2, word: 'Money', work: 'Ham'},
+instances: 2, word: 'Mount', work: 'Ham'},
+instances: 2, word: 'Mountains', work: 'Ham'},
+instances: 2, word: 'Mouse', work: 'Ham'},
+instances: 2, word: 'Mouths', work: 'Ham'},
+instances: 2, word: 'Naked', work: 'Ham'},
+instances: 2, word: 'Nature\'s', work: 'Ham'},
+instances: 2, word: 'Naught', work: 'Ham'},
+instances: 2, word: 'Nearer', work: 'Ham'},
+instances: 2, word: 'Necessary', work: 'Ham'},
+instances: 2, word: 'Neck', work: 'Ham'},
+instances: 2, word: 'Needful', work: 'Ham'},
+instances: 2, word: 'Neglected', work: 'Ham'},
+instances: 2, word: 'Nephew', work: 'Ham'},
+instances: 2, word: 'Nephew\'s', work: 'Ham'},
+instances: 2, word: 'Neptune\'s', work: 'Ham'},
+instances: 2, word: 'New', work: 'Ham'},
+instances: 2, word: 'Ne\'er', work: 'Ham'},
+instances: 2, word: 'Norman', work: 'Ham'},
+instances: 2, word: 'Nose', work: 'Ham'},
+instances: 2, word: 'Numbers', work: 'Ham'},
+instances: 2, word: 'Oath', work: 'Ham'},
+instances: 2, word: 'Obedience', work: 'Ham'},
+instances: 2, word: 'Obligation', work: 'Ham'},
+instances: 2, word: 'Observance', work: 'Ham'},
+instances: 2, word: 'Odd', work: 'Ham'},
+instances: 2, word: 'Officers', work: 'Ham'},
+instances: 2, word: 'Often', work: 'Ham'},
+instances: 2, word: 'Ones', work: 'Ham'},
+instances: 2, word: 'Open', work: 'Ham'},
+instances: 2, word: 'Opinions', work: 'Ham'},
+instances: 2, word: 'Opposition', work: 'Ham'},
+instances: 2, word: 'Orchard', work: 'Ham'},
+instances: 2, word: 'Origin', work: 'Ham'},
+instances: 2, word: 'Ours', work: 'Ham'},
+instances: 2, word: 'Pace', work: 'Ham'},
+instances: 2, word: 'Painted', work: 'Ham'},
+instances: 2, word: 'Pair', work: 'Ham'},
+instances: 2, word: 'Palm', work: 'Ham'},
+instances: 2, word: 'Pardoned', work: 'Ham'},
+instances: 2, word: 'Parle', work: 'Ham'},
+instances: 2, word: 'Passage', work: 'Ham'},
+instances: 2, word: 'Passes', work: 'Ham'},
+instances: 2, word: 'Pastime', work: 'Ham'},
+instances: 2, word: 'Patch', work: 'Ham'},
+instances: 2, word: 'Peasant', work: 'Ham'},
+instances: 2, word: 'Peep', work: 'Ham'},
+instances: 2, word: 'Performed', work: 'Ham'},
+instances: 2, word: 'Perfume', work: 'Ham'},
+instances: 2, word: 'Pestilent', work: 'Ham'},
+instances: 2, word: 'Petty', work: 'Ham'},
+instances: 2, word: 'Philosophy', work: 'Ham'},
+instances: 2, word: 'Picked', work: 'Ham'},
+instances: 2, word: 'Picture', work: 'Ham'},
+instances: 2, word: 'Pith', work: 'Ham'},
+instances: 2, word: 'Plague', work: 'Ham'},
+instances: 2, word: 'Platform', work: 'Ham'},
+instances: 2, word: 'Player', work: 'Ham'},
+instances: 2, word: 'Playing', work: 'Ham'},
+instances: 2, word: 'Pleased', work: 'Ham'},
+instances: 2, word: 'Pleasures', work: 'Ham'},
+instances: 2, word: 'Plots', work: 'Ham'},
+instances: 2, word: 'Plucks', work: 'Ham'},
+instances: 2, word: 'Pole', work: 'Ham'},
+instances: 2, word: 'Potent', work: 'Ham'},
+instances: 2, word: 'Praise', work: 'Ham'},
+instances: 2, word: 'Praised', work: 'Ham'},
+instances: 2, word: 'Prayer', work: 'Ham'},
+instances: 2, word: 'Prayers', work: 'Ham'},
+instances: 2, word: 'Precedent', work: 'Ham'},
+instances: 2, word: 'Precious', work: 'Ham'},
+instances: 2, word: 'Pregnant', work: 'Ham'},
+instances: 2, word: 'Prepare', work: 'Ham'},
+instances: 2, word: 'Pretty', work: 'Ham'},
+instances: 2, word: 'Prevent', work: 'Ham'},
+instances: 2, word: 'Prisoner', work: 'Ham'},
+instances: 2, word: 'Proceed', work: 'Ham'},
+instances: 2, word: 'Proclaim', work: 'Ham'},
+instances: 2, word: 'Proclaims', work: 'Ham'},
+instances: 2, word: 'Prodigal', work: 'Ham'},
+instances: 2, word: 'Profound', work: 'Ham'},
+instances: 2, word: 'Promised', work: 'Ham'},
+instances: 2, word: 'Pronounced', work: 'Ham'},
+instances: 2, word: 'Proper', work: 'Ham'},
+instances: 2, word: 'Prophesy', work: 'Ham'},
+instances: 2, word: 'Propose', work: 'Ham'},
+instances: 2, word: 'Providence', work: 'Ham'},
+instances: 2, word: 'Puffed', work: 'Ham'},
+instances: 2, word: 'Purging', work: 'Ham'},
+instances: 2, word: 'Purposed', work: 'Ham'},
+instances: 2, word: 'Pursue', work: 'Ham'},
+instances: 2, word: 'Quarrel', work: 'Ham'},
+instances: 2, word: 'Quills', work: 'Ham'},
+instances: 2, word: 'Quit', work: 'Ham'},
+instances: 2, word: 'Ranker', work: 'Ham'},
+instances: 2, word: 'Rapiers', work: 'Ham'},
+instances: 2, word: 'Rate', work: 'Ham'},
+instances: 2, word: 'Reasons', work: 'Ham'},
+instances: 2, word: 'Rebellious', work: 'Ham'},
+instances: 2, word: 'Recorders', work: 'Ham'},
+instances: 2, word: 'Recoveries', work: 'Ham'},
+instances: 2, word: 'Red', work: 'Ham'},
+instances: 2, word: 'Regard', work: 'Ham'},
+instances: 2, word: 'Region', work: 'Ham'},
+instances: 2, word: 'Relieved', work: 'Ham'},
+instances: 2, word: 'Relish', work: 'Ham'},
+instances: 2, word: 'Remain', work: 'Ham'},
+instances: 2, word: 'Remove', work: 'Ham'},
+instances: 2, word: 'Repair', work: 'Ham'},
+instances: 2, word: 'Reply', work: 'Ham'},
+instances: 2, word: 'Requite', work: 'Ham'},
+instances: 2, word: 'Respect', work: 'Ham'},
+instances: 2, word: 'Rests', work: 'Ham'},
+instances: 2, word: 'Rewards', work: 'Ham'},
+instances: 2, word: 'Rhenish', work: 'Ham'},
+instances: 2, word: 'Richer', work: 'Ham'},
+instances: 2, word: 'Rights', work: 'Ham'},
+instances: 2, word: 'Ring', work: 'Ham'},
+instances: 2, word: 'Rise', work: 'Ham'},
+instances: 2, word: 'Rises', work: 'Ham'},
+instances: 2, word: 'Rite', work: 'Ham'},
+instances: 2, word: 'Roar', work: 'Ham'},
+instances: 2, word: 'Roman', work: 'Ham'},
+instances: 2, word: 'Rome', work: 'Ham'},
+instances: 2, word: 'Room', work: 'Ham'},
+instances: 2, word: 'Rotten', work: 'Ham'},
+instances: 2, word: 'Roughly', work: 'Ham'},
+instances: 2, word: 'Rub', work: 'Ham'},
+instances: 2, word: 'Rue', work: 'Ham'},
+instances: 2, word: 'Rugged', work: 'Ham'},
+instances: 2, word: 'Run', work: 'Ham'},
+instances: 2, word: 'Runs', work: 'Ham'},
+instances: 2, word: 'Sable', work: 'Ham'},
+instances: 2, word: 'Sables', work: 'Ham'},
+instances: 2, word: 'Safe', work: 'Ham'},
+instances: 2, word: 'Safely', work: 'Ham'},
+instances: 2, word: 'Salvation', work: 'Ham'},
+instances: 2, word: 'Sat', work: 'Ham'},
+instances: 2, word: 'Sayst', work: 'Ham'},
+instances: 2, word: 'Scale', work: 'Ham'},
+instances: 2, word: 'Scandal', work: 'Ham'},
+instances: 2, word: 'Scarce', work: 'Ham'},
+instances: 2, word: 'Scarcely', work: 'Ham'},
+instances: 2, word: 'Scourge', work: 'Ham'},
+instances: 2, word: 'Scripture', work: 'Ham'},
+instances: 2, word: 'Seat', work: 'Ham'},
+instances: 2, word: 'Secure', work: 'Ham'},
+instances: 2, word: 'Seeks', work: 'Ham'},
+instances: 2, word: 'Seemed', work: 'Ham'},
+instances: 2, word: 'Seeming', work: 'Ham'},
+instances: 2, word: 'Sending', work: 'Ham'},
+instances: 2, word: 'Senseless', work: 'Ham'},
+instances: 2, word: 'Serpent', work: 'Ham'},
+instances: 2, word: 'Servants', work: 'Ham'},
+instances: 2, word: 'Serve', work: 'Ham'},
+instances: 2, word: 'Served', work: 'Ham'},
+instances: 2, word: 'Serves', work: 'Ham'},
+instances: 2, word: 'Sets', work: 'Ham'},
+instances: 2, word: 'Shake', work: 'Ham'},
+instances: 2, word: 'She\'ll', work: 'Ham'},
+instances: 2, word: 'Ship', work: 'Ham'},
+instances: 2, word: 'Shipwright', work: 'Ham'},
+instances: 2, word: 'Shoes', work: 'Ham'},
+instances: 2, word: 'Shoulder', work: 'Ham'},
+instances: 2, word: 'Shouldst', work: 'Ham'},
+instances: 2, word: 'Shown', work: 'Ham'},
+instances: 2, word: 'Shuffling', work: 'Ham'},
+instances: 2, word: 'Sickly', work: 'Ham'},
+instances: 2, word: 'Sickness', work: 'Ham'},
+instances: 2, word: 'Side', work: 'Ham'},
+instances: 2, word: 'Signify', work: 'Ham'},
+instances: 2, word: 'Sin', work: 'Ham'},
+instances: 2, word: 'Sinews', work: 'Ham'},
+instances: 2, word: 'Single', work: 'Ham'},
+instances: 2, word: 'Slightly', work: 'Ham'},
+instances: 2, word: 'Smile', work: 'Ham'},
+instances: 2, word: 'Smooth', work: 'Ham'},
+instances: 2, word: 'Soil', work: 'Ham'},
+instances: 2, word: 'Soldier', work: 'Ham'},
+instances: 2, word: 'Soldier\'s', work: 'Ham'},
+instances: 2, word: 'Songs', work: 'Ham'},
+instances: 2, word: 'Sooner', work: 'Ham'},
+instances: 2, word: 'Source', work: 'Ham'},
+instances: 2, word: 'Spoke', work: 'Ham'},
+instances: 2, word: 'Spoken', work: 'Ham'},
+instances: 2, word: 'Spokes', work: 'Ham'},
+instances: 2, word: 'Spread', work: 'Ham'},
+instances: 2, word: 'Spurns', work: 'Ham'},
+instances: 2, word: 'Stamp', work: 'Ham'},
+instances: 2, word: 'Station', work: 'Ham'},
+instances: 2, word: 'Step', work: 'Ham'},
+instances: 2, word: 'Sting', work: 'Ham'},
+instances: 2, word: 'Stone', work: 'Ham'},
+instances: 2, word: 'Stops', work: 'Ham'},
+instances: 2, word: 'Strangely', work: 'Ham'},
+instances: 2, word: 'Straw', work: 'Ham'},
+instances: 2, word: 'Streets', work: 'Ham'},
+instances: 2, word: 'Strength', work: 'Ham'},
+instances: 2, word: 'Strict', work: 'Ham'},
+instances: 2, word: 'Strike', work: 'Ham'},
+instances: 2, word: 'Strumpet', work: 'Ham'},
+instances: 2, word: 'Substance', work: 'Ham'},
+instances: 2, word: 'Succession', work: 'Ham'},
+instances: 2, word: 'Sucked', work: 'Ham'},
+instances: 2, word: 'Sultry', work: 'Ham'},
+instances: 2, word: 'Sum', work: 'Ham'},
+instances: 2, word: 'Summit', work: 'Ham'},
+instances: 2, word: 'Supper', work: 'Ham'},
+instances: 2, word: 'Suppress', work: 'Ham'},
+instances: 2, word: 'Sweat', work: 'Ham'},
+instances: 2, word: 'Sweep', work: 'Ham'},
+instances: 2, word: 'Swift', work: 'Ham'},
+instances: 2, word: 'Tables', work: 'Ham'},
+instances: 2, word: 'Talk', work: 'Ham'},
+instances: 2, word: 'Talked', work: 'Ham'},
+instances: 2, word: 'Tardy', work: 'Ham'},
+instances: 2, word: 'Tedious', work: 'Ham'},
+instances: 2, word: 'Teeth', work: 'Ham'},
+instances: 2, word: 'Term', work: 'Ham'},
+instances: 2, word: 'Throne', work: 'Ham'},
+instances: 2, word: 'Thrown', work: 'Ham'},
+instances: 2, word: 'Thunder', work: 'Ham'},
+instances: 2, word: 'Today', work: 'Ham'},
+instances: 2, word: 'Toe', work: 'Ham'},
+instances: 2, word: 'Toy', work: 'Ham'},
+instances: 2, word: 'Trace', work: 'Ham'},
+instances: 2, word: 'Trade', work: 'Ham'},
+instances: 2, word: 'Tragedy', work: 'Ham'},
+instances: 2, word: 'Trail', work: 'Ham'},
+instances: 2, word: 'Translate', work: 'Ham'},
+instances: 2, word: 'Travel', work: 'Ham'},
+instances: 2, word: 'Treacherous', work: 'Ham'},
+instances: 2, word: 'Treachery', work: 'Ham'},
+instances: 2, word: 'Treble', work: 'Ham'},
+instances: 2, word: 'Tremble', work: 'Ham'},
+instances: 2, word: 'Tribute', work: 'Ham'},
+instances: 2, word: 'Trouble', work: 'Ham'},
+instances: 2, word: 'Troubles', work: 'Ham'},
+instances: 2, word: 'Truant', work: 'Ham'},
+instances: 2, word: 'Trust', work: 'Ham'},
+instances: 2, word: 'Tush', work: 'Ham'},
+instances: 2, word: 'Twain', work: 'Ham'},
+instances: 2, word: 'Unbated', work: 'Ham'},
+instances: 2, word: 'Unction', work: 'Ham'},
+instances: 2, word: 'Undertake', work: 'Ham'},
+instances: 2, word: 'Union', work: 'Ham'},
+instances: 2, word: 'Unknown', work: 'Ham'},
+instances: 2, word: 'Unworthy', work: 'Ham'},
+instances: 2, word: 'Used', work: 'Ham'},
+instances: 2, word: 'Valiant', work: 'Ham'},
+instances: 2, word: 'Vantage', work: 'Ham'},
+instances: 2, word: 'Variable', work: 'Ham'},
+instances: 2, word: 'Vengeance', work: 'Ham'},
+instances: 2, word: 'Venom', work: 'Ham'},
+instances: 2, word: 'View', work: 'Ham'},
+instances: 2, word: 'Violets', work: 'Ham'},
+instances: 2, word: 'Virtues', work: 'Ham'},
+instances: 2, word: 'Voltemand', work: 'Ham'},
+instances: 2, word: 'Vouchers', work: 'Ham'},
+instances: 2, word: 'Vow', work: 'Ham'},
+instances: 2, word: 'Voyage', work: 'Ham'},
+instances: 2, word: 'Vulgar', work: 'Ham'},
+instances: 2, word: 'Wag', work: 'Ham'},
+instances: 2, word: 'Wait', work: 'Ham'},
+instances: 2, word: 'Walks', work: 'Ham'},
+instances: 2, word: 'Want', work: 'Ham'},
+instances: 2, word: 'Wants', work: 'Ham'},
+instances: 2, word: 'War', work: 'Ham'},
+instances: 2, word: 'Wars', work: 'Ham'},
+instances: 2, word: 'Wary', work: 'Ham'},
+instances: 2, word: 'Wash', work: 'Ham'},
+instances: 2, word: 'Waste', work: 'Ham'},
+instances: 2, word: 'Wax', work: 'Ham'},
+instances: 2, word: 'Waxes', work: 'Ham'},
+instances: 2, word: 'Weak', work: 'Ham'},
+instances: 2, word: 'Weakness', work: 'Ham'},
+instances: 2, word: 'Weapon', work: 'Ham'},
+instances: 2, word: 'Wears', work: 'Ham'},
+instances: 2, word: 'Weary', work: 'Ham'},
+instances: 2, word: 'Weasel', work: 'Ham'},
+instances: 2, word: 'Weigh', work: 'Ham'},
+instances: 2, word: 'Weighed', work: 'Ham'},
+instances: 2, word: 'Whale', work: 'Ham'},
+instances: 2, word: 'Whereof', work: 'Ham'},
+instances: 2, word: 'Where\'s', work: 'Ham'},
+instances: 2, word: 'Whips', work: 'Ham'},
+instances: 2, word: 'Whisper', work: 'Ham'},
+instances: 2, word: 'Whoreson', work: 'Ham'},
+instances: 2, word: 'Wildly', work: 'Ham'},
+instances: 2, word: 'Willing', work: 'Ham'},
+instances: 2, word: 'Willingly', work: 'Ham'},
+instances: 2, word: 'Wings', work: 'Ham'},
+instances: 2, word: 'Wipe', work: 'Ham'},
+instances: 2, word: 'Wise', work: 'Ham'},
+instances: 2, word: 'Wisely', work: 'Ham'},
+instances: 2, word: 'Witchcraft', work: 'Ham'},
+instances: 2, word: 'Witness', work: 'Ham'},
+instances: 2, word: 'Wittingly', work: 'Ham'},
+instances: 2, word: 'Women', work: 'Ham'},
+instances: 2, word: 'Wonderful', work: 'Ham'},
+instances: 2, word: 'Wonted', work: 'Ham'},
+instances: 2, word: 'Working', work: 'Ham'},
+instances: 2, word: 'World\'s', work: 'Ham'},
+instances: 2, word: 'Wronged', work: 'Ham'},
+instances: 2, word: 'Wrote', work: 'Ham'},
+instances: 2, word: 'Yield', work: 'Ham'},
+instances: 2, word: 'Yonder', work: 'Ham'},
+instances: 2, word: 'You\'ll', work: 'Ham'},
+instances: 2, word: '\'a', work: 'Ham'},
+instances: 2, word: '\'r', work: 'Ham'},
+instances: 2, word: '\'sblood', work: 'Ham'},
+instances: 2, word: '\'scape', work: 'Ham'},
+instances: 2, word: '\'swounds', work: 'Ham'},
+instances: 2, word: '\'twixt', work: 'Ham'},
+instances: 1, word: 'ases', work: 'Ham'},
+instances: 1, word: 'heaven-kissing', work: 'Ham'},
+instances: 1, word: 'A-cursing', work: 'Ham'},
+instances: 1, word: 'A-down-a', work: 'Ham'},
+instances: 1, word: 'A-making', work: 'Ham'},
+instances: 1, word: 'A-praying', work: 'Ham'},
+instances: 1, word: 'A-swearing', work: 'Ham'},
+instances: 1, word: 'A-work', work: 'Ham'},
+instances: 1, word: 'Abate', work: 'Ham'},
+instances: 1, word: 'Abatements', work: 'Ham'},
+instances: 1, word: 'Abhorred', work: 'Ham'},
+instances: 1, word: 'Ability', work: 'Ham'},
+instances: 1, word: 'Able', work: 'Ham'},
+instances: 1, word: 'Abominably', work: 'Ham'},
+instances: 1, word: 'Abridgment', work: 'Ham'},
+instances: 1, word: 'Abroad', work: 'Ham'},
+instances: 1, word: 'Absent', work: 'Ham'},
+instances: 1, word: 'Abstinence', work: 'Ham'},
+instances: 1, word: 'Abstract', work: 'Ham'},
+instances: 1, word: 'Abuse', work: 'Ham'},
+instances: 1, word: 'Abused', work: 'Ham'},
+instances: 1, word: 'Abuses', work: 'Ham'},
+instances: 1, word: 'Access', work: 'Ham'},
+instances: 1, word: 'Accidental', work: 'Ham'},
+instances: 1, word: 'Accidents', work: 'Ham'},
+instances: 1, word: 'Accord', work: 'Ham'},
+instances: 1, word: 'Account', work: 'Ham'},
+instances: 1, word: 'Accounted', work: 'Ham'},
+instances: 1, word: 'Accurst', work: 'Ham'},
+instances: 1, word: 'Accuse', work: 'Ham'},
+instances: 1, word: 'Ache', work: 'Ham'},
+instances: 1, word: 'Achievements', work: 'Ham'},
+instances: 1, word: 'Acquaint', work: 'Ham'},
+instances: 1, word: 'Acquire', work: 'Ham'},
+instances: 1, word: 'Acquittance', work: 'Ham'},
+instances: 1, word: 'Acres', work: 'Ham'},
+instances: 1, word: 'Across', work: 'Ham'},
+instances: 1, word: 'Acted', work: 'Ham'},
+instances: 1, word: 'Acting', work: 'Ham'},
+instances: 1, word: 'Actively', work: 'Ham'},
+instances: 1, word: 'Adam', work: 'Ham'},
+instances: 1, word: 'Adam\'s', work: 'Ham'},
+instances: 1, word: 'Adders', work: 'Ham'},
+instances: 1, word: 'Addicted', work: 'Ham'},
+instances: 1, word: 'Address', work: 'Ham'},
+instances: 1, word: 'Adheres', work: 'Ham'},
+instances: 1, word: 'Adjoined', work: 'Ham'},
+instances: 1, word: 'Admirable', work: 'Ham'},
+instances: 1, word: 'Admittance', work: 'Ham'},
+instances: 1, word: 'Adoption', work: 'Ham'},
+instances: 1, word: 'Adulterate', work: 'Ham'},
+instances: 1, word: 'Advanced', work: 'Ham'},
+instances: 1, word: 'Advantage', work: 'Ham'},
+instances: 1, word: 'Adventurous', work: 'Ham'},
+instances: 1, word: 'Advise', work: 'Ham'},
+instances: 1, word: 'Aeneas\'', work: 'Ham'},
+instances: 1, word: 'Aerie', work: 'Ham'},
+instances: 1, word: 'Afeard', work: 'Ham'},
+instances: 1, word: 'Affairs', work: 'Ham'},
+instances: 1, word: 'Affections', work: 'Ham'},
+instances: 1, word: 'Afflict', work: 'Ham'},
+instances: 1, word: 'Afflictions', work: 'Ham'},
+instances: 1, word: 'Afflicts', work: 'Ham'},
+instances: 1, word: 'Affrighted', work: 'Ham'},
+instances: 1, word: 'Affront', work: 'Ham'},
+instances: 1, word: 'Afoot', work: 'Ham'},
+instances: 1, word: 'Afraid', work: 'Ham'},
+instances: 1, word: 'Afternoon', work: 'Ham'},
+instances: 1, word: 'Afterwards', work: 'Ham'},
+instances: 1, word: 'Ago', work: 'Ham'},
+instances: 1, word: 'Agreeing', work: 'Ham'},
+instances: 1, word: 'Aid', work: 'Ham'},
+instances: 1, word: 'Aim', work: 'Ham'},
+instances: 1, word: 'Aimed', work: 'Ham'},
+instances: 1, word: 'Airs', work: 'Ham'},
+instances: 1, word: 'Airy', work: 'Ham'},
+instances: 1, word: 'Allegiance', work: 'Ham'},
+instances: 1, word: 'Alleys', work: 'Ham'},
+instances: 1, word: 'Allow', work: 'Ham'},
+instances: 1, word: 'All\'s', work: 'Ham'},
+instances: 1, word: 'Also', work: 'Ham'},
+instances: 1, word: 'Altitude', work: 'Ham'},
+instances: 1, word: 'Altogether', work: 'Ham'},
+instances: 1, word: 'Always', work: 'Ham'},
+instances: 1, word: 'Amaze', work: 'Ham'},
+instances: 1, word: 'Amazed', work: 'Ham'},
+instances: 1, word: 'Ambassador', work: 'Ham'},
+instances: 1, word: 'Amber', work: 'Ham'},
+instances: 1, word: 'Ambiguous', work: 'Ham'},
+instances: 1, word: 'Amble', work: 'Ham'},
+instances: 1, word: 'Amen', work: 'Ham'},
+instances: 1, word: 'Amities', work: 'Ham'},
+instances: 1, word: 'Among', work: 'Ham'},
+instances: 1, word: 'Anchor\'s', work: 'Ham'},
+instances: 1, word: 'Ancient', work: 'Ham'},
+instances: 1, word: 'Anger', work: 'Ham'},
+instances: 1, word: 'Angle', work: 'Ham'},
+instances: 1, word: 'Angry', work: 'Ham'},
+instances: 1, word: 'Animals', work: 'Ham'},
+instances: 1, word: 'Ankle', work: 'Ham'},
+instances: 1, word: 'Annexment', work: 'Ham'},
+instances: 1, word: 'Annual', work: 'Ham'},
+instances: 1, word: 'Anoint', work: 'Ham'},
+instances: 1, word: 'Another\'s', work: 'Ham'},
+instances: 1, word: 'Answered', work: 'Ham'},
+instances: 1, word: 'Answerest', work: 'Ham'},
+instances: 1, word: 'Answers', work: 'Ham'},
+instances: 1, word: 'Antic', work: 'Ham'},
+instances: 1, word: 'Anticipation', work: 'Ham'},
+instances: 1, word: 'Antiquity', work: 'Ham'},
+instances: 1, word: 'Apiece', work: 'Ham'},
+instances: 1, word: 'Apoplexed', work: 'Ham'},
+instances: 1, word: 'Appall', work: 'Ham'},
+instances: 1, word: 'Apparel', work: 'Ham'},
+instances: 1, word: 'Appeareth', work: 'Ham'},
+instances: 1, word: 'Appetite', work: 'Ham'},
+instances: 1, word: 'Applaud', work: 'Ham'},
+instances: 1, word: 'Apple', work: 'Ham'},
+instances: 1, word: 'Appliance', work: 'Ham'},
+instances: 1, word: 'Appointment', work: 'Ham'},
+instances: 1, word: 'Appurtenance', work: 'Ham'},
+instances: 1, word: 'Aptly', work: 'Ham'},
+instances: 1, word: 'Ardor', work: 'Ham'},
+instances: 1, word: 'Argues', work: 'Ham'},
+instances: 1, word: 'Aright', work: 'Ham'},
+instances: 1, word: 'Arithmetic', work: 'Ham'},
+instances: 1, word: 'Army', work: 'Ham'},
+instances: 1, word: 'Armèd', work: 'Ham'},
+instances: 1, word: 'Arousèd', work: 'Ham'},
+instances: 1, word: 'Arraign', work: 'Ham'},
+instances: 1, word: 'Arrest', work: 'Ham'},
+instances: 1, word: 'Arrests', work: 'Ham'},
+instances: 1, word: 'Arrived', work: 'Ham'},
+instances: 1, word: 'Arrow', work: 'Ham'},
+instances: 1, word: 'Articles', work: 'Ham'},
+instances: 1, word: 'Artless', work: 'Ham'},
+instances: 1, word: 'Arture', work: 'Ham'},
+instances: 1, word: 'Ashamed', work: 'Ham'},
+instances: 1, word: 'Askant', work: 'Ham'},
+instances: 1, word: 'Asked', work: 'Ham'},
+instances: 1, word: 'Asleep', work: 'Ham'},
+instances: 1, word: 'Aspect', work: 'Ham'},
+instances: 1, word: 'Assail', work: 'Ham'},
+instances: 1, word: 'Assault', work: 'Ham'},
+instances: 1, word: 'Assayed', work: 'Ham'},
+instances: 1, word: 'Assays', work: 'Ham'},
+instances: 1, word: 'Associates', work: 'Ham'},
+instances: 1, word: 'Assure', work: 'Ham'},
+instances: 1, word: 'Asunder', work: 'Ham'},
+instances: 1, word: 'Attended', work: 'Ham'},
+instances: 1, word: 'Attends', work: 'Ham'},
+instances: 1, word: 'Attent', work: 'Ham'},
+instances: 1, word: 'Attractive', work: 'Ham'},
+instances: 1, word: 'Attribute', work: 'Ham'},
+instances: 1, word: 'Audit', work: 'Ham'},
+instances: 1, word: 'Augury', work: 'Ham'},
+instances: 1, word: 'Aunt-mother', work: 'Ham'},
+instances: 1, word: 'Auspicious', work: 'Ham'},
+instances: 1, word: 'Authorities', work: 'Ham'},
+instances: 1, word: 'Avouch', work: 'Ham'},
+instances: 1, word: 'Awry', work: 'Ham'},
+instances: 1, word: 'Aye', work: 'Ham'},
+instances: 1, word: 'Babe', work: 'Ham'},
+instances: 1, word: 'Backed', work: 'Ham'},
+instances: 1, word: 'Backward', work: 'Ham'},
+instances: 1, word: 'Bade', work: 'Ham'},
+instances: 1, word: 'Bait', work: 'Ham'},
+instances: 1, word: 'Baker\'s', work: 'Ham'},
+instances: 1, word: 'Ban', work: 'Ham'},
+instances: 1, word: 'Bands', work: 'Ham'},
+instances: 1, word: 'Baptista', work: 'Ham'},
+instances: 1, word: 'Bar', work: 'Ham'},
+instances: 1, word: 'Barber\'s', work: 'Ham'},
+instances: 1, word: 'Bare', work: 'Ham'},
+instances: 1, word: 'Barefaced', work: 'Ham'},
+instances: 1, word: 'Barefoot', work: 'Ham'},
+instances: 1, word: 'Bark', work: 'Ham'},
+instances: 1, word: 'Barked', work: 'Ham'},
+instances: 1, word: 'Barred', work: 'Ham'},
+instances: 1, word: 'Barrel', work: 'Ham'},
+instances: 1, word: 'Barren', work: 'Ham'},
+instances: 1, word: 'Baseness', work: 'Ham'},
+instances: 1, word: 'Bastard', work: 'Ham'},
+instances: 1, word: 'Bat', work: 'Ham'},
+instances: 1, word: 'Bated', work: 'Ham'},
+instances: 1, word: 'Battalions', work: 'Ham'},
+instances: 1, word: 'Batten', work: 'Ham'},
+instances: 1, word: 'Battery', work: 'Ham'},
+instances: 1, word: 'Battlements', work: 'Ham'},
+instances: 1, word: 'Bawd', work: 'Ham'},
+instances: 1, word: 'Bawdry', work: 'Ham'},
+instances: 1, word: 'Bawds', work: 'Ham'},
+instances: 1, word: 'Bawdy', work: 'Ham'},
+instances: 1, word: 'Beam', work: 'Ham'},
+instances: 1, word: 'Beards', work: 'Ham'},
+instances: 1, word: 'Beaten', work: 'Ham'},
+instances: 1, word: 'Beats', work: 'Ham'},
+instances: 1, word: 'Beauteous', work: 'Ham'},
+instances: 1, word: 'Beautied', work: 'Ham'},
+instances: 1, word: 'Beauties', work: 'Ham'},
+instances: 1, word: 'Beaver', work: 'Ham'},
+instances: 1, word: 'Became', work: 'Ham'},
+instances: 1, word: 'Because', work: 'Ham'},
+instances: 1, word: 'Beck', work: 'Ham'},
+instances: 1, word: 'Beckons', work: 'Ham'},
+instances: 1, word: 'Bedded', work: 'Ham'},
+instances: 1, word: 'Bedrid', work: 'Ham'},
+instances: 1, word: 'Beds', work: 'Ham'},
+instances: 1, word: 'Beer', work: 'Ham'},
+instances: 1, word: 'Beetles', work: 'Ham'},
+instances: 1, word: 'Befallen', work: 'Ham'},
+instances: 1, word: 'Befitted', work: 'Ham'},
+instances: 1, word: 'Beget', work: 'Ham'},
+instances: 1, word: 'Beggared', work: 'Ham'},
+instances: 1, word: 'Beggars', work: 'Ham'},
+instances: 1, word: 'Beggars\'', work: 'Ham'},
+instances: 1, word: 'Behaved', work: 'Ham'},
+instances: 1, word: 'Behooves', work: 'Ham'},
+instances: 1, word: 'Behove', work: 'Ham'},
+instances: 1, word: 'Belief', work: 'Ham'},
+instances: 1, word: 'Believed', work: 'Ham'},
+instances: 1, word: 'Bellow', work: 'Ham'},
+instances: 1, word: 'Bellowed', work: 'Ham'},
+instances: 1, word: 'Bells', work: 'Ham'},
+instances: 1, word: 'Beloved', work: 'Ham'},
+instances: 1, word: 'Bended', work: 'Ham'},
+instances: 1, word: 'Beneath', work: 'Ham'},
+instances: 1, word: 'Benefit', work: 'Ham'},
+instances: 1, word: 'Benetted', work: 'Ham'},
+instances: 1, word: 'Berattle', work: 'Ham'},
+instances: 1, word: 'Beseeched', work: 'Ham'},
+instances: 1, word: 'Beshrew', work: 'Ham'},
+instances: 1, word: 'Besides', work: 'Ham'},
+instances: 1, word: 'Besmirch', work: 'Ham'},
+instances: 1, word: 'Bespeak', work: 'Ham'},
+instances: 1, word: 'Bestial', work: 'Ham'},
+instances: 1, word: 'Bet', work: 'Ham'},
+instances: 1, word: 'Beteem', work: 'Ham'},
+instances: 1, word: 'Bethought', work: 'Ham'},
+instances: 1, word: 'Betime', work: 'Ham'},
+instances: 1, word: 'Betimes', work: 'Ham'},
+instances: 1, word: 'Betoken', work: 'Ham'},
+instances: 1, word: 'Bewept', work: 'Ham'},
+instances: 1, word: 'Bias', work: 'Ham'},
+instances: 1, word: 'Bier', work: 'Ham'},
+instances: 1, word: 'Bilboes', work: 'Ham'},
+instances: 1, word: 'Birds', work: 'Ham'},
+instances: 1, word: 'Bisson', work: 'Ham'},
+instances: 1, word: 'Bites', work: 'Ham'},
+instances: 1, word: 'Blackest', work: 'Ham'},
+instances: 1, word: 'Blanket', work: 'Ham'},
+instances: 1, word: 'Blanks', work: 'Ham'},
+instances: 1, word: 'Blasting', work: 'Ham'},
+instances: 1, word: 'Blastments', work: 'Ham'},
+instances: 1, word: 'Blasts', work: 'Ham'},
+instances: 1, word: 'Blaze', work: 'Ham'},
+instances: 1, word: 'Blazes', work: 'Ham'},
+instances: 1, word: 'Blazon', work: 'Ham'},
+instances: 1, word: 'Bleeding', work: 'Ham'},
+instances: 1, word: 'Blench', work: 'Ham'},
+instances: 1, word: 'Blessed', work: 'Ham'},
+instances: 1, word: 'Blest', work: 'Ham'},
+instances: 1, word: 'Blister', work: 'Ham'},
+instances: 1, word: 'Bloat', work: 'Ham'},
+instances: 1, word: 'Bloodily', work: 'Ham'},
+instances: 1, word: 'Blossoms', work: 'Ham'},
+instances: 1, word: 'Blue', work: 'Ham'},
+instances: 1, word: 'Blunted', work: 'Ham'},
+instances: 1, word: 'Blurs', work: 'Ham'},
+instances: 1, word: 'Board', work: 'Ham'},
+instances: 1, word: 'Boarded', work: 'Ham'},
+instances: 1, word: 'Bodes', work: 'Ham'},
+instances: 1, word: 'Bodiless', work: 'Ham'},
+instances: 1, word: 'Bodkin', work: 'Ham'},
+instances: 1, word: 'Bodykins', work: 'Ham'},
+instances: 1, word: 'Boist\'rous', work: 'Ham'},
+instances: 1, word: 'Bonds', work: 'Ham'},
+instances: 1, word: 'Bonnet', work: 'Ham'},
+instances: 1, word: 'Bonny', work: 'Ham'},
+instances: 1, word: 'Books', work: 'Ham'},
+instances: 1, word: 'Borrowed', work: 'Ham'},
+instances: 1, word: 'Borrower', work: 'Ham'},
+instances: 1, word: 'Borrowing', work: 'Ham'},
+instances: 1, word: 'Botch', work: 'Ham'},
+instances: 1, word: 'Boughs', work: 'Ham'},
+instances: 1, word: 'Bought', work: 'Ham'},
+instances: 1, word: 'Bounded', work: 'Ham'},
+instances: 1, word: 'Bounds', work: 'Ham'},
+instances: 1, word: 'Bounteous', work: 'Ham'},
+instances: 1, word: 'Bounty', work: 'Ham'},
+instances: 1, word: 'Bourn', work: 'Ham'},
+instances: 1, word: 'Bout', work: 'Ham'},
+instances: 1, word: 'Bouts', work: 'Ham'},
+instances: 1, word: 'Bowl', work: 'Ham'},
+instances: 1, word: 'Box', work: 'Ham'},
+instances: 1, word: 'Boys', work: 'Ham'},
+instances: 1, word: 'Brainish', work: 'Ham'},
+instances: 1, word: 'Branches', work: 'Ham'},
+instances: 1, word: 'Brands', work: 'Ham'},
+instances: 1, word: 'Bravery', work: 'Ham'},
+instances: 1, word: 'Bray', work: 'Ham'},
+instances: 1, word: 'Brazed', work: 'Ham'},
+instances: 1, word: 'Brazen', work: 'Ham'},
+instances: 1, word: 'Breach', work: 'Ham'},
+instances: 1, word: 'Bread', work: 'Ham'},
+instances: 1, word: 'Breadth', work: 'Ham'},
+instances: 1, word: 'Breaking', work: 'Ham'},
+instances: 1, word: 'Breast', work: 'Ham'},
+instances: 1, word: 'Breathes', work: 'Ham'},
+instances: 1, word: 'Breeder', work: 'Ham'},
+instances: 1, word: 'Breeding', work: 'Ham'},
+instances: 1, word: 'Brevity', work: 'Ham'},
+instances: 1, word: 'Bride-bed', work: 'Ham'},
+instances: 1, word: 'Bringing', work: 'Ham'},
+instances: 1, word: 'Brings', work: 'Ham'},
+instances: 1, word: 'Broken', work: 'Ham'},
+instances: 1, word: 'Brokers', work: 'Ham'},
+instances: 1, word: 'Brooch', work: 'Ham'},
+instances: 1, word: 'Brood', work: 'Ham'},
+instances: 1, word: 'Brothel', work: 'Ham'},
+instances: 1, word: 'Brothers\'', work: 'Ham'},
+instances: 1, word: 'Bruit', work: 'Ham'},
+instances: 1, word: 'Brute', work: 'Ham'},
+instances: 1, word: 'Brutus', work: 'Ham'},
+instances: 1, word: 'Bubbles', work: 'Ham'},
+instances: 1, word: 'Budge', work: 'Ham'},
+instances: 1, word: 'Buffets', work: 'Ham'},
+instances: 1, word: 'Bugs', work: 'Ham'},
+instances: 1, word: 'Build', work: 'Ham'},
+instances: 1, word: 'Built', work: 'Ham'},
+instances: 1, word: 'Bulwark', work: 'Ham'},
+instances: 1, word: 'Bunghole', work: 'Ham'},
+instances: 1, word: 'Burden', work: 'Ham'},
+instances: 1, word: 'Burnt', work: 'Ham'},
+instances: 1, word: 'Busy', work: 'Ham'},
+instances: 1, word: 'Button', work: 'Ham'},
+instances: 1, word: 'Buttons', work: 'Ham'},
+instances: 1, word: 'Buy', work: 'Ham'},
+instances: 1, word: 'Buyer', work: 'Ham'},
+instances: 1, word: 'Buys', work: 'Ham'},
+instances: 1, word: 'Buzzers', work: 'Ham'},
+instances: 1, word: 'Cabin', work: 'Ham'},
+instances: 1, word: 'Cain\'s', work: 'Ham'},
+instances: 1, word: 'Calamity', work: 'Ham'},
+instances: 1, word: 'Calendar', work: 'Ham'},
+instances: 1, word: 'Calf', work: 'Ham'},
+instances: 1, word: 'Calmly', work: 'Ham'},
+instances: 1, word: 'Calumnious', work: 'Ham'},
+instances: 1, word: 'Calumny', work: 'Ham'},
+instances: 1, word: 'Calves', work: 'Ham'},
+instances: 1, word: 'Calves\'', work: 'Ham'},
+instances: 1, word: 'Candied', work: 'Ham'},
+instances: 1, word: 'Cannoneer', work: 'Ham'},
+instances: 1, word: 'Cannons', work: 'Ham'},
+instances: 1, word: 'Canon', work: 'Ham'},
+instances: 1, word: 'Canonized', work: 'Ham'},
+instances: 1, word: 'Canopy', work: 'Ham'},
+instances: 1, word: 'Cap-à-pie', work: 'Ham'},
+instances: 1, word: 'Capability', work: 'Ham'},
+instances: 1, word: 'Capitol', work: 'Ham'},
+instances: 1, word: 'Capons', work: 'Ham'},
+instances: 1, word: 'Caps', work: 'Ham'},
+instances: 1, word: 'Captain', work: 'Ham'},
+instances: 1, word: 'Captains', work: 'Ham'},
+instances: 1, word: 'Carbuncles', work: 'Ham'},
+instances: 1, word: 'Carefully', work: 'Ham'},
+instances: 1, word: 'Careless', work: 'Ham'},
+instances: 1, word: 'Carnal', work: 'Ham'},
+instances: 1, word: 'Carouses', work: 'Ham'},
+instances: 1, word: 'Carp', work: 'Ham'},
+instances: 1, word: 'Carriage', work: 'Ham'},
+instances: 1, word: 'Carries', work: 'Ham'},
+instances: 1, word: 'Carrion', work: 'Ham'},
+instances: 1, word: 'Carrying', work: 'Ham'},
+instances: 1, word: 'Cart', work: 'Ham'},
+instances: 1, word: 'Carters', work: 'Ham'},
+instances: 1, word: 'Carve', work: 'Ham'},
+instances: 1, word: 'Case', work: 'Ham'},
+instances: 1, word: 'Cases', work: 'Ham'},
+instances: 1, word: 'Casual', work: 'Ham'},
+instances: 1, word: 'Cat', work: 'Ham'},
+instances: 1, word: 'Cataplasm', work: 'Ham'},
+instances: 1, word: 'Cautel', work: 'Ham'},
+instances: 1, word: 'Caution', work: 'Ham'},
+instances: 1, word: 'Caviary', work: 'Ham'},
+instances: 1, word: 'Cease', work: 'Ham'},
+instances: 1, word: 'Celebrated', work: 'Ham'},
+instances: 1, word: 'Cell', work: 'Ham'},
+instances: 1, word: 'Cellarage', work: 'Ham'},
+instances: 1, word: 'Center', work: 'Ham'},
+instances: 1, word: 'Cerements', work: 'Ham'},
+instances: 1, word: 'Certainty', work: 'Ham'},
+instances: 1, word: 'Cess', work: 'Ham'},
+instances: 1, word: 'Chalice', work: 'Ham'},
+instances: 1, word: 'Challenger', work: 'Ham'},
+instances: 1, word: 'Chameleon\'s', work: 'Ham'},
+instances: 1, word: 'Changeling', work: 'Ham'},
+instances: 1, word: 'Changes', work: 'Ham'},
+instances: 1, word: 'Changèd', work: 'Ham'},
+instances: 1, word: 'Chanson', work: 'Ham'},
+instances: 1, word: 'Chanted', work: 'Ham'},
+instances: 1, word: 'Chapfallen', work: 'Ham'},
+instances: 1, word: 'Chapless', work: 'Ham'},
+instances: 1, word: 'Chariest', work: 'Ham'},
+instances: 1, word: 'Charity', work: 'Ham'},
+instances: 1, word: 'Charm', work: 'Ham'},
+instances: 1, word: 'Chase', work: 'Ham'},
+instances: 1, word: 'Checking', work: 'Ham'},
+instances: 1, word: 'Cherub', work: 'Ham'},
+instances: 1, word: 'Chide', work: 'Ham'},
+instances: 1, word: 'Chiefest', work: 'Ham'},
+instances: 1, word: 'Chiefly', work: 'Ham'},
+instances: 1, word: 'Chopine', work: 'Ham'},
+instances: 1, word: 'Chorus', work: 'Ham'},
+instances: 1, word: 'Chough', work: 'Ham'},
+instances: 1, word: 'Christians', work: 'Ham'},
+instances: 1, word: 'Christians\'', work: 'Ham'},
+instances: 1, word: 'Chronicles', work: 'Ham'},
+instances: 1, word: 'Churches', work: 'Ham'},
+instances: 1, word: 'Churchyards', work: 'Ham'},
+instances: 1, word: 'Churlish', work: 'Ham'},
+instances: 1, word: 'Cicatrice', work: 'Ham'},
+instances: 1, word: 'Circumscribed', work: 'Ham'},
+instances: 1, word: 'Circumstances', work: 'Ham'},
+instances: 1, word: 'Circumvent', work: 'Ham'},
+instances: 1, word: 'Clad', work: 'Ham'},
+instances: 1, word: 'Claim', work: 'Ham'},
+instances: 1, word: 'Clamb\'ring', work: 'Ham'},
+instances: 1, word: 'Clamor', work: 'Ham'},
+instances: 1, word: 'Clapped', work: 'Ham'},
+instances: 1, word: 'Claudio', work: 'Ham'},
+instances: 1, word: 'Clawed', work: 'Ham'},
+instances: 1, word: 'Clear', work: 'Ham'},
+instances: 1, word: 'Clearly', work: 'Ham'},
+instances: 1, word: 'Cleave', work: 'Ham'},
+instances: 1, word: 'Cleft', work: 'Ham'},
+instances: 1, word: 'Clemency', work: 'Ham'},
+instances: 1, word: 'Clepe', work: 'Ham'},
+instances: 1, word: 'Cliff', work: 'Ham'},
+instances: 1, word: 'Climatures', work: 'Ham'},
+instances: 1, word: 'Cloak', work: 'Ham'},
+instances: 1, word: 'Closely', work: 'Ham'},
+instances: 1, word: 'Clothe', work: 'Ham'},
+instances: 1, word: 'Cloud', work: 'Ham'},
+instances: 1, word: 'Clout', work: 'Ham'},
+instances: 1, word: 'Clouts', work: 'Ham'},
+instances: 1, word: 'Clown', work: 'Ham'},
+instances: 1, word: 'Clowns', work: 'Ham'},
+instances: 1, word: 'Clutch', work: 'Ham'},
+instances: 1, word: 'Coach', work: 'Ham'},
+instances: 1, word: 'Coagulate', work: 'Ham'},
+instances: 1, word: 'Cockle', work: 'Ham'},
+instances: 1, word: 'Coil', work: 'Ham'},
+instances: 1, word: 'Coinage', work: 'Ham'},
+instances: 1, word: 'Collateral', work: 'Ham'},
+instances: 1, word: 'Colleaguèd', work: 'Ham'},
+instances: 1, word: 'Columbines', work: 'Ham'},
+instances: 1, word: 'Comart', work: 'Ham'},
+instances: 1, word: 'Combat', work: 'Ham'},
+instances: 1, word: 'Combated', work: 'Ham'},
+instances: 1, word: 'Combination', work: 'Ham'},
+instances: 1, word: 'Combinèd', work: 'Ham'},
+instances: 1, word: 'Comfort', work: 'Ham'},
+instances: 1, word: 'Coming-o\'er', work: 'Ham'},
+instances: 1, word: 'Comma', work: 'Ham'},
+instances: 1, word: 'Commanded', work: 'Ham'},
+instances: 1, word: 'Commands', work: 'Ham'},
+instances: 1, word: 'Commeddled', work: 'Ham'},
+instances: 1, word: 'Commencement', work: 'Ham'},
+instances: 1, word: 'Commendable', work: 'Ham'},
+instances: 1, word: 'Commended', work: 'Ham'},
+instances: 1, word: 'Comment', work: 'Ham'},
+instances: 1, word: 'Commerce', work: 'Ham'},
+instances: 1, word: 'Commune', work: 'Ham'},
+instances: 1, word: 'Commutual', work: 'Ham'},
+instances: 1, word: 'Compact', work: 'Ham'},
+instances: 1, word: 'Companies', work: 'Ham'},
+instances: 1, word: 'Companions', work: 'Ham'},
+instances: 1, word: 'Company', work: 'Ham'},
+instances: 1, word: 'Compare', work: 'Ham'},
+instances: 1, word: 'Compass', work: 'Ham'},
+instances: 1, word: 'Competent', work: 'Ham'},
+instances: 1, word: 'Complete', work: 'Ham'},
+instances: 1, word: 'Composed', work: 'Ham'},
+instances: 1, word: 'Compost', work: 'Ham'},
+instances: 1, word: 'Compound', work: 'Ham'},
+instances: 1, word: 'Compounded', work: 'Ham'},
+instances: 1, word: 'Compulsatory', work: 'Ham'},
+instances: 1, word: 'Compulsive', work: 'Ham'},
+instances: 1, word: 'Concealed', work: 'Ham'},
+instances: 1, word: 'Conceive', work: 'Ham'},
+instances: 1, word: 'Conception', work: 'Ham'},
+instances: 1, word: 'Concernancy', work: 'Ham'},
+instances: 1, word: 'Concernings', work: 'Ham'},
+instances: 1, word: 'Concluded', work: 'Ham'},
+instances: 1, word: 'Conclusions', work: 'Ham'},
+instances: 1, word: 'Condolement', work: 'Ham'},
+instances: 1, word: 'Confederate', work: 'Ham'},
+instances: 1, word: 'Confined', work: 'Ham'},
+instances: 1, word: 'Confines', work: 'Ham'},
+instances: 1, word: 'Confront', work: 'Ham'},
+instances: 1, word: 'Confusion', work: 'Ham'},
+instances: 1, word: 'Congregation', work: 'Ham'},
+instances: 1, word: 'Congruing', work: 'Ham'},
+instances: 1, word: 'Conjectures', work: 'Ham'},
+instances: 1, word: 'Conjoined', work: 'Ham'},
+instances: 1, word: 'Conjunctive', work: 'Ham'},
+instances: 1, word: 'Conjuration', work: 'Ham'},
+instances: 1, word: 'Conjure', work: 'Ham'},
+instances: 1, word: 'Conjures', work: 'Ham'},
+instances: 1, word: 'Conqueror', work: 'Ham'},
+instances: 1, word: 'Conquest', work: 'Ham'},
+instances: 1, word: 'Consonancy', work: 'Ham'},
+instances: 1, word: 'Constant', work: 'Ham'},
+instances: 1, word: 'Constantly', work: 'Ham'},
+instances: 1, word: 'Consummation', work: 'Ham'},
+instances: 1, word: 'Contagious', work: 'Ham'},
+instances: 1, word: 'Containing', work: 'Ham'},
+instances: 1, word: 'Contend', work: 'Ham'},
+instances: 1, word: 'Contents', work: 'Ham'},
+instances: 1, word: 'Continual', work: 'Ham'},
+instances: 1, word: 'Contract', work: 'Ham'},
+instances: 1, word: 'Contracted', work: 'Ham'},
+instances: 1, word: 'Contraction', work: 'Ham'},
+instances: 1, word: 'Contrary', work: 'Ham'},
+instances: 1, word: 'Contriving', work: 'Ham'},
+instances: 1, word: 'Controversy', work: 'Ham'},
+instances: 1, word: 'Contumely', work: 'Ham'},
+instances: 1, word: 'Convenience', work: 'Ham'},
+instances: 1, word: 'Convenient', work: 'Ham'},
+instances: 1, word: 'Conversation', work: 'Ham'},
+instances: 1, word: 'Converse', work: 'Ham'},
+instances: 1, word: 'Converted', work: 'Ham'},
+instances: 1, word: 'Conveyance', work: 'Ham'},
+instances: 1, word: 'Conveyances', work: 'Ham'},
+instances: 1, word: 'Convocation', work: 'Ham'},
+instances: 1, word: 'Cool', work: 'Ham'},
+instances: 1, word: 'Coped', work: 'Ham'},
+instances: 1, word: 'Copied', work: 'Ham'},
+instances: 1, word: 'Core', work: 'Ham'},
+instances: 1, word: 'Cornelius', work: 'Ham'},
+instances: 1, word: 'Corner', work: 'Ham'},
+instances: 1, word: 'Coronation', work: 'Ham'},
+instances: 1, word: 'Coronet', work: 'Ham'},
+instances: 1, word: 'Corrupted', work: 'Ham'},
+instances: 1, word: 'Corses', work: 'Ham'},
+instances: 1, word: 'Costly', work: 'Ham'},
+instances: 1, word: 'Couchèd', work: 'Ham'},
+instances: 1, word: 'Counselor', work: 'Ham'},
+instances: 1, word: 'Counter', work: 'Ham'},
+instances: 1, word: 'Counterfeit', work: 'Ham'},
+instances: 1, word: 'Countries', work: 'Ham'},
+instances: 1, word: 'Countrymen', work: 'Ham'},
+instances: 1, word: 'Country\'s', work: 'Ham'},
+instances: 1, word: 'Count\'nance', work: 'Ham'},
+instances: 1, word: 'Couple', work: 'Ham'},
+instances: 1, word: 'Couplets', work: 'Ham'},
+instances: 1, word: 'Courage', work: 'Ham'},
+instances: 1, word: 'Courses', work: 'Ham'},
+instances: 1, word: 'Courteous', work: 'Ham'},
+instances: 1, word: 'Courtesy', work: 'Ham'},
+instances: 1, word: 'Courtiers', work: 'Ham'},
+instances: 1, word: 'Courtier\'s', work: 'Ham'},
+instances: 1, word: 'Cowards', work: 'Ham'},
+instances: 1, word: 'Cozenage', work: 'Ham'},
+instances: 1, word: 'Cozened', work: 'Ham'},
+instances: 1, word: 'Crab', work: 'Ham'},
+instances: 1, word: 'Crack', work: 'Ham'},
+instances: 1, word: 'Cracked', work: 'Ham'},
+instances: 1, word: 'Cracks', work: 'Ham'},
+instances: 1, word: 'Crafts', work: 'Ham'},
+instances: 1, word: 'Crafty', work: 'Ham'},
+instances: 1, word: 'Crants', work: 'Ham'},
+instances: 1, word: 'Crash', work: 'Ham'},
+instances: 1, word: 'Craven', work: 'Ham'},
+instances: 1, word: 'Craves', work: 'Ham'},
+instances: 1, word: 'Crawling', work: 'Ham'},
+instances: 1, word: 'Creation', work: 'Ham'},
+instances: 1, word: 'Credent', work: 'Ham'},
+instances: 1, word: 'Creep', work: 'Ham'},
+instances: 1, word: 'Crescent', work: 'Ham'},
+instances: 1, word: 'Crib', work: 'Ham'},
+instances: 1, word: 'Criminal', work: 'Ham'},
+instances: 1, word: 'Croaking', work: 'Ham'},
+instances: 1, word: 'Crocodile', work: 'Ham'},
+instances: 1, word: 'Crook', work: 'Ham'},
+instances: 1, word: 'Cross', work: 'Ham'},
+instances: 1, word: 'Crowflowers', work: 'Ham'},
+instances: 1, word: 'Crowing', work: 'Ham'},
+instances: 1, word: 'Crowner', work: 'Ham'},
+instances: 1, word: 'Crowner\'s', work: 'Ham'},
+instances: 1, word: 'Crowns', work: 'Ham'},
+instances: 1, word: 'Crust', work: 'Ham'},
+instances: 1, word: 'Cuckold', work: 'Ham'},
+instances: 1, word: 'Cudgel', work: 'Ham'},
+instances: 1, word: 'Cue', work: 'Ham'},
+instances: 1, word: 'Cuffs', work: 'Ham'},
+instances: 1, word: 'Cunnings', work: 'Ham'},
+instances: 1, word: 'Cups', work: 'Ham'},
+instances: 1, word: 'Curb', work: 'Ham'},
+instances: 1, word: 'Curd', work: 'Ham'},
+instances: 1, word: 'Cure', work: 'Ham'},
+instances: 1, word: 'Curiously', work: 'Ham'},
+instances: 1, word: 'Curls', work: 'Ham'},
+instances: 1, word: 'Curse', work: 'Ham'},
+instances: 1, word: 'Customary', work: 'Ham'},
+instances: 1, word: 'Cutpurse', work: 'Ham'},
+instances: 1, word: 'Cyclops\'', work: 'Ham'},
+instances: 1, word: 'Dagger', work: 'Ham'},
+instances: 1, word: 'Daily', work: 'Ham'},
+instances: 1, word: 'Daintier', work: 'Ham'},
+instances: 1, word: 'Daisies', work: 'Ham'},
+instances: 1, word: 'Daisy', work: 'Ham'},
+instances: 1, word: 'Dalliance', work: 'Ham'},
+instances: 1, word: 'Dally', work: 'Ham'},
+instances: 1, word: 'Dallying', work: 'Ham'},
+instances: 1, word: 'Damn', work: 'Ham'},
+instances: 1, word: 'Damnable', work: 'Ham'},
+instances: 1, word: 'Damnation', work: 'Ham'},
+instances: 1, word: 'Damon', work: 'Ham'},
+instances: 1, word: 'Danskers', work: 'Ham'},
+instances: 1, word: 'Dared', work: 'Ham'},
+instances: 1, word: 'Dark', work: 'Ham'},
+instances: 1, word: 'Darkest', work: 'Ham'},
+instances: 1, word: 'Dar\'st', work: 'Ham'},
+instances: 1, word: 'Daughters', work: 'Ham'},
+instances: 1, word: 'Dawning', work: 'Ham'},
+instances: 1, word: 'Deal', work: 'Ham'},
+instances: 1, word: 'Dealt', work: 'Ham'},
+instances: 1, word: 'Dearth', work: 'Ham'},
+instances: 1, word: 'Deathbed', work: 'Ham'},
+instances: 1, word: 'Deaths', work: 'Ham'},
+instances: 1, word: 'Debate', work: 'Ham'},
+instances: 1, word: 'Debatement', work: 'Ham'},
+instances: 1, word: 'Debt', work: 'Ham'},
+instances: 1, word: 'Decayer', work: 'Ham'},
+instances: 1, word: 'Decked', work: 'Ham'},
+instances: 1, word: 'Declension', work: 'Ham'},
+instances: 1, word: 'Decline', work: 'Ham'},
+instances: 1, word: 'Declining', work: 'Ham'},
+instances: 1, word: 'Deeds', work: 'Ham'},
+instances: 1, word: 'Deeply', work: 'Ham'},
+instances: 1, word: 'Deer', work: 'Ham'},
+instances: 1, word: 'Defeated', work: 'Ham'},
+instances: 1, word: 'Defeats', work: 'Ham'},
+instances: 1, word: 'Defective', work: 'Ham'},
+instances: 1, word: 'Define', work: 'Ham'},
+instances: 1, word: 'Definement', work: 'Ham'},
+instances: 1, word: 'Defy', work: 'Ham'},
+instances: 1, word: 'Deject', work: 'Ham'},
+instances: 1, word: 'Dejected', work: 'Ham'},
+instances: 1, word: 'Delays', work: 'Ham'},
+instances: 1, word: 'Deliberate', work: 'Ham'},
+instances: 1, word: 'Delve', work: 'Ham'},
+instances: 1, word: 'Delver', work: 'Ham'},
+instances: 1, word: 'Demanded', work: 'Ham'},
+instances: 1, word: 'Demi-natured', work: 'Ham'},
+instances: 1, word: 'Demonstrated', work: 'Ham'},
+instances: 1, word: 'Denied', work: 'Ham'},
+instances: 1, word: 'Denies', work: 'Ham'},
+instances: 1, word: 'Denote', work: 'Ham'},
+instances: 1, word: 'Depart', work: 'Ham'},
+instances: 1, word: 'Departed', work: 'Ham'},
+instances: 1, word: 'Deprive', work: 'Ham'},
+instances: 1, word: 'Deprived', work: 'Ham'},
+instances: 1, word: 'Deserve', work: 'Ham'},
+instances: 1, word: 'Deserved', work: 'Ham'},
+instances: 1, word: 'Designed', work: 'Ham'},
+instances: 1, word: 'Desirous', work: 'Ham'},
+instances: 1, word: 'Desk', work: 'Ham'},
+instances: 1, word: 'Despised', work: 'Ham'},
+instances: 1, word: 'Despite', work: 'Ham'},
+instances: 1, word: 'Detecting', work: 'Ham'},
+instances: 1, word: 'Determination', work: 'Ham'},
+instances: 1, word: 'Determine', work: 'Ham'},
+instances: 1, word: 'Device', work: 'Ham'},
+instances: 1, word: 'Devices', work: 'Ham'},
+instances: 1, word: 'Devise', work: 'Ham'},
+instances: 1, word: 'Devised', work: 'Ham'},
+instances: 1, word: 'Devotion\'s', work: 'Ham'},
+instances: 1, word: 'Devoutly', work: 'Ham'},
+instances: 1, word: 'Dews', work: 'Ham'},
+instances: 1, word: 'Dexterity', work: 'Ham'},
+instances: 1, word: 'Diameter', work: 'Ham'},
+instances: 1, word: 'Dicers\'', work: 'Ham'},
+instances: 1, word: 'Diction', work: 'Ham'},
+instances: 1, word: 'Dido', work: 'Ham'},
+instances: 1, word: 'Differences', work: 'Ham'},
+instances: 1, word: 'Different', work: 'Ham'},
+instances: 1, word: 'Digested', work: 'Ham'},
+instances: 1, word: 'Digged', work: 'Ham'},
+instances: 1, word: 'Dilated', work: 'Ham'},
+instances: 1, word: 'Dild', work: 'Ham'},
+instances: 1, word: 'Diligence', work: 'Ham'},
+instances: 1, word: 'Dip', work: 'Ham'},
+instances: 1, word: 'Dipping', work: 'Ham'},
+instances: 1, word: 'Dire', work: 'Ham'},
+instances: 1, word: 'Directions', work: 'Ham'},
+instances: 1, word: 'Dirge', work: 'Ham'},
+instances: 1, word: 'Dirty', work: 'Ham'},
+instances: 1, word: 'Disappointed', work: 'Ham'},
+instances: 1, word: 'Disasters', work: 'Ham'},
+instances: 1, word: 'Disclaiming', work: 'Ham'},
+instances: 1, word: 'Disclose', work: 'Ham'},
+instances: 1, word: 'Discomfort', work: 'Ham'},
+instances: 1, word: 'Discord', work: 'Ham'},
+instances: 1, word: 'Discovery', work: 'Ham'},
+instances: 1, word: 'Disease', work: 'Ham'},
+instances: 1, word: 'Diseased', work: 'Ham'},
+instances: 1, word: 'Diseases', work: 'Ham'},
+instances: 1, word: 'Dish', work: 'Ham'},
+instances: 1, word: 'Dishes', work: 'Ham'},
+instances: 1, word: 'Disjoint', work: 'Ham'},
+instances: 1, word: 'Dislike', work: 'Ham'},
+instances: 1, word: 'Dismantled', work: 'Ham'},
+instances: 1, word: 'Dismay', work: 'Ham'},
+instances: 1, word: 'Dispatched', work: 'Ham'},
+instances: 1, word: 'Distant', work: 'Ham'},
+instances: 1, word: 'Distempered', work: 'Ham'},
+instances: 1, word: 'Distilled', work: 'Ham'},
+instances: 1, word: 'Distilment', work: 'Ham'},
+instances: 1, word: 'Distinguish', work: 'Ham'},
+instances: 1, word: 'Distract', work: 'Ham'},
+instances: 1, word: 'Distress', work: 'Ham'},
+instances: 1, word: 'Ditchers', work: 'Ham'},
+instances: 1, word: 'Divided', work: 'Ham'},
+instances: 1, word: 'Divine', work: 'Ham'},
+instances: 1, word: 'Divulging', work: 'Ham'},
+instances: 1, word: 'Doctor', work: 'Ham'},
+instances: 1, word: 'Document', work: 'Ham'},
+instances: 1, word: 'Dogs', work: 'Ham'},
+instances: 1, word: 'Doing', work: 'Ham'},
+instances: 1, word: 'Dole', work: 'Ham'},
+instances: 1, word: 'Dominions', work: 'Ham'},
+instances: 1, word: 'Donned', work: 'Ham'},
+instances: 1, word: 'Doom', work: 'Ham'},
+instances: 1, word: 'Doomed', work: 'Ham'},
+instances: 1, word: 'Dotes', work: 'Ham'},
+instances: 1, word: 'Doublet', work: 'Ham'},
+instances: 1, word: 'Doubts', work: 'Ham'},
+instances: 1, word: 'Down-gyvèd', work: 'Ham'},
+instances: 1, word: 'Dowry', work: 'Ham'},
+instances: 1, word: 'Dozy', work: 'Ham'},
+instances: 1, word: 'Drab', work: 'Ham'},
+instances: 1, word: 'Drabbing', work: 'Ham'},
+instances: 1, word: 'Dragged', work: 'Ham'},
+instances: 1, word: 'Drains', work: 'Ham'},
+instances: 1, word: 'Dram', work: 'Ham'},
+instances: 1, word: 'Draughts', work: 'Ham'},
+instances: 1, word: 'Dreaded', work: 'Ham'},
+instances: 1, word: 'Dreadfully', work: 'Ham'},
+instances: 1, word: 'Dreamt', work: 'Ham'},
+instances: 1, word: 'Drinking', work: 'Ham'},
+instances: 1, word: 'Driven', work: 'Ham'},
+instances: 1, word: 'Drives', work: 'Ham'},
+instances: 1, word: 'Drooping', work: 'Ham'},
+instances: 1, word: 'Drop', work: 'Ham'},
+instances: 1, word: 'Dropping', work: 'Ham'},
+instances: 1, word: 'Droppings', work: 'Ham'},
+instances: 1, word: 'Drossy', work: 'Ham'},
+instances: 1, word: 'Drugs', work: 'Ham'},
+instances: 1, word: 'Drum', work: 'Ham'},
+instances: 1, word: 'Drunk', work: 'Ham'},
+instances: 1, word: 'Drunkards', work: 'Ham'},
+instances: 1, word: 'Ducat', work: 'Ham'},
+instances: 1, word: 'Due', work: 'Ham'},
+instances: 1, word: 'Dug', work: 'Ham'},
+instances: 1, word: 'Duke\'s', work: 'Ham'},
+instances: 1, word: 'Duller', work: 'Ham'},
+instances: 1, word: 'Dulls', work: 'Ham'},
+instances: 1, word: 'Dungeons', work: 'Ham'},
+instances: 1, word: 'Dupped', work: 'Ham'},
+instances: 1, word: 'Duties', work: 'Ham'},
+instances: 1, word: 'Dwelling', work: 'Ham'},
+instances: 1, word: 'Dye', work: 'Ham'},
+instances: 1, word: 'Dying', work: 'Ham'},
+instances: 1, word: 'Earnest', work: 'Ham'},
+instances: 1, word: 'Earthly', work: 'Ham'},
+instances: 1, word: 'Easier', work: 'Ham'},
+instances: 1, word: 'Easily', work: 'Ham'},
+instances: 1, word: 'Easing', work: 'Ham'},
+instances: 1, word: 'East', work: 'Ham'},
+instances: 1, word: 'Eastward', work: 'Ham'},
+instances: 1, word: 'Eaten', work: 'Ham'},
+instances: 1, word: 'Eclipse', work: 'Ham'},
+instances: 1, word: 'Edified', work: 'Ham'},
+instances: 1, word: 'Eggshell', work: 'Ham'},
+instances: 1, word: 'Eight', work: 'Ham'},
+instances: 1, word: 'Eisel', work: 'Ham'},
+instances: 1, word: 'Elder', work: 'Ham'},
+instances: 1, word: 'Eldest', work: 'Ham'},
+instances: 1, word: 'Element', work: 'Ham'},
+instances: 1, word: 'Eleven', work: 'Ham'},
+instances: 1, word: 'Eloquent', work: 'Ham'},
+instances: 1, word: 'Embarked', work: 'Ham'},
+instances: 1, word: 'Emperor', work: 'Ham'},
+instances: 1, word: 'Emphasis', work: 'Ham'},
+instances: 1, word: 'Employ', work: 'Ham'},
+instances: 1, word: 'Empty', work: 'Ham'},
+instances: 1, word: 'Emulate', work: 'Ham'},
+instances: 1, word: 'Enactures', work: 'Ham'},
+instances: 1, word: 'Encompassment', work: 'Ham'},
+instances: 1, word: 'Encorpsed', work: 'Ham'},
+instances: 1, word: 'Encountered', work: 'Ham'},
+instances: 1, word: 'Encumbered', work: 'Ham'},
+instances: 1, word: 'Endeavor', work: 'Ham'},
+instances: 1, word: 'Ended', work: 'Ham'},
+instances: 1, word: 'Ending', work: 'Ham'},
+instances: 1, word: 'Endued', work: 'Ham'},
+instances: 1, word: 'Endure', work: 'Ham'},
+instances: 1, word: 'Engaged', work: 'Ham'},
+instances: 1, word: 'Enginer', work: 'Ham'},
+instances: 1, word: 'England\'s', work: 'Ham'},
+instances: 1, word: 'Enlarged', work: 'Ham'},
+instances: 1, word: 'Enmity', work: 'Ham'},
+instances: 1, word: 'Enseamèd', work: 'Ham'},
+instances: 1, word: 'Enterprises', work: 'Ham'},
+instances: 1, word: 'Entrance', work: 'Ham'},
+instances: 1, word: 'Entreated', work: 'Ham'},
+instances: 1, word: 'Entreatments', work: 'Ham'},
+instances: 1, word: 'Envenom', work: 'Ham'},
+instances: 1, word: 'Envious', work: 'Ham'},
+instances: 1, word: 'Enviously', work: 'Ham'},
+instances: 1, word: 'Equivocation', work: 'Ham'},
+instances: 1, word: 'Err', work: 'Ham'},
+instances: 1, word: 'Erring', work: 'Ham'},
+instances: 1, word: 'Errors', work: 'Ham'},
+instances: 1, word: 'Eruption', work: 'Ham'},
+instances: 1, word: 'Escoted', work: 'Ham'},
+instances: 1, word: 'Especially', work: 'Ham'},
+instances: 1, word: 'Espials', work: 'Ham'},
+instances: 1, word: 'Essentially', work: 'Ham'},
+instances: 1, word: 'Esteemed', work: 'Ham'},
+instances: 1, word: 'Estimation', work: 'Ham'},
+instances: 1, word: 'Et', work: 'Ham'},
+instances: 1, word: 'Etc.', work: 'Ham'},
+instances: 1, word: 'Eterne', work: 'Ham'},
+instances: 1, word: 'Eternity', work: 'Ham'},
+instances: 1, word: 'Even-christian', work: 'Ham'},
+instances: 1, word: 'Events', work: 'Ham'},
+instances: 1, word: 'Ever-preserved', work: 'Ham'},
+instances: 1, word: 'Everlasting', work: 'Ham'},
+instances: 1, word: 'Evermore', work: 'Ham'},
+instances: 1, word: 'Everyone', work: 'Ham'},
+instances: 1, word: 'Evidence', work: 'Ham'},
+instances: 1, word: 'Exact', work: 'Ham'},
+instances: 1, word: 'Exactly', work: 'Ham'},
+instances: 1, word: 'Examples', work: 'Ham'},
+instances: 1, word: 'Exceed', work: 'Ham'},
+instances: 1, word: 'Exceedingly', work: 'Ham'},
+instances: 1, word: 'Exception', work: 'Ham'},
+instances: 1, word: 'Excitements', work: 'Ham'},
+instances: 1, word: 'Exclaim', work: 'Ham'},
+instances: 1, word: 'Excrements', work: 'Ham'},
+instances: 1, word: 'Excuse', work: 'Ham'},
+instances: 1, word: 'Exercises', work: 'Ham'},
+instances: 1, word: 'Exhort', work: 'Ham'},
+instances: 1, word: 'Expectancy', work: 'Ham'},
+instances: 1, word: 'Expend', work: 'Ham'},
+instances: 1, word: 'Expense', work: 'Ham'},
+instances: 1, word: 'Exploit', work: 'Ham'},
+instances: 1, word: 'Exposing', work: 'Ham'},
+instances: 1, word: 'Expostulate', work: 'Ham'},
+instances: 1, word: 'Expressed', work: 'Ham'},
+instances: 1, word: 'Extant', work: 'Ham'},
+instances: 1, word: 'Extent', work: 'Ham'},
+instances: 1, word: 'Exterior', work: 'Ham'},
+instances: 1, word: 'Extinct', work: 'Ham'},
+instances: 1, word: 'Extolment', work: 'Ham'},
+instances: 1, word: 'Extorted', work: 'Ham'},
+instances: 1, word: 'Extravagant', work: 'Ham'},
+instances: 1, word: 'Eyases', work: 'Ham'},
+instances: 1, word: 'Eyelids', work: 'Ham'},
+instances: 1, word: 'E\'er', work: 'Ham'},
+instances: 1, word: 'Faction', work: 'Ham'},
+instances: 1, word: 'Faded', work: 'Ham'},
+instances: 1, word: 'Fail', work: 'Ham'},
+instances: 1, word: 'Failed', work: 'Ham'},
+instances: 1, word: 'Fairly', work: 'Ham'},
+instances: 1, word: 'Fairy', work: 'Ham'},
+instances: 1, word: 'Falconers', work: 'Ham'},
+instances: 1, word: 'Falsehood', work: 'Ham'},
+instances: 1, word: 'Falsely', work: 'Ham'},
+instances: 1, word: 'Familiar', work: 'Ham'},
+instances: 1, word: 'Famous', work: 'Ham'},
+instances: 1, word: 'Fanged', work: 'Ham'},
+instances: 1, word: 'Fanned', work: 'Ham'},
+instances: 1, word: 'Fantastic', work: 'Ham'},
+instances: 1, word: 'Fardels', work: 'Ham'},
+instances: 1, word: 'Fathoms', work: 'Ham'},
+instances: 1, word: 'Fatness', work: 'Ham'},
+instances: 1, word: 'Fatted', work: 'Ham'},
+instances: 1, word: 'Favorite', work: 'Ham'},
+instances: 1, word: 'Fawning', work: 'Ham'},
+instances: 1, word: 'Fay', work: 'Ham'},
+instances: 1, word: 'Fear-surprisèd', work: 'Ham'},
+instances: 1, word: 'Fearing', work: 'Ham'},
+instances: 1, word: 'Feather', work: 'Ham'},
+instances: 1, word: 'Feathers', work: 'Ham'},
+instances: 1, word: 'Feats', work: 'Ham'},
+instances: 1, word: 'Feature', work: 'Ham'},
+instances: 1, word: 'Feeds', work: 'Ham'},
+instances: 1, word: 'Feel', work: 'Ham'},
+instances: 1, word: 'Feelingly', work: 'Ham'},
+instances: 1, word: 'Feels', work: 'Ham'},
+instances: 1, word: 'Feet', work: 'Ham'},
+instances: 1, word: 'Felicity', work: 'Ham'},
+instances: 1, word: 'Fellies', work: 'Ham'},
+instances: 1, word: 'Fellow\'s', work: 'Ham'},
+instances: 1, word: 'Female', work: 'Ham'},
+instances: 1, word: 'Fencing', work: 'Ham'},
+instances: 1, word: 'Fennel', work: 'Ham'},
+instances: 1, word: 'Fertile', work: 'Ham'},
+instances: 1, word: 'Fetters', work: 'Ham'},
+instances: 1, word: 'Fiction', work: 'Ham'},
+instances: 1, word: 'Field', work: 'Ham'},
+instances: 1, word: 'Fiends', work: 'Ham'},
+instances: 1, word: 'Fifty', work: 'Ham'},
+instances: 1, word: 'Filial', work: 'Ham'},
+instances: 1, word: 'Fill', work: 'Ham'},
+instances: 1, word: 'Film', work: 'Ham'},
+instances: 1, word: 'Find\'st', work: 'Ham'},
+instances: 1, word: 'Finger', work: 'Ham'},
+instances: 1, word: 'Fingered', work: 'Ham'},
+instances: 1, word: 'Fires', work: 'Ham'},
+instances: 1, word: 'Firm', work: 'Ham'},
+instances: 1, word: 'Firmament', work: 'Ham'},
+instances: 1, word: 'Fitness', work: 'Ham'},
+instances: 1, word: 'Fitted', work: 'Ham'},
+instances: 1, word: 'Fitting', work: 'Ham'},
+instances: 1, word: 'Flagon', work: 'Ham'},
+instances: 1, word: 'Flash', work: 'Ham'},
+instances: 1, word: 'Flashes', work: 'Ham'},
+instances: 1, word: 'Flats', work: 'Ham'},
+instances: 1, word: 'Flatter', work: 'Ham'},
+instances: 1, word: 'Flattered', work: 'Ham'},
+instances: 1, word: 'Flattering', work: 'Ham'},
+instances: 1, word: 'Flaw', work: 'Ham'},
+instances: 1, word: 'Flaxen', work: 'Ham'},
+instances: 1, word: 'Flies', work: 'Ham'},
+instances: 1, word: 'Flights', work: 'Ham'},
+instances: 1, word: 'Flints', work: 'Ham'},
+instances: 1, word: 'Flood', work: 'Ham'},
+instances: 1, word: 'Flourishes', work: 'Ham'},
+instances: 1, word: 'Flowers', work: 'Ham'},
+instances: 1, word: 'Flush', work: 'Ham'},
+instances: 1, word: 'Flushing', work: 'Ham'},
+instances: 1, word: 'Foh', work: 'Ham'},
+instances: 1, word: 'Folded', work: 'Ham'},
+instances: 1, word: 'Folk', work: 'Ham'},
+instances: 1, word: 'Folly', work: 'Ham'},
+instances: 1, word: 'Fond', work: 'Ham'},
+instances: 1, word: 'Foolery', work: 'Ham'},
+instances: 1, word: 'Forbear', work: 'Ham'},
+instances: 1, word: 'Forcing', work: 'Ham'},
+instances: 1, word: 'Fordo', work: 'Ham'},
+instances: 1, word: 'Fordoes', work: 'Ham'},
+instances: 1, word: 'Foreign', work: 'Ham'},
+instances: 1, word: 'Foreknowing', work: 'Ham'},
+instances: 1, word: 'Foresaid', work: 'Ham'},
+instances: 1, word: 'Forest', work: 'Ham'},
+instances: 1, word: 'Forestall', work: 'Ham'},
+instances: 1, word: 'Forestallèd', work: 'Ham'},
+instances: 1, word: 'Forever', work: 'Ham'},
+instances: 1, word: 'Forfeit', work: 'Ham'},
+instances: 1, word: 'Forged', work: 'Ham'},
+instances: 1, word: 'Forgeries', work: 'Ham'},
+instances: 1, word: 'Forgery', work: 'Ham'},
+instances: 1, word: 'Forgetting', work: 'Ham'},
+instances: 1, word: 'Forgiveness', work: 'Ham'},
+instances: 1, word: 'Forgone', work: 'Ham'},
+instances: 1, word: 'Forgotten', work: 'Ham'},
+instances: 1, word: 'Forgèd', work: 'Ham'},
+instances: 1, word: 'Formal', work: 'Ham'},
+instances: 1, word: 'Forthwith', work: 'Ham'},
+instances: 1, word: 'Fortified', work: 'Ham'},
+instances: 1, word: 'Forts', work: 'Ham'},
+instances: 1, word: 'Fought', work: 'Ham'},
+instances: 1, word: 'Fouled', work: 'Ham'},
+instances: 1, word: 'Fox', work: 'Ham'},
+instances: 1, word: 'Frailty', work: 'Ham'},
+instances: 1, word: 'Francisco', work: 'Ham'},
+instances: 1, word: 'Free-footed', work: 'Ham'},
+instances: 1, word: 'Freeze', work: 'Ham'},
+instances: 1, word: 'Frenchman', work: 'Ham'},
+instances: 1, word: 'Fret', work: 'Ham'},
+instances: 1, word: 'Fretted', work: 'Ham'},
+instances: 1, word: 'Friending', work: 'Ham'},
+instances: 1, word: 'Friendship', work: 'Ham'},
+instances: 1, word: 'Frighted', work: 'Ham'},
+instances: 1, word: 'Frock', work: 'Ham'},
+instances: 1, word: 'Front', work: 'Ham'},
+instances: 1, word: 'Frontier', work: 'Ham'},
+instances: 1, word: 'Frost', work: 'Ham'},
+instances: 1, word: 'Frowned', work: 'Ham'},
+instances: 1, word: 'Frowningly', work: 'Ham'},
+instances: 1, word: 'Fruitful', work: 'Ham'},
+instances: 1, word: 'Fruits', work: 'Ham'},
+instances: 1, word: 'Fulfilled', work: 'Ham'},
+instances: 1, word: 'Function', work: 'Ham'},
+instances: 1, word: 'Functions', work: 'Ham'},
+instances: 1, word: 'Furnish', work: 'Ham'},
+instances: 1, word: 'Fust', work: 'Ham'},
+instances: 1, word: 'Gagèd', work: 'Ham'},
+instances: 1, word: 'Gaingiving', work: 'Ham'},
+instances: 1, word: 'Gallant', work: 'Ham'},
+instances: 1, word: 'Galled', work: 'Ham'},
+instances: 1, word: 'Gallows-maker', work: 'Ham'},
+instances: 1, word: 'Gallèd', work: 'Ham'},
+instances: 1, word: 'Gambol', work: 'Ham'},
+instances: 1, word: 'Gambols', work: 'Ham'},
+instances: 1, word: 'Game', work: 'Ham'},
+instances: 1, word: 'Gape', work: 'Ham'},
+instances: 1, word: 'Garb', work: 'Ham'},
+instances: 1, word: 'Garbage', work: 'Ham'},
+instances: 1, word: 'Gard\'ners', work: 'Ham'},
+instances: 1, word: 'Garland', work: 'Ham'},
+instances: 1, word: 'Garlands', work: 'Ham'},
+instances: 1, word: 'Garments', work: 'Ham'},
+instances: 1, word: 'Garrisoned', work: 'Ham'},
+instances: 1, word: 'Gates', work: 'Ham'},
+instances: 1, word: 'Gaudy', work: 'Ham'},
+instances: 1, word: 'Gem', work: 'Ham'},
+instances: 1, word: 'Gender', work: 'Ham'},
+instances: 1, word: 'Gentlewoman', work: 'Ham'},
+instances: 1, word: 'Gently', work: 'Ham'},
+instances: 1, word: 'Germane', work: 'Ham'},
+instances: 1, word: 'Gestures', work: 'Ham'},
+instances: 1, word: 'Gets', work: 'Ham'},
+instances: 1, word: 'Ghost\'s', work: 'Ham'},
+instances: 1, word: 'Giant-like', work: 'Ham'},
+instances: 1, word: 'Gib', work: 'Ham'},
+instances: 1, word: 'Gibber', work: 'Ham'},
+instances: 1, word: 'Gibes', work: 'Ham'},
+instances: 1, word: 'Gilded', work: 'Ham'},
+instances: 1, word: 'Girdle', work: 'Ham'},
+instances: 1, word: 'Girl', work: 'Ham'},
+instances: 1, word: 'Gis', work: 'Ham'},
+instances: 1, word: 'Givers', work: 'Ham'},
+instances: 1, word: 'Giving-out', work: 'Ham'},
+instances: 1, word: 'Glares', work: 'Ham'},
+instances: 1, word: 'Glassy', work: 'Ham'},
+instances: 1, word: 'Glean', work: 'Ham'},
+instances: 1, word: 'Gleaned', work: 'Ham'},
+instances: 1, word: 'Glimpses', work: 'Ham'},
+instances: 1, word: 'Globe', work: 'Ham'},
+instances: 1, word: 'Glow', work: 'Ham'},
+instances: 1, word: 'Glowworm', work: 'Ham'},
+instances: 1, word: 'Goblin', work: 'Ham'},
+instances: 1, word: 'Goblins', work: 'Ham'},
+instances: 1, word: 'God-a-mercy', work: 'Ham'},
+instances: 1, word: 'Godlike', work: 'Ham'},
+instances: 1, word: 'Gold', work: 'Ham'},
+instances: 1, word: 'Gonzago\'s', work: 'Ham'},
+instances: 1, word: 'Good-bye', work: 'Ham'},
+instances: 1, word: 'Goodman', work: 'Ham'},
+instances: 1, word: 'Goodwill', work: 'Ham'},
+instances: 1, word: 'Goose', work: 'Ham'},
+instances: 1, word: 'Gore', work: 'Ham'},
+instances: 1, word: 'Gorge', work: 'Ham'},
+instances: 1, word: 'Govern', work: 'Ham'},
+instances: 1, word: 'Grainèd', work: 'Ham'},
+instances: 1, word: 'Grand', work: 'Ham'},
+instances: 1, word: 'Grandsire', work: 'Ham'},
+instances: 1, word: 'Grant', work: 'Ham'},
+instances: 1, word: 'Grass', work: 'Ham'},
+instances: 1, word: 'Grass-green', work: 'Ham'},
+instances: 1, word: 'Grating', work: 'Ham'},
+instances: 1, word: 'Gratis', work: 'Ham'},
+instances: 1, word: 'Grave-makers', work: 'Ham'},
+instances: 1, word: 'Grave-making', work: 'Ham'},
+instances: 1, word: 'Graveness', work: 'Ham'},
+instances: 1, word: 'Grave\'s', work: 'Ham'},
+instances: 1, word: 'Gray', work: 'Ham'},
+instances: 1, word: 'Greatly', work: 'Ham'},
+instances: 1, word: 'Greeks', work: 'Ham'},
+instances: 1, word: 'Greenly', work: 'Ham'},
+instances: 1, word: 'Greet', work: 'Ham'},
+instances: 1, word: 'Greeted', work: 'Ham'},
+instances: 1, word: 'Greeting', work: 'Ham'},
+instances: 1, word: 'Greetings', work: 'Ham'},
+instances: 1, word: 'Grew', work: 'Ham'},
+instances: 1, word: 'Griefs', work: 'Ham'},
+instances: 1, word: 'Grieved', work: 'Ham'},
+instances: 1, word: 'Grieves', work: 'Ham'},
+instances: 1, word: 'Grinding', work: 'Ham'},
+instances: 1, word: 'Grinning', work: 'Ham'},
+instances: 1, word: 'Grizzled', work: 'Ham'},
+instances: 1, word: 'Groan', work: 'Ham'},
+instances: 1, word: 'Groaning', work: 'Ham'},
+instances: 1, word: 'Groans', work: 'Ham'},
+instances: 1, word: 'Groped', work: 'Ham'},
+instances: 1, word: 'Grosser', work: 'Ham'},
+instances: 1, word: 'Grossly', work: 'Ham'},
+instances: 1, word: 'Groundlings', work: 'Ham'},
+instances: 1, word: 'Grounds', work: 'Ham'},
+instances: 1, word: 'Growing', work: 'Ham'},
+instances: 1, word: 'Grunt', work: 'Ham'},
+instances: 1, word: 'Guarded', work: 'Ham'},
+instances: 1, word: 'Guards', work: 'Ham'},
+instances: 1, word: 'Guiltless', work: 'Ham'},
+instances: 1, word: 'Gules', work: 'Ham'},
+instances: 1, word: 'Gulf', work: 'Ham'},
+instances: 1, word: 'Gum', work: 'Ham'},
+instances: 1, word: 'Gyves', work: 'Ham'},
+instances: 1, word: 'Habits', work: 'Ham'},
+instances: 1, word: 'Hail', work: 'Ham'},
+instances: 1, word: 'Halfpenny', work: 'Ham'},
+instances: 1, word: 'Hallowed', work: 'Ham'},
+instances: 1, word: 'Halt', work: 'Ham'},
+instances: 1, word: 'Hammers', work: 'Ham'},
+instances: 1, word: 'Hams', work: 'Ham'},
+instances: 1, word: 'Handsaw', work: 'Ham'},
+instances: 1, word: 'Handsome', work: 'Ham'},
+instances: 1, word: 'Hap', work: 'Ham'},
+instances: 1, word: 'Happen', work: 'Ham'},
+instances: 1, word: 'Happily', work: 'Ham'},
+instances: 1, word: 'Happiness', work: 'Ham'},
+instances: 1, word: 'Haps', work: 'Ham'},
+instances: 1, word: 'Harbingers', work: 'Ham'},
+instances: 1, word: 'Hardy', work: 'Ham'},
+instances: 1, word: 'Hark', work: 'Ham'},
+instances: 1, word: 'Harlot', work: 'Ham'},
+instances: 1, word: 'Harlot\'s', work: 'Ham'},
+instances: 1, word: 'Harmony', work: 'Ham'},
+instances: 1, word: 'Harping', work: 'Ham'},
+instances: 1, word: 'Harrow', work: 'Ham'},
+instances: 1, word: 'Harrows', work: 'Ham'},
+instances: 1, word: 'Harshly', work: 'Ham'},
+instances: 1, word: 'Hart', work: 'Ham'},
+instances: 1, word: 'Hasten', work: 'Ham'},
+instances: 1, word: 'Hasty', work: 'Ham'},
+instances: 1, word: 'Hatch', work: 'Ham'},
+instances: 1, word: 'Hatchment', work: 'Ham'},
+instances: 1, word: 'Hate', work: 'Ham'},
+instances: 1, word: 'Haunt', work: 'Ham'},
+instances: 1, word: 'Havoc', work: 'Ham'},
+instances: 1, word: 'Hawk', work: 'Ham'},
+instances: 1, word: 'Hazard', work: 'Ham'},
+instances: 1, word: 'Ha\'', work: 'Ham'},
+instances: 1, word: 'Headshake', work: 'Ham'},
+instances: 1, word: 'Healthful', work: 'Ham'},
+instances: 1, word: 'Hearer', work: 'Ham'},
+instances: 1, word: 'Hearsèd', work: 'Ham'},
+instances: 1, word: 'Heartache', work: 'Ham'},
+instances: 1, word: 'Heart\'s', work: 'Ham'},
+instances: 1, word: 'Heated', work: 'Ham'},
+instances: 1, word: 'Heathen', work: 'Ham'},
+instances: 1, word: 'Heaven\'s', work: 'Ham'},
+instances: 1, word: 'Heaves', work: 'Ham'},
+instances: 1, word: 'Heavily', work: 'Ham'},
+instances: 1, word: 'Heavy-headed', work: 'Ham'},
+instances: 1, word: 'Hebona', work: 'Ham'},
+instances: 1, word: 'Hecate\'s', work: 'Ham'},
+instances: 1, word: 'Hectic', work: 'Ham'},
+instances: 1, word: 'Hedge', work: 'Ham'},
+instances: 1, word: 'Heedful', work: 'Ham'},
+instances: 1, word: 'Height', work: 'Ham'},
+instances: 1, word: 'Heir', work: 'Ham'},
+instances: 1, word: 'Hellish', work: 'Ham'},
+instances: 1, word: 'Helpful', work: 'Ham'},
+instances: 1, word: 'Hems', work: 'Ham'},
+instances: 1, word: 'Hent', work: 'Ham'},
+instances: 1, word: 'Herald', work: 'Ham'},
+instances: 1, word: 'Herb', work: 'Ham'},
+instances: 1, word: 'Hereafter', work: 'Ham'},
+instances: 1, word: 'Herod', work: 'Ham'},
+instances: 1, word: 'Heroes', work: 'Ham'},
+instances: 1, word: 'Heyday', work: 'Ham'},
+instances: 1, word: 'He\'ll', work: 'Ham'},
+instances: 1, word: 'Hic', work: 'Ham'},
+instances: 1, word: 'Hies', work: 'Ham'},
+instances: 1, word: 'Higher', work: 'Ham'},
+instances: 1, word: 'Highest', work: 'Ham'},
+instances: 1, word: 'Highly', work: 'Ham'},
+instances: 1, word: 'Highness', work: 'Ham'},
+instances: 1, word: 'Hillo', work: 'Ham'},
+instances: 1, word: 'Hilts', work: 'Ham'},
+instances: 1, word: 'Hinges', work: 'Ham'},
+instances: 1, word: 'Hire', work: 'Ham'},
+instances: 1, word: 'Historical-pastoral', work: 'Ham'},
+instances: 1, word: 'Hoar', work: 'Ham'},
+instances: 1, word: 'Hoist', work: 'Ham'},
+instances: 1, word: 'Holding', work: 'Ham'},
+instances: 1, word: 'Hold\'st', work: 'Ham'},
+instances: 1, word: 'Hole', work: 'Ham'},
+instances: 1, word: 'Holla', work: 'Ham'},
+instances: 1, word: 'Hollow', work: 'Ham'},
+instances: 1, word: 'Homage', work: 'Ham'},
+instances: 1, word: 'Honey', work: 'Ham'},
+instances: 1, word: 'Honeying', work: 'Ham'},
+instances: 1, word: 'Honors', work: 'Ham'},
+instances: 1, word: 'Honor\'s', work: 'Ham'},
+instances: 1, word: 'Hoodman-blind', work: 'Ham'},
+instances: 1, word: 'Hoops', work: 'Ham'},
+instances: 1, word: 'Hoped', work: 'Ham'},
+instances: 1, word: 'Hopes', work: 'Ham'},
+instances: 1, word: 'Horrors', work: 'Ham'},
+instances: 1, word: 'Horseback', work: 'Ham'},
+instances: 1, word: 'Host', work: 'Ham'},
+instances: 1, word: 'Hourly', work: 'Ham'},
+instances: 1, word: 'Hour\'s', work: 'Ham'},
+instances: 1, word: 'Houses', work: 'Ham'},
+instances: 1, word: 'House\'s', work: 'Ham'},
+instances: 1, word: 'Hover', work: 'Ham'},
+instances: 1, word: 'Howe\'er', work: 'Ham'},
+instances: 1, word: 'Howling', work: 'Ham'},
+instances: 1, word: 'Howsomever', work: 'Ham'},
+instances: 1, word: 'Hue', work: 'Ham'},
+instances: 1, word: 'Huge', work: 'Ham'},
+instances: 1, word: 'Hugger-mugger', work: 'Ham'},
+instances: 1, word: 'Humanity', work: 'Ham'},
+instances: 1, word: 'Humble', work: 'Ham'},
+instances: 1, word: 'Humorous', work: 'Ham'},
+instances: 1, word: 'Hung', work: 'Ham'},
+instances: 1, word: 'Hunts', work: 'Ham'},
+instances: 1, word: 'Hurts', work: 'Ham'},
+instances: 1, word: 'Husbandry', work: 'Ham'},
+instances: 1, word: 'Husbands', work: 'Ham'},
+instances: 1, word: 'Hush', work: 'Ham'},
+instances: 1, word: 'Hymen', work: 'Ham'},
+instances: 1, word: 'Hyperion', work: 'Ham'},
+instances: 1, word: 'Hyperion\'s', work: 'Ham'},
+instances: 1, word: 'Hypocrite', work: 'Ham'},
+instances: 1, word: 'Hypocrites', work: 'Ham'},
+instances: 1, word: 'Hyrcanian', work: 'Ham'},
+instances: 1, word: 'Idol', work: 'Ham'},
+instances: 1, word: 'Ilium', work: 'Ham'},
+instances: 1, word: 'Ill-breeding', work: 'Ham'},
+instances: 1, word: 'Illo', work: 'Ham'},
+instances: 1, word: 'Ills', work: 'Ham'},
+instances: 1, word: 'Illume', work: 'Ham'},
+instances: 1, word: 'Illusion', work: 'Ham'},
+instances: 1, word: 'Imaginations', work: 'Ham'},
+instances: 1, word: 'Imagine', work: 'Ham'},
+instances: 1, word: 'Imitated', work: 'Ham'},
+instances: 1, word: 'Immediately', work: 'Ham'},
+instances: 1, word: 'Immortal', work: 'Ham'},
+instances: 1, word: 'Impartment', work: 'Ham'},
+instances: 1, word: 'Impasted', work: 'Ham'},
+instances: 1, word: 'Impatient', work: 'Ham'},
+instances: 1, word: 'Imperfections', work: 'Ham'},
+instances: 1, word: 'Imperial', work: 'Ham'},
+instances: 1, word: 'Imperious', work: 'Ham'},
+instances: 1, word: 'Impious', work: 'Ham'},
+instances: 1, word: 'Impiteous', work: 'Ham'},
+instances: 1, word: 'Implements', work: 'Ham'},
+instances: 1, word: 'Implorators', work: 'Ham'},
+instances: 1, word: 'Important', work: 'Ham'},
+instances: 1, word: 'Importunate', work: 'Ham'},
+instances: 1, word: 'Importuned', work: 'Ham'},
+instances: 1, word: 'Importunity', work: 'Ham'},
+instances: 1, word: 'Impostume', work: 'Ham'},
+instances: 1, word: 'Impotence', work: 'Ham'},
+instances: 1, word: 'Impotent', work: 'Ham'},
+instances: 1, word: 'Impress', work: 'Ham'},
+instances: 1, word: 'Impression', work: 'Ham'},
+instances: 1, word: 'Imputation', work: 'Ham'},
+instances: 1, word: 'Incapable', work: 'Ham'},
+instances: 1, word: 'Incensèd', work: 'Ham'},
+instances: 1, word: 'Incest', work: 'Ham'},
+instances: 1, word: 'Inch', work: 'Ham'},
+instances: 1, word: 'Inclined', work: 'Ham'},
+instances: 1, word: 'Inclining', work: 'Ham'},
+instances: 1, word: 'Incontinency', work: 'Ham'},
+instances: 1, word: 'Incorporal', work: 'Ham'},
+instances: 1, word: 'Incorrect', work: 'Ham'},
+instances: 1, word: 'Increase', work: 'Ham'},
+instances: 1, word: 'Indentures', work: 'Ham'},
+instances: 1, word: 'Index', work: 'Ham'},
+instances: 1, word: 'Indict', work: 'Ham'},
+instances: 1, word: 'Indifferently', work: 'Ham'},
+instances: 1, word: 'Indirections', work: 'Ham'},
+instances: 1, word: 'Indiscretion', work: 'Ham'},
+instances: 1, word: 'Individable', work: 'Ham'},
+instances: 1, word: 'Inexplicable', work: 'Ham'},
+instances: 1, word: 'Infallibly', work: 'Ham'},
+instances: 1, word: 'Infants', work: 'Ham'},
+instances: 1, word: 'Infect', work: 'Ham'},
+instances: 1, word: 'Infected', work: 'Ham'},
+instances: 1, word: 'Infects', work: 'Ham'},
+instances: 1, word: 'Influence', work: 'Ham'},
+instances: 1, word: 'Infusion', work: 'Ham'},
+instances: 1, word: 'Ingenious', work: 'Ham'},
+instances: 1, word: 'Inheritance', work: 'Ham'},
+instances: 1, word: 'Inheritor', work: 'Ham'},
+instances: 1, word: 'Inhibition', work: 'Ham'},
+instances: 1, word: 'Inky', work: 'Ham'},
+instances: 1, word: 'Inmost', work: 'Ham'},
+instances: 1, word: 'Innocent', work: 'Ham'},
+instances: 1, word: 'Innovation', work: 'Ham'},
+instances: 1, word: 'Inoculate', work: 'Ham'},
+instances: 1, word: 'Insert', work: 'Ham'},
+instances: 1, word: 'Insinuation', work: 'Ham'},
+instances: 1, word: 'Insolence', work: 'Ham'},
+instances: 1, word: 'Instance', work: 'Ham'},
+instances: 1, word: 'Instances', work: 'Ham'},
+instances: 1, word: 'Instantly', work: 'Ham'},
+instances: 1, word: 'Instructs', work: 'Ham'},
+instances: 1, word: 'Instrumental', work: 'Ham'},
+instances: 1, word: 'Intend', work: 'Ham'},
+instances: 1, word: 'Intents', work: 'Ham'},
+instances: 1, word: 'Inter', work: 'Ham'},
+instances: 1, word: 'Interim\'s', work: 'Ham'},
+instances: 1, word: 'Interpret', work: 'Ham'},
+instances: 1, word: 'Interred', work: 'Ham'},
+instances: 1, word: 'Intruding', work: 'Ham'},
+instances: 1, word: 'Inventorially', work: 'Ham'},
+instances: 1, word: 'Inventors\'', work: 'Ham'},
+instances: 1, word: 'Investments', work: 'Ham'},
+instances: 1, word: 'Invests', work: 'Ham'},
+instances: 1, word: 'Invisible', work: 'Ham'},
+instances: 1, word: 'Invite', work: 'Ham'},
+instances: 1, word: 'Invulnerable', work: 'Ham'},
+instances: 1, word: 'Israel', work: 'Ham'},
+instances: 1, word: 'Italian', work: 'Ham'},
+instances: 1, word: 'It\'s', work: 'Ham'},
+instances: 1, word: 'Jade', work: 'Ham'},
+instances: 1, word: 'Jangled', work: 'Ham'},
+instances: 1, word: 'Jaw', work: 'Ham'},
+instances: 1, word: 'Jawbone', work: 'Ham'},
+instances: 1, word: 'Jaws', work: 'Ham'},
+instances: 1, word: 'Jelly', work: 'Ham'},
+instances: 1, word: 'Jester', work: 'Ham'},
+instances: 1, word: 'Jig-maker', work: 'Ham'},
+instances: 1, word: 'Jocund', work: 'Ham'},
+instances: 1, word: 'John-a-dreams', work: 'Ham'},
+instances: 1, word: 'Jointly', work: 'Ham'},
+instances: 1, word: 'Jointress', work: 'Ham'},
+instances: 1, word: 'Journeymen', work: 'Ham'},
+instances: 1, word: 'Journeys', work: 'Ham'},
+instances: 1, word: 'Jowls', work: 'Ham'},
+instances: 1, word: 'Joyfully', work: 'Ham'},
+instances: 1, word: 'Judges', work: 'Ham'},
+instances: 1, word: 'Judicious', work: 'Ham'},
+instances: 1, word: 'Juggled', work: 'Ham'},
+instances: 1, word: 'Juice', work: 'Ham'},
+instances: 1, word: 'Justice', work: 'Ham'},
+instances: 1, word: 'Kettle', work: 'Ham'},
+instances: 1, word: 'Kettledrum', work: 'Ham'},
+instances: 1, word: 'Key', work: 'Ham'},
+instances: 1, word: 'Kibe', work: 'Ham'},
+instances: 1, word: 'Kick', work: 'Ham'},
+instances: 1, word: 'Kindless', work: 'Ham'},
+instances: 1, word: 'Kingly', work: 'Ham'},
+instances: 1, word: 'Kissed', work: 'Ham'},
+instances: 1, word: 'Kissing', work: 'Ham'},
+instances: 1, word: 'Kites', work: 'Ham'},
+instances: 1, word: 'Knaves', work: 'Ham'},
+instances: 1, word: 'Knee', work: 'Ham'},
+instances: 1, word: 'Knew\'st', work: 'Ham'},
+instances: 1, word: 'Knife', work: 'Ham'},
+instances: 1, word: 'Knight', work: 'Ham'},
+instances: 1, word: 'Knock', work: 'Ham'},
+instances: 1, word: 'Knocked', work: 'Ham'},
+instances: 1, word: 'Knocking', work: 'Ham'},
+instances: 1, word: 'Knotted', work: 'Ham'},
+instances: 1, word: 'Knowledge', work: 'Ham'},
+instances: 1, word: 'Know\'st', work: 'Ham'},
+instances: 1, word: 'Labored', work: 'Ham'},
+instances: 1, word: 'Laborer', work: 'Ham'},
+instances: 1, word: 'Laborsome', work: 'Ham'},
+instances: 1, word: 'Lacked', work: 'Ham'},
+instances: 1, word: 'Lacks', work: 'Ham'},
+instances: 1, word: 'Lads', work: 'Ham'},
+instances: 1, word: 'Ladyship', work: 'Ham'},
+instances: 1, word: 'Lady\'s', work: 'Ham'},
+instances: 1, word: 'Lament', work: 'Ham'},
+instances: 1, word: 'Lamord', work: 'Ham'},
+instances: 1, word: 'Lank', work: 'Ham'},
+instances: 1, word: 'Lapsed', work: 'Ham'},
+instances: 1, word: 'Lapwing', work: 'Ham'},
+instances: 1, word: 'Large', work: 'Ham'},
+instances: 1, word: 'Larger', work: 'Ham'},
+instances: 1, word: 'Lash', work: 'Ham'},
+instances: 1, word: 'Lasts', work: 'Ham'},
+instances: 1, word: 'Lauds', work: 'Ham'},
+instances: 1, word: 'Lawful', work: 'Ham'},
+instances: 1, word: 'Lawyer', work: 'Ham'},
+instances: 1, word: 'Law\'s', work: 'Ham'},
+instances: 1, word: 'Lazar-like', work: 'Ham'},
+instances: 1, word: 'Leads', work: 'Ham'},
+instances: 1, word: 'Lean', work: 'Ham'},
+instances: 1, word: 'Leans', work: 'Ham'},
+instances: 1, word: 'Leaping', work: 'Ham'},
+instances: 1, word: 'Learn', work: 'Ham'},
+instances: 1, word: 'Learning', work: 'Ham'},
+instances: 1, word: 'Lecherous', work: 'Ham'},
+instances: 1, word: 'Lecture', work: 'Ham'},
+instances: 1, word: 'Led', work: 'Ham'},
+instances: 1, word: 'Legs', work: 'Ham'},
+instances: 1, word: 'Lender', work: 'Ham'},
+instances: 1, word: 'Lends', work: 'Ham'},
+instances: 1, word: 'Lenten', work: 'Ham'},
+instances: 1, word: 'Leprous', work: 'Ham'},
+instances: 1, word: 'Lesser', work: 'Ham'},
+instances: 1, word: 'Lesson', work: 'Ham'},
+instances: 1, word: 'Lethe', work: 'Ham'},
+instances: 1, word: 'Letter', work: 'Ham'},
+instances: 1, word: 'Levied', work: 'Ham'},
+instances: 1, word: 'Lewdness', work: 'Ham'},
+instances: 1, word: 'Liar', work: 'Ham'},
+instances: 1, word: 'Liberal-conceited', work: 'Ham'},
+instances: 1, word: 'Libertine', work: 'Ham'},
+instances: 1, word: 'License', work: 'Ham'},
+instances: 1, word: 'Lick', work: 'Ham'},
+instances: 1, word: 'Lids', work: 'Ham'},
+instances: 1, word: 'Lief', work: 'Ham'},
+instances: 1, word: 'Liegemen', work: 'Ham'},
+instances: 1, word: 'Lien', work: 'Ham'},
+instances: 1, word: 'Life-rend\'ring', work: 'Ham'},
+instances: 1, word: 'Life\'s', work: 'Ham'},
+instances: 1, word: 'Lifted', work: 'Ham'},
+instances: 1, word: 'Lightest', work: 'Ham'},
+instances: 1, word: 'Lightness', work: 'Ham'},
+instances: 1, word: 'Likelihood', work: 'Ham'},
+instances: 1, word: 'Likely', work: 'Ham'},
+instances: 1, word: 'Likeness', work: 'Ham'},
+instances: 1, word: 'Likewise', work: 'Ham'},
+instances: 1, word: 'Limèd', work: 'Ham'},
+instances: 1, word: 'Linked', work: 'Ham'},
+instances: 1, word: 'Lion\'s', work: 'Ham'},
+instances: 1, word: 'Liquid', work: 'Ham'},
+instances: 1, word: 'Lisp', work: 'Ham'},
+instances: 1, word: 'Lists', work: 'Ham'},
+instances: 1, word: 'Littlest', work: 'Ham'},
+instances: 1, word: 'Livest', work: 'Ham'},
+instances: 1, word: 'Load', work: 'Ham'},
+instances: 1, word: 'Loan', work: 'Ham'},
+instances: 1, word: 'Loathsome', work: 'Ham'},
+instances: 1, word: 'Locks', work: 'Ham'},
+instances: 1, word: 'Lodge', work: 'Ham'},
+instances: 1, word: 'Lodged', work: 'Ham'},
+instances: 1, word: 'Lofty', work: 'Ham'},
+instances: 1, word: 'Loggets', work: 'Ham'},
+instances: 1, word: 'Loins', work: 'Ham'},
+instances: 1, word: 'Loneliness', work: 'Ham'},
+instances: 1, word: 'Longèd', work: 'Ham'},
+instances: 1, word: 'Looking', work: 'Ham'},
+instances: 1, word: 'Loosèd', work: 'Ham'},
+instances: 1, word: 'Lord\'s', work: 'Ham'},
+instances: 1, word: 'Loser', work: 'Ham'},
+instances: 1, word: 'Loses', work: 'Ham'},
+instances: 1, word: 'Losing', work: 'Ham'},
+instances: 1, word: 'Loss', work: 'Ham'},
+instances: 1, word: 'Lot', work: 'Ham'},
+instances: 1, word: 'Loudly', work: 'Ham'},
+instances: 1, word: 'Lover', work: 'Ham'},
+instances: 1, word: 'Lovèd', work: 'Ham'},
+instances: 1, word: 'Low', work: 'Ham'},
+instances: 1, word: 'Lowest', work: 'Ham'},
+instances: 1, word: 'Lucianus', work: 'Ham'},
+instances: 1, word: 'Lug', work: 'Ham'},
+instances: 1, word: 'Luxury', work: 'Ham'},
+instances: 1, word: 'Lying', work: 'Ham'},
+instances: 1, word: 'Machine', work: 'Ham'},
+instances: 1, word: 'Magic', work: 'Ham'},
+instances: 1, word: 'Maids', work: 'Ham'},
+instances: 1, word: 'Maids\'', work: 'Ham'},
+instances: 1, word: 'Maid\'s', work: 'Ham'},
+instances: 1, word: 'Maimèd', work: 'Ham'},
+instances: 1, word: 'Mainly', work: 'Ham'},
+instances: 1, word: 'Maintains', work: 'Ham'},
+instances: 1, word: 'Malefactions', work: 'Ham'},
+instances: 1, word: 'Mallecho', work: 'Ham'},
+instances: 1, word: 'Mandate', work: 'Ham'},
+instances: 1, word: 'Manner', work: 'Ham'},
+instances: 1, word: 'Mantle', work: 'Ham'},
+instances: 1, word: 'Marble', work: 'Ham'},
+instances: 1, word: 'Margent', work: 'Ham'},
+instances: 1, word: 'Market', work: 'Ham'},
+instances: 1, word: 'Marrow', work: 'Ham'},
+instances: 1, word: 'Marshal', work: 'Ham'},
+instances: 1, word: 'Mars\'', work: 'Ham'},
+instances: 1, word: 'Mars\'s', work: 'Ham'},
+instances: 1, word: 'Mart', work: 'Ham'},
+instances: 1, word: 'Martial', work: 'Ham'},
+instances: 1, word: 'Marvel', work: 'Ham'},
+instances: 1, word: 'Massy', work: 'Ham'},
+instances: 1, word: 'Masterly', work: 'Ham'},
+instances: 1, word: 'Master\'s', work: 'Ham'},
+instances: 1, word: 'Match', work: 'Ham'},
+instances: 1, word: 'Matched', work: 'Ham'},
+instances: 1, word: 'Matin', work: 'Ham'},
+instances: 1, word: 'Matron\'s', work: 'Ham'},
+instances: 1, word: 'Mayst', work: 'Ham'},
+instances: 1, word: 'Mazard', work: 'Ham'},
+instances: 1, word: 'Meaning', work: 'Ham'},
+instances: 1, word: 'Meats', work: 'Ham'},
+instances: 1, word: 'Meditation', work: 'Ham'},
+instances: 1, word: 'Med\'cine', work: 'Ham'},
+instances: 1, word: 'Meed', work: 'Ham'},
+instances: 1, word: 'Mellow', work: 'Ham'},
+instances: 1, word: 'Melodious', work: 'Ham'},
+instances: 1, word: 'Mend', work: 'Ham'},
+instances: 1, word: 'Mercury', work: 'Ham'},
+instances: 1, word: 'Mermaid-like', work: 'Ham'},
+instances: 1, word: 'Merriment', work: 'Ham'},
+instances: 1, word: 'Mess', work: 'Ham'},
+instances: 1, word: 'Message', work: 'Ham'},
+instances: 1, word: 'Messenger', work: 'Ham'},
+instances: 1, word: 'Messengers', work: 'Ham'},
+instances: 1, word: 'Met', work: 'Ham'},
+instances: 1, word: 'Metal', work: 'Ham'},
+instances: 1, word: 'Metals', work: 'Ham'},
+instances: 1, word: 'Mettle', work: 'Ham'},
+instances: 1, word: 'Mew', work: 'Ham'},
+instances: 1, word: 'Miching', work: 'Ham'},
+instances: 1, word: 'Midnight', work: 'Ham'},
+instances: 1, word: 'Mightier', work: 'Ham'},
+instances: 1, word: 'Mightiest', work: 'Ham'},
+instances: 1, word: 'Milch', work: 'Ham'},
+instances: 1, word: 'Mildewed', work: 'Ham'},
+instances: 1, word: 'Milk', work: 'Ham'},
+instances: 1, word: 'Milky', work: 'Ham'},
+instances: 1, word: 'Million', work: 'Ham'},
+instances: 1, word: 'Millions', work: 'Ham'},
+instances: 1, word: 'Mincing', work: 'Ham'},
+instances: 1, word: 'Mineral', work: 'Ham'},
+instances: 1, word: 'Mines', work: 'Ham'},
+instances: 1, word: 'Mining', work: 'Ham'},
+instances: 1, word: 'Minister', work: 'Ham'},
+instances: 1, word: 'Ministers', work: 'Ham'},
+instances: 1, word: 'Minist\'ring', work: 'Ham'},
+instances: 1, word: 'Minute', work: 'Ham'},
+instances: 1, word: 'Minutes', work: 'Ham'},
+instances: 1, word: 'Miraculous', work: 'Ham'},
+instances: 1, word: 'Mis-take', work: 'Ham'},
+instances: 1, word: 'Mischief', work: 'Ham'},
+instances: 1, word: 'Miss', work: 'Ham'},
+instances: 1, word: 'Mistook', work: 'Ham'},
+instances: 1, word: 'Mixture', work: 'Ham'},
+instances: 1, word: 'Moan', work: 'Ham'},
+instances: 1, word: 'Mockery', work: 'Ham'},
+instances: 1, word: 'Model', work: 'Ham'},
+instances: 1, word: 'Moderate', work: 'Ham'},
+instances: 1, word: 'Modesties', work: 'Ham'},
+instances: 1, word: 'Moiety', work: 'Ham'},
+instances: 1, word: 'Moist', work: 'Ham'},
+instances: 1, word: 'Mold', work: 'Ham'},
+instances: 1, word: 'Molt', work: 'Ham'},
+instances: 1, word: 'Monarchs', work: 'Ham'},
+instances: 1, word: 'Monday', work: 'Ham'},
+instances: 1, word: 'Monster', work: 'Ham'},
+instances: 1, word: 'Monsters', work: 'Ham'},
+instances: 1, word: 'Monstrous', work: 'Ham'},
+instances: 1, word: 'Monument', work: 'Ham'},
+instances: 1, word: 'Mood', work: 'Ham'},
+instances: 1, word: 'Moods', work: 'Ham'},
+instances: 1, word: 'Moons', work: 'Ham'},
+instances: 1, word: 'Moor', work: 'Ham'},
+instances: 1, word: 'Mope', work: 'Ham'},
+instances: 1, word: 'Moreover', work: 'Ham'},
+instances: 1, word: 'Morrow', work: 'Ham'},
+instances: 1, word: 'Mortised', work: 'Ham'},
+instances: 1, word: 'Mote', work: 'Ham'},
+instances: 1, word: 'Mothers', work: 'Ham'},
+instances: 1, word: 'Mountebank', work: 'Ham'},
+instances: 1, word: 'Mourn', work: 'Ham'},
+instances: 1, word: 'Mourned', work: 'Ham'},
+instances: 1, word: 'Mourning', work: 'Ham'},
+instances: 1, word: 'Mousetrap', work: 'Ham'},
+instances: 1, word: 'Mouthed', work: 'Ham'},
+instances: 1, word: 'Moved', work: 'Ham'},
+instances: 1, word: 'Moves', work: 'Ham'},
+instances: 1, word: 'Moving', work: 'Ham'},
+instances: 1, word: 'Muddied', work: 'Ham'},
+instances: 1, word: 'Muddy', work: 'Ham'},
+instances: 1, word: 'Muddy-mettled', work: 'Ham'},
+instances: 1, word: 'Multitude', work: 'Ham'},
+instances: 1, word: 'Murdered', work: 'Ham'},
+instances: 1, word: 'Murd\'ring', work: 'Ham'},
+instances: 1, word: 'Murd\'rous', work: 'Ham'},
+instances: 1, word: 'Musicked', work: 'Ham'},
+instances: 1, word: 'Musty', work: 'Ham'},
+instances: 1, word: 'Mute', work: 'Ham'},
+instances: 1, word: 'Mutes', work: 'Ham'},
+instances: 1, word: 'Mutine', work: 'Ham'},
+instances: 1, word: 'Mutines', work: 'Ham'},
+instances: 1, word: 'Mystery', work: 'Ham'},
+instances: 1, word: 'Name\'s', work: 'Ham'},
+instances: 1, word: 'Napkin', work: 'Ham'},
+instances: 1, word: 'Narrow', work: 'Ham'},
+instances: 1, word: 'Nasty', work: 'Ham'},
+instances: 1, word: 'Nations', work: 'Ham'},
+instances: 1, word: 'Natures', work: 'Ham'},
+instances: 1, word: 'Nave', work: 'Ham'},
+instances: 1, word: 'Necessaries', work: 'Ham'},
+instances: 1, word: 'Necessity', work: 'Ham'},
+instances: 1, word: 'Neglect', work: 'Ham'},
+instances: 1, word: 'Negligence', work: 'Ham'},
+instances: 1, word: 'Neighbor', work: 'Ham'},
+instances: 1, word: 'Neighbored', work: 'Ham'},
+instances: 1, word: 'Nemean', work: 'Ham'},
+instances: 1, word: 'Nero', work: 'Ham'},
+instances: 1, word: 'Nerve', work: 'Ham'},
+instances: 1, word: 'Nettles', work: 'Ham'},
+instances: 1, word: 'Neutral', work: 'Ham'},
+instances: 1, word: 'New-hatched', work: 'Ham'},
+instances: 1, word: 'New-lighted', work: 'Ham'},
+instances: 1, word: 'Newborn', work: 'Ham'},
+instances: 1, word: 'Newly', work: 'Ham'},
+instances: 1, word: 'Nickname', work: 'Ham'},
+instances: 1, word: 'Niggard', work: 'Ham'},
+instances: 1, word: 'Nighted', work: 'Ham'},
+instances: 1, word: 'Nightly', work: 'Ham'},
+instances: 1, word: 'Night\'s', work: 'Ham'},
+instances: 1, word: 'Nill', work: 'Ham'},
+instances: 1, word: 'Niobe', work: 'Ham'},
+instances: 1, word: 'Nipping', work: 'Ham'},
+instances: 1, word: 'Nobility', work: 'Ham'},
+instances: 1, word: 'Nobler', work: 'Ham'},
+instances: 1, word: 'Noblest', work: 'Ham'},
+instances: 1, word: 'Nods', work: 'Ham'},
+instances: 1, word: 'Nomination', work: 'Ham'},
+instances: 1, word: 'Non', work: 'Ham'},
+instances: 1, word: 'Nonce', work: 'Ham'},
+instances: 1, word: 'Normandy', work: 'Ham'},
+instances: 1, word: 'North-north-west', work: 'Ham'},
+instances: 1, word: 'Northerly', work: 'Ham'},
+instances: 1, word: 'Noted', work: 'Ham'},
+instances: 1, word: 'Notes', work: 'Ham'},
+instances: 1, word: 'Nothing\'s', work: 'Ham'},
+instances: 1, word: 'Nowadays', work: 'Ham'},
+instances: 1, word: 'Nowhere', work: 'Ham'},
+instances: 1, word: 'Noyance', work: 'Ham'},
+instances: 1, word: 'Nutshell', work: 'Ham'},
+instances: 1, word: 'Nymph', work: 'Ham'},
+instances: 1, word: 'Oaths', work: 'Ham'},
+instances: 1, word: 'Obeys', work: 'Ham'},
+instances: 1, word: 'Object', work: 'Ham'},
+instances: 1, word: 'Objects', work: 'Ham'},
+instances: 1, word: 'Oblivion', work: 'Ham'},
+instances: 1, word: 'Obscure', work: 'Ham'},
+instances: 1, word: 'Obsequies', work: 'Ham'},
+instances: 1, word: 'Obsequious', work: 'Ham'},
+instances: 1, word: 'Observant', work: 'Ham'},
+instances: 1, word: 'Observation', work: 'Ham'},
+instances: 1, word: 'Observed', work: 'Ham'},
+instances: 1, word: 'Observers', work: 'Ham'},
+instances: 1, word: 'Obstinate', work: 'Ham'},
+instances: 1, word: 'Occasions', work: 'Ham'},
+instances: 1, word: 'Occulted', work: 'Ham'},
+instances: 1, word: 'Occurrents', work: 'Ham'},
+instances: 1, word: 'Ocean', work: 'Ham'},
+instances: 1, word: 'Offal', work: 'Ham'},
+instances: 1, word: 'Offend', work: 'Ham'},
+instances: 1, word: 'Offendendo', work: 'Ham'},
+instances: 1, word: 'Offender\'s', work: 'Ham'},
+instances: 1, word: 'Offends', work: 'Ham'},
+instances: 1, word: 'Offenses', work: 'Ham'},
+instances: 1, word: 'Offense\'s', work: 'Ham'},
+instances: 1, word: 'Offered', work: 'Ham'},
+instances: 1, word: 'Office', work: 'Ham'},
+instances: 1, word: 'Olympus', work: 'Ham'},
+instances: 1, word: 'Omen', work: 'Ham'},
+instances: 1, word: 'Ominous', work: 'Ham'},
+instances: 1, word: 'Ope', work: 'Ham'},
+instances: 1, word: 'Oped', work: 'Ham'},
+instances: 1, word: 'Opened', work: 'Ham'},
+instances: 1, word: 'Operant', work: 'Ham'},
+instances: 1, word: 'Opinion', work: 'Ham'},
+instances: 1, word: 'Opposed', work: 'Ham'},
+instances: 1, word: 'Opposing', work: 'Ham'},
+instances: 1, word: 'Opposite', work: 'Ham'},
+instances: 1, word: 'Opposites', work: 'Ham'},
+instances: 1, word: 'Opposèd', work: 'Ham'},
+instances: 1, word: 'Oppressed', work: 'Ham'},
+instances: 1, word: 'Oppression', work: 'Ham'},
+instances: 1, word: 'Oppressor\'s', work: 'Ham'},
+instances: 1, word: 'Orb', work: 'Ham'},
+instances: 1, word: 'Orbèd', work: 'Ham'},
+instances: 1, word: 'Orderly', work: 'Ham'},
+instances: 1, word: 'Ordinant', work: 'Ham'},
+instances: 1, word: 'Ordnance', work: 'Ham'},
+instances: 1, word: 'Ore', work: 'Ham'},
+instances: 1, word: 'Orisons', work: 'Ham'},
+instances: 1, word: 'Ossa', work: 'Ham'},
+instances: 1, word: 'Ostentation', work: 'Ham'},
+instances: 1, word: 'Out-herods', work: 'Ham'},
+instances: 1, word: 'Outbreak', work: 'Ham'},
+instances: 1, word: 'Outface', work: 'Ham'},
+instances: 1, word: 'Outlive', work: 'Ham'},
+instances: 1, word: 'Outlives', work: 'Ham'},
+instances: 1, word: 'Outrageous', work: 'Ham'},
+instances: 1, word: 'Outstretched', work: 'Ham'},
+instances: 1, word: 'Outward', work: 'Ham'},
+instances: 1, word: 'Outwards', work: 'Ham'},
+instances: 1, word: 'Overcame', work: 'Ham'},
+instances: 1, word: 'Overcome', work: 'Ham'},
+instances: 1, word: 'Overdone', work: 'Ham'},
+instances: 1, word: 'Overhappy', work: 'Ham'},
+instances: 1, word: 'Overlooked', work: 'Ham'},
+instances: 1, word: 'Overpeering', work: 'Ham'},
+instances: 1, word: 'Overthrown', work: 'Ham'},
+instances: 1, word: 'Owl', work: 'Ham'},
+instances: 1, word: 'Owner', work: 'Ham'},
+instances: 1, word: 'O\'erbears', work: 'Ham'},
+instances: 1, word: 'O\'ercrows', work: 'Ham'},
+instances: 1, word: 'O\'erdoing', work: 'Ham'},
+instances: 1, word: 'O\'erdone', work: 'Ham'},
+instances: 1, word: 'O\'ergrowth', work: 'Ham'},
+instances: 1, word: 'O\'erhanging', work: 'Ham'},
+instances: 1, word: 'O\'erhasty', work: 'Ham'},
+instances: 1, word: 'O\'erhear', work: 'Ham'},
+instances: 1, word: 'O\'erleavens', work: 'Ham'},
+instances: 1, word: 'O\'ermaster', work: 'Ham'},
+instances: 1, word: 'O\'erraught', work: 'Ham'},
+instances: 1, word: 'O\'erreaches', work: 'Ham'},
+instances: 1, word: 'O\'errule', work: 'Ham'},
+instances: 1, word: 'O\'ersizèd', work: 'Ham'},
+instances: 1, word: 'O\'erstep', work: 'Ham'},
+instances: 1, word: 'O\'ersways', work: 'Ham'},
+instances: 1, word: 'O\'erteemèd', work: 'Ham'},
+instances: 1, word: 'O\'erthrown', work: 'Ham'},
+instances: 1, word: 'O\'ertook', work: 'Ham'},
+instances: 1, word: 'O\'ertop', work: 'Ham'},
+instances: 1, word: 'O\'erweigh', work: 'Ham'},
+instances: 1, word: 'O\'erwhelm', work: 'Ham'},
+instances: 1, word: 'Packet', work: 'Ham'},
+instances: 1, word: 'Packing', work: 'Ham'},
+instances: 1, word: 'Paddling', work: 'Ham'},
+instances: 1, word: 'Paddock', work: 'Ham'},
+instances: 1, word: 'Pagan', work: 'Ham'},
+instances: 1, word: 'Pah', work: 'Ham'},
+instances: 1, word: 'Paid', work: 'Ham'},
+instances: 1, word: 'Pain', work: 'Ham'},
+instances: 1, word: 'Paint', work: 'Ham'},
+instances: 1, word: 'Painting', work: 'Ham'},
+instances: 1, word: 'Paintings', work: 'Ham'},
+instances: 1, word: 'Pajock', work: 'Ham'},
+instances: 1, word: 'Pales', work: 'Ham'},
+instances: 1, word: 'Pall', work: 'Ham'},
+instances: 1, word: 'Palmy', work: 'Ham'},
+instances: 1, word: 'Palpable', work: 'Ham'},
+instances: 1, word: 'Panders', work: 'Ham'},
+instances: 1, word: 'Pangs', work: 'Ham'},
+instances: 1, word: 'Pansies', work: 'Ham'},
+instances: 1, word: 'Paradox', work: 'Ham'},
+instances: 1, word: 'Paragon', work: 'Ham'},
+instances: 1, word: 'Parching', work: 'Ham'},
+instances: 1, word: 'Parchment', work: 'Ham'},
+instances: 1, word: 'Paris', work: 'Ham'},
+instances: 1, word: 'Partial', work: 'Ham'},
+instances: 1, word: 'Partisan', work: 'Ham'},
+instances: 1, word: 'Party', work: 'Ham'},
+instances: 1, word: 'Passages', work: 'Ham'},
+instances: 1, word: 'Passionate', work: 'Ham'},
+instances: 1, word: 'Passions', work: 'Ham'},
+instances: 1, word: 'Passion\'s', work: 'Ham'},
+instances: 1, word: 'Pastoral', work: 'Ham'},
+instances: 1, word: 'Pastoral-comical', work: 'Ham'},
+instances: 1, word: 'Pastors', work: 'Ham'},
+instances: 1, word: 'Pat', work: 'Ham'},
+instances: 1, word: 'Patches', work: 'Ham'},
+instances: 1, word: 'Path', work: 'Ham'},
+instances: 1, word: 'Patiently', work: 'Ham'},
+instances: 1, word: 'Patrick', work: 'Ham'},
+instances: 1, word: 'Pays', work: 'Ham'},
+instances: 1, word: 'Peace-parted', work: 'Ham'},
+instances: 1, word: 'Peak', work: 'Ham'},
+instances: 1, word: 'Pearl', work: 'Ham'},
+instances: 1, word: 'Pebbles', work: 'Ham'},
+instances: 1, word: 'Peculiar', work: 'Ham'},
+instances: 1, word: 'Peevish', work: 'Ham'},
+instances: 1, word: 'Pelican', work: 'Ham'},
+instances: 1, word: 'Pelion', work: 'Ham'},
+instances: 1, word: 'Pendant', work: 'Ham'},
+instances: 1, word: 'Penetrable', work: 'Ham'},
+instances: 1, word: 'People', work: 'Ham'},
+instances: 1, word: 'Perceive', work: 'Ham'},
+instances: 1, word: 'Perceived', work: 'Ham'},
+instances: 1, word: 'Perdition', work: 'Ham'},
+instances: 1, word: 'Perdy', work: 'Ham'},
+instances: 1, word: 'Perfect', work: 'Ham'},
+instances: 1, word: 'Perfections', work: 'Ham'},
+instances: 1, word: 'Perform', work: 'Ham'},
+instances: 1, word: 'Performance', work: 'Ham'},
+instances: 1, word: 'Perilous', work: 'Ham'},
+instances: 1, word: 'Periwig-pated', work: 'Ham'},
+instances: 1, word: 'Permanent', work: 'Ham'},
+instances: 1, word: 'Pernicious', work: 'Ham'},
+instances: 1, word: 'Perpend', work: 'Ham'},
+instances: 1, word: 'Persever', work: 'Ham'},
+instances: 1, word: 'Personal', work: 'Ham'},
+instances: 1, word: 'Persons', work: 'Ham'},
+instances: 1, word: 'Persuade', work: 'Ham'},
+instances: 1, word: 'Perturbèd', work: 'Ham'},
+instances: 1, word: 'Perusal', work: 'Ham'},
+instances: 1, word: 'Peruse', work: 'Ham'},
+instances: 1, word: 'Pester', work: 'Ham'},
+instances: 1, word: 'Pestilence', work: 'Ham'},
+instances: 1, word: 'Petard', work: 'Ham'},
+instances: 1, word: 'Petition', work: 'Ham'},
+instances: 1, word: 'Phoebus\'', work: 'Ham'},
+instances: 1, word: 'Physic', work: 'Ham'},
+instances: 1, word: 'Pickax', work: 'Ham'},
+instances: 1, word: 'Pickers', work: 'Ham'},
+instances: 1, word: 'Pictures', work: 'Ham'},
+instances: 1, word: 'Pigeon-livered', work: 'Ham'},
+instances: 1, word: 'Pile', work: 'Ham'},
+instances: 1, word: 'Pinch', work: 'Ham'},
+instances: 1, word: 'Pin\'s', work: 'Ham'},
+instances: 1, word: 'Pioner', work: 'Ham'},
+instances: 1, word: 'Pirate', work: 'Ham'},
+instances: 1, word: 'Pitch', work: 'Ham'},
+instances: 1, word: 'Pitied', work: 'Ham'},
+instances: 1, word: 'Pitiful', work: 'Ham'},
+instances: 1, word: 'Places', work: 'Ham'},
+instances: 1, word: 'Plain', work: 'Ham'},
+instances: 1, word: 'Planets', work: 'Ham'},
+instances: 1, word: 'Plast\'ring', work: 'Ham'},
+instances: 1, word: 'Plausive', work: 'Ham'},
+instances: 1, word: 'Plautus', work: 'Ham'},
+instances: 1, word: 'Plays', work: 'Ham'},
+instances: 1, word: 'Play\'s', work: 'Ham'},
+instances: 1, word: 'Pleasant', work: 'Ham'},
+instances: 1, word: 'Pleasing', work: 'Ham'},
+instances: 1, word: 'Pledge', work: 'Ham'},
+instances: 1, word: 'Plentiful', work: 'Ham'},
+instances: 1, word: 'Pleurisy', work: 'Ham'},
+instances: 1, word: 'Plot', work: 'Ham'},
+instances: 1, word: 'Plum-tree', work: 'Ham'},
+instances: 1, word: 'Plunge', work: 'Ham'},
+instances: 1, word: 'Ply', work: 'Ham'},
+instances: 1, word: 'Pocket', work: 'Ham'},
+instances: 1, word: 'Pocky', work: 'Ham'},
+instances: 1, word: 'Poem', work: 'Ham'},
+instances: 1, word: 'Poet', work: 'Ham'},
+instances: 1, word: 'Points', work: 'Ham'},
+instances: 1, word: 'Poisoning', work: 'Ham'},
+instances: 1, word: 'Poisons', work: 'Ham'},
+instances: 1, word: 'Polacks', work: 'Ham'},
+instances: 1, word: 'Policy', work: 'Ham'},
+instances: 1, word: 'Politic', work: 'Ham'},
+instances: 1, word: 'Politician', work: 'Ham'},
+instances: 1, word: 'Poll', work: 'Ham'},
+instances: 1, word: 'Polonius\'', work: 'Ham'},
+instances: 1, word: 'Pomp', work: 'Ham'},
+instances: 1, word: 'Ponderous', work: 'Ham'},
+instances: 1, word: 'Poniards', work: 'Ham'},
+instances: 1, word: 'Popped', work: 'Ham'},
+instances: 1, word: 'Porches', work: 'Ham'},
+instances: 1, word: 'Porpentine', work: 'Ham'},
+instances: 1, word: 'Portal', work: 'Ham'},
+instances: 1, word: 'Portentous', work: 'Ham'},
+instances: 1, word: 'Portraiture', work: 'Ham'},
+instances: 1, word: 'Positively', work: 'Ham'},
+instances: 1, word: 'Possess', work: 'Ham'},
+instances: 1, word: 'Possessed', work: 'Ham'},
+instances: 1, word: 'Possession', work: 'Ham'},
+instances: 1, word: 'Posset', work: 'Ham'},
+instances: 1, word: 'Post', work: 'Ham'},
+instances: 1, word: 'Posthaste', work: 'Ham'},
+instances: 1, word: 'Postscript', work: 'Ham'},
+instances: 1, word: 'Posy', work: 'Ham'},
+instances: 1, word: 'Potency', work: 'Ham'},
+instances: 1, word: 'Potently', work: 'Ham'},
+instances: 1, word: 'Potion', work: 'Ham'},
+instances: 1, word: 'Pound', work: 'Ham'},
+instances: 1, word: 'Pour', work: 'Ham'},
+instances: 1, word: 'Poured', work: 'Ham'},
+instances: 1, word: 'Powerfully', work: 'Ham'},
+instances: 1, word: 'Pox', work: 'Ham'},
+instances: 1, word: 'Practices', work: 'Ham'},
+instances: 1, word: 'Praises', work: 'Ham'},
+instances: 1, word: 'Pranks', work: 'Ham'},
+instances: 1, word: 'Prate', work: 'Ham'},
+instances: 1, word: 'Prating', work: 'Ham'},
+instances: 1, word: 'Pray\'st', work: 'Ham'},
+instances: 1, word: 'Preaching', work: 'Ham'},
+instances: 1, word: 'Preceding', work: 'Ham'},
+instances: 1, word: 'Precepts', work: 'Ham'},
+instances: 1, word: 'Precisely', work: 'Ham'},
+instances: 1, word: 'Precurse', work: 'Ham'},
+instances: 1, word: 'Prenominate', work: 'Ham'},
+instances: 1, word: 'Preparation', work: 'Ham'},
+instances: 1, word: 'Preparations', work: 'Ham'},
+instances: 1, word: 'Prepared', work: 'Ham'},
+instances: 1, word: 'Prescripts', work: 'Ham'},
+instances: 1, word: 'Presentment', work: 'Ham'},
+instances: 1, word: 'Pressure', work: 'Ham'},
+instances: 1, word: 'Pressures', work: 'Ham'},
+instances: 1, word: 'Prettiness', work: 'Ham'},
+instances: 1, word: 'Prey', work: 'Ham'},
+instances: 1, word: 'Priam\'s', work: 'Ham'},
+instances: 1, word: 'Prick', work: 'Ham'},
+instances: 1, word: 'Pricked', work: 'Ham'},
+instances: 1, word: 'Pride', work: 'Ham'},
+instances: 1, word: 'Priest', work: 'Ham'},
+instances: 1, word: 'Primal', work: 'Ham'},
+instances: 1, word: 'Primrose', work: 'Ham'},
+instances: 1, word: 'Primy', work: 'Ham'},
+instances: 1, word: 'Princes', work: 'Ham'},
+instances: 1, word: 'Private', work: 'Ham'},
+instances: 1, word: 'Privates', work: 'Ham'},
+instances: 1, word: 'Privy', work: 'Ham'},
+instances: 1, word: 'Prize', work: 'Ham'},
+instances: 1, word: 'Probation', work: 'Ham'},
+instances: 1, word: 'Proceeded', work: 'Ham'},
+instances: 1, word: 'Proceeding', work: 'Ham'},
+instances: 1, word: 'Proclaimed', work: 'Ham'},
+instances: 1, word: 'Profane', work: 'Ham'},
+instances: 1, word: 'Profanely', work: 'Ham'},
+instances: 1, word: 'Profession', work: 'Ham'},
+instances: 1, word: 'Profoundest', work: 'Ham'},
+instances: 1, word: 'Progress', work: 'Ham'},
+instances: 1, word: 'Project', work: 'Ham'},
+instances: 1, word: 'Prolongs', work: 'Ham'},
+instances: 1, word: 'Promise', work: 'Ham'},
+instances: 1, word: 'Promise-crammed', work: 'Ham'},
+instances: 1, word: 'Promontory', work: 'Ham'},
+instances: 1, word: 'Prompted', work: 'Ham'},
+instances: 1, word: 'Pronounce', work: 'Ham'},
+instances: 1, word: 'Pronouncing', work: 'Ham'},
+instances: 1, word: 'Prophetic', work: 'Ham'},
+instances: 1, word: 'Proportions', work: 'Ham'},
+instances: 1, word: 'Proposer', work: 'Ham'},
+instances: 1, word: 'Props', work: 'Ham'},
+instances: 1, word: 'Prosperously', work: 'Ham'},
+instances: 1, word: 'Protest', work: 'Ham'},
+instances: 1, word: 'Proverb', work: 'Ham'},
+instances: 1, word: 'Provide', work: 'Ham'},
+instances: 1, word: 'Provided', work: 'Ham'},
+instances: 1, word: 'Provincial', work: 'Ham'},
+instances: 1, word: 'Provoke', work: 'Ham'},
+instances: 1, word: 'Public', work: 'Ham'},
+instances: 1, word: 'Puh', work: 'Ham'},
+instances: 1, word: 'Pulled', work: 'Ham'},
+instances: 1, word: 'Pulse', work: 'Ham'},
+instances: 1, word: 'Punish', work: 'Ham'},
+instances: 1, word: 'Punished', work: 'Ham'},
+instances: 1, word: 'Puppets', work: 'Ham'},
+instances: 1, word: 'Purchases', work: 'Ham'},
+instances: 1, word: 'Purer', work: 'Ham'},
+instances: 1, word: 'Purgation', work: 'Ham'},
+instances: 1, word: 'Purged', work: 'Ham'},
+instances: 1, word: 'Purples', work: 'Ham'},
+instances: 1, word: 'Purport', work: 'Ham'},
+instances: 1, word: 'Pursued', work: 'Ham'},
+instances: 1, word: 'Pursues', work: 'Ham'},
+instances: 1, word: 'Pursy', work: 'Ham'},
+instances: 1, word: 'Push', work: 'Ham'},
+instances: 1, word: 'Puzzles', work: 'Ham'},
+instances: 1, word: 'Quaintly', work: 'Ham'},
+instances: 1, word: 'Quake', work: 'Ham'},
+instances: 1, word: 'Qualifies', work: 'Ham'},
+instances: 1, word: 'Quarreling', work: 'Ham'},
+instances: 1, word: 'Quarry', work: 'Ham'},
+instances: 1, word: 'Quartered', work: 'Ham'},
+instances: 1, word: 'Queen-mother', work: 'Ham'},
+instances: 1, word: 'Questionable', work: 'Ham'},
+instances: 1, word: 'Quickly', work: 'Ham'},
+instances: 1, word: 'Quickness', work: 'Ham'},
+instances: 1, word: 'Quicksilver', work: 'Ham'},
+instances: 1, word: 'Quiddities', work: 'Ham'},
+instances: 1, word: 'Quietly', work: 'Ham'},
+instances: 1, word: 'Quietus', work: 'Ham'},
+instances: 1, word: 'Quillities', work: 'Ham'},
+instances: 1, word: 'Quintessence', work: 'Ham'},
+instances: 1, word: 'Quoth', work: 'Ham'},
+instances: 1, word: 'Rabble', work: 'Ham'},
+instances: 1, word: 'Rack', work: 'Ham'},
+instances: 1, word: 'Radiant', work: 'Ham'},
+instances: 1, word: 'Rages', work: 'Ham'},
+instances: 1, word: 'Rags', work: 'Ham'},
+instances: 1, word: 'Rain', work: 'Ham'},
+instances: 1, word: 'Rained', work: 'Ham'},
+instances: 1, word: 'Raised', work: 'Ham'},
+instances: 1, word: 'Range', work: 'Ham'},
+instances: 1, word: 'Rankly', work: 'Ham'},
+instances: 1, word: 'Rant', work: 'Ham'},
+instances: 1, word: 'Rare', work: 'Ham'},
+instances: 1, word: 'Rareness', work: 'Ham'},
+instances: 1, word: 'Rascal', work: 'Ham'},
+instances: 1, word: 'Rashly', work: 'Ham'},
+instances: 1, word: 'Rashness', work: 'Ham'},
+instances: 1, word: 'Ratified', work: 'Ham'},
+instances: 1, word: 'Ratifiers', work: 'Ham'},
+instances: 1, word: 'Ravel', work: 'Ham'},
+instances: 1, word: 'Raven', work: 'Ham'},
+instances: 1, word: 'Raves', work: 'Ham'},
+instances: 1, word: 'Raw', work: 'Ham'},
+instances: 1, word: 'Rawer', work: 'Ham'},
+instances: 1, word: 'Razed', work: 'Ham'},
+instances: 1, word: 'Reach', work: 'Ham'},
+instances: 1, word: 'Reaches', work: 'Ham'},
+instances: 1, word: 'Readiness', work: 'Ham'},
+instances: 1, word: 'Reading', work: 'Ham'},
+instances: 1, word: 'Really', work: 'Ham'},
+instances: 1, word: 'Realm', work: 'Ham'},
+instances: 1, word: 'Rear', work: 'Ham'},
+instances: 1, word: 'Rebellion', work: 'Ham'},
+instances: 1, word: 'Rebels', work: 'Ham'},
+instances: 1, word: 'Rebuke', work: 'Ham'},
+instances: 1, word: 'Receives', work: 'Ham'},
+instances: 1, word: 'Reckless', work: 'Ham'},
+instances: 1, word: 'Reckon', work: 'Ham'},
+instances: 1, word: 'Recks', work: 'Ham'},
+instances: 1, word: 'Reck\'ning', work: 'Ham'},
+instances: 1, word: 'Recognizances', work: 'Ham'},
+instances: 1, word: 'Reconcilement', work: 'Ham'},
+instances: 1, word: 'Records', work: 'Ham'},
+instances: 1, word: 'Recount', work: 'Ham'},
+instances: 1, word: 'Recovery', work: 'Ham'},
+instances: 1, word: 'Rede', work: 'Ham'},
+instances: 1, word: 'Redeliver', work: 'Ham'},
+instances: 1, word: 'Reechy', work: 'Ham'},
+instances: 1, word: 'Reels', work: 'Ham'},
+instances: 1, word: 'Reform', work: 'Ham'},
+instances: 1, word: 'Reformed', work: 'Ham'},
+instances: 1, word: 'Refrain', work: 'Ham'},
+instances: 1, word: 'Regards', work: 'Ham'},
+instances: 1, word: 'Reigns', work: 'Ham'},
+instances: 1, word: 'Relative', work: 'Ham'},
+instances: 1, word: 'Relief', work: 'Ham'},
+instances: 1, word: 'Religion', work: 'Ham'},
+instances: 1, word: 'Religious', work: 'Ham'},
+instances: 1, word: 'Remainder', work: 'Ham'},
+instances: 1, word: 'Remedy', work: 'Ham'},
+instances: 1, word: 'Remembered', work: 'Ham'},
+instances: 1, word: 'Remembrances', work: 'Ham'},
+instances: 1, word: 'Remiss', work: 'Ham'},
+instances: 1, word: 'Remorse', work: 'Ham'},
+instances: 1, word: 'Remorseless', work: 'Ham'},
+instances: 1, word: 'Removèd', work: 'Ham'},
+instances: 1, word: 'Rend', work: 'Ham'},
+instances: 1, word: 'Render', work: 'Ham'},
+instances: 1, word: 'Rendezvous', work: 'Ham'},
+instances: 1, word: 'Repast', work: 'Ham'},
+instances: 1, word: 'Repel', work: 'Ham'},
+instances: 1, word: 'Repelled', work: 'Ham'},
+instances: 1, word: 'Repentance', work: 'Ham'},
+instances: 1, word: 'Replication', work: 'Ham'},
+instances: 1, word: 'Replies', work: 'Ham'},
+instances: 1, word: 'Repose', work: 'Ham'},
+instances: 1, word: 'Repugnant', work: 'Ham'},
+instances: 1, word: 'Reputation', work: 'Ham'},
+instances: 1, word: 'Request', work: 'Ham'},
+instances: 1, word: 'Requiem', work: 'Ham'},
+instances: 1, word: 'Resemble', work: 'Ham'},
+instances: 1, word: 'Resembles', work: 'Ham'},
+instances: 1, word: 'Reserve', work: 'Ham'},
+instances: 1, word: 'Reserved', work: 'Ham'},
+instances: 1, word: 'Residence', work: 'Ham'},
+instances: 1, word: 'Resolutes', work: 'Ham'},
+instances: 1, word: 'Resolution', work: 'Ham'},
+instances: 1, word: 'Resolve', work: 'Ham'},
+instances: 1, word: 'Resort', work: 'Ham'},
+instances: 1, word: 'Respeaking', work: 'Ham'},
+instances: 1, word: 'Respects', work: 'Ham'},
+instances: 1, word: 'Responsive', work: 'Ham'},
+instances: 1, word: 'Restore', work: 'Ham'},
+instances: 1, word: 'Restrained', work: 'Ham'},
+instances: 1, word: 'Retain', work: 'Ham'},
+instances: 1, word: 'Retirement', work: 'Ham'},
+instances: 1, word: 'Retrograde', work: 'Ham'},
+instances: 1, word: 'Returneth', work: 'Ham'},
+instances: 1, word: 'Returns', work: 'Ham'},
+instances: 1, word: 'Reveal', work: 'Ham'},
+instances: 1, word: 'Revel', work: 'Ham'},
+instances: 1, word: 'Revels', work: 'Ham'},
+instances: 1, word: 'Revengeful', work: 'Ham'},
+instances: 1, word: 'Revenue', work: 'Ham'},
+instances: 1, word: 'Reverend', work: 'Ham'},
+instances: 1, word: 'Reverted', work: 'Ham'},
+instances: 1, word: 'Revisits', work: 'Ham'},
+instances: 1, word: 'Revolution', work: 'Ham'},
+instances: 1, word: 'Reword', work: 'Ham'},
+instances: 1, word: 'Rhapsody', work: 'Ham'},
+instances: 1, word: 'Rheum', work: 'Ham'},
+instances: 1, word: 'Rhymed', work: 'Ham'},
+instances: 1, word: 'Ribbon', work: 'Ham'},
+instances: 1, word: 'Rightly', work: 'Ham'},
+instances: 1, word: 'Riotous', work: 'Ham'},
+instances: 1, word: 'Ripe', work: 'Ham'},
+instances: 1, word: 'Rites', work: 'Ham'},
+instances: 1, word: 'Rivals', work: 'Ham'},
+instances: 1, word: 'River', work: 'Ham'},
+instances: 1, word: 'Rivet', work: 'Ham'},
+instances: 1, word: 'Roars', work: 'Ham'},
+instances: 1, word: 'Roasted', work: 'Ham'},
+instances: 1, word: 'Robe', work: 'Ham'},
+instances: 1, word: 'Robin', work: 'Ham'},
+instances: 1, word: 'Robustious', work: 'Ham'},
+instances: 1, word: 'Rock', work: 'Ham'},
+instances: 1, word: 'Rood', work: 'Ham'},
+instances: 1, word: 'Roof', work: 'Ham'},
+instances: 1, word: 'Roots', work: 'Ham'},
+instances: 1, word: 'Roscius', work: 'Ham'},
+instances: 1, word: 'Rosemary', work: 'Ham'},
+instances: 1, word: 'Roses', work: 'Ham'},
+instances: 1, word: 'Rot', work: 'Ham'},
+instances: 1, word: 'Rough-hew', work: 'Ham'},
+instances: 1, word: 'Row', work: 'Ham'},
+instances: 1, word: 'Rude', work: 'Ham'},
+instances: 1, word: 'Ruin', work: 'Ham'},
+instances: 1, word: 'Rule', work: 'Ham'},
+instances: 1, word: 'Rummage', work: 'Ham'},
+instances: 1, word: 'Running', work: 'Ham'},
+instances: 1, word: 'Russet', work: 'Ham'},
+instances: 1, word: 'Rusty', work: 'Ham'},
+instances: 1, word: 'Sacred', work: 'Ham'},
+instances: 1, word: 'Sadly', work: 'Ham'},
+instances: 1, word: 'Sadness', work: 'Ham'},
+instances: 1, word: 'Sailors', work: 'Ham'},
+instances: 1, word: 'Salary', work: 'Ham'},
+instances: 1, word: 'Sale', work: 'Ham'},
+instances: 1, word: 'Sallets', work: 'Ham'},
+instances: 1, word: 'Sanctified', work: 'Ham'},
+instances: 1, word: 'Sanctuarize', work: 'Ham'},
+instances: 1, word: 'Sandal', work: 'Ham'},
+instances: 1, word: 'Sanity', work: 'Ham'},
+instances: 1, word: 'Sans', work: 'Ham'},
+instances: 1, word: 'Sate', work: 'Ham'},
+instances: 1, word: 'Satirical', work: 'Ham'},
+instances: 1, word: 'Satisfaction', work: 'Ham'},
+instances: 1, word: 'Satisfied', work: 'Ham'},
+instances: 1, word: 'Satyr', work: 'Ham'},
+instances: 1, word: 'Savageness', work: 'Ham'},
+instances: 1, word: 'Savior\'s', work: 'Ham'},
+instances: 1, word: 'Savory', work: 'Ham'},
+instances: 1, word: 'Saws', work: 'Ham'},
+instances: 1, word: 'Saying', work: 'Ham'},
+instances: 1, word: 'Scanned', work: 'Ham'},
+instances: 1, word: 'Scant', work: 'Ham'},
+instances: 1, word: 'Scanter', work: 'Ham'},
+instances: 1, word: 'Scarfed', work: 'Ham'},
+instances: 1, word: 'Scenes', work: 'Ham'},
+instances: 1, word: 'Scent', work: 'Ham'},
+instances: 1, word: 'Scholar', work: 'Ham'},
+instances: 1, word: 'Scholars', work: 'Ham'},
+instances: 1, word: 'Scholar\'s', work: 'Ham'},
+instances: 1, word: 'School', work: 'Ham'},
+instances: 1, word: 'Schoolfellows', work: 'Ham'},
+instances: 1, word: 'Sconce', work: 'Ham'},
+instances: 1, word: 'Scorn', work: 'Ham'},
+instances: 1, word: 'Scorns', work: 'Ham'},
+instances: 1, word: 'Scratched', work: 'Ham'},
+instances: 1, word: 'Screened', work: 'Ham'},
+instances: 1, word: 'Scruple', work: 'Ham'},
+instances: 1, word: 'Se', work: 'Ham'},
+instances: 1, word: 'Sea-fight', work: 'Ham'},
+instances: 1, word: 'Sea-gown', work: 'Ham'},
+instances: 1, word: 'Seafaring', work: 'Ham'},
+instances: 1, word: 'Seals', work: 'Ham'},
+instances: 1, word: 'Sear', work: 'Ham'},
+instances: 1, word: 'Search', work: 'Ham'},
+instances: 1, word: 'Seas', work: 'Ham'},
+instances: 1, word: 'Seasoned', work: 'Ham'},
+instances: 1, word: 'Seasons', work: 'Ham'},
+instances: 1, word: 'Seated', work: 'Ham'},
+instances: 1, word: 'Secrets', work: 'Ham'},
+instances: 1, word: 'Seduce', work: 'Ham'},
+instances: 1, word: 'Seed', work: 'Ham'},
+instances: 1, word: 'Seeming-virtuous', work: 'Ham'},
+instances: 1, word: 'Sees', work: 'Ham'},
+instances: 1, word: 'Seest', work: 'Ham'},
+instances: 1, word: 'Seized', work: 'Ham'},
+instances: 1, word: 'Select', work: 'Ham'},
+instances: 1, word: 'Self', work: 'Ham'},
+instances: 1, word: 'Self-slaughter', work: 'Ham'},
+instances: 1, word: 'Semblable', work: 'Ham'},
+instances: 1, word: 'Seneca', work: 'Ham'},
+instances: 1, word: 'Sensible', work: 'Ham'},
+instances: 1, word: 'Sensibly', work: 'Ham'},
+instances: 1, word: 'Sepulcher', work: 'Ham'},
+instances: 1, word: 'Sequel', work: 'Ham'},
+instances: 1, word: 'Sequent', work: 'Ham'},
+instances: 1, word: 'Sergeant', work: 'Ham'},
+instances: 1, word: 'Serious', work: 'Ham'},
+instances: 1, word: 'Servant', work: 'Ham'},
+instances: 1, word: 'Settled', work: 'Ham'},
+instances: 1, word: 'Seven', work: 'Ham'},
+instances: 1, word: 'Several', work: 'Ham'},
+instances: 1, word: 'Sewing', work: 'Ham'},
+instances: 1, word: 'Sexton', work: 'Ham'},
+instances: 1, word: 'Sexton\'s', work: 'Ham'},
+instances: 1, word: 'Shadows', work: 'Ham'},
+instances: 1, word: 'Shadow\'s', work: 'Ham'},
+instances: 1, word: 'Shaking', work: 'Ham'},
+instances: 1, word: 'Shameful', work: 'Ham'},
+instances: 1, word: 'Shards', work: 'Ham'},
+instances: 1, word: 'Share', work: 'Ham'},
+instances: 1, word: 'Sharked', work: 'Ham'},
+instances: 1, word: 'Sharp', work: 'Ham'},
+instances: 1, word: 'Shatter', work: 'Ham'},
+instances: 1, word: 'Sheen', work: 'Ham'},
+instances: 1, word: 'Sheep', work: 'Ham'},
+instances: 1, word: 'Sheepskins', work: 'Ham'},
+instances: 1, word: 'Sheet', work: 'Ham'},
+instances: 1, word: 'Sheeted', work: 'Ham'},
+instances: 1, word: 'Sheets', work: 'Ham'},
+instances: 1, word: 'Shelf', work: 'Ham'},
+instances: 1, word: 'Shell', work: 'Ham'},
+instances: 1, word: 'Shent', work: 'Ham'},
+instances: 1, word: 'Shepherds', work: 'Ham'},
+instances: 1, word: 'She\'s', work: 'Ham'},
+instances: 1, word: 'Shift', work: 'Ham'},
+instances: 1, word: 'Shine', work: 'Ham'},
+instances: 1, word: 'Shipped', work: 'Ham'},
+instances: 1, word: 'Shipwrights', work: 'Ham'},
+instances: 1, word: 'Shirt', work: 'Ham'},
+instances: 1, word: 'Shocks', work: 'Ham'},
+instances: 1, word: 'Shoe', work: 'Ham'},
+instances: 1, word: 'Shook', work: 'Ham'},
+instances: 1, word: 'Shoon', work: 'Ham'},
+instances: 1, word: 'Shoot', work: 'Ham'},
+instances: 1, word: 'Shortens', work: 'Ham'},
+instances: 1, word: 'Shove', work: 'Ham'},
+instances: 1, word: 'Shovel', work: 'Ham'},
+instances: 1, word: 'Showers', work: 'Ham'},
+instances: 1, word: 'Showing', work: 'Ham'},
+instances: 1, word: 'Shreds', work: 'Ham'},
+instances: 1, word: 'Shrewdly', work: 'Ham'},
+instances: 1, word: 'Shrill-sounding', work: 'Ham'},
+instances: 1, word: 'Shriving', work: 'Ham'},
+instances: 1, word: 'Shroud', work: 'Ham'},
+instances: 1, word: 'Shrouding', work: 'Ham'},
+instances: 1, word: 'Shrunk', work: 'Ham'},
+instances: 1, word: 'Shuffled', work: 'Ham'},
+instances: 1, word: 'Shut', work: 'Ham'},
+instances: 1, word: 'Sicklied', work: 'Ham'},
+instances: 1, word: 'Siege', work: 'Ham'},
+instances: 1, word: 'Sift', work: 'Ham'},
+instances: 1, word: 'Sighs', work: 'Ham'},
+instances: 1, word: 'Signet', work: 'Ham'},
+instances: 1, word: 'Silvered', work: 'Ham'},
+instances: 1, word: 'Simple', work: 'Ham'},
+instances: 1, word: 'Simples', work: 'Ham'},
+instances: 1, word: 'Singeing', work: 'Ham'},
+instances: 1, word: 'Singeth', work: 'Ham'},
+instances: 1, word: 'Sings', work: 'Ham'},
+instances: 1, word: 'Sinners', work: 'Ham'},
+instances: 1, word: 'Sins', work: 'Ham'},
+instances: 1, word: 'Sin\'s', work: 'Ham'},
+instances: 1, word: 'Sipping', work: 'Ham'},
+instances: 1, word: 'Sirrah', work: 'Ham'},
+instances: 1, word: 'Sister\'s', work: 'Ham'},
+instances: 1, word: 'Sitting', work: 'Ham'},
+instances: 1, word: 'Sixteen', work: 'Ham'},
+instances: 1, word: 'Sized', work: 'Ham'},
+instances: 1, word: 'Skin', work: 'Ham'},
+instances: 1, word: 'Skins', work: 'Ham'},
+instances: 1, word: 'Skirts', work: 'Ham'},
+instances: 1, word: 'Skyish', work: 'Ham'},
+instances: 1, word: 'Slander', work: 'Ham'},
+instances: 1, word: 'Slanders', work: 'Ham'},
+instances: 1, word: 'Slaughter', work: 'Ham'},
+instances: 1, word: 'Slaughters', work: 'Ham'},
+instances: 1, word: 'Slave\'s', work: 'Ham'},
+instances: 1, word: 'Slay', work: 'Ham'},
+instances: 1, word: 'Sledded', work: 'Ham'},
+instances: 1, word: 'Slender', work: 'Ham'},
+instances: 1, word: 'Slight', work: 'Ham'},
+instances: 1, word: 'Slings', work: 'Ham'},
+instances: 1, word: 'Slips', work: 'Ham'},
+instances: 1, word: 'Sliver', work: 'Ham'},
+instances: 1, word: 'Small', work: 'Ham'},
+instances: 1, word: 'Smart', work: 'Ham'},
+instances: 1, word: 'Smeared', work: 'Ham'},
+instances: 1, word: 'Smelling', work: 'Ham'},
+instances: 1, word: 'Smells', work: 'Ham'},
+instances: 1, word: 'Smelt', work: 'Ham'},
+instances: 1, word: 'Smiles', work: 'Ham'},
+instances: 1, word: 'Smoothness', work: 'Ham'},
+instances: 1, word: 'Smote', work: 'Ham'},
+instances: 1, word: 'Snatches', work: 'Ham'},
+instances: 1, word: 'Snuff', work: 'Ham'},
+instances: 1, word: 'Soaks', work: 'Ham'},
+instances: 1, word: 'Sober', work: 'Ham'},
+instances: 1, word: 'Society', work: 'Ham'},
+instances: 1, word: 'Softly', work: 'Ham'},
+instances: 1, word: 'Soiled', work: 'Ham'},
+instances: 1, word: 'Sold', work: 'Ham'},
+instances: 1, word: 'Sole', work: 'Ham'},
+instances: 1, word: 'Soles', work: 'Ham'},
+instances: 1, word: 'Solicited', work: 'Ham'},
+instances: 1, word: 'Solicitings', work: 'Ham'},
+instances: 1, word: 'Solidity', work: 'Ham'},
+instances: 1, word: 'Something-settled', work: 'Ham'},
+instances: 1, word: 'Somever', work: 'Ham'},
+instances: 1, word: 'Some\'er', work: 'Ham'},
+instances: 1, word: 'Song', work: 'Ham'},
+instances: 1, word: 'Sons', work: 'Ham'},
+instances: 1, word: 'Son\'s', work: 'Ham'},
+instances: 1, word: 'Soon', work: 'Ham'},
+instances: 1, word: 'Sorrows', work: 'Ham'},
+instances: 1, word: 'Sorts', work: 'Ham'},
+instances: 1, word: 'Soul\'s', work: 'Ham'},
+instances: 1, word: 'Sounded', work: 'Ham'},
+instances: 1, word: 'Southerly', work: 'Ham'},
+instances: 1, word: 'Sovereignty', work: 'Ham'},
+instances: 1, word: 'Space', work: 'Ham'},
+instances: 1, word: 'Spacious', work: 'Ham'},
+instances: 1, word: 'Spake', work: 'Ham'},
+instances: 1, word: 'Spark', work: 'Ham'},
+instances: 1, word: 'Sparrow', work: 'Ham'},
+instances: 1, word: 'Spectators', work: 'Ham'},
+instances: 1, word: 'Speeches', work: 'Ham'},
+instances: 1, word: 'Speechless', work: 'Ham'},
+instances: 1, word: 'Speedier', work: 'Ham'},
+instances: 1, word: 'Speedy', work: 'Ham'},
+instances: 1, word: 'Spend', work: 'Ham'},
+instances: 1, word: 'Spendthrift', work: 'Ham'},
+instances: 1, word: 'Spent', work: 'Ham'},
+instances: 1, word: 'Sphere', work: 'Ham'},
+instances: 1, word: 'Spheres', work: 'Ham'},
+instances: 1, word: 'Spies', work: 'Ham'},
+instances: 1, word: 'Spills', work: 'Ham'},
+instances: 1, word: 'Spilt', work: 'Ham'},
+instances: 1, word: 'Spite', work: 'Ham'},
+instances: 1, word: 'Splenitive', work: 'Ham'},
+instances: 1, word: 'Split', work: 'Ham'},
+instances: 1, word: 'Spots', work: 'Ham'},
+instances: 1, word: 'Springe', work: 'Ham'},
+instances: 1, word: 'Springes', work: 'Ham'},
+instances: 1, word: 'Springs', work: 'Ham'},
+instances: 1, word: 'Sprinkle', work: 'Ham'},
+instances: 1, word: 'Sprung', work: 'Ham'},
+instances: 1, word: 'Spur', work: 'Ham'},
+instances: 1, word: 'Squeak', work: 'Ham'},
+instances: 1, word: 'Squeezing', work: 'Ham'},
+instances: 1, word: 'Staff', work: 'Ham'},
+instances: 1, word: 'Stages', work: 'Ham'},
+instances: 1, word: 'Stained', work: 'Ham'},
+instances: 1, word: 'Stairs', work: 'Ham'},
+instances: 1, word: 'Stake', work: 'Ham'},
+instances: 1, word: 'Stale', work: 'Ham'},
+instances: 1, word: 'Stalk', work: 'Ham'},
+instances: 1, word: 'Stalks', work: 'Ham'},
+instances: 1, word: 'Stallion', work: 'Ham'},
+instances: 1, word: 'Standing', work: 'Ham'},
+instances: 1, word: 'Started', work: 'Ham'},
+instances: 1, word: 'Stately', work: 'Ham'},
+instances: 1, word: 'Statists', work: 'Ham'},
+instances: 1, word: 'Stature', work: 'Ham'},
+instances: 1, word: 'Statutes', work: 'Ham'},
+instances: 1, word: 'Stays', work: 'Ham'},
+instances: 1, word: 'Steal', work: 'Ham'},
+instances: 1, word: 'Stealers', work: 'Ham'},
+instances: 1, word: 'Stealing', work: 'Ham'},
+instances: 1, word: 'Steals', work: 'Ham'},
+instances: 1, word: 'Steep', work: 'Ham'},
+instances: 1, word: 'Steeped', work: 'Ham'},
+instances: 1, word: 'Steps', work: 'Ham'},
+instances: 1, word: 'Sterile', work: 'Ham'},
+instances: 1, word: 'Sterling', work: 'Ham'},
+instances: 1, word: 'Stern', work: 'Ham'},
+instances: 1, word: 'Steward', work: 'Ham'},
+instances: 1, word: 'Stewed', work: 'Ham'},
+instances: 1, word: 'Sticks', work: 'Ham'},
+instances: 1, word: 'Stiffly', work: 'Ham'},
+instances: 1, word: 'Stirred', work: 'Ham'},
+instances: 1, word: 'Stirring', work: 'Ham'},
+instances: 1, word: 'Stithy', work: 'Ham'},
+instances: 1, word: 'Stock', work: 'Ham'},
+instances: 1, word: 'Stockings', work: 'Ham'},
+instances: 1, word: 'Stomach', work: 'Ham'},
+instances: 1, word: 'Stones', work: 'Ham'},
+instances: 1, word: 'Stooping', work: 'Ham'},
+instances: 1, word: 'Stoops', work: 'Ham'},
+instances: 1, word: 'Stopping', work: 'Ham'},
+instances: 1, word: 'Storm', work: 'Ham'},
+instances: 1, word: 'Stoup', work: 'Ham'},
+instances: 1, word: 'Stoups', work: 'Ham'},
+instances: 1, word: 'Stowed', work: 'Ham'},
+instances: 1, word: 'Stranger', work: 'Ham'},
+instances: 1, word: 'Straws', work: 'Ham'},
+instances: 1, word: 'Stream', work: 'Ham'},
+instances: 1, word: 'Strengthen', work: 'Ham'},
+instances: 1, word: 'Strew', work: 'Ham'},
+instances: 1, word: 'Strewed', work: 'Ham'},
+instances: 1, word: 'Strewments', work: 'Ham'},
+instances: 1, word: 'Strife', work: 'Ham'},
+instances: 1, word: 'Strikes', work: 'Ham'},
+instances: 1, word: 'Striking', work: 'Ham'},
+instances: 1, word: 'Strings', work: 'Ham'},
+instances: 1, word: 'Strokes', work: 'Ham'},
+instances: 1, word: 'Strongest', work: 'Ham'},
+instances: 1, word: 'Strucken', work: 'Ham'},
+instances: 1, word: 'Struggling', work: 'Ham'},
+instances: 1, word: 'Strutted', work: 'Ham'},
+instances: 1, word: 'Stubborn', work: 'Ham'},
+instances: 1, word: 'Stubbornness', work: 'Ham'},
+instances: 1, word: 'Stuck', work: 'Ham'},
+instances: 1, word: 'Student', work: 'Ham'},
+instances: 1, word: 'Study', work: 'Ham'},
+instances: 1, word: 'Stung', work: 'Ham'},
+instances: 1, word: 'Sty', work: 'Ham'},
+instances: 1, word: 'Subscribed', work: 'Ham'},
+instances: 1, word: 'Successive', work: 'Ham'},
+instances: 1, word: 'Such-a-one', work: 'Ham'},
+instances: 1, word: 'Such-a-one\'s', work: 'Ham'},
+instances: 1, word: 'Suchlike', work: 'Ham'},
+instances: 1, word: 'Suddenly', work: 'Ham'},
+instances: 1, word: 'Suffered', work: 'Ham'},
+instances: 1, word: 'Suffering', work: 'Ham'},
+instances: 1, word: 'Sugar', work: 'Ham'},
+instances: 1, word: 'Suiting', work: 'Ham'},
+instances: 1, word: 'Sulf\'rous', work: 'Ham'},
+instances: 1, word: 'Sullied', work: 'Ham'},
+instances: 1, word: 'Sullies', work: 'Ham'},
+instances: 1, word: 'Summons', work: 'Ham'},
+instances: 1, word: 'Sunday', work: 'Ham'},
+instances: 1, word: 'Sundays', work: 'Ham'},
+instances: 1, word: 'Superfluous', work: 'Ham'},
+instances: 1, word: 'Supervise', work: 'Ham'},
+instances: 1, word: 'Suppliance', work: 'Ham'},
+instances: 1, word: 'Supply', work: 'Ham'},
+instances: 1, word: 'Supposal', work: 'Ham'},
+instances: 1, word: 'Surely', work: 'Ham'},
+instances: 1, word: 'Surmise', work: 'Ham'},
+instances: 1, word: 'Surrender', work: 'Ham'},
+instances: 1, word: 'Survivor', work: 'Ham'},
+instances: 1, word: 'Suspiration', work: 'Ham'},
+instances: 1, word: 'Sustain', work: 'Ham'},
+instances: 1, word: 'Swaddling', work: 'Ham'},
+instances: 1, word: 'Swagg\'ring', work: 'Ham'},
+instances: 1, word: 'Swallowed', work: 'Ham'},
+instances: 1, word: 'Swearing', work: 'Ham'},
+instances: 1, word: 'Sweaty', work: 'Ham'},
+instances: 1, word: 'Sweets', work: 'Ham'},
+instances: 1, word: 'Swinish', work: 'Ham'},
+instances: 1, word: 'Switzers', work: 'Ham'},
+instances: 1, word: 'Swoons', work: 'Ham'},
+instances: 1, word: 'Swoopstake', work: 'Ham'},
+instances: 1, word: 'Swords', work: 'Ham'},
+instances: 1, word: 'Swore', work: 'Ham'},
+instances: 1, word: 'Synod', work: 'Ham'},
+instances: 1, word: 'Table-book', work: 'Ham'},
+instances: 1, word: 'Taint', work: 'Ham'},
+instances: 1, word: 'Taints', work: 'Ham'},
+instances: 1, word: 'Taken', work: 'Ham'},
+instances: 1, word: 'Tanned', work: 'Ham'},
+instances: 1, word: 'Tanner', work: 'Ham'},
+instances: 1, word: 'Tar', work: 'Ham'},
+instances: 1, word: 'Target', work: 'Ham'},
+instances: 1, word: 'Task', work: 'Ham'},
+instances: 1, word: 'Taste', work: 'Ham'},
+instances: 1, word: 'Tatters', work: 'Ham'},
+instances: 1, word: 'Tax', work: 'Ham'},
+instances: 1, word: 'Taxed', work: 'Ham'},
+instances: 1, word: 'Tediousness', work: 'Ham'},
+instances: 1, word: 'Tells', work: 'Ham'},
+instances: 1, word: 'Tellus\'', work: 'Ham'},
+instances: 1, word: 'Temperance', work: 'Ham'},
+instances: 1, word: 'Temperately', work: 'Ham'},
+instances: 1, word: 'Tempered', work: 'Ham'},
+instances: 1, word: 'Tempest', work: 'Ham'},
+instances: 1, word: 'Temple', work: 'Ham'},
+instances: 1, word: 'Tenable', work: 'Ham'},
+instances: 1, word: 'Tenantless', work: 'Ham'},
+instances: 1, word: 'Tenants', work: 'Ham'},
+instances: 1, word: 'Tennis', work: 'Ham'},
+instances: 1, word: 'Tent', work: 'Ham'},
+instances: 1, word: 'Tenures', work: 'Ham'},
+instances: 1, word: 'Termagant', work: 'Ham'},
+instances: 1, word: 'Test', work: 'Ham'},
+instances: 1, word: 'Tether', work: 'Ham'},
+instances: 1, word: 'Tetter', work: 'Ham'},
+instances: 1, word: 'Thaw', work: 'Ham'},
+instances: 1, word: 'Theater', work: 'Ham'},
+instances: 1, word: 'Theft', work: 'Ham'},
+instances: 1, word: 'Thereabout', work: 'Ham'},
+instances: 1, word: 'Thereby', work: 'Ham'},
+instances: 1, word: 'Therein', work: 'Ham'},
+instances: 1, word: 'Thereof', work: 'Ham'},
+instances: 1, word: 'Thereon', work: 'Ham'},
+instances: 1, word: 'Thereto', work: 'Ham'},
+instances: 1, word: 'Thereunto', work: 'Ham'},
+instances: 1, word: 'Therewith', work: 'Ham'},
+instances: 1, word: 'Thews', work: 'Ham'},
+instances: 1, word: 'They\'ll', work: 'Ham'},
+instances: 1, word: 'They\'re', work: 'Ham'},
+instances: 1, word: 'Thicker', work: 'Ham'},
+instances: 1, word: 'Thieves', work: 'Ham'},
+instances: 1, word: 'Thin', work: 'Ham'},
+instances: 1, word: 'Thing\'s', work: 'Ham'},
+instances: 1, word: 'Thirties', work: 'Ham'},
+instances: 1, word: 'Thorns', work: 'Ham'},
+instances: 1, word: 'Thorny', work: 'Ham'},
+instances: 1, word: 'Thought-sick', work: 'Ham'},
+instances: 1, word: 'Thralled', work: 'Ham'},
+instances: 1, word: 'Threaten', work: 'Ham'},
+instances: 1, word: 'Threats', work: 'Ham'},
+instances: 1, word: 'Threat\'ning', work: 'Ham'},
+instances: 1, word: 'Three-and-twenty', work: 'Ham'},
+instances: 1, word: 'Three-score', work: 'Ham'},
+instances: 1, word: 'Throughly', work: 'Ham'},
+instances: 1, word: 'Throwing', work: 'Ham'},
+instances: 1, word: 'Thumb', work: 'Ham'},
+instances: 1, word: 'Thunders', work: 'Ham'},
+instances: 1, word: 'Tickle', work: 'Ham'},
+instances: 1, word: 'Timbered', work: 'Ham'},
+instances: 1, word: 'Tinct', work: 'Ham'},
+instances: 1, word: 'Tithe', work: 'Ham'},
+instances: 1, word: 'To-do', work: 'Ham'},
+instances: 1, word: 'Toil', work: 'Ham'},
+instances: 1, word: 'Toils', work: 'Ham'},
+instances: 1, word: 'Tokens', work: 'Ham'},
+instances: 1, word: 'Tomb', work: 'Ham'},
+instances: 1, word: 'Too-much', work: 'Ham'},
+instances: 1, word: 'Topped', work: 'Ham'},
+instances: 1, word: 'Tormenting', work: 'Ham'},
+instances: 1, word: 'Torrent', work: 'Ham'},
+instances: 1, word: 'Total', work: 'Ham'},
+instances: 1, word: 'Touched', work: 'Ham'},
+instances: 1, word: 'Touches', work: 'Ham'},
+instances: 1, word: 'Town-crier', work: 'Ham'},
+instances: 1, word: 'Tow\'ring', work: 'Ham'},
+instances: 1, word: 'Toys', work: 'Ham'},
+instances: 1, word: 'Traduced', work: 'Ham'},
+instances: 1, word: 'Tragedians', work: 'Ham'},
+instances: 1, word: 'Tragical-comical-historical-pastoral', work: 'Ham'},
+instances: 1, word: 'Tragical-historical', work: 'Ham'},
+instances: 1, word: 'Trains', work: 'Ham'},
+instances: 1, word: 'Traitorous', work: 'Ham'},
+instances: 1, word: 'Transform', work: 'Ham'},
+instances: 1, word: 'Transformation', work: 'Ham'},
+instances: 1, word: 'Transports', work: 'Ham'},
+instances: 1, word: 'Trappings', work: 'Ham'},
+instances: 1, word: 'Traveler', work: 'Ham'},
+instances: 1, word: 'Tread', work: 'Ham'},
+instances: 1, word: 'Treads', work: 'Ham'},
+instances: 1, word: 'Tree', work: 'Ham'},
+instances: 1, word: 'Trespass', work: 'Ham'},
+instances: 1, word: 'Tributary', work: 'Ham'},
+instances: 1, word: 'Tricked', work: 'Ham'},
+instances: 1, word: 'Tried', work: 'Ham'},
+instances: 1, word: 'Trifle', work: 'Ham'},
+instances: 1, word: 'Trifling', work: 'Ham'},
+instances: 1, word: 'Trip', work: 'Ham'},
+instances: 1, word: 'Trippingly', work: 'Ham'},
+instances: 1, word: 'Triumph', work: 'Ham'},
+instances: 1, word: 'Trivial', work: 'Ham'},
+instances: 1, word: 'Trophies', work: 'Ham'},
+instances: 1, word: 'Trophy', work: 'Ham'},
+instances: 1, word: 'Tropically', work: 'Ham'},
+instances: 1, word: 'True-love', work: 'Ham'},
+instances: 1, word: 'Truepenny', work: 'Ham'},
+instances: 1, word: 'Truncheon\'s', work: 'Ham'},
+instances: 1, word: 'Truster', work: 'Ham'},
+instances: 1, word: 'Tumbled', work: 'Ham'},
+instances: 1, word: 'Tune', work: 'Ham'},
+instances: 1, word: 'Turbulent', work: 'Ham'},
+instances: 1, word: 'Turf', work: 'Ham'},
+instances: 1, word: 'Turk', work: 'Ham'},
+instances: 1, word: 'Turneth', work: 'Ham'},
+instances: 1, word: 'Turns', work: 'Ham'},
+instances: 1, word: 'Turn\'st', work: 'Ham'},
+instances: 1, word: 'Tutor', work: 'Ham'},
+instances: 1, word: 'Tweaks', work: 'Ham'},
+instances: 1, word: 'Twentieth', work: 'Ham'},
+instances: 1, word: 'Twofold', work: 'Ham'},
+instances: 1, word: 'Tyrannically', work: 'Ham'},
+instances: 1, word: 'Tyrannous', work: 'Ham'},
+instances: 1, word: 'Tyrant', work: 'Ham'},
+instances: 1, word: 'Ubique', work: 'Ham'},
+instances: 1, word: 'Ugly', work: 'Ham'},
+instances: 1, word: 'Ulcer', work: 'Ham'},
+instances: 1, word: 'Ulcerous', work: 'Ham'},
+instances: 1, word: 'Umbrage', work: 'Ham'},
+instances: 1, word: 'Unaneled', work: 'Ham'},
+instances: 1, word: 'Unbraced', work: 'Ham'},
+instances: 1, word: 'Uncharge', work: 'Ham'},
+instances: 1, word: 'Uncle-father', work: 'Ham'},
+instances: 1, word: 'Uncle\'s', work: 'Ham'},
+instances: 1, word: 'Uncurrent', work: 'Ham'},
+instances: 1, word: 'Undergo', work: 'Ham'},
+instances: 1, word: 'Undertakings', work: 'Ham'},
+instances: 1, word: 'Undiscovered', work: 'Ham'},
+instances: 1, word: 'Undo', work: 'Ham'},
+instances: 1, word: 'Uneffectual', work: 'Ham'},
+instances: 1, word: 'Unequal', work: 'Ham'},
+instances: 1, word: 'Unfellowed', work: 'Ham'},
+instances: 1, word: 'Unfledged', work: 'Ham'},
+instances: 1, word: 'Unforced', work: 'Ham'},
+instances: 1, word: 'Unfortified', work: 'Ham'},
+instances: 1, word: 'Ungallèd', work: 'Ham'},
+instances: 1, word: 'Ungartered', work: 'Ham'},
+instances: 1, word: 'Ungored', work: 'Ham'},
+instances: 1, word: 'Ungracious', work: 'Ham'},
+instances: 1, word: 'Unhand', work: 'Ham'},
+instances: 1, word: 'Unhappily', work: 'Ham'},
+instances: 1, word: 'Unholy', work: 'Ham'},
+instances: 1, word: 'Unhouseled', work: 'Ham'},
+instances: 1, word: 'Unimprovèd', work: 'Ham'},
+instances: 1, word: 'Unite', work: 'Ham'},
+instances: 1, word: 'University', work: 'Ham'},
+instances: 1, word: 'Unkennel', work: 'Ham'},
+instances: 1, word: 'Unkind', work: 'Ham'},
+instances: 1, word: 'Unknowing', work: 'Ham'},
+instances: 1, word: 'Unlimited', work: 'Ham'},
+instances: 1, word: 'Unmanly', work: 'Ham'},
+instances: 1, word: 'Unmannerly', work: 'Ham'},
+instances: 1, word: 'Unmask', work: 'Ham'},
+instances: 1, word: 'Unmastered', work: 'Ham'},
+instances: 1, word: 'Unmatched', work: 'Ham'},
+instances: 1, word: 'Unmixed', work: 'Ham'},
+instances: 1, word: 'Unnervèd', work: 'Ham'},
+instances: 1, word: 'Unpack', work: 'Ham'},
+instances: 1, word: 'Unpeg', work: 'Ham'},
+instances: 1, word: 'Unpolluted', work: 'Ham'},
+instances: 1, word: 'Unpregnant', work: 'Ham'},
+instances: 1, word: 'Unprevailing', work: 'Ham'},
+instances: 1, word: 'Unprofitable', work: 'Ham'},
+instances: 1, word: 'Unproportioned', work: 'Ham'},
+instances: 1, word: 'Unreclaimèd', work: 'Ham'},
+instances: 1, word: 'Unrighteous', work: 'Ham'},
+instances: 1, word: 'Unripe', work: 'Ham'},
+instances: 1, word: 'Unsanctified', work: 'Ham'},
+instances: 1, word: 'Unsatisfied', work: 'Ham'},
+instances: 1, word: 'Unschooled', work: 'Ham'},
+instances: 1, word: 'Unshaken', work: 'Ham'},
+instances: 1, word: 'Unshapèd', work: 'Ham'},
+instances: 1, word: 'Unsifted', work: 'Ham'},
+instances: 1, word: 'Unsinewed', work: 'Ham'},
+instances: 1, word: 'Unskillful', work: 'Ham'},
+instances: 1, word: 'Unsmirchèd', work: 'Ham'},
+instances: 1, word: 'Unsure', work: 'Ham'},
+instances: 1, word: 'Until', work: 'Ham'},
+instances: 1, word: 'Untimely', work: 'Ham'},
+instances: 1, word: 'Unused', work: 'Ham'},
+instances: 1, word: 'Unvalued', work: 'Ham'},
+instances: 1, word: 'Unwatched', work: 'Ham'},
+instances: 1, word: 'Unweeded', work: 'Ham'},
+instances: 1, word: 'Unwholesome', work: 'Ham'},
+instances: 1, word: 'Unworthiest', work: 'Ham'},
+instances: 1, word: 'Unwrung', work: 'Ham'},
+instances: 1, word: 'Unyoke', work: 'Ham'},
+instances: 1, word: 'Uphoarded', work: 'Ham'},
+instances: 1, word: 'Upshot', work: 'Ham'},
+instances: 1, word: 'Upspring', work: 'Ham'},
+instances: 1, word: 'Usual', work: 'Ham'},
+instances: 1, word: 'Usurp', work: 'Ham'},
+instances: 1, word: 'Usurp\'st', work: 'Ham'},
+instances: 1, word: 'Utter', work: 'Ham'},
+instances: 1, word: 'Uttered', work: 'Ham'},
+instances: 1, word: 'Utt\'rance', work: 'Ham'},
+instances: 1, word: 'Vacancy', work: 'Ham'},
+instances: 1, word: 'Vailèd', work: 'Ham'},
+instances: 1, word: 'Vain', work: 'Ham'},
+instances: 1, word: 'Valanced', work: 'Ham'},
+instances: 1, word: 'Valentine', work: 'Ham'},
+instances: 1, word: 'Valentine\'s', work: 'Ham'},
+instances: 1, word: 'Validity', work: 'Ham'},
+instances: 1, word: 'Valor', work: 'Ham'},
+instances: 1, word: 'Vanished', work: 'Ham'},
+instances: 1, word: 'Vanquisher', work: 'Ham'},
+instances: 1, word: 'Vapors', work: 'Ham'},
+instances: 1, word: 'Varnish', work: 'Ham'},
+instances: 1, word: 'Venomed', work: 'Ham'},
+instances: 1, word: 'Ventages', work: 'Ham'},
+instances: 1, word: 'Verity', work: 'Ham'},
+instances: 1, word: 'Verse', work: 'Ham'},
+instances: 1, word: 'Vial', work: 'Ham'},
+instances: 1, word: 'Vicious', work: 'Ham'},
+instances: 1, word: 'Videlicet', work: 'Ham'},
+instances: 1, word: 'Vienna', work: 'Ham'},
+instances: 1, word: 'Vigor', work: 'Ham'},
+instances: 1, word: 'Villainies', work: 'Ham'},
+instances: 1, word: 'Villainous', work: 'Ham'},
+instances: 1, word: 'Villainy', work: 'Ham'},
+instances: 1, word: 'Violet', work: 'Ham'},
+instances: 1, word: 'Virgin', work: 'Ham'},
+instances: 1, word: 'Vision', work: 'Ham'},
+instances: 1, word: 'Volley', work: 'Ham'},
+instances: 1, word: 'Volume', work: 'Ham'},
+instances: 1, word: 'Vouch', work: 'Ham'},
+instances: 1, word: 'Vulcan\'s', work: 'Ham'},
+instances: 1, word: 'Wagered', work: 'Ham'},
+instances: 1, word: 'Waist', work: 'Ham'},
+instances: 1, word: 'Waits', work: 'Ham'},
+instances: 1, word: 'Wake', work: 'Ham'},
+instances: 1, word: 'Walked', work: 'Ham'},
+instances: 1, word: 'Wall', work: 'Ham'},
+instances: 1, word: 'Wand\'ring', work: 'Ham'},
+instances: 1, word: 'Wanned', work: 'Ham'},
+instances: 1, word: 'Wantonness', work: 'Ham'},
+instances: 1, word: 'Wards', work: 'Ham'},
+instances: 1, word: 'Warms', work: 'Ham'},
+instances: 1, word: 'Warning', work: 'Ham'},
+instances: 1, word: 'Warranty', work: 'Ham'},
+instances: 1, word: 'Wart', work: 'Ham'},
+instances: 1, word: 'Wassail', work: 'Ham'},
+instances: 1, word: 'Watchman', work: 'Ham'},
+instances: 1, word: 'Waterfly', work: 'Ham'},
+instances: 1, word: 'Waving', work: 'Ham'},
+instances: 1, word: 'Weaker', work: 'Ham'},
+instances: 1, word: 'Weakest', work: 'Ham'},
+instances: 1, word: 'Weal', work: 'Ham'},
+instances: 1, word: 'Wealth', work: 'Ham'},
+instances: 1, word: 'Weapons', work: 'Ham'},
+instances: 1, word: 'Wearing', work: 'Ham'},
+instances: 1, word: 'Wedding', work: 'Ham'},
+instances: 1, word: 'Weed', work: 'Ham'},
+instances: 1, word: 'Weedy', work: 'Ham'},
+instances: 1, word: 'Week', work: 'Ham'},
+instances: 1, word: 'Weeping', work: 'Ham'},
+instances: 1, word: 'Weeps', work: 'Ham'},
+instances: 1, word: 'Weighing', work: 'Ham'},
+instances: 1, word: 'Weight', work: 'Ham'},
+instances: 1, word: 'Well-took', work: 'Ham'},
+instances: 1, word: 'West', work: 'Ham'},
+instances: 1, word: 'Westward', work: 'Ham'},
+instances: 1, word: 'Wharf', work: 'Ham'},
+instances: 1, word: 'Whatsomever', work: 'Ham'},
+instances: 1, word: 'Wheaten', work: 'Ham'},
+instances: 1, word: 'Whence', work: 'Ham'},
+instances: 1, word: 'Whensoever', work: 'Ham'},
+instances: 1, word: 'Whereat', work: 'Ham'},
+instances: 1, word: 'Whet', work: 'Ham'},
+instances: 1, word: 'Whe\'er', work: 'Ham'},
+instances: 1, word: 'Whiff', work: 'Ham'},
+instances: 1, word: 'Whine', work: 'Ham'},
+instances: 1, word: 'Whipped', work: 'Ham'},
+instances: 1, word: 'Whipping', work: 'Ham'},
+instances: 1, word: 'Whirling', work: 'Ham'},
+instances: 1, word: 'Whirlwind', work: 'Ham'},
+instances: 1, word: 'Whispers', work: 'Ham'},
+instances: 1, word: 'Whit', work: 'Ham'},
+instances: 1, word: 'Whither', work: 'Ham'},
+instances: 1, word: 'Whore', work: 'Ham'},
+instances: 1, word: 'Whored', work: 'Ham'},
+instances: 1, word: 'Who\'s', work: 'Ham'},
+instances: 1, word: 'Wick', work: 'Ham'},
+instances: 1, word: 'Widow', work: 'Ham'},
+instances: 1, word: 'Wildness', work: 'Ham'},
+instances: 1, word: 'Willfully', work: 'Ham'},
+instances: 1, word: 'Willow', work: 'Ham'},
+instances: 1, word: 'Wills', work: 'Ham'},
+instances: 1, word: 'Wince', work: 'Ham'},
+instances: 1, word: 'Windlasses', work: 'Ham'},
+instances: 1, word: 'Window', work: 'Ham'},
+instances: 1, word: 'Windy', work: 'Ham'},
+instances: 1, word: 'Wine', work: 'Ham'},
+instances: 1, word: 'Wing', work: 'Ham'},
+instances: 1, word: 'Winking', work: 'Ham'},
+instances: 1, word: 'Winks', work: 'Ham'},
+instances: 1, word: 'Winner', work: 'Ham'},
+instances: 1, word: 'Winnowed', work: 'Ham'},
+instances: 1, word: 'Winter\'s', work: 'Ham'},
+instances: 1, word: 'Wisdoms', work: 'Ham'},
+instances: 1, word: 'Wished', work: 'Ham'},
+instances: 1, word: 'Wishes', work: 'Ham'},
+instances: 1, word: 'Witch', work: 'Ham'},
+instances: 1, word: 'Witching', work: 'Ham'},
+instances: 1, word: 'Withdrew', work: 'Ham'},
+instances: 1, word: 'Withered', work: 'Ham'},
+instances: 1, word: 'Withers', work: 'Ham'},
+instances: 1, word: 'Wit\'s', work: 'Ham'},
+instances: 1, word: 'Woman\'s', work: 'Ham'},
+instances: 1, word: 'Womb', work: 'Ham'},
+instances: 1, word: 'Women\'s', work: 'Ham'},
+instances: 1, word: 'Won', work: 'Ham'},
+instances: 1, word: 'Wonder-wounded', work: 'Ham'},
+instances: 1, word: 'Woo', work: 'Ham'},
+instances: 1, word: 'Wood', work: 'Ham'},
+instances: 1, word: 'Woodcock', work: 'Ham'},
+instances: 1, word: 'Woodcocks', work: 'Ham'},
+instances: 1, word: 'Wore', work: 'Ham'},
+instances: 1, word: 'Works', work: 'Ham'},
+instances: 1, word: 'Worlds', work: 'Ham'},
+instances: 1, word: 'Worms', work: 'Ham'},
+instances: 1, word: 'Wormwood', work: 'Ham'},
+instances: 1, word: 'Worm\'s', work: 'Ham'},
+instances: 1, word: 'Worn', work: 'Ham'},
+instances: 1, word: 'Worser', work: 'Ham'},
+instances: 1, word: 'Worst', work: 'Ham'},
+instances: 1, word: 'Worthy', work: 'Ham'},
+instances: 1, word: 'Wot', work: 'Ham'},
+instances: 1, word: 'Wounded', work: 'Ham'},
+instances: 1, word: 'Woundless', work: 'Ham'},
+instances: 1, word: 'Wrack', work: 'Ham'},
+instances: 1, word: 'Wrap', work: 'Ham'},
+instances: 1, word: 'Wrath', work: 'Ham'},
+instances: 1, word: 'Wring', work: 'Ham'},
+instances: 1, word: 'Wringing', work: 'Ham'},
+instances: 1, word: 'Wrinkled', work: 'Ham'},
+instances: 1, word: 'Wrist', work: 'Ham'},
+instances: 1, word: 'Write', work: 'Ham'},
+instances: 1, word: 'Writers', work: 'Ham'},
+instances: 1, word: 'Written', work: 'Ham'},
+instances: 1, word: 'Wrung', work: 'Ham'},
+instances: 1, word: 'Yard', work: 'Ham'},
+instances: 1, word: 'Yaw', work: 'Ham'},
+instances: 1, word: 'Yawn', work: 'Ham'},
+instances: 1, word: 'Yeasty', work: 'Ham'},
+instances: 1, word: 'Yeoman\'s', work: 'Ham'},
+instances: 1, word: 'Yesterday', work: 'Ham'},
+instances: 1, word: 'Yesternight', work: 'Ham'},
+instances: 1, word: 'Yielding', work: 'Ham'},
+instances: 1, word: 'Yon', work: 'Ham'},
+instances: 1, word: 'Yond', work: 'Ham'},
+instances: 1, word: 'Yorick', work: 'Ham'},
+instances: 1, word: 'Yorick\'s', work: 'Ham'},
+instances: 1, word: 'Younger', work: 'Ham'},
+instances: 1, word: 'Yourselves', work: 'Ham'},
+instances: 1, word: 'Zone', work: 'Ham'},
+instances: 1, word: '\'em', work: 'Ham'},
+instances: 1, word: '\'fore', work: 'Ham'},
+instances: 1, word: '\'gins', work: 'Ham'},
+instances: 1, word: '\'lt', work: 'Ham'},
+instances: 1, word: '\'pear', work: 'Ham'},
+instances: 1, word: '\'quest', work: 'Ham'},
+instances: 1, word: '\'rt', work: 'Ham'},
+instances: 1, word: '\'scapes', work: 'Ham'},
+instances: 1, word: '\'scrimers', work: 'Ham'},
+instances: 1, word: '\'stonish', work: 'Ham'},
+instances: 1, word: '\'tween', work: 'Ham'},
+instances: 1, word: '\'twould', work: 'Ham'},

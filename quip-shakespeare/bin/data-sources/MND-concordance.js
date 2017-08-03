@@ -1,2985 +1,2983 @@
-Concordance of Midsummer Night’s Dream:
-
-545: The
-533: And
-436: I
-330: To
-276: You
-264: Of
-260: A
-237: In
-201: My
-195: Is
-185: That
-180: Me
-171: Not
-170: With
-149: This
-142: For
-132: It
-122: Your
-120: But
-117: As
-116: So
-116: Thou
-115: Will
-107: Do
-105: Be
-102: Love
-98: Have
-98: Her
-91: He
-87: All
-87: His
-85: No
-75: We
-72: Shall
-72: What
-70: By
-68: Are
-68: On
-67: Here
-65: If
-65: Now
-65: Thy
-64: Thee
-63: O
-63: Or
-63: She
-60: Come
-60: Our
-60: When
-56: Am
-55: From
-50: Him
-50: More
-50: Their
-48: Sweet
-47: Then
-45: Man
-45: Night
-44: Must
-43: Pyramus
-40: Eyes
-40: Good
-40: One
-40: Would
-39: At
-39: See
-38: Hath
-38: Which
-37: Demetrius
-37: Did
-37: Let
-37: Lysander
-37: Never
-37: Some
-37: There
-36: Go
-36: Hermia
-36: How
-36: Make
-35: Should
-34: Fair
-34: Play
-33: An
-33: Than
-32: Can
-32: They
-31: Doth
-31: May
-31: These
-31: Well
-30: Was
-29: Lord
-29: Moon
-29: Thisbe
-29: Upon
-28: Through
-28: Wall
-27: I’ll
-27: Look
-27: Out
-27: Speak
-27: Them
-27: Yet
-26: Like
-26: Say
-26: Where
-25: True
-25: Up
-24: Know
-24: Lion
-24: Such
-24: Take
-24: Us
-23: Away
-23: Day
-23: Helena
-23: Mine
-22: Nor
-22: Why
-21: Heart
-21: Most
-21: Thus
-20: Eye
-20: Fairy
-20: Give
-20: Hear
-19: Athens
-19: Had
-19: Too
-19: Two
-18: Therefore
-18: Were
-18: Wood
-17: Comes
-17: Fear
-17: Follow
-17: Meet
-16: Art
-16: Gentle
-16: Gone
-16: Hast
-16: Sleep
-16: Tell
-16: Things
-15: Dear
-15: Every
-15: Leave
-15: Lovers
-15: Stay
-15: Think
-14: Again
-14: Athenian
-14: Dead
-14: Dream
-14: Ever
-14: Life
-14: Made
-14: Name
-14: Part
-13: Cannot
-13: Could
-13: Death
-13: Ere
-13: Nothing
-13: Pray
-13: Rest
-13: Till
-12: Bed
-12: Both
-12: Die
-12: Down
-12: Duke
-12: Men
-12: Place
-12: Queen
-12: Tongue
-11: Ay
-11: Bear
-11: Bottom
-11: Call
-11: Enough
-11: Find
-11: Grace
-11: Head
-11: Lady
-11: Little
-11: Long
-11: Monsieur
-11: Much
-11: Near
-11: Sport
-11: Though
-11: Very
-11: Who
-10: Back
-10: Before
-10: Best
-10: Came
-10: Child
-10: Else
-10: Hand
-10: Heard
-10: Hence
-10: Into
-10: Ladies
-10: Sight
-10: Sing
-10: Sometime
-10: Stand
-10: Time
-10: Unto
-9: Being
-9: Boy
-9: Company
-9: Desire
-9: Face
-9: First
-9: Forth
-9: Friends
-9: Hate
-9: Keep
-9: Kill
-9: Light
-9: Loves
-9: Methinks
-9: Music
-9: Nay
-9: Once
-9: Other
-9: Own
-9: O’er
-9: Poor
-9: Power
-9: Run
-9: Same
-9: Scorn
-9: Show
-9: Thing
-9: Titania
-9: Voice
-9: Word
-8: Any
-8: Blood
-8: Bring
-8: Ear
-8: Get
-8: Great
-8: Green
-8: Helen
-8: House
-8: Joy
-8: Lovely
-8: Lover
-8: Lulla
-8: Lullaby
-8: Moonshine
-8: Next
-8: None
-8: Oberon
-8: Peter
-8: Pity
-8: Quince
-8: Reason
-8: Roar
-8: Set
-8: Sleeping
-8: Tears
-8: Three
-8: Truth
-8: Vile
-8: Way
-8: Whose
-8: Within
-7: About
-7: Another
-7: Awake
-7: Beard
-7: Because
-7: Bless
-7: Break
-7: Each
-7: Either
-7: Father’s
-7: Flower
-7: Full
-7: Ground
-7: Hands
-7: Happy
-7: Harm
-7: Hermia’s
-7: Hold
-7: Lead
-7: Lie
-7: Marry
-7: Master
-7: Masters
-7: Might
-7: Off
-7: Pale
-7: Prologue
-7: Right
-7: Robin
-7: Shalt
-7: Since
-7: Soul
-7: Sound
-7: Still
-7: Thisbe’s
-7: Those
-7: Wilt
-7: Wonder
-7: Young
-7: Youth
-6: Against
-6: Alone
-6: Answer
-6: Asleep
-6: Ass
-6: Beg
-6: Between
-6: Breath
-6: Brief
-6: Bush
-6: Choice
-6: Cobweb
-6: Discretion
-6: Earth
-6: End
-6: Faith
-6: Father
-6: Fell
-6: Fire
-6: Fly
-6: Hair
-6: Hang
-6: Heaven
-6: Help
-6: Himself
-6: Hippolyta
-6: Hither
-6: Law
-6: Left
-6: Love’s
-6: Low
-6: Maid
-6: Makes
-6: Methought
-6: Mistress
-6: Moonlight
-6: Mustardseed
-6: New
-6: Noble
-6: Old
-6: Over
-6: Present
-6: Rather
-6: Ready
-6: Sake
-6: Seek
-6: Seem
-6: Seen
-6: Shine
-6: Silence
-6: Spirit
-6: Swear
-6: Sword
-6: Theseus
-6: Thine
-6: Together
-6: Told
-6: Tomb
-6: Tomorrow
-6: Truly
-6: Turn
-6: While
-6: World
-5: Adieu
-5: Anon
-5: Appear
-5: Approach
-5: Believe
-5: Catch
-5: Certain
-5: Charm
-5: Chink
-5: Consent
-5: Dance
-5: Dog
-5: Dost
-5: Dote
-5: Draw
-5: Duty
-5: Egeus
-5: Entreat
-5: Even
-5: Fairies
-5: Far
-5: Fetch
-5: Flowers
-5: Further
-5: Gentleman
-5: God
-5: Grove
-5: Grow
-5: Hail
-5: Hearts
-5: Hell
-5: Horse
-5: Hounds
-5: Hour
-5: Imagination
-5: Juice
-5: Kind
-5: Lanthorn
-5: Lion’s
-5: Lips
-5: Live
-5: Many
-5: Mark
-5: Met
-5: Mirth
-5: Modesty
-5: Myself
-5: Nuptial
-5: Oath
-5: Often
-5: Only
-5: Patience
-5: Peaseblossom
-5: Prove
-5: Puck
-5: Rehearse
-5: Sort
-5: Spite
-5: Strange
-5: Strike
-5: Tedious
-5: Themselves
-5: Thorough
-5: Th’
-5: Troth
-5: Trust
-5: Use
-5: Vows
-5: Wake
-5: Wak’st
-5: Wherefore
-5: Whom
-5: Wind
-5: Without
-5: Woman
-5: Woo
-5: ’tis
-4: Actors
-4: Alack
-4: Been
-4: Begin
-4: Better
-4: Bid
-4: Bitter
-4: Black
-4: Blessèd
-4: Bosoms
-4: Bow
-4: Brake
-4: Brier
-4: Bright
-4: Buds
-4: Chamber
-4: Change
-4: Coming
-4: Content
-4: Courtesy
-4: Cry
-4: Cue
-4: Cupid
-4: Cupid’s
-4: Cut
-4: Delight
-4: Derision
-4: Dew
-4: Discourse
-4: Done
-4: Double
-4: Doubt
-4: Dove
-4: Elves
-4: Eyne
-4: Fall
-4: False
-4: Fiery
-4: Flute
-4: Followed
-4: Following
-4: Fond
-4: Force
-4: Found
-4: Four
-4: Fresh
-4: Friend
-4: Goes
-4: Gracious
-4: Half
-4: Hated
-4: Herb
-4: Hide
-4: High
-4: Ho
-4: Indeed
-4: I’
-4: Jest
-4: King
-4: Kiss
-4: Knight
-4: Lies
-4: Looked
-4: Looks
-4: Lose
-4: Loved
-4: Maiden
-4: Man’s
-4: Mean
-4: Merry
-4: Mind
-4: Minds
-4: Mortal
-4: Note
-4: Passion
-4: Past
-4: Perceive
-4: Perforce
-4: Played
-4: Please
-4: Presence
-4: Promise
-4: Pursue
-4: Put
-4: Quite
-4: Remain
-4: Remedy
-4: Respect
-4: Revels
-4: Rich
-4: Ripe
-4: Rose
-4: Round
-4: Sad
-4: Said
-4: Sat
-4: Saw
-4: Says
-4: Seems
-4: Sees
-4: Sense
-4: Serpent
-4: Side
-4: Single
-4: Sir
-4: Sixpence
-4: Small
-4: Something
-4: Song
-4: Spirits
-4: Steal
-4: Stir
-4: Stolen
-4: Stol’n
-4: Swifter
-4: Temple
-4: Tender
-4: Thanks
-4: Thought
-4: Town
-4: Trusty
-4: Turned
-4: Valor
-4: Wand’ring
-4: Weak
-4: Welcome
-4: We’ll
-4: Whisper
-4: Wild
-4: Wings
-4: Wit
-4: Wont
-4: Words
-4: Work
-4: Written
-4: Wrong
-4: Yea
-4: Yellow
-4: Yield
-4: Yonder
-4: Yours
-4: Yourself
-4: ’t
-3: According
-3: Acquaintance
-3: Adder
-3: After
-3: Air
-3: Already
-3: Ask
-3: Awhile
-3: Aye
-3: Beams
-3: Beast
-3: Beasts
-3: Befall
-3: Behind
-3: Behold
-3: Beseech
-3: Bird
-3: Blade
-3: Bloody
-3: Bond
-3: Bower
-3: Breast
-3: Case
-3: Cat
-3: Cause
-3: Changeling
-3: Cheer
-3: Cherry
-3: Chide
-3: Coats
-3: Cold
-3: Comedy
-3: Compare
-3: Confess
-3: Counsel
-3: Coward
-3: Creep
-3: Cross
-3: Cruel
-3: Curst
-3: Dares
-3: Dar’st
-3: Daughter
-3: Days
-3: Deep
-3: Demetrius’
-3: Desires
-3: Didst
-3: Dotes
-3: Draws
-3: Due
-3: Eight
-3: Enter
-3: Epilogue
-3: Excuse
-3: E’er
-3: Faint
-3: Fairyland
-3: Falls
-3: Fare
-3: Farewell
-3: Fast
-3: Fates
-3: Fault
-3: Fearful
-3: Fie
-3: Field
-3: Fierce
-3: Fine
-3: Fit
-3: Fled
-3: Flight
-3: Foolish
-3: Forester
-3: Forgot
-3: Forsooth
-3: Fox
-3: Fray
-3: Fright
-3: Gait
-3: Given
-3: Glimmering
-3: Goodwill
-3: Goose
-3: Grows
-3: Haste
-3: Hateful
-3: Hay
-3: Hearing
-3: Holds
-3: Hole
-3: Home
-3: Honest
-3: Honey-bag
-3: Hop
-3: Hope
-3: Horns
-3: Hours
-3: Hue
-3: Human
-3: Idle
-3: Ill
-3: Indian
-3: Injury
-3: Intent
-3: Joiner
-3: Judgment
-3: Keen
-3: Knit
-3: Known
-3: Lark
-3: Lay
-3: League
-3: Legs
-3: Lime
-3: Longer
-3: Lost
-3: Lover’s
-3: Luck
-3: Lysander’s
-3: Madly
-3: Mantle
-3: Measure
-3: Melody
-3: Midnight
-3: Mock
-3: Monstrous
-3: Morning
-3: Mortals
-3: Mother
-3: Move
-3: Needs
-3: Nigh
-3: Night’s
-3: Ninny’s
-3: Nymph
-3: Odors
-3: Offend
-3: Painted
-3: Palace
-3: Pardon
-3: Parted
-3: Parts
-3: Pass
-3: Pat
-3: Perchance
-3: Peril
-3: Pretty
-3: Privilege
-3: Proceed
-3: Proud
-3: Purple
-3: Quick
-3: Read
-3: Rivals
-3: Roughcast
-3: Rude
-3: Savors
-3: Scratch
-3: Sea
-3: Seest
-3: Sent
-3: Serve
-3: Shadows
-3: Shape
-3: Shield
-3: Sickness
-3: Skill
-3: Sky
-3: Slain
-3: Slow
-3: Snout
-3: Snow
-3: Snug
-3: Solemnity
-3: Son
-3: Soon
-3: Souls
-3: Sprite
-3: Spurn
-3: Spy
-3: Starveling
-3: Stones
-3: Story
-3: Strong
-3: Summer
-3: Sure
-3: Sweep
-3: Takes
-3: Tall
-3: Taste
-3: Teach
-3: Thank
-3: Theseus’
-3: Tire
-3: Tragical
-3: Translated
-3: Truest
-3: Turns
-3: Vein
-3: Virgin
-3: Vow
-3: Waking
-3: Wanton
-3: Wat’ry
-3: Weary
-3: Wed
-3: Weigh
-3: What’s
-3: Where’s
-3: Whether
-3: Wish
-3: Worse
-3: Wound
-2: Abide
-2: Able
-2: Aby
-2: Ace
-2: Acorn
-2: Action
-2: Afeard
-2: Affection
-2: Afraid
-2: Ah
-2: Airy
-2: Almost
-2: Alter
-2: Amen
-2: Amend
-2: Amends
-2: Among
-2: Ancient
-2: Angry
-2: Another’s
-2: Apparel
-2: Appears
-2: Apprehend
-2: Arise
-2: Arrow
-2: Aside
-2: Assure
-2: Athenian’s
-2: Attend
-2: Aught
-2: Aunt
-2: Bank
-2: Barren
-2: Beauteous
-2: Beauty
-2: Becomes
-2: Beds
-2: Beguile
-2: Beguiled
-2: Bellows-mender
-2: Bergomask
-2: Beshrew
-2: Bill
-2: Bliss
-2: Bodies
-2: Bold
-2: Bootless
-2: Born
-2: Bosom
-2: Bottom’s
-2: Briers
-2: Broke
-2: Bully
-2: Business
-2: Calendar
-2: Called
-2: Calls
-2: Canst
-2: Care
-2: Carries
-2: Carry
-2: Casement
-2: Chance
-2: Changed
-2: Chase
-2: Cheek
-2: Cheeks
-2: Chid
-2: Childhood
-2: City
-2: Civil
-2: Clear
-2: Close
-2: Clouds
-2: Cock
-2: Comfort
-2: Common
-2: Compel
-2: Comprehends
-2: Conceive
-2: Concord
-2: Conference
-2: Confusion
-2: Consider
-2: Corn
-2: Counterfeit
-2: Couples
-2: Courteous
-2: Cover
-2: Cowardice
-2: Cranny
-2: Crete
-2: Cries
-2: Crow
-2: Crowns
-2: Crush
-2: Cuckoo
-2: Cunning
-2: Curse
-2: Dale
-2: Dances
-2: Dark
-2: Darkness
-2: Daylight
-2: Deceiving
-2: Delay
-2: Deny
-2: Deserve
-2: Despisèd
-2: Device
-2: Discharge
-2: Discord
-2: Disdainful
-2: Disfigure
-2: Divine
-2: Dowager
-2: Dreadful
-2: Dreams
-2: Duchess
-2: Durst
-2: Ears
-2: Eastern
-2: Eat
-2: Effect
-2: Employ
-2: Enamored
-2: Ends
-2: Enterprise
-2: Error
-2: Esteem
-2: Everything
-2: Everywhere
-2: Excellent
-2: Fail
-2: Fancy’s
-2: Fantasies
-2: Favors
-2: Fears
-2: Feigning
-2: Fellow
-2: Fight
-2: Figure
-2: Finds
-2: Fingers
-2: Fitted
-2: Flies
-2: Flood
-2: Floods
-2: Flout
-2: Flow’ry
-2: Folly
-2: Food
-2: Fool
-2: Forbid
-2: Forest
-2: Form
-2: Fortunate
-2: Forward
-2: Fountain
-2: Frame
-2: Fruitless
-2: Gallant
-2: Game
-2: Garments
-2: Gates
-2: Gentles
-2: Gently
-2: Gives
-2: Glance
-2: Glass
-2: Goddess
-2: Gods
-2: Gold
-2: Golden
-2: Grant
-2: Gray
-2: Grew
-2: Groves
-2: Grown
-2: Hairy
-2: Hanged
-2: Hark
-2: Hatred
-2: Haunted
-2: Hawthorn
-2: Heavy
-2: Height
-2: Hercules
-2: Hill
-2: Hog
-2: Holding
-2: Hornèd
-2: Hound
-2: Hung
-2: Hurt
-2: Immediately
-2: Innocence
-2: Intend
-2: Interlude
-2: Invisible
-2: Iron
-2: Issue
-2: Jealous
-2: Jealousy
-2: Join
-2: Jollity
-2: Key
-2: Killed
-2: Kills
-2: Knavery
-2: Knavish
-2: Knows
-2: Lack
-2: Laid
-2: Land
-2: Lantern
-2: Large
-2: Late
-2: Lest
-2: Let’s
-2: Likeness
-2: Liquor
-2: Loam
-2: Loathe
-2: Loose
-2: Loud
-2: Lovers’
-2: Lower
-2: Mad
-2: Maidens
-2: Making
-2: Manners
-2: Marvels
-2: Means
-2: Mercy
-2: Mild
-2: Milk
-2: Minutes
-2: Mischief
-2: Mistake
-2: Mistook
-2: Mockery
-2: Monster
-2: Morn
-2: Morrow
-2: Mote
-2: Mother’s
-2: Mouse
-2: Mouth
-2: Murdered
-2: Murderer
-2: Musical
-2: Muskroses
-2: Nails
-2: Nativity
-2: Nature
-2: Naught
-2: Nedar’s
-2: Neighbors
-2: News
-2: Nick
-2: Nightly
-2: Ninus’
-2: Noise
-2: Oaths
-2: Oft
-2: Orange-tawny
-2: Ought
-2: Owe
-2: Pain
-2: Pap
-2: Paramour
-2: Parting
-2: Partition
-2: Peace
-2: Pearl
-2: Perfit
-2: Perhaps
-2: Person
-2: Personage
-2: Philomel
-2: Philostrate
-2: Players
-2: Playing
-2: Pleasure
-2: Plowman
-2: Pluck
-2: Poet’s
-2: Point
-2: Pomp
-2: Prayer
-2: Prayers
-2: Press
-2: Procrus
-2: Prosperity
-2: Puppet
-2: Pure
-2: Pursues
-2: Quaint
-2: Quake
-2: Question
-2: Quickly
-2: Rage
-2: Rare
-2: Red
-2: Release
-2: Remembrance
-2: Render
-2: Repent
-2: Report
-2: Request
-2: Revenge
-2: Revenue
-2: Rough
-2: Sail
-2: Scene
-2: Scroll
-2: Seemed
-2: Seeming
-2: Service
-2: Sex
-2: Shade
-2: Shafalus
-2: Shame
-2: Shines
-2: Short
-2: Shrewd
-2: Sick
-2: Sighs
-2: Silver
-2: Simple
-2: Simplicity
-2: Sit
-2: Smooth
-2: Sometimes
-2: Sooth
-2: Sorrow’s
-2: Spaniel
-2: Sparta
-2: Speech
-2: Speed
-2: Spell
-2: Spent
-2: Sphere
-2: Spoke
-2: Spotted
-2: Spring
-2: Stands
-2: Starlight
-2: Stars
-2: Stealth
-2: Steep
-2: Stood
-2: Straight
-2: Straightway
-2: Stranger
-2: Stretched
-2: Summer’s
-2: Sun
-2: Sung
-2: Surfeit
-2: Swift
-2: Tailor
-2: Tale
-2: Tarry
-2: Tear
-2: Telling
-2: Ten
-2: Thence
-2: Thisne
-2: Thorn
-2: Thornbush
-2: Thorns
-2: Thoughts
-2: Thread
-2: Tinker
-2: Tongue’s
-2: Took
-2: Top
-2: Touch
-2: Tread
-2: Tremble
-2: Trifles
-2: Trip
-2: Try
-2: Tunable
-2: Tyrant
-2: Under
-2: Understand
-2: Undistinguishable
-2: Until
-2: Vain
-2: Venus
-2: Vexation
-2: View
-2: Villain
-2: Virtue
-2: Virtuous
-2: Visage
-2: Vision
-2: Visions
-2: Vot’ress
-2: Wait
-2: Waked
-2: Walks
-2: Wall’s
-2: Wander
-2: Wanderer
-2: Want
-2: War
-2: Warbling
-2: Wast
-2: Wasted
-2: Water
-2: Waxen
-2: Wear
-2: Weaver
-2: Wedded
-2: Wedding
-2: Weeps
-2: Western
-2: Whilst
-2: White
-2: Whither
-2: Whole
-2: Wicked
-2: Wide
-2: Wife
-2: Wildest
-2: Willfully
-2: Window
-2: Winter
-2: Withering
-2: Woe
-2: Wolf
-2: Won
-2: Wonders
-2: Wonted
-2: Woodbine
-2: Wooed
-2: Worm
-2: Worn
-2: Worst
-2: Worthier
-2: Wot
-2: Write
-2: Yes
-2: Yoke
-2: Yourselves
-2: ’tide
-2: ’twere
-1: new-bent
-1: Abate
-1: Abjure
-1: Abound
-1: Abridgment
-1: Absence
-1: Abused
-1: Accent
-1: Accidents
-1: Accompany
-1: Acheron
-1: Actor
-1: Adamant
-1: Address
-1: Addressed
-1: Admirable
-1: Admiring
-1: Advance
-1: Advantage
-1: Advised
-1: Aegles
-1: Affair
-1: Affright
-1: After-supper
-1: Age
-1: Aggravate
-1: Aim
-1: Ale
-1: Almanac
-1: Along
-1: Aloof
-1: Altar
-1: Although
-1: Amazed
-1: Amazon
-1: Amazèd
-1: Amazèdly
-1: Amiable
-1: Amiss
-1: Amity
-1: Amorous
-1: Angel
-1: Anger
-1: Anguish
-1: Anoint
-1: Answers
-1: Answerèd
-1: Antiopa
-1: Antipodes
-1: Antique
-1: Anything
-1: Apace
-1: Ape
-1: Apollo
-1: Apple
-1: Apply
-1: Appointed
-1: Apprehension
-1: Approve
-1: Apricocks
-1: Apt
-1: Archery
-1: Argument
-1: Ariadne
-1: Aright
-1: Arm
-1: Armed
-1: Arms
-1: Artificial
-1: Ass-head
-1: Asses
-1: Assurance
-1: Ass’s
-1: Astray
-1: Asunder
-1: Ate
-1: Athens’
-1: Attained
-1: Attendant
-1: Attractive
-1: Audacious
-1: Audience
-1: Auditor
-1: Aurora’s
-1: Austerity
-1: Autumn
-1: Avouch
-1: Awaked
-1: Awaking
-1: Aweary
-1: Bacchanals
-1: Bachelor
-1: Badge
-1: Bait
-1: Balance
-1: Ballad
-1: Band
-1: Bankrout
-1: Barber’s
-1: Barefaced
-1: Bark
-1: Barky
-1: Barm
-1: Base
-1: Bashfulness
-1: Bated
-1: Battle
-1: Batty
-1: Bayed
-1: Beachèd
-1: Bead
-1: Bean-fed
-1: Beards
-1: Bearing
-1: Beat
-1: Beauties
-1: Beautiful
-1: Bed-room
-1: Bedabbled
-1: Bedtime
-1: Beetles
-1: Beggary
-1: Begged
-1: Beginning
-1: Begone
-1: Behalf
-1: Behowls
-1: Belike
-1: Bells
-1: Beloved
-1: Bent
-1: Bequeath
-1: Berries
-1: Besides
-1: Beteem
-1: Bethink
-1: Betrothed
-1: Betwixt
-1: Bewail
-1: Bewitched
-1: Bide
-1: Big-bellied
-1: Black-browed
-1: Bladed
-1: Blamed
-1: Blameful
-1: Blameless
-1: Blessed
-1: Blessedness
-1: Blest
-1: Blind
-1: Blindworms
-1: Blink
-1: Blots
-1: Blows
-1: Boar
-1: Board
-1: Boasts
-1: Bob
-1: Bog
-1: Boiling
-1: Bolt
-1: Bones
-1: Book
-1: Bored
-1: Bottle
-1: Bouncing
-1: Bounds
-1: Bowl
-1: Bowstrings
-1: Boys
-1: Bracelets
-1: Bragging
-1: Brains
-1: Brakes
-1: Brands
-1: Brave
-1: Bravely
-1: Brawls
-1: Bread
-1: Breathless
-1: Bred
-1: Bride-bed
-1: Bringer
-1: Brings
-1: Brisky
-1: Bristled
-1: Broached
-1: Brook
-1: Broom
-1: Brother’s
-1: Brought
-1: Brow
-1: Brows
-1: Bud
-1: Bull
-1: Bulls
-1: Bum
-1: Burial
-1: Burn
-1: Burned
-1: Burr
-1: Bury
-1: Bushes
-1: Buskined
-1: Busy
-1: Butterflies
-1: Buy
-1: Buys
-1: Cadmus
-1: Candle
-1: Cankerblossom
-1: Cankers
-1: Capacity
-1: Captain
-1: Car
-1: Carcass
-1: Carol
-1: Carried
-1: Carthage
-1: Catching
-1: Cavalery
-1: Cawing
-1: Celestial
-1: Centaurs
-1: Center
-1: Ceremony
-1: Chain
-1: Chanting
-1: Chaplet
-1: Charge
-1: Charmeth
-1: Charmèd
-1: Chaste
-1: Chastity
-1: Cheered
-1: Cherries
-1: Chiding
-1: Chief
-1: Childing
-1: Children
-1: Choir
-1: Choose
-1: Choughs
-1: Chronicled
-1: Church-way
-1: Churchyards
-1: Churl
-1: Churn
-1: Circumference
-1: Clamorous
-1: Claws
-1: Clean
-1: Clerks
-1: Cloister
-1: Coil
-1: Collied
-1: Color
-1: Colt
-1: Comforts
-1: Commend
-1: Commit
-1: Committ’st
-1: Compact
-1: Companies
-1: Companion
-1: Compass
-1: Complaint
-1: Composed
-1: Com’st
-1: Con
-1: Conceal
-1: Conceits
-1: Concern
-1: Concerns
-1: Conclude
-1: Conclusion
-1: Condole
-1: Condoling
-1: Confederacy
-1: Confer
-1: Confound
-1: Confounding
-1: Congealèd
-1: Conjoined
-1: Conjunction
-1: Conjure
-1: Conned
-1: Conqueror
-1: Conscience
-1: Consecrate
-1: Consecrated
-1: Consents
-1: Consort
-1: Conspired
-1: Constancy
-1: Constraineth
-1: Contagious
-1: Continents
-1: Contrived
-1: Convenient
-1: Cool
-1: Corin
-1: Coronet
-1: Costs
-1: Cough
-1: Couldst
-1: Counsels
-1: Country
-1: Couple
-1: Courageous
-1: Courageously
-1: Course
-1: Courtesies
-1: Cowardly
-1: Cowslip
-1: Cowslips
-1: Cowslip’s
-1: Coy
-1: Crab
-1: Cradle
-1: Crannied
-1: Crawl
-1: Crawling
-1: Crazèd
-1: Create
-1: Created
-1: Creature
-1: Credit
-1: Creeping
-1: Creeps
-1: Crescent
-1: Crest
-1: Crew
-1: Crimson
-1: Critical
-1: Crook-kneed
-1: Crop
-1: Crossed
-1: Crossways
-1: Crown
-1: Crownèd
-1: Crows
-1: Cruelty
-1: Crystal
-1: Cues
-1: Cups
-1: Cur
-1: Cursed
-1: Curses
-1: Cushion
-1: Customary
-1: Dagger
-1: Dainty
-1: Dam
-1: Dame
-1: Damnèd
-1: Dank
-1: Daphne
-1: Darkling
-1: Date
-1: Daughter’s
-1: Day’s
-1: Dearest
-1: Death-counterfeiting
-1: Debate
-1: Debt
-1: Deceased
-1: Deceive
-1: Decking
-1: Deepest
-1: Defeated
-1: Defect
-1: Defiled
-1: Deflowered
-1: Derived
-1: Desert
-1: Deserved
-1: Desirest
-1: Despise
-1: Despite
-1: Destiny
-1: Detest
-1: Devices
-1: Devilish
-1: Devils
-1: Devise
-1: Devised
-1: Devour
-1: Devoured
-1: Devoutly
-1: Dewberries
-1: Dewdrops
-1: Dewlap
-1: Dewlapped
-1: Diana’s
-1: Dian’s
-1: Died
-1: Dies
-1: Different
-1: Dignity
-1: Dined
-1: Dirty
-1: Discharged
-1: Dischargèd
-1: Diseases
-1: Disgrace
-1: Disobedience
-1: Disordered
-1: Disparage
-1: Dispatch
-1: Displease
-1: Dispose
-1: Dissembling
-1: Dissension
-1: Dissolved
-1: Distant
-1: Distemperature
-1: Distilled
-1: Distracted
-1: Disturb
-1: Disturbed
-1: Ditty
-1: Dogged
-1: Doing
-1: Dole
-1: Dolphin’s
-1: Door
-1: Dotage
-1: Doting
-1: Doubler
-1: Doves
-1: Downright
-1: Dragons
-1: Drawn
-1: Drew
-1: Dried
-1: Drink
-1: Drinks
-1: Driv’st
-1: Drooping
-1: Drop
-1: Drownèd
-1: Drowsy
-1: Dry
-1: Duck
-1: Duke’s
-1: Dulcet
-1: Dull
-1: Dumb
-1: Dumbly
-1: During
-1: Dust
-1: Dwarf
-1: Dwarfish
-1: Dwell
-1: Dye
-1: Early
-1: Earnest
-1: Earthlier
-1: Ease
-1: East
-1: Easy
-1: Echo
-1: Edict
-1: Eglantine
-1: Egypt
-1: Eke
-1: Elf
-1: Elm
-1: Eloquence
-1: Embarkèd
-1: Empty
-1: Emptying
-1: Enameled
-1: Endure
-1: Enemies
-1: Enforcèd
-1: Engaged
-1: Engilds
-1: Enmity
-1: Enrich
-1: Enrings
-1: Ensue
-1: Entered
-1: Enthralled
-1: Enthrallèd
-1: Entice
-1: Entwist
-1: Ercles
-1: Ercles’
-1: Erewhile
-1: Errs
-1: Espies
-1: Espy
-1: Estate
-1: Eternally
-1: Ethiop
-1: Eunuch
-1: Evening
-1: Everlasting
-1: Evermore
-1: Everyone
-1: Evils
-1: Examine
-1: Exile
-1: Expense
-1: Exploit
-1: Exposition
-1: Expound
-1: Extempore
-1: Extenuate
-1: Extort
-1: Extremely
-1: Extremity
-1: Eyeballs
-1: Eyed
-1: Eyelid
-1: Eyelids
-1: Fables
-1: Fade
-1: Faintness
-1: Fairest
-1: Fairly
-1: Faithful
-1: Fallen
-1: Falling
-1: Fan
-1: Fancies
-1: Fancy
-1: Fancy-free
-1: Fancy-sick
-1: Fanned
-1: Fantasy
-1: Far-off
-1: Farthest
-1: Fashion
-1: Faster
-1: Fat
-1: Fate
-1: Fathers
-1: Fatted
-1: Favor
-1: Fawn
-1: Feared
-1: Feast
-1: Fee
-1: Feed
-1: Feel
-1: Fellows
-1: Fellowship
-1: Felt
-1: Female
-1: Females
-1: Field-dew
-1: Figs
-1: Filched
-1: Filled
-1: Filly
-1: Finch
-1: Finger
-1: Finished
-1: Five
-1: Fixèd
-1: Flewed
-1: Flights
-1: Flock
-1: Floor
-1: Flouriets’
-1: Flower’s
-1: Flying
-1: Foal
-1: Foe
-1: Fog
-1: Fogs
-1: Fold
-1: Followers
-1: Follows
-1: Fools
-1: Fool’s
-1: Foot
-1: Fordone
-1: Forests
-1: Forever
-1: Forevermore
-1: Forgeries
-1: Former
-1: Forms
-1: Forsook
-1: Forswear
-1: Forsworn
-1: Fortnight
-1: Fortunately
-1: Fortunes
-1: Forty
-1: Foul
-1: Fountains
-1: Fowler
-1: Fragrant
-1: Francis
-1: Frantic
-1: Freckles
-1: French
-1: French-crown-color
-1: Frenzy
-1: Fret
-1: Friendly
-1: Friendship
-1: Frights
-1: Frolic
-1: Frosts
-1: Frown
-1: Frowns
-1: Function
-1: Funerals
-1: Furies
-1: Fury
-1: Gambol
-1: Gaping
-1: Garlic
-1: Garter
-1: Gate
-1: Gaud
-1: Gauds
-1: Gave
-1: Geese
-1: Generally
-1: Gentlemanlike
-1: Gentlemen
-1: Gentleness
-1: Ghosts
-1: Giantlike
-1: Gift
-1: Girdle
-1: Glad
-1: Gleams
-1: Gleek
-1: Glide
-1: Glittering
-1: Globe
-1: Gloriously
-1: Glory
-1: Glow
-1: Glowworms’
-1: Goblin
-1: Godspeed
-1: God’s
-1: Goodfellow
-1: Gore
-1: Gossiped
-1: Gossip’s
-1: Governess
-1: Government
-1: Graces
-1: Grapes
-1: Grass
-1: Graves
-1: Greater
-1: Greatest
-1: Greet
-1: Griffin
-1: Grim
-1: Grim-looked
-1: Grisly
-1: Grossness
-1: Growing
-1: Grunt
-1: Guest-wise
-1: Guilty
-1: Gun’s
-1: Habitation
-1: Hailed
-1: Hallowed
-1: Handful
-1: Handicraftman
-1: Harbinger
-1: Hard
-1: Hard-handed
-1: Hard-hearted
-1: Harelip
-1: Harmonious
-1: Harp
-1: Harshness
-1: Hasty-footed
-1: Hates
-1: Hateth
-1: Hats
-1: Haunt
-1: Haunts
-1: Having
-1: Headless
-1: Heads
-1: Health
-1: Heartily
-1: Heat
-1: Heavens
-1: Heavier
-1: Heaviness
-1: Hecate’s
-1: Hedgehogs
-1: Heed
-1: Held
-1: Helen’s
-1: Hempen
-1: Henceforth
-1: Henchman
-1: Heraldry
-1: Herein
-1: Heresies
-1: Heresy
-1: Here’s
-1: Hers
-1: Hey-ho
-1: He’ll
-1: Hie
-1: Hiems’
-1: Highness
-1: Hight
-1: Hind
-1: Hinders
-1: Hind’ring
-1: Hips
-1: History
-1: Hit
-1: Hoard
-1: Hoary-headed
-1: Hobgoblin
-1: Hold’st
-1: Holloed
-1: Holy
-1: Homespuns
-1: Honey-bags
-1: Honeysuckle
-1: Honor
-1: Hoots
-1: Horn
-1: Hot
-1: Howsoever
-1: Humble-bee
-1: Humble-bees
-1: Humor
-1: Hundred
-1: Hungry
-1: Hunting
-1: Huntsmen
-1: Huswife
-1: Hymn
-1: Hymns
-1: Ice
-1: Icy
-1: Idolatry
-1: Illusion
-1: Images
-1: Imagine
-1: Imagining
-1: Imbrue
-1: Imitate
-1: Impair
-1: Impaired
-1: Impatient
-1: Impeach
-1: Imperfection
-1: Imperial
-1: Impression
-1: Imprinted
-1: Inconstant
-1: Incorporate
-1: Increase
-1: India
-1: Injuries
-1: Injurious
-1: Insufficiency
-1: Intelligence
-1: Intended
-1: Intents
-1: Interchainèd
-1: Interchanged
-1: Ivy
-1: I’d
-1: Jack
-1: Jangling
-1: Jaws
-1: Jew
-1: Jewel
-1: Jewels
-1: Jill
-1: Jove
-1: Jowl
-1: Judge
-1: Juggler
-1: Juvenal
-1: Kill-courtesy
-1: Killing
-1: Kinder
-1: Kindred
-1: Kinds
-1: Kingdom
-1: Kinsman
-1: Kissed
-1: Kissing
-1: Knacks
-1: Knaveries
-1: Knew
-1: Knitteth
-1: Knotgrass
-1: Knowing
-1: Labor
-1: Labored
-1: Lack-love
-1: Lad
-1: Lads
-1: Lady’s
-1: Lakin
-1: Lamentable
-1: Lamenting
-1: Languish
-1: Lap
-1: Last
-1: Latched
-1: Latter
-1: Laughed
-1: Laughing
-1: Laughter
-1: Lazy
-1: Leaden
-1: Leads
-1: Leagues
-1: Learning
-1: Least
-1: Leathern
-1: Led
-1: Leeks
-1: Length
-1: Less
-1: Lesser
-1: Lets
-1: Leviathan
-1: Liar
-1: Lied
-1: Lighter-heeled
-1: Lightning
-1: Liked
-1: Lily
-1: Lily-white
-1: Limander
-1: Linen
-1: Lingers
-1: Lions
-1: Liquid
-1: Listen
-1: Lived
-1: Liveries
-1: Livery
-1: Lives
-1: Living
-1: Lo
-1: Loath
-1: Loathing
-1: Loathèd
-1: Lob
-1: Local
-1: Locks
-1: Lodestars
-1: Loffe
-1: Lofty
-1: Long-legged
-1: Look’st
-1: Loosed
-1: Lords
-1: Lordship
-1: Love-in-idleness
-1: Love-shaft
-1: Lovest
-1: Loving
-1: Lovèd
-1: Loyalty
-1: Lulled
-1: Lunatic
-1: Lurk
-1: Luscious
-1: Lying
-1: Madman
-1: Madmen
-1: Maidenly
-1: Maiden’s
-1: Maid’s
-1: Manager
-1: Manhood
-1: Manly
-1: Manner
-1: Mar
-1: Mare
-1: Margent
-1: Marked
-1: Marking
-1: Marred
-1: Married
-1: Marshal
-1: Marvel
-1: Mask
-1: Masque
-1: Masques
-1: Match
-1: Matched
-1: Maypole
-1: Mayst
-1: Mazes
-1: Mazèd
-1: Mead
-1: Meaning
-1: Meant
-1: Meantime
-1: Mechanicals
-1: Meddling
-1: Meditation
-1: Med’cine
-1: Meeting
-1: Melancholy
-1: Melt
-1: Melted
-1: Memories
-1: Mend
-1: Mended
-1: Merchandise
-1: Merit
-1: Mermaid
-1: Merrier
-1: Merriment
-1: Merriments
-1: Messenger
-1: Messengers
-1: Mewed
-1: Middle
-1: Midst
-1: Mighty
-1: Mile
-1: Milk-white
-1: Million
-1: Mimic
-1: Minding
-1: Minimus
-1: Minute
-1: Miserable
-1: Misgraffèd
-1: Mislead
-1: Misprised
-1: Misprision
-1: Mistaken
-1: Mistaketh
-1: Mistak’st
-1: Moan
-1: Moans
-1: Mockers
-1: Mock’st
-1: Molded
-1: Mole
-1: Moment
-1: Momentany
-1: Monkey
-1: Monster’s
-1: Mood
-1: Moonbeams
-1: Moon’s
-1: Moral
-1: Morning’s
-1: Motion
-1: Mountains
-1: Mountain’s
-1: Mourning
-1: Moused
-1: Mouths
-1: Mud
-1: Muddy
-1: Mulberries
-1: Mulberry
-1: Munch
-1: Murder
-1: Murrain
-1: Muses
-1: Muskrose
-1: Mutual
-1: Names
-1: Natural
-1: Nature’s
-1: Neaf
-1: Nearly
-1: Neck
-1: Need
-1: Needles
-1: Neeze
-1: Neglect
-1: Negligence
-1: Neigh
-1: Neighing
-1: Neither
-1: Neptune
-1: Neptune’s
-1: Newts
-1: Ne’er
-1: Night-rule
-1: Night-tapers
-1: Nightingale
-1: Nights
-1: Nimble
-1: Nine-men’s-morris
-1: Nod
-1: Nodding
-1: Noll
-1: Noontide
-1: Nose
-1: Nosegays
-1: Notably
-1: Notwithstanding
-1: Nowadays
-1: Number
-1: Numbered
-1: Nun
-1: Nuts
-1: Nymphs
-1: Oak
-1: Oats
-1: Obedience
-1: Object
-1: Obscenely
-1: Observance
-1: Observation
-1: Observe
-1: Occasion
-1: Odious
-1: Odorous
-1: Oes
-1: Offence
-1: Offended
-1: Offer
-1: Offices
-1: Officious
-1: Oftener
-1: Onions
-1: Open
-1: Opening
-1: Opportunity
-1: Orbs
-1: Order
-1: Orient
-1: Original
-1: Ounce
-1: Outsleep
-1: Ouzel
-1: Overbear
-1: Overborne
-1: Overcanopied
-1: Overcast
-1: Overflown
-1: Overfull
-1: Overhear
-1: Overwatched
-1: Owl
-1: Owner
-1: Ox
-1: Ox-beef
-1: Oxlips
-1: O’ercharged
-1: O’erlook
-1: O’errules
-1: Pace
-1: Page
-1: Pageant
-1: Pains
-1: Pairs
-1: Palpable-gross
-1: Paradise
-1: Paragon
-1: Pard
-1: Pare
-1: Parents
-1: Park
-1: Parlous
-1: Partly
-1: Passing
-1: Passèd
-1: Patched
-1: Patches
-1: Patent
-1: Paths
-1: Patiently
-1: Pause
-1: Pavèd
-1: Pay
-1: Paying
-1: Pays
-1: Pearls
-1: Peas
-1: Peascod
-1: Peck
-1: Peep
-1: Pelting
-1: Pen
-1: Pensioners
-1: People
-1: Peradventure
-1: Perfect
-1: Performed
-1: Performing
-1: Perigouna
-1: Periods
-1: Perish
-1: Perishing
-1: Perjured
-1: Persever
-1: Persuasion
-1: Pert
-1: Phibbus’
-1: Phillida
-1: Phoebe
-1: Picked
-1: Piece
-1: Pierce
-1: Pierced
-1: Pilgrimage
-1: Pillow
-1: Pipes
-1: Piping
-1: Places
-1: Plain
-1: Plainer
-1: Plainest
-1: Plainly
-1: Plainsong
-1: Plaster
-1: Player
-1: Playfellow
-1: Plays
-1: Plead
-1: Pleading
-1: Plot
-1: Plunge
-1: Poet
-1: Points
-1: Possessed
-1: Possible
-1: Potion
-1: Pour
-1: Powers
-1: Practiced
-1: Praise
-1: Precious
-1: Preferred
-1: Premeditated
-1: Prepare
-1: Prepost’rously
-1: Presented
-1: Presenteth
-1: Presently
-1: Pressed
-1: Pressèd
-1: Prettily
-1: Prevailed
-1: Prevailment
-1: Prey
-1: Pride
-1: Primrose
-1: Princess
-1: Prison
-1: Private
-1: Prodigious
-1: Progeny
-1: Promontory
-1: Proper
-1: Properties
-1: Property
-1: Prosecute
-1: Prospers
-1: Protest
-1: Provender
-1: Proverb
-1: Proves
-1: Provided
-1: Pumps
-1: Purge
-1: Purple-in-grain
-1: Purpose
-1: Purposed
-1: Purposèd
-1: Pursuit
-1: Puts
-1: Pyramus’
-1: Quail
-1: Qualities
-1: Quantity
-1: Quell
-1: Quenched
-1: Quern
-1: Questions
-1: Quicker
-1: Quiet
-1: Quill
-1: Radiant
-1: Raging
-1: Rail
-1: Rain
-1: Ranked
-1: Rarely
-1: Rash
-1: Rate
-1: Rattling
-1: Raven
-1: Ravishèd
-1: Reach
-1: Rear
-1: Reasonable
-1: Rebuke
-1: Recompense
-1: Recorder
-1: Recount
-1: Recover
-1: Recreant
-1: Red-hipped
-1: Refuse
-1: Refused
-1: Region
-1: Rehearsal
-1: Rehearsed
-1: Relent
-1: Remember
-1: Rememb’rest
-1: Remote
-1: Removed
-1: Renownèd
-1: Rent
-1: Repair
-1: Reply
-1: Reprehend
-1: Reremice
-1: Respects
-1: Restore
-1: Return
-1: Returned
-1: Reveling
-1: Rheumatic
-1: Rhymes
-1: Ribbons
-1: Richest
-1: Rid
-1: Riddles
-1: Ringlets
-1: Rings
-1: Riot
-1: Rising
-1: Rite
-1: Rival
-1: River
-1: Roared
-1: Roaring
-1: Roars
-1: Roasted
-1: Rock
-1: Rocks
-1: Rod
-1: Roll
-1: Rolling
-1: Room
-1: Roses
-1: Rote
-1: Rotted
-1: Rounded
-1: Roundel
-1: Royal
-1: Rubies
-1: Runaway
-1: Runn’st
-1: Rushy
-1: Russet-pated
-1: Saddest
-1: Safety
-1: Sails
-1: Saint
-1: Salt
-1: Salt-green
-1: Sampler
-1: Sanded
-1: Sands
-1: Satire
-1: Saucy
-1: Save
-1: Sayest
-1: Saying
-1: Scales
-1: Scalp
-1: Scandal
-1: Scar
-1: Scare
-1: School
-1: Schooldays’
-1: Schooling
-1: Scornful
-1: Scorning
-1: Scorns
-1: Screech-owl
-1: Screeching
-1: Scrip
-1: Sea-maid’s
-1: Seal
-1: Sealing
-1: Season
-1: Seasons
-1: Seat
-1: Secretly
-1: Seeing
-1: Seeking
-1: Seek’st
-1: Seething
-1: Self-affairs
-1: Senseless
-1: Sensible
-1: Sentences
-1: Sentinel
-1: Separation
-1: Serpent’s
-1: Servant
-1: Services
-1: Setting
-1: Seven
-1: Sever
-1: Several
-1: Shadow
-1: Shady
-1: Shaft
-1: Shake
-1: Shallowest
-1: Shames
-1: Shapes
-1: Shaping
-1: Shared
-1: Sharp
-1: Shears
-1: Shed
-1: Sheen
-1: Shepherd’s
-1: Shifting
-1: Shining
-1: Shiver
-1: Shivering
-1: Shocks
-1: Shoes
-1: Shone
-1: Shore
-1: Shot
-1: Showed
-1: Shown
-1: Shows
-1: Show’rs
-1: Shrewishness
-1: Shriek
-1: Shroud
-1: Shun
-1: Shuts
-1: Sides
-1: Siege
-1: Signify
-1: Signior
-1: Silently
-1: Silk
-1: Silliest
-1: Simpleness
-1: Simply
-1: Singer
-1: Sinister
-1: Sink
-1: Sister
-1: Sisters
-1: Sisters’
-1: Sitting
-1: Six
-1: Skies
-1: Skim
-1: Skin
-1: Skip
-1: Sleek
-1: Sleepers
-1: Sleeps
-1: Sleeves
-1: Slight
-1: Slip
-1: Slumbered
-1: Smallest
-1: Smartly
-1: Smile
-1: Smiles
-1: Smiling
-1: Snail
-1: Snake
-1: Snakes
-1: Snatch
-1: Snores
-1: Snuff
-1: Society
-1: Soft
-1: Sojourned
-1: Solemnities
-1: Solemnly
-1: Sorrow
-1: Sorting
-1: Soul’s
-1: Sovereignty
-1: Spangled
-1: Spare
-1: Sparrow
-1: Spartan
-1: Speakest
-1: Speaks
-1: Spend
-1: Spheres
-1: Sphery
-1: Spicèd
-1: Spiders
-1: Spied
-1: Spinners
-1: Spleen
-1: Split
-1: Spoken
-1: Sports
-1: Spots
-1: Spread
-1: Square
-1: Squash
-1: Squire
-1: Squirrel’s
-1: Stage
-1: Stain
-1: Stained
-1: Stalls
-1: Stamp
-1: Stand’st
-1: Starry
-1: Starve
-1: State
-1: Statures
-1: Stayeth
-1: Steel
-1: Stem
-1: Stepdame
-1: Stern
-1: Stick
-1: Stirring
-1: Stomach
-1: Stone
-1: Stool
-1: Stop
-1: Stories
-1: Storms
-1: Straw-color
-1: Stray
-1: Streak
-1: Streams
-1: Strength
-1: Strife
-1: Strings
-1: Strongest
-1: Stubborn
-1: Study
-1: Stuff
-1: Stung
-1: Sucked
-1: Sucking
-1: Suffer
-1: Sunder
-1: Sunny
-1: Superpraise
-1: Supposed
-1: Surgeon
-1: Swagg’ring
-1: Swain
-1: Sway
-1: Swayed
-1: Sweat
-1: Sweet-faced
-1: Sweetest
-1: Sweetmeats
-1: Swell
-1: Swim
-1: Swimming
-1: Swoon
-1: Swords
-1: Swore
-1: Sympathy
-1: Tak’st
-1: Tales
-1: Talk
-1: Tame
-1: Tangled
-1: Tarrying
-1: Tartar
-1: Tartar’s
-1: Task
-1: Taunted
-1: Taurus’
-1: Tawny
-1: Team
-1: Tearing
-1: Tempest
-1: Temples
-1: Tempt
-1: Tempting
-1: Tend
-1: Tends
-1: Terms
-1: Terribly
-1: Testy
-1: That’s
-1: Thebes
-1: Theirs
-1: Theme
-1: Thereby
-1: Therefor
-1: Therein
-1: Thereof
-1: Thessalian
-1: Thessaly
-1: Thick-skin
-1: Thief
-1: Thighs
-1: Thin
-1: Thinks
-1: Third
-1: Thistle
-1: Thither
-1: Thorny
-1: Thousand
-1: Thracian
-1: Threatened
-1: Threats
-1: Three-foot
-1: Thrice-blessèd
-1: Thrice-three
-1: Thronèd
-1: Throstle
-1: Throttle
-1: Throw
-1: Throws
-1: Thrum
-1: Thunder
-1: Thyme
-1: Tickle
-1: Tie
-1: Tiger
-1: Tipsy
-1: Tiring-house
-1: Title
-1: Toiled
-1: Tokens
-1: Told’st
-1: Tom
-1: Tongs
-1: Tongue-tied
-1: Tonight
-1: Topples
-1: Torment
-1: Torn
-1: Torturing
-1: Touching
-1: Toward
-1: Toys
-1: Trace
-1: Traders
-1: Tragedy
-1: Train
-1: Transfigured
-1: Transformèd
-1: Transparent
-1: Transported
-1: Transpose
-1: Treats
-1: Trial
-1: Tricks
-1: Trim
-1: Triple
-1: Trippingly
-1: Triumph
-1: Triumphant
-1: Triumphantly
-1: Trojan
-1: Troop
-1: True-love
-1: True-love’s
-1: Truer
-1: Turf
-1: Turnèd
-1: Twain
-1: Twelve
-1: Tyrant’s
-1: Ugly
-1: Unbreathed
-1: Uncouple
-1: Undergo
-1: Undertake
-1: Undo
-1: Unearnèd
-1: Uneven
-1: Unfold
-1: Unfolds
-1: Ungrateful
-1: Unhardened
-1: Unheedy
-1: Union
-1: Unkind
-1: Unkindly
-1: Unknown
-1: Unless
-1: Unloved
-1: Unsay
-1: Unwishèd
-1: Unworthy
-1: Upbraid
-1: Urged
-1: Usual
-1: Usèd
-1: Utter
-1: Uttering
-1: Valentine
-1: Valley
-1: Vanished
-1: Vantage
-1: Vast
-1: Vaward
-1: Venturous
-1: Venus’
-1: Verses
-1: Versing
-1: Vestal
-1: Videlicet
-1: Villagery
-1: Violet
-1: Virginity
-1: Virtue’s
-1: Visited
-1: Vixen
-1: Voices
-1: Voyage
-1: Waggish
-1: Wakes
-1: Walk
-1: Walls
-1: Wanderers
-1: Wane
-1: Wanes
-1: Wanting
-1: Wants
-1: Warning
-1: Warrant
-1: Warrior
-1: Wars
-1: Washed
-1: Washes
-1: Waste
-1: Watch
-1: Wax
-1: Ways
-1: Weapons
-1: Weaving
-1: Weed
-1: Weeds
-1: Weep
-1: Welcomes
-1: Welkin
-1: Wend
-1: Went
-1: West
-1: Wheat
-1: Whereat
-1: Wherein
-1: Whereon
-1: Wheresoe’er
-1: Whereto
-1: Whiles
-1: Whip
-1: Whistling
-1: Whit
-1: Widow
-1: Wildfowl
-1: Willful
-1: Winds
-1: Winged
-1: Wink
-1: Wise
-1: Wisest
-1: Wisher’s
-1: Wishes
-1: Withdraw
-1: Withered
-1: Withholds
-1: Witnesseth
-1: Wits
-1: Wittiest
-1: Womb
-1: Women
-1: Wondrous
-1: Woodbirds
-1: Worlds
-1: Wormy
-1: Worser
-1: Worships
-1: Worship’s
-1: Worth
-1: Worthy
-1: Wrap
-1: Wrath
-1: Wren
-1: Wretch
-1: Wretchedness
-1: Writ
-1: Wronged
-1: Wrongs
-1: Ye
-1: Years
-1: Yielders
-1: Yielding
-1: Yields
-1: Yon
-1: ’nointed
-1: ’r
-1: ’scape
-1: ’scaped
+instances: 545, word: 'The', work: 'MND'},
+instances: 533, word: 'And', work: 'MND'},
+instances: 436, word: 'I', work: 'MND'},
+instances: 330, word: 'To', work: 'MND'},
+instances: 276, word: 'You', work: 'MND'},
+instances: 264, word: 'Of', work: 'MND'},
+instances: 260, word: 'A', work: 'MND'},
+instances: 237, word: 'In', work: 'MND'},
+instances: 201, word: 'My', work: 'MND'},
+instances: 195, word: 'Is', work: 'MND'},
+instances: 185, word: 'That', work: 'MND'},
+instances: 180, word: 'Me', work: 'MND'},
+instances: 171, word: 'Not', work: 'MND'},
+instances: 170, word: 'With', work: 'MND'},
+instances: 149, word: 'This', work: 'MND'},
+instances: 142, word: 'For', work: 'MND'},
+instances: 132, word: 'It', work: 'MND'},
+instances: 122, word: 'Your', work: 'MND'},
+instances: 120, word: 'But', work: 'MND'},
+instances: 117, word: 'As', work: 'MND'},
+instances: 116, word: 'So', work: 'MND'},
+instances: 116, word: 'Thou', work: 'MND'},
+instances: 115, word: 'Will', work: 'MND'},
+instances: 107, word: 'Do', work: 'MND'},
+instances: 105, word: 'Be', work: 'MND'},
+instances: 102, word: 'Love', work: 'MND'},
+instances: 98, word: 'Have', work: 'MND'},
+instances: 98, word: 'Her', work: 'MND'},
+instances: 91, word: 'He', work: 'MND'},
+instances: 87, word: 'All', work: 'MND'},
+instances: 87, word: 'His', work: 'MND'},
+instances: 85, word: 'No', work: 'MND'},
+instances: 75, word: 'We', work: 'MND'},
+instances: 72, word: 'Shall', work: 'MND'},
+instances: 72, word: 'What', work: 'MND'},
+instances: 70, word: 'By', work: 'MND'},
+instances: 68, word: 'Are', work: 'MND'},
+instances: 68, word: 'On', work: 'MND'},
+instances: 67, word: 'Here', work: 'MND'},
+instances: 65, word: 'If', work: 'MND'},
+instances: 65, word: 'Now', work: 'MND'},
+instances: 65, word: 'Thy', work: 'MND'},
+instances: 64, word: 'Thee', work: 'MND'},
+instances: 63, word: 'O', work: 'MND'},
+instances: 63, word: 'Or', work: 'MND'},
+instances: 63, word: 'She', work: 'MND'},
+instances: 60, word: 'Come', work: 'MND'},
+instances: 60, word: 'Our', work: 'MND'},
+instances: 60, word: 'When', work: 'MND'},
+instances: 56, word: 'Am', work: 'MND'},
+instances: 55, word: 'From', work: 'MND'},
+instances: 50, word: 'Him', work: 'MND'},
+instances: 50, word: 'More', work: 'MND'},
+instances: 50, word: 'Their', work: 'MND'},
+instances: 48, word: 'Sweet', work: 'MND'},
+instances: 47, word: 'Then', work: 'MND'},
+instances: 45, word: 'Man', work: 'MND'},
+instances: 45, word: 'Night', work: 'MND'},
+instances: 44, word: 'Must', work: 'MND'},
+instances: 43, word: 'Pyramus', work: 'MND'},
+instances: 40, word: 'Eyes', work: 'MND'},
+instances: 40, word: 'Good', work: 'MND'},
+instances: 40, word: 'One', work: 'MND'},
+instances: 40, word: 'Would', work: 'MND'},
+instances: 39, word: 'At', work: 'MND'},
+instances: 39, word: 'See', work: 'MND'},
+instances: 38, word: 'Hath', work: 'MND'},
+instances: 38, word: 'Which', work: 'MND'},
+instances: 37, word: 'Demetrius', work: 'MND'},
+instances: 37, word: 'Did', work: 'MND'},
+instances: 37, word: 'Let', work: 'MND'},
+instances: 37, word: 'Lysander', work: 'MND'},
+instances: 37, word: 'Never', work: 'MND'},
+instances: 37, word: 'Some', work: 'MND'},
+instances: 37, word: 'There', work: 'MND'},
+instances: 36, word: 'Go', work: 'MND'},
+instances: 36, word: 'Hermia', work: 'MND'},
+instances: 36, word: 'How', work: 'MND'},
+instances: 36, word: 'Make', work: 'MND'},
+instances: 35, word: 'Should', work: 'MND'},
+instances: 34, word: 'Fair', work: 'MND'},
+instances: 34, word: 'Play', work: 'MND'},
+instances: 33, word: 'An', work: 'MND'},
+instances: 33, word: 'Than', work: 'MND'},
+instances: 32, word: 'Can', work: 'MND'},
+instances: 32, word: 'They', work: 'MND'},
+instances: 31, word: 'Doth', work: 'MND'},
+instances: 31, word: 'May', work: 'MND'},
+instances: 31, word: 'These', work: 'MND'},
+instances: 31, word: 'Well', work: 'MND'},
+instances: 30, word: 'Was', work: 'MND'},
+instances: 29, word: 'Lord', work: 'MND'},
+instances: 29, word: 'Moon', work: 'MND'},
+instances: 29, word: 'Thisbe', work: 'MND'},
+instances: 29, word: 'Upon', work: 'MND'},
+instances: 28, word: 'Through', work: 'MND'},
+instances: 28, word: 'Wall', work: 'MND'},
+instances: 27, word: 'I\'ll', work: 'MND'},
+instances: 27, word: 'Look', work: 'MND'},
+instances: 27, word: 'Out', work: 'MND'},
+instances: 27, word: 'Speak', work: 'MND'},
+instances: 27, word: 'Them', work: 'MND'},
+instances: 27, word: 'Yet', work: 'MND'},
+instances: 26, word: 'Like', work: 'MND'},
+instances: 26, word: 'Say', work: 'MND'},
+instances: 26, word: 'Where', work: 'MND'},
+instances: 25, word: 'True', work: 'MND'},
+instances: 25, word: 'Up', work: 'MND'},
+instances: 24, word: 'Know', work: 'MND'},
+instances: 24, word: 'Lion', work: 'MND'},
+instances: 24, word: 'Such', work: 'MND'},
+instances: 24, word: 'Take', work: 'MND'},
+instances: 24, word: 'Us', work: 'MND'},
+instances: 23, word: 'Away', work: 'MND'},
+instances: 23, word: 'Day', work: 'MND'},
+instances: 23, word: 'Helena', work: 'MND'},
+instances: 23, word: 'Mine', work: 'MND'},
+instances: 22, word: 'Nor', work: 'MND'},
+instances: 22, word: 'Why', work: 'MND'},
+instances: 21, word: 'Heart', work: 'MND'},
+instances: 21, word: 'Most', work: 'MND'},
+instances: 21, word: 'Thus', work: 'MND'},
+instances: 20, word: 'Eye', work: 'MND'},
+instances: 20, word: 'Fairy', work: 'MND'},
+instances: 20, word: 'Give', work: 'MND'},
+instances: 20, word: 'Hear', work: 'MND'},
+instances: 19, word: 'Athens', work: 'MND'},
+instances: 19, word: 'Had', work: 'MND'},
+instances: 19, word: 'Too', work: 'MND'},
+instances: 19, word: 'Two', work: 'MND'},
+instances: 18, word: 'Therefore', work: 'MND'},
+instances: 18, word: 'Were', work: 'MND'},
+instances: 18, word: 'Wood', work: 'MND'},
+instances: 17, word: 'Comes', work: 'MND'},
+instances: 17, word: 'Fear', work: 'MND'},
+instances: 17, word: 'Follow', work: 'MND'},
+instances: 17, word: 'Meet', work: 'MND'},
+instances: 16, word: 'Art', work: 'MND'},
+instances: 16, word: 'Gentle', work: 'MND'},
+instances: 16, word: 'Gone', work: 'MND'},
+instances: 16, word: 'Hast', work: 'MND'},
+instances: 16, word: 'Sleep', work: 'MND'},
+instances: 16, word: 'Tell', work: 'MND'},
+instances: 16, word: 'Things', work: 'MND'},
+instances: 15, word: 'Dear', work: 'MND'},
+instances: 15, word: 'Every', work: 'MND'},
+instances: 15, word: 'Leave', work: 'MND'},
+instances: 15, word: 'Lovers', work: 'MND'},
+instances: 15, word: 'Stay', work: 'MND'},
+instances: 15, word: 'Think', work: 'MND'},
+instances: 14, word: 'Again', work: 'MND'},
+instances: 14, word: 'Athenian', work: 'MND'},
+instances: 14, word: 'Dead', work: 'MND'},
+instances: 14, word: 'Dream', work: 'MND'},
+instances: 14, word: 'Ever', work: 'MND'},
+instances: 14, word: 'Life', work: 'MND'},
+instances: 14, word: 'Made', work: 'MND'},
+instances: 14, word: 'Name', work: 'MND'},
+instances: 14, word: 'Part', work: 'MND'},
+instances: 13, word: 'Cannot', work: 'MND'},
+instances: 13, word: 'Could', work: 'MND'},
+instances: 13, word: 'Death', work: 'MND'},
+instances: 13, word: 'Ere', work: 'MND'},
+instances: 13, word: 'Nothing', work: 'MND'},
+instances: 13, word: 'Pray', work: 'MND'},
+instances: 13, word: 'Rest', work: 'MND'},
+instances: 13, word: 'Till', work: 'MND'},
+instances: 12, word: 'Bed', work: 'MND'},
+instances: 12, word: 'Both', work: 'MND'},
+instances: 12, word: 'Die', work: 'MND'},
+instances: 12, word: 'Down', work: 'MND'},
+instances: 12, word: 'Duke', work: 'MND'},
+instances: 12, word: 'Men', work: 'MND'},
+instances: 12, word: 'Place', work: 'MND'},
+instances: 12, word: 'Queen', work: 'MND'},
+instances: 12, word: 'Tongue', work: 'MND'},
+instances: 11, word: 'Ay', work: 'MND'},
+instances: 11, word: 'Bear', work: 'MND'},
+instances: 11, word: 'Bottom', work: 'MND'},
+instances: 11, word: 'Call', work: 'MND'},
+instances: 11, word: 'Enough', work: 'MND'},
+instances: 11, word: 'Find', work: 'MND'},
+instances: 11, word: 'Grace', work: 'MND'},
+instances: 11, word: 'Head', work: 'MND'},
+instances: 11, word: 'Lady', work: 'MND'},
+instances: 11, word: 'Little', work: 'MND'},
+instances: 11, word: 'Long', work: 'MND'},
+instances: 11, word: 'Monsieur', work: 'MND'},
+instances: 11, word: 'Much', work: 'MND'},
+instances: 11, word: 'Near', work: 'MND'},
+instances: 11, word: 'Sport', work: 'MND'},
+instances: 11, word: 'Though', work: 'MND'},
+instances: 11, word: 'Very', work: 'MND'},
+instances: 11, word: 'Who', work: 'MND'},
+instances: 10, word: 'Back', work: 'MND'},
+instances: 10, word: 'Before', work: 'MND'},
+instances: 10, word: 'Best', work: 'MND'},
+instances: 10, word: 'Came', work: 'MND'},
+instances: 10, word: 'Child', work: 'MND'},
+instances: 10, word: 'Else', work: 'MND'},
+instances: 10, word: 'Hand', work: 'MND'},
+instances: 10, word: 'Heard', work: 'MND'},
+instances: 10, word: 'Hence', work: 'MND'},
+instances: 10, word: 'Into', work: 'MND'},
+instances: 10, word: 'Ladies', work: 'MND'},
+instances: 10, word: 'Sight', work: 'MND'},
+instances: 10, word: 'Sing', work: 'MND'},
+instances: 10, word: 'Sometime', work: 'MND'},
+instances: 10, word: 'Stand', work: 'MND'},
+instances: 10, word: 'Time', work: 'MND'},
+instances: 10, word: 'Unto', work: 'MND'},
+instances: 9, word: 'Being', work: 'MND'},
+instances: 9, word: 'Boy', work: 'MND'},
+instances: 9, word: 'Company', work: 'MND'},
+instances: 9, word: 'Desire', work: 'MND'},
+instances: 9, word: 'Face', work: 'MND'},
+instances: 9, word: 'First', work: 'MND'},
+instances: 9, word: 'Forth', work: 'MND'},
+instances: 9, word: 'Friends', work: 'MND'},
+instances: 9, word: 'Hate', work: 'MND'},
+instances: 9, word: 'Keep', work: 'MND'},
+instances: 9, word: 'Kill', work: 'MND'},
+instances: 9, word: 'Light', work: 'MND'},
+instances: 9, word: 'Loves', work: 'MND'},
+instances: 9, word: 'Methinks', work: 'MND'},
+instances: 9, word: 'Music', work: 'MND'},
+instances: 9, word: 'Nay', work: 'MND'},
+instances: 9, word: 'Once', work: 'MND'},
+instances: 9, word: 'Other', work: 'MND'},
+instances: 9, word: 'Own', work: 'MND'},
+instances: 9, word: 'O\'er', work: 'MND'},
+instances: 9, word: 'Poor', work: 'MND'},
+instances: 9, word: 'Power', work: 'MND'},
+instances: 9, word: 'Run', work: 'MND'},
+instances: 9, word: 'Same', work: 'MND'},
+instances: 9, word: 'Scorn', work: 'MND'},
+instances: 9, word: 'Show', work: 'MND'},
+instances: 9, word: 'Thing', work: 'MND'},
+instances: 9, word: 'Titania', work: 'MND'},
+instances: 9, word: 'Voice', work: 'MND'},
+instances: 9, word: 'Word', work: 'MND'},
+instances: 8, word: 'Any', work: 'MND'},
+instances: 8, word: 'Blood', work: 'MND'},
+instances: 8, word: 'Bring', work: 'MND'},
+instances: 8, word: 'Ear', work: 'MND'},
+instances: 8, word: 'Get', work: 'MND'},
+instances: 8, word: 'Great', work: 'MND'},
+instances: 8, word: 'Green', work: 'MND'},
+instances: 8, word: 'Helen', work: 'MND'},
+instances: 8, word: 'House', work: 'MND'},
+instances: 8, word: 'Joy', work: 'MND'},
+instances: 8, word: 'Lovely', work: 'MND'},
+instances: 8, word: 'Lover', work: 'MND'},
+instances: 8, word: 'Lulla', work: 'MND'},
+instances: 8, word: 'Lullaby', work: 'MND'},
+instances: 8, word: 'Moonshine', work: 'MND'},
+instances: 8, word: 'Next', work: 'MND'},
+instances: 8, word: 'None', work: 'MND'},
+instances: 8, word: 'Oberon', work: 'MND'},
+instances: 8, word: 'Peter', work: 'MND'},
+instances: 8, word: 'Pity', work: 'MND'},
+instances: 8, word: 'Quince', work: 'MND'},
+instances: 8, word: 'Reason', work: 'MND'},
+instances: 8, word: 'Roar', work: 'MND'},
+instances: 8, word: 'Set', work: 'MND'},
+instances: 8, word: 'Sleeping', work: 'MND'},
+instances: 8, word: 'Tears', work: 'MND'},
+instances: 8, word: 'Three', work: 'MND'},
+instances: 8, word: 'Truth', work: 'MND'},
+instances: 8, word: 'Vile', work: 'MND'},
+instances: 8, word: 'Way', work: 'MND'},
+instances: 8, word: 'Whose', work: 'MND'},
+instances: 8, word: 'Within', work: 'MND'},
+instances: 7, word: 'About', work: 'MND'},
+instances: 7, word: 'Another', work: 'MND'},
+instances: 7, word: 'Awake', work: 'MND'},
+instances: 7, word: 'Beard', work: 'MND'},
+instances: 7, word: 'Because', work: 'MND'},
+instances: 7, word: 'Bless', work: 'MND'},
+instances: 7, word: 'Break', work: 'MND'},
+instances: 7, word: 'Each', work: 'MND'},
+instances: 7, word: 'Either', work: 'MND'},
+instances: 7, word: 'Father\'s', work: 'MND'},
+instances: 7, word: 'Flower', work: 'MND'},
+instances: 7, word: 'Full', work: 'MND'},
+instances: 7, word: 'Ground', work: 'MND'},
+instances: 7, word: 'Hands', work: 'MND'},
+instances: 7, word: 'Happy', work: 'MND'},
+instances: 7, word: 'Harm', work: 'MND'},
+instances: 7, word: 'Hermia\'s', work: 'MND'},
+instances: 7, word: 'Hold', work: 'MND'},
+instances: 7, word: 'Lead', work: 'MND'},
+instances: 7, word: 'Lie', work: 'MND'},
+instances: 7, word: 'Marry', work: 'MND'},
+instances: 7, word: 'Master', work: 'MND'},
+instances: 7, word: 'Masters', work: 'MND'},
+instances: 7, word: 'Might', work: 'MND'},
+instances: 7, word: 'Off', work: 'MND'},
+instances: 7, word: 'Pale', work: 'MND'},
+instances: 7, word: 'Prologue', work: 'MND'},
+instances: 7, word: 'Right', work: 'MND'},
+instances: 7, word: 'Robin', work: 'MND'},
+instances: 7, word: 'Shalt', work: 'MND'},
+instances: 7, word: 'Since', work: 'MND'},
+instances: 7, word: 'Soul', work: 'MND'},
+instances: 7, word: 'Sound', work: 'MND'},
+instances: 7, word: 'Still', work: 'MND'},
+instances: 7, word: 'Thisbe\'s', work: 'MND'},
+instances: 7, word: 'Those', work: 'MND'},
+instances: 7, word: 'Wilt', work: 'MND'},
+instances: 7, word: 'Wonder', work: 'MND'},
+instances: 7, word: 'Young', work: 'MND'},
+instances: 7, word: 'Youth', work: 'MND'},
+instances: 6, word: 'Against', work: 'MND'},
+instances: 6, word: 'Alone', work: 'MND'},
+instances: 6, word: 'Answer', work: 'MND'},
+instances: 6, word: 'Asleep', work: 'MND'},
+instances: 6, word: 'Ass', work: 'MND'},
+instances: 6, word: 'Beg', work: 'MND'},
+instances: 6, word: 'Between', work: 'MND'},
+instances: 6, word: 'Breath', work: 'MND'},
+instances: 6, word: 'Brief', work: 'MND'},
+instances: 6, word: 'Bush', work: 'MND'},
+instances: 6, word: 'Choice', work: 'MND'},
+instances: 6, word: 'Cobweb', work: 'MND'},
+instances: 6, word: 'Discretion', work: 'MND'},
+instances: 6, word: 'Earth', work: 'MND'},
+instances: 6, word: 'End', work: 'MND'},
+instances: 6, word: 'Faith', work: 'MND'},
+instances: 6, word: 'Father', work: 'MND'},
+instances: 6, word: 'Fell', work: 'MND'},
+instances: 6, word: 'Fire', work: 'MND'},
+instances: 6, word: 'Fly', work: 'MND'},
+instances: 6, word: 'Hair', work: 'MND'},
+instances: 6, word: 'Hang', work: 'MND'},
+instances: 6, word: 'Heaven', work: 'MND'},
+instances: 6, word: 'Help', work: 'MND'},
+instances: 6, word: 'Himself', work: 'MND'},
+instances: 6, word: 'Hippolyta', work: 'MND'},
+instances: 6, word: 'Hither', work: 'MND'},
+instances: 6, word: 'Law', work: 'MND'},
+instances: 6, word: 'Left', work: 'MND'},
+instances: 6, word: 'Love\'s', work: 'MND'},
+instances: 6, word: 'Low', work: 'MND'},
+instances: 6, word: 'Maid', work: 'MND'},
+instances: 6, word: 'Makes', work: 'MND'},
+instances: 6, word: 'Methought', work: 'MND'},
+instances: 6, word: 'Mistress', work: 'MND'},
+instances: 6, word: 'Moonlight', work: 'MND'},
+instances: 6, word: 'Mustardseed', work: 'MND'},
+instances: 6, word: 'New', work: 'MND'},
+instances: 6, word: 'Noble', work: 'MND'},
+instances: 6, word: 'Old', work: 'MND'},
+instances: 6, word: 'Over', work: 'MND'},
+instances: 6, word: 'Present', work: 'MND'},
+instances: 6, word: 'Rather', work: 'MND'},
+instances: 6, word: 'Ready', work: 'MND'},
+instances: 6, word: 'Sake', work: 'MND'},
+instances: 6, word: 'Seek', work: 'MND'},
+instances: 6, word: 'Seem', work: 'MND'},
+instances: 6, word: 'Seen', work: 'MND'},
+instances: 6, word: 'Shine', work: 'MND'},
+instances: 6, word: 'Silence', work: 'MND'},
+instances: 6, word: 'Spirit', work: 'MND'},
+instances: 6, word: 'Swear', work: 'MND'},
+instances: 6, word: 'Sword', work: 'MND'},
+instances: 6, word: 'Theseus', work: 'MND'},
+instances: 6, word: 'Thine', work: 'MND'},
+instances: 6, word: 'Together', work: 'MND'},
+instances: 6, word: 'Told', work: 'MND'},
+instances: 6, word: 'Tomb', work: 'MND'},
+instances: 6, word: 'Tomorrow', work: 'MND'},
+instances: 6, word: 'Truly', work: 'MND'},
+instances: 6, word: 'Turn', work: 'MND'},
+instances: 6, word: 'While', work: 'MND'},
+instances: 6, word: 'World', work: 'MND'},
+instances: 5, word: 'Adieu', work: 'MND'},
+instances: 5, word: 'Anon', work: 'MND'},
+instances: 5, word: 'Appear', work: 'MND'},
+instances: 5, word: 'Approach', work: 'MND'},
+instances: 5, word: 'Believe', work: 'MND'},
+instances: 5, word: 'Catch', work: 'MND'},
+instances: 5, word: 'Certain', work: 'MND'},
+instances: 5, word: 'Charm', work: 'MND'},
+instances: 5, word: 'Chink', work: 'MND'},
+instances: 5, word: 'Consent', work: 'MND'},
+instances: 5, word: 'Dance', work: 'MND'},
+instances: 5, word: 'Dog', work: 'MND'},
+instances: 5, word: 'Dost', work: 'MND'},
+instances: 5, word: 'Dote', work: 'MND'},
+instances: 5, word: 'Draw', work: 'MND'},
+instances: 5, word: 'Duty', work: 'MND'},
+instances: 5, word: 'Egeus', work: 'MND'},
+instances: 5, word: 'Entreat', work: 'MND'},
+instances: 5, word: 'Even', work: 'MND'},
+instances: 5, word: 'Fairies', work: 'MND'},
+instances: 5, word: 'Far', work: 'MND'},
+instances: 5, word: 'Fetch', work: 'MND'},
+instances: 5, word: 'Flowers', work: 'MND'},
+instances: 5, word: 'Further', work: 'MND'},
+instances: 5, word: 'Gentleman', work: 'MND'},
+instances: 5, word: 'God', work: 'MND'},
+instances: 5, word: 'Grove', work: 'MND'},
+instances: 5, word: 'Grow', work: 'MND'},
+instances: 5, word: 'Hail', work: 'MND'},
+instances: 5, word: 'Hearts', work: 'MND'},
+instances: 5, word: 'Hell', work: 'MND'},
+instances: 5, word: 'Horse', work: 'MND'},
+instances: 5, word: 'Hounds', work: 'MND'},
+instances: 5, word: 'Hour', work: 'MND'},
+instances: 5, word: 'Imagination', work: 'MND'},
+instances: 5, word: 'Juice', work: 'MND'},
+instances: 5, word: 'Kind', work: 'MND'},
+instances: 5, word: 'Lanthorn', work: 'MND'},
+instances: 5, word: 'Lion\'s', work: 'MND'},
+instances: 5, word: 'Lips', work: 'MND'},
+instances: 5, word: 'Live', work: 'MND'},
+instances: 5, word: 'Many', work: 'MND'},
+instances: 5, word: 'Mark', work: 'MND'},
+instances: 5, word: 'Met', work: 'MND'},
+instances: 5, word: 'Mirth', work: 'MND'},
+instances: 5, word: 'Modesty', work: 'MND'},
+instances: 5, word: 'Myself', work: 'MND'},
+instances: 5, word: 'Nuptial', work: 'MND'},
+instances: 5, word: 'Oath', work: 'MND'},
+instances: 5, word: 'Often', work: 'MND'},
+instances: 5, word: 'Only', work: 'MND'},
+instances: 5, word: 'Patience', work: 'MND'},
+instances: 5, word: 'Peaseblossom', work: 'MND'},
+instances: 5, word: 'Prove', work: 'MND'},
+instances: 5, word: 'Puck', work: 'MND'},
+instances: 5, word: 'Rehearse', work: 'MND'},
+instances: 5, word: 'Sort', work: 'MND'},
+instances: 5, word: 'Spite', work: 'MND'},
+instances: 5, word: 'Strange', work: 'MND'},
+instances: 5, word: 'Strike', work: 'MND'},
+instances: 5, word: 'Tedious', work: 'MND'},
+instances: 5, word: 'Themselves', work: 'MND'},
+instances: 5, word: 'Thorough', work: 'MND'},
+instances: 5, word: 'Th\'', work: 'MND'},
+instances: 5, word: 'Troth', work: 'MND'},
+instances: 5, word: 'Trust', work: 'MND'},
+instances: 5, word: 'Use', work: 'MND'},
+instances: 5, word: 'Vows', work: 'MND'},
+instances: 5, word: 'Wake', work: 'MND'},
+instances: 5, word: 'Wak\'st', work: 'MND'},
+instances: 5, word: 'Wherefore', work: 'MND'},
+instances: 5, word: 'Whom', work: 'MND'},
+instances: 5, word: 'Wind', work: 'MND'},
+instances: 5, word: 'Without', work: 'MND'},
+instances: 5, word: 'Woman', work: 'MND'},
+instances: 5, word: 'Woo', work: 'MND'},
+instances: 5, word: '\'tis', work: 'MND'},
+instances: 4, word: 'Actors', work: 'MND'},
+instances: 4, word: 'Alack', work: 'MND'},
+instances: 4, word: 'Been', work: 'MND'},
+instances: 4, word: 'Begin', work: 'MND'},
+instances: 4, word: 'Better', work: 'MND'},
+instances: 4, word: 'Bid', work: 'MND'},
+instances: 4, word: 'Bitter', work: 'MND'},
+instances: 4, word: 'Black', work: 'MND'},
+instances: 4, word: 'Blessèd', work: 'MND'},
+instances: 4, word: 'Bosoms', work: 'MND'},
+instances: 4, word: 'Bow', work: 'MND'},
+instances: 4, word: 'Brake', work: 'MND'},
+instances: 4, word: 'Brier', work: 'MND'},
+instances: 4, word: 'Bright', work: 'MND'},
+instances: 4, word: 'Buds', work: 'MND'},
+instances: 4, word: 'Chamber', work: 'MND'},
+instances: 4, word: 'Change', work: 'MND'},
+instances: 4, word: 'Coming', work: 'MND'},
+instances: 4, word: 'Content', work: 'MND'},
+instances: 4, word: 'Courtesy', work: 'MND'},
+instances: 4, word: 'Cry', work: 'MND'},
+instances: 4, word: 'Cue', work: 'MND'},
+instances: 4, word: 'Cupid', work: 'MND'},
+instances: 4, word: 'Cupid\'s', work: 'MND'},
+instances: 4, word: 'Cut', work: 'MND'},
+instances: 4, word: 'Delight', work: 'MND'},
+instances: 4, word: 'Derision', work: 'MND'},
+instances: 4, word: 'Dew', work: 'MND'},
+instances: 4, word: 'Discourse', work: 'MND'},
+instances: 4, word: 'Done', work: 'MND'},
+instances: 4, word: 'Double', work: 'MND'},
+instances: 4, word: 'Doubt', work: 'MND'},
+instances: 4, word: 'Dove', work: 'MND'},
+instances: 4, word: 'Elves', work: 'MND'},
+instances: 4, word: 'Eyne', work: 'MND'},
+instances: 4, word: 'Fall', work: 'MND'},
+instances: 4, word: 'False', work: 'MND'},
+instances: 4, word: 'Fiery', work: 'MND'},
+instances: 4, word: 'Flute', work: 'MND'},
+instances: 4, word: 'Followed', work: 'MND'},
+instances: 4, word: 'Following', work: 'MND'},
+instances: 4, word: 'Fond', work: 'MND'},
+instances: 4, word: 'Force', work: 'MND'},
+instances: 4, word: 'Found', work: 'MND'},
+instances: 4, word: 'Four', work: 'MND'},
+instances: 4, word: 'Fresh', work: 'MND'},
+instances: 4, word: 'Friend', work: 'MND'},
+instances: 4, word: 'Goes', work: 'MND'},
+instances: 4, word: 'Gracious', work: 'MND'},
+instances: 4, word: 'Half', work: 'MND'},
+instances: 4, word: 'Hated', work: 'MND'},
+instances: 4, word: 'Herb', work: 'MND'},
+instances: 4, word: 'Hide', work: 'MND'},
+instances: 4, word: 'High', work: 'MND'},
+instances: 4, word: 'Ho', work: 'MND'},
+instances: 4, word: 'Indeed', work: 'MND'},
+instances: 4, word: 'I\'', work: 'MND'},
+instances: 4, word: 'Jest', work: 'MND'},
+instances: 4, word: 'King', work: 'MND'},
+instances: 4, word: 'Kiss', work: 'MND'},
+instances: 4, word: 'Knight', work: 'MND'},
+instances: 4, word: 'Lies', work: 'MND'},
+instances: 4, word: 'Looked', work: 'MND'},
+instances: 4, word: 'Looks', work: 'MND'},
+instances: 4, word: 'Lose', work: 'MND'},
+instances: 4, word: 'Loved', work: 'MND'},
+instances: 4, word: 'Maiden', work: 'MND'},
+instances: 4, word: 'Man\'s', work: 'MND'},
+instances: 4, word: 'Mean', work: 'MND'},
+instances: 4, word: 'Merry', work: 'MND'},
+instances: 4, word: 'Mind', work: 'MND'},
+instances: 4, word: 'Minds', work: 'MND'},
+instances: 4, word: 'Mortal', work: 'MND'},
+instances: 4, word: 'Note', work: 'MND'},
+instances: 4, word: 'Passion', work: 'MND'},
+instances: 4, word: 'Past', work: 'MND'},
+instances: 4, word: 'Perceive', work: 'MND'},
+instances: 4, word: 'Perforce', work: 'MND'},
+instances: 4, word: 'Played', work: 'MND'},
+instances: 4, word: 'Please', work: 'MND'},
+instances: 4, word: 'Presence', work: 'MND'},
+instances: 4, word: 'Promise', work: 'MND'},
+instances: 4, word: 'Pursue', work: 'MND'},
+instances: 4, word: 'Put', work: 'MND'},
+instances: 4, word: 'Quite', work: 'MND'},
+instances: 4, word: 'Remain', work: 'MND'},
+instances: 4, word: 'Remedy', work: 'MND'},
+instances: 4, word: 'Respect', work: 'MND'},
+instances: 4, word: 'Revels', work: 'MND'},
+instances: 4, word: 'Rich', work: 'MND'},
+instances: 4, word: 'Ripe', work: 'MND'},
+instances: 4, word: 'Rose', work: 'MND'},
+instances: 4, word: 'Round', work: 'MND'},
+instances: 4, word: 'Sad', work: 'MND'},
+instances: 4, word: 'Said', work: 'MND'},
+instances: 4, word: 'Sat', work: 'MND'},
+instances: 4, word: 'Saw', work: 'MND'},
+instances: 4, word: 'Says', work: 'MND'},
+instances: 4, word: 'Seems', work: 'MND'},
+instances: 4, word: 'Sees', work: 'MND'},
+instances: 4, word: 'Sense', work: 'MND'},
+instances: 4, word: 'Serpent', work: 'MND'},
+instances: 4, word: 'Side', work: 'MND'},
+instances: 4, word: 'Single', work: 'MND'},
+instances: 4, word: 'Sir', work: 'MND'},
+instances: 4, word: 'Sixpence', work: 'MND'},
+instances: 4, word: 'Small', work: 'MND'},
+instances: 4, word: 'Something', work: 'MND'},
+instances: 4, word: 'Song', work: 'MND'},
+instances: 4, word: 'Spirits', work: 'MND'},
+instances: 4, word: 'Steal', work: 'MND'},
+instances: 4, word: 'Stir', work: 'MND'},
+instances: 4, word: 'Stolen', work: 'MND'},
+instances: 4, word: 'Stol\'n', work: 'MND'},
+instances: 4, word: 'Swifter', work: 'MND'},
+instances: 4, word: 'Temple', work: 'MND'},
+instances: 4, word: 'Tender', work: 'MND'},
+instances: 4, word: 'Thanks', work: 'MND'},
+instances: 4, word: 'Thought', work: 'MND'},
+instances: 4, word: 'Town', work: 'MND'},
+instances: 4, word: 'Trusty', work: 'MND'},
+instances: 4, word: 'Turned', work: 'MND'},
+instances: 4, word: 'Valor', work: 'MND'},
+instances: 4, word: 'Wand\'ring', work: 'MND'},
+instances: 4, word: 'Weak', work: 'MND'},
+instances: 4, word: 'Welcome', work: 'MND'},
+instances: 4, word: 'We\'ll', work: 'MND'},
+instances: 4, word: 'Whisper', work: 'MND'},
+instances: 4, word: 'Wild', work: 'MND'},
+instances: 4, word: 'Wings', work: 'MND'},
+instances: 4, word: 'Wit', work: 'MND'},
+instances: 4, word: 'Wont', work: 'MND'},
+instances: 4, word: 'Words', work: 'MND'},
+instances: 4, word: 'Work', work: 'MND'},
+instances: 4, word: 'Written', work: 'MND'},
+instances: 4, word: 'Wrong', work: 'MND'},
+instances: 4, word: 'Yea', work: 'MND'},
+instances: 4, word: 'Yellow', work: 'MND'},
+instances: 4, word: 'Yield', work: 'MND'},
+instances: 4, word: 'Yonder', work: 'MND'},
+instances: 4, word: 'Yours', work: 'MND'},
+instances: 4, word: 'Yourself', work: 'MND'},
+instances: 4, word: '\'t', work: 'MND'},
+instances: 3, word: 'According', work: 'MND'},
+instances: 3, word: 'Acquaintance', work: 'MND'},
+instances: 3, word: 'Adder', work: 'MND'},
+instances: 3, word: 'After', work: 'MND'},
+instances: 3, word: 'Air', work: 'MND'},
+instances: 3, word: 'Already', work: 'MND'},
+instances: 3, word: 'Ask', work: 'MND'},
+instances: 3, word: 'Awhile', work: 'MND'},
+instances: 3, word: 'Aye', work: 'MND'},
+instances: 3, word: 'Beams', work: 'MND'},
+instances: 3, word: 'Beast', work: 'MND'},
+instances: 3, word: 'Beasts', work: 'MND'},
+instances: 3, word: 'Befall', work: 'MND'},
+instances: 3, word: 'Behind', work: 'MND'},
+instances: 3, word: 'Behold', work: 'MND'},
+instances: 3, word: 'Beseech', work: 'MND'},
+instances: 3, word: 'Bird', work: 'MND'},
+instances: 3, word: 'Blade', work: 'MND'},
+instances: 3, word: 'Bloody', work: 'MND'},
+instances: 3, word: 'Bond', work: 'MND'},
+instances: 3, word: 'Bower', work: 'MND'},
+instances: 3, word: 'Breast', work: 'MND'},
+instances: 3, word: 'Case', work: 'MND'},
+instances: 3, word: 'Cat', work: 'MND'},
+instances: 3, word: 'Cause', work: 'MND'},
+instances: 3, word: 'Changeling', work: 'MND'},
+instances: 3, word: 'Cheer', work: 'MND'},
+instances: 3, word: 'Cherry', work: 'MND'},
+instances: 3, word: 'Chide', work: 'MND'},
+instances: 3, word: 'Coats', work: 'MND'},
+instances: 3, word: 'Cold', work: 'MND'},
+instances: 3, word: 'Comedy', work: 'MND'},
+instances: 3, word: 'Compare', work: 'MND'},
+instances: 3, word: 'Confess', work: 'MND'},
+instances: 3, word: 'Counsel', work: 'MND'},
+instances: 3, word: 'Coward', work: 'MND'},
+instances: 3, word: 'Creep', work: 'MND'},
+instances: 3, word: 'Cross', work: 'MND'},
+instances: 3, word: 'Cruel', work: 'MND'},
+instances: 3, word: 'Curst', work: 'MND'},
+instances: 3, word: 'Dares', work: 'MND'},
+instances: 3, word: 'Dar\'st', work: 'MND'},
+instances: 3, word: 'Daughter', work: 'MND'},
+instances: 3, word: 'Days', work: 'MND'},
+instances: 3, word: 'Deep', work: 'MND'},
+instances: 3, word: 'Demetrius\'', work: 'MND'},
+instances: 3, word: 'Desires', work: 'MND'},
+instances: 3, word: 'Didst', work: 'MND'},
+instances: 3, word: 'Dotes', work: 'MND'},
+instances: 3, word: 'Draws', work: 'MND'},
+instances: 3, word: 'Due', work: 'MND'},
+instances: 3, word: 'Eight', work: 'MND'},
+instances: 3, word: 'Enter', work: 'MND'},
+instances: 3, word: 'Epilogue', work: 'MND'},
+instances: 3, word: 'Excuse', work: 'MND'},
+instances: 3, word: 'E\'er', work: 'MND'},
+instances: 3, word: 'Faint', work: 'MND'},
+instances: 3, word: 'Fairyland', work: 'MND'},
+instances: 3, word: 'Falls', work: 'MND'},
+instances: 3, word: 'Fare', work: 'MND'},
+instances: 3, word: 'Farewell', work: 'MND'},
+instances: 3, word: 'Fast', work: 'MND'},
+instances: 3, word: 'Fates', work: 'MND'},
+instances: 3, word: 'Fault', work: 'MND'},
+instances: 3, word: 'Fearful', work: 'MND'},
+instances: 3, word: 'Fie', work: 'MND'},
+instances: 3, word: 'Field', work: 'MND'},
+instances: 3, word: 'Fierce', work: 'MND'},
+instances: 3, word: 'Fine', work: 'MND'},
+instances: 3, word: 'Fit', work: 'MND'},
+instances: 3, word: 'Fled', work: 'MND'},
+instances: 3, word: 'Flight', work: 'MND'},
+instances: 3, word: 'Foolish', work: 'MND'},
+instances: 3, word: 'Forester', work: 'MND'},
+instances: 3, word: 'Forgot', work: 'MND'},
+instances: 3, word: 'Forsooth', work: 'MND'},
+instances: 3, word: 'Fox', work: 'MND'},
+instances: 3, word: 'Fray', work: 'MND'},
+instances: 3, word: 'Fright', work: 'MND'},
+instances: 3, word: 'Gait', work: 'MND'},
+instances: 3, word: 'Given', work: 'MND'},
+instances: 3, word: 'Glimmering', work: 'MND'},
+instances: 3, word: 'Goodwill', work: 'MND'},
+instances: 3, word: 'Goose', work: 'MND'},
+instances: 3, word: 'Grows', work: 'MND'},
+instances: 3, word: 'Haste', work: 'MND'},
+instances: 3, word: 'Hateful', work: 'MND'},
+instances: 3, word: 'Hay', work: 'MND'},
+instances: 3, word: 'Hearing', work: 'MND'},
+instances: 3, word: 'Holds', work: 'MND'},
+instances: 3, word: 'Hole', work: 'MND'},
+instances: 3, word: 'Home', work: 'MND'},
+instances: 3, word: 'Honest', work: 'MND'},
+instances: 3, word: 'Honey-bag', work: 'MND'},
+instances: 3, word: 'Hop', work: 'MND'},
+instances: 3, word: 'Hope', work: 'MND'},
+instances: 3, word: 'Horns', work: 'MND'},
+instances: 3, word: 'Hours', work: 'MND'},
+instances: 3, word: 'Hue', work: 'MND'},
+instances: 3, word: 'Human', work: 'MND'},
+instances: 3, word: 'Idle', work: 'MND'},
+instances: 3, word: 'Ill', work: 'MND'},
+instances: 3, word: 'Indian', work: 'MND'},
+instances: 3, word: 'Injury', work: 'MND'},
+instances: 3, word: 'Intent', work: 'MND'},
+instances: 3, word: 'Joiner', work: 'MND'},
+instances: 3, word: 'Judgment', work: 'MND'},
+instances: 3, word: 'Keen', work: 'MND'},
+instances: 3, word: 'Knit', work: 'MND'},
+instances: 3, word: 'Known', work: 'MND'},
+instances: 3, word: 'Lark', work: 'MND'},
+instances: 3, word: 'Lay', work: 'MND'},
+instances: 3, word: 'League', work: 'MND'},
+instances: 3, word: 'Legs', work: 'MND'},
+instances: 3, word: 'Lime', work: 'MND'},
+instances: 3, word: 'Longer', work: 'MND'},
+instances: 3, word: 'Lost', work: 'MND'},
+instances: 3, word: 'Lover\'s', work: 'MND'},
+instances: 3, word: 'Luck', work: 'MND'},
+instances: 3, word: 'Lysander\'s', work: 'MND'},
+instances: 3, word: 'Madly', work: 'MND'},
+instances: 3, word: 'Mantle', work: 'MND'},
+instances: 3, word: 'Measure', work: 'MND'},
+instances: 3, word: 'Melody', work: 'MND'},
+instances: 3, word: 'Midnight', work: 'MND'},
+instances: 3, word: 'Mock', work: 'MND'},
+instances: 3, word: 'Monstrous', work: 'MND'},
+instances: 3, word: 'Morning', work: 'MND'},
+instances: 3, word: 'Mortals', work: 'MND'},
+instances: 3, word: 'Mother', work: 'MND'},
+instances: 3, word: 'Move', work: 'MND'},
+instances: 3, word: 'Needs', work: 'MND'},
+instances: 3, word: 'Nigh', work: 'MND'},
+instances: 3, word: 'Night\'s', work: 'MND'},
+instances: 3, word: 'Ninny\'s', work: 'MND'},
+instances: 3, word: 'Nymph', work: 'MND'},
+instances: 3, word: 'Odors', work: 'MND'},
+instances: 3, word: 'Offend', work: 'MND'},
+instances: 3, word: 'Painted', work: 'MND'},
+instances: 3, word: 'Palace', work: 'MND'},
+instances: 3, word: 'Pardon', work: 'MND'},
+instances: 3, word: 'Parted', work: 'MND'},
+instances: 3, word: 'Parts', work: 'MND'},
+instances: 3, word: 'Pass', work: 'MND'},
+instances: 3, word: 'Pat', work: 'MND'},
+instances: 3, word: 'Perchance', work: 'MND'},
+instances: 3, word: 'Peril', work: 'MND'},
+instances: 3, word: 'Pretty', work: 'MND'},
+instances: 3, word: 'Privilege', work: 'MND'},
+instances: 3, word: 'Proceed', work: 'MND'},
+instances: 3, word: 'Proud', work: 'MND'},
+instances: 3, word: 'Purple', work: 'MND'},
+instances: 3, word: 'Quick', work: 'MND'},
+instances: 3, word: 'Read', work: 'MND'},
+instances: 3, word: 'Rivals', work: 'MND'},
+instances: 3, word: 'Roughcast', work: 'MND'},
+instances: 3, word: 'Rude', work: 'MND'},
+instances: 3, word: 'Savors', work: 'MND'},
+instances: 3, word: 'Scratch', work: 'MND'},
+instances: 3, word: 'Sea', work: 'MND'},
+instances: 3, word: 'Seest', work: 'MND'},
+instances: 3, word: 'Sent', work: 'MND'},
+instances: 3, word: 'Serve', work: 'MND'},
+instances: 3, word: 'Shadows', work: 'MND'},
+instances: 3, word: 'Shape', work: 'MND'},
+instances: 3, word: 'Shield', work: 'MND'},
+instances: 3, word: 'Sickness', work: 'MND'},
+instances: 3, word: 'Skill', work: 'MND'},
+instances: 3, word: 'Sky', work: 'MND'},
+instances: 3, word: 'Slain', work: 'MND'},
+instances: 3, word: 'Slow', work: 'MND'},
+instances: 3, word: 'Snout', work: 'MND'},
+instances: 3, word: 'Snow', work: 'MND'},
+instances: 3, word: 'Snug', work: 'MND'},
+instances: 3, word: 'Solemnity', work: 'MND'},
+instances: 3, word: 'Son', work: 'MND'},
+instances: 3, word: 'Soon', work: 'MND'},
+instances: 3, word: 'Souls', work: 'MND'},
+instances: 3, word: 'Sprite', work: 'MND'},
+instances: 3, word: 'Spurn', work: 'MND'},
+instances: 3, word: 'Spy', work: 'MND'},
+instances: 3, word: 'Starveling', work: 'MND'},
+instances: 3, word: 'Stones', work: 'MND'},
+instances: 3, word: 'Story', work: 'MND'},
+instances: 3, word: 'Strong', work: 'MND'},
+instances: 3, word: 'Summer', work: 'MND'},
+instances: 3, word: 'Sure', work: 'MND'},
+instances: 3, word: 'Sweep', work: 'MND'},
+instances: 3, word: 'Takes', work: 'MND'},
+instances: 3, word: 'Tall', work: 'MND'},
+instances: 3, word: 'Taste', work: 'MND'},
+instances: 3, word: 'Teach', work: 'MND'},
+instances: 3, word: 'Thank', work: 'MND'},
+instances: 3, word: 'Theseus\'', work: 'MND'},
+instances: 3, word: 'Tire', work: 'MND'},
+instances: 3, word: 'Tragical', work: 'MND'},
+instances: 3, word: 'Translated', work: 'MND'},
+instances: 3, word: 'Truest', work: 'MND'},
+instances: 3, word: 'Turns', work: 'MND'},
+instances: 3, word: 'Vein', work: 'MND'},
+instances: 3, word: 'Virgin', work: 'MND'},
+instances: 3, word: 'Vow', work: 'MND'},
+instances: 3, word: 'Waking', work: 'MND'},
+instances: 3, word: 'Wanton', work: 'MND'},
+instances: 3, word: 'Wat\'ry', work: 'MND'},
+instances: 3, word: 'Weary', work: 'MND'},
+instances: 3, word: 'Wed', work: 'MND'},
+instances: 3, word: 'Weigh', work: 'MND'},
+instances: 3, word: 'What\'s', work: 'MND'},
+instances: 3, word: 'Where\'s', work: 'MND'},
+instances: 3, word: 'Whether', work: 'MND'},
+instances: 3, word: 'Wish', work: 'MND'},
+instances: 3, word: 'Worse', work: 'MND'},
+instances: 3, word: 'Wound', work: 'MND'},
+instances: 2, word: 'Abide', work: 'MND'},
+instances: 2, word: 'Able', work: 'MND'},
+instances: 2, word: 'Aby', work: 'MND'},
+instances: 2, word: 'Ace', work: 'MND'},
+instances: 2, word: 'Acorn', work: 'MND'},
+instances: 2, word: 'Action', work: 'MND'},
+instances: 2, word: 'Afeard', work: 'MND'},
+instances: 2, word: 'Affection', work: 'MND'},
+instances: 2, word: 'Afraid', work: 'MND'},
+instances: 2, word: 'Ah', work: 'MND'},
+instances: 2, word: 'Airy', work: 'MND'},
+instances: 2, word: 'Almost', work: 'MND'},
+instances: 2, word: 'Alter', work: 'MND'},
+instances: 2, word: 'Amen', work: 'MND'},
+instances: 2, word: 'Amend', work: 'MND'},
+instances: 2, word: 'Amends', work: 'MND'},
+instances: 2, word: 'Among', work: 'MND'},
+instances: 2, word: 'Ancient', work: 'MND'},
+instances: 2, word: 'Angry', work: 'MND'},
+instances: 2, word: 'Another\'s', work: 'MND'},
+instances: 2, word: 'Apparel', work: 'MND'},
+instances: 2, word: 'Appears', work: 'MND'},
+instances: 2, word: 'Apprehend', work: 'MND'},
+instances: 2, word: 'Arise', work: 'MND'},
+instances: 2, word: 'Arrow', work: 'MND'},
+instances: 2, word: 'Aside', work: 'MND'},
+instances: 2, word: 'Assure', work: 'MND'},
+instances: 2, word: 'Athenian\'s', work: 'MND'},
+instances: 2, word: 'Attend', work: 'MND'},
+instances: 2, word: 'Aught', work: 'MND'},
+instances: 2, word: 'Aunt', work: 'MND'},
+instances: 2, word: 'Bank', work: 'MND'},
+instances: 2, word: 'Barren', work: 'MND'},
+instances: 2, word: 'Beauteous', work: 'MND'},
+instances: 2, word: 'Beauty', work: 'MND'},
+instances: 2, word: 'Becomes', work: 'MND'},
+instances: 2, word: 'Beds', work: 'MND'},
+instances: 2, word: 'Beguile', work: 'MND'},
+instances: 2, word: 'Beguiled', work: 'MND'},
+instances: 2, word: 'Bellows-mender', work: 'MND'},
+instances: 2, word: 'Bergomask', work: 'MND'},
+instances: 2, word: 'Beshrew', work: 'MND'},
+instances: 2, word: 'Bill', work: 'MND'},
+instances: 2, word: 'Bliss', work: 'MND'},
+instances: 2, word: 'Bodies', work: 'MND'},
+instances: 2, word: 'Bold', work: 'MND'},
+instances: 2, word: 'Bootless', work: 'MND'},
+instances: 2, word: 'Born', work: 'MND'},
+instances: 2, word: 'Bosom', work: 'MND'},
+instances: 2, word: 'Bottom\'s', work: 'MND'},
+instances: 2, word: 'Briers', work: 'MND'},
+instances: 2, word: 'Broke', work: 'MND'},
+instances: 2, word: 'Bully', work: 'MND'},
+instances: 2, word: 'Business', work: 'MND'},
+instances: 2, word: 'Calendar', work: 'MND'},
+instances: 2, word: 'Called', work: 'MND'},
+instances: 2, word: 'Calls', work: 'MND'},
+instances: 2, word: 'Canst', work: 'MND'},
+instances: 2, word: 'Care', work: 'MND'},
+instances: 2, word: 'Carries', work: 'MND'},
+instances: 2, word: 'Carry', work: 'MND'},
+instances: 2, word: 'Casement', work: 'MND'},
+instances: 2, word: 'Chance', work: 'MND'},
+instances: 2, word: 'Changed', work: 'MND'},
+instances: 2, word: 'Chase', work: 'MND'},
+instances: 2, word: 'Cheek', work: 'MND'},
+instances: 2, word: 'Cheeks', work: 'MND'},
+instances: 2, word: 'Chid', work: 'MND'},
+instances: 2, word: 'Childhood', work: 'MND'},
+instances: 2, word: 'City', work: 'MND'},
+instances: 2, word: 'Civil', work: 'MND'},
+instances: 2, word: 'Clear', work: 'MND'},
+instances: 2, word: 'Close', work: 'MND'},
+instances: 2, word: 'Clouds', work: 'MND'},
+instances: 2, word: 'Cock', work: 'MND'},
+instances: 2, word: 'Comfort', work: 'MND'},
+instances: 2, word: 'Common', work: 'MND'},
+instances: 2, word: 'Compel', work: 'MND'},
+instances: 2, word: 'Comprehends', work: 'MND'},
+instances: 2, word: 'Conceive', work: 'MND'},
+instances: 2, word: 'Concord', work: 'MND'},
+instances: 2, word: 'Conference', work: 'MND'},
+instances: 2, word: 'Confusion', work: 'MND'},
+instances: 2, word: 'Consider', work: 'MND'},
+instances: 2, word: 'Corn', work: 'MND'},
+instances: 2, word: 'Counterfeit', work: 'MND'},
+instances: 2, word: 'Couples', work: 'MND'},
+instances: 2, word: 'Courteous', work: 'MND'},
+instances: 2, word: 'Cover', work: 'MND'},
+instances: 2, word: 'Cowardice', work: 'MND'},
+instances: 2, word: 'Cranny', work: 'MND'},
+instances: 2, word: 'Crete', work: 'MND'},
+instances: 2, word: 'Cries', work: 'MND'},
+instances: 2, word: 'Crow', work: 'MND'},
+instances: 2, word: 'Crowns', work: 'MND'},
+instances: 2, word: 'Crush', work: 'MND'},
+instances: 2, word: 'Cuckoo', work: 'MND'},
+instances: 2, word: 'Cunning', work: 'MND'},
+instances: 2, word: 'Curse', work: 'MND'},
+instances: 2, word: 'Dale', work: 'MND'},
+instances: 2, word: 'Dances', work: 'MND'},
+instances: 2, word: 'Dark', work: 'MND'},
+instances: 2, word: 'Darkness', work: 'MND'},
+instances: 2, word: 'Daylight', work: 'MND'},
+instances: 2, word: 'Deceiving', work: 'MND'},
+instances: 2, word: 'Delay', work: 'MND'},
+instances: 2, word: 'Deny', work: 'MND'},
+instances: 2, word: 'Deserve', work: 'MND'},
+instances: 2, word: 'Despisèd', work: 'MND'},
+instances: 2, word: 'Device', work: 'MND'},
+instances: 2, word: 'Discharge', work: 'MND'},
+instances: 2, word: 'Discord', work: 'MND'},
+instances: 2, word: 'Disdainful', work: 'MND'},
+instances: 2, word: 'Disfigure', work: 'MND'},
+instances: 2, word: 'Divine', work: 'MND'},
+instances: 2, word: 'Dowager', work: 'MND'},
+instances: 2, word: 'Dreadful', work: 'MND'},
+instances: 2, word: 'Dreams', work: 'MND'},
+instances: 2, word: 'Duchess', work: 'MND'},
+instances: 2, word: 'Durst', work: 'MND'},
+instances: 2, word: 'Ears', work: 'MND'},
+instances: 2, word: 'Eastern', work: 'MND'},
+instances: 2, word: 'Eat', work: 'MND'},
+instances: 2, word: 'Effect', work: 'MND'},
+instances: 2, word: 'Employ', work: 'MND'},
+instances: 2, word: 'Enamored', work: 'MND'},
+instances: 2, word: 'Ends', work: 'MND'},
+instances: 2, word: 'Enterprise', work: 'MND'},
+instances: 2, word: 'Error', work: 'MND'},
+instances: 2, word: 'Esteem', work: 'MND'},
+instances: 2, word: 'Everything', work: 'MND'},
+instances: 2, word: 'Everywhere', work: 'MND'},
+instances: 2, word: 'Excellent', work: 'MND'},
+instances: 2, word: 'Fail', work: 'MND'},
+instances: 2, word: 'Fancy\'s', work: 'MND'},
+instances: 2, word: 'Fantasies', work: 'MND'},
+instances: 2, word: 'Favors', work: 'MND'},
+instances: 2, word: 'Fears', work: 'MND'},
+instances: 2, word: 'Feigning', work: 'MND'},
+instances: 2, word: 'Fellow', work: 'MND'},
+instances: 2, word: 'Fight', work: 'MND'},
+instances: 2, word: 'Figure', work: 'MND'},
+instances: 2, word: 'Finds', work: 'MND'},
+instances: 2, word: 'Fingers', work: 'MND'},
+instances: 2, word: 'Fitted', work: 'MND'},
+instances: 2, word: 'Flies', work: 'MND'},
+instances: 2, word: 'Flood', work: 'MND'},
+instances: 2, word: 'Floods', work: 'MND'},
+instances: 2, word: 'Flout', work: 'MND'},
+instances: 2, word: 'Flow\'ry', work: 'MND'},
+instances: 2, word: 'Folly', work: 'MND'},
+instances: 2, word: 'Food', work: 'MND'},
+instances: 2, word: 'Fool', work: 'MND'},
+instances: 2, word: 'Forbid', work: 'MND'},
+instances: 2, word: 'Forest', work: 'MND'},
+instances: 2, word: 'Form', work: 'MND'},
+instances: 2, word: 'Fortunate', work: 'MND'},
+instances: 2, word: 'Forward', work: 'MND'},
+instances: 2, word: 'Fountain', work: 'MND'},
+instances: 2, word: 'Frame', work: 'MND'},
+instances: 2, word: 'Fruitless', work: 'MND'},
+instances: 2, word: 'Gallant', work: 'MND'},
+instances: 2, word: 'Game', work: 'MND'},
+instances: 2, word: 'Garments', work: 'MND'},
+instances: 2, word: 'Gates', work: 'MND'},
+instances: 2, word: 'Gentles', work: 'MND'},
+instances: 2, word: 'Gently', work: 'MND'},
+instances: 2, word: 'Gives', work: 'MND'},
+instances: 2, word: 'Glance', work: 'MND'},
+instances: 2, word: 'Glass', work: 'MND'},
+instances: 2, word: 'Goddess', work: 'MND'},
+instances: 2, word: 'Gods', work: 'MND'},
+instances: 2, word: 'Gold', work: 'MND'},
+instances: 2, word: 'Golden', work: 'MND'},
+instances: 2, word: 'Grant', work: 'MND'},
+instances: 2, word: 'Gray', work: 'MND'},
+instances: 2, word: 'Grew', work: 'MND'},
+instances: 2, word: 'Groves', work: 'MND'},
+instances: 2, word: 'Grown', work: 'MND'},
+instances: 2, word: 'Hairy', work: 'MND'},
+instances: 2, word: 'Hanged', work: 'MND'},
+instances: 2, word: 'Hark', work: 'MND'},
+instances: 2, word: 'Hatred', work: 'MND'},
+instances: 2, word: 'Haunted', work: 'MND'},
+instances: 2, word: 'Hawthorn', work: 'MND'},
+instances: 2, word: 'Heavy', work: 'MND'},
+instances: 2, word: 'Height', work: 'MND'},
+instances: 2, word: 'Hercules', work: 'MND'},
+instances: 2, word: 'Hill', work: 'MND'},
+instances: 2, word: 'Hog', work: 'MND'},
+instances: 2, word: 'Holding', work: 'MND'},
+instances: 2, word: 'Hornèd', work: 'MND'},
+instances: 2, word: 'Hound', work: 'MND'},
+instances: 2, word: 'Hung', work: 'MND'},
+instances: 2, word: 'Hurt', work: 'MND'},
+instances: 2, word: 'Immediately', work: 'MND'},
+instances: 2, word: 'Innocence', work: 'MND'},
+instances: 2, word: 'Intend', work: 'MND'},
+instances: 2, word: 'Interlude', work: 'MND'},
+instances: 2, word: 'Invisible', work: 'MND'},
+instances: 2, word: 'Iron', work: 'MND'},
+instances: 2, word: 'Issue', work: 'MND'},
+instances: 2, word: 'Jealous', work: 'MND'},
+instances: 2, word: 'Jealousy', work: 'MND'},
+instances: 2, word: 'Join', work: 'MND'},
+instances: 2, word: 'Jollity', work: 'MND'},
+instances: 2, word: 'Key', work: 'MND'},
+instances: 2, word: 'Killed', work: 'MND'},
+instances: 2, word: 'Kills', work: 'MND'},
+instances: 2, word: 'Knavery', work: 'MND'},
+instances: 2, word: 'Knavish', work: 'MND'},
+instances: 2, word: 'Knows', work: 'MND'},
+instances: 2, word: 'Lack', work: 'MND'},
+instances: 2, word: 'Laid', work: 'MND'},
+instances: 2, word: 'Land', work: 'MND'},
+instances: 2, word: 'Lantern', work: 'MND'},
+instances: 2, word: 'Large', work: 'MND'},
+instances: 2, word: 'Late', work: 'MND'},
+instances: 2, word: 'Lest', work: 'MND'},
+instances: 2, word: 'Let\'s', work: 'MND'},
+instances: 2, word: 'Likeness', work: 'MND'},
+instances: 2, word: 'Liquor', work: 'MND'},
+instances: 2, word: 'Loam', work: 'MND'},
+instances: 2, word: 'Loathe', work: 'MND'},
+instances: 2, word: 'Loose', work: 'MND'},
+instances: 2, word: 'Loud', work: 'MND'},
+instances: 2, word: 'Lovers\'', work: 'MND'},
+instances: 2, word: 'Lower', work: 'MND'},
+instances: 2, word: 'Mad', work: 'MND'},
+instances: 2, word: 'Maidens', work: 'MND'},
+instances: 2, word: 'Making', work: 'MND'},
+instances: 2, word: 'Manners', work: 'MND'},
+instances: 2, word: 'Marvels', work: 'MND'},
+instances: 2, word: 'Means', work: 'MND'},
+instances: 2, word: 'Mercy', work: 'MND'},
+instances: 2, word: 'Mild', work: 'MND'},
+instances: 2, word: 'Milk', work: 'MND'},
+instances: 2, word: 'Minutes', work: 'MND'},
+instances: 2, word: 'Mischief', work: 'MND'},
+instances: 2, word: 'Mistake', work: 'MND'},
+instances: 2, word: 'Mistook', work: 'MND'},
+instances: 2, word: 'Mockery', work: 'MND'},
+instances: 2, word: 'Monster', work: 'MND'},
+instances: 2, word: 'Morn', work: 'MND'},
+instances: 2, word: 'Morrow', work: 'MND'},
+instances: 2, word: 'Mote', work: 'MND'},
+instances: 2, word: 'Mother\'s', work: 'MND'},
+instances: 2, word: 'Mouse', work: 'MND'},
+instances: 2, word: 'Mouth', work: 'MND'},
+instances: 2, word: 'Murdered', work: 'MND'},
+instances: 2, word: 'Murderer', work: 'MND'},
+instances: 2, word: 'Musical', work: 'MND'},
+instances: 2, word: 'Muskroses', work: 'MND'},
+instances: 2, word: 'Nails', work: 'MND'},
+instances: 2, word: 'Nativity', work: 'MND'},
+instances: 2, word: 'Nature', work: 'MND'},
+instances: 2, word: 'Naught', work: 'MND'},
+instances: 2, word: 'Nedar\'s', work: 'MND'},
+instances: 2, word: 'Neighbors', work: 'MND'},
+instances: 2, word: 'News', work: 'MND'},
+instances: 2, word: 'Nick', work: 'MND'},
+instances: 2, word: 'Nightly', work: 'MND'},
+instances: 2, word: 'Ninus\'', work: 'MND'},
+instances: 2, word: 'Noise', work: 'MND'},
+instances: 2, word: 'Oaths', work: 'MND'},
+instances: 2, word: 'Oft', work: 'MND'},
+instances: 2, word: 'Orange-tawny', work: 'MND'},
+instances: 2, word: 'Ought', work: 'MND'},
+instances: 2, word: 'Owe', work: 'MND'},
+instances: 2, word: 'Pain', work: 'MND'},
+instances: 2, word: 'Pap', work: 'MND'},
+instances: 2, word: 'Paramour', work: 'MND'},
+instances: 2, word: 'Parting', work: 'MND'},
+instances: 2, word: 'Partition', work: 'MND'},
+instances: 2, word: 'Peace', work: 'MND'},
+instances: 2, word: 'Pearl', work: 'MND'},
+instances: 2, word: 'Perfit', work: 'MND'},
+instances: 2, word: 'Perhaps', work: 'MND'},
+instances: 2, word: 'Person', work: 'MND'},
+instances: 2, word: 'Personage', work: 'MND'},
+instances: 2, word: 'Philomel', work: 'MND'},
+instances: 2, word: 'Philostrate', work: 'MND'},
+instances: 2, word: 'Players', work: 'MND'},
+instances: 2, word: 'Playing', work: 'MND'},
+instances: 2, word: 'Pleasure', work: 'MND'},
+instances: 2, word: 'Plowman', work: 'MND'},
+instances: 2, word: 'Pluck', work: 'MND'},
+instances: 2, word: 'Poet\'s', work: 'MND'},
+instances: 2, word: 'Point', work: 'MND'},
+instances: 2, word: 'Pomp', work: 'MND'},
+instances: 2, word: 'Prayer', work: 'MND'},
+instances: 2, word: 'Prayers', work: 'MND'},
+instances: 2, word: 'Press', work: 'MND'},
+instances: 2, word: 'Procrus', work: 'MND'},
+instances: 2, word: 'Prosperity', work: 'MND'},
+instances: 2, word: 'Puppet', work: 'MND'},
+instances: 2, word: 'Pure', work: 'MND'},
+instances: 2, word: 'Pursues', work: 'MND'},
+instances: 2, word: 'Quaint', work: 'MND'},
+instances: 2, word: 'Quake', work: 'MND'},
+instances: 2, word: 'Question', work: 'MND'},
+instances: 2, word: 'Quickly', work: 'MND'},
+instances: 2, word: 'Rage', work: 'MND'},
+instances: 2, word: 'Rare', work: 'MND'},
+instances: 2, word: 'Red', work: 'MND'},
+instances: 2, word: 'Release', work: 'MND'},
+instances: 2, word: 'Remembrance', work: 'MND'},
+instances: 2, word: 'Render', work: 'MND'},
+instances: 2, word: 'Repent', work: 'MND'},
+instances: 2, word: 'Report', work: 'MND'},
+instances: 2, word: 'Request', work: 'MND'},
+instances: 2, word: 'Revenge', work: 'MND'},
+instances: 2, word: 'Revenue', work: 'MND'},
+instances: 2, word: 'Rough', work: 'MND'},
+instances: 2, word: 'Sail', work: 'MND'},
+instances: 2, word: 'Scene', work: 'MND'},
+instances: 2, word: 'Scroll', work: 'MND'},
+instances: 2, word: 'Seemed', work: 'MND'},
+instances: 2, word: 'Seeming', work: 'MND'},
+instances: 2, word: 'Service', work: 'MND'},
+instances: 2, word: 'Sex', work: 'MND'},
+instances: 2, word: 'Shade', work: 'MND'},
+instances: 2, word: 'Shafalus', work: 'MND'},
+instances: 2, word: 'Shame', work: 'MND'},
+instances: 2, word: 'Shines', work: 'MND'},
+instances: 2, word: 'Short', work: 'MND'},
+instances: 2, word: 'Shrewd', work: 'MND'},
+instances: 2, word: 'Sick', work: 'MND'},
+instances: 2, word: 'Sighs', work: 'MND'},
+instances: 2, word: 'Silver', work: 'MND'},
+instances: 2, word: 'Simple', work: 'MND'},
+instances: 2, word: 'Simplicity', work: 'MND'},
+instances: 2, word: 'Sit', work: 'MND'},
+instances: 2, word: 'Smooth', work: 'MND'},
+instances: 2, word: 'Sometimes', work: 'MND'},
+instances: 2, word: 'Sooth', work: 'MND'},
+instances: 2, word: 'Sorrow\'s', work: 'MND'},
+instances: 2, word: 'Spaniel', work: 'MND'},
+instances: 2, word: 'Sparta', work: 'MND'},
+instances: 2, word: 'Speech', work: 'MND'},
+instances: 2, word: 'Speed', work: 'MND'},
+instances: 2, word: 'Spell', work: 'MND'},
+instances: 2, word: 'Spent', work: 'MND'},
+instances: 2, word: 'Sphere', work: 'MND'},
+instances: 2, word: 'Spoke', work: 'MND'},
+instances: 2, word: 'Spotted', work: 'MND'},
+instances: 2, word: 'Spring', work: 'MND'},
+instances: 2, word: 'Stands', work: 'MND'},
+instances: 2, word: 'Starlight', work: 'MND'},
+instances: 2, word: 'Stars', work: 'MND'},
+instances: 2, word: 'Stealth', work: 'MND'},
+instances: 2, word: 'Steep', work: 'MND'},
+instances: 2, word: 'Stood', work: 'MND'},
+instances: 2, word: 'Straight', work: 'MND'},
+instances: 2, word: 'Straightway', work: 'MND'},
+instances: 2, word: 'Stranger', work: 'MND'},
+instances: 2, word: 'Stretched', work: 'MND'},
+instances: 2, word: 'Summer\'s', work: 'MND'},
+instances: 2, word: 'Sun', work: 'MND'},
+instances: 2, word: 'Sung', work: 'MND'},
+instances: 2, word: 'Surfeit', work: 'MND'},
+instances: 2, word: 'Swift', work: 'MND'},
+instances: 2, word: 'Tailor', work: 'MND'},
+instances: 2, word: 'Tale', work: 'MND'},
+instances: 2, word: 'Tarry', work: 'MND'},
+instances: 2, word: 'Tear', work: 'MND'},
+instances: 2, word: 'Telling', work: 'MND'},
+instances: 2, word: 'Ten', work: 'MND'},
+instances: 2, word: 'Thence', work: 'MND'},
+instances: 2, word: 'Thisne', work: 'MND'},
+instances: 2, word: 'Thorn', work: 'MND'},
+instances: 2, word: 'Thornbush', work: 'MND'},
+instances: 2, word: 'Thorns', work: 'MND'},
+instances: 2, word: 'Thoughts', work: 'MND'},
+instances: 2, word: 'Thread', work: 'MND'},
+instances: 2, word: 'Tinker', work: 'MND'},
+instances: 2, word: 'Tongue\'s', work: 'MND'},
+instances: 2, word: 'Took', work: 'MND'},
+instances: 2, word: 'Top', work: 'MND'},
+instances: 2, word: 'Touch', work: 'MND'},
+instances: 2, word: 'Tread', work: 'MND'},
+instances: 2, word: 'Tremble', work: 'MND'},
+instances: 2, word: 'Trifles', work: 'MND'},
+instances: 2, word: 'Trip', work: 'MND'},
+instances: 2, word: 'Try', work: 'MND'},
+instances: 2, word: 'Tunable', work: 'MND'},
+instances: 2, word: 'Tyrant', work: 'MND'},
+instances: 2, word: 'Under', work: 'MND'},
+instances: 2, word: 'Understand', work: 'MND'},
+instances: 2, word: 'Undistinguishable', work: 'MND'},
+instances: 2, word: 'Until', work: 'MND'},
+instances: 2, word: 'Vain', work: 'MND'},
+instances: 2, word: 'Venus', work: 'MND'},
+instances: 2, word: 'Vexation', work: 'MND'},
+instances: 2, word: 'View', work: 'MND'},
+instances: 2, word: 'Villain', work: 'MND'},
+instances: 2, word: 'Virtue', work: 'MND'},
+instances: 2, word: 'Virtuous', work: 'MND'},
+instances: 2, word: 'Visage', work: 'MND'},
+instances: 2, word: 'Vision', work: 'MND'},
+instances: 2, word: 'Visions', work: 'MND'},
+instances: 2, word: 'Vot\'ress', work: 'MND'},
+instances: 2, word: 'Wait', work: 'MND'},
+instances: 2, word: 'Waked', work: 'MND'},
+instances: 2, word: 'Walks', work: 'MND'},
+instances: 2, word: 'Wall\'s', work: 'MND'},
+instances: 2, word: 'Wander', work: 'MND'},
+instances: 2, word: 'Wanderer', work: 'MND'},
+instances: 2, word: 'Want', work: 'MND'},
+instances: 2, word: 'War', work: 'MND'},
+instances: 2, word: 'Warbling', work: 'MND'},
+instances: 2, word: 'Wast', work: 'MND'},
+instances: 2, word: 'Wasted', work: 'MND'},
+instances: 2, word: 'Water', work: 'MND'},
+instances: 2, word: 'Waxen', work: 'MND'},
+instances: 2, word: 'Wear', work: 'MND'},
+instances: 2, word: 'Weaver', work: 'MND'},
+instances: 2, word: 'Wedded', work: 'MND'},
+instances: 2, word: 'Wedding', work: 'MND'},
+instances: 2, word: 'Weeps', work: 'MND'},
+instances: 2, word: 'Western', work: 'MND'},
+instances: 2, word: 'Whilst', work: 'MND'},
+instances: 2, word: 'White', work: 'MND'},
+instances: 2, word: 'Whither', work: 'MND'},
+instances: 2, word: 'Whole', work: 'MND'},
+instances: 2, word: 'Wicked', work: 'MND'},
+instances: 2, word: 'Wide', work: 'MND'},
+instances: 2, word: 'Wife', work: 'MND'},
+instances: 2, word: 'Wildest', work: 'MND'},
+instances: 2, word: 'Willfully', work: 'MND'},
+instances: 2, word: 'Window', work: 'MND'},
+instances: 2, word: 'Winter', work: 'MND'},
+instances: 2, word: 'Withering', work: 'MND'},
+instances: 2, word: 'Woe', work: 'MND'},
+instances: 2, word: 'Wolf', work: 'MND'},
+instances: 2, word: 'Won', work: 'MND'},
+instances: 2, word: 'Wonders', work: 'MND'},
+instances: 2, word: 'Wonted', work: 'MND'},
+instances: 2, word: 'Woodbine', work: 'MND'},
+instances: 2, word: 'Wooed', work: 'MND'},
+instances: 2, word: 'Worm', work: 'MND'},
+instances: 2, word: 'Worn', work: 'MND'},
+instances: 2, word: 'Worst', work: 'MND'},
+instances: 2, word: 'Worthier', work: 'MND'},
+instances: 2, word: 'Wot', work: 'MND'},
+instances: 2, word: 'Write', work: 'MND'},
+instances: 2, word: 'Yes', work: 'MND'},
+instances: 2, word: 'Yoke', work: 'MND'},
+instances: 2, word: 'Yourselves', work: 'MND'},
+instances: 2, word: '\'tide', work: 'MND'},
+instances: 2, word: '\'twere', work: 'MND'},
+instances: 1, word: 'new-bent', work: 'MND'},
+instances: 1, word: 'Abate', work: 'MND'},
+instances: 1, word: 'Abjure', work: 'MND'},
+instances: 1, word: 'Abound', work: 'MND'},
+instances: 1, word: 'Abridgment', work: 'MND'},
+instances: 1, word: 'Absence', work: 'MND'},
+instances: 1, word: 'Abused', work: 'MND'},
+instances: 1, word: 'Accent', work: 'MND'},
+instances: 1, word: 'Accidents', work: 'MND'},
+instances: 1, word: 'Accompany', work: 'MND'},
+instances: 1, word: 'Acheron', work: 'MND'},
+instances: 1, word: 'Actor', work: 'MND'},
+instances: 1, word: 'Adamant', work: 'MND'},
+instances: 1, word: 'Address', work: 'MND'},
+instances: 1, word: 'Addressed', work: 'MND'},
+instances: 1, word: 'Admirable', work: 'MND'},
+instances: 1, word: 'Admiring', work: 'MND'},
+instances: 1, word: 'Advance', work: 'MND'},
+instances: 1, word: 'Advantage', work: 'MND'},
+instances: 1, word: 'Advised', work: 'MND'},
+instances: 1, word: 'Aegles', work: 'MND'},
+instances: 1, word: 'Affair', work: 'MND'},
+instances: 1, word: 'Affright', work: 'MND'},
+instances: 1, word: 'After-supper', work: 'MND'},
+instances: 1, word: 'Age', work: 'MND'},
+instances: 1, word: 'Aggravate', work: 'MND'},
+instances: 1, word: 'Aim', work: 'MND'},
+instances: 1, word: 'Ale', work: 'MND'},
+instances: 1, word: 'Almanac', work: 'MND'},
+instances: 1, word: 'Along', work: 'MND'},
+instances: 1, word: 'Aloof', work: 'MND'},
+instances: 1, word: 'Altar', work: 'MND'},
+instances: 1, word: 'Although', work: 'MND'},
+instances: 1, word: 'Amazed', work: 'MND'},
+instances: 1, word: 'Amazon', work: 'MND'},
+instances: 1, word: 'Amazèd', work: 'MND'},
+instances: 1, word: 'Amazèdly', work: 'MND'},
+instances: 1, word: 'Amiable', work: 'MND'},
+instances: 1, word: 'Amiss', work: 'MND'},
+instances: 1, word: 'Amity', work: 'MND'},
+instances: 1, word: 'Amorous', work: 'MND'},
+instances: 1, word: 'Angel', work: 'MND'},
+instances: 1, word: 'Anger', work: 'MND'},
+instances: 1, word: 'Anguish', work: 'MND'},
+instances: 1, word: 'Anoint', work: 'MND'},
+instances: 1, word: 'Answers', work: 'MND'},
+instances: 1, word: 'Answerèd', work: 'MND'},
+instances: 1, word: 'Antiopa', work: 'MND'},
+instances: 1, word: 'Antipodes', work: 'MND'},
+instances: 1, word: 'Antique', work: 'MND'},
+instances: 1, word: 'Anything', work: 'MND'},
+instances: 1, word: 'Apace', work: 'MND'},
+instances: 1, word: 'Ape', work: 'MND'},
+instances: 1, word: 'Apollo', work: 'MND'},
+instances: 1, word: 'Apple', work: 'MND'},
+instances: 1, word: 'Apply', work: 'MND'},
+instances: 1, word: 'Appointed', work: 'MND'},
+instances: 1, word: 'Apprehension', work: 'MND'},
+instances: 1, word: 'Approve', work: 'MND'},
+instances: 1, word: 'Apricocks', work: 'MND'},
+instances: 1, word: 'Apt', work: 'MND'},
+instances: 1, word: 'Archery', work: 'MND'},
+instances: 1, word: 'Argument', work: 'MND'},
+instances: 1, word: 'Ariadne', work: 'MND'},
+instances: 1, word: 'Aright', work: 'MND'},
+instances: 1, word: 'Arm', work: 'MND'},
+instances: 1, word: 'Armed', work: 'MND'},
+instances: 1, word: 'Arms', work: 'MND'},
+instances: 1, word: 'Artificial', work: 'MND'},
+instances: 1, word: 'Ass-head', work: 'MND'},
+instances: 1, word: 'Asses', work: 'MND'},
+instances: 1, word: 'Assurance', work: 'MND'},
+instances: 1, word: 'Ass\'s', work: 'MND'},
+instances: 1, word: 'Astray', work: 'MND'},
+instances: 1, word: 'Asunder', work: 'MND'},
+instances: 1, word: 'Ate', work: 'MND'},
+instances: 1, word: 'Athens\'', work: 'MND'},
+instances: 1, word: 'Attained', work: 'MND'},
+instances: 1, word: 'Attendant', work: 'MND'},
+instances: 1, word: 'Attractive', work: 'MND'},
+instances: 1, word: 'Audacious', work: 'MND'},
+instances: 1, word: 'Audience', work: 'MND'},
+instances: 1, word: 'Auditor', work: 'MND'},
+instances: 1, word: 'Aurora\'s', work: 'MND'},
+instances: 1, word: 'Austerity', work: 'MND'},
+instances: 1, word: 'Autumn', work: 'MND'},
+instances: 1, word: 'Avouch', work: 'MND'},
+instances: 1, word: 'Awaked', work: 'MND'},
+instances: 1, word: 'Awaking', work: 'MND'},
+instances: 1, word: 'Aweary', work: 'MND'},
+instances: 1, word: 'Bacchanals', work: 'MND'},
+instances: 1, word: 'Bachelor', work: 'MND'},
+instances: 1, word: 'Badge', work: 'MND'},
+instances: 1, word: 'Bait', work: 'MND'},
+instances: 1, word: 'Balance', work: 'MND'},
+instances: 1, word: 'Ballad', work: 'MND'},
+instances: 1, word: 'Band', work: 'MND'},
+instances: 1, word: 'Bankrout', work: 'MND'},
+instances: 1, word: 'Barber\'s', work: 'MND'},
+instances: 1, word: 'Barefaced', work: 'MND'},
+instances: 1, word: 'Bark', work: 'MND'},
+instances: 1, word: 'Barky', work: 'MND'},
+instances: 1, word: 'Barm', work: 'MND'},
+instances: 1, word: 'Base', work: 'MND'},
+instances: 1, word: 'Bashfulness', work: 'MND'},
+instances: 1, word: 'Bated', work: 'MND'},
+instances: 1, word: 'Battle', work: 'MND'},
+instances: 1, word: 'Batty', work: 'MND'},
+instances: 1, word: 'Bayed', work: 'MND'},
+instances: 1, word: 'Beachèd', work: 'MND'},
+instances: 1, word: 'Bead', work: 'MND'},
+instances: 1, word: 'Bean-fed', work: 'MND'},
+instances: 1, word: 'Beards', work: 'MND'},
+instances: 1, word: 'Bearing', work: 'MND'},
+instances: 1, word: 'Beat', work: 'MND'},
+instances: 1, word: 'Beauties', work: 'MND'},
+instances: 1, word: 'Beautiful', work: 'MND'},
+instances: 1, word: 'Bed-room', work: 'MND'},
+instances: 1, word: 'Bedabbled', work: 'MND'},
+instances: 1, word: 'Bedtime', work: 'MND'},
+instances: 1, word: 'Beetles', work: 'MND'},
+instances: 1, word: 'Beggary', work: 'MND'},
+instances: 1, word: 'Begged', work: 'MND'},
+instances: 1, word: 'Beginning', work: 'MND'},
+instances: 1, word: 'Begone', work: 'MND'},
+instances: 1, word: 'Behalf', work: 'MND'},
+instances: 1, word: 'Behowls', work: 'MND'},
+instances: 1, word: 'Belike', work: 'MND'},
+instances: 1, word: 'Bells', work: 'MND'},
+instances: 1, word: 'Beloved', work: 'MND'},
+instances: 1, word: 'Bent', work: 'MND'},
+instances: 1, word: 'Bequeath', work: 'MND'},
+instances: 1, word: 'Berries', work: 'MND'},
+instances: 1, word: 'Besides', work: 'MND'},
+instances: 1, word: 'Beteem', work: 'MND'},
+instances: 1, word: 'Bethink', work: 'MND'},
+instances: 1, word: 'Betrothed', work: 'MND'},
+instances: 1, word: 'Betwixt', work: 'MND'},
+instances: 1, word: 'Bewail', work: 'MND'},
+instances: 1, word: 'Bewitched', work: 'MND'},
+instances: 1, word: 'Bide', work: 'MND'},
+instances: 1, word: 'Big-bellied', work: 'MND'},
+instances: 1, word: 'Black-browed', work: 'MND'},
+instances: 1, word: 'Bladed', work: 'MND'},
+instances: 1, word: 'Blamed', work: 'MND'},
+instances: 1, word: 'Blameful', work: 'MND'},
+instances: 1, word: 'Blameless', work: 'MND'},
+instances: 1, word: 'Blessed', work: 'MND'},
+instances: 1, word: 'Blessedness', work: 'MND'},
+instances: 1, word: 'Blest', work: 'MND'},
+instances: 1, word: 'Blind', work: 'MND'},
+instances: 1, word: 'Blindworms', work: 'MND'},
+instances: 1, word: 'Blink', work: 'MND'},
+instances: 1, word: 'Blots', work: 'MND'},
+instances: 1, word: 'Blows', work: 'MND'},
+instances: 1, word: 'Boar', work: 'MND'},
+instances: 1, word: 'Board', work: 'MND'},
+instances: 1, word: 'Boasts', work: 'MND'},
+instances: 1, word: 'Bob', work: 'MND'},
+instances: 1, word: 'Bog', work: 'MND'},
+instances: 1, word: 'Boiling', work: 'MND'},
+instances: 1, word: 'Bolt', work: 'MND'},
+instances: 1, word: 'Bones', work: 'MND'},
+instances: 1, word: 'Book', work: 'MND'},
+instances: 1, word: 'Bored', work: 'MND'},
+instances: 1, word: 'Bottle', work: 'MND'},
+instances: 1, word: 'Bouncing', work: 'MND'},
+instances: 1, word: 'Bounds', work: 'MND'},
+instances: 1, word: 'Bowl', work: 'MND'},
+instances: 1, word: 'Bowstrings', work: 'MND'},
+instances: 1, word: 'Boys', work: 'MND'},
+instances: 1, word: 'Bracelets', work: 'MND'},
+instances: 1, word: 'Bragging', work: 'MND'},
+instances: 1, word: 'Brains', work: 'MND'},
+instances: 1, word: 'Brakes', work: 'MND'},
+instances: 1, word: 'Brands', work: 'MND'},
+instances: 1, word: 'Brave', work: 'MND'},
+instances: 1, word: 'Bravely', work: 'MND'},
+instances: 1, word: 'Brawls', work: 'MND'},
+instances: 1, word: 'Bread', work: 'MND'},
+instances: 1, word: 'Breathless', work: 'MND'},
+instances: 1, word: 'Bred', work: 'MND'},
+instances: 1, word: 'Bride-bed', work: 'MND'},
+instances: 1, word: 'Bringer', work: 'MND'},
+instances: 1, word: 'Brings', work: 'MND'},
+instances: 1, word: 'Brisky', work: 'MND'},
+instances: 1, word: 'Bristled', work: 'MND'},
+instances: 1, word: 'Broached', work: 'MND'},
+instances: 1, word: 'Brook', work: 'MND'},
+instances: 1, word: 'Broom', work: 'MND'},
+instances: 1, word: 'Brother\'s', work: 'MND'},
+instances: 1, word: 'Brought', work: 'MND'},
+instances: 1, word: 'Brow', work: 'MND'},
+instances: 1, word: 'Brows', work: 'MND'},
+instances: 1, word: 'Bud', work: 'MND'},
+instances: 1, word: 'Bull', work: 'MND'},
+instances: 1, word: 'Bulls', work: 'MND'},
+instances: 1, word: 'Bum', work: 'MND'},
+instances: 1, word: 'Burial', work: 'MND'},
+instances: 1, word: 'Burn', work: 'MND'},
+instances: 1, word: 'Burned', work: 'MND'},
+instances: 1, word: 'Burr', work: 'MND'},
+instances: 1, word: 'Bury', work: 'MND'},
+instances: 1, word: 'Bushes', work: 'MND'},
+instances: 1, word: 'Buskined', work: 'MND'},
+instances: 1, word: 'Busy', work: 'MND'},
+instances: 1, word: 'Butterflies', work: 'MND'},
+instances: 1, word: 'Buy', work: 'MND'},
+instances: 1, word: 'Buys', work: 'MND'},
+instances: 1, word: 'Cadmus', work: 'MND'},
+instances: 1, word: 'Candle', work: 'MND'},
+instances: 1, word: 'Cankerblossom', work: 'MND'},
+instances: 1, word: 'Cankers', work: 'MND'},
+instances: 1, word: 'Capacity', work: 'MND'},
+instances: 1, word: 'Captain', work: 'MND'},
+instances: 1, word: 'Car', work: 'MND'},
+instances: 1, word: 'Carcass', work: 'MND'},
+instances: 1, word: 'Carol', work: 'MND'},
+instances: 1, word: 'Carried', work: 'MND'},
+instances: 1, word: 'Carthage', work: 'MND'},
+instances: 1, word: 'Catching', work: 'MND'},
+instances: 1, word: 'Cavalery', work: 'MND'},
+instances: 1, word: 'Cawing', work: 'MND'},
+instances: 1, word: 'Celestial', work: 'MND'},
+instances: 1, word: 'Centaurs', work: 'MND'},
+instances: 1, word: 'Center', work: 'MND'},
+instances: 1, word: 'Ceremony', work: 'MND'},
+instances: 1, word: 'Chain', work: 'MND'},
+instances: 1, word: 'Chanting', work: 'MND'},
+instances: 1, word: 'Chaplet', work: 'MND'},
+instances: 1, word: 'Charge', work: 'MND'},
+instances: 1, word: 'Charmeth', work: 'MND'},
+instances: 1, word: 'Charmèd', work: 'MND'},
+instances: 1, word: 'Chaste', work: 'MND'},
+instances: 1, word: 'Chastity', work: 'MND'},
+instances: 1, word: 'Cheered', work: 'MND'},
+instances: 1, word: 'Cherries', work: 'MND'},
+instances: 1, word: 'Chiding', work: 'MND'},
+instances: 1, word: 'Chief', work: 'MND'},
+instances: 1, word: 'Childing', work: 'MND'},
+instances: 1, word: 'Children', work: 'MND'},
+instances: 1, word: 'Choir', work: 'MND'},
+instances: 1, word: 'Choose', work: 'MND'},
+instances: 1, word: 'Choughs', work: 'MND'},
+instances: 1, word: 'Chronicled', work: 'MND'},
+instances: 1, word: 'Church-way', work: 'MND'},
+instances: 1, word: 'Churchyards', work: 'MND'},
+instances: 1, word: 'Churl', work: 'MND'},
+instances: 1, word: 'Churn', work: 'MND'},
+instances: 1, word: 'Circumference', work: 'MND'},
+instances: 1, word: 'Clamorous', work: 'MND'},
+instances: 1, word: 'Claws', work: 'MND'},
+instances: 1, word: 'Clean', work: 'MND'},
+instances: 1, word: 'Clerks', work: 'MND'},
+instances: 1, word: 'Cloister', work: 'MND'},
+instances: 1, word: 'Coil', work: 'MND'},
+instances: 1, word: 'Collied', work: 'MND'},
+instances: 1, word: 'Color', work: 'MND'},
+instances: 1, word: 'Colt', work: 'MND'},
+instances: 1, word: 'Comforts', work: 'MND'},
+instances: 1, word: 'Commend', work: 'MND'},
+instances: 1, word: 'Commit', work: 'MND'},
+instances: 1, word: 'Committ\'st', work: 'MND'},
+instances: 1, word: 'Compact', work: 'MND'},
+instances: 1, word: 'Companies', work: 'MND'},
+instances: 1, word: 'Companion', work: 'MND'},
+instances: 1, word: 'Compass', work: 'MND'},
+instances: 1, word: 'Complaint', work: 'MND'},
+instances: 1, word: 'Composed', work: 'MND'},
+instances: 1, word: 'Com\'st', work: 'MND'},
+instances: 1, word: 'Con', work: 'MND'},
+instances: 1, word: 'Conceal', work: 'MND'},
+instances: 1, word: 'Conceits', work: 'MND'},
+instances: 1, word: 'Concern', work: 'MND'},
+instances: 1, word: 'Concerns', work: 'MND'},
+instances: 1, word: 'Conclude', work: 'MND'},
+instances: 1, word: 'Conclusion', work: 'MND'},
+instances: 1, word: 'Condole', work: 'MND'},
+instances: 1, word: 'Condoling', work: 'MND'},
+instances: 1, word: 'Confederacy', work: 'MND'},
+instances: 1, word: 'Confer', work: 'MND'},
+instances: 1, word: 'Confound', work: 'MND'},
+instances: 1, word: 'Confounding', work: 'MND'},
+instances: 1, word: 'Congealèd', work: 'MND'},
+instances: 1, word: 'Conjoined', work: 'MND'},
+instances: 1, word: 'Conjunction', work: 'MND'},
+instances: 1, word: 'Conjure', work: 'MND'},
+instances: 1, word: 'Conned', work: 'MND'},
+instances: 1, word: 'Conqueror', work: 'MND'},
+instances: 1, word: 'Conscience', work: 'MND'},
+instances: 1, word: 'Consecrate', work: 'MND'},
+instances: 1, word: 'Consecrated', work: 'MND'},
+instances: 1, word: 'Consents', work: 'MND'},
+instances: 1, word: 'Consort', work: 'MND'},
+instances: 1, word: 'Conspired', work: 'MND'},
+instances: 1, word: 'Constancy', work: 'MND'},
+instances: 1, word: 'Constraineth', work: 'MND'},
+instances: 1, word: 'Contagious', work: 'MND'},
+instances: 1, word: 'Continents', work: 'MND'},
+instances: 1, word: 'Contrived', work: 'MND'},
+instances: 1, word: 'Convenient', work: 'MND'},
+instances: 1, word: 'Cool', work: 'MND'},
+instances: 1, word: 'Corin', work: 'MND'},
+instances: 1, word: 'Coronet', work: 'MND'},
+instances: 1, word: 'Costs', work: 'MND'},
+instances: 1, word: 'Cough', work: 'MND'},
+instances: 1, word: 'Couldst', work: 'MND'},
+instances: 1, word: 'Counsels', work: 'MND'},
+instances: 1, word: 'Country', work: 'MND'},
+instances: 1, word: 'Couple', work: 'MND'},
+instances: 1, word: 'Courageous', work: 'MND'},
+instances: 1, word: 'Courageously', work: 'MND'},
+instances: 1, word: 'Course', work: 'MND'},
+instances: 1, word: 'Courtesies', work: 'MND'},
+instances: 1, word: 'Cowardly', work: 'MND'},
+instances: 1, word: 'Cowslip', work: 'MND'},
+instances: 1, word: 'Cowslips', work: 'MND'},
+instances: 1, word: 'Cowslip\'s', work: 'MND'},
+instances: 1, word: 'Coy', work: 'MND'},
+instances: 1, word: 'Crab', work: 'MND'},
+instances: 1, word: 'Cradle', work: 'MND'},
+instances: 1, word: 'Crannied', work: 'MND'},
+instances: 1, word: 'Crawl', work: 'MND'},
+instances: 1, word: 'Crawling', work: 'MND'},
+instances: 1, word: 'Crazèd', work: 'MND'},
+instances: 1, word: 'Create', work: 'MND'},
+instances: 1, word: 'Created', work: 'MND'},
+instances: 1, word: 'Creature', work: 'MND'},
+instances: 1, word: 'Credit', work: 'MND'},
+instances: 1, word: 'Creeping', work: 'MND'},
+instances: 1, word: 'Creeps', work: 'MND'},
+instances: 1, word: 'Crescent', work: 'MND'},
+instances: 1, word: 'Crest', work: 'MND'},
+instances: 1, word: 'Crew', work: 'MND'},
+instances: 1, word: 'Crimson', work: 'MND'},
+instances: 1, word: 'Critical', work: 'MND'},
+instances: 1, word: 'Crook-kneed', work: 'MND'},
+instances: 1, word: 'Crop', work: 'MND'},
+instances: 1, word: 'Crossed', work: 'MND'},
+instances: 1, word: 'Crossways', work: 'MND'},
+instances: 1, word: 'Crown', work: 'MND'},
+instances: 1, word: 'Crownèd', work: 'MND'},
+instances: 1, word: 'Crows', work: 'MND'},
+instances: 1, word: 'Cruelty', work: 'MND'},
+instances: 1, word: 'Crystal', work: 'MND'},
+instances: 1, word: 'Cues', work: 'MND'},
+instances: 1, word: 'Cups', work: 'MND'},
+instances: 1, word: 'Cur', work: 'MND'},
+instances: 1, word: 'Cursed', work: 'MND'},
+instances: 1, word: 'Curses', work: 'MND'},
+instances: 1, word: 'Cushion', work: 'MND'},
+instances: 1, word: 'Customary', work: 'MND'},
+instances: 1, word: 'Dagger', work: 'MND'},
+instances: 1, word: 'Dainty', work: 'MND'},
+instances: 1, word: 'Dam', work: 'MND'},
+instances: 1, word: 'Dame', work: 'MND'},
+instances: 1, word: 'Damnèd', work: 'MND'},
+instances: 1, word: 'Dank', work: 'MND'},
+instances: 1, word: 'Daphne', work: 'MND'},
+instances: 1, word: 'Darkling', work: 'MND'},
+instances: 1, word: 'Date', work: 'MND'},
+instances: 1, word: 'Daughter\'s', work: 'MND'},
+instances: 1, word: 'Day\'s', work: 'MND'},
+instances: 1, word: 'Dearest', work: 'MND'},
+instances: 1, word: 'Death-counterfeiting', work: 'MND'},
+instances: 1, word: 'Debate', work: 'MND'},
+instances: 1, word: 'Debt', work: 'MND'},
+instances: 1, word: 'Deceased', work: 'MND'},
+instances: 1, word: 'Deceive', work: 'MND'},
+instances: 1, word: 'Decking', work: 'MND'},
+instances: 1, word: 'Deepest', work: 'MND'},
+instances: 1, word: 'Defeated', work: 'MND'},
+instances: 1, word: 'Defect', work: 'MND'},
+instances: 1, word: 'Defiled', work: 'MND'},
+instances: 1, word: 'Deflowered', work: 'MND'},
+instances: 1, word: 'Derived', work: 'MND'},
+instances: 1, word: 'Desert', work: 'MND'},
+instances: 1, word: 'Deserved', work: 'MND'},
+instances: 1, word: 'Desirest', work: 'MND'},
+instances: 1, word: 'Despise', work: 'MND'},
+instances: 1, word: 'Despite', work: 'MND'},
+instances: 1, word: 'Destiny', work: 'MND'},
+instances: 1, word: 'Detest', work: 'MND'},
+instances: 1, word: 'Devices', work: 'MND'},
+instances: 1, word: 'Devilish', work: 'MND'},
+instances: 1, word: 'Devils', work: 'MND'},
+instances: 1, word: 'Devise', work: 'MND'},
+instances: 1, word: 'Devised', work: 'MND'},
+instances: 1, word: 'Devour', work: 'MND'},
+instances: 1, word: 'Devoured', work: 'MND'},
+instances: 1, word: 'Devoutly', work: 'MND'},
+instances: 1, word: 'Dewberries', work: 'MND'},
+instances: 1, word: 'Dewdrops', work: 'MND'},
+instances: 1, word: 'Dewlap', work: 'MND'},
+instances: 1, word: 'Dewlapped', work: 'MND'},
+instances: 1, word: 'Diana\'s', work: 'MND'},
+instances: 1, word: 'Dian\'s', work: 'MND'},
+instances: 1, word: 'Died', work: 'MND'},
+instances: 1, word: 'Dies', work: 'MND'},
+instances: 1, word: 'Different', work: 'MND'},
+instances: 1, word: 'Dignity', work: 'MND'},
+instances: 1, word: 'Dined', work: 'MND'},
+instances: 1, word: 'Dirty', work: 'MND'},
+instances: 1, word: 'Discharged', work: 'MND'},
+instances: 1, word: 'Dischargèd', work: 'MND'},
+instances: 1, word: 'Diseases', work: 'MND'},
+instances: 1, word: 'Disgrace', work: 'MND'},
+instances: 1, word: 'Disobedience', work: 'MND'},
+instances: 1, word: 'Disordered', work: 'MND'},
+instances: 1, word: 'Disparage', work: 'MND'},
+instances: 1, word: 'Dispatch', work: 'MND'},
+instances: 1, word: 'Displease', work: 'MND'},
+instances: 1, word: 'Dispose', work: 'MND'},
+instances: 1, word: 'Dissembling', work: 'MND'},
+instances: 1, word: 'Dissension', work: 'MND'},
+instances: 1, word: 'Dissolved', work: 'MND'},
+instances: 1, word: 'Distant', work: 'MND'},
+instances: 1, word: 'Distemperature', work: 'MND'},
+instances: 1, word: 'Distilled', work: 'MND'},
+instances: 1, word: 'Distracted', work: 'MND'},
+instances: 1, word: 'Disturb', work: 'MND'},
+instances: 1, word: 'Disturbed', work: 'MND'},
+instances: 1, word: 'Ditty', work: 'MND'},
+instances: 1, word: 'Dogged', work: 'MND'},
+instances: 1, word: 'Doing', work: 'MND'},
+instances: 1, word: 'Dole', work: 'MND'},
+instances: 1, word: 'Dolphin\'s', work: 'MND'},
+instances: 1, word: 'Door', work: 'MND'},
+instances: 1, word: 'Dotage', work: 'MND'},
+instances: 1, word: 'Doting', work: 'MND'},
+instances: 1, word: 'Doubler', work: 'MND'},
+instances: 1, word: 'Doves', work: 'MND'},
+instances: 1, word: 'Downright', work: 'MND'},
+instances: 1, word: 'Dragons', work: 'MND'},
+instances: 1, word: 'Drawn', work: 'MND'},
+instances: 1, word: 'Drew', work: 'MND'},
+instances: 1, word: 'Dried', work: 'MND'},
+instances: 1, word: 'Drink', work: 'MND'},
+instances: 1, word: 'Drinks', work: 'MND'},
+instances: 1, word: 'Driv\'st', work: 'MND'},
+instances: 1, word: 'Drooping', work: 'MND'},
+instances: 1, word: 'Drop', work: 'MND'},
+instances: 1, word: 'Drownèd', work: 'MND'},
+instances: 1, word: 'Drowsy', work: 'MND'},
+instances: 1, word: 'Dry', work: 'MND'},
+instances: 1, word: 'Duck', work: 'MND'},
+instances: 1, word: 'Duke\'s', work: 'MND'},
+instances: 1, word: 'Dulcet', work: 'MND'},
+instances: 1, word: 'Dull', work: 'MND'},
+instances: 1, word: 'Dumb', work: 'MND'},
+instances: 1, word: 'Dumbly', work: 'MND'},
+instances: 1, word: 'During', work: 'MND'},
+instances: 1, word: 'Dust', work: 'MND'},
+instances: 1, word: 'Dwarf', work: 'MND'},
+instances: 1, word: 'Dwarfish', work: 'MND'},
+instances: 1, word: 'Dwell', work: 'MND'},
+instances: 1, word: 'Dye', work: 'MND'},
+instances: 1, word: 'Early', work: 'MND'},
+instances: 1, word: 'Earnest', work: 'MND'},
+instances: 1, word: 'Earthlier', work: 'MND'},
+instances: 1, word: 'Ease', work: 'MND'},
+instances: 1, word: 'East', work: 'MND'},
+instances: 1, word: 'Easy', work: 'MND'},
+instances: 1, word: 'Echo', work: 'MND'},
+instances: 1, word: 'Edict', work: 'MND'},
+instances: 1, word: 'Eglantine', work: 'MND'},
+instances: 1, word: 'Egypt', work: 'MND'},
+instances: 1, word: 'Eke', work: 'MND'},
+instances: 1, word: 'Elf', work: 'MND'},
+instances: 1, word: 'Elm', work: 'MND'},
+instances: 1, word: 'Eloquence', work: 'MND'},
+instances: 1, word: 'Embarkèd', work: 'MND'},
+instances: 1, word: 'Empty', work: 'MND'},
+instances: 1, word: 'Emptying', work: 'MND'},
+instances: 1, word: 'Enameled', work: 'MND'},
+instances: 1, word: 'Endure', work: 'MND'},
+instances: 1, word: 'Enemies', work: 'MND'},
+instances: 1, word: 'Enforcèd', work: 'MND'},
+instances: 1, word: 'Engaged', work: 'MND'},
+instances: 1, word: 'Engilds', work: 'MND'},
+instances: 1, word: 'Enmity', work: 'MND'},
+instances: 1, word: 'Enrich', work: 'MND'},
+instances: 1, word: 'Enrings', work: 'MND'},
+instances: 1, word: 'Ensue', work: 'MND'},
+instances: 1, word: 'Entered', work: 'MND'},
+instances: 1, word: 'Enthralled', work: 'MND'},
+instances: 1, word: 'Enthrallèd', work: 'MND'},
+instances: 1, word: 'Entice', work: 'MND'},
+instances: 1, word: 'Entwist', work: 'MND'},
+instances: 1, word: 'Ercles', work: 'MND'},
+instances: 1, word: 'Ercles\'', work: 'MND'},
+instances: 1, word: 'Erewhile', work: 'MND'},
+instances: 1, word: 'Errs', work: 'MND'},
+instances: 1, word: 'Espies', work: 'MND'},
+instances: 1, word: 'Espy', work: 'MND'},
+instances: 1, word: 'Estate', work: 'MND'},
+instances: 1, word: 'Eternally', work: 'MND'},
+instances: 1, word: 'Ethiop', work: 'MND'},
+instances: 1, word: 'Eunuch', work: 'MND'},
+instances: 1, word: 'Evening', work: 'MND'},
+instances: 1, word: 'Everlasting', work: 'MND'},
+instances: 1, word: 'Evermore', work: 'MND'},
+instances: 1, word: 'Everyone', work: 'MND'},
+instances: 1, word: 'Evils', work: 'MND'},
+instances: 1, word: 'Examine', work: 'MND'},
+instances: 1, word: 'Exile', work: 'MND'},
+instances: 1, word: 'Expense', work: 'MND'},
+instances: 1, word: 'Exploit', work: 'MND'},
+instances: 1, word: 'Exposition', work: 'MND'},
+instances: 1, word: 'Expound', work: 'MND'},
+instances: 1, word: 'Extempore', work: 'MND'},
+instances: 1, word: 'Extenuate', work: 'MND'},
+instances: 1, word: 'Extort', work: 'MND'},
+instances: 1, word: 'Extremely', work: 'MND'},
+instances: 1, word: 'Extremity', work: 'MND'},
+instances: 1, word: 'Eyeballs', work: 'MND'},
+instances: 1, word: 'Eyed', work: 'MND'},
+instances: 1, word: 'Eyelid', work: 'MND'},
+instances: 1, word: 'Eyelids', work: 'MND'},
+instances: 1, word: 'Fables', work: 'MND'},
+instances: 1, word: 'Fade', work: 'MND'},
+instances: 1, word: 'Faintness', work: 'MND'},
+instances: 1, word: 'Fairest', work: 'MND'},
+instances: 1, word: 'Fairly', work: 'MND'},
+instances: 1, word: 'Faithful', work: 'MND'},
+instances: 1, word: 'Fallen', work: 'MND'},
+instances: 1, word: 'Falling', work: 'MND'},
+instances: 1, word: 'Fan', work: 'MND'},
+instances: 1, word: 'Fancies', work: 'MND'},
+instances: 1, word: 'Fancy', work: 'MND'},
+instances: 1, word: 'Fancy-free', work: 'MND'},
+instances: 1, word: 'Fancy-sick', work: 'MND'},
+instances: 1, word: 'Fanned', work: 'MND'},
+instances: 1, word: 'Fantasy', work: 'MND'},
+instances: 1, word: 'Far-off', work: 'MND'},
+instances: 1, word: 'Farthest', work: 'MND'},
+instances: 1, word: 'Fashion', work: 'MND'},
+instances: 1, word: 'Faster', work: 'MND'},
+instances: 1, word: 'Fat', work: 'MND'},
+instances: 1, word: 'Fate', work: 'MND'},
+instances: 1, word: 'Fathers', work: 'MND'},
+instances: 1, word: 'Fatted', work: 'MND'},
+instances: 1, word: 'Favor', work: 'MND'},
+instances: 1, word: 'Fawn', work: 'MND'},
+instances: 1, word: 'Feared', work: 'MND'},
+instances: 1, word: 'Feast', work: 'MND'},
+instances: 1, word: 'Fee', work: 'MND'},
+instances: 1, word: 'Feed', work: 'MND'},
+instances: 1, word: 'Feel', work: 'MND'},
+instances: 1, word: 'Fellows', work: 'MND'},
+instances: 1, word: 'Fellowship', work: 'MND'},
+instances: 1, word: 'Felt', work: 'MND'},
+instances: 1, word: 'Female', work: 'MND'},
+instances: 1, word: 'Females', work: 'MND'},
+instances: 1, word: 'Field-dew', work: 'MND'},
+instances: 1, word: 'Figs', work: 'MND'},
+instances: 1, word: 'Filched', work: 'MND'},
+instances: 1, word: 'Filled', work: 'MND'},
+instances: 1, word: 'Filly', work: 'MND'},
+instances: 1, word: 'Finch', work: 'MND'},
+instances: 1, word: 'Finger', work: 'MND'},
+instances: 1, word: 'Finished', work: 'MND'},
+instances: 1, word: 'Five', work: 'MND'},
+instances: 1, word: 'Fixèd', work: 'MND'},
+instances: 1, word: 'Flewed', work: 'MND'},
+instances: 1, word: 'Flights', work: 'MND'},
+instances: 1, word: 'Flock', work: 'MND'},
+instances: 1, word: 'Floor', work: 'MND'},
+instances: 1, word: 'Flouriets\'', work: 'MND'},
+instances: 1, word: 'Flower\'s', work: 'MND'},
+instances: 1, word: 'Flying', work: 'MND'},
+instances: 1, word: 'Foal', work: 'MND'},
+instances: 1, word: 'Foe', work: 'MND'},
+instances: 1, word: 'Fog', work: 'MND'},
+instances: 1, word: 'Fogs', work: 'MND'},
+instances: 1, word: 'Fold', work: 'MND'},
+instances: 1, word: 'Followers', work: 'MND'},
+instances: 1, word: 'Follows', work: 'MND'},
+instances: 1, word: 'Fools', work: 'MND'},
+instances: 1, word: 'Fool\'s', work: 'MND'},
+instances: 1, word: 'Foot', work: 'MND'},
+instances: 1, word: 'Fordone', work: 'MND'},
+instances: 1, word: 'Forests', work: 'MND'},
+instances: 1, word: 'Forever', work: 'MND'},
+instances: 1, word: 'Forevermore', work: 'MND'},
+instances: 1, word: 'Forgeries', work: 'MND'},
+instances: 1, word: 'Former', work: 'MND'},
+instances: 1, word: 'Forms', work: 'MND'},
+instances: 1, word: 'Forsook', work: 'MND'},
+instances: 1, word: 'Forswear', work: 'MND'},
+instances: 1, word: 'Forsworn', work: 'MND'},
+instances: 1, word: 'Fortnight', work: 'MND'},
+instances: 1, word: 'Fortunately', work: 'MND'},
+instances: 1, word: 'Fortunes', work: 'MND'},
+instances: 1, word: 'Forty', work: 'MND'},
+instances: 1, word: 'Foul', work: 'MND'},
+instances: 1, word: 'Fountains', work: 'MND'},
+instances: 1, word: 'Fowler', work: 'MND'},
+instances: 1, word: 'Fragrant', work: 'MND'},
+instances: 1, word: 'Francis', work: 'MND'},
+instances: 1, word: 'Frantic', work: 'MND'},
+instances: 1, word: 'Freckles', work: 'MND'},
+instances: 1, word: 'French', work: 'MND'},
+instances: 1, word: 'French-crown-color', work: 'MND'},
+instances: 1, word: 'Frenzy', work: 'MND'},
+instances: 1, word: 'Fret', work: 'MND'},
+instances: 1, word: 'Friendly', work: 'MND'},
+instances: 1, word: 'Friendship', work: 'MND'},
+instances: 1, word: 'Frights', work: 'MND'},
+instances: 1, word: 'Frolic', work: 'MND'},
+instances: 1, word: 'Frosts', work: 'MND'},
+instances: 1, word: 'Frown', work: 'MND'},
+instances: 1, word: 'Frowns', work: 'MND'},
+instances: 1, word: 'Function', work: 'MND'},
+instances: 1, word: 'Funerals', work: 'MND'},
+instances: 1, word: 'Furies', work: 'MND'},
+instances: 1, word: 'Fury', work: 'MND'},
+instances: 1, word: 'Gambol', work: 'MND'},
+instances: 1, word: 'Gaping', work: 'MND'},
+instances: 1, word: 'Garlic', work: 'MND'},
+instances: 1, word: 'Garter', work: 'MND'},
+instances: 1, word: 'Gate', work: 'MND'},
+instances: 1, word: 'Gaud', work: 'MND'},
+instances: 1, word: 'Gauds', work: 'MND'},
+instances: 1, word: 'Gave', work: 'MND'},
+instances: 1, word: 'Geese', work: 'MND'},
+instances: 1, word: 'Generally', work: 'MND'},
+instances: 1, word: 'Gentlemanlike', work: 'MND'},
+instances: 1, word: 'Gentlemen', work: 'MND'},
+instances: 1, word: 'Gentleness', work: 'MND'},
+instances: 1, word: 'Ghosts', work: 'MND'},
+instances: 1, word: 'Giantlike', work: 'MND'},
+instances: 1, word: 'Gift', work: 'MND'},
+instances: 1, word: 'Girdle', work: 'MND'},
+instances: 1, word: 'Glad', work: 'MND'},
+instances: 1, word: 'Gleams', work: 'MND'},
+instances: 1, word: 'Gleek', work: 'MND'},
+instances: 1, word: 'Glide', work: 'MND'},
+instances: 1, word: 'Glittering', work: 'MND'},
+instances: 1, word: 'Globe', work: 'MND'},
+instances: 1, word: 'Gloriously', work: 'MND'},
+instances: 1, word: 'Glory', work: 'MND'},
+instances: 1, word: 'Glow', work: 'MND'},
+instances: 1, word: 'Glowworms\'', work: 'MND'},
+instances: 1, word: 'Goblin', work: 'MND'},
+instances: 1, word: 'Godspeed', work: 'MND'},
+instances: 1, word: 'God\'s', work: 'MND'},
+instances: 1, word: 'Goodfellow', work: 'MND'},
+instances: 1, word: 'Gore', work: 'MND'},
+instances: 1, word: 'Gossiped', work: 'MND'},
+instances: 1, word: 'Gossip\'s', work: 'MND'},
+instances: 1, word: 'Governess', work: 'MND'},
+instances: 1, word: 'Government', work: 'MND'},
+instances: 1, word: 'Graces', work: 'MND'},
+instances: 1, word: 'Grapes', work: 'MND'},
+instances: 1, word: 'Grass', work: 'MND'},
+instances: 1, word: 'Graves', work: 'MND'},
+instances: 1, word: 'Greater', work: 'MND'},
+instances: 1, word: 'Greatest', work: 'MND'},
+instances: 1, word: 'Greet', work: 'MND'},
+instances: 1, word: 'Griffin', work: 'MND'},
+instances: 1, word: 'Grim', work: 'MND'},
+instances: 1, word: 'Grim-looked', work: 'MND'},
+instances: 1, word: 'Grisly', work: 'MND'},
+instances: 1, word: 'Grossness', work: 'MND'},
+instances: 1, word: 'Growing', work: 'MND'},
+instances: 1, word: 'Grunt', work: 'MND'},
+instances: 1, word: 'Guest-wise', work: 'MND'},
+instances: 1, word: 'Guilty', work: 'MND'},
+instances: 1, word: 'Gun\'s', work: 'MND'},
+instances: 1, word: 'Habitation', work: 'MND'},
+instances: 1, word: 'Hailed', work: 'MND'},
+instances: 1, word: 'Hallowed', work: 'MND'},
+instances: 1, word: 'Handful', work: 'MND'},
+instances: 1, word: 'Handicraftman', work: 'MND'},
+instances: 1, word: 'Harbinger', work: 'MND'},
+instances: 1, word: 'Hard', work: 'MND'},
+instances: 1, word: 'Hard-handed', work: 'MND'},
+instances: 1, word: 'Hard-hearted', work: 'MND'},
+instances: 1, word: 'Harelip', work: 'MND'},
+instances: 1, word: 'Harmonious', work: 'MND'},
+instances: 1, word: 'Harp', work: 'MND'},
+instances: 1, word: 'Harshness', work: 'MND'},
+instances: 1, word: 'Hasty-footed', work: 'MND'},
+instances: 1, word: 'Hates', work: 'MND'},
+instances: 1, word: 'Hateth', work: 'MND'},
+instances: 1, word: 'Hats', work: 'MND'},
+instances: 1, word: 'Haunt', work: 'MND'},
+instances: 1, word: 'Haunts', work: 'MND'},
+instances: 1, word: 'Having', work: 'MND'},
+instances: 1, word: 'Headless', work: 'MND'},
+instances: 1, word: 'Heads', work: 'MND'},
+instances: 1, word: 'Health', work: 'MND'},
+instances: 1, word: 'Heartily', work: 'MND'},
+instances: 1, word: 'Heat', work: 'MND'},
+instances: 1, word: 'Heavens', work: 'MND'},
+instances: 1, word: 'Heavier', work: 'MND'},
+instances: 1, word: 'Heaviness', work: 'MND'},
+instances: 1, word: 'Hecate\'s', work: 'MND'},
+instances: 1, word: 'Hedgehogs', work: 'MND'},
+instances: 1, word: 'Heed', work: 'MND'},
+instances: 1, word: 'Held', work: 'MND'},
+instances: 1, word: 'Helen\'s', work: 'MND'},
+instances: 1, word: 'Hempen', work: 'MND'},
+instances: 1, word: 'Henceforth', work: 'MND'},
+instances: 1, word: 'Henchman', work: 'MND'},
+instances: 1, word: 'Heraldry', work: 'MND'},
+instances: 1, word: 'Herein', work: 'MND'},
+instances: 1, word: 'Heresies', work: 'MND'},
+instances: 1, word: 'Heresy', work: 'MND'},
+instances: 1, word: 'Here\'s', work: 'MND'},
+instances: 1, word: 'Hers', work: 'MND'},
+instances: 1, word: 'Hey-ho', work: 'MND'},
+instances: 1, word: 'He\'ll', work: 'MND'},
+instances: 1, word: 'Hie', work: 'MND'},
+instances: 1, word: 'Hiems\'', work: 'MND'},
+instances: 1, word: 'Highness', work: 'MND'},
+instances: 1, word: 'Hight', work: 'MND'},
+instances: 1, word: 'Hind', work: 'MND'},
+instances: 1, word: 'Hinders', work: 'MND'},
+instances: 1, word: 'Hind\'ring', work: 'MND'},
+instances: 1, word: 'Hips', work: 'MND'},
+instances: 1, word: 'History', work: 'MND'},
+instances: 1, word: 'Hit', work: 'MND'},
+instances: 1, word: 'Hoard', work: 'MND'},
+instances: 1, word: 'Hoary-headed', work: 'MND'},
+instances: 1, word: 'Hobgoblin', work: 'MND'},
+instances: 1, word: 'Hold\'st', work: 'MND'},
+instances: 1, word: 'Holloed', work: 'MND'},
+instances: 1, word: 'Holy', work: 'MND'},
+instances: 1, word: 'Homespuns', work: 'MND'},
+instances: 1, word: 'Honey-bags', work: 'MND'},
+instances: 1, word: 'Honeysuckle', work: 'MND'},
+instances: 1, word: 'Honor', work: 'MND'},
+instances: 1, word: 'Hoots', work: 'MND'},
+instances: 1, word: 'Horn', work: 'MND'},
+instances: 1, word: 'Hot', work: 'MND'},
+instances: 1, word: 'Howsoever', work: 'MND'},
+instances: 1, word: 'Humble-bee', work: 'MND'},
+instances: 1, word: 'Humble-bees', work: 'MND'},
+instances: 1, word: 'Humor', work: 'MND'},
+instances: 1, word: 'Hundred', work: 'MND'},
+instances: 1, word: 'Hungry', work: 'MND'},
+instances: 1, word: 'Hunting', work: 'MND'},
+instances: 1, word: 'Huntsmen', work: 'MND'},
+instances: 1, word: 'Huswife', work: 'MND'},
+instances: 1, word: 'Hymn', work: 'MND'},
+instances: 1, word: 'Hymns', work: 'MND'},
+instances: 1, word: 'Ice', work: 'MND'},
+instances: 1, word: 'Icy', work: 'MND'},
+instances: 1, word: 'Idolatry', work: 'MND'},
+instances: 1, word: 'Illusion', work: 'MND'},
+instances: 1, word: 'Images', work: 'MND'},
+instances: 1, word: 'Imagine', work: 'MND'},
+instances: 1, word: 'Imagining', work: 'MND'},
+instances: 1, word: 'Imbrue', work: 'MND'},
+instances: 1, word: 'Imitate', work: 'MND'},
+instances: 1, word: 'Impair', work: 'MND'},
+instances: 1, word: 'Impaired', work: 'MND'},
+instances: 1, word: 'Impatient', work: 'MND'},
+instances: 1, word: 'Impeach', work: 'MND'},
+instances: 1, word: 'Imperfection', work: 'MND'},
+instances: 1, word: 'Imperial', work: 'MND'},
+instances: 1, word: 'Impression', work: 'MND'},
+instances: 1, word: 'Imprinted', work: 'MND'},
+instances: 1, word: 'Inconstant', work: 'MND'},
+instances: 1, word: 'Incorporate', work: 'MND'},
+instances: 1, word: 'Increase', work: 'MND'},
+instances: 1, word: 'India', work: 'MND'},
+instances: 1, word: 'Injuries', work: 'MND'},
+instances: 1, word: 'Injurious', work: 'MND'},
+instances: 1, word: 'Insufficiency', work: 'MND'},
+instances: 1, word: 'Intelligence', work: 'MND'},
+instances: 1, word: 'Intended', work: 'MND'},
+instances: 1, word: 'Intents', work: 'MND'},
+instances: 1, word: 'Interchainèd', work: 'MND'},
+instances: 1, word: 'Interchanged', work: 'MND'},
+instances: 1, word: 'Ivy', work: 'MND'},
+instances: 1, word: 'I\'d', work: 'MND'},
+instances: 1, word: 'Jack', work: 'MND'},
+instances: 1, word: 'Jangling', work: 'MND'},
+instances: 1, word: 'Jaws', work: 'MND'},
+instances: 1, word: 'Jew', work: 'MND'},
+instances: 1, word: 'Jewel', work: 'MND'},
+instances: 1, word: 'Jewels', work: 'MND'},
+instances: 1, word: 'Jill', work: 'MND'},
+instances: 1, word: 'Jove', work: 'MND'},
+instances: 1, word: 'Jowl', work: 'MND'},
+instances: 1, word: 'Judge', work: 'MND'},
+instances: 1, word: 'Juggler', work: 'MND'},
+instances: 1, word: 'Juvenal', work: 'MND'},
+instances: 1, word: 'Kill-courtesy', work: 'MND'},
+instances: 1, word: 'Killing', work: 'MND'},
+instances: 1, word: 'Kinder', work: 'MND'},
+instances: 1, word: 'Kindred', work: 'MND'},
+instances: 1, word: 'Kinds', work: 'MND'},
+instances: 1, word: 'Kingdom', work: 'MND'},
+instances: 1, word: 'Kinsman', work: 'MND'},
+instances: 1, word: 'Kissed', work: 'MND'},
+instances: 1, word: 'Kissing', work: 'MND'},
+instances: 1, word: 'Knacks', work: 'MND'},
+instances: 1, word: 'Knaveries', work: 'MND'},
+instances: 1, word: 'Knew', work: 'MND'},
+instances: 1, word: 'Knitteth', work: 'MND'},
+instances: 1, word: 'Knotgrass', work: 'MND'},
+instances: 1, word: 'Knowing', work: 'MND'},
+instances: 1, word: 'Labor', work: 'MND'},
+instances: 1, word: 'Labored', work: 'MND'},
+instances: 1, word: 'Lack-love', work: 'MND'},
+instances: 1, word: 'Lad', work: 'MND'},
+instances: 1, word: 'Lads', work: 'MND'},
+instances: 1, word: 'Lady\'s', work: 'MND'},
+instances: 1, word: 'Lakin', work: 'MND'},
+instances: 1, word: 'Lamentable', work: 'MND'},
+instances: 1, word: 'Lamenting', work: 'MND'},
+instances: 1, word: 'Languish', work: 'MND'},
+instances: 1, word: 'Lap', work: 'MND'},
+instances: 1, word: 'Last', work: 'MND'},
+instances: 1, word: 'Latched', work: 'MND'},
+instances: 1, word: 'Latter', work: 'MND'},
+instances: 1, word: 'Laughed', work: 'MND'},
+instances: 1, word: 'Laughing', work: 'MND'},
+instances: 1, word: 'Laughter', work: 'MND'},
+instances: 1, word: 'Lazy', work: 'MND'},
+instances: 1, word: 'Leaden', work: 'MND'},
+instances: 1, word: 'Leads', work: 'MND'},
+instances: 1, word: 'Leagues', work: 'MND'},
+instances: 1, word: 'Learning', work: 'MND'},
+instances: 1, word: 'Least', work: 'MND'},
+instances: 1, word: 'Leathern', work: 'MND'},
+instances: 1, word: 'Led', work: 'MND'},
+instances: 1, word: 'Leeks', work: 'MND'},
+instances: 1, word: 'Length', work: 'MND'},
+instances: 1, word: 'Less', work: 'MND'},
+instances: 1, word: 'Lesser', work: 'MND'},
+instances: 1, word: 'Lets', work: 'MND'},
+instances: 1, word: 'Leviathan', work: 'MND'},
+instances: 1, word: 'Liar', work: 'MND'},
+instances: 1, word: 'Lied', work: 'MND'},
+instances: 1, word: 'Lighter-heeled', work: 'MND'},
+instances: 1, word: 'Lightning', work: 'MND'},
+instances: 1, word: 'Liked', work: 'MND'},
+instances: 1, word: 'Lily', work: 'MND'},
+instances: 1, word: 'Lily-white', work: 'MND'},
+instances: 1, word: 'Limander', work: 'MND'},
+instances: 1, word: 'Linen', work: 'MND'},
+instances: 1, word: 'Lingers', work: 'MND'},
+instances: 1, word: 'Lions', work: 'MND'},
+instances: 1, word: 'Liquid', work: 'MND'},
+instances: 1, word: 'Listen', work: 'MND'},
+instances: 1, word: 'Lived', work: 'MND'},
+instances: 1, word: 'Liveries', work: 'MND'},
+instances: 1, word: 'Livery', work: 'MND'},
+instances: 1, word: 'Lives', work: 'MND'},
+instances: 1, word: 'Living', work: 'MND'},
+instances: 1, word: 'Lo', work: 'MND'},
+instances: 1, word: 'Loath', work: 'MND'},
+instances: 1, word: 'Loathing', work: 'MND'},
+instances: 1, word: 'Loathèd', work: 'MND'},
+instances: 1, word: 'Lob', work: 'MND'},
+instances: 1, word: 'Local', work: 'MND'},
+instances: 1, word: 'Locks', work: 'MND'},
+instances: 1, word: 'Lodestars', work: 'MND'},
+instances: 1, word: 'Loffe', work: 'MND'},
+instances: 1, word: 'Lofty', work: 'MND'},
+instances: 1, word: 'Long-legged', work: 'MND'},
+instances: 1, word: 'Look\'st', work: 'MND'},
+instances: 1, word: 'Loosed', work: 'MND'},
+instances: 1, word: 'Lords', work: 'MND'},
+instances: 1, word: 'Lordship', work: 'MND'},
+instances: 1, word: 'Love-in-idleness', work: 'MND'},
+instances: 1, word: 'Love-shaft', work: 'MND'},
+instances: 1, word: 'Lovest', work: 'MND'},
+instances: 1, word: 'Loving', work: 'MND'},
+instances: 1, word: 'Lovèd', work: 'MND'},
+instances: 1, word: 'Loyalty', work: 'MND'},
+instances: 1, word: 'Lulled', work: 'MND'},
+instances: 1, word: 'Lunatic', work: 'MND'},
+instances: 1, word: 'Lurk', work: 'MND'},
+instances: 1, word: 'Luscious', work: 'MND'},
+instances: 1, word: 'Lying', work: 'MND'},
+instances: 1, word: 'Madman', work: 'MND'},
+instances: 1, word: 'Madmen', work: 'MND'},
+instances: 1, word: 'Maidenly', work: 'MND'},
+instances: 1, word: 'Maiden\'s', work: 'MND'},
+instances: 1, word: 'Maid\'s', work: 'MND'},
+instances: 1, word: 'Manager', work: 'MND'},
+instances: 1, word: 'Manhood', work: 'MND'},
+instances: 1, word: 'Manly', work: 'MND'},
+instances: 1, word: 'Manner', work: 'MND'},
+instances: 1, word: 'Mar', work: 'MND'},
+instances: 1, word: 'Mare', work: 'MND'},
+instances: 1, word: 'Margent', work: 'MND'},
+instances: 1, word: 'Marked', work: 'MND'},
+instances: 1, word: 'Marking', work: 'MND'},
+instances: 1, word: 'Marred', work: 'MND'},
+instances: 1, word: 'Married', work: 'MND'},
+instances: 1, word: 'Marshal', work: 'MND'},
+instances: 1, word: 'Marvel', work: 'MND'},
+instances: 1, word: 'Mask', work: 'MND'},
+instances: 1, word: 'Masque', work: 'MND'},
+instances: 1, word: 'Masques', work: 'MND'},
+instances: 1, word: 'Match', work: 'MND'},
+instances: 1, word: 'Matched', work: 'MND'},
+instances: 1, word: 'Maypole', work: 'MND'},
+instances: 1, word: 'Mayst', work: 'MND'},
+instances: 1, word: 'Mazes', work: 'MND'},
+instances: 1, word: 'Mazèd', work: 'MND'},
+instances: 1, word: 'Mead', work: 'MND'},
+instances: 1, word: 'Meaning', work: 'MND'},
+instances: 1, word: 'Meant', work: 'MND'},
+instances: 1, word: 'Meantime', work: 'MND'},
+instances: 1, word: 'Mechanicals', work: 'MND'},
+instances: 1, word: 'Meddling', work: 'MND'},
+instances: 1, word: 'Meditation', work: 'MND'},
+instances: 1, word: 'Med\'cine', work: 'MND'},
+instances: 1, word: 'Meeting', work: 'MND'},
+instances: 1, word: 'Melancholy', work: 'MND'},
+instances: 1, word: 'Melt', work: 'MND'},
+instances: 1, word: 'Melted', work: 'MND'},
+instances: 1, word: 'Memories', work: 'MND'},
+instances: 1, word: 'Mend', work: 'MND'},
+instances: 1, word: 'Mended', work: 'MND'},
+instances: 1, word: 'Merchandise', work: 'MND'},
+instances: 1, word: 'Merit', work: 'MND'},
+instances: 1, word: 'Mermaid', work: 'MND'},
+instances: 1, word: 'Merrier', work: 'MND'},
+instances: 1, word: 'Merriment', work: 'MND'},
+instances: 1, word: 'Merriments', work: 'MND'},
+instances: 1, word: 'Messenger', work: 'MND'},
+instances: 1, word: 'Messengers', work: 'MND'},
+instances: 1, word: 'Mewed', work: 'MND'},
+instances: 1, word: 'Middle', work: 'MND'},
+instances: 1, word: 'Midst', work: 'MND'},
+instances: 1, word: 'Mighty', work: 'MND'},
+instances: 1, word: 'Mile', work: 'MND'},
+instances: 1, word: 'Milk-white', work: 'MND'},
+instances: 1, word: 'Million', work: 'MND'},
+instances: 1, word: 'Mimic', work: 'MND'},
+instances: 1, word: 'Minding', work: 'MND'},
+instances: 1, word: 'Minimus', work: 'MND'},
+instances: 1, word: 'Minute', work: 'MND'},
+instances: 1, word: 'Miserable', work: 'MND'},
+instances: 1, word: 'Misgraffèd', work: 'MND'},
+instances: 1, word: 'Mislead', work: 'MND'},
+instances: 1, word: 'Misprised', work: 'MND'},
+instances: 1, word: 'Misprision', work: 'MND'},
+instances: 1, word: 'Mistaken', work: 'MND'},
+instances: 1, word: 'Mistaketh', work: 'MND'},
+instances: 1, word: 'Mistak\'st', work: 'MND'},
+instances: 1, word: 'Moan', work: 'MND'},
+instances: 1, word: 'Moans', work: 'MND'},
+instances: 1, word: 'Mockers', work: 'MND'},
+instances: 1, word: 'Mock\'st', work: 'MND'},
+instances: 1, word: 'Molded', work: 'MND'},
+instances: 1, word: 'Mole', work: 'MND'},
+instances: 1, word: 'Moment', work: 'MND'},
+instances: 1, word: 'Momentany', work: 'MND'},
+instances: 1, word: 'Monkey', work: 'MND'},
+instances: 1, word: 'Monster\'s', work: 'MND'},
+instances: 1, word: 'Mood', work: 'MND'},
+instances: 1, word: 'Moonbeams', work: 'MND'},
+instances: 1, word: 'Moon\'s', work: 'MND'},
+instances: 1, word: 'Moral', work: 'MND'},
+instances: 1, word: 'Morning\'s', work: 'MND'},
+instances: 1, word: 'Motion', work: 'MND'},
+instances: 1, word: 'Mountains', work: 'MND'},
+instances: 1, word: 'Mountain\'s', work: 'MND'},
+instances: 1, word: 'Mourning', work: 'MND'},
+instances: 1, word: 'Moused', work: 'MND'},
+instances: 1, word: 'Mouths', work: 'MND'},
+instances: 1, word: 'Mud', work: 'MND'},
+instances: 1, word: 'Muddy', work: 'MND'},
+instances: 1, word: 'Mulberries', work: 'MND'},
+instances: 1, word: 'Mulberry', work: 'MND'},
+instances: 1, word: 'Munch', work: 'MND'},
+instances: 1, word: 'Murder', work: 'MND'},
+instances: 1, word: 'Murrain', work: 'MND'},
+instances: 1, word: 'Muses', work: 'MND'},
+instances: 1, word: 'Muskrose', work: 'MND'},
+instances: 1, word: 'Mutual', work: 'MND'},
+instances: 1, word: 'Names', work: 'MND'},
+instances: 1, word: 'Natural', work: 'MND'},
+instances: 1, word: 'Nature\'s', work: 'MND'},
+instances: 1, word: 'Neaf', work: 'MND'},
+instances: 1, word: 'Nearly', work: 'MND'},
+instances: 1, word: 'Neck', work: 'MND'},
+instances: 1, word: 'Need', work: 'MND'},
+instances: 1, word: 'Needles', work: 'MND'},
+instances: 1, word: 'Neeze', work: 'MND'},
+instances: 1, word: 'Neglect', work: 'MND'},
+instances: 1, word: 'Negligence', work: 'MND'},
+instances: 1, word: 'Neigh', work: 'MND'},
+instances: 1, word: 'Neighing', work: 'MND'},
+instances: 1, word: 'Neither', work: 'MND'},
+instances: 1, word: 'Neptune', work: 'MND'},
+instances: 1, word: 'Neptune\'s', work: 'MND'},
+instances: 1, word: 'Newts', work: 'MND'},
+instances: 1, word: 'Ne\'er', work: 'MND'},
+instances: 1, word: 'Night-rule', work: 'MND'},
+instances: 1, word: 'Night-tapers', work: 'MND'},
+instances: 1, word: 'Nightingale', work: 'MND'},
+instances: 1, word: 'Nights', work: 'MND'},
+instances: 1, word: 'Nimble', work: 'MND'},
+instances: 1, word: 'Nine-men\'s-morris', work: 'MND'},
+instances: 1, word: 'Nod', work: 'MND'},
+instances: 1, word: 'Nodding', work: 'MND'},
+instances: 1, word: 'Noll', work: 'MND'},
+instances: 1, word: 'Noontide', work: 'MND'},
+instances: 1, word: 'Nose', work: 'MND'},
+instances: 1, word: 'Nosegays', work: 'MND'},
+instances: 1, word: 'Notably', work: 'MND'},
+instances: 1, word: 'Notwithstanding', work: 'MND'},
+instances: 1, word: 'Nowadays', work: 'MND'},
+instances: 1, word: 'Number', work: 'MND'},
+instances: 1, word: 'Numbered', work: 'MND'},
+instances: 1, word: 'Nun', work: 'MND'},
+instances: 1, word: 'Nuts', work: 'MND'},
+instances: 1, word: 'Nymphs', work: 'MND'},
+instances: 1, word: 'Oak', work: 'MND'},
+instances: 1, word: 'Oats', work: 'MND'},
+instances: 1, word: 'Obedience', work: 'MND'},
+instances: 1, word: 'Object', work: 'MND'},
+instances: 1, word: 'Obscenely', work: 'MND'},
+instances: 1, word: 'Observance', work: 'MND'},
+instances: 1, word: 'Observation', work: 'MND'},
+instances: 1, word: 'Observe', work: 'MND'},
+instances: 1, word: 'Occasion', work: 'MND'},
+instances: 1, word: 'Odious', work: 'MND'},
+instances: 1, word: 'Odorous', work: 'MND'},
+instances: 1, word: 'Oes', work: 'MND'},
+instances: 1, word: 'Offence', work: 'MND'},
+instances: 1, word: 'Offended', work: 'MND'},
+instances: 1, word: 'Offer', work: 'MND'},
+instances: 1, word: 'Offices', work: 'MND'},
+instances: 1, word: 'Officious', work: 'MND'},
+instances: 1, word: 'Oftener', work: 'MND'},
+instances: 1, word: 'Onions', work: 'MND'},
+instances: 1, word: 'Open', work: 'MND'},
+instances: 1, word: 'Opening', work: 'MND'},
+instances: 1, word: 'Opportunity', work: 'MND'},
+instances: 1, word: 'Orbs', work: 'MND'},
+instances: 1, word: 'Order', work: 'MND'},
+instances: 1, word: 'Orient', work: 'MND'},
+instances: 1, word: 'Original', work: 'MND'},
+instances: 1, word: 'Ounce', work: 'MND'},
+instances: 1, word: 'Outsleep', work: 'MND'},
+instances: 1, word: 'Ouzel', work: 'MND'},
+instances: 1, word: 'Overbear', work: 'MND'},
+instances: 1, word: 'Overborne', work: 'MND'},
+instances: 1, word: 'Overcanopied', work: 'MND'},
+instances: 1, word: 'Overcast', work: 'MND'},
+instances: 1, word: 'Overflown', work: 'MND'},
+instances: 1, word: 'Overfull', work: 'MND'},
+instances: 1, word: 'Overhear', work: 'MND'},
+instances: 1, word: 'Overwatched', work: 'MND'},
+instances: 1, word: 'Owl', work: 'MND'},
+instances: 1, word: 'Owner', work: 'MND'},
+instances: 1, word: 'Ox', work: 'MND'},
+instances: 1, word: 'Ox-beef', work: 'MND'},
+instances: 1, word: 'Oxlips', work: 'MND'},
+instances: 1, word: 'O\'ercharged', work: 'MND'},
+instances: 1, word: 'O\'erlook', work: 'MND'},
+instances: 1, word: 'O\'errules', work: 'MND'},
+instances: 1, word: 'Pace', work: 'MND'},
+instances: 1, word: 'Page', work: 'MND'},
+instances: 1, word: 'Pageant', work: 'MND'},
+instances: 1, word: 'Pains', work: 'MND'},
+instances: 1, word: 'Pairs', work: 'MND'},
+instances: 1, word: 'Palpable-gross', work: 'MND'},
+instances: 1, word: 'Paradise', work: 'MND'},
+instances: 1, word: 'Paragon', work: 'MND'},
+instances: 1, word: 'Pard', work: 'MND'},
+instances: 1, word: 'Pare', work: 'MND'},
+instances: 1, word: 'Parents', work: 'MND'},
+instances: 1, word: 'Park', work: 'MND'},
+instances: 1, word: 'Parlous', work: 'MND'},
+instances: 1, word: 'Partly', work: 'MND'},
+instances: 1, word: 'Passing', work: 'MND'},
+instances: 1, word: 'Passèd', work: 'MND'},
+instances: 1, word: 'Patched', work: 'MND'},
+instances: 1, word: 'Patches', work: 'MND'},
+instances: 1, word: 'Patent', work: 'MND'},
+instances: 1, word: 'Paths', work: 'MND'},
+instances: 1, word: 'Patiently', work: 'MND'},
+instances: 1, word: 'Pause', work: 'MND'},
+instances: 1, word: 'Pavèd', work: 'MND'},
+instances: 1, word: 'Pay', work: 'MND'},
+instances: 1, word: 'Paying', work: 'MND'},
+instances: 1, word: 'Pays', work: 'MND'},
+instances: 1, word: 'Pearls', work: 'MND'},
+instances: 1, word: 'Peas', work: 'MND'},
+instances: 1, word: 'Peascod', work: 'MND'},
+instances: 1, word: 'Peck', work: 'MND'},
+instances: 1, word: 'Peep', work: 'MND'},
+instances: 1, word: 'Pelting', work: 'MND'},
+instances: 1, word: 'Pen', work: 'MND'},
+instances: 1, word: 'Pensioners', work: 'MND'},
+instances: 1, word: 'People', work: 'MND'},
+instances: 1, word: 'Peradventure', work: 'MND'},
+instances: 1, word: 'Perfect', work: 'MND'},
+instances: 1, word: 'Performed', work: 'MND'},
+instances: 1, word: 'Performing', work: 'MND'},
+instances: 1, word: 'Perigouna', work: 'MND'},
+instances: 1, word: 'Periods', work: 'MND'},
+instances: 1, word: 'Perish', work: 'MND'},
+instances: 1, word: 'Perishing', work: 'MND'},
+instances: 1, word: 'Perjured', work: 'MND'},
+instances: 1, word: 'Persever', work: 'MND'},
+instances: 1, word: 'Persuasion', work: 'MND'},
+instances: 1, word: 'Pert', work: 'MND'},
+instances: 1, word: 'Phibbus\'', work: 'MND'},
+instances: 1, word: 'Phillida', work: 'MND'},
+instances: 1, word: 'Phoebe', work: 'MND'},
+instances: 1, word: 'Picked', work: 'MND'},
+instances: 1, word: 'Piece', work: 'MND'},
+instances: 1, word: 'Pierce', work: 'MND'},
+instances: 1, word: 'Pierced', work: 'MND'},
+instances: 1, word: 'Pilgrimage', work: 'MND'},
+instances: 1, word: 'Pillow', work: 'MND'},
+instances: 1, word: 'Pipes', work: 'MND'},
+instances: 1, word: 'Piping', work: 'MND'},
+instances: 1, word: 'Places', work: 'MND'},
+instances: 1, word: 'Plain', work: 'MND'},
+instances: 1, word: 'Plainer', work: 'MND'},
+instances: 1, word: 'Plainest', work: 'MND'},
+instances: 1, word: 'Plainly', work: 'MND'},
+instances: 1, word: 'Plainsong', work: 'MND'},
+instances: 1, word: 'Plaster', work: 'MND'},
+instances: 1, word: 'Player', work: 'MND'},
+instances: 1, word: 'Playfellow', work: 'MND'},
+instances: 1, word: 'Plays', work: 'MND'},
+instances: 1, word: 'Plead', work: 'MND'},
+instances: 1, word: 'Pleading', work: 'MND'},
+instances: 1, word: 'Plot', work: 'MND'},
+instances: 1, word: 'Plunge', work: 'MND'},
+instances: 1, word: 'Poet', work: 'MND'},
+instances: 1, word: 'Points', work: 'MND'},
+instances: 1, word: 'Possessed', work: 'MND'},
+instances: 1, word: 'Possible', work: 'MND'},
+instances: 1, word: 'Potion', work: 'MND'},
+instances: 1, word: 'Pour', work: 'MND'},
+instances: 1, word: 'Powers', work: 'MND'},
+instances: 1, word: 'Practiced', work: 'MND'},
+instances: 1, word: 'Praise', work: 'MND'},
+instances: 1, word: 'Precious', work: 'MND'},
+instances: 1, word: 'Preferred', work: 'MND'},
+instances: 1, word: 'Premeditated', work: 'MND'},
+instances: 1, word: 'Prepare', work: 'MND'},
+instances: 1, word: 'Prepost\'rously', work: 'MND'},
+instances: 1, word: 'Presented', work: 'MND'},
+instances: 1, word: 'Presenteth', work: 'MND'},
+instances: 1, word: 'Presently', work: 'MND'},
+instances: 1, word: 'Pressed', work: 'MND'},
+instances: 1, word: 'Pressèd', work: 'MND'},
+instances: 1, word: 'Prettily', work: 'MND'},
+instances: 1, word: 'Prevailed', work: 'MND'},
+instances: 1, word: 'Prevailment', work: 'MND'},
+instances: 1, word: 'Prey', work: 'MND'},
+instances: 1, word: 'Pride', work: 'MND'},
+instances: 1, word: 'Primrose', work: 'MND'},
+instances: 1, word: 'Princess', work: 'MND'},
+instances: 1, word: 'Prison', work: 'MND'},
+instances: 1, word: 'Private', work: 'MND'},
+instances: 1, word: 'Prodigious', work: 'MND'},
+instances: 1, word: 'Progeny', work: 'MND'},
+instances: 1, word: 'Promontory', work: 'MND'},
+instances: 1, word: 'Proper', work: 'MND'},
+instances: 1, word: 'Properties', work: 'MND'},
+instances: 1, word: 'Property', work: 'MND'},
+instances: 1, word: 'Prosecute', work: 'MND'},
+instances: 1, word: 'Prospers', work: 'MND'},
+instances: 1, word: 'Protest', work: 'MND'},
+instances: 1, word: 'Provender', work: 'MND'},
+instances: 1, word: 'Proverb', work: 'MND'},
+instances: 1, word: 'Proves', work: 'MND'},
+instances: 1, word: 'Provided', work: 'MND'},
+instances: 1, word: 'Pumps', work: 'MND'},
+instances: 1, word: 'Purge', work: 'MND'},
+instances: 1, word: 'Purple-in-grain', work: 'MND'},
+instances: 1, word: 'Purpose', work: 'MND'},
+instances: 1, word: 'Purposed', work: 'MND'},
+instances: 1, word: 'Purposèd', work: 'MND'},
+instances: 1, word: 'Pursuit', work: 'MND'},
+instances: 1, word: 'Puts', work: 'MND'},
+instances: 1, word: 'Pyramus\'', work: 'MND'},
+instances: 1, word: 'Quail', work: 'MND'},
+instances: 1, word: 'Qualities', work: 'MND'},
+instances: 1, word: 'Quantity', work: 'MND'},
+instances: 1, word: 'Quell', work: 'MND'},
+instances: 1, word: 'Quenched', work: 'MND'},
+instances: 1, word: 'Quern', work: 'MND'},
+instances: 1, word: 'Questions', work: 'MND'},
+instances: 1, word: 'Quicker', work: 'MND'},
+instances: 1, word: 'Quiet', work: 'MND'},
+instances: 1, word: 'Quill', work: 'MND'},
+instances: 1, word: 'Radiant', work: 'MND'},
+instances: 1, word: 'Raging', work: 'MND'},
+instances: 1, word: 'Rail', work: 'MND'},
+instances: 1, word: 'Rain', work: 'MND'},
+instances: 1, word: 'Ranked', work: 'MND'},
+instances: 1, word: 'Rarely', work: 'MND'},
+instances: 1, word: 'Rash', work: 'MND'},
+instances: 1, word: 'Rate', work: 'MND'},
+instances: 1, word: 'Rattling', work: 'MND'},
+instances: 1, word: 'Raven', work: 'MND'},
+instances: 1, word: 'Ravishèd', work: 'MND'},
+instances: 1, word: 'Reach', work: 'MND'},
+instances: 1, word: 'Rear', work: 'MND'},
+instances: 1, word: 'Reasonable', work: 'MND'},
+instances: 1, word: 'Rebuke', work: 'MND'},
+instances: 1, word: 'Recompense', work: 'MND'},
+instances: 1, word: 'Recorder', work: 'MND'},
+instances: 1, word: 'Recount', work: 'MND'},
+instances: 1, word: 'Recover', work: 'MND'},
+instances: 1, word: 'Recreant', work: 'MND'},
+instances: 1, word: 'Red-hipped', work: 'MND'},
+instances: 1, word: 'Refuse', work: 'MND'},
+instances: 1, word: 'Refused', work: 'MND'},
+instances: 1, word: 'Region', work: 'MND'},
+instances: 1, word: 'Rehearsal', work: 'MND'},
+instances: 1, word: 'Rehearsed', work: 'MND'},
+instances: 1, word: 'Relent', work: 'MND'},
+instances: 1, word: 'Remember', work: 'MND'},
+instances: 1, word: 'Rememb\'rest', work: 'MND'},
+instances: 1, word: 'Remote', work: 'MND'},
+instances: 1, word: 'Removed', work: 'MND'},
+instances: 1, word: 'Renownèd', work: 'MND'},
+instances: 1, word: 'Rent', work: 'MND'},
+instances: 1, word: 'Repair', work: 'MND'},
+instances: 1, word: 'Reply', work: 'MND'},
+instances: 1, word: 'Reprehend', work: 'MND'},
+instances: 1, word: 'Reremice', work: 'MND'},
+instances: 1, word: 'Respects', work: 'MND'},
+instances: 1, word: 'Restore', work: 'MND'},
+instances: 1, word: 'Return', work: 'MND'},
+instances: 1, word: 'Returned', work: 'MND'},
+instances: 1, word: 'Reveling', work: 'MND'},
+instances: 1, word: 'Rheumatic', work: 'MND'},
+instances: 1, word: 'Rhymes', work: 'MND'},
+instances: 1, word: 'Ribbons', work: 'MND'},
+instances: 1, word: 'Richest', work: 'MND'},
+instances: 1, word: 'Rid', work: 'MND'},
+instances: 1, word: 'Riddles', work: 'MND'},
+instances: 1, word: 'Ringlets', work: 'MND'},
+instances: 1, word: 'Rings', work: 'MND'},
+instances: 1, word: 'Riot', work: 'MND'},
+instances: 1, word: 'Rising', work: 'MND'},
+instances: 1, word: 'Rite', work: 'MND'},
+instances: 1, word: 'Rival', work: 'MND'},
+instances: 1, word: 'River', work: 'MND'},
+instances: 1, word: 'Roared', work: 'MND'},
+instances: 1, word: 'Roaring', work: 'MND'},
+instances: 1, word: 'Roars', work: 'MND'},
+instances: 1, word: 'Roasted', work: 'MND'},
+instances: 1, word: 'Rock', work: 'MND'},
+instances: 1, word: 'Rocks', work: 'MND'},
+instances: 1, word: 'Rod', work: 'MND'},
+instances: 1, word: 'Roll', work: 'MND'},
+instances: 1, word: 'Rolling', work: 'MND'},
+instances: 1, word: 'Room', work: 'MND'},
+instances: 1, word: 'Roses', work: 'MND'},
+instances: 1, word: 'Rote', work: 'MND'},
+instances: 1, word: 'Rotted', work: 'MND'},
+instances: 1, word: 'Rounded', work: 'MND'},
+instances: 1, word: 'Roundel', work: 'MND'},
+instances: 1, word: 'Royal', work: 'MND'},
+instances: 1, word: 'Rubies', work: 'MND'},
+instances: 1, word: 'Runaway', work: 'MND'},
+instances: 1, word: 'Runn\'st', work: 'MND'},
+instances: 1, word: 'Rushy', work: 'MND'},
+instances: 1, word: 'Russet-pated', work: 'MND'},
+instances: 1, word: 'Saddest', work: 'MND'},
+instances: 1, word: 'Safety', work: 'MND'},
+instances: 1, word: 'Sails', work: 'MND'},
+instances: 1, word: 'Saint', work: 'MND'},
+instances: 1, word: 'Salt', work: 'MND'},
+instances: 1, word: 'Salt-green', work: 'MND'},
+instances: 1, word: 'Sampler', work: 'MND'},
+instances: 1, word: 'Sanded', work: 'MND'},
+instances: 1, word: 'Sands', work: 'MND'},
+instances: 1, word: 'Satire', work: 'MND'},
+instances: 1, word: 'Saucy', work: 'MND'},
+instances: 1, word: 'Save', work: 'MND'},
+instances: 1, word: 'Sayest', work: 'MND'},
+instances: 1, word: 'Saying', work: 'MND'},
+instances: 1, word: 'Scales', work: 'MND'},
+instances: 1, word: 'Scalp', work: 'MND'},
+instances: 1, word: 'Scandal', work: 'MND'},
+instances: 1, word: 'Scar', work: 'MND'},
+instances: 1, word: 'Scare', work: 'MND'},
+instances: 1, word: 'School', work: 'MND'},
+instances: 1, word: 'Schooldays\'', work: 'MND'},
+instances: 1, word: 'Schooling', work: 'MND'},
+instances: 1, word: 'Scornful', work: 'MND'},
+instances: 1, word: 'Scorning', work: 'MND'},
+instances: 1, word: 'Scorns', work: 'MND'},
+instances: 1, word: 'Screech-owl', work: 'MND'},
+instances: 1, word: 'Screeching', work: 'MND'},
+instances: 1, word: 'Scrip', work: 'MND'},
+instances: 1, word: 'Sea-maid\'s', work: 'MND'},
+instances: 1, word: 'Seal', work: 'MND'},
+instances: 1, word: 'Sealing', work: 'MND'},
+instances: 1, word: 'Season', work: 'MND'},
+instances: 1, word: 'Seasons', work: 'MND'},
+instances: 1, word: 'Seat', work: 'MND'},
+instances: 1, word: 'Secretly', work: 'MND'},
+instances: 1, word: 'Seeing', work: 'MND'},
+instances: 1, word: 'Seeking', work: 'MND'},
+instances: 1, word: 'Seek\'st', work: 'MND'},
+instances: 1, word: 'Seething', work: 'MND'},
+instances: 1, word: 'Self-affairs', work: 'MND'},
+instances: 1, word: 'Senseless', work: 'MND'},
+instances: 1, word: 'Sensible', work: 'MND'},
+instances: 1, word: 'Sentences', work: 'MND'},
+instances: 1, word: 'Sentinel', work: 'MND'},
+instances: 1, word: 'Separation', work: 'MND'},
+instances: 1, word: 'Serpent\'s', work: 'MND'},
+instances: 1, word: 'Servant', work: 'MND'},
+instances: 1, word: 'Services', work: 'MND'},
+instances: 1, word: 'Setting', work: 'MND'},
+instances: 1, word: 'Seven', work: 'MND'},
+instances: 1, word: 'Sever', work: 'MND'},
+instances: 1, word: 'Several', work: 'MND'},
+instances: 1, word: 'Shadow', work: 'MND'},
+instances: 1, word: 'Shady', work: 'MND'},
+instances: 1, word: 'Shaft', work: 'MND'},
+instances: 1, word: 'Shake', work: 'MND'},
+instances: 1, word: 'Shallowest', work: 'MND'},
+instances: 1, word: 'Shames', work: 'MND'},
+instances: 1, word: 'Shapes', work: 'MND'},
+instances: 1, word: 'Shaping', work: 'MND'},
+instances: 1, word: 'Shared', work: 'MND'},
+instances: 1, word: 'Sharp', work: 'MND'},
+instances: 1, word: 'Shears', work: 'MND'},
+instances: 1, word: 'Shed', work: 'MND'},
+instances: 1, word: 'Sheen', work: 'MND'},
+instances: 1, word: 'Shepherd\'s', work: 'MND'},
+instances: 1, word: 'Shifting', work: 'MND'},
+instances: 1, word: 'Shining', work: 'MND'},
+instances: 1, word: 'Shiver', work: 'MND'},
+instances: 1, word: 'Shivering', work: 'MND'},
+instances: 1, word: 'Shocks', work: 'MND'},
+instances: 1, word: 'Shoes', work: 'MND'},
+instances: 1, word: 'Shone', work: 'MND'},
+instances: 1, word: 'Shore', work: 'MND'},
+instances: 1, word: 'Shot', work: 'MND'},
+instances: 1, word: 'Showed', work: 'MND'},
+instances: 1, word: 'Shown', work: 'MND'},
+instances: 1, word: 'Shows', work: 'MND'},
+instances: 1, word: 'Show\'rs', work: 'MND'},
+instances: 1, word: 'Shrewishness', work: 'MND'},
+instances: 1, word: 'Shriek', work: 'MND'},
+instances: 1, word: 'Shroud', work: 'MND'},
+instances: 1, word: 'Shun', work: 'MND'},
+instances: 1, word: 'Shuts', work: 'MND'},
+instances: 1, word: 'Sides', work: 'MND'},
+instances: 1, word: 'Siege', work: 'MND'},
+instances: 1, word: 'Signify', work: 'MND'},
+instances: 1, word: 'Signior', work: 'MND'},
+instances: 1, word: 'Silently', work: 'MND'},
+instances: 1, word: 'Silk', work: 'MND'},
+instances: 1, word: 'Silliest', work: 'MND'},
+instances: 1, word: 'Simpleness', work: 'MND'},
+instances: 1, word: 'Simply', work: 'MND'},
+instances: 1, word: 'Singer', work: 'MND'},
+instances: 1, word: 'Sinister', work: 'MND'},
+instances: 1, word: 'Sink', work: 'MND'},
+instances: 1, word: 'Sister', work: 'MND'},
+instances: 1, word: 'Sisters', work: 'MND'},
+instances: 1, word: 'Sisters\'', work: 'MND'},
+instances: 1, word: 'Sitting', work: 'MND'},
+instances: 1, word: 'Six', work: 'MND'},
+instances: 1, word: 'Skies', work: 'MND'},
+instances: 1, word: 'Skim', work: 'MND'},
+instances: 1, word: 'Skin', work: 'MND'},
+instances: 1, word: 'Skip', work: 'MND'},
+instances: 1, word: 'Sleek', work: 'MND'},
+instances: 1, word: 'Sleepers', work: 'MND'},
+instances: 1, word: 'Sleeps', work: 'MND'},
+instances: 1, word: 'Sleeves', work: 'MND'},
+instances: 1, word: 'Slight', work: 'MND'},
+instances: 1, word: 'Slip', work: 'MND'},
+instances: 1, word: 'Slumbered', work: 'MND'},
+instances: 1, word: 'Smallest', work: 'MND'},
+instances: 1, word: 'Smartly', work: 'MND'},
+instances: 1, word: 'Smile', work: 'MND'},
+instances: 1, word: 'Smiles', work: 'MND'},
+instances: 1, word: 'Smiling', work: 'MND'},
+instances: 1, word: 'Snail', work: 'MND'},
+instances: 1, word: 'Snake', work: 'MND'},
+instances: 1, word: 'Snakes', work: 'MND'},
+instances: 1, word: 'Snatch', work: 'MND'},
+instances: 1, word: 'Snores', work: 'MND'},
+instances: 1, word: 'Snuff', work: 'MND'},
+instances: 1, word: 'Society', work: 'MND'},
+instances: 1, word: 'Soft', work: 'MND'},
+instances: 1, word: 'Sojourned', work: 'MND'},
+instances: 1, word: 'Solemnities', work: 'MND'},
+instances: 1, word: 'Solemnly', work: 'MND'},
+instances: 1, word: 'Sorrow', work: 'MND'},
+instances: 1, word: 'Sorting', work: 'MND'},
+instances: 1, word: 'Soul\'s', work: 'MND'},
+instances: 1, word: 'Sovereignty', work: 'MND'},
+instances: 1, word: 'Spangled', work: 'MND'},
+instances: 1, word: 'Spare', work: 'MND'},
+instances: 1, word: 'Sparrow', work: 'MND'},
+instances: 1, word: 'Spartan', work: 'MND'},
+instances: 1, word: 'Speakest', work: 'MND'},
+instances: 1, word: 'Speaks', work: 'MND'},
+instances: 1, word: 'Spend', work: 'MND'},
+instances: 1, word: 'Spheres', work: 'MND'},
+instances: 1, word: 'Sphery', work: 'MND'},
+instances: 1, word: 'Spicèd', work: 'MND'},
+instances: 1, word: 'Spiders', work: 'MND'},
+instances: 1, word: 'Spied', work: 'MND'},
+instances: 1, word: 'Spinners', work: 'MND'},
+instances: 1, word: 'Spleen', work: 'MND'},
+instances: 1, word: 'Split', work: 'MND'},
+instances: 1, word: 'Spoken', work: 'MND'},
+instances: 1, word: 'Sports', work: 'MND'},
+instances: 1, word: 'Spots', work: 'MND'},
+instances: 1, word: 'Spread', work: 'MND'},
+instances: 1, word: 'Square', work: 'MND'},
+instances: 1, word: 'Squash', work: 'MND'},
+instances: 1, word: 'Squire', work: 'MND'},
+instances: 1, word: 'Squirrel\'s', work: 'MND'},
+instances: 1, word: 'Stage', work: 'MND'},
+instances: 1, word: 'Stain', work: 'MND'},
+instances: 1, word: 'Stained', work: 'MND'},
+instances: 1, word: 'Stalls', work: 'MND'},
+instances: 1, word: 'Stamp', work: 'MND'},
+instances: 1, word: 'Stand\'st', work: 'MND'},
+instances: 1, word: 'Starry', work: 'MND'},
+instances: 1, word: 'Starve', work: 'MND'},
+instances: 1, word: 'State', work: 'MND'},
+instances: 1, word: 'Statures', work: 'MND'},
+instances: 1, word: 'Stayeth', work: 'MND'},
+instances: 1, word: 'Steel', work: 'MND'},
+instances: 1, word: 'Stem', work: 'MND'},
+instances: 1, word: 'Stepdame', work: 'MND'},
+instances: 1, word: 'Stern', work: 'MND'},
+instances: 1, word: 'Stick', work: 'MND'},
+instances: 1, word: 'Stirring', work: 'MND'},
+instances: 1, word: 'Stomach', work: 'MND'},
+instances: 1, word: 'Stone', work: 'MND'},
+instances: 1, word: 'Stool', work: 'MND'},
+instances: 1, word: 'Stop', work: 'MND'},
+instances: 1, word: 'Stories', work: 'MND'},
+instances: 1, word: 'Storms', work: 'MND'},
+instances: 1, word: 'Straw-color', work: 'MND'},
+instances: 1, word: 'Stray', work: 'MND'},
+instances: 1, word: 'Streak', work: 'MND'},
+instances: 1, word: 'Streams', work: 'MND'},
+instances: 1, word: 'Strength', work: 'MND'},
+instances: 1, word: 'Strife', work: 'MND'},
+instances: 1, word: 'Strings', work: 'MND'},
+instances: 1, word: 'Strongest', work: 'MND'},
+instances: 1, word: 'Stubborn', work: 'MND'},
+instances: 1, word: 'Study', work: 'MND'},
+instances: 1, word: 'Stuff', work: 'MND'},
+instances: 1, word: 'Stung', work: 'MND'},
+instances: 1, word: 'Sucked', work: 'MND'},
+instances: 1, word: 'Sucking', work: 'MND'},
+instances: 1, word: 'Suffer', work: 'MND'},
+instances: 1, word: 'Sunder', work: 'MND'},
+instances: 1, word: 'Sunny', work: 'MND'},
+instances: 1, word: 'Superpraise', work: 'MND'},
+instances: 1, word: 'Supposed', work: 'MND'},
+instances: 1, word: 'Surgeon', work: 'MND'},
+instances: 1, word: 'Swagg\'ring', work: 'MND'},
+instances: 1, word: 'Swain', work: 'MND'},
+instances: 1, word: 'Sway', work: 'MND'},
+instances: 1, word: 'Swayed', work: 'MND'},
+instances: 1, word: 'Sweat', work: 'MND'},
+instances: 1, word: 'Sweet-faced', work: 'MND'},
+instances: 1, word: 'Sweetest', work: 'MND'},
+instances: 1, word: 'Sweetmeats', work: 'MND'},
+instances: 1, word: 'Swell', work: 'MND'},
+instances: 1, word: 'Swim', work: 'MND'},
+instances: 1, word: 'Swimming', work: 'MND'},
+instances: 1, word: 'Swoon', work: 'MND'},
+instances: 1, word: 'Swords', work: 'MND'},
+instances: 1, word: 'Swore', work: 'MND'},
+instances: 1, word: 'Sympathy', work: 'MND'},
+instances: 1, word: 'Tak\'st', work: 'MND'},
+instances: 1, word: 'Tales', work: 'MND'},
+instances: 1, word: 'Talk', work: 'MND'},
+instances: 1, word: 'Tame', work: 'MND'},
+instances: 1, word: 'Tangled', work: 'MND'},
+instances: 1, word: 'Tarrying', work: 'MND'},
+instances: 1, word: 'Tartar', work: 'MND'},
+instances: 1, word: 'Tartar\'s', work: 'MND'},
+instances: 1, word: 'Task', work: 'MND'},
+instances: 1, word: 'Taunted', work: 'MND'},
+instances: 1, word: 'Taurus\'', work: 'MND'},
+instances: 1, word: 'Tawny', work: 'MND'},
+instances: 1, word: 'Team', work: 'MND'},
+instances: 1, word: 'Tearing', work: 'MND'},
+instances: 1, word: 'Tempest', work: 'MND'},
+instances: 1, word: 'Temples', work: 'MND'},
+instances: 1, word: 'Tempt', work: 'MND'},
+instances: 1, word: 'Tempting', work: 'MND'},
+instances: 1, word: 'Tend', work: 'MND'},
+instances: 1, word: 'Tends', work: 'MND'},
+instances: 1, word: 'Terms', work: 'MND'},
+instances: 1, word: 'Terribly', work: 'MND'},
+instances: 1, word: 'Testy', work: 'MND'},
+instances: 1, word: 'That\'s', work: 'MND'},
+instances: 1, word: 'Thebes', work: 'MND'},
+instances: 1, word: 'Theirs', work: 'MND'},
+instances: 1, word: 'Theme', work: 'MND'},
+instances: 1, word: 'Thereby', work: 'MND'},
+instances: 1, word: 'Therefor', work: 'MND'},
+instances: 1, word: 'Therein', work: 'MND'},
+instances: 1, word: 'Thereof', work: 'MND'},
+instances: 1, word: 'Thessalian', work: 'MND'},
+instances: 1, word: 'Thessaly', work: 'MND'},
+instances: 1, word: 'Thick-skin', work: 'MND'},
+instances: 1, word: 'Thief', work: 'MND'},
+instances: 1, word: 'Thighs', work: 'MND'},
+instances: 1, word: 'Thin', work: 'MND'},
+instances: 1, word: 'Thinks', work: 'MND'},
+instances: 1, word: 'Third', work: 'MND'},
+instances: 1, word: 'Thistle', work: 'MND'},
+instances: 1, word: 'Thither', work: 'MND'},
+instances: 1, word: 'Thorny', work: 'MND'},
+instances: 1, word: 'Thousand', work: 'MND'},
+instances: 1, word: 'Thracian', work: 'MND'},
+instances: 1, word: 'Threatened', work: 'MND'},
+instances: 1, word: 'Threats', work: 'MND'},
+instances: 1, word: 'Three-foot', work: 'MND'},
+instances: 1, word: 'Thrice-blessèd', work: 'MND'},
+instances: 1, word: 'Thrice-three', work: 'MND'},
+instances: 1, word: 'Thronèd', work: 'MND'},
+instances: 1, word: 'Throstle', work: 'MND'},
+instances: 1, word: 'Throttle', work: 'MND'},
+instances: 1, word: 'Throw', work: 'MND'},
+instances: 1, word: 'Throws', work: 'MND'},
+instances: 1, word: 'Thrum', work: 'MND'},
+instances: 1, word: 'Thunder', work: 'MND'},
+instances: 1, word: 'Thyme', work: 'MND'},
+instances: 1, word: 'Tickle', work: 'MND'},
+instances: 1, word: 'Tie', work: 'MND'},
+instances: 1, word: 'Tiger', work: 'MND'},
+instances: 1, word: 'Tipsy', work: 'MND'},
+instances: 1, word: 'Tiring-house', work: 'MND'},
+instances: 1, word: 'Title', work: 'MND'},
+instances: 1, word: 'Toiled', work: 'MND'},
+instances: 1, word: 'Tokens', work: 'MND'},
+instances: 1, word: 'Told\'st', work: 'MND'},
+instances: 1, word: 'Tom', work: 'MND'},
+instances: 1, word: 'Tongs', work: 'MND'},
+instances: 1, word: 'Tongue-tied', work: 'MND'},
+instances: 1, word: 'Tonight', work: 'MND'},
+instances: 1, word: 'Topples', work: 'MND'},
+instances: 1, word: 'Torment', work: 'MND'},
+instances: 1, word: 'Torn', work: 'MND'},
+instances: 1, word: 'Torturing', work: 'MND'},
+instances: 1, word: 'Touching', work: 'MND'},
+instances: 1, word: 'Toward', work: 'MND'},
+instances: 1, word: 'Toys', work: 'MND'},
+instances: 1, word: 'Trace', work: 'MND'},
+instances: 1, word: 'Traders', work: 'MND'},
+instances: 1, word: 'Tragedy', work: 'MND'},
+instances: 1, word: 'Train', work: 'MND'},
+instances: 1, word: 'Transfigured', work: 'MND'},
+instances: 1, word: 'Transformèd', work: 'MND'},
+instances: 1, word: 'Transparent', work: 'MND'},
+instances: 1, word: 'Transported', work: 'MND'},
+instances: 1, word: 'Transpose', work: 'MND'},
+instances: 1, word: 'Treats', work: 'MND'},
+instances: 1, word: 'Trial', work: 'MND'},
+instances: 1, word: 'Tricks', work: 'MND'},
+instances: 1, word: 'Trim', work: 'MND'},
+instances: 1, word: 'Triple', work: 'MND'},
+instances: 1, word: 'Trippingly', work: 'MND'},
+instances: 1, word: 'Triumph', work: 'MND'},
+instances: 1, word: 'Triumphant', work: 'MND'},
+instances: 1, word: 'Triumphantly', work: 'MND'},
+instances: 1, word: 'Trojan', work: 'MND'},
+instances: 1, word: 'Troop', work: 'MND'},
+instances: 1, word: 'True-love', work: 'MND'},
+instances: 1, word: 'True-love\'s', work: 'MND'},
+instances: 1, word: 'Truer', work: 'MND'},
+instances: 1, word: 'Turf', work: 'MND'},
+instances: 1, word: 'Turnèd', work: 'MND'},
+instances: 1, word: 'Twain', work: 'MND'},
+instances: 1, word: 'Twelve', work: 'MND'},
+instances: 1, word: 'Tyrant\'s', work: 'MND'},
+instances: 1, word: 'Ugly', work: 'MND'},
+instances: 1, word: 'Unbreathed', work: 'MND'},
+instances: 1, word: 'Uncouple', work: 'MND'},
+instances: 1, word: 'Undergo', work: 'MND'},
+instances: 1, word: 'Undertake', work: 'MND'},
+instances: 1, word: 'Undo', work: 'MND'},
+instances: 1, word: 'Unearnèd', work: 'MND'},
+instances: 1, word: 'Uneven', work: 'MND'},
+instances: 1, word: 'Unfold', work: 'MND'},
+instances: 1, word: 'Unfolds', work: 'MND'},
+instances: 1, word: 'Ungrateful', work: 'MND'},
+instances: 1, word: 'Unhardened', work: 'MND'},
+instances: 1, word: 'Unheedy', work: 'MND'},
+instances: 1, word: 'Union', work: 'MND'},
+instances: 1, word: 'Unkind', work: 'MND'},
+instances: 1, word: 'Unkindly', work: 'MND'},
+instances: 1, word: 'Unknown', work: 'MND'},
+instances: 1, word: 'Unless', work: 'MND'},
+instances: 1, word: 'Unloved', work: 'MND'},
+instances: 1, word: 'Unsay', work: 'MND'},
+instances: 1, word: 'Unwishèd', work: 'MND'},
+instances: 1, word: 'Unworthy', work: 'MND'},
+instances: 1, word: 'Upbraid', work: 'MND'},
+instances: 1, word: 'Urged', work: 'MND'},
+instances: 1, word: 'Usual', work: 'MND'},
+instances: 1, word: 'Usèd', work: 'MND'},
+instances: 1, word: 'Utter', work: 'MND'},
+instances: 1, word: 'Uttering', work: 'MND'},
+instances: 1, word: 'Valentine', work: 'MND'},
+instances: 1, word: 'Valley', work: 'MND'},
+instances: 1, word: 'Vanished', work: 'MND'},
+instances: 1, word: 'Vantage', work: 'MND'},
+instances: 1, word: 'Vast', work: 'MND'},
+instances: 1, word: 'Vaward', work: 'MND'},
+instances: 1, word: 'Venturous', work: 'MND'},
+instances: 1, word: 'Venus\'', work: 'MND'},
+instances: 1, word: 'Verses', work: 'MND'},
+instances: 1, word: 'Versing', work: 'MND'},
+instances: 1, word: 'Vestal', work: 'MND'},
+instances: 1, word: 'Videlicet', work: 'MND'},
+instances: 1, word: 'Villagery', work: 'MND'},
+instances: 1, word: 'Violet', work: 'MND'},
+instances: 1, word: 'Virginity', work: 'MND'},
+instances: 1, word: 'Virtue\'s', work: 'MND'},
+instances: 1, word: 'Visited', work: 'MND'},
+instances: 1, word: 'Vixen', work: 'MND'},
+instances: 1, word: 'Voices', work: 'MND'},
+instances: 1, word: 'Voyage', work: 'MND'},
+instances: 1, word: 'Waggish', work: 'MND'},
+instances: 1, word: 'Wakes', work: 'MND'},
+instances: 1, word: 'Walk', work: 'MND'},
+instances: 1, word: 'Walls', work: 'MND'},
+instances: 1, word: 'Wanderers', work: 'MND'},
+instances: 1, word: 'Wane', work: 'MND'},
+instances: 1, word: 'Wanes', work: 'MND'},
+instances: 1, word: 'Wanting', work: 'MND'},
+instances: 1, word: 'Wants', work: 'MND'},
+instances: 1, word: 'Warning', work: 'MND'},
+instances: 1, word: 'Warrant', work: 'MND'},
+instances: 1, word: 'Warrior', work: 'MND'},
+instances: 1, word: 'Wars', work: 'MND'},
+instances: 1, word: 'Washed', work: 'MND'},
+instances: 1, word: 'Washes', work: 'MND'},
+instances: 1, word: 'Waste', work: 'MND'},
+instances: 1, word: 'Watch', work: 'MND'},
+instances: 1, word: 'Wax', work: 'MND'},
+instances: 1, word: 'Ways', work: 'MND'},
+instances: 1, word: 'Weapons', work: 'MND'},
+instances: 1, word: 'Weaving', work: 'MND'},
+instances: 1, word: 'Weed', work: 'MND'},
+instances: 1, word: 'Weeds', work: 'MND'},
+instances: 1, word: 'Weep', work: 'MND'},
+instances: 1, word: 'Welcomes', work: 'MND'},
+instances: 1, word: 'Welkin', work: 'MND'},
+instances: 1, word: 'Wend', work: 'MND'},
+instances: 1, word: 'Went', work: 'MND'},
+instances: 1, word: 'West', work: 'MND'},
+instances: 1, word: 'Wheat', work: 'MND'},
+instances: 1, word: 'Whereat', work: 'MND'},
+instances: 1, word: 'Wherein', work: 'MND'},
+instances: 1, word: 'Whereon', work: 'MND'},
+instances: 1, word: 'Wheresoe\'er', work: 'MND'},
+instances: 1, word: 'Whereto', work: 'MND'},
+instances: 1, word: 'Whiles', work: 'MND'},
+instances: 1, word: 'Whip', work: 'MND'},
+instances: 1, word: 'Whistling', work: 'MND'},
+instances: 1, word: 'Whit', work: 'MND'},
+instances: 1, word: 'Widow', work: 'MND'},
+instances: 1, word: 'Wildfowl', work: 'MND'},
+instances: 1, word: 'Willful', work: 'MND'},
+instances: 1, word: 'Winds', work: 'MND'},
+instances: 1, word: 'Winged', work: 'MND'},
+instances: 1, word: 'Wink', work: 'MND'},
+instances: 1, word: 'Wise', work: 'MND'},
+instances: 1, word: 'Wisest', work: 'MND'},
+instances: 1, word: 'Wisher\'s', work: 'MND'},
+instances: 1, word: 'Wishes', work: 'MND'},
+instances: 1, word: 'Withdraw', work: 'MND'},
+instances: 1, word: 'Withered', work: 'MND'},
+instances: 1, word: 'Withholds', work: 'MND'},
+instances: 1, word: 'Witnesseth', work: 'MND'},
+instances: 1, word: 'Wits', work: 'MND'},
+instances: 1, word: 'Wittiest', work: 'MND'},
+instances: 1, word: 'Womb', work: 'MND'},
+instances: 1, word: 'Women', work: 'MND'},
+instances: 1, word: 'Wondrous', work: 'MND'},
+instances: 1, word: 'Woodbirds', work: 'MND'},
+instances: 1, word: 'Worlds', work: 'MND'},
+instances: 1, word: 'Wormy', work: 'MND'},
+instances: 1, word: 'Worser', work: 'MND'},
+instances: 1, word: 'Worships', work: 'MND'},
+instances: 1, word: 'Worship\'s', work: 'MND'},
+instances: 1, word: 'Worth', work: 'MND'},
+instances: 1, word: 'Worthy', work: 'MND'},
+instances: 1, word: 'Wrap', work: 'MND'},
+instances: 1, word: 'Wrath', work: 'MND'},
+instances: 1, word: 'Wren', work: 'MND'},
+instances: 1, word: 'Wretch', work: 'MND'},
+instances: 1, word: 'Wretchedness', work: 'MND'},
+instances: 1, word: 'Writ', work: 'MND'},
+instances: 1, word: 'Wronged', work: 'MND'},
+instances: 1, word: 'Wrongs', work: 'MND'},
+instances: 1, word: 'Ye', work: 'MND'},
+instances: 1, word: 'Years', work: 'MND'},
+instances: 1, word: 'Yielders', work: 'MND'},
+instances: 1, word: 'Yielding', work: 'MND'},
+instances: 1, word: 'Yields', work: 'MND'},
+instances: 1, word: 'Yon', work: 'MND'},
+instances: 1, word: '\'nointed', work: 'MND'},
+instances: 1, word: '\'r', work: 'MND'},
+instances: 1, word: '\'scape', work: 'MND'},
+instances: 1, word: '\'scaped', work: 'MND'},

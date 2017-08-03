@@ -1,18 +1,13 @@
-const xpath = require('xpath')
 const dom = require('xmldom').DOMParser
 const xml2js = require('xml2js')
-const parseString = require('xml2js').parseString
 const fs = require('file-system')
 const playList = require('../data-sources/playList')
-const createQueryPath = require('./construct-path').createQueryPath
-const getTargetFile = require('./construct-path').getTargetFile
-const parser = new xml2js.Parser()
 const canon = playList.length // 42
 const path = require('path')
 
 
 // ===== LOAD AN XML FILE ✅ =====
-function loadXml (playXMLName) {
+function loadXml(playXMLName) {
   var playXML = (path.join(__dirname, '../data-sources/') + playXMLName)
   let targetFile = fs.readFileSync(playXML, 'utf-8')
   let doc = new dom().parseFromString(targetFile)
@@ -21,17 +16,17 @@ function loadXml (playXMLName) {
 
 
 // ===== RANDOM NUMBER GENERATOR ✅ =====
-function randomNum (limit) {
-  let max = Math.floor (limit)
-  let random = Math.floor (Math.random() * (max - 1 + 1)) + 1
+function randomNum(limit) {
+  let max = Math.floor(limit)
+  let random = Math.floor(Math.random() * (max - 1 + 1)) + 1
   return random
-} // randomNum
+}
 
 
 // ===== GET A RANDOM PLAY ✅ =====
 function getRandomPlay() {
   return playList[randomNum(canon)]
-} // getRandomPlay
+}
 
 
 // ===== RANDOMIZE AN ARRAY (FISHER-YATES) ✅ =====
@@ -77,7 +72,7 @@ function buildConcordOptions(objArray, num) {
     }
   }
   return Object.values(trackingObject).slice(0,num)
-} // buildConcordOptions
+}
 
 
 module.exports = {

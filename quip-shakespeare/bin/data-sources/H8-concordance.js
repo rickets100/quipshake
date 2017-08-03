@@ -1,3535 +1,3535 @@
-767: The
-666: And
-579: To
-553: I
-497: Of
-491: You
-417: A
-373: My
-324: That
-282: In
-269: Your
-256: This
-247: His
-236: Me
-203: For
-201: He
-197: Is
-192: Not
-187: Be
-187: Have
-183: It
-182: Him
-164: With
-157: All
-156: As
-133: But
-130: Are
-128: So
-124: Lord
-120: By
-118: Good
-112: What
-110: Shall
-105: They
-101: Her
-100: No
-99: Will
-98: Now
-95: King
-93: Th’
-90: From
-88: Was
-85: Would
-83: More
-83: Which
-82: If
-80: Sir
-79: We
-76: Do
-76: On
-75: Our
-70: Their
-66: Am
-66: May
-65: ’em
-65: ’tis
-64: How
-63: At
-62: One
-61: Know
-61: Man
-61: Or
-60: There
-58: Yet
-57: Must
-57: Out
-52: Such
-51: Grace
-51: Let
-50: An
-50: Than
-50: These
-50: Upon
-50: Well
-50: When
-50: ’t
-49: Say
-49: She
-49: Too
-48: Had
-48: Most
-47: Come
-47: Noble
-46: Cardinal
-46: Has
-46: Like
-45: Heaven
-45: Honor
-45: Much
-45: Then
-44: Did
-44: Make
-43: Pray
-43: Should
-42: Ever
-42: Us
-40: Here
-40: See
-39: Great
-39: Speak
-39: Take
-38: Were
-37: Lords
-36: Can
-36: I’ll
-36: Queen
-35: Made
-35: Where
-35: Who
-34: King’s
-34: Think
-33: Men
-33: Mine
-33: Never
-33: O
-33: Those
-32: Give
-32: Into
-32: Lady
-32: Little
-32: Thy
-31: Business
-31: Leave
-31: Some
-30: O’
-29: Thus
-29: Way
-28: Against
-28: Duke
-28: Hear
-28: Time
-27: Again
-27: Highness
-26: God
-26: Life
-26: Please
-25: Before
-25: Find
-25: Go
-25: Madam
-25: Own
-25: Them
-25: Thou
-24: Conscience
-24: Could
-24: Hath
-24: Long
-24: Many
-23: Fair
-23: Far
-23: Fear
-23: Love
-23: Place
-23: Truth
-23: Up
-22: State
-21: Cause
-21: Day
-21: Nor
-21: Once
-21: Still
-21: Tell
-20: Been
-20: Cannot
-20: Dare
-20: Done
-20: First
-20: Heart
-20: Master
-20: Peace
-20: Poor
-20: Yes
-19: Bear
-19: Court
-19: Full
-19: Sent
-19: Soul
-19: Stand
-19: Thomas
-19: World
-18: Hand
-18: I’
-18: Thee
-18: There’s
-18: Till
-18: True
-18: Woman
-17: Any
-17: Being
-17: Best
-17: Cromwell
-17: Does
-17: Ladies
-17: Thank
-17: Two
-16: About
-16: Fall
-16: Further
-16: Late
-16: Other
-16: Person
-16: Royal
-15: After
-15: Better
-15: Else
-15: Name
-15: Pleasure
-15: Put
-15: Said
-15: Without
-14: Both
-14: Every
-14: Friend
-14: Friends
-14: High
-14: Hour
-14: Indeed
-14: Last
-14: Live
-14: Malice
-14: Nay
-14: None
-14: Play
-14: Though
-14: Together
-14: Tongue
-14: Under
-14: Yourself
-13: Away
-13: Buckingham
-13: End
-13: Gave
-13: He’s
-13: Might
-13: New
-13: Old
-13: Only
-13: Prayers
-13: Present
-13: Saw
-13: Sure
-13: Whose
-13: Wish
-13: Words
-12: Came
-12: England
-12: Father
-12: Feel
-12: Fell
-12: Fellow
-12: Found
-12: Ha
-12: Himself
-12: Holy
-12: Honest
-12: Hope
-12: Lay
-12: Learnèd
-12: Makes
-12: Near
-12: Part
-12: Patience
-12: Pity
-12: Power
-12: Reverend
-12: Sweet
-12: Very
-12: Whom
-12: Why
-11: Back
-11: Believe
-11: Bold
-11: Bring
-11: Call
-11: Canterbury
-11: Down
-11: Farewell
-11: Goodness
-11: Half
-11: Heard
-11: Highness’
-11: Kingdom
-11: Mind
-11: Nature
-11: Service
-11: Since
-11: That’s
-11: You’re
-10: Alas
-10: Among
-10: Archbishop
-10: Brought
-10: Care
-10: Comes
-10: Council
-10: Counsel
-10: Death
-10: Each
-10: Faith
-10: Favor
-10: French
-10: Gentle
-10: Given
-10: Griffith
-10: Keep
-10: Living
-10: Mean
-10: Myself
-10: Nothing
-10: Ones
-10: Private
-10: Right
-10: Rome
-10: Set
-10: Sit
-10: Thanks
-10: Welcome
-10: Wife
-10: Women
-10: ’s
-9: Bless
-9: Comfort
-9: Commission
-9: Deserve
-9: Door
-9: Doubt
-9: Duty
-9: English
-9: Even
-9: Forgive
-9: Glad
-9: Gone
-9: Graces
-9: Happy
-9: Hearts
-9: Justice
-9: Known
-9: Left
-9: Let’s
-9: Look
-9: Loved
-9: Next
-9: Night
-9: Off
-9: Pass
-9: Point
-9: Read
-9: Remember
-9: Sad
-9: Subject
-9: Therefore
-9: Times
-9: Tower
-9: Trial
-9: Virtue
-9: Witness
-9: Yea
-9: Young
-8: Above
-8: Almost
-8: Ay
-8: Charge
-8: Christian
-8: Cry
-8: Devil
-8: Eye
-8: Eyes
-8: Fears
-8: Fit
-8: Forever
-8: France
-8: Free
-8: Gentleman
-8: Glory
-8: Greatness
-8: Grow
-8: Head
-8: Hold
-8: Honesty
-8: Honors
-8: Ill
-8: Judge
-8: Land
-8: Lovell
-8: Marriage
-8: Meant
-8: Merry
-8: Obedience
-8: Princes
-8: Show
-8: Sick
-8: Something
-8: Sorry
-8: Strange
-8: Sun
-8: Things
-8: Thought
-8: Thousand
-8: Turn
-7: Able
-7: Already
-7: Answer
-7: Attend
-7: Beauty
-7: Bid
-7: Blessings
-7: Blood
-7: Called
-7: Cardinal’s
-7: Certain
-7: Charity
-7: Cranmer
-7: Daughter
-7: Deliver
-7: Divorce
-7: Emperor
-7: Envy
-7: Face
-7: Follows
-7: God’s
-7: Got
-7: Heads
-7: Heartily
-7: Held
-7: Joy
-7: Judgment
-7: Katherine
-7: Knew
-7: Knows
-7: Law
-7: Lordship
-7: Lost
-7: Loves
-7: Majesty
-7: Met
-7: News
-7: Ne’er
-7: Office
-7: Open
-7: O’er
-7: Pleasures
-7: Presence
-7: Prithee
-7: Proceed
-7: Prove
-7: Ready
-7: Sake
-7: Servant
-7: Sound
-7: Spoke
-7: Sudden
-7: Use
-7: What’s
-7: Whole
-7: Worthy
-7: York
-7: You’ll
-6: Alone
-6: Although
-6: Angels
-6: Anger
-6: Another
-6: Art
-6: Bed
-6: Beseech
-6: Between
-6: Betwixt
-6: Beyond
-6: Bound
-6: Burden
-6: Clear
-6: Coming
-6: Commanded
-6: Company
-6: Course
-6: Crown
-6: Cure
-6: Days
-6: Earth
-6: Either
-6: Fail
-6: Falls
-6: Few
-6: Fortune
-6: Freely
-6: General
-6: Gentlemen
-6: Gracious
-6: Hands
-6: Hast
-6: Heed
-6: Henry
-6: Hither
-6: Hopes
-6: House
-6: Laid
-6: Lead
-6: Least
-6: Lie
-6: Looks
-6: Lose
-6: Mercy
-6: Morning
-6: Music
-6: Note
-6: Paper
-6: Pardon
-6: People
-6: Prince
-6: Princess
-6: Respect
-6: Rest
-6: Same
-6: Save
-6: Seal
-6: Shame
-6: Sovereign
-6: Stay
-6: Stood
-6: Talk
-6: Title
-6: Truly
-6: T’
-6: Unto
-6: Virtues
-6: Voice
-6: Weak
-6: While
-6: Winchester
-6: Wisdom
-6: Wolsey
-6: Work
-6: Worst
-6: Wrong
-6: ’twill
-5: Affairs
-5: Allowed
-5: Amen
-5: Anne
-5: Anon
-5: Appear
-5: Ask
-5: Banquet
-5: Become
-5: Break
-5: Cast
-5: Chamber
-5: Chamberlain
-5: Charles
-5: Close
-5: Coronation
-5: Corrupt
-5: Creature
-5: Cried
-5: Dear
-5: Desire
-5: Draw
-5: Duchess
-5: Earl
-5: Easy
-5: Ends
-5: Enemies
-5: Ere
-5: False
-5: Finger
-5: Follow
-5: Followed
-5: Fool
-5: Forth
-5: Forward
-5: Get
-5: Guilty
-5: Haste
-5: Having
-5: Health
-5: Humble
-5: Humbly
-5: Integrity
-5: Issue
-5: It’s
-5: Just
-5: Kind
-5: Language
-5: Load
-5: Longer
-5: Main
-5: Marry
-5: Mouth
-5: Moved
-5: Needs
-5: Neither
-5: Norfolk
-5: Oft
-5: Opinion
-5: Pleased
-5: Pomp
-5: Pope
-5: Presently
-5: Pride
-5: Priest
-5: Promises
-5: Queen’s
-5: Quiet
-5: Require
-5: Ruin
-5: Run
-5: Scruple
-5: Secretary
-5: Seek
-5: Sharp
-5: Short
-5: Sin
-5: Sleep
-5: Sorrow
-5: Stands
-5: Strangely
-5: Suit
-5: Swear
-5: Ta’en
-5: Tears
-5: Tender
-5: Thoughts
-5: Three
-5: Through
-5: Tongues
-5: Virtuous
-5: Weep
-5: Weighty
-5: Wench
-5: Wherein
-5: Who’s
-5: Win
-5: Wise
-5: Within
-5: Wretched
-5: Writ
-4: Act
-4: Advise
-4: Along
-4: Ambassador
-4: Ambition
-4: Arms
-4: Articles
-4: Behold
-4: Beholding
-4: Besides
-4: Bishop
-4: Black
-4: Boy
-4: Boys
-4: Breast
-4: Carry
-4: Child
-4: Chosen
-4: Christendom
-4: Cold
-4: Command
-4: Committed
-4: Confess
-4: Confessor
-4: Content
-4: Contrary
-4: Danger
-4: Dangerous
-4: Dead
-4: Deed
-4: Deny
-4: Desired
-4: Die
-4: Died
-4: Dignities
-4: Displeasure
-4: Doing
-4: Dread
-4: Durst
-4: Earthly
-4: Enough
-4: Entreat
-4: Equal
-4: Fairly
-4: Fall’n
-4: Fathers
-4: Fire
-4: Foreign
-4: Fortunes
-4: Gardiner
-4: Goes
-4: Going
-4: Grave
-4: Greater
-4: Hard
-4: Hate
-4: Hearing
-4: Help
-4: Hence
-4: Hit
-4: Holiness
-4: I’m
-4: Kiss
-4: Labor
-4: Laws
-4: League
-4: Learning
-4: Less
-4: Letter
-4: Letters
-4: Liege
-4: Limbs
-4: Lived
-4: Mad
-4: Manners
-4: Man’s
-4: Mark
-4: Matter
-4: Means
-4: Men’s
-4: Mere
-4: Methinks
-4: Mighty
-4: Mischief
-4: Moment
-4: Monk
-4: Need
-4: Over
-4: Pace
-4: Parted
-4: Parts
-4: Perceive
-4: Persons
-4: Physic
-4: Piece
-4: Princely
-4: Prisoner
-4: Profess
-4: Pronounce
-4: Proud
-4: Question
-4: Reach
-4: Receive
-4: Received
-4: Return
-4: Ring
-4: Rise
-4: Root
-4: Rude
-4: Running
-4: Sands
-4: Sea
-4: Secret
-4: Self
-4: She’s
-4: Showed
-4: Single
-4: Sorrows
-4: Spare
-4: Spirit
-4: Spirits
-4: Story
-4: Strong
-4: Stubborn
-4: Suddenly
-4: Suffer
-4: Surely
-4: Surrey
-4: Surveyor
-4: Thither
-4: Told
-4: Toward
-4: Traitor
-4: Troth
-4: Twenty
-4: Unmannerly
-4: Used
-4: Venture
-4: View
-4: Wait
-4: Walk
-4: Ways
-4: Wealth
-4: Went
-4: Wild
-4: Wishes
-4: Wit
-4: Woe
-4: Worth
-4: Years
-4: ’twas
-3: Abroad
-3: Accuse
-3: Accusers
-3: Actions
-3: Advised
-3: Ah
-3: Alike
-3: Altered
-3: Amongst
-3: Anything
-3: Appeal
-3: Appears
-3: Arise
-3: Ashes
-3: Assure
-3: Aught
-3: Authority
-3: Bar
-3: Barge
-3: Base
-3: Bears
-3: Because
-3: Belong
-3: Bestow
-3: Bitter
-3: Blame
-3: Blessed
-3: Blessèd
-3: Blushing
-3: Body
-3: Born
-3: Bosom
-3: Breach
-3: Breed
-3: Bright
-3: Broke
-3: Broken
-3: Brother
-3: Bullen
-3: Butts
-3: Campeius
-3: Car
-3: Cardinals
-3: Chair
-3: Choice
-3: Christening
-3: Churchman
-3: Comforts
-3: Conduct
-3: Confirm
-3: Continue
-3: Councillor
-3: Counsels
-3: Cruel
-3: Curses
-3: Daily
-3: De
-3: Deep
-3: Difference
-3: Dowager
-3: Dwell
-3: Ear
-3: Ease
-3: Endure
-3: Enemy
-3: Envious
-3: Everything
-3: Evil
-3: Ev’ry
-3: Example
-3: Excuse
-3: Faces
-3: Falling
-3: Fast
-3: Faults
-3: Favors
-3: Feared
-3: Fed
-3: Fellows
-3: Fie
-3: File
-3: Flow
-3: Force
-3: Forsake
-3: Forty
-3: Four
-3: Freeze
-3: Fresh
-3: Gain
-3: Gives
-3: Gold
-3: Grief
-3: Grieve
-3: Growing
-3: Grown
-3: Grows
-3: Guess
-3: Happily
-3: Happiness
-3: Heir
-3: Hell
-3: Home
-3: Hot
-3: Hours
-3: Husband
-3: Innocence
-3: Inventory
-3: Jewel
-3: John
-3: Joyful
-3: Kept
-3: Knaves
-3: Knife
-3: Knowledge
-3: Leaves
-3: Length
-3: Lo
-3: Looked
-3: Loose
-3: Loss
-3: Loyalty
-3: Malicious
-3: Manner
-3: Marchioness
-3: Married
-3: Meditations
-3: Meekness
-3: Meet
-3: Mend
-3: Minister
-3: Miseries
-3: Mistress
-3: Mistress’
-3: Modest
-3: Modesty
-3: Mouths
-3: Naught
-3: Neighbors
-3: Nicholas
-3: Nobility
-3: Nobly
-3: Noise
-3: Nose
-3: Notice
-3: Occasion
-3: Offenses
-3: Offer
-3: Offices
-3: Opinions
-3: Order
-3: Others
-3: Packet
-3: Pages
-3: Particular
-3: Passed
-3: Past
-3: Peck
-3: Pembroke
-3: Penance
-3: Perish
-3: Petition
-3: Practices
-3: Prayed
-3: Press
-3: Promised
-3: Purpose
-3: Puts
-3: Quench
-3: Raised
-3: Rank
-3: Reason
-3: Reasons
-3: Religious
-3: Render
-3: Report
-3: Returned
-3: Rich
-3: Rock
-3: Rose
-3: Ruined
-3: Sacred
-3: Safety
-3: Satisfied
-3: Says
-3: Seems
-3: Seen
-3: Serious
-3: Servants
-3: Served
-3: Sickness
-3: Silence
-3: Sing
-3: Sink
-3: Slept
-3: Smile
-3: Son
-3: Sought
-3: Speech
-3: Spiritual
-3: Spleen
-3: Stir
-3: Stranger
-3: Stronger
-3: Succor
-3: Suffolk
-3: Sweat
-3: Taint
-3: Taken
-3: Taxation
-3: Ten
-3: Thick
-3: Thing
-3: Tied
-3: Tomorrow
-3: Took
-3: Touch
-3: Train
-3: Treason
-3: Trick
-3: Troop
-3: Trumpets
-3: Trust
-3: Understand
-3: Utter
-3: Vanities
-3: Want
-3: Wear
-3: Weary
-3: Weeps
-3: Weighed
-3: Weight
-3: We’ll
-3: Wherefore
-3: Where’s
-3: Whilst
-3: Whither
-3: Wholesome
-3: Willing
-3: Wonder
-3: Wonders
-3: Word
-3: Worse
-3: Year
-3: Yours
-3: You’d
-3: You’ve
-3: Zeal
-2: Abbey
-2: Abbot
-2: Abergavenny
-2: Abhor
-2: Abound
-2: Absolved
-2: Acquaintance
-2: Acquainted
-2: Add
-2: Age
-2: Agreed
-2: Aim
-2: Air
-2: Allay
-2: Allegiance
-2: All’s
-2: Always
-2: Angry
-2: Answered
-2: Appearance
-2: Appeared
-2: Approach
-2: Argue
-2: Asking
-2: Asleep
-2: Aspect
-2: Assembly
-2: Assent
-2: Attached
-2: Awhile
-2: Ax
-2: Bade
-2: Banished
-2: Bark
-2: Bearing
-2: Beaten
-2: Behavior
-2: Behind
-2: Believed
-2: Bestowing
-2: Betray
-2: Bird
-2: Bishops
-2: Bite
-2: Blessedness
-2: Blessing
-2: Blown
-2: Blush
-2: Board
-2: Boldly
-2: Bond
-2: Bones
-2: Bounteous
-2: Bow
-2: Bowed
-2: Brain
-2: Brains
-2: Branches
-2: Breath
-2: Brethren
-2: Brother’s
-2: Buckingham’s
-2: Bullens
-2: Burns
-2: Calling
-2: Canst
-2: Card’nal
-2: Carriage
-2: Carried
-2: Carries
-2: Casts
-2: Caused
-2: Censure
-2: Ceremony
-2: Chance
-2: Chancellor
-2: Chaplain
-2: Chartreux
-2: Chaste
-2: Cheer
-2: Cherry
-2: Chief
-2: Children
-2: Choir
-2: Choler
-2: Claim
-2: Clap
-2: Clapped
-2: Cloud
-2: Coal
-2: Coat
-2: Coin
-2: Collected
-2: Commanding
-2: Commend
-2: Commendations
-2: Commissions
-2: Common
-2: Commons
-2: Compass
-2: Compelled
-2: Complaint
-2: Complaints
-2: Complete
-2: Concerning
-2: Conclude
-2: Conference
-2: Confessions
-2: Consent
-2: Consider
-2: Consistory
-2: Contented
-2: Corn
-2: Corruption
-2: Count
-2: Countenance
-2: Country
-2: Courses
-2: Courtier
-2: Cradle
-2: Credit
-2: Crept
-2: Cross
-2: Cunning
-2: Cured
-2: Customs
-2: Dance
-2: Daring
-2: Dearly
-2: Deceived
-2: Delay
-2: Delivered
-2: Demand
-2: Deputy
-2: Deserves
-2: Desires
-2: Desperate
-2: Device
-2: Dews
-2: Dignity
-2: Discharged
-2: Discretion
-2: Disgraces
-2: Dislike
-2: Disperse
-2: Divers
-2: Dorset
-2: Doth
-2: Doubts
-2: Dozen
-2: Drawn
-2: Dreamed
-2: Drink
-2: Duke’s
-2: Duly
-2: Dying
-2: Eagerly
-2: Ears
-2: Edward
-2: Effect
-2: Elizabeth
-2: Embrace
-2: Employed
-2: Empty
-2: Endeavors
-2: Ensuing
-2: Enter
-2: Estate
-2: Everywhere
-2: Exaction
-2: Exactions
-2: Exceeding
-2: Excellent
-2: Extremely
-2: E’er
-2: Fain
-2: Faithful
-2: Fall’st
-2: Fame
-2: Famous
-2: Fancy
-2: Fare
-2: Fashioned
-2: Fate
-2: Father-in-law
-2: Fault
-2: Fearing
-2: Felt
-2: Fetch
-2: Fiddle
-2: Field
-2: Fight
-2: Fill
-2: Fixed
-2: Flattery
-2: Flawed
-2: Flourish
-2: Flowers
-2: Fly
-2: Foe
-2: Forbid
-2: Forced
-2: Forgotten
-2: Former
-2: Forms
-2: Forsooth
-2: Forthwith
-2: Foul
-2: Frail
-2: Freedom
-2: Fresher
-2: Frost
-2: Frowning
-2: Fulfilled
-2: Function
-2: Furnish
-2: Furnished
-2: Gilbert
-2: Girl
-2: Godfather
-2: Goodness’
-2: Goods
-2: Granted
-2: Graves
-2: Greatest
-2: Grew
-2: Grieves
-2: Grievous
-2: Groom
-2: Ground
-2: Guests
-2: Guilford
-2: Guiltless
-2: Habits
-2: Hang
-2: Hanged
-2: Happen
-2: Harry
-2: Heaped
-2: Hearers
-2: Heavenly
-2: Heaven’s
-2: Heavy
-2: Henton
-2: Heretic
-2: Here’s
-2: Herself
-2: He’ll
-2: Hide
-2: Honorable
-2: Honored
-2: Hopkins
-2: Horses
-2: However
-2: Humility
-2: Hundred
-2: Hung
-2: Infant
-2: Infect
-2: Instant
-2: Instruct
-2: Interview
-2: Ipswich
-2: Ireland
-2: Itself
-2: Journey
-2: Killing
-2: Kneel
-2: Knell
-2: Knock
-2: La
-2: Labored
-2: Lady’s
-2: Lately
-2: Laughed
-2: Lawful
-2: Lazy
-2: Legs
-2: Lest
-2: Liberal
-2: Lies
-2: Light
-2: Lily
-2: List
-2: London
-2: Longing
-2: Lordships
-2: Loud
-2: Loving
-2: Loyal
-2: Luster
-2: Lute
-2: Maiden
-2: Maidenhead
-2: Maker
-2: Male
-2: Marks
-2: Mary
-2: Mayor
-2: Memory
-2: Menaced
-2: Merciful
-2: Merely
-2: Message
-2: Midnight
-2: Minds
-2: Minute
-2: Missed
-2: Moon
-2: Morrow
-2: Mortal
-2: Motion
-2: Move
-2: Named
-2: Neglect
-2: Nights
-2: Number
-2: Nurse
-2: Oath
-2: Obey
-2: Obeyed
-2: Object
-2: Observe
-2: Opened
-2: Oracle
-2: Ours
-2: Packets
-2: Paid
-2: Pain
-2: Pang
-2: Papers
-2: Parish
-2: Partners
-2: Patient
-2: Pay
-2: Peers
-2: Perforce
-2: Perform
-2: Performance
-2: Pious
-2: Pitied
-2: Pitying
-2: Places
-2: Plants
-2: Plead
-2: Pleasant
-2: Plot
-2: Points
-2: Porter
-2: Possible
-2: Pounds
-2: Praise
-2: Precedent
-2: Prejudice
-2: Prepare
-2: Pretense
-2: Privy
-2: Proceeded
-2: Proceeding
-2: Process
-2: Profession
-2: Profit
-2: Progress
-2: Proofs
-2: Prophecy
-2: Protect
-2: Protection
-2: Puppy
-2: Pure
-2: Purposed
-2: Questioned
-2: Quoth
-2: Rare
-2: Rascals
-2: Rate
-2: Rather
-2: Realm
-2: Rectify
-2: Reformation
-2: Refuse
-2: Reigned
-2: Relate
-2: Remain
-2: Remedy
-2: Removed
-2: Repeat
-2: Requires
-2: Requite
-2: Respite
-2: Revenge
-2: Reverence
-2: Richard
-2: Richer
-2: Robbed
-2: Rod
-2: Round
-2: Rule
-2: Sacrifice
-2: Safe
-2: Safely
-2: Saintlike
-2: Salute
-2: Sap
-2: Sayst
-2: Scarce
-2: Scarlet
-2: Scepter
-2: Second
-2: Seeing
-2: Seeming
-2: Send
-2: Serve
-2: Shake
-2: Shine
-2: Shortly
-2: Shower
-2: Shrewd
-2: Side
-2: Sides
-2: Sight
-2: Sign
-2: Sins
-2: Sister
-2: Sixth
-2: Small
-2: Somewhat
-2: Soon
-2: Souls
-2: Sovereignty
-2: Spain
-2: Spake
-2: Speaker
-2: Speaking
-2: Spoken
-2: Spoons
-2: Spread
-2: Sprung
-2: Steps
-2: Steward
-2: Stick
-2: Stirred
-2: Stock
-2: Stomach
-2: Stop
-2: Stops
-2: Storms
-2: Straight
-2: Stream
-2: Stroke
-2: Strongly
-2: Studies
-2: Stuff
-2: Subjects
-2: Substance
-2: Suns
-2: Suspicion
-2: Sword
-2: Sworn
-2: Syllable
-2: Talking
-2: Taught
-2: Te
-2: Teaching
-2: Tear
-2: Temper
-2: Tempest
-2: Temporal
-2: Terror
-2: Thankful
-2: Themselves
-2: Therein
-2: They’ll
-2: They’re
-2: They’ve
-2: Throng
-2: Today
-2: Touched
-2: Towards
-2: Treasonous
-2: Treasure
-2: Tricks
-2: Tried
-2: Trifle
-2: Trim
-2: Trod
-2: Trouble
-2: Troubles
-2: Truth’s
-2: Try
-2: Understanding
-2: Undoing
-2: Unfit
-2: Urge
-2: Utmost
-2: Utterly
-2: Vain
-2: Values
-2: Ventured
-2: Vexed
-2: Viewed
-2: Vine
-2: Visitation
-2: Voices
-2: Vouchsafe
-2: Wag
-2: Waits
-2: Wake
-2: Wanton
-2: Wants
-2: War
-2: Warrant
-2: Wars
-2: Water
-2: Weakness
-2: Weigh
-2: Whereof
-2: Whether
-2: Wine
-2: Wings
-2: Wished
-2: Withal
-2: Woman’s
-2: Working
-2: Wretchedness
-2: Write
-2: Yourselves
-2: ’gainst
-2: ’has
-2: ’mongst
-2: ’twere
-2: ’twixt
-2: ’twould
-1: A-going
-1: A-pieces
-1: A-ripening
-1: A-rolling
-1: Abilities
-1: Abject
-1: Aboded
-1: Absence
-1: Absent
-1: Abused
-1: Abusing
-1: Access
-1: Accompanied
-1: Accompt
-1: Accumulated
-1: Accusation
-1: Accusations
-1: Accused
-1: Ache
-1: Acquire
-1: Action
-1: Action’s
-1: Adding
-1: Adds
-1: Adjourn
-1: Admiration
-1: Admirer
-1: Admit
-1: Ado
-1: Advance
-1: Advantage
-1: Advertise
-1: Affect
-1: Affected
-1: Affection
-1: Affections
-1: Afflicted
-1: Afflictions
-1: Afford
-1: Afraid
-1: Agent
-1: Ago
-1: Agony
-1: Agree
-1: Ague
-1: Agèd
-1: Aid
-1: Aim’st
-1: Aired
-1: Ale
-1: Alençon
-1: Alive
-1: Alleged
-1: Allegiant
-1: Allegèd
-1: Allied
-1: Allowance
-1: Altar
-1: Alter
-1: Amazed
-1: Ambassadors
-1: Ambitious
-1: Amity
-1: Ampthill
-1: Ancestry
-1: Andren
-1: Angel
-1: Angels’
-1: Anger’s
-1: Annual
-1: Appetite
-1: Apples
-1: Appliance
-1: Appoint
-1: Appointment
-1: Approbation
-1: Approve
-1: Apt
-1: Arch
-1: Arch-one
-1: Archbishopric
-1: Archbishop’s
-1: Arde
-1: Arguments
-1: Army
-1: Arose
-1: Arrest
-1: Arrested
-1: Arrived
-1: Arrogance
-1: Arrogancy
-1: Arthur
-1: Asher
-1: Asked
-1: Aspire
-1: Assembled
-1: Assistants
-1: Assurance
-1: Assuredly
-1: Asunder
-1: Attach
-1: Attainder
-1: Attempt
-1: Attendance
-1: Attends
-1: Attention
-1: Attorney
-1: Audience
-1: Audit
-1: Augment
-1: Aunt
-1: Authors
-1: Avaunt
-1: Avoid
-1: Avow
-1: A’
-1: Backs
-1: Bad
-1: Baiting
-1: Banister
-1: Baptism
-1: Barons
-1: Baseness
-1: Bawdy
-1: Bayonne
-1: Beadles
-1: Beams
-1: Bearer
-1: Beat
-1: Became
-1: Becomes
-1: Becoming
-1: Bedchamber
-1: Bedfellow
-1: Began
-1: Beget
-1: Beggar
-1: Beggarly
-1: Beggar’s
-1: Begging
-1: Begins
-1: Begs
-1: Beheld
-1: Bell
-1: Belongs
-1: Beloved
-1: Below
-1: Beneficial
-1: Benefit
-1: Benefits
-1: Beseeching
-1: Beshrew
-1: Besiege
-1: Besmeared
-1: Betrayed
-1: Bevis
-1: Bevy
-1: Bewailing
-1: Beware
-1: Bids
-1: Big
-1: Bigger
-1: Billows
-1: Bites
-1: Bits
-1: Bitten
-1: Bitterly
-1: Blackfriars
-1: Bladders
-1: Blamed
-1: Blesses
-1: Blest
-1: Blew
-1: Blind
-1: Blistered
-1: Bloody
-1: Blossoms
-1: Blow
-1: Blumer
-1: Bodies
-1: Body’s
-1: Bohun
-1: Boldened
-1: Boldness
-1: Bombards
-1: Book
-1: Bootless
-1: Bordeaux
-1: Bore
-1: Bores
-1: Bought
-1: Bounties
-1: Bounty
-1: Bowl
-1: Brake
-1: Branded
-1: Brass
-1: Brave
-1: Brazier
-1: Breakfast
-1: Breaks
-1: Breeches
-1: Breeding
-1: Brief
-1: Bringing
-1: Brings
-1: Britain
-1: Broach
-1: Broiling
-1: Broomstaff
-1: Brother-love
-1: Brothers
-1: Brow
-1: Brown
-1: Budded
-1: Build
-1: Bulk
-1: Bullen’s
-1: Burnt
-1: Busy
-1: Butcher’s
-1: Buy
-1: Buys
-1: Buzz
-1: Buzzing
-1: Cakes
-1: Calls
-1: Calm
-1: Calumnious
-1: Camlet
-1: Candle
-1: Cannons
-1: Cap
-1: Capable
-1: Capacity
-1: Capuchius
-1: Carders
-1: Careful
-1: Carnarvanshire
-1: Carped
-1: Case
-1: Cassado
-1: Catch
-1: Catching
-1: Caught
-1: Caution
-1: Cedar
-1: Celebration
-1: Celestial
-1: Censurers
-1: Certainly
-1: Certes
-1: Chafed
-1: Chaff
-1: Chafèd
-1: Chalks
-1: Challenge
-1: Challenged
-1: Chamber’s
-1: Chapel
-1: Chaplains’
-1: Charges
-1: Charging
-1: Chattels
-1: Cheeks
-1: Cherish
-1: Cherubins
-1: Cheveril
-1: Chiding
-1: Childish
-1: Children’s
-1: Chine
-1: Choicest
-1: Choked
-1: Christenings
-1: Chronicler
-1: Chronicles
-1: Church
-1: Churchmen’s
-1: Cinque-ports
-1: Circumstances
-1: Cited
-1: Citizens
-1: City
-1: Claims
-1: Clean
-1: Clergy
-1: Clerks
-1: Climb
-1: Clinquant
-1: Cloaks
-1: Cloth
-1: Clotharius
-1: Clothes
-1: Clothiers
-1: Clubs
-1: Clung
-1: Coarse
-1: Coasts
-1: Colbrand
-1: Colleges
-1: Color
-1: Colt’s
-1: Combination
-1: Combustion
-1: Comforting
-1: Comfortless
-1: Commands
-1: Commended
-1: Commends
-1: Commit
-1: Committing
-1: Commonalty
-1: Commotion
-1: Commotions
-1: Communication
-1: Companion
-1: Compels
-1: Compounded
-1: Comptrollers
-1: Conceal
-1: Conceit
-1: Conceive
-1: Conceived
-1: Conception
-1: Concerns
-1: Conclave
-1: Condemned
-1: Condition
-1: Conditions
-1: Confederacy
-1: Confession’s
-1: Confessor’s
-1: Confidence
-1: Confident
-1: Confine
-1: Confirmation
-1: Conformable
-1: Conjectures
-1: Conjunction
-1: Consequence
-1: Consideration
-1: Considered
-1: Considering
-1: Considerings
-1: Constable
-1: Constancy
-1: Constant
-1: Construction
-1: Consulting
-1: Contagious
-1: Contains
-1: Contemplation
-1: Contempt
-1: Contents
-1: Continual
-1: Contradicted
-1: Contribution
-1: Convenient
-1: Convent
-1: Convented
-1: Converting
-1: Conveyed
-1: Cope
-1: Cordial
-1: Corner
-1: Coronets
-1: Correct
-1: Cost
-1: Costly
-1: Counselor
-1: Counselors
-1: Counterfeit
-1: Countesses
-1: Country’s
-1: County
-1: Courtesy
-1: Courts
-1: Covetous
-1: Cow
-1: Crab-tree
-1: Crack
-1: Cracked
-1: Crammed
-1: Cranmer’s
-1: Crave
-1: Crawled
-1: Create
-1: Creatures
-1: Creed
-1: Crookèd
-1: Crowd
-1: Cruelty
-1: Crutch
-1: Crying
-1: Cuckold
-1: Cuckold-maker
-1: Cudgel
-1: Cum
-1: Cur
-1: Current
-1: Curs
-1: Curse
-1: Curtain
-1: Custom
-1: Cut
-1: Dagger
-1: Dainty
-1: Dam
-1: Damage
-1: Dancing
-1: Dangers
-1: Dares
-1: Daring’st
-1: Darkness
-1: Dark’ning
-1: Darts
-1: Dashing
-1: Day’s
-1: Dealing
-1: Deals
-1: Dearest
-1: Debate
-1: Debating
-1: Decent
-1: Declare
-1: Decline
-1: Dedicates
-1: Deeds
-1: Deem
-1: Deemed
-1: Defacers
-1: Defeat
-1: Defied
-1: Delights
-1: Deliverance
-1: Demure
-1: Denied
-1: Denny
-1: Departed
-1: Depth
-1: Depths
-1: Derived
-1: Deserts
-1: Design
-1: Despairs
-1: Despise
-1: Despised
-1: Destruction
-1: Determinate
-1: Determines
-1: Detests
-1: Deum
-1: Devil’s
-1: Devised
-1: Devoutly
-1: Dew
-1: Didst
-1: Dies
-1: Digest
-1: Digestion
-1: Dilatory
-1: Dim
-1: Direct
-1: Directly
-1: Discerner
-1: Discharge
-1: Disciples
-1: Discontented
-1: Discourser
-1: Discovers
-1: Disdainful
-1: Disease
-1: Diseases
-1: Disgrace
-1: Disgraced
-1: Dishonor
-1: Dispatch
-1: Displayed
-1: Disposed
-1: Disposing
-1: Disposition
-1: Distance
-1: Distinctly
-1: Distraction
-1: Distressed
-1: Distribute
-1: Disturb
-1: Dives
-1: Divorced
-1: Doctor
-1: Doctors
-1: Doctrine
-1: Dog
-1: Domestics
-1: Dominions
-1: Dote
-1: Double
-1: Doubled
-1: Doublets
-1: Doubted
-1: Dozens
-1: Dream
-1: Dreams
-1: Drew
-1: Drives
-1: Drop
-1: Dropped
-1: Drops
-1: Dry
-1: Due
-1: Dull
-1: Dunstable
-1: During
-1: Duties
-1: Dwarfish
-1: Dye
-1: Early
-1: Earnest
-1: Earnestly
-1: Earthy
-1: Easiness
-1: Eat
-1: Edge
-1: Effects
-1: Ego
-1: Egypt
-1: Eight
-1: Eighth
-1: Eldest
-1: Elect
-1: Element
-1: Emballing
-1: Embalm
-1: Emblems
-1: Embracement
-1: Eminence
-1: Eminent
-1: Employment
-1: Encounter
-1: Endless
-1: Endurance
-1: Englishman
-1: Enjoy
-1: Enrolled
-1: Ensued
-1: Entered
-1: Enthroned
-1: Entrance
-1: Entreaties
-1: Entreats
-1: Ent’ring
-1: Envied
-1: Erga
-1: Err
-1: Escapes
-1: Est
-1: Estates
-1: Esteem
-1: Et
-1: Eternal
-1: Evening
-1: Event
-1: Evermore
-1: Evidence
-1: Evils
-1: Examination
-1: Examinations
-1: Examples
-1: Excellence
-1: Exclamation
-1: Excused
-1: Execute
-1: Execution
-1: Exempt
-1: Exhalation
-1: Expect
-1: Expected
-1: Expense
-1: Expressly
-1: Extend
-1: Extortion
-1: Extremity
-1: E’en
-1: Fabulous
-1: Faculties
-1: Failed
-1: Faints
-1: Fair-spoken
-1: Fairer
-1: Fairest
-1: Faithfully
-1: Faithless
-1: Falsehood
-1: Fancy’s
-1: Fashion
-1: Father’s
-1: Fathom
-1: Faulty
-1: Favorer
-1: Fearful
-1: Feast
-1: Feather
-1: Feats
-1: Feature
-1: Fee
-1: Feeds
-1: Fellowship
-1: Fellow’s
-1: Ferdinand
-1: Ferrara
-1: Fierce
-1: Fights
-1: Figure
-1: Filed
-1: Filled
-1: Filling
-1: Finds
-1: Fine
-1: Fines
-1: Fire-drake
-1: Fireworks
-1: Fish
-1: Fishes
-1: Fitness
-1: Fits
-1: Flanders
-1: Flatteries
-1: Flesh
-1: Flew
-1: Fling
-1: Flocks
-1: Flood
-1: Flourished
-1: Flowing
-1: Flung
-1: Flying
-1: Foes
-1: Follies
-1: Following
-1: Fondness
-1: Foot
-1: Footboy
-1: Footboys
-1: Footing
-1: Forbear
-1: Fore-recited
-1: Foresaid
-1: Foreseeing
-1: Foreskirt
-1: Foretold
-1: Forfeit
-1: Forfeiting
-1: Forged
-1: Forget
-1: Forgetful
-1: Forgetting
-1: Forgiven
-1: Forgo
-1: Forgot
-1: Formerly
-1: Fornication
-1: Fortitude
-1: Foulness
-1: Foul’st
-1: Founder
-1: Founts
-1: Fox
-1: Frailty
-1: Frame
-1: Frankly
-1: Freed
-1: Freshly
-1: Fret
-1: Friar
-1: Friended
-1: Friendless
-1: Friendly
-1: Friendship
-1: Frighted
-1: Front
-1: Frowns
-1: Fruit
-1: Fruitful
-1: Fry
-1: Full-charged
-1: Fullers
-1: Fully
-1: Furnace
-1: Furniture
-1: Future
-1: Gainsay
-1: Gait
-1: Gall
-1: Gallant
-1: Gallants
-1: Galled
-1: Gallery
-1: Gallows
-1: Gamester
-1: Gap
-1: Gaping
-1: Garden
-1: Garlands
-1: Garment
-1: Gate
-1: Gathered
-1: Gav’st
-1: Gem
-1: Generally
-1: Gentleness
-1: Gentlewoman
-1: Gently
-1: Gentry
-1: Germany
-1: Gets
-1: Getting
-1: Giant
-1: Gift
-1: Gifts
-1: Gild
-1: Gilt
-1: Giving
-1: Gladded
-1: Gladding
-1: Glass
-1: Gleaning
-1: Glist’ring
-1: Glories
-1: Gloss
-1: Gods
-1: Going-out
-1: Golden
-1: Goodliest
-1: Goodnight
-1: Gossips
-1: Govern
-1: Government
-1: Grain
-1: Grand
-1: Gravel
-1: Graver
-1: Gravity
-1: Great-bellied
-1: Great-nephew
-1: Great’st
-1: Greenwich
-1: Gregory
-1: Griefs
-1: Grievance
-1: Grieved
-1: Grievingly
-1: Grievèd
-1: Griped
-1: Grips
-1: Groan
-1: Groaning
-1: Grooms
-1: Grosser
-1: Grounded
-1: Grubbed
-1: Guard
-1: Guarded
-1: Guest
-1: Guide
-1: Guy
-1: Guynes
-1: Haberdasher’s
-1: Hacked
-1: Hair
-1: Halidom
-1: Hall
-1: Hallowed
-1: Handmaid
-1: Handsome
-1: Hangs
-1: Hap
-1: Happened
-1: Happier
-1: Happiest
-1: Hard-ruled
-1: Hardly
-1: Hark
-1: Harm-doing
-1: Harmony
-1: Harms
-1: Harsh
-1: Hasty
-1: Hat
-1: Hated
-1: Hates
-1: Hatred
-1: Hats
-1: Have-at-him
-1: Havings
-1: Ha’
-1: Healthful
-1: Healths
-1: Hears
-1: Heat
-1: Heated
-1: Heathen
-1: Heaviest
-1: Heav’n
-1: Heav’nly
-1: Heav’n’s
-1: Hedges
-1: Heels
-1: Height
-1: Heirs
-1: Herald
-1: Heralds
-1: Hereafter
-1: Heresies
-1: Hertford
-1: Hid
-1: Hideous
-1: High-blown
-1: Highest
-1: Hill
-1: Hills
-1: Hinder
-1: Hindered
-1: Hire
-1: Hitherto
-1: Hitting
-1: Ho
-1: Holds
-1: Holiday
-1: Holily
-1: Hollow
-1: Honey
-1: Honorably
-1: Honor’s
-1: Hoods
-1: Hopeful
-1: Hopeless
-1: Horrible
-1: Horrid
-1: Horse
-1: Horseback
-1: Hourly
-1: Household
-1: Housewife
-1: Hulling
-1: Humble-mouthed
-1: Humbleness
-1: Humblest
-1: Hunger
-1: Huntsman
-1: Hurt
-1: Hypocrisy
-1: Ignorance
-1: Ignorant
-1: Illusions
-1: Illustrated
-1: Image
-1: Imperious
-1: Implore
-1: Importing
-1: Impossible
-1: Imprisonment
-1: Incense
-1: Incensed
-1: Incensèd
-1: Inclined
-1: Incomparable
-1: Increase
-1: India
-1: Indian
-1: Indies
-1: Indifferent
-1: Induce
-1: Induced
-1: Inducement
-1: Infecting
-1: Infinite
-1: Informations
-1: Informed
-1: Injustice
-1: Inkling
-1: Innocent
-1: Innumerable
-1: Inscribed
-1: Inside
-1: Insolence
-1: Inspired
-1: Installed
-1: Instantly
-1: Integritas
-1: Intelligence
-1: Intend
-1: Intends
-1: Inter
-1: Intercepted
-1: Intercession
-1: Interpreters
-1: Invite
-1: Invited
-1: Iron
-1: Irresolute
-1: Isle
-1: Issues
-1: Issue’s
-1: Item
-1: Its
-1: I’ve
-1: Jaded
-1: Joined
-1: Jot
-1: Judged
-1: Judges
-1: Judging
-1: Juggle
-1: July
-1: Jurisdiction
-1: Juror
-1: Jury
-1: Justified
-1: Justify
-1: Justly
-1: Kate
-1: Keech
-1: Kildare’s
-1: Kill
-1: Kindle
-1: Kindling
-1: Kindred
-1: King-cardinal
-1: Kingdoms
-1: Kingly
-1: Kings
-1: Kinsmen
-1: Kissing
-1: Knavery
-1: Kneeled
-1: Knight’s
-1: Knowing
-1: Know’st
-1: Kymmalton
-1: Lack
-1: Lackeys
-1: Lacking
-1: Ladyship
-1: Lag
-1: Lame
-1: Lament
-1: Landed
-1: Lands
-1: Land’s
-1: Larder
-1: Large
-1: Lark
-1: Larks
-1: Lasting
-1: Latin
-1: Laugh
-1: Laurence
-1: Laying
-1: Lays
-1: Leap
-1: Leaped
-1: Learn
-1: Learnèdly
-1: Ledst
-1: Legate
-1: Legative
-1: Legitimate
-1: Leicester
-1: Leisure
-1: Lend
-1: Lessen
-1: Level
-1: Levied
-1: Lewdness
-1: Liberty
-1: Liest
-1: Lift
-1: Lighted
-1: Lighten
-1: Lights
-1: Likely
-1: Liking
-1: Limbo
-1: Limehouse
-1: Lincoln
-1: Line
-1: Lion
-1: Lip
-1: Liquor
-1: List’ning
-1: Livers
-1: Loaden
-1: Lodged
-1: Lofty
-1: Londoners
-1: Longed
-1: Looking
-1: Lop
-1: Lordships’
-1: Lordship’s
-1: Louder
-1: Lousy
-1: Louvre
-1: Lovell’s
-1: Lovely
-1: Lover
-1: Love’s
-1: Low
-1: Lower
-1: Lowly
-1: Loyalties
-1: Lucifer
-1: Luck
-1: Lump
-1: Lutheran
-1: Madams
-1: Maid
-1: Maids
-1: Maimed
-1: Maintain
-1: Makings
-1: Malignant
-1: Manage
-1: Manors
-1: Marble
-1: Marques
-1: Marquess
-1: Mars
-1: Marshal
-1: Marshalsea
-1: Martyr
-1: Masque
-1: Master-cord
-1: Mate
-1: Matters
-1: Maybe
-1: Mazed
-1: Meaner
-1: Meaning
-1: Meanwhile
-1: Measure
-1: Meditating
-1: Meek
-1: Meets
-1: Melt
-1: Memories
-1: Memorized
-1: Mention
-1: Mentis
-1: Merchants’
-1: Mercies
-1: Meridian
-1: Merit
-1: Metal
-1: Meteor
-1: Methought
-1: Meus
-1: Michael
-1: Mightiness
-1: Miles
-1: Mincing
-1: Minded
-1: Mind’s
-1: Mingled
-1: Mirror
-1: Mirth
-1: Miscarried
-1: Mischiefs
-1: Misdemeaned
-1: Misery
-1: Misfortunes
-1: Mistaken
-1: Mistakes
-1: Mock
-1: Mocked
-1: Model
-1: Moiety
-1: Mold
-1: Molded
-1: Monarch
-1: Money
-1: Monks
-1: Monsieurs
-1: Monster
-1: Monstrous
-1: Months
-1: Monument
-1: Moody
-1: Moorfields
-1: Mortar-piece
-1: Mother
-1: Mother’s
-1: Motions
-1: Motley
-1: Mountacute
-1: Mountain
-1: Mountaintops
-1: Mounted
-1: Mounting
-1: Mounts
-1: Mourn
-1: Mow
-1: Mud
-1: Mule
-1: Multitude
-1: Murmurers
-1: Musicians
-1: Musings
-1: Muster
-1: Mutiny
-1: Muzzle
-1: Mysteries
-1: Naked
-1: Nations
-1: Natures
-1: Naughty
-1: Navy
-1: Necessary
-1: Necessities
-1: Neck
-1: Needful
-1: Neglected
-1: Negligence
-1: Nephew
-1: Net
-1: Newly
-1: Niggard
-1: Nips
-1: Nobleman
-1: Nobleness
-1: Nobler
-1: Noble’s
-1: Noised
-1: North
-1: Northampton
-1: Northumberland
-1: Noses
-1: Noted
-1: Note’s
-1: Notorious
-1: Notwithstanding
-1: Nourishment
-1: Numberless
-1: Obedient
-1: Obeying
-1: Objections
-1: Obligation
-1: Observing
-1: Obstinate
-1: Odious
-1: Offended
-1: Offender
-1: Offense
-1: Offered
-1: Offers
-1: Officious
-1: Often
-1: Oil
-1: Omit
-1: Oppose
-1: Opposed
-1: Opposing
-1: Oppression
-1: Ordered
-1: Ordinary
-1: Orleans
-1: Ornaments
-1: Orphans’
-1: Orpheus
-1: Otherwhere
-1: Oui
-1: Ourselves
-1: Outgo
-1: Outlive
-1: Outrun
-1: Outspeaks
-1: Outstare
-1: Outworths
-1: Overrunning
-1: Overthrow
-1: Oxford
-1: O’clock
-1: O’ergreat
-1: O’ermount
-1: O’ertake
-1: O’ertopping
-1: Paced
-1: Paces
-1: Pack
-1: Pagan
-1: Pageants
-1: Pains
-1: Painted
-1: Painting
-1: Pale
-1: Pales
-1: Panging
-1: Pangs
-1: Paragoned
-1: Parcels
-1: Pardons
-1: Pared
-1: Parents
-1: Partner
-1: Passages
-1: Passing
-1: Passion
-1: Pat
-1: Patents
-1: Patient’s
-1: Patrum
-1: Pattern
-1: Paul’s
-1: Pausingly
-1: Paved
-1: Payment
-1: Peacemakers
-1: Peep
-1: Peeped
-1: Pence
-1: Penny
-1: People’s
-1: Pepin
-1: Perceives
-1: Perfect
-1: Perfidious
-1: Performed
-1: Perils
-1: Period
-1: Perjured
-1: Perked
-1: Permit
-1: Pernicious
-1: Perniciously
-1: Personally
-1: Person’s
-1: Persuade
-1: Persuading
-1: Persuasions
-1: Pertaining
-1: Pertains
-1: Peruse
-1: Perused
-1: Pestilence
-1: Pestilent
-1: Phoenix
-1: Phrase
-1: Physician
-1: Pibbles
-1: Pie
-1: Pierce
-1: Piles
-1: Pillars
-1: Pinches
-1: Pinked
-1: Pitch
-1: Pitiful
-1: Placed
-1: Plague
-1: Plain
-1: Plains
-1: Plainsong
-1: Plate
-1: Played
-1: Playfellows
-1: Playhouse
-1: Pleaded
-1: Pleases
-1: Pledge
-1: Plenteous
-1: Plenty
-1: Pluck
-1: Pointed
-1: Poison
-1: Policy
-1: Poorest
-1: Popedom
-1: Porringer
-1: Porters
-1: Portion
-1: Possess
-1: Possessed
-1: Possession
-1: Post
-1: Posted
-1: Postures
-1: Potency
-1: Potent
-1: Potently
-1: Poultney
-1: Pound
-1: Poverty
-1: Powers
-1: Practice
-1: Praemunire
-1: Precipice
-1: Preferments
-1: Preferred
-1: Premises
-1: Prepared
-1: Prescription
-1: Preservation
-1: Pressed
-1: Presume
-1: Prevail
-1: Prick
-1: Prime
-1: Primer
-1: Primero
-1: Primest
-1: Princes’
-1: Prison
-1: Privileged
-1: Privilegio
-1: Privily
-1: Privity
-1: Proceedings
-1: Proclaim
-1: Proclamation
-1: Procure
-1: Prodigal
-1: Produce
-1: Produced
-1: Professors
-1: Profits
-1: Promise
-1: Promotion
-1: Prone
-1: Proof
-1: Proper
-1: Prophecies
-1: Proportion
-1: Propped
-1: Prosper
-1: Prosperous
-1: Protects
-1: Proudest
-1: Provide
-1: Provided
-1: Provoke
-1: Prudent
-1: Public
-1: Publicly
-1: Published
-1: Pulled
-1: Punish
-1: Punishment
-1: Purchased
-1: Purgation
-1: Purge
-1: Purposes
-1: Pursued
-1: Pursuivants
-1: Push
-1: Putter-on
-1: Qualities
-1: Quality
-1: Quarrel
-1: Quarrels
-1: Quartered
-1: Queens
-1: Quick
-1: Quickly
-1: Quit
-1: Quite
-1: Rabble
-1: Rage
-1: Rail
-1: Railed
-1: Rained
-1: Rake
-1: Rams
-1: Ran
-1: Range
-1: Ranking
-1: Rankness
-1: Ratified
-1: Ravenous
-1: Ravished
-1: Rav’nous
-1: Rays
-1: Reaches
-1: Realms
-1: Reaped
-1: Rebelled
-1: Rebellion
-1: Rebuke
-1: Receipt
-1: Reciprocally
-1: Reckoned
-1: Recount
-1: Red
-1: Reek
-1: Reel
-1: Reformed
-1: Regard
-1: Regina
-1: Region
-1: Reign
-1: Remainder
-1: Remains
-1: Remarked
-1: Remembrance
-1: Remnants
-1: Remove
-1: Rend
-1: Renouncing
-1: Repair
-1: Repentance
-1: Replied
-1: Repose
-1: Reproaches
-1: Reproved
-1: Reputed
-1: Request
-1: Required
-1: Resolution
-1: Respecting
-1: Rested
-1: Restore
-1: Restored
-1: Retained
-1: Retainers
-1: Returns
-1: Revels
-1: Revenged
-1: Revengeful
-1: Reviled
-1: Revokement
-1: Rewarded
-1: Rewards
-1: Rex
-1: Riches
-1: Richly
-1: Ridden
-1: Ridiculous
-1: Righteous
-1: Rightly
-1: Rights
-1: Rinsing
-1: Ripe
-1: Ripeness
-1: Rising
-1: River
-1: Roads
-1: Roar
-1: Robe
-1: Rochford
-1: Rogue
-1: Rolls
-1: Room
-1: Rooted
-1: Rough
-1: Royalty
-1: Rub
-1: Ruins
-1: Ruminate
-1: Rumor
-1: Rung
-1: Saba
-1: Sacring
-1: Saint
-1: Saints
-1: Salisbury
-1: Salutes
-1: Samson
-1: Sat
-1: Saucy
-1: Saving
-1: Saying
-1: Scatter
-1: Scatters
-1: Scenes
-1: Scholar
-1: Scholars
-1: Scold
-1: Scorned
-1: Scratch
-1: Seals
-1: Seated
-1: Secrecy
-1: Sect
-1: Sectary
-1: Seeking
-1: Seeks
-1: Seem
-1: Seemly
-1: Self-drawing
-1: Self-mettle
-1: Sell
-1: Semblance
-1: Sends
-1: Separation
-1: Serenissima
-1: Sergeant
-1: Serves
-1: Session
-1: Setting
-1: Settled
-1: Seventh
-1: Several
-1: Severing
-1: Shade
-1: Shadow
-1: Shape
-1: Sharp’st
-1: Sheathe
-1: Shed
-1: She’ll
-1: Shield
-1: Shilling
-1: Shipwracked
-1: Shire
-1: Shoals
-1: Shone
-1: Shook
-1: Shore
-1: Shot
-1: Shoulders
-1: Shouldst
-1: Showered
-1: Showers
-1: Shown
-1: Shows
-1: Shrink
-1: Shrouds
-1: Shunning
-1: Shut
-1: Sickened
-1: Sights
-1: Silenced
-1: Simony
-1: Simple
-1: Sincere
-1: Sincerely
-1: Singe
-1: Singular
-1: Sirrah
-1: Sits
-1: Six
-1: Sixteen
-1: Size
-1: Slander
-1: Slave
-1: Slavery
-1: Slaves
-1: Sleek
-1: Sleeping
-1: Sleeps
-1: Slightly
-1: Sloth
-1: Slow
-1: Slumber
-1: Sly
-1: Smart
-1: Smiles
-1: Snuff
-1: Society
-1: Soft
-1: Softly
-1: Soil
-1: Solemnly
-1: Solicited
-1: Sometime
-1: Sometimes
-1: Son-in-law
-1: Song
-1: Songs
-1: Sooner
-1: Sooth
-1: Sorely
-1: Sounded
-1: Sounder
-1: Sour
-1: Sow
-1: Span
-1: Spaniard
-1: Spaniel
-1: Spanned
-1: Spared
-1: Sparing
-1: Sparks
-1: Spavin
-1: Speakest
-1: Speaks
-1: Sped
-1: Speeches
-1: Speed
-1: Speedily
-1: Speeding
-1: Spell
-1: Spells
-1: Spice
-1: Spiderlike
-1: Spinsters
-1: Spit
-1: Spite
-1: Spitting
-1: Spleeny
-1: Spoil
-1: Sport
-1: Spotless
-1: Spring
-1: Springhalt
-1: Springs
-1: Spur
-1: Stafford
-1: Stagger
-1: Stamp
-1: Stamped
-1: Starlike
-1: Stars
-1: Startle
-1: Starts
-1: Starve
-1: State-statues
-1: State’s
-1: Staves
-1: Stayed
-1: Staying
-1: Stays
-1: Steal
-1: Steel
-1: Steep
-1: Steer
-1: Stepped
-1: Stiff
-1: Stifled
-1: Sting
-1: Stint
-1: Stirs
-1: Stockings
-1: Stokeley
-1: Stol’n
-1: Stone
-1: Stopped
-1: Store
-1: Storm
-1: Stout
-1: Strains
-1: Strand
-1: Strangers
-1: Strangers’
-1: Strangest
-1: Strangled
-1: Straying
-1: Strengthen
-1: Stretch
-1: Stretched
-1: Stretches
-1: Strew
-1: Strike
-1: Strikes
-1: String
-1: Strive
-1: Strove
-1: Struck
-1: Studied
-1: Study
-1: Stuffs
-1: Stump
-1: Subjects’
-1: Subtle
-1: Suburbs
-1: Succeed
-1: Succeeding
-1: Successors
-1: Sue
-1: Sued
-1: Sufferance
-1: Suffered
-1: Suff’rance
-1: Suggestion
-1: Suggests
-1: Suitor
-1: Suits
-1: Sum
-1: Summer
-1: Summers
-1: Summons
-1: Sung
-1: Superfluous
-1: Superstitious
-1: Supper
-1: Support
-1: Surrender
-1: Suspicious
-1: Sustain
-1: Swallowed
-1: Sweep
-1: Sweetest
-1: Sweetheart
-1: Sweetly
-1: Swell
-1: Swiftness
-1: Swim
-1: Switches
-1: Table
-1: Tailors
-1: Tainted
-1: Takes
-1: Tak’st
-1: Tales
-1: Talker
-1: Tall
-1: Tame
-1: Tamely
-1: Tangled
-1: Tanta
-1: Tardy
-1: Targets
-1: Tarry
-1: Tastes
-1: Taxations
-1: Teach
-1: Teachers
-1: Teeth
-1: Tells
-1: Temple
-1: Tempting
-1: Temp’rance
-1: Tenants
-1: Tendance
-1: Tenderness
-1: Tenements
-1: Tennis
-1: Tenor
-1: Terrible
-1: Theme
-1: Thence
-1: Thereunto
-1: Thin
-1: Thine
-1: Thinking
-1: Thinkings
-1: Thinks
-1: Third
-1: Thorny
-1: Thought’s
-1: Thousandfold
-1: Thousands
-1: Threepence
-1: Thrift
-1: Throe
-1: Throned
-1: Throughly
-1: Throw
-1: Thrust
-1: Thunder
-1: Thyself
-1: Tide
-1: Tidings
-1: Timber
-1: Tires
-1: Titles
-1: Title’s
-1: Toil
-1: Toledo
-1: Tomb
-1: Tonight
-1: Tool
-1: Tooth
-1: Top-proud
-1: Torn
-1: Town
-1: Trace
-1: Tract
-1: Tractable
-1: Trade
-1: Traduced
-1: Training
-1: Traitor’s
-1: Trap
-1: Travail
-1: Travel
-1: Traveled
-1: Treasons
-1: Treaty
-1: Tree
-1: Trees
-1: Tremble
-1: Trembling
-1: Tribulation
-1: Trimmed
-1: Triumph
-1: Troops
-1: Troublesome
-1: Trow
-1: Truant
-1: Truehearted
-1: Truncheoners
-1: Trusted
-1: Tunes
-1: Turns
-1: Tush
-1: Twins
-1: Types
-1: Ugly
-1: Unbounded
-1: Unconsidered
-1: Uncontemned
-1: Undertake
-1: Undertakes
-1: Undeserver
-1: Undo
-1: Undone
-1: Undoubtedly
-1: Unfinished
-1: Unfolded
-1: Unhandled
-1: Unhappily
-1: Unhappy
-1: Unite
-1: Unless
-1: Unloosed
-1: Unmanly
-1: Unmatched
-1: Unnatural
-1: Unpartial
-1: Unqueened
-1: Unrecounted
-1: Unsatisfied
-1: Unsay
-1: Unseal
-1: Unsettled
-1: Unshaken
-1: Unsolicited
-1: Unspotted
-1: Unthink
-1: Until
-1: Untimely
-1: Untruths
-1: Unwilling
-1: Unwillingly
-1: Unwittingly
-1: Unworthy
-1: Upper
-1: Uproar
-1: Uproars
-1: Upward
-1: Urged
-1: Usher
-1: Usual
-1: Usurper
-1: Usurping
-1: Uttered
-1: Vacant
-1: Vainglory
-1: Vainly
-1: Vale
-1: Value
-1: Vanity
-1: Vaux
-1: Vehemency
-1: Venomed-mouthed
-1: Vent
-1: Venturous
-1: Verdict
-1: Verified
-1: Verily
-1: Verity
-1: Vessel
-1: Vex
-1: Vicious
-1: Village
-1: Violence
-1: Violent
-1: Virgin
-1: Visage
-1: Viscount
-1: Visit
-1: Viva
-1: Voce
-1: Vouch
-1: Vows
-1: Voyage
-1: Wages
-1: Wagging
-1: Waited
-1: Waking
-1: Wander
-1: Warlike
-1: Warned
-1: Warranted
-1: Wasps
-1: Waste
-1: Wastes
-1: Waterside
-1: Weak-hearted
-1: Weakly
-1: Weather
-1: Weavers
-1: Web
-1: Wed
-1: Wedding
-1: Wedged
-1: Wedlock
-1: Weed
-1: Week
-1: Ween
-1: Weightier
-1: Well-belovèd
-1: Well-deserving
-1: Wenches
-1: Wept
-1: We’re
-1: We’ve
-1: Whatsoever
-1: Whatsoe’er
-1: Whence
-1: Whereby
-1: Whereupon
-1: Wherever
-1: Wherewithal
-1: Whet
-1: Whiles
-1: Whisper
-1: Whitehall
-1: Whit’st
-1: Whoever
-1: Whoresons
-1: Who’ll
-1: Widow
-1: Wifelike
-1: Wilder
-1: Willed
-1: William
-1: Willingly
-1: Willing’st
-1: Wills
-1: Winchester’s
-1: Winnowed
-1: Wins
-1: Winter
-1: Wisest
-1: Wishing
-1: Witchcraft
-1: Withdraw
-1: Witnesses
-1: Witty
-1: Woeful
-1: Wolf
-1: Womanish
-1: Womb
-1: Women’s
-1: Wonted
-1: Woo
-1: Works
-1: Worms
-1: Worn
-1: Worship
-1: Worthily
-1: Wot
-1: Wound
-1: Wounded
-1: Woven
-1: Wrack
-1: Wretch
-1: Wringing
-1: Wrongs
-1: Wrought
-1: Yellow
-1: Yoke
-1: Youths
-1: ’beseech
-1: ’fore
-1: ’mong
-1: ’r
+instances: 767, word: 'The', work: 'H8'},
+instances: 666, word: 'And', work: 'H8'},
+instances: 579, word: 'To', work: 'H8'},
+instances: 553, word: 'I', work: 'H8'},
+instances: 497, word: 'Of', work: 'H8'},
+instances: 491, word: 'You', work: 'H8'},
+instances: 417, word: 'A', work: 'H8'},
+instances: 373, word: 'My', work: 'H8'},
+instances: 324, word: 'That', work: 'H8'},
+instances: 282, word: 'In', work: 'H8'},
+instances: 269, word: 'Your', work: 'H8'},
+instances: 256, word: 'This', work: 'H8'},
+instances: 247, word: 'His', work: 'H8'},
+instances: 236, word: 'Me', work: 'H8'},
+instances: 203, word: 'For', work: 'H8'},
+instances: 201, word: 'He', work: 'H8'},
+instances: 197, word: 'Is', work: 'H8'},
+instances: 192, word: 'Not', work: 'H8'},
+instances: 187, word: 'Be', work: 'H8'},
+instances: 187, word: 'Have', work: 'H8'},
+instances: 183, word: 'It', work: 'H8'},
+instances: 182, word: 'Him', work: 'H8'},
+instances: 164, word: 'With', work: 'H8'},
+instances: 157, word: 'All', work: 'H8'},
+instances: 156, word: 'As', work: 'H8'},
+instances: 133, word: 'But', work: 'H8'},
+instances: 130, word: 'Are', work: 'H8'},
+instances: 128, word: 'So', work: 'H8'},
+instances: 124, word: 'Lord', work: 'H8'},
+instances: 120, word: 'By', work: 'H8'},
+instances: 118, word: 'Good', work: 'H8'},
+instances: 112, word: 'What', work: 'H8'},
+instances: 110, word: 'Shall', work: 'H8'},
+instances: 105, word: 'They', work: 'H8'},
+instances: 101, word: 'Her', work: 'H8'},
+instances: 100, word: 'No', work: 'H8'},
+instances: 99, word: 'Will', work: 'H8'},
+instances: 98, word: 'Now', work: 'H8'},
+instances: 95, word: 'King', work: 'H8'},
+instances: 93, word: 'Th\'', work: 'H8'},
+instances: 90, word: 'From', work: 'H8'},
+instances: 88, word: 'Was', work: 'H8'},
+instances: 85, word: 'Would', work: 'H8'},
+instances: 83, word: 'More', work: 'H8'},
+instances: 83, word: 'Which', work: 'H8'},
+instances: 82, word: 'If', work: 'H8'},
+instances: 80, word: 'Sir', work: 'H8'},
+instances: 79, word: 'We', work: 'H8'},
+instances: 76, word: 'Do', work: 'H8'},
+instances: 76, word: 'On', work: 'H8'},
+instances: 75, word: 'Our', work: 'H8'},
+instances: 70, word: 'Their', work: 'H8'},
+instances: 66, word: 'Am', work: 'H8'},
+instances: 66, word: 'May', work: 'H8'},
+instances: 65, word: '\'em', work: 'H8'},
+instances: 65, word: '\'tis', work: 'H8'},
+instances: 64, word: 'How', work: 'H8'},
+instances: 63, word: 'At', work: 'H8'},
+instances: 62, word: 'One', work: 'H8'},
+instances: 61, word: 'Know', work: 'H8'},
+instances: 61, word: 'Man', work: 'H8'},
+instances: 61, word: 'Or', work: 'H8'},
+instances: 60, word: 'There', work: 'H8'},
+instances: 58, word: 'Yet', work: 'H8'},
+instances: 57, word: 'Must', work: 'H8'},
+instances: 57, word: 'Out', work: 'H8'},
+instances: 52, word: 'Such', work: 'H8'},
+instances: 51, word: 'Grace', work: 'H8'},
+instances: 51, word: 'Let', work: 'H8'},
+instances: 50, word: 'An', work: 'H8'},
+instances: 50, word: 'Than', work: 'H8'},
+instances: 50, word: 'These', work: 'H8'},
+instances: 50, word: 'Upon', work: 'H8'},
+instances: 50, word: 'Well', work: 'H8'},
+instances: 50, word: 'When', work: 'H8'},
+instances: 50, word: '\'t', work: 'H8'},
+instances: 49, word: 'Say', work: 'H8'},
+instances: 49, word: 'She', work: 'H8'},
+instances: 49, word: 'Too', work: 'H8'},
+instances: 48, word: 'Had', work: 'H8'},
+instances: 48, word: 'Most', work: 'H8'},
+instances: 47, word: 'Come', work: 'H8'},
+instances: 47, word: 'Noble', work: 'H8'},
+instances: 46, word: 'Cardinal', work: 'H8'},
+instances: 46, word: 'Has', work: 'H8'},
+instances: 46, word: 'Like', work: 'H8'},
+instances: 45, word: 'Heaven', work: 'H8'},
+instances: 45, word: 'Honor', work: 'H8'},
+instances: 45, word: 'Much', work: 'H8'},
+instances: 45, word: 'Then', work: 'H8'},
+instances: 44, word: 'Did', work: 'H8'},
+instances: 44, word: 'Make', work: 'H8'},
+instances: 43, word: 'Pray', work: 'H8'},
+instances: 43, word: 'Should', work: 'H8'},
+instances: 42, word: 'Ever', work: 'H8'},
+instances: 42, word: 'Us', work: 'H8'},
+instances: 40, word: 'Here', work: 'H8'},
+instances: 40, word: 'See', work: 'H8'},
+instances: 39, word: 'Great', work: 'H8'},
+instances: 39, word: 'Speak', work: 'H8'},
+instances: 39, word: 'Take', work: 'H8'},
+instances: 38, word: 'Were', work: 'H8'},
+instances: 37, word: 'Lords', work: 'H8'},
+instances: 36, word: 'Can', work: 'H8'},
+instances: 36, word: 'I\'ll', work: 'H8'},
+instances: 36, word: 'Queen', work: 'H8'},
+instances: 35, word: 'Made', work: 'H8'},
+instances: 35, word: 'Where', work: 'H8'},
+instances: 35, word: 'Who', work: 'H8'},
+instances: 34, word: 'King\'s', work: 'H8'},
+instances: 34, word: 'Think', work: 'H8'},
+instances: 33, word: 'Men', work: 'H8'},
+instances: 33, word: 'Mine', work: 'H8'},
+instances: 33, word: 'Never', work: 'H8'},
+instances: 33, word: 'O', work: 'H8'},
+instances: 33, word: 'Those', work: 'H8'},
+instances: 32, word: 'Give', work: 'H8'},
+instances: 32, word: 'Into', work: 'H8'},
+instances: 32, word: 'Lady', work: 'H8'},
+instances: 32, word: 'Little', work: 'H8'},
+instances: 32, word: 'Thy', work: 'H8'},
+instances: 31, word: 'Business', work: 'H8'},
+instances: 31, word: 'Leave', work: 'H8'},
+instances: 31, word: 'Some', work: 'H8'},
+instances: 30, word: 'O\'', work: 'H8'},
+instances: 29, word: 'Thus', work: 'H8'},
+instances: 29, word: 'Way', work: 'H8'},
+instances: 28, word: 'Against', work: 'H8'},
+instances: 28, word: 'Duke', work: 'H8'},
+instances: 28, word: 'Hear', work: 'H8'},
+instances: 28, word: 'Time', work: 'H8'},
+instances: 27, word: 'Again', work: 'H8'},
+instances: 27, word: 'Highness', work: 'H8'},
+instances: 26, word: 'God', work: 'H8'},
+instances: 26, word: 'Life', work: 'H8'},
+instances: 26, word: 'Please', work: 'H8'},
+instances: 25, word: 'Before', work: 'H8'},
+instances: 25, word: 'Find', work: 'H8'},
+instances: 25, word: 'Go', work: 'H8'},
+instances: 25, word: 'Madam', work: 'H8'},
+instances: 25, word: 'Own', work: 'H8'},
+instances: 25, word: 'Them', work: 'H8'},
+instances: 25, word: 'Thou', work: 'H8'},
+instances: 24, word: 'Conscience', work: 'H8'},
+instances: 24, word: 'Could', work: 'H8'},
+instances: 24, word: 'Hath', work: 'H8'},
+instances: 24, word: 'Long', work: 'H8'},
+instances: 24, word: 'Many', work: 'H8'},
+instances: 23, word: 'Fair', work: 'H8'},
+instances: 23, word: 'Far', work: 'H8'},
+instances: 23, word: 'Fear', work: 'H8'},
+instances: 23, word: 'Love', work: 'H8'},
+instances: 23, word: 'Place', work: 'H8'},
+instances: 23, word: 'Truth', work: 'H8'},
+instances: 23, word: 'Up', work: 'H8'},
+instances: 22, word: 'State', work: 'H8'},
+instances: 21, word: 'Cause', work: 'H8'},
+instances: 21, word: 'Day', work: 'H8'},
+instances: 21, word: 'Nor', work: 'H8'},
+instances: 21, word: 'Once', work: 'H8'},
+instances: 21, word: 'Still', work: 'H8'},
+instances: 21, word: 'Tell', work: 'H8'},
+instances: 20, word: 'Been', work: 'H8'},
+instances: 20, word: 'Cannot', work: 'H8'},
+instances: 20, word: 'Dare', work: 'H8'},
+instances: 20, word: 'Done', work: 'H8'},
+instances: 20, word: 'First', work: 'H8'},
+instances: 20, word: 'Heart', work: 'H8'},
+instances: 20, word: 'Master', work: 'H8'},
+instances: 20, word: 'Peace', work: 'H8'},
+instances: 20, word: 'Poor', work: 'H8'},
+instances: 20, word: 'Yes', work: 'H8'},
+instances: 19, word: 'Bear', work: 'H8'},
+instances: 19, word: 'Court', work: 'H8'},
+instances: 19, word: 'Full', work: 'H8'},
+instances: 19, word: 'Sent', work: 'H8'},
+instances: 19, word: 'Soul', work: 'H8'},
+instances: 19, word: 'Stand', work: 'H8'},
+instances: 19, word: 'Thomas', work: 'H8'},
+instances: 19, word: 'World', work: 'H8'},
+instances: 18, word: 'Hand', work: 'H8'},
+instances: 18, word: 'I\'', work: 'H8'},
+instances: 18, word: 'Thee', work: 'H8'},
+instances: 18, word: 'There\'s', work: 'H8'},
+instances: 18, word: 'Till', work: 'H8'},
+instances: 18, word: 'True', work: 'H8'},
+instances: 18, word: 'Woman', work: 'H8'},
+instances: 17, word: 'Any', work: 'H8'},
+instances: 17, word: 'Being', work: 'H8'},
+instances: 17, word: 'Best', work: 'H8'},
+instances: 17, word: 'Cromwell', work: 'H8'},
+instances: 17, word: 'Does', work: 'H8'},
+instances: 17, word: 'Ladies', work: 'H8'},
+instances: 17, word: 'Thank', work: 'H8'},
+instances: 17, word: 'Two', work: 'H8'},
+instances: 16, word: 'About', work: 'H8'},
+instances: 16, word: 'Fall', work: 'H8'},
+instances: 16, word: 'Further', work: 'H8'},
+instances: 16, word: 'Late', work: 'H8'},
+instances: 16, word: 'Other', work: 'H8'},
+instances: 16, word: 'Person', work: 'H8'},
+instances: 16, word: 'Royal', work: 'H8'},
+instances: 15, word: 'After', work: 'H8'},
+instances: 15, word: 'Better', work: 'H8'},
+instances: 15, word: 'Else', work: 'H8'},
+instances: 15, word: 'Name', work: 'H8'},
+instances: 15, word: 'Pleasure', work: 'H8'},
+instances: 15, word: 'Put', work: 'H8'},
+instances: 15, word: 'Said', work: 'H8'},
+instances: 15, word: 'Without', work: 'H8'},
+instances: 14, word: 'Both', work: 'H8'},
+instances: 14, word: 'Every', work: 'H8'},
+instances: 14, word: 'Friend', work: 'H8'},
+instances: 14, word: 'Friends', work: 'H8'},
+instances: 14, word: 'High', work: 'H8'},
+instances: 14, word: 'Hour', work: 'H8'},
+instances: 14, word: 'Indeed', work: 'H8'},
+instances: 14, word: 'Last', work: 'H8'},
+instances: 14, word: 'Live', work: 'H8'},
+instances: 14, word: 'Malice', work: 'H8'},
+instances: 14, word: 'Nay', work: 'H8'},
+instances: 14, word: 'None', work: 'H8'},
+instances: 14, word: 'Play', work: 'H8'},
+instances: 14, word: 'Though', work: 'H8'},
+instances: 14, word: 'Together', work: 'H8'},
+instances: 14, word: 'Tongue', work: 'H8'},
+instances: 14, word: 'Under', work: 'H8'},
+instances: 14, word: 'Yourself', work: 'H8'},
+instances: 13, word: 'Away', work: 'H8'},
+instances: 13, word: 'Buckingham', work: 'H8'},
+instances: 13, word: 'End', work: 'H8'},
+instances: 13, word: 'Gave', work: 'H8'},
+instances: 13, word: 'He\'s', work: 'H8'},
+instances: 13, word: 'Might', work: 'H8'},
+instances: 13, word: 'New', work: 'H8'},
+instances: 13, word: 'Old', work: 'H8'},
+instances: 13, word: 'Only', work: 'H8'},
+instances: 13, word: 'Prayers', work: 'H8'},
+instances: 13, word: 'Present', work: 'H8'},
+instances: 13, word: 'Saw', work: 'H8'},
+instances: 13, word: 'Sure', work: 'H8'},
+instances: 13, word: 'Whose', work: 'H8'},
+instances: 13, word: 'Wish', work: 'H8'},
+instances: 13, word: 'Words', work: 'H8'},
+instances: 12, word: 'Came', work: 'H8'},
+instances: 12, word: 'England', work: 'H8'},
+instances: 12, word: 'Father', work: 'H8'},
+instances: 12, word: 'Feel', work: 'H8'},
+instances: 12, word: 'Fell', work: 'H8'},
+instances: 12, word: 'Fellow', work: 'H8'},
+instances: 12, word: 'Found', work: 'H8'},
+instances: 12, word: 'Ha', work: 'H8'},
+instances: 12, word: 'Himself', work: 'H8'},
+instances: 12, word: 'Holy', work: 'H8'},
+instances: 12, word: 'Honest', work: 'H8'},
+instances: 12, word: 'Hope', work: 'H8'},
+instances: 12, word: 'Lay', work: 'H8'},
+instances: 12, word: 'Learnèd', work: 'H8'},
+instances: 12, word: 'Makes', work: 'H8'},
+instances: 12, word: 'Near', work: 'H8'},
+instances: 12, word: 'Part', work: 'H8'},
+instances: 12, word: 'Patience', work: 'H8'},
+instances: 12, word: 'Pity', work: 'H8'},
+instances: 12, word: 'Power', work: 'H8'},
+instances: 12, word: 'Reverend', work: 'H8'},
+instances: 12, word: 'Sweet', work: 'H8'},
+instances: 12, word: 'Very', work: 'H8'},
+instances: 12, word: 'Whom', work: 'H8'},
+instances: 12, word: 'Why', work: 'H8'},
+instances: 11, word: 'Back', work: 'H8'},
+instances: 11, word: 'Believe', work: 'H8'},
+instances: 11, word: 'Bold', work: 'H8'},
+instances: 11, word: 'Bring', work: 'H8'},
+instances: 11, word: 'Call', work: 'H8'},
+instances: 11, word: 'Canterbury', work: 'H8'},
+instances: 11, word: 'Down', work: 'H8'},
+instances: 11, word: 'Farewell', work: 'H8'},
+instances: 11, word: 'Goodness', work: 'H8'},
+instances: 11, word: 'Half', work: 'H8'},
+instances: 11, word: 'Heard', work: 'H8'},
+instances: 11, word: 'Highness\'', work: 'H8'},
+instances: 11, word: 'Kingdom', work: 'H8'},
+instances: 11, word: 'Mind', work: 'H8'},
+instances: 11, word: 'Nature', work: 'H8'},
+instances: 11, word: 'Service', work: 'H8'},
+instances: 11, word: 'Since', work: 'H8'},
+instances: 11, word: 'That\'s', work: 'H8'},
+instances: 11, word: 'You\'re', work: 'H8'},
+instances: 10, word: 'Alas', work: 'H8'},
+instances: 10, word: 'Among', work: 'H8'},
+instances: 10, word: 'Archbishop', work: 'H8'},
+instances: 10, word: 'Brought', work: 'H8'},
+instances: 10, word: 'Care', work: 'H8'},
+instances: 10, word: 'Comes', work: 'H8'},
+instances: 10, word: 'Council', work: 'H8'},
+instances: 10, word: 'Counsel', work: 'H8'},
+instances: 10, word: 'Death', work: 'H8'},
+instances: 10, word: 'Each', work: 'H8'},
+instances: 10, word: 'Faith', work: 'H8'},
+instances: 10, word: 'Favor', work: 'H8'},
+instances: 10, word: 'French', work: 'H8'},
+instances: 10, word: 'Gentle', work: 'H8'},
+instances: 10, word: 'Given', work: 'H8'},
+instances: 10, word: 'Griffith', work: 'H8'},
+instances: 10, word: 'Keep', work: 'H8'},
+instances: 10, word: 'Living', work: 'H8'},
+instances: 10, word: 'Mean', work: 'H8'},
+instances: 10, word: 'Myself', work: 'H8'},
+instances: 10, word: 'Nothing', work: 'H8'},
+instances: 10, word: 'Ones', work: 'H8'},
+instances: 10, word: 'Private', work: 'H8'},
+instances: 10, word: 'Right', work: 'H8'},
+instances: 10, word: 'Rome', work: 'H8'},
+instances: 10, word: 'Set', work: 'H8'},
+instances: 10, word: 'Sit', work: 'H8'},
+instances: 10, word: 'Thanks', work: 'H8'},
+instances: 10, word: 'Welcome', work: 'H8'},
+instances: 10, word: 'Wife', work: 'H8'},
+instances: 10, word: 'Women', work: 'H8'},
+instances: 10, word: '\'s', work: 'H8'},
+instances: 9, word: 'Bless', work: 'H8'},
+instances: 9, word: 'Comfort', work: 'H8'},
+instances: 9, word: 'Commission', work: 'H8'},
+instances: 9, word: 'Deserve', work: 'H8'},
+instances: 9, word: 'Door', work: 'H8'},
+instances: 9, word: 'Doubt', work: 'H8'},
+instances: 9, word: 'Duty', work: 'H8'},
+instances: 9, word: 'English', work: 'H8'},
+instances: 9, word: 'Even', work: 'H8'},
+instances: 9, word: 'Forgive', work: 'H8'},
+instances: 9, word: 'Glad', work: 'H8'},
+instances: 9, word: 'Gone', work: 'H8'},
+instances: 9, word: 'Graces', work: 'H8'},
+instances: 9, word: 'Happy', work: 'H8'},
+instances: 9, word: 'Hearts', work: 'H8'},
+instances: 9, word: 'Justice', work: 'H8'},
+instances: 9, word: 'Known', work: 'H8'},
+instances: 9, word: 'Left', work: 'H8'},
+instances: 9, word: 'Let\'s', work: 'H8'},
+instances: 9, word: 'Look', work: 'H8'},
+instances: 9, word: 'Loved', work: 'H8'},
+instances: 9, word: 'Next', work: 'H8'},
+instances: 9, word: 'Night', work: 'H8'},
+instances: 9, word: 'Off', work: 'H8'},
+instances: 9, word: 'Pass', work: 'H8'},
+instances: 9, word: 'Point', work: 'H8'},
+instances: 9, word: 'Read', work: 'H8'},
+instances: 9, word: 'Remember', work: 'H8'},
+instances: 9, word: 'Sad', work: 'H8'},
+instances: 9, word: 'Subject', work: 'H8'},
+instances: 9, word: 'Therefore', work: 'H8'},
+instances: 9, word: 'Times', work: 'H8'},
+instances: 9, word: 'Tower', work: 'H8'},
+instances: 9, word: 'Trial', work: 'H8'},
+instances: 9, word: 'Virtue', work: 'H8'},
+instances: 9, word: 'Witness', work: 'H8'},
+instances: 9, word: 'Yea', work: 'H8'},
+instances: 9, word: 'Young', work: 'H8'},
+instances: 8, word: 'Above', work: 'H8'},
+instances: 8, word: 'Almost', work: 'H8'},
+instances: 8, word: 'Ay', work: 'H8'},
+instances: 8, word: 'Charge', work: 'H8'},
+instances: 8, word: 'Christian', work: 'H8'},
+instances: 8, word: 'Cry', work: 'H8'},
+instances: 8, word: 'Devil', work: 'H8'},
+instances: 8, word: 'Eye', work: 'H8'},
+instances: 8, word: 'Eyes', work: 'H8'},
+instances: 8, word: 'Fears', work: 'H8'},
+instances: 8, word: 'Fit', work: 'H8'},
+instances: 8, word: 'Forever', work: 'H8'},
+instances: 8, word: 'France', work: 'H8'},
+instances: 8, word: 'Free', work: 'H8'},
+instances: 8, word: 'Gentleman', work: 'H8'},
+instances: 8, word: 'Glory', work: 'H8'},
+instances: 8, word: 'Greatness', work: 'H8'},
+instances: 8, word: 'Grow', work: 'H8'},
+instances: 8, word: 'Head', work: 'H8'},
+instances: 8, word: 'Hold', work: 'H8'},
+instances: 8, word: 'Honesty', work: 'H8'},
+instances: 8, word: 'Honors', work: 'H8'},
+instances: 8, word: 'Ill', work: 'H8'},
+instances: 8, word: 'Judge', work: 'H8'},
+instances: 8, word: 'Land', work: 'H8'},
+instances: 8, word: 'Lovell', work: 'H8'},
+instances: 8, word: 'Marriage', work: 'H8'},
+instances: 8, word: 'Meant', work: 'H8'},
+instances: 8, word: 'Merry', work: 'H8'},
+instances: 8, word: 'Obedience', work: 'H8'},
+instances: 8, word: 'Princes', work: 'H8'},
+instances: 8, word: 'Show', work: 'H8'},
+instances: 8, word: 'Sick', work: 'H8'},
+instances: 8, word: 'Something', work: 'H8'},
+instances: 8, word: 'Sorry', work: 'H8'},
+instances: 8, word: 'Strange', work: 'H8'},
+instances: 8, word: 'Sun', work: 'H8'},
+instances: 8, word: 'Things', work: 'H8'},
+instances: 8, word: 'Thought', work: 'H8'},
+instances: 8, word: 'Thousand', work: 'H8'},
+instances: 8, word: 'Turn', work: 'H8'},
+instances: 7, word: 'Able', work: 'H8'},
+instances: 7, word: 'Already', work: 'H8'},
+instances: 7, word: 'Answer', work: 'H8'},
+instances: 7, word: 'Attend', work: 'H8'},
+instances: 7, word: 'Beauty', work: 'H8'},
+instances: 7, word: 'Bid', work: 'H8'},
+instances: 7, word: 'Blessings', work: 'H8'},
+instances: 7, word: 'Blood', work: 'H8'},
+instances: 7, word: 'Called', work: 'H8'},
+instances: 7, word: 'Cardinal\'s', work: 'H8'},
+instances: 7, word: 'Certain', work: 'H8'},
+instances: 7, word: 'Charity', work: 'H8'},
+instances: 7, word: 'Cranmer', work: 'H8'},
+instances: 7, word: 'Daughter', work: 'H8'},
+instances: 7, word: 'Deliver', work: 'H8'},
+instances: 7, word: 'Divorce', work: 'H8'},
+instances: 7, word: 'Emperor', work: 'H8'},
+instances: 7, word: 'Envy', work: 'H8'},
+instances: 7, word: 'Face', work: 'H8'},
+instances: 7, word: 'Follows', work: 'H8'},
+instances: 7, word: 'God\'s', work: 'H8'},
+instances: 7, word: 'Got', work: 'H8'},
+instances: 7, word: 'Heads', work: 'H8'},
+instances: 7, word: 'Heartily', work: 'H8'},
+instances: 7, word: 'Held', work: 'H8'},
+instances: 7, word: 'Joy', work: 'H8'},
+instances: 7, word: 'Judgment', work: 'H8'},
+instances: 7, word: 'Katherine', work: 'H8'},
+instances: 7, word: 'Knew', work: 'H8'},
+instances: 7, word: 'Knows', work: 'H8'},
+instances: 7, word: 'Law', work: 'H8'},
+instances: 7, word: 'Lordship', work: 'H8'},
+instances: 7, word: 'Lost', work: 'H8'},
+instances: 7, word: 'Loves', work: 'H8'},
+instances: 7, word: 'Majesty', work: 'H8'},
+instances: 7, word: 'Met', work: 'H8'},
+instances: 7, word: 'News', work: 'H8'},
+instances: 7, word: 'Ne\'er', work: 'H8'},
+instances: 7, word: 'Office', work: 'H8'},
+instances: 7, word: 'Open', work: 'H8'},
+instances: 7, word: 'O\'er', work: 'H8'},
+instances: 7, word: 'Pleasures', work: 'H8'},
+instances: 7, word: 'Presence', work: 'H8'},
+instances: 7, word: 'Prithee', work: 'H8'},
+instances: 7, word: 'Proceed', work: 'H8'},
+instances: 7, word: 'Prove', work: 'H8'},
+instances: 7, word: 'Ready', work: 'H8'},
+instances: 7, word: 'Sake', work: 'H8'},
+instances: 7, word: 'Servant', work: 'H8'},
+instances: 7, word: 'Sound', work: 'H8'},
+instances: 7, word: 'Spoke', work: 'H8'},
+instances: 7, word: 'Sudden', work: 'H8'},
+instances: 7, word: 'Use', work: 'H8'},
+instances: 7, word: 'What\'s', work: 'H8'},
+instances: 7, word: 'Whole', work: 'H8'},
+instances: 7, word: 'Worthy', work: 'H8'},
+instances: 7, word: 'York', work: 'H8'},
+instances: 7, word: 'You\'ll', work: 'H8'},
+instances: 6, word: 'Alone', work: 'H8'},
+instances: 6, word: 'Although', work: 'H8'},
+instances: 6, word: 'Angels', work: 'H8'},
+instances: 6, word: 'Anger', work: 'H8'},
+instances: 6, word: 'Another', work: 'H8'},
+instances: 6, word: 'Art', work: 'H8'},
+instances: 6, word: 'Bed', work: 'H8'},
+instances: 6, word: 'Beseech', work: 'H8'},
+instances: 6, word: 'Between', work: 'H8'},
+instances: 6, word: 'Betwixt', work: 'H8'},
+instances: 6, word: 'Beyond', work: 'H8'},
+instances: 6, word: 'Bound', work: 'H8'},
+instances: 6, word: 'Burden', work: 'H8'},
+instances: 6, word: 'Clear', work: 'H8'},
+instances: 6, word: 'Coming', work: 'H8'},
+instances: 6, word: 'Commanded', work: 'H8'},
+instances: 6, word: 'Company', work: 'H8'},
+instances: 6, word: 'Course', work: 'H8'},
+instances: 6, word: 'Crown', work: 'H8'},
+instances: 6, word: 'Cure', work: 'H8'},
+instances: 6, word: 'Days', work: 'H8'},
+instances: 6, word: 'Earth', work: 'H8'},
+instances: 6, word: 'Either', work: 'H8'},
+instances: 6, word: 'Fail', work: 'H8'},
+instances: 6, word: 'Falls', work: 'H8'},
+instances: 6, word: 'Few', work: 'H8'},
+instances: 6, word: 'Fortune', work: 'H8'},
+instances: 6, word: 'Freely', work: 'H8'},
+instances: 6, word: 'General', work: 'H8'},
+instances: 6, word: 'Gentlemen', work: 'H8'},
+instances: 6, word: 'Gracious', work: 'H8'},
+instances: 6, word: 'Hands', work: 'H8'},
+instances: 6, word: 'Hast', work: 'H8'},
+instances: 6, word: 'Heed', work: 'H8'},
+instances: 6, word: 'Henry', work: 'H8'},
+instances: 6, word: 'Hither', work: 'H8'},
+instances: 6, word: 'Hopes', work: 'H8'},
+instances: 6, word: 'House', work: 'H8'},
+instances: 6, word: 'Laid', work: 'H8'},
+instances: 6, word: 'Lead', work: 'H8'},
+instances: 6, word: 'Least', work: 'H8'},
+instances: 6, word: 'Lie', work: 'H8'},
+instances: 6, word: 'Looks', work: 'H8'},
+instances: 6, word: 'Lose', work: 'H8'},
+instances: 6, word: 'Mercy', work: 'H8'},
+instances: 6, word: 'Morning', work: 'H8'},
+instances: 6, word: 'Music', work: 'H8'},
+instances: 6, word: 'Note', work: 'H8'},
+instances: 6, word: 'Paper', work: 'H8'},
+instances: 6, word: 'Pardon', work: 'H8'},
+instances: 6, word: 'People', work: 'H8'},
+instances: 6, word: 'Prince', work: 'H8'},
+instances: 6, word: 'Princess', work: 'H8'},
+instances: 6, word: 'Respect', work: 'H8'},
+instances: 6, word: 'Rest', work: 'H8'},
+instances: 6, word: 'Same', work: 'H8'},
+instances: 6, word: 'Save', work: 'H8'},
+instances: 6, word: 'Seal', work: 'H8'},
+instances: 6, word: 'Shame', work: 'H8'},
+instances: 6, word: 'Sovereign', work: 'H8'},
+instances: 6, word: 'Stay', work: 'H8'},
+instances: 6, word: 'Stood', work: 'H8'},
+instances: 6, word: 'Talk', work: 'H8'},
+instances: 6, word: 'Title', work: 'H8'},
+instances: 6, word: 'Truly', work: 'H8'},
+instances: 6, word: 'T\'', work: 'H8'},
+instances: 6, word: 'Unto', work: 'H8'},
+instances: 6, word: 'Virtues', work: 'H8'},
+instances: 6, word: 'Voice', work: 'H8'},
+instances: 6, word: 'Weak', work: 'H8'},
+instances: 6, word: 'While', work: 'H8'},
+instances: 6, word: 'Winchester', work: 'H8'},
+instances: 6, word: 'Wisdom', work: 'H8'},
+instances: 6, word: 'Wolsey', work: 'H8'},
+instances: 6, word: 'Work', work: 'H8'},
+instances: 6, word: 'Worst', work: 'H8'},
+instances: 6, word: 'Wrong', work: 'H8'},
+instances: 6, word: '\'twill', work: 'H8'},
+instances: 5, word: 'Affairs', work: 'H8'},
+instances: 5, word: 'Allowed', work: 'H8'},
+instances: 5, word: 'Amen', work: 'H8'},
+instances: 5, word: 'Anne', work: 'H8'},
+instances: 5, word: 'Anon', work: 'H8'},
+instances: 5, word: 'Appear', work: 'H8'},
+instances: 5, word: 'Ask', work: 'H8'},
+instances: 5, word: 'Banquet', work: 'H8'},
+instances: 5, word: 'Become', work: 'H8'},
+instances: 5, word: 'Break', work: 'H8'},
+instances: 5, word: 'Cast', work: 'H8'},
+instances: 5, word: 'Chamber', work: 'H8'},
+instances: 5, word: 'Chamberlain', work: 'H8'},
+instances: 5, word: 'Charles', work: 'H8'},
+instances: 5, word: 'Close', work: 'H8'},
+instances: 5, word: 'Coronation', work: 'H8'},
+instances: 5, word: 'Corrupt', work: 'H8'},
+instances: 5, word: 'Creature', work: 'H8'},
+instances: 5, word: 'Cried', work: 'H8'},
+instances: 5, word: 'Dear', work: 'H8'},
+instances: 5, word: 'Desire', work: 'H8'},
+instances: 5, word: 'Draw', work: 'H8'},
+instances: 5, word: 'Duchess', work: 'H8'},
+instances: 5, word: 'Earl', work: 'H8'},
+instances: 5, word: 'Easy', work: 'H8'},
+instances: 5, word: 'Ends', work: 'H8'},
+instances: 5, word: 'Enemies', work: 'H8'},
+instances: 5, word: 'Ere', work: 'H8'},
+instances: 5, word: 'False', work: 'H8'},
+instances: 5, word: 'Finger', work: 'H8'},
+instances: 5, word: 'Follow', work: 'H8'},
+instances: 5, word: 'Followed', work: 'H8'},
+instances: 5, word: 'Fool', work: 'H8'},
+instances: 5, word: 'Forth', work: 'H8'},
+instances: 5, word: 'Forward', work: 'H8'},
+instances: 5, word: 'Get', work: 'H8'},
+instances: 5, word: 'Guilty', work: 'H8'},
+instances: 5, word: 'Haste', work: 'H8'},
+instances: 5, word: 'Having', work: 'H8'},
+instances: 5, word: 'Health', work: 'H8'},
+instances: 5, word: 'Humble', work: 'H8'},
+instances: 5, word: 'Humbly', work: 'H8'},
+instances: 5, word: 'Integrity', work: 'H8'},
+instances: 5, word: 'Issue', work: 'H8'},
+instances: 5, word: 'It\'s', work: 'H8'},
+instances: 5, word: 'Just', work: 'H8'},
+instances: 5, word: 'Kind', work: 'H8'},
+instances: 5, word: 'Language', work: 'H8'},
+instances: 5, word: 'Load', work: 'H8'},
+instances: 5, word: 'Longer', work: 'H8'},
+instances: 5, word: 'Main', work: 'H8'},
+instances: 5, word: 'Marry', work: 'H8'},
+instances: 5, word: 'Mouth', work: 'H8'},
+instances: 5, word: 'Moved', work: 'H8'},
+instances: 5, word: 'Needs', work: 'H8'},
+instances: 5, word: 'Neither', work: 'H8'},
+instances: 5, word: 'Norfolk', work: 'H8'},
+instances: 5, word: 'Oft', work: 'H8'},
+instances: 5, word: 'Opinion', work: 'H8'},
+instances: 5, word: 'Pleased', work: 'H8'},
+instances: 5, word: 'Pomp', work: 'H8'},
+instances: 5, word: 'Pope', work: 'H8'},
+instances: 5, word: 'Presently', work: 'H8'},
+instances: 5, word: 'Pride', work: 'H8'},
+instances: 5, word: 'Priest', work: 'H8'},
+instances: 5, word: 'Promises', work: 'H8'},
+instances: 5, word: 'Queen\'s', work: 'H8'},
+instances: 5, word: 'Quiet', work: 'H8'},
+instances: 5, word: 'Require', work: 'H8'},
+instances: 5, word: 'Ruin', work: 'H8'},
+instances: 5, word: 'Run', work: 'H8'},
+instances: 5, word: 'Scruple', work: 'H8'},
+instances: 5, word: 'Secretary', work: 'H8'},
+instances: 5, word: 'Seek', work: 'H8'},
+instances: 5, word: 'Sharp', work: 'H8'},
+instances: 5, word: 'Short', work: 'H8'},
+instances: 5, word: 'Sin', work: 'H8'},
+instances: 5, word: 'Sleep', work: 'H8'},
+instances: 5, word: 'Sorrow', work: 'H8'},
+instances: 5, word: 'Stands', work: 'H8'},
+instances: 5, word: 'Strangely', work: 'H8'},
+instances: 5, word: 'Suit', work: 'H8'},
+instances: 5, word: 'Swear', work: 'H8'},
+instances: 5, word: 'Ta\'en', work: 'H8'},
+instances: 5, word: 'Tears', work: 'H8'},
+instances: 5, word: 'Tender', work: 'H8'},
+instances: 5, word: 'Thoughts', work: 'H8'},
+instances: 5, word: 'Three', work: 'H8'},
+instances: 5, word: 'Through', work: 'H8'},
+instances: 5, word: 'Tongues', work: 'H8'},
+instances: 5, word: 'Virtuous', work: 'H8'},
+instances: 5, word: 'Weep', work: 'H8'},
+instances: 5, word: 'Weighty', work: 'H8'},
+instances: 5, word: 'Wench', work: 'H8'},
+instances: 5, word: 'Wherein', work: 'H8'},
+instances: 5, word: 'Who\'s', work: 'H8'},
+instances: 5, word: 'Win', work: 'H8'},
+instances: 5, word: 'Wise', work: 'H8'},
+instances: 5, word: 'Within', work: 'H8'},
+instances: 5, word: 'Wretched', work: 'H8'},
+instances: 5, word: 'Writ', work: 'H8'},
+instances: 4, word: 'Act', work: 'H8'},
+instances: 4, word: 'Advise', work: 'H8'},
+instances: 4, word: 'Along', work: 'H8'},
+instances: 4, word: 'Ambassador', work: 'H8'},
+instances: 4, word: 'Ambition', work: 'H8'},
+instances: 4, word: 'Arms', work: 'H8'},
+instances: 4, word: 'Articles', work: 'H8'},
+instances: 4, word: 'Behold', work: 'H8'},
+instances: 4, word: 'Beholding', work: 'H8'},
+instances: 4, word: 'Besides', work: 'H8'},
+instances: 4, word: 'Bishop', work: 'H8'},
+instances: 4, word: 'Black', work: 'H8'},
+instances: 4, word: 'Boy', work: 'H8'},
+instances: 4, word: 'Boys', work: 'H8'},
+instances: 4, word: 'Breast', work: 'H8'},
+instances: 4, word: 'Carry', work: 'H8'},
+instances: 4, word: 'Child', work: 'H8'},
+instances: 4, word: 'Chosen', work: 'H8'},
+instances: 4, word: 'Christendom', work: 'H8'},
+instances: 4, word: 'Cold', work: 'H8'},
+instances: 4, word: 'Command', work: 'H8'},
+instances: 4, word: 'Committed', work: 'H8'},
+instances: 4, word: 'Confess', work: 'H8'},
+instances: 4, word: 'Confessor', work: 'H8'},
+instances: 4, word: 'Content', work: 'H8'},
+instances: 4, word: 'Contrary', work: 'H8'},
+instances: 4, word: 'Danger', work: 'H8'},
+instances: 4, word: 'Dangerous', work: 'H8'},
+instances: 4, word: 'Dead', work: 'H8'},
+instances: 4, word: 'Deed', work: 'H8'},
+instances: 4, word: 'Deny', work: 'H8'},
+instances: 4, word: 'Desired', work: 'H8'},
+instances: 4, word: 'Die', work: 'H8'},
+instances: 4, word: 'Died', work: 'H8'},
+instances: 4, word: 'Dignities', work: 'H8'},
+instances: 4, word: 'Displeasure', work: 'H8'},
+instances: 4, word: 'Doing', work: 'H8'},
+instances: 4, word: 'Dread', work: 'H8'},
+instances: 4, word: 'Durst', work: 'H8'},
+instances: 4, word: 'Earthly', work: 'H8'},
+instances: 4, word: 'Enough', work: 'H8'},
+instances: 4, word: 'Entreat', work: 'H8'},
+instances: 4, word: 'Equal', work: 'H8'},
+instances: 4, word: 'Fairly', work: 'H8'},
+instances: 4, word: 'Fall\'n', work: 'H8'},
+instances: 4, word: 'Fathers', work: 'H8'},
+instances: 4, word: 'Fire', work: 'H8'},
+instances: 4, word: 'Foreign', work: 'H8'},
+instances: 4, word: 'Fortunes', work: 'H8'},
+instances: 4, word: 'Gardiner', work: 'H8'},
+instances: 4, word: 'Goes', work: 'H8'},
+instances: 4, word: 'Going', work: 'H8'},
+instances: 4, word: 'Grave', work: 'H8'},
+instances: 4, word: 'Greater', work: 'H8'},
+instances: 4, word: 'Hard', work: 'H8'},
+instances: 4, word: 'Hate', work: 'H8'},
+instances: 4, word: 'Hearing', work: 'H8'},
+instances: 4, word: 'Help', work: 'H8'},
+instances: 4, word: 'Hence', work: 'H8'},
+instances: 4, word: 'Hit', work: 'H8'},
+instances: 4, word: 'Holiness', work: 'H8'},
+instances: 4, word: 'I\'m', work: 'H8'},
+instances: 4, word: 'Kiss', work: 'H8'},
+instances: 4, word: 'Labor', work: 'H8'},
+instances: 4, word: 'Laws', work: 'H8'},
+instances: 4, word: 'League', work: 'H8'},
+instances: 4, word: 'Learning', work: 'H8'},
+instances: 4, word: 'Less', work: 'H8'},
+instances: 4, word: 'Letter', work: 'H8'},
+instances: 4, word: 'Letters', work: 'H8'},
+instances: 4, word: 'Liege', work: 'H8'},
+instances: 4, word: 'Limbs', work: 'H8'},
+instances: 4, word: 'Lived', work: 'H8'},
+instances: 4, word: 'Mad', work: 'H8'},
+instances: 4, word: 'Manners', work: 'H8'},
+instances: 4, word: 'Man\'s', work: 'H8'},
+instances: 4, word: 'Mark', work: 'H8'},
+instances: 4, word: 'Matter', work: 'H8'},
+instances: 4, word: 'Means', work: 'H8'},
+instances: 4, word: 'Men\'s', work: 'H8'},
+instances: 4, word: 'Mere', work: 'H8'},
+instances: 4, word: 'Methinks', work: 'H8'},
+instances: 4, word: 'Mighty', work: 'H8'},
+instances: 4, word: 'Mischief', work: 'H8'},
+instances: 4, word: 'Moment', work: 'H8'},
+instances: 4, word: 'Monk', work: 'H8'},
+instances: 4, word: 'Need', work: 'H8'},
+instances: 4, word: 'Over', work: 'H8'},
+instances: 4, word: 'Pace', work: 'H8'},
+instances: 4, word: 'Parted', work: 'H8'},
+instances: 4, word: 'Parts', work: 'H8'},
+instances: 4, word: 'Perceive', work: 'H8'},
+instances: 4, word: 'Persons', work: 'H8'},
+instances: 4, word: 'Physic', work: 'H8'},
+instances: 4, word: 'Piece', work: 'H8'},
+instances: 4, word: 'Princely', work: 'H8'},
+instances: 4, word: 'Prisoner', work: 'H8'},
+instances: 4, word: 'Profess', work: 'H8'},
+instances: 4, word: 'Pronounce', work: 'H8'},
+instances: 4, word: 'Proud', work: 'H8'},
+instances: 4, word: 'Question', work: 'H8'},
+instances: 4, word: 'Reach', work: 'H8'},
+instances: 4, word: 'Receive', work: 'H8'},
+instances: 4, word: 'Received', work: 'H8'},
+instances: 4, word: 'Return', work: 'H8'},
+instances: 4, word: 'Ring', work: 'H8'},
+instances: 4, word: 'Rise', work: 'H8'},
+instances: 4, word: 'Root', work: 'H8'},
+instances: 4, word: 'Rude', work: 'H8'},
+instances: 4, word: 'Running', work: 'H8'},
+instances: 4, word: 'Sands', work: 'H8'},
+instances: 4, word: 'Sea', work: 'H8'},
+instances: 4, word: 'Secret', work: 'H8'},
+instances: 4, word: 'Self', work: 'H8'},
+instances: 4, word: 'She\'s', work: 'H8'},
+instances: 4, word: 'Showed', work: 'H8'},
+instances: 4, word: 'Single', work: 'H8'},
+instances: 4, word: 'Sorrows', work: 'H8'},
+instances: 4, word: 'Spare', work: 'H8'},
+instances: 4, word: 'Spirit', work: 'H8'},
+instances: 4, word: 'Spirits', work: 'H8'},
+instances: 4, word: 'Story', work: 'H8'},
+instances: 4, word: 'Strong', work: 'H8'},
+instances: 4, word: 'Stubborn', work: 'H8'},
+instances: 4, word: 'Suddenly', work: 'H8'},
+instances: 4, word: 'Suffer', work: 'H8'},
+instances: 4, word: 'Surely', work: 'H8'},
+instances: 4, word: 'Surrey', work: 'H8'},
+instances: 4, word: 'Surveyor', work: 'H8'},
+instances: 4, word: 'Thither', work: 'H8'},
+instances: 4, word: 'Told', work: 'H8'},
+instances: 4, word: 'Toward', work: 'H8'},
+instances: 4, word: 'Traitor', work: 'H8'},
+instances: 4, word: 'Troth', work: 'H8'},
+instances: 4, word: 'Twenty', work: 'H8'},
+instances: 4, word: 'Unmannerly', work: 'H8'},
+instances: 4, word: 'Used', work: 'H8'},
+instances: 4, word: 'Venture', work: 'H8'},
+instances: 4, word: 'View', work: 'H8'},
+instances: 4, word: 'Wait', work: 'H8'},
+instances: 4, word: 'Walk', work: 'H8'},
+instances: 4, word: 'Ways', work: 'H8'},
+instances: 4, word: 'Wealth', work: 'H8'},
+instances: 4, word: 'Went', work: 'H8'},
+instances: 4, word: 'Wild', work: 'H8'},
+instances: 4, word: 'Wishes', work: 'H8'},
+instances: 4, word: 'Wit', work: 'H8'},
+instances: 4, word: 'Woe', work: 'H8'},
+instances: 4, word: 'Worth', work: 'H8'},
+instances: 4, word: 'Years', work: 'H8'},
+instances: 4, word: '\'twas', work: 'H8'},
+instances: 3, word: 'Abroad', work: 'H8'},
+instances: 3, word: 'Accuse', work: 'H8'},
+instances: 3, word: 'Accusers', work: 'H8'},
+instances: 3, word: 'Actions', work: 'H8'},
+instances: 3, word: 'Advised', work: 'H8'},
+instances: 3, word: 'Ah', work: 'H8'},
+instances: 3, word: 'Alike', work: 'H8'},
+instances: 3, word: 'Altered', work: 'H8'},
+instances: 3, word: 'Amongst', work: 'H8'},
+instances: 3, word: 'Anything', work: 'H8'},
+instances: 3, word: 'Appeal', work: 'H8'},
+instances: 3, word: 'Appears', work: 'H8'},
+instances: 3, word: 'Arise', work: 'H8'},
+instances: 3, word: 'Ashes', work: 'H8'},
+instances: 3, word: 'Assure', work: 'H8'},
+instances: 3, word: 'Aught', work: 'H8'},
+instances: 3, word: 'Authority', work: 'H8'},
+instances: 3, word: 'Bar', work: 'H8'},
+instances: 3, word: 'Barge', work: 'H8'},
+instances: 3, word: 'Base', work: 'H8'},
+instances: 3, word: 'Bears', work: 'H8'},
+instances: 3, word: 'Because', work: 'H8'},
+instances: 3, word: 'Belong', work: 'H8'},
+instances: 3, word: 'Bestow', work: 'H8'},
+instances: 3, word: 'Bitter', work: 'H8'},
+instances: 3, word: 'Blame', work: 'H8'},
+instances: 3, word: 'Blessed', work: 'H8'},
+instances: 3, word: 'Blessèd', work: 'H8'},
+instances: 3, word: 'Blushing', work: 'H8'},
+instances: 3, word: 'Body', work: 'H8'},
+instances: 3, word: 'Born', work: 'H8'},
+instances: 3, word: 'Bosom', work: 'H8'},
+instances: 3, word: 'Breach', work: 'H8'},
+instances: 3, word: 'Breed', work: 'H8'},
+instances: 3, word: 'Bright', work: 'H8'},
+instances: 3, word: 'Broke', work: 'H8'},
+instances: 3, word: 'Broken', work: 'H8'},
+instances: 3, word: 'Brother', work: 'H8'},
+instances: 3, word: 'Bullen', work: 'H8'},
+instances: 3, word: 'Butts', work: 'H8'},
+instances: 3, word: 'Campeius', work: 'H8'},
+instances: 3, word: 'Car', work: 'H8'},
+instances: 3, word: 'Cardinals', work: 'H8'},
+instances: 3, word: 'Chair', work: 'H8'},
+instances: 3, word: 'Choice', work: 'H8'},
+instances: 3, word: 'Christening', work: 'H8'},
+instances: 3, word: 'Churchman', work: 'H8'},
+instances: 3, word: 'Comforts', work: 'H8'},
+instances: 3, word: 'Conduct', work: 'H8'},
+instances: 3, word: 'Confirm', work: 'H8'},
+instances: 3, word: 'Continue', work: 'H8'},
+instances: 3, word: 'Councillor', work: 'H8'},
+instances: 3, word: 'Counsels', work: 'H8'},
+instances: 3, word: 'Cruel', work: 'H8'},
+instances: 3, word: 'Curses', work: 'H8'},
+instances: 3, word: 'Daily', work: 'H8'},
+instances: 3, word: 'De', work: 'H8'},
+instances: 3, word: 'Deep', work: 'H8'},
+instances: 3, word: 'Difference', work: 'H8'},
+instances: 3, word: 'Dowager', work: 'H8'},
+instances: 3, word: 'Dwell', work: 'H8'},
+instances: 3, word: 'Ear', work: 'H8'},
+instances: 3, word: 'Ease', work: 'H8'},
+instances: 3, word: 'Endure', work: 'H8'},
+instances: 3, word: 'Enemy', work: 'H8'},
+instances: 3, word: 'Envious', work: 'H8'},
+instances: 3, word: 'Everything', work: 'H8'},
+instances: 3, word: 'Evil', work: 'H8'},
+instances: 3, word: 'Ev\'ry', work: 'H8'},
+instances: 3, word: 'Example', work: 'H8'},
+instances: 3, word: 'Excuse', work: 'H8'},
+instances: 3, word: 'Faces', work: 'H8'},
+instances: 3, word: 'Falling', work: 'H8'},
+instances: 3, word: 'Fast', work: 'H8'},
+instances: 3, word: 'Faults', work: 'H8'},
+instances: 3, word: 'Favors', work: 'H8'},
+instances: 3, word: 'Feared', work: 'H8'},
+instances: 3, word: 'Fed', work: 'H8'},
+instances: 3, word: 'Fellows', work: 'H8'},
+instances: 3, word: 'Fie', work: 'H8'},
+instances: 3, word: 'File', work: 'H8'},
+instances: 3, word: 'Flow', work: 'H8'},
+instances: 3, word: 'Force', work: 'H8'},
+instances: 3, word: 'Forsake', work: 'H8'},
+instances: 3, word: 'Forty', work: 'H8'},
+instances: 3, word: 'Four', work: 'H8'},
+instances: 3, word: 'Freeze', work: 'H8'},
+instances: 3, word: 'Fresh', work: 'H8'},
+instances: 3, word: 'Gain', work: 'H8'},
+instances: 3, word: 'Gives', work: 'H8'},
+instances: 3, word: 'Gold', work: 'H8'},
+instances: 3, word: 'Grief', work: 'H8'},
+instances: 3, word: 'Grieve', work: 'H8'},
+instances: 3, word: 'Growing', work: 'H8'},
+instances: 3, word: 'Grown', work: 'H8'},
+instances: 3, word: 'Grows', work: 'H8'},
+instances: 3, word: 'Guess', work: 'H8'},
+instances: 3, word: 'Happily', work: 'H8'},
+instances: 3, word: 'Happiness', work: 'H8'},
+instances: 3, word: 'Heir', work: 'H8'},
+instances: 3, word: 'Hell', work: 'H8'},
+instances: 3, word: 'Home', work: 'H8'},
+instances: 3, word: 'Hot', work: 'H8'},
+instances: 3, word: 'Hours', work: 'H8'},
+instances: 3, word: 'Husband', work: 'H8'},
+instances: 3, word: 'Innocence', work: 'H8'},
+instances: 3, word: 'Inventory', work: 'H8'},
+instances: 3, word: 'Jewel', work: 'H8'},
+instances: 3, word: 'John', work: 'H8'},
+instances: 3, word: 'Joyful', work: 'H8'},
+instances: 3, word: 'Kept', work: 'H8'},
+instances: 3, word: 'Knaves', work: 'H8'},
+instances: 3, word: 'Knife', work: 'H8'},
+instances: 3, word: 'Knowledge', work: 'H8'},
+instances: 3, word: 'Leaves', work: 'H8'},
+instances: 3, word: 'Length', work: 'H8'},
+instances: 3, word: 'Lo', work: 'H8'},
+instances: 3, word: 'Looked', work: 'H8'},
+instances: 3, word: 'Loose', work: 'H8'},
+instances: 3, word: 'Loss', work: 'H8'},
+instances: 3, word: 'Loyalty', work: 'H8'},
+instances: 3, word: 'Malicious', work: 'H8'},
+instances: 3, word: 'Manner', work: 'H8'},
+instances: 3, word: 'Marchioness', work: 'H8'},
+instances: 3, word: 'Married', work: 'H8'},
+instances: 3, word: 'Meditations', work: 'H8'},
+instances: 3, word: 'Meekness', work: 'H8'},
+instances: 3, word: 'Meet', work: 'H8'},
+instances: 3, word: 'Mend', work: 'H8'},
+instances: 3, word: 'Minister', work: 'H8'},
+instances: 3, word: 'Miseries', work: 'H8'},
+instances: 3, word: 'Mistress', work: 'H8'},
+instances: 3, word: 'Mistress\'', work: 'H8'},
+instances: 3, word: 'Modest', work: 'H8'},
+instances: 3, word: 'Modesty', work: 'H8'},
+instances: 3, word: 'Mouths', work: 'H8'},
+instances: 3, word: 'Naught', work: 'H8'},
+instances: 3, word: 'Neighbors', work: 'H8'},
+instances: 3, word: 'Nicholas', work: 'H8'},
+instances: 3, word: 'Nobility', work: 'H8'},
+instances: 3, word: 'Nobly', work: 'H8'},
+instances: 3, word: 'Noise', work: 'H8'},
+instances: 3, word: 'Nose', work: 'H8'},
+instances: 3, word: 'Notice', work: 'H8'},
+instances: 3, word: 'Occasion', work: 'H8'},
+instances: 3, word: 'Offenses', work: 'H8'},
+instances: 3, word: 'Offer', work: 'H8'},
+instances: 3, word: 'Offices', work: 'H8'},
+instances: 3, word: 'Opinions', work: 'H8'},
+instances: 3, word: 'Order', work: 'H8'},
+instances: 3, word: 'Others', work: 'H8'},
+instances: 3, word: 'Packet', work: 'H8'},
+instances: 3, word: 'Pages', work: 'H8'},
+instances: 3, word: 'Particular', work: 'H8'},
+instances: 3, word: 'Passed', work: 'H8'},
+instances: 3, word: 'Past', work: 'H8'},
+instances: 3, word: 'Peck', work: 'H8'},
+instances: 3, word: 'Pembroke', work: 'H8'},
+instances: 3, word: 'Penance', work: 'H8'},
+instances: 3, word: 'Perish', work: 'H8'},
+instances: 3, word: 'Petition', work: 'H8'},
+instances: 3, word: 'Practices', work: 'H8'},
+instances: 3, word: 'Prayed', work: 'H8'},
+instances: 3, word: 'Press', work: 'H8'},
+instances: 3, word: 'Promised', work: 'H8'},
+instances: 3, word: 'Purpose', work: 'H8'},
+instances: 3, word: 'Puts', work: 'H8'},
+instances: 3, word: 'Quench', work: 'H8'},
+instances: 3, word: 'Raised', work: 'H8'},
+instances: 3, word: 'Rank', work: 'H8'},
+instances: 3, word: 'Reason', work: 'H8'},
+instances: 3, word: 'Reasons', work: 'H8'},
+instances: 3, word: 'Religious', work: 'H8'},
+instances: 3, word: 'Render', work: 'H8'},
+instances: 3, word: 'Report', work: 'H8'},
+instances: 3, word: 'Returned', work: 'H8'},
+instances: 3, word: 'Rich', work: 'H8'},
+instances: 3, word: 'Rock', work: 'H8'},
+instances: 3, word: 'Rose', work: 'H8'},
+instances: 3, word: 'Ruined', work: 'H8'},
+instances: 3, word: 'Sacred', work: 'H8'},
+instances: 3, word: 'Safety', work: 'H8'},
+instances: 3, word: 'Satisfied', work: 'H8'},
+instances: 3, word: 'Says', work: 'H8'},
+instances: 3, word: 'Seems', work: 'H8'},
+instances: 3, word: 'Seen', work: 'H8'},
+instances: 3, word: 'Serious', work: 'H8'},
+instances: 3, word: 'Servants', work: 'H8'},
+instances: 3, word: 'Served', work: 'H8'},
+instances: 3, word: 'Sickness', work: 'H8'},
+instances: 3, word: 'Silence', work: 'H8'},
+instances: 3, word: 'Sing', work: 'H8'},
+instances: 3, word: 'Sink', work: 'H8'},
+instances: 3, word: 'Slept', work: 'H8'},
+instances: 3, word: 'Smile', work: 'H8'},
+instances: 3, word: 'Son', work: 'H8'},
+instances: 3, word: 'Sought', work: 'H8'},
+instances: 3, word: 'Speech', work: 'H8'},
+instances: 3, word: 'Spiritual', work: 'H8'},
+instances: 3, word: 'Spleen', work: 'H8'},
+instances: 3, word: 'Stir', work: 'H8'},
+instances: 3, word: 'Stranger', work: 'H8'},
+instances: 3, word: 'Stronger', work: 'H8'},
+instances: 3, word: 'Succor', work: 'H8'},
+instances: 3, word: 'Suffolk', work: 'H8'},
+instances: 3, word: 'Sweat', work: 'H8'},
+instances: 3, word: 'Taint', work: 'H8'},
+instances: 3, word: 'Taken', work: 'H8'},
+instances: 3, word: 'Taxation', work: 'H8'},
+instances: 3, word: 'Ten', work: 'H8'},
+instances: 3, word: 'Thick', work: 'H8'},
+instances: 3, word: 'Thing', work: 'H8'},
+instances: 3, word: 'Tied', work: 'H8'},
+instances: 3, word: 'Tomorrow', work: 'H8'},
+instances: 3, word: 'Took', work: 'H8'},
+instances: 3, word: 'Touch', work: 'H8'},
+instances: 3, word: 'Train', work: 'H8'},
+instances: 3, word: 'Treason', work: 'H8'},
+instances: 3, word: 'Trick', work: 'H8'},
+instances: 3, word: 'Troop', work: 'H8'},
+instances: 3, word: 'Trumpets', work: 'H8'},
+instances: 3, word: 'Trust', work: 'H8'},
+instances: 3, word: 'Understand', work: 'H8'},
+instances: 3, word: 'Utter', work: 'H8'},
+instances: 3, word: 'Vanities', work: 'H8'},
+instances: 3, word: 'Want', work: 'H8'},
+instances: 3, word: 'Wear', work: 'H8'},
+instances: 3, word: 'Weary', work: 'H8'},
+instances: 3, word: 'Weeps', work: 'H8'},
+instances: 3, word: 'Weighed', work: 'H8'},
+instances: 3, word: 'Weight', work: 'H8'},
+instances: 3, word: 'We\'ll', work: 'H8'},
+instances: 3, word: 'Wherefore', work: 'H8'},
+instances: 3, word: 'Where\'s', work: 'H8'},
+instances: 3, word: 'Whilst', work: 'H8'},
+instances: 3, word: 'Whither', work: 'H8'},
+instances: 3, word: 'Wholesome', work: 'H8'},
+instances: 3, word: 'Willing', work: 'H8'},
+instances: 3, word: 'Wonder', work: 'H8'},
+instances: 3, word: 'Wonders', work: 'H8'},
+instances: 3, word: 'Word', work: 'H8'},
+instances: 3, word: 'Worse', work: 'H8'},
+instances: 3, word: 'Year', work: 'H8'},
+instances: 3, word: 'Yours', work: 'H8'},
+instances: 3, word: 'You\'d', work: 'H8'},
+instances: 3, word: 'You\'ve', work: 'H8'},
+instances: 3, word: 'Zeal', work: 'H8'},
+instances: 2, word: 'Abbey', work: 'H8'},
+instances: 2, word: 'Abbot', work: 'H8'},
+instances: 2, word: 'Abergavenny', work: 'H8'},
+instances: 2, word: 'Abhor', work: 'H8'},
+instances: 2, word: 'Abound', work: 'H8'},
+instances: 2, word: 'Absolved', work: 'H8'},
+instances: 2, word: 'Acquaintance', work: 'H8'},
+instances: 2, word: 'Acquainted', work: 'H8'},
+instances: 2, word: 'Add', work: 'H8'},
+instances: 2, word: 'Age', work: 'H8'},
+instances: 2, word: 'Agreed', work: 'H8'},
+instances: 2, word: 'Aim', work: 'H8'},
+instances: 2, word: 'Air', work: 'H8'},
+instances: 2, word: 'Allay', work: 'H8'},
+instances: 2, word: 'Allegiance', work: 'H8'},
+instances: 2, word: 'All\'s', work: 'H8'},
+instances: 2, word: 'Always', work: 'H8'},
+instances: 2, word: 'Angry', work: 'H8'},
+instances: 2, word: 'Answered', work: 'H8'},
+instances: 2, word: 'Appearance', work: 'H8'},
+instances: 2, word: 'Appeared', work: 'H8'},
+instances: 2, word: 'Approach', work: 'H8'},
+instances: 2, word: 'Argue', work: 'H8'},
+instances: 2, word: 'Asking', work: 'H8'},
+instances: 2, word: 'Asleep', work: 'H8'},
+instances: 2, word: 'Aspect', work: 'H8'},
+instances: 2, word: 'Assembly', work: 'H8'},
+instances: 2, word: 'Assent', work: 'H8'},
+instances: 2, word: 'Attached', work: 'H8'},
+instances: 2, word: 'Awhile', work: 'H8'},
+instances: 2, word: 'Ax', work: 'H8'},
+instances: 2, word: 'Bade', work: 'H8'},
+instances: 2, word: 'Banished', work: 'H8'},
+instances: 2, word: 'Bark', work: 'H8'},
+instances: 2, word: 'Bearing', work: 'H8'},
+instances: 2, word: 'Beaten', work: 'H8'},
+instances: 2, word: 'Behavior', work: 'H8'},
+instances: 2, word: 'Behind', work: 'H8'},
+instances: 2, word: 'Believed', work: 'H8'},
+instances: 2, word: 'Bestowing', work: 'H8'},
+instances: 2, word: 'Betray', work: 'H8'},
+instances: 2, word: 'Bird', work: 'H8'},
+instances: 2, word: 'Bishops', work: 'H8'},
+instances: 2, word: 'Bite', work: 'H8'},
+instances: 2, word: 'Blessedness', work: 'H8'},
+instances: 2, word: 'Blessing', work: 'H8'},
+instances: 2, word: 'Blown', work: 'H8'},
+instances: 2, word: 'Blush', work: 'H8'},
+instances: 2, word: 'Board', work: 'H8'},
+instances: 2, word: 'Boldly', work: 'H8'},
+instances: 2, word: 'Bond', work: 'H8'},
+instances: 2, word: 'Bones', work: 'H8'},
+instances: 2, word: 'Bounteous', work: 'H8'},
+instances: 2, word: 'Bow', work: 'H8'},
+instances: 2, word: 'Bowed', work: 'H8'},
+instances: 2, word: 'Brain', work: 'H8'},
+instances: 2, word: 'Brains', work: 'H8'},
+instances: 2, word: 'Branches', work: 'H8'},
+instances: 2, word: 'Breath', work: 'H8'},
+instances: 2, word: 'Brethren', work: 'H8'},
+instances: 2, word: 'Brother\'s', work: 'H8'},
+instances: 2, word: 'Buckingham\'s', work: 'H8'},
+instances: 2, word: 'Bullens', work: 'H8'},
+instances: 2, word: 'Burns', work: 'H8'},
+instances: 2, word: 'Calling', work: 'H8'},
+instances: 2, word: 'Canst', work: 'H8'},
+instances: 2, word: 'Card\'nal', work: 'H8'},
+instances: 2, word: 'Carriage', work: 'H8'},
+instances: 2, word: 'Carried', work: 'H8'},
+instances: 2, word: 'Carries', work: 'H8'},
+instances: 2, word: 'Casts', work: 'H8'},
+instances: 2, word: 'Caused', work: 'H8'},
+instances: 2, word: 'Censure', work: 'H8'},
+instances: 2, word: 'Ceremony', work: 'H8'},
+instances: 2, word: 'Chance', work: 'H8'},
+instances: 2, word: 'Chancellor', work: 'H8'},
+instances: 2, word: 'Chaplain', work: 'H8'},
+instances: 2, word: 'Chartreux', work: 'H8'},
+instances: 2, word: 'Chaste', work: 'H8'},
+instances: 2, word: 'Cheer', work: 'H8'},
+instances: 2, word: 'Cherry', work: 'H8'},
+instances: 2, word: 'Chief', work: 'H8'},
+instances: 2, word: 'Children', work: 'H8'},
+instances: 2, word: 'Choir', work: 'H8'},
+instances: 2, word: 'Choler', work: 'H8'},
+instances: 2, word: 'Claim', work: 'H8'},
+instances: 2, word: 'Clap', work: 'H8'},
+instances: 2, word: 'Clapped', work: 'H8'},
+instances: 2, word: 'Cloud', work: 'H8'},
+instances: 2, word: 'Coal', work: 'H8'},
+instances: 2, word: 'Coat', work: 'H8'},
+instances: 2, word: 'Coin', work: 'H8'},
+instances: 2, word: 'Collected', work: 'H8'},
+instances: 2, word: 'Commanding', work: 'H8'},
+instances: 2, word: 'Commend', work: 'H8'},
+instances: 2, word: 'Commendations', work: 'H8'},
+instances: 2, word: 'Commissions', work: 'H8'},
+instances: 2, word: 'Common', work: 'H8'},
+instances: 2, word: 'Commons', work: 'H8'},
+instances: 2, word: 'Compass', work: 'H8'},
+instances: 2, word: 'Compelled', work: 'H8'},
+instances: 2, word: 'Complaint', work: 'H8'},
+instances: 2, word: 'Complaints', work: 'H8'},
+instances: 2, word: 'Complete', work: 'H8'},
+instances: 2, word: 'Concerning', work: 'H8'},
+instances: 2, word: 'Conclude', work: 'H8'},
+instances: 2, word: 'Conference', work: 'H8'},
+instances: 2, word: 'Confessions', work: 'H8'},
+instances: 2, word: 'Consent', work: 'H8'},
+instances: 2, word: 'Consider', work: 'H8'},
+instances: 2, word: 'Consistory', work: 'H8'},
+instances: 2, word: 'Contented', work: 'H8'},
+instances: 2, word: 'Corn', work: 'H8'},
+instances: 2, word: 'Corruption', work: 'H8'},
+instances: 2, word: 'Count', work: 'H8'},
+instances: 2, word: 'Countenance', work: 'H8'},
+instances: 2, word: 'Country', work: 'H8'},
+instances: 2, word: 'Courses', work: 'H8'},
+instances: 2, word: 'Courtier', work: 'H8'},
+instances: 2, word: 'Cradle', work: 'H8'},
+instances: 2, word: 'Credit', work: 'H8'},
+instances: 2, word: 'Crept', work: 'H8'},
+instances: 2, word: 'Cross', work: 'H8'},
+instances: 2, word: 'Cunning', work: 'H8'},
+instances: 2, word: 'Cured', work: 'H8'},
+instances: 2, word: 'Customs', work: 'H8'},
+instances: 2, word: 'Dance', work: 'H8'},
+instances: 2, word: 'Daring', work: 'H8'},
+instances: 2, word: 'Dearly', work: 'H8'},
+instances: 2, word: 'Deceived', work: 'H8'},
+instances: 2, word: 'Delay', work: 'H8'},
+instances: 2, word: 'Delivered', work: 'H8'},
+instances: 2, word: 'Demand', work: 'H8'},
+instances: 2, word: 'Deputy', work: 'H8'},
+instances: 2, word: 'Deserves', work: 'H8'},
+instances: 2, word: 'Desires', work: 'H8'},
+instances: 2, word: 'Desperate', work: 'H8'},
+instances: 2, word: 'Device', work: 'H8'},
+instances: 2, word: 'Dews', work: 'H8'},
+instances: 2, word: 'Dignity', work: 'H8'},
+instances: 2, word: 'Discharged', work: 'H8'},
+instances: 2, word: 'Discretion', work: 'H8'},
+instances: 2, word: 'Disgraces', work: 'H8'},
+instances: 2, word: 'Dislike', work: 'H8'},
+instances: 2, word: 'Disperse', work: 'H8'},
+instances: 2, word: 'Divers', work: 'H8'},
+instances: 2, word: 'Dorset', work: 'H8'},
+instances: 2, word: 'Doth', work: 'H8'},
+instances: 2, word: 'Doubts', work: 'H8'},
+instances: 2, word: 'Dozen', work: 'H8'},
+instances: 2, word: 'Drawn', work: 'H8'},
+instances: 2, word: 'Dreamed', work: 'H8'},
+instances: 2, word: 'Drink', work: 'H8'},
+instances: 2, word: 'Duke\'s', work: 'H8'},
+instances: 2, word: 'Duly', work: 'H8'},
+instances: 2, word: 'Dying', work: 'H8'},
+instances: 2, word: 'Eagerly', work: 'H8'},
+instances: 2, word: 'Ears', work: 'H8'},
+instances: 2, word: 'Edward', work: 'H8'},
+instances: 2, word: 'Effect', work: 'H8'},
+instances: 2, word: 'Elizabeth', work: 'H8'},
+instances: 2, word: 'Embrace', work: 'H8'},
+instances: 2, word: 'Employed', work: 'H8'},
+instances: 2, word: 'Empty', work: 'H8'},
+instances: 2, word: 'Endeavors', work: 'H8'},
+instances: 2, word: 'Ensuing', work: 'H8'},
+instances: 2, word: 'Enter', work: 'H8'},
+instances: 2, word: 'Estate', work: 'H8'},
+instances: 2, word: 'Everywhere', work: 'H8'},
+instances: 2, word: 'Exaction', work: 'H8'},
+instances: 2, word: 'Exactions', work: 'H8'},
+instances: 2, word: 'Exceeding', work: 'H8'},
+instances: 2, word: 'Excellent', work: 'H8'},
+instances: 2, word: 'Extremely', work: 'H8'},
+instances: 2, word: 'E\'er', work: 'H8'},
+instances: 2, word: 'Fain', work: 'H8'},
+instances: 2, word: 'Faithful', work: 'H8'},
+instances: 2, word: 'Fall\'st', work: 'H8'},
+instances: 2, word: 'Fame', work: 'H8'},
+instances: 2, word: 'Famous', work: 'H8'},
+instances: 2, word: 'Fancy', work: 'H8'},
+instances: 2, word: 'Fare', work: 'H8'},
+instances: 2, word: 'Fashioned', work: 'H8'},
+instances: 2, word: 'Fate', work: 'H8'},
+instances: 2, word: 'Father-in-law', work: 'H8'},
+instances: 2, word: 'Fault', work: 'H8'},
+instances: 2, word: 'Fearing', work: 'H8'},
+instances: 2, word: 'Felt', work: 'H8'},
+instances: 2, word: 'Fetch', work: 'H8'},
+instances: 2, word: 'Fiddle', work: 'H8'},
+instances: 2, word: 'Field', work: 'H8'},
+instances: 2, word: 'Fight', work: 'H8'},
+instances: 2, word: 'Fill', work: 'H8'},
+instances: 2, word: 'Fixed', work: 'H8'},
+instances: 2, word: 'Flattery', work: 'H8'},
+instances: 2, word: 'Flawed', work: 'H8'},
+instances: 2, word: 'Flourish', work: 'H8'},
+instances: 2, word: 'Flowers', work: 'H8'},
+instances: 2, word: 'Fly', work: 'H8'},
+instances: 2, word: 'Foe', work: 'H8'},
+instances: 2, word: 'Forbid', work: 'H8'},
+instances: 2, word: 'Forced', work: 'H8'},
+instances: 2, word: 'Forgotten', work: 'H8'},
+instances: 2, word: 'Former', work: 'H8'},
+instances: 2, word: 'Forms', work: 'H8'},
+instances: 2, word: 'Forsooth', work: 'H8'},
+instances: 2, word: 'Forthwith', work: 'H8'},
+instances: 2, word: 'Foul', work: 'H8'},
+instances: 2, word: 'Frail', work: 'H8'},
+instances: 2, word: 'Freedom', work: 'H8'},
+instances: 2, word: 'Fresher', work: 'H8'},
+instances: 2, word: 'Frost', work: 'H8'},
+instances: 2, word: 'Frowning', work: 'H8'},
+instances: 2, word: 'Fulfilled', work: 'H8'},
+instances: 2, word: 'Function', work: 'H8'},
+instances: 2, word: 'Furnish', work: 'H8'},
+instances: 2, word: 'Furnished', work: 'H8'},
+instances: 2, word: 'Gilbert', work: 'H8'},
+instances: 2, word: 'Girl', work: 'H8'},
+instances: 2, word: 'Godfather', work: 'H8'},
+instances: 2, word: 'Goodness\'', work: 'H8'},
+instances: 2, word: 'Goods', work: 'H8'},
+instances: 2, word: 'Granted', work: 'H8'},
+instances: 2, word: 'Graves', work: 'H8'},
+instances: 2, word: 'Greatest', work: 'H8'},
+instances: 2, word: 'Grew', work: 'H8'},
+instances: 2, word: 'Grieves', work: 'H8'},
+instances: 2, word: 'Grievous', work: 'H8'},
+instances: 2, word: 'Groom', work: 'H8'},
+instances: 2, word: 'Ground', work: 'H8'},
+instances: 2, word: 'Guests', work: 'H8'},
+instances: 2, word: 'Guilford', work: 'H8'},
+instances: 2, word: 'Guiltless', work: 'H8'},
+instances: 2, word: 'Habits', work: 'H8'},
+instances: 2, word: 'Hang', work: 'H8'},
+instances: 2, word: 'Hanged', work: 'H8'},
+instances: 2, word: 'Happen', work: 'H8'},
+instances: 2, word: 'Harry', work: 'H8'},
+instances: 2, word: 'Heaped', work: 'H8'},
+instances: 2, word: 'Hearers', work: 'H8'},
+instances: 2, word: 'Heavenly', work: 'H8'},
+instances: 2, word: 'Heaven\'s', work: 'H8'},
+instances: 2, word: 'Heavy', work: 'H8'},
+instances: 2, word: 'Henton', work: 'H8'},
+instances: 2, word: 'Heretic', work: 'H8'},
+instances: 2, word: 'Here\'s', work: 'H8'},
+instances: 2, word: 'Herself', work: 'H8'},
+instances: 2, word: 'He\'ll', work: 'H8'},
+instances: 2, word: 'Hide', work: 'H8'},
+instances: 2, word: 'Honorable', work: 'H8'},
+instances: 2, word: 'Honored', work: 'H8'},
+instances: 2, word: 'Hopkins', work: 'H8'},
+instances: 2, word: 'Horses', work: 'H8'},
+instances: 2, word: 'However', work: 'H8'},
+instances: 2, word: 'Humility', work: 'H8'},
+instances: 2, word: 'Hundred', work: 'H8'},
+instances: 2, word: 'Hung', work: 'H8'},
+instances: 2, word: 'Infant', work: 'H8'},
+instances: 2, word: 'Infect', work: 'H8'},
+instances: 2, word: 'Instant', work: 'H8'},
+instances: 2, word: 'Instruct', work: 'H8'},
+instances: 2, word: 'Interview', work: 'H8'},
+instances: 2, word: 'Ipswich', work: 'H8'},
+instances: 2, word: 'Ireland', work: 'H8'},
+instances: 2, word: 'Itself', work: 'H8'},
+instances: 2, word: 'Journey', work: 'H8'},
+instances: 2, word: 'Killing', work: 'H8'},
+instances: 2, word: 'Kneel', work: 'H8'},
+instances: 2, word: 'Knell', work: 'H8'},
+instances: 2, word: 'Knock', work: 'H8'},
+instances: 2, word: 'La', work: 'H8'},
+instances: 2, word: 'Labored', work: 'H8'},
+instances: 2, word: 'Lady\'s', work: 'H8'},
+instances: 2, word: 'Lately', work: 'H8'},
+instances: 2, word: 'Laughed', work: 'H8'},
+instances: 2, word: 'Lawful', work: 'H8'},
+instances: 2, word: 'Lazy', work: 'H8'},
+instances: 2, word: 'Legs', work: 'H8'},
+instances: 2, word: 'Lest', work: 'H8'},
+instances: 2, word: 'Liberal', work: 'H8'},
+instances: 2, word: 'Lies', work: 'H8'},
+instances: 2, word: 'Light', work: 'H8'},
+instances: 2, word: 'Lily', work: 'H8'},
+instances: 2, word: 'List', work: 'H8'},
+instances: 2, word: 'London', work: 'H8'},
+instances: 2, word: 'Longing', work: 'H8'},
+instances: 2, word: 'Lordships', work: 'H8'},
+instances: 2, word: 'Loud', work: 'H8'},
+instances: 2, word: 'Loving', work: 'H8'},
+instances: 2, word: 'Loyal', work: 'H8'},
+instances: 2, word: 'Luster', work: 'H8'},
+instances: 2, word: 'Lute', work: 'H8'},
+instances: 2, word: 'Maiden', work: 'H8'},
+instances: 2, word: 'Maidenhead', work: 'H8'},
+instances: 2, word: 'Maker', work: 'H8'},
+instances: 2, word: 'Male', work: 'H8'},
+instances: 2, word: 'Marks', work: 'H8'},
+instances: 2, word: 'Mary', work: 'H8'},
+instances: 2, word: 'Mayor', work: 'H8'},
+instances: 2, word: 'Memory', work: 'H8'},
+instances: 2, word: 'Menaced', work: 'H8'},
+instances: 2, word: 'Merciful', work: 'H8'},
+instances: 2, word: 'Merely', work: 'H8'},
+instances: 2, word: 'Message', work: 'H8'},
+instances: 2, word: 'Midnight', work: 'H8'},
+instances: 2, word: 'Minds', work: 'H8'},
+instances: 2, word: 'Minute', work: 'H8'},
+instances: 2, word: 'Missed', work: 'H8'},
+instances: 2, word: 'Moon', work: 'H8'},
+instances: 2, word: 'Morrow', work: 'H8'},
+instances: 2, word: 'Mortal', work: 'H8'},
+instances: 2, word: 'Motion', work: 'H8'},
+instances: 2, word: 'Move', work: 'H8'},
+instances: 2, word: 'Named', work: 'H8'},
+instances: 2, word: 'Neglect', work: 'H8'},
+instances: 2, word: 'Nights', work: 'H8'},
+instances: 2, word: 'Number', work: 'H8'},
+instances: 2, word: 'Nurse', work: 'H8'},
+instances: 2, word: 'Oath', work: 'H8'},
+instances: 2, word: 'Obey', work: 'H8'},
+instances: 2, word: 'Obeyed', work: 'H8'},
+instances: 2, word: 'Object', work: 'H8'},
+instances: 2, word: 'Observe', work: 'H8'},
+instances: 2, word: 'Opened', work: 'H8'},
+instances: 2, word: 'Oracle', work: 'H8'},
+instances: 2, word: 'Ours', work: 'H8'},
+instances: 2, word: 'Packets', work: 'H8'},
+instances: 2, word: 'Paid', work: 'H8'},
+instances: 2, word: 'Pain', work: 'H8'},
+instances: 2, word: 'Pang', work: 'H8'},
+instances: 2, word: 'Papers', work: 'H8'},
+instances: 2, word: 'Parish', work: 'H8'},
+instances: 2, word: 'Partners', work: 'H8'},
+instances: 2, word: 'Patient', work: 'H8'},
+instances: 2, word: 'Pay', work: 'H8'},
+instances: 2, word: 'Peers', work: 'H8'},
+instances: 2, word: 'Perforce', work: 'H8'},
+instances: 2, word: 'Perform', work: 'H8'},
+instances: 2, word: 'Performance', work: 'H8'},
+instances: 2, word: 'Pious', work: 'H8'},
+instances: 2, word: 'Pitied', work: 'H8'},
+instances: 2, word: 'Pitying', work: 'H8'},
+instances: 2, word: 'Places', work: 'H8'},
+instances: 2, word: 'Plants', work: 'H8'},
+instances: 2, word: 'Plead', work: 'H8'},
+instances: 2, word: 'Pleasant', work: 'H8'},
+instances: 2, word: 'Plot', work: 'H8'},
+instances: 2, word: 'Points', work: 'H8'},
+instances: 2, word: 'Porter', work: 'H8'},
+instances: 2, word: 'Possible', work: 'H8'},
+instances: 2, word: 'Pounds', work: 'H8'},
+instances: 2, word: 'Praise', work: 'H8'},
+instances: 2, word: 'Precedent', work: 'H8'},
+instances: 2, word: 'Prejudice', work: 'H8'},
+instances: 2, word: 'Prepare', work: 'H8'},
+instances: 2, word: 'Pretense', work: 'H8'},
+instances: 2, word: 'Privy', work: 'H8'},
+instances: 2, word: 'Proceeded', work: 'H8'},
+instances: 2, word: 'Proceeding', work: 'H8'},
+instances: 2, word: 'Process', work: 'H8'},
+instances: 2, word: 'Profession', work: 'H8'},
+instances: 2, word: 'Profit', work: 'H8'},
+instances: 2, word: 'Progress', work: 'H8'},
+instances: 2, word: 'Proofs', work: 'H8'},
+instances: 2, word: 'Prophecy', work: 'H8'},
+instances: 2, word: 'Protect', work: 'H8'},
+instances: 2, word: 'Protection', work: 'H8'},
+instances: 2, word: 'Puppy', work: 'H8'},
+instances: 2, word: 'Pure', work: 'H8'},
+instances: 2, word: 'Purposed', work: 'H8'},
+instances: 2, word: 'Questioned', work: 'H8'},
+instances: 2, word: 'Quoth', work: 'H8'},
+instances: 2, word: 'Rare', work: 'H8'},
+instances: 2, word: 'Rascals', work: 'H8'},
+instances: 2, word: 'Rate', work: 'H8'},
+instances: 2, word: 'Rather', work: 'H8'},
+instances: 2, word: 'Realm', work: 'H8'},
+instances: 2, word: 'Rectify', work: 'H8'},
+instances: 2, word: 'Reformation', work: 'H8'},
+instances: 2, word: 'Refuse', work: 'H8'},
+instances: 2, word: 'Reigned', work: 'H8'},
+instances: 2, word: 'Relate', work: 'H8'},
+instances: 2, word: 'Remain', work: 'H8'},
+instances: 2, word: 'Remedy', work: 'H8'},
+instances: 2, word: 'Removed', work: 'H8'},
+instances: 2, word: 'Repeat', work: 'H8'},
+instances: 2, word: 'Requires', work: 'H8'},
+instances: 2, word: 'Requite', work: 'H8'},
+instances: 2, word: 'Respite', work: 'H8'},
+instances: 2, word: 'Revenge', work: 'H8'},
+instances: 2, word: 'Reverence', work: 'H8'},
+instances: 2, word: 'Richard', work: 'H8'},
+instances: 2, word: 'Richer', work: 'H8'},
+instances: 2, word: 'Robbed', work: 'H8'},
+instances: 2, word: 'Rod', work: 'H8'},
+instances: 2, word: 'Round', work: 'H8'},
+instances: 2, word: 'Rule', work: 'H8'},
+instances: 2, word: 'Sacrifice', work: 'H8'},
+instances: 2, word: 'Safe', work: 'H8'},
+instances: 2, word: 'Safely', work: 'H8'},
+instances: 2, word: 'Saintlike', work: 'H8'},
+instances: 2, word: 'Salute', work: 'H8'},
+instances: 2, word: 'Sap', work: 'H8'},
+instances: 2, word: 'Sayst', work: 'H8'},
+instances: 2, word: 'Scarce', work: 'H8'},
+instances: 2, word: 'Scarlet', work: 'H8'},
+instances: 2, word: 'Scepter', work: 'H8'},
+instances: 2, word: 'Second', work: 'H8'},
+instances: 2, word: 'Seeing', work: 'H8'},
+instances: 2, word: 'Seeming', work: 'H8'},
+instances: 2, word: 'Send', work: 'H8'},
+instances: 2, word: 'Serve', work: 'H8'},
+instances: 2, word: 'Shake', work: 'H8'},
+instances: 2, word: 'Shine', work: 'H8'},
+instances: 2, word: 'Shortly', work: 'H8'},
+instances: 2, word: 'Shower', work: 'H8'},
+instances: 2, word: 'Shrewd', work: 'H8'},
+instances: 2, word: 'Side', work: 'H8'},
+instances: 2, word: 'Sides', work: 'H8'},
+instances: 2, word: 'Sight', work: 'H8'},
+instances: 2, word: 'Sign', work: 'H8'},
+instances: 2, word: 'Sins', work: 'H8'},
+instances: 2, word: 'Sister', work: 'H8'},
+instances: 2, word: 'Sixth', work: 'H8'},
+instances: 2, word: 'Small', work: 'H8'},
+instances: 2, word: 'Somewhat', work: 'H8'},
+instances: 2, word: 'Soon', work: 'H8'},
+instances: 2, word: 'Souls', work: 'H8'},
+instances: 2, word: 'Sovereignty', work: 'H8'},
+instances: 2, word: 'Spain', work: 'H8'},
+instances: 2, word: 'Spake', work: 'H8'},
+instances: 2, word: 'Speaker', work: 'H8'},
+instances: 2, word: 'Speaking', work: 'H8'},
+instances: 2, word: 'Spoken', work: 'H8'},
+instances: 2, word: 'Spoons', work: 'H8'},
+instances: 2, word: 'Spread', work: 'H8'},
+instances: 2, word: 'Sprung', work: 'H8'},
+instances: 2, word: 'Steps', work: 'H8'},
+instances: 2, word: 'Steward', work: 'H8'},
+instances: 2, word: 'Stick', work: 'H8'},
+instances: 2, word: 'Stirred', work: 'H8'},
+instances: 2, word: 'Stock', work: 'H8'},
+instances: 2, word: 'Stomach', work: 'H8'},
+instances: 2, word: 'Stop', work: 'H8'},
+instances: 2, word: 'Stops', work: 'H8'},
+instances: 2, word: 'Storms', work: 'H8'},
+instances: 2, word: 'Straight', work: 'H8'},
+instances: 2, word: 'Stream', work: 'H8'},
+instances: 2, word: 'Stroke', work: 'H8'},
+instances: 2, word: 'Strongly', work: 'H8'},
+instances: 2, word: 'Studies', work: 'H8'},
+instances: 2, word: 'Stuff', work: 'H8'},
+instances: 2, word: 'Subjects', work: 'H8'},
+instances: 2, word: 'Substance', work: 'H8'},
+instances: 2, word: 'Suns', work: 'H8'},
+instances: 2, word: 'Suspicion', work: 'H8'},
+instances: 2, word: 'Sword', work: 'H8'},
+instances: 2, word: 'Sworn', work: 'H8'},
+instances: 2, word: 'Syllable', work: 'H8'},
+instances: 2, word: 'Talking', work: 'H8'},
+instances: 2, word: 'Taught', work: 'H8'},
+instances: 2, word: 'Te', work: 'H8'},
+instances: 2, word: 'Teaching', work: 'H8'},
+instances: 2, word: 'Tear', work: 'H8'},
+instances: 2, word: 'Temper', work: 'H8'},
+instances: 2, word: 'Tempest', work: 'H8'},
+instances: 2, word: 'Temporal', work: 'H8'},
+instances: 2, word: 'Terror', work: 'H8'},
+instances: 2, word: 'Thankful', work: 'H8'},
+instances: 2, word: 'Themselves', work: 'H8'},
+instances: 2, word: 'Therein', work: 'H8'},
+instances: 2, word: 'They\'ll', work: 'H8'},
+instances: 2, word: 'They\'re', work: 'H8'},
+instances: 2, word: 'They\'ve', work: 'H8'},
+instances: 2, word: 'Throng', work: 'H8'},
+instances: 2, word: 'Today', work: 'H8'},
+instances: 2, word: 'Touched', work: 'H8'},
+instances: 2, word: 'Towards', work: 'H8'},
+instances: 2, word: 'Treasonous', work: 'H8'},
+instances: 2, word: 'Treasure', work: 'H8'},
+instances: 2, word: 'Tricks', work: 'H8'},
+instances: 2, word: 'Tried', work: 'H8'},
+instances: 2, word: 'Trifle', work: 'H8'},
+instances: 2, word: 'Trim', work: 'H8'},
+instances: 2, word: 'Trod', work: 'H8'},
+instances: 2, word: 'Trouble', work: 'H8'},
+instances: 2, word: 'Troubles', work: 'H8'},
+instances: 2, word: 'Truth\'s', work: 'H8'},
+instances: 2, word: 'Try', work: 'H8'},
+instances: 2, word: 'Understanding', work: 'H8'},
+instances: 2, word: 'Undoing', work: 'H8'},
+instances: 2, word: 'Unfit', work: 'H8'},
+instances: 2, word: 'Urge', work: 'H8'},
+instances: 2, word: 'Utmost', work: 'H8'},
+instances: 2, word: 'Utterly', work: 'H8'},
+instances: 2, word: 'Vain', work: 'H8'},
+instances: 2, word: 'Values', work: 'H8'},
+instances: 2, word: 'Ventured', work: 'H8'},
+instances: 2, word: 'Vexed', work: 'H8'},
+instances: 2, word: 'Viewed', work: 'H8'},
+instances: 2, word: 'Vine', work: 'H8'},
+instances: 2, word: 'Visitation', work: 'H8'},
+instances: 2, word: 'Voices', work: 'H8'},
+instances: 2, word: 'Vouchsafe', work: 'H8'},
+instances: 2, word: 'Wag', work: 'H8'},
+instances: 2, word: 'Waits', work: 'H8'},
+instances: 2, word: 'Wake', work: 'H8'},
+instances: 2, word: 'Wanton', work: 'H8'},
+instances: 2, word: 'Wants', work: 'H8'},
+instances: 2, word: 'War', work: 'H8'},
+instances: 2, word: 'Warrant', work: 'H8'},
+instances: 2, word: 'Wars', work: 'H8'},
+instances: 2, word: 'Water', work: 'H8'},
+instances: 2, word: 'Weakness', work: 'H8'},
+instances: 2, word: 'Weigh', work: 'H8'},
+instances: 2, word: 'Whereof', work: 'H8'},
+instances: 2, word: 'Whether', work: 'H8'},
+instances: 2, word: 'Wine', work: 'H8'},
+instances: 2, word: 'Wings', work: 'H8'},
+instances: 2, word: 'Wished', work: 'H8'},
+instances: 2, word: 'Withal', work: 'H8'},
+instances: 2, word: 'Woman\'s', work: 'H8'},
+instances: 2, word: 'Working', work: 'H8'},
+instances: 2, word: 'Wretchedness', work: 'H8'},
+instances: 2, word: 'Write', work: 'H8'},
+instances: 2, word: 'Yourselves', work: 'H8'},
+instances: 2, word: '\'gainst', work: 'H8'},
+instances: 2, word: '\'has', work: 'H8'},
+instances: 2, word: '\'mongst', work: 'H8'},
+instances: 2, word: '\'twere', work: 'H8'},
+instances: 2, word: '\'twixt', work: 'H8'},
+instances: 2, word: '\'twould', work: 'H8'},
+instances: 1, word: 'A-going', work: 'H8'},
+instances: 1, word: 'A-pieces', work: 'H8'},
+instances: 1, word: 'A-ripening', work: 'H8'},
+instances: 1, word: 'A-rolling', work: 'H8'},
+instances: 1, word: 'Abilities', work: 'H8'},
+instances: 1, word: 'Abject', work: 'H8'},
+instances: 1, word: 'Aboded', work: 'H8'},
+instances: 1, word: 'Absence', work: 'H8'},
+instances: 1, word: 'Absent', work: 'H8'},
+instances: 1, word: 'Abused', work: 'H8'},
+instances: 1, word: 'Abusing', work: 'H8'},
+instances: 1, word: 'Access', work: 'H8'},
+instances: 1, word: 'Accompanied', work: 'H8'},
+instances: 1, word: 'Accompt', work: 'H8'},
+instances: 1, word: 'Accumulated', work: 'H8'},
+instances: 1, word: 'Accusation', work: 'H8'},
+instances: 1, word: 'Accusations', work: 'H8'},
+instances: 1, word: 'Accused', work: 'H8'},
+instances: 1, word: 'Ache', work: 'H8'},
+instances: 1, word: 'Acquire', work: 'H8'},
+instances: 1, word: 'Action', work: 'H8'},
+instances: 1, word: 'Action\'s', work: 'H8'},
+instances: 1, word: 'Adding', work: 'H8'},
+instances: 1, word: 'Adds', work: 'H8'},
+instances: 1, word: 'Adjourn', work: 'H8'},
+instances: 1, word: 'Admiration', work: 'H8'},
+instances: 1, word: 'Admirer', work: 'H8'},
+instances: 1, word: 'Admit', work: 'H8'},
+instances: 1, word: 'Ado', work: 'H8'},
+instances: 1, word: 'Advance', work: 'H8'},
+instances: 1, word: 'Advantage', work: 'H8'},
+instances: 1, word: 'Advertise', work: 'H8'},
+instances: 1, word: 'Affect', work: 'H8'},
+instances: 1, word: 'Affected', work: 'H8'},
+instances: 1, word: 'Affection', work: 'H8'},
+instances: 1, word: 'Affections', work: 'H8'},
+instances: 1, word: 'Afflicted', work: 'H8'},
+instances: 1, word: 'Afflictions', work: 'H8'},
+instances: 1, word: 'Afford', work: 'H8'},
+instances: 1, word: 'Afraid', work: 'H8'},
+instances: 1, word: 'Agent', work: 'H8'},
+instances: 1, word: 'Ago', work: 'H8'},
+instances: 1, word: 'Agony', work: 'H8'},
+instances: 1, word: 'Agree', work: 'H8'},
+instances: 1, word: 'Ague', work: 'H8'},
+instances: 1, word: 'Agèd', work: 'H8'},
+instances: 1, word: 'Aid', work: 'H8'},
+instances: 1, word: 'Aim\'st', work: 'H8'},
+instances: 1, word: 'Aired', work: 'H8'},
+instances: 1, word: 'Ale', work: 'H8'},
+instances: 1, word: 'Alençon', work: 'H8'},
+instances: 1, word: 'Alive', work: 'H8'},
+instances: 1, word: 'Alleged', work: 'H8'},
+instances: 1, word: 'Allegiant', work: 'H8'},
+instances: 1, word: 'Allegèd', work: 'H8'},
+instances: 1, word: 'Allied', work: 'H8'},
+instances: 1, word: 'Allowance', work: 'H8'},
+instances: 1, word: 'Altar', work: 'H8'},
+instances: 1, word: 'Alter', work: 'H8'},
+instances: 1, word: 'Amazed', work: 'H8'},
+instances: 1, word: 'Ambassadors', work: 'H8'},
+instances: 1, word: 'Ambitious', work: 'H8'},
+instances: 1, word: 'Amity', work: 'H8'},
+instances: 1, word: 'Ampthill', work: 'H8'},
+instances: 1, word: 'Ancestry', work: 'H8'},
+instances: 1, word: 'Andren', work: 'H8'},
+instances: 1, word: 'Angel', work: 'H8'},
+instances: 1, word: 'Angels\'', work: 'H8'},
+instances: 1, word: 'Anger\'s', work: 'H8'},
+instances: 1, word: 'Annual', work: 'H8'},
+instances: 1, word: 'Appetite', work: 'H8'},
+instances: 1, word: 'Apples', work: 'H8'},
+instances: 1, word: 'Appliance', work: 'H8'},
+instances: 1, word: 'Appoint', work: 'H8'},
+instances: 1, word: 'Appointment', work: 'H8'},
+instances: 1, word: 'Approbation', work: 'H8'},
+instances: 1, word: 'Approve', work: 'H8'},
+instances: 1, word: 'Apt', work: 'H8'},
+instances: 1, word: 'Arch', work: 'H8'},
+instances: 1, word: 'Arch-one', work: 'H8'},
+instances: 1, word: 'Archbishopric', work: 'H8'},
+instances: 1, word: 'Archbishop\'s', work: 'H8'},
+instances: 1, word: 'Arde', work: 'H8'},
+instances: 1, word: 'Arguments', work: 'H8'},
+instances: 1, word: 'Army', work: 'H8'},
+instances: 1, word: 'Arose', work: 'H8'},
+instances: 1, word: 'Arrest', work: 'H8'},
+instances: 1, word: 'Arrested', work: 'H8'},
+instances: 1, word: 'Arrived', work: 'H8'},
+instances: 1, word: 'Arrogance', work: 'H8'},
+instances: 1, word: 'Arrogancy', work: 'H8'},
+instances: 1, word: 'Arthur', work: 'H8'},
+instances: 1, word: 'Asher', work: 'H8'},
+instances: 1, word: 'Asked', work: 'H8'},
+instances: 1, word: 'Aspire', work: 'H8'},
+instances: 1, word: 'Assembled', work: 'H8'},
+instances: 1, word: 'Assistants', work: 'H8'},
+instances: 1, word: 'Assurance', work: 'H8'},
+instances: 1, word: 'Assuredly', work: 'H8'},
+instances: 1, word: 'Asunder', work: 'H8'},
+instances: 1, word: 'Attach', work: 'H8'},
+instances: 1, word: 'Attainder', work: 'H8'},
+instances: 1, word: 'Attempt', work: 'H8'},
+instances: 1, word: 'Attendance', work: 'H8'},
+instances: 1, word: 'Attends', work: 'H8'},
+instances: 1, word: 'Attention', work: 'H8'},
+instances: 1, word: 'Attorney', work: 'H8'},
+instances: 1, word: 'Audience', work: 'H8'},
+instances: 1, word: 'Audit', work: 'H8'},
+instances: 1, word: 'Augment', work: 'H8'},
+instances: 1, word: 'Aunt', work: 'H8'},
+instances: 1, word: 'Authors', work: 'H8'},
+instances: 1, word: 'Avaunt', work: 'H8'},
+instances: 1, word: 'Avoid', work: 'H8'},
+instances: 1, word: 'Avow', work: 'H8'},
+instances: 1, word: 'A\'', work: 'H8'},
+instances: 1, word: 'Backs', work: 'H8'},
+instances: 1, word: 'Bad', work: 'H8'},
+instances: 1, word: 'Baiting', work: 'H8'},
+instances: 1, word: 'Banister', work: 'H8'},
+instances: 1, word: 'Baptism', work: 'H8'},
+instances: 1, word: 'Barons', work: 'H8'},
+instances: 1, word: 'Baseness', work: 'H8'},
+instances: 1, word: 'Bawdy', work: 'H8'},
+instances: 1, word: 'Bayonne', work: 'H8'},
+instances: 1, word: 'Beadles', work: 'H8'},
+instances: 1, word: 'Beams', work: 'H8'},
+instances: 1, word: 'Bearer', work: 'H8'},
+instances: 1, word: 'Beat', work: 'H8'},
+instances: 1, word: 'Became', work: 'H8'},
+instances: 1, word: 'Becomes', work: 'H8'},
+instances: 1, word: 'Becoming', work: 'H8'},
+instances: 1, word: 'Bedchamber', work: 'H8'},
+instances: 1, word: 'Bedfellow', work: 'H8'},
+instances: 1, word: 'Began', work: 'H8'},
+instances: 1, word: 'Beget', work: 'H8'},
+instances: 1, word: 'Beggar', work: 'H8'},
+instances: 1, word: 'Beggarly', work: 'H8'},
+instances: 1, word: 'Beggar\'s', work: 'H8'},
+instances: 1, word: 'Begging', work: 'H8'},
+instances: 1, word: 'Begins', work: 'H8'},
+instances: 1, word: 'Begs', work: 'H8'},
+instances: 1, word: 'Beheld', work: 'H8'},
+instances: 1, word: 'Bell', work: 'H8'},
+instances: 1, word: 'Belongs', work: 'H8'},
+instances: 1, word: 'Beloved', work: 'H8'},
+instances: 1, word: 'Below', work: 'H8'},
+instances: 1, word: 'Beneficial', work: 'H8'},
+instances: 1, word: 'Benefit', work: 'H8'},
+instances: 1, word: 'Benefits', work: 'H8'},
+instances: 1, word: 'Beseeching', work: 'H8'},
+instances: 1, word: 'Beshrew', work: 'H8'},
+instances: 1, word: 'Besiege', work: 'H8'},
+instances: 1, word: 'Besmeared', work: 'H8'},
+instances: 1, word: 'Betrayed', work: 'H8'},
+instances: 1, word: 'Bevis', work: 'H8'},
+instances: 1, word: 'Bevy', work: 'H8'},
+instances: 1, word: 'Bewailing', work: 'H8'},
+instances: 1, word: 'Beware', work: 'H8'},
+instances: 1, word: 'Bids', work: 'H8'},
+instances: 1, word: 'Big', work: 'H8'},
+instances: 1, word: 'Bigger', work: 'H8'},
+instances: 1, word: 'Billows', work: 'H8'},
+instances: 1, word: 'Bites', work: 'H8'},
+instances: 1, word: 'Bits', work: 'H8'},
+instances: 1, word: 'Bitten', work: 'H8'},
+instances: 1, word: 'Bitterly', work: 'H8'},
+instances: 1, word: 'Blackfriars', work: 'H8'},
+instances: 1, word: 'Bladders', work: 'H8'},
+instances: 1, word: 'Blamed', work: 'H8'},
+instances: 1, word: 'Blesses', work: 'H8'},
+instances: 1, word: 'Blest', work: 'H8'},
+instances: 1, word: 'Blew', work: 'H8'},
+instances: 1, word: 'Blind', work: 'H8'},
+instances: 1, word: 'Blistered', work: 'H8'},
+instances: 1, word: 'Bloody', work: 'H8'},
+instances: 1, word: 'Blossoms', work: 'H8'},
+instances: 1, word: 'Blow', work: 'H8'},
+instances: 1, word: 'Blumer', work: 'H8'},
+instances: 1, word: 'Bodies', work: 'H8'},
+instances: 1, word: 'Body\'s', work: 'H8'},
+instances: 1, word: 'Bohun', work: 'H8'},
+instances: 1, word: 'Boldened', work: 'H8'},
+instances: 1, word: 'Boldness', work: 'H8'},
+instances: 1, word: 'Bombards', work: 'H8'},
+instances: 1, word: 'Book', work: 'H8'},
+instances: 1, word: 'Bootless', work: 'H8'},
+instances: 1, word: 'Bordeaux', work: 'H8'},
+instances: 1, word: 'Bore', work: 'H8'},
+instances: 1, word: 'Bores', work: 'H8'},
+instances: 1, word: 'Bought', work: 'H8'},
+instances: 1, word: 'Bounties', work: 'H8'},
+instances: 1, word: 'Bounty', work: 'H8'},
+instances: 1, word: 'Bowl', work: 'H8'},
+instances: 1, word: 'Brake', work: 'H8'},
+instances: 1, word: 'Branded', work: 'H8'},
+instances: 1, word: 'Brass', work: 'H8'},
+instances: 1, word: 'Brave', work: 'H8'},
+instances: 1, word: 'Brazier', work: 'H8'},
+instances: 1, word: 'Breakfast', work: 'H8'},
+instances: 1, word: 'Breaks', work: 'H8'},
+instances: 1, word: 'Breeches', work: 'H8'},
+instances: 1, word: 'Breeding', work: 'H8'},
+instances: 1, word: 'Brief', work: 'H8'},
+instances: 1, word: 'Bringing', work: 'H8'},
+instances: 1, word: 'Brings', work: 'H8'},
+instances: 1, word: 'Britain', work: 'H8'},
+instances: 1, word: 'Broach', work: 'H8'},
+instances: 1, word: 'Broiling', work: 'H8'},
+instances: 1, word: 'Broomstaff', work: 'H8'},
+instances: 1, word: 'Brother-love', work: 'H8'},
+instances: 1, word: 'Brothers', work: 'H8'},
+instances: 1, word: 'Brow', work: 'H8'},
+instances: 1, word: 'Brown', work: 'H8'},
+instances: 1, word: 'Budded', work: 'H8'},
+instances: 1, word: 'Build', work: 'H8'},
+instances: 1, word: 'Bulk', work: 'H8'},
+instances: 1, word: 'Bullen\'s', work: 'H8'},
+instances: 1, word: 'Burnt', work: 'H8'},
+instances: 1, word: 'Busy', work: 'H8'},
+instances: 1, word: 'Butcher\'s', work: 'H8'},
+instances: 1, word: 'Buy', work: 'H8'},
+instances: 1, word: 'Buys', work: 'H8'},
+instances: 1, word: 'Buzz', work: 'H8'},
+instances: 1, word: 'Buzzing', work: 'H8'},
+instances: 1, word: 'Cakes', work: 'H8'},
+instances: 1, word: 'Calls', work: 'H8'},
+instances: 1, word: 'Calm', work: 'H8'},
+instances: 1, word: 'Calumnious', work: 'H8'},
+instances: 1, word: 'Camlet', work: 'H8'},
+instances: 1, word: 'Candle', work: 'H8'},
+instances: 1, word: 'Cannons', work: 'H8'},
+instances: 1, word: 'Cap', work: 'H8'},
+instances: 1, word: 'Capable', work: 'H8'},
+instances: 1, word: 'Capacity', work: 'H8'},
+instances: 1, word: 'Capuchius', work: 'H8'},
+instances: 1, word: 'Carders', work: 'H8'},
+instances: 1, word: 'Careful', work: 'H8'},
+instances: 1, word: 'Carnarvanshire', work: 'H8'},
+instances: 1, word: 'Carped', work: 'H8'},
+instances: 1, word: 'Case', work: 'H8'},
+instances: 1, word: 'Cassado', work: 'H8'},
+instances: 1, word: 'Catch', work: 'H8'},
+instances: 1, word: 'Catching', work: 'H8'},
+instances: 1, word: 'Caught', work: 'H8'},
+instances: 1, word: 'Caution', work: 'H8'},
+instances: 1, word: 'Cedar', work: 'H8'},
+instances: 1, word: 'Celebration', work: 'H8'},
+instances: 1, word: 'Celestial', work: 'H8'},
+instances: 1, word: 'Censurers', work: 'H8'},
+instances: 1, word: 'Certainly', work: 'H8'},
+instances: 1, word: 'Certes', work: 'H8'},
+instances: 1, word: 'Chafed', work: 'H8'},
+instances: 1, word: 'Chaff', work: 'H8'},
+instances: 1, word: 'Chafèd', work: 'H8'},
+instances: 1, word: 'Chalks', work: 'H8'},
+instances: 1, word: 'Challenge', work: 'H8'},
+instances: 1, word: 'Challenged', work: 'H8'},
+instances: 1, word: 'Chamber\'s', work: 'H8'},
+instances: 1, word: 'Chapel', work: 'H8'},
+instances: 1, word: 'Chaplains\'', work: 'H8'},
+instances: 1, word: 'Charges', work: 'H8'},
+instances: 1, word: 'Charging', work: 'H8'},
+instances: 1, word: 'Chattels', work: 'H8'},
+instances: 1, word: 'Cheeks', work: 'H8'},
+instances: 1, word: 'Cherish', work: 'H8'},
+instances: 1, word: 'Cherubins', work: 'H8'},
+instances: 1, word: 'Cheveril', work: 'H8'},
+instances: 1, word: 'Chiding', work: 'H8'},
+instances: 1, word: 'Childish', work: 'H8'},
+instances: 1, word: 'Children\'s', work: 'H8'},
+instances: 1, word: 'Chine', work: 'H8'},
+instances: 1, word: 'Choicest', work: 'H8'},
+instances: 1, word: 'Choked', work: 'H8'},
+instances: 1, word: 'Christenings', work: 'H8'},
+instances: 1, word: 'Chronicler', work: 'H8'},
+instances: 1, word: 'Chronicles', work: 'H8'},
+instances: 1, word: 'Church', work: 'H8'},
+instances: 1, word: 'Churchmen\'s', work: 'H8'},
+instances: 1, word: 'Cinque-ports', work: 'H8'},
+instances: 1, word: 'Circumstances', work: 'H8'},
+instances: 1, word: 'Cited', work: 'H8'},
+instances: 1, word: 'Citizens', work: 'H8'},
+instances: 1, word: 'City', work: 'H8'},
+instances: 1, word: 'Claims', work: 'H8'},
+instances: 1, word: 'Clean', work: 'H8'},
+instances: 1, word: 'Clergy', work: 'H8'},
+instances: 1, word: 'Clerks', work: 'H8'},
+instances: 1, word: 'Climb', work: 'H8'},
+instances: 1, word: 'Clinquant', work: 'H8'},
+instances: 1, word: 'Cloaks', work: 'H8'},
+instances: 1, word: 'Cloth', work: 'H8'},
+instances: 1, word: 'Clotharius', work: 'H8'},
+instances: 1, word: 'Clothes', work: 'H8'},
+instances: 1, word: 'Clothiers', work: 'H8'},
+instances: 1, word: 'Clubs', work: 'H8'},
+instances: 1, word: 'Clung', work: 'H8'},
+instances: 1, word: 'Coarse', work: 'H8'},
+instances: 1, word: 'Coasts', work: 'H8'},
+instances: 1, word: 'Colbrand', work: 'H8'},
+instances: 1, word: 'Colleges', work: 'H8'},
+instances: 1, word: 'Color', work: 'H8'},
+instances: 1, word: 'Colt\'s', work: 'H8'},
+instances: 1, word: 'Combination', work: 'H8'},
+instances: 1, word: 'Combustion', work: 'H8'},
+instances: 1, word: 'Comforting', work: 'H8'},
+instances: 1, word: 'Comfortless', work: 'H8'},
+instances: 1, word: 'Commands', work: 'H8'},
+instances: 1, word: 'Commended', work: 'H8'},
+instances: 1, word: 'Commends', work: 'H8'},
+instances: 1, word: 'Commit', work: 'H8'},
+instances: 1, word: 'Committing', work: 'H8'},
+instances: 1, word: 'Commonalty', work: 'H8'},
+instances: 1, word: 'Commotion', work: 'H8'},
+instances: 1, word: 'Commotions', work: 'H8'},
+instances: 1, word: 'Communication', work: 'H8'},
+instances: 1, word: 'Companion', work: 'H8'},
+instances: 1, word: 'Compels', work: 'H8'},
+instances: 1, word: 'Compounded', work: 'H8'},
+instances: 1, word: 'Comptrollers', work: 'H8'},
+instances: 1, word: 'Conceal', work: 'H8'},
+instances: 1, word: 'Conceit', work: 'H8'},
+instances: 1, word: 'Conceive', work: 'H8'},
+instances: 1, word: 'Conceived', work: 'H8'},
+instances: 1, word: 'Conception', work: 'H8'},
+instances: 1, word: 'Concerns', work: 'H8'},
+instances: 1, word: 'Conclave', work: 'H8'},
+instances: 1, word: 'Condemned', work: 'H8'},
+instances: 1, word: 'Condition', work: 'H8'},
+instances: 1, word: 'Conditions', work: 'H8'},
+instances: 1, word: 'Confederacy', work: 'H8'},
+instances: 1, word: 'Confession\'s', work: 'H8'},
+instances: 1, word: 'Confessor\'s', work: 'H8'},
+instances: 1, word: 'Confidence', work: 'H8'},
+instances: 1, word: 'Confident', work: 'H8'},
+instances: 1, word: 'Confine', work: 'H8'},
+instances: 1, word: 'Confirmation', work: 'H8'},
+instances: 1, word: 'Conformable', work: 'H8'},
+instances: 1, word: 'Conjectures', work: 'H8'},
+instances: 1, word: 'Conjunction', work: 'H8'},
+instances: 1, word: 'Consequence', work: 'H8'},
+instances: 1, word: 'Consideration', work: 'H8'},
+instances: 1, word: 'Considered', work: 'H8'},
+instances: 1, word: 'Considering', work: 'H8'},
+instances: 1, word: 'Considerings', work: 'H8'},
+instances: 1, word: 'Constable', work: 'H8'},
+instances: 1, word: 'Constancy', work: 'H8'},
+instances: 1, word: 'Constant', work: 'H8'},
+instances: 1, word: 'Construction', work: 'H8'},
+instances: 1, word: 'Consulting', work: 'H8'},
+instances: 1, word: 'Contagious', work: 'H8'},
+instances: 1, word: 'Contains', work: 'H8'},
+instances: 1, word: 'Contemplation', work: 'H8'},
+instances: 1, word: 'Contempt', work: 'H8'},
+instances: 1, word: 'Contents', work: 'H8'},
+instances: 1, word: 'Continual', work: 'H8'},
+instances: 1, word: 'Contradicted', work: 'H8'},
+instances: 1, word: 'Contribution', work: 'H8'},
+instances: 1, word: 'Convenient', work: 'H8'},
+instances: 1, word: 'Convent', work: 'H8'},
+instances: 1, word: 'Convented', work: 'H8'},
+instances: 1, word: 'Converting', work: 'H8'},
+instances: 1, word: 'Conveyed', work: 'H8'},
+instances: 1, word: 'Cope', work: 'H8'},
+instances: 1, word: 'Cordial', work: 'H8'},
+instances: 1, word: 'Corner', work: 'H8'},
+instances: 1, word: 'Coronets', work: 'H8'},
+instances: 1, word: 'Correct', work: 'H8'},
+instances: 1, word: 'Cost', work: 'H8'},
+instances: 1, word: 'Costly', work: 'H8'},
+instances: 1, word: 'Counselor', work: 'H8'},
+instances: 1, word: 'Counselors', work: 'H8'},
+instances: 1, word: 'Counterfeit', work: 'H8'},
+instances: 1, word: 'Countesses', work: 'H8'},
+instances: 1, word: 'Country\'s', work: 'H8'},
+instances: 1, word: 'County', work: 'H8'},
+instances: 1, word: 'Courtesy', work: 'H8'},
+instances: 1, word: 'Courts', work: 'H8'},
+instances: 1, word: 'Covetous', work: 'H8'},
+instances: 1, word: 'Cow', work: 'H8'},
+instances: 1, word: 'Crab-tree', work: 'H8'},
+instances: 1, word: 'Crack', work: 'H8'},
+instances: 1, word: 'Cracked', work: 'H8'},
+instances: 1, word: 'Crammed', work: 'H8'},
+instances: 1, word: 'Cranmer\'s', work: 'H8'},
+instances: 1, word: 'Crave', work: 'H8'},
+instances: 1, word: 'Crawled', work: 'H8'},
+instances: 1, word: 'Create', work: 'H8'},
+instances: 1, word: 'Creatures', work: 'H8'},
+instances: 1, word: 'Creed', work: 'H8'},
+instances: 1, word: 'Crookèd', work: 'H8'},
+instances: 1, word: 'Crowd', work: 'H8'},
+instances: 1, word: 'Cruelty', work: 'H8'},
+instances: 1, word: 'Crutch', work: 'H8'},
+instances: 1, word: 'Crying', work: 'H8'},
+instances: 1, word: 'Cuckold', work: 'H8'},
+instances: 1, word: 'Cuckold-maker', work: 'H8'},
+instances: 1, word: 'Cudgel', work: 'H8'},
+instances: 1, word: 'Cum', work: 'H8'},
+instances: 1, word: 'Cur', work: 'H8'},
+instances: 1, word: 'Current', work: 'H8'},
+instances: 1, word: 'Curs', work: 'H8'},
+instances: 1, word: 'Curse', work: 'H8'},
+instances: 1, word: 'Curtain', work: 'H8'},
+instances: 1, word: 'Custom', work: 'H8'},
+instances: 1, word: 'Cut', work: 'H8'},
+instances: 1, word: 'Dagger', work: 'H8'},
+instances: 1, word: 'Dainty', work: 'H8'},
+instances: 1, word: 'Dam', work: 'H8'},
+instances: 1, word: 'Damage', work: 'H8'},
+instances: 1, word: 'Dancing', work: 'H8'},
+instances: 1, word: 'Dangers', work: 'H8'},
+instances: 1, word: 'Dares', work: 'H8'},
+instances: 1, word: 'Daring\'st', work: 'H8'},
+instances: 1, word: 'Darkness', work: 'H8'},
+instances: 1, word: 'Dark\'ning', work: 'H8'},
+instances: 1, word: 'Darts', work: 'H8'},
+instances: 1, word: 'Dashing', work: 'H8'},
+instances: 1, word: 'Day\'s', work: 'H8'},
+instances: 1, word: 'Dealing', work: 'H8'},
+instances: 1, word: 'Deals', work: 'H8'},
+instances: 1, word: 'Dearest', work: 'H8'},
+instances: 1, word: 'Debate', work: 'H8'},
+instances: 1, word: 'Debating', work: 'H8'},
+instances: 1, word: 'Decent', work: 'H8'},
+instances: 1, word: 'Declare', work: 'H8'},
+instances: 1, word: 'Decline', work: 'H8'},
+instances: 1, word: 'Dedicates', work: 'H8'},
+instances: 1, word: 'Deeds', work: 'H8'},
+instances: 1, word: 'Deem', work: 'H8'},
+instances: 1, word: 'Deemed', work: 'H8'},
+instances: 1, word: 'Defacers', work: 'H8'},
+instances: 1, word: 'Defeat', work: 'H8'},
+instances: 1, word: 'Defied', work: 'H8'},
+instances: 1, word: 'Delights', work: 'H8'},
+instances: 1, word: 'Deliverance', work: 'H8'},
+instances: 1, word: 'Demure', work: 'H8'},
+instances: 1, word: 'Denied', work: 'H8'},
+instances: 1, word: 'Denny', work: 'H8'},
+instances: 1, word: 'Departed', work: 'H8'},
+instances: 1, word: 'Depth', work: 'H8'},
+instances: 1, word: 'Depths', work: 'H8'},
+instances: 1, word: 'Derived', work: 'H8'},
+instances: 1, word: 'Deserts', work: 'H8'},
+instances: 1, word: 'Design', work: 'H8'},
+instances: 1, word: 'Despairs', work: 'H8'},
+instances: 1, word: 'Despise', work: 'H8'},
+instances: 1, word: 'Despised', work: 'H8'},
+instances: 1, word: 'Destruction', work: 'H8'},
+instances: 1, word: 'Determinate', work: 'H8'},
+instances: 1, word: 'Determines', work: 'H8'},
+instances: 1, word: 'Detests', work: 'H8'},
+instances: 1, word: 'Deum', work: 'H8'},
+instances: 1, word: 'Devil\'s', work: 'H8'},
+instances: 1, word: 'Devised', work: 'H8'},
+instances: 1, word: 'Devoutly', work: 'H8'},
+instances: 1, word: 'Dew', work: 'H8'},
+instances: 1, word: 'Didst', work: 'H8'},
+instances: 1, word: 'Dies', work: 'H8'},
+instances: 1, word: 'Digest', work: 'H8'},
+instances: 1, word: 'Digestion', work: 'H8'},
+instances: 1, word: 'Dilatory', work: 'H8'},
+instances: 1, word: 'Dim', work: 'H8'},
+instances: 1, word: 'Direct', work: 'H8'},
+instances: 1, word: 'Directly', work: 'H8'},
+instances: 1, word: 'Discerner', work: 'H8'},
+instances: 1, word: 'Discharge', work: 'H8'},
+instances: 1, word: 'Disciples', work: 'H8'},
+instances: 1, word: 'Discontented', work: 'H8'},
+instances: 1, word: 'Discourser', work: 'H8'},
+instances: 1, word: 'Discovers', work: 'H8'},
+instances: 1, word: 'Disdainful', work: 'H8'},
+instances: 1, word: 'Disease', work: 'H8'},
+instances: 1, word: 'Diseases', work: 'H8'},
+instances: 1, word: 'Disgrace', work: 'H8'},
+instances: 1, word: 'Disgraced', work: 'H8'},
+instances: 1, word: 'Dishonor', work: 'H8'},
+instances: 1, word: 'Dispatch', work: 'H8'},
+instances: 1, word: 'Displayed', work: 'H8'},
+instances: 1, word: 'Disposed', work: 'H8'},
+instances: 1, word: 'Disposing', work: 'H8'},
+instances: 1, word: 'Disposition', work: 'H8'},
+instances: 1, word: 'Distance', work: 'H8'},
+instances: 1, word: 'Distinctly', work: 'H8'},
+instances: 1, word: 'Distraction', work: 'H8'},
+instances: 1, word: 'Distressed', work: 'H8'},
+instances: 1, word: 'Distribute', work: 'H8'},
+instances: 1, word: 'Disturb', work: 'H8'},
+instances: 1, word: 'Dives', work: 'H8'},
+instances: 1, word: 'Divorced', work: 'H8'},
+instances: 1, word: 'Doctor', work: 'H8'},
+instances: 1, word: 'Doctors', work: 'H8'},
+instances: 1, word: 'Doctrine', work: 'H8'},
+instances: 1, word: 'Dog', work: 'H8'},
+instances: 1, word: 'Domestics', work: 'H8'},
+instances: 1, word: 'Dominions', work: 'H8'},
+instances: 1, word: 'Dote', work: 'H8'},
+instances: 1, word: 'Double', work: 'H8'},
+instances: 1, word: 'Doubled', work: 'H8'},
+instances: 1, word: 'Doublets', work: 'H8'},
+instances: 1, word: 'Doubted', work: 'H8'},
+instances: 1, word: 'Dozens', work: 'H8'},
+instances: 1, word: 'Dream', work: 'H8'},
+instances: 1, word: 'Dreams', work: 'H8'},
+instances: 1, word: 'Drew', work: 'H8'},
+instances: 1, word: 'Drives', work: 'H8'},
+instances: 1, word: 'Drop', work: 'H8'},
+instances: 1, word: 'Dropped', work: 'H8'},
+instances: 1, word: 'Drops', work: 'H8'},
+instances: 1, word: 'Dry', work: 'H8'},
+instances: 1, word: 'Due', work: 'H8'},
+instances: 1, word: 'Dull', work: 'H8'},
+instances: 1, word: 'Dunstable', work: 'H8'},
+instances: 1, word: 'During', work: 'H8'},
+instances: 1, word: 'Duties', work: 'H8'},
+instances: 1, word: 'Dwarfish', work: 'H8'},
+instances: 1, word: 'Dye', work: 'H8'},
+instances: 1, word: 'Early', work: 'H8'},
+instances: 1, word: 'Earnest', work: 'H8'},
+instances: 1, word: 'Earnestly', work: 'H8'},
+instances: 1, word: 'Earthy', work: 'H8'},
+instances: 1, word: 'Easiness', work: 'H8'},
+instances: 1, word: 'Eat', work: 'H8'},
+instances: 1, word: 'Edge', work: 'H8'},
+instances: 1, word: 'Effects', work: 'H8'},
+instances: 1, word: 'Ego', work: 'H8'},
+instances: 1, word: 'Egypt', work: 'H8'},
+instances: 1, word: 'Eight', work: 'H8'},
+instances: 1, word: 'Eighth', work: 'H8'},
+instances: 1, word: 'Eldest', work: 'H8'},
+instances: 1, word: 'Elect', work: 'H8'},
+instances: 1, word: 'Element', work: 'H8'},
+instances: 1, word: 'Emballing', work: 'H8'},
+instances: 1, word: 'Embalm', work: 'H8'},
+instances: 1, word: 'Emblems', work: 'H8'},
+instances: 1, word: 'Embracement', work: 'H8'},
+instances: 1, word: 'Eminence', work: 'H8'},
+instances: 1, word: 'Eminent', work: 'H8'},
+instances: 1, word: 'Employment', work: 'H8'},
+instances: 1, word: 'Encounter', work: 'H8'},
+instances: 1, word: 'Endless', work: 'H8'},
+instances: 1, word: 'Endurance', work: 'H8'},
+instances: 1, word: 'Englishman', work: 'H8'},
+instances: 1, word: 'Enjoy', work: 'H8'},
+instances: 1, word: 'Enrolled', work: 'H8'},
+instances: 1, word: 'Ensued', work: 'H8'},
+instances: 1, word: 'Entered', work: 'H8'},
+instances: 1, word: 'Enthroned', work: 'H8'},
+instances: 1, word: 'Entrance', work: 'H8'},
+instances: 1, word: 'Entreaties', work: 'H8'},
+instances: 1, word: 'Entreats', work: 'H8'},
+instances: 1, word: 'Ent\'ring', work: 'H8'},
+instances: 1, word: 'Envied', work: 'H8'},
+instances: 1, word: 'Erga', work: 'H8'},
+instances: 1, word: 'Err', work: 'H8'},
+instances: 1, word: 'Escapes', work: 'H8'},
+instances: 1, word: 'Est', work: 'H8'},
+instances: 1, word: 'Estates', work: 'H8'},
+instances: 1, word: 'Esteem', work: 'H8'},
+instances: 1, word: 'Et', work: 'H8'},
+instances: 1, word: 'Eternal', work: 'H8'},
+instances: 1, word: 'Evening', work: 'H8'},
+instances: 1, word: 'Event', work: 'H8'},
+instances: 1, word: 'Evermore', work: 'H8'},
+instances: 1, word: 'Evidence', work: 'H8'},
+instances: 1, word: 'Evils', work: 'H8'},
+instances: 1, word: 'Examination', work: 'H8'},
+instances: 1, word: 'Examinations', work: 'H8'},
+instances: 1, word: 'Examples', work: 'H8'},
+instances: 1, word: 'Excellence', work: 'H8'},
+instances: 1, word: 'Exclamation', work: 'H8'},
+instances: 1, word: 'Excused', work: 'H8'},
+instances: 1, word: 'Execute', work: 'H8'},
+instances: 1, word: 'Execution', work: 'H8'},
+instances: 1, word: 'Exempt', work: 'H8'},
+instances: 1, word: 'Exhalation', work: 'H8'},
+instances: 1, word: 'Expect', work: 'H8'},
+instances: 1, word: 'Expected', work: 'H8'},
+instances: 1, word: 'Expense', work: 'H8'},
+instances: 1, word: 'Expressly', work: 'H8'},
+instances: 1, word: 'Extend', work: 'H8'},
+instances: 1, word: 'Extortion', work: 'H8'},
+instances: 1, word: 'Extremity', work: 'H8'},
+instances: 1, word: 'E\'en', work: 'H8'},
+instances: 1, word: 'Fabulous', work: 'H8'},
+instances: 1, word: 'Faculties', work: 'H8'},
+instances: 1, word: 'Failed', work: 'H8'},
+instances: 1, word: 'Faints', work: 'H8'},
+instances: 1, word: 'Fair-spoken', work: 'H8'},
+instances: 1, word: 'Fairer', work: 'H8'},
+instances: 1, word: 'Fairest', work: 'H8'},
+instances: 1, word: 'Faithfully', work: 'H8'},
+instances: 1, word: 'Faithless', work: 'H8'},
+instances: 1, word: 'Falsehood', work: 'H8'},
+instances: 1, word: 'Fancy\'s', work: 'H8'},
+instances: 1, word: 'Fashion', work: 'H8'},
+instances: 1, word: 'Father\'s', work: 'H8'},
+instances: 1, word: 'Fathom', work: 'H8'},
+instances: 1, word: 'Faulty', work: 'H8'},
+instances: 1, word: 'Favorer', work: 'H8'},
+instances: 1, word: 'Fearful', work: 'H8'},
+instances: 1, word: 'Feast', work: 'H8'},
+instances: 1, word: 'Feather', work: 'H8'},
+instances: 1, word: 'Feats', work: 'H8'},
+instances: 1, word: 'Feature', work: 'H8'},
+instances: 1, word: 'Fee', work: 'H8'},
+instances: 1, word: 'Feeds', work: 'H8'},
+instances: 1, word: 'Fellowship', work: 'H8'},
+instances: 1, word: 'Fellow\'s', work: 'H8'},
+instances: 1, word: 'Ferdinand', work: 'H8'},
+instances: 1, word: 'Ferrara', work: 'H8'},
+instances: 1, word: 'Fierce', work: 'H8'},
+instances: 1, word: 'Fights', work: 'H8'},
+instances: 1, word: 'Figure', work: 'H8'},
+instances: 1, word: 'Filed', work: 'H8'},
+instances: 1, word: 'Filled', work: 'H8'},
+instances: 1, word: 'Filling', work: 'H8'},
+instances: 1, word: 'Finds', work: 'H8'},
+instances: 1, word: 'Fine', work: 'H8'},
+instances: 1, word: 'Fines', work: 'H8'},
+instances: 1, word: 'Fire-drake', work: 'H8'},
+instances: 1, word: 'Fireworks', work: 'H8'},
+instances: 1, word: 'Fish', work: 'H8'},
+instances: 1, word: 'Fishes', work: 'H8'},
+instances: 1, word: 'Fitness', work: 'H8'},
+instances: 1, word: 'Fits', work: 'H8'},
+instances: 1, word: 'Flanders', work: 'H8'},
+instances: 1, word: 'Flatteries', work: 'H8'},
+instances: 1, word: 'Flesh', work: 'H8'},
+instances: 1, word: 'Flew', work: 'H8'},
+instances: 1, word: 'Fling', work: 'H8'},
+instances: 1, word: 'Flocks', work: 'H8'},
+instances: 1, word: 'Flood', work: 'H8'},
+instances: 1, word: 'Flourished', work: 'H8'},
+instances: 1, word: 'Flowing', work: 'H8'},
+instances: 1, word: 'Flung', work: 'H8'},
+instances: 1, word: 'Flying', work: 'H8'},
+instances: 1, word: 'Foes', work: 'H8'},
+instances: 1, word: 'Follies', work: 'H8'},
+instances: 1, word: 'Following', work: 'H8'},
+instances: 1, word: 'Fondness', work: 'H8'},
+instances: 1, word: 'Foot', work: 'H8'},
+instances: 1, word: 'Footboy', work: 'H8'},
+instances: 1, word: 'Footboys', work: 'H8'},
+instances: 1, word: 'Footing', work: 'H8'},
+instances: 1, word: 'Forbear', work: 'H8'},
+instances: 1, word: 'Fore-recited', work: 'H8'},
+instances: 1, word: 'Foresaid', work: 'H8'},
+instances: 1, word: 'Foreseeing', work: 'H8'},
+instances: 1, word: 'Foreskirt', work: 'H8'},
+instances: 1, word: 'Foretold', work: 'H8'},
+instances: 1, word: 'Forfeit', work: 'H8'},
+instances: 1, word: 'Forfeiting', work: 'H8'},
+instances: 1, word: 'Forged', work: 'H8'},
+instances: 1, word: 'Forget', work: 'H8'},
+instances: 1, word: 'Forgetful', work: 'H8'},
+instances: 1, word: 'Forgetting', work: 'H8'},
+instances: 1, word: 'Forgiven', work: 'H8'},
+instances: 1, word: 'Forgo', work: 'H8'},
+instances: 1, word: 'Forgot', work: 'H8'},
+instances: 1, word: 'Formerly', work: 'H8'},
+instances: 1, word: 'Fornication', work: 'H8'},
+instances: 1, word: 'Fortitude', work: 'H8'},
+instances: 1, word: 'Foulness', work: 'H8'},
+instances: 1, word: 'Foul\'st', work: 'H8'},
+instances: 1, word: 'Founder', work: 'H8'},
+instances: 1, word: 'Founts', work: 'H8'},
+instances: 1, word: 'Fox', work: 'H8'},
+instances: 1, word: 'Frailty', work: 'H8'},
+instances: 1, word: 'Frame', work: 'H8'},
+instances: 1, word: 'Frankly', work: 'H8'},
+instances: 1, word: 'Freed', work: 'H8'},
+instances: 1, word: 'Freshly', work: 'H8'},
+instances: 1, word: 'Fret', work: 'H8'},
+instances: 1, word: 'Friar', work: 'H8'},
+instances: 1, word: 'Friended', work: 'H8'},
+instances: 1, word: 'Friendless', work: 'H8'},
+instances: 1, word: 'Friendly', work: 'H8'},
+instances: 1, word: 'Friendship', work: 'H8'},
+instances: 1, word: 'Frighted', work: 'H8'},
+instances: 1, word: 'Front', work: 'H8'},
+instances: 1, word: 'Frowns', work: 'H8'},
+instances: 1, word: 'Fruit', work: 'H8'},
+instances: 1, word: 'Fruitful', work: 'H8'},
+instances: 1, word: 'Fry', work: 'H8'},
+instances: 1, word: 'Full-charged', work: 'H8'},
+instances: 1, word: 'Fullers', work: 'H8'},
+instances: 1, word: 'Fully', work: 'H8'},
+instances: 1, word: 'Furnace', work: 'H8'},
+instances: 1, word: 'Furniture', work: 'H8'},
+instances: 1, word: 'Future', work: 'H8'},
+instances: 1, word: 'Gainsay', work: 'H8'},
+instances: 1, word: 'Gait', work: 'H8'},
+instances: 1, word: 'Gall', work: 'H8'},
+instances: 1, word: 'Gallant', work: 'H8'},
+instances: 1, word: 'Gallants', work: 'H8'},
+instances: 1, word: 'Galled', work: 'H8'},
+instances: 1, word: 'Gallery', work: 'H8'},
+instances: 1, word: 'Gallows', work: 'H8'},
+instances: 1, word: 'Gamester', work: 'H8'},
+instances: 1, word: 'Gap', work: 'H8'},
+instances: 1, word: 'Gaping', work: 'H8'},
+instances: 1, word: 'Garden', work: 'H8'},
+instances: 1, word: 'Garlands', work: 'H8'},
+instances: 1, word: 'Garment', work: 'H8'},
+instances: 1, word: 'Gate', work: 'H8'},
+instances: 1, word: 'Gathered', work: 'H8'},
+instances: 1, word: 'Gav\'st', work: 'H8'},
+instances: 1, word: 'Gem', work: 'H8'},
+instances: 1, word: 'Generally', work: 'H8'},
+instances: 1, word: 'Gentleness', work: 'H8'},
+instances: 1, word: 'Gentlewoman', work: 'H8'},
+instances: 1, word: 'Gently', work: 'H8'},
+instances: 1, word: 'Gentry', work: 'H8'},
+instances: 1, word: 'Germany', work: 'H8'},
+instances: 1, word: 'Gets', work: 'H8'},
+instances: 1, word: 'Getting', work: 'H8'},
+instances: 1, word: 'Giant', work: 'H8'},
+instances: 1, word: 'Gift', work: 'H8'},
+instances: 1, word: 'Gifts', work: 'H8'},
+instances: 1, word: 'Gild', work: 'H8'},
+instances: 1, word: 'Gilt', work: 'H8'},
+instances: 1, word: 'Giving', work: 'H8'},
+instances: 1, word: 'Gladded', work: 'H8'},
+instances: 1, word: 'Gladding', work: 'H8'},
+instances: 1, word: 'Glass', work: 'H8'},
+instances: 1, word: 'Gleaning', work: 'H8'},
+instances: 1, word: 'Glist\'ring', work: 'H8'},
+instances: 1, word: 'Glories', work: 'H8'},
+instances: 1, word: 'Gloss', work: 'H8'},
+instances: 1, word: 'Gods', work: 'H8'},
+instances: 1, word: 'Going-out', work: 'H8'},
+instances: 1, word: 'Golden', work: 'H8'},
+instances: 1, word: 'Goodliest', work: 'H8'},
+instances: 1, word: 'Goodnight', work: 'H8'},
+instances: 1, word: 'Gossips', work: 'H8'},
+instances: 1, word: 'Govern', work: 'H8'},
+instances: 1, word: 'Government', work: 'H8'},
+instances: 1, word: 'Grain', work: 'H8'},
+instances: 1, word: 'Grand', work: 'H8'},
+instances: 1, word: 'Gravel', work: 'H8'},
+instances: 1, word: 'Graver', work: 'H8'},
+instances: 1, word: 'Gravity', work: 'H8'},
+instances: 1, word: 'Great-bellied', work: 'H8'},
+instances: 1, word: 'Great-nephew', work: 'H8'},
+instances: 1, word: 'Great\'st', work: 'H8'},
+instances: 1, word: 'Greenwich', work: 'H8'},
+instances: 1, word: 'Gregory', work: 'H8'},
+instances: 1, word: 'Griefs', work: 'H8'},
+instances: 1, word: 'Grievance', work: 'H8'},
+instances: 1, word: 'Grieved', work: 'H8'},
+instances: 1, word: 'Grievingly', work: 'H8'},
+instances: 1, word: 'Grievèd', work: 'H8'},
+instances: 1, word: 'Griped', work: 'H8'},
+instances: 1, word: 'Grips', work: 'H8'},
+instances: 1, word: 'Groan', work: 'H8'},
+instances: 1, word: 'Groaning', work: 'H8'},
+instances: 1, word: 'Grooms', work: 'H8'},
+instances: 1, word: 'Grosser', work: 'H8'},
+instances: 1, word: 'Grounded', work: 'H8'},
+instances: 1, word: 'Grubbed', work: 'H8'},
+instances: 1, word: 'Guard', work: 'H8'},
+instances: 1, word: 'Guarded', work: 'H8'},
+instances: 1, word: 'Guest', work: 'H8'},
+instances: 1, word: 'Guide', work: 'H8'},
+instances: 1, word: 'Guy', work: 'H8'},
+instances: 1, word: 'Guynes', work: 'H8'},
+instances: 1, word: 'Haberdasher\'s', work: 'H8'},
+instances: 1, word: 'Hacked', work: 'H8'},
+instances: 1, word: 'Hair', work: 'H8'},
+instances: 1, word: 'Halidom', work: 'H8'},
+instances: 1, word: 'Hall', work: 'H8'},
+instances: 1, word: 'Hallowed', work: 'H8'},
+instances: 1, word: 'Handmaid', work: 'H8'},
+instances: 1, word: 'Handsome', work: 'H8'},
+instances: 1, word: 'Hangs', work: 'H8'},
+instances: 1, word: 'Hap', work: 'H8'},
+instances: 1, word: 'Happened', work: 'H8'},
+instances: 1, word: 'Happier', work: 'H8'},
+instances: 1, word: 'Happiest', work: 'H8'},
+instances: 1, word: 'Hard-ruled', work: 'H8'},
+instances: 1, word: 'Hardly', work: 'H8'},
+instances: 1, word: 'Hark', work: 'H8'},
+instances: 1, word: 'Harm-doing', work: 'H8'},
+instances: 1, word: 'Harmony', work: 'H8'},
+instances: 1, word: 'Harms', work: 'H8'},
+instances: 1, word: 'Harsh', work: 'H8'},
+instances: 1, word: 'Hasty', work: 'H8'},
+instances: 1, word: 'Hat', work: 'H8'},
+instances: 1, word: 'Hated', work: 'H8'},
+instances: 1, word: 'Hates', work: 'H8'},
+instances: 1, word: 'Hatred', work: 'H8'},
+instances: 1, word: 'Hats', work: 'H8'},
+instances: 1, word: 'Have-at-him', work: 'H8'},
+instances: 1, word: 'Havings', work: 'H8'},
+instances: 1, word: 'Ha\'', work: 'H8'},
+instances: 1, word: 'Healthful', work: 'H8'},
+instances: 1, word: 'Healths', work: 'H8'},
+instances: 1, word: 'Hears', work: 'H8'},
+instances: 1, word: 'Heat', work: 'H8'},
+instances: 1, word: 'Heated', work: 'H8'},
+instances: 1, word: 'Heathen', work: 'H8'},
+instances: 1, word: 'Heaviest', work: 'H8'},
+instances: 1, word: 'Heav\'n', work: 'H8'},
+instances: 1, word: 'Heav\'nly', work: 'H8'},
+instances: 1, word: 'Heav\'n\'s', work: 'H8'},
+instances: 1, word: 'Hedges', work: 'H8'},
+instances: 1, word: 'Heels', work: 'H8'},
+instances: 1, word: 'Height', work: 'H8'},
+instances: 1, word: 'Heirs', work: 'H8'},
+instances: 1, word: 'Herald', work: 'H8'},
+instances: 1, word: 'Heralds', work: 'H8'},
+instances: 1, word: 'Hereafter', work: 'H8'},
+instances: 1, word: 'Heresies', work: 'H8'},
+instances: 1, word: 'Hertford', work: 'H8'},
+instances: 1, word: 'Hid', work: 'H8'},
+instances: 1, word: 'Hideous', work: 'H8'},
+instances: 1, word: 'High-blown', work: 'H8'},
+instances: 1, word: 'Highest', work: 'H8'},
+instances: 1, word: 'Hill', work: 'H8'},
+instances: 1, word: 'Hills', work: 'H8'},
+instances: 1, word: 'Hinder', work: 'H8'},
+instances: 1, word: 'Hindered', work: 'H8'},
+instances: 1, word: 'Hire', work: 'H8'},
+instances: 1, word: 'Hitherto', work: 'H8'},
+instances: 1, word: 'Hitting', work: 'H8'},
+instances: 1, word: 'Ho', work: 'H8'},
+instances: 1, word: 'Holds', work: 'H8'},
+instances: 1, word: 'Holiday', work: 'H8'},
+instances: 1, word: 'Holily', work: 'H8'},
+instances: 1, word: 'Hollow', work: 'H8'},
+instances: 1, word: 'Honey', work: 'H8'},
+instances: 1, word: 'Honorably', work: 'H8'},
+instances: 1, word: 'Honor\'s', work: 'H8'},
+instances: 1, word: 'Hoods', work: 'H8'},
+instances: 1, word: 'Hopeful', work: 'H8'},
+instances: 1, word: 'Hopeless', work: 'H8'},
+instances: 1, word: 'Horrible', work: 'H8'},
+instances: 1, word: 'Horrid', work: 'H8'},
+instances: 1, word: 'Horse', work: 'H8'},
+instances: 1, word: 'Horseback', work: 'H8'},
+instances: 1, word: 'Hourly', work: 'H8'},
+instances: 1, word: 'Household', work: 'H8'},
+instances: 1, word: 'Housewife', work: 'H8'},
+instances: 1, word: 'Hulling', work: 'H8'},
+instances: 1, word: 'Humble-mouthed', work: 'H8'},
+instances: 1, word: 'Humbleness', work: 'H8'},
+instances: 1, word: 'Humblest', work: 'H8'},
+instances: 1, word: 'Hunger', work: 'H8'},
+instances: 1, word: 'Huntsman', work: 'H8'},
+instances: 1, word: 'Hurt', work: 'H8'},
+instances: 1, word: 'Hypocrisy', work: 'H8'},
+instances: 1, word: 'Ignorance', work: 'H8'},
+instances: 1, word: 'Ignorant', work: 'H8'},
+instances: 1, word: 'Illusions', work: 'H8'},
+instances: 1, word: 'Illustrated', work: 'H8'},
+instances: 1, word: 'Image', work: 'H8'},
+instances: 1, word: 'Imperious', work: 'H8'},
+instances: 1, word: 'Implore', work: 'H8'},
+instances: 1, word: 'Importing', work: 'H8'},
+instances: 1, word: 'Impossible', work: 'H8'},
+instances: 1, word: 'Imprisonment', work: 'H8'},
+instances: 1, word: 'Incense', work: 'H8'},
+instances: 1, word: 'Incensed', work: 'H8'},
+instances: 1, word: 'Incensèd', work: 'H8'},
+instances: 1, word: 'Inclined', work: 'H8'},
+instances: 1, word: 'Incomparable', work: 'H8'},
+instances: 1, word: 'Increase', work: 'H8'},
+instances: 1, word: 'India', work: 'H8'},
+instances: 1, word: 'Indian', work: 'H8'},
+instances: 1, word: 'Indies', work: 'H8'},
+instances: 1, word: 'Indifferent', work: 'H8'},
+instances: 1, word: 'Induce', work: 'H8'},
+instances: 1, word: 'Induced', work: 'H8'},
+instances: 1, word: 'Inducement', work: 'H8'},
+instances: 1, word: 'Infecting', work: 'H8'},
+instances: 1, word: 'Infinite', work: 'H8'},
+instances: 1, word: 'Informations', work: 'H8'},
+instances: 1, word: 'Informed', work: 'H8'},
+instances: 1, word: 'Injustice', work: 'H8'},
+instances: 1, word: 'Inkling', work: 'H8'},
+instances: 1, word: 'Innocent', work: 'H8'},
+instances: 1, word: 'Innumerable', work: 'H8'},
+instances: 1, word: 'Inscribed', work: 'H8'},
+instances: 1, word: 'Inside', work: 'H8'},
+instances: 1, word: 'Insolence', work: 'H8'},
+instances: 1, word: 'Inspired', work: 'H8'},
+instances: 1, word: 'Installed', work: 'H8'},
+instances: 1, word: 'Instantly', work: 'H8'},
+instances: 1, word: 'Integritas', work: 'H8'},
+instances: 1, word: 'Intelligence', work: 'H8'},
+instances: 1, word: 'Intend', work: 'H8'},
+instances: 1, word: 'Intends', work: 'H8'},
+instances: 1, word: 'Inter', work: 'H8'},
+instances: 1, word: 'Intercepted', work: 'H8'},
+instances: 1, word: 'Intercession', work: 'H8'},
+instances: 1, word: 'Interpreters', work: 'H8'},
+instances: 1, word: 'Invite', work: 'H8'},
+instances: 1, word: 'Invited', work: 'H8'},
+instances: 1, word: 'Iron', work: 'H8'},
+instances: 1, word: 'Irresolute', work: 'H8'},
+instances: 1, word: 'Isle', work: 'H8'},
+instances: 1, word: 'Issues', work: 'H8'},
+instances: 1, word: 'Issue\'s', work: 'H8'},
+instances: 1, word: 'Item', work: 'H8'},
+instances: 1, word: 'Its', work: 'H8'},
+instances: 1, word: 'I\'ve', work: 'H8'},
+instances: 1, word: 'Jaded', work: 'H8'},
+instances: 1, word: 'Joined', work: 'H8'},
+instances: 1, word: 'Jot', work: 'H8'},
+instances: 1, word: 'Judged', work: 'H8'},
+instances: 1, word: 'Judges', work: 'H8'},
+instances: 1, word: 'Judging', work: 'H8'},
+instances: 1, word: 'Juggle', work: 'H8'},
+instances: 1, word: 'July', work: 'H8'},
+instances: 1, word: 'Jurisdiction', work: 'H8'},
+instances: 1, word: 'Juror', work: 'H8'},
+instances: 1, word: 'Jury', work: 'H8'},
+instances: 1, word: 'Justified', work: 'H8'},
+instances: 1, word: 'Justify', work: 'H8'},
+instances: 1, word: 'Justly', work: 'H8'},
+instances: 1, word: 'Kate', work: 'H8'},
+instances: 1, word: 'Keech', work: 'H8'},
+instances: 1, word: 'Kildare\'s', work: 'H8'},
+instances: 1, word: 'Kill', work: 'H8'},
+instances: 1, word: 'Kindle', work: 'H8'},
+instances: 1, word: 'Kindling', work: 'H8'},
+instances: 1, word: 'Kindred', work: 'H8'},
+instances: 1, word: 'King-cardinal', work: 'H8'},
+instances: 1, word: 'Kingdoms', work: 'H8'},
+instances: 1, word: 'Kingly', work: 'H8'},
+instances: 1, word: 'Kings', work: 'H8'},
+instances: 1, word: 'Kinsmen', work: 'H8'},
+instances: 1, word: 'Kissing', work: 'H8'},
+instances: 1, word: 'Knavery', work: 'H8'},
+instances: 1, word: 'Kneeled', work: 'H8'},
+instances: 1, word: 'Knight\'s', work: 'H8'},
+instances: 1, word: 'Knowing', work: 'H8'},
+instances: 1, word: 'Know\'st', work: 'H8'},
+instances: 1, word: 'Kymmalton', work: 'H8'},
+instances: 1, word: 'Lack', work: 'H8'},
+instances: 1, word: 'Lackeys', work: 'H8'},
+instances: 1, word: 'Lacking', work: 'H8'},
+instances: 1, word: 'Ladyship', work: 'H8'},
+instances: 1, word: 'Lag', work: 'H8'},
+instances: 1, word: 'Lame', work: 'H8'},
+instances: 1, word: 'Lament', work: 'H8'},
+instances: 1, word: 'Landed', work: 'H8'},
+instances: 1, word: 'Lands', work: 'H8'},
+instances: 1, word: 'Land\'s', work: 'H8'},
+instances: 1, word: 'Larder', work: 'H8'},
+instances: 1, word: 'Large', work: 'H8'},
+instances: 1, word: 'Lark', work: 'H8'},
+instances: 1, word: 'Larks', work: 'H8'},
+instances: 1, word: 'Lasting', work: 'H8'},
+instances: 1, word: 'Latin', work: 'H8'},
+instances: 1, word: 'Laugh', work: 'H8'},
+instances: 1, word: 'Laurence', work: 'H8'},
+instances: 1, word: 'Laying', work: 'H8'},
+instances: 1, word: 'Lays', work: 'H8'},
+instances: 1, word: 'Leap', work: 'H8'},
+instances: 1, word: 'Leaped', work: 'H8'},
+instances: 1, word: 'Learn', work: 'H8'},
+instances: 1, word: 'Learnèdly', work: 'H8'},
+instances: 1, word: 'Ledst', work: 'H8'},
+instances: 1, word: 'Legate', work: 'H8'},
+instances: 1, word: 'Legative', work: 'H8'},
+instances: 1, word: 'Legitimate', work: 'H8'},
+instances: 1, word: 'Leicester', work: 'H8'},
+instances: 1, word: 'Leisure', work: 'H8'},
+instances: 1, word: 'Lend', work: 'H8'},
+instances: 1, word: 'Lessen', work: 'H8'},
+instances: 1, word: 'Level', work: 'H8'},
+instances: 1, word: 'Levied', work: 'H8'},
+instances: 1, word: 'Lewdness', work: 'H8'},
+instances: 1, word: 'Liberty', work: 'H8'},
+instances: 1, word: 'Liest', work: 'H8'},
+instances: 1, word: 'Lift', work: 'H8'},
+instances: 1, word: 'Lighted', work: 'H8'},
+instances: 1, word: 'Lighten', work: 'H8'},
+instances: 1, word: 'Lights', work: 'H8'},
+instances: 1, word: 'Likely', work: 'H8'},
+instances: 1, word: 'Liking', work: 'H8'},
+instances: 1, word: 'Limbo', work: 'H8'},
+instances: 1, word: 'Limehouse', work: 'H8'},
+instances: 1, word: 'Lincoln', work: 'H8'},
+instances: 1, word: 'Line', work: 'H8'},
+instances: 1, word: 'Lion', work: 'H8'},
+instances: 1, word: 'Lip', work: 'H8'},
+instances: 1, word: 'Liquor', work: 'H8'},
+instances: 1, word: 'List\'ning', work: 'H8'},
+instances: 1, word: 'Livers', work: 'H8'},
+instances: 1, word: 'Loaden', work: 'H8'},
+instances: 1, word: 'Lodged', work: 'H8'},
+instances: 1, word: 'Lofty', work: 'H8'},
+instances: 1, word: 'Londoners', work: 'H8'},
+instances: 1, word: 'Longed', work: 'H8'},
+instances: 1, word: 'Looking', work: 'H8'},
+instances: 1, word: 'Lop', work: 'H8'},
+instances: 1, word: 'Lordships\'', work: 'H8'},
+instances: 1, word: 'Lordship\'s', work: 'H8'},
+instances: 1, word: 'Louder', work: 'H8'},
+instances: 1, word: 'Lousy', work: 'H8'},
+instances: 1, word: 'Louvre', work: 'H8'},
+instances: 1, word: 'Lovell\'s', work: 'H8'},
+instances: 1, word: 'Lovely', work: 'H8'},
+instances: 1, word: 'Lover', work: 'H8'},
+instances: 1, word: 'Love\'s', work: 'H8'},
+instances: 1, word: 'Low', work: 'H8'},
+instances: 1, word: 'Lower', work: 'H8'},
+instances: 1, word: 'Lowly', work: 'H8'},
+instances: 1, word: 'Loyalties', work: 'H8'},
+instances: 1, word: 'Lucifer', work: 'H8'},
+instances: 1, word: 'Luck', work: 'H8'},
+instances: 1, word: 'Lump', work: 'H8'},
+instances: 1, word: 'Lutheran', work: 'H8'},
+instances: 1, word: 'Madams', work: 'H8'},
+instances: 1, word: 'Maid', work: 'H8'},
+instances: 1, word: 'Maids', work: 'H8'},
+instances: 1, word: 'Maimed', work: 'H8'},
+instances: 1, word: 'Maintain', work: 'H8'},
+instances: 1, word: 'Makings', work: 'H8'},
+instances: 1, word: 'Malignant', work: 'H8'},
+instances: 1, word: 'Manage', work: 'H8'},
+instances: 1, word: 'Manors', work: 'H8'},
+instances: 1, word: 'Marble', work: 'H8'},
+instances: 1, word: 'Marques', work: 'H8'},
+instances: 1, word: 'Marquess', work: 'H8'},
+instances: 1, word: 'Mars', work: 'H8'},
+instances: 1, word: 'Marshal', work: 'H8'},
+instances: 1, word: 'Marshalsea', work: 'H8'},
+instances: 1, word: 'Martyr', work: 'H8'},
+instances: 1, word: 'Masque', work: 'H8'},
+instances: 1, word: 'Master-cord', work: 'H8'},
+instances: 1, word: 'Mate', work: 'H8'},
+instances: 1, word: 'Matters', work: 'H8'},
+instances: 1, word: 'Maybe', work: 'H8'},
+instances: 1, word: 'Mazed', work: 'H8'},
+instances: 1, word: 'Meaner', work: 'H8'},
+instances: 1, word: 'Meaning', work: 'H8'},
+instances: 1, word: 'Meanwhile', work: 'H8'},
+instances: 1, word: 'Measure', work: 'H8'},
+instances: 1, word: 'Meditating', work: 'H8'},
+instances: 1, word: 'Meek', work: 'H8'},
+instances: 1, word: 'Meets', work: 'H8'},
+instances: 1, word: 'Melt', work: 'H8'},
+instances: 1, word: 'Memories', work: 'H8'},
+instances: 1, word: 'Memorized', work: 'H8'},
+instances: 1, word: 'Mention', work: 'H8'},
+instances: 1, word: 'Mentis', work: 'H8'},
+instances: 1, word: 'Merchants\'', work: 'H8'},
+instances: 1, word: 'Mercies', work: 'H8'},
+instances: 1, word: 'Meridian', work: 'H8'},
+instances: 1, word: 'Merit', work: 'H8'},
+instances: 1, word: 'Metal', work: 'H8'},
+instances: 1, word: 'Meteor', work: 'H8'},
+instances: 1, word: 'Methought', work: 'H8'},
+instances: 1, word: 'Meus', work: 'H8'},
+instances: 1, word: 'Michael', work: 'H8'},
+instances: 1, word: 'Mightiness', work: 'H8'},
+instances: 1, word: 'Miles', work: 'H8'},
+instances: 1, word: 'Mincing', work: 'H8'},
+instances: 1, word: 'Minded', work: 'H8'},
+instances: 1, word: 'Mind\'s', work: 'H8'},
+instances: 1, word: 'Mingled', work: 'H8'},
+instances: 1, word: 'Mirror', work: 'H8'},
+instances: 1, word: 'Mirth', work: 'H8'},
+instances: 1, word: 'Miscarried', work: 'H8'},
+instances: 1, word: 'Mischiefs', work: 'H8'},
+instances: 1, word: 'Misdemeaned', work: 'H8'},
+instances: 1, word: 'Misery', work: 'H8'},
+instances: 1, word: 'Misfortunes', work: 'H8'},
+instances: 1, word: 'Mistaken', work: 'H8'},
+instances: 1, word: 'Mistakes', work: 'H8'},
+instances: 1, word: 'Mock', work: 'H8'},
+instances: 1, word: 'Mocked', work: 'H8'},
+instances: 1, word: 'Model', work: 'H8'},
+instances: 1, word: 'Moiety', work: 'H8'},
+instances: 1, word: 'Mold', work: 'H8'},
+instances: 1, word: 'Molded', work: 'H8'},
+instances: 1, word: 'Monarch', work: 'H8'},
+instances: 1, word: 'Money', work: 'H8'},
+instances: 1, word: 'Monks', work: 'H8'},
+instances: 1, word: 'Monsieurs', work: 'H8'},
+instances: 1, word: 'Monster', work: 'H8'},
+instances: 1, word: 'Monstrous', work: 'H8'},
+instances: 1, word: 'Months', work: 'H8'},
+instances: 1, word: 'Monument', work: 'H8'},
+instances: 1, word: 'Moody', work: 'H8'},
+instances: 1, word: 'Moorfields', work: 'H8'},
+instances: 1, word: 'Mortar-piece', work: 'H8'},
+instances: 1, word: 'Mother', work: 'H8'},
+instances: 1, word: 'Mother\'s', work: 'H8'},
+instances: 1, word: 'Motions', work: 'H8'},
+instances: 1, word: 'Motley', work: 'H8'},
+instances: 1, word: 'Mountacute', work: 'H8'},
+instances: 1, word: 'Mountain', work: 'H8'},
+instances: 1, word: 'Mountaintops', work: 'H8'},
+instances: 1, word: 'Mounted', work: 'H8'},
+instances: 1, word: 'Mounting', work: 'H8'},
+instances: 1, word: 'Mounts', work: 'H8'},
+instances: 1, word: 'Mourn', work: 'H8'},
+instances: 1, word: 'Mow', work: 'H8'},
+instances: 1, word: 'Mud', work: 'H8'},
+instances: 1, word: 'Mule', work: 'H8'},
+instances: 1, word: 'Multitude', work: 'H8'},
+instances: 1, word: 'Murmurers', work: 'H8'},
+instances: 1, word: 'Musicians', work: 'H8'},
+instances: 1, word: 'Musings', work: 'H8'},
+instances: 1, word: 'Muster', work: 'H8'},
+instances: 1, word: 'Mutiny', work: 'H8'},
+instances: 1, word: 'Muzzle', work: 'H8'},
+instances: 1, word: 'Mysteries', work: 'H8'},
+instances: 1, word: 'Naked', work: 'H8'},
+instances: 1, word: 'Nations', work: 'H8'},
+instances: 1, word: 'Natures', work: 'H8'},
+instances: 1, word: 'Naughty', work: 'H8'},
+instances: 1, word: 'Navy', work: 'H8'},
+instances: 1, word: 'Necessary', work: 'H8'},
+instances: 1, word: 'Necessities', work: 'H8'},
+instances: 1, word: 'Neck', work: 'H8'},
+instances: 1, word: 'Needful', work: 'H8'},
+instances: 1, word: 'Neglected', work: 'H8'},
+instances: 1, word: 'Negligence', work: 'H8'},
+instances: 1, word: 'Nephew', work: 'H8'},
+instances: 1, word: 'Net', work: 'H8'},
+instances: 1, word: 'Newly', work: 'H8'},
+instances: 1, word: 'Niggard', work: 'H8'},
+instances: 1, word: 'Nips', work: 'H8'},
+instances: 1, word: 'Nobleman', work: 'H8'},
+instances: 1, word: 'Nobleness', work: 'H8'},
+instances: 1, word: 'Nobler', work: 'H8'},
+instances: 1, word: 'Noble\'s', work: 'H8'},
+instances: 1, word: 'Noised', work: 'H8'},
+instances: 1, word: 'North', work: 'H8'},
+instances: 1, word: 'Northampton', work: 'H8'},
+instances: 1, word: 'Northumberland', work: 'H8'},
+instances: 1, word: 'Noses', work: 'H8'},
+instances: 1, word: 'Noted', work: 'H8'},
+instances: 1, word: 'Note\'s', work: 'H8'},
+instances: 1, word: 'Notorious', work: 'H8'},
+instances: 1, word: 'Notwithstanding', work: 'H8'},
+instances: 1, word: 'Nourishment', work: 'H8'},
+instances: 1, word: 'Numberless', work: 'H8'},
+instances: 1, word: 'Obedient', work: 'H8'},
+instances: 1, word: 'Obeying', work: 'H8'},
+instances: 1, word: 'Objections', work: 'H8'},
+instances: 1, word: 'Obligation', work: 'H8'},
+instances: 1, word: 'Observing', work: 'H8'},
+instances: 1, word: 'Obstinate', work: 'H8'},
+instances: 1, word: 'Odious', work: 'H8'},
+instances: 1, word: 'Offended', work: 'H8'},
+instances: 1, word: 'Offender', work: 'H8'},
+instances: 1, word: 'Offense', work: 'H8'},
+instances: 1, word: 'Offered', work: 'H8'},
+instances: 1, word: 'Offers', work: 'H8'},
+instances: 1, word: 'Officious', work: 'H8'},
+instances: 1, word: 'Often', work: 'H8'},
+instances: 1, word: 'Oil', work: 'H8'},
+instances: 1, word: 'Omit', work: 'H8'},
+instances: 1, word: 'Oppose', work: 'H8'},
+instances: 1, word: 'Opposed', work: 'H8'},
+instances: 1, word: 'Opposing', work: 'H8'},
+instances: 1, word: 'Oppression', work: 'H8'},
+instances: 1, word: 'Ordered', work: 'H8'},
+instances: 1, word: 'Ordinary', work: 'H8'},
+instances: 1, word: 'Orleans', work: 'H8'},
+instances: 1, word: 'Ornaments', work: 'H8'},
+instances: 1, word: 'Orphans\'', work: 'H8'},
+instances: 1, word: 'Orpheus', work: 'H8'},
+instances: 1, word: 'Otherwhere', work: 'H8'},
+instances: 1, word: 'Oui', work: 'H8'},
+instances: 1, word: 'Ourselves', work: 'H8'},
+instances: 1, word: 'Outgo', work: 'H8'},
+instances: 1, word: 'Outlive', work: 'H8'},
+instances: 1, word: 'Outrun', work: 'H8'},
+instances: 1, word: 'Outspeaks', work: 'H8'},
+instances: 1, word: 'Outstare', work: 'H8'},
+instances: 1, word: 'Outworths', work: 'H8'},
+instances: 1, word: 'Overrunning', work: 'H8'},
+instances: 1, word: 'Overthrow', work: 'H8'},
+instances: 1, word: 'Oxford', work: 'H8'},
+instances: 1, word: 'O\'clock', work: 'H8'},
+instances: 1, word: 'O\'ergreat', work: 'H8'},
+instances: 1, word: 'O\'ermount', work: 'H8'},
+instances: 1, word: 'O\'ertake', work: 'H8'},
+instances: 1, word: 'O\'ertopping', work: 'H8'},
+instances: 1, word: 'Paced', work: 'H8'},
+instances: 1, word: 'Paces', work: 'H8'},
+instances: 1, word: 'Pack', work: 'H8'},
+instances: 1, word: 'Pagan', work: 'H8'},
+instances: 1, word: 'Pageants', work: 'H8'},
+instances: 1, word: 'Pains', work: 'H8'},
+instances: 1, word: 'Painted', work: 'H8'},
+instances: 1, word: 'Painting', work: 'H8'},
+instances: 1, word: 'Pale', work: 'H8'},
+instances: 1, word: 'Pales', work: 'H8'},
+instances: 1, word: 'Panging', work: 'H8'},
+instances: 1, word: 'Pangs', work: 'H8'},
+instances: 1, word: 'Paragoned', work: 'H8'},
+instances: 1, word: 'Parcels', work: 'H8'},
+instances: 1, word: 'Pardons', work: 'H8'},
+instances: 1, word: 'Pared', work: 'H8'},
+instances: 1, word: 'Parents', work: 'H8'},
+instances: 1, word: 'Partner', work: 'H8'},
+instances: 1, word: 'Passages', work: 'H8'},
+instances: 1, word: 'Passing', work: 'H8'},
+instances: 1, word: 'Passion', work: 'H8'},
+instances: 1, word: 'Pat', work: 'H8'},
+instances: 1, word: 'Patents', work: 'H8'},
+instances: 1, word: 'Patient\'s', work: 'H8'},
+instances: 1, word: 'Patrum', work: 'H8'},
+instances: 1, word: 'Pattern', work: 'H8'},
+instances: 1, word: 'Paul\'s', work: 'H8'},
+instances: 1, word: 'Pausingly', work: 'H8'},
+instances: 1, word: 'Paved', work: 'H8'},
+instances: 1, word: 'Payment', work: 'H8'},
+instances: 1, word: 'Peacemakers', work: 'H8'},
+instances: 1, word: 'Peep', work: 'H8'},
+instances: 1, word: 'Peeped', work: 'H8'},
+instances: 1, word: 'Pence', work: 'H8'},
+instances: 1, word: 'Penny', work: 'H8'},
+instances: 1, word: 'People\'s', work: 'H8'},
+instances: 1, word: 'Pepin', work: 'H8'},
+instances: 1, word: 'Perceives', work: 'H8'},
+instances: 1, word: 'Perfect', work: 'H8'},
+instances: 1, word: 'Perfidious', work: 'H8'},
+instances: 1, word: 'Performed', work: 'H8'},
+instances: 1, word: 'Perils', work: 'H8'},
+instances: 1, word: 'Period', work: 'H8'},
+instances: 1, word: 'Perjured', work: 'H8'},
+instances: 1, word: 'Perked', work: 'H8'},
+instances: 1, word: 'Permit', work: 'H8'},
+instances: 1, word: 'Pernicious', work: 'H8'},
+instances: 1, word: 'Perniciously', work: 'H8'},
+instances: 1, word: 'Personally', work: 'H8'},
+instances: 1, word: 'Person\'s', work: 'H8'},
+instances: 1, word: 'Persuade', work: 'H8'},
+instances: 1, word: 'Persuading', work: 'H8'},
+instances: 1, word: 'Persuasions', work: 'H8'},
+instances: 1, word: 'Pertaining', work: 'H8'},
+instances: 1, word: 'Pertains', work: 'H8'},
+instances: 1, word: 'Peruse', work: 'H8'},
+instances: 1, word: 'Perused', work: 'H8'},
+instances: 1, word: 'Pestilence', work: 'H8'},
+instances: 1, word: 'Pestilent', work: 'H8'},
+instances: 1, word: 'Phoenix', work: 'H8'},
+instances: 1, word: 'Phrase', work: 'H8'},
+instances: 1, word: 'Physician', work: 'H8'},
+instances: 1, word: 'Pibbles', work: 'H8'},
+instances: 1, word: 'Pie', work: 'H8'},
+instances: 1, word: 'Pierce', work: 'H8'},
+instances: 1, word: 'Piles', work: 'H8'},
+instances: 1, word: 'Pillars', work: 'H8'},
+instances: 1, word: 'Pinches', work: 'H8'},
+instances: 1, word: 'Pinked', work: 'H8'},
+instances: 1, word: 'Pitch', work: 'H8'},
+instances: 1, word: 'Pitiful', work: 'H8'},
+instances: 1, word: 'Placed', work: 'H8'},
+instances: 1, word: 'Plague', work: 'H8'},
+instances: 1, word: 'Plain', work: 'H8'},
+instances: 1, word: 'Plains', work: 'H8'},
+instances: 1, word: 'Plainsong', work: 'H8'},
+instances: 1, word: 'Plate', work: 'H8'},
+instances: 1, word: 'Played', work: 'H8'},
+instances: 1, word: 'Playfellows', work: 'H8'},
+instances: 1, word: 'Playhouse', work: 'H8'},
+instances: 1, word: 'Pleaded', work: 'H8'},
+instances: 1, word: 'Pleases', work: 'H8'},
+instances: 1, word: 'Pledge', work: 'H8'},
+instances: 1, word: 'Plenteous', work: 'H8'},
+instances: 1, word: 'Plenty', work: 'H8'},
+instances: 1, word: 'Pluck', work: 'H8'},
+instances: 1, word: 'Pointed', work: 'H8'},
+instances: 1, word: 'Poison', work: 'H8'},
+instances: 1, word: 'Policy', work: 'H8'},
+instances: 1, word: 'Poorest', work: 'H8'},
+instances: 1, word: 'Popedom', work: 'H8'},
+instances: 1, word: 'Porringer', work: 'H8'},
+instances: 1, word: 'Porters', work: 'H8'},
+instances: 1, word: 'Portion', work: 'H8'},
+instances: 1, word: 'Possess', work: 'H8'},
+instances: 1, word: 'Possessed', work: 'H8'},
+instances: 1, word: 'Possession', work: 'H8'},
+instances: 1, word: 'Post', work: 'H8'},
+instances: 1, word: 'Posted', work: 'H8'},
+instances: 1, word: 'Postures', work: 'H8'},
+instances: 1, word: 'Potency', work: 'H8'},
+instances: 1, word: 'Potent', work: 'H8'},
+instances: 1, word: 'Potently', work: 'H8'},
+instances: 1, word: 'Poultney', work: 'H8'},
+instances: 1, word: 'Pound', work: 'H8'},
+instances: 1, word: 'Poverty', work: 'H8'},
+instances: 1, word: 'Powers', work: 'H8'},
+instances: 1, word: 'Practice', work: 'H8'},
+instances: 1, word: 'Praemunire', work: 'H8'},
+instances: 1, word: 'Precipice', work: 'H8'},
+instances: 1, word: 'Preferments', work: 'H8'},
+instances: 1, word: 'Preferred', work: 'H8'},
+instances: 1, word: 'Premises', work: 'H8'},
+instances: 1, word: 'Prepared', work: 'H8'},
+instances: 1, word: 'Prescription', work: 'H8'},
+instances: 1, word: 'Preservation', work: 'H8'},
+instances: 1, word: 'Pressed', work: 'H8'},
+instances: 1, word: 'Presume', work: 'H8'},
+instances: 1, word: 'Prevail', work: 'H8'},
+instances: 1, word: 'Prick', work: 'H8'},
+instances: 1, word: 'Prime', work: 'H8'},
+instances: 1, word: 'Primer', work: 'H8'},
+instances: 1, word: 'Primero', work: 'H8'},
+instances: 1, word: 'Primest', work: 'H8'},
+instances: 1, word: 'Princes\'', work: 'H8'},
+instances: 1, word: 'Prison', work: 'H8'},
+instances: 1, word: 'Privileged', work: 'H8'},
+instances: 1, word: 'Privilegio', work: 'H8'},
+instances: 1, word: 'Privily', work: 'H8'},
+instances: 1, word: 'Privity', work: 'H8'},
+instances: 1, word: 'Proceedings', work: 'H8'},
+instances: 1, word: 'Proclaim', work: 'H8'},
+instances: 1, word: 'Proclamation', work: 'H8'},
+instances: 1, word: 'Procure', work: 'H8'},
+instances: 1, word: 'Prodigal', work: 'H8'},
+instances: 1, word: 'Produce', work: 'H8'},
+instances: 1, word: 'Produced', work: 'H8'},
+instances: 1, word: 'Professors', work: 'H8'},
+instances: 1, word: 'Profits', work: 'H8'},
+instances: 1, word: 'Promise', work: 'H8'},
+instances: 1, word: 'Promotion', work: 'H8'},
+instances: 1, word: 'Prone', work: 'H8'},
+instances: 1, word: 'Proof', work: 'H8'},
+instances: 1, word: 'Proper', work: 'H8'},
+instances: 1, word: 'Prophecies', work: 'H8'},
+instances: 1, word: 'Proportion', work: 'H8'},
+instances: 1, word: 'Propped', work: 'H8'},
+instances: 1, word: 'Prosper', work: 'H8'},
+instances: 1, word: 'Prosperous', work: 'H8'},
+instances: 1, word: 'Protects', work: 'H8'},
+instances: 1, word: 'Proudest', work: 'H8'},
+instances: 1, word: 'Provide', work: 'H8'},
+instances: 1, word: 'Provided', work: 'H8'},
+instances: 1, word: 'Provoke', work: 'H8'},
+instances: 1, word: 'Prudent', work: 'H8'},
+instances: 1, word: 'Public', work: 'H8'},
+instances: 1, word: 'Publicly', work: 'H8'},
+instances: 1, word: 'Published', work: 'H8'},
+instances: 1, word: 'Pulled', work: 'H8'},
+instances: 1, word: 'Punish', work: 'H8'},
+instances: 1, word: 'Punishment', work: 'H8'},
+instances: 1, word: 'Purchased', work: 'H8'},
+instances: 1, word: 'Purgation', work: 'H8'},
+instances: 1, word: 'Purge', work: 'H8'},
+instances: 1, word: 'Purposes', work: 'H8'},
+instances: 1, word: 'Pursued', work: 'H8'},
+instances: 1, word: 'Pursuivants', work: 'H8'},
+instances: 1, word: 'Push', work: 'H8'},
+instances: 1, word: 'Putter-on', work: 'H8'},
+instances: 1, word: 'Qualities', work: 'H8'},
+instances: 1, word: 'Quality', work: 'H8'},
+instances: 1, word: 'Quarrel', work: 'H8'},
+instances: 1, word: 'Quarrels', work: 'H8'},
+instances: 1, word: 'Quartered', work: 'H8'},
+instances: 1, word: 'Queens', work: 'H8'},
+instances: 1, word: 'Quick', work: 'H8'},
+instances: 1, word: 'Quickly', work: 'H8'},
+instances: 1, word: 'Quit', work: 'H8'},
+instances: 1, word: 'Quite', work: 'H8'},
+instances: 1, word: 'Rabble', work: 'H8'},
+instances: 1, word: 'Rage', work: 'H8'},
+instances: 1, word: 'Rail', work: 'H8'},
+instances: 1, word: 'Railed', work: 'H8'},
+instances: 1, word: 'Rained', work: 'H8'},
+instances: 1, word: 'Rake', work: 'H8'},
+instances: 1, word: 'Rams', work: 'H8'},
+instances: 1, word: 'Ran', work: 'H8'},
+instances: 1, word: 'Range', work: 'H8'},
+instances: 1, word: 'Ranking', work: 'H8'},
+instances: 1, word: 'Rankness', work: 'H8'},
+instances: 1, word: 'Ratified', work: 'H8'},
+instances: 1, word: 'Ravenous', work: 'H8'},
+instances: 1, word: 'Ravished', work: 'H8'},
+instances: 1, word: 'Rav\'nous', work: 'H8'},
+instances: 1, word: 'Rays', work: 'H8'},
+instances: 1, word: 'Reaches', work: 'H8'},
+instances: 1, word: 'Realms', work: 'H8'},
+instances: 1, word: 'Reaped', work: 'H8'},
+instances: 1, word: 'Rebelled', work: 'H8'},
+instances: 1, word: 'Rebellion', work: 'H8'},
+instances: 1, word: 'Rebuke', work: 'H8'},
+instances: 1, word: 'Receipt', work: 'H8'},
+instances: 1, word: 'Reciprocally', work: 'H8'},
+instances: 1, word: 'Reckoned', work: 'H8'},
+instances: 1, word: 'Recount', work: 'H8'},
+instances: 1, word: 'Red', work: 'H8'},
+instances: 1, word: 'Reek', work: 'H8'},
+instances: 1, word: 'Reel', work: 'H8'},
+instances: 1, word: 'Reformed', work: 'H8'},
+instances: 1, word: 'Regard', work: 'H8'},
+instances: 1, word: 'Regina', work: 'H8'},
+instances: 1, word: 'Region', work: 'H8'},
+instances: 1, word: 'Reign', work: 'H8'},
+instances: 1, word: 'Remainder', work: 'H8'},
+instances: 1, word: 'Remains', work: 'H8'},
+instances: 1, word: 'Remarked', work: 'H8'},
+instances: 1, word: 'Remembrance', work: 'H8'},
+instances: 1, word: 'Remnants', work: 'H8'},
+instances: 1, word: 'Remove', work: 'H8'},
+instances: 1, word: 'Rend', work: 'H8'},
+instances: 1, word: 'Renouncing', work: 'H8'},
+instances: 1, word: 'Repair', work: 'H8'},
+instances: 1, word: 'Repentance', work: 'H8'},
+instances: 1, word: 'Replied', work: 'H8'},
+instances: 1, word: 'Repose', work: 'H8'},
+instances: 1, word: 'Reproaches', work: 'H8'},
+instances: 1, word: 'Reproved', work: 'H8'},
+instances: 1, word: 'Reputed', work: 'H8'},
+instances: 1, word: 'Request', work: 'H8'},
+instances: 1, word: 'Required', work: 'H8'},
+instances: 1, word: 'Resolution', work: 'H8'},
+instances: 1, word: 'Respecting', work: 'H8'},
+instances: 1, word: 'Rested', work: 'H8'},
+instances: 1, word: 'Restore', work: 'H8'},
+instances: 1, word: 'Restored', work: 'H8'},
+instances: 1, word: 'Retained', work: 'H8'},
+instances: 1, word: 'Retainers', work: 'H8'},
+instances: 1, word: 'Returns', work: 'H8'},
+instances: 1, word: 'Revels', work: 'H8'},
+instances: 1, word: 'Revenged', work: 'H8'},
+instances: 1, word: 'Revengeful', work: 'H8'},
+instances: 1, word: 'Reviled', work: 'H8'},
+instances: 1, word: 'Revokement', work: 'H8'},
+instances: 1, word: 'Rewarded', work: 'H8'},
+instances: 1, word: 'Rewards', work: 'H8'},
+instances: 1, word: 'Rex', work: 'H8'},
+instances: 1, word: 'Riches', work: 'H8'},
+instances: 1, word: 'Richly', work: 'H8'},
+instances: 1, word: 'Ridden', work: 'H8'},
+instances: 1, word: 'Ridiculous', work: 'H8'},
+instances: 1, word: 'Righteous', work: 'H8'},
+instances: 1, word: 'Rightly', work: 'H8'},
+instances: 1, word: 'Rights', work: 'H8'},
+instances: 1, word: 'Rinsing', work: 'H8'},
+instances: 1, word: 'Ripe', work: 'H8'},
+instances: 1, word: 'Ripeness', work: 'H8'},
+instances: 1, word: 'Rising', work: 'H8'},
+instances: 1, word: 'River', work: 'H8'},
+instances: 1, word: 'Roads', work: 'H8'},
+instances: 1, word: 'Roar', work: 'H8'},
+instances: 1, word: 'Robe', work: 'H8'},
+instances: 1, word: 'Rochford', work: 'H8'},
+instances: 1, word: 'Rogue', work: 'H8'},
+instances: 1, word: 'Rolls', work: 'H8'},
+instances: 1, word: 'Room', work: 'H8'},
+instances: 1, word: 'Rooted', work: 'H8'},
+instances: 1, word: 'Rough', work: 'H8'},
+instances: 1, word: 'Royalty', work: 'H8'},
+instances: 1, word: 'Rub', work: 'H8'},
+instances: 1, word: 'Ruins', work: 'H8'},
+instances: 1, word: 'Ruminate', work: 'H8'},
+instances: 1, word: 'Rumor', work: 'H8'},
+instances: 1, word: 'Rung', work: 'H8'},
+instances: 1, word: 'Saba', work: 'H8'},
+instances: 1, word: 'Sacring', work: 'H8'},
+instances: 1, word: 'Saint', work: 'H8'},
+instances: 1, word: 'Saints', work: 'H8'},
+instances: 1, word: 'Salisbury', work: 'H8'},
+instances: 1, word: 'Salutes', work: 'H8'},
+instances: 1, word: 'Samson', work: 'H8'},
+instances: 1, word: 'Sat', work: 'H8'},
+instances: 1, word: 'Saucy', work: 'H8'},
+instances: 1, word: 'Saving', work: 'H8'},
+instances: 1, word: 'Saying', work: 'H8'},
+instances: 1, word: 'Scatter', work: 'H8'},
+instances: 1, word: 'Scatters', work: 'H8'},
+instances: 1, word: 'Scenes', work: 'H8'},
+instances: 1, word: 'Scholar', work: 'H8'},
+instances: 1, word: 'Scholars', work: 'H8'},
+instances: 1, word: 'Scold', work: 'H8'},
+instances: 1, word: 'Scorned', work: 'H8'},
+instances: 1, word: 'Scratch', work: 'H8'},
+instances: 1, word: 'Seals', work: 'H8'},
+instances: 1, word: 'Seated', work: 'H8'},
+instances: 1, word: 'Secrecy', work: 'H8'},
+instances: 1, word: 'Sect', work: 'H8'},
+instances: 1, word: 'Sectary', work: 'H8'},
+instances: 1, word: 'Seeking', work: 'H8'},
+instances: 1, word: 'Seeks', work: 'H8'},
+instances: 1, word: 'Seem', work: 'H8'},
+instances: 1, word: 'Seemly', work: 'H8'},
+instances: 1, word: 'Self-drawing', work: 'H8'},
+instances: 1, word: 'Self-mettle', work: 'H8'},
+instances: 1, word: 'Sell', work: 'H8'},
+instances: 1, word: 'Semblance', work: 'H8'},
+instances: 1, word: 'Sends', work: 'H8'},
+instances: 1, word: 'Separation', work: 'H8'},
+instances: 1, word: 'Serenissima', work: 'H8'},
+instances: 1, word: 'Sergeant', work: 'H8'},
+instances: 1, word: 'Serves', work: 'H8'},
+instances: 1, word: 'Session', work: 'H8'},
+instances: 1, word: 'Setting', work: 'H8'},
+instances: 1, word: 'Settled', work: 'H8'},
+instances: 1, word: 'Seventh', work: 'H8'},
+instances: 1, word: 'Several', work: 'H8'},
+instances: 1, word: 'Severing', work: 'H8'},
+instances: 1, word: 'Shade', work: 'H8'},
+instances: 1, word: 'Shadow', work: 'H8'},
+instances: 1, word: 'Shape', work: 'H8'},
+instances: 1, word: 'Sharp\'st', work: 'H8'},
+instances: 1, word: 'Sheathe', work: 'H8'},
+instances: 1, word: 'Shed', work: 'H8'},
+instances: 1, word: 'She\'ll', work: 'H8'},
+instances: 1, word: 'Shield', work: 'H8'},
+instances: 1, word: 'Shilling', work: 'H8'},
+instances: 1, word: 'Shipwracked', work: 'H8'},
+instances: 1, word: 'Shire', work: 'H8'},
+instances: 1, word: 'Shoals', work: 'H8'},
+instances: 1, word: 'Shone', work: 'H8'},
+instances: 1, word: 'Shook', work: 'H8'},
+instances: 1, word: 'Shore', work: 'H8'},
+instances: 1, word: 'Shot', work: 'H8'},
+instances: 1, word: 'Shoulders', work: 'H8'},
+instances: 1, word: 'Shouldst', work: 'H8'},
+instances: 1, word: 'Showered', work: 'H8'},
+instances: 1, word: 'Showers', work: 'H8'},
+instances: 1, word: 'Shown', work: 'H8'},
+instances: 1, word: 'Shows', work: 'H8'},
+instances: 1, word: 'Shrink', work: 'H8'},
+instances: 1, word: 'Shrouds', work: 'H8'},
+instances: 1, word: 'Shunning', work: 'H8'},
+instances: 1, word: 'Shut', work: 'H8'},
+instances: 1, word: 'Sickened', work: 'H8'},
+instances: 1, word: 'Sights', work: 'H8'},
+instances: 1, word: 'Silenced', work: 'H8'},
+instances: 1, word: 'Simony', work: 'H8'},
+instances: 1, word: 'Simple', work: 'H8'},
+instances: 1, word: 'Sincere', work: 'H8'},
+instances: 1, word: 'Sincerely', work: 'H8'},
+instances: 1, word: 'Singe', work: 'H8'},
+instances: 1, word: 'Singular', work: 'H8'},
+instances: 1, word: 'Sirrah', work: 'H8'},
+instances: 1, word: 'Sits', work: 'H8'},
+instances: 1, word: 'Six', work: 'H8'},
+instances: 1, word: 'Sixteen', work: 'H8'},
+instances: 1, word: 'Size', work: 'H8'},
+instances: 1, word: 'Slander', work: 'H8'},
+instances: 1, word: 'Slave', work: 'H8'},
+instances: 1, word: 'Slavery', work: 'H8'},
+instances: 1, word: 'Slaves', work: 'H8'},
+instances: 1, word: 'Sleek', work: 'H8'},
+instances: 1, word: 'Sleeping', work: 'H8'},
+instances: 1, word: 'Sleeps', work: 'H8'},
+instances: 1, word: 'Slightly', work: 'H8'},
+instances: 1, word: 'Sloth', work: 'H8'},
+instances: 1, word: 'Slow', work: 'H8'},
+instances: 1, word: 'Slumber', work: 'H8'},
+instances: 1, word: 'Sly', work: 'H8'},
+instances: 1, word: 'Smart', work: 'H8'},
+instances: 1, word: 'Smiles', work: 'H8'},
+instances: 1, word: 'Snuff', work: 'H8'},
+instances: 1, word: 'Society', work: 'H8'},
+instances: 1, word: 'Soft', work: 'H8'},
+instances: 1, word: 'Softly', work: 'H8'},
+instances: 1, word: 'Soil', work: 'H8'},
+instances: 1, word: 'Solemnly', work: 'H8'},
+instances: 1, word: 'Solicited', work: 'H8'},
+instances: 1, word: 'Sometime', work: 'H8'},
+instances: 1, word: 'Sometimes', work: 'H8'},
+instances: 1, word: 'Son-in-law', work: 'H8'},
+instances: 1, word: 'Song', work: 'H8'},
+instances: 1, word: 'Songs', work: 'H8'},
+instances: 1, word: 'Sooner', work: 'H8'},
+instances: 1, word: 'Sooth', work: 'H8'},
+instances: 1, word: 'Sorely', work: 'H8'},
+instances: 1, word: 'Sounded', work: 'H8'},
+instances: 1, word: 'Sounder', work: 'H8'},
+instances: 1, word: 'Sour', work: 'H8'},
+instances: 1, word: 'Sow', work: 'H8'},
+instances: 1, word: 'Span', work: 'H8'},
+instances: 1, word: 'Spaniard', work: 'H8'},
+instances: 1, word: 'Spaniel', work: 'H8'},
+instances: 1, word: 'Spanned', work: 'H8'},
+instances: 1, word: 'Spared', work: 'H8'},
+instances: 1, word: 'Sparing', work: 'H8'},
+instances: 1, word: 'Sparks', work: 'H8'},
+instances: 1, word: 'Spavin', work: 'H8'},
+instances: 1, word: 'Speakest', work: 'H8'},
+instances: 1, word: 'Speaks', work: 'H8'},
+instances: 1, word: 'Sped', work: 'H8'},
+instances: 1, word: 'Speeches', work: 'H8'},
+instances: 1, word: 'Speed', work: 'H8'},
+instances: 1, word: 'Speedily', work: 'H8'},
+instances: 1, word: 'Speeding', work: 'H8'},
+instances: 1, word: 'Spell', work: 'H8'},
+instances: 1, word: 'Spells', work: 'H8'},
+instances: 1, word: 'Spice', work: 'H8'},
+instances: 1, word: 'Spiderlike', work: 'H8'},
+instances: 1, word: 'Spinsters', work: 'H8'},
+instances: 1, word: 'Spit', work: 'H8'},
+instances: 1, word: 'Spite', work: 'H8'},
+instances: 1, word: 'Spitting', work: 'H8'},
+instances: 1, word: 'Spleeny', work: 'H8'},
+instances: 1, word: 'Spoil', work: 'H8'},
+instances: 1, word: 'Sport', work: 'H8'},
+instances: 1, word: 'Spotless', work: 'H8'},
+instances: 1, word: 'Spring', work: 'H8'},
+instances: 1, word: 'Springhalt', work: 'H8'},
+instances: 1, word: 'Springs', work: 'H8'},
+instances: 1, word: 'Spur', work: 'H8'},
+instances: 1, word: 'Stafford', work: 'H8'},
+instances: 1, word: 'Stagger', work: 'H8'},
+instances: 1, word: 'Stamp', work: 'H8'},
+instances: 1, word: 'Stamped', work: 'H8'},
+instances: 1, word: 'Starlike', work: 'H8'},
+instances: 1, word: 'Stars', work: 'H8'},
+instances: 1, word: 'Startle', work: 'H8'},
+instances: 1, word: 'Starts', work: 'H8'},
+instances: 1, word: 'Starve', work: 'H8'},
+instances: 1, word: 'State-statues', work: 'H8'},
+instances: 1, word: 'State\'s', work: 'H8'},
+instances: 1, word: 'Staves', work: 'H8'},
+instances: 1, word: 'Stayed', work: 'H8'},
+instances: 1, word: 'Staying', work: 'H8'},
+instances: 1, word: 'Stays', work: 'H8'},
+instances: 1, word: 'Steal', work: 'H8'},
+instances: 1, word: 'Steel', work: 'H8'},
+instances: 1, word: 'Steep', work: 'H8'},
+instances: 1, word: 'Steer', work: 'H8'},
+instances: 1, word: 'Stepped', work: 'H8'},
+instances: 1, word: 'Stiff', work: 'H8'},
+instances: 1, word: 'Stifled', work: 'H8'},
+instances: 1, word: 'Sting', work: 'H8'},
+instances: 1, word: 'Stint', work: 'H8'},
+instances: 1, word: 'Stirs', work: 'H8'},
+instances: 1, word: 'Stockings', work: 'H8'},
+instances: 1, word: 'Stokeley', work: 'H8'},
+instances: 1, word: 'Stol\'n', work: 'H8'},
+instances: 1, word: 'Stone', work: 'H8'},
+instances: 1, word: 'Stopped', work: 'H8'},
+instances: 1, word: 'Store', work: 'H8'},
+instances: 1, word: 'Storm', work: 'H8'},
+instances: 1, word: 'Stout', work: 'H8'},
+instances: 1, word: 'Strains', work: 'H8'},
+instances: 1, word: 'Strand', work: 'H8'},
+instances: 1, word: 'Strangers', work: 'H8'},
+instances: 1, word: 'Strangers\'', work: 'H8'},
+instances: 1, word: 'Strangest', work: 'H8'},
+instances: 1, word: 'Strangled', work: 'H8'},
+instances: 1, word: 'Straying', work: 'H8'},
+instances: 1, word: 'Strengthen', work: 'H8'},
+instances: 1, word: 'Stretch', work: 'H8'},
+instances: 1, word: 'Stretched', work: 'H8'},
+instances: 1, word: 'Stretches', work: 'H8'},
+instances: 1, word: 'Strew', work: 'H8'},
+instances: 1, word: 'Strike', work: 'H8'},
+instances: 1, word: 'Strikes', work: 'H8'},
+instances: 1, word: 'String', work: 'H8'},
+instances: 1, word: 'Strive', work: 'H8'},
+instances: 1, word: 'Strove', work: 'H8'},
+instances: 1, word: 'Struck', work: 'H8'},
+instances: 1, word: 'Studied', work: 'H8'},
+instances: 1, word: 'Study', work: 'H8'},
+instances: 1, word: 'Stuffs', work: 'H8'},
+instances: 1, word: 'Stump', work: 'H8'},
+instances: 1, word: 'Subjects\'', work: 'H8'},
+instances: 1, word: 'Subtle', work: 'H8'},
+instances: 1, word: 'Suburbs', work: 'H8'},
+instances: 1, word: 'Succeed', work: 'H8'},
+instances: 1, word: 'Succeeding', work: 'H8'},
+instances: 1, word: 'Successors', work: 'H8'},
+instances: 1, word: 'Sue', work: 'H8'},
+instances: 1, word: 'Sued', work: 'H8'},
+instances: 1, word: 'Sufferance', work: 'H8'},
+instances: 1, word: 'Suffered', work: 'H8'},
+instances: 1, word: 'Suff\'rance', work: 'H8'},
+instances: 1, word: 'Suggestion', work: 'H8'},
+instances: 1, word: 'Suggests', work: 'H8'},
+instances: 1, word: 'Suitor', work: 'H8'},
+instances: 1, word: 'Suits', work: 'H8'},
+instances: 1, word: 'Sum', work: 'H8'},
+instances: 1, word: 'Summer', work: 'H8'},
+instances: 1, word: 'Summers', work: 'H8'},
+instances: 1, word: 'Summons', work: 'H8'},
+instances: 1, word: 'Sung', work: 'H8'},
+instances: 1, word: 'Superfluous', work: 'H8'},
+instances: 1, word: 'Superstitious', work: 'H8'},
+instances: 1, word: 'Supper', work: 'H8'},
+instances: 1, word: 'Support', work: 'H8'},
+instances: 1, word: 'Surrender', work: 'H8'},
+instances: 1, word: 'Suspicious', work: 'H8'},
+instances: 1, word: 'Sustain', work: 'H8'},
+instances: 1, word: 'Swallowed', work: 'H8'},
+instances: 1, word: 'Sweep', work: 'H8'},
+instances: 1, word: 'Sweetest', work: 'H8'},
+instances: 1, word: 'Sweetheart', work: 'H8'},
+instances: 1, word: 'Sweetly', work: 'H8'},
+instances: 1, word: 'Swell', work: 'H8'},
+instances: 1, word: 'Swiftness', work: 'H8'},
+instances: 1, word: 'Swim', work: 'H8'},
+instances: 1, word: 'Switches', work: 'H8'},
+instances: 1, word: 'Table', work: 'H8'},
+instances: 1, word: 'Tailors', work: 'H8'},
+instances: 1, word: 'Tainted', work: 'H8'},
+instances: 1, word: 'Takes', work: 'H8'},
+instances: 1, word: 'Tak\'st', work: 'H8'},
+instances: 1, word: 'Tales', work: 'H8'},
+instances: 1, word: 'Talker', work: 'H8'},
+instances: 1, word: 'Tall', work: 'H8'},
+instances: 1, word: 'Tame', work: 'H8'},
+instances: 1, word: 'Tamely', work: 'H8'},
+instances: 1, word: 'Tangled', work: 'H8'},
+instances: 1, word: 'Tanta', work: 'H8'},
+instances: 1, word: 'Tardy', work: 'H8'},
+instances: 1, word: 'Targets', work: 'H8'},
+instances: 1, word: 'Tarry', work: 'H8'},
+instances: 1, word: 'Tastes', work: 'H8'},
+instances: 1, word: 'Taxations', work: 'H8'},
+instances: 1, word: 'Teach', work: 'H8'},
+instances: 1, word: 'Teachers', work: 'H8'},
+instances: 1, word: 'Teeth', work: 'H8'},
+instances: 1, word: 'Tells', work: 'H8'},
+instances: 1, word: 'Temple', work: 'H8'},
+instances: 1, word: 'Tempting', work: 'H8'},
+instances: 1, word: 'Temp\'rance', work: 'H8'},
+instances: 1, word: 'Tenants', work: 'H8'},
+instances: 1, word: 'Tendance', work: 'H8'},
+instances: 1, word: 'Tenderness', work: 'H8'},
+instances: 1, word: 'Tenements', work: 'H8'},
+instances: 1, word: 'Tennis', work: 'H8'},
+instances: 1, word: 'Tenor', work: 'H8'},
+instances: 1, word: 'Terrible', work: 'H8'},
+instances: 1, word: 'Theme', work: 'H8'},
+instances: 1, word: 'Thence', work: 'H8'},
+instances: 1, word: 'Thereunto', work: 'H8'},
+instances: 1, word: 'Thin', work: 'H8'},
+instances: 1, word: 'Thine', work: 'H8'},
+instances: 1, word: 'Thinking', work: 'H8'},
+instances: 1, word: 'Thinkings', work: 'H8'},
+instances: 1, word: 'Thinks', work: 'H8'},
+instances: 1, word: 'Third', work: 'H8'},
+instances: 1, word: 'Thorny', work: 'H8'},
+instances: 1, word: 'Thought\'s', work: 'H8'},
+instances: 1, word: 'Thousandfold', work: 'H8'},
+instances: 1, word: 'Thousands', work: 'H8'},
+instances: 1, word: 'Threepence', work: 'H8'},
+instances: 1, word: 'Thrift', work: 'H8'},
+instances: 1, word: 'Throe', work: 'H8'},
+instances: 1, word: 'Throned', work: 'H8'},
+instances: 1, word: 'Throughly', work: 'H8'},
+instances: 1, word: 'Throw', work: 'H8'},
+instances: 1, word: 'Thrust', work: 'H8'},
+instances: 1, word: 'Thunder', work: 'H8'},
+instances: 1, word: 'Thyself', work: 'H8'},
+instances: 1, word: 'Tide', work: 'H8'},
+instances: 1, word: 'Tidings', work: 'H8'},
+instances: 1, word: 'Timber', work: 'H8'},
+instances: 1, word: 'Tires', work: 'H8'},
+instances: 1, word: 'Titles', work: 'H8'},
+instances: 1, word: 'Title\'s', work: 'H8'},
+instances: 1, word: 'Toil', work: 'H8'},
+instances: 1, word: 'Toledo', work: 'H8'},
+instances: 1, word: 'Tomb', work: 'H8'},
+instances: 1, word: 'Tonight', work: 'H8'},
+instances: 1, word: 'Tool', work: 'H8'},
+instances: 1, word: 'Tooth', work: 'H8'},
+instances: 1, word: 'Top-proud', work: 'H8'},
+instances: 1, word: 'Torn', work: 'H8'},
+instances: 1, word: 'Town', work: 'H8'},
+instances: 1, word: 'Trace', work: 'H8'},
+instances: 1, word: 'Tract', work: 'H8'},
+instances: 1, word: 'Tractable', work: 'H8'},
+instances: 1, word: 'Trade', work: 'H8'},
+instances: 1, word: 'Traduced', work: 'H8'},
+instances: 1, word: 'Training', work: 'H8'},
+instances: 1, word: 'Traitor\'s', work: 'H8'},
+instances: 1, word: 'Trap', work: 'H8'},
+instances: 1, word: 'Travail', work: 'H8'},
+instances: 1, word: 'Travel', work: 'H8'},
+instances: 1, word: 'Traveled', work: 'H8'},
+instances: 1, word: 'Treasons', work: 'H8'},
+instances: 1, word: 'Treaty', work: 'H8'},
+instances: 1, word: 'Tree', work: 'H8'},
+instances: 1, word: 'Trees', work: 'H8'},
+instances: 1, word: 'Tremble', work: 'H8'},
+instances: 1, word: 'Trembling', work: 'H8'},
+instances: 1, word: 'Tribulation', work: 'H8'},
+instances: 1, word: 'Trimmed', work: 'H8'},
+instances: 1, word: 'Triumph', work: 'H8'},
+instances: 1, word: 'Troops', work: 'H8'},
+instances: 1, word: 'Troublesome', work: 'H8'},
+instances: 1, word: 'Trow', work: 'H8'},
+instances: 1, word: 'Truant', work: 'H8'},
+instances: 1, word: 'Truehearted', work: 'H8'},
+instances: 1, word: 'Truncheoners', work: 'H8'},
+instances: 1, word: 'Trusted', work: 'H8'},
+instances: 1, word: 'Tunes', work: 'H8'},
+instances: 1, word: 'Turns', work: 'H8'},
+instances: 1, word: 'Tush', work: 'H8'},
+instances: 1, word: 'Twins', work: 'H8'},
+instances: 1, word: 'Types', work: 'H8'},
+instances: 1, word: 'Ugly', work: 'H8'},
+instances: 1, word: 'Unbounded', work: 'H8'},
+instances: 1, word: 'Unconsidered', work: 'H8'},
+instances: 1, word: 'Uncontemned', work: 'H8'},
+instances: 1, word: 'Undertake', work: 'H8'},
+instances: 1, word: 'Undertakes', work: 'H8'},
+instances: 1, word: 'Undeserver', work: 'H8'},
+instances: 1, word: 'Undo', work: 'H8'},
+instances: 1, word: 'Undone', work: 'H8'},
+instances: 1, word: 'Undoubtedly', work: 'H8'},
+instances: 1, word: 'Unfinished', work: 'H8'},
+instances: 1, word: 'Unfolded', work: 'H8'},
+instances: 1, word: 'Unhandled', work: 'H8'},
+instances: 1, word: 'Unhappily', work: 'H8'},
+instances: 1, word: 'Unhappy', work: 'H8'},
+instances: 1, word: 'Unite', work: 'H8'},
+instances: 1, word: 'Unless', work: 'H8'},
+instances: 1, word: 'Unloosed', work: 'H8'},
+instances: 1, word: 'Unmanly', work: 'H8'},
+instances: 1, word: 'Unmatched', work: 'H8'},
+instances: 1, word: 'Unnatural', work: 'H8'},
+instances: 1, word: 'Unpartial', work: 'H8'},
+instances: 1, word: 'Unqueened', work: 'H8'},
+instances: 1, word: 'Unrecounted', work: 'H8'},
+instances: 1, word: 'Unsatisfied', work: 'H8'},
+instances: 1, word: 'Unsay', work: 'H8'},
+instances: 1, word: 'Unseal', work: 'H8'},
+instances: 1, word: 'Unsettled', work: 'H8'},
+instances: 1, word: 'Unshaken', work: 'H8'},
+instances: 1, word: 'Unsolicited', work: 'H8'},
+instances: 1, word: 'Unspotted', work: 'H8'},
+instances: 1, word: 'Unthink', work: 'H8'},
+instances: 1, word: 'Until', work: 'H8'},
+instances: 1, word: 'Untimely', work: 'H8'},
+instances: 1, word: 'Untruths', work: 'H8'},
+instances: 1, word: 'Unwilling', work: 'H8'},
+instances: 1, word: 'Unwillingly', work: 'H8'},
+instances: 1, word: 'Unwittingly', work: 'H8'},
+instances: 1, word: 'Unworthy', work: 'H8'},
+instances: 1, word: 'Upper', work: 'H8'},
+instances: 1, word: 'Uproar', work: 'H8'},
+instances: 1, word: 'Uproars', work: 'H8'},
+instances: 1, word: 'Upward', work: 'H8'},
+instances: 1, word: 'Urged', work: 'H8'},
+instances: 1, word: 'Usher', work: 'H8'},
+instances: 1, word: 'Usual', work: 'H8'},
+instances: 1, word: 'Usurper', work: 'H8'},
+instances: 1, word: 'Usurping', work: 'H8'},
+instances: 1, word: 'Uttered', work: 'H8'},
+instances: 1, word: 'Vacant', work: 'H8'},
+instances: 1, word: 'Vainglory', work: 'H8'},
+instances: 1, word: 'Vainly', work: 'H8'},
+instances: 1, word: 'Vale', work: 'H8'},
+instances: 1, word: 'Value', work: 'H8'},
+instances: 1, word: 'Vanity', work: 'H8'},
+instances: 1, word: 'Vaux', work: 'H8'},
+instances: 1, word: 'Vehemency', work: 'H8'},
+instances: 1, word: 'Venomed-mouthed', work: 'H8'},
+instances: 1, word: 'Vent', work: 'H8'},
+instances: 1, word: 'Venturous', work: 'H8'},
+instances: 1, word: 'Verdict', work: 'H8'},
+instances: 1, word: 'Verified', work: 'H8'},
+instances: 1, word: 'Verily', work: 'H8'},
+instances: 1, word: 'Verity', work: 'H8'},
+instances: 1, word: 'Vessel', work: 'H8'},
+instances: 1, word: 'Vex', work: 'H8'},
+instances: 1, word: 'Vicious', work: 'H8'},
+instances: 1, word: 'Village', work: 'H8'},
+instances: 1, word: 'Violence', work: 'H8'},
+instances: 1, word: 'Violent', work: 'H8'},
+instances: 1, word: 'Virgin', work: 'H8'},
+instances: 1, word: 'Visage', work: 'H8'},
+instances: 1, word: 'Viscount', work: 'H8'},
+instances: 1, word: 'Visit', work: 'H8'},
+instances: 1, word: 'Viva', work: 'H8'},
+instances: 1, word: 'Voce', work: 'H8'},
+instances: 1, word: 'Vouch', work: 'H8'},
+instances: 1, word: 'Vows', work: 'H8'},
+instances: 1, word: 'Voyage', work: 'H8'},
+instances: 1, word: 'Wages', work: 'H8'},
+instances: 1, word: 'Wagging', work: 'H8'},
+instances: 1, word: 'Waited', work: 'H8'},
+instances: 1, word: 'Waking', work: 'H8'},
+instances: 1, word: 'Wander', work: 'H8'},
+instances: 1, word: 'Warlike', work: 'H8'},
+instances: 1, word: 'Warned', work: 'H8'},
+instances: 1, word: 'Warranted', work: 'H8'},
+instances: 1, word: 'Wasps', work: 'H8'},
+instances: 1, word: 'Waste', work: 'H8'},
+instances: 1, word: 'Wastes', work: 'H8'},
+instances: 1, word: 'Waterside', work: 'H8'},
+instances: 1, word: 'Weak-hearted', work: 'H8'},
+instances: 1, word: 'Weakly', work: 'H8'},
+instances: 1, word: 'Weather', work: 'H8'},
+instances: 1, word: 'Weavers', work: 'H8'},
+instances: 1, word: 'Web', work: 'H8'},
+instances: 1, word: 'Wed', work: 'H8'},
+instances: 1, word: 'Wedding', work: 'H8'},
+instances: 1, word: 'Wedged', work: 'H8'},
+instances: 1, word: 'Wedlock', work: 'H8'},
+instances: 1, word: 'Weed', work: 'H8'},
+instances: 1, word: 'Week', work: 'H8'},
+instances: 1, word: 'Ween', work: 'H8'},
+instances: 1, word: 'Weightier', work: 'H8'},
+instances: 1, word: 'Well-belovèd', work: 'H8'},
+instances: 1, word: 'Well-deserving', work: 'H8'},
+instances: 1, word: 'Wenches', work: 'H8'},
+instances: 1, word: 'Wept', work: 'H8'},
+instances: 1, word: 'We\'re', work: 'H8'},
+instances: 1, word: 'We\'ve', work: 'H8'},
+instances: 1, word: 'Whatsoever', work: 'H8'},
+instances: 1, word: 'Whatsoe\'er', work: 'H8'},
+instances: 1, word: 'Whence', work: 'H8'},
+instances: 1, word: 'Whereby', work: 'H8'},
+instances: 1, word: 'Whereupon', work: 'H8'},
+instances: 1, word: 'Wherever', work: 'H8'},
+instances: 1, word: 'Wherewithal', work: 'H8'},
+instances: 1, word: 'Whet', work: 'H8'},
+instances: 1, word: 'Whiles', work: 'H8'},
+instances: 1, word: 'Whisper', work: 'H8'},
+instances: 1, word: 'Whitehall', work: 'H8'},
+instances: 1, word: 'Whit\'st', work: 'H8'},
+instances: 1, word: 'Whoever', work: 'H8'},
+instances: 1, word: 'Whoresons', work: 'H8'},
+instances: 1, word: 'Who\'ll', work: 'H8'},
+instances: 1, word: 'Widow', work: 'H8'},
+instances: 1, word: 'Wifelike', work: 'H8'},
+instances: 1, word: 'Wilder', work: 'H8'},
+instances: 1, word: 'Willed', work: 'H8'},
+instances: 1, word: 'William', work: 'H8'},
+instances: 1, word: 'Willingly', work: 'H8'},
+instances: 1, word: 'Willing\'st', work: 'H8'},
+instances: 1, word: 'Wills', work: 'H8'},
+instances: 1, word: 'Winchester\'s', work: 'H8'},
+instances: 1, word: 'Winnowed', work: 'H8'},
+instances: 1, word: 'Wins', work: 'H8'},
+instances: 1, word: 'Winter', work: 'H8'},
+instances: 1, word: 'Wisest', work: 'H8'},
+instances: 1, word: 'Wishing', work: 'H8'},
+instances: 1, word: 'Witchcraft', work: 'H8'},
+instances: 1, word: 'Withdraw', work: 'H8'},
+instances: 1, word: 'Witnesses', work: 'H8'},
+instances: 1, word: 'Witty', work: 'H8'},
+instances: 1, word: 'Woeful', work: 'H8'},
+instances: 1, word: 'Wolf', work: 'H8'},
+instances: 1, word: 'Womanish', work: 'H8'},
+instances: 1, word: 'Womb', work: 'H8'},
+instances: 1, word: 'Women\'s', work: 'H8'},
+instances: 1, word: 'Wonted', work: 'H8'},
+instances: 1, word: 'Woo', work: 'H8'},
+instances: 1, word: 'Works', work: 'H8'},
+instances: 1, word: 'Worms', work: 'H8'},
+instances: 1, word: 'Worn', work: 'H8'},
+instances: 1, word: 'Worship', work: 'H8'},
+instances: 1, word: 'Worthily', work: 'H8'},
+instances: 1, word: 'Wot', work: 'H8'},
+instances: 1, word: 'Wound', work: 'H8'},
+instances: 1, word: 'Wounded', work: 'H8'},
+instances: 1, word: 'Woven', work: 'H8'},
+instances: 1, word: 'Wrack', work: 'H8'},
+instances: 1, word: 'Wretch', work: 'H8'},
+instances: 1, word: 'Wringing', work: 'H8'},
+instances: 1, word: 'Wrongs', work: 'H8'},
+instances: 1, word: 'Wrought', work: 'H8'},
+instances: 1, word: 'Yellow', work: 'H8'},
+instances: 1, word: 'Yoke', work: 'H8'},
+instances: 1, word: 'Youths', work: 'H8'},
+instances: 1, word: '\'beseech', work: 'H8'},
+instances: 1, word: '\'fore', work: 'H8'},
+instances: 1, word: '\'mong', work: 'H8'},
+instances: 1, word: '\'r', work: 'H8'},

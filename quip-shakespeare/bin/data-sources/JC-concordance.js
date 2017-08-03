@@ -1,2856 +1,2856 @@
-592: And
-562: The
-513: I
-413: To
-400: You
-351: Of
-285: That
-256: Not
-252: Is
-244: A
-224: In
-194: It
-192: He
-189: Me
-189: My
-182: Caesar
-171: For
-166: This
-164: Him
-164: Will
-152: His
-150: Be
-147: Have
-146: With
-141: But
-139: So
-135: As
-134: Brutus
-133: Do
-133: Your
-126: What
-125: Shall
-116: Thou
-109: Are
-98: By
-97: All
-96: We
-93: No
-87: Our
-84: If
-82: On
-75: Did
-74: Come
-71: Good
-70: Cassius
-70: O
-68: Know
-67: When
-66: Was
-65: Then
-64: Antony
-64: Let
-64: Men
-63: Now
-63: They
-62: Us
-61: Here
-59: Their
-58: At
-58: Them
-57: Am
-56: Man
-54: Thee
-54: Thy
-49: Well
-48: From
-48: There
-48: Upon
-47: Which
-44: Go
-44: Lord
-44: Or
-44: Would
-43: Why
-42: Than
-42: Yet
-41: Should
-40: Some
-40: Speak
-39: Like
-39: Noble
-39: These
-38: Rome
-37: Caesar’s
-37: Hear
-37: May
-37: Say
-37: See
-37: Such
-37: Tell
-36: More
-36: Must
-35: Give
-35: Hath
-35: Were
-34: An
-34: How
-34: Love
-34: Stand
-33: Up
-32: Mark
-32: One
-31: Look
-30: Doth
-30: Night
-29: Death
-29: Fear
-29: Hand
-29: Much
-29: Where
-29: Who
-28: Most
-28: Too
-27: Had
-27: Heart
-27: Out
-26: Great
-26: Make
-26: Time
-25: Casca
-25: Day
-25: Every
-25: Gods
-24: Blood
-24: Friends
-24: Nor
-23: Art
-23: Bear
-23: Done
-23: Down
-23: Sir
-23: Take
-23: Think
-23: ’tis
-22: Forth
-22: Friend
-22: Till
-21: Mine
-20: Again
-20: Myself
-20: Word
-19: About
-19: Can
-19: Fire
-19: Leave
-19: Off
-19: Today
-18: Any
-18: Away
-18: Ay
-18: Ho
-18: Lucius
-18: Messala
-18: Octavius
-18: True
-18: World
-17: Bid
-17: Capitol
-17: Could
-17: Die
-17: Even
-17: Find
-17: Made
-17: Meet
-17: Never
-17: Peace
-17: Roman
-17: Romans
-17: Things
-17: Titinius
-17: Wrong
-16: Live
-16: Put
-16: Run
-16: Spirit
-16: Stay
-16: Thus
-15: Better
-15: Cause
-15: Comes
-15: Dead
-15: Hands
-15: Honorable
-15: House
-15: Many
-15: Name
-15: We’ll
-14: Eyes
-14: Follow
-14: Himself
-14: Honor
-14: Mighty
-14: Once
-14: Part
-14: Set
-14: Unto
-13: Back
-13: Caius
-13: Cinna
-13: Else
-13: Face
-13: Fellow
-13: Fly
-13: Hast
-13: Hold
-13: Into
-13: I’ll
-13: Might
-13: Other
-13: Place
-13: Read
-13: Show
-13: Sword
-13: Therefore
-13: Way
-12: Before
-12: Best
-12: Boy
-12: Brother
-12: Countrymen
-12: Crown
-12: Fell
-12: Hence
-12: Home
-12: Life
-12: Mean
-12: Very
-12: Words
-11: Answer
-11: Bears
-11: Body
-11: Ever
-11: Fall
-11: Farewell
-11: First
-11: Get
-11: Hearts
-11: Her
-11: Indeed
-11: Master
-11: Own
-11: Philippi
-11: Send
-11: Sick
-11: Streets
-10: Been
-10: Being
-10: Bloody
-10: Bring
-10: Brutus’
-10: Cimber
-10: Dost
-10: Enemy
-10: Full
-10: General
-10: Gentle
-10: Gone
-10: Keep
-10: March
-10: Matter
-10: Metellus
-10: Nothing
-10: Pardon
-10: People
-10: Poor
-10: Rest
-10: Said
-10: Strong
-10: Sure
-10: Two
-10: Use
-10: Within
-10: Yours
-10: Yourself
-9: After
-9: Alas
-9: Anything
-9: Awake
-9: Common
-9: Cry
-9: Directly
-9: Enough
-9: Lie
-9: Means
-9: Moved
-9: Only
-9: Pindarus
-9: Portia
-9: Publius
-9: Says
-9: Seek
-9: Seen
-9: Sleep
-9: Still
-9: Those
-9: Tonight
-9: Under
-9: Work
-9: Worthy
-9: Young
-8: Against
-8: Along
-8: Ambitious
-8: Appear
-8: Bad
-8: Change
-8: Cicero
-8: Dear
-8: Decius
-8: Deed
-8: Didst
-8: Hard
-8: Hark
-8: Heard
-8: Hour
-8: Humor
-8: Last
-8: Loves
-8: Lucilius
-8: Mind
-8: Morrow
-8: None
-8: Old
-8: Please
-8: Rather
-8: Reasons
-8: Remember
-8: Saw
-8: Stir
-8: Talk
-8: Tent
-8: Tongue
-8: Truly
-8: Turn
-8: Vile
-8: Walk
-8: Welcome
-7: Battle
-7: Bed
-7: Both
-7: Came
-7: Cannot
-7: Dangerous
-7: Durst
-7: End
-7: Endure
-7: Enterprise
-7: Far
-7: Fashion
-7: Ides
-7: Kill
-7: Lead
-7: Letters
-7: Let’s
-7: Lies
-7: Offered
-7: Over
-7: Pray
-7: Reason
-7: Respect
-7: Senate
-7: Senators
-7: Shake
-7: She
-7: Son
-7: Spirits
-7: Strange
-7: Strato
-7: Thing
-7: Thought
-7: Three
-7: Tomorrow
-7: Trebonius
-7: Whilst
-7: Wife
-7: ’t
-6: Alone
-6: Another
-6: Base
-6: Believe
-6: Break
-6: Call
-6: Calphurnia
-6: Cold
-6: Cut
-6: Enemies
-6: Ere
-6: Eye
-6: Fare
-6: Fetch
-6: Field
-6: Fit
-6: Found
-6: Funeral
-6: Further
-6: Going
-6: Gold
-6: Hide
-6: High
-6: Hither
-6: Left
-6: Ligarius
-6: Looks
-6: Loved
-6: Nay
-6: Near
-6: Pass
-6: Patience
-6: Point
-6: Pompey’s
-6: Power
-6: Redress
-6: Right
-6: Same
-6: Satisfied
-6: Since
-6: Spoke
-6: Ta’en
-6: Themselves
-6: There’s
-6: Though
-6: Thrice
-6: Through
-6: Th’
-6: Together
-6: Trade
-6: Traitors
-6: Valiant
-6: Virtue
-6: Voice
-6: Volumnius
-6: Weak
-6: Weep
-6: Went
-6: Wherefore
-6: Wilt
-6: Wish
-6: Yes
-6: Yourselves
-6: ’em
-5: Age
-5: Alive
-5: Angry
-5: Awhile
-5: Besides
-5: Blame
-5: Bondman
-5: Brave
-5: Brought
-5: Burn
-5: Cassius’
-5: Cato
-5: Certain
-5: Claudius
-5: Clouds
-5: Cried
-5: Dagger
-5: Days
-5: Ears
-5: Earth
-5: Forever
-5: Free
-5: Gave
-5: Grant
-5: Grief
-5: Griefs
-5: Ha
-5: Head
-5: Heaven
-5: Heavens
-5: He’s
-5: Honest
-5: Honors
-5: Ill
-5: Instrument
-5: Lepidus
-5: Lest
-5: Little
-5: Long
-5: Madam
-5: Marcus
-5: Marketplace
-5: Mettle
-5: Mutiny
-5: Nature
-5: Need
-5: Note
-5: Offended
-5: Opinion
-5: Ourselves
-5: Perceive
-5: Pity
-5: Prepare
-5: Press
-5: Resolved
-5: Ride
-5: Room
-5: Seem
-5: Several
-5: Sickness
-5: Side
-5: Sirrah
-5: Smile
-5: Soldier
-5: Speaks
-5: Speech
-5: State
-5: Statue
-5: Suit
-5: Tear
-5: Tiber
-5: Times
-5: Took
-5: Wherein
-5: While
-5: Whose
-5: Without
-5: Woman
-5: Worth
-5: Wounds
-4: Air
-4: Almost
-4: Already
-4: Ambition
-4: Answered
-4: Antonius
-4: Arms
-4: Bade
-4: Beg
-4: Begin
-4: Behold
-4: Beware
-4: Briefly
-4: Business
-4: Called
-4: Ceremonies
-4: Chanced
-4: Clitus
-4: Constant
-4: Corpse
-4: Country
-4: Course
-4: Coward
-4: Dare
-4: Deeds
-4: Denied
-4: Depart
-4: Does
-4: Doubt
-4: Dreadful
-4: Dream
-4: Dwell
-4: Ear
-4: Fast
-4: Fault
-4: Faults
-4: Fearful
-4: Feeble
-4: Flatterers
-4: Flood
-4: Fools
-4: Foot
-4: Fortune
-4: Freedom
-4: Generals
-4: Given
-4: Gives
-4: Glad
-4: Grace
-4: Ground
-4: Grown
-4: Half
-4: Haste
-4: Heads
-4: Health
-4: Held
-4: Kind
-4: King
-4: Knave
-4: Known
-4: Lay
-4: Legions
-4: Less
-4: Liberty
-4: Light
-4: Living
-4: Lose
-4: Masters
-4: Minds
-4: Monstrous
-4: Morning
-4: Move
-4: News
-4: Noise
-4: Number
-4: Oath
-4: Offense
-4: Patient
-4: Pleasure
-4: Pluck
-4: Plucked
-4: Pompey
-4: Present
-4: Presently
-4: Prevent
-4: Prithee
-4: Pulpit
-4: Purpose
-4: Quality
-4: Quite
-4: Ready
-4: Red
-4: Revenge
-4: Round
-4: Sad
-4: Safe
-4: Sake
-4: Shalt
-4: Sight
-4: Sign
-4: Sirs
-4: Sit
-4: Smiles
-4: Souls
-4: Sound
-4: Speed
-4: Straight
-4: Strike
-4: Struck
-4: Swords
-4: Taken
-4: Taper
-4: Tears
-4: Teeth
-4: Tempt
-4: That’s
-4: Thine
-4: Thoughts
-4: Triumph
-4: Villains
-4: War
-4: Wear
-4: Wind
-4: Wine
-4: Wise
-4: Wisely
-4: Withal
-4: Worse
-4: Write
-4: Yea
-4: Years
-3: According
-3: Advantage
-3: Affairs
-3: Amiss
-3: Ancestors
-3: Apt
-3: Awe
-3: Bachelor
-3: Because
-3: Become
-3: Bend
-3: Beseech
-3: Bleed
-3: Bold
-3: Bones
-3: Born
-3: Bosom
-3: Breast
-3: Brings
-3: Brow
-3: Buried
-3: Calls
-3: Charge
-3: Children
-3: Close
-3: Coming
-3: Commend
-3: Condition
-3: Conference
-3: Conquest
-3: Consent
-3: Consider
-3: Conspiracy
-3: Conspirators
-3: Constancy
-3: Construe
-3: Content
-3: Cowards
-3: Cross
-3: Crowned
-3: Cruel
-3: Danger
-3: Dangers
-3: Desire
-3: Died
-3: Drop
-3: Drops
-3: Dying
-3: Early
-3: Either
-3: Entreat
-3: Everything
-3: Evils
-3: Fates
-3: Favor
-3: Fearing
-3: Fiery
-3: Fight
-3: Fingers
-3: Fled
-3: Forget
-3: Form
-3: Friendly
-3: Gentlemen
-3: Glories
-3: God
-3: Goes
-3: Gown
-3: Graves
-3: Greater
-3: Groan
-3: Hail
-3: Happy
-3: Has
-3: Heavy
-3: Here’s
-3: Hie
-3: Hill
-3: Holiday
-3: Honesty
-3: Honored
-3: Hope
-3: Horse
-3: Hot
-3: Huge
-3: Hundred
-3: Idle
-3: Images
-3: Immortal
-3: Itself
-3: Joy
-3: Judge
-3: Julius
-3: Kiss
-3: Kneel
-3: Knew
-3: Knocks
-3: Knows
-3: Lady
-3: Late
-3: Laughter
-3: Leads
-3: Led
-3: Limbs
-3: Lion
-3: Lips
-3: Makes
-3: Manner
-3: Man’s
-3: Marry
-3: Matters
-3: Mother
-3: Motion
-3: Mouth
-3: Music
-3: Neither
-3: New
-3: Ne’er
-3: Noblest
-3: Oft
-3: Order
-3: Ordinary
-3: O’clock
-3: Palm
-3: Parts
-3: Permission
-3: Piece
-3: Popilius
-3: Powers
-3: Pricked
-3: Private
-3: Promise
-3: Proof
-3: Proper
-3: Proscription
-3: Public
-3: Question
-3: Rage
-3: Ran
-3: Receive
-3: Refused
-3: Regard
-3: Rejoice
-3: Rise
-3: Sardis
-3: Saucy
-3: Save
-3: Second
-3: Secrets
-3: Self
-3: Shame
-3: Shores
-3: Shout
-3: Silence
-3: Sink
-3: Sleep’st
-3: Slew
-3: Soon
-3: Sort
-3: Soul
-3: Spur
-3: Stabbed
-3: Stare
-3: Steel
-3: Stones
-3: Stood
-3: Stoop
-3: Street
-3: Success
-3: Sudden
-3: Sun
-3: Swear
-3: Sweet
-3: Taste
-3: Thank
-3: Therein
-3: Thinking
-3: Tidings
-3: Told
-3: Toward
-3: Traitors’
-3: Trash
-3: Trouble
-3: Truth
-3: Turned
-3: Turns
-3: Tyranny
-3: Urge
-3: Visit
-3: Walks
-3: What’s
-3: Whether
-3: Whe’er
-3: Who’s
-3: Windows
-3: Wisdom
-3: Women
-3: Wronged
-3: Yield
-3: Yonder
-3: ’s
-3: ’twas
-2: A-nights
-2: Abide
-2: Above
-2: Abroad
-2: Abuse
-2: Act
-2: Action
-2: Aim
-2: Ambition’s
-2: Among
-2: Angel
-2: Answerèd
-2: Arm
-2: Armed
-2: Army
-2: Aside
-2: Ask
-2: Asleep
-2: Ass
-2: Assure
-2: Attain
-2: Audience
-2: Aught
-2: Augurers
-2: Banished
-2: Banks
-2: Bathe
-2: Battles
-2: Bayed
-2: Beast
-2: Beasts
-2: Begins
-2: Beholding
-2: Benefit
-2: Bent
-2: Bestow
-2: Betimes
-2: Between
-2: Bids
-2: Bills
-2: Bleeding
-2: Bloods
-2: Blows
-2: Blunt
-2: Bond
-2: Bondage
-2: Bondmen
-2: Bound
-2: Bowl
-2: Brands
-2: Breed
-2: Bribes
-2: Brows
-2: Burial
-2: Bury
-2: Butchers
-2: Calphurnia’s
-2: Canst
-2: Care
-2: Cast
-2: Cato’s
-2: Ceremony
-2: Chair
-2: Chance
-2: Chariot
-2: Chastisement
-2: Choked
-2: Choose
-2: Civil
-2: Clock
-2: Closet
-2: Cobbler
-2: Color
-2: Comfort
-2: Commanders
-2: Commons
-2: Com’st
-2: Condemned
-2: Conditions
-2: Confess
-2: Conspirator
-2: Contented
-2: Council
-2: Countenance
-2: Country’s
-2: Courtesy
-2: Creature
-2: Creatures
-2: Credit
-2: Crossed
-2: Cur
-2: Curse
-2: Cuts
-2: Daggers
-2: Dardanus
-2: Dearer
-2: Deceived
-2: Decree
-2: Defend
-2: Deliver
-2: Demand
-2: Descend
-2: Deserved
-2: Destruction
-2: Devil
-2: Diest
-2: Digest
-2: Discover
-2: Disposed
-2: Door
-2: Doors
-2: Drachmas
-2: Draw
-2: Draws
-2: Dreams
-2: Dreamt
-2: Drink
-2: Drive
-2: Dumb
-2: Duty
-2: Each
-2: Ease
-2: East
-2: Effect
-2: Elder
-2: Ended
-2: Enforcèd
-2: Enfranchisement
-2: Ensign
-2: Entrails
-2: Envious
-2: Envy
-2: Error
-2: Etc.
-2: Evil
-2: Exalted
-2: Exploit
-2: Faces
-2: Fair
-2: Faith
-2: Falling
-2: False
-2: Familiar
-2: Fantasy
-2: Fawn
-2: Feared
-2: Fears
-2: Feast
-2: Fierce
-2: Fill
-2: Flavius
-2: Flint
-2: Foolery
-2: Forgetful
-2: Fortunate
-2: Fresh
-2: Fret
-2: Gallant
-2: Ghost
-2: Ghosts
-2: Glory
-2: Governed
-2: Greek
-2: Groaning
-2: Grow
-2: Growing
-2: Hair
-2: Harm
-2: Hart
-2: Having
-2: Heed
-2: Heels
-2: Heirs
-2: Hell
-2: Help
-2: Hereafter
-2: Higher
-2: Hilts
-2: Holds
-2: Holy
-2: Horses
-2: Hounds
-2: Houses
-2: Humble
-2: Hung
-2: Ill-tempered
-2: Immediately
-2: Impatience
-2: Impossible
-2: Incorporate
-2: Infants
-2: Ingratitude
-2: Instruments
-2: Intended
-2: Issue
-2: Italy
-2: Itching
-2: I’
-2: Jealous
-2: Joined
-2: Judgment
-2: Just
-2: Killed
-2: Knee
-2: Knees
-2: Know’st
-2: Ladder
-2: Laugh
-2: Leaden
-2: Lean
-2: Leap
-2: Leather
-2: Lena
-2: Lend
-2: Liable
-2: Lions
-2: Listen
-2: Lived
-2: Lo
-2: Lost
-2: Lovedst
-2: Lover
-2: Lovers
-2: Low
-2: Lupercal
-2: Lusty
-2: Mad
-2: Mantle
-2: Marching
-2: Married
-2: Mend
-2: Men’s
-2: Merry
-2: Methinks
-2: Mirth
-2: Mischief
-2: Mistrust
-2: Moreover
-2: Mothers
-2: Mourning
-2: Mouths
-2: Murderers
-2: Names
-2: Narrow
-2: Necessary
-2: Next
-2: Nod
-2: Objects
-2: Observe
-2: Octavius’
-2: Often
-2: Olympus
-2: Ope
-2: Open
-2: Ought
-2: Ours
-2: Overcame
-2: O’er
-2: Pale
-2: Paper
-2: Parting
-2: Partly
-2: Passion
-2: Pause
-2: Pay
-2: Perhaps
-2: Perils
-2: Personal
-2: Philosophy
-2: Pieces
-2: Plain
-2: Plays
-2: Pleasures
-2: Poet
-2: Porch
-2: Practice
-2: Prefer
-2: Prevention
-2: Prick
-2: Priests
-2: Princes
-2: Prisoner
-2: Proceeded
-2: Proclaim
-2: Prodigies
-2: Purposes
-2: Push
-2: Quartered
-2: Quick
-2: Raise
-2: Rank
-2: Rash
-2: Raw
-2: Reflection
-2: Render
-2: Renderèd
-2: Repair
-2: Revenged
-2: Reverence
-2: Rich
-2: Rid
-2: Ring
-2: Rites
-2: Rived
-2: Royal
-2: Rule
-2: Ruled
-2: Rushing
-2: School
-2: Sea
-2: Seal
-2: Seat
-2: Secret
-2: Seeing
-2: Seemed
-2: Sees
-2: Sell
-2: Served
-2: Serves
-2: Seven
-2: Shed
-2: Shoes
-2: Shouldst
-2: Shouted
-2: Shouts
-2: Showed
-2: Shows
-2: Sickly
-2: Sights
-2: Slain
-2: Slaves
-2: Slay
-2: Slept
-2: Slight
-2: Slumber
-2: Smiling
-2: Soft
-2: Softly
-2: Soldiers
-2: Something
-2: Sorrow
-2: Sorry
-2: Sparks
-2: Speaking
-2: Spectacle
-2: Spoil
-2: Spot
-2: Spurn
-2: Spurs
-2: Stab
-2: Stands
-2: Stars
-2: Start
-2: Stayed
-2: Steal
-2: Sting
-2: Store
-2: Strain
-2: Stream
-2: Strength
-2: Stretched
-2: Strife
-2: Strokes
-2: Strucken
-2: Suck
-2: Sufferance
-2: Sufficeth
-2: Suitor
-2: Suitors
-2: Swayed
-2: Sweat
-2: Swell
-2: Swim
-2: Swore
-2: Temper
-2: Tending
-2: Tents
-2: Terrible
-2: Terror
-2: Testament
-2: Theater
-2: Thick
-2: Thinks
-2: Third
-2: Thorough
-2: Thrive
-2: Throng
-2: Throw
-2: Thrusting
-2: Thyself
-2: Tide
-2: Titinius’
-2: Touch
-2: Touched
-2: Touches
-2: Towards
-2: Tremble
-2: Tried
-2: Troops
-2: Try
-2: Twenty
-2: Tyrant
-2: Tyrants
-2: Unbracèd
-2: Underneath
-2: Unfold
-2: Unknown
-2: Urged
-2: Utterance
-2: Uttermost
-2: Valor
-2: Varro
-2: Verses
-2: Vouchsafe
-2: Walked
-2: Walking
-2: Walls
-2: Wast
-2: Watch
-2: Weary
-2: Weeping
-2: Whereto
-2: Whither
-2: Whole
-2: Wildness
-2: Willing
-2: Window
-2: Wing
-2: Wished
-2: Wit
-2: Witness
-2: Woe
-2: Wonder
-2: Worst
-2: Worthiness
-2: Wound
-2: Wrongs
-2: Yesterday
-2: Yoke
-2: Yond
-2: ’tween
-1: A-shouting
-1: Abler
-1: Abridged
-1: Absence
-1: Absent
-1: Accents
-1: Accidental
-1: Accoutered
-1: Acquainted
-1: Across
-1: Acted
-1: Acting
-1: Actors
-1: Add
-1: Added
-1: Adder
-1: Addition
-1: Addressed
-1: Aeneas
-1: Afeard
-1: Affability
-1: Affection
-1: Affections
-1: Affrighted
-1: Afloat
-1: Afoot
-1: Afraid
-1: Afterwards
-1: Ages
-1: Age’s
-1: Agree
-1: Ague
-1: Airless
-1: Alchemy
-1: Alliance
-1: Allowed
-1: Also
-1: Always
-1: Amaze
-1: Amazed
-1: Ancestor
-1: Anchises
-1: Anger
-1: Annoy
-1: Annoying
-1: Answering
-1: Antonius’
-1: Antony’s
-1: Apace
-1: Apart
-1: Apes
-1: Apparel
-1: Apparent
-1: Apparition
-1: Appeared
-1: Appearing
-1: Appeased
-1: Appertain
-1: Appetite
-1: Applauses
-1: Apply
-1: Appoint
-1: Apprehensive
-1: Apron
-1: Arbors
-1: Arguing
-1: Arises
-1: Armies
-1: Arming
-1: Arose
-1: Arrive
-1: Arrived
-1: Artemidorus
-1: Arts
-1: Ascend
-1: Ascended
-1: Ashamèd
-1: Asked
-1: Assemble
-1: Assembly
-1: Assured
-1: Astonish
-1: Ate
-1: Attains
-1: Attempt
-1: Attempts
-1: Attendants
-1: Attire
-1: Augmented
-1: Avenged
-1: Avoid
-1: Avoided
-1: Aweary
-1: Awl
-1: Bait
-1: Bang
-1: Banishèd
-1: Banqueting
-1: Bared
-1: Bargain
-1: Bark
-1: Barren
-1: Barren-spirited
-1: Bars
-1: Basest
-1: Basis
-1: Bastard
-1: Bastardy
-1: Bathed
-1: Battlements
-1: Bay
-1: Beads
-1: Beat
-1: Beaten
-1: Beauty
-1: Becomes
-1: Bees
-1: Beest
-1: Befall
-1: Befriend
-1: Began
-1: Beggars
-1: Begged
-1: Beginning
-1: Begun
-1: Behaviors
-1: Behind
-1: Belike
-1: Beloved
-1: Below
-1: Benches
-1: Bending
-1: Bequeathing
-1: Beside
-1: Besmear
-1: Bestride
-1: Bethink
-1: Betrayed
-1: Betwixt
-1: Beyond
-1: Be’st
-1: Bidding
-1: Big
-1: Billow
-1: Bird
-1: Birds
-1: Birth
-1: Birthday
-1: Black
-1: Blaze
-1: Blest
-1: Blocks
-1: Blow
-1: Blue
-1: Boldest
-1: Boldly
-1: Bonds
-1: Book
-1: Books
-1: Bootless
-1: Borne
-1: Bosoms
-1: Bow
-1: Bowed
-1: Bowels
-1: Brains
-1: Brass
-1: Braved
-1: Bravely
-1: Bravery
-1: Break’st
-1: Breath
-1: Breathless
-1: Breathèd
-1: Bright
-1: Brim
-1: Bring’st
-1: Brooked
-1: Brothers’
-1: Brutish
-1: Brutè
-1: Budge
-1: Buffet
-1: Burneth
-1: Burns
-1: Burst
-1: Bustling
-1: Busy
-1: Buy
-1: Buzzing
-1: Calculate
-1: Calendar
-1: Camp
-1: Cancel
-1: Canopy
-1: Captive
-1: Captives
-1: Captivity
-1: Carcass
-1: Carelessly
-1: Cares
-1: Carpenter
-1: Carries
-1: Carrion
-1: Carrions
-1: Carve
-1: Casca’s
-1: Case
-1: Catching
-1: Causes
-1: Cautelous
-1: Cavern
-1: Censure
-1: Chafing
-1: Channel
-1: Charactery
-1: Charges
-1: Charm
-1: Chase
-1: Checked
-1: Cheek
-1: Cheer
-1: Chew
-1: Chidden
-1: Chide
-1: Chides
-1: Child
-1: Chimney
-1: Choice
-1: Choler
-1: Choleric
-1: Chopped
-1: Chose
-1: Citizen
-1: Citizens
-1: Clamors
-1: Clap
-1: Clapped
-1: Clean
-1: Climate
-1: Climbed
-1: Climber-upward
-1: Cloak
-1: Cloaks
-1: Cobble
-1: Coffers
-1: Coffin
-1: Cogitations
-1: Cognizance
-1: Coin
-1: Colossus
-1: Combined
-1: Comets
-1: Commended
-1: Comment
-1: Commit
-1: Commonwealth
-1: Compact
-1: Companies
-1: Companion
-1: Company
-1: Compare
-1: Compass
-1: Compel
-1: Compelled
-1: Complexion
-1: Concave
-1: Conceit
-1: Conceited
-1: Conceived
-1: Conceptions
-1: Concluded
-1: Confidence
-1: Confines
-1: Confounded
-1: Conjointly
-1: Conjure
-1: Conjured
-1: Conned
-1: Conquerors
-1: Conquests
-1: Conscience
-1: Consequence
-1: Consorted
-1: Constantly
-1: Consumed
-1: Contagion
-1: Contaminate
-1: Contribution
-1: Contrive
-1: Contriver
-1: Controversy
-1: Cooling
-1: Coronets
-1: Corporal
-1: Corruption
-1: Costly
-1: Couchings
-1: Couldst
-1: Counsel
-1: Counsels
-1: Count
-1: Counters
-1: Courage
-1: Courtesies
-1: Covered
-1: Covert
-1: Covetous
-1: Cowardice
-1: Cowardly
-1: Craves
-1: Crept
-1: Crests
-1: Criedst
-1: Crimsoned
-1: Crouch
-1: Crowd
-1: Crows
-1: Crying
-1: Cull
-1: Cumber
-1: Cup
-1: Current
-1: Cursèd
-1: Curtsies
-1: Cushions
-1: Custom
-1: Cynic
-1: Damn
-1: Damnèd
-1: Dang’rous
-1: Dank
-1: Dark
-1: Darkness
-1: Darts
-1: Dar’st
-1: Dash
-1: Daughter
-1: Day’s
-1: Deaf
-1: Deal
-1: Dearly
-1: Deaths
-1: Death’s
-1: Debt
-1: Decay
-1: Deceitful
-1: Decius’
-1: Decked
-1: Decline
-1: Deep
-1: Deer
-1: Defeat
-1: Defense
-1: Defiance
-1: Degrees
-1: Delay
-1: Demeanor
-1: Depend
-1: Derived
-1: Described
-1: Desired
-1: Desires
-1: Desiring
-1: Determine
-1: Determinèd
-1: Devise
-1: Dew
-1: Dews
-1: Difference
-1: Dignities
-1: Dim
-1: Dine
-1: Dinner
-1: Dint
-1: Dip
-1: Discard
-1: Disclose
-1: Disclosed
-1: Discomfort
-1: Disconsolate
-1: Discourse
-1: Discoverèd
-1: Dish
-1: Dishonor
-1: Dishonorable
-1: Disjoins
-1: Dismember
-1: Dismiss
-1: Disperse
-1: Displeased
-1: Disposing
-1: Disprove
-1: Disrobe
-1: Distract
-1: Disturbèd
-1: Diverse
-1: Divided
-1: Division
-1: Doers
-1: Dog
-1: Dogs
-1: Doing
-1: Domestic
-1: Doomsday
-1: Doublet
-1: Doubted
-1: Doubtful
-1: Downward
-1: Drawing
-1: Drawn
-1: Dreamer
-1: Driven
-1: Drives
-1: Drizzled
-1: Dropped
-1: Dropping
-1: Drowsily
-1: Dull
-1: Dungeon
-1: Dust
-1: Dwelling
-1: Eagerly
-1: Eagles
-1: Earns
-1: Easily
-1: Eat
-1: Eating
-1: Egg
-1: Eight
-1: Eighth
-1: Elbows
-1: Elders
-1: Element
-1: Elements
-1: Elephants
-1: Embrace
-1: Empty
-1: Emulation
-1: Enclosed
-1: Enclosèd
-1: Encompassed
-1: Encounter
-1: Encouraged
-1: Enforced
-1: Engaged
-1: Engagements
-1: Engendered
-1: Engrafted
-1: Enjoy
-1: Enkindled
-1: Enlarge
-1: Enrolled
-1: Enter
-1: Entertain
-1: Entire
-1: Entreated
-1: Envenomèd
-1: Epicurus
-1: Erebus
-1: Errand
-1: Errands
-1: Eruptions
-1: Establish
-1: Et
-1: Eternal
-1: Evening
-1: Everlasting
-1: Everyone
-1: Except
-1: Excepted
-1: Execution
-1: Exhalations
-1: Exigent
-1: Exorcist
-1: Expect
-1: Expectation
-1: Expedition
-1: Expounded
-1: Extenuated
-1: Extremities
-1: Faction
-1: Factious
-1: Faculties
-1: Fail
-1: Fain
-1: Faint
-1: Faithful
-1: Falls
-1: Falser
-1: Famed
-1: Fantasies
-1: Farther
-1: Farthest
-1: Fasten
-1: Fat
-1: Fatal
-1: Fathered
-1: Fathers
-1: Fathers’
-1: Fatter
-1: Fawned
-1: Fawning
-1: Fearfulness
-1: Feathers
-1: Fed
-1: Feed
-1: Feeding
-1: Feeds
-1: Feel
-1: Feet
-1: Ferret
-1: Fever
-1: Fields
-1: Fifteen
-1: Figures
-1: Finds
-1: Fine
-1: Firebrands
-1: Fires
-1: Firm
-1: Firmament
-1: Fixed
-1: Flame
-1: Flames
-1: Flash
-1: Flatterer
-1: Flatterer’s
-1: Flattery
-1: Flatterèd
-1: Fleering
-1: Flesh
-1: Flourished
-1: Flowers
-1: Foam
-1: Foamed
-1: Foe
-1: Foes
-1: Followed
-1: Follows
-1: Fond
-1: Fool
-1: Foolish
-1: Force
-1: Forced
-1: Foremost
-1: Forest
-1: Forgave
-1: Forgets
-1: Forgot
-1: Formal
-1: Former
-1: Forms
-1: Fortunes
-1: Fought
-1: Foul
-1: Fountain
-1: Four
-1: Fray
-1: Freeman
-1: Freemen
-1: Friendship
-1: Friend’s
-1: Fright
-1: Frighted
-1: Fulfill
-1: Fuller
-1: Funerals
-1: Furnished
-1: Fury
-1: Gait
-1: Games
-1: Gamesome
-1: Garland
-1: Gate
-1: Gates
-1: Gaze
-1: Genius
-1: Gentleness
-1: Gentler
-1: Gently
-1: Ghastly
-1: Girl
-1: Giving
-1: Glancèd
-1: Glass
-1: Glasses
-1: Glazed
-1: Gliding
-1: Glow
-1: Gorging
-1: Govern
-1: Gracious
-1: Graspèd
-1: Gravity
-1: Gray
-1: Graybeards
-1: Graze
-1: Greatness
-1: Greeting
-1: Greets
-1: Grieve
-1: Grieved
-1: Grievous
-1: Grievously
-1: Grows
-1: Grudge
-1: Grudged
-1: Guard
-1: Guess
-1: Guide
-1: Guiltiness
-1: Guilty
-1: Gusty
-1: Hack
-1: Hacked
-1: Hairs
-1: Handiwork
-1: Hanged
-1: Hangs
-1: Harlot
-1: Harm’s
-1: Hasty
-1: Hatched
-1: Hate
-1: Hated
-1: Hateful
-1: Hates
-1: Hats
-1: Havoc
-1: Hazard
-1: Hazards
-1: Ha’
-1: Healthful
-1: Heap
-1: Heaped
-1: Hearing
-1: Hears
-1: Hearse
-1: Heart’s
-1: Hedge
-1: Height
-1: Henceforth
-1: Heralds
-1: Herd
-1: Hew
-1: He’ll
-1: Hidden
-1: Hideous
-1: Hides
-1: High-sighted
-1: Hills
-1: Hinder
-1: Hinds
-1: Hiss
-1: History
-1: Hole
-1: Holes
-1: Hollow
-1: Honey-heavy
-1: Honeyless
-1: Honorable-dangerous
-1: Honorably
-1: Hooted
-1: Hooting
-1: Hopes
-1: Hoping
-1: Horrid
-1: Horsemen
-1: Hour’s
-1: However
-1: Hug
-1: Humors
-1: Hungry
-1: Hunters
-1: Hurl
-1: Hurtled
-1: Husbanded
-1: Husband’s
-1: Hybla
-1: Illuminate
-1: Imitations
-1: Immediate
-1: Imminent
-1: Impart
-1: Impatient
-1: Impatiently
-1: Improve
-1: Incenses
-1: Incertain
-1: Increaseth
-1: Indifferent
-1: Indifferently
-1: Indirection
-1: Infirmities
-1: Infirmity
-1: Inflame
-1: Infused
-1: Insisted
-1: Instances
-1: Instantly
-1: Instigations
-1: Insupportable
-1: Insuppressive
-1: Insurrection
-1: Intend
-1: Interim
-1: Intermit
-1: Interpose
-1: Interpreted
-1: Interrèd
-1: Iron
-1: I’m
-1: Jades
-1: Jigging
-1: Justice
-1: Justice’
-1: Keeps
-1: Kerchief
-1: Killing
-1: Kill’st
-1: Kindle
-1: Kindness
-1: Kingdom
-1: Kingly
-1: Kissing
-1: Kites
-1: Knocked
-1: Knot
-1: Knotty
-1: Labeo
-1: Labored
-1: Laboring
-1: Lack
-1: Lacks
-1: Lamb
-1: Lamented
-1: Laments
-1: Land
-1: Large
-1: Latest
-1: Laughed
-1: Law
-1: Lawful
-1: Layest
-1: Leaf
-1: Leagues
-1: Learn
-1: Learned
-1: Least
-1: Legacies
-1: Legacy
-1: Legs
-1: Leisure
-1: Lethe
-1: Levying
-1: Liberties
-1: Lief
-1: Life’s
-1: Lift
-1: Ligarius’
-1: Lighted
-1: Lightens
-1: Lightning
-1: Lights
-1: Likes
-1: Limb
-1: Limitation
-1: Lines
-1: Links
-1: Lioness
-1: List
-1: Littered
-1: Livelong
-1: Lives
-1: Livèd
-1: Load
-1: Loads
-1: Loath
-1: Lock
-1: Lodge
-1: Lofty
-1: Loins
-1: Looked
-1: Looking
-1: Lordship
-1: Losing
-1: Loss
-1: Losses
-1: Lottery
-1: Lovest
-1: Loving
-1: Low-crookèd
-1: Lowest
-1: Lowliness
-1: Lowly
-1: Lucilius’
-1: Luster
-1: Lying
-1: Mace
-1: Madman
-1: Madmen
-1: Main
-1: Majestic
-1: Making
-1: Mak’st
-1: Malice
-1: Marked
-1: Marred
-1: Marriage
-1: Mart
-1: Marullus
-1: Mask
-1: Masker
-1: Master’s
-1: Mayest
-1: Mayst
-1: Meals
-1: Mean’st
-1: Measure
-1: Meat
-1: Mechanical
-1: Meddle
-1: Meditates
-1: Meditating
-1: Meek
-1: Melancholy’s
-1: Melteth
-1: Melting
-1: Memory
-1: Menace
-1: Mender
-1: Mention
-1: Mere
-1: Merely
-1: Merrily
-1: Messengers
-1: Met
-1: Midnight
-1: Mightier
-1: Millions
-1: Mine’s
-1: Mirrors
-1: Mischiefs
-1: Mischievous
-1: Misconstrued
-1: Miseries
-1: Misgiving
-1: Mistook
-1: Mixed
-1: Mock
-1: Mocked
-1: Modestly
-1: Modesty
-1: Monarch’s
-1: Money
-1: Months
-1: Mood
-1: Moon
-1: Mortal
-1: Mortifièd
-1: Mothers’
-1: Motives
-1: Mount
-1: Mountain
-1: Mourn
-1: Mourned
-1: Muffling
-1: Multitude
-1: Murder
-1: Murd’rous
-1: Musing
-1: Naked
-1: Name’s
-1: Napkins
-1: Native
-1: Natural
-1: Natures
-1: Naughty
-1: Nearer
-1: Neat’s
-1: Necessities
-1: Necessity
-1: Neck
-1: Needs
-1: Neglect
-1: Neigh
-1: Neighbors
-1: Nervii
-1: New-added
-1: New-fired
-1: New-planted
-1: Nice
-1: Niggard
-1: Nightcaps
-1: Nimbleness
-1: Ninth
-1: Nobler
-1: Noblest-minded
-1: Nobly
-1: Noonday
-1: North
-1: Northern
-1: Notebook
-1: Noted
-1: Notice
-1: Notwithstanding
-1: Not’st
-1: Numbers
-1: Oaks
-1: Oaths
-1: Obey
-1: Obscurely
-1: Observed
-1: Observer
-1: Occupation
-1: Ocean
-1: Offal
-1: Offenses
-1: Offer
-1: Offering
-1: Office
-1: Officers
-1: Offices
-1: Older
-1: Omitted
-1: Opening
-1: Opens
-1: Opinions
-1: Oration
-1: Orator
-1: Orchards
-1: Ordered
-1: Ordinance
-1: Otherwise
-1: Ourself
-1: Outlawry
-1: Outlive
-1: Outward
-1: Over-earnest
-1: Overthrow
-1: Overthrown
-1: Owe
-1: O’erread
-1: O’ershot
-1: O’ersway
-1: O’erswell
-1: O’erwatched
-1: Paid
-1: Pains
-1: Painted
-1: Palter
-1: Papers
-1: Parchment
-1: Parley
-1: Partake
-1: Parthia
-1: Particle
-1: Party
-1: Passed
-1: Passions
-1: Past
-1: Path
-1: Peasants
-1: Peep
-1: Peevish
-1: Pella
-1: People’s
-1: Perceived
-1: Perched
-1: Performance
-1: Performed
-1: Perilous
-1: Person
-1: Persuasion
-1: Petition
-1: Petitions
-1: Petty
-1: Phantasma
-1: Physical
-1: Piercing
-1: Pipes
-1: Pit
-1: Pitch
-1: Piteous
-1: Pitiful
-1: Places
-1: Plague
-1: Players
-1: Pleased
-1: Pleasing
-1: Pledge
-1: Plucking
-1: Plungèd
-1: Pluto’s
-1: Pocket
-1: Points
-1: Portentous
-1: Portents
-1: Possible
-1: Post
-1: Posture
-1: Praetors
-1: Praetor’s
-1: Praise
-1: Praising
-1: Prayers
-1: Praying
-1: Predictions
-1: Preformèd
-1: Preordinance
-1: Prepared
-1: Presage
-1: Presence
-1: Presented
-1: Presents
-1: Presume
-1: Prevail
-1: Prevailed
-1: Prey
-1: Prize
-1: Proceed
-1: Proceeding
-1: Prodigious
-1: Produce
-1: Profess
-1: Profession
-1: Progress
-1: Promised
-1: Property
-1: Prophesy
-1: Proposed
-1: Proscriptions
-1: Prostrate
-1: Protest
-1: Protester
-1: Proud
-1: Proved
-1: Provender
-1: Proves
-1: Providence
-1: Puissant
-1: Pulled
-1: Pulling
-1: Pulpits
-1: Purchase
-1: Pure
-1: Purgers
-1: Purpled
-1: Purposed
-1: Puts
-1: Putting-by
-1: Quarrel
-1: Rabblement
-1: Range
-1: Ranging
-1: Ranks
-1: Ransoms
-1: Rascal
-1: Rated
-1: Ravens
-1: Rays
-1: Reading
-1: Reads
-1: Rears
-1: Rebel
-1: Received
-1: Receivest
-1: Receiving
-1: Receivèd
-1: Recount
-1: Recounts
-1: Recover
-1: Recreate
-1: Redder
-1: Reek
-1: Refreshed
-1: Refuse
-1: Regarded
-1: Regions
-1: Relics
-1: Remain
-1: Remained
-1: Remains
-1: Remorse
-1: Rendered
-1: Rent
-1: Repeal
-1: Repealing
-1: Replication
-1: Reply
-1: Report
-1: Repose
-1: Repute
-1: Request
-1: Resolution
-1: Resort
-1: Resting
-1: Rests
-1: Retentive
-1: Return
-1: Returning
-1: Reveler
-1: Revels
-1: Reviving
-1: Rheumy
-1: Rhyme
-1: Richer
-1: Richest
-1: Rightly
-1: Ripe
-1: Roared
-1: Roars
-1: Rob
-1: Robbers
-1: Robe
-1: Rock
-1: Rogues
-1: Roman’s
-1: Rose
-1: Rote
-1: Rout
-1: Rubbish
-1: Ruby
-1: Ruddy
-1: Rude
-1: Rudeness
-1: Ruffle
-1: Ruins
-1: Rumor
-1: Runs
-1: Sacred
-1: Sacrifice
-1: Sacrificers
-1: Safely
-1: Safety
-1: Salutation
-1: Sardians
-1: Sat
-1: Satisfaction
-1: Satisfy
-1: Sauce
-1: Savage
-1: Saving
-1: Saying
-1: Sayings
-1: Sayst
-1: Scandal
-1: Scarves
-1: Scene
-1: Schedule
-1: Schoolboy
-1: Scolding
-1: Scope
-1: Scorned
-1: Scorning
-1: Scratched
-1: Sealed
-1: Search
-1: Searching
-1: Season
-1: Security
-1: Seduced
-1: Seems
-1: Seest
-1: Seldom
-1: Selfsame
-1: Semblance
-1: Senseless
-1: Senses
-1: Sensible
-1: Sent
-1: Sentence
-1: Serpent’s
-1: Servants
-1: Serve
-1: Service
-1: Servile
-1: Setting
-1: Seventy
-1: Seventy-five
-1: Severally
-1: Sex
-1: Shadow
-1: Shadows
-1: Shakes
-1: Shaking
-1: Shallows
-1: Shamed
-1: Sham’st
-1: Shape
-1: Shapes
-1: Share
-1: Sheathe
-1: Sheep
-1: Shell
-1: Shine
-1: Shook
-1: Shop
-1: Shoulder
-1: Shouting
-1: Shrewd
-1: Shrewdly
-1: Shriek
-1: Shrieking
-1: Shriller
-1: Shrunk
-1: Sicken
-1: Sides
-1: Sighing
-1: Signal
-1: Signed
-1: Signified
-1: Signifies
-1: Silent
-1: Silver
-1: Simple
-1: Sinews
-1: Single
-1: Sister’s
-1: Sits
-1: Six
-1: Skies
-1: Sky
-1: Sland’rous
-1: Slaughter
-1: Slave
-1: Slaying
-1: Sleek-headed
-1: Sleepy
-1: Sleeve
-1: Slighted
-1: Slip
-1: Slippery
-1: Smallest
-1: Smatch
-1: Smell
-1: Smiled
-1: Smoke
-1: Soar
-1: Sober
-1: Soil
-1: Soldiers’
-1: Soles
-1: Somebody
-1: Someone
-1: Sometime
-1: Sometimes
-1: Sooth
-1: Soothsayer
-1: Sought
-1: Sounded
-1: Soundless
-1: Soundly
-1: Sounds
-1: Sour
-1: South
-1: Space
-1: Spain
-1: Spaniel
-1: Spare
-1: Spark
-1: Speak’st
-1: Speeches
-1: Speechless
-1: Spleen
-1: Split
-1: Spoils
-1: Sport
-1: Sports
-1: Spouting
-1: Spouts
-1: Squadrons
-1: Squeal
-1: Stain
-1: Stains
-1: Stake
-1: Stale
-1: Staled
-1: Stamped
-1: Standing
-1: Star
-1: Stared
-1: Stares
-1: States
-1: Statilius
-1: Stays
-1: Steads
-1: Stemming
-1: Sterile
-1: Sterner
-1: Stingless
-1: Stinking
-1: Stirred
-1: Stole
-1: Stolen
-1: Stomach
-1: Stomachs
-1: Stony
-1: Stop
-1: Storm
-1: Story
-1: Straightway
-1: Strange-disposèd
-1: Straws
-1: Strengthen
-1: Stretch
-1: Strew
-1: Stricken
-1: Strings
-1: Strive
-1: Stronger
-1: Stubborn
-1: Study
-1: Stuff
-1: Subject
-1: Submitting
-1: Subtle
-1: Suburbs
-1: Suddenly
-1: Suffered
-1: Suffering
-1: Suffers
-1: Summer’s
-1: Sums
-1: Sup
-1: Superstitious
-1: Supper
-1: Supporting
-1: Surest
-1: Surgeon
-1: Surly
-1: Swallowed
-1: Sway
-1: Sweaty
-1: Sweetly
-1: Swoon
-1: Swooned
-1: Tag-rag
-1: Taking
-1: Talked
-1: Tardy
-1: Tarquin
-1: Tarry
-1: Tarrying
-1: Taught
-1: Teach
-1: Telltale
-1: Tempest
-1: Tempests
-1: Tempted
-1: Tenor
-1: Terms
-1: Testy
-1: Thasos
-1: Thawed
-1: Thews
-1: Thigh
-1: Think’st
-1: Thirsty
-1: Thirty
-1: Thither
-1: Thousand
-1: Threat
-1: Threatened
-1: Threats
-1: Threat’ning
-1: Threefold
-1: Threw
-1: Throat
-1: Throwing
-1: Throws
-1: Thunder-stone
-1: Thunderbolts
-1: Thunders
-1: Time’s
-1: Tinctures
-1: Tired
-1: Toils
-1: Tokens
-1: Tongue-tied
-1: Tops
-1: Torches
-1: Torchlight
-1: Torrent
-1: Touching
-1: Touchèd
-1: Tower
-1: Towers
-1: Tradesman’s
-1: Train
-1: Trained
-1: Traitor
-1: Transformèd
-1: Treason
-1: Treasure
-1: Trees
-1: Trembled
-1: Trial
-1: Tributaries
-1: Tricks
-1: Triumphs
-1: Trod
-1: Trophies
-1: Troubled
-1: Troy
-1: Trust
-1: Tu
-1: Tune
-1: Turning
-1: Tut
-1: Unaccustomed
-1: Unassailable
-1: Unborn
-1: Undergo
-1: Underlings
-1: Understood
-1: Undeservers
-1: Undone
-1: Unfirm
-1: Ungentle
-1: Ungently
-1: Unicorns
-1: Universal
-1: Unkindest
-1: Unkindly
-1: Unkindness
-1: Unless
-1: Unluckily
-1: Unmeritable
-1: Unnumbered
-1: Unpurgèd
-1: Unscorched
-1: Unshaked
-1: Until
-1: Untired
-1: Untouched
-1: Untrod
-1: Upmost
-1: Upper
-1: Upward
-1: Used
-1: Useth
-1: Utmost
-1: Utter
-1: Uttered
-1: Value
-1: Vanish
-1: Vanishest
-1: Vanishèd
-1: Vanquished
-1: Vaunting
-1: Veiled
-1: Venom
-1: Ventures
-1: Vessel
-1: Vesture
-1: Vexeth
-1: Vexèd
-1: Victory
-1: View
-1: Vilely
-1: Villager
-1: Villain
-1: Visage
-1: Vision
-1: Voices
-1: Void
-1: Voluntary
-1: Vow
-1: Vows
-1: Voyage
-1: Vulgar
-1: Wafture
-1: Wait
-1: Waited
-1: Wake
-1: Wander
-1: Want
-1: Warn
-1: Warning
-1: Warnings
-1: Warriors
-1: Wars
-1: Wary
-1: Wash
-1: Waspish
-1: Waste
-1: Wasted
-1: Watchful
-1: Water
-1: Waves
-1: Waving
-1: Wax
-1: Ways
-1: Weakness
-1: Weapons
-1: Weigh
-1: Weighing
-1: Well-belovèd
-1: Well-reputed
-1: Wenches
-1: Wept
-1: Wert
-1: Whatsoever
-1: Wheels
-1: Whelpèd
-1: Whereof
-1: Where’s
-1: Whet
-1: Whiles
-1: Whisper
-1: Whit
-1: Whizzing
-1: Wholesome
-1: Whom
-1: Wide
-1: Wills
-1: Win
-1: Winds
-1: Winter’s
-1: Withholds
-1: Wives
-1: Woeful
-1: Wolf
-1: Womanish
-1: Woman’s
-1: Women’s
-1: Wonderful
-1: Wonders
-1: Wont
-1: Wood
-1: Workman
-1: Worldly
-1: Worships
-1: Worthier
-1: Worthless
-1: Wounded
-1: Wrangle
-1: Wrath
-1: Wrathfully
-1: Wreath
-1: Wretched
-1: Wring
-1: Writ
-1: Writings
-1: Wrought
-1: Yawned
-1: Ye
-1: Year
-1: Yesternight
-1: Yielded
-1: Yields
-1: Yokèd
-1: Yon
-1: Youthful
-1: Youths
-1: You’ll
-1: You’ve
-1: ’scaped
-1: ’twere
-1: ’twixt
+instances: 592, word: 'And', work: 'JC'},
+instances: 562, word: 'The', work: 'JC'},
+instances: 513, word: 'I', work: 'JC'},
+instances: 413, word: 'To', work: 'JC'},
+instances: 400, word: 'You', work: 'JC'},
+instances: 351, word: 'Of', work: 'JC'},
+instances: 285, word: 'That', work: 'JC'},
+instances: 256, word: 'Not', work: 'JC'},
+instances: 252, word: 'Is', work: 'JC'},
+instances: 244, word: 'A', work: 'JC'},
+instances: 224, word: 'In', work: 'JC'},
+instances: 194, word: 'It', work: 'JC'},
+instances: 192, word: 'He', work: 'JC'},
+instances: 189, word: 'Me', work: 'JC'},
+instances: 189, word: 'My', work: 'JC'},
+instances: 182, word: 'Caesar', work: 'JC'},
+instances: 171, word: 'For', work: 'JC'},
+instances: 166, word: 'This', work: 'JC'},
+instances: 164, word: 'Him', work: 'JC'},
+instances: 164, word: 'Will', work: 'JC'},
+instances: 152, word: 'His', work: 'JC'},
+instances: 150, word: 'Be', work: 'JC'},
+instances: 147, word: 'Have', work: 'JC'},
+instances: 146, word: 'With', work: 'JC'},
+instances: 141, word: 'But', work: 'JC'},
+instances: 139, word: 'So', work: 'JC'},
+instances: 135, word: 'As', work: 'JC'},
+instances: 134, word: 'Brutus', work: 'JC'},
+instances: 133, word: 'Do', work: 'JC'},
+instances: 133, word: 'Your', work: 'JC'},
+instances: 126, word: 'What', work: 'JC'},
+instances: 125, word: 'Shall', work: 'JC'},
+instances: 116, word: 'Thou', work: 'JC'},
+instances: 109, word: 'Are', work: 'JC'},
+instances: 98, word: 'By', work: 'JC'},
+instances: 97, word: 'All', work: 'JC'},
+instances: 96, word: 'We', work: 'JC'},
+instances: 93, word: 'No', work: 'JC'},
+instances: 87, word: 'Our', work: 'JC'},
+instances: 84, word: 'If', work: 'JC'},
+instances: 82, word: 'On', work: 'JC'},
+instances: 75, word: 'Did', work: 'JC'},
+instances: 74, word: 'Come', work: 'JC'},
+instances: 71, word: 'Good', work: 'JC'},
+instances: 70, word: 'Cassius', work: 'JC'},
+instances: 70, word: 'O', work: 'JC'},
+instances: 68, word: 'Know', work: 'JC'},
+instances: 67, word: 'When', work: 'JC'},
+instances: 66, word: 'Was', work: 'JC'},
+instances: 65, word: 'Then', work: 'JC'},
+instances: 64, word: 'Antony', work: 'JC'},
+instances: 64, word: 'Let', work: 'JC'},
+instances: 64, word: 'Men', work: 'JC'},
+instances: 63, word: 'Now', work: 'JC'},
+instances: 63, word: 'They', work: 'JC'},
+instances: 62, word: 'Us', work: 'JC'},
+instances: 61, word: 'Here', work: 'JC'},
+instances: 59, word: 'Their', work: 'JC'},
+instances: 58, word: 'At', work: 'JC'},
+instances: 58, word: 'Them', work: 'JC'},
+instances: 57, word: 'Am', work: 'JC'},
+instances: 56, word: 'Man', work: 'JC'},
+instances: 54, word: 'Thee', work: 'JC'},
+instances: 54, word: 'Thy', work: 'JC'},
+instances: 49, word: 'Well', work: 'JC'},
+instances: 48, word: 'From', work: 'JC'},
+instances: 48, word: 'There', work: 'JC'},
+instances: 48, word: 'Upon', work: 'JC'},
+instances: 47, word: 'Which', work: 'JC'},
+instances: 44, word: 'Go', work: 'JC'},
+instances: 44, word: 'Lord', work: 'JC'},
+instances: 44, word: 'Or', work: 'JC'},
+instances: 44, word: 'Would', work: 'JC'},
+instances: 43, word: 'Why', work: 'JC'},
+instances: 42, word: 'Than', work: 'JC'},
+instances: 42, word: 'Yet', work: 'JC'},
+instances: 41, word: 'Should', work: 'JC'},
+instances: 40, word: 'Some', work: 'JC'},
+instances: 40, word: 'Speak', work: 'JC'},
+instances: 39, word: 'Like', work: 'JC'},
+instances: 39, word: 'Noble', work: 'JC'},
+instances: 39, word: 'These', work: 'JC'},
+instances: 38, word: 'Rome', work: 'JC'},
+instances: 37, word: 'Caesar\'s', work: 'JC'},
+instances: 37, word: 'Hear', work: 'JC'},
+instances: 37, word: 'May', work: 'JC'},
+instances: 37, word: 'Say', work: 'JC'},
+instances: 37, word: 'See', work: 'JC'},
+instances: 37, word: 'Such', work: 'JC'},
+instances: 37, word: 'Tell', work: 'JC'},
+instances: 36, word: 'More', work: 'JC'},
+instances: 36, word: 'Must', work: 'JC'},
+instances: 35, word: 'Give', work: 'JC'},
+instances: 35, word: 'Hath', work: 'JC'},
+instances: 35, word: 'Were', work: 'JC'},
+instances: 34, word: 'An', work: 'JC'},
+instances: 34, word: 'How', work: 'JC'},
+instances: 34, word: 'Love', work: 'JC'},
+instances: 34, word: 'Stand', work: 'JC'},
+instances: 33, word: 'Up', work: 'JC'},
+instances: 32, word: 'Mark', work: 'JC'},
+instances: 32, word: 'One', work: 'JC'},
+instances: 31, word: 'Look', work: 'JC'},
+instances: 30, word: 'Doth', work: 'JC'},
+instances: 30, word: 'Night', work: 'JC'},
+instances: 29, word: 'Death', work: 'JC'},
+instances: 29, word: 'Fear', work: 'JC'},
+instances: 29, word: 'Hand', work: 'JC'},
+instances: 29, word: 'Much', work: 'JC'},
+instances: 29, word: 'Where', work: 'JC'},
+instances: 29, word: 'Who', work: 'JC'},
+instances: 28, word: 'Most', work: 'JC'},
+instances: 28, word: 'Too', work: 'JC'},
+instances: 27, word: 'Had', work: 'JC'},
+instances: 27, word: 'Heart', work: 'JC'},
+instances: 27, word: 'Out', work: 'JC'},
+instances: 26, word: 'Great', work: 'JC'},
+instances: 26, word: 'Make', work: 'JC'},
+instances: 26, word: 'Time', work: 'JC'},
+instances: 25, word: 'Casca', work: 'JC'},
+instances: 25, word: 'Day', work: 'JC'},
+instances: 25, word: 'Every', work: 'JC'},
+instances: 25, word: 'Gods', work: 'JC'},
+instances: 24, word: 'Blood', work: 'JC'},
+instances: 24, word: 'Friends', work: 'JC'},
+instances: 24, word: 'Nor', work: 'JC'},
+instances: 23, word: 'Art', work: 'JC'},
+instances: 23, word: 'Bear', work: 'JC'},
+instances: 23, word: 'Done', work: 'JC'},
+instances: 23, word: 'Down', work: 'JC'},
+instances: 23, word: 'Sir', work: 'JC'},
+instances: 23, word: 'Take', work: 'JC'},
+instances: 23, word: 'Think', work: 'JC'},
+instances: 23, word: '\'tis', work: 'JC'},
+instances: 22, word: 'Forth', work: 'JC'},
+instances: 22, word: 'Friend', work: 'JC'},
+instances: 22, word: 'Till', work: 'JC'},
+instances: 21, word: 'Mine', work: 'JC'},
+instances: 20, word: 'Again', work: 'JC'},
+instances: 20, word: 'Myself', work: 'JC'},
+instances: 20, word: 'Word', work: 'JC'},
+instances: 19, word: 'About', work: 'JC'},
+instances: 19, word: 'Can', work: 'JC'},
+instances: 19, word: 'Fire', work: 'JC'},
+instances: 19, word: 'Leave', work: 'JC'},
+instances: 19, word: 'Off', work: 'JC'},
+instances: 19, word: 'Today', work: 'JC'},
+instances: 18, word: 'Any', work: 'JC'},
+instances: 18, word: 'Away', work: 'JC'},
+instances: 18, word: 'Ay', work: 'JC'},
+instances: 18, word: 'Ho', work: 'JC'},
+instances: 18, word: 'Lucius', work: 'JC'},
+instances: 18, word: 'Messala', work: 'JC'},
+instances: 18, word: 'Octavius', work: 'JC'},
+instances: 18, word: 'True', work: 'JC'},
+instances: 18, word: 'World', work: 'JC'},
+instances: 17, word: 'Bid', work: 'JC'},
+instances: 17, word: 'Capitol', work: 'JC'},
+instances: 17, word: 'Could', work: 'JC'},
+instances: 17, word: 'Die', work: 'JC'},
+instances: 17, word: 'Even', work: 'JC'},
+instances: 17, word: 'Find', work: 'JC'},
+instances: 17, word: 'Made', work: 'JC'},
+instances: 17, word: 'Meet', work: 'JC'},
+instances: 17, word: 'Never', work: 'JC'},
+instances: 17, word: 'Peace', work: 'JC'},
+instances: 17, word: 'Roman', work: 'JC'},
+instances: 17, word: 'Romans', work: 'JC'},
+instances: 17, word: 'Things', work: 'JC'},
+instances: 17, word: 'Titinius', work: 'JC'},
+instances: 17, word: 'Wrong', work: 'JC'},
+instances: 16, word: 'Live', work: 'JC'},
+instances: 16, word: 'Put', work: 'JC'},
+instances: 16, word: 'Run', work: 'JC'},
+instances: 16, word: 'Spirit', work: 'JC'},
+instances: 16, word: 'Stay', work: 'JC'},
+instances: 16, word: 'Thus', work: 'JC'},
+instances: 15, word: 'Better', work: 'JC'},
+instances: 15, word: 'Cause', work: 'JC'},
+instances: 15, word: 'Comes', work: 'JC'},
+instances: 15, word: 'Dead', work: 'JC'},
+instances: 15, word: 'Hands', work: 'JC'},
+instances: 15, word: 'Honorable', work: 'JC'},
+instances: 15, word: 'House', work: 'JC'},
+instances: 15, word: 'Many', work: 'JC'},
+instances: 15, word: 'Name', work: 'JC'},
+instances: 15, word: 'We\'ll', work: 'JC'},
+instances: 14, word: 'Eyes', work: 'JC'},
+instances: 14, word: 'Follow', work: 'JC'},
+instances: 14, word: 'Himself', work: 'JC'},
+instances: 14, word: 'Honor', work: 'JC'},
+instances: 14, word: 'Mighty', work: 'JC'},
+instances: 14, word: 'Once', work: 'JC'},
+instances: 14, word: 'Part', work: 'JC'},
+instances: 14, word: 'Set', work: 'JC'},
+instances: 14, word: 'Unto', work: 'JC'},
+instances: 13, word: 'Back', work: 'JC'},
+instances: 13, word: 'Caius', work: 'JC'},
+instances: 13, word: 'Cinna', work: 'JC'},
+instances: 13, word: 'Else', work: 'JC'},
+instances: 13, word: 'Face', work: 'JC'},
+instances: 13, word: 'Fellow', work: 'JC'},
+instances: 13, word: 'Fly', work: 'JC'},
+instances: 13, word: 'Hast', work: 'JC'},
+instances: 13, word: 'Hold', work: 'JC'},
+instances: 13, word: 'Into', work: 'JC'},
+instances: 13, word: 'I\'ll', work: 'JC'},
+instances: 13, word: 'Might', work: 'JC'},
+instances: 13, word: 'Other', work: 'JC'},
+instances: 13, word: 'Place', work: 'JC'},
+instances: 13, word: 'Read', work: 'JC'},
+instances: 13, word: 'Show', work: 'JC'},
+instances: 13, word: 'Sword', work: 'JC'},
+instances: 13, word: 'Therefore', work: 'JC'},
+instances: 13, word: 'Way', work: 'JC'},
+instances: 12, word: 'Before', work: 'JC'},
+instances: 12, word: 'Best', work: 'JC'},
+instances: 12, word: 'Boy', work: 'JC'},
+instances: 12, word: 'Brother', work: 'JC'},
+instances: 12, word: 'Countrymen', work: 'JC'},
+instances: 12, word: 'Crown', work: 'JC'},
+instances: 12, word: 'Fell', work: 'JC'},
+instances: 12, word: 'Hence', work: 'JC'},
+instances: 12, word: 'Home', work: 'JC'},
+instances: 12, word: 'Life', work: 'JC'},
+instances: 12, word: 'Mean', work: 'JC'},
+instances: 12, word: 'Very', work: 'JC'},
+instances: 12, word: 'Words', work: 'JC'},
+instances: 11, word: 'Answer', work: 'JC'},
+instances: 11, word: 'Bears', work: 'JC'},
+instances: 11, word: 'Body', work: 'JC'},
+instances: 11, word: 'Ever', work: 'JC'},
+instances: 11, word: 'Fall', work: 'JC'},
+instances: 11, word: 'Farewell', work: 'JC'},
+instances: 11, word: 'First', work: 'JC'},
+instances: 11, word: 'Get', work: 'JC'},
+instances: 11, word: 'Hearts', work: 'JC'},
+instances: 11, word: 'Her', work: 'JC'},
+instances: 11, word: 'Indeed', work: 'JC'},
+instances: 11, word: 'Master', work: 'JC'},
+instances: 11, word: 'Own', work: 'JC'},
+instances: 11, word: 'Philippi', work: 'JC'},
+instances: 11, word: 'Send', work: 'JC'},
+instances: 11, word: 'Sick', work: 'JC'},
+instances: 11, word: 'Streets', work: 'JC'},
+instances: 10, word: 'Been', work: 'JC'},
+instances: 10, word: 'Being', work: 'JC'},
+instances: 10, word: 'Bloody', work: 'JC'},
+instances: 10, word: 'Bring', work: 'JC'},
+instances: 10, word: 'Brutus\'', work: 'JC'},
+instances: 10, word: 'Cimber', work: 'JC'},
+instances: 10, word: 'Dost', work: 'JC'},
+instances: 10, word: 'Enemy', work: 'JC'},
+instances: 10, word: 'Full', work: 'JC'},
+instances: 10, word: 'General', work: 'JC'},
+instances: 10, word: 'Gentle', work: 'JC'},
+instances: 10, word: 'Gone', work: 'JC'},
+instances: 10, word: 'Keep', work: 'JC'},
+instances: 10, word: 'March', work: 'JC'},
+instances: 10, word: 'Matter', work: 'JC'},
+instances: 10, word: 'Metellus', work: 'JC'},
+instances: 10, word: 'Nothing', work: 'JC'},
+instances: 10, word: 'Pardon', work: 'JC'},
+instances: 10, word: 'People', work: 'JC'},
+instances: 10, word: 'Poor', work: 'JC'},
+instances: 10, word: 'Rest', work: 'JC'},
+instances: 10, word: 'Said', work: 'JC'},
+instances: 10, word: 'Strong', work: 'JC'},
+instances: 10, word: 'Sure', work: 'JC'},
+instances: 10, word: 'Two', work: 'JC'},
+instances: 10, word: 'Use', work: 'JC'},
+instances: 10, word: 'Within', work: 'JC'},
+instances: 10, word: 'Yours', work: 'JC'},
+instances: 10, word: 'Yourself', work: 'JC'},
+instances: 9, word: 'After', work: 'JC'},
+instances: 9, word: 'Alas', work: 'JC'},
+instances: 9, word: 'Anything', work: 'JC'},
+instances: 9, word: 'Awake', work: 'JC'},
+instances: 9, word: 'Common', work: 'JC'},
+instances: 9, word: 'Cry', work: 'JC'},
+instances: 9, word: 'Directly', work: 'JC'},
+instances: 9, word: 'Enough', work: 'JC'},
+instances: 9, word: 'Lie', work: 'JC'},
+instances: 9, word: 'Means', work: 'JC'},
+instances: 9, word: 'Moved', work: 'JC'},
+instances: 9, word: 'Only', work: 'JC'},
+instances: 9, word: 'Pindarus', work: 'JC'},
+instances: 9, word: 'Portia', work: 'JC'},
+instances: 9, word: 'Publius', work: 'JC'},
+instances: 9, word: 'Says', work: 'JC'},
+instances: 9, word: 'Seek', work: 'JC'},
+instances: 9, word: 'Seen', work: 'JC'},
+instances: 9, word: 'Sleep', work: 'JC'},
+instances: 9, word: 'Still', work: 'JC'},
+instances: 9, word: 'Those', work: 'JC'},
+instances: 9, word: 'Tonight', work: 'JC'},
+instances: 9, word: 'Under', work: 'JC'},
+instances: 9, word: 'Work', work: 'JC'},
+instances: 9, word: 'Worthy', work: 'JC'},
+instances: 9, word: 'Young', work: 'JC'},
+instances: 8, word: 'Against', work: 'JC'},
+instances: 8, word: 'Along', work: 'JC'},
+instances: 8, word: 'Ambitious', work: 'JC'},
+instances: 8, word: 'Appear', work: 'JC'},
+instances: 8, word: 'Bad', work: 'JC'},
+instances: 8, word: 'Change', work: 'JC'},
+instances: 8, word: 'Cicero', work: 'JC'},
+instances: 8, word: 'Dear', work: 'JC'},
+instances: 8, word: 'Decius', work: 'JC'},
+instances: 8, word: 'Deed', work: 'JC'},
+instances: 8, word: 'Didst', work: 'JC'},
+instances: 8, word: 'Hard', work: 'JC'},
+instances: 8, word: 'Hark', work: 'JC'},
+instances: 8, word: 'Heard', work: 'JC'},
+instances: 8, word: 'Hour', work: 'JC'},
+instances: 8, word: 'Humor', work: 'JC'},
+instances: 8, word: 'Last', work: 'JC'},
+instances: 8, word: 'Loves', work: 'JC'},
+instances: 8, word: 'Lucilius', work: 'JC'},
+instances: 8, word: 'Mind', work: 'JC'},
+instances: 8, word: 'Morrow', work: 'JC'},
+instances: 8, word: 'None', work: 'JC'},
+instances: 8, word: 'Old', work: 'JC'},
+instances: 8, word: 'Please', work: 'JC'},
+instances: 8, word: 'Rather', work: 'JC'},
+instances: 8, word: 'Reasons', work: 'JC'},
+instances: 8, word: 'Remember', work: 'JC'},
+instances: 8, word: 'Saw', work: 'JC'},
+instances: 8, word: 'Stir', work: 'JC'},
+instances: 8, word: 'Talk', work: 'JC'},
+instances: 8, word: 'Tent', work: 'JC'},
+instances: 8, word: 'Tongue', work: 'JC'},
+instances: 8, word: 'Truly', work: 'JC'},
+instances: 8, word: 'Turn', work: 'JC'},
+instances: 8, word: 'Vile', work: 'JC'},
+instances: 8, word: 'Walk', work: 'JC'},
+instances: 8, word: 'Welcome', work: 'JC'},
+instances: 7, word: 'Battle', work: 'JC'},
+instances: 7, word: 'Bed', work: 'JC'},
+instances: 7, word: 'Both', work: 'JC'},
+instances: 7, word: 'Came', work: 'JC'},
+instances: 7, word: 'Cannot', work: 'JC'},
+instances: 7, word: 'Dangerous', work: 'JC'},
+instances: 7, word: 'Durst', work: 'JC'},
+instances: 7, word: 'End', work: 'JC'},
+instances: 7, word: 'Endure', work: 'JC'},
+instances: 7, word: 'Enterprise', work: 'JC'},
+instances: 7, word: 'Far', work: 'JC'},
+instances: 7, word: 'Fashion', work: 'JC'},
+instances: 7, word: 'Ides', work: 'JC'},
+instances: 7, word: 'Kill', work: 'JC'},
+instances: 7, word: 'Lead', work: 'JC'},
+instances: 7, word: 'Letters', work: 'JC'},
+instances: 7, word: 'Let\'s', work: 'JC'},
+instances: 7, word: 'Lies', work: 'JC'},
+instances: 7, word: 'Offered', work: 'JC'},
+instances: 7, word: 'Over', work: 'JC'},
+instances: 7, word: 'Pray', work: 'JC'},
+instances: 7, word: 'Reason', work: 'JC'},
+instances: 7, word: 'Respect', work: 'JC'},
+instances: 7, word: 'Senate', work: 'JC'},
+instances: 7, word: 'Senators', work: 'JC'},
+instances: 7, word: 'Shake', work: 'JC'},
+instances: 7, word: 'She', work: 'JC'},
+instances: 7, word: 'Son', work: 'JC'},
+instances: 7, word: 'Spirits', work: 'JC'},
+instances: 7, word: 'Strange', work: 'JC'},
+instances: 7, word: 'Strato', work: 'JC'},
+instances: 7, word: 'Thing', work: 'JC'},
+instances: 7, word: 'Thought', work: 'JC'},
+instances: 7, word: 'Three', work: 'JC'},
+instances: 7, word: 'Tomorrow', work: 'JC'},
+instances: 7, word: 'Trebonius', work: 'JC'},
+instances: 7, word: 'Whilst', work: 'JC'},
+instances: 7, word: 'Wife', work: 'JC'},
+instances: 7, word: '\'t', work: 'JC'},
+instances: 6, word: 'Alone', work: 'JC'},
+instances: 6, word: 'Another', work: 'JC'},
+instances: 6, word: 'Base', work: 'JC'},
+instances: 6, word: 'Believe', work: 'JC'},
+instances: 6, word: 'Break', work: 'JC'},
+instances: 6, word: 'Call', work: 'JC'},
+instances: 6, word: 'Calphurnia', work: 'JC'},
+instances: 6, word: 'Cold', work: 'JC'},
+instances: 6, word: 'Cut', work: 'JC'},
+instances: 6, word: 'Enemies', work: 'JC'},
+instances: 6, word: 'Ere', work: 'JC'},
+instances: 6, word: 'Eye', work: 'JC'},
+instances: 6, word: 'Fare', work: 'JC'},
+instances: 6, word: 'Fetch', work: 'JC'},
+instances: 6, word: 'Field', work: 'JC'},
+instances: 6, word: 'Fit', work: 'JC'},
+instances: 6, word: 'Found', work: 'JC'},
+instances: 6, word: 'Funeral', work: 'JC'},
+instances: 6, word: 'Further', work: 'JC'},
+instances: 6, word: 'Going', work: 'JC'},
+instances: 6, word: 'Gold', work: 'JC'},
+instances: 6, word: 'Hide', work: 'JC'},
+instances: 6, word: 'High', work: 'JC'},
+instances: 6, word: 'Hither', work: 'JC'},
+instances: 6, word: 'Left', work: 'JC'},
+instances: 6, word: 'Ligarius', work: 'JC'},
+instances: 6, word: 'Looks', work: 'JC'},
+instances: 6, word: 'Loved', work: 'JC'},
+instances: 6, word: 'Nay', work: 'JC'},
+instances: 6, word: 'Near', work: 'JC'},
+instances: 6, word: 'Pass', work: 'JC'},
+instances: 6, word: 'Patience', work: 'JC'},
+instances: 6, word: 'Point', work: 'JC'},
+instances: 6, word: 'Pompey\'s', work: 'JC'},
+instances: 6, word: 'Power', work: 'JC'},
+instances: 6, word: 'Redress', work: 'JC'},
+instances: 6, word: 'Right', work: 'JC'},
+instances: 6, word: 'Same', work: 'JC'},
+instances: 6, word: 'Satisfied', work: 'JC'},
+instances: 6, word: 'Since', work: 'JC'},
+instances: 6, word: 'Spoke', work: 'JC'},
+instances: 6, word: 'Ta\'en', work: 'JC'},
+instances: 6, word: 'Themselves', work: 'JC'},
+instances: 6, word: 'There\'s', work: 'JC'},
+instances: 6, word: 'Though', work: 'JC'},
+instances: 6, word: 'Thrice', work: 'JC'},
+instances: 6, word: 'Through', work: 'JC'},
+instances: 6, word: 'Th\'', work: 'JC'},
+instances: 6, word: 'Together', work: 'JC'},
+instances: 6, word: 'Trade', work: 'JC'},
+instances: 6, word: 'Traitors', work: 'JC'},
+instances: 6, word: 'Valiant', work: 'JC'},
+instances: 6, word: 'Virtue', work: 'JC'},
+instances: 6, word: 'Voice', work: 'JC'},
+instances: 6, word: 'Volumnius', work: 'JC'},
+instances: 6, word: 'Weak', work: 'JC'},
+instances: 6, word: 'Weep', work: 'JC'},
+instances: 6, word: 'Went', work: 'JC'},
+instances: 6, word: 'Wherefore', work: 'JC'},
+instances: 6, word: 'Wilt', work: 'JC'},
+instances: 6, word: 'Wish', work: 'JC'},
+instances: 6, word: 'Yes', work: 'JC'},
+instances: 6, word: 'Yourselves', work: 'JC'},
+instances: 6, word: '\'em', work: 'JC'},
+instances: 5, word: 'Age', work: 'JC'},
+instances: 5, word: 'Alive', work: 'JC'},
+instances: 5, word: 'Angry', work: 'JC'},
+instances: 5, word: 'Awhile', work: 'JC'},
+instances: 5, word: 'Besides', work: 'JC'},
+instances: 5, word: 'Blame', work: 'JC'},
+instances: 5, word: 'Bondman', work: 'JC'},
+instances: 5, word: 'Brave', work: 'JC'},
+instances: 5, word: 'Brought', work: 'JC'},
+instances: 5, word: 'Burn', work: 'JC'},
+instances: 5, word: 'Cassius\'', work: 'JC'},
+instances: 5, word: 'Cato', work: 'JC'},
+instances: 5, word: 'Certain', work: 'JC'},
+instances: 5, word: 'Claudius', work: 'JC'},
+instances: 5, word: 'Clouds', work: 'JC'},
+instances: 5, word: 'Cried', work: 'JC'},
+instances: 5, word: 'Dagger', work: 'JC'},
+instances: 5, word: 'Days', work: 'JC'},
+instances: 5, word: 'Ears', work: 'JC'},
+instances: 5, word: 'Earth', work: 'JC'},
+instances: 5, word: 'Forever', work: 'JC'},
+instances: 5, word: 'Free', work: 'JC'},
+instances: 5, word: 'Gave', work: 'JC'},
+instances: 5, word: 'Grant', work: 'JC'},
+instances: 5, word: 'Grief', work: 'JC'},
+instances: 5, word: 'Griefs', work: 'JC'},
+instances: 5, word: 'Ha', work: 'JC'},
+instances: 5, word: 'Head', work: 'JC'},
+instances: 5, word: 'Heaven', work: 'JC'},
+instances: 5, word: 'Heavens', work: 'JC'},
+instances: 5, word: 'He\'s', work: 'JC'},
+instances: 5, word: 'Honest', work: 'JC'},
+instances: 5, word: 'Honors', work: 'JC'},
+instances: 5, word: 'Ill', work: 'JC'},
+instances: 5, word: 'Instrument', work: 'JC'},
+instances: 5, word: 'Lepidus', work: 'JC'},
+instances: 5, word: 'Lest', work: 'JC'},
+instances: 5, word: 'Little', work: 'JC'},
+instances: 5, word: 'Long', work: 'JC'},
+instances: 5, word: 'Madam', work: 'JC'},
+instances: 5, word: 'Marcus', work: 'JC'},
+instances: 5, word: 'Marketplace', work: 'JC'},
+instances: 5, word: 'Mettle', work: 'JC'},
+instances: 5, word: 'Mutiny', work: 'JC'},
+instances: 5, word: 'Nature', work: 'JC'},
+instances: 5, word: 'Need', work: 'JC'},
+instances: 5, word: 'Note', work: 'JC'},
+instances: 5, word: 'Offended', work: 'JC'},
+instances: 5, word: 'Opinion', work: 'JC'},
+instances: 5, word: 'Ourselves', work: 'JC'},
+instances: 5, word: 'Perceive', work: 'JC'},
+instances: 5, word: 'Pity', work: 'JC'},
+instances: 5, word: 'Prepare', work: 'JC'},
+instances: 5, word: 'Press', work: 'JC'},
+instances: 5, word: 'Resolved', work: 'JC'},
+instances: 5, word: 'Ride', work: 'JC'},
+instances: 5, word: 'Room', work: 'JC'},
+instances: 5, word: 'Seem', work: 'JC'},
+instances: 5, word: 'Several', work: 'JC'},
+instances: 5, word: 'Sickness', work: 'JC'},
+instances: 5, word: 'Side', work: 'JC'},
+instances: 5, word: 'Sirrah', work: 'JC'},
+instances: 5, word: 'Smile', work: 'JC'},
+instances: 5, word: 'Soldier', work: 'JC'},
+instances: 5, word: 'Speaks', work: 'JC'},
+instances: 5, word: 'Speech', work: 'JC'},
+instances: 5, word: 'State', work: 'JC'},
+instances: 5, word: 'Statue', work: 'JC'},
+instances: 5, word: 'Suit', work: 'JC'},
+instances: 5, word: 'Tear', work: 'JC'},
+instances: 5, word: 'Tiber', work: 'JC'},
+instances: 5, word: 'Times', work: 'JC'},
+instances: 5, word: 'Took', work: 'JC'},
+instances: 5, word: 'Wherein', work: 'JC'},
+instances: 5, word: 'While', work: 'JC'},
+instances: 5, word: 'Whose', work: 'JC'},
+instances: 5, word: 'Without', work: 'JC'},
+instances: 5, word: 'Woman', work: 'JC'},
+instances: 5, word: 'Worth', work: 'JC'},
+instances: 5, word: 'Wounds', work: 'JC'},
+instances: 4, word: 'Air', work: 'JC'},
+instances: 4, word: 'Almost', work: 'JC'},
+instances: 4, word: 'Already', work: 'JC'},
+instances: 4, word: 'Ambition', work: 'JC'},
+instances: 4, word: 'Answered', work: 'JC'},
+instances: 4, word: 'Antonius', work: 'JC'},
+instances: 4, word: 'Arms', work: 'JC'},
+instances: 4, word: 'Bade', work: 'JC'},
+instances: 4, word: 'Beg', work: 'JC'},
+instances: 4, word: 'Begin', work: 'JC'},
+instances: 4, word: 'Behold', work: 'JC'},
+instances: 4, word: 'Beware', work: 'JC'},
+instances: 4, word: 'Briefly', work: 'JC'},
+instances: 4, word: 'Business', work: 'JC'},
+instances: 4, word: 'Called', work: 'JC'},
+instances: 4, word: 'Ceremonies', work: 'JC'},
+instances: 4, word: 'Chanced', work: 'JC'},
+instances: 4, word: 'Clitus', work: 'JC'},
+instances: 4, word: 'Constant', work: 'JC'},
+instances: 4, word: 'Corpse', work: 'JC'},
+instances: 4, word: 'Country', work: 'JC'},
+instances: 4, word: 'Course', work: 'JC'},
+instances: 4, word: 'Coward', work: 'JC'},
+instances: 4, word: 'Dare', work: 'JC'},
+instances: 4, word: 'Deeds', work: 'JC'},
+instances: 4, word: 'Denied', work: 'JC'},
+instances: 4, word: 'Depart', work: 'JC'},
+instances: 4, word: 'Does', work: 'JC'},
+instances: 4, word: 'Doubt', work: 'JC'},
+instances: 4, word: 'Dreadful', work: 'JC'},
+instances: 4, word: 'Dream', work: 'JC'},
+instances: 4, word: 'Dwell', work: 'JC'},
+instances: 4, word: 'Ear', work: 'JC'},
+instances: 4, word: 'Fast', work: 'JC'},
+instances: 4, word: 'Fault', work: 'JC'},
+instances: 4, word: 'Faults', work: 'JC'},
+instances: 4, word: 'Fearful', work: 'JC'},
+instances: 4, word: 'Feeble', work: 'JC'},
+instances: 4, word: 'Flatterers', work: 'JC'},
+instances: 4, word: 'Flood', work: 'JC'},
+instances: 4, word: 'Fools', work: 'JC'},
+instances: 4, word: 'Foot', work: 'JC'},
+instances: 4, word: 'Fortune', work: 'JC'},
+instances: 4, word: 'Freedom', work: 'JC'},
+instances: 4, word: 'Generals', work: 'JC'},
+instances: 4, word: 'Given', work: 'JC'},
+instances: 4, word: 'Gives', work: 'JC'},
+instances: 4, word: 'Glad', work: 'JC'},
+instances: 4, word: 'Grace', work: 'JC'},
+instances: 4, word: 'Ground', work: 'JC'},
+instances: 4, word: 'Grown', work: 'JC'},
+instances: 4, word: 'Half', work: 'JC'},
+instances: 4, word: 'Haste', work: 'JC'},
+instances: 4, word: 'Heads', work: 'JC'},
+instances: 4, word: 'Health', work: 'JC'},
+instances: 4, word: 'Held', work: 'JC'},
+instances: 4, word: 'Kind', work: 'JC'},
+instances: 4, word: 'King', work: 'JC'},
+instances: 4, word: 'Knave', work: 'JC'},
+instances: 4, word: 'Known', work: 'JC'},
+instances: 4, word: 'Lay', work: 'JC'},
+instances: 4, word: 'Legions', work: 'JC'},
+instances: 4, word: 'Less', work: 'JC'},
+instances: 4, word: 'Liberty', work: 'JC'},
+instances: 4, word: 'Light', work: 'JC'},
+instances: 4, word: 'Living', work: 'JC'},
+instances: 4, word: 'Lose', work: 'JC'},
+instances: 4, word: 'Masters', work: 'JC'},
+instances: 4, word: 'Minds', work: 'JC'},
+instances: 4, word: 'Monstrous', work: 'JC'},
+instances: 4, word: 'Morning', work: 'JC'},
+instances: 4, word: 'Move', work: 'JC'},
+instances: 4, word: 'News', work: 'JC'},
+instances: 4, word: 'Noise', work: 'JC'},
+instances: 4, word: 'Number', work: 'JC'},
+instances: 4, word: 'Oath', work: 'JC'},
+instances: 4, word: 'Offense', work: 'JC'},
+instances: 4, word: 'Patient', work: 'JC'},
+instances: 4, word: 'Pleasure', work: 'JC'},
+instances: 4, word: 'Pluck', work: 'JC'},
+instances: 4, word: 'Plucked', work: 'JC'},
+instances: 4, word: 'Pompey', work: 'JC'},
+instances: 4, word: 'Present', work: 'JC'},
+instances: 4, word: 'Presently', work: 'JC'},
+instances: 4, word: 'Prevent', work: 'JC'},
+instances: 4, word: 'Prithee', work: 'JC'},
+instances: 4, word: 'Pulpit', work: 'JC'},
+instances: 4, word: 'Purpose', work: 'JC'},
+instances: 4, word: 'Quality', work: 'JC'},
+instances: 4, word: 'Quite', work: 'JC'},
+instances: 4, word: 'Ready', work: 'JC'},
+instances: 4, word: 'Red', work: 'JC'},
+instances: 4, word: 'Revenge', work: 'JC'},
+instances: 4, word: 'Round', work: 'JC'},
+instances: 4, word: 'Sad', work: 'JC'},
+instances: 4, word: 'Safe', work: 'JC'},
+instances: 4, word: 'Sake', work: 'JC'},
+instances: 4, word: 'Shalt', work: 'JC'},
+instances: 4, word: 'Sight', work: 'JC'},
+instances: 4, word: 'Sign', work: 'JC'},
+instances: 4, word: 'Sirs', work: 'JC'},
+instances: 4, word: 'Sit', work: 'JC'},
+instances: 4, word: 'Smiles', work: 'JC'},
+instances: 4, word: 'Souls', work: 'JC'},
+instances: 4, word: 'Sound', work: 'JC'},
+instances: 4, word: 'Speed', work: 'JC'},
+instances: 4, word: 'Straight', work: 'JC'},
+instances: 4, word: 'Strike', work: 'JC'},
+instances: 4, word: 'Struck', work: 'JC'},
+instances: 4, word: 'Swords', work: 'JC'},
+instances: 4, word: 'Taken', work: 'JC'},
+instances: 4, word: 'Taper', work: 'JC'},
+instances: 4, word: 'Tears', work: 'JC'},
+instances: 4, word: 'Teeth', work: 'JC'},
+instances: 4, word: 'Tempt', work: 'JC'},
+instances: 4, word: 'That\'s', work: 'JC'},
+instances: 4, word: 'Thine', work: 'JC'},
+instances: 4, word: 'Thoughts', work: 'JC'},
+instances: 4, word: 'Triumph', work: 'JC'},
+instances: 4, word: 'Villains', work: 'JC'},
+instances: 4, word: 'War', work: 'JC'},
+instances: 4, word: 'Wear', work: 'JC'},
+instances: 4, word: 'Wind', work: 'JC'},
+instances: 4, word: 'Wine', work: 'JC'},
+instances: 4, word: 'Wise', work: 'JC'},
+instances: 4, word: 'Wisely', work: 'JC'},
+instances: 4, word: 'Withal', work: 'JC'},
+instances: 4, word: 'Worse', work: 'JC'},
+instances: 4, word: 'Write', work: 'JC'},
+instances: 4, word: 'Yea', work: 'JC'},
+instances: 4, word: 'Years', work: 'JC'},
+instances: 3, word: 'According', work: 'JC'},
+instances: 3, word: 'Advantage', work: 'JC'},
+instances: 3, word: 'Affairs', work: 'JC'},
+instances: 3, word: 'Amiss', work: 'JC'},
+instances: 3, word: 'Ancestors', work: 'JC'},
+instances: 3, word: 'Apt', work: 'JC'},
+instances: 3, word: 'Awe', work: 'JC'},
+instances: 3, word: 'Bachelor', work: 'JC'},
+instances: 3, word: 'Because', work: 'JC'},
+instances: 3, word: 'Become', work: 'JC'},
+instances: 3, word: 'Bend', work: 'JC'},
+instances: 3, word: 'Beseech', work: 'JC'},
+instances: 3, word: 'Bleed', work: 'JC'},
+instances: 3, word: 'Bold', work: 'JC'},
+instances: 3, word: 'Bones', work: 'JC'},
+instances: 3, word: 'Born', work: 'JC'},
+instances: 3, word: 'Bosom', work: 'JC'},
+instances: 3, word: 'Breast', work: 'JC'},
+instances: 3, word: 'Brings', work: 'JC'},
+instances: 3, word: 'Brow', work: 'JC'},
+instances: 3, word: 'Buried', work: 'JC'},
+instances: 3, word: 'Calls', work: 'JC'},
+instances: 3, word: 'Charge', work: 'JC'},
+instances: 3, word: 'Children', work: 'JC'},
+instances: 3, word: 'Close', work: 'JC'},
+instances: 3, word: 'Coming', work: 'JC'},
+instances: 3, word: 'Commend', work: 'JC'},
+instances: 3, word: 'Condition', work: 'JC'},
+instances: 3, word: 'Conference', work: 'JC'},
+instances: 3, word: 'Conquest', work: 'JC'},
+instances: 3, word: 'Consent', work: 'JC'},
+instances: 3, word: 'Consider', work: 'JC'},
+instances: 3, word: 'Conspiracy', work: 'JC'},
+instances: 3, word: 'Conspirators', work: 'JC'},
+instances: 3, word: 'Constancy', work: 'JC'},
+instances: 3, word: 'Construe', work: 'JC'},
+instances: 3, word: 'Content', work: 'JC'},
+instances: 3, word: 'Cowards', work: 'JC'},
+instances: 3, word: 'Cross', work: 'JC'},
+instances: 3, word: 'Crowned', work: 'JC'},
+instances: 3, word: 'Cruel', work: 'JC'},
+instances: 3, word: 'Danger', work: 'JC'},
+instances: 3, word: 'Dangers', work: 'JC'},
+instances: 3, word: 'Desire', work: 'JC'},
+instances: 3, word: 'Died', work: 'JC'},
+instances: 3, word: 'Drop', work: 'JC'},
+instances: 3, word: 'Drops', work: 'JC'},
+instances: 3, word: 'Dying', work: 'JC'},
+instances: 3, word: 'Early', work: 'JC'},
+instances: 3, word: 'Either', work: 'JC'},
+instances: 3, word: 'Entreat', work: 'JC'},
+instances: 3, word: 'Everything', work: 'JC'},
+instances: 3, word: 'Evils', work: 'JC'},
+instances: 3, word: 'Fates', work: 'JC'},
+instances: 3, word: 'Favor', work: 'JC'},
+instances: 3, word: 'Fearing', work: 'JC'},
+instances: 3, word: 'Fiery', work: 'JC'},
+instances: 3, word: 'Fight', work: 'JC'},
+instances: 3, word: 'Fingers', work: 'JC'},
+instances: 3, word: 'Fled', work: 'JC'},
+instances: 3, word: 'Forget', work: 'JC'},
+instances: 3, word: 'Form', work: 'JC'},
+instances: 3, word: 'Friendly', work: 'JC'},
+instances: 3, word: 'Gentlemen', work: 'JC'},
+instances: 3, word: 'Glories', work: 'JC'},
+instances: 3, word: 'God', work: 'JC'},
+instances: 3, word: 'Goes', work: 'JC'},
+instances: 3, word: 'Gown', work: 'JC'},
+instances: 3, word: 'Graves', work: 'JC'},
+instances: 3, word: 'Greater', work: 'JC'},
+instances: 3, word: 'Groan', work: 'JC'},
+instances: 3, word: 'Hail', work: 'JC'},
+instances: 3, word: 'Happy', work: 'JC'},
+instances: 3, word: 'Has', work: 'JC'},
+instances: 3, word: 'Heavy', work: 'JC'},
+instances: 3, word: 'Here\'s', work: 'JC'},
+instances: 3, word: 'Hie', work: 'JC'},
+instances: 3, word: 'Hill', work: 'JC'},
+instances: 3, word: 'Holiday', work: 'JC'},
+instances: 3, word: 'Honesty', work: 'JC'},
+instances: 3, word: 'Honored', work: 'JC'},
+instances: 3, word: 'Hope', work: 'JC'},
+instances: 3, word: 'Horse', work: 'JC'},
+instances: 3, word: 'Hot', work: 'JC'},
+instances: 3, word: 'Huge', work: 'JC'},
+instances: 3, word: 'Hundred', work: 'JC'},
+instances: 3, word: 'Idle', work: 'JC'},
+instances: 3, word: 'Images', work: 'JC'},
+instances: 3, word: 'Immortal', work: 'JC'},
+instances: 3, word: 'Itself', work: 'JC'},
+instances: 3, word: 'Joy', work: 'JC'},
+instances: 3, word: 'Judge', work: 'JC'},
+instances: 3, word: 'Julius', work: 'JC'},
+instances: 3, word: 'Kiss', work: 'JC'},
+instances: 3, word: 'Kneel', work: 'JC'},
+instances: 3, word: 'Knew', work: 'JC'},
+instances: 3, word: 'Knocks', work: 'JC'},
+instances: 3, word: 'Knows', work: 'JC'},
+instances: 3, word: 'Lady', work: 'JC'},
+instances: 3, word: 'Late', work: 'JC'},
+instances: 3, word: 'Laughter', work: 'JC'},
+instances: 3, word: 'Leads', work: 'JC'},
+instances: 3, word: 'Led', work: 'JC'},
+instances: 3, word: 'Limbs', work: 'JC'},
+instances: 3, word: 'Lion', work: 'JC'},
+instances: 3, word: 'Lips', work: 'JC'},
+instances: 3, word: 'Makes', work: 'JC'},
+instances: 3, word: 'Manner', work: 'JC'},
+instances: 3, word: 'Man\'s', work: 'JC'},
+instances: 3, word: 'Marry', work: 'JC'},
+instances: 3, word: 'Matters', work: 'JC'},
+instances: 3, word: 'Mother', work: 'JC'},
+instances: 3, word: 'Motion', work: 'JC'},
+instances: 3, word: 'Mouth', work: 'JC'},
+instances: 3, word: 'Music', work: 'JC'},
+instances: 3, word: 'Neither', work: 'JC'},
+instances: 3, word: 'New', work: 'JC'},
+instances: 3, word: 'Ne\'er', work: 'JC'},
+instances: 3, word: 'Noblest', work: 'JC'},
+instances: 3, word: 'Oft', work: 'JC'},
+instances: 3, word: 'Order', work: 'JC'},
+instances: 3, word: 'Ordinary', work: 'JC'},
+instances: 3, word: 'O\'clock', work: 'JC'},
+instances: 3, word: 'Palm', work: 'JC'},
+instances: 3, word: 'Parts', work: 'JC'},
+instances: 3, word: 'Permission', work: 'JC'},
+instances: 3, word: 'Piece', work: 'JC'},
+instances: 3, word: 'Popilius', work: 'JC'},
+instances: 3, word: 'Powers', work: 'JC'},
+instances: 3, word: 'Pricked', work: 'JC'},
+instances: 3, word: 'Private', work: 'JC'},
+instances: 3, word: 'Promise', work: 'JC'},
+instances: 3, word: 'Proof', work: 'JC'},
+instances: 3, word: 'Proper', work: 'JC'},
+instances: 3, word: 'Proscription', work: 'JC'},
+instances: 3, word: 'Public', work: 'JC'},
+instances: 3, word: 'Question', work: 'JC'},
+instances: 3, word: 'Rage', work: 'JC'},
+instances: 3, word: 'Ran', work: 'JC'},
+instances: 3, word: 'Receive', work: 'JC'},
+instances: 3, word: 'Refused', work: 'JC'},
+instances: 3, word: 'Regard', work: 'JC'},
+instances: 3, word: 'Rejoice', work: 'JC'},
+instances: 3, word: 'Rise', work: 'JC'},
+instances: 3, word: 'Sardis', work: 'JC'},
+instances: 3, word: 'Saucy', work: 'JC'},
+instances: 3, word: 'Save', work: 'JC'},
+instances: 3, word: 'Second', work: 'JC'},
+instances: 3, word: 'Secrets', work: 'JC'},
+instances: 3, word: 'Self', work: 'JC'},
+instances: 3, word: 'Shame', work: 'JC'},
+instances: 3, word: 'Shores', work: 'JC'},
+instances: 3, word: 'Shout', work: 'JC'},
+instances: 3, word: 'Silence', work: 'JC'},
+instances: 3, word: 'Sink', work: 'JC'},
+instances: 3, word: 'Sleep\'st', work: 'JC'},
+instances: 3, word: 'Slew', work: 'JC'},
+instances: 3, word: 'Soon', work: 'JC'},
+instances: 3, word: 'Sort', work: 'JC'},
+instances: 3, word: 'Soul', work: 'JC'},
+instances: 3, word: 'Spur', work: 'JC'},
+instances: 3, word: 'Stabbed', work: 'JC'},
+instances: 3, word: 'Stare', work: 'JC'},
+instances: 3, word: 'Steel', work: 'JC'},
+instances: 3, word: 'Stones', work: 'JC'},
+instances: 3, word: 'Stood', work: 'JC'},
+instances: 3, word: 'Stoop', work: 'JC'},
+instances: 3, word: 'Street', work: 'JC'},
+instances: 3, word: 'Success', work: 'JC'},
+instances: 3, word: 'Sudden', work: 'JC'},
+instances: 3, word: 'Sun', work: 'JC'},
+instances: 3, word: 'Swear', work: 'JC'},
+instances: 3, word: 'Sweet', work: 'JC'},
+instances: 3, word: 'Taste', work: 'JC'},
+instances: 3, word: 'Thank', work: 'JC'},
+instances: 3, word: 'Therein', work: 'JC'},
+instances: 3, word: 'Thinking', work: 'JC'},
+instances: 3, word: 'Tidings', work: 'JC'},
+instances: 3, word: 'Told', work: 'JC'},
+instances: 3, word: 'Toward', work: 'JC'},
+instances: 3, word: 'Traitors\'', work: 'JC'},
+instances: 3, word: 'Trash', work: 'JC'},
+instances: 3, word: 'Trouble', work: 'JC'},
+instances: 3, word: 'Truth', work: 'JC'},
+instances: 3, word: 'Turned', work: 'JC'},
+instances: 3, word: 'Turns', work: 'JC'},
+instances: 3, word: 'Tyranny', work: 'JC'},
+instances: 3, word: 'Urge', work: 'JC'},
+instances: 3, word: 'Visit', work: 'JC'},
+instances: 3, word: 'Walks', work: 'JC'},
+instances: 3, word: 'What\'s', work: 'JC'},
+instances: 3, word: 'Whether', work: 'JC'},
+instances: 3, word: 'Whe\'er', work: 'JC'},
+instances: 3, word: 'Who\'s', work: 'JC'},
+instances: 3, word: 'Windows', work: 'JC'},
+instances: 3, word: 'Wisdom', work: 'JC'},
+instances: 3, word: 'Women', work: 'JC'},
+instances: 3, word: 'Wronged', work: 'JC'},
+instances: 3, word: 'Yield', work: 'JC'},
+instances: 3, word: 'Yonder', work: 'JC'},
+instances: 3, word: '\'s', work: 'JC'},
+instances: 3, word: '\'twas', work: 'JC'},
+instances: 2, word: 'A-nights', work: 'JC'},
+instances: 2, word: 'Abide', work: 'JC'},
+instances: 2, word: 'Above', work: 'JC'},
+instances: 2, word: 'Abroad', work: 'JC'},
+instances: 2, word: 'Abuse', work: 'JC'},
+instances: 2, word: 'Act', work: 'JC'},
+instances: 2, word: 'Action', work: 'JC'},
+instances: 2, word: 'Aim', work: 'JC'},
+instances: 2, word: 'Ambition\'s', work: 'JC'},
+instances: 2, word: 'Among', work: 'JC'},
+instances: 2, word: 'Angel', work: 'JC'},
+instances: 2, word: 'Answerèd', work: 'JC'},
+instances: 2, word: 'Arm', work: 'JC'},
+instances: 2, word: 'Armed', work: 'JC'},
+instances: 2, word: 'Army', work: 'JC'},
+instances: 2, word: 'Aside', work: 'JC'},
+instances: 2, word: 'Ask', work: 'JC'},
+instances: 2, word: 'Asleep', work: 'JC'},
+instances: 2, word: 'Ass', work: 'JC'},
+instances: 2, word: 'Assure', work: 'JC'},
+instances: 2, word: 'Attain', work: 'JC'},
+instances: 2, word: 'Audience', work: 'JC'},
+instances: 2, word: 'Aught', work: 'JC'},
+instances: 2, word: 'Augurers', work: 'JC'},
+instances: 2, word: 'Banished', work: 'JC'},
+instances: 2, word: 'Banks', work: 'JC'},
+instances: 2, word: 'Bathe', work: 'JC'},
+instances: 2, word: 'Battles', work: 'JC'},
+instances: 2, word: 'Bayed', work: 'JC'},
+instances: 2, word: 'Beast', work: 'JC'},
+instances: 2, word: 'Beasts', work: 'JC'},
+instances: 2, word: 'Begins', work: 'JC'},
+instances: 2, word: 'Beholding', work: 'JC'},
+instances: 2, word: 'Benefit', work: 'JC'},
+instances: 2, word: 'Bent', work: 'JC'},
+instances: 2, word: 'Bestow', work: 'JC'},
+instances: 2, word: 'Betimes', work: 'JC'},
+instances: 2, word: 'Between', work: 'JC'},
+instances: 2, word: 'Bids', work: 'JC'},
+instances: 2, word: 'Bills', work: 'JC'},
+instances: 2, word: 'Bleeding', work: 'JC'},
+instances: 2, word: 'Bloods', work: 'JC'},
+instances: 2, word: 'Blows', work: 'JC'},
+instances: 2, word: 'Blunt', work: 'JC'},
+instances: 2, word: 'Bond', work: 'JC'},
+instances: 2, word: 'Bondage', work: 'JC'},
+instances: 2, word: 'Bondmen', work: 'JC'},
+instances: 2, word: 'Bound', work: 'JC'},
+instances: 2, word: 'Bowl', work: 'JC'},
+instances: 2, word: 'Brands', work: 'JC'},
+instances: 2, word: 'Breed', work: 'JC'},
+instances: 2, word: 'Bribes', work: 'JC'},
+instances: 2, word: 'Brows', work: 'JC'},
+instances: 2, word: 'Burial', work: 'JC'},
+instances: 2, word: 'Bury', work: 'JC'},
+instances: 2, word: 'Butchers', work: 'JC'},
+instances: 2, word: 'Calphurnia\'s', work: 'JC'},
+instances: 2, word: 'Canst', work: 'JC'},
+instances: 2, word: 'Care', work: 'JC'},
+instances: 2, word: 'Cast', work: 'JC'},
+instances: 2, word: 'Cato\'s', work: 'JC'},
+instances: 2, word: 'Ceremony', work: 'JC'},
+instances: 2, word: 'Chair', work: 'JC'},
+instances: 2, word: 'Chance', work: 'JC'},
+instances: 2, word: 'Chariot', work: 'JC'},
+instances: 2, word: 'Chastisement', work: 'JC'},
+instances: 2, word: 'Choked', work: 'JC'},
+instances: 2, word: 'Choose', work: 'JC'},
+instances: 2, word: 'Civil', work: 'JC'},
+instances: 2, word: 'Clock', work: 'JC'},
+instances: 2, word: 'Closet', work: 'JC'},
+instances: 2, word: 'Cobbler', work: 'JC'},
+instances: 2, word: 'Color', work: 'JC'},
+instances: 2, word: 'Comfort', work: 'JC'},
+instances: 2, word: 'Commanders', work: 'JC'},
+instances: 2, word: 'Commons', work: 'JC'},
+instances: 2, word: 'Com\'st', work: 'JC'},
+instances: 2, word: 'Condemned', work: 'JC'},
+instances: 2, word: 'Conditions', work: 'JC'},
+instances: 2, word: 'Confess', work: 'JC'},
+instances: 2, word: 'Conspirator', work: 'JC'},
+instances: 2, word: 'Contented', work: 'JC'},
+instances: 2, word: 'Council', work: 'JC'},
+instances: 2, word: 'Countenance', work: 'JC'},
+instances: 2, word: 'Country\'s', work: 'JC'},
+instances: 2, word: 'Courtesy', work: 'JC'},
+instances: 2, word: 'Creature', work: 'JC'},
+instances: 2, word: 'Creatures', work: 'JC'},
+instances: 2, word: 'Credit', work: 'JC'},
+instances: 2, word: 'Crossed', work: 'JC'},
+instances: 2, word: 'Cur', work: 'JC'},
+instances: 2, word: 'Curse', work: 'JC'},
+instances: 2, word: 'Cuts', work: 'JC'},
+instances: 2, word: 'Daggers', work: 'JC'},
+instances: 2, word: 'Dardanus', work: 'JC'},
+instances: 2, word: 'Dearer', work: 'JC'},
+instances: 2, word: 'Deceived', work: 'JC'},
+instances: 2, word: 'Decree', work: 'JC'},
+instances: 2, word: 'Defend', work: 'JC'},
+instances: 2, word: 'Deliver', work: 'JC'},
+instances: 2, word: 'Demand', work: 'JC'},
+instances: 2, word: 'Descend', work: 'JC'},
+instances: 2, word: 'Deserved', work: 'JC'},
+instances: 2, word: 'Destruction', work: 'JC'},
+instances: 2, word: 'Devil', work: 'JC'},
+instances: 2, word: 'Diest', work: 'JC'},
+instances: 2, word: 'Digest', work: 'JC'},
+instances: 2, word: 'Discover', work: 'JC'},
+instances: 2, word: 'Disposed', work: 'JC'},
+instances: 2, word: 'Door', work: 'JC'},
+instances: 2, word: 'Doors', work: 'JC'},
+instances: 2, word: 'Drachmas', work: 'JC'},
+instances: 2, word: 'Draw', work: 'JC'},
+instances: 2, word: 'Draws', work: 'JC'},
+instances: 2, word: 'Dreams', work: 'JC'},
+instances: 2, word: 'Dreamt', work: 'JC'},
+instances: 2, word: 'Drink', work: 'JC'},
+instances: 2, word: 'Drive', work: 'JC'},
+instances: 2, word: 'Dumb', work: 'JC'},
+instances: 2, word: 'Duty', work: 'JC'},
+instances: 2, word: 'Each', work: 'JC'},
+instances: 2, word: 'Ease', work: 'JC'},
+instances: 2, word: 'East', work: 'JC'},
+instances: 2, word: 'Effect', work: 'JC'},
+instances: 2, word: 'Elder', work: 'JC'},
+instances: 2, word: 'Ended', work: 'JC'},
+instances: 2, word: 'Enforcèd', work: 'JC'},
+instances: 2, word: 'Enfranchisement', work: 'JC'},
+instances: 2, word: 'Ensign', work: 'JC'},
+instances: 2, word: 'Entrails', work: 'JC'},
+instances: 2, word: 'Envious', work: 'JC'},
+instances: 2, word: 'Envy', work: 'JC'},
+instances: 2, word: 'Error', work: 'JC'},
+instances: 2, word: 'Etc.', work: 'JC'},
+instances: 2, word: 'Evil', work: 'JC'},
+instances: 2, word: 'Exalted', work: 'JC'},
+instances: 2, word: 'Exploit', work: 'JC'},
+instances: 2, word: 'Faces', work: 'JC'},
+instances: 2, word: 'Fair', work: 'JC'},
+instances: 2, word: 'Faith', work: 'JC'},
+instances: 2, word: 'Falling', work: 'JC'},
+instances: 2, word: 'False', work: 'JC'},
+instances: 2, word: 'Familiar', work: 'JC'},
+instances: 2, word: 'Fantasy', work: 'JC'},
+instances: 2, word: 'Fawn', work: 'JC'},
+instances: 2, word: 'Feared', work: 'JC'},
+instances: 2, word: 'Fears', work: 'JC'},
+instances: 2, word: 'Feast', work: 'JC'},
+instances: 2, word: 'Fierce', work: 'JC'},
+instances: 2, word: 'Fill', work: 'JC'},
+instances: 2, word: 'Flavius', work: 'JC'},
+instances: 2, word: 'Flint', work: 'JC'},
+instances: 2, word: 'Foolery', work: 'JC'},
+instances: 2, word: 'Forgetful', work: 'JC'},
+instances: 2, word: 'Fortunate', work: 'JC'},
+instances: 2, word: 'Fresh', work: 'JC'},
+instances: 2, word: 'Fret', work: 'JC'},
+instances: 2, word: 'Gallant', work: 'JC'},
+instances: 2, word: 'Ghost', work: 'JC'},
+instances: 2, word: 'Ghosts', work: 'JC'},
+instances: 2, word: 'Glory', work: 'JC'},
+instances: 2, word: 'Governed', work: 'JC'},
+instances: 2, word: 'Greek', work: 'JC'},
+instances: 2, word: 'Groaning', work: 'JC'},
+instances: 2, word: 'Grow', work: 'JC'},
+instances: 2, word: 'Growing', work: 'JC'},
+instances: 2, word: 'Hair', work: 'JC'},
+instances: 2, word: 'Harm', work: 'JC'},
+instances: 2, word: 'Hart', work: 'JC'},
+instances: 2, word: 'Having', work: 'JC'},
+instances: 2, word: 'Heed', work: 'JC'},
+instances: 2, word: 'Heels', work: 'JC'},
+instances: 2, word: 'Heirs', work: 'JC'},
+instances: 2, word: 'Hell', work: 'JC'},
+instances: 2, word: 'Help', work: 'JC'},
+instances: 2, word: 'Hereafter', work: 'JC'},
+instances: 2, word: 'Higher', work: 'JC'},
+instances: 2, word: 'Hilts', work: 'JC'},
+instances: 2, word: 'Holds', work: 'JC'},
+instances: 2, word: 'Holy', work: 'JC'},
+instances: 2, word: 'Horses', work: 'JC'},
+instances: 2, word: 'Hounds', work: 'JC'},
+instances: 2, word: 'Houses', work: 'JC'},
+instances: 2, word: 'Humble', work: 'JC'},
+instances: 2, word: 'Hung', work: 'JC'},
+instances: 2, word: 'Ill-tempered', work: 'JC'},
+instances: 2, word: 'Immediately', work: 'JC'},
+instances: 2, word: 'Impatience', work: 'JC'},
+instances: 2, word: 'Impossible', work: 'JC'},
+instances: 2, word: 'Incorporate', work: 'JC'},
+instances: 2, word: 'Infants', work: 'JC'},
+instances: 2, word: 'Ingratitude', work: 'JC'},
+instances: 2, word: 'Instruments', work: 'JC'},
+instances: 2, word: 'Intended', work: 'JC'},
+instances: 2, word: 'Issue', work: 'JC'},
+instances: 2, word: 'Italy', work: 'JC'},
+instances: 2, word: 'Itching', work: 'JC'},
+instances: 2, word: 'I\'', work: 'JC'},
+instances: 2, word: 'Jealous', work: 'JC'},
+instances: 2, word: 'Joined', work: 'JC'},
+instances: 2, word: 'Judgment', work: 'JC'},
+instances: 2, word: 'Just', work: 'JC'},
+instances: 2, word: 'Killed', work: 'JC'},
+instances: 2, word: 'Knee', work: 'JC'},
+instances: 2, word: 'Knees', work: 'JC'},
+instances: 2, word: 'Know\'st', work: 'JC'},
+instances: 2, word: 'Ladder', work: 'JC'},
+instances: 2, word: 'Laugh', work: 'JC'},
+instances: 2, word: 'Leaden', work: 'JC'},
+instances: 2, word: 'Lean', work: 'JC'},
+instances: 2, word: 'Leap', work: 'JC'},
+instances: 2, word: 'Leather', work: 'JC'},
+instances: 2, word: 'Lena', work: 'JC'},
+instances: 2, word: 'Lend', work: 'JC'},
+instances: 2, word: 'Liable', work: 'JC'},
+instances: 2, word: 'Lions', work: 'JC'},
+instances: 2, word: 'Listen', work: 'JC'},
+instances: 2, word: 'Lived', work: 'JC'},
+instances: 2, word: 'Lo', work: 'JC'},
+instances: 2, word: 'Lost', work: 'JC'},
+instances: 2, word: 'Lovedst', work: 'JC'},
+instances: 2, word: 'Lover', work: 'JC'},
+instances: 2, word: 'Lovers', work: 'JC'},
+instances: 2, word: 'Low', work: 'JC'},
+instances: 2, word: 'Lupercal', work: 'JC'},
+instances: 2, word: 'Lusty', work: 'JC'},
+instances: 2, word: 'Mad', work: 'JC'},
+instances: 2, word: 'Mantle', work: 'JC'},
+instances: 2, word: 'Marching', work: 'JC'},
+instances: 2, word: 'Married', work: 'JC'},
+instances: 2, word: 'Mend', work: 'JC'},
+instances: 2, word: 'Men\'s', work: 'JC'},
+instances: 2, word: 'Merry', work: 'JC'},
+instances: 2, word: 'Methinks', work: 'JC'},
+instances: 2, word: 'Mirth', work: 'JC'},
+instances: 2, word: 'Mischief', work: 'JC'},
+instances: 2, word: 'Mistrust', work: 'JC'},
+instances: 2, word: 'Moreover', work: 'JC'},
+instances: 2, word: 'Mothers', work: 'JC'},
+instances: 2, word: 'Mourning', work: 'JC'},
+instances: 2, word: 'Mouths', work: 'JC'},
+instances: 2, word: 'Murderers', work: 'JC'},
+instances: 2, word: 'Names', work: 'JC'},
+instances: 2, word: 'Narrow', work: 'JC'},
+instances: 2, word: 'Necessary', work: 'JC'},
+instances: 2, word: 'Next', work: 'JC'},
+instances: 2, word: 'Nod', work: 'JC'},
+instances: 2, word: 'Objects', work: 'JC'},
+instances: 2, word: 'Observe', work: 'JC'},
+instances: 2, word: 'Octavius\'', work: 'JC'},
+instances: 2, word: 'Often', work: 'JC'},
+instances: 2, word: 'Olympus', work: 'JC'},
+instances: 2, word: 'Ope', work: 'JC'},
+instances: 2, word: 'Open', work: 'JC'},
+instances: 2, word: 'Ought', work: 'JC'},
+instances: 2, word: 'Ours', work: 'JC'},
+instances: 2, word: 'Overcame', work: 'JC'},
+instances: 2, word: 'O\'er', work: 'JC'},
+instances: 2, word: 'Pale', work: 'JC'},
+instances: 2, word: 'Paper', work: 'JC'},
+instances: 2, word: 'Parting', work: 'JC'},
+instances: 2, word: 'Partly', work: 'JC'},
+instances: 2, word: 'Passion', work: 'JC'},
+instances: 2, word: 'Pause', work: 'JC'},
+instances: 2, word: 'Pay', work: 'JC'},
+instances: 2, word: 'Perhaps', work: 'JC'},
+instances: 2, word: 'Perils', work: 'JC'},
+instances: 2, word: 'Personal', work: 'JC'},
+instances: 2, word: 'Philosophy', work: 'JC'},
+instances: 2, word: 'Pieces', work: 'JC'},
+instances: 2, word: 'Plain', work: 'JC'},
+instances: 2, word: 'Plays', work: 'JC'},
+instances: 2, word: 'Pleasures', work: 'JC'},
+instances: 2, word: 'Poet', work: 'JC'},
+instances: 2, word: 'Porch', work: 'JC'},
+instances: 2, word: 'Practice', work: 'JC'},
+instances: 2, word: 'Prefer', work: 'JC'},
+instances: 2, word: 'Prevention', work: 'JC'},
+instances: 2, word: 'Prick', work: 'JC'},
+instances: 2, word: 'Priests', work: 'JC'},
+instances: 2, word: 'Princes', work: 'JC'},
+instances: 2, word: 'Prisoner', work: 'JC'},
+instances: 2, word: 'Proceeded', work: 'JC'},
+instances: 2, word: 'Proclaim', work: 'JC'},
+instances: 2, word: 'Prodigies', work: 'JC'},
+instances: 2, word: 'Purposes', work: 'JC'},
+instances: 2, word: 'Push', work: 'JC'},
+instances: 2, word: 'Quartered', work: 'JC'},
+instances: 2, word: 'Quick', work: 'JC'},
+instances: 2, word: 'Raise', work: 'JC'},
+instances: 2, word: 'Rank', work: 'JC'},
+instances: 2, word: 'Rash', work: 'JC'},
+instances: 2, word: 'Raw', work: 'JC'},
+instances: 2, word: 'Reflection', work: 'JC'},
+instances: 2, word: 'Render', work: 'JC'},
+instances: 2, word: 'Renderèd', work: 'JC'},
+instances: 2, word: 'Repair', work: 'JC'},
+instances: 2, word: 'Revenged', work: 'JC'},
+instances: 2, word: 'Reverence', work: 'JC'},
+instances: 2, word: 'Rich', work: 'JC'},
+instances: 2, word: 'Rid', work: 'JC'},
+instances: 2, word: 'Ring', work: 'JC'},
+instances: 2, word: 'Rites', work: 'JC'},
+instances: 2, word: 'Rived', work: 'JC'},
+instances: 2, word: 'Royal', work: 'JC'},
+instances: 2, word: 'Rule', work: 'JC'},
+instances: 2, word: 'Ruled', work: 'JC'},
+instances: 2, word: 'Rushing', work: 'JC'},
+instances: 2, word: 'School', work: 'JC'},
+instances: 2, word: 'Sea', work: 'JC'},
+instances: 2, word: 'Seal', work: 'JC'},
+instances: 2, word: 'Seat', work: 'JC'},
+instances: 2, word: 'Secret', work: 'JC'},
+instances: 2, word: 'Seeing', work: 'JC'},
+instances: 2, word: 'Seemed', work: 'JC'},
+instances: 2, word: 'Sees', work: 'JC'},
+instances: 2, word: 'Sell', work: 'JC'},
+instances: 2, word: 'Served', work: 'JC'},
+instances: 2, word: 'Serves', work: 'JC'},
+instances: 2, word: 'Seven', work: 'JC'},
+instances: 2, word: 'Shed', work: 'JC'},
+instances: 2, word: 'Shoes', work: 'JC'},
+instances: 2, word: 'Shouldst', work: 'JC'},
+instances: 2, word: 'Shouted', work: 'JC'},
+instances: 2, word: 'Shouts', work: 'JC'},
+instances: 2, word: 'Showed', work: 'JC'},
+instances: 2, word: 'Shows', work: 'JC'},
+instances: 2, word: 'Sickly', work: 'JC'},
+instances: 2, word: 'Sights', work: 'JC'},
+instances: 2, word: 'Slain', work: 'JC'},
+instances: 2, word: 'Slaves', work: 'JC'},
+instances: 2, word: 'Slay', work: 'JC'},
+instances: 2, word: 'Slept', work: 'JC'},
+instances: 2, word: 'Slight', work: 'JC'},
+instances: 2, word: 'Slumber', work: 'JC'},
+instances: 2, word: 'Smiling', work: 'JC'},
+instances: 2, word: 'Soft', work: 'JC'},
+instances: 2, word: 'Softly', work: 'JC'},
+instances: 2, word: 'Soldiers', work: 'JC'},
+instances: 2, word: 'Something', work: 'JC'},
+instances: 2, word: 'Sorrow', work: 'JC'},
+instances: 2, word: 'Sorry', work: 'JC'},
+instances: 2, word: 'Sparks', work: 'JC'},
+instances: 2, word: 'Speaking', work: 'JC'},
+instances: 2, word: 'Spectacle', work: 'JC'},
+instances: 2, word: 'Spoil', work: 'JC'},
+instances: 2, word: 'Spot', work: 'JC'},
+instances: 2, word: 'Spurn', work: 'JC'},
+instances: 2, word: 'Spurs', work: 'JC'},
+instances: 2, word: 'Stab', work: 'JC'},
+instances: 2, word: 'Stands', work: 'JC'},
+instances: 2, word: 'Stars', work: 'JC'},
+instances: 2, word: 'Start', work: 'JC'},
+instances: 2, word: 'Stayed', work: 'JC'},
+instances: 2, word: 'Steal', work: 'JC'},
+instances: 2, word: 'Sting', work: 'JC'},
+instances: 2, word: 'Store', work: 'JC'},
+instances: 2, word: 'Strain', work: 'JC'},
+instances: 2, word: 'Stream', work: 'JC'},
+instances: 2, word: 'Strength', work: 'JC'},
+instances: 2, word: 'Stretched', work: 'JC'},
+instances: 2, word: 'Strife', work: 'JC'},
+instances: 2, word: 'Strokes', work: 'JC'},
+instances: 2, word: 'Strucken', work: 'JC'},
+instances: 2, word: 'Suck', work: 'JC'},
+instances: 2, word: 'Sufferance', work: 'JC'},
+instances: 2, word: 'Sufficeth', work: 'JC'},
+instances: 2, word: 'Suitor', work: 'JC'},
+instances: 2, word: 'Suitors', work: 'JC'},
+instances: 2, word: 'Swayed', work: 'JC'},
+instances: 2, word: 'Sweat', work: 'JC'},
+instances: 2, word: 'Swell', work: 'JC'},
+instances: 2, word: 'Swim', work: 'JC'},
+instances: 2, word: 'Swore', work: 'JC'},
+instances: 2, word: 'Temper', work: 'JC'},
+instances: 2, word: 'Tending', work: 'JC'},
+instances: 2, word: 'Tents', work: 'JC'},
+instances: 2, word: 'Terrible', work: 'JC'},
+instances: 2, word: 'Terror', work: 'JC'},
+instances: 2, word: 'Testament', work: 'JC'},
+instances: 2, word: 'Theater', work: 'JC'},
+instances: 2, word: 'Thick', work: 'JC'},
+instances: 2, word: 'Thinks', work: 'JC'},
+instances: 2, word: 'Third', work: 'JC'},
+instances: 2, word: 'Thorough', work: 'JC'},
+instances: 2, word: 'Thrive', work: 'JC'},
+instances: 2, word: 'Throng', work: 'JC'},
+instances: 2, word: 'Throw', work: 'JC'},
+instances: 2, word: 'Thrusting', work: 'JC'},
+instances: 2, word: 'Thyself', work: 'JC'},
+instances: 2, word: 'Tide', work: 'JC'},
+instances: 2, word: 'Titinius\'', work: 'JC'},
+instances: 2, word: 'Touch', work: 'JC'},
+instances: 2, word: 'Touched', work: 'JC'},
+instances: 2, word: 'Touches', work: 'JC'},
+instances: 2, word: 'Towards', work: 'JC'},
+instances: 2, word: 'Tremble', work: 'JC'},
+instances: 2, word: 'Tried', work: 'JC'},
+instances: 2, word: 'Troops', work: 'JC'},
+instances: 2, word: 'Try', work: 'JC'},
+instances: 2, word: 'Twenty', work: 'JC'},
+instances: 2, word: 'Tyrant', work: 'JC'},
+instances: 2, word: 'Tyrants', work: 'JC'},
+instances: 2, word: 'Unbracèd', work: 'JC'},
+instances: 2, word: 'Underneath', work: 'JC'},
+instances: 2, word: 'Unfold', work: 'JC'},
+instances: 2, word: 'Unknown', work: 'JC'},
+instances: 2, word: 'Urged', work: 'JC'},
+instances: 2, word: 'Utterance', work: 'JC'},
+instances: 2, word: 'Uttermost', work: 'JC'},
+instances: 2, word: 'Valor', work: 'JC'},
+instances: 2, word: 'Varro', work: 'JC'},
+instances: 2, word: 'Verses', work: 'JC'},
+instances: 2, word: 'Vouchsafe', work: 'JC'},
+instances: 2, word: 'Walked', work: 'JC'},
+instances: 2, word: 'Walking', work: 'JC'},
+instances: 2, word: 'Walls', work: 'JC'},
+instances: 2, word: 'Wast', work: 'JC'},
+instances: 2, word: 'Watch', work: 'JC'},
+instances: 2, word: 'Weary', work: 'JC'},
+instances: 2, word: 'Weeping', work: 'JC'},
+instances: 2, word: 'Whereto', work: 'JC'},
+instances: 2, word: 'Whither', work: 'JC'},
+instances: 2, word: 'Whole', work: 'JC'},
+instances: 2, word: 'Wildness', work: 'JC'},
+instances: 2, word: 'Willing', work: 'JC'},
+instances: 2, word: 'Window', work: 'JC'},
+instances: 2, word: 'Wing', work: 'JC'},
+instances: 2, word: 'Wished', work: 'JC'},
+instances: 2, word: 'Wit', work: 'JC'},
+instances: 2, word: 'Witness', work: 'JC'},
+instances: 2, word: 'Woe', work: 'JC'},
+instances: 2, word: 'Wonder', work: 'JC'},
+instances: 2, word: 'Worst', work: 'JC'},
+instances: 2, word: 'Worthiness', work: 'JC'},
+instances: 2, word: 'Wound', work: 'JC'},
+instances: 2, word: 'Wrongs', work: 'JC'},
+instances: 2, word: 'Yesterday', work: 'JC'},
+instances: 2, word: 'Yoke', work: 'JC'},
+instances: 2, word: 'Yond', work: 'JC'},
+instances: 2, word: '\'tween', work: 'JC'},
+instances: 1, word: 'A-shouting', work: 'JC'},
+instances: 1, word: 'Abler', work: 'JC'},
+instances: 1, word: 'Abridged', work: 'JC'},
+instances: 1, word: 'Absence', work: 'JC'},
+instances: 1, word: 'Absent', work: 'JC'},
+instances: 1, word: 'Accents', work: 'JC'},
+instances: 1, word: 'Accidental', work: 'JC'},
+instances: 1, word: 'Accoutered', work: 'JC'},
+instances: 1, word: 'Acquainted', work: 'JC'},
+instances: 1, word: 'Across', work: 'JC'},
+instances: 1, word: 'Acted', work: 'JC'},
+instances: 1, word: 'Acting', work: 'JC'},
+instances: 1, word: 'Actors', work: 'JC'},
+instances: 1, word: 'Add', work: 'JC'},
+instances: 1, word: 'Added', work: 'JC'},
+instances: 1, word: 'Adder', work: 'JC'},
+instances: 1, word: 'Addition', work: 'JC'},
+instances: 1, word: 'Addressed', work: 'JC'},
+instances: 1, word: 'Aeneas', work: 'JC'},
+instances: 1, word: 'Afeard', work: 'JC'},
+instances: 1, word: 'Affability', work: 'JC'},
+instances: 1, word: 'Affection', work: 'JC'},
+instances: 1, word: 'Affections', work: 'JC'},
+instances: 1, word: 'Affrighted', work: 'JC'},
+instances: 1, word: 'Afloat', work: 'JC'},
+instances: 1, word: 'Afoot', work: 'JC'},
+instances: 1, word: 'Afraid', work: 'JC'},
+instances: 1, word: 'Afterwards', work: 'JC'},
+instances: 1, word: 'Ages', work: 'JC'},
+instances: 1, word: 'Age\'s', work: 'JC'},
+instances: 1, word: 'Agree', work: 'JC'},
+instances: 1, word: 'Ague', work: 'JC'},
+instances: 1, word: 'Airless', work: 'JC'},
+instances: 1, word: 'Alchemy', work: 'JC'},
+instances: 1, word: 'Alliance', work: 'JC'},
+instances: 1, word: 'Allowed', work: 'JC'},
+instances: 1, word: 'Also', work: 'JC'},
+instances: 1, word: 'Always', work: 'JC'},
+instances: 1, word: 'Amaze', work: 'JC'},
+instances: 1, word: 'Amazed', work: 'JC'},
+instances: 1, word: 'Ancestor', work: 'JC'},
+instances: 1, word: 'Anchises', work: 'JC'},
+instances: 1, word: 'Anger', work: 'JC'},
+instances: 1, word: 'Annoy', work: 'JC'},
+instances: 1, word: 'Annoying', work: 'JC'},
+instances: 1, word: 'Answering', work: 'JC'},
+instances: 1, word: 'Antonius\'', work: 'JC'},
+instances: 1, word: 'Antony\'s', work: 'JC'},
+instances: 1, word: 'Apace', work: 'JC'},
+instances: 1, word: 'Apart', work: 'JC'},
+instances: 1, word: 'Apes', work: 'JC'},
+instances: 1, word: 'Apparel', work: 'JC'},
+instances: 1, word: 'Apparent', work: 'JC'},
+instances: 1, word: 'Apparition', work: 'JC'},
+instances: 1, word: 'Appeared', work: 'JC'},
+instances: 1, word: 'Appearing', work: 'JC'},
+instances: 1, word: 'Appeased', work: 'JC'},
+instances: 1, word: 'Appertain', work: 'JC'},
+instances: 1, word: 'Appetite', work: 'JC'},
+instances: 1, word: 'Applauses', work: 'JC'},
+instances: 1, word: 'Apply', work: 'JC'},
+instances: 1, word: 'Appoint', work: 'JC'},
+instances: 1, word: 'Apprehensive', work: 'JC'},
+instances: 1, word: 'Apron', work: 'JC'},
+instances: 1, word: 'Arbors', work: 'JC'},
+instances: 1, word: 'Arguing', work: 'JC'},
+instances: 1, word: 'Arises', work: 'JC'},
+instances: 1, word: 'Armies', work: 'JC'},
+instances: 1, word: 'Arming', work: 'JC'},
+instances: 1, word: 'Arose', work: 'JC'},
+instances: 1, word: 'Arrive', work: 'JC'},
+instances: 1, word: 'Arrived', work: 'JC'},
+instances: 1, word: 'Artemidorus', work: 'JC'},
+instances: 1, word: 'Arts', work: 'JC'},
+instances: 1, word: 'Ascend', work: 'JC'},
+instances: 1, word: 'Ascended', work: 'JC'},
+instances: 1, word: 'Ashamèd', work: 'JC'},
+instances: 1, word: 'Asked', work: 'JC'},
+instances: 1, word: 'Assemble', work: 'JC'},
+instances: 1, word: 'Assembly', work: 'JC'},
+instances: 1, word: 'Assured', work: 'JC'},
+instances: 1, word: 'Astonish', work: 'JC'},
+instances: 1, word: 'Ate', work: 'JC'},
+instances: 1, word: 'Attains', work: 'JC'},
+instances: 1, word: 'Attempt', work: 'JC'},
+instances: 1, word: 'Attempts', work: 'JC'},
+instances: 1, word: 'Attendants', work: 'JC'},
+instances: 1, word: 'Attire', work: 'JC'},
+instances: 1, word: 'Augmented', work: 'JC'},
+instances: 1, word: 'Avenged', work: 'JC'},
+instances: 1, word: 'Avoid', work: 'JC'},
+instances: 1, word: 'Avoided', work: 'JC'},
+instances: 1, word: 'Aweary', work: 'JC'},
+instances: 1, word: 'Awl', work: 'JC'},
+instances: 1, word: 'Bait', work: 'JC'},
+instances: 1, word: 'Bang', work: 'JC'},
+instances: 1, word: 'Banishèd', work: 'JC'},
+instances: 1, word: 'Banqueting', work: 'JC'},
+instances: 1, word: 'Bared', work: 'JC'},
+instances: 1, word: 'Bargain', work: 'JC'},
+instances: 1, word: 'Bark', work: 'JC'},
+instances: 1, word: 'Barren', work: 'JC'},
+instances: 1, word: 'Barren-spirited', work: 'JC'},
+instances: 1, word: 'Bars', work: 'JC'},
+instances: 1, word: 'Basest', work: 'JC'},
+instances: 1, word: 'Basis', work: 'JC'},
+instances: 1, word: 'Bastard', work: 'JC'},
+instances: 1, word: 'Bastardy', work: 'JC'},
+instances: 1, word: 'Bathed', work: 'JC'},
+instances: 1, word: 'Battlements', work: 'JC'},
+instances: 1, word: 'Bay', work: 'JC'},
+instances: 1, word: 'Beads', work: 'JC'},
+instances: 1, word: 'Beat', work: 'JC'},
+instances: 1, word: 'Beaten', work: 'JC'},
+instances: 1, word: 'Beauty', work: 'JC'},
+instances: 1, word: 'Becomes', work: 'JC'},
+instances: 1, word: 'Bees', work: 'JC'},
+instances: 1, word: 'Beest', work: 'JC'},
+instances: 1, word: 'Befall', work: 'JC'},
+instances: 1, word: 'Befriend', work: 'JC'},
+instances: 1, word: 'Began', work: 'JC'},
+instances: 1, word: 'Beggars', work: 'JC'},
+instances: 1, word: 'Begged', work: 'JC'},
+instances: 1, word: 'Beginning', work: 'JC'},
+instances: 1, word: 'Begun', work: 'JC'},
+instances: 1, word: 'Behaviors', work: 'JC'},
+instances: 1, word: 'Behind', work: 'JC'},
+instances: 1, word: 'Belike', work: 'JC'},
+instances: 1, word: 'Beloved', work: 'JC'},
+instances: 1, word: 'Below', work: 'JC'},
+instances: 1, word: 'Benches', work: 'JC'},
+instances: 1, word: 'Bending', work: 'JC'},
+instances: 1, word: 'Bequeathing', work: 'JC'},
+instances: 1, word: 'Beside', work: 'JC'},
+instances: 1, word: 'Besmear', work: 'JC'},
+instances: 1, word: 'Bestride', work: 'JC'},
+instances: 1, word: 'Bethink', work: 'JC'},
+instances: 1, word: 'Betrayed', work: 'JC'},
+instances: 1, word: 'Betwixt', work: 'JC'},
+instances: 1, word: 'Beyond', work: 'JC'},
+instances: 1, word: 'Be\'st', work: 'JC'},
+instances: 1, word: 'Bidding', work: 'JC'},
+instances: 1, word: 'Big', work: 'JC'},
+instances: 1, word: 'Billow', work: 'JC'},
+instances: 1, word: 'Bird', work: 'JC'},
+instances: 1, word: 'Birds', work: 'JC'},
+instances: 1, word: 'Birth', work: 'JC'},
+instances: 1, word: 'Birthday', work: 'JC'},
+instances: 1, word: 'Black', work: 'JC'},
+instances: 1, word: 'Blaze', work: 'JC'},
+instances: 1, word: 'Blest', work: 'JC'},
+instances: 1, word: 'Blocks', work: 'JC'},
+instances: 1, word: 'Blow', work: 'JC'},
+instances: 1, word: 'Blue', work: 'JC'},
+instances: 1, word: 'Boldest', work: 'JC'},
+instances: 1, word: 'Boldly', work: 'JC'},
+instances: 1, word: 'Bonds', work: 'JC'},
+instances: 1, word: 'Book', work: 'JC'},
+instances: 1, word: 'Books', work: 'JC'},
+instances: 1, word: 'Bootless', work: 'JC'},
+instances: 1, word: 'Borne', work: 'JC'},
+instances: 1, word: 'Bosoms', work: 'JC'},
+instances: 1, word: 'Bow', work: 'JC'},
+instances: 1, word: 'Bowed', work: 'JC'},
+instances: 1, word: 'Bowels', work: 'JC'},
+instances: 1, word: 'Brains', work: 'JC'},
+instances: 1, word: 'Brass', work: 'JC'},
+instances: 1, word: 'Braved', work: 'JC'},
+instances: 1, word: 'Bravely', work: 'JC'},
+instances: 1, word: 'Bravery', work: 'JC'},
+instances: 1, word: 'Break\'st', work: 'JC'},
+instances: 1, word: 'Breath', work: 'JC'},
+instances: 1, word: 'Breathless', work: 'JC'},
+instances: 1, word: 'Breathèd', work: 'JC'},
+instances: 1, word: 'Bright', work: 'JC'},
+instances: 1, word: 'Brim', work: 'JC'},
+instances: 1, word: 'Bring\'st', work: 'JC'},
+instances: 1, word: 'Brooked', work: 'JC'},
+instances: 1, word: 'Brothers\'', work: 'JC'},
+instances: 1, word: 'Brutish', work: 'JC'},
+instances: 1, word: 'Brutè', work: 'JC'},
+instances: 1, word: 'Budge', work: 'JC'},
+instances: 1, word: 'Buffet', work: 'JC'},
+instances: 1, word: 'Burneth', work: 'JC'},
+instances: 1, word: 'Burns', work: 'JC'},
+instances: 1, word: 'Burst', work: 'JC'},
+instances: 1, word: 'Bustling', work: 'JC'},
+instances: 1, word: 'Busy', work: 'JC'},
+instances: 1, word: 'Buy', work: 'JC'},
+instances: 1, word: 'Buzzing', work: 'JC'},
+instances: 1, word: 'Calculate', work: 'JC'},
+instances: 1, word: 'Calendar', work: 'JC'},
+instances: 1, word: 'Camp', work: 'JC'},
+instances: 1, word: 'Cancel', work: 'JC'},
+instances: 1, word: 'Canopy', work: 'JC'},
+instances: 1, word: 'Captive', work: 'JC'},
+instances: 1, word: 'Captives', work: 'JC'},
+instances: 1, word: 'Captivity', work: 'JC'},
+instances: 1, word: 'Carcass', work: 'JC'},
+instances: 1, word: 'Carelessly', work: 'JC'},
+instances: 1, word: 'Cares', work: 'JC'},
+instances: 1, word: 'Carpenter', work: 'JC'},
+instances: 1, word: 'Carries', work: 'JC'},
+instances: 1, word: 'Carrion', work: 'JC'},
+instances: 1, word: 'Carrions', work: 'JC'},
+instances: 1, word: 'Carve', work: 'JC'},
+instances: 1, word: 'Casca\'s', work: 'JC'},
+instances: 1, word: 'Case', work: 'JC'},
+instances: 1, word: 'Catching', work: 'JC'},
+instances: 1, word: 'Causes', work: 'JC'},
+instances: 1, word: 'Cautelous', work: 'JC'},
+instances: 1, word: 'Cavern', work: 'JC'},
+instances: 1, word: 'Censure', work: 'JC'},
+instances: 1, word: 'Chafing', work: 'JC'},
+instances: 1, word: 'Channel', work: 'JC'},
+instances: 1, word: 'Charactery', work: 'JC'},
+instances: 1, word: 'Charges', work: 'JC'},
+instances: 1, word: 'Charm', work: 'JC'},
+instances: 1, word: 'Chase', work: 'JC'},
+instances: 1, word: 'Checked', work: 'JC'},
+instances: 1, word: 'Cheek', work: 'JC'},
+instances: 1, word: 'Cheer', work: 'JC'},
+instances: 1, word: 'Chew', work: 'JC'},
+instances: 1, word: 'Chidden', work: 'JC'},
+instances: 1, word: 'Chide', work: 'JC'},
+instances: 1, word: 'Chides', work: 'JC'},
+instances: 1, word: 'Child', work: 'JC'},
+instances: 1, word: 'Chimney', work: 'JC'},
+instances: 1, word: 'Choice', work: 'JC'},
+instances: 1, word: 'Choler', work: 'JC'},
+instances: 1, word: 'Choleric', work: 'JC'},
+instances: 1, word: 'Chopped', work: 'JC'},
+instances: 1, word: 'Chose', work: 'JC'},
+instances: 1, word: 'Citizen', work: 'JC'},
+instances: 1, word: 'Citizens', work: 'JC'},
+instances: 1, word: 'Clamors', work: 'JC'},
+instances: 1, word: 'Clap', work: 'JC'},
+instances: 1, word: 'Clapped', work: 'JC'},
+instances: 1, word: 'Clean', work: 'JC'},
+instances: 1, word: 'Climate', work: 'JC'},
+instances: 1, word: 'Climbed', work: 'JC'},
+instances: 1, word: 'Climber-upward', work: 'JC'},
+instances: 1, word: 'Cloak', work: 'JC'},
+instances: 1, word: 'Cloaks', work: 'JC'},
+instances: 1, word: 'Cobble', work: 'JC'},
+instances: 1, word: 'Coffers', work: 'JC'},
+instances: 1, word: 'Coffin', work: 'JC'},
+instances: 1, word: 'Cogitations', work: 'JC'},
+instances: 1, word: 'Cognizance', work: 'JC'},
+instances: 1, word: 'Coin', work: 'JC'},
+instances: 1, word: 'Colossus', work: 'JC'},
+instances: 1, word: 'Combined', work: 'JC'},
+instances: 1, word: 'Comets', work: 'JC'},
+instances: 1, word: 'Commended', work: 'JC'},
+instances: 1, word: 'Comment', work: 'JC'},
+instances: 1, word: 'Commit', work: 'JC'},
+instances: 1, word: 'Commonwealth', work: 'JC'},
+instances: 1, word: 'Compact', work: 'JC'},
+instances: 1, word: 'Companies', work: 'JC'},
+instances: 1, word: 'Companion', work: 'JC'},
+instances: 1, word: 'Company', work: 'JC'},
+instances: 1, word: 'Compare', work: 'JC'},
+instances: 1, word: 'Compass', work: 'JC'},
+instances: 1, word: 'Compel', work: 'JC'},
+instances: 1, word: 'Compelled', work: 'JC'},
+instances: 1, word: 'Complexion', work: 'JC'},
+instances: 1, word: 'Concave', work: 'JC'},
+instances: 1, word: 'Conceit', work: 'JC'},
+instances: 1, word: 'Conceited', work: 'JC'},
+instances: 1, word: 'Conceived', work: 'JC'},
+instances: 1, word: 'Conceptions', work: 'JC'},
+instances: 1, word: 'Concluded', work: 'JC'},
+instances: 1, word: 'Confidence', work: 'JC'},
+instances: 1, word: 'Confines', work: 'JC'},
+instances: 1, word: 'Confounded', work: 'JC'},
+instances: 1, word: 'Conjointly', work: 'JC'},
+instances: 1, word: 'Conjure', work: 'JC'},
+instances: 1, word: 'Conjured', work: 'JC'},
+instances: 1, word: 'Conned', work: 'JC'},
+instances: 1, word: 'Conquerors', work: 'JC'},
+instances: 1, word: 'Conquests', work: 'JC'},
+instances: 1, word: 'Conscience', work: 'JC'},
+instances: 1, word: 'Consequence', work: 'JC'},
+instances: 1, word: 'Consorted', work: 'JC'},
+instances: 1, word: 'Constantly', work: 'JC'},
+instances: 1, word: 'Consumed', work: 'JC'},
+instances: 1, word: 'Contagion', work: 'JC'},
+instances: 1, word: 'Contaminate', work: 'JC'},
+instances: 1, word: 'Contribution', work: 'JC'},
+instances: 1, word: 'Contrive', work: 'JC'},
+instances: 1, word: 'Contriver', work: 'JC'},
+instances: 1, word: 'Controversy', work: 'JC'},
+instances: 1, word: 'Cooling', work: 'JC'},
+instances: 1, word: 'Coronets', work: 'JC'},
+instances: 1, word: 'Corporal', work: 'JC'},
+instances: 1, word: 'Corruption', work: 'JC'},
+instances: 1, word: 'Costly', work: 'JC'},
+instances: 1, word: 'Couchings', work: 'JC'},
+instances: 1, word: 'Couldst', work: 'JC'},
+instances: 1, word: 'Counsel', work: 'JC'},
+instances: 1, word: 'Counsels', work: 'JC'},
+instances: 1, word: 'Count', work: 'JC'},
+instances: 1, word: 'Counters', work: 'JC'},
+instances: 1, word: 'Courage', work: 'JC'},
+instances: 1, word: 'Courtesies', work: 'JC'},
+instances: 1, word: 'Covered', work: 'JC'},
+instances: 1, word: 'Covert', work: 'JC'},
+instances: 1, word: 'Covetous', work: 'JC'},
+instances: 1, word: 'Cowardice', work: 'JC'},
+instances: 1, word: 'Cowardly', work: 'JC'},
+instances: 1, word: 'Craves', work: 'JC'},
+instances: 1, word: 'Crept', work: 'JC'},
+instances: 1, word: 'Crests', work: 'JC'},
+instances: 1, word: 'Criedst', work: 'JC'},
+instances: 1, word: 'Crimsoned', work: 'JC'},
+instances: 1, word: 'Crouch', work: 'JC'},
+instances: 1, word: 'Crowd', work: 'JC'},
+instances: 1, word: 'Crows', work: 'JC'},
+instances: 1, word: 'Crying', work: 'JC'},
+instances: 1, word: 'Cull', work: 'JC'},
+instances: 1, word: 'Cumber', work: 'JC'},
+instances: 1, word: 'Cup', work: 'JC'},
+instances: 1, word: 'Current', work: 'JC'},
+instances: 1, word: 'Cursèd', work: 'JC'},
+instances: 1, word: 'Curtsies', work: 'JC'},
+instances: 1, word: 'Cushions', work: 'JC'},
+instances: 1, word: 'Custom', work: 'JC'},
+instances: 1, word: 'Cynic', work: 'JC'},
+instances: 1, word: 'Damn', work: 'JC'},
+instances: 1, word: 'Damnèd', work: 'JC'},
+instances: 1, word: 'Dang\'rous', work: 'JC'},
+instances: 1, word: 'Dank', work: 'JC'},
+instances: 1, word: 'Dark', work: 'JC'},
+instances: 1, word: 'Darkness', work: 'JC'},
+instances: 1, word: 'Darts', work: 'JC'},
+instances: 1, word: 'Dar\'st', work: 'JC'},
+instances: 1, word: 'Dash', work: 'JC'},
+instances: 1, word: 'Daughter', work: 'JC'},
+instances: 1, word: 'Day\'s', work: 'JC'},
+instances: 1, word: 'Deaf', work: 'JC'},
+instances: 1, word: 'Deal', work: 'JC'},
+instances: 1, word: 'Dearly', work: 'JC'},
+instances: 1, word: 'Deaths', work: 'JC'},
+instances: 1, word: 'Death\'s', work: 'JC'},
+instances: 1, word: 'Debt', work: 'JC'},
+instances: 1, word: 'Decay', work: 'JC'},
+instances: 1, word: 'Deceitful', work: 'JC'},
+instances: 1, word: 'Decius\'', work: 'JC'},
+instances: 1, word: 'Decked', work: 'JC'},
+instances: 1, word: 'Decline', work: 'JC'},
+instances: 1, word: 'Deep', work: 'JC'},
+instances: 1, word: 'Deer', work: 'JC'},
+instances: 1, word: 'Defeat', work: 'JC'},
+instances: 1, word: 'Defense', work: 'JC'},
+instances: 1, word: 'Defiance', work: 'JC'},
+instances: 1, word: 'Degrees', work: 'JC'},
+instances: 1, word: 'Delay', work: 'JC'},
+instances: 1, word: 'Demeanor', work: 'JC'},
+instances: 1, word: 'Depend', work: 'JC'},
+instances: 1, word: 'Derived', work: 'JC'},
+instances: 1, word: 'Described', work: 'JC'},
+instances: 1, word: 'Desired', work: 'JC'},
+instances: 1, word: 'Desires', work: 'JC'},
+instances: 1, word: 'Desiring', work: 'JC'},
+instances: 1, word: 'Determine', work: 'JC'},
+instances: 1, word: 'Determinèd', work: 'JC'},
+instances: 1, word: 'Devise', work: 'JC'},
+instances: 1, word: 'Dew', work: 'JC'},
+instances: 1, word: 'Dews', work: 'JC'},
+instances: 1, word: 'Difference', work: 'JC'},
+instances: 1, word: 'Dignities', work: 'JC'},
+instances: 1, word: 'Dim', work: 'JC'},
+instances: 1, word: 'Dine', work: 'JC'},
+instances: 1, word: 'Dinner', work: 'JC'},
+instances: 1, word: 'Dint', work: 'JC'},
+instances: 1, word: 'Dip', work: 'JC'},
+instances: 1, word: 'Discard', work: 'JC'},
+instances: 1, word: 'Disclose', work: 'JC'},
+instances: 1, word: 'Disclosed', work: 'JC'},
+instances: 1, word: 'Discomfort', work: 'JC'},
+instances: 1, word: 'Disconsolate', work: 'JC'},
+instances: 1, word: 'Discourse', work: 'JC'},
+instances: 1, word: 'Discoverèd', work: 'JC'},
+instances: 1, word: 'Dish', work: 'JC'},
+instances: 1, word: 'Dishonor', work: 'JC'},
+instances: 1, word: 'Dishonorable', work: 'JC'},
+instances: 1, word: 'Disjoins', work: 'JC'},
+instances: 1, word: 'Dismember', work: 'JC'},
+instances: 1, word: 'Dismiss', work: 'JC'},
+instances: 1, word: 'Disperse', work: 'JC'},
+instances: 1, word: 'Displeased', work: 'JC'},
+instances: 1, word: 'Disposing', work: 'JC'},
+instances: 1, word: 'Disprove', work: 'JC'},
+instances: 1, word: 'Disrobe', work: 'JC'},
+instances: 1, word: 'Distract', work: 'JC'},
+instances: 1, word: 'Disturbèd', work: 'JC'},
+instances: 1, word: 'Diverse', work: 'JC'},
+instances: 1, word: 'Divided', work: 'JC'},
+instances: 1, word: 'Division', work: 'JC'},
+instances: 1, word: 'Doers', work: 'JC'},
+instances: 1, word: 'Dog', work: 'JC'},
+instances: 1, word: 'Dogs', work: 'JC'},
+instances: 1, word: 'Doing', work: 'JC'},
+instances: 1, word: 'Domestic', work: 'JC'},
+instances: 1, word: 'Doomsday', work: 'JC'},
+instances: 1, word: 'Doublet', work: 'JC'},
+instances: 1, word: 'Doubted', work: 'JC'},
+instances: 1, word: 'Doubtful', work: 'JC'},
+instances: 1, word: 'Downward', work: 'JC'},
+instances: 1, word: 'Drawing', work: 'JC'},
+instances: 1, word: 'Drawn', work: 'JC'},
+instances: 1, word: 'Dreamer', work: 'JC'},
+instances: 1, word: 'Driven', work: 'JC'},
+instances: 1, word: 'Drives', work: 'JC'},
+instances: 1, word: 'Drizzled', work: 'JC'},
+instances: 1, word: 'Dropped', work: 'JC'},
+instances: 1, word: 'Dropping', work: 'JC'},
+instances: 1, word: 'Drowsily', work: 'JC'},
+instances: 1, word: 'Dull', work: 'JC'},
+instances: 1, word: 'Dungeon', work: 'JC'},
+instances: 1, word: 'Dust', work: 'JC'},
+instances: 1, word: 'Dwelling', work: 'JC'},
+instances: 1, word: 'Eagerly', work: 'JC'},
+instances: 1, word: 'Eagles', work: 'JC'},
+instances: 1, word: 'Earns', work: 'JC'},
+instances: 1, word: 'Easily', work: 'JC'},
+instances: 1, word: 'Eat', work: 'JC'},
+instances: 1, word: 'Eating', work: 'JC'},
+instances: 1, word: 'Egg', work: 'JC'},
+instances: 1, word: 'Eight', work: 'JC'},
+instances: 1, word: 'Eighth', work: 'JC'},
+instances: 1, word: 'Elbows', work: 'JC'},
+instances: 1, word: 'Elders', work: 'JC'},
+instances: 1, word: 'Element', work: 'JC'},
+instances: 1, word: 'Elements', work: 'JC'},
+instances: 1, word: 'Elephants', work: 'JC'},
+instances: 1, word: 'Embrace', work: 'JC'},
+instances: 1, word: 'Empty', work: 'JC'},
+instances: 1, word: 'Emulation', work: 'JC'},
+instances: 1, word: 'Enclosed', work: 'JC'},
+instances: 1, word: 'Enclosèd', work: 'JC'},
+instances: 1, word: 'Encompassed', work: 'JC'},
+instances: 1, word: 'Encounter', work: 'JC'},
+instances: 1, word: 'Encouraged', work: 'JC'},
+instances: 1, word: 'Enforced', work: 'JC'},
+instances: 1, word: 'Engaged', work: 'JC'},
+instances: 1, word: 'Engagements', work: 'JC'},
+instances: 1, word: 'Engendered', work: 'JC'},
+instances: 1, word: 'Engrafted', work: 'JC'},
+instances: 1, word: 'Enjoy', work: 'JC'},
+instances: 1, word: 'Enkindled', work: 'JC'},
+instances: 1, word: 'Enlarge', work: 'JC'},
+instances: 1, word: 'Enrolled', work: 'JC'},
+instances: 1, word: 'Enter', work: 'JC'},
+instances: 1, word: 'Entertain', work: 'JC'},
+instances: 1, word: 'Entire', work: 'JC'},
+instances: 1, word: 'Entreated', work: 'JC'},
+instances: 1, word: 'Envenomèd', work: 'JC'},
+instances: 1, word: 'Epicurus', work: 'JC'},
+instances: 1, word: 'Erebus', work: 'JC'},
+instances: 1, word: 'Errand', work: 'JC'},
+instances: 1, word: 'Errands', work: 'JC'},
+instances: 1, word: 'Eruptions', work: 'JC'},
+instances: 1, word: 'Establish', work: 'JC'},
+instances: 1, word: 'Et', work: 'JC'},
+instances: 1, word: 'Eternal', work: 'JC'},
+instances: 1, word: 'Evening', work: 'JC'},
+instances: 1, word: 'Everlasting', work: 'JC'},
+instances: 1, word: 'Everyone', work: 'JC'},
+instances: 1, word: 'Except', work: 'JC'},
+instances: 1, word: 'Excepted', work: 'JC'},
+instances: 1, word: 'Execution', work: 'JC'},
+instances: 1, word: 'Exhalations', work: 'JC'},
+instances: 1, word: 'Exigent', work: 'JC'},
+instances: 1, word: 'Exorcist', work: 'JC'},
+instances: 1, word: 'Expect', work: 'JC'},
+instances: 1, word: 'Expectation', work: 'JC'},
+instances: 1, word: 'Expedition', work: 'JC'},
+instances: 1, word: 'Expounded', work: 'JC'},
+instances: 1, word: 'Extenuated', work: 'JC'},
+instances: 1, word: 'Extremities', work: 'JC'},
+instances: 1, word: 'Faction', work: 'JC'},
+instances: 1, word: 'Factious', work: 'JC'},
+instances: 1, word: 'Faculties', work: 'JC'},
+instances: 1, word: 'Fail', work: 'JC'},
+instances: 1, word: 'Fain', work: 'JC'},
+instances: 1, word: 'Faint', work: 'JC'},
+instances: 1, word: 'Faithful', work: 'JC'},
+instances: 1, word: 'Falls', work: 'JC'},
+instances: 1, word: 'Falser', work: 'JC'},
+instances: 1, word: 'Famed', work: 'JC'},
+instances: 1, word: 'Fantasies', work: 'JC'},
+instances: 1, word: 'Farther', work: 'JC'},
+instances: 1, word: 'Farthest', work: 'JC'},
+instances: 1, word: 'Fasten', work: 'JC'},
+instances: 1, word: 'Fat', work: 'JC'},
+instances: 1, word: 'Fatal', work: 'JC'},
+instances: 1, word: 'Fathered', work: 'JC'},
+instances: 1, word: 'Fathers', work: 'JC'},
+instances: 1, word: 'Fathers\'', work: 'JC'},
+instances: 1, word: 'Fatter', work: 'JC'},
+instances: 1, word: 'Fawned', work: 'JC'},
+instances: 1, word: 'Fawning', work: 'JC'},
+instances: 1, word: 'Fearfulness', work: 'JC'},
+instances: 1, word: 'Feathers', work: 'JC'},
+instances: 1, word: 'Fed', work: 'JC'},
+instances: 1, word: 'Feed', work: 'JC'},
+instances: 1, word: 'Feeding', work: 'JC'},
+instances: 1, word: 'Feeds', work: 'JC'},
+instances: 1, word: 'Feel', work: 'JC'},
+instances: 1, word: 'Feet', work: 'JC'},
+instances: 1, word: 'Ferret', work: 'JC'},
+instances: 1, word: 'Fever', work: 'JC'},
+instances: 1, word: 'Fields', work: 'JC'},
+instances: 1, word: 'Fifteen', work: 'JC'},
+instances: 1, word: 'Figures', work: 'JC'},
+instances: 1, word: 'Finds', work: 'JC'},
+instances: 1, word: 'Fine', work: 'JC'},
+instances: 1, word: 'Firebrands', work: 'JC'},
+instances: 1, word: 'Fires', work: 'JC'},
+instances: 1, word: 'Firm', work: 'JC'},
+instances: 1, word: 'Firmament', work: 'JC'},
+instances: 1, word: 'Fixed', work: 'JC'},
+instances: 1, word: 'Flame', work: 'JC'},
+instances: 1, word: 'Flames', work: 'JC'},
+instances: 1, word: 'Flash', work: 'JC'},
+instances: 1, word: 'Flatterer', work: 'JC'},
+instances: 1, word: 'Flatterer\'s', work: 'JC'},
+instances: 1, word: 'Flattery', work: 'JC'},
+instances: 1, word: 'Flatterèd', work: 'JC'},
+instances: 1, word: 'Fleering', work: 'JC'},
+instances: 1, word: 'Flesh', work: 'JC'},
+instances: 1, word: 'Flourished', work: 'JC'},
+instances: 1, word: 'Flowers', work: 'JC'},
+instances: 1, word: 'Foam', work: 'JC'},
+instances: 1, word: 'Foamed', work: 'JC'},
+instances: 1, word: 'Foe', work: 'JC'},
+instances: 1, word: 'Foes', work: 'JC'},
+instances: 1, word: 'Followed', work: 'JC'},
+instances: 1, word: 'Follows', work: 'JC'},
+instances: 1, word: 'Fond', work: 'JC'},
+instances: 1, word: 'Fool', work: 'JC'},
+instances: 1, word: 'Foolish', work: 'JC'},
+instances: 1, word: 'Force', work: 'JC'},
+instances: 1, word: 'Forced', work: 'JC'},
+instances: 1, word: 'Foremost', work: 'JC'},
+instances: 1, word: 'Forest', work: 'JC'},
+instances: 1, word: 'Forgave', work: 'JC'},
+instances: 1, word: 'Forgets', work: 'JC'},
+instances: 1, word: 'Forgot', work: 'JC'},
+instances: 1, word: 'Formal', work: 'JC'},
+instances: 1, word: 'Former', work: 'JC'},
+instances: 1, word: 'Forms', work: 'JC'},
+instances: 1, word: 'Fortunes', work: 'JC'},
+instances: 1, word: 'Fought', work: 'JC'},
+instances: 1, word: 'Foul', work: 'JC'},
+instances: 1, word: 'Fountain', work: 'JC'},
+instances: 1, word: 'Four', work: 'JC'},
+instances: 1, word: 'Fray', work: 'JC'},
+instances: 1, word: 'Freeman', work: 'JC'},
+instances: 1, word: 'Freemen', work: 'JC'},
+instances: 1, word: 'Friendship', work: 'JC'},
+instances: 1, word: 'Friend\'s', work: 'JC'},
+instances: 1, word: 'Fright', work: 'JC'},
+instances: 1, word: 'Frighted', work: 'JC'},
+instances: 1, word: 'Fulfill', work: 'JC'},
+instances: 1, word: 'Fuller', work: 'JC'},
+instances: 1, word: 'Funerals', work: 'JC'},
+instances: 1, word: 'Furnished', work: 'JC'},
+instances: 1, word: 'Fury', work: 'JC'},
+instances: 1, word: 'Gait', work: 'JC'},
+instances: 1, word: 'Games', work: 'JC'},
+instances: 1, word: 'Gamesome', work: 'JC'},
+instances: 1, word: 'Garland', work: 'JC'},
+instances: 1, word: 'Gate', work: 'JC'},
+instances: 1, word: 'Gates', work: 'JC'},
+instances: 1, word: 'Gaze', work: 'JC'},
+instances: 1, word: 'Genius', work: 'JC'},
+instances: 1, word: 'Gentleness', work: 'JC'},
+instances: 1, word: 'Gentler', work: 'JC'},
+instances: 1, word: 'Gently', work: 'JC'},
+instances: 1, word: 'Ghastly', work: 'JC'},
+instances: 1, word: 'Girl', work: 'JC'},
+instances: 1, word: 'Giving', work: 'JC'},
+instances: 1, word: 'Glancèd', work: 'JC'},
+instances: 1, word: 'Glass', work: 'JC'},
+instances: 1, word: 'Glasses', work: 'JC'},
+instances: 1, word: 'Glazed', work: 'JC'},
+instances: 1, word: 'Gliding', work: 'JC'},
+instances: 1, word: 'Glow', work: 'JC'},
+instances: 1, word: 'Gorging', work: 'JC'},
+instances: 1, word: 'Govern', work: 'JC'},
+instances: 1, word: 'Gracious', work: 'JC'},
+instances: 1, word: 'Graspèd', work: 'JC'},
+instances: 1, word: 'Gravity', work: 'JC'},
+instances: 1, word: 'Gray', work: 'JC'},
+instances: 1, word: 'Graybeards', work: 'JC'},
+instances: 1, word: 'Graze', work: 'JC'},
+instances: 1, word: 'Greatness', work: 'JC'},
+instances: 1, word: 'Greeting', work: 'JC'},
+instances: 1, word: 'Greets', work: 'JC'},
+instances: 1, word: 'Grieve', work: 'JC'},
+instances: 1, word: 'Grieved', work: 'JC'},
+instances: 1, word: 'Grievous', work: 'JC'},
+instances: 1, word: 'Grievously', work: 'JC'},
+instances: 1, word: 'Grows', work: 'JC'},
+instances: 1, word: 'Grudge', work: 'JC'},
+instances: 1, word: 'Grudged', work: 'JC'},
+instances: 1, word: 'Guard', work: 'JC'},
+instances: 1, word: 'Guess', work: 'JC'},
+instances: 1, word: 'Guide', work: 'JC'},
+instances: 1, word: 'Guiltiness', work: 'JC'},
+instances: 1, word: 'Guilty', work: 'JC'},
+instances: 1, word: 'Gusty', work: 'JC'},
+instances: 1, word: 'Hack', work: 'JC'},
+instances: 1, word: 'Hacked', work: 'JC'},
+instances: 1, word: 'Hairs', work: 'JC'},
+instances: 1, word: 'Handiwork', work: 'JC'},
+instances: 1, word: 'Hanged', work: 'JC'},
+instances: 1, word: 'Hangs', work: 'JC'},
+instances: 1, word: 'Harlot', work: 'JC'},
+instances: 1, word: 'Harm\'s', work: 'JC'},
+instances: 1, word: 'Hasty', work: 'JC'},
+instances: 1, word: 'Hatched', work: 'JC'},
+instances: 1, word: 'Hate', work: 'JC'},
+instances: 1, word: 'Hated', work: 'JC'},
+instances: 1, word: 'Hateful', work: 'JC'},
+instances: 1, word: 'Hates', work: 'JC'},
+instances: 1, word: 'Hats', work: 'JC'},
+instances: 1, word: 'Havoc', work: 'JC'},
+instances: 1, word: 'Hazard', work: 'JC'},
+instances: 1, word: 'Hazards', work: 'JC'},
+instances: 1, word: 'Ha\'', work: 'JC'},
+instances: 1, word: 'Healthful', work: 'JC'},
+instances: 1, word: 'Heap', work: 'JC'},
+instances: 1, word: 'Heaped', work: 'JC'},
+instances: 1, word: 'Hearing', work: 'JC'},
+instances: 1, word: 'Hears', work: 'JC'},
+instances: 1, word: 'Hearse', work: 'JC'},
+instances: 1, word: 'Heart\'s', work: 'JC'},
+instances: 1, word: 'Hedge', work: 'JC'},
+instances: 1, word: 'Height', work: 'JC'},
+instances: 1, word: 'Henceforth', work: 'JC'},
+instances: 1, word: 'Heralds', work: 'JC'},
+instances: 1, word: 'Herd', work: 'JC'},
+instances: 1, word: 'Hew', work: 'JC'},
+instances: 1, word: 'He\'ll', work: 'JC'},
+instances: 1, word: 'Hidden', work: 'JC'},
+instances: 1, word: 'Hideous', work: 'JC'},
+instances: 1, word: 'Hides', work: 'JC'},
+instances: 1, word: 'High-sighted', work: 'JC'},
+instances: 1, word: 'Hills', work: 'JC'},
+instances: 1, word: 'Hinder', work: 'JC'},
+instances: 1, word: 'Hinds', work: 'JC'},
+instances: 1, word: 'Hiss', work: 'JC'},
+instances: 1, word: 'History', work: 'JC'},
+instances: 1, word: 'Hole', work: 'JC'},
+instances: 1, word: 'Holes', work: 'JC'},
+instances: 1, word: 'Hollow', work: 'JC'},
+instances: 1, word: 'Honey-heavy', work: 'JC'},
+instances: 1, word: 'Honeyless', work: 'JC'},
+instances: 1, word: 'Honorable-dangerous', work: 'JC'},
+instances: 1, word: 'Honorably', work: 'JC'},
+instances: 1, word: 'Hooted', work: 'JC'},
+instances: 1, word: 'Hooting', work: 'JC'},
+instances: 1, word: 'Hopes', work: 'JC'},
+instances: 1, word: 'Hoping', work: 'JC'},
+instances: 1, word: 'Horrid', work: 'JC'},
+instances: 1, word: 'Horsemen', work: 'JC'},
+instances: 1, word: 'Hour\'s', work: 'JC'},
+instances: 1, word: 'However', work: 'JC'},
+instances: 1, word: 'Hug', work: 'JC'},
+instances: 1, word: 'Humors', work: 'JC'},
+instances: 1, word: 'Hungry', work: 'JC'},
+instances: 1, word: 'Hunters', work: 'JC'},
+instances: 1, word: 'Hurl', work: 'JC'},
+instances: 1, word: 'Hurtled', work: 'JC'},
+instances: 1, word: 'Husbanded', work: 'JC'},
+instances: 1, word: 'Husband\'s', work: 'JC'},
+instances: 1, word: 'Hybla', work: 'JC'},
+instances: 1, word: 'Illuminate', work: 'JC'},
+instances: 1, word: 'Imitations', work: 'JC'},
+instances: 1, word: 'Immediate', work: 'JC'},
+instances: 1, word: 'Imminent', work: 'JC'},
+instances: 1, word: 'Impart', work: 'JC'},
+instances: 1, word: 'Impatient', work: 'JC'},
+instances: 1, word: 'Impatiently', work: 'JC'},
+instances: 1, word: 'Improve', work: 'JC'},
+instances: 1, word: 'Incenses', work: 'JC'},
+instances: 1, word: 'Incertain', work: 'JC'},
+instances: 1, word: 'Increaseth', work: 'JC'},
+instances: 1, word: 'Indifferent', work: 'JC'},
+instances: 1, word: 'Indifferently', work: 'JC'},
+instances: 1, word: 'Indirection', work: 'JC'},
+instances: 1, word: 'Infirmities', work: 'JC'},
+instances: 1, word: 'Infirmity', work: 'JC'},
+instances: 1, word: 'Inflame', work: 'JC'},
+instances: 1, word: 'Infused', work: 'JC'},
+instances: 1, word: 'Insisted', work: 'JC'},
+instances: 1, word: 'Instances', work: 'JC'},
+instances: 1, word: 'Instantly', work: 'JC'},
+instances: 1, word: 'Instigations', work: 'JC'},
+instances: 1, word: 'Insupportable', work: 'JC'},
+instances: 1, word: 'Insuppressive', work: 'JC'},
+instances: 1, word: 'Insurrection', work: 'JC'},
+instances: 1, word: 'Intend', work: 'JC'},
+instances: 1, word: 'Interim', work: 'JC'},
+instances: 1, word: 'Intermit', work: 'JC'},
+instances: 1, word: 'Interpose', work: 'JC'},
+instances: 1, word: 'Interpreted', work: 'JC'},
+instances: 1, word: 'Interrèd', work: 'JC'},
+instances: 1, word: 'Iron', work: 'JC'},
+instances: 1, word: 'I\'m', work: 'JC'},
+instances: 1, word: 'Jades', work: 'JC'},
+instances: 1, word: 'Jigging', work: 'JC'},
+instances: 1, word: 'Justice', work: 'JC'},
+instances: 1, word: 'Justice\'', work: 'JC'},
+instances: 1, word: 'Keeps', work: 'JC'},
+instances: 1, word: 'Kerchief', work: 'JC'},
+instances: 1, word: 'Killing', work: 'JC'},
+instances: 1, word: 'Kill\'st', work: 'JC'},
+instances: 1, word: 'Kindle', work: 'JC'},
+instances: 1, word: 'Kindness', work: 'JC'},
+instances: 1, word: 'Kingdom', work: 'JC'},
+instances: 1, word: 'Kingly', work: 'JC'},
+instances: 1, word: 'Kissing', work: 'JC'},
+instances: 1, word: 'Kites', work: 'JC'},
+instances: 1, word: 'Knocked', work: 'JC'},
+instances: 1, word: 'Knot', work: 'JC'},
+instances: 1, word: 'Knotty', work: 'JC'},
+instances: 1, word: 'Labeo', work: 'JC'},
+instances: 1, word: 'Labored', work: 'JC'},
+instances: 1, word: 'Laboring', work: 'JC'},
+instances: 1, word: 'Lack', work: 'JC'},
+instances: 1, word: 'Lacks', work: 'JC'},
+instances: 1, word: 'Lamb', work: 'JC'},
+instances: 1, word: 'Lamented', work: 'JC'},
+instances: 1, word: 'Laments', work: 'JC'},
+instances: 1, word: 'Land', work: 'JC'},
+instances: 1, word: 'Large', work: 'JC'},
+instances: 1, word: 'Latest', work: 'JC'},
+instances: 1, word: 'Laughed', work: 'JC'},
+instances: 1, word: 'Law', work: 'JC'},
+instances: 1, word: 'Lawful', work: 'JC'},
+instances: 1, word: 'Layest', work: 'JC'},
+instances: 1, word: 'Leaf', work: 'JC'},
+instances: 1, word: 'Leagues', work: 'JC'},
+instances: 1, word: 'Learn', work: 'JC'},
+instances: 1, word: 'Learned', work: 'JC'},
+instances: 1, word: 'Least', work: 'JC'},
+instances: 1, word: 'Legacies', work: 'JC'},
+instances: 1, word: 'Legacy', work: 'JC'},
+instances: 1, word: 'Legs', work: 'JC'},
+instances: 1, word: 'Leisure', work: 'JC'},
+instances: 1, word: 'Lethe', work: 'JC'},
+instances: 1, word: 'Levying', work: 'JC'},
+instances: 1, word: 'Liberties', work: 'JC'},
+instances: 1, word: 'Lief', work: 'JC'},
+instances: 1, word: 'Life\'s', work: 'JC'},
+instances: 1, word: 'Lift', work: 'JC'},
+instances: 1, word: 'Ligarius\'', work: 'JC'},
+instances: 1, word: 'Lighted', work: 'JC'},
+instances: 1, word: 'Lightens', work: 'JC'},
+instances: 1, word: 'Lightning', work: 'JC'},
+instances: 1, word: 'Lights', work: 'JC'},
+instances: 1, word: 'Likes', work: 'JC'},
+instances: 1, word: 'Limb', work: 'JC'},
+instances: 1, word: 'Limitation', work: 'JC'},
+instances: 1, word: 'Lines', work: 'JC'},
+instances: 1, word: 'Links', work: 'JC'},
+instances: 1, word: 'Lioness', work: 'JC'},
+instances: 1, word: 'List', work: 'JC'},
+instances: 1, word: 'Littered', work: 'JC'},
+instances: 1, word: 'Livelong', work: 'JC'},
+instances: 1, word: 'Lives', work: 'JC'},
+instances: 1, word: 'Livèd', work: 'JC'},
+instances: 1, word: 'Load', work: 'JC'},
+instances: 1, word: 'Loads', work: 'JC'},
+instances: 1, word: 'Loath', work: 'JC'},
+instances: 1, word: 'Lock', work: 'JC'},
+instances: 1, word: 'Lodge', work: 'JC'},
+instances: 1, word: 'Lofty', work: 'JC'},
+instances: 1, word: 'Loins', work: 'JC'},
+instances: 1, word: 'Looked', work: 'JC'},
+instances: 1, word: 'Looking', work: 'JC'},
+instances: 1, word: 'Lordship', work: 'JC'},
+instances: 1, word: 'Losing', work: 'JC'},
+instances: 1, word: 'Loss', work: 'JC'},
+instances: 1, word: 'Losses', work: 'JC'},
+instances: 1, word: 'Lottery', work: 'JC'},
+instances: 1, word: 'Lovest', work: 'JC'},
+instances: 1, word: 'Loving', work: 'JC'},
+instances: 1, word: 'Low-crookèd', work: 'JC'},
+instances: 1, word: 'Lowest', work: 'JC'},
+instances: 1, word: 'Lowliness', work: 'JC'},
+instances: 1, word: 'Lowly', work: 'JC'},
+instances: 1, word: 'Lucilius\'', work: 'JC'},
+instances: 1, word: 'Luster', work: 'JC'},
+instances: 1, word: 'Lying', work: 'JC'},
+instances: 1, word: 'Mace', work: 'JC'},
+instances: 1, word: 'Madman', work: 'JC'},
+instances: 1, word: 'Madmen', work: 'JC'},
+instances: 1, word: 'Main', work: 'JC'},
+instances: 1, word: 'Majestic', work: 'JC'},
+instances: 1, word: 'Making', work: 'JC'},
+instances: 1, word: 'Mak\'st', work: 'JC'},
+instances: 1, word: 'Malice', work: 'JC'},
+instances: 1, word: 'Marked', work: 'JC'},
+instances: 1, word: 'Marred', work: 'JC'},
+instances: 1, word: 'Marriage', work: 'JC'},
+instances: 1, word: 'Mart', work: 'JC'},
+instances: 1, word: 'Marullus', work: 'JC'},
+instances: 1, word: 'Mask', work: 'JC'},
+instances: 1, word: 'Masker', work: 'JC'},
+instances: 1, word: 'Master\'s', work: 'JC'},
+instances: 1, word: 'Mayest', work: 'JC'},
+instances: 1, word: 'Mayst', work: 'JC'},
+instances: 1, word: 'Meals', work: 'JC'},
+instances: 1, word: 'Mean\'st', work: 'JC'},
+instances: 1, word: 'Measure', work: 'JC'},
+instances: 1, word: 'Meat', work: 'JC'},
+instances: 1, word: 'Mechanical', work: 'JC'},
+instances: 1, word: 'Meddle', work: 'JC'},
+instances: 1, word: 'Meditates', work: 'JC'},
+instances: 1, word: 'Meditating', work: 'JC'},
+instances: 1, word: 'Meek', work: 'JC'},
+instances: 1, word: 'Melancholy\'s', work: 'JC'},
+instances: 1, word: 'Melteth', work: 'JC'},
+instances: 1, word: 'Melting', work: 'JC'},
+instances: 1, word: 'Memory', work: 'JC'},
+instances: 1, word: 'Menace', work: 'JC'},
+instances: 1, word: 'Mender', work: 'JC'},
+instances: 1, word: 'Mention', work: 'JC'},
+instances: 1, word: 'Mere', work: 'JC'},
+instances: 1, word: 'Merely', work: 'JC'},
+instances: 1, word: 'Merrily', work: 'JC'},
+instances: 1, word: 'Messengers', work: 'JC'},
+instances: 1, word: 'Met', work: 'JC'},
+instances: 1, word: 'Midnight', work: 'JC'},
+instances: 1, word: 'Mightier', work: 'JC'},
+instances: 1, word: 'Millions', work: 'JC'},
+instances: 1, word: 'Mine\'s', work: 'JC'},
+instances: 1, word: 'Mirrors', work: 'JC'},
+instances: 1, word: 'Mischiefs', work: 'JC'},
+instances: 1, word: 'Mischievous', work: 'JC'},
+instances: 1, word: 'Misconstrued', work: 'JC'},
+instances: 1, word: 'Miseries', work: 'JC'},
+instances: 1, word: 'Misgiving', work: 'JC'},
+instances: 1, word: 'Mistook', work: 'JC'},
+instances: 1, word: 'Mixed', work: 'JC'},
+instances: 1, word: 'Mock', work: 'JC'},
+instances: 1, word: 'Mocked', work: 'JC'},
+instances: 1, word: 'Modestly', work: 'JC'},
+instances: 1, word: 'Modesty', work: 'JC'},
+instances: 1, word: 'Monarch\'s', work: 'JC'},
+instances: 1, word: 'Money', work: 'JC'},
+instances: 1, word: 'Months', work: 'JC'},
+instances: 1, word: 'Mood', work: 'JC'},
+instances: 1, word: 'Moon', work: 'JC'},
+instances: 1, word: 'Mortal', work: 'JC'},
+instances: 1, word: 'Mortifièd', work: 'JC'},
+instances: 1, word: 'Mothers\'', work: 'JC'},
+instances: 1, word: 'Motives', work: 'JC'},
+instances: 1, word: 'Mount', work: 'JC'},
+instances: 1, word: 'Mountain', work: 'JC'},
+instances: 1, word: 'Mourn', work: 'JC'},
+instances: 1, word: 'Mourned', work: 'JC'},
+instances: 1, word: 'Muffling', work: 'JC'},
+instances: 1, word: 'Multitude', work: 'JC'},
+instances: 1, word: 'Murder', work: 'JC'},
+instances: 1, word: 'Murd\'rous', work: 'JC'},
+instances: 1, word: 'Musing', work: 'JC'},
+instances: 1, word: 'Naked', work: 'JC'},
+instances: 1, word: 'Name\'s', work: 'JC'},
+instances: 1, word: 'Napkins', work: 'JC'},
+instances: 1, word: 'Native', work: 'JC'},
+instances: 1, word: 'Natural', work: 'JC'},
+instances: 1, word: 'Natures', work: 'JC'},
+instances: 1, word: 'Naughty', work: 'JC'},
+instances: 1, word: 'Nearer', work: 'JC'},
+instances: 1, word: 'Neat\'s', work: 'JC'},
+instances: 1, word: 'Necessities', work: 'JC'},
+instances: 1, word: 'Necessity', work: 'JC'},
+instances: 1, word: 'Neck', work: 'JC'},
+instances: 1, word: 'Needs', work: 'JC'},
+instances: 1, word: 'Neglect', work: 'JC'},
+instances: 1, word: 'Neigh', work: 'JC'},
+instances: 1, word: 'Neighbors', work: 'JC'},
+instances: 1, word: 'Nervii', work: 'JC'},
+instances: 1, word: 'New-added', work: 'JC'},
+instances: 1, word: 'New-fired', work: 'JC'},
+instances: 1, word: 'New-planted', work: 'JC'},
+instances: 1, word: 'Nice', work: 'JC'},
+instances: 1, word: 'Niggard', work: 'JC'},
+instances: 1, word: 'Nightcaps', work: 'JC'},
+instances: 1, word: 'Nimbleness', work: 'JC'},
+instances: 1, word: 'Ninth', work: 'JC'},
+instances: 1, word: 'Nobler', work: 'JC'},
+instances: 1, word: 'Noblest-minded', work: 'JC'},
+instances: 1, word: 'Nobly', work: 'JC'},
+instances: 1, word: 'Noonday', work: 'JC'},
+instances: 1, word: 'North', work: 'JC'},
+instances: 1, word: 'Northern', work: 'JC'},
+instances: 1, word: 'Notebook', work: 'JC'},
+instances: 1, word: 'Noted', work: 'JC'},
+instances: 1, word: 'Notice', work: 'JC'},
+instances: 1, word: 'Notwithstanding', work: 'JC'},
+instances: 1, word: 'Not\'st', work: 'JC'},
+instances: 1, word: 'Numbers', work: 'JC'},
+instances: 1, word: 'Oaks', work: 'JC'},
+instances: 1, word: 'Oaths', work: 'JC'},
+instances: 1, word: 'Obey', work: 'JC'},
+instances: 1, word: 'Obscurely', work: 'JC'},
+instances: 1, word: 'Observed', work: 'JC'},
+instances: 1, word: 'Observer', work: 'JC'},
+instances: 1, word: 'Occupation', work: 'JC'},
+instances: 1, word: 'Ocean', work: 'JC'},
+instances: 1, word: 'Offal', work: 'JC'},
+instances: 1, word: 'Offenses', work: 'JC'},
+instances: 1, word: 'Offer', work: 'JC'},
+instances: 1, word: 'Offering', work: 'JC'},
+instances: 1, word: 'Office', work: 'JC'},
+instances: 1, word: 'Officers', work: 'JC'},
+instances: 1, word: 'Offices', work: 'JC'},
+instances: 1, word: 'Older', work: 'JC'},
+instances: 1, word: 'Omitted', work: 'JC'},
+instances: 1, word: 'Opening', work: 'JC'},
+instances: 1, word: 'Opens', work: 'JC'},
+instances: 1, word: 'Opinions', work: 'JC'},
+instances: 1, word: 'Oration', work: 'JC'},
+instances: 1, word: 'Orator', work: 'JC'},
+instances: 1, word: 'Orchards', work: 'JC'},
+instances: 1, word: 'Ordered', work: 'JC'},
+instances: 1, word: 'Ordinance', work: 'JC'},
+instances: 1, word: 'Otherwise', work: 'JC'},
+instances: 1, word: 'Ourself', work: 'JC'},
+instances: 1, word: 'Outlawry', work: 'JC'},
+instances: 1, word: 'Outlive', work: 'JC'},
+instances: 1, word: 'Outward', work: 'JC'},
+instances: 1, word: 'Over-earnest', work: 'JC'},
+instances: 1, word: 'Overthrow', work: 'JC'},
+instances: 1, word: 'Overthrown', work: 'JC'},
+instances: 1, word: 'Owe', work: 'JC'},
+instances: 1, word: 'O\'erread', work: 'JC'},
+instances: 1, word: 'O\'ershot', work: 'JC'},
+instances: 1, word: 'O\'ersway', work: 'JC'},
+instances: 1, word: 'O\'erswell', work: 'JC'},
+instances: 1, word: 'O\'erwatched', work: 'JC'},
+instances: 1, word: 'Paid', work: 'JC'},
+instances: 1, word: 'Pains', work: 'JC'},
+instances: 1, word: 'Painted', work: 'JC'},
+instances: 1, word: 'Palter', work: 'JC'},
+instances: 1, word: 'Papers', work: 'JC'},
+instances: 1, word: 'Parchment', work: 'JC'},
+instances: 1, word: 'Parley', work: 'JC'},
+instances: 1, word: 'Partake', work: 'JC'},
+instances: 1, word: 'Parthia', work: 'JC'},
+instances: 1, word: 'Particle', work: 'JC'},
+instances: 1, word: 'Party', work: 'JC'},
+instances: 1, word: 'Passed', work: 'JC'},
+instances: 1, word: 'Passions', work: 'JC'},
+instances: 1, word: 'Past', work: 'JC'},
+instances: 1, word: 'Path', work: 'JC'},
+instances: 1, word: 'Peasants', work: 'JC'},
+instances: 1, word: 'Peep', work: 'JC'},
+instances: 1, word: 'Peevish', work: 'JC'},
+instances: 1, word: 'Pella', work: 'JC'},
+instances: 1, word: 'People\'s', work: 'JC'},
+instances: 1, word: 'Perceived', work: 'JC'},
+instances: 1, word: 'Perched', work: 'JC'},
+instances: 1, word: 'Performance', work: 'JC'},
+instances: 1, word: 'Performed', work: 'JC'},
+instances: 1, word: 'Perilous', work: 'JC'},
+instances: 1, word: 'Person', work: 'JC'},
+instances: 1, word: 'Persuasion', work: 'JC'},
+instances: 1, word: 'Petition', work: 'JC'},
+instances: 1, word: 'Petitions', work: 'JC'},
+instances: 1, word: 'Petty', work: 'JC'},
+instances: 1, word: 'Phantasma', work: 'JC'},
+instances: 1, word: 'Physical', work: 'JC'},
+instances: 1, word: 'Piercing', work: 'JC'},
+instances: 1, word: 'Pipes', work: 'JC'},
+instances: 1, word: 'Pit', work: 'JC'},
+instances: 1, word: 'Pitch', work: 'JC'},
+instances: 1, word: 'Piteous', work: 'JC'},
+instances: 1, word: 'Pitiful', work: 'JC'},
+instances: 1, word: 'Places', work: 'JC'},
+instances: 1, word: 'Plague', work: 'JC'},
+instances: 1, word: 'Players', work: 'JC'},
+instances: 1, word: 'Pleased', work: 'JC'},
+instances: 1, word: 'Pleasing', work: 'JC'},
+instances: 1, word: 'Pledge', work: 'JC'},
+instances: 1, word: 'Plucking', work: 'JC'},
+instances: 1, word: 'Plungèd', work: 'JC'},
+instances: 1, word: 'Pluto\'s', work: 'JC'},
+instances: 1, word: 'Pocket', work: 'JC'},
+instances: 1, word: 'Points', work: 'JC'},
+instances: 1, word: 'Portentous', work: 'JC'},
+instances: 1, word: 'Portents', work: 'JC'},
+instances: 1, word: 'Possible', work: 'JC'},
+instances: 1, word: 'Post', work: 'JC'},
+instances: 1, word: 'Posture', work: 'JC'},
+instances: 1, word: 'Praetors', work: 'JC'},
+instances: 1, word: 'Praetor\'s', work: 'JC'},
+instances: 1, word: 'Praise', work: 'JC'},
+instances: 1, word: 'Praising', work: 'JC'},
+instances: 1, word: 'Prayers', work: 'JC'},
+instances: 1, word: 'Praying', work: 'JC'},
+instances: 1, word: 'Predictions', work: 'JC'},
+instances: 1, word: 'Preformèd', work: 'JC'},
+instances: 1, word: 'Preordinance', work: 'JC'},
+instances: 1, word: 'Prepared', work: 'JC'},
+instances: 1, word: 'Presage', work: 'JC'},
+instances: 1, word: 'Presence', work: 'JC'},
+instances: 1, word: 'Presented', work: 'JC'},
+instances: 1, word: 'Presents', work: 'JC'},
+instances: 1, word: 'Presume', work: 'JC'},
+instances: 1, word: 'Prevail', work: 'JC'},
+instances: 1, word: 'Prevailed', work: 'JC'},
+instances: 1, word: 'Prey', work: 'JC'},
+instances: 1, word: 'Prize', work: 'JC'},
+instances: 1, word: 'Proceed', work: 'JC'},
+instances: 1, word: 'Proceeding', work: 'JC'},
+instances: 1, word: 'Prodigious', work: 'JC'},
+instances: 1, word: 'Produce', work: 'JC'},
+instances: 1, word: 'Profess', work: 'JC'},
+instances: 1, word: 'Profession', work: 'JC'},
+instances: 1, word: 'Progress', work: 'JC'},
+instances: 1, word: 'Promised', work: 'JC'},
+instances: 1, word: 'Property', work: 'JC'},
+instances: 1, word: 'Prophesy', work: 'JC'},
+instances: 1, word: 'Proposed', work: 'JC'},
+instances: 1, word: 'Proscriptions', work: 'JC'},
+instances: 1, word: 'Prostrate', work: 'JC'},
+instances: 1, word: 'Protest', work: 'JC'},
+instances: 1, word: 'Protester', work: 'JC'},
+instances: 1, word: 'Proud', work: 'JC'},
+instances: 1, word: 'Proved', work: 'JC'},
+instances: 1, word: 'Provender', work: 'JC'},
+instances: 1, word: 'Proves', work: 'JC'},
+instances: 1, word: 'Providence', work: 'JC'},
+instances: 1, word: 'Puissant', work: 'JC'},
+instances: 1, word: 'Pulled', work: 'JC'},
+instances: 1, word: 'Pulling', work: 'JC'},
+instances: 1, word: 'Pulpits', work: 'JC'},
+instances: 1, word: 'Purchase', work: 'JC'},
+instances: 1, word: 'Pure', work: 'JC'},
+instances: 1, word: 'Purgers', work: 'JC'},
+instances: 1, word: 'Purpled', work: 'JC'},
+instances: 1, word: 'Purposed', work: 'JC'},
+instances: 1, word: 'Puts', work: 'JC'},
+instances: 1, word: 'Putting-by', work: 'JC'},
+instances: 1, word: 'Quarrel', work: 'JC'},
+instances: 1, word: 'Rabblement', work: 'JC'},
+instances: 1, word: 'Range', work: 'JC'},
+instances: 1, word: 'Ranging', work: 'JC'},
+instances: 1, word: 'Ranks', work: 'JC'},
+instances: 1, word: 'Ransoms', work: 'JC'},
+instances: 1, word: 'Rascal', work: 'JC'},
+instances: 1, word: 'Rated', work: 'JC'},
+instances: 1, word: 'Ravens', work: 'JC'},
+instances: 1, word: 'Rays', work: 'JC'},
+instances: 1, word: 'Reading', work: 'JC'},
+instances: 1, word: 'Reads', work: 'JC'},
+instances: 1, word: 'Rears', work: 'JC'},
+instances: 1, word: 'Rebel', work: 'JC'},
+instances: 1, word: 'Received', work: 'JC'},
+instances: 1, word: 'Receivest', work: 'JC'},
+instances: 1, word: 'Receiving', work: 'JC'},
+instances: 1, word: 'Receivèd', work: 'JC'},
+instances: 1, word: 'Recount', work: 'JC'},
+instances: 1, word: 'Recounts', work: 'JC'},
+instances: 1, word: 'Recover', work: 'JC'},
+instances: 1, word: 'Recreate', work: 'JC'},
+instances: 1, word: 'Redder', work: 'JC'},
+instances: 1, word: 'Reek', work: 'JC'},
+instances: 1, word: 'Refreshed', work: 'JC'},
+instances: 1, word: 'Refuse', work: 'JC'},
+instances: 1, word: 'Regarded', work: 'JC'},
+instances: 1, word: 'Regions', work: 'JC'},
+instances: 1, word: 'Relics', work: 'JC'},
+instances: 1, word: 'Remain', work: 'JC'},
+instances: 1, word: 'Remained', work: 'JC'},
+instances: 1, word: 'Remains', work: 'JC'},
+instances: 1, word: 'Remorse', work: 'JC'},
+instances: 1, word: 'Rendered', work: 'JC'},
+instances: 1, word: 'Rent', work: 'JC'},
+instances: 1, word: 'Repeal', work: 'JC'},
+instances: 1, word: 'Repealing', work: 'JC'},
+instances: 1, word: 'Replication', work: 'JC'},
+instances: 1, word: 'Reply', work: 'JC'},
+instances: 1, word: 'Report', work: 'JC'},
+instances: 1, word: 'Repose', work: 'JC'},
+instances: 1, word: 'Repute', work: 'JC'},
+instances: 1, word: 'Request', work: 'JC'},
+instances: 1, word: 'Resolution', work: 'JC'},
+instances: 1, word: 'Resort', work: 'JC'},
+instances: 1, word: 'Resting', work: 'JC'},
+instances: 1, word: 'Rests', work: 'JC'},
+instances: 1, word: 'Retentive', work: 'JC'},
+instances: 1, word: 'Return', work: 'JC'},
+instances: 1, word: 'Returning', work: 'JC'},
+instances: 1, word: 'Reveler', work: 'JC'},
+instances: 1, word: 'Revels', work: 'JC'},
+instances: 1, word: 'Reviving', work: 'JC'},
+instances: 1, word: 'Rheumy', work: 'JC'},
+instances: 1, word: 'Rhyme', work: 'JC'},
+instances: 1, word: 'Richer', work: 'JC'},
+instances: 1, word: 'Richest', work: 'JC'},
+instances: 1, word: 'Rightly', work: 'JC'},
+instances: 1, word: 'Ripe', work: 'JC'},
+instances: 1, word: 'Roared', work: 'JC'},
+instances: 1, word: 'Roars', work: 'JC'},
+instances: 1, word: 'Rob', work: 'JC'},
+instances: 1, word: 'Robbers', work: 'JC'},
+instances: 1, word: 'Robe', work: 'JC'},
+instances: 1, word: 'Rock', work: 'JC'},
+instances: 1, word: 'Rogues', work: 'JC'},
+instances: 1, word: 'Roman\'s', work: 'JC'},
+instances: 1, word: 'Rose', work: 'JC'},
+instances: 1, word: 'Rote', work: 'JC'},
+instances: 1, word: 'Rout', work: 'JC'},
+instances: 1, word: 'Rubbish', work: 'JC'},
+instances: 1, word: 'Ruby', work: 'JC'},
+instances: 1, word: 'Ruddy', work: 'JC'},
+instances: 1, word: 'Rude', work: 'JC'},
+instances: 1, word: 'Rudeness', work: 'JC'},
+instances: 1, word: 'Ruffle', work: 'JC'},
+instances: 1, word: 'Ruins', work: 'JC'},
+instances: 1, word: 'Rumor', work: 'JC'},
+instances: 1, word: 'Runs', work: 'JC'},
+instances: 1, word: 'Sacred', work: 'JC'},
+instances: 1, word: 'Sacrifice', work: 'JC'},
+instances: 1, word: 'Sacrificers', work: 'JC'},
+instances: 1, word: 'Safely', work: 'JC'},
+instances: 1, word: 'Safety', work: 'JC'},
+instances: 1, word: 'Salutation', work: 'JC'},
+instances: 1, word: 'Sardians', work: 'JC'},
+instances: 1, word: 'Sat', work: 'JC'},
+instances: 1, word: 'Satisfaction', work: 'JC'},
+instances: 1, word: 'Satisfy', work: 'JC'},
+instances: 1, word: 'Sauce', work: 'JC'},
+instances: 1, word: 'Savage', work: 'JC'},
+instances: 1, word: 'Saving', work: 'JC'},
+instances: 1, word: 'Saying', work: 'JC'},
+instances: 1, word: 'Sayings', work: 'JC'},
+instances: 1, word: 'Sayst', work: 'JC'},
+instances: 1, word: 'Scandal', work: 'JC'},
+instances: 1, word: 'Scarves', work: 'JC'},
+instances: 1, word: 'Scene', work: 'JC'},
+instances: 1, word: 'Schedule', work: 'JC'},
+instances: 1, word: 'Schoolboy', work: 'JC'},
+instances: 1, word: 'Scolding', work: 'JC'},
+instances: 1, word: 'Scope', work: 'JC'},
+instances: 1, word: 'Scorned', work: 'JC'},
+instances: 1, word: 'Scorning', work: 'JC'},
+instances: 1, word: 'Scratched', work: 'JC'},
+instances: 1, word: 'Sealed', work: 'JC'},
+instances: 1, word: 'Search', work: 'JC'},
+instances: 1, word: 'Searching', work: 'JC'},
+instances: 1, word: 'Season', work: 'JC'},
+instances: 1, word: 'Security', work: 'JC'},
+instances: 1, word: 'Seduced', work: 'JC'},
+instances: 1, word: 'Seems', work: 'JC'},
+instances: 1, word: 'Seest', work: 'JC'},
+instances: 1, word: 'Seldom', work: 'JC'},
+instances: 1, word: 'Selfsame', work: 'JC'},
+instances: 1, word: 'Semblance', work: 'JC'},
+instances: 1, word: 'Senseless', work: 'JC'},
+instances: 1, word: 'Senses', work: 'JC'},
+instances: 1, word: 'Sensible', work: 'JC'},
+instances: 1, word: 'Sent', work: 'JC'},
+instances: 1, word: 'Sentence', work: 'JC'},
+instances: 1, word: 'Serpent\'s', work: 'JC'},
+instances: 1, word: 'Servants', work: 'JC'},
+instances: 1, word: 'Serve', work: 'JC'},
+instances: 1, word: 'Service', work: 'JC'},
+instances: 1, word: 'Servile', work: 'JC'},
+instances: 1, word: 'Setting', work: 'JC'},
+instances: 1, word: 'Seventy', work: 'JC'},
+instances: 1, word: 'Seventy-five', work: 'JC'},
+instances: 1, word: 'Severally', work: 'JC'},
+instances: 1, word: 'Sex', work: 'JC'},
+instances: 1, word: 'Shadow', work: 'JC'},
+instances: 1, word: 'Shadows', work: 'JC'},
+instances: 1, word: 'Shakes', work: 'JC'},
+instances: 1, word: 'Shaking', work: 'JC'},
+instances: 1, word: 'Shallows', work: 'JC'},
+instances: 1, word: 'Shamed', work: 'JC'},
+instances: 1, word: 'Sham\'st', work: 'JC'},
+instances: 1, word: 'Shape', work: 'JC'},
+instances: 1, word: 'Shapes', work: 'JC'},
+instances: 1, word: 'Share', work: 'JC'},
+instances: 1, word: 'Sheathe', work: 'JC'},
+instances: 1, word: 'Sheep', work: 'JC'},
+instances: 1, word: 'Shell', work: 'JC'},
+instances: 1, word: 'Shine', work: 'JC'},
+instances: 1, word: 'Shook', work: 'JC'},
+instances: 1, word: 'Shop', work: 'JC'},
+instances: 1, word: 'Shoulder', work: 'JC'},
+instances: 1, word: 'Shouting', work: 'JC'},
+instances: 1, word: 'Shrewd', work: 'JC'},
+instances: 1, word: 'Shrewdly', work: 'JC'},
+instances: 1, word: 'Shriek', work: 'JC'},
+instances: 1, word: 'Shrieking', work: 'JC'},
+instances: 1, word: 'Shriller', work: 'JC'},
+instances: 1, word: 'Shrunk', work: 'JC'},
+instances: 1, word: 'Sicken', work: 'JC'},
+instances: 1, word: 'Sides', work: 'JC'},
+instances: 1, word: 'Sighing', work: 'JC'},
+instances: 1, word: 'Signal', work: 'JC'},
+instances: 1, word: 'Signed', work: 'JC'},
+instances: 1, word: 'Signified', work: 'JC'},
+instances: 1, word: 'Signifies', work: 'JC'},
+instances: 1, word: 'Silent', work: 'JC'},
+instances: 1, word: 'Silver', work: 'JC'},
+instances: 1, word: 'Simple', work: 'JC'},
+instances: 1, word: 'Sinews', work: 'JC'},
+instances: 1, word: 'Single', work: 'JC'},
+instances: 1, word: 'Sister\'s', work: 'JC'},
+instances: 1, word: 'Sits', work: 'JC'},
+instances: 1, word: 'Six', work: 'JC'},
+instances: 1, word: 'Skies', work: 'JC'},
+instances: 1, word: 'Sky', work: 'JC'},
+instances: 1, word: 'Sland\'rous', work: 'JC'},
+instances: 1, word: 'Slaughter', work: 'JC'},
+instances: 1, word: 'Slave', work: 'JC'},
+instances: 1, word: 'Slaying', work: 'JC'},
+instances: 1, word: 'Sleek-headed', work: 'JC'},
+instances: 1, word: 'Sleepy', work: 'JC'},
+instances: 1, word: 'Sleeve', work: 'JC'},
+instances: 1, word: 'Slighted', work: 'JC'},
+instances: 1, word: 'Slip', work: 'JC'},
+instances: 1, word: 'Slippery', work: 'JC'},
+instances: 1, word: 'Smallest', work: 'JC'},
+instances: 1, word: 'Smatch', work: 'JC'},
+instances: 1, word: 'Smell', work: 'JC'},
+instances: 1, word: 'Smiled', work: 'JC'},
+instances: 1, word: 'Smoke', work: 'JC'},
+instances: 1, word: 'Soar', work: 'JC'},
+instances: 1, word: 'Sober', work: 'JC'},
+instances: 1, word: 'Soil', work: 'JC'},
+instances: 1, word: 'Soldiers\'', work: 'JC'},
+instances: 1, word: 'Soles', work: 'JC'},
+instances: 1, word: 'Somebody', work: 'JC'},
+instances: 1, word: 'Someone', work: 'JC'},
+instances: 1, word: 'Sometime', work: 'JC'},
+instances: 1, word: 'Sometimes', work: 'JC'},
+instances: 1, word: 'Sooth', work: 'JC'},
+instances: 1, word: 'Soothsayer', work: 'JC'},
+instances: 1, word: 'Sought', work: 'JC'},
+instances: 1, word: 'Sounded', work: 'JC'},
+instances: 1, word: 'Soundless', work: 'JC'},
+instances: 1, word: 'Soundly', work: 'JC'},
+instances: 1, word: 'Sounds', work: 'JC'},
+instances: 1, word: 'Sour', work: 'JC'},
+instances: 1, word: 'South', work: 'JC'},
+instances: 1, word: 'Space', work: 'JC'},
+instances: 1, word: 'Spain', work: 'JC'},
+instances: 1, word: 'Spaniel', work: 'JC'},
+instances: 1, word: 'Spare', work: 'JC'},
+instances: 1, word: 'Spark', work: 'JC'},
+instances: 1, word: 'Speak\'st', work: 'JC'},
+instances: 1, word: 'Speeches', work: 'JC'},
+instances: 1, word: 'Speechless', work: 'JC'},
+instances: 1, word: 'Spleen', work: 'JC'},
+instances: 1, word: 'Split', work: 'JC'},
+instances: 1, word: 'Spoils', work: 'JC'},
+instances: 1, word: 'Sport', work: 'JC'},
+instances: 1, word: 'Sports', work: 'JC'},
+instances: 1, word: 'Spouting', work: 'JC'},
+instances: 1, word: 'Spouts', work: 'JC'},
+instances: 1, word: 'Squadrons', work: 'JC'},
+instances: 1, word: 'Squeal', work: 'JC'},
+instances: 1, word: 'Stain', work: 'JC'},
+instances: 1, word: 'Stains', work: 'JC'},
+instances: 1, word: 'Stake', work: 'JC'},
+instances: 1, word: 'Stale', work: 'JC'},
+instances: 1, word: 'Staled', work: 'JC'},
+instances: 1, word: 'Stamped', work: 'JC'},
+instances: 1, word: 'Standing', work: 'JC'},
+instances: 1, word: 'Star', work: 'JC'},
+instances: 1, word: 'Stared', work: 'JC'},
+instances: 1, word: 'Stares', work: 'JC'},
+instances: 1, word: 'States', work: 'JC'},
+instances: 1, word: 'Statilius', work: 'JC'},
+instances: 1, word: 'Stays', work: 'JC'},
+instances: 1, word: 'Steads', work: 'JC'},
+instances: 1, word: 'Stemming', work: 'JC'},
+instances: 1, word: 'Sterile', work: 'JC'},
+instances: 1, word: 'Sterner', work: 'JC'},
+instances: 1, word: 'Stingless', work: 'JC'},
+instances: 1, word: 'Stinking', work: 'JC'},
+instances: 1, word: 'Stirred', work: 'JC'},
+instances: 1, word: 'Stole', work: 'JC'},
+instances: 1, word: 'Stolen', work: 'JC'},
+instances: 1, word: 'Stomach', work: 'JC'},
+instances: 1, word: 'Stomachs', work: 'JC'},
+instances: 1, word: 'Stony', work: 'JC'},
+instances: 1, word: 'Stop', work: 'JC'},
+instances: 1, word: 'Storm', work: 'JC'},
+instances: 1, word: 'Story', work: 'JC'},
+instances: 1, word: 'Straightway', work: 'JC'},
+instances: 1, word: 'Strange-disposèd', work: 'JC'},
+instances: 1, word: 'Straws', work: 'JC'},
+instances: 1, word: 'Strengthen', work: 'JC'},
+instances: 1, word: 'Stretch', work: 'JC'},
+instances: 1, word: 'Strew', work: 'JC'},
+instances: 1, word: 'Stricken', work: 'JC'},
+instances: 1, word: 'Strings', work: 'JC'},
+instances: 1, word: 'Strive', work: 'JC'},
+instances: 1, word: 'Stronger', work: 'JC'},
+instances: 1, word: 'Stubborn', work: 'JC'},
+instances: 1, word: 'Study', work: 'JC'},
+instances: 1, word: 'Stuff', work: 'JC'},
+instances: 1, word: 'Subject', work: 'JC'},
+instances: 1, word: 'Submitting', work: 'JC'},
+instances: 1, word: 'Subtle', work: 'JC'},
+instances: 1, word: 'Suburbs', work: 'JC'},
+instances: 1, word: 'Suddenly', work: 'JC'},
+instances: 1, word: 'Suffered', work: 'JC'},
+instances: 1, word: 'Suffering', work: 'JC'},
+instances: 1, word: 'Suffers', work: 'JC'},
+instances: 1, word: 'Summer\'s', work: 'JC'},
+instances: 1, word: 'Sums', work: 'JC'},
+instances: 1, word: 'Sup', work: 'JC'},
+instances: 1, word: 'Superstitious', work: 'JC'},
+instances: 1, word: 'Supper', work: 'JC'},
+instances: 1, word: 'Supporting', work: 'JC'},
+instances: 1, word: 'Surest', work: 'JC'},
+instances: 1, word: 'Surgeon', work: 'JC'},
+instances: 1, word: 'Surly', work: 'JC'},
+instances: 1, word: 'Swallowed', work: 'JC'},
+instances: 1, word: 'Sway', work: 'JC'},
+instances: 1, word: 'Sweaty', work: 'JC'},
+instances: 1, word: 'Sweetly', work: 'JC'},
+instances: 1, word: 'Swoon', work: 'JC'},
+instances: 1, word: 'Swooned', work: 'JC'},
+instances: 1, word: 'Tag-rag', work: 'JC'},
+instances: 1, word: 'Taking', work: 'JC'},
+instances: 1, word: 'Talked', work: 'JC'},
+instances: 1, word: 'Tardy', work: 'JC'},
+instances: 1, word: 'Tarquin', work: 'JC'},
+instances: 1, word: 'Tarry', work: 'JC'},
+instances: 1, word: 'Tarrying', work: 'JC'},
+instances: 1, word: 'Taught', work: 'JC'},
+instances: 1, word: 'Teach', work: 'JC'},
+instances: 1, word: 'Telltale', work: 'JC'},
+instances: 1, word: 'Tempest', work: 'JC'},
+instances: 1, word: 'Tempests', work: 'JC'},
+instances: 1, word: 'Tempted', work: 'JC'},
+instances: 1, word: 'Tenor', work: 'JC'},
+instances: 1, word: 'Terms', work: 'JC'},
+instances: 1, word: 'Testy', work: 'JC'},
+instances: 1, word: 'Thasos', work: 'JC'},
+instances: 1, word: 'Thawed', work: 'JC'},
+instances: 1, word: 'Thews', work: 'JC'},
+instances: 1, word: 'Thigh', work: 'JC'},
+instances: 1, word: 'Think\'st', work: 'JC'},
+instances: 1, word: 'Thirsty', work: 'JC'},
+instances: 1, word: 'Thirty', work: 'JC'},
+instances: 1, word: 'Thither', work: 'JC'},
+instances: 1, word: 'Thousand', work: 'JC'},
+instances: 1, word: 'Threat', work: 'JC'},
+instances: 1, word: 'Threatened', work: 'JC'},
+instances: 1, word: 'Threats', work: 'JC'},
+instances: 1, word: 'Threat\'ning', work: 'JC'},
+instances: 1, word: 'Threefold', work: 'JC'},
+instances: 1, word: 'Threw', work: 'JC'},
+instances: 1, word: 'Throat', work: 'JC'},
+instances: 1, word: 'Throwing', work: 'JC'},
+instances: 1, word: 'Throws', work: 'JC'},
+instances: 1, word: 'Thunder-stone', work: 'JC'},
+instances: 1, word: 'Thunderbolts', work: 'JC'},
+instances: 1, word: 'Thunders', work: 'JC'},
+instances: 1, word: 'Time\'s', work: 'JC'},
+instances: 1, word: 'Tinctures', work: 'JC'},
+instances: 1, word: 'Tired', work: 'JC'},
+instances: 1, word: 'Toils', work: 'JC'},
+instances: 1, word: 'Tokens', work: 'JC'},
+instances: 1, word: 'Tongue-tied', work: 'JC'},
+instances: 1, word: 'Tops', work: 'JC'},
+instances: 1, word: 'Torches', work: 'JC'},
+instances: 1, word: 'Torchlight', work: 'JC'},
+instances: 1, word: 'Torrent', work: 'JC'},
+instances: 1, word: 'Touching', work: 'JC'},
+instances: 1, word: 'Touchèd', work: 'JC'},
+instances: 1, word: 'Tower', work: 'JC'},
+instances: 1, word: 'Towers', work: 'JC'},
+instances: 1, word: 'Tradesman\'s', work: 'JC'},
+instances: 1, word: 'Train', work: 'JC'},
+instances: 1, word: 'Trained', work: 'JC'},
+instances: 1, word: 'Traitor', work: 'JC'},
+instances: 1, word: 'Transformèd', work: 'JC'},
+instances: 1, word: 'Treason', work: 'JC'},
+instances: 1, word: 'Treasure', work: 'JC'},
+instances: 1, word: 'Trees', work: 'JC'},
+instances: 1, word: 'Trembled', work: 'JC'},
+instances: 1, word: 'Trial', work: 'JC'},
+instances: 1, word: 'Tributaries', work: 'JC'},
+instances: 1, word: 'Tricks', work: 'JC'},
+instances: 1, word: 'Triumphs', work: 'JC'},
+instances: 1, word: 'Trod', work: 'JC'},
+instances: 1, word: 'Trophies', work: 'JC'},
+instances: 1, word: 'Troubled', work: 'JC'},
+instances: 1, word: 'Troy', work: 'JC'},
+instances: 1, word: 'Trust', work: 'JC'},
+instances: 1, word: 'Tu', work: 'JC'},
+instances: 1, word: 'Tune', work: 'JC'},
+instances: 1, word: 'Turning', work: 'JC'},
+instances: 1, word: 'Tut', work: 'JC'},
+instances: 1, word: 'Unaccustomed', work: 'JC'},
+instances: 1, word: 'Unassailable', work: 'JC'},
+instances: 1, word: 'Unborn', work: 'JC'},
+instances: 1, word: 'Undergo', work: 'JC'},
+instances: 1, word: 'Underlings', work: 'JC'},
+instances: 1, word: 'Understood', work: 'JC'},
+instances: 1, word: 'Undeservers', work: 'JC'},
+instances: 1, word: 'Undone', work: 'JC'},
+instances: 1, word: 'Unfirm', work: 'JC'},
+instances: 1, word: 'Ungentle', work: 'JC'},
+instances: 1, word: 'Ungently', work: 'JC'},
+instances: 1, word: 'Unicorns', work: 'JC'},
+instances: 1, word: 'Universal', work: 'JC'},
+instances: 1, word: 'Unkindest', work: 'JC'},
+instances: 1, word: 'Unkindly', work: 'JC'},
+instances: 1, word: 'Unkindness', work: 'JC'},
+instances: 1, word: 'Unless', work: 'JC'},
+instances: 1, word: 'Unluckily', work: 'JC'},
+instances: 1, word: 'Unmeritable', work: 'JC'},
+instances: 1, word: 'Unnumbered', work: 'JC'},
+instances: 1, word: 'Unpurgèd', work: 'JC'},
+instances: 1, word: 'Unscorched', work: 'JC'},
+instances: 1, word: 'Unshaked', work: 'JC'},
+instances: 1, word: 'Until', work: 'JC'},
+instances: 1, word: 'Untired', work: 'JC'},
+instances: 1, word: 'Untouched', work: 'JC'},
+instances: 1, word: 'Untrod', work: 'JC'},
+instances: 1, word: 'Upmost', work: 'JC'},
+instances: 1, word: 'Upper', work: 'JC'},
+instances: 1, word: 'Upward', work: 'JC'},
+instances: 1, word: 'Used', work: 'JC'},
+instances: 1, word: 'Useth', work: 'JC'},
+instances: 1, word: 'Utmost', work: 'JC'},
+instances: 1, word: 'Utter', work: 'JC'},
+instances: 1, word: 'Uttered', work: 'JC'},
+instances: 1, word: 'Value', work: 'JC'},
+instances: 1, word: 'Vanish', work: 'JC'},
+instances: 1, word: 'Vanishest', work: 'JC'},
+instances: 1, word: 'Vanishèd', work: 'JC'},
+instances: 1, word: 'Vanquished', work: 'JC'},
+instances: 1, word: 'Vaunting', work: 'JC'},
+instances: 1, word: 'Veiled', work: 'JC'},
+instances: 1, word: 'Venom', work: 'JC'},
+instances: 1, word: 'Ventures', work: 'JC'},
+instances: 1, word: 'Vessel', work: 'JC'},
+instances: 1, word: 'Vesture', work: 'JC'},
+instances: 1, word: 'Vexeth', work: 'JC'},
+instances: 1, word: 'Vexèd', work: 'JC'},
+instances: 1, word: 'Victory', work: 'JC'},
+instances: 1, word: 'View', work: 'JC'},
+instances: 1, word: 'Vilely', work: 'JC'},
+instances: 1, word: 'Villager', work: 'JC'},
+instances: 1, word: 'Villain', work: 'JC'},
+instances: 1, word: 'Visage', work: 'JC'},
+instances: 1, word: 'Vision', work: 'JC'},
+instances: 1, word: 'Voices', work: 'JC'},
+instances: 1, word: 'Void', work: 'JC'},
+instances: 1, word: 'Voluntary', work: 'JC'},
+instances: 1, word: 'Vow', work: 'JC'},
+instances: 1, word: 'Vows', work: 'JC'},
+instances: 1, word: 'Voyage', work: 'JC'},
+instances: 1, word: 'Vulgar', work: 'JC'},
+instances: 1, word: 'Wafture', work: 'JC'},
+instances: 1, word: 'Wait', work: 'JC'},
+instances: 1, word: 'Waited', work: 'JC'},
+instances: 1, word: 'Wake', work: 'JC'},
+instances: 1, word: 'Wander', work: 'JC'},
+instances: 1, word: 'Want', work: 'JC'},
+instances: 1, word: 'Warn', work: 'JC'},
+instances: 1, word: 'Warning', work: 'JC'},
+instances: 1, word: 'Warnings', work: 'JC'},
+instances: 1, word: 'Warriors', work: 'JC'},
+instances: 1, word: 'Wars', work: 'JC'},
+instances: 1, word: 'Wary', work: 'JC'},
+instances: 1, word: 'Wash', work: 'JC'},
+instances: 1, word: 'Waspish', work: 'JC'},
+instances: 1, word: 'Waste', work: 'JC'},
+instances: 1, word: 'Wasted', work: 'JC'},
+instances: 1, word: 'Watchful', work: 'JC'},
+instances: 1, word: 'Water', work: 'JC'},
+instances: 1, word: 'Waves', work: 'JC'},
+instances: 1, word: 'Waving', work: 'JC'},
+instances: 1, word: 'Wax', work: 'JC'},
+instances: 1, word: 'Ways', work: 'JC'},
+instances: 1, word: 'Weakness', work: 'JC'},
+instances: 1, word: 'Weapons', work: 'JC'},
+instances: 1, word: 'Weigh', work: 'JC'},
+instances: 1, word: 'Weighing', work: 'JC'},
+instances: 1, word: 'Well-belovèd', work: 'JC'},
+instances: 1, word: 'Well-reputed', work: 'JC'},
+instances: 1, word: 'Wenches', work: 'JC'},
+instances: 1, word: 'Wept', work: 'JC'},
+instances: 1, word: 'Wert', work: 'JC'},
+instances: 1, word: 'Whatsoever', work: 'JC'},
+instances: 1, word: 'Wheels', work: 'JC'},
+instances: 1, word: 'Whelpèd', work: 'JC'},
+instances: 1, word: 'Whereof', work: 'JC'},
+instances: 1, word: 'Where\'s', work: 'JC'},
+instances: 1, word: 'Whet', work: 'JC'},
+instances: 1, word: 'Whiles', work: 'JC'},
+instances: 1, word: 'Whisper', work: 'JC'},
+instances: 1, word: 'Whit', work: 'JC'},
+instances: 1, word: 'Whizzing', work: 'JC'},
+instances: 1, word: 'Wholesome', work: 'JC'},
+instances: 1, word: 'Whom', work: 'JC'},
+instances: 1, word: 'Wide', work: 'JC'},
+instances: 1, word: 'Wills', work: 'JC'},
+instances: 1, word: 'Win', work: 'JC'},
+instances: 1, word: 'Winds', work: 'JC'},
+instances: 1, word: 'Winter\'s', work: 'JC'},
+instances: 1, word: 'Withholds', work: 'JC'},
+instances: 1, word: 'Wives', work: 'JC'},
+instances: 1, word: 'Woeful', work: 'JC'},
+instances: 1, word: 'Wolf', work: 'JC'},
+instances: 1, word: 'Womanish', work: 'JC'},
+instances: 1, word: 'Woman\'s', work: 'JC'},
+instances: 1, word: 'Women\'s', work: 'JC'},
+instances: 1, word: 'Wonderful', work: 'JC'},
+instances: 1, word: 'Wonders', work: 'JC'},
+instances: 1, word: 'Wont', work: 'JC'},
+instances: 1, word: 'Wood', work: 'JC'},
+instances: 1, word: 'Workman', work: 'JC'},
+instances: 1, word: 'Worldly', work: 'JC'},
+instances: 1, word: 'Worships', work: 'JC'},
+instances: 1, word: 'Worthier', work: 'JC'},
+instances: 1, word: 'Worthless', work: 'JC'},
+instances: 1, word: 'Wounded', work: 'JC'},
+instances: 1, word: 'Wrangle', work: 'JC'},
+instances: 1, word: 'Wrath', work: 'JC'},
+instances: 1, word: 'Wrathfully', work: 'JC'},
+instances: 1, word: 'Wreath', work: 'JC'},
+instances: 1, word: 'Wretched', work: 'JC'},
+instances: 1, word: 'Wring', work: 'JC'},
+instances: 1, word: 'Writ', work: 'JC'},
+instances: 1, word: 'Writings', work: 'JC'},
+instances: 1, word: 'Wrought', work: 'JC'},
+instances: 1, word: 'Yawned', work: 'JC'},
+instances: 1, word: 'Ye', work: 'JC'},
+instances: 1, word: 'Year', work: 'JC'},
+instances: 1, word: 'Yesternight', work: 'JC'},
+instances: 1, word: 'Yielded', work: 'JC'},
+instances: 1, word: 'Yields', work: 'JC'},
+instances: 1, word: 'Yokèd', work: 'JC'},
+instances: 1, word: 'Yon', work: 'JC'},
+instances: 1, word: 'Youthful', work: 'JC'},
+instances: 1, word: 'Youths', work: 'JC'},
+instances: 1, word: 'You\'ll', work: 'JC'},
+instances: 1, word: 'You\'ve', work: 'JC'},
+instances: 1, word: '\'scaped', work: 'JC'},
+instances: 1, word: '\'twere', work: 'JC'},
+instances: 1, word: '\'twixt', work: 'JC'},

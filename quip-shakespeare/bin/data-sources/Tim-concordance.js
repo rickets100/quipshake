@@ -1,3253 +1,3251 @@
-Concordance of Timon of Athens:
-
-495: And
-432: The
-413: To
-391: I
-315: Of
-278: You
-276: A
-268: My
-227: That
-221: In
-209: Thou
-193: Not
-190: His
-172: Is
-171: It
-155: Me
-148: With
-147: For
-146: Lord
-137: Have
-136: Him
-136: Thee
-134: But
-134: He
-134: Your
-133: Thy
-129: Be
-121: This
-113: What
-109: All
-107: So
-84: Are
-80: As
-78: No
-74: If
-74: Timon
-73: Our
-72: Do
-69: Their
-67: Them
-66: Man
-65: We
-65: Will
-62: Good
-62: On
-60: By
-60: Now
-59: ’t
-56: Men
-55: From
-54: How
-54: More
-54: Would
-53: Let
-51: ’tis
-49: One
-48: They
-47: Shall
-47: Which
-46: Well
-46: When
-45: At
-45: Like
-45: Make
-44: Should
-43: Gods
-42: I’ll
-42: May
-41: Am
-41: Were
-40: Here
-40: Out
-40: Sir
-40: Th’
-39: Than
-39: Upon
-38: Know
-37: O
-36: An
-36: Art
-36: Gold
-36: Most
-35: Give
-35: Then
-34: Come
-34: Love
-33: Much
-33: Must
-32: Take
-32: Why
-31: Friends
-31: Go
-31: Has
-31: Who
-31: Yet
-30: Athens
-30: See
-30: Some
-30: There
-30: Us
-29: Hath
-29: These
-28: Too
-27: Honor
-27: Time
-26: Can
-26: Honest
-26: Mine
-26: Or
-26: Own
-26: Was
-25: Great
-25: Had
-25: Noble
-25: Nothing
-25: Speak
-25: Timon’s
-24: Ay
-24: Does
-23: Apemantus
-23: Dost
-23: Heart
-23: Those
-23: Use
-22: Say
-22: Such
-22: Whose
-21: Did
-21: Friend
-21: Nor
-21: ’em
-20: Cannot
-20: Fool
-20: Into
-20: Lordship
-20: Still
-19: Away
-19: Look
-19: Nature
-19: Never
-19: Poor
-19: Thine
-18: Before
-18: Best
-18: Ever
-18: Her
-18: Tell
-18: Think
-18: Whom
-17: Again
-17: Hear
-17: Money
-17: Put
-17: Thyself
-17: True
-17: Up
-17: Welcome
-17: Where
-16: Comes
-16: Day
-16: Dog
-16: Down
-16: Eyes
-16: He’s
-16: Made
-16: Might
-16: Ne’er
-16: None
-16: Sent
-16: There’s
-15: Could
-15: Myself
-15: Want
-15: Wert
-14: Against
-14: Been
-14: Better
-14: Call
-14: Enough
-14: First
-14: Fortunes
-14: Kind
-14: Live
-14: Only
-14: Pray
-14: Rich
-14: Stay
-14: Thus
-14: World
-13: Alcibiades
-13: Fortune
-13: Gone
-13: Keep
-13: Life
-13: Long
-13: Meat
-13: O’
-13: Present
-13: Set
-13: Talents
-13: Very
-13: Wealth
-13: Worthy
-12: Answer
-12: Bring
-12: Eat
-12: Fall
-12: Fear
-12: Honorable
-12: Lords
-12: Master
-12: Off
-12: Other
-12: Plague
-12: Please
-12: Power
-12: Steward
-12: Till
-11: Beast
-11: Common
-11: Each
-11: Feast
-11: Hate
-11: Himself
-11: Hold
-11: Little
-11: Many
-11: Means
-11: Part
-11: That’s
-11: Wilt
-11: Wouldst
-10: Back
-10: Bear
-10: Blood
-10: Breath
-10: Done
-10: Even
-10: Every
-10: Fair
-10: Forth
-10: Hast
-10: Here’s
-10: House
-10: Nay
-10: Needs
-10: Prithee
-10: Right
-10: Show
-10: Thousand
-10: Words
-9: Being
-9: Bid
-9: Dead
-9: Denied
-9: Doth
-9: Drink
-9: Ere
-9: E’en
-9: Fare
-9: Free
-9: General
-9: Gentleman
-9: Get
-9: Hearts
-9: Mankind
-9: Pity
-9: Rather
-9: Return
-9: Senators
-9: Serve
-9: She
-9: Thieves
-9: Two
-9: War
-9: Work
-9: Yes
-8: Air
-8: Bounty
-8: Care
-8: Company
-8: Confound
-8: Death
-8: Die
-8: Else
-8: False
-8: Fellows
-8: Find
-8: Five
-8: Grave
-8: Health
-8: Knaves
-8: Late
-8: Law
-8: Left
-8: Let’s
-8: Mind
-8: Once
-8: Peace
-8: Send
-8: Service
-8: Servilius
-8: Shalt
-8: Sword
-8: Therefore
-8: Things
-8: Though
-8: Together
-8: Unto
-8: Without
-8: Word
-7: Above
-7: After
-7: Any
-7: Beggar
-7: Believe
-7: Beseech
-7: Born
-7: Certain
-7: Commend
-7: Days
-7: Dear
-7: Debts
-7: Doubt
-7: Earth
-7: Estate
-7: Flaminius
-7: Fools
-7: Friendship
-7: Full
-7: Hang
-7: Hope
-7: Itself
-7: Jewel
-7: Kill
-7: Last
-7: Leave
-7: Lie
-7: Living
-7: Lord’s
-7: Lucullus
-7: Makes
-7: Man’s
-7: Master’s
-7: Meet
-7: Mend
-7: Methinks
-7: Name
-7: Near
-7: Pay
-7: Piece
-7: Place
-7: Promise
-7: Proud
-7: Sick
-7: Slaves
-7: State
-7: Strange
-7: Thanks
-7: Themselves
-7: Thief
-7: Three
-7: Turn
-7: Water
-7: Way
-7: Wear
-7: Whore
-7: Wish
-7: Yours
-7: Yourselves
-6: Beasts
-6: Borrow
-6: Both
-6: Captain
-6: City
-6: Cold
-6: Cut
-6: Debt
-6: Enemies
-6: Fie
-6: Fifty
-6: Flow
-6: Fury
-6: Gentlemen
-6: Goes
-6: Hand
-6: Head
-6: Ho
-6: Horse
-6: Indeed
-6: Instant
-6: Less
-6: Lucius
-6: Masters
-6: Men’s
-6: Need
-6: Old
-6: Owes
-6: Pass
-6: Poison
-6: Root
-6: Seen
-6: Senate
-6: Shouldst
-6: Sin
-6: Slave
-6: Soul
-6: Spirit
-6: Stand
-6: Strike
-6: Supply
-6: Sure
-6: Thank
-6: Thrive
-6: Told
-6: Vain
-6: Valor
-6: Ventidius
-6: Villains
-6: What’s
-6: Worst
-6: Worth
-6: Youth
-6: ’rt
-5: Always
-5: Another
-5: Ass
-5: Base
-5: Bears
-5: Beat
-5: Beloved
-5: Below
-5: Break
-5: Came
-5: Canst
-5: Cap
-5: Curse
-5: Drum
-5: Ears
-5: Excellent
-5: Far
-5: Faults
-5: Feed
-5: Fire
-5: Flatterer
-5: Follow
-5: Forgot
-5: Gave
-5: Gift
-5: Gifts
-5: Grace
-5: Grant
-5: Grief
-5: Ha
-5: Hadst
-5: Half
-5: Happy
-5: Heaven
-5: Help
-5: Hence
-5: High
-5: Hither
-5: I’d
-5: Just
-5: Known
-5: Lack
-5: Ladies
-5: Large
-5: Lend
-5: Lives
-5: Loves
-5: Low
-5: Mere
-5: Misery
-5: Occasion
-5: Often
-5: Ours
-5: Praise
-5: Quite
-5: Read
-5: Rogue
-5: Said
-5: Sea
-5: Sit
-5: Sorry
-5: Sound
-5: Speaks
-5: Sun
-5: Sweet
-5: Throats
-5: Times
-5: Touch
-5: Toward
-5: Under
-5: Valiant
-5: Virtue
-5: Wast
-5: We’ll
-5: Wine
-5: Wise
-5: Within
-5: Wretched
-5: Young
-5: You’re
-5: ’lt
-4: Accept
-4: Age
-4: Alas
-4: Alive
-4: Alone
-4: Amiss
-4: Anger
-4: Angry
-4: Approach
-4: Ask
-4: Athenian
-4: Athenians
-4: Banish
-4: Because
-4: Become
-4: Bless
-4: Bosom
-4: Bound
-4: Bounteous
-4: Business
-4: Catch
-4: Cause
-4: Clear
-4: Close
-4: Confusion
-4: Contempt
-4: Counsel
-4: Course
-4: Dinner
-4: Doors
-4: Draw
-4: Empty
-4: Faith
-4: Farewell
-4: Father
-4: Fell
-4: Fellow
-4: Fill
-4: Flies
-4: Fly
-4: Foot
-4: Freely
-4: Further
-4: Gentle
-4: Given
-4: Glory
-4: God
-4: Griefs
-4: Grows
-4: Hands
-4: Hanged
-4: Happiness
-4: Having
-4: Hazard
-4: Ha’
-4: Heard
-4: Hearing
-4: Honored
-4: Ill
-4: Ingratitude
-4: I’
-4: Jewels
-4: Keeps
-4: Kept
-4: Kindness
-4: Knave
-4: Knew
-4: Know’st
-4: La
-4: Labor
-4: Laws
-4: Lay
-4: Light
-4: Lion
-4: Lips
-4: Looks
-4: Lust
-4: Manners
-4: Met
-4: Mistress
-4: Natures
-4: New
-4: Night
-4: Observe
-4: Odds
-4: Open
-4: Ourselves
-4: Parts
-4: Past
-4: Received
-4: Rest
-4: Roots
-4: Seek
-4: Seldom
-4: Servant
-4: Shows
-4: Soft
-4: Soldiers
-4: Sometime
-4: Spare
-4: Spent
-4: Steal
-4: Strain
-4: Strong
-4: Sum
-4: Sums
-4: Suspect
-4: Table
-4: Taste
-4: Thought
-4: Throw
-4: Tongue
-4: Trouble
-4: Trust
-4: Try
-4: Twenty
-4: Understand
-4: Undone
-4: Villain
-4: Wait
-4: Weep
-4: Weigh
-4: Whereof
-4: Whole
-4: Witness
-4: Worse
-4: Wrong
-4: Wrongs
-4: Yield
-4: ’s
-4: ’twere
-3: Account
-3: Affect
-3: Alike
-3: All’s
-3: Almost
-3: Already
-3: Amen
-3: Amongst
-3: Anon
-3: Argument
-3: Arm
-3: Aside
-3: Attend
-3: Babe
-3: Banished
-3: Bare
-3: Bastard
-3: Bawd
-3: Beastly
-3: Behold
-3: Beyond
-3: Birds
-3: Bred
-3: Broke
-3: Brother
-3: Brothers
-3: Brought
-3: Burn
-3: Cast
-3: Cave
-3: Change
-3: Cheer
-3: Coin
-3: Comfort
-3: Coming
-3: Command
-3: Conscience
-3: Creatures
-3: Crowned
-3: Daily
-3: Dangerous
-3: Dare
-3: Dares
-3: Daughter
-3: Deal
-3: Dearest
-3: Deed
-3: Deeds
-3: Desire
-3: Despised
-3: Destruction
-3: Didst
-3: Dies
-3: Dine
-3: Diseases
-3: Dogs
-3: Due
-3: Dues
-3: Earnest
-3: End
-3: Enter
-3: Entertained
-3: Entertainment
-3: Entreat
-3: Face
-3: Faint
-3: Fairly
-3: Fault
-3: Feasts
-3: Feel
-3: Feigned
-3: Fit
-3: Flatter
-3: Flatterers
-3: Flatteries
-3: Foes
-3: Food
-3: Former
-3: Foul
-3: Found
-3: Fox
-3: Future
-3: Gives
-3: Goodness
-3: Got
-3: Gravestone
-3: Greatest
-3: Greet
-3: Gross
-3: Habit
-3: Hard
-3: Harm
-3: Hated
-3: Heads
-3: Heavens
-3: Heels
-3: Hereditary
-3: Honesty
-3: Horses
-3: Hour
-3: Hours
-3: Humanity
-3: Humbly
-3: Infect
-3: Infinite
-3: Ingrateful
-3: Isidore
-3: I’m
-3: Join
-3: Judgment
-3: Justice
-3: Knee
-3: Knives
-3: Knows
-3: Laid
-3: Land
-3: Lands
-3: Leprosy
-3: Lies
-3: Liest
-3: Lights
-3: Lip
-3: Mad
-3: Maid
-3: Mark
-3: Mean
-3: Mercy
-3: Mightst
-3: Minds
-3: Miserable
-3: Mistake
-3: Mocked
-3: Monstrous
-3: Moon
-3: Morrow
-3: Music
-3: Naked
-3: Natural
-3: Nearer
-3: Necessity
-3: Neither
-3: Next
-3: Occasions
-3: Office
-3: Others
-3: Over
-3: Paid
-3: Pains
-3: Paint
-3: Painting
-3: Pardon
-3: Particular
-3: Perceive
-3: Philosopher
-3: Pleasure
-3: Pleasures
-3: Plenteous
-3: Pluck
-3: Poet
-3: Pomp
-3: Presently
-3: Prodigal
-3: Prove
-3: Provided
-3: Purse
-3: Quality
-3: Rail
-3: Rascal
-3: Reason
-3: Recompense
-3: Render
-3: Report
-3: Requite
-3: Returns
-3: Revenge
-3: Riot
-3: Rot
-3: Sake
-3: Salt
-3: Same
-3: Save
-3: Servants
-3: Served
-3: Setting
-3: Several
-3: Shake
-3: Shame
-3: Shine
-3: Shortly
-3: Shut
-3: Sickness
-3: Silver
-3: Since
-3: Single
-3: Society
-3: Something
-3: Sooner
-3: Spend
-3: Spirits
-3: Spite
-3: Spoke
-3: Stop
-3: Swear
-3: Takes
-3: Tender
-3: Thing
-3: Through
-3: Timandra
-3: Title
-3: Took
-3: Town
-3: Treasure
-3: T’
-3: Urge
-3: Varro
-3: Villainy
-3: Virtuous
-3: Voice
-3: Wall
-3: Wants
-3: Wax
-3: Wherefore
-3: Whilst
-3: Wicked
-3: Winter
-3: Wished
-3: Wolves
-3: Woman
-3: Womb
-3: Women
-3: Wonder
-3: Woods
-3: Wounds
-3: Wrath
-3: Yea
-3: You’ll
-3: ’dst
-3: ’gainst
-3: ’twas
-2: Abhor
-2: Abhorrèd
-2: Able
-2: About
-2: Accursed
-2: Aches
-2: Admittance
-2: Afflictions
-2: Agèd
-2: Ah
-2: Aid
-2: Along
-2: Although
-2: Altogether
-2: Ambition
-2: Appear
-2: Artificial
-2: Attends
-2: Authority
-2: Aye
-2: Bad
-2: Bark
-2: Bearing
-2: Bed
-2: Beggars
-2: Beggar’s
-2: Begone
-2: Behalf
-2: Behind
-2: Belongs
-2: Bench
-2: Besides
-2: Bills
-2: Black
-2: Blame
-2: Bleeding
-2: Blessèd
-2: Blest
-2: Blows
-2: Bold
-2: Bond
-2: Bonds
-2: Bone
-2: Bones
-2: Bounties
-2: Bountiful
-2: Brace
-2: Brains
-2: Brave
-2: Breakfast
-2: Breast
-2: Breathe
-2: Breathed
-2: Breeds
-2: Brings
-2: Broken
-2: Brook
-2: Build
-2: Buried
-2: Buy
-2: Called
-2: Caphis
-2: Cease
-2: Charge
-2: Charitable
-2: Charity
-2: Choke
-2: Choose
-2: City’s
-2: Cloak
-2: Cloud
-2: Comfortable
-2: Comforts
-2: Complete
-2: Conceit
-2: Conceive
-2: Conditions
-2: Confess
-2: Confessed
-2: Confounding
-2: Conjured
-2: Conquest
-2: Consent
-2: Contain
-2: Content
-2: Contrary
-2: Convert
-2: Cost
-2: Couldst
-2: Counterfeit
-2: Country
-2: Countrymen
-2: Cover
-2: Coward
-2: Credit
-2: Creditors
-2: Crime
-2: Crossed
-2: Crowns
-2: Cunning
-2: Cure
-2: Curses
-2: Cursèd
-2: Damn
-2: Damnèd
-2: Dance
-2: Dates
-2: Deep
-2: Defense
-2: Degrees
-2: Deny
-2: Depart
-2: Derive
-2: Descend
-2: Description
-2: Deserts
-2: Deserves
-2: Diet
-2: Different
-2: Dinner’s
-2: Disease
-2: Dishes
-2: Distracted
-2: Doubting
-2: Draft
-2: Drops
-2: Drown
-2: Duty
-2: Eagle
-2: Ease
-2: Embrace
-2: Encountered
-2: Endeared
-2: Ends
-2: Endure
-2: Enemy
-2: Enforce
-2: Entertain
-2: Epitaph
-2: Example
-2: Excuse
-2: Expense
-2: Express
-2: Eye
-2: E’er
-2: Faces
-2: Factions
-2: Fall’n
-2: Fate
-2: Favor
-2: Fears
-2: Feather
-2: Feeds
-2: Felt
-2: Few
-2: Field
-2: Figures
-2: Filthy
-2: Fishes
-2: Fixed
-2: Flattered
-2: Flesh
-2: Flight
-2: Flood
-2: Foam
-2: Foe
-2: Followed
-2: Fond
-2: Fool’s
-2: Force
-2: Forever
-2: Forget
-2: Form
-2: Fortune’s
-2: Four
-2: Frame
-2: Friendly
-2: Friends’
-2: Froth
-2: Furnish
-2: Game
-2: Gates
-2: Giving
-2: Glad
-2: Glove
-2: Going
-2: Goodly
-2: Gown
-2: Graves
-2: Gules
-2: Hail
-2: Hanging
-2: Hardly
-2: Haste
-2: Heap
-2: Heavy
-2: Heed
-2: Heir
-2: Henceforth
-2: He’ll
-2: Hill
-2: Hoar
-2: Hollow
-2: Holy
-2: Home
-2: Hot
-2: Hug
-2: Human
-2: Humble
-2: Humh
-2: Humor
-2: Hundred
-2: Hunt
-2: Idle
-2: Imitate
-2: Immediate
-2: Immortal
-2: Importunate
-2: Imprisoned
-2: Incident
-2: Infected
-2: Interest
-2: Invite
-2: Invites
-2: Keepers
-2: Kin
-2: Kindly
-2: Kiss
-2: Knock
-2: Labored
-2: Lacedaemon
-2: Lap
-2: Lascivious
-2: Laugh
-2: Laughter
-2: Least
-2: Leaves
-2: Leaving
-2: Legs
-2: Leopard
-2: Lest
-2: Letters
-2: Liberty
-2: Lived
-2: Lordship’s
-2: Lose
-2: Lost
-2: Loved
-2: Lucilius
-2: Madman
-2: Madness
-2: Maintain
-2: Making
-2: Malice
-2: Mansion
-2: Mar
-2: Marrows
-2: Marry
-2: Matter
-2: Medlar
-2: Melancholy
-2: Merchant
-2: Merely
-2: Merry
-2: Minister
-2: Mire
-2: Mischief
-2: Morning
-2: Motion
-2: Mount
-2: Mouth
-2: Moved
-2: Moves
-2: Nearest
-2: Newly
-2: News
-2: Nine
-2: Noblest
-2: Note
-2: Number
-2: Offend
-2: Offended
-2: Opposed
-2: Oracle
-2: Other’s
-2: O’er
-2: Page
-2: Painted
-2: Painter
-2: Passion
-2: Pawn
-2: Payment
-2: Pays
-2: People
-2: Perform
-2: Performance
-2: Picture
-2: Pieces
-2: Plagues
-2: Play
-2: Pleased
-2: Politic
-2: Pours
-2: Praised
-2: Prays
-2: Precious
-2: Prepare
-2: Presented
-2: Pretty
-2: Pride
-2: Priests
-2: Promises
-2: Proof
-2: Prosperity
-2: Protest
-2: Proved
-2: Provide
-2: Public
-2: Purchase
-2: Pure
-2: Purpose
-2: Puts
-2: Quantity
-2: Quick
-2: Quietly
-2: Rage
-2: Rapt
-2: Rascals
-2: Rashness
-2: Rated
-2: Ready
-2: Receive
-2: Religion
-2: Remain
-2: Remains
-2: Remember
-2: Repair
-2: Reserve
-2: Respect
-2: Retired
-2: Returned
-2: Reverend
-2: Reward
-2: Riches
-2: Rid
-2: Rob
-2: Rough
-2: Round
-2: Royal
-2: Sadly
-2: Safety
-2: Sauce
-2: Saw’st
-2: Scald
-2: Scarce
-2: Scope
-2: Season
-2: Security
-2: Seeks
-2: Seem
-2: Self
-2: Sell
-2: Sempronius
-2: Sending
-2: Sense
-2: Serves
-2: Serving
-2: Shadow
-2: Shapes
-2: Share
-2: Showed
-2: Shown
-2: Sides
-2: Sight
-2: Signify
-2: Sink
-2: Sire
-2: Sits
-2: Six
-2: Skip
-2: Slight
-2: Small
-2: Smile
-2: Smiles
-2: Smoke
-2: Smooth
-2: Son
-2: Sons
-2: Soon
-2: Sores
-2: Sorrow
-2: Sort
-2: Sow
-2: Speaking
-2: Speak’st
-2: Sport
-2: Spotted
-2: Sprung
-2: Spurn
-2: States
-2: Stepped
-2: Stones
-2: Stream
-2: Strict
-2: Stroke
-2: Stuck
-2: Stuff
-2: Subject
-2: Subtle
-2: Sufferance
-2: Summer
-2: Sun’s
-2: Surely
-2: Surge
-2: Swallow
-2: Sworn
-2: Tasted
-2: Tears
-2: Tendance
-2: Thankfully
-2: Theft
-2: Theirs
-2: Thinking
-2: Think’st
-2: Thither
-2: Thoughts
-2: Throat
-2: Thronged
-2: Time’s
-2: Titus
-2: Toad
-2: Tomorrow
-2: Touched
-2: Touches
-2: Trade
-2: Traffic
-2: Tree
-2: Truly
-2: Truth
-2: Turned
-2: Turns
-2: Ugly
-2: Usurer
-2: Usurers’
-2: Usuring
-2: Value
-2: Vast
-2: Verse
-2: Villain’s
-2: Virtues
-2: Visit
-2: Vouchsafe
-2: Walks
-2: Walls
-2: Warning
-2: Warrant
-2: Wealthy
-2: Wearing
-2: Wears
-2: Weary
-2: Weeping
-2: Wept
-2: Whence
-2: Where’s
-2: While
-2: Whip
-2: White
-2: Whoremaster
-2: Whores
-2: Wild
-2: Willing
-2: Wills
-2: Wit
-2: Wolf
-2: Woo
-2: Worship
-2: Wrought
-2: Yellow
-2: Yond
-2: Yourself
-2: You’ve
-2: Zeal
-2: ’as
-2: ’mongst
-1: A-days
-1: A-nights
-1: A-sleeping
-1: Abandon
-1: Abhorred
-1: Abhorred’st
-1: Abides
-1: Abroad
-1: Absence
-1: Absolute
-1: Abuse
-1: Accepts
-1: Accompanying
-1: Accounts
-1: Accursèd
-1: Accused
-1: Ache
-1: Acknowledge
-1: Acquainted
-1: Act
-1: Activity
-1: Add
-1: Added
-1: Adder
-1: Admirable
-1: Admirèd
-1: Admitted
-1: Adored
-1: Advance
-1: Advises
-1: Affable
-1: Affection
-1: Afflict
-1: Affliction
-1: Afford
-1: Affords
-1: Aged
-1: Ages
-1: Ago
-1: Agree
-1: Agues
-1: Alack
-1: Alchemist
-1: Alcibiades’
-1: Alighted
-1: All-shunned
-1: Allowed
-1: Allows
-1: Allure
-1: Also
-1: Alteration
-1: Among
-1: Ample
-1: Amplest
-1: Ancient
-1: Another’s
-1: Antidotes
-1: Anything
-1: Apace
-1: Apart
-1: Appears
-1: Apperil
-1: Applauding
-1: Apprehend’st
-1: Apprehension
-1: Approachers
-1: Approaches
-1: Approbation
-1: April
-1: Aprons
-1: Apt
-1: Aptly
-1: Archvillain
-1: Ardent
-1: Argues
-1: Armor
-1: Arms
-1: Arrant
-1: Arrive
-1: Arrogant
-1: Ashamed
-1: Asked
-1: Aspect
-1: Assay
-1: Assembly
-1: Asses
-1: Assistance
-1: Assume
-1: Assurance
-1: Assured
-1: Athenian’s
-1: Atone
-1: Attain
-1: Attempts
-1: Attendance
-1: Attraction
-1: Auditors
-1: Austere
-1: Awaked
-1: Awe
-1: Awhile
-1: Ax
-1: Babes
-1: Baboon
-1: Backs
-1: Backwardly
-1: Bade
-1: Bald
-1: Balm
-1: Balsam
-1: Band
-1: Banishment
-1: Bankrupts
-1: Banners
-1: Banquet
-1: Bans
-1: Baseness
-1: Baser
-1: Basest
-1: Basin
-1: Bate
-1: Bates
-1: Baths
-1: Battle
-1: Bawds
-1: Bay
-1: Beachèd
-1: Beagles
-1: Beams
-1: Beard
-1: Beards
-1: Bearer
-1: Beautiful
-1: Beckoned
-1: Becks
-1: Beds
-1: Befriend
-1: Beg
-1: Begin
-1: Begins
-1: Beguile
-1: Behave
-1: Believes
-1: Bellies
-1: Belong
-1: Belonged
-1: Beneath
-1: Benefactors
-1: Benefit
-1: Benefits
-1: Bereft
-1: Berries
-1: Bestow
-1: Bestowed
-1: Betray
-1: Betraying
-1: Betters
-1: Between
-1: Beweep
-1: Bidding
-1: Big
-1: Bill
-1: Binds
-1: Birth
-1: Births
-1: Bits
-1: Black-cornered
-1: Blains
-1: Blasted
-1: Blazed
-1: Bleak
-1: Bleed
-1: Blessings
-1: Blister
-1: Bloods
-1: Bloody
-1: Blot
-1: Blow
-1: Blue
-1: Blush
-1: Bluster
-1: Boar
-1: Body
-1: Boisterous
-1: Book
-1: Books
-1: Bore
-1: Borrowed
-1: Borrowing
-1: Bosoms
-1: Botched
-1: Boughs
-1: Boundless
-1: Bounds
-1: Bountifully
-1: Bounty’s
-1: Bowing
-1: Box
-1: Boy
-1: Braggarts
-1: Brains’
-1: Brayed
-1: Bread
-1: Breaking
-1: Breathless
-1: Breed
-1: Breeding
-1: Brevis
-1: Briars
-1: Bribed
-1: Briber
-1: Bride
-1: Bridge
-1: Brief
-1: Bright
-1: Brink
-1: Broach
-1: Broader
-1: Brothel
-1: Brother’s
-1: Bruise
-1: Bruit
-1: Brush
-1: Buildings
-1: Bulk
-1: Bums
-1: Burden
-1: Burdens
-1: Burst
-1: Bury
-1: Bush
-1: Buys
-1: Byzantium
-1: Caitiff
-1: Caitiffs
-1: Caked
-1: Calamities
-1: Call’st
-1: Camp
-1: Candied
-1: Canker
-1: Canons
-1: Cap-and-knee
-1: Caps
-1: Captainship
-1: Captains’
-1: Carelessly
-1: Cares
-1: Carper
-1: Carriage
-1: Carries
-1: Carry
-1: Case
-1: Cases
-1: Cashiered
-1: Casket
-1: Castigate
-1: Caudle
-1: Caught
-1: Cauterizing
-1: Ceased
-1: Ceremony
-1: Chairs
-1: Chamber
-1: Chamberlain
-1: Chambers
-1: Chance
-1: Character
-1: Charmed
-1: Chases
-1: Checks
-1: Cheek
-1: Cheerly
-1: Cheers
-1: Cherish
-1: Cherubin
-1: Chickens
-1: Chid
-1: Chief
-1: Chiefly
-1: Child
-1: Children
-1: Choler
-1: Churl
-1: Civil
-1: Clamorous
-1: Clasped
-1: Clean
-1: Cleared
-1: Cleave
-1: Climb
-1: Clothes
-1: Cock
-1: Coffer
-1: Cog
-1: Coil’s
-1: Coins
-1: Cold-moving
-1: Comely
-1: Comma
-1: Commanding
-1: Commands
-1: Commence
-1: Commendations
-1: Commit
-1: Commonwealth
-1: Companies
-1: Companion
-1: Companionship
-1: Compare
-1: Comparing
-1: Compassion
-1: Composture
-1: Compounded
-1: Compounds
-1: Com’st
-1: Con
-1: Conceived
-1: Conception
-1: Conceptious
-1: Concern
-1: Condemn
-1: Condition
-1: Conditioned
-1: Confectionary
-1: Confer
-1: Confidence
-1: Confirm
-1: Conflict
-1: Conflicting
-1: Confluence
-1: Confounded
-1: Conquer
-1: Conquered
-1: Consecrated
-1: Consider
-1: Consideration
-1: Consume
-1: Consuming
-1: Consumption
-1: Consumptions
-1: Contentless
-1: Continuate
-1: Continue
-1: Contract
-1: Contraries
-1: Contumelious
-1: Cook
-1: Cool
-1: Copies
-1: Corinth
-1: Corporate
-1: Corse
-1: Couched
-1: Count
-1: Counterfeit’st
-1: Counterpoise
-1: Countryman
-1: Country’s
-1: Coupled
-1: Courage
-1: Courier
-1: Courser
-1: Courteous
-1: Courtesy
-1: Courtier
-1: Courtly
-1: Court’sies
-1: Covered
-1: Covetous
-1: Covetously
-1: Cowardice
-1: Crack
-1: Cradle
-1: Crave
-1: Craves
-1: Creature
-1: Creep
-1: Cries
-1: Crimes
-1: Cripple
-1: Crisp
-1: Crop
-1: Crossing
-1: Crouching
-1: Cruel
-1: Cruelly
-1: Crust
-1: Crutch
-1: Cry
-1: Cull
-1: Cumber
-1: Curb
-1: Curiosity
-1: Curled-pate
-1: Current
-1: Customs
-1: Damnation
-1: Danger
-1: Days’
-1: Deaf
-1: Decay
-1: Deceives
-1: Decimation
-1: Deck
-1: Decline
-1: Declining
-1: Dedicated
-1: Dedication
-1: Deepest
-1: Defeat
-1: Defend
-1: Defiled
-1: Defiler
-1: Degree
-1: Deities
-1: Delicate
-1: Demand
-1: Demands
-1: Demonstrate
-1: Denial
-1: Deniest
-1: Dependants
-1: Depraves
-1: Depravèd
-1: Depth
-1: Derived
-1: Deserve
-1: Deserved
-1: Desires
-1: Desirous
-1: Desperate
-1: Desp’rate
-1: Destined
-1: Destroyers
-1: Detention
-1: Detestable
-1: Detested
-1: Device
-1: Devil
-1: Devils
-1: Devised
-1: Dialogue
-1: Diamonds
-1: Dian’s
-1: Dich
-1: Died
-1: Differ
-1: Differing
-1: Dignities
-1: Diligent
-1: Dimpled
-1: Dined
-1: Dip
-1: Dips
-1: Direct
-1: Directed
-1: Discharged
-1: Disclaim’st
-1: Discontent
-1: Discontented
-1: Discontents
-1: Discovered
-1: Discovery
-1: Disdains
-1: Diseased
-1: Disfurnish
-1: Disgraced
-1: Dish
-1: Dishonor
-1: Dispatch
-1: Dispense
-1: Displeasure
-1: Disport
-1: Dispose
-1: Dispossess
-1: Dispraise
-1: Dissemble
-1: Distasteful
-1: Distress
-1: Ditches
-1: Dive
-1: Dividant
-1: Divided
-1: Divorce
-1: Dog’s
-1: Doing
-1: Doit
-1: Domestic
-1: Donation
-1: Dotage
-1: Doubled
-1: Doubtfully
-1: Dozen
-1: Drafts
-1: Dragons
-1: Dram
-1: Draw’st
-1: Dream
-1: Dreamt
-1: Dregs
-1: Drift
-1: Drinks
-1: Drive
-1: Droplets
-1: Drove
-1: Drowned
-1: Drowns
-1: Drugs
-1: Drums
-1: Drunken
-1: Dry
-1: Ducks
-1: Dull
-1: Duller
-1: Dullness
-1: Dumbness
-1: Dust
-1: Dying
-1: Ear
-1: Earth’s
-1: Easily
-1: Eats
-1: Ebb
-1: Effect
-1: Either
-1: Elder
-1: Elements
-1: Embalms
-1: Emboldens
-1: Embossèd
-1: Empire
-1: Employed
-1: Employment
-1: Endowed
-1: Enemy’s
-1: Enforcedly
-1: Enfranchised
-1: Engaged
-1: Engenders
-1: Englutted
-1: Enriched
-1: Ensear
-1: Entombed
-1: Entreats
-1: Entreaty
-1: Envy
-1: Equal
-1: Equaled
-1: Equals
-1: Erected
-1: Erection
-1: Especially
-1: Est
-1: Estates
-1: Esteemed
-1: Estimate
-1: Event
-1: Everlasting
-1: Evilly
-1: Evils
-1: Ev’ry
-1: Ewer
-1: Exactest
-1: Exceed
-1: Exceeding
-1: Exceptless
-1: Excess
-1: Exchange
-1: Excrement
-1: Executed
-1: Exempt
-1: Exhaust
-1: Expect
-1: Expectation
-1: Expecting
-1: Expedition
-1: Expel
-1: Expose
-1: Exposed
-1: Expressed
-1: Expressly
-1: Exquisite
-1: Extend
-1: Extolled
-1: Extremely
-1: Extremest
-1: Extremity
-1: Eyeless
-1: Fact
-1: Fail
-1: Failing
-1: Fain
-1: Fairer
-1: Fairest
-1: Faithfully
-1: Falling-from
-1: Falsehood
-1: Familiars
-1: Famish
-1: Famished
-1: Fang
-1: Fashion
-1: Fashionable
-1: Fashioned
-1: Fast
-1: Fast-lost
-1: Faster
-1: Father’s
-1: Fault’s
-1: Fawn
-1: Feared
-1: Fearful
-1: Feast-won
-1: Feasted
-1: Feasting
-1: Feeble
-1: Feeders
-1: Feed’st
-1: Feeling
-1: Fees
-1: Fellowship
-1: Felon
-1: Fence
-1: Fertile
-1: Fever
-1: Fevers
-1: Fiction
-1: Fierce
-1: Fifty-five
-1: Fight
-1: Figure
-1: Files
-1: Filled
-1: Filling
-1: Filths
-1: Finds
-1: Fine
-1: Finger
-1: Fitly
-1: Five-and-twenty
-1: Flailing
-1: Flame
-1: Flamen
-1: Flashes
-1: Flat
-1: Flatterer’s
-1: Flattery
-1: Flatter’st
-1: Flavius
-1: Fled
-1: Flint
-1: Flinty
-1: Flourish
-1: Flows
-1: Flung
-1: Flush
-1: Foals
-1: Foe’s
-1: Fold
-1: Follows
-1: Folly
-1: Foolery
-1: Forbid
-1: Forced
-1: Forerunner
-1: Foresee
-1: Forest
-1: Forfeited
-1: Forfeits
-1: Forfeiture
-1: Forgetfulness
-1: Forgetting
-1: Forgive
-1: Forgiven
-1: Forsake
-1: Forsook
-1: Forswear
-1: Fourscore
-1: Fracted
-1: Fractions
-1: Fragile
-1: Fragment
-1: Framed
-1: Frankly
-1: Free-hearted
-1: Freedom
-1: Frequents
-1: Fresh
-1: Friendship’s
-1: Froze
-1: Fruitful
-1: Fully
-1: Furor
-1: Gain
-1: Gait
-1: Gate
-1: Gav’st
-1: Generally
-1: Generation
-1: Gently
-1: Gen’ral
-1: Germane
-1: Gesture
-1: Gilded
-1: Gilt
-1: Girdle
-1: Girdles
-1: Giver
-1: Givest
-1: Giv’st
-1: Glass-faced
-1: Glib
-1: Glittering
-1: Gloss
-1: Glutt’nous
-1: Gnaw
-1: Godheads
-1: God’s
-1: Golden
-1: Gore
-1: Gorge
-1: Gouty
-1: Governed
-1: Gracious
-1: Gramercies
-1: Gramercy
-1: Grant’st
-1: Grape
-1: Grass
-1: Grateful
-1: Gratulate
-1: Greases
-1: Greater
-1: Greediness
-1: Green
-1: Greeting
-1: Greyhounds
-1: Grieved
-1: Grieves
-1: Grise
-1: Groans
-1: Ground
-1: Grow
-1: Guard
-1: Guest
-1: Guide
-1: Guise
-1: Gull
-1: Gum
-1: Gust
-1: Had’st
-1: Half-caps
-1: Halt
-1: Halts
-1: Hangman
-1: Hangs
-1: Hap
-1: Happened
-1: Happier
-1: Harbor
-1: Harlot
-1: Harlots
-1: Harness
-1: Harshly
-1: Hat
-1: Hateful
-1: Hat’st
-1: Heal
-1: Healths
-1: Heaps
-1: Heart’s
-1: Heat
-1: Heavenly
-1: Heaven’s
-1: Heaviest
-1: Height
-1: Held
-1: Hem
-1: Hereafter
-1: Herself’s
-1: Hew
-1: He’d
-1: Hid
-1: Hide
-1: High-viced
-1: Highest
-1: Hinge
-1: Hips
-1: Hired
-1: Hit
-1: Hits
-1: Holds
-1: Holier
-1: Honest-natured
-1: Honestly
-1: Horrible
-1: Horrid
-1: Hortensius
-1: Hostile
-1: Hostilius
-1: Howsoe’er
-1: Hoy-day
-1: Huge
-1: Hum
-1: Humidity
-1: Humors
-1: Hung
-1: Hunger
-1: Hungerly
-1: Hungry
-1: Hunted
-1: Hunting
-1: Hurts
-1: Husband
-1: Husbandry
-1: Huswife
-1: Hymen’s
-1: Hyperion’s
-1: Ice
-1: Icy
-1: Idly
-1: Ignobly
-1: Ignorance
-1: Illustrious
-1: Imagination
-1: Impiety
-1: Implements
-1: Imported
-1: Importunacy
-1: Importune
-1: Impossibilities
-1: Impression
-1: Incertain
-1: Inclined
-1: Incomparable
-1: Incontinent
-1: Indifferent
-1: Indisposition
-1: Infection
-1: Infectious
-1: Infects
-1: Inferred
-1: Infinitely
-1: Influence
-1: Ingeniously
-1: Inherited
-1: Injuries
-1: Innocence
-1: Inquire
-1: Insculpture
-1: Insolence
-1: Instantly
-1: Instruct
-1: Instruction
-1: Instruments
-1: Intending
-1: Intent
-1: Interim
-1: Interpret
-1: Interpreter
-1: Interprets
-1: Int’rest
-1: Inviting
-1: Inwardly
-1: Ira
-1: Iron
-1: Irons
-1: Issue
-1: Itches
-1: Ivory
-1: Jail
-1: Jeweler
-1: Joint
-1: Joints
-1: Jot
-1: Journey
-1: Jove
-1: Joy
-1: Joyful
-1: Joy’s
-1: Judge
-1: Jurors
-1: Justly
-1: Jutting-out
-1: Keeper
-1: Keeping
-1: Killed
-1: Killing
-1: Kinder
-1: Kindnesses
-1: Kindred
-1: King-killer
-1: Kingdoms
-1: Knees
-1: Knell
-1: Knewest
-1: Knight
-1: Knit
-1: Knot
-1: Knowing
-1: Laboring
-1: Lacks
-1: Lack’st
-1: Lady
-1: Lamb
-1: Lamely
-1: Land’s
-1: Language
-1: Lards
-1: Large-handed
-1: Lasts
-1: Lately
-1: Latest
-1: Latter
-1: Laughing
-1: Lawyer
-1: Lawyer’s
-1: Lays
-1: Leaf
-1: Leaked
-1: Lean
-1: Leans
-1: Learn
-1: Learned
-1: Learning
-1: Learnèd
-1: Leas
-1: Leech
-1: Leisures
-1: Length
-1: Lesser
-1: Letter
-1: Level
-1: Leveled
-1: Levity’s
-1: Liberal
-1: Licentious
-1: Lick
-1: Life’s
-1: Liked
-1: Likely
-1: Likeness
-1: Likewise
-1: Lik’st
-1: Limbs
-1: Limited
-1: Limping
-1: Lined
-1: Liquid
-1: Liquorish
-1: Lived’st
-1: Livelier
-1: Lively
-1: Livery
-1: Load
-1: Loaden
-1: Loathed
-1: Loathes
-1: Lobbies
-1: Lock
-1: Long-since-due
-1: Longing
-1: Loss
-1: Losses
-1: Lover
-1: Loving
-1: Lovèd
-1: Lug
-1: Lukewarm
-1: Luster
-1: Mad-brained
-1: Made-up
-1: Madwomen
-1: Magic
-1: Maids
-1: Mak’st
-1: Malady
-1: Mangy
-1: Manhood
-1: Manifold
-1: Manner
-1: Manslaughter
-1: Marbled
-1: March
-1: Marriage
-1: Marrow
-1: Mars
-1: Marvel
-1: Mass
-1: Mast
-1: Matches
-1: Mated
-1: Mates
-1: Matron
-1: Matrons
-1: Matters
-1: Maws
-1: Meals
-1: Meaning
-1: Meantime
-1: Measure
-1: Meddlers
-1: Meed
-1: Meek
-1: Melted
-1: Memory
-1: Mended
-1: Mental
-1: Merits
-1: Merrily
-1: Mess
-1: Message
-1: Messenger
-1: Metal
-1: Mettle
-1: Middle
-1: Mightily
-1: Mighty
-1: Mild
-1: Mile
-1: Milk
-1: Milk-white
-1: Milky
-1: Mince
-1: Mindless
-1: Mind’s
-1: Mine’s
-1: Minion
-1: Minstrelsy
-1: Minute-jacks
-1: Misanthropos
-1: Misbegot
-1: Miseries
-1: Missing
-1: Mistook
-1: Mocking
-1: Moderate
-1: Modesty
-1: Moist
-1: Molten
-1: Moment
-1: Moneys
-1: Monkey
-1: Monster
-1: Monsters
-1: Monstrousness
-1: Month
-1: Months
-1: Monument
-1: Mood
-1: Moon’s
-1: Moral
-1: Morsels
-1: Mother
-1: Mothers
-1: Mother’s
-1: Motives
-1: Mountain’s
-1: Mountant
-1: Mouth-friends
-1: Mouths
-1: Move
-1: Muffled
-1: Multiplying
-1: Mutter
-1: Mysteries
-1: Mystery
-1: Nakedness
-1: Named
-1: Nations
-1: Native
-1: Nature’s
-1: Naught
-1: Necessary
-1: Necessities
-1: Neck
-1: Needless
-1: Neighbor
-1: Neighborhood
-1: Neptune
-1: Newt
-1: Niggard
-1: Nights
-1: Nobleness
-1: Nobles
-1: Nobly
-1: Nod
-1: Nods
-1: Noised
-1: Nose
-1: Noted
-1: Notes
-1: Notwithstanding
-1: Nought
-1: Nourished
-1: Now’s
-1: Numberless
-1: Nutriment
-1: Oak
-1: Oaks
-1: Oath
-1: Oathable
-1: Oaths
-1: Obedience
-1: Obedient
-1: Obey
-1: Objects
-1: Obliquy
-1: Observances
-1: Observed
-1: Offense
-1: Offer
-1: Offered
-1: Offering
-1: Offices
-1: Oft
-1: Oil
-1: Olive
-1: Omit’st
-1: Ones
-1: Oozes
-1: Ope
-1: Opens
-1: Operant
-1: Opinion
-1: Oppose
-1: Opposite
-1: Oppressed
-1: Oppressing
-1: Opulency
-1: Orb
-1: Ort
-1: Others’
-1: Out-stretched
-1: Outgoes
-1: Outlived
-1: Outlives
-1: Outrages
-1: Outrunn’st
-1: Outside
-1: Outsides
-1: Overcome
-1: Owed
-1: Owners
-1: O’ernight’s
-1: Pack
-1: Pain
-1: Painfully
-1: Paintings
-1: Palate
-1: Pale
-1: Palm
-1: Pangs
-1: Pant
-1: Paper
-1: Paps
-1: Paradox
-1: Parasites
-1: Parents’
-1: Particularly
-1: Parting
-1: Passage
-1: Passed
-1: Passes
-1: Passions
-1: Passive
-1: Pasture
-1: Patchery
-1: Pate
-1: Patron
-1: Peasants
-1: Pelf
-1: Penciled
-1: Penurious
-1: Peradventure
-1: Perchance
-1: Perfect
-1: Perfection
-1: Perfume
-1: Perfumes
-1: Peril
-1: Periods
-1: Perpetual-sober
-1: Personate
-1: Personating
-1: Persuading
-1: Persuasion
-1: Philotus’
-1: Phoenix
-1: Phrynia
-1: Physic
-1: Physician
-1: Physicians
-1: Picked
-1: Pierce
-1: Piety
-1: Pill
-1: Pillows
-1: Pious
-1: Pitched
-1: Pitifully
-1: Pity’s
-1: Placed
-1: Places
-1: Plain-dealing
-1: Plainer
-1: Planetary
-1: Plate
-1: Plays
-1: Plead
-1: Pleasant
-1: Pleases
-1: Pledges
-1: Plenty
-1: Plow-torn
-1: Plow’st
-1: Plunge
-1: Plunged
-1: Plutus
-1: Poesy
-1: Point
-1: Points
-1: Point’st
-1: Poisonous
-1: Policy
-1: Pomps
-1: Poorer
-1: Porter
-1: Ports
-1: Possible
-1: Potent
-1: Poverty
-1: Powers
-1: Pox
-1: Prayed
-1: Precedent
-1: Precepts
-1: Predominate
-1: Prefer
-1: Preferred
-1: Pregnantly
-1: Prescribe
-1: Presentment
-1: Presents
-1: Preserve
-1: Prevent
-1: Prison
-1: Prisoner
-1: Prisons
-1: Private
-1: Prize
-1: Prizèd
-1: Proceeded
-1: Proclaim
-1: Procreation
-1: Professed
-1: Profession
-1: Professions
-1: Profit
-1: Profitably
-1: Prolong
-1: Promised
-1: Promising
-1: Prompt
-1: Prompted
-1: Pronounced
-1: Propagate
-1: Properer
-1: Properties
-1: Proposed
-1: Prosperous
-1: Protection
-1: Provision
-1: Provokes
-1: Puffed
-1: Purest
-1: Purity
-1: Purposes
-1: Purses
-1: Pursy
-1: Push
-1: Putting
-1: Qualities
-1: Quarreling
-1: Quarter
-1: Quell
-1: Question
-1: Quickly
-1: Quick’ning
-1: Quillets
-1: Quit
-1: Quittance
-1: Race
-1: Rag
-1: Rages
-1: Raging
-1: Rags
-1: Raiment
-1: Rain
-1: Raise
-1: Raised
-1: Rampired
-1: Ranked
-1: Ranks
-1: Ransom
-1: Rarely
-1: Rarity
-1: Reach
-1: Readiest
-1: Readiness
-1: Realms
-1: Rebels
-1: Recanter
-1: Recanting
-1: Receives
-1: Reckon
-1: Reck’ning
-1: Record
-1: Recorded
-1: Recoverable
-1: Redeemed
-1: Redeem’st
-1: Redress
-1: Reeking
-1: Refuge
-1: Regard
-1: Regardfully
-1: Regular
-1: Reign
-1: Rejoices
-1: Reliances
-1: Relief
-1: Relieve
-1: Religions
-1: Religious
-1: Remainder
-1: Remaining
-1: Remedied
-1: Remembered
-1: Remembrance
-1: Remembrances
-1: Remorse
-1: Remotion
-1: Renew
-1: Repays
-1: Repent
-1: Reply
-1: Reports
-1: Reproof
-1: Repugnancy
-1: Reputation
-1: Request
-1: Requesting
-1: Requests
-1: Require
-1: Requires
-1: Resemble
-1: Reside
-1: Residence
-1: Resolves
-1: Resort
-1: Respectively
-1: Restraining
-1: Resumes
-1: Retentive
-1: Revenges
-1: Reverence
-1: Reverend’st
-1: Revolt
-1: Rewards
-1: Richer
-1: Riding
-1: Rigg’st
-1: Righteous
-1: Rioter
-1: Riotous
-1: Ripe
-1: Rise
-1: Rivals
-1: Robbers
-1: Robs
-1: Rod
-1: Rode
-1: Rogues
-1: Roofs
-1: Room
-1: Rose-cheeked
-1: Rotten
-1: Rout
-1: Ruffians
-1: Ruined
-1: Ruinous
-1: Rumor
-1: Rumors
-1: Sack
-1: Sacred
-1: Sacrificial
-1: Sad
-1: Safer
-1: Saints
-1: Sans
-1: Satiety
-1: Satire
-1: Savage
-1: Saved
-1: Saw
-1: Saying
-1: Says
-1: Scarcity
-1: Scarlet
-1: Schools
-1: Sciatica
-1: Scolds
-1: Score
-1: Scorn
-1: Scorned’st
-1: Scorns
-1: Scouring
-1: Sealed
-1: Seat
-1: Sea’s
-1: Second
-1: Sects
-1: Secure
-1: Seeing
-1: Seems
-1: Sees
-1: Seest
-1: Seethe
-1: Seized
-1: Selfsame
-1: Semblable
-1: Sends
-1: Senseless
-1: Senses
-1: Sequence
-1: Serious
-1: Seriously
-1: Sermon
-1: Services
-1: Settlest
-1: Seven
-1: Sevenfold
-1: Severally
-1: Shakes
-1: Shape
-1: Shaped
-1: Sharp
-1: She-beggar
-1: Shepherd
-1: She’s
-1: Shift
-1: Shins
-1: Shirt
-1: Shook
-1: Shoots
-1: Shops
-1: Short
-1: Shorter
-1: Shower
-1: Showers
-1: Showing
-1: Shrilly
-1: Shrinks
-1: Shrunk
-1: Shudders
-1: Siege
-1: Sights
-1: Signet
-1: Silence
-1: Silenced
-1: Silent
-1: Silk
-1: Simpler
-1: Singly
-1: Sings
-1: Sinner
-1: Sins
-1: Sin’s
-1: Sirrah
-1: Sister’s
-1: Sixteen
-1: Size
-1: Skill
-1: Slain
-1: Slavelike
-1: Slays
-1: Sleep
-1: Sleeping
-1: Sleeps
-1: Slender
-1: Slept
-1: Slide
-1: Slink
-1: Slip
-1: Slipped
-1: Slipp’ry
-1: Slips
-1: Sluts
-1: Smells
-1: Smiling
-1: Smit
-1: Smoothed
-1: Snare
-1: Snatches
-1: Snow
-1: So-so
-1: Sober
-1: Societies
-1: Softness
-1: Soil
-1: Sold
-1: Soldier
-1: Sold’rest
-1: Solidares
-1: Sorrowed
-1: Sorts
-1: Sounds
-1: Sour
-1: Source
-1: Sovereign
-1: Spacious
-1: Spade
-1: Span
-1: Spangled
-1: Special
-1: Speed
-1: Speedy
-1: Sphere
-1: Spices
-1: Spills
-1: Spilth
-1: Spit
-1: Spital
-1: Spleen
-1: Spoken
-1: Spok’st
-1: Spots
-1: Spread
-1: Springs
-1: Sprinkle
-1: Sprinkles
-1: Spur
-1: Spurns
-1: Spurring
-1: Spy
-1: Square
-1: Stab
-1: Stain
-1: Stains
-1: Stamp
-1: Standing
-1: Stand’st
-1: Starlike
-1: Starve
-1: State’s
-1: Steads
-1: Stealth
-1: Steepy
-1: Sticks
-1: Stint
-1: Stir
-1: Stirrup
-1: Stol’n
-1: Stomach
-1: Stone
-1: Stool
-1: Storm
-1: Stout
-1: Straggling
-1: Straight
-1: Strait
-1: Strangers
-1: Strides
-1: Strife
-1: Strive
-1: Strives
-1: Striving
-1: Strokes
-1: Struck
-1: Subdues
-1: Succession
-1: Suchlike
-1: Suck
-1: Sue
-1: Suffer
-1: Suffered
-1: Suffering
-1: Sufficient
-1: Sugared
-1: Suit
-1: Suitable
-1: Suitor
-1: Sullen
-1: Suns
-1: Superscription
-1: Supper
-1: Supple
-1: Support
-1: Supported
-1: Suppose
-1: Supposed
-1: Surfeit
-1: Surges
-1: Surprise
-1: Sustain
-1: Swathe
-1: Sways
-1: Sweat
-1: Sweep
-1: Sweetly
-1: Swell
-1: Swells
-1: Swift
-1: Swine
-1: Swoon
-1: Tag
-1: Taking
-1: Talk
-1: Talk’st
-1: Tapsters
-1: Taught
-1: Teach
-1: Tear
-1: Tedious
-1: Teem
-1: Teems
-1: Temper
-1: Temple
-1: Tenth
-1: Terrible
-1: Terribly
-1: Testament
-1: Thanked
-1: Thankfulness
-1: Thankless
-1: Thatch
-1: Thaw
-1: Therefor
-1: Therein
-1: They’re
-1: Thievery
-1: Thin
-1: Thing’s
-1: Thinks
-1: Thirteen
-1: Thorough
-1: Thousands
-1: Threat
-1: Threats
-1: Threat’ning
-1: Thrice
-1: Thrift
-1: Throes
-1: Throne
-1: Throned
-1: Throngs
-1: Throughout
-1: Thrown
-1: Thrust
-1: Tide
-1: Tides
-1: Tigers
-1: Tiring
-1: Tithèd
-1: Today
-1: Token
-1: Tomb
-1: Tongues
-1: Tonight
-1: Top
-1: Torment
-1: Tossed
-1: Towardly
-1: Towards
-1: Towers
-1: Tract
-1: Trades
-1: Traffics
-1: Traffic’s
-1: Traitors
-1: Transformation
-1: Transformèd
-1: Translates
-1: Trapped
-1: Travail
-1: Travailed
-1: Traversed
-1: Treads
-1: Trees
-1: Trenchant
-1: Trencher
-1: Trencher-friends
-1: Trial
-1: Trick
-1: Tried
-1: Trifle
-1: Trifles
-1: Trifling
-1: Triumphers
-1: Trod
-1: Troops
-1: Trophies
-1: Truer
-1: Truest
-1: Trump
-1: Trumpets’
-1: Trumpet’s
-1: Trunks
-1: Trusters’
-1: Trusts
-1: Tub-fast
-1: Tubs
-1: Turbulent
-1: Turncoats
-1: Tutors
-1: Twelve
-1: Twice
-1: Twinned
-1: Tyrants
-1: Ulcerous
-1: Unagreeable
-1: Unaptness
-1: Unbolt
-1: Uncertain
-1: Unchargèd
-1: Unchecked
-1: Unclew
-1: Uncover
-1: Unctuous
-1: Undergo
-1: Undo
-1: Unfortunate
-1: Ungrateful
-1: Unhousèd
-1: Unicorn
-1: Unkind
-1: Unkindest
-1: Unkindly
-1: Unkindness
-1: Unlearned
-1: Unluckily
-1: Unmanly
-1: Unmatchèd
-1: Unmeasurable
-1: Unnoted
-1: Unpeaceable
-1: Unremovably
-1: Unruly
-1: Unscarred
-1: Unthrift
-1: Untirable
-1: Unusual
-1: Unwise
-1: Unwisely
-1: Upright
-1: Upward
-1: Urged
-1: Uses
-1: Usurers
-1: Usury
-1: Vacant
-1: Vainglories
-1: Vainly
-1: Vanity
-1: Vantages
-1: Vapors
-1: Varnished
-1: Varro’s
-1: Vaults
-1: Venomed
-1: Verge
-1: Vessel
-1: Vessels
-1: Vestments
-1: Vex
-1: Vicious
-1: Victories
-1: Vile
-1: Viler
-1: Villainies
-1: Villainous
-1: Vines
-1: Virginity
-1: Virgins
-1: Virgin’s
-1: Virtuously
-1: Visage
-1: Visible
-1: Visitation
-1: Visitations
-1: Visitors
-1: Voiced
-1: Void
-1: Votarist
-1: Vows
-1: Voyage
-1: Wafts
-1: Wages
-1: Waiting
-1: Walk
-1: Wandered
-1: Wanted
-1: Wanting
-1: Want’st
-1: Wappened
-1: Wards
-1: Warm
-1: Warmth
-1: Warr’st
-1: Wars
-1: Washes
-1: Waste
-1: Wasteful
-1: Waxed
-1: Weak
-1: Weal
-1: Wed
-1: Weeks
-1: Weep’st
-1: Weightier
-1: Welcomes
-1: Went
-1: Whelped
-1: Whereat
-1: Whereby
-1: Whereon
-1: Wherever
-1: Whether
-1: Whips
-1: Whirlwind
-1: Whisperings
-1: Whither
-1: Whittle
-1: Whoso
-1: Who’s
-1: Wide
-1: Widow
-1: Willingly
-1: Wind
-1: Wind-pipe’s
-1: Window-bars
-1: Wing
-1: Wink
-1: Winter’s
-1: Wipe
-1: Wisdom
-1: Wisely
-1: Wiser
-1: Wishes
-1: Witch
-1: Withal
-1: Wither
-1: Wits
-1: Woman’s
-1: Women’s
-1: Wondrously
-1: Wont
-1: Wooed
-1: Wooer
-1: Workman
-1: Workmen
-1: Works
-1: World’s
-1: Worm
-1: Worshiped
-1: Worships
-1: Worthily
-1: Wrack
-1: Wreakful
-1: Wrench
-1: Wretchedness
-1: Wrinkled
-1: Wrinkles
-1: Writ
-1: Write
-1: Writing
-1: Ye
-1: Year
-1: Yells
-1: Yonder
-1: Yonder’s
-1: Youngest
-1: Zeals
-1: ’bove
-1: ’mong
-1: ’scape
-1: ’st
-1: ’twill
-1: ’twixt
-1: ’twould
+instances: 495, word: 'And', work: 'Tim'},
+instances: 432, word: 'The', work: 'Tim'},
+instances: 413, word: 'To', work: 'Tim'},
+instances: 391, word: 'I', work: 'Tim'},
+instances: 315, word: 'Of', work: 'Tim'},
+instances: 278, word: 'You', work: 'Tim'},
+instances: 276, word: 'A', work: 'Tim'},
+instances: 268, word: 'My', work: 'Tim'},
+instances: 227, word: 'That', work: 'Tim'},
+instances: 221, word: 'In', work: 'Tim'},
+instances: 209, word: 'Thou', work: 'Tim'},
+instances: 193, word: 'Not', work: 'Tim'},
+instances: 190, word: 'His', work: 'Tim'},
+instances: 172, word: 'Is', work: 'Tim'},
+instances: 171, word: 'It', work: 'Tim'},
+instances: 155, word: 'Me', work: 'Tim'},
+instances: 148, word: 'With', work: 'Tim'},
+instances: 147, word: 'For', work: 'Tim'},
+instances: 146, word: 'Lord', work: 'Tim'},
+instances: 137, word: 'Have', work: 'Tim'},
+instances: 136, word: 'Him', work: 'Tim'},
+instances: 136, word: 'Thee', work: 'Tim'},
+instances: 134, word: 'But', work: 'Tim'},
+instances: 134, word: 'He', work: 'Tim'},
+instances: 134, word: 'Your', work: 'Tim'},
+instances: 133, word: 'Thy', work: 'Tim'},
+instances: 129, word: 'Be', work: 'Tim'},
+instances: 121, word: 'This', work: 'Tim'},
+instances: 113, word: 'What', work: 'Tim'},
+instances: 109, word: 'All', work: 'Tim'},
+instances: 107, word: 'So', work: 'Tim'},
+instances: 84, word: 'Are', work: 'Tim'},
+instances: 80, word: 'As', work: 'Tim'},
+instances: 78, word: 'No', work: 'Tim'},
+instances: 74, word: 'If', work: 'Tim'},
+instances: 74, word: 'Timon', work: 'Tim'},
+instances: 73, word: 'Our', work: 'Tim'},
+instances: 72, word: 'Do', work: 'Tim'},
+instances: 69, word: 'Their', work: 'Tim'},
+instances: 67, word: 'Them', work: 'Tim'},
+instances: 66, word: 'Man', work: 'Tim'},
+instances: 65, word: 'We', work: 'Tim'},
+instances: 65, word: 'Will', work: 'Tim'},
+instances: 62, word: 'Good', work: 'Tim'},
+instances: 62, word: 'On', work: 'Tim'},
+instances: 60, word: 'By', work: 'Tim'},
+instances: 60, word: 'Now', work: 'Tim'},
+instances: 59, word: '\'t', work: 'Tim'},
+instances: 56, word: 'Men', work: 'Tim'},
+instances: 55, word: 'From', work: 'Tim'},
+instances: 54, word: 'How', work: 'Tim'},
+instances: 54, word: 'More', work: 'Tim'},
+instances: 54, word: 'Would', work: 'Tim'},
+instances: 53, word: 'Let', work: 'Tim'},
+instances: 51, word: '\'tis', work: 'Tim'},
+instances: 49, word: 'One', work: 'Tim'},
+instances: 48, word: 'They', work: 'Tim'},
+instances: 47, word: 'Shall', work: 'Tim'},
+instances: 47, word: 'Which', work: 'Tim'},
+instances: 46, word: 'Well', work: 'Tim'},
+instances: 46, word: 'When', work: 'Tim'},
+instances: 45, word: 'At', work: 'Tim'},
+instances: 45, word: 'Like', work: 'Tim'},
+instances: 45, word: 'Make', work: 'Tim'},
+instances: 44, word: 'Should', work: 'Tim'},
+instances: 43, word: 'Gods', work: 'Tim'},
+instances: 42, word: 'I\'ll', work: 'Tim'},
+instances: 42, word: 'May', work: 'Tim'},
+instances: 41, word: 'Am', work: 'Tim'},
+instances: 41, word: 'Were', work: 'Tim'},
+instances: 40, word: 'Here', work: 'Tim'},
+instances: 40, word: 'Out', work: 'Tim'},
+instances: 40, word: 'Sir', work: 'Tim'},
+instances: 40, word: 'Th\'', work: 'Tim'},
+instances: 39, word: 'Than', work: 'Tim'},
+instances: 39, word: 'Upon', work: 'Tim'},
+instances: 38, word: 'Know', work: 'Tim'},
+instances: 37, word: 'O', work: 'Tim'},
+instances: 36, word: 'An', work: 'Tim'},
+instances: 36, word: 'Art', work: 'Tim'},
+instances: 36, word: 'Gold', work: 'Tim'},
+instances: 36, word: 'Most', work: 'Tim'},
+instances: 35, word: 'Give', work: 'Tim'},
+instances: 35, word: 'Then', work: 'Tim'},
+instances: 34, word: 'Come', work: 'Tim'},
+instances: 34, word: 'Love', work: 'Tim'},
+instances: 33, word: 'Much', work: 'Tim'},
+instances: 33, word: 'Must', work: 'Tim'},
+instances: 32, word: 'Take', work: 'Tim'},
+instances: 32, word: 'Why', work: 'Tim'},
+instances: 31, word: 'Friends', work: 'Tim'},
+instances: 31, word: 'Go', work: 'Tim'},
+instances: 31, word: 'Has', work: 'Tim'},
+instances: 31, word: 'Who', work: 'Tim'},
+instances: 31, word: 'Yet', work: 'Tim'},
+instances: 30, word: 'Athens', work: 'Tim'},
+instances: 30, word: 'See', work: 'Tim'},
+instances: 30, word: 'Some', work: 'Tim'},
+instances: 30, word: 'There', work: 'Tim'},
+instances: 30, word: 'Us', work: 'Tim'},
+instances: 29, word: 'Hath', work: 'Tim'},
+instances: 29, word: 'These', work: 'Tim'},
+instances: 28, word: 'Too', work: 'Tim'},
+instances: 27, word: 'Honor', work: 'Tim'},
+instances: 27, word: 'Time', work: 'Tim'},
+instances: 26, word: 'Can', work: 'Tim'},
+instances: 26, word: 'Honest', work: 'Tim'},
+instances: 26, word: 'Mine', work: 'Tim'},
+instances: 26, word: 'Or', work: 'Tim'},
+instances: 26, word: 'Own', work: 'Tim'},
+instances: 26, word: 'Was', work: 'Tim'},
+instances: 25, word: 'Great', work: 'Tim'},
+instances: 25, word: 'Had', work: 'Tim'},
+instances: 25, word: 'Noble', work: 'Tim'},
+instances: 25, word: 'Nothing', work: 'Tim'},
+instances: 25, word: 'Speak', work: 'Tim'},
+instances: 25, word: 'Timon\'s', work: 'Tim'},
+instances: 24, word: 'Ay', work: 'Tim'},
+instances: 24, word: 'Does', work: 'Tim'},
+instances: 23, word: 'Apemantus', work: 'Tim'},
+instances: 23, word: 'Dost', work: 'Tim'},
+instances: 23, word: 'Heart', work: 'Tim'},
+instances: 23, word: 'Those', work: 'Tim'},
+instances: 23, word: 'Use', work: 'Tim'},
+instances: 22, word: 'Say', work: 'Tim'},
+instances: 22, word: 'Such', work: 'Tim'},
+instances: 22, word: 'Whose', work: 'Tim'},
+instances: 21, word: 'Did', work: 'Tim'},
+instances: 21, word: 'Friend', work: 'Tim'},
+instances: 21, word: 'Nor', work: 'Tim'},
+instances: 21, word: '\'em', work: 'Tim'},
+instances: 20, word: 'Cannot', work: 'Tim'},
+instances: 20, word: 'Fool', work: 'Tim'},
+instances: 20, word: 'Into', work: 'Tim'},
+instances: 20, word: 'Lordship', work: 'Tim'},
+instances: 20, word: 'Still', work: 'Tim'},
+instances: 19, word: 'Away', work: 'Tim'},
+instances: 19, word: 'Look', work: 'Tim'},
+instances: 19, word: 'Nature', work: 'Tim'},
+instances: 19, word: 'Never', work: 'Tim'},
+instances: 19, word: 'Poor', work: 'Tim'},
+instances: 19, word: 'Thine', work: 'Tim'},
+instances: 18, word: 'Before', work: 'Tim'},
+instances: 18, word: 'Best', work: 'Tim'},
+instances: 18, word: 'Ever', work: 'Tim'},
+instances: 18, word: 'Her', work: 'Tim'},
+instances: 18, word: 'Tell', work: 'Tim'},
+instances: 18, word: 'Think', work: 'Tim'},
+instances: 18, word: 'Whom', work: 'Tim'},
+instances: 17, word: 'Again', work: 'Tim'},
+instances: 17, word: 'Hear', work: 'Tim'},
+instances: 17, word: 'Money', work: 'Tim'},
+instances: 17, word: 'Put', work: 'Tim'},
+instances: 17, word: 'Thyself', work: 'Tim'},
+instances: 17, word: 'True', work: 'Tim'},
+instances: 17, word: 'Up', work: 'Tim'},
+instances: 17, word: 'Welcome', work: 'Tim'},
+instances: 17, word: 'Where', work: 'Tim'},
+instances: 16, word: 'Comes', work: 'Tim'},
+instances: 16, word: 'Day', work: 'Tim'},
+instances: 16, word: 'Dog', work: 'Tim'},
+instances: 16, word: 'Down', work: 'Tim'},
+instances: 16, word: 'Eyes', work: 'Tim'},
+instances: 16, word: 'He\'s', work: 'Tim'},
+instances: 16, word: 'Made', work: 'Tim'},
+instances: 16, word: 'Might', work: 'Tim'},
+instances: 16, word: 'Ne\'er', work: 'Tim'},
+instances: 16, word: 'None', work: 'Tim'},
+instances: 16, word: 'Sent', work: 'Tim'},
+instances: 16, word: 'There\'s', work: 'Tim'},
+instances: 15, word: 'Could', work: 'Tim'},
+instances: 15, word: 'Myself', work: 'Tim'},
+instances: 15, word: 'Want', work: 'Tim'},
+instances: 15, word: 'Wert', work: 'Tim'},
+instances: 14, word: 'Against', work: 'Tim'},
+instances: 14, word: 'Been', work: 'Tim'},
+instances: 14, word: 'Better', work: 'Tim'},
+instances: 14, word: 'Call', work: 'Tim'},
+instances: 14, word: 'Enough', work: 'Tim'},
+instances: 14, word: 'First', work: 'Tim'},
+instances: 14, word: 'Fortunes', work: 'Tim'},
+instances: 14, word: 'Kind', work: 'Tim'},
+instances: 14, word: 'Live', work: 'Tim'},
+instances: 14, word: 'Only', work: 'Tim'},
+instances: 14, word: 'Pray', work: 'Tim'},
+instances: 14, word: 'Rich', work: 'Tim'},
+instances: 14, word: 'Stay', work: 'Tim'},
+instances: 14, word: 'Thus', work: 'Tim'},
+instances: 14, word: 'World', work: 'Tim'},
+instances: 13, word: 'Alcibiades', work: 'Tim'},
+instances: 13, word: 'Fortune', work: 'Tim'},
+instances: 13, word: 'Gone', work: 'Tim'},
+instances: 13, word: 'Keep', work: 'Tim'},
+instances: 13, word: 'Life', work: 'Tim'},
+instances: 13, word: 'Long', work: 'Tim'},
+instances: 13, word: 'Meat', work: 'Tim'},
+instances: 13, word: 'O\'', work: 'Tim'},
+instances: 13, word: 'Present', work: 'Tim'},
+instances: 13, word: 'Set', work: 'Tim'},
+instances: 13, word: 'Talents', work: 'Tim'},
+instances: 13, word: 'Very', work: 'Tim'},
+instances: 13, word: 'Wealth', work: 'Tim'},
+instances: 13, word: 'Worthy', work: 'Tim'},
+instances: 12, word: 'Answer', work: 'Tim'},
+instances: 12, word: 'Bring', work: 'Tim'},
+instances: 12, word: 'Eat', work: 'Tim'},
+instances: 12, word: 'Fall', work: 'Tim'},
+instances: 12, word: 'Fear', work: 'Tim'},
+instances: 12, word: 'Honorable', work: 'Tim'},
+instances: 12, word: 'Lords', work: 'Tim'},
+instances: 12, word: 'Master', work: 'Tim'},
+instances: 12, word: 'Off', work: 'Tim'},
+instances: 12, word: 'Other', work: 'Tim'},
+instances: 12, word: 'Plague', work: 'Tim'},
+instances: 12, word: 'Please', work: 'Tim'},
+instances: 12, word: 'Power', work: 'Tim'},
+instances: 12, word: 'Steward', work: 'Tim'},
+instances: 12, word: 'Till', work: 'Tim'},
+instances: 11, word: 'Beast', work: 'Tim'},
+instances: 11, word: 'Common', work: 'Tim'},
+instances: 11, word: 'Each', work: 'Tim'},
+instances: 11, word: 'Feast', work: 'Tim'},
+instances: 11, word: 'Hate', work: 'Tim'},
+instances: 11, word: 'Himself', work: 'Tim'},
+instances: 11, word: 'Hold', work: 'Tim'},
+instances: 11, word: 'Little', work: 'Tim'},
+instances: 11, word: 'Many', work: 'Tim'},
+instances: 11, word: 'Means', work: 'Tim'},
+instances: 11, word: 'Part', work: 'Tim'},
+instances: 11, word: 'That\'s', work: 'Tim'},
+instances: 11, word: 'Wilt', work: 'Tim'},
+instances: 11, word: 'Wouldst', work: 'Tim'},
+instances: 10, word: 'Back', work: 'Tim'},
+instances: 10, word: 'Bear', work: 'Tim'},
+instances: 10, word: 'Blood', work: 'Tim'},
+instances: 10, word: 'Breath', work: 'Tim'},
+instances: 10, word: 'Done', work: 'Tim'},
+instances: 10, word: 'Even', work: 'Tim'},
+instances: 10, word: 'Every', work: 'Tim'},
+instances: 10, word: 'Fair', work: 'Tim'},
+instances: 10, word: 'Forth', work: 'Tim'},
+instances: 10, word: 'Hast', work: 'Tim'},
+instances: 10, word: 'Here\'s', work: 'Tim'},
+instances: 10, word: 'House', work: 'Tim'},
+instances: 10, word: 'Nay', work: 'Tim'},
+instances: 10, word: 'Needs', work: 'Tim'},
+instances: 10, word: 'Prithee', work: 'Tim'},
+instances: 10, word: 'Right', work: 'Tim'},
+instances: 10, word: 'Show', work: 'Tim'},
+instances: 10, word: 'Thousand', work: 'Tim'},
+instances: 10, word: 'Words', work: 'Tim'},
+instances: 9, word: 'Being', work: 'Tim'},
+instances: 9, word: 'Bid', work: 'Tim'},
+instances: 9, word: 'Dead', work: 'Tim'},
+instances: 9, word: 'Denied', work: 'Tim'},
+instances: 9, word: 'Doth', work: 'Tim'},
+instances: 9, word: 'Drink', work: 'Tim'},
+instances: 9, word: 'Ere', work: 'Tim'},
+instances: 9, word: 'E\'en', work: 'Tim'},
+instances: 9, word: 'Fare', work: 'Tim'},
+instances: 9, word: 'Free', work: 'Tim'},
+instances: 9, word: 'General', work: 'Tim'},
+instances: 9, word: 'Gentleman', work: 'Tim'},
+instances: 9, word: 'Get', work: 'Tim'},
+instances: 9, word: 'Hearts', work: 'Tim'},
+instances: 9, word: 'Mankind', work: 'Tim'},
+instances: 9, word: 'Pity', work: 'Tim'},
+instances: 9, word: 'Rather', work: 'Tim'},
+instances: 9, word: 'Return', work: 'Tim'},
+instances: 9, word: 'Senators', work: 'Tim'},
+instances: 9, word: 'Serve', work: 'Tim'},
+instances: 9, word: 'She', work: 'Tim'},
+instances: 9, word: 'Thieves', work: 'Tim'},
+instances: 9, word: 'Two', work: 'Tim'},
+instances: 9, word: 'War', work: 'Tim'},
+instances: 9, word: 'Work', work: 'Tim'},
+instances: 9, word: 'Yes', work: 'Tim'},
+instances: 8, word: 'Air', work: 'Tim'},
+instances: 8, word: 'Bounty', work: 'Tim'},
+instances: 8, word: 'Care', work: 'Tim'},
+instances: 8, word: 'Company', work: 'Tim'},
+instances: 8, word: 'Confound', work: 'Tim'},
+instances: 8, word: 'Death', work: 'Tim'},
+instances: 8, word: 'Die', work: 'Tim'},
+instances: 8, word: 'Else', work: 'Tim'},
+instances: 8, word: 'False', work: 'Tim'},
+instances: 8, word: 'Fellows', work: 'Tim'},
+instances: 8, word: 'Find', work: 'Tim'},
+instances: 8, word: 'Five', work: 'Tim'},
+instances: 8, word: 'Grave', work: 'Tim'},
+instances: 8, word: 'Health', work: 'Tim'},
+instances: 8, word: 'Knaves', work: 'Tim'},
+instances: 8, word: 'Late', work: 'Tim'},
+instances: 8, word: 'Law', work: 'Tim'},
+instances: 8, word: 'Left', work: 'Tim'},
+instances: 8, word: 'Let\'s', work: 'Tim'},
+instances: 8, word: 'Mind', work: 'Tim'},
+instances: 8, word: 'Once', work: 'Tim'},
+instances: 8, word: 'Peace', work: 'Tim'},
+instances: 8, word: 'Send', work: 'Tim'},
+instances: 8, word: 'Service', work: 'Tim'},
+instances: 8, word: 'Servilius', work: 'Tim'},
+instances: 8, word: 'Shalt', work: 'Tim'},
+instances: 8, word: 'Sword', work: 'Tim'},
+instances: 8, word: 'Therefore', work: 'Tim'},
+instances: 8, word: 'Things', work: 'Tim'},
+instances: 8, word: 'Though', work: 'Tim'},
+instances: 8, word: 'Together', work: 'Tim'},
+instances: 8, word: 'Unto', work: 'Tim'},
+instances: 8, word: 'Without', work: 'Tim'},
+instances: 8, word: 'Word', work: 'Tim'},
+instances: 7, word: 'Above', work: 'Tim'},
+instances: 7, word: 'After', work: 'Tim'},
+instances: 7, word: 'Any', work: 'Tim'},
+instances: 7, word: 'Beggar', work: 'Tim'},
+instances: 7, word: 'Believe', work: 'Tim'},
+instances: 7, word: 'Beseech', work: 'Tim'},
+instances: 7, word: 'Born', work: 'Tim'},
+instances: 7, word: 'Certain', work: 'Tim'},
+instances: 7, word: 'Commend', work: 'Tim'},
+instances: 7, word: 'Days', work: 'Tim'},
+instances: 7, word: 'Dear', work: 'Tim'},
+instances: 7, word: 'Debts', work: 'Tim'},
+instances: 7, word: 'Doubt', work: 'Tim'},
+instances: 7, word: 'Earth', work: 'Tim'},
+instances: 7, word: 'Estate', work: 'Tim'},
+instances: 7, word: 'Flaminius', work: 'Tim'},
+instances: 7, word: 'Fools', work: 'Tim'},
+instances: 7, word: 'Friendship', work: 'Tim'},
+instances: 7, word: 'Full', work: 'Tim'},
+instances: 7, word: 'Hang', work: 'Tim'},
+instances: 7, word: 'Hope', work: 'Tim'},
+instances: 7, word: 'Itself', work: 'Tim'},
+instances: 7, word: 'Jewel', work: 'Tim'},
+instances: 7, word: 'Kill', work: 'Tim'},
+instances: 7, word: 'Last', work: 'Tim'},
+instances: 7, word: 'Leave', work: 'Tim'},
+instances: 7, word: 'Lie', work: 'Tim'},
+instances: 7, word: 'Living', work: 'Tim'},
+instances: 7, word: 'Lord\'s', work: 'Tim'},
+instances: 7, word: 'Lucullus', work: 'Tim'},
+instances: 7, word: 'Makes', work: 'Tim'},
+instances: 7, word: 'Man\'s', work: 'Tim'},
+instances: 7, word: 'Master\'s', work: 'Tim'},
+instances: 7, word: 'Meet', work: 'Tim'},
+instances: 7, word: 'Mend', work: 'Tim'},
+instances: 7, word: 'Methinks', work: 'Tim'},
+instances: 7, word: 'Name', work: 'Tim'},
+instances: 7, word: 'Near', work: 'Tim'},
+instances: 7, word: 'Pay', work: 'Tim'},
+instances: 7, word: 'Piece', work: 'Tim'},
+instances: 7, word: 'Place', work: 'Tim'},
+instances: 7, word: 'Promise', work: 'Tim'},
+instances: 7, word: 'Proud', work: 'Tim'},
+instances: 7, word: 'Sick', work: 'Tim'},
+instances: 7, word: 'Slaves', work: 'Tim'},
+instances: 7, word: 'State', work: 'Tim'},
+instances: 7, word: 'Strange', work: 'Tim'},
+instances: 7, word: 'Thanks', work: 'Tim'},
+instances: 7, word: 'Themselves', work: 'Tim'},
+instances: 7, word: 'Thief', work: 'Tim'},
+instances: 7, word: 'Three', work: 'Tim'},
+instances: 7, word: 'Turn', work: 'Tim'},
+instances: 7, word: 'Water', work: 'Tim'},
+instances: 7, word: 'Way', work: 'Tim'},
+instances: 7, word: 'Wear', work: 'Tim'},
+instances: 7, word: 'Whore', work: 'Tim'},
+instances: 7, word: 'Wish', work: 'Tim'},
+instances: 7, word: 'Yours', work: 'Tim'},
+instances: 7, word: 'Yourselves', work: 'Tim'},
+instances: 6, word: 'Beasts', work: 'Tim'},
+instances: 6, word: 'Borrow', work: 'Tim'},
+instances: 6, word: 'Both', work: 'Tim'},
+instances: 6, word: 'Captain', work: 'Tim'},
+instances: 6, word: 'City', work: 'Tim'},
+instances: 6, word: 'Cold', work: 'Tim'},
+instances: 6, word: 'Cut', work: 'Tim'},
+instances: 6, word: 'Debt', work: 'Tim'},
+instances: 6, word: 'Enemies', work: 'Tim'},
+instances: 6, word: 'Fie', work: 'Tim'},
+instances: 6, word: 'Fifty', work: 'Tim'},
+instances: 6, word: 'Flow', work: 'Tim'},
+instances: 6, word: 'Fury', work: 'Tim'},
+instances: 6, word: 'Gentlemen', work: 'Tim'},
+instances: 6, word: 'Goes', work: 'Tim'},
+instances: 6, word: 'Hand', work: 'Tim'},
+instances: 6, word: 'Head', work: 'Tim'},
+instances: 6, word: 'Ho', work: 'Tim'},
+instances: 6, word: 'Horse', work: 'Tim'},
+instances: 6, word: 'Indeed', work: 'Tim'},
+instances: 6, word: 'Instant', work: 'Tim'},
+instances: 6, word: 'Less', work: 'Tim'},
+instances: 6, word: 'Lucius', work: 'Tim'},
+instances: 6, word: 'Masters', work: 'Tim'},
+instances: 6, word: 'Men\'s', work: 'Tim'},
+instances: 6, word: 'Need', work: 'Tim'},
+instances: 6, word: 'Old', work: 'Tim'},
+instances: 6, word: 'Owes', work: 'Tim'},
+instances: 6, word: 'Pass', work: 'Tim'},
+instances: 6, word: 'Poison', work: 'Tim'},
+instances: 6, word: 'Root', work: 'Tim'},
+instances: 6, word: 'Seen', work: 'Tim'},
+instances: 6, word: 'Senate', work: 'Tim'},
+instances: 6, word: 'Shouldst', work: 'Tim'},
+instances: 6, word: 'Sin', work: 'Tim'},
+instances: 6, word: 'Slave', work: 'Tim'},
+instances: 6, word: 'Soul', work: 'Tim'},
+instances: 6, word: 'Spirit', work: 'Tim'},
+instances: 6, word: 'Stand', work: 'Tim'},
+instances: 6, word: 'Strike', work: 'Tim'},
+instances: 6, word: 'Supply', work: 'Tim'},
+instances: 6, word: 'Sure', work: 'Tim'},
+instances: 6, word: 'Thank', work: 'Tim'},
+instances: 6, word: 'Thrive', work: 'Tim'},
+instances: 6, word: 'Told', work: 'Tim'},
+instances: 6, word: 'Vain', work: 'Tim'},
+instances: 6, word: 'Valor', work: 'Tim'},
+instances: 6, word: 'Ventidius', work: 'Tim'},
+instances: 6, word: 'Villains', work: 'Tim'},
+instances: 6, word: 'What\'s', work: 'Tim'},
+instances: 6, word: 'Worst', work: 'Tim'},
+instances: 6, word: 'Worth', work: 'Tim'},
+instances: 6, word: 'Youth', work: 'Tim'},
+instances: 6, word: '\'rt', work: 'Tim'},
+instances: 5, word: 'Always', work: 'Tim'},
+instances: 5, word: 'Another', work: 'Tim'},
+instances: 5, word: 'Ass', work: 'Tim'},
+instances: 5, word: 'Base', work: 'Tim'},
+instances: 5, word: 'Bears', work: 'Tim'},
+instances: 5, word: 'Beat', work: 'Tim'},
+instances: 5, word: 'Beloved', work: 'Tim'},
+instances: 5, word: 'Below', work: 'Tim'},
+instances: 5, word: 'Break', work: 'Tim'},
+instances: 5, word: 'Came', work: 'Tim'},
+instances: 5, word: 'Canst', work: 'Tim'},
+instances: 5, word: 'Cap', work: 'Tim'},
+instances: 5, word: 'Curse', work: 'Tim'},
+instances: 5, word: 'Drum', work: 'Tim'},
+instances: 5, word: 'Ears', work: 'Tim'},
+instances: 5, word: 'Excellent', work: 'Tim'},
+instances: 5, word: 'Far', work: 'Tim'},
+instances: 5, word: 'Faults', work: 'Tim'},
+instances: 5, word: 'Feed', work: 'Tim'},
+instances: 5, word: 'Fire', work: 'Tim'},
+instances: 5, word: 'Flatterer', work: 'Tim'},
+instances: 5, word: 'Follow', work: 'Tim'},
+instances: 5, word: 'Forgot', work: 'Tim'},
+instances: 5, word: 'Gave', work: 'Tim'},
+instances: 5, word: 'Gift', work: 'Tim'},
+instances: 5, word: 'Gifts', work: 'Tim'},
+instances: 5, word: 'Grace', work: 'Tim'},
+instances: 5, word: 'Grant', work: 'Tim'},
+instances: 5, word: 'Grief', work: 'Tim'},
+instances: 5, word: 'Ha', work: 'Tim'},
+instances: 5, word: 'Hadst', work: 'Tim'},
+instances: 5, word: 'Half', work: 'Tim'},
+instances: 5, word: 'Happy', work: 'Tim'},
+instances: 5, word: 'Heaven', work: 'Tim'},
+instances: 5, word: 'Help', work: 'Tim'},
+instances: 5, word: 'Hence', work: 'Tim'},
+instances: 5, word: 'High', work: 'Tim'},
+instances: 5, word: 'Hither', work: 'Tim'},
+instances: 5, word: 'I\'d', work: 'Tim'},
+instances: 5, word: 'Just', work: 'Tim'},
+instances: 5, word: 'Known', work: 'Tim'},
+instances: 5, word: 'Lack', work: 'Tim'},
+instances: 5, word: 'Ladies', work: 'Tim'},
+instances: 5, word: 'Large', work: 'Tim'},
+instances: 5, word: 'Lend', work: 'Tim'},
+instances: 5, word: 'Lives', work: 'Tim'},
+instances: 5, word: 'Loves', work: 'Tim'},
+instances: 5, word: 'Low', work: 'Tim'},
+instances: 5, word: 'Mere', work: 'Tim'},
+instances: 5, word: 'Misery', work: 'Tim'},
+instances: 5, word: 'Occasion', work: 'Tim'},
+instances: 5, word: 'Often', work: 'Tim'},
+instances: 5, word: 'Ours', work: 'Tim'},
+instances: 5, word: 'Praise', work: 'Tim'},
+instances: 5, word: 'Quite', work: 'Tim'},
+instances: 5, word: 'Read', work: 'Tim'},
+instances: 5, word: 'Rogue', work: 'Tim'},
+instances: 5, word: 'Said', work: 'Tim'},
+instances: 5, word: 'Sea', work: 'Tim'},
+instances: 5, word: 'Sit', work: 'Tim'},
+instances: 5, word: 'Sorry', work: 'Tim'},
+instances: 5, word: 'Sound', work: 'Tim'},
+instances: 5, word: 'Speaks', work: 'Tim'},
+instances: 5, word: 'Sun', work: 'Tim'},
+instances: 5, word: 'Sweet', work: 'Tim'},
+instances: 5, word: 'Throats', work: 'Tim'},
+instances: 5, word: 'Times', work: 'Tim'},
+instances: 5, word: 'Touch', work: 'Tim'},
+instances: 5, word: 'Toward', work: 'Tim'},
+instances: 5, word: 'Under', work: 'Tim'},
+instances: 5, word: 'Valiant', work: 'Tim'},
+instances: 5, word: 'Virtue', work: 'Tim'},
+instances: 5, word: 'Wast', work: 'Tim'},
+instances: 5, word: 'We\'ll', work: 'Tim'},
+instances: 5, word: 'Wine', work: 'Tim'},
+instances: 5, word: 'Wise', work: 'Tim'},
+instances: 5, word: 'Within', work: 'Tim'},
+instances: 5, word: 'Wretched', work: 'Tim'},
+instances: 5, word: 'Young', work: 'Tim'},
+instances: 5, word: 'You\'re', work: 'Tim'},
+instances: 5, word: '\'lt', work: 'Tim'},
+instances: 4, word: 'Accept', work: 'Tim'},
+instances: 4, word: 'Age', work: 'Tim'},
+instances: 4, word: 'Alas', work: 'Tim'},
+instances: 4, word: 'Alive', work: 'Tim'},
+instances: 4, word: 'Alone', work: 'Tim'},
+instances: 4, word: 'Amiss', work: 'Tim'},
+instances: 4, word: 'Anger', work: 'Tim'},
+instances: 4, word: 'Angry', work: 'Tim'},
+instances: 4, word: 'Approach', work: 'Tim'},
+instances: 4, word: 'Ask', work: 'Tim'},
+instances: 4, word: 'Athenian', work: 'Tim'},
+instances: 4, word: 'Athenians', work: 'Tim'},
+instances: 4, word: 'Banish', work: 'Tim'},
+instances: 4, word: 'Because', work: 'Tim'},
+instances: 4, word: 'Become', work: 'Tim'},
+instances: 4, word: 'Bless', work: 'Tim'},
+instances: 4, word: 'Bosom', work: 'Tim'},
+instances: 4, word: 'Bound', work: 'Tim'},
+instances: 4, word: 'Bounteous', work: 'Tim'},
+instances: 4, word: 'Business', work: 'Tim'},
+instances: 4, word: 'Catch', work: 'Tim'},
+instances: 4, word: 'Cause', work: 'Tim'},
+instances: 4, word: 'Clear', work: 'Tim'},
+instances: 4, word: 'Close', work: 'Tim'},
+instances: 4, word: 'Confusion', work: 'Tim'},
+instances: 4, word: 'Contempt', work: 'Tim'},
+instances: 4, word: 'Counsel', work: 'Tim'},
+instances: 4, word: 'Course', work: 'Tim'},
+instances: 4, word: 'Dinner', work: 'Tim'},
+instances: 4, word: 'Doors', work: 'Tim'},
+instances: 4, word: 'Draw', work: 'Tim'},
+instances: 4, word: 'Empty', work: 'Tim'},
+instances: 4, word: 'Faith', work: 'Tim'},
+instances: 4, word: 'Farewell', work: 'Tim'},
+instances: 4, word: 'Father', work: 'Tim'},
+instances: 4, word: 'Fell', work: 'Tim'},
+instances: 4, word: 'Fellow', work: 'Tim'},
+instances: 4, word: 'Fill', work: 'Tim'},
+instances: 4, word: 'Flies', work: 'Tim'},
+instances: 4, word: 'Fly', work: 'Tim'},
+instances: 4, word: 'Foot', work: 'Tim'},
+instances: 4, word: 'Freely', work: 'Tim'},
+instances: 4, word: 'Further', work: 'Tim'},
+instances: 4, word: 'Gentle', work: 'Tim'},
+instances: 4, word: 'Given', work: 'Tim'},
+instances: 4, word: 'Glory', work: 'Tim'},
+instances: 4, word: 'God', work: 'Tim'},
+instances: 4, word: 'Griefs', work: 'Tim'},
+instances: 4, word: 'Grows', work: 'Tim'},
+instances: 4, word: 'Hands', work: 'Tim'},
+instances: 4, word: 'Hanged', work: 'Tim'},
+instances: 4, word: 'Happiness', work: 'Tim'},
+instances: 4, word: 'Having', work: 'Tim'},
+instances: 4, word: 'Hazard', work: 'Tim'},
+instances: 4, word: 'Ha\'', work: 'Tim'},
+instances: 4, word: 'Heard', work: 'Tim'},
+instances: 4, word: 'Hearing', work: 'Tim'},
+instances: 4, word: 'Honored', work: 'Tim'},
+instances: 4, word: 'Ill', work: 'Tim'},
+instances: 4, word: 'Ingratitude', work: 'Tim'},
+instances: 4, word: 'I\'', work: 'Tim'},
+instances: 4, word: 'Jewels', work: 'Tim'},
+instances: 4, word: 'Keeps', work: 'Tim'},
+instances: 4, word: 'Kept', work: 'Tim'},
+instances: 4, word: 'Kindness', work: 'Tim'},
+instances: 4, word: 'Knave', work: 'Tim'},
+instances: 4, word: 'Knew', work: 'Tim'},
+instances: 4, word: 'Know\'st', work: 'Tim'},
+instances: 4, word: 'La', work: 'Tim'},
+instances: 4, word: 'Labor', work: 'Tim'},
+instances: 4, word: 'Laws', work: 'Tim'},
+instances: 4, word: 'Lay', work: 'Tim'},
+instances: 4, word: 'Light', work: 'Tim'},
+instances: 4, word: 'Lion', work: 'Tim'},
+instances: 4, word: 'Lips', work: 'Tim'},
+instances: 4, word: 'Looks', work: 'Tim'},
+instances: 4, word: 'Lust', work: 'Tim'},
+instances: 4, word: 'Manners', work: 'Tim'},
+instances: 4, word: 'Met', work: 'Tim'},
+instances: 4, word: 'Mistress', work: 'Tim'},
+instances: 4, word: 'Natures', work: 'Tim'},
+instances: 4, word: 'New', work: 'Tim'},
+instances: 4, word: 'Night', work: 'Tim'},
+instances: 4, word: 'Observe', work: 'Tim'},
+instances: 4, word: 'Odds', work: 'Tim'},
+instances: 4, word: 'Open', work: 'Tim'},
+instances: 4, word: 'Ourselves', work: 'Tim'},
+instances: 4, word: 'Parts', work: 'Tim'},
+instances: 4, word: 'Past', work: 'Tim'},
+instances: 4, word: 'Received', work: 'Tim'},
+instances: 4, word: 'Rest', work: 'Tim'},
+instances: 4, word: 'Roots', work: 'Tim'},
+instances: 4, word: 'Seek', work: 'Tim'},
+instances: 4, word: 'Seldom', work: 'Tim'},
+instances: 4, word: 'Servant', work: 'Tim'},
+instances: 4, word: 'Shows', work: 'Tim'},
+instances: 4, word: 'Soft', work: 'Tim'},
+instances: 4, word: 'Soldiers', work: 'Tim'},
+instances: 4, word: 'Sometime', work: 'Tim'},
+instances: 4, word: 'Spare', work: 'Tim'},
+instances: 4, word: 'Spent', work: 'Tim'},
+instances: 4, word: 'Steal', work: 'Tim'},
+instances: 4, word: 'Strain', work: 'Tim'},
+instances: 4, word: 'Strong', work: 'Tim'},
+instances: 4, word: 'Sum', work: 'Tim'},
+instances: 4, word: 'Sums', work: 'Tim'},
+instances: 4, word: 'Suspect', work: 'Tim'},
+instances: 4, word: 'Table', work: 'Tim'},
+instances: 4, word: 'Taste', work: 'Tim'},
+instances: 4, word: 'Thought', work: 'Tim'},
+instances: 4, word: 'Throw', work: 'Tim'},
+instances: 4, word: 'Tongue', work: 'Tim'},
+instances: 4, word: 'Trouble', work: 'Tim'},
+instances: 4, word: 'Trust', work: 'Tim'},
+instances: 4, word: 'Try', work: 'Tim'},
+instances: 4, word: 'Twenty', work: 'Tim'},
+instances: 4, word: 'Understand', work: 'Tim'},
+instances: 4, word: 'Undone', work: 'Tim'},
+instances: 4, word: 'Villain', work: 'Tim'},
+instances: 4, word: 'Wait', work: 'Tim'},
+instances: 4, word: 'Weep', work: 'Tim'},
+instances: 4, word: 'Weigh', work: 'Tim'},
+instances: 4, word: 'Whereof', work: 'Tim'},
+instances: 4, word: 'Whole', work: 'Tim'},
+instances: 4, word: 'Witness', work: 'Tim'},
+instances: 4, word: 'Worse', work: 'Tim'},
+instances: 4, word: 'Wrong', work: 'Tim'},
+instances: 4, word: 'Wrongs', work: 'Tim'},
+instances: 4, word: 'Yield', work: 'Tim'},
+instances: 4, word: '\'s', work: 'Tim'},
+instances: 4, word: '\'twere', work: 'Tim'},
+instances: 3, word: 'Account', work: 'Tim'},
+instances: 3, word: 'Affect', work: 'Tim'},
+instances: 3, word: 'Alike', work: 'Tim'},
+instances: 3, word: 'All\'s', work: 'Tim'},
+instances: 3, word: 'Almost', work: 'Tim'},
+instances: 3, word: 'Already', work: 'Tim'},
+instances: 3, word: 'Amen', work: 'Tim'},
+instances: 3, word: 'Amongst', work: 'Tim'},
+instances: 3, word: 'Anon', work: 'Tim'},
+instances: 3, word: 'Argument', work: 'Tim'},
+instances: 3, word: 'Arm', work: 'Tim'},
+instances: 3, word: 'Aside', work: 'Tim'},
+instances: 3, word: 'Attend', work: 'Tim'},
+instances: 3, word: 'Babe', work: 'Tim'},
+instances: 3, word: 'Banished', work: 'Tim'},
+instances: 3, word: 'Bare', work: 'Tim'},
+instances: 3, word: 'Bastard', work: 'Tim'},
+instances: 3, word: 'Bawd', work: 'Tim'},
+instances: 3, word: 'Beastly', work: 'Tim'},
+instances: 3, word: 'Behold', work: 'Tim'},
+instances: 3, word: 'Beyond', work: 'Tim'},
+instances: 3, word: 'Birds', work: 'Tim'},
+instances: 3, word: 'Bred', work: 'Tim'},
+instances: 3, word: 'Broke', work: 'Tim'},
+instances: 3, word: 'Brother', work: 'Tim'},
+instances: 3, word: 'Brothers', work: 'Tim'},
+instances: 3, word: 'Brought', work: 'Tim'},
+instances: 3, word: 'Burn', work: 'Tim'},
+instances: 3, word: 'Cast', work: 'Tim'},
+instances: 3, word: 'Cave', work: 'Tim'},
+instances: 3, word: 'Change', work: 'Tim'},
+instances: 3, word: 'Cheer', work: 'Tim'},
+instances: 3, word: 'Coin', work: 'Tim'},
+instances: 3, word: 'Comfort', work: 'Tim'},
+instances: 3, word: 'Coming', work: 'Tim'},
+instances: 3, word: 'Command', work: 'Tim'},
+instances: 3, word: 'Conscience', work: 'Tim'},
+instances: 3, word: 'Creatures', work: 'Tim'},
+instances: 3, word: 'Crowned', work: 'Tim'},
+instances: 3, word: 'Daily', work: 'Tim'},
+instances: 3, word: 'Dangerous', work: 'Tim'},
+instances: 3, word: 'Dare', work: 'Tim'},
+instances: 3, word: 'Dares', work: 'Tim'},
+instances: 3, word: 'Daughter', work: 'Tim'},
+instances: 3, word: 'Deal', work: 'Tim'},
+instances: 3, word: 'Dearest', work: 'Tim'},
+instances: 3, word: 'Deed', work: 'Tim'},
+instances: 3, word: 'Deeds', work: 'Tim'},
+instances: 3, word: 'Desire', work: 'Tim'},
+instances: 3, word: 'Despised', work: 'Tim'},
+instances: 3, word: 'Destruction', work: 'Tim'},
+instances: 3, word: 'Didst', work: 'Tim'},
+instances: 3, word: 'Dies', work: 'Tim'},
+instances: 3, word: 'Dine', work: 'Tim'},
+instances: 3, word: 'Diseases', work: 'Tim'},
+instances: 3, word: 'Dogs', work: 'Tim'},
+instances: 3, word: 'Due', work: 'Tim'},
+instances: 3, word: 'Dues', work: 'Tim'},
+instances: 3, word: 'Earnest', work: 'Tim'},
+instances: 3, word: 'End', work: 'Tim'},
+instances: 3, word: 'Enter', work: 'Tim'},
+instances: 3, word: 'Entertained', work: 'Tim'},
+instances: 3, word: 'Entertainment', work: 'Tim'},
+instances: 3, word: 'Entreat', work: 'Tim'},
+instances: 3, word: 'Face', work: 'Tim'},
+instances: 3, word: 'Faint', work: 'Tim'},
+instances: 3, word: 'Fairly', work: 'Tim'},
+instances: 3, word: 'Fault', work: 'Tim'},
+instances: 3, word: 'Feasts', work: 'Tim'},
+instances: 3, word: 'Feel', work: 'Tim'},
+instances: 3, word: 'Feigned', work: 'Tim'},
+instances: 3, word: 'Fit', work: 'Tim'},
+instances: 3, word: 'Flatter', work: 'Tim'},
+instances: 3, word: 'Flatterers', work: 'Tim'},
+instances: 3, word: 'Flatteries', work: 'Tim'},
+instances: 3, word: 'Foes', work: 'Tim'},
+instances: 3, word: 'Food', work: 'Tim'},
+instances: 3, word: 'Former', work: 'Tim'},
+instances: 3, word: 'Foul', work: 'Tim'},
+instances: 3, word: 'Found', work: 'Tim'},
+instances: 3, word: 'Fox', work: 'Tim'},
+instances: 3, word: 'Future', work: 'Tim'},
+instances: 3, word: 'Gives', work: 'Tim'},
+instances: 3, word: 'Goodness', work: 'Tim'},
+instances: 3, word: 'Got', work: 'Tim'},
+instances: 3, word: 'Gravestone', work: 'Tim'},
+instances: 3, word: 'Greatest', work: 'Tim'},
+instances: 3, word: 'Greet', work: 'Tim'},
+instances: 3, word: 'Gross', work: 'Tim'},
+instances: 3, word: 'Habit', work: 'Tim'},
+instances: 3, word: 'Hard', work: 'Tim'},
+instances: 3, word: 'Harm', work: 'Tim'},
+instances: 3, word: 'Hated', work: 'Tim'},
+instances: 3, word: 'Heads', work: 'Tim'},
+instances: 3, word: 'Heavens', work: 'Tim'},
+instances: 3, word: 'Heels', work: 'Tim'},
+instances: 3, word: 'Hereditary', work: 'Tim'},
+instances: 3, word: 'Honesty', work: 'Tim'},
+instances: 3, word: 'Horses', work: 'Tim'},
+instances: 3, word: 'Hour', work: 'Tim'},
+instances: 3, word: 'Hours', work: 'Tim'},
+instances: 3, word: 'Humanity', work: 'Tim'},
+instances: 3, word: 'Humbly', work: 'Tim'},
+instances: 3, word: 'Infect', work: 'Tim'},
+instances: 3, word: 'Infinite', work: 'Tim'},
+instances: 3, word: 'Ingrateful', work: 'Tim'},
+instances: 3, word: 'Isidore', work: 'Tim'},
+instances: 3, word: 'I\'m', work: 'Tim'},
+instances: 3, word: 'Join', work: 'Tim'},
+instances: 3, word: 'Judgment', work: 'Tim'},
+instances: 3, word: 'Justice', work: 'Tim'},
+instances: 3, word: 'Knee', work: 'Tim'},
+instances: 3, word: 'Knives', work: 'Tim'},
+instances: 3, word: 'Knows', work: 'Tim'},
+instances: 3, word: 'Laid', work: 'Tim'},
+instances: 3, word: 'Land', work: 'Tim'},
+instances: 3, word: 'Lands', work: 'Tim'},
+instances: 3, word: 'Leprosy', work: 'Tim'},
+instances: 3, word: 'Lies', work: 'Tim'},
+instances: 3, word: 'Liest', work: 'Tim'},
+instances: 3, word: 'Lights', work: 'Tim'},
+instances: 3, word: 'Lip', work: 'Tim'},
+instances: 3, word: 'Mad', work: 'Tim'},
+instances: 3, word: 'Maid', work: 'Tim'},
+instances: 3, word: 'Mark', work: 'Tim'},
+instances: 3, word: 'Mean', work: 'Tim'},
+instances: 3, word: 'Mercy', work: 'Tim'},
+instances: 3, word: 'Mightst', work: 'Tim'},
+instances: 3, word: 'Minds', work: 'Tim'},
+instances: 3, word: 'Miserable', work: 'Tim'},
+instances: 3, word: 'Mistake', work: 'Tim'},
+instances: 3, word: 'Mocked', work: 'Tim'},
+instances: 3, word: 'Monstrous', work: 'Tim'},
+instances: 3, word: 'Moon', work: 'Tim'},
+instances: 3, word: 'Morrow', work: 'Tim'},
+instances: 3, word: 'Music', work: 'Tim'},
+instances: 3, word: 'Naked', work: 'Tim'},
+instances: 3, word: 'Natural', work: 'Tim'},
+instances: 3, word: 'Nearer', work: 'Tim'},
+instances: 3, word: 'Necessity', work: 'Tim'},
+instances: 3, word: 'Neither', work: 'Tim'},
+instances: 3, word: 'Next', work: 'Tim'},
+instances: 3, word: 'Occasions', work: 'Tim'},
+instances: 3, word: 'Office', work: 'Tim'},
+instances: 3, word: 'Others', work: 'Tim'},
+instances: 3, word: 'Over', work: 'Tim'},
+instances: 3, word: 'Paid', work: 'Tim'},
+instances: 3, word: 'Pains', work: 'Tim'},
+instances: 3, word: 'Paint', work: 'Tim'},
+instances: 3, word: 'Painting', work: 'Tim'},
+instances: 3, word: 'Pardon', work: 'Tim'},
+instances: 3, word: 'Particular', work: 'Tim'},
+instances: 3, word: 'Perceive', work: 'Tim'},
+instances: 3, word: 'Philosopher', work: 'Tim'},
+instances: 3, word: 'Pleasure', work: 'Tim'},
+instances: 3, word: 'Pleasures', work: 'Tim'},
+instances: 3, word: 'Plenteous', work: 'Tim'},
+instances: 3, word: 'Pluck', work: 'Tim'},
+instances: 3, word: 'Poet', work: 'Tim'},
+instances: 3, word: 'Pomp', work: 'Tim'},
+instances: 3, word: 'Presently', work: 'Tim'},
+instances: 3, word: 'Prodigal', work: 'Tim'},
+instances: 3, word: 'Prove', work: 'Tim'},
+instances: 3, word: 'Provided', work: 'Tim'},
+instances: 3, word: 'Purse', work: 'Tim'},
+instances: 3, word: 'Quality', work: 'Tim'},
+instances: 3, word: 'Rail', work: 'Tim'},
+instances: 3, word: 'Rascal', work: 'Tim'},
+instances: 3, word: 'Reason', work: 'Tim'},
+instances: 3, word: 'Recompense', work: 'Tim'},
+instances: 3, word: 'Render', work: 'Tim'},
+instances: 3, word: 'Report', work: 'Tim'},
+instances: 3, word: 'Requite', work: 'Tim'},
+instances: 3, word: 'Returns', work: 'Tim'},
+instances: 3, word: 'Revenge', work: 'Tim'},
+instances: 3, word: 'Riot', work: 'Tim'},
+instances: 3, word: 'Rot', work: 'Tim'},
+instances: 3, word: 'Sake', work: 'Tim'},
+instances: 3, word: 'Salt', work: 'Tim'},
+instances: 3, word: 'Same', work: 'Tim'},
+instances: 3, word: 'Save', work: 'Tim'},
+instances: 3, word: 'Servants', work: 'Tim'},
+instances: 3, word: 'Served', work: 'Tim'},
+instances: 3, word: 'Setting', work: 'Tim'},
+instances: 3, word: 'Several', work: 'Tim'},
+instances: 3, word: 'Shake', work: 'Tim'},
+instances: 3, word: 'Shame', work: 'Tim'},
+instances: 3, word: 'Shine', work: 'Tim'},
+instances: 3, word: 'Shortly', work: 'Tim'},
+instances: 3, word: 'Shut', work: 'Tim'},
+instances: 3, word: 'Sickness', work: 'Tim'},
+instances: 3, word: 'Silver', work: 'Tim'},
+instances: 3, word: 'Since', work: 'Tim'},
+instances: 3, word: 'Single', work: 'Tim'},
+instances: 3, word: 'Society', work: 'Tim'},
+instances: 3, word: 'Something', work: 'Tim'},
+instances: 3, word: 'Sooner', work: 'Tim'},
+instances: 3, word: 'Spend', work: 'Tim'},
+instances: 3, word: 'Spirits', work: 'Tim'},
+instances: 3, word: 'Spite', work: 'Tim'},
+instances: 3, word: 'Spoke', work: 'Tim'},
+instances: 3, word: 'Stop', work: 'Tim'},
+instances: 3, word: 'Swear', work: 'Tim'},
+instances: 3, word: 'Takes', work: 'Tim'},
+instances: 3, word: 'Tender', work: 'Tim'},
+instances: 3, word: 'Thing', work: 'Tim'},
+instances: 3, word: 'Through', work: 'Tim'},
+instances: 3, word: 'Timandra', work: 'Tim'},
+instances: 3, word: 'Title', work: 'Tim'},
+instances: 3, word: 'Took', work: 'Tim'},
+instances: 3, word: 'Town', work: 'Tim'},
+instances: 3, word: 'Treasure', work: 'Tim'},
+instances: 3, word: 'T\'', work: 'Tim'},
+instances: 3, word: 'Urge', work: 'Tim'},
+instances: 3, word: 'Varro', work: 'Tim'},
+instances: 3, word: 'Villainy', work: 'Tim'},
+instances: 3, word: 'Virtuous', work: 'Tim'},
+instances: 3, word: 'Voice', work: 'Tim'},
+instances: 3, word: 'Wall', work: 'Tim'},
+instances: 3, word: 'Wants', work: 'Tim'},
+instances: 3, word: 'Wax', work: 'Tim'},
+instances: 3, word: 'Wherefore', work: 'Tim'},
+instances: 3, word: 'Whilst', work: 'Tim'},
+instances: 3, word: 'Wicked', work: 'Tim'},
+instances: 3, word: 'Winter', work: 'Tim'},
+instances: 3, word: 'Wished', work: 'Tim'},
+instances: 3, word: 'Wolves', work: 'Tim'},
+instances: 3, word: 'Woman', work: 'Tim'},
+instances: 3, word: 'Womb', work: 'Tim'},
+instances: 3, word: 'Women', work: 'Tim'},
+instances: 3, word: 'Wonder', work: 'Tim'},
+instances: 3, word: 'Woods', work: 'Tim'},
+instances: 3, word: 'Wounds', work: 'Tim'},
+instances: 3, word: 'Wrath', work: 'Tim'},
+instances: 3, word: 'Yea', work: 'Tim'},
+instances: 3, word: 'You\'ll', work: 'Tim'},
+instances: 3, word: '\'dst', work: 'Tim'},
+instances: 3, word: '\'gainst', work: 'Tim'},
+instances: 3, word: '\'twas', work: 'Tim'},
+instances: 2, word: 'Abhor', work: 'Tim'},
+instances: 2, word: 'Abhorrèd', work: 'Tim'},
+instances: 2, word: 'Able', work: 'Tim'},
+instances: 2, word: 'About', work: 'Tim'},
+instances: 2, word: 'Accursed', work: 'Tim'},
+instances: 2, word: 'Aches', work: 'Tim'},
+instances: 2, word: 'Admittance', work: 'Tim'},
+instances: 2, word: 'Afflictions', work: 'Tim'},
+instances: 2, word: 'Agèd', work: 'Tim'},
+instances: 2, word: 'Ah', work: 'Tim'},
+instances: 2, word: 'Aid', work: 'Tim'},
+instances: 2, word: 'Along', work: 'Tim'},
+instances: 2, word: 'Although', work: 'Tim'},
+instances: 2, word: 'Altogether', work: 'Tim'},
+instances: 2, word: 'Ambition', work: 'Tim'},
+instances: 2, word: 'Appear', work: 'Tim'},
+instances: 2, word: 'Artificial', work: 'Tim'},
+instances: 2, word: 'Attends', work: 'Tim'},
+instances: 2, word: 'Authority', work: 'Tim'},
+instances: 2, word: 'Aye', work: 'Tim'},
+instances: 2, word: 'Bad', work: 'Tim'},
+instances: 2, word: 'Bark', work: 'Tim'},
+instances: 2, word: 'Bearing', work: 'Tim'},
+instances: 2, word: 'Bed', work: 'Tim'},
+instances: 2, word: 'Beggars', work: 'Tim'},
+instances: 2, word: 'Beggar\'s', work: 'Tim'},
+instances: 2, word: 'Begone', work: 'Tim'},
+instances: 2, word: 'Behalf', work: 'Tim'},
+instances: 2, word: 'Behind', work: 'Tim'},
+instances: 2, word: 'Belongs', work: 'Tim'},
+instances: 2, word: 'Bench', work: 'Tim'},
+instances: 2, word: 'Besides', work: 'Tim'},
+instances: 2, word: 'Bills', work: 'Tim'},
+instances: 2, word: 'Black', work: 'Tim'},
+instances: 2, word: 'Blame', work: 'Tim'},
+instances: 2, word: 'Bleeding', work: 'Tim'},
+instances: 2, word: 'Blessèd', work: 'Tim'},
+instances: 2, word: 'Blest', work: 'Tim'},
+instances: 2, word: 'Blows', work: 'Tim'},
+instances: 2, word: 'Bold', work: 'Tim'},
+instances: 2, word: 'Bond', work: 'Tim'},
+instances: 2, word: 'Bonds', work: 'Tim'},
+instances: 2, word: 'Bone', work: 'Tim'},
+instances: 2, word: 'Bones', work: 'Tim'},
+instances: 2, word: 'Bounties', work: 'Tim'},
+instances: 2, word: 'Bountiful', work: 'Tim'},
+instances: 2, word: 'Brace', work: 'Tim'},
+instances: 2, word: 'Brains', work: 'Tim'},
+instances: 2, word: 'Brave', work: 'Tim'},
+instances: 2, word: 'Breakfast', work: 'Tim'},
+instances: 2, word: 'Breast', work: 'Tim'},
+instances: 2, word: 'Breathe', work: 'Tim'},
+instances: 2, word: 'Breathed', work: 'Tim'},
+instances: 2, word: 'Breeds', work: 'Tim'},
+instances: 2, word: 'Brings', work: 'Tim'},
+instances: 2, word: 'Broken', work: 'Tim'},
+instances: 2, word: 'Brook', work: 'Tim'},
+instances: 2, word: 'Build', work: 'Tim'},
+instances: 2, word: 'Buried', work: 'Tim'},
+instances: 2, word: 'Buy', work: 'Tim'},
+instances: 2, word: 'Called', work: 'Tim'},
+instances: 2, word: 'Caphis', work: 'Tim'},
+instances: 2, word: 'Cease', work: 'Tim'},
+instances: 2, word: 'Charge', work: 'Tim'},
+instances: 2, word: 'Charitable', work: 'Tim'},
+instances: 2, word: 'Charity', work: 'Tim'},
+instances: 2, word: 'Choke', work: 'Tim'},
+instances: 2, word: 'Choose', work: 'Tim'},
+instances: 2, word: 'City\'s', work: 'Tim'},
+instances: 2, word: 'Cloak', work: 'Tim'},
+instances: 2, word: 'Cloud', work: 'Tim'},
+instances: 2, word: 'Comfortable', work: 'Tim'},
+instances: 2, word: 'Comforts', work: 'Tim'},
+instances: 2, word: 'Complete', work: 'Tim'},
+instances: 2, word: 'Conceit', work: 'Tim'},
+instances: 2, word: 'Conceive', work: 'Tim'},
+instances: 2, word: 'Conditions', work: 'Tim'},
+instances: 2, word: 'Confess', work: 'Tim'},
+instances: 2, word: 'Confessed', work: 'Tim'},
+instances: 2, word: 'Confounding', work: 'Tim'},
+instances: 2, word: 'Conjured', work: 'Tim'},
+instances: 2, word: 'Conquest', work: 'Tim'},
+instances: 2, word: 'Consent', work: 'Tim'},
+instances: 2, word: 'Contain', work: 'Tim'},
+instances: 2, word: 'Content', work: 'Tim'},
+instances: 2, word: 'Contrary', work: 'Tim'},
+instances: 2, word: 'Convert', work: 'Tim'},
+instances: 2, word: 'Cost', work: 'Tim'},
+instances: 2, word: 'Couldst', work: 'Tim'},
+instances: 2, word: 'Counterfeit', work: 'Tim'},
+instances: 2, word: 'Country', work: 'Tim'},
+instances: 2, word: 'Countrymen', work: 'Tim'},
+instances: 2, word: 'Cover', work: 'Tim'},
+instances: 2, word: 'Coward', work: 'Tim'},
+instances: 2, word: 'Credit', work: 'Tim'},
+instances: 2, word: 'Creditors', work: 'Tim'},
+instances: 2, word: 'Crime', work: 'Tim'},
+instances: 2, word: 'Crossed', work: 'Tim'},
+instances: 2, word: 'Crowns', work: 'Tim'},
+instances: 2, word: 'Cunning', work: 'Tim'},
+instances: 2, word: 'Cure', work: 'Tim'},
+instances: 2, word: 'Curses', work: 'Tim'},
+instances: 2, word: 'Cursèd', work: 'Tim'},
+instances: 2, word: 'Damn', work: 'Tim'},
+instances: 2, word: 'Damnèd', work: 'Tim'},
+instances: 2, word: 'Dance', work: 'Tim'},
+instances: 2, word: 'Dates', work: 'Tim'},
+instances: 2, word: 'Deep', work: 'Tim'},
+instances: 2, word: 'Defense', work: 'Tim'},
+instances: 2, word: 'Degrees', work: 'Tim'},
+instances: 2, word: 'Deny', work: 'Tim'},
+instances: 2, word: 'Depart', work: 'Tim'},
+instances: 2, word: 'Derive', work: 'Tim'},
+instances: 2, word: 'Descend', work: 'Tim'},
+instances: 2, word: 'Description', work: 'Tim'},
+instances: 2, word: 'Deserts', work: 'Tim'},
+instances: 2, word: 'Deserves', work: 'Tim'},
+instances: 2, word: 'Diet', work: 'Tim'},
+instances: 2, word: 'Different', work: 'Tim'},
+instances: 2, word: 'Dinner\'s', work: 'Tim'},
+instances: 2, word: 'Disease', work: 'Tim'},
+instances: 2, word: 'Dishes', work: 'Tim'},
+instances: 2, word: 'Distracted', work: 'Tim'},
+instances: 2, word: 'Doubting', work: 'Tim'},
+instances: 2, word: 'Draft', work: 'Tim'},
+instances: 2, word: 'Drops', work: 'Tim'},
+instances: 2, word: 'Drown', work: 'Tim'},
+instances: 2, word: 'Duty', work: 'Tim'},
+instances: 2, word: 'Eagle', work: 'Tim'},
+instances: 2, word: 'Ease', work: 'Tim'},
+instances: 2, word: 'Embrace', work: 'Tim'},
+instances: 2, word: 'Encountered', work: 'Tim'},
+instances: 2, word: 'Endeared', work: 'Tim'},
+instances: 2, word: 'Ends', work: 'Tim'},
+instances: 2, word: 'Endure', work: 'Tim'},
+instances: 2, word: 'Enemy', work: 'Tim'},
+instances: 2, word: 'Enforce', work: 'Tim'},
+instances: 2, word: 'Entertain', work: 'Tim'},
+instances: 2, word: 'Epitaph', work: 'Tim'},
+instances: 2, word: 'Example', work: 'Tim'},
+instances: 2, word: 'Excuse', work: 'Tim'},
+instances: 2, word: 'Expense', work: 'Tim'},
+instances: 2, word: 'Express', work: 'Tim'},
+instances: 2, word: 'Eye', work: 'Tim'},
+instances: 2, word: 'E\'er', work: 'Tim'},
+instances: 2, word: 'Faces', work: 'Tim'},
+instances: 2, word: 'Factions', work: 'Tim'},
+instances: 2, word: 'Fall\'n', work: 'Tim'},
+instances: 2, word: 'Fate', work: 'Tim'},
+instances: 2, word: 'Favor', work: 'Tim'},
+instances: 2, word: 'Fears', work: 'Tim'},
+instances: 2, word: 'Feather', work: 'Tim'},
+instances: 2, word: 'Feeds', work: 'Tim'},
+instances: 2, word: 'Felt', work: 'Tim'},
+instances: 2, word: 'Few', work: 'Tim'},
+instances: 2, word: 'Field', work: 'Tim'},
+instances: 2, word: 'Figures', work: 'Tim'},
+instances: 2, word: 'Filthy', work: 'Tim'},
+instances: 2, word: 'Fishes', work: 'Tim'},
+instances: 2, word: 'Fixed', work: 'Tim'},
+instances: 2, word: 'Flattered', work: 'Tim'},
+instances: 2, word: 'Flesh', work: 'Tim'},
+instances: 2, word: 'Flight', work: 'Tim'},
+instances: 2, word: 'Flood', work: 'Tim'},
+instances: 2, word: 'Foam', work: 'Tim'},
+instances: 2, word: 'Foe', work: 'Tim'},
+instances: 2, word: 'Followed', work: 'Tim'},
+instances: 2, word: 'Fond', work: 'Tim'},
+instances: 2, word: 'Fool\'s', work: 'Tim'},
+instances: 2, word: 'Force', work: 'Tim'},
+instances: 2, word: 'Forever', work: 'Tim'},
+instances: 2, word: 'Forget', work: 'Tim'},
+instances: 2, word: 'Form', work: 'Tim'},
+instances: 2, word: 'Fortune\'s', work: 'Tim'},
+instances: 2, word: 'Four', work: 'Tim'},
+instances: 2, word: 'Frame', work: 'Tim'},
+instances: 2, word: 'Friendly', work: 'Tim'},
+instances: 2, word: 'Friends\'', work: 'Tim'},
+instances: 2, word: 'Froth', work: 'Tim'},
+instances: 2, word: 'Furnish', work: 'Tim'},
+instances: 2, word: 'Game', work: 'Tim'},
+instances: 2, word: 'Gates', work: 'Tim'},
+instances: 2, word: 'Giving', work: 'Tim'},
+instances: 2, word: 'Glad', work: 'Tim'},
+instances: 2, word: 'Glove', work: 'Tim'},
+instances: 2, word: 'Going', work: 'Tim'},
+instances: 2, word: 'Goodly', work: 'Tim'},
+instances: 2, word: 'Gown', work: 'Tim'},
+instances: 2, word: 'Graves', work: 'Tim'},
+instances: 2, word: 'Gules', work: 'Tim'},
+instances: 2, word: 'Hail', work: 'Tim'},
+instances: 2, word: 'Hanging', work: 'Tim'},
+instances: 2, word: 'Hardly', work: 'Tim'},
+instances: 2, word: 'Haste', work: 'Tim'},
+instances: 2, word: 'Heap', work: 'Tim'},
+instances: 2, word: 'Heavy', work: 'Tim'},
+instances: 2, word: 'Heed', work: 'Tim'},
+instances: 2, word: 'Heir', work: 'Tim'},
+instances: 2, word: 'Henceforth', work: 'Tim'},
+instances: 2, word: 'He\'ll', work: 'Tim'},
+instances: 2, word: 'Hill', work: 'Tim'},
+instances: 2, word: 'Hoar', work: 'Tim'},
+instances: 2, word: 'Hollow', work: 'Tim'},
+instances: 2, word: 'Holy', work: 'Tim'},
+instances: 2, word: 'Home', work: 'Tim'},
+instances: 2, word: 'Hot', work: 'Tim'},
+instances: 2, word: 'Hug', work: 'Tim'},
+instances: 2, word: 'Human', work: 'Tim'},
+instances: 2, word: 'Humble', work: 'Tim'},
+instances: 2, word: 'Humh', work: 'Tim'},
+instances: 2, word: 'Humor', work: 'Tim'},
+instances: 2, word: 'Hundred', work: 'Tim'},
+instances: 2, word: 'Hunt', work: 'Tim'},
+instances: 2, word: 'Idle', work: 'Tim'},
+instances: 2, word: 'Imitate', work: 'Tim'},
+instances: 2, word: 'Immediate', work: 'Tim'},
+instances: 2, word: 'Immortal', work: 'Tim'},
+instances: 2, word: 'Importunate', work: 'Tim'},
+instances: 2, word: 'Imprisoned', work: 'Tim'},
+instances: 2, word: 'Incident', work: 'Tim'},
+instances: 2, word: 'Infected', work: 'Tim'},
+instances: 2, word: 'Interest', work: 'Tim'},
+instances: 2, word: 'Invite', work: 'Tim'},
+instances: 2, word: 'Invites', work: 'Tim'},
+instances: 2, word: 'Keepers', work: 'Tim'},
+instances: 2, word: 'Kin', work: 'Tim'},
+instances: 2, word: 'Kindly', work: 'Tim'},
+instances: 2, word: 'Kiss', work: 'Tim'},
+instances: 2, word: 'Knock', work: 'Tim'},
+instances: 2, word: 'Labored', work: 'Tim'},
+instances: 2, word: 'Lacedaemon', work: 'Tim'},
+instances: 2, word: 'Lap', work: 'Tim'},
+instances: 2, word: 'Lascivious', work: 'Tim'},
+instances: 2, word: 'Laugh', work: 'Tim'},
+instances: 2, word: 'Laughter', work: 'Tim'},
+instances: 2, word: 'Least', work: 'Tim'},
+instances: 2, word: 'Leaves', work: 'Tim'},
+instances: 2, word: 'Leaving', work: 'Tim'},
+instances: 2, word: 'Legs', work: 'Tim'},
+instances: 2, word: 'Leopard', work: 'Tim'},
+instances: 2, word: 'Lest', work: 'Tim'},
+instances: 2, word: 'Letters', work: 'Tim'},
+instances: 2, word: 'Liberty', work: 'Tim'},
+instances: 2, word: 'Lived', work: 'Tim'},
+instances: 2, word: 'Lordship\'s', work: 'Tim'},
+instances: 2, word: 'Lose', work: 'Tim'},
+instances: 2, word: 'Lost', work: 'Tim'},
+instances: 2, word: 'Loved', work: 'Tim'},
+instances: 2, word: 'Lucilius', work: 'Tim'},
+instances: 2, word: 'Madman', work: 'Tim'},
+instances: 2, word: 'Madness', work: 'Tim'},
+instances: 2, word: 'Maintain', work: 'Tim'},
+instances: 2, word: 'Making', work: 'Tim'},
+instances: 2, word: 'Malice', work: 'Tim'},
+instances: 2, word: 'Mansion', work: 'Tim'},
+instances: 2, word: 'Mar', work: 'Tim'},
+instances: 2, word: 'Marrows', work: 'Tim'},
+instances: 2, word: 'Marry', work: 'Tim'},
+instances: 2, word: 'Matter', work: 'Tim'},
+instances: 2, word: 'Medlar', work: 'Tim'},
+instances: 2, word: 'Melancholy', work: 'Tim'},
+instances: 2, word: 'Merchant', work: 'Tim'},
+instances: 2, word: 'Merely', work: 'Tim'},
+instances: 2, word: 'Merry', work: 'Tim'},
+instances: 2, word: 'Minister', work: 'Tim'},
+instances: 2, word: 'Mire', work: 'Tim'},
+instances: 2, word: 'Mischief', work: 'Tim'},
+instances: 2, word: 'Morning', work: 'Tim'},
+instances: 2, word: 'Motion', work: 'Tim'},
+instances: 2, word: 'Mount', work: 'Tim'},
+instances: 2, word: 'Mouth', work: 'Tim'},
+instances: 2, word: 'Moved', work: 'Tim'},
+instances: 2, word: 'Moves', work: 'Tim'},
+instances: 2, word: 'Nearest', work: 'Tim'},
+instances: 2, word: 'Newly', work: 'Tim'},
+instances: 2, word: 'News', work: 'Tim'},
+instances: 2, word: 'Nine', work: 'Tim'},
+instances: 2, word: 'Noblest', work: 'Tim'},
+instances: 2, word: 'Note', work: 'Tim'},
+instances: 2, word: 'Number', work: 'Tim'},
+instances: 2, word: 'Offend', work: 'Tim'},
+instances: 2, word: 'Offended', work: 'Tim'},
+instances: 2, word: 'Opposed', work: 'Tim'},
+instances: 2, word: 'Oracle', work: 'Tim'},
+instances: 2, word: 'Other\'s', work: 'Tim'},
+instances: 2, word: 'O\'er', work: 'Tim'},
+instances: 2, word: 'Page', work: 'Tim'},
+instances: 2, word: 'Painted', work: 'Tim'},
+instances: 2, word: 'Painter', work: 'Tim'},
+instances: 2, word: 'Passion', work: 'Tim'},
+instances: 2, word: 'Pawn', work: 'Tim'},
+instances: 2, word: 'Payment', work: 'Tim'},
+instances: 2, word: 'Pays', work: 'Tim'},
+instances: 2, word: 'People', work: 'Tim'},
+instances: 2, word: 'Perform', work: 'Tim'},
+instances: 2, word: 'Performance', work: 'Tim'},
+instances: 2, word: 'Picture', work: 'Tim'},
+instances: 2, word: 'Pieces', work: 'Tim'},
+instances: 2, word: 'Plagues', work: 'Tim'},
+instances: 2, word: 'Play', work: 'Tim'},
+instances: 2, word: 'Pleased', work: 'Tim'},
+instances: 2, word: 'Politic', work: 'Tim'},
+instances: 2, word: 'Pours', work: 'Tim'},
+instances: 2, word: 'Praised', work: 'Tim'},
+instances: 2, word: 'Prays', work: 'Tim'},
+instances: 2, word: 'Precious', work: 'Tim'},
+instances: 2, word: 'Prepare', work: 'Tim'},
+instances: 2, word: 'Presented', work: 'Tim'},
+instances: 2, word: 'Pretty', work: 'Tim'},
+instances: 2, word: 'Pride', work: 'Tim'},
+instances: 2, word: 'Priests', work: 'Tim'},
+instances: 2, word: 'Promises', work: 'Tim'},
+instances: 2, word: 'Proof', work: 'Tim'},
+instances: 2, word: 'Prosperity', work: 'Tim'},
+instances: 2, word: 'Protest', work: 'Tim'},
+instances: 2, word: 'Proved', work: 'Tim'},
+instances: 2, word: 'Provide', work: 'Tim'},
+instances: 2, word: 'Public', work: 'Tim'},
+instances: 2, word: 'Purchase', work: 'Tim'},
+instances: 2, word: 'Pure', work: 'Tim'},
+instances: 2, word: 'Purpose', work: 'Tim'},
+instances: 2, word: 'Puts', work: 'Tim'},
+instances: 2, word: 'Quantity', work: 'Tim'},
+instances: 2, word: 'Quick', work: 'Tim'},
+instances: 2, word: 'Quietly', work: 'Tim'},
+instances: 2, word: 'Rage', work: 'Tim'},
+instances: 2, word: 'Rapt', work: 'Tim'},
+instances: 2, word: 'Rascals', work: 'Tim'},
+instances: 2, word: 'Rashness', work: 'Tim'},
+instances: 2, word: 'Rated', work: 'Tim'},
+instances: 2, word: 'Ready', work: 'Tim'},
+instances: 2, word: 'Receive', work: 'Tim'},
+instances: 2, word: 'Religion', work: 'Tim'},
+instances: 2, word: 'Remain', work: 'Tim'},
+instances: 2, word: 'Remains', work: 'Tim'},
+instances: 2, word: 'Remember', work: 'Tim'},
+instances: 2, word: 'Repair', work: 'Tim'},
+instances: 2, word: 'Reserve', work: 'Tim'},
+instances: 2, word: 'Respect', work: 'Tim'},
+instances: 2, word: 'Retired', work: 'Tim'},
+instances: 2, word: 'Returned', work: 'Tim'},
+instances: 2, word: 'Reverend', work: 'Tim'},
+instances: 2, word: 'Reward', work: 'Tim'},
+instances: 2, word: 'Riches', work: 'Tim'},
+instances: 2, word: 'Rid', work: 'Tim'},
+instances: 2, word: 'Rob', work: 'Tim'},
+instances: 2, word: 'Rough', work: 'Tim'},
+instances: 2, word: 'Round', work: 'Tim'},
+instances: 2, word: 'Royal', work: 'Tim'},
+instances: 2, word: 'Sadly', work: 'Tim'},
+instances: 2, word: 'Safety', work: 'Tim'},
+instances: 2, word: 'Sauce', work: 'Tim'},
+instances: 2, word: 'Saw\'st', work: 'Tim'},
+instances: 2, word: 'Scald', work: 'Tim'},
+instances: 2, word: 'Scarce', work: 'Tim'},
+instances: 2, word: 'Scope', work: 'Tim'},
+instances: 2, word: 'Season', work: 'Tim'},
+instances: 2, word: 'Security', work: 'Tim'},
+instances: 2, word: 'Seeks', work: 'Tim'},
+instances: 2, word: 'Seem', work: 'Tim'},
+instances: 2, word: 'Self', work: 'Tim'},
+instances: 2, word: 'Sell', work: 'Tim'},
+instances: 2, word: 'Sempronius', work: 'Tim'},
+instances: 2, word: 'Sending', work: 'Tim'},
+instances: 2, word: 'Sense', work: 'Tim'},
+instances: 2, word: 'Serves', work: 'Tim'},
+instances: 2, word: 'Serving', work: 'Tim'},
+instances: 2, word: 'Shadow', work: 'Tim'},
+instances: 2, word: 'Shapes', work: 'Tim'},
+instances: 2, word: 'Share', work: 'Tim'},
+instances: 2, word: 'Showed', work: 'Tim'},
+instances: 2, word: 'Shown', work: 'Tim'},
+instances: 2, word: 'Sides', work: 'Tim'},
+instances: 2, word: 'Sight', work: 'Tim'},
+instances: 2, word: 'Signify', work: 'Tim'},
+instances: 2, word: 'Sink', work: 'Tim'},
+instances: 2, word: 'Sire', work: 'Tim'},
+instances: 2, word: 'Sits', work: 'Tim'},
+instances: 2, word: 'Six', work: 'Tim'},
+instances: 2, word: 'Skip', work: 'Tim'},
+instances: 2, word: 'Slight', work: 'Tim'},
+instances: 2, word: 'Small', work: 'Tim'},
+instances: 2, word: 'Smile', work: 'Tim'},
+instances: 2, word: 'Smiles', work: 'Tim'},
+instances: 2, word: 'Smoke', work: 'Tim'},
+instances: 2, word: 'Smooth', work: 'Tim'},
+instances: 2, word: 'Son', work: 'Tim'},
+instances: 2, word: 'Sons', work: 'Tim'},
+instances: 2, word: 'Soon', work: 'Tim'},
+instances: 2, word: 'Sores', work: 'Tim'},
+instances: 2, word: 'Sorrow', work: 'Tim'},
+instances: 2, word: 'Sort', work: 'Tim'},
+instances: 2, word: 'Sow', work: 'Tim'},
+instances: 2, word: 'Speaking', work: 'Tim'},
+instances: 2, word: 'Speak\'st', work: 'Tim'},
+instances: 2, word: 'Sport', work: 'Tim'},
+instances: 2, word: 'Spotted', work: 'Tim'},
+instances: 2, word: 'Sprung', work: 'Tim'},
+instances: 2, word: 'Spurn', work: 'Tim'},
+instances: 2, word: 'States', work: 'Tim'},
+instances: 2, word: 'Stepped', work: 'Tim'},
+instances: 2, word: 'Stones', work: 'Tim'},
+instances: 2, word: 'Stream', work: 'Tim'},
+instances: 2, word: 'Strict', work: 'Tim'},
+instances: 2, word: 'Stroke', work: 'Tim'},
+instances: 2, word: 'Stuck', work: 'Tim'},
+instances: 2, word: 'Stuff', work: 'Tim'},
+instances: 2, word: 'Subject', work: 'Tim'},
+instances: 2, word: 'Subtle', work: 'Tim'},
+instances: 2, word: 'Sufferance', work: 'Tim'},
+instances: 2, word: 'Summer', work: 'Tim'},
+instances: 2, word: 'Sun\'s', work: 'Tim'},
+instances: 2, word: 'Surely', work: 'Tim'},
+instances: 2, word: 'Surge', work: 'Tim'},
+instances: 2, word: 'Swallow', work: 'Tim'},
+instances: 2, word: 'Sworn', work: 'Tim'},
+instances: 2, word: 'Tasted', work: 'Tim'},
+instances: 2, word: 'Tears', work: 'Tim'},
+instances: 2, word: 'Tendance', work: 'Tim'},
+instances: 2, word: 'Thankfully', work: 'Tim'},
+instances: 2, word: 'Theft', work: 'Tim'},
+instances: 2, word: 'Theirs', work: 'Tim'},
+instances: 2, word: 'Thinking', work: 'Tim'},
+instances: 2, word: 'Think\'st', work: 'Tim'},
+instances: 2, word: 'Thither', work: 'Tim'},
+instances: 2, word: 'Thoughts', work: 'Tim'},
+instances: 2, word: 'Throat', work: 'Tim'},
+instances: 2, word: 'Thronged', work: 'Tim'},
+instances: 2, word: 'Time\'s', work: 'Tim'},
+instances: 2, word: 'Titus', work: 'Tim'},
+instances: 2, word: 'Toad', work: 'Tim'},
+instances: 2, word: 'Tomorrow', work: 'Tim'},
+instances: 2, word: 'Touched', work: 'Tim'},
+instances: 2, word: 'Touches', work: 'Tim'},
+instances: 2, word: 'Trade', work: 'Tim'},
+instances: 2, word: 'Traffic', work: 'Tim'},
+instances: 2, word: 'Tree', work: 'Tim'},
+instances: 2, word: 'Truly', work: 'Tim'},
+instances: 2, word: 'Truth', work: 'Tim'},
+instances: 2, word: 'Turned', work: 'Tim'},
+instances: 2, word: 'Turns', work: 'Tim'},
+instances: 2, word: 'Ugly', work: 'Tim'},
+instances: 2, word: 'Usurer', work: 'Tim'},
+instances: 2, word: 'Usurers\'', work: 'Tim'},
+instances: 2, word: 'Usuring', work: 'Tim'},
+instances: 2, word: 'Value', work: 'Tim'},
+instances: 2, word: 'Vast', work: 'Tim'},
+instances: 2, word: 'Verse', work: 'Tim'},
+instances: 2, word: 'Villain\'s', work: 'Tim'},
+instances: 2, word: 'Virtues', work: 'Tim'},
+instances: 2, word: 'Visit', work: 'Tim'},
+instances: 2, word: 'Vouchsafe', work: 'Tim'},
+instances: 2, word: 'Walks', work: 'Tim'},
+instances: 2, word: 'Walls', work: 'Tim'},
+instances: 2, word: 'Warning', work: 'Tim'},
+instances: 2, word: 'Warrant', work: 'Tim'},
+instances: 2, word: 'Wealthy', work: 'Tim'},
+instances: 2, word: 'Wearing', work: 'Tim'},
+instances: 2, word: 'Wears', work: 'Tim'},
+instances: 2, word: 'Weary', work: 'Tim'},
+instances: 2, word: 'Weeping', work: 'Tim'},
+instances: 2, word: 'Wept', work: 'Tim'},
+instances: 2, word: 'Whence', work: 'Tim'},
+instances: 2, word: 'Where\'s', work: 'Tim'},
+instances: 2, word: 'While', work: 'Tim'},
+instances: 2, word: 'Whip', work: 'Tim'},
+instances: 2, word: 'White', work: 'Tim'},
+instances: 2, word: 'Whoremaster', work: 'Tim'},
+instances: 2, word: 'Whores', work: 'Tim'},
+instances: 2, word: 'Wild', work: 'Tim'},
+instances: 2, word: 'Willing', work: 'Tim'},
+instances: 2, word: 'Wills', work: 'Tim'},
+instances: 2, word: 'Wit', work: 'Tim'},
+instances: 2, word: 'Wolf', work: 'Tim'},
+instances: 2, word: 'Woo', work: 'Tim'},
+instances: 2, word: 'Worship', work: 'Tim'},
+instances: 2, word: 'Wrought', work: 'Tim'},
+instances: 2, word: 'Yellow', work: 'Tim'},
+instances: 2, word: 'Yond', work: 'Tim'},
+instances: 2, word: 'Yourself', work: 'Tim'},
+instances: 2, word: 'You\'ve', work: 'Tim'},
+instances: 2, word: 'Zeal', work: 'Tim'},
+instances: 2, word: '\'as', work: 'Tim'},
+instances: 2, word: '\'mongst', work: 'Tim'},
+instances: 1, word: 'A-days', work: 'Tim'},
+instances: 1, word: 'A-nights', work: 'Tim'},
+instances: 1, word: 'A-sleeping', work: 'Tim'},
+instances: 1, word: 'Abandon', work: 'Tim'},
+instances: 1, word: 'Abhorred', work: 'Tim'},
+instances: 1, word: 'Abhorred\'st', work: 'Tim'},
+instances: 1, word: 'Abides', work: 'Tim'},
+instances: 1, word: 'Abroad', work: 'Tim'},
+instances: 1, word: 'Absence', work: 'Tim'},
+instances: 1, word: 'Absolute', work: 'Tim'},
+instances: 1, word: 'Abuse', work: 'Tim'},
+instances: 1, word: 'Accepts', work: 'Tim'},
+instances: 1, word: 'Accompanying', work: 'Tim'},
+instances: 1, word: 'Accounts', work: 'Tim'},
+instances: 1, word: 'Accursèd', work: 'Tim'},
+instances: 1, word: 'Accused', work: 'Tim'},
+instances: 1, word: 'Ache', work: 'Tim'},
+instances: 1, word: 'Acknowledge', work: 'Tim'},
+instances: 1, word: 'Acquainted', work: 'Tim'},
+instances: 1, word: 'Act', work: 'Tim'},
+instances: 1, word: 'Activity', work: 'Tim'},
+instances: 1, word: 'Add', work: 'Tim'},
+instances: 1, word: 'Added', work: 'Tim'},
+instances: 1, word: 'Adder', work: 'Tim'},
+instances: 1, word: 'Admirable', work: 'Tim'},
+instances: 1, word: 'Admirèd', work: 'Tim'},
+instances: 1, word: 'Admitted', work: 'Tim'},
+instances: 1, word: 'Adored', work: 'Tim'},
+instances: 1, word: 'Advance', work: 'Tim'},
+instances: 1, word: 'Advises', work: 'Tim'},
+instances: 1, word: 'Affable', work: 'Tim'},
+instances: 1, word: 'Affection', work: 'Tim'},
+instances: 1, word: 'Afflict', work: 'Tim'},
+instances: 1, word: 'Affliction', work: 'Tim'},
+instances: 1, word: 'Afford', work: 'Tim'},
+instances: 1, word: 'Affords', work: 'Tim'},
+instances: 1, word: 'Aged', work: 'Tim'},
+instances: 1, word: 'Ages', work: 'Tim'},
+instances: 1, word: 'Ago', work: 'Tim'},
+instances: 1, word: 'Agree', work: 'Tim'},
+instances: 1, word: 'Agues', work: 'Tim'},
+instances: 1, word: 'Alack', work: 'Tim'},
+instances: 1, word: 'Alchemist', work: 'Tim'},
+instances: 1, word: 'Alcibiades\'', work: 'Tim'},
+instances: 1, word: 'Alighted', work: 'Tim'},
+instances: 1, word: 'All-shunned', work: 'Tim'},
+instances: 1, word: 'Allowed', work: 'Tim'},
+instances: 1, word: 'Allows', work: 'Tim'},
+instances: 1, word: 'Allure', work: 'Tim'},
+instances: 1, word: 'Also', work: 'Tim'},
+instances: 1, word: 'Alteration', work: 'Tim'},
+instances: 1, word: 'Among', work: 'Tim'},
+instances: 1, word: 'Ample', work: 'Tim'},
+instances: 1, word: 'Amplest', work: 'Tim'},
+instances: 1, word: 'Ancient', work: 'Tim'},
+instances: 1, word: 'Another\'s', work: 'Tim'},
+instances: 1, word: 'Antidotes', work: 'Tim'},
+instances: 1, word: 'Anything', work: 'Tim'},
+instances: 1, word: 'Apace', work: 'Tim'},
+instances: 1, word: 'Apart', work: 'Tim'},
+instances: 1, word: 'Appears', work: 'Tim'},
+instances: 1, word: 'Apperil', work: 'Tim'},
+instances: 1, word: 'Applauding', work: 'Tim'},
+instances: 1, word: 'Apprehend\'st', work: 'Tim'},
+instances: 1, word: 'Apprehension', work: 'Tim'},
+instances: 1, word: 'Approachers', work: 'Tim'},
+instances: 1, word: 'Approaches', work: 'Tim'},
+instances: 1, word: 'Approbation', work: 'Tim'},
+instances: 1, word: 'April', work: 'Tim'},
+instances: 1, word: 'Aprons', work: 'Tim'},
+instances: 1, word: 'Apt', work: 'Tim'},
+instances: 1, word: 'Aptly', work: 'Tim'},
+instances: 1, word: 'Archvillain', work: 'Tim'},
+instances: 1, word: 'Ardent', work: 'Tim'},
+instances: 1, word: 'Argues', work: 'Tim'},
+instances: 1, word: 'Armor', work: 'Tim'},
+instances: 1, word: 'Arms', work: 'Tim'},
+instances: 1, word: 'Arrant', work: 'Tim'},
+instances: 1, word: 'Arrive', work: 'Tim'},
+instances: 1, word: 'Arrogant', work: 'Tim'},
+instances: 1, word: 'Ashamed', work: 'Tim'},
+instances: 1, word: 'Asked', work: 'Tim'},
+instances: 1, word: 'Aspect', work: 'Tim'},
+instances: 1, word: 'Assay', work: 'Tim'},
+instances: 1, word: 'Assembly', work: 'Tim'},
+instances: 1, word: 'Asses', work: 'Tim'},
+instances: 1, word: 'Assistance', work: 'Tim'},
+instances: 1, word: 'Assume', work: 'Tim'},
+instances: 1, word: 'Assurance', work: 'Tim'},
+instances: 1, word: 'Assured', work: 'Tim'},
+instances: 1, word: 'Athenian\'s', work: 'Tim'},
+instances: 1, word: 'Atone', work: 'Tim'},
+instances: 1, word: 'Attain', work: 'Tim'},
+instances: 1, word: 'Attempts', work: 'Tim'},
+instances: 1, word: 'Attendance', work: 'Tim'},
+instances: 1, word: 'Attraction', work: 'Tim'},
+instances: 1, word: 'Auditors', work: 'Tim'},
+instances: 1, word: 'Austere', work: 'Tim'},
+instances: 1, word: 'Awaked', work: 'Tim'},
+instances: 1, word: 'Awe', work: 'Tim'},
+instances: 1, word: 'Awhile', work: 'Tim'},
+instances: 1, word: 'Ax', work: 'Tim'},
+instances: 1, word: 'Babes', work: 'Tim'},
+instances: 1, word: 'Baboon', work: 'Tim'},
+instances: 1, word: 'Backs', work: 'Tim'},
+instances: 1, word: 'Backwardly', work: 'Tim'},
+instances: 1, word: 'Bade', work: 'Tim'},
+instances: 1, word: 'Bald', work: 'Tim'},
+instances: 1, word: 'Balm', work: 'Tim'},
+instances: 1, word: 'Balsam', work: 'Tim'},
+instances: 1, word: 'Band', work: 'Tim'},
+instances: 1, word: 'Banishment', work: 'Tim'},
+instances: 1, word: 'Bankrupts', work: 'Tim'},
+instances: 1, word: 'Banners', work: 'Tim'},
+instances: 1, word: 'Banquet', work: 'Tim'},
+instances: 1, word: 'Bans', work: 'Tim'},
+instances: 1, word: 'Baseness', work: 'Tim'},
+instances: 1, word: 'Baser', work: 'Tim'},
+instances: 1, word: 'Basest', work: 'Tim'},
+instances: 1, word: 'Basin', work: 'Tim'},
+instances: 1, word: 'Bate', work: 'Tim'},
+instances: 1, word: 'Bates', work: 'Tim'},
+instances: 1, word: 'Baths', work: 'Tim'},
+instances: 1, word: 'Battle', work: 'Tim'},
+instances: 1, word: 'Bawds', work: 'Tim'},
+instances: 1, word: 'Bay', work: 'Tim'},
+instances: 1, word: 'Beachèd', work: 'Tim'},
+instances: 1, word: 'Beagles', work: 'Tim'},
+instances: 1, word: 'Beams', work: 'Tim'},
+instances: 1, word: 'Beard', work: 'Tim'},
+instances: 1, word: 'Beards', work: 'Tim'},
+instances: 1, word: 'Bearer', work: 'Tim'},
+instances: 1, word: 'Beautiful', work: 'Tim'},
+instances: 1, word: 'Beckoned', work: 'Tim'},
+instances: 1, word: 'Becks', work: 'Tim'},
+instances: 1, word: 'Beds', work: 'Tim'},
+instances: 1, word: 'Befriend', work: 'Tim'},
+instances: 1, word: 'Beg', work: 'Tim'},
+instances: 1, word: 'Begin', work: 'Tim'},
+instances: 1, word: 'Begins', work: 'Tim'},
+instances: 1, word: 'Beguile', work: 'Tim'},
+instances: 1, word: 'Behave', work: 'Tim'},
+instances: 1, word: 'Believes', work: 'Tim'},
+instances: 1, word: 'Bellies', work: 'Tim'},
+instances: 1, word: 'Belong', work: 'Tim'},
+instances: 1, word: 'Belonged', work: 'Tim'},
+instances: 1, word: 'Beneath', work: 'Tim'},
+instances: 1, word: 'Benefactors', work: 'Tim'},
+instances: 1, word: 'Benefit', work: 'Tim'},
+instances: 1, word: 'Benefits', work: 'Tim'},
+instances: 1, word: 'Bereft', work: 'Tim'},
+instances: 1, word: 'Berries', work: 'Tim'},
+instances: 1, word: 'Bestow', work: 'Tim'},
+instances: 1, word: 'Bestowed', work: 'Tim'},
+instances: 1, word: 'Betray', work: 'Tim'},
+instances: 1, word: 'Betraying', work: 'Tim'},
+instances: 1, word: 'Betters', work: 'Tim'},
+instances: 1, word: 'Between', work: 'Tim'},
+instances: 1, word: 'Beweep', work: 'Tim'},
+instances: 1, word: 'Bidding', work: 'Tim'},
+instances: 1, word: 'Big', work: 'Tim'},
+instances: 1, word: 'Bill', work: 'Tim'},
+instances: 1, word: 'Binds', work: 'Tim'},
+instances: 1, word: 'Birth', work: 'Tim'},
+instances: 1, word: 'Births', work: 'Tim'},
+instances: 1, word: 'Bits', work: 'Tim'},
+instances: 1, word: 'Black-cornered', work: 'Tim'},
+instances: 1, word: 'Blains', work: 'Tim'},
+instances: 1, word: 'Blasted', work: 'Tim'},
+instances: 1, word: 'Blazed', work: 'Tim'},
+instances: 1, word: 'Bleak', work: 'Tim'},
+instances: 1, word: 'Bleed', work: 'Tim'},
+instances: 1, word: 'Blessings', work: 'Tim'},
+instances: 1, word: 'Blister', work: 'Tim'},
+instances: 1, word: 'Bloods', work: 'Tim'},
+instances: 1, word: 'Bloody', work: 'Tim'},
+instances: 1, word: 'Blot', work: 'Tim'},
+instances: 1, word: 'Blow', work: 'Tim'},
+instances: 1, word: 'Blue', work: 'Tim'},
+instances: 1, word: 'Blush', work: 'Tim'},
+instances: 1, word: 'Bluster', work: 'Tim'},
+instances: 1, word: 'Boar', work: 'Tim'},
+instances: 1, word: 'Body', work: 'Tim'},
+instances: 1, word: 'Boisterous', work: 'Tim'},
+instances: 1, word: 'Book', work: 'Tim'},
+instances: 1, word: 'Books', work: 'Tim'},
+instances: 1, word: 'Bore', work: 'Tim'},
+instances: 1, word: 'Borrowed', work: 'Tim'},
+instances: 1, word: 'Borrowing', work: 'Tim'},
+instances: 1, word: 'Bosoms', work: 'Tim'},
+instances: 1, word: 'Botched', work: 'Tim'},
+instances: 1, word: 'Boughs', work: 'Tim'},
+instances: 1, word: 'Boundless', work: 'Tim'},
+instances: 1, word: 'Bounds', work: 'Tim'},
+instances: 1, word: 'Bountifully', work: 'Tim'},
+instances: 1, word: 'Bounty\'s', work: 'Tim'},
+instances: 1, word: 'Bowing', work: 'Tim'},
+instances: 1, word: 'Box', work: 'Tim'},
+instances: 1, word: 'Boy', work: 'Tim'},
+instances: 1, word: 'Braggarts', work: 'Tim'},
+instances: 1, word: 'Brains\'', work: 'Tim'},
+instances: 1, word: 'Brayed', work: 'Tim'},
+instances: 1, word: 'Bread', work: 'Tim'},
+instances: 1, word: 'Breaking', work: 'Tim'},
+instances: 1, word: 'Breathless', work: 'Tim'},
+instances: 1, word: 'Breed', work: 'Tim'},
+instances: 1, word: 'Breeding', work: 'Tim'},
+instances: 1, word: 'Brevis', work: 'Tim'},
+instances: 1, word: 'Briars', work: 'Tim'},
+instances: 1, word: 'Bribed', work: 'Tim'},
+instances: 1, word: 'Briber', work: 'Tim'},
+instances: 1, word: 'Bride', work: 'Tim'},
+instances: 1, word: 'Bridge', work: 'Tim'},
+instances: 1, word: 'Brief', work: 'Tim'},
+instances: 1, word: 'Bright', work: 'Tim'},
+instances: 1, word: 'Brink', work: 'Tim'},
+instances: 1, word: 'Broach', work: 'Tim'},
+instances: 1, word: 'Broader', work: 'Tim'},
+instances: 1, word: 'Brothel', work: 'Tim'},
+instances: 1, word: 'Brother\'s', work: 'Tim'},
+instances: 1, word: 'Bruise', work: 'Tim'},
+instances: 1, word: 'Bruit', work: 'Tim'},
+instances: 1, word: 'Brush', work: 'Tim'},
+instances: 1, word: 'Buildings', work: 'Tim'},
+instances: 1, word: 'Bulk', work: 'Tim'},
+instances: 1, word: 'Bums', work: 'Tim'},
+instances: 1, word: 'Burden', work: 'Tim'},
+instances: 1, word: 'Burdens', work: 'Tim'},
+instances: 1, word: 'Burst', work: 'Tim'},
+instances: 1, word: 'Bury', work: 'Tim'},
+instances: 1, word: 'Bush', work: 'Tim'},
+instances: 1, word: 'Buys', work: 'Tim'},
+instances: 1, word: 'Byzantium', work: 'Tim'},
+instances: 1, word: 'Caitiff', work: 'Tim'},
+instances: 1, word: 'Caitiffs', work: 'Tim'},
+instances: 1, word: 'Caked', work: 'Tim'},
+instances: 1, word: 'Calamities', work: 'Tim'},
+instances: 1, word: 'Call\'st', work: 'Tim'},
+instances: 1, word: 'Camp', work: 'Tim'},
+instances: 1, word: 'Candied', work: 'Tim'},
+instances: 1, word: 'Canker', work: 'Tim'},
+instances: 1, word: 'Canons', work: 'Tim'},
+instances: 1, word: 'Cap-and-knee', work: 'Tim'},
+instances: 1, word: 'Caps', work: 'Tim'},
+instances: 1, word: 'Captainship', work: 'Tim'},
+instances: 1, word: 'Captains\'', work: 'Tim'},
+instances: 1, word: 'Carelessly', work: 'Tim'},
+instances: 1, word: 'Cares', work: 'Tim'},
+instances: 1, word: 'Carper', work: 'Tim'},
+instances: 1, word: 'Carriage', work: 'Tim'},
+instances: 1, word: 'Carries', work: 'Tim'},
+instances: 1, word: 'Carry', work: 'Tim'},
+instances: 1, word: 'Case', work: 'Tim'},
+instances: 1, word: 'Cases', work: 'Tim'},
+instances: 1, word: 'Cashiered', work: 'Tim'},
+instances: 1, word: 'Casket', work: 'Tim'},
+instances: 1, word: 'Castigate', work: 'Tim'},
+instances: 1, word: 'Caudle', work: 'Tim'},
+instances: 1, word: 'Caught', work: 'Tim'},
+instances: 1, word: 'Cauterizing', work: 'Tim'},
+instances: 1, word: 'Ceased', work: 'Tim'},
+instances: 1, word: 'Ceremony', work: 'Tim'},
+instances: 1, word: 'Chairs', work: 'Tim'},
+instances: 1, word: 'Chamber', work: 'Tim'},
+instances: 1, word: 'Chamberlain', work: 'Tim'},
+instances: 1, word: 'Chambers', work: 'Tim'},
+instances: 1, word: 'Chance', work: 'Tim'},
+instances: 1, word: 'Character', work: 'Tim'},
+instances: 1, word: 'Charmed', work: 'Tim'},
+instances: 1, word: 'Chases', work: 'Tim'},
+instances: 1, word: 'Checks', work: 'Tim'},
+instances: 1, word: 'Cheek', work: 'Tim'},
+instances: 1, word: 'Cheerly', work: 'Tim'},
+instances: 1, word: 'Cheers', work: 'Tim'},
+instances: 1, word: 'Cherish', work: 'Tim'},
+instances: 1, word: 'Cherubin', work: 'Tim'},
+instances: 1, word: 'Chickens', work: 'Tim'},
+instances: 1, word: 'Chid', work: 'Tim'},
+instances: 1, word: 'Chief', work: 'Tim'},
+instances: 1, word: 'Chiefly', work: 'Tim'},
+instances: 1, word: 'Child', work: 'Tim'},
+instances: 1, word: 'Children', work: 'Tim'},
+instances: 1, word: 'Choler', work: 'Tim'},
+instances: 1, word: 'Churl', work: 'Tim'},
+instances: 1, word: 'Civil', work: 'Tim'},
+instances: 1, word: 'Clamorous', work: 'Tim'},
+instances: 1, word: 'Clasped', work: 'Tim'},
+instances: 1, word: 'Clean', work: 'Tim'},
+instances: 1, word: 'Cleared', work: 'Tim'},
+instances: 1, word: 'Cleave', work: 'Tim'},
+instances: 1, word: 'Climb', work: 'Tim'},
+instances: 1, word: 'Clothes', work: 'Tim'},
+instances: 1, word: 'Cock', work: 'Tim'},
+instances: 1, word: 'Coffer', work: 'Tim'},
+instances: 1, word: 'Cog', work: 'Tim'},
+instances: 1, word: 'Coil\'s', work: 'Tim'},
+instances: 1, word: 'Coins', work: 'Tim'},
+instances: 1, word: 'Cold-moving', work: 'Tim'},
+instances: 1, word: 'Comely', work: 'Tim'},
+instances: 1, word: 'Comma', work: 'Tim'},
+instances: 1, word: 'Commanding', work: 'Tim'},
+instances: 1, word: 'Commands', work: 'Tim'},
+instances: 1, word: 'Commence', work: 'Tim'},
+instances: 1, word: 'Commendations', work: 'Tim'},
+instances: 1, word: 'Commit', work: 'Tim'},
+instances: 1, word: 'Commonwealth', work: 'Tim'},
+instances: 1, word: 'Companies', work: 'Tim'},
+instances: 1, word: 'Companion', work: 'Tim'},
+instances: 1, word: 'Companionship', work: 'Tim'},
+instances: 1, word: 'Compare', work: 'Tim'},
+instances: 1, word: 'Comparing', work: 'Tim'},
+instances: 1, word: 'Compassion', work: 'Tim'},
+instances: 1, word: 'Composture', work: 'Tim'},
+instances: 1, word: 'Compounded', work: 'Tim'},
+instances: 1, word: 'Compounds', work: 'Tim'},
+instances: 1, word: 'Com\'st', work: 'Tim'},
+instances: 1, word: 'Con', work: 'Tim'},
+instances: 1, word: 'Conceived', work: 'Tim'},
+instances: 1, word: 'Conception', work: 'Tim'},
+instances: 1, word: 'Conceptious', work: 'Tim'},
+instances: 1, word: 'Concern', work: 'Tim'},
+instances: 1, word: 'Condemn', work: 'Tim'},
+instances: 1, word: 'Condition', work: 'Tim'},
+instances: 1, word: 'Conditioned', work: 'Tim'},
+instances: 1, word: 'Confectionary', work: 'Tim'},
+instances: 1, word: 'Confer', work: 'Tim'},
+instances: 1, word: 'Confidence', work: 'Tim'},
+instances: 1, word: 'Confirm', work: 'Tim'},
+instances: 1, word: 'Conflict', work: 'Tim'},
+instances: 1, word: 'Conflicting', work: 'Tim'},
+instances: 1, word: 'Confluence', work: 'Tim'},
+instances: 1, word: 'Confounded', work: 'Tim'},
+instances: 1, word: 'Conquer', work: 'Tim'},
+instances: 1, word: 'Conquered', work: 'Tim'},
+instances: 1, word: 'Consecrated', work: 'Tim'},
+instances: 1, word: 'Consider', work: 'Tim'},
+instances: 1, word: 'Consideration', work: 'Tim'},
+instances: 1, word: 'Consume', work: 'Tim'},
+instances: 1, word: 'Consuming', work: 'Tim'},
+instances: 1, word: 'Consumption', work: 'Tim'},
+instances: 1, word: 'Consumptions', work: 'Tim'},
+instances: 1, word: 'Contentless', work: 'Tim'},
+instances: 1, word: 'Continuate', work: 'Tim'},
+instances: 1, word: 'Continue', work: 'Tim'},
+instances: 1, word: 'Contract', work: 'Tim'},
+instances: 1, word: 'Contraries', work: 'Tim'},
+instances: 1, word: 'Contumelious', work: 'Tim'},
+instances: 1, word: 'Cook', work: 'Tim'},
+instances: 1, word: 'Cool', work: 'Tim'},
+instances: 1, word: 'Copies', work: 'Tim'},
+instances: 1, word: 'Corinth', work: 'Tim'},
+instances: 1, word: 'Corporate', work: 'Tim'},
+instances: 1, word: 'Corse', work: 'Tim'},
+instances: 1, word: 'Couched', work: 'Tim'},
+instances: 1, word: 'Count', work: 'Tim'},
+instances: 1, word: 'Counterfeit\'st', work: 'Tim'},
+instances: 1, word: 'Counterpoise', work: 'Tim'},
+instances: 1, word: 'Countryman', work: 'Tim'},
+instances: 1, word: 'Country\'s', work: 'Tim'},
+instances: 1, word: 'Coupled', work: 'Tim'},
+instances: 1, word: 'Courage', work: 'Tim'},
+instances: 1, word: 'Courier', work: 'Tim'},
+instances: 1, word: 'Courser', work: 'Tim'},
+instances: 1, word: 'Courteous', work: 'Tim'},
+instances: 1, word: 'Courtesy', work: 'Tim'},
+instances: 1, word: 'Courtier', work: 'Tim'},
+instances: 1, word: 'Courtly', work: 'Tim'},
+instances: 1, word: 'Court\'sies', work: 'Tim'},
+instances: 1, word: 'Covered', work: 'Tim'},
+instances: 1, word: 'Covetous', work: 'Tim'},
+instances: 1, word: 'Covetously', work: 'Tim'},
+instances: 1, word: 'Cowardice', work: 'Tim'},
+instances: 1, word: 'Crack', work: 'Tim'},
+instances: 1, word: 'Cradle', work: 'Tim'},
+instances: 1, word: 'Crave', work: 'Tim'},
+instances: 1, word: 'Craves', work: 'Tim'},
+instances: 1, word: 'Creature', work: 'Tim'},
+instances: 1, word: 'Creep', work: 'Tim'},
+instances: 1, word: 'Cries', work: 'Tim'},
+instances: 1, word: 'Crimes', work: 'Tim'},
+instances: 1, word: 'Cripple', work: 'Tim'},
+instances: 1, word: 'Crisp', work: 'Tim'},
+instances: 1, word: 'Crop', work: 'Tim'},
+instances: 1, word: 'Crossing', work: 'Tim'},
+instances: 1, word: 'Crouching', work: 'Tim'},
+instances: 1, word: 'Cruel', work: 'Tim'},
+instances: 1, word: 'Cruelly', work: 'Tim'},
+instances: 1, word: 'Crust', work: 'Tim'},
+instances: 1, word: 'Crutch', work: 'Tim'},
+instances: 1, word: 'Cry', work: 'Tim'},
+instances: 1, word: 'Cull', work: 'Tim'},
+instances: 1, word: 'Cumber', work: 'Tim'},
+instances: 1, word: 'Curb', work: 'Tim'},
+instances: 1, word: 'Curiosity', work: 'Tim'},
+instances: 1, word: 'Curled-pate', work: 'Tim'},
+instances: 1, word: 'Current', work: 'Tim'},
+instances: 1, word: 'Customs', work: 'Tim'},
+instances: 1, word: 'Damnation', work: 'Tim'},
+instances: 1, word: 'Danger', work: 'Tim'},
+instances: 1, word: 'Days\'', work: 'Tim'},
+instances: 1, word: 'Deaf', work: 'Tim'},
+instances: 1, word: 'Decay', work: 'Tim'},
+instances: 1, word: 'Deceives', work: 'Tim'},
+instances: 1, word: 'Decimation', work: 'Tim'},
+instances: 1, word: 'Deck', work: 'Tim'},
+instances: 1, word: 'Decline', work: 'Tim'},
+instances: 1, word: 'Declining', work: 'Tim'},
+instances: 1, word: 'Dedicated', work: 'Tim'},
+instances: 1, word: 'Dedication', work: 'Tim'},
+instances: 1, word: 'Deepest', work: 'Tim'},
+instances: 1, word: 'Defeat', work: 'Tim'},
+instances: 1, word: 'Defend', work: 'Tim'},
+instances: 1, word: 'Defiled', work: 'Tim'},
+instances: 1, word: 'Defiler', work: 'Tim'},
+instances: 1, word: 'Degree', work: 'Tim'},
+instances: 1, word: 'Deities', work: 'Tim'},
+instances: 1, word: 'Delicate', work: 'Tim'},
+instances: 1, word: 'Demand', work: 'Tim'},
+instances: 1, word: 'Demands', work: 'Tim'},
+instances: 1, word: 'Demonstrate', work: 'Tim'},
+instances: 1, word: 'Denial', work: 'Tim'},
+instances: 1, word: 'Deniest', work: 'Tim'},
+instances: 1, word: 'Dependants', work: 'Tim'},
+instances: 1, word: 'Depraves', work: 'Tim'},
+instances: 1, word: 'Depravèd', work: 'Tim'},
+instances: 1, word: 'Depth', work: 'Tim'},
+instances: 1, word: 'Derived', work: 'Tim'},
+instances: 1, word: 'Deserve', work: 'Tim'},
+instances: 1, word: 'Deserved', work: 'Tim'},
+instances: 1, word: 'Desires', work: 'Tim'},
+instances: 1, word: 'Desirous', work: 'Tim'},
+instances: 1, word: 'Desperate', work: 'Tim'},
+instances: 1, word: 'Desp\'rate', work: 'Tim'},
+instances: 1, word: 'Destined', work: 'Tim'},
+instances: 1, word: 'Destroyers', work: 'Tim'},
+instances: 1, word: 'Detention', work: 'Tim'},
+instances: 1, word: 'Detestable', work: 'Tim'},
+instances: 1, word: 'Detested', work: 'Tim'},
+instances: 1, word: 'Device', work: 'Tim'},
+instances: 1, word: 'Devil', work: 'Tim'},
+instances: 1, word: 'Devils', work: 'Tim'},
+instances: 1, word: 'Devised', work: 'Tim'},
+instances: 1, word: 'Dialogue', work: 'Tim'},
+instances: 1, word: 'Diamonds', work: 'Tim'},
+instances: 1, word: 'Dian\'s', work: 'Tim'},
+instances: 1, word: 'Dich', work: 'Tim'},
+instances: 1, word: 'Died', work: 'Tim'},
+instances: 1, word: 'Differ', work: 'Tim'},
+instances: 1, word: 'Differing', work: 'Tim'},
+instances: 1, word: 'Dignities', work: 'Tim'},
+instances: 1, word: 'Diligent', work: 'Tim'},
+instances: 1, word: 'Dimpled', work: 'Tim'},
+instances: 1, word: 'Dined', work: 'Tim'},
+instances: 1, word: 'Dip', work: 'Tim'},
+instances: 1, word: 'Dips', work: 'Tim'},
+instances: 1, word: 'Direct', work: 'Tim'},
+instances: 1, word: 'Directed', work: 'Tim'},
+instances: 1, word: 'Discharged', work: 'Tim'},
+instances: 1, word: 'Disclaim\'st', work: 'Tim'},
+instances: 1, word: 'Discontent', work: 'Tim'},
+instances: 1, word: 'Discontented', work: 'Tim'},
+instances: 1, word: 'Discontents', work: 'Tim'},
+instances: 1, word: 'Discovered', work: 'Tim'},
+instances: 1, word: 'Discovery', work: 'Tim'},
+instances: 1, word: 'Disdains', work: 'Tim'},
+instances: 1, word: 'Diseased', work: 'Tim'},
+instances: 1, word: 'Disfurnish', work: 'Tim'},
+instances: 1, word: 'Disgraced', work: 'Tim'},
+instances: 1, word: 'Dish', work: 'Tim'},
+instances: 1, word: 'Dishonor', work: 'Tim'},
+instances: 1, word: 'Dispatch', work: 'Tim'},
+instances: 1, word: 'Dispense', work: 'Tim'},
+instances: 1, word: 'Displeasure', work: 'Tim'},
+instances: 1, word: 'Disport', work: 'Tim'},
+instances: 1, word: 'Dispose', work: 'Tim'},
+instances: 1, word: 'Dispossess', work: 'Tim'},
+instances: 1, word: 'Dispraise', work: 'Tim'},
+instances: 1, word: 'Dissemble', work: 'Tim'},
+instances: 1, word: 'Distasteful', work: 'Tim'},
+instances: 1, word: 'Distress', work: 'Tim'},
+instances: 1, word: 'Ditches', work: 'Tim'},
+instances: 1, word: 'Dive', work: 'Tim'},
+instances: 1, word: 'Dividant', work: 'Tim'},
+instances: 1, word: 'Divided', work: 'Tim'},
+instances: 1, word: 'Divorce', work: 'Tim'},
+instances: 1, word: 'Dog\'s', work: 'Tim'},
+instances: 1, word: 'Doing', work: 'Tim'},
+instances: 1, word: 'Doit', work: 'Tim'},
+instances: 1, word: 'Domestic', work: 'Tim'},
+instances: 1, word: 'Donation', work: 'Tim'},
+instances: 1, word: 'Dotage', work: 'Tim'},
+instances: 1, word: 'Doubled', work: 'Tim'},
+instances: 1, word: 'Doubtfully', work: 'Tim'},
+instances: 1, word: 'Dozen', work: 'Tim'},
+instances: 1, word: 'Drafts', work: 'Tim'},
+instances: 1, word: 'Dragons', work: 'Tim'},
+instances: 1, word: 'Dram', work: 'Tim'},
+instances: 1, word: 'Draw\'st', work: 'Tim'},
+instances: 1, word: 'Dream', work: 'Tim'},
+instances: 1, word: 'Dreamt', work: 'Tim'},
+instances: 1, word: 'Dregs', work: 'Tim'},
+instances: 1, word: 'Drift', work: 'Tim'},
+instances: 1, word: 'Drinks', work: 'Tim'},
+instances: 1, word: 'Drive', work: 'Tim'},
+instances: 1, word: 'Droplets', work: 'Tim'},
+instances: 1, word: 'Drove', work: 'Tim'},
+instances: 1, word: 'Drowned', work: 'Tim'},
+instances: 1, word: 'Drowns', work: 'Tim'},
+instances: 1, word: 'Drugs', work: 'Tim'},
+instances: 1, word: 'Drums', work: 'Tim'},
+instances: 1, word: 'Drunken', work: 'Tim'},
+instances: 1, word: 'Dry', work: 'Tim'},
+instances: 1, word: 'Ducks', work: 'Tim'},
+instances: 1, word: 'Dull', work: 'Tim'},
+instances: 1, word: 'Duller', work: 'Tim'},
+instances: 1, word: 'Dullness', work: 'Tim'},
+instances: 1, word: 'Dumbness', work: 'Tim'},
+instances: 1, word: 'Dust', work: 'Tim'},
+instances: 1, word: 'Dying', work: 'Tim'},
+instances: 1, word: 'Ear', work: 'Tim'},
+instances: 1, word: 'Earth\'s', work: 'Tim'},
+instances: 1, word: 'Easily', work: 'Tim'},
+instances: 1, word: 'Eats', work: 'Tim'},
+instances: 1, word: 'Ebb', work: 'Tim'},
+instances: 1, word: 'Effect', work: 'Tim'},
+instances: 1, word: 'Either', work: 'Tim'},
+instances: 1, word: 'Elder', work: 'Tim'},
+instances: 1, word: 'Elements', work: 'Tim'},
+instances: 1, word: 'Embalms', work: 'Tim'},
+instances: 1, word: 'Emboldens', work: 'Tim'},
+instances: 1, word: 'Embossèd', work: 'Tim'},
+instances: 1, word: 'Empire', work: 'Tim'},
+instances: 1, word: 'Employed', work: 'Tim'},
+instances: 1, word: 'Employment', work: 'Tim'},
+instances: 1, word: 'Endowed', work: 'Tim'},
+instances: 1, word: 'Enemy\'s', work: 'Tim'},
+instances: 1, word: 'Enforcedly', work: 'Tim'},
+instances: 1, word: 'Enfranchised', work: 'Tim'},
+instances: 1, word: 'Engaged', work: 'Tim'},
+instances: 1, word: 'Engenders', work: 'Tim'},
+instances: 1, word: 'Englutted', work: 'Tim'},
+instances: 1, word: 'Enriched', work: 'Tim'},
+instances: 1, word: 'Ensear', work: 'Tim'},
+instances: 1, word: 'Entombed', work: 'Tim'},
+instances: 1, word: 'Entreats', work: 'Tim'},
+instances: 1, word: 'Entreaty', work: 'Tim'},
+instances: 1, word: 'Envy', work: 'Tim'},
+instances: 1, word: 'Equal', work: 'Tim'},
+instances: 1, word: 'Equaled', work: 'Tim'},
+instances: 1, word: 'Equals', work: 'Tim'},
+instances: 1, word: 'Erected', work: 'Tim'},
+instances: 1, word: 'Erection', work: 'Tim'},
+instances: 1, word: 'Especially', work: 'Tim'},
+instances: 1, word: 'Est', work: 'Tim'},
+instances: 1, word: 'Estates', work: 'Tim'},
+instances: 1, word: 'Esteemed', work: 'Tim'},
+instances: 1, word: 'Estimate', work: 'Tim'},
+instances: 1, word: 'Event', work: 'Tim'},
+instances: 1, word: 'Everlasting', work: 'Tim'},
+instances: 1, word: 'Evilly', work: 'Tim'},
+instances: 1, word: 'Evils', work: 'Tim'},
+instances: 1, word: 'Ev\'ry', work: 'Tim'},
+instances: 1, word: 'Ewer', work: 'Tim'},
+instances: 1, word: 'Exactest', work: 'Tim'},
+instances: 1, word: 'Exceed', work: 'Tim'},
+instances: 1, word: 'Exceeding', work: 'Tim'},
+instances: 1, word: 'Exceptless', work: 'Tim'},
+instances: 1, word: 'Excess', work: 'Tim'},
+instances: 1, word: 'Exchange', work: 'Tim'},
+instances: 1, word: 'Excrement', work: 'Tim'},
+instances: 1, word: 'Executed', work: 'Tim'},
+instances: 1, word: 'Exempt', work: 'Tim'},
+instances: 1, word: 'Exhaust', work: 'Tim'},
+instances: 1, word: 'Expect', work: 'Tim'},
+instances: 1, word: 'Expectation', work: 'Tim'},
+instances: 1, word: 'Expecting', work: 'Tim'},
+instances: 1, word: 'Expedition', work: 'Tim'},
+instances: 1, word: 'Expel', work: 'Tim'},
+instances: 1, word: 'Expose', work: 'Tim'},
+instances: 1, word: 'Exposed', work: 'Tim'},
+instances: 1, word: 'Expressed', work: 'Tim'},
+instances: 1, word: 'Expressly', work: 'Tim'},
+instances: 1, word: 'Exquisite', work: 'Tim'},
+instances: 1, word: 'Extend', work: 'Tim'},
+instances: 1, word: 'Extolled', work: 'Tim'},
+instances: 1, word: 'Extremely', work: 'Tim'},
+instances: 1, word: 'Extremest', work: 'Tim'},
+instances: 1, word: 'Extremity', work: 'Tim'},
+instances: 1, word: 'Eyeless', work: 'Tim'},
+instances: 1, word: 'Fact', work: 'Tim'},
+instances: 1, word: 'Fail', work: 'Tim'},
+instances: 1, word: 'Failing', work: 'Tim'},
+instances: 1, word: 'Fain', work: 'Tim'},
+instances: 1, word: 'Fairer', work: 'Tim'},
+instances: 1, word: 'Fairest', work: 'Tim'},
+instances: 1, word: 'Faithfully', work: 'Tim'},
+instances: 1, word: 'Falling-from', work: 'Tim'},
+instances: 1, word: 'Falsehood', work: 'Tim'},
+instances: 1, word: 'Familiars', work: 'Tim'},
+instances: 1, word: 'Famish', work: 'Tim'},
+instances: 1, word: 'Famished', work: 'Tim'},
+instances: 1, word: 'Fang', work: 'Tim'},
+instances: 1, word: 'Fashion', work: 'Tim'},
+instances: 1, word: 'Fashionable', work: 'Tim'},
+instances: 1, word: 'Fashioned', work: 'Tim'},
+instances: 1, word: 'Fast', work: 'Tim'},
+instances: 1, word: 'Fast-lost', work: 'Tim'},
+instances: 1, word: 'Faster', work: 'Tim'},
+instances: 1, word: 'Father\'s', work: 'Tim'},
+instances: 1, word: 'Fault\'s', work: 'Tim'},
+instances: 1, word: 'Fawn', work: 'Tim'},
+instances: 1, word: 'Feared', work: 'Tim'},
+instances: 1, word: 'Fearful', work: 'Tim'},
+instances: 1, word: 'Feast-won', work: 'Tim'},
+instances: 1, word: 'Feasted', work: 'Tim'},
+instances: 1, word: 'Feasting', work: 'Tim'},
+instances: 1, word: 'Feeble', work: 'Tim'},
+instances: 1, word: 'Feeders', work: 'Tim'},
+instances: 1, word: 'Feed\'st', work: 'Tim'},
+instances: 1, word: 'Feeling', work: 'Tim'},
+instances: 1, word: 'Fees', work: 'Tim'},
+instances: 1, word: 'Fellowship', work: 'Tim'},
+instances: 1, word: 'Felon', work: 'Tim'},
+instances: 1, word: 'Fence', work: 'Tim'},
+instances: 1, word: 'Fertile', work: 'Tim'},
+instances: 1, word: 'Fever', work: 'Tim'},
+instances: 1, word: 'Fevers', work: 'Tim'},
+instances: 1, word: 'Fiction', work: 'Tim'},
+instances: 1, word: 'Fierce', work: 'Tim'},
+instances: 1, word: 'Fifty-five', work: 'Tim'},
+instances: 1, word: 'Fight', work: 'Tim'},
+instances: 1, word: 'Figure', work: 'Tim'},
+instances: 1, word: 'Files', work: 'Tim'},
+instances: 1, word: 'Filled', work: 'Tim'},
+instances: 1, word: 'Filling', work: 'Tim'},
+instances: 1, word: 'Filths', work: 'Tim'},
+instances: 1, word: 'Finds', work: 'Tim'},
+instances: 1, word: 'Fine', work: 'Tim'},
+instances: 1, word: 'Finger', work: 'Tim'},
+instances: 1, word: 'Fitly', work: 'Tim'},
+instances: 1, word: 'Five-and-twenty', work: 'Tim'},
+instances: 1, word: 'Flailing', work: 'Tim'},
+instances: 1, word: 'Flame', work: 'Tim'},
+instances: 1, word: 'Flamen', work: 'Tim'},
+instances: 1, word: 'Flashes', work: 'Tim'},
+instances: 1, word: 'Flat', work: 'Tim'},
+instances: 1, word: 'Flatterer\'s', work: 'Tim'},
+instances: 1, word: 'Flattery', work: 'Tim'},
+instances: 1, word: 'Flatter\'st', work: 'Tim'},
+instances: 1, word: 'Flavius', work: 'Tim'},
+instances: 1, word: 'Fled', work: 'Tim'},
+instances: 1, word: 'Flint', work: 'Tim'},
+instances: 1, word: 'Flinty', work: 'Tim'},
+instances: 1, word: 'Flourish', work: 'Tim'},
+instances: 1, word: 'Flows', work: 'Tim'},
+instances: 1, word: 'Flung', work: 'Tim'},
+instances: 1, word: 'Flush', work: 'Tim'},
+instances: 1, word: 'Foals', work: 'Tim'},
+instances: 1, word: 'Foe\'s', work: 'Tim'},
+instances: 1, word: 'Fold', work: 'Tim'},
+instances: 1, word: 'Follows', work: 'Tim'},
+instances: 1, word: 'Folly', work: 'Tim'},
+instances: 1, word: 'Foolery', work: 'Tim'},
+instances: 1, word: 'Forbid', work: 'Tim'},
+instances: 1, word: 'Forced', work: 'Tim'},
+instances: 1, word: 'Forerunner', work: 'Tim'},
+instances: 1, word: 'Foresee', work: 'Tim'},
+instances: 1, word: 'Forest', work: 'Tim'},
+instances: 1, word: 'Forfeited', work: 'Tim'},
+instances: 1, word: 'Forfeits', work: 'Tim'},
+instances: 1, word: 'Forfeiture', work: 'Tim'},
+instances: 1, word: 'Forgetfulness', work: 'Tim'},
+instances: 1, word: 'Forgetting', work: 'Tim'},
+instances: 1, word: 'Forgive', work: 'Tim'},
+instances: 1, word: 'Forgiven', work: 'Tim'},
+instances: 1, word: 'Forsake', work: 'Tim'},
+instances: 1, word: 'Forsook', work: 'Tim'},
+instances: 1, word: 'Forswear', work: 'Tim'},
+instances: 1, word: 'Fourscore', work: 'Tim'},
+instances: 1, word: 'Fracted', work: 'Tim'},
+instances: 1, word: 'Fractions', work: 'Tim'},
+instances: 1, word: 'Fragile', work: 'Tim'},
+instances: 1, word: 'Fragment', work: 'Tim'},
+instances: 1, word: 'Framed', work: 'Tim'},
+instances: 1, word: 'Frankly', work: 'Tim'},
+instances: 1, word: 'Free-hearted', work: 'Tim'},
+instances: 1, word: 'Freedom', work: 'Tim'},
+instances: 1, word: 'Frequents', work: 'Tim'},
+instances: 1, word: 'Fresh', work: 'Tim'},
+instances: 1, word: 'Friendship\'s', work: 'Tim'},
+instances: 1, word: 'Froze', work: 'Tim'},
+instances: 1, word: 'Fruitful', work: 'Tim'},
+instances: 1, word: 'Fully', work: 'Tim'},
+instances: 1, word: 'Furor', work: 'Tim'},
+instances: 1, word: 'Gain', work: 'Tim'},
+instances: 1, word: 'Gait', work: 'Tim'},
+instances: 1, word: 'Gate', work: 'Tim'},
+instances: 1, word: 'Gav\'st', work: 'Tim'},
+instances: 1, word: 'Generally', work: 'Tim'},
+instances: 1, word: 'Generation', work: 'Tim'},
+instances: 1, word: 'Gently', work: 'Tim'},
+instances: 1, word: 'Gen\'ral', work: 'Tim'},
+instances: 1, word: 'Germane', work: 'Tim'},
+instances: 1, word: 'Gesture', work: 'Tim'},
+instances: 1, word: 'Gilded', work: 'Tim'},
+instances: 1, word: 'Gilt', work: 'Tim'},
+instances: 1, word: 'Girdle', work: 'Tim'},
+instances: 1, word: 'Girdles', work: 'Tim'},
+instances: 1, word: 'Giver', work: 'Tim'},
+instances: 1, word: 'Givest', work: 'Tim'},
+instances: 1, word: 'Giv\'st', work: 'Tim'},
+instances: 1, word: 'Glass-faced', work: 'Tim'},
+instances: 1, word: 'Glib', work: 'Tim'},
+instances: 1, word: 'Glittering', work: 'Tim'},
+instances: 1, word: 'Gloss', work: 'Tim'},
+instances: 1, word: 'Glutt\'nous', work: 'Tim'},
+instances: 1, word: 'Gnaw', work: 'Tim'},
+instances: 1, word: 'Godheads', work: 'Tim'},
+instances: 1, word: 'God\'s', work: 'Tim'},
+instances: 1, word: 'Golden', work: 'Tim'},
+instances: 1, word: 'Gore', work: 'Tim'},
+instances: 1, word: 'Gorge', work: 'Tim'},
+instances: 1, word: 'Gouty', work: 'Tim'},
+instances: 1, word: 'Governed', work: 'Tim'},
+instances: 1, word: 'Gracious', work: 'Tim'},
+instances: 1, word: 'Gramercies', work: 'Tim'},
+instances: 1, word: 'Gramercy', work: 'Tim'},
+instances: 1, word: 'Grant\'st', work: 'Tim'},
+instances: 1, word: 'Grape', work: 'Tim'},
+instances: 1, word: 'Grass', work: 'Tim'},
+instances: 1, word: 'Grateful', work: 'Tim'},
+instances: 1, word: 'Gratulate', work: 'Tim'},
+instances: 1, word: 'Greases', work: 'Tim'},
+instances: 1, word: 'Greater', work: 'Tim'},
+instances: 1, word: 'Greediness', work: 'Tim'},
+instances: 1, word: 'Green', work: 'Tim'},
+instances: 1, word: 'Greeting', work: 'Tim'},
+instances: 1, word: 'Greyhounds', work: 'Tim'},
+instances: 1, word: 'Grieved', work: 'Tim'},
+instances: 1, word: 'Grieves', work: 'Tim'},
+instances: 1, word: 'Grise', work: 'Tim'},
+instances: 1, word: 'Groans', work: 'Tim'},
+instances: 1, word: 'Ground', work: 'Tim'},
+instances: 1, word: 'Grow', work: 'Tim'},
+instances: 1, word: 'Guard', work: 'Tim'},
+instances: 1, word: 'Guest', work: 'Tim'},
+instances: 1, word: 'Guide', work: 'Tim'},
+instances: 1, word: 'Guise', work: 'Tim'},
+instances: 1, word: 'Gull', work: 'Tim'},
+instances: 1, word: 'Gum', work: 'Tim'},
+instances: 1, word: 'Gust', work: 'Tim'},
+instances: 1, word: 'Had\'st', work: 'Tim'},
+instances: 1, word: 'Half-caps', work: 'Tim'},
+instances: 1, word: 'Halt', work: 'Tim'},
+instances: 1, word: 'Halts', work: 'Tim'},
+instances: 1, word: 'Hangman', work: 'Tim'},
+instances: 1, word: 'Hangs', work: 'Tim'},
+instances: 1, word: 'Hap', work: 'Tim'},
+instances: 1, word: 'Happened', work: 'Tim'},
+instances: 1, word: 'Happier', work: 'Tim'},
+instances: 1, word: 'Harbor', work: 'Tim'},
+instances: 1, word: 'Harlot', work: 'Tim'},
+instances: 1, word: 'Harlots', work: 'Tim'},
+instances: 1, word: 'Harness', work: 'Tim'},
+instances: 1, word: 'Harshly', work: 'Tim'},
+instances: 1, word: 'Hat', work: 'Tim'},
+instances: 1, word: 'Hateful', work: 'Tim'},
+instances: 1, word: 'Hat\'st', work: 'Tim'},
+instances: 1, word: 'Heal', work: 'Tim'},
+instances: 1, word: 'Healths', work: 'Tim'},
+instances: 1, word: 'Heaps', work: 'Tim'},
+instances: 1, word: 'Heart\'s', work: 'Tim'},
+instances: 1, word: 'Heat', work: 'Tim'},
+instances: 1, word: 'Heavenly', work: 'Tim'},
+instances: 1, word: 'Heaven\'s', work: 'Tim'},
+instances: 1, word: 'Heaviest', work: 'Tim'},
+instances: 1, word: 'Height', work: 'Tim'},
+instances: 1, word: 'Held', work: 'Tim'},
+instances: 1, word: 'Hem', work: 'Tim'},
+instances: 1, word: 'Hereafter', work: 'Tim'},
+instances: 1, word: 'Herself\'s', work: 'Tim'},
+instances: 1, word: 'Hew', work: 'Tim'},
+instances: 1, word: 'He\'d', work: 'Tim'},
+instances: 1, word: 'Hid', work: 'Tim'},
+instances: 1, word: 'Hide', work: 'Tim'},
+instances: 1, word: 'High-viced', work: 'Tim'},
+instances: 1, word: 'Highest', work: 'Tim'},
+instances: 1, word: 'Hinge', work: 'Tim'},
+instances: 1, word: 'Hips', work: 'Tim'},
+instances: 1, word: 'Hired', work: 'Tim'},
+instances: 1, word: 'Hit', work: 'Tim'},
+instances: 1, word: 'Hits', work: 'Tim'},
+instances: 1, word: 'Holds', work: 'Tim'},
+instances: 1, word: 'Holier', work: 'Tim'},
+instances: 1, word: 'Honest-natured', work: 'Tim'},
+instances: 1, word: 'Honestly', work: 'Tim'},
+instances: 1, word: 'Horrible', work: 'Tim'},
+instances: 1, word: 'Horrid', work: 'Tim'},
+instances: 1, word: 'Hortensius', work: 'Tim'},
+instances: 1, word: 'Hostile', work: 'Tim'},
+instances: 1, word: 'Hostilius', work: 'Tim'},
+instances: 1, word: 'Howsoe\'er', work: 'Tim'},
+instances: 1, word: 'Hoy-day', work: 'Tim'},
+instances: 1, word: 'Huge', work: 'Tim'},
+instances: 1, word: 'Hum', work: 'Tim'},
+instances: 1, word: 'Humidity', work: 'Tim'},
+instances: 1, word: 'Humors', work: 'Tim'},
+instances: 1, word: 'Hung', work: 'Tim'},
+instances: 1, word: 'Hunger', work: 'Tim'},
+instances: 1, word: 'Hungerly', work: 'Tim'},
+instances: 1, word: 'Hungry', work: 'Tim'},
+instances: 1, word: 'Hunted', work: 'Tim'},
+instances: 1, word: 'Hunting', work: 'Tim'},
+instances: 1, word: 'Hurts', work: 'Tim'},
+instances: 1, word: 'Husband', work: 'Tim'},
+instances: 1, word: 'Husbandry', work: 'Tim'},
+instances: 1, word: 'Huswife', work: 'Tim'},
+instances: 1, word: 'Hymen\'s', work: 'Tim'},
+instances: 1, word: 'Hyperion\'s', work: 'Tim'},
+instances: 1, word: 'Ice', work: 'Tim'},
+instances: 1, word: 'Icy', work: 'Tim'},
+instances: 1, word: 'Idly', work: 'Tim'},
+instances: 1, word: 'Ignobly', work: 'Tim'},
+instances: 1, word: 'Ignorance', work: 'Tim'},
+instances: 1, word: 'Illustrious', work: 'Tim'},
+instances: 1, word: 'Imagination', work: 'Tim'},
+instances: 1, word: 'Impiety', work: 'Tim'},
+instances: 1, word: 'Implements', work: 'Tim'},
+instances: 1, word: 'Imported', work: 'Tim'},
+instances: 1, word: 'Importunacy', work: 'Tim'},
+instances: 1, word: 'Importune', work: 'Tim'},
+instances: 1, word: 'Impossibilities', work: 'Tim'},
+instances: 1, word: 'Impression', work: 'Tim'},
+instances: 1, word: 'Incertain', work: 'Tim'},
+instances: 1, word: 'Inclined', work: 'Tim'},
+instances: 1, word: 'Incomparable', work: 'Tim'},
+instances: 1, word: 'Incontinent', work: 'Tim'},
+instances: 1, word: 'Indifferent', work: 'Tim'},
+instances: 1, word: 'Indisposition', work: 'Tim'},
+instances: 1, word: 'Infection', work: 'Tim'},
+instances: 1, word: 'Infectious', work: 'Tim'},
+instances: 1, word: 'Infects', work: 'Tim'},
+instances: 1, word: 'Inferred', work: 'Tim'},
+instances: 1, word: 'Infinitely', work: 'Tim'},
+instances: 1, word: 'Influence', work: 'Tim'},
+instances: 1, word: 'Ingeniously', work: 'Tim'},
+instances: 1, word: 'Inherited', work: 'Tim'},
+instances: 1, word: 'Injuries', work: 'Tim'},
+instances: 1, word: 'Innocence', work: 'Tim'},
+instances: 1, word: 'Inquire', work: 'Tim'},
+instances: 1, word: 'Insculpture', work: 'Tim'},
+instances: 1, word: 'Insolence', work: 'Tim'},
+instances: 1, word: 'Instantly', work: 'Tim'},
+instances: 1, word: 'Instruct', work: 'Tim'},
+instances: 1, word: 'Instruction', work: 'Tim'},
+instances: 1, word: 'Instruments', work: 'Tim'},
+instances: 1, word: 'Intending', work: 'Tim'},
+instances: 1, word: 'Intent', work: 'Tim'},
+instances: 1, word: 'Interim', work: 'Tim'},
+instances: 1, word: 'Interpret', work: 'Tim'},
+instances: 1, word: 'Interpreter', work: 'Tim'},
+instances: 1, word: 'Interprets', work: 'Tim'},
+instances: 1, word: 'Int\'rest', work: 'Tim'},
+instances: 1, word: 'Inviting', work: 'Tim'},
+instances: 1, word: 'Inwardly', work: 'Tim'},
+instances: 1, word: 'Ira', work: 'Tim'},
+instances: 1, word: 'Iron', work: 'Tim'},
+instances: 1, word: 'Irons', work: 'Tim'},
+instances: 1, word: 'Issue', work: 'Tim'},
+instances: 1, word: 'Itches', work: 'Tim'},
+instances: 1, word: 'Ivory', work: 'Tim'},
+instances: 1, word: 'Jail', work: 'Tim'},
+instances: 1, word: 'Jeweler', work: 'Tim'},
+instances: 1, word: 'Joint', work: 'Tim'},
+instances: 1, word: 'Joints', work: 'Tim'},
+instances: 1, word: 'Jot', work: 'Tim'},
+instances: 1, word: 'Journey', work: 'Tim'},
+instances: 1, word: 'Jove', work: 'Tim'},
+instances: 1, word: 'Joy', work: 'Tim'},
+instances: 1, word: 'Joyful', work: 'Tim'},
+instances: 1, word: 'Joy\'s', work: 'Tim'},
+instances: 1, word: 'Judge', work: 'Tim'},
+instances: 1, word: 'Jurors', work: 'Tim'},
+instances: 1, word: 'Justly', work: 'Tim'},
+instances: 1, word: 'Jutting-out', work: 'Tim'},
+instances: 1, word: 'Keeper', work: 'Tim'},
+instances: 1, word: 'Keeping', work: 'Tim'},
+instances: 1, word: 'Killed', work: 'Tim'},
+instances: 1, word: 'Killing', work: 'Tim'},
+instances: 1, word: 'Kinder', work: 'Tim'},
+instances: 1, word: 'Kindnesses', work: 'Tim'},
+instances: 1, word: 'Kindred', work: 'Tim'},
+instances: 1, word: 'King-killer', work: 'Tim'},
+instances: 1, word: 'Kingdoms', work: 'Tim'},
+instances: 1, word: 'Knees', work: 'Tim'},
+instances: 1, word: 'Knell', work: 'Tim'},
+instances: 1, word: 'Knewest', work: 'Tim'},
+instances: 1, word: 'Knight', work: 'Tim'},
+instances: 1, word: 'Knit', work: 'Tim'},
+instances: 1, word: 'Knot', work: 'Tim'},
+instances: 1, word: 'Knowing', work: 'Tim'},
+instances: 1, word: 'Laboring', work: 'Tim'},
+instances: 1, word: 'Lacks', work: 'Tim'},
+instances: 1, word: 'Lack\'st', work: 'Tim'},
+instances: 1, word: 'Lady', work: 'Tim'},
+instances: 1, word: 'Lamb', work: 'Tim'},
+instances: 1, word: 'Lamely', work: 'Tim'},
+instances: 1, word: 'Land\'s', work: 'Tim'},
+instances: 1, word: 'Language', work: 'Tim'},
+instances: 1, word: 'Lards', work: 'Tim'},
+instances: 1, word: 'Large-handed', work: 'Tim'},
+instances: 1, word: 'Lasts', work: 'Tim'},
+instances: 1, word: 'Lately', work: 'Tim'},
+instances: 1, word: 'Latest', work: 'Tim'},
+instances: 1, word: 'Latter', work: 'Tim'},
+instances: 1, word: 'Laughing', work: 'Tim'},
+instances: 1, word: 'Lawyer', work: 'Tim'},
+instances: 1, word: 'Lawyer\'s', work: 'Tim'},
+instances: 1, word: 'Lays', work: 'Tim'},
+instances: 1, word: 'Leaf', work: 'Tim'},
+instances: 1, word: 'Leaked', work: 'Tim'},
+instances: 1, word: 'Lean', work: 'Tim'},
+instances: 1, word: 'Leans', work: 'Tim'},
+instances: 1, word: 'Learn', work: 'Tim'},
+instances: 1, word: 'Learned', work: 'Tim'},
+instances: 1, word: 'Learning', work: 'Tim'},
+instances: 1, word: 'Learnèd', work: 'Tim'},
+instances: 1, word: 'Leas', work: 'Tim'},
+instances: 1, word: 'Leech', work: 'Tim'},
+instances: 1, word: 'Leisures', work: 'Tim'},
+instances: 1, word: 'Length', work: 'Tim'},
+instances: 1, word: 'Lesser', work: 'Tim'},
+instances: 1, word: 'Letter', work: 'Tim'},
+instances: 1, word: 'Level', work: 'Tim'},
+instances: 1, word: 'Leveled', work: 'Tim'},
+instances: 1, word: 'Levity\'s', work: 'Tim'},
+instances: 1, word: 'Liberal', work: 'Tim'},
+instances: 1, word: 'Licentious', work: 'Tim'},
+instances: 1, word: 'Lick', work: 'Tim'},
+instances: 1, word: 'Life\'s', work: 'Tim'},
+instances: 1, word: 'Liked', work: 'Tim'},
+instances: 1, word: 'Likely', work: 'Tim'},
+instances: 1, word: 'Likeness', work: 'Tim'},
+instances: 1, word: 'Likewise', work: 'Tim'},
+instances: 1, word: 'Lik\'st', work: 'Tim'},
+instances: 1, word: 'Limbs', work: 'Tim'},
+instances: 1, word: 'Limited', work: 'Tim'},
+instances: 1, word: 'Limping', work: 'Tim'},
+instances: 1, word: 'Lined', work: 'Tim'},
+instances: 1, word: 'Liquid', work: 'Tim'},
+instances: 1, word: 'Liquorish', work: 'Tim'},
+instances: 1, word: 'Lived\'st', work: 'Tim'},
+instances: 1, word: 'Livelier', work: 'Tim'},
+instances: 1, word: 'Lively', work: 'Tim'},
+instances: 1, word: 'Livery', work: 'Tim'},
+instances: 1, word: 'Load', work: 'Tim'},
+instances: 1, word: 'Loaden', work: 'Tim'},
+instances: 1, word: 'Loathed', work: 'Tim'},
+instances: 1, word: 'Loathes', work: 'Tim'},
+instances: 1, word: 'Lobbies', work: 'Tim'},
+instances: 1, word: 'Lock', work: 'Tim'},
+instances: 1, word: 'Long-since-due', work: 'Tim'},
+instances: 1, word: 'Longing', work: 'Tim'},
+instances: 1, word: 'Loss', work: 'Tim'},
+instances: 1, word: 'Losses', work: 'Tim'},
+instances: 1, word: 'Lover', work: 'Tim'},
+instances: 1, word: 'Loving', work: 'Tim'},
+instances: 1, word: 'Lovèd', work: 'Tim'},
+instances: 1, word: 'Lug', work: 'Tim'},
+instances: 1, word: 'Lukewarm', work: 'Tim'},
+instances: 1, word: 'Luster', work: 'Tim'},
+instances: 1, word: 'Mad-brained', work: 'Tim'},
+instances: 1, word: 'Made-up', work: 'Tim'},
+instances: 1, word: 'Madwomen', work: 'Tim'},
+instances: 1, word: 'Magic', work: 'Tim'},
+instances: 1, word: 'Maids', work: 'Tim'},
+instances: 1, word: 'Mak\'st', work: 'Tim'},
+instances: 1, word: 'Malady', work: 'Tim'},
+instances: 1, word: 'Mangy', work: 'Tim'},
+instances: 1, word: 'Manhood', work: 'Tim'},
+instances: 1, word: 'Manifold', work: 'Tim'},
+instances: 1, word: 'Manner', work: 'Tim'},
+instances: 1, word: 'Manslaughter', work: 'Tim'},
+instances: 1, word: 'Marbled', work: 'Tim'},
+instances: 1, word: 'March', work: 'Tim'},
+instances: 1, word: 'Marriage', work: 'Tim'},
+instances: 1, word: 'Marrow', work: 'Tim'},
+instances: 1, word: 'Mars', work: 'Tim'},
+instances: 1, word: 'Marvel', work: 'Tim'},
+instances: 1, word: 'Mass', work: 'Tim'},
+instances: 1, word: 'Mast', work: 'Tim'},
+instances: 1, word: 'Matches', work: 'Tim'},
+instances: 1, word: 'Mated', work: 'Tim'},
+instances: 1, word: 'Mates', work: 'Tim'},
+instances: 1, word: 'Matron', work: 'Tim'},
+instances: 1, word: 'Matrons', work: 'Tim'},
+instances: 1, word: 'Matters', work: 'Tim'},
+instances: 1, word: 'Maws', work: 'Tim'},
+instances: 1, word: 'Meals', work: 'Tim'},
+instances: 1, word: 'Meaning', work: 'Tim'},
+instances: 1, word: 'Meantime', work: 'Tim'},
+instances: 1, word: 'Measure', work: 'Tim'},
+instances: 1, word: 'Meddlers', work: 'Tim'},
+instances: 1, word: 'Meed', work: 'Tim'},
+instances: 1, word: 'Meek', work: 'Tim'},
+instances: 1, word: 'Melted', work: 'Tim'},
+instances: 1, word: 'Memory', work: 'Tim'},
+instances: 1, word: 'Mended', work: 'Tim'},
+instances: 1, word: 'Mental', work: 'Tim'},
+instances: 1, word: 'Merits', work: 'Tim'},
+instances: 1, word: 'Merrily', work: 'Tim'},
+instances: 1, word: 'Mess', work: 'Tim'},
+instances: 1, word: 'Message', work: 'Tim'},
+instances: 1, word: 'Messenger', work: 'Tim'},
+instances: 1, word: 'Metal', work: 'Tim'},
+instances: 1, word: 'Mettle', work: 'Tim'},
+instances: 1, word: 'Middle', work: 'Tim'},
+instances: 1, word: 'Mightily', work: 'Tim'},
+instances: 1, word: 'Mighty', work: 'Tim'},
+instances: 1, word: 'Mild', work: 'Tim'},
+instances: 1, word: 'Mile', work: 'Tim'},
+instances: 1, word: 'Milk', work: 'Tim'},
+instances: 1, word: 'Milk-white', work: 'Tim'},
+instances: 1, word: 'Milky', work: 'Tim'},
+instances: 1, word: 'Mince', work: 'Tim'},
+instances: 1, word: 'Mindless', work: 'Tim'},
+instances: 1, word: 'Mind\'s', work: 'Tim'},
+instances: 1, word: 'Mine\'s', work: 'Tim'},
+instances: 1, word: 'Minion', work: 'Tim'},
+instances: 1, word: 'Minstrelsy', work: 'Tim'},
+instances: 1, word: 'Minute-jacks', work: 'Tim'},
+instances: 1, word: 'Misanthropos', work: 'Tim'},
+instances: 1, word: 'Misbegot', work: 'Tim'},
+instances: 1, word: 'Miseries', work: 'Tim'},
+instances: 1, word: 'Missing', work: 'Tim'},
+instances: 1, word: 'Mistook', work: 'Tim'},
+instances: 1, word: 'Mocking', work: 'Tim'},
+instances: 1, word: 'Moderate', work: 'Tim'},
+instances: 1, word: 'Modesty', work: 'Tim'},
+instances: 1, word: 'Moist', work: 'Tim'},
+instances: 1, word: 'Molten', work: 'Tim'},
+instances: 1, word: 'Moment', work: 'Tim'},
+instances: 1, word: 'Moneys', work: 'Tim'},
+instances: 1, word: 'Monkey', work: 'Tim'},
+instances: 1, word: 'Monster', work: 'Tim'},
+instances: 1, word: 'Monsters', work: 'Tim'},
+instances: 1, word: 'Monstrousness', work: 'Tim'},
+instances: 1, word: 'Month', work: 'Tim'},
+instances: 1, word: 'Months', work: 'Tim'},
+instances: 1, word: 'Monument', work: 'Tim'},
+instances: 1, word: 'Mood', work: 'Tim'},
+instances: 1, word: 'Moon\'s', work: 'Tim'},
+instances: 1, word: 'Moral', work: 'Tim'},
+instances: 1, word: 'Morsels', work: 'Tim'},
+instances: 1, word: 'Mother', work: 'Tim'},
+instances: 1, word: 'Mothers', work: 'Tim'},
+instances: 1, word: 'Mother\'s', work: 'Tim'},
+instances: 1, word: 'Motives', work: 'Tim'},
+instances: 1, word: 'Mountain\'s', work: 'Tim'},
+instances: 1, word: 'Mountant', work: 'Tim'},
+instances: 1, word: 'Mouth-friends', work: 'Tim'},
+instances: 1, word: 'Mouths', work: 'Tim'},
+instances: 1, word: 'Move', work: 'Tim'},
+instances: 1, word: 'Muffled', work: 'Tim'},
+instances: 1, word: 'Multiplying', work: 'Tim'},
+instances: 1, word: 'Mutter', work: 'Tim'},
+instances: 1, word: 'Mysteries', work: 'Tim'},
+instances: 1, word: 'Mystery', work: 'Tim'},
+instances: 1, word: 'Nakedness', work: 'Tim'},
+instances: 1, word: 'Named', work: 'Tim'},
+instances: 1, word: 'Nations', work: 'Tim'},
+instances: 1, word: 'Native', work: 'Tim'},
+instances: 1, word: 'Nature\'s', work: 'Tim'},
+instances: 1, word: 'Naught', work: 'Tim'},
+instances: 1, word: 'Necessary', work: 'Tim'},
+instances: 1, word: 'Necessities', work: 'Tim'},
+instances: 1, word: 'Neck', work: 'Tim'},
+instances: 1, word: 'Needless', work: 'Tim'},
+instances: 1, word: 'Neighbor', work: 'Tim'},
+instances: 1, word: 'Neighborhood', work: 'Tim'},
+instances: 1, word: 'Neptune', work: 'Tim'},
+instances: 1, word: 'Newt', work: 'Tim'},
+instances: 1, word: 'Niggard', work: 'Tim'},
+instances: 1, word: 'Nights', work: 'Tim'},
+instances: 1, word: 'Nobleness', work: 'Tim'},
+instances: 1, word: 'Nobles', work: 'Tim'},
+instances: 1, word: 'Nobly', work: 'Tim'},
+instances: 1, word: 'Nod', work: 'Tim'},
+instances: 1, word: 'Nods', work: 'Tim'},
+instances: 1, word: 'Noised', work: 'Tim'},
+instances: 1, word: 'Nose', work: 'Tim'},
+instances: 1, word: 'Noted', work: 'Tim'},
+instances: 1, word: 'Notes', work: 'Tim'},
+instances: 1, word: 'Notwithstanding', work: 'Tim'},
+instances: 1, word: 'Nought', work: 'Tim'},
+instances: 1, word: 'Nourished', work: 'Tim'},
+instances: 1, word: 'Now\'s', work: 'Tim'},
+instances: 1, word: 'Numberless', work: 'Tim'},
+instances: 1, word: 'Nutriment', work: 'Tim'},
+instances: 1, word: 'Oak', work: 'Tim'},
+instances: 1, word: 'Oaks', work: 'Tim'},
+instances: 1, word: 'Oath', work: 'Tim'},
+instances: 1, word: 'Oathable', work: 'Tim'},
+instances: 1, word: 'Oaths', work: 'Tim'},
+instances: 1, word: 'Obedience', work: 'Tim'},
+instances: 1, word: 'Obedient', work: 'Tim'},
+instances: 1, word: 'Obey', work: 'Tim'},
+instances: 1, word: 'Objects', work: 'Tim'},
+instances: 1, word: 'Obliquy', work: 'Tim'},
+instances: 1, word: 'Observances', work: 'Tim'},
+instances: 1, word: 'Observed', work: 'Tim'},
+instances: 1, word: 'Offense', work: 'Tim'},
+instances: 1, word: 'Offer', work: 'Tim'},
+instances: 1, word: 'Offered', work: 'Tim'},
+instances: 1, word: 'Offering', work: 'Tim'},
+instances: 1, word: 'Offices', work: 'Tim'},
+instances: 1, word: 'Oft', work: 'Tim'},
+instances: 1, word: 'Oil', work: 'Tim'},
+instances: 1, word: 'Olive', work: 'Tim'},
+instances: 1, word: 'Omit\'st', work: 'Tim'},
+instances: 1, word: 'Ones', work: 'Tim'},
+instances: 1, word: 'Oozes', work: 'Tim'},
+instances: 1, word: 'Ope', work: 'Tim'},
+instances: 1, word: 'Opens', work: 'Tim'},
+instances: 1, word: 'Operant', work: 'Tim'},
+instances: 1, word: 'Opinion', work: 'Tim'},
+instances: 1, word: 'Oppose', work: 'Tim'},
+instances: 1, word: 'Opposite', work: 'Tim'},
+instances: 1, word: 'Oppressed', work: 'Tim'},
+instances: 1, word: 'Oppressing', work: 'Tim'},
+instances: 1, word: 'Opulency', work: 'Tim'},
+instances: 1, word: 'Orb', work: 'Tim'},
+instances: 1, word: 'Ort', work: 'Tim'},
+instances: 1, word: 'Others\'', work: 'Tim'},
+instances: 1, word: 'Out-stretched', work: 'Tim'},
+instances: 1, word: 'Outgoes', work: 'Tim'},
+instances: 1, word: 'Outlived', work: 'Tim'},
+instances: 1, word: 'Outlives', work: 'Tim'},
+instances: 1, word: 'Outrages', work: 'Tim'},
+instances: 1, word: 'Outrunn\'st', work: 'Tim'},
+instances: 1, word: 'Outside', work: 'Tim'},
+instances: 1, word: 'Outsides', work: 'Tim'},
+instances: 1, word: 'Overcome', work: 'Tim'},
+instances: 1, word: 'Owed', work: 'Tim'},
+instances: 1, word: 'Owners', work: 'Tim'},
+instances: 1, word: 'O\'ernight\'s', work: 'Tim'},
+instances: 1, word: 'Pack', work: 'Tim'},
+instances: 1, word: 'Pain', work: 'Tim'},
+instances: 1, word: 'Painfully', work: 'Tim'},
+instances: 1, word: 'Paintings', work: 'Tim'},
+instances: 1, word: 'Palate', work: 'Tim'},
+instances: 1, word: 'Pale', work: 'Tim'},
+instances: 1, word: 'Palm', work: 'Tim'},
+instances: 1, word: 'Pangs', work: 'Tim'},
+instances: 1, word: 'Pant', work: 'Tim'},
+instances: 1, word: 'Paper', work: 'Tim'},
+instances: 1, word: 'Paps', work: 'Tim'},
+instances: 1, word: 'Paradox', work: 'Tim'},
+instances: 1, word: 'Parasites', work: 'Tim'},
+instances: 1, word: 'Parents\'', work: 'Tim'},
+instances: 1, word: 'Particularly', work: 'Tim'},
+instances: 1, word: 'Parting', work: 'Tim'},
+instances: 1, word: 'Passage', work: 'Tim'},
+instances: 1, word: 'Passed', work: 'Tim'},
+instances: 1, word: 'Passes', work: 'Tim'},
+instances: 1, word: 'Passions', work: 'Tim'},
+instances: 1, word: 'Passive', work: 'Tim'},
+instances: 1, word: 'Pasture', work: 'Tim'},
+instances: 1, word: 'Patchery', work: 'Tim'},
+instances: 1, word: 'Pate', work: 'Tim'},
+instances: 1, word: 'Patron', work: 'Tim'},
+instances: 1, word: 'Peasants', work: 'Tim'},
+instances: 1, word: 'Pelf', work: 'Tim'},
+instances: 1, word: 'Penciled', work: 'Tim'},
+instances: 1, word: 'Penurious', work: 'Tim'},
+instances: 1, word: 'Peradventure', work: 'Tim'},
+instances: 1, word: 'Perchance', work: 'Tim'},
+instances: 1, word: 'Perfect', work: 'Tim'},
+instances: 1, word: 'Perfection', work: 'Tim'},
+instances: 1, word: 'Perfume', work: 'Tim'},
+instances: 1, word: 'Perfumes', work: 'Tim'},
+instances: 1, word: 'Peril', work: 'Tim'},
+instances: 1, word: 'Periods', work: 'Tim'},
+instances: 1, word: 'Perpetual-sober', work: 'Tim'},
+instances: 1, word: 'Personate', work: 'Tim'},
+instances: 1, word: 'Personating', work: 'Tim'},
+instances: 1, word: 'Persuading', work: 'Tim'},
+instances: 1, word: 'Persuasion', work: 'Tim'},
+instances: 1, word: 'Philotus\'', work: 'Tim'},
+instances: 1, word: 'Phoenix', work: 'Tim'},
+instances: 1, word: 'Phrynia', work: 'Tim'},
+instances: 1, word: 'Physic', work: 'Tim'},
+instances: 1, word: 'Physician', work: 'Tim'},
+instances: 1, word: 'Physicians', work: 'Tim'},
+instances: 1, word: 'Picked', work: 'Tim'},
+instances: 1, word: 'Pierce', work: 'Tim'},
+instances: 1, word: 'Piety', work: 'Tim'},
+instances: 1, word: 'Pill', work: 'Tim'},
+instances: 1, word: 'Pillows', work: 'Tim'},
+instances: 1, word: 'Pious', work: 'Tim'},
+instances: 1, word: 'Pitched', work: 'Tim'},
+instances: 1, word: 'Pitifully', work: 'Tim'},
+instances: 1, word: 'Pity\'s', work: 'Tim'},
+instances: 1, word: 'Placed', work: 'Tim'},
+instances: 1, word: 'Places', work: 'Tim'},
+instances: 1, word: 'Plain-dealing', work: 'Tim'},
+instances: 1, word: 'Plainer', work: 'Tim'},
+instances: 1, word: 'Planetary', work: 'Tim'},
+instances: 1, word: 'Plate', work: 'Tim'},
+instances: 1, word: 'Plays', work: 'Tim'},
+instances: 1, word: 'Plead', work: 'Tim'},
+instances: 1, word: 'Pleasant', work: 'Tim'},
+instances: 1, word: 'Pleases', work: 'Tim'},
+instances: 1, word: 'Pledges', work: 'Tim'},
+instances: 1, word: 'Plenty', work: 'Tim'},
+instances: 1, word: 'Plow-torn', work: 'Tim'},
+instances: 1, word: 'Plow\'st', work: 'Tim'},
+instances: 1, word: 'Plunge', work: 'Tim'},
+instances: 1, word: 'Plunged', work: 'Tim'},
+instances: 1, word: 'Plutus', work: 'Tim'},
+instances: 1, word: 'Poesy', work: 'Tim'},
+instances: 1, word: 'Point', work: 'Tim'},
+instances: 1, word: 'Points', work: 'Tim'},
+instances: 1, word: 'Point\'st', work: 'Tim'},
+instances: 1, word: 'Poisonous', work: 'Tim'},
+instances: 1, word: 'Policy', work: 'Tim'},
+instances: 1, word: 'Pomps', work: 'Tim'},
+instances: 1, word: 'Poorer', work: 'Tim'},
+instances: 1, word: 'Porter', work: 'Tim'},
+instances: 1, word: 'Ports', work: 'Tim'},
+instances: 1, word: 'Possible', work: 'Tim'},
+instances: 1, word: 'Potent', work: 'Tim'},
+instances: 1, word: 'Poverty', work: 'Tim'},
+instances: 1, word: 'Powers', work: 'Tim'},
+instances: 1, word: 'Pox', work: 'Tim'},
+instances: 1, word: 'Prayed', work: 'Tim'},
+instances: 1, word: 'Precedent', work: 'Tim'},
+instances: 1, word: 'Precepts', work: 'Tim'},
+instances: 1, word: 'Predominate', work: 'Tim'},
+instances: 1, word: 'Prefer', work: 'Tim'},
+instances: 1, word: 'Preferred', work: 'Tim'},
+instances: 1, word: 'Pregnantly', work: 'Tim'},
+instances: 1, word: 'Prescribe', work: 'Tim'},
+instances: 1, word: 'Presentment', work: 'Tim'},
+instances: 1, word: 'Presents', work: 'Tim'},
+instances: 1, word: 'Preserve', work: 'Tim'},
+instances: 1, word: 'Prevent', work: 'Tim'},
+instances: 1, word: 'Prison', work: 'Tim'},
+instances: 1, word: 'Prisoner', work: 'Tim'},
+instances: 1, word: 'Prisons', work: 'Tim'},
+instances: 1, word: 'Private', work: 'Tim'},
+instances: 1, word: 'Prize', work: 'Tim'},
+instances: 1, word: 'Prizèd', work: 'Tim'},
+instances: 1, word: 'Proceeded', work: 'Tim'},
+instances: 1, word: 'Proclaim', work: 'Tim'},
+instances: 1, word: 'Procreation', work: 'Tim'},
+instances: 1, word: 'Professed', work: 'Tim'},
+instances: 1, word: 'Profession', work: 'Tim'},
+instances: 1, word: 'Professions', work: 'Tim'},
+instances: 1, word: 'Profit', work: 'Tim'},
+instances: 1, word: 'Profitably', work: 'Tim'},
+instances: 1, word: 'Prolong', work: 'Tim'},
+instances: 1, word: 'Promised', work: 'Tim'},
+instances: 1, word: 'Promising', work: 'Tim'},
+instances: 1, word: 'Prompt', work: 'Tim'},
+instances: 1, word: 'Prompted', work: 'Tim'},
+instances: 1, word: 'Pronounced', work: 'Tim'},
+instances: 1, word: 'Propagate', work: 'Tim'},
+instances: 1, word: 'Properer', work: 'Tim'},
+instances: 1, word: 'Properties', work: 'Tim'},
+instances: 1, word: 'Proposed', work: 'Tim'},
+instances: 1, word: 'Prosperous', work: 'Tim'},
+instances: 1, word: 'Protection', work: 'Tim'},
+instances: 1, word: 'Provision', work: 'Tim'},
+instances: 1, word: 'Provokes', work: 'Tim'},
+instances: 1, word: 'Puffed', work: 'Tim'},
+instances: 1, word: 'Purest', work: 'Tim'},
+instances: 1, word: 'Purity', work: 'Tim'},
+instances: 1, word: 'Purposes', work: 'Tim'},
+instances: 1, word: 'Purses', work: 'Tim'},
+instances: 1, word: 'Pursy', work: 'Tim'},
+instances: 1, word: 'Push', work: 'Tim'},
+instances: 1, word: 'Putting', work: 'Tim'},
+instances: 1, word: 'Qualities', work: 'Tim'},
+instances: 1, word: 'Quarreling', work: 'Tim'},
+instances: 1, word: 'Quarter', work: 'Tim'},
+instances: 1, word: 'Quell', work: 'Tim'},
+instances: 1, word: 'Question', work: 'Tim'},
+instances: 1, word: 'Quickly', work: 'Tim'},
+instances: 1, word: 'Quick\'ning', work: 'Tim'},
+instances: 1, word: 'Quillets', work: 'Tim'},
+instances: 1, word: 'Quit', work: 'Tim'},
+instances: 1, word: 'Quittance', work: 'Tim'},
+instances: 1, word: 'Race', work: 'Tim'},
+instances: 1, word: 'Rag', work: 'Tim'},
+instances: 1, word: 'Rages', work: 'Tim'},
+instances: 1, word: 'Raging', work: 'Tim'},
+instances: 1, word: 'Rags', work: 'Tim'},
+instances: 1, word: 'Raiment', work: 'Tim'},
+instances: 1, word: 'Rain', work: 'Tim'},
+instances: 1, word: 'Raise', work: 'Tim'},
+instances: 1, word: 'Raised', work: 'Tim'},
+instances: 1, word: 'Rampired', work: 'Tim'},
+instances: 1, word: 'Ranked', work: 'Tim'},
+instances: 1, word: 'Ranks', work: 'Tim'},
+instances: 1, word: 'Ransom', work: 'Tim'},
+instances: 1, word: 'Rarely', work: 'Tim'},
+instances: 1, word: 'Rarity', work: 'Tim'},
+instances: 1, word: 'Reach', work: 'Tim'},
+instances: 1, word: 'Readiest', work: 'Tim'},
+instances: 1, word: 'Readiness', work: 'Tim'},
+instances: 1, word: 'Realms', work: 'Tim'},
+instances: 1, word: 'Rebels', work: 'Tim'},
+instances: 1, word: 'Recanter', work: 'Tim'},
+instances: 1, word: 'Recanting', work: 'Tim'},
+instances: 1, word: 'Receives', work: 'Tim'},
+instances: 1, word: 'Reckon', work: 'Tim'},
+instances: 1, word: 'Reck\'ning', work: 'Tim'},
+instances: 1, word: 'Record', work: 'Tim'},
+instances: 1, word: 'Recorded', work: 'Tim'},
+instances: 1, word: 'Recoverable', work: 'Tim'},
+instances: 1, word: 'Redeemed', work: 'Tim'},
+instances: 1, word: 'Redeem\'st', work: 'Tim'},
+instances: 1, word: 'Redress', work: 'Tim'},
+instances: 1, word: 'Reeking', work: 'Tim'},
+instances: 1, word: 'Refuge', work: 'Tim'},
+instances: 1, word: 'Regard', work: 'Tim'},
+instances: 1, word: 'Regardfully', work: 'Tim'},
+instances: 1, word: 'Regular', work: 'Tim'},
+instances: 1, word: 'Reign', work: 'Tim'},
+instances: 1, word: 'Rejoices', work: 'Tim'},
+instances: 1, word: 'Reliances', work: 'Tim'},
+instances: 1, word: 'Relief', work: 'Tim'},
+instances: 1, word: 'Relieve', work: 'Tim'},
+instances: 1, word: 'Religions', work: 'Tim'},
+instances: 1, word: 'Religious', work: 'Tim'},
+instances: 1, word: 'Remainder', work: 'Tim'},
+instances: 1, word: 'Remaining', work: 'Tim'},
+instances: 1, word: 'Remedied', work: 'Tim'},
+instances: 1, word: 'Remembered', work: 'Tim'},
+instances: 1, word: 'Remembrance', work: 'Tim'},
+instances: 1, word: 'Remembrances', work: 'Tim'},
+instances: 1, word: 'Remorse', work: 'Tim'},
+instances: 1, word: 'Remotion', work: 'Tim'},
+instances: 1, word: 'Renew', work: 'Tim'},
+instances: 1, word: 'Repays', work: 'Tim'},
+instances: 1, word: 'Repent', work: 'Tim'},
+instances: 1, word: 'Reply', work: 'Tim'},
+instances: 1, word: 'Reports', work: 'Tim'},
+instances: 1, word: 'Reproof', work: 'Tim'},
+instances: 1, word: 'Repugnancy', work: 'Tim'},
+instances: 1, word: 'Reputation', work: 'Tim'},
+instances: 1, word: 'Request', work: 'Tim'},
+instances: 1, word: 'Requesting', work: 'Tim'},
+instances: 1, word: 'Requests', work: 'Tim'},
+instances: 1, word: 'Require', work: 'Tim'},
+instances: 1, word: 'Requires', work: 'Tim'},
+instances: 1, word: 'Resemble', work: 'Tim'},
+instances: 1, word: 'Reside', work: 'Tim'},
+instances: 1, word: 'Residence', work: 'Tim'},
+instances: 1, word: 'Resolves', work: 'Tim'},
+instances: 1, word: 'Resort', work: 'Tim'},
+instances: 1, word: 'Respectively', work: 'Tim'},
+instances: 1, word: 'Restraining', work: 'Tim'},
+instances: 1, word: 'Resumes', work: 'Tim'},
+instances: 1, word: 'Retentive', work: 'Tim'},
+instances: 1, word: 'Revenges', work: 'Tim'},
+instances: 1, word: 'Reverence', work: 'Tim'},
+instances: 1, word: 'Reverend\'st', work: 'Tim'},
+instances: 1, word: 'Revolt', work: 'Tim'},
+instances: 1, word: 'Rewards', work: 'Tim'},
+instances: 1, word: 'Richer', work: 'Tim'},
+instances: 1, word: 'Riding', work: 'Tim'},
+instances: 1, word: 'Rigg\'st', work: 'Tim'},
+instances: 1, word: 'Righteous', work: 'Tim'},
+instances: 1, word: 'Rioter', work: 'Tim'},
+instances: 1, word: 'Riotous', work: 'Tim'},
+instances: 1, word: 'Ripe', work: 'Tim'},
+instances: 1, word: 'Rise', work: 'Tim'},
+instances: 1, word: 'Rivals', work: 'Tim'},
+instances: 1, word: 'Robbers', work: 'Tim'},
+instances: 1, word: 'Robs', work: 'Tim'},
+instances: 1, word: 'Rod', work: 'Tim'},
+instances: 1, word: 'Rode', work: 'Tim'},
+instances: 1, word: 'Rogues', work: 'Tim'},
+instances: 1, word: 'Roofs', work: 'Tim'},
+instances: 1, word: 'Room', work: 'Tim'},
+instances: 1, word: 'Rose-cheeked', work: 'Tim'},
+instances: 1, word: 'Rotten', work: 'Tim'},
+instances: 1, word: 'Rout', work: 'Tim'},
+instances: 1, word: 'Ruffians', work: 'Tim'},
+instances: 1, word: 'Ruined', work: 'Tim'},
+instances: 1, word: 'Ruinous', work: 'Tim'},
+instances: 1, word: 'Rumor', work: 'Tim'},
+instances: 1, word: 'Rumors', work: 'Tim'},
+instances: 1, word: 'Sack', work: 'Tim'},
+instances: 1, word: 'Sacred', work: 'Tim'},
+instances: 1, word: 'Sacrificial', work: 'Tim'},
+instances: 1, word: 'Sad', work: 'Tim'},
+instances: 1, word: 'Safer', work: 'Tim'},
+instances: 1, word: 'Saints', work: 'Tim'},
+instances: 1, word: 'Sans', work: 'Tim'},
+instances: 1, word: 'Satiety', work: 'Tim'},
+instances: 1, word: 'Satire', work: 'Tim'},
+instances: 1, word: 'Savage', work: 'Tim'},
+instances: 1, word: 'Saved', work: 'Tim'},
+instances: 1, word: 'Saw', work: 'Tim'},
+instances: 1, word: 'Saying', work: 'Tim'},
+instances: 1, word: 'Says', work: 'Tim'},
+instances: 1, word: 'Scarcity', work: 'Tim'},
+instances: 1, word: 'Scarlet', work: 'Tim'},
+instances: 1, word: 'Schools', work: 'Tim'},
+instances: 1, word: 'Sciatica', work: 'Tim'},
+instances: 1, word: 'Scolds', work: 'Tim'},
+instances: 1, word: 'Score', work: 'Tim'},
+instances: 1, word: 'Scorn', work: 'Tim'},
+instances: 1, word: 'Scorned\'st', work: 'Tim'},
+instances: 1, word: 'Scorns', work: 'Tim'},
+instances: 1, word: 'Scouring', work: 'Tim'},
+instances: 1, word: 'Sealed', work: 'Tim'},
+instances: 1, word: 'Seat', work: 'Tim'},
+instances: 1, word: 'Sea\'s', work: 'Tim'},
+instances: 1, word: 'Second', work: 'Tim'},
+instances: 1, word: 'Sects', work: 'Tim'},
+instances: 1, word: 'Secure', work: 'Tim'},
+instances: 1, word: 'Seeing', work: 'Tim'},
+instances: 1, word: 'Seems', work: 'Tim'},
+instances: 1, word: 'Sees', work: 'Tim'},
+instances: 1, word: 'Seest', work: 'Tim'},
+instances: 1, word: 'Seethe', work: 'Tim'},
+instances: 1, word: 'Seized', work: 'Tim'},
+instances: 1, word: 'Selfsame', work: 'Tim'},
+instances: 1, word: 'Semblable', work: 'Tim'},
+instances: 1, word: 'Sends', work: 'Tim'},
+instances: 1, word: 'Senseless', work: 'Tim'},
+instances: 1, word: 'Senses', work: 'Tim'},
+instances: 1, word: 'Sequence', work: 'Tim'},
+instances: 1, word: 'Serious', work: 'Tim'},
+instances: 1, word: 'Seriously', work: 'Tim'},
+instances: 1, word: 'Sermon', work: 'Tim'},
+instances: 1, word: 'Services', work: 'Tim'},
+instances: 1, word: 'Settlest', work: 'Tim'},
+instances: 1, word: 'Seven', work: 'Tim'},
+instances: 1, word: 'Sevenfold', work: 'Tim'},
+instances: 1, word: 'Severally', work: 'Tim'},
+instances: 1, word: 'Shakes', work: 'Tim'},
+instances: 1, word: 'Shape', work: 'Tim'},
+instances: 1, word: 'Shaped', work: 'Tim'},
+instances: 1, word: 'Sharp', work: 'Tim'},
+instances: 1, word: 'She-beggar', work: 'Tim'},
+instances: 1, word: 'Shepherd', work: 'Tim'},
+instances: 1, word: 'She\'s', work: 'Tim'},
+instances: 1, word: 'Shift', work: 'Tim'},
+instances: 1, word: 'Shins', work: 'Tim'},
+instances: 1, word: 'Shirt', work: 'Tim'},
+instances: 1, word: 'Shook', work: 'Tim'},
+instances: 1, word: 'Shoots', work: 'Tim'},
+instances: 1, word: 'Shops', work: 'Tim'},
+instances: 1, word: 'Short', work: 'Tim'},
+instances: 1, word: 'Shorter', work: 'Tim'},
+instances: 1, word: 'Shower', work: 'Tim'},
+instances: 1, word: 'Showers', work: 'Tim'},
+instances: 1, word: 'Showing', work: 'Tim'},
+instances: 1, word: 'Shrilly', work: 'Tim'},
+instances: 1, word: 'Shrinks', work: 'Tim'},
+instances: 1, word: 'Shrunk', work: 'Tim'},
+instances: 1, word: 'Shudders', work: 'Tim'},
+instances: 1, word: 'Siege', work: 'Tim'},
+instances: 1, word: 'Sights', work: 'Tim'},
+instances: 1, word: 'Signet', work: 'Tim'},
+instances: 1, word: 'Silence', work: 'Tim'},
+instances: 1, word: 'Silenced', work: 'Tim'},
+instances: 1, word: 'Silent', work: 'Tim'},
+instances: 1, word: 'Silk', work: 'Tim'},
+instances: 1, word: 'Simpler', work: 'Tim'},
+instances: 1, word: 'Singly', work: 'Tim'},
+instances: 1, word: 'Sings', work: 'Tim'},
+instances: 1, word: 'Sinner', work: 'Tim'},
+instances: 1, word: 'Sins', work: 'Tim'},
+instances: 1, word: 'Sin\'s', work: 'Tim'},
+instances: 1, word: 'Sirrah', work: 'Tim'},
+instances: 1, word: 'Sister\'s', work: 'Tim'},
+instances: 1, word: 'Sixteen', work: 'Tim'},
+instances: 1, word: 'Size', work: 'Tim'},
+instances: 1, word: 'Skill', work: 'Tim'},
+instances: 1, word: 'Slain', work: 'Tim'},
+instances: 1, word: 'Slavelike', work: 'Tim'},
+instances: 1, word: 'Slays', work: 'Tim'},
+instances: 1, word: 'Sleep', work: 'Tim'},
+instances: 1, word: 'Sleeping', work: 'Tim'},
+instances: 1, word: 'Sleeps', work: 'Tim'},
+instances: 1, word: 'Slender', work: 'Tim'},
+instances: 1, word: 'Slept', work: 'Tim'},
+instances: 1, word: 'Slide', work: 'Tim'},
+instances: 1, word: 'Slink', work: 'Tim'},
+instances: 1, word: 'Slip', work: 'Tim'},
+instances: 1, word: 'Slipped', work: 'Tim'},
+instances: 1, word: 'Slipp\'ry', work: 'Tim'},
+instances: 1, word: 'Slips', work: 'Tim'},
+instances: 1, word: 'Sluts', work: 'Tim'},
+instances: 1, word: 'Smells', work: 'Tim'},
+instances: 1, word: 'Smiling', work: 'Tim'},
+instances: 1, word: 'Smit', work: 'Tim'},
+instances: 1, word: 'Smoothed', work: 'Tim'},
+instances: 1, word: 'Snare', work: 'Tim'},
+instances: 1, word: 'Snatches', work: 'Tim'},
+instances: 1, word: 'Snow', work: 'Tim'},
+instances: 1, word: 'So-so', work: 'Tim'},
+instances: 1, word: 'Sober', work: 'Tim'},
+instances: 1, word: 'Societies', work: 'Tim'},
+instances: 1, word: 'Softness', work: 'Tim'},
+instances: 1, word: 'Soil', work: 'Tim'},
+instances: 1, word: 'Sold', work: 'Tim'},
+instances: 1, word: 'Soldier', work: 'Tim'},
+instances: 1, word: 'Sold\'rest', work: 'Tim'},
+instances: 1, word: 'Solidares', work: 'Tim'},
+instances: 1, word: 'Sorrowed', work: 'Tim'},
+instances: 1, word: 'Sorts', work: 'Tim'},
+instances: 1, word: 'Sounds', work: 'Tim'},
+instances: 1, word: 'Sour', work: 'Tim'},
+instances: 1, word: 'Source', work: 'Tim'},
+instances: 1, word: 'Sovereign', work: 'Tim'},
+instances: 1, word: 'Spacious', work: 'Tim'},
+instances: 1, word: 'Spade', work: 'Tim'},
+instances: 1, word: 'Span', work: 'Tim'},
+instances: 1, word: 'Spangled', work: 'Tim'},
+instances: 1, word: 'Special', work: 'Tim'},
+instances: 1, word: 'Speed', work: 'Tim'},
+instances: 1, word: 'Speedy', work: 'Tim'},
+instances: 1, word: 'Sphere', work: 'Tim'},
+instances: 1, word: 'Spices', work: 'Tim'},
+instances: 1, word: 'Spills', work: 'Tim'},
+instances: 1, word: 'Spilth', work: 'Tim'},
+instances: 1, word: 'Spit', work: 'Tim'},
+instances: 1, word: 'Spital', work: 'Tim'},
+instances: 1, word: 'Spleen', work: 'Tim'},
+instances: 1, word: 'Spoken', work: 'Tim'},
+instances: 1, word: 'Spok\'st', work: 'Tim'},
+instances: 1, word: 'Spots', work: 'Tim'},
+instances: 1, word: 'Spread', work: 'Tim'},
+instances: 1, word: 'Springs', work: 'Tim'},
+instances: 1, word: 'Sprinkle', work: 'Tim'},
+instances: 1, word: 'Sprinkles', work: 'Tim'},
+instances: 1, word: 'Spur', work: 'Tim'},
+instances: 1, word: 'Spurns', work: 'Tim'},
+instances: 1, word: 'Spurring', work: 'Tim'},
+instances: 1, word: 'Spy', work: 'Tim'},
+instances: 1, word: 'Square', work: 'Tim'},
+instances: 1, word: 'Stab', work: 'Tim'},
+instances: 1, word: 'Stain', work: 'Tim'},
+instances: 1, word: 'Stains', work: 'Tim'},
+instances: 1, word: 'Stamp', work: 'Tim'},
+instances: 1, word: 'Standing', work: 'Tim'},
+instances: 1, word: 'Stand\'st', work: 'Tim'},
+instances: 1, word: 'Starlike', work: 'Tim'},
+instances: 1, word: 'Starve', work: 'Tim'},
+instances: 1, word: 'State\'s', work: 'Tim'},
+instances: 1, word: 'Steads', work: 'Tim'},
+instances: 1, word: 'Stealth', work: 'Tim'},
+instances: 1, word: 'Steepy', work: 'Tim'},
+instances: 1, word: 'Sticks', work: 'Tim'},
+instances: 1, word: 'Stint', work: 'Tim'},
+instances: 1, word: 'Stir', work: 'Tim'},
+instances: 1, word: 'Stirrup', work: 'Tim'},
+instances: 1, word: 'Stol\'n', work: 'Tim'},
+instances: 1, word: 'Stomach', work: 'Tim'},
+instances: 1, word: 'Stone', work: 'Tim'},
+instances: 1, word: 'Stool', work: 'Tim'},
+instances: 1, word: 'Storm', work: 'Tim'},
+instances: 1, word: 'Stout', work: 'Tim'},
+instances: 1, word: 'Straggling', work: 'Tim'},
+instances: 1, word: 'Straight', work: 'Tim'},
+instances: 1, word: 'Strait', work: 'Tim'},
+instances: 1, word: 'Strangers', work: 'Tim'},
+instances: 1, word: 'Strides', work: 'Tim'},
+instances: 1, word: 'Strife', work: 'Tim'},
+instances: 1, word: 'Strive', work: 'Tim'},
+instances: 1, word: 'Strives', work: 'Tim'},
+instances: 1, word: 'Striving', work: 'Tim'},
+instances: 1, word: 'Strokes', work: 'Tim'},
+instances: 1, word: 'Struck', work: 'Tim'},
+instances: 1, word: 'Subdues', work: 'Tim'},
+instances: 1, word: 'Succession', work: 'Tim'},
+instances: 1, word: 'Suchlike', work: 'Tim'},
+instances: 1, word: 'Suck', work: 'Tim'},
+instances: 1, word: 'Sue', work: 'Tim'},
+instances: 1, word: 'Suffer', work: 'Tim'},
+instances: 1, word: 'Suffered', work: 'Tim'},
+instances: 1, word: 'Suffering', work: 'Tim'},
+instances: 1, word: 'Sufficient', work: 'Tim'},
+instances: 1, word: 'Sugared', work: 'Tim'},
+instances: 1, word: 'Suit', work: 'Tim'},
+instances: 1, word: 'Suitable', work: 'Tim'},
+instances: 1, word: 'Suitor', work: 'Tim'},
+instances: 1, word: 'Sullen', work: 'Tim'},
+instances: 1, word: 'Suns', work: 'Tim'},
+instances: 1, word: 'Superscription', work: 'Tim'},
+instances: 1, word: 'Supper', work: 'Tim'},
+instances: 1, word: 'Supple', work: 'Tim'},
+instances: 1, word: 'Support', work: 'Tim'},
+instances: 1, word: 'Supported', work: 'Tim'},
+instances: 1, word: 'Suppose', work: 'Tim'},
+instances: 1, word: 'Supposed', work: 'Tim'},
+instances: 1, word: 'Surfeit', work: 'Tim'},
+instances: 1, word: 'Surges', work: 'Tim'},
+instances: 1, word: 'Surprise', work: 'Tim'},
+instances: 1, word: 'Sustain', work: 'Tim'},
+instances: 1, word: 'Swathe', work: 'Tim'},
+instances: 1, word: 'Sways', work: 'Tim'},
+instances: 1, word: 'Sweat', work: 'Tim'},
+instances: 1, word: 'Sweep', work: 'Tim'},
+instances: 1, word: 'Sweetly', work: 'Tim'},
+instances: 1, word: 'Swell', work: 'Tim'},
+instances: 1, word: 'Swells', work: 'Tim'},
+instances: 1, word: 'Swift', work: 'Tim'},
+instances: 1, word: 'Swine', work: 'Tim'},
+instances: 1, word: 'Swoon', work: 'Tim'},
+instances: 1, word: 'Tag', work: 'Tim'},
+instances: 1, word: 'Taking', work: 'Tim'},
+instances: 1, word: 'Talk', work: 'Tim'},
+instances: 1, word: 'Talk\'st', work: 'Tim'},
+instances: 1, word: 'Tapsters', work: 'Tim'},
+instances: 1, word: 'Taught', work: 'Tim'},
+instances: 1, word: 'Teach', work: 'Tim'},
+instances: 1, word: 'Tear', work: 'Tim'},
+instances: 1, word: 'Tedious', work: 'Tim'},
+instances: 1, word: 'Teem', work: 'Tim'},
+instances: 1, word: 'Teems', work: 'Tim'},
+instances: 1, word: 'Temper', work: 'Tim'},
+instances: 1, word: 'Temple', work: 'Tim'},
+instances: 1, word: 'Tenth', work: 'Tim'},
+instances: 1, word: 'Terrible', work: 'Tim'},
+instances: 1, word: 'Terribly', work: 'Tim'},
+instances: 1, word: 'Testament', work: 'Tim'},
+instances: 1, word: 'Thanked', work: 'Tim'},
+instances: 1, word: 'Thankfulness', work: 'Tim'},
+instances: 1, word: 'Thankless', work: 'Tim'},
+instances: 1, word: 'Thatch', work: 'Tim'},
+instances: 1, word: 'Thaw', work: 'Tim'},
+instances: 1, word: 'Therefor', work: 'Tim'},
+instances: 1, word: 'Therein', work: 'Tim'},
+instances: 1, word: 'They\'re', work: 'Tim'},
+instances: 1, word: 'Thievery', work: 'Tim'},
+instances: 1, word: 'Thin', work: 'Tim'},
+instances: 1, word: 'Thing\'s', work: 'Tim'},
+instances: 1, word: 'Thinks', work: 'Tim'},
+instances: 1, word: 'Thirteen', work: 'Tim'},
+instances: 1, word: 'Thorough', work: 'Tim'},
+instances: 1, word: 'Thousands', work: 'Tim'},
+instances: 1, word: 'Threat', work: 'Tim'},
+instances: 1, word: 'Threats', work: 'Tim'},
+instances: 1, word: 'Threat\'ning', work: 'Tim'},
+instances: 1, word: 'Thrice', work: 'Tim'},
+instances: 1, word: 'Thrift', work: 'Tim'},
+instances: 1, word: 'Throes', work: 'Tim'},
+instances: 1, word: 'Throne', work: 'Tim'},
+instances: 1, word: 'Throned', work: 'Tim'},
+instances: 1, word: 'Throngs', work: 'Tim'},
+instances: 1, word: 'Throughout', work: 'Tim'},
+instances: 1, word: 'Thrown', work: 'Tim'},
+instances: 1, word: 'Thrust', work: 'Tim'},
+instances: 1, word: 'Tide', work: 'Tim'},
+instances: 1, word: 'Tides', work: 'Tim'},
+instances: 1, word: 'Tigers', work: 'Tim'},
+instances: 1, word: 'Tiring', work: 'Tim'},
+instances: 1, word: 'Tithèd', work: 'Tim'},
+instances: 1, word: 'Today', work: 'Tim'},
+instances: 1, word: 'Token', work: 'Tim'},
+instances: 1, word: 'Tomb', work: 'Tim'},
+instances: 1, word: 'Tongues', work: 'Tim'},
+instances: 1, word: 'Tonight', work: 'Tim'},
+instances: 1, word: 'Top', work: 'Tim'},
+instances: 1, word: 'Torment', work: 'Tim'},
+instances: 1, word: 'Tossed', work: 'Tim'},
+instances: 1, word: 'Towardly', work: 'Tim'},
+instances: 1, word: 'Towards', work: 'Tim'},
+instances: 1, word: 'Towers', work: 'Tim'},
+instances: 1, word: 'Tract', work: 'Tim'},
+instances: 1, word: 'Trades', work: 'Tim'},
+instances: 1, word: 'Traffics', work: 'Tim'},
+instances: 1, word: 'Traffic\'s', work: 'Tim'},
+instances: 1, word: 'Traitors', work: 'Tim'},
+instances: 1, word: 'Transformation', work: 'Tim'},
+instances: 1, word: 'Transformèd', work: 'Tim'},
+instances: 1, word: 'Translates', work: 'Tim'},
+instances: 1, word: 'Trapped', work: 'Tim'},
+instances: 1, word: 'Travail', work: 'Tim'},
+instances: 1, word: 'Travailed', work: 'Tim'},
+instances: 1, word: 'Traversed', work: 'Tim'},
+instances: 1, word: 'Treads', work: 'Tim'},
+instances: 1, word: 'Trees', work: 'Tim'},
+instances: 1, word: 'Trenchant', work: 'Tim'},
+instances: 1, word: 'Trencher', work: 'Tim'},
+instances: 1, word: 'Trencher-friends', work: 'Tim'},
+instances: 1, word: 'Trial', work: 'Tim'},
+instances: 1, word: 'Trick', work: 'Tim'},
+instances: 1, word: 'Tried', work: 'Tim'},
+instances: 1, word: 'Trifle', work: 'Tim'},
+instances: 1, word: 'Trifles', work: 'Tim'},
+instances: 1, word: 'Trifling', work: 'Tim'},
+instances: 1, word: 'Triumphers', work: 'Tim'},
+instances: 1, word: 'Trod', work: 'Tim'},
+instances: 1, word: 'Troops', work: 'Tim'},
+instances: 1, word: 'Trophies', work: 'Tim'},
+instances: 1, word: 'Truer', work: 'Tim'},
+instances: 1, word: 'Truest', work: 'Tim'},
+instances: 1, word: 'Trump', work: 'Tim'},
+instances: 1, word: 'Trumpets\'', work: 'Tim'},
+instances: 1, word: 'Trumpet\'s', work: 'Tim'},
+instances: 1, word: 'Trunks', work: 'Tim'},
+instances: 1, word: 'Trusters\'', work: 'Tim'},
+instances: 1, word: 'Trusts', work: 'Tim'},
+instances: 1, word: 'Tub-fast', work: 'Tim'},
+instances: 1, word: 'Tubs', work: 'Tim'},
+instances: 1, word: 'Turbulent', work: 'Tim'},
+instances: 1, word: 'Turncoats', work: 'Tim'},
+instances: 1, word: 'Tutors', work: 'Tim'},
+instances: 1, word: 'Twelve', work: 'Tim'},
+instances: 1, word: 'Twice', work: 'Tim'},
+instances: 1, word: 'Twinned', work: 'Tim'},
+instances: 1, word: 'Tyrants', work: 'Tim'},
+instances: 1, word: 'Ulcerous', work: 'Tim'},
+instances: 1, word: 'Unagreeable', work: 'Tim'},
+instances: 1, word: 'Unaptness', work: 'Tim'},
+instances: 1, word: 'Unbolt', work: 'Tim'},
+instances: 1, word: 'Uncertain', work: 'Tim'},
+instances: 1, word: 'Unchargèd', work: 'Tim'},
+instances: 1, word: 'Unchecked', work: 'Tim'},
+instances: 1, word: 'Unclew', work: 'Tim'},
+instances: 1, word: 'Uncover', work: 'Tim'},
+instances: 1, word: 'Unctuous', work: 'Tim'},
+instances: 1, word: 'Undergo', work: 'Tim'},
+instances: 1, word: 'Undo', work: 'Tim'},
+instances: 1, word: 'Unfortunate', work: 'Tim'},
+instances: 1, word: 'Ungrateful', work: 'Tim'},
+instances: 1, word: 'Unhousèd', work: 'Tim'},
+instances: 1, word: 'Unicorn', work: 'Tim'},
+instances: 1, word: 'Unkind', work: 'Tim'},
+instances: 1, word: 'Unkindest', work: 'Tim'},
+instances: 1, word: 'Unkindly', work: 'Tim'},
+instances: 1, word: 'Unkindness', work: 'Tim'},
+instances: 1, word: 'Unlearned', work: 'Tim'},
+instances: 1, word: 'Unluckily', work: 'Tim'},
+instances: 1, word: 'Unmanly', work: 'Tim'},
+instances: 1, word: 'Unmatchèd', work: 'Tim'},
+instances: 1, word: 'Unmeasurable', work: 'Tim'},
+instances: 1, word: 'Unnoted', work: 'Tim'},
+instances: 1, word: 'Unpeaceable', work: 'Tim'},
+instances: 1, word: 'Unremovably', work: 'Tim'},
+instances: 1, word: 'Unruly', work: 'Tim'},
+instances: 1, word: 'Unscarred', work: 'Tim'},
+instances: 1, word: 'Unthrift', work: 'Tim'},
+instances: 1, word: 'Untirable', work: 'Tim'},
+instances: 1, word: 'Unusual', work: 'Tim'},
+instances: 1, word: 'Unwise', work: 'Tim'},
+instances: 1, word: 'Unwisely', work: 'Tim'},
+instances: 1, word: 'Upright', work: 'Tim'},
+instances: 1, word: 'Upward', work: 'Tim'},
+instances: 1, word: 'Urged', work: 'Tim'},
+instances: 1, word: 'Uses', work: 'Tim'},
+instances: 1, word: 'Usurers', work: 'Tim'},
+instances: 1, word: 'Usury', work: 'Tim'},
+instances: 1, word: 'Vacant', work: 'Tim'},
+instances: 1, word: 'Vainglories', work: 'Tim'},
+instances: 1, word: 'Vainly', work: 'Tim'},
+instances: 1, word: 'Vanity', work: 'Tim'},
+instances: 1, word: 'Vantages', work: 'Tim'},
+instances: 1, word: 'Vapors', work: 'Tim'},
+instances: 1, word: 'Varnished', work: 'Tim'},
+instances: 1, word: 'Varro\'s', work: 'Tim'},
+instances: 1, word: 'Vaults', work: 'Tim'},
+instances: 1, word: 'Venomed', work: 'Tim'},
+instances: 1, word: 'Verge', work: 'Tim'},
+instances: 1, word: 'Vessel', work: 'Tim'},
+instances: 1, word: 'Vessels', work: 'Tim'},
+instances: 1, word: 'Vestments', work: 'Tim'},
+instances: 1, word: 'Vex', work: 'Tim'},
+instances: 1, word: 'Vicious', work: 'Tim'},
+instances: 1, word: 'Victories', work: 'Tim'},
+instances: 1, word: 'Vile', work: 'Tim'},
+instances: 1, word: 'Viler', work: 'Tim'},
+instances: 1, word: 'Villainies', work: 'Tim'},
+instances: 1, word: 'Villainous', work: 'Tim'},
+instances: 1, word: 'Vines', work: 'Tim'},
+instances: 1, word: 'Virginity', work: 'Tim'},
+instances: 1, word: 'Virgins', work: 'Tim'},
+instances: 1, word: 'Virgin\'s', work: 'Tim'},
+instances: 1, word: 'Virtuously', work: 'Tim'},
+instances: 1, word: 'Visage', work: 'Tim'},
+instances: 1, word: 'Visible', work: 'Tim'},
+instances: 1, word: 'Visitation', work: 'Tim'},
+instances: 1, word: 'Visitations', work: 'Tim'},
+instances: 1, word: 'Visitors', work: 'Tim'},
+instances: 1, word: 'Voiced', work: 'Tim'},
+instances: 1, word: 'Void', work: 'Tim'},
+instances: 1, word: 'Votarist', work: 'Tim'},
+instances: 1, word: 'Vows', work: 'Tim'},
+instances: 1, word: 'Voyage', work: 'Tim'},
+instances: 1, word: 'Wafts', work: 'Tim'},
+instances: 1, word: 'Wages', work: 'Tim'},
+instances: 1, word: 'Waiting', work: 'Tim'},
+instances: 1, word: 'Walk', work: 'Tim'},
+instances: 1, word: 'Wandered', work: 'Tim'},
+instances: 1, word: 'Wanted', work: 'Tim'},
+instances: 1, word: 'Wanting', work: 'Tim'},
+instances: 1, word: 'Want\'st', work: 'Tim'},
+instances: 1, word: 'Wappened', work: 'Tim'},
+instances: 1, word: 'Wards', work: 'Tim'},
+instances: 1, word: 'Warm', work: 'Tim'},
+instances: 1, word: 'Warmth', work: 'Tim'},
+instances: 1, word: 'Warr\'st', work: 'Tim'},
+instances: 1, word: 'Wars', work: 'Tim'},
+instances: 1, word: 'Washes', work: 'Tim'},
+instances: 1, word: 'Waste', work: 'Tim'},
+instances: 1, word: 'Wasteful', work: 'Tim'},
+instances: 1, word: 'Waxed', work: 'Tim'},
+instances: 1, word: 'Weak', work: 'Tim'},
+instances: 1, word: 'Weal', work: 'Tim'},
+instances: 1, word: 'Wed', work: 'Tim'},
+instances: 1, word: 'Weeks', work: 'Tim'},
+instances: 1, word: 'Weep\'st', work: 'Tim'},
+instances: 1, word: 'Weightier', work: 'Tim'},
+instances: 1, word: 'Welcomes', work: 'Tim'},
+instances: 1, word: 'Went', work: 'Tim'},
+instances: 1, word: 'Whelped', work: 'Tim'},
+instances: 1, word: 'Whereat', work: 'Tim'},
+instances: 1, word: 'Whereby', work: 'Tim'},
+instances: 1, word: 'Whereon', work: 'Tim'},
+instances: 1, word: 'Wherever', work: 'Tim'},
+instances: 1, word: 'Whether', work: 'Tim'},
+instances: 1, word: 'Whips', work: 'Tim'},
+instances: 1, word: 'Whirlwind', work: 'Tim'},
+instances: 1, word: 'Whisperings', work: 'Tim'},
+instances: 1, word: 'Whither', work: 'Tim'},
+instances: 1, word: 'Whittle', work: 'Tim'},
+instances: 1, word: 'Whoso', work: 'Tim'},
+instances: 1, word: 'Who\'s', work: 'Tim'},
+instances: 1, word: 'Wide', work: 'Tim'},
+instances: 1, word: 'Widow', work: 'Tim'},
+instances: 1, word: 'Willingly', work: 'Tim'},
+instances: 1, word: 'Wind', work: 'Tim'},
+instances: 1, word: 'Wind-pipe\'s', work: 'Tim'},
+instances: 1, word: 'Window-bars', work: 'Tim'},
+instances: 1, word: 'Wing', work: 'Tim'},
+instances: 1, word: 'Wink', work: 'Tim'},
+instances: 1, word: 'Winter\'s', work: 'Tim'},
+instances: 1, word: 'Wipe', work: 'Tim'},
+instances: 1, word: 'Wisdom', work: 'Tim'},
+instances: 1, word: 'Wisely', work: 'Tim'},
+instances: 1, word: 'Wiser', work: 'Tim'},
+instances: 1, word: 'Wishes', work: 'Tim'},
+instances: 1, word: 'Witch', work: 'Tim'},
+instances: 1, word: 'Withal', work: 'Tim'},
+instances: 1, word: 'Wither', work: 'Tim'},
+instances: 1, word: 'Wits', work: 'Tim'},
+instances: 1, word: 'Woman\'s', work: 'Tim'},
+instances: 1, word: 'Women\'s', work: 'Tim'},
+instances: 1, word: 'Wondrously', work: 'Tim'},
+instances: 1, word: 'Wont', work: 'Tim'},
+instances: 1, word: 'Wooed', work: 'Tim'},
+instances: 1, word: 'Wooer', work: 'Tim'},
+instances: 1, word: 'Workman', work: 'Tim'},
+instances: 1, word: 'Workmen', work: 'Tim'},
+instances: 1, word: 'Works', work: 'Tim'},
+instances: 1, word: 'World\'s', work: 'Tim'},
+instances: 1, word: 'Worm', work: 'Tim'},
+instances: 1, word: 'Worshiped', work: 'Tim'},
+instances: 1, word: 'Worships', work: 'Tim'},
+instances: 1, word: 'Worthily', work: 'Tim'},
+instances: 1, word: 'Wrack', work: 'Tim'},
+instances: 1, word: 'Wreakful', work: 'Tim'},
+instances: 1, word: 'Wrench', work: 'Tim'},
+instances: 1, word: 'Wretchedness', work: 'Tim'},
+instances: 1, word: 'Wrinkled', work: 'Tim'},
+instances: 1, word: 'Wrinkles', work: 'Tim'},
+instances: 1, word: 'Writ', work: 'Tim'},
+instances: 1, word: 'Write', work: 'Tim'},
+instances: 1, word: 'Writing', work: 'Tim'},
+instances: 1, word: 'Ye', work: 'Tim'},
+instances: 1, word: 'Year', work: 'Tim'},
+instances: 1, word: 'Yells', work: 'Tim'},
+instances: 1, word: 'Yonder', work: 'Tim'},
+instances: 1, word: 'Yonder\'s', work: 'Tim'},
+instances: 1, word: 'Youngest', work: 'Tim'},
+instances: 1, word: 'Zeals', work: 'Tim'},
+instances: 1, word: '\'bove', work: 'Tim'},
+instances: 1, word: '\'mong', work: 'Tim'},
+instances: 1, word: '\'scape', work: 'Tim'},
+instances: 1, word: '\'st', work: 'Tim'},
+instances: 1, word: '\'twill', work: 'Tim'},
+instances: 1, word: '\'twixt', work: 'Tim'},
+instances: 1, word: '\'twould', work: 'Tim'},

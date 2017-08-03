@@ -1,2708 +1,2706 @@
-Concordance of Two Gentlemen of Verona:
-
-551: I
-434: To
-403: And
-380: The
-328: You
-311: A
-285: That
-277: My
-235: Me
-228: For
-226: Of
-225: Is
-201: Not
-200: Her
-175: In
-175: It
-169: She
-163: Your
-162: Love
-148: Be
-148: But
-148: With
-144: Thou
-137: Have
-136: As
-112: Will
-110: This
-109: So
-103: He
-101: His
-101: What
-99: Thy
-93: Sir
-89: Him
-84: If
-84: Thee
-81: By
-81: No
-75: Now
-72: Are
-72: Do
-72: How
-68: From
-68: On
-64: All
-64: Why
-62: Would
-54: Proteus
-54: Valentine
-53: Hath
-53: Sylvia
-53: When
-52: More
-52: Shall
-52: Then
-51: Well
-50: One
-49: At
-49: Good
-49: Than
-47: Ay
-47: Go
-47: Madam
-46: Am
-46: I’ll
-46: Them
-45: O
-43: Here
-43: Was
-42: Which
-42: Yet
-41: Come
-40: Such
-39: Much
-39: Should
-39: ’tis
-38: Know
-38: Some
-36: Say
-36: There
-36: They
-35: Can
-35: Think
-35: Were
-34: Cannot
-34: Master
-34: Our
-34: Upon
-33: An
-32: Make
-32: May
-31: Let
-31: Like
-31: Where
-30: Mine
-30: We
-29: Lord
-29: Man
-29: Or
-29: See
-28: Friend
-28: Must
-28: Too
-27: Did
-27: Julia
-27: Letter
-27: Sweet
-27: Their
-26: Out
-25: Had
-25: Myself
-25: Take
-24: Nay
-24: Time
-23: Thurio
-22: Give
-22: Lady
-22: Look
-22: Tell
-22: That’s
-21: Dog
-21: Fair
-21: Father
-20: Away
-20: Being
-20: Hast
-20: Who
-19: Art
-19: Been
-18: Item
-18: Nothing
-18: Pray
-18: Therefore
-18: True
-17: Gentle
-17: Grace
-17: Leave
-17: Servant
-17: These
-17: Very
-17: Wit
-16: Hear
-16: Heart
-16: Made
-16: Makes
-16: Speak
-16: Word
-16: Writ
-15: Because
-15: Done
-15: Else
-15: Even
-15: Fear
-15: Gentleman
-15: Lose
-15: Mistress
-15: Never
-15: Please
-15: Thus
-15: Us
-15: Youth
-14: Best
-14: Doth
-14: Gone
-14: Marry
-14: Mean
-14: Presently
-14: Up
-13: Another
-13: Ever
-13: False
-13: Gave
-13: Hence
-13: Ladyship
-13: Men
-13: Mind
-13: Still
-13: Unto
-13: Welcome
-13: Words
-13: ’t
-12: After
-12: Again
-12: Better
-12: Call
-12: Chamber
-12: Indeed
-12: Name
-12: Night
-12: Own
-12: Says
-12: Since
-12: Thank
-12: Without
-11: Boy
-11: Company
-11: Could
-11: Eglamour
-11: Eyes
-11: Gentlemen
-11: Heaven
-11: Little
-11: Long
-11: News
-11: Nor
-11: Poor
-11: Sake
-11: Sent
-11: Sheep
-11: Tears
-11: Thousand
-11: Whose
-11: Worth
-10: Bear
-10: Comes
-10: Daughter
-10: Day
-10: Folly
-10: Kind
-10: Loved
-10: Lucetta
-10: Matter
-10: Most
-10: Music
-10: Ring
-10: Service
-10: We’ll
-10: Whom
-10: Worthy
-9: Alas
-9: Any
-9: Banished
-9: Bring
-9: Dost
-9: Down
-9: Fool
-9: Fortune
-9: Friends
-9: Himself
-9: Hold
-9: Home
-9: Into
-9: Kiss
-9: Live
-9: Meet
-9: Paper
-9: Pity
-9: Thing
-9: Tune
-9: Unless
-9: Wilt
-8: Against
-8: Alone
-8: Base
-8: Beauty
-8: Court
-8: Discourse
-8: Except
-8: Eye
-8: Full
-8: Get
-8: Hate
-8: Honor
-8: Ladder
-8: Life
-8: Loves
-8: Maid
-8: Many
-8: Might
-8: Other
-8: Perceive
-8: Prove
-8: Reason
-8: Rest
-8: Shepherd
-8: Son
-8: Stand
-8: Sure
-8: Though
-8: Thoughts
-8: Till
-8: Use
-8: What’s
-8: World
-8: Yours
-8: Yourself
-7: About
-7: Along
-7: Become
-7: Counsel
-7: Dead
-7: Death
-7: Didst
-7: Earth
-7: Face
-7: Faith
-7: Far
-7: Faults
-7: Find
-7: Fire
-7: Follow
-7: Forsworn
-7: Great
-7: Hair
-7: Happy
-7: Hard
-7: Keep
-7: Lance
-7: Light
-7: Neither
-7: Oaths
-7: Often
-7: Once
-7: Over
-7: Pardon
-7: Peace
-7: Picture
-7: Read
-7: Return
-7: Said
-7: Seek
-7: Send
-7: Set
-7: Shadow
-7: Shalt
-7: Show
-7: Thyself
-7: Way
-7: Wish
-7: Woman
-7: Write
-6: Awhile
-6: Black
-6: Blind
-6: Break
-6: Came
-6: Care
-6: Change
-6: Cloak
-6: Commend
-6: Dear
-6: Delivered
-6: Duty
-6: End
-6: Ere
-6: Fast
-6: Fault
-6: Fit
-6: Forbear
-6: Having
-6: Hour
-6: Kept
-6: Knew
-6: Know’st
-6: Left
-6: Lest
-6: Lines
-6: Lives
-6: Losing
-6: Lov’st
-6: Master’s
-6: Match
-6: Need
-6: None
-6: Pains
-6: Pure
-6: Rather
-6: Serve
-6: Shame
-6: Slow
-6: Spend
-6: Stands
-6: Tender
-6: Thine
-6: Think’st
-6: Tide
-6: Tongue
-6: Trust
-6: Turn
-6: Twenty
-6: Two
-6: Unhappy
-6: Virtue
-6: Young
-6: ’twere
-5: Advice
-5: Already
-5: Before
-5: Belike
-5: Besides
-5: Brought
-5: Canst
-5: Carry
-5: Coming
-5: Command
-5: Confer
-5: Cur
-5: Dare
-5: Deliver
-5: Enough
-5: Fashion
-5: Fie
-5: First
-5: Flatter
-5: Flight
-5: Fly
-5: Force
-5: Girl
-5: Going
-5: Hands
-5: Happiness
-5: Help
-5: High
-5: Holy
-5: Hope
-5: It’s
-5: Joy
-5: Julia’s
-5: Last
-5: Letters
-5: Lie
-5: Likes
-5: Longer
-5: Looks
-5: Lost
-5: Lover
-5: Love’s
-5: Means
-5: Messenger
-5: Methinks
-5: Off
-5: Only
-5: Perfection
-5: Play
-5: Present
-5: Run
-5: Saw
-5: Sea
-5: Shoe
-5: Sighs
-5: Sing
-5: Sleep
-5: Stay
-5: Takes
-5: Talk
-5: Tear
-5: Thence
-5: Things
-5: Tied
-5: Times
-5: Touch
-5: Truth
-5: Under
-5: Want
-5: Warrant
-5: Water
-5: While
-5: Window
-5: Women
-5: Worship
-5: Worthless
-5: Wouldst
-5: Wrong
-4: According
-4: Affairs
-4: Age
-4: Always
-4: Ask
-4: Ass
-4: Back
-4: Bad
-4: Bare
-4: Bestow
-4: Boots
-4: Bosom
-4: Both
-4: Circumstance
-4: Cry
-4: Desert
-4: Desire
-4: Discover
-4: Divine
-4: Duke
-4: Each
-4: Ev’n
-4: Excuse
-4: Expedition
-4: Farewell
-4: Feed
-4: Follows
-4: Forget
-4: Friar
-4: Gentlewoman
-4: Goes
-4: Grave
-4: Grief
-4: Hand
-4: Haply
-4: Hark
-4: Heard
-4: Heavenly
-4: Here’s
-4: Hers
-4: Herself
-4: Ignorant
-4: Journey
-4: Knows
-4: Lady’s
-4: Least
-4: Lend
-4: Less
-4: Lordship
-4: Loving
-4: Milan
-4: Modesty
-4: Mother
-4: Mutton
-4: Near
-4: Needs
-4: Next
-4: Part
-4: Patience
-4: Penance
-4: Perfect
-4: Perjury
-4: Plead
-4: Pound
-4: Praise
-4: Purse
-4: Put
-4: Resort
-4: Respect
-4: Sad
-4: Sayst
-4: Scorn
-4: Seest
-4: Self
-4: Shows
-4: Sirrah
-4: Small
-4: Soon
-4: Sorrow
-4: Staff
-4: Stayed
-4: Stays
-4: Stones
-4: Substance
-4: Sylvia’s
-4: Taught
-4: Thither
-4: Thought
-4: Three
-4: Through
-4: Tomorrow
-4: Travel
-4: Verona
-4: Vows
-4: Walk
-4: Wealth
-4: Wear
-4: Weary
-4: Weep
-4: Wept
-4: Whither
-4: Win
-4: Wise
-4: Witness
-4: Woman’s
-4: Wont
-4: Youthful
-4: You’ll
-3: Access
-3: Adieu
-3: Air
-3: Ale
-3: Alive
-3: Amends
-3: Answer
-3: Attend
-3: Bade
-3: Banishèd
-3: Bed
-3: Begin
-3: Begone
-3: Beloved
-3: Bid
-3: Bids
-3: Birth
-3: Bitter
-3: Bold
-3: Breath
-3: Bud
-3: Burn
-3: Captain
-3: Cast
-3: Cease
-3: Cell
-3: Chid
-3: Chide
-3: Christian
-3: Climb
-3: Close
-3: Cold
-3: Compass
-3: Complaining
-3: Constant
-3: Count
-3: Course
-3: Crab
-3: Cross
-3: Curse
-3: Danger
-3: Days
-3: Deep
-3: Die
-3: Dinner
-3: Dispatch
-3: Dispose
-3: Doom
-3: Dote
-3: Dream
-3: Drift
-3: Dumb
-3: Ear
-3: Effect
-3: Emperor
-3: Emperor’s
-3: Entertain
-3: Evening
-3: Every
-3: E’er
-3: Fall
-3: Falsehood
-3: Favor
-3: Fearing
-3: Fetch
-3: Figure
-3: Fine
-3: Fled
-3: Food
-3: Foolish
-3: Forgive
-3: Forgot
-3: Form
-3: Gate
-3: Gracious
-3: Grant
-3: Greater
-3: Groans
-3: Habit
-3: Harbor
-3: Hardly
-3: Haste
-3: Head
-3: Health
-3: Heat
-3: Heavy
-3: Held
-3: Henceforth
-3: Hither
-3: Honorable
-3: Horse
-3: Hose
-3: Host
-3: House
-3: Ill
-3: Importune
-3: Intend
-3: Jest
-3: Judge
-3: Kill
-3: King
-3: Knit
-3: Labor
-3: Ladyship’s
-3: Leg
-3: Let’s
-3: Living
-3: Lodge
-3: Lovers
-3: Mantua
-3: Mark
-3: Message
-3: Mistake
-3: Mistook
-3: Mistress’
-3: Morrow
-3: Moved
-3: Names
-3: Neglect
-3: Ne’er
-3: Nightly
-3: Nod
-3: Noddy
-3: Nought
-3: Object
-3: Offered
-3: Office
-3: Oft
-3: Old
-3: Otherwise
-3: Page
-3: Painted
-3: Parted
-3: Parting
-3: Passing
-3: Patrick’s
-3: Pearls
-3: Perjured
-3: Place
-3: Pleased
-3: Possessions
-3: Prefer
-3: Prize
-3: Proceed
-3: Proud
-3: Purpose
-3: Qualities
-3: Quick
-3: Quickly
-3: Quoth
-3: Request
-3: Respects
-3: Rich
-3: Saint
-3: Salt
-3: Seal
-3: Secret
-3: Seem
-3: Seen
-3: Sends
-3: Shallow
-3: Shipped
-3: Shot
-3: Sigh
-3: Sight
-3: Sister
-3: Slander
-3: Slave
-3: Song
-3: Sooner
-3: Soul
-3: Special
-3: Speed
-3: Spirit
-3: Steal
-3: Story
-3: Strike
-3: Suit
-3: Sun
-3: Swear
-3: Those
-3: Throw
-3: Th’
-3: Together
-3: Took
-3: Trick
-3: Try
-3: Twice
-3: Valentine’s
-3: Villain
-3: Virtues
-3: Voyage
-3: Wages
-3: Wait
-3: Weeping
-3: Wench
-3: Wherefore
-3: Wherein
-3: Whereof
-3: Wink
-3: Within
-3: Woe
-3: Yes
-3: ’em
-3: ’twas
-2: Aboard
-2: Above
-2: Adore
-2: Advantage
-2: Affected
-2: Affection
-2: Aim
-2: Alehouse
-2: Almost
-2: Amen
-2: Among
-2: Anger
-2: Angered
-2: Angry
-2: Applaud
-2: Ashamed
-2: Asleep
-2: Attends
-2: Aught
-2: Bears
-2: Beautiful
-2: Begins
-2: Believe
-2: Beseech
-2: Beset
-2: Beshrew
-2: Betideth
-2: Betrothed
-2: Blessing
-2: Blest
-2: Blood
-2: Blow
-2: Body
-2: Boon
-2: Borrows
-2: Bought
-2: Bounty
-2: Breakfast
-2: Breathe
-2: Broken
-2: Brook
-2: Burièd
-2: Burns
-2: Calls
-2: Calm
-2: Canker
-2: Carrying
-2: Celestial
-2: Certain
-2: Chameleon
-2: Cherished
-2: Child
-2: Cite
-2: City
-2: Claim
-2: Codpiece
-2: Color
-2: Concerns
-2: Conclusion
-2: Confession
-2: Confirm
-2: Consort
-2: Contents
-2: Contrary
-2: Convey
-2: Corded
-2: Cords
-2: Correction
-2: Countryman
-2: Cowardice
-2: Coy
-2: Crossed
-2: Cunning
-2: Daily
-2: Dangerous
-2: Deadly
-2: Deceive
-2: Deformed
-2: Delight
-2: Depart
-2: Departure
-2: Derived
-2: Deserves
-2: Despiseth
-2: Determined
-2: Detest
-2: Disdain
-2: Dispraise
-2: Dogs
-2: Don
-2: Drowned
-2: Dry
-2: Dull
-2: Earnest
-2: Eating
-2: Embrace
-2: Employ
-2: Empress’
-2: Enemy
-2: Enjoined
-2: Entertained
-2: Entreat
-2: Entreated
-2: Esteems
-2: Excellent
-2: Excels
-2: Exceptions
-2: Exchange
-2: Execution
-2: Exile
-2: Experience
-2: Fail
-2: Fain
-2: Farthingale
-2: Fathers
-2: Father’s
-2: Favors
-2: Fellow
-2: Fill
-2: Five
-2: Flood
-2: Flying
-2: Foes
-2: Fold
-2: Follies
-2: Fond
-2: Forest
-2: Forlorn
-2: Former
-2: Forswear
-2: Forth
-2: Forward
-2: Foul
-2: Found
-2: Four
-2: Frown
-2: Gift
-2: Gifts
-2: Given
-2: Glad
-2: Goodly
-2: Got
-2: Grandam
-2: Grievance
-2: Ground
-2: Growing
-2: Hairs
-2: Hanged
-2: Hanging
-2: Hapless
-2: Harsh
-2: Has
-2: Hazard
-2: Heart’s
-2: Hellespont
-2: Hides
-2: Hie
-2: Homely
-2: Honest
-2: Hopes
-2: Horns
-2: Hot
-2: Hours
-2: Huge
-2: Humbled
-2: Idle
-2: Idol
-2: Imprimis
-2: Infinite
-2: Inhabits
-2: Ink
-2: Intends
-2: Itself
-2: Jars
-2: Jerkin
-2: Jew
-2: Jewel
-2: Judgment
-2: Killed
-2: Kindly
-2: Kissed
-2: Knave
-2: Knees
-2: Known
-2: Laced
-2: Ladies’
-2: Large
-2: Law
-2: Lay
-2: Leander
-2: Learn
-2: Learned
-2: Length
-2: Lies
-2: Likewise
-2: Lily
-2: Line
-2: Liquor
-2: Loath
-2: Locked
-2: Longing
-2: Loss
-2: Lovely
-2: Lover’s
-2: Low
-2: Manner
-2: Man’s
-2: Marriage
-2: Masters
-2: Mates
-2: Mayst
-2: Meant
-2: Measure
-2: Meat
-2: Meed
-2: Merry
-2: Metamorphosed
-2: Milder
-2: Milk
-2: Minds
-2: Minion
-2: Mirth
-2: Miserable
-2: Money
-2: Morning
-2: Mouth
-2: Muse
-2: Nameless
-2: New
-2: North
-2: Notable
-2: Note
-2: Nurse
-2: Oath
-2: Ocean
-2: Offense
-2: Offer
-2: Open
-2: Opinion
-2: Outrages
-2: Paid
-2: Pair
-2: Pale
-2: Pantino
-2: Papers
-2: Partly
-2: Pass
-2: Passenger
-2: Patient
-2: Pawn
-2: Pearl
-2: Peasant
-2: Peevish
-2: Perceived
-2: Peruse
-2: Pin
-2: Played
-2: Pleasure
-2: Plot
-2: Post
-2: Power
-2: Practice
-2: Praises
-2: Presence
-2: Pretty
-2: Prevailed
-2: Print
-2: Proceeding
-2: Proclamation
-2: Protest
-2: Proves
-2: Provided
-2: Quaintly
-2: Quench
-2: Quote
-2: Rage
-2: Rare
-2: Reach
-2: Reading
-2: Receive
-2: Received
-2: Regard
-2: Rehearse
-2: Remember
-2: Remembrance
-2: Repair
-2: Repeal
-2: Repent
-2: Report
-2: Reputation
-2: Rescue
-2: Resolved
-2: Revenge
-2: Rival
-2: Road
-2: Robin
-2: Root
-2: Royal
-2: Same
-2: Sands
-2: Saying
-2: Scarce
-2: Sebastian
-2: Secrets
-2: Seeks
-2: Senseless
-2: Served
-2: Serves
-2: Several
-2: Shapes
-2: Sharp
-2: She’ll
-2: She’s
-2: Shine
-2: Ship
-2: Shoes
-2: Shouldst
-2: Shunned
-2: Sick
-2: Silence
-2: Silly
-2: Simple
-2: Sit
-2: Skill
-2: Smile
-2: So-ho
-2: Sorrows
-2: Sovereign
-2: Spin
-2: Stars
-2: Stead
-2: Steel
-2: Step
-2: Steps
-2: Stick
-2: Stock
-2: Stolen
-2: Stone
-2: Stood
-2: Stop
-2: Stopped
-2: Strings
-2: Success
-2: Suffer
-2: Suffered
-2: Supper
-2: Swift
-2: Swinged
-2: Table
-2: Tail
-2: Taken
-2: Tarry
-2: Ta’en
-2: Teach
-2: Teeth
-2: Ten
-2: Thanks
-2: Therein
-2: Thereof
-2: Therewithal
-2: There’s
-2: Thinks
-2: Threefold
-2: Thrice
-2: Thrust
-2: Token
-2: Told
-2: Torment
-2: Tower
-2: Treachery
-2: Treasure
-2: Trouble
-2: Truly
-2: Tutor
-2: Uncivil
-2: Understand
-2: Understands
-2: Undertake
-2: Undone
-2: Unjust
-2: Unkindest
-2: Unseen
-2: Used
-2: Vain
-2: Vantage
-2: Vices
-2: Visit
-2: Votary
-2: Vouchsafe
-2: Wanton
-2: Wants
-2: War
-2: Weak
-2: Well-favored
-2: Whence
-2: Whip
-2: Whips
-2: Whoreson
-2: Who’s
-2: Wife
-2: Wild
-2: Willingly
-2: Wind
-2: Wings
-2: Wished
-2: Withal
-2: Wits
-2: Woes
-2: Won
-2: Woo
-2: Worse
-2: Wound
-2: Wrath
-2: Wringing
-2: Writers
-2: Yield
-2: ’gainst
-1: Abbey
-1: Abc
-1: Abhorred
-1: Able
-1: Abode
-1: Abridge
-1: Abroad
-1: Absence
-1: Accomplished
-1: Accords
-1: Account
-1: Accursed
-1: Achieved
-1: Acquainted
-1: Acted
-1: Action
-1: Admirèd
-1: Ado
-1: Adored
-1: Adventure
-1: Adversity
-1: Advise
-1: Advised
-1: Affect
-1: After-love
-1: Afterward
-1: Agent
-1: Agone
-1: Agood
-1: Agèd
-1: Ah
-1: Aid
-1: Aiming
-1: Aimèd
-1: Allied
-1: Allycholly
-1: Aloft
-1: Alphonso
-1: Also
-1: Altar
-1: Altered
-1: Although
-1: Ancestry
-1: Anchoring
-1: Angel-like
-1: Angels’
-1: Angerly
-1: Answers
-1: Anthem
-1: Antonio
-1: Anything
-1: Apparent
-1: Appear
-1: Appears
-1: Appeased
-1: Approach
-1: Approacheth
-1: Approved
-1: April
-1: Ariadne
-1: Arms
-1: Arms’
-1: Article
-1: Ascend
-1: Aside
-1: Asked
-1: Aspire
-1: Assist
-1: Assure
-1: Astray
-1: Attended
-1: Auburn
-1: Augury
-1: Awful
-1: Baa
-1: Babble
-1: Babe
-1: Banish
-1: Banishment
-1: Bankrupt
-1: Bargain
-1: Bass
-1: Bastard
-1: Beadsman
-1: Beard
-1: Bearing
-1: Beast
-1: Beauteous
-1: Beautified
-1: Became
-1: Bechance
-1: Bees
-1: Befortune
-1: Beg
-1: Beget
-1: Beggar
-1: Begot
-1: Beguiled
-1: Behavior
-1: Beheld
-1: Behind
-1: Behold
-1: Beholding
-1: Believing
-1: Bended
-1: Benefit
-1: Beseem
-1: Beseeming
-1: Bestowed
-1: Between
-1: Biding
-1: Big
-1: Bind
-1: Bite
-1: Bitterly
-1: Black’st
-1: Blasting
-1: Bless
-1: Blessèd
-1: Blinded
-1: Blindness
-1: Block
-1: Blot
-1: Blunt
-1: Blush
-1: Blushes
-1: Boast
-1: Boat
-1: Bolder
-1: Bonds
-1: Book
-1: Boot
-1: Bore
-1: Bottom
-1: Bounds
-1: Boys
-1: Boy’s
-1: Brag
-1: Braggartism
-1: Breaking
-1: Breast
-1: Breeches
-1: Breed
-1: Breeder
-1: Brew
-1: Brews
-1: Brief
-1: Bringing-up
-1: Broker
-1: Brother
-1: Brothers
-1: Brow
-1: Bruising
-1: Building
-1: Built
-1: Burden
-1: Buried
-1: Burning
-1: Bury
-1: Business
-1: Cam’st
-1: Cancel
-1: Capon’s
-1: Captain’s
-1: Car
-1: Cares
-1: Carried
-1: Cat
-1: Catalog
-1: Catching
-1: Cause
-1: Cave
-1: Cavil
-1: Censure
-1: Chafed
-1: Chains
-1: Chamber-window
-1: Chance
-1: Changed
-1: Changing
-1: Charactered
-1: Charged
-1: Charity
-1: Chase
-1: Chased
-1: Chastity
-1: Check
-1: Cheeks
-1: Cherish
-1: Chidden
-1: Chief
-1: Chiefly
-1: Childlike
-1: Choose
-1: Chose
-1: Chronicled
-1: Churlish
-1: Churlishly
-1: Civil
-1: Clean
-1: Cleft
-1: Clerkly
-1: Cloister
-1: Closed
-1: Closest
-1: Clothe
-1: Cloud
-1: Cock
-1: Coil
-1: Coldly
-1: Colored
-1: Commanded
-1: Commander
-1: Commendation
-1: Commendations
-1: Commended
-1: Commending
-1: Comment
-1: Commit
-1: Committed
-1: Common
-1: Companies
-1: Companion
-1: Competitor
-1: Complete
-1: Composèd
-1: Conceal
-1: Concealing
-1: Conceit
-1: Conceitless
-1: Concern
-1: Concerning
-1: Conclude
-1: Concord
-1: Condition
-1: Conditions
-1: Confess
-1: Confirmèd
-1: Confounds
-1: Conjure
-1: Consent
-1: Consents
-1: Considered
-1: Considers
-1: Conspire
-1: Constancy
-1: Construe
-1: Contemning
-1: Contempt
-1: Contemptuously
-1: Contend
-1: Content
-1: Continue
-1: Converse
-1: Conversed
-1: Conveyed
-1: Corrupted
-1: Couldst
-1: Counselor
-1: Counterfeit
-1: Counterfeits
-1: Counts
-1: Couples
-1: Courtesy
-1: Cover
-1: Covers
-1: Creatures
-1: Creep
-1: Crept
-1: Crews
-1: Crimes
-1: Crooked
-1: Crow
-1: Cruel-hearted
-1: Crusts
-1: Crying
-1: Crystal
-1: Cunningly
-1: Current
-1: Currish
-1: Curst
-1: Cut
-1: Damm’st
-1: Dance
-1: Daring
-1: Dar’st
-1: Daughter’s
-1: Dazzled
-1: Deaf
-1: Dearer
-1: Dearth
-1: Deceitful
-1: Deceived
-1: Decks
-1: Deeds
-1: Deeper
-1: Deepest
-1: Deeply
-1: Deeps
-1: Deformity
-1: Degenerate
-1: Deign
-1: Deliberate
-1: Delights
-1: Delivering
-1: Deny
-1: Depending
-1: Deploring
-1: Descant
-1: Descended
-1: Descent
-1: Deserts
-1: Deserve
-1: Deserved
-1: Desires
-1: Desolate
-1: Despairing
-1: Desperate
-1: Despise
-1: Despised
-1: Destined
-1: Determine
-1: Device
-1: Devised
-1: Devoted
-1: Died
-1: Diest
-1: Diet
-1: Difference
-1: Dignified
-1: Dignify
-1: Dine
-1: Dined
-1: Dining
-1: Dinnertime
-1: Dire-lamenting
-1: Direction-giver
-1: Disability
-1: Discipline
-1: Disclosed
-1: Discovery
-1: Discoverèd
-1: Discretion
-1: Disembark
-1: Disfurnish
-1: Disgrace
-1: Disgraced
-1: Disguise
-1: Disguising
-1: Disloyal
-1: Disobedient
-1: Displeased
-1: Dispraised
-1: Disprove
-1: Dissolves
-1: Distresses
-1: Does
-1: Dolor
-1: Doors
-1: Double
-1: Doublet
-1: Doubt
-1: Doubtfully
-1: Dower
-1: Draw
-1: Drawn
-1: Dreams
-1: Drenched
-1: Drier
-1: Drive
-1: Drives
-1: Drowning
-1: Ducat
-1: Duke’s
-1: Dully
-1: Dump
-1: Dust
-1: Duty’s
-1: Dwelling
-1: Dwells
-1: Early
-1: Ears
-1: Earthly
-1: Easily
-1: Eaten
-1: Effects
-1: Effectual
-1: Either
-1: Elegies
-1: Eloquence
-1: Elysium
-1: Embark
-1: Employed
-1: Employment
-1: Enameled
-1: Encounter
-1: Encounters
-1: Endamage
-1: Endanger
-1: Ending
-1: Endless
-1: Endued
-1: Endure
-1: Enemies
-1: Enforce
-1: Enforced
-1: Enfranchise
-1: Enfranchised
-1: Engine
-1: Engraved
-1: Enraged
-1: Ensuing
-1: Enter
-1: Entertainèd
-1: Enthrallèd
-1: Environ
-1: Equal
-1: Err
-1: Erring
-1: Error
-1: Especially
-1: Essence
-1: Esteem
-1: Esteemeth
-1: Esteem’st
-1: Estimation
-1: Eternal’s
-1: Ethiope
-1: Everlastingly
-1: Everything
-1: Eve’s
-1: Exceed
-1: Exceeding
-1: Excelling
-1: Excepted
-1: Excess
-1: Exchequer
-1: Excused
-1: Executed
-1: Exercise
-1: Exercises
-1: Exhibition
-1: Expects
-1: Expels
-1: Expostulate
-1: Exquisite
-1: Extol
-1: Extreme
-1: Faces
-1: Faction
-1: Fading
-1: Fairer
-1: Fairly
-1: Falls
-1: Fancy
-1: Fantastic
-1: Fasted
-1: Fasting
-1: Fasts
-1: Fat
-1: Fawneth
-1: Fawning
-1: Fealty
-1: Feared
-1: Fearful
-1: Fears
-1: Feast
-1: Feature
-1: Fed
-1: Fee
-1: Feeble
-1: Feel
-1: Feeling
-1: Feet
-1: Fellow-servant
-1: Fellows
-1: Felt
-1: Fight
-1: Fills
-1: Finds
-1: Finest
-1: Finger
-1: Fing’ring
-1: Fire’s
-1: Firm
-1: Fish
-1: Fits
-1: Fitting
-1: Flat
-1: Flattered
-1: Flattery
-1: Flies
-1: Flourishing
-1: Flower
-1: Fodder
-1: Followers
-1: Followest
-1: Fools
-1: Foot
-1: Forbid
-1: Forced
-1: Forehead’s
-1: Forever
-1: Forgetfulness
-1: Forgotten
-1: Forsake
-1: Forsook
-1: Fortunèd
-1: Forwhy
-1: Fostered
-1: Fox
-1: Frame
-1: Fraud
-1: Free
-1: Fresh
-1: Friendly
-1: Friendship
-1: Friend’s
-1: Froward
-1: Frowns
-1: Frozen
-1: Full-fraught
-1: Furnish
-1: Fury
-1: Future
-1: Gain
-1: Garlands
-1: Garment
-1: Garter
-1: Gav’st
-1: Gaze
-1: Gazing
-1: Geese
-1: General
-1: Gentlemanlike
-1: Gentlewoman’s
-1: Gild
-1: Gingerly
-1: Giver
-1: Gives
-1: Giving
-1: Glances
-1: Glass
-1: Glides
-1: Glory
-1: Glove
-1: Gloves
-1: God
-1: Gold
-1: Golden
-1: Good-morrow
-1: Good-morrows
-1: Goods
-1: Gossips
-1: Govern
-1: Gown
-1: Graces
-1: Gracèd
-1: Grandfather
-1: Grandmother
-1: Granting
-1: Gray
-1: Gregory’s
-1: Griefs
-1: Grievances
-1: Grieves
-1: Grievous
-1: Grievously
-1: Grows
-1: Grudge
-1: Guess
-1: Guessed
-1: Guest
-1: Guide
-1: Guilt
-1: Ha
-1: Habiliments
-1: Halidom
-1: Hallowing
-1: Hallowmas
-1: Hammering
-1: Hang
-1: Hangman’s
-1: Hap
-1: Happily
-1: Hard-favored
-1: Hasten
-1: Hat
-1: Hateful
-1: Hates
-1: Healed
-1: Heap
-1: Heard’st
-1: Hearing
-1: Hearken
-1: Heart-sore
-1: Heart-strings
-1: Heartsore
-1: Hearty
-1: Heave
-1: Heaven-bred
-1: Heaviest
-1: Heav’n
-1: Hebrew
-1: Heedfully
-1: Heels
-1: Height
-1: Heir
-1: Helped
-1: Herald
-1: Hero’s
-1: He’s
-1: Hide
-1: Highly
-1: Hinder
-1: Hinderèd
-1: Ho
-1: Holds
-1: Hole
-1: Homage
-1: Home-keeping
-1: Honesty
-1: Honey
-1: Honored
-1: Honor’s
-1: Hood’s
-1: Hooks
-1: Hostess
-1: Hour’s
-1: Howling
-1: Humble
-1: Hundred
-1: Hungry
-1: Hunts
-1: Ice
-1: Idleness
-1: Idolatry
-1: Ill-favored
-1: Illiterate
-1: Illumined
-1: Image
-1: Immaculate
-1: Immodest
-1: Impatient
-1: Impatiently
-1: Impeachment
-1: Imperial’s
-1: Imperious
-1: Import
-1: Importunacy
-1: Impose
-1: Impossible
-1: Impress
-1: Impression
-1: Include
-1: Inconstancy
-1: Indifferent
-1: Industry
-1: Infamy
-1: Infancy
-1: Influence
-1: Ingratitude
-1: Inhabit
-1: Inherit
-1: Injurious
-1: Inly
-1: Inquire
-1: Inscrutable
-1: Instance
-1: Instances
-1: Instruments
-1: Integrity
-1: Intended
-1: Intercept
-1: Intercession
-1: Interest
-1: Interpret
-1: Interpreter
-1: Intruder
-1: Invisible
-1: Inward
-1: Islands
-1: Jade
-1: Jealous
-1: Jealousy
-1: Jewels
-1: Jolt-head
-1: Journeying
-1: Jove
-1: Judged
-1: Judgments
-1: Justice
-1: Key
-1: Keys
-1: Kindle
-1: Kindness
-1: Kingdoms
-1: Knight
-1: Knocked
-1: Knots
-1: Knowing
-1: Lacking
-1: Lambs
-1: Lamely
-1: Lament
-1: Lamentable
-1: Lament’st
-1: Lances
-1: Lands
-1: Lascivious
-1: Late
-1: Laughed
-1: Lawless
-1: Lawlessly
-1: Lawrence
-1: Laying
-1: Leads
-1: Leagues
-1: Lean
-1: Lease
-1: Leaves
-1: Legacy
-1: Lent
-1: Lesser
-1: Lesson
-1: Lets
-1: Leviathans
-1: Liberal
-1: Liest
-1: Lieu
-1: Life’s
-1: Lightly
-1: Lights
-1: Likelihoods
-1: Lime
-1: Linger
-1: Linguist
-1: Lion
-1: Lions
-1: Lively
-1: Liveries
-1: Lo
-1: Loathes
-1: Loiterer
-1: Loitering
-1: Longest
-1: Longs
-1: Looked
-1: Looking-glass
-1: Loose
-1: Lordship’s
-1: Lout
-1: Love-book
-1: Love-wounded
-1: Loyal
-1: Loyalty
-1: Lubber
-1: Lumpish
-1: Lustily
-1: Lute
-1: Lying
-1: Mad
-1: Madcap
-1: Maids
-1: Maintenance
-1: Mak’st
-1: Malady
-1: Malcontent
-1: Malignant
-1: Manage
-1: Manfully
-1: Mannerly
-1: Manners
-1: Mansion
-1: Mar
-1: Market-place
-1: Marks
-1: Mask
-1: Masked
-1: Mastership
-1: Meaneth
-1: Meaning
-1: Melancholy
-1: Melodious
-1: Melt
-1: Melting
-1: Memory
-1: Mended
-1: Men’s
-1: Mercatio
-1: Mercy
-1: Merit
-1: Merops’
-1: Messengers
-1: Met
-1: Mighty
-1: Mild
-1: Milk-maid
-1: Milk-white
-1: Million
-1: Mine’s
-1: Minister
-1: Mischance
-1: Mischances
-1: Mistak’st
-1: Moan
-1: Moist
-1: Moment’s
-1: Monstrous
-1: Month
-1: Months
-1: Month’s
-1: Mood
-1: Morn
-1: Mortal
-1: Mother’s
-1: Motion
-1: Mount
-1: Mountain
-1: Move
-1: Moving
-1: Movingly
-1: Movèd
-1: Moyses
-1: Murmur
-1: Musician
-1: Musing
-1: Muttons
-1: Mutual
-1: Nail
-1: Naked
-1: Nan
-1: Nature
-1: Neat
-1: Necessaries
-1: Necessity
-1: Nectar
-1: Need’st
-1: Nephew
-1: New-found
-1: Newer
-1: Nice
-1: Nicholas
-1: Nick
-1: Nightingale
-1: Nightingale’s
-1: Nights
-1: Night’s
-1: Nimble-footed
-1: Noble
-1: Noblemen
-1: Nobleness
-1: Nooks
-1: Nose
-1: Notes
-1: Noteworthy
-1: Notice
-1: Notwithstanding
-1: Nourished
-1: Now’s
-1: Nymph
-1: Oars
-1: Obdurate
-1: Observed
-1: Obtain
-1: Obtaining
-1: Odd-conceited
-1: Officer
-1: Oftentimes
-1: Omitting
-1: One’s
-1: Onset
-1: Opposes
-1: Oracles
-1: Orderly
-1: Ornament
-1: Orpheus’
-1: Ourselves
-1: Outrun
-1: Overcharged
-1: Overtake
-1: Overtaketh
-1: Overweening
-1: Owe
-1: O’
-1: O’clock
-1: O’er
-1: O’erlooked
-1: O’ernight
-1: O’erslips
-1: Pack
-1: Padua
-1: Pageants
-1: Painter
-1: Parable
-1: Paragon
-1: Parle
-1: Parley
-1: Partaker
-1: Partner
-1: Parts
-1: Passengers
-1: Passion
-1: Passionate
-1: Passioning
-1: Past
-1: Pastime
-1: Pasture
-1: Patiently
-1: Pence
-1: Penetrate
-1: Penitence
-1: Penitential
-1: Pentecost
-1: Peopled
-1: Perchance
-1: Peremptory
-1: Perfected
-1: Perfections
-1: Perhaps
-1: Period
-1: Perish
-1: Periwig
-1: Perplexity
-1: Persevers
-1: Person
-1: Persuade
-1: Persuaded
-1: Persuasion
-1: Perversely
-1: Pestilence
-1: Petty
-1: Phaëton
-1: Physician
-1: Pibble
-1: Pilgrim
-1: Pilgrimage
-1: Pillory
-1: Pills
-1: Pinched
-1: Pinfold
-1: Pins
-1: Pinèd
-1: Pissing
-1: Pities
-1: Placed
-1: Plagues
-1: Plain
-1: Plays
-1: Plotted
-1: Pluck
-1: Plural
-1: Poesy
-1: Poets’
-1: Possessed
-1: Possession
-1: Possible
-1: Possibly
-1: Postern
-1: Potentates
-1: Pox
-1: Practices
-1: Practicing
-1: Praised
-1: Praising
-1: Prayers
-1: Precious
-1: Precisely
-1: Preferment
-1: Preferred
-1: Press
-1: Presume
-1: Pretended
-1: Pretense
-1: Prettily
-1: Prevent
-1: Pricks
-1: Pride
-1: Prime
-1: Prince
-1: Principality
-1: Prison
-1: Prisoners
-1: Private
-1: Privilege
-1: Privy
-1: Proceedings
-1: Prodigious
-1: Profaned
-1: Profferer
-1: Promise
-1: Promised
-1: Proof
-1: Proper
-1: Proportion
-1: Protestation
-1: Protestations
-1: Proteus’
-1: Proverb
-1: Provide
-1: Provokes
-1: Publisher
-1: Puddings
-1: Puling
-1: Punished
-1: Pupil
-1: Puppet
-1: Puppy
-1: Purposed
-1: Qualify
-1: Quality
-1: Queen
-1: Quell
-1: Quips
-1: Quite
-1: Ragged
-1: Raging
-1: Railed
-1: Raiment
-1: Rake
-1: Random
-1: Ransom
-1: Rashness
-1: Ravel
-1: Readiness
-1: Ready
-1: Reasoning
-1: Reasonless
-1: Reason’s
-1: Recalled
-1: Receives
-1: Receiving
-1: Recking
-1: Reckless
-1: Reckon
-1: Record
-1: Recourse
-1: Recover
-1: Redbreast
-1: Reformèd
-1: Refused
-1: Regarded
-1: Regarding
-1: Reigns
-1: Rejoice
-1: Relish
-1: Relying
-1: Remedy
-1: Rememb’ring
-1: Remission
-1: Remnant
-1: Remorseful
-1: Rend
-1: Repeat
-1: Repentance
-1: Reply
-1: Reportest
-1: Repose
-1: Repulse
-1: Repute
-1: Reputed
-1: Requital
-1: Requite
-1: Resembleth
-1: Resolvèd
-1: Respective
-1: Returned
-1: Revenged
-1: Revolt
-1: Rewards
-1: Rhyme
-1: Rhymes
-1: Rhyming
-1: Riches
-1: Rifle
-1: Right
-1: Ripe
-1: Rising
-1: River
-1: Robbing
-1: Rock
-1: Rocks
-1: Rod
-1: Roses
-1: Rough
-1: Round
-1: Rounder
-1: Rude
-1: Ruffian
-1: Ruinous
-1: Ruled
-1: Ruminate
-1: Sacred
-1: Sacrifice
-1: Sadder
-1: Sadly
-1: Safe
-1: Salute
-1: Sand
-1: Sat
-1: Satisfied
-1: Saucy
-1: Save
-1: Saved
-1: Scale
-1: Scalp
-1: Scandalized
-1: Schoolboy
-1: Scorns
-1: Scour
-1: Scoured
-1: Scratch
-1: Scratched
-1: Scribe
-1: Search
-1: Seas
-1: Sedge
-1: Seducèd
-1: Seeing
-1: Seems
-1: Sees
-1: Seizèd
-1: Sense
-1: Sepulcher
-1: Sequel
-1: Servants
-1: Servants’
-1: Serviceable
-1: Seven
-1: Severely
-1: Sew
-1: Shadows
-1: Shadowy
-1: Shake
-1: Shape
-1: Shapeless
-1: Shed
-1: Sheds
-1: Shelving
-1: She’d
-1: Shore
-1: Shown
-1: Shrink
-1: Shut
-1: Sights
-1: Sign
-1: Signify
-1: Signior
-1: Silent
-1: Silken
-1: Silver-shedding
-1: Sincere
-1: Sinews
-1: Sinned
-1: Sins
-1: Sire
-1: Sirs
-1: Sisters
-1: Sith
-1: Sits
-1: Sixteen
-1: Sky
-1: Slaves
-1: Slender
-1: Slew
-1: Slight
-1: Sluggardized
-1: Sly
-1: Smaller
-1: Smell
-1: Smelt
-1: Smiles
-1: Snow
-1: So-so
-1: Soften
-1: Sojourned
-1: Soldier
-1: Sole
-1: Solemnity
-1: Solicit
-1: Solitary
-1: Something
-1: Sometime
-1: Somewhat
-1: Sonnet
-1: Sonnets
-1: Sons
-1: Sorry
-1: Sort
-1: Sorted
-1: Sought
-1: Soul-confirming
-1: Soul’s
-1: Sour
-1: Sourest-natured
-1: Sovereignty
-1: Spake
-1: Spaniel
-1: Spaniel-like
-1: Speaking
-1: Speaks
-1: Speak’st
-1: Speediest
-1: Spends
-1: Spent
-1: Spies
-1: Spite
-1: Spoke
-1: Spoken
-1: Spokesman
-1: Sport
-1: Spring
-1: Spur
-1: Spurns
-1: Spurred
-1: Spy
-1: Squirrel
-1: Stabbed
-1: Star
-1: Starved
-1: State
-1: Statue
-1: Stature
-1: Stayest
-1: Staying
-1: Steals
-1: Steeple
-1: Stings
-1: Stir
-1: Stocks
-1: Stol’n
-1: Stomach
-1: Stoop
-1: Store
-1: Strange
-1: Stranger
-1: Stray
-1: Strays
-1: Stream
-1: Strength
-1: Strikes
-1: Strung
-1: Stubborn
-1: Studies
-1: Studious
-1: Study
-1: Stuffed
-1: Stumble
-1: Subject
-1: Subscribe
-1: Subtle
-1: Sudden
-1: Suddenly
-1: Sues
-1: Sufficient
-1: Suggested
-1: Suitor
-1: Sullen
-1: Sum
-1: Summer-swelling
-1: Sun-bright
-1: Sun-expelling
-1: Sup
-1: Suppliant
-1: Suppose
-1: Surfeit
-1: Survives
-1: Swain
-1: Swains
-1: Swam
-1: Swarthy
-1: Sweet-suggesting
-1: Sweeter
-1: Sweetest
-1: Swiftest
-1: Sworn
-1: Tale
-1: Tales
-1: Talking
-1: Tall
-1: Tame
-1: Tangle
-1: Tarriance
-1: Team
-1: Tedious
-1: Telling
-1: Tells
-1: Telltales
-1: Temper
-1: Tempted
-1: Tenantless
-1: Tendered
-1: Tenor
-1: Territories
-1: Testerned
-1: Testify
-1: Testy
-1: Thankful
-1: Thawed
-1: Theirs
-1: Thereby
-1: Thereto
-1: Theseus’
-1: They’re
-1: Thicket
-1: Thievery
-1: Thinking
-1: Third
-1: Threats
-1: Threw
-1: Thrive
-1: Thrives
-1: Throughly
-1: Thrusts
-1: Thurio’s
-1: Thwarted
-1: Tigers
-1: Tilts
-1: Timeless
-1: Tincture
-1: Tire
-1: Today
-1: Tongues
-1: Torments
-1: Tournaments
-1: Toward
-1: Towns
-1: Toys
-1: Train
-1: Traitor
-1: Trampling
-1: Transgression
-1: Travelers
-1: Treacherous
-1: Trencher
-1: Trenchèd
-1: Tried
-1: Trifle
-1: Trimmed
-1: Triumphs
-1: Truant
-1: True-devoted
-1: True-love
-1: Truer
-1: Trusted
-1: Trusting
-1: Turmoil
-1: Turned
-1: Turns
-1: Tut
-1: Tutored
-1: Twinkling
-1: Twits
-1: T’
-1: Unadvised
-1: Uncertain
-1: Uncompassionate
-1: Undergo
-1: Undertaking
-1: Undeserving
-1: Unfrequented
-1: Ungartered
-1: Ungoverned
-1: Unheedful
-1: Unheedfully
-1: Unholy
-1: Universities
-1: Unkind
-1: Unknown
-1: Unmannerly
-1: Unmellowed
-1: Unprevented
-1: Unreverend
-1: Unreversed
-1: Unrivaled
-1: Unruly
-1: Unseeing
-1: Unsounded
-1: Unstaid
-1: Untunable
-1: Unwelcome
-1: Unwilling
-1: Unwillingly
-1: Unwind
-1: Unworthily
-1: Unworthy
-1: Upper
-1: Urge
-1: Urinal
-1: Ursula
-1: Utter
-1: Valentinus
-1: Valerius
-1: Valiant
-1: Valor
-1: Vanished
-1: Vanquishèd
-1: Vengeance
-1: Venture
-1: Verdure
-1: Verily
-1: Vesture
-1: Vex
-1: Vexation
-1: Vice
-1: Victuals
-1: View
-1: Vile
-1: Villains
-1: Virtuous
-1: Virtuously
-1: Visibly
-1: Voice
-1: Volley
-1: Vow
-1: Vow’dst
-1: Wag
-1: Wailful
-1: Wailing
-1: Wake
-1: Walked
-1: Wall
-1: Wand
-1: Wandered
-1: Wanteth
-1: Want’st
-1: Wars
-1: Wash
-1: Washed
-1: Wasps
-1: Waste
-1: Watch
-1: Watched
-1: Watchers
-1: Watchful
-1: Waxen
-1: Waxèd
-1: Ways
-1: Wayward
-1: Wearisome
-1: Weathercock
-1: Wed
-1: Wedding
-1: Weed
-1: Weeds
-1: Weeps
-1: Weep’st
-1: Welcomes
-1: Well-reputed
-1: Well-skilled
-1: Well-spoken
-1: Went
-1: West
-1: Western
-1: Whatever
-1: Whate’er
-1: Wheels
-1: Whereon
-1: Wherewith
-1: Whether
-1: Whirlwind
-1: Whisper
-1: Whit
-1: White
-1: Whiteness
-1: Whole
-1: Wilderness
-1: Willing
-1: Wills
-1: Winding
-1: Winter
-1: Wipe
-1: Wishing
-1: Withdraw
-1: Wold
-1: Wonder
-1: Wondered
-1: Wonders
-1: Wood
-1: Woods
-1: Woos
-1: Worldly
-1: Worser
-1: Worshipped
-1: Worst
-1: Worthies
-1: Worthiest
-1: Wot
-1: Wounded
-1: Wrack
-1: Wrath’s
-1: Wreathe
-1: Wretches
-1: Writes
-1: Written
-1: Wrongful
-1: Wrongs
-1: Ye
-1: Years
-1: Yellow
-1: Yokèd
-1: Yond
-1: Yonder
-1: You’re
-1: Zeal
-1: ’dst
-1: ’greed
-1: ’lt
-1: ’mongst
-1: ’s
-1: ’save
-1: ’scape
-1: ’twill
+instances: 551, word: 'I', work: 'TGV'},
+instances: 434, word: 'To', work: 'TGV'},
+instances: 403, word: 'And', work: 'TGV'},
+instances: 380, word: 'The', work: 'TGV'},
+instances: 328, word: 'You', work: 'TGV'},
+instances: 311, word: 'A', work: 'TGV'},
+instances: 285, word: 'That', work: 'TGV'},
+instances: 277, word: 'My', work: 'TGV'},
+instances: 235, word: 'Me', work: 'TGV'},
+instances: 228, word: 'For', work: 'TGV'},
+instances: 226, word: 'Of', work: 'TGV'},
+instances: 225, word: 'Is', work: 'TGV'},
+instances: 201, word: 'Not', work: 'TGV'},
+instances: 200, word: 'Her', work: 'TGV'},
+instances: 175, word: 'In', work: 'TGV'},
+instances: 175, word: 'It', work: 'TGV'},
+instances: 169, word: 'She', work: 'TGV'},
+instances: 163, word: 'Your', work: 'TGV'},
+instances: 162, word: 'Love', work: 'TGV'},
+instances: 148, word: 'Be', work: 'TGV'},
+instances: 148, word: 'But', work: 'TGV'},
+instances: 148, word: 'With', work: 'TGV'},
+instances: 144, word: 'Thou', work: 'TGV'},
+instances: 137, word: 'Have', work: 'TGV'},
+instances: 136, word: 'As', work: 'TGV'},
+instances: 112, word: 'Will', work: 'TGV'},
+instances: 110, word: 'This', work: 'TGV'},
+instances: 109, word: 'So', work: 'TGV'},
+instances: 103, word: 'He', work: 'TGV'},
+instances: 101, word: 'His', work: 'TGV'},
+instances: 101, word: 'What', work: 'TGV'},
+instances: 99, word: 'Thy', work: 'TGV'},
+instances: 93, word: 'Sir', work: 'TGV'},
+instances: 89, word: 'Him', work: 'TGV'},
+instances: 84, word: 'If', work: 'TGV'},
+instances: 84, word: 'Thee', work: 'TGV'},
+instances: 81, word: 'By', work: 'TGV'},
+instances: 81, word: 'No', work: 'TGV'},
+instances: 75, word: 'Now', work: 'TGV'},
+instances: 72, word: 'Are', work: 'TGV'},
+instances: 72, word: 'Do', work: 'TGV'},
+instances: 72, word: 'How', work: 'TGV'},
+instances: 68, word: 'From', work: 'TGV'},
+instances: 68, word: 'On', work: 'TGV'},
+instances: 64, word: 'All', work: 'TGV'},
+instances: 64, word: 'Why', work: 'TGV'},
+instances: 62, word: 'Would', work: 'TGV'},
+instances: 54, word: 'Proteus', work: 'TGV'},
+instances: 54, word: 'Valentine', work: 'TGV'},
+instances: 53, word: 'Hath', work: 'TGV'},
+instances: 53, word: 'Sylvia', work: 'TGV'},
+instances: 53, word: 'When', work: 'TGV'},
+instances: 52, word: 'More', work: 'TGV'},
+instances: 52, word: 'Shall', work: 'TGV'},
+instances: 52, word: 'Then', work: 'TGV'},
+instances: 51, word: 'Well', work: 'TGV'},
+instances: 50, word: 'One', work: 'TGV'},
+instances: 49, word: 'At', work: 'TGV'},
+instances: 49, word: 'Good', work: 'TGV'},
+instances: 49, word: 'Than', work: 'TGV'},
+instances: 47, word: 'Ay', work: 'TGV'},
+instances: 47, word: 'Go', work: 'TGV'},
+instances: 47, word: 'Madam', work: 'TGV'},
+instances: 46, word: 'Am', work: 'TGV'},
+instances: 46, word: 'I\'ll', work: 'TGV'},
+instances: 46, word: 'Them', work: 'TGV'},
+instances: 45, word: 'O', work: 'TGV'},
+instances: 43, word: 'Here', work: 'TGV'},
+instances: 43, word: 'Was', work: 'TGV'},
+instances: 42, word: 'Which', work: 'TGV'},
+instances: 42, word: 'Yet', work: 'TGV'},
+instances: 41, word: 'Come', work: 'TGV'},
+instances: 40, word: 'Such', work: 'TGV'},
+instances: 39, word: 'Much', work: 'TGV'},
+instances: 39, word: 'Should', work: 'TGV'},
+instances: 39, word: '\'tis', work: 'TGV'},
+instances: 38, word: 'Know', work: 'TGV'},
+instances: 38, word: 'Some', work: 'TGV'},
+instances: 36, word: 'Say', work: 'TGV'},
+instances: 36, word: 'There', work: 'TGV'},
+instances: 36, word: 'They', work: 'TGV'},
+instances: 35, word: 'Can', work: 'TGV'},
+instances: 35, word: 'Think', work: 'TGV'},
+instances: 35, word: 'Were', work: 'TGV'},
+instances: 34, word: 'Cannot', work: 'TGV'},
+instances: 34, word: 'Master', work: 'TGV'},
+instances: 34, word: 'Our', work: 'TGV'},
+instances: 34, word: 'Upon', work: 'TGV'},
+instances: 33, word: 'An', work: 'TGV'},
+instances: 32, word: 'Make', work: 'TGV'},
+instances: 32, word: 'May', work: 'TGV'},
+instances: 31, word: 'Let', work: 'TGV'},
+instances: 31, word: 'Like', work: 'TGV'},
+instances: 31, word: 'Where', work: 'TGV'},
+instances: 30, word: 'Mine', work: 'TGV'},
+instances: 30, word: 'We', work: 'TGV'},
+instances: 29, word: 'Lord', work: 'TGV'},
+instances: 29, word: 'Man', work: 'TGV'},
+instances: 29, word: 'Or', work: 'TGV'},
+instances: 29, word: 'See', work: 'TGV'},
+instances: 28, word: 'Friend', work: 'TGV'},
+instances: 28, word: 'Must', work: 'TGV'},
+instances: 28, word: 'Too', work: 'TGV'},
+instances: 27, word: 'Did', work: 'TGV'},
+instances: 27, word: 'Julia', work: 'TGV'},
+instances: 27, word: 'Letter', work: 'TGV'},
+instances: 27, word: 'Sweet', work: 'TGV'},
+instances: 27, word: 'Their', work: 'TGV'},
+instances: 26, word: 'Out', work: 'TGV'},
+instances: 25, word: 'Had', work: 'TGV'},
+instances: 25, word: 'Myself', work: 'TGV'},
+instances: 25, word: 'Take', work: 'TGV'},
+instances: 24, word: 'Nay', work: 'TGV'},
+instances: 24, word: 'Time', work: 'TGV'},
+instances: 23, word: 'Thurio', work: 'TGV'},
+instances: 22, word: 'Give', work: 'TGV'},
+instances: 22, word: 'Lady', work: 'TGV'},
+instances: 22, word: 'Look', work: 'TGV'},
+instances: 22, word: 'Tell', work: 'TGV'},
+instances: 22, word: 'That\'s', work: 'TGV'},
+instances: 21, word: 'Dog', work: 'TGV'},
+instances: 21, word: 'Fair', work: 'TGV'},
+instances: 21, word: 'Father', work: 'TGV'},
+instances: 20, word: 'Away', work: 'TGV'},
+instances: 20, word: 'Being', work: 'TGV'},
+instances: 20, word: 'Hast', work: 'TGV'},
+instances: 20, word: 'Who', work: 'TGV'},
+instances: 19, word: 'Art', work: 'TGV'},
+instances: 19, word: 'Been', work: 'TGV'},
+instances: 18, word: 'Item', work: 'TGV'},
+instances: 18, word: 'Nothing', work: 'TGV'},
+instances: 18, word: 'Pray', work: 'TGV'},
+instances: 18, word: 'Therefore', work: 'TGV'},
+instances: 18, word: 'True', work: 'TGV'},
+instances: 17, word: 'Gentle', work: 'TGV'},
+instances: 17, word: 'Grace', work: 'TGV'},
+instances: 17, word: 'Leave', work: 'TGV'},
+instances: 17, word: 'Servant', work: 'TGV'},
+instances: 17, word: 'These', work: 'TGV'},
+instances: 17, word: 'Very', work: 'TGV'},
+instances: 17, word: 'Wit', work: 'TGV'},
+instances: 16, word: 'Hear', work: 'TGV'},
+instances: 16, word: 'Heart', work: 'TGV'},
+instances: 16, word: 'Made', work: 'TGV'},
+instances: 16, word: 'Makes', work: 'TGV'},
+instances: 16, word: 'Speak', work: 'TGV'},
+instances: 16, word: 'Word', work: 'TGV'},
+instances: 16, word: 'Writ', work: 'TGV'},
+instances: 15, word: 'Because', work: 'TGV'},
+instances: 15, word: 'Done', work: 'TGV'},
+instances: 15, word: 'Else', work: 'TGV'},
+instances: 15, word: 'Even', work: 'TGV'},
+instances: 15, word: 'Fear', work: 'TGV'},
+instances: 15, word: 'Gentleman', work: 'TGV'},
+instances: 15, word: 'Lose', work: 'TGV'},
+instances: 15, word: 'Mistress', work: 'TGV'},
+instances: 15, word: 'Never', work: 'TGV'},
+instances: 15, word: 'Please', work: 'TGV'},
+instances: 15, word: 'Thus', work: 'TGV'},
+instances: 15, word: 'Us', work: 'TGV'},
+instances: 15, word: 'Youth', work: 'TGV'},
+instances: 14, word: 'Best', work: 'TGV'},
+instances: 14, word: 'Doth', work: 'TGV'},
+instances: 14, word: 'Gone', work: 'TGV'},
+instances: 14, word: 'Marry', work: 'TGV'},
+instances: 14, word: 'Mean', work: 'TGV'},
+instances: 14, word: 'Presently', work: 'TGV'},
+instances: 14, word: 'Up', work: 'TGV'},
+instances: 13, word: 'Another', work: 'TGV'},
+instances: 13, word: 'Ever', work: 'TGV'},
+instances: 13, word: 'False', work: 'TGV'},
+instances: 13, word: 'Gave', work: 'TGV'},
+instances: 13, word: 'Hence', work: 'TGV'},
+instances: 13, word: 'Ladyship', work: 'TGV'},
+instances: 13, word: 'Men', work: 'TGV'},
+instances: 13, word: 'Mind', work: 'TGV'},
+instances: 13, word: 'Still', work: 'TGV'},
+instances: 13, word: 'Unto', work: 'TGV'},
+instances: 13, word: 'Welcome', work: 'TGV'},
+instances: 13, word: 'Words', work: 'TGV'},
+instances: 13, word: '\'t', work: 'TGV'},
+instances: 12, word: 'After', work: 'TGV'},
+instances: 12, word: 'Again', work: 'TGV'},
+instances: 12, word: 'Better', work: 'TGV'},
+instances: 12, word: 'Call', work: 'TGV'},
+instances: 12, word: 'Chamber', work: 'TGV'},
+instances: 12, word: 'Indeed', work: 'TGV'},
+instances: 12, word: 'Name', work: 'TGV'},
+instances: 12, word: 'Night', work: 'TGV'},
+instances: 12, word: 'Own', work: 'TGV'},
+instances: 12, word: 'Says', work: 'TGV'},
+instances: 12, word: 'Since', work: 'TGV'},
+instances: 12, word: 'Thank', work: 'TGV'},
+instances: 12, word: 'Without', work: 'TGV'},
+instances: 11, word: 'Boy', work: 'TGV'},
+instances: 11, word: 'Company', work: 'TGV'},
+instances: 11, word: 'Could', work: 'TGV'},
+instances: 11, word: 'Eglamour', work: 'TGV'},
+instances: 11, word: 'Eyes', work: 'TGV'},
+instances: 11, word: 'Gentlemen', work: 'TGV'},
+instances: 11, word: 'Heaven', work: 'TGV'},
+instances: 11, word: 'Little', work: 'TGV'},
+instances: 11, word: 'Long', work: 'TGV'},
+instances: 11, word: 'News', work: 'TGV'},
+instances: 11, word: 'Nor', work: 'TGV'},
+instances: 11, word: 'Poor', work: 'TGV'},
+instances: 11, word: 'Sake', work: 'TGV'},
+instances: 11, word: 'Sent', work: 'TGV'},
+instances: 11, word: 'Sheep', work: 'TGV'},
+instances: 11, word: 'Tears', work: 'TGV'},
+instances: 11, word: 'Thousand', work: 'TGV'},
+instances: 11, word: 'Whose', work: 'TGV'},
+instances: 11, word: 'Worth', work: 'TGV'},
+instances: 10, word: 'Bear', work: 'TGV'},
+instances: 10, word: 'Comes', work: 'TGV'},
+instances: 10, word: 'Daughter', work: 'TGV'},
+instances: 10, word: 'Day', work: 'TGV'},
+instances: 10, word: 'Folly', work: 'TGV'},
+instances: 10, word: 'Kind', work: 'TGV'},
+instances: 10, word: 'Loved', work: 'TGV'},
+instances: 10, word: 'Lucetta', work: 'TGV'},
+instances: 10, word: 'Matter', work: 'TGV'},
+instances: 10, word: 'Most', work: 'TGV'},
+instances: 10, word: 'Music', work: 'TGV'},
+instances: 10, word: 'Ring', work: 'TGV'},
+instances: 10, word: 'Service', work: 'TGV'},
+instances: 10, word: 'We\'ll', work: 'TGV'},
+instances: 10, word: 'Whom', work: 'TGV'},
+instances: 10, word: 'Worthy', work: 'TGV'},
+instances: 9, word: 'Alas', work: 'TGV'},
+instances: 9, word: 'Any', work: 'TGV'},
+instances: 9, word: 'Banished', work: 'TGV'},
+instances: 9, word: 'Bring', work: 'TGV'},
+instances: 9, word: 'Dost', work: 'TGV'},
+instances: 9, word: 'Down', work: 'TGV'},
+instances: 9, word: 'Fool', work: 'TGV'},
+instances: 9, word: 'Fortune', work: 'TGV'},
+instances: 9, word: 'Friends', work: 'TGV'},
+instances: 9, word: 'Himself', work: 'TGV'},
+instances: 9, word: 'Hold', work: 'TGV'},
+instances: 9, word: 'Home', work: 'TGV'},
+instances: 9, word: 'Into', work: 'TGV'},
+instances: 9, word: 'Kiss', work: 'TGV'},
+instances: 9, word: 'Live', work: 'TGV'},
+instances: 9, word: 'Meet', work: 'TGV'},
+instances: 9, word: 'Paper', work: 'TGV'},
+instances: 9, word: 'Pity', work: 'TGV'},
+instances: 9, word: 'Thing', work: 'TGV'},
+instances: 9, word: 'Tune', work: 'TGV'},
+instances: 9, word: 'Unless', work: 'TGV'},
+instances: 9, word: 'Wilt', work: 'TGV'},
+instances: 8, word: 'Against', work: 'TGV'},
+instances: 8, word: 'Alone', work: 'TGV'},
+instances: 8, word: 'Base', work: 'TGV'},
+instances: 8, word: 'Beauty', work: 'TGV'},
+instances: 8, word: 'Court', work: 'TGV'},
+instances: 8, word: 'Discourse', work: 'TGV'},
+instances: 8, word: 'Except', work: 'TGV'},
+instances: 8, word: 'Eye', work: 'TGV'},
+instances: 8, word: 'Full', work: 'TGV'},
+instances: 8, word: 'Get', work: 'TGV'},
+instances: 8, word: 'Hate', work: 'TGV'},
+instances: 8, word: 'Honor', work: 'TGV'},
+instances: 8, word: 'Ladder', work: 'TGV'},
+instances: 8, word: 'Life', work: 'TGV'},
+instances: 8, word: 'Loves', work: 'TGV'},
+instances: 8, word: 'Maid', work: 'TGV'},
+instances: 8, word: 'Many', work: 'TGV'},
+instances: 8, word: 'Might', work: 'TGV'},
+instances: 8, word: 'Other', work: 'TGV'},
+instances: 8, word: 'Perceive', work: 'TGV'},
+instances: 8, word: 'Prove', work: 'TGV'},
+instances: 8, word: 'Reason', work: 'TGV'},
+instances: 8, word: 'Rest', work: 'TGV'},
+instances: 8, word: 'Shepherd', work: 'TGV'},
+instances: 8, word: 'Son', work: 'TGV'},
+instances: 8, word: 'Stand', work: 'TGV'},
+instances: 8, word: 'Sure', work: 'TGV'},
+instances: 8, word: 'Though', work: 'TGV'},
+instances: 8, word: 'Thoughts', work: 'TGV'},
+instances: 8, word: 'Till', work: 'TGV'},
+instances: 8, word: 'Use', work: 'TGV'},
+instances: 8, word: 'What\'s', work: 'TGV'},
+instances: 8, word: 'World', work: 'TGV'},
+instances: 8, word: 'Yours', work: 'TGV'},
+instances: 8, word: 'Yourself', work: 'TGV'},
+instances: 7, word: 'About', work: 'TGV'},
+instances: 7, word: 'Along', work: 'TGV'},
+instances: 7, word: 'Become', work: 'TGV'},
+instances: 7, word: 'Counsel', work: 'TGV'},
+instances: 7, word: 'Dead', work: 'TGV'},
+instances: 7, word: 'Death', work: 'TGV'},
+instances: 7, word: 'Didst', work: 'TGV'},
+instances: 7, word: 'Earth', work: 'TGV'},
+instances: 7, word: 'Face', work: 'TGV'},
+instances: 7, word: 'Faith', work: 'TGV'},
+instances: 7, word: 'Far', work: 'TGV'},
+instances: 7, word: 'Faults', work: 'TGV'},
+instances: 7, word: 'Find', work: 'TGV'},
+instances: 7, word: 'Fire', work: 'TGV'},
+instances: 7, word: 'Follow', work: 'TGV'},
+instances: 7, word: 'Forsworn', work: 'TGV'},
+instances: 7, word: 'Great', work: 'TGV'},
+instances: 7, word: 'Hair', work: 'TGV'},
+instances: 7, word: 'Happy', work: 'TGV'},
+instances: 7, word: 'Hard', work: 'TGV'},
+instances: 7, word: 'Keep', work: 'TGV'},
+instances: 7, word: 'Lance', work: 'TGV'},
+instances: 7, word: 'Light', work: 'TGV'},
+instances: 7, word: 'Neither', work: 'TGV'},
+instances: 7, word: 'Oaths', work: 'TGV'},
+instances: 7, word: 'Often', work: 'TGV'},
+instances: 7, word: 'Once', work: 'TGV'},
+instances: 7, word: 'Over', work: 'TGV'},
+instances: 7, word: 'Pardon', work: 'TGV'},
+instances: 7, word: 'Peace', work: 'TGV'},
+instances: 7, word: 'Picture', work: 'TGV'},
+instances: 7, word: 'Read', work: 'TGV'},
+instances: 7, word: 'Return', work: 'TGV'},
+instances: 7, word: 'Said', work: 'TGV'},
+instances: 7, word: 'Seek', work: 'TGV'},
+instances: 7, word: 'Send', work: 'TGV'},
+instances: 7, word: 'Set', work: 'TGV'},
+instances: 7, word: 'Shadow', work: 'TGV'},
+instances: 7, word: 'Shalt', work: 'TGV'},
+instances: 7, word: 'Show', work: 'TGV'},
+instances: 7, word: 'Thyself', work: 'TGV'},
+instances: 7, word: 'Way', work: 'TGV'},
+instances: 7, word: 'Wish', work: 'TGV'},
+instances: 7, word: 'Woman', work: 'TGV'},
+instances: 7, word: 'Write', work: 'TGV'},
+instances: 6, word: 'Awhile', work: 'TGV'},
+instances: 6, word: 'Black', work: 'TGV'},
+instances: 6, word: 'Blind', work: 'TGV'},
+instances: 6, word: 'Break', work: 'TGV'},
+instances: 6, word: 'Came', work: 'TGV'},
+instances: 6, word: 'Care', work: 'TGV'},
+instances: 6, word: 'Change', work: 'TGV'},
+instances: 6, word: 'Cloak', work: 'TGV'},
+instances: 6, word: 'Commend', work: 'TGV'},
+instances: 6, word: 'Dear', work: 'TGV'},
+instances: 6, word: 'Delivered', work: 'TGV'},
+instances: 6, word: 'Duty', work: 'TGV'},
+instances: 6, word: 'End', work: 'TGV'},
+instances: 6, word: 'Ere', work: 'TGV'},
+instances: 6, word: 'Fast', work: 'TGV'},
+instances: 6, word: 'Fault', work: 'TGV'},
+instances: 6, word: 'Fit', work: 'TGV'},
+instances: 6, word: 'Forbear', work: 'TGV'},
+instances: 6, word: 'Having', work: 'TGV'},
+instances: 6, word: 'Hour', work: 'TGV'},
+instances: 6, word: 'Kept', work: 'TGV'},
+instances: 6, word: 'Knew', work: 'TGV'},
+instances: 6, word: 'Know\'st', work: 'TGV'},
+instances: 6, word: 'Left', work: 'TGV'},
+instances: 6, word: 'Lest', work: 'TGV'},
+instances: 6, word: 'Lines', work: 'TGV'},
+instances: 6, word: 'Lives', work: 'TGV'},
+instances: 6, word: 'Losing', work: 'TGV'},
+instances: 6, word: 'Lov\'st', work: 'TGV'},
+instances: 6, word: 'Master\'s', work: 'TGV'},
+instances: 6, word: 'Match', work: 'TGV'},
+instances: 6, word: 'Need', work: 'TGV'},
+instances: 6, word: 'None', work: 'TGV'},
+instances: 6, word: 'Pains', work: 'TGV'},
+instances: 6, word: 'Pure', work: 'TGV'},
+instances: 6, word: 'Rather', work: 'TGV'},
+instances: 6, word: 'Serve', work: 'TGV'},
+instances: 6, word: 'Shame', work: 'TGV'},
+instances: 6, word: 'Slow', work: 'TGV'},
+instances: 6, word: 'Spend', work: 'TGV'},
+instances: 6, word: 'Stands', work: 'TGV'},
+instances: 6, word: 'Tender', work: 'TGV'},
+instances: 6, word: 'Thine', work: 'TGV'},
+instances: 6, word: 'Think\'st', work: 'TGV'},
+instances: 6, word: 'Tide', work: 'TGV'},
+instances: 6, word: 'Tongue', work: 'TGV'},
+instances: 6, word: 'Trust', work: 'TGV'},
+instances: 6, word: 'Turn', work: 'TGV'},
+instances: 6, word: 'Twenty', work: 'TGV'},
+instances: 6, word: 'Two', work: 'TGV'},
+instances: 6, word: 'Unhappy', work: 'TGV'},
+instances: 6, word: 'Virtue', work: 'TGV'},
+instances: 6, word: 'Young', work: 'TGV'},
+instances: 6, word: '\'twere', work: 'TGV'},
+instances: 5, word: 'Advice', work: 'TGV'},
+instances: 5, word: 'Already', work: 'TGV'},
+instances: 5, word: 'Before', work: 'TGV'},
+instances: 5, word: 'Belike', work: 'TGV'},
+instances: 5, word: 'Besides', work: 'TGV'},
+instances: 5, word: 'Brought', work: 'TGV'},
+instances: 5, word: 'Canst', work: 'TGV'},
+instances: 5, word: 'Carry', work: 'TGV'},
+instances: 5, word: 'Coming', work: 'TGV'},
+instances: 5, word: 'Command', work: 'TGV'},
+instances: 5, word: 'Confer', work: 'TGV'},
+instances: 5, word: 'Cur', work: 'TGV'},
+instances: 5, word: 'Dare', work: 'TGV'},
+instances: 5, word: 'Deliver', work: 'TGV'},
+instances: 5, word: 'Enough', work: 'TGV'},
+instances: 5, word: 'Fashion', work: 'TGV'},
+instances: 5, word: 'Fie', work: 'TGV'},
+instances: 5, word: 'First', work: 'TGV'},
+instances: 5, word: 'Flatter', work: 'TGV'},
+instances: 5, word: 'Flight', work: 'TGV'},
+instances: 5, word: 'Fly', work: 'TGV'},
+instances: 5, word: 'Force', work: 'TGV'},
+instances: 5, word: 'Girl', work: 'TGV'},
+instances: 5, word: 'Going', work: 'TGV'},
+instances: 5, word: 'Hands', work: 'TGV'},
+instances: 5, word: 'Happiness', work: 'TGV'},
+instances: 5, word: 'Help', work: 'TGV'},
+instances: 5, word: 'High', work: 'TGV'},
+instances: 5, word: 'Holy', work: 'TGV'},
+instances: 5, word: 'Hope', work: 'TGV'},
+instances: 5, word: 'It\'s', work: 'TGV'},
+instances: 5, word: 'Joy', work: 'TGV'},
+instances: 5, word: 'Julia\'s', work: 'TGV'},
+instances: 5, word: 'Last', work: 'TGV'},
+instances: 5, word: 'Letters', work: 'TGV'},
+instances: 5, word: 'Lie', work: 'TGV'},
+instances: 5, word: 'Likes', work: 'TGV'},
+instances: 5, word: 'Longer', work: 'TGV'},
+instances: 5, word: 'Looks', work: 'TGV'},
+instances: 5, word: 'Lost', work: 'TGV'},
+instances: 5, word: 'Lover', work: 'TGV'},
+instances: 5, word: 'Love\'s', work: 'TGV'},
+instances: 5, word: 'Means', work: 'TGV'},
+instances: 5, word: 'Messenger', work: 'TGV'},
+instances: 5, word: 'Methinks', work: 'TGV'},
+instances: 5, word: 'Off', work: 'TGV'},
+instances: 5, word: 'Only', work: 'TGV'},
+instances: 5, word: 'Perfection', work: 'TGV'},
+instances: 5, word: 'Play', work: 'TGV'},
+instances: 5, word: 'Present', work: 'TGV'},
+instances: 5, word: 'Run', work: 'TGV'},
+instances: 5, word: 'Saw', work: 'TGV'},
+instances: 5, word: 'Sea', work: 'TGV'},
+instances: 5, word: 'Shoe', work: 'TGV'},
+instances: 5, word: 'Sighs', work: 'TGV'},
+instances: 5, word: 'Sing', work: 'TGV'},
+instances: 5, word: 'Sleep', work: 'TGV'},
+instances: 5, word: 'Stay', work: 'TGV'},
+instances: 5, word: 'Takes', work: 'TGV'},
+instances: 5, word: 'Talk', work: 'TGV'},
+instances: 5, word: 'Tear', work: 'TGV'},
+instances: 5, word: 'Thence', work: 'TGV'},
+instances: 5, word: 'Things', work: 'TGV'},
+instances: 5, word: 'Tied', work: 'TGV'},
+instances: 5, word: 'Times', work: 'TGV'},
+instances: 5, word: 'Touch', work: 'TGV'},
+instances: 5, word: 'Truth', work: 'TGV'},
+instances: 5, word: 'Under', work: 'TGV'},
+instances: 5, word: 'Want', work: 'TGV'},
+instances: 5, word: 'Warrant', work: 'TGV'},
+instances: 5, word: 'Water', work: 'TGV'},
+instances: 5, word: 'While', work: 'TGV'},
+instances: 5, word: 'Window', work: 'TGV'},
+instances: 5, word: 'Women', work: 'TGV'},
+instances: 5, word: 'Worship', work: 'TGV'},
+instances: 5, word: 'Worthless', work: 'TGV'},
+instances: 5, word: 'Wouldst', work: 'TGV'},
+instances: 5, word: 'Wrong', work: 'TGV'},
+instances: 4, word: 'According', work: 'TGV'},
+instances: 4, word: 'Affairs', work: 'TGV'},
+instances: 4, word: 'Age', work: 'TGV'},
+instances: 4, word: 'Always', work: 'TGV'},
+instances: 4, word: 'Ask', work: 'TGV'},
+instances: 4, word: 'Ass', work: 'TGV'},
+instances: 4, word: 'Back', work: 'TGV'},
+instances: 4, word: 'Bad', work: 'TGV'},
+instances: 4, word: 'Bare', work: 'TGV'},
+instances: 4, word: 'Bestow', work: 'TGV'},
+instances: 4, word: 'Boots', work: 'TGV'},
+instances: 4, word: 'Bosom', work: 'TGV'},
+instances: 4, word: 'Both', work: 'TGV'},
+instances: 4, word: 'Circumstance', work: 'TGV'},
+instances: 4, word: 'Cry', work: 'TGV'},
+instances: 4, word: 'Desert', work: 'TGV'},
+instances: 4, word: 'Desire', work: 'TGV'},
+instances: 4, word: 'Discover', work: 'TGV'},
+instances: 4, word: 'Divine', work: 'TGV'},
+instances: 4, word: 'Duke', work: 'TGV'},
+instances: 4, word: 'Each', work: 'TGV'},
+instances: 4, word: 'Ev\'n', work: 'TGV'},
+instances: 4, word: 'Excuse', work: 'TGV'},
+instances: 4, word: 'Expedition', work: 'TGV'},
+instances: 4, word: 'Farewell', work: 'TGV'},
+instances: 4, word: 'Feed', work: 'TGV'},
+instances: 4, word: 'Follows', work: 'TGV'},
+instances: 4, word: 'Forget', work: 'TGV'},
+instances: 4, word: 'Friar', work: 'TGV'},
+instances: 4, word: 'Gentlewoman', work: 'TGV'},
+instances: 4, word: 'Goes', work: 'TGV'},
+instances: 4, word: 'Grave', work: 'TGV'},
+instances: 4, word: 'Grief', work: 'TGV'},
+instances: 4, word: 'Hand', work: 'TGV'},
+instances: 4, word: 'Haply', work: 'TGV'},
+instances: 4, word: 'Hark', work: 'TGV'},
+instances: 4, word: 'Heard', work: 'TGV'},
+instances: 4, word: 'Heavenly', work: 'TGV'},
+instances: 4, word: 'Here\'s', work: 'TGV'},
+instances: 4, word: 'Hers', work: 'TGV'},
+instances: 4, word: 'Herself', work: 'TGV'},
+instances: 4, word: 'Ignorant', work: 'TGV'},
+instances: 4, word: 'Journey', work: 'TGV'},
+instances: 4, word: 'Knows', work: 'TGV'},
+instances: 4, word: 'Lady\'s', work: 'TGV'},
+instances: 4, word: 'Least', work: 'TGV'},
+instances: 4, word: 'Lend', work: 'TGV'},
+instances: 4, word: 'Less', work: 'TGV'},
+instances: 4, word: 'Lordship', work: 'TGV'},
+instances: 4, word: 'Loving', work: 'TGV'},
+instances: 4, word: 'Milan', work: 'TGV'},
+instances: 4, word: 'Modesty', work: 'TGV'},
+instances: 4, word: 'Mother', work: 'TGV'},
+instances: 4, word: 'Mutton', work: 'TGV'},
+instances: 4, word: 'Near', work: 'TGV'},
+instances: 4, word: 'Needs', work: 'TGV'},
+instances: 4, word: 'Next', work: 'TGV'},
+instances: 4, word: 'Part', work: 'TGV'},
+instances: 4, word: 'Patience', work: 'TGV'},
+instances: 4, word: 'Penance', work: 'TGV'},
+instances: 4, word: 'Perfect', work: 'TGV'},
+instances: 4, word: 'Perjury', work: 'TGV'},
+instances: 4, word: 'Plead', work: 'TGV'},
+instances: 4, word: 'Pound', work: 'TGV'},
+instances: 4, word: 'Praise', work: 'TGV'},
+instances: 4, word: 'Purse', work: 'TGV'},
+instances: 4, word: 'Put', work: 'TGV'},
+instances: 4, word: 'Resort', work: 'TGV'},
+instances: 4, word: 'Respect', work: 'TGV'},
+instances: 4, word: 'Sad', work: 'TGV'},
+instances: 4, word: 'Sayst', work: 'TGV'},
+instances: 4, word: 'Scorn', work: 'TGV'},
+instances: 4, word: 'Seest', work: 'TGV'},
+instances: 4, word: 'Self', work: 'TGV'},
+instances: 4, word: 'Shows', work: 'TGV'},
+instances: 4, word: 'Sirrah', work: 'TGV'},
+instances: 4, word: 'Small', work: 'TGV'},
+instances: 4, word: 'Soon', work: 'TGV'},
+instances: 4, word: 'Sorrow', work: 'TGV'},
+instances: 4, word: 'Staff', work: 'TGV'},
+instances: 4, word: 'Stayed', work: 'TGV'},
+instances: 4, word: 'Stays', work: 'TGV'},
+instances: 4, word: 'Stones', work: 'TGV'},
+instances: 4, word: 'Substance', work: 'TGV'},
+instances: 4, word: 'Sylvia\'s', work: 'TGV'},
+instances: 4, word: 'Taught', work: 'TGV'},
+instances: 4, word: 'Thither', work: 'TGV'},
+instances: 4, word: 'Thought', work: 'TGV'},
+instances: 4, word: 'Three', work: 'TGV'},
+instances: 4, word: 'Through', work: 'TGV'},
+instances: 4, word: 'Tomorrow', work: 'TGV'},
+instances: 4, word: 'Travel', work: 'TGV'},
+instances: 4, word: 'Verona', work: 'TGV'},
+instances: 4, word: 'Vows', work: 'TGV'},
+instances: 4, word: 'Walk', work: 'TGV'},
+instances: 4, word: 'Wealth', work: 'TGV'},
+instances: 4, word: 'Wear', work: 'TGV'},
+instances: 4, word: 'Weary', work: 'TGV'},
+instances: 4, word: 'Weep', work: 'TGV'},
+instances: 4, word: 'Wept', work: 'TGV'},
+instances: 4, word: 'Whither', work: 'TGV'},
+instances: 4, word: 'Win', work: 'TGV'},
+instances: 4, word: 'Wise', work: 'TGV'},
+instances: 4, word: 'Witness', work: 'TGV'},
+instances: 4, word: 'Woman\'s', work: 'TGV'},
+instances: 4, word: 'Wont', work: 'TGV'},
+instances: 4, word: 'Youthful', work: 'TGV'},
+instances: 4, word: 'You\'ll', work: 'TGV'},
+instances: 3, word: 'Access', work: 'TGV'},
+instances: 3, word: 'Adieu', work: 'TGV'},
+instances: 3, word: 'Air', work: 'TGV'},
+instances: 3, word: 'Ale', work: 'TGV'},
+instances: 3, word: 'Alive', work: 'TGV'},
+instances: 3, word: 'Amends', work: 'TGV'},
+instances: 3, word: 'Answer', work: 'TGV'},
+instances: 3, word: 'Attend', work: 'TGV'},
+instances: 3, word: 'Bade', work: 'TGV'},
+instances: 3, word: 'Banishèd', work: 'TGV'},
+instances: 3, word: 'Bed', work: 'TGV'},
+instances: 3, word: 'Begin', work: 'TGV'},
+instances: 3, word: 'Begone', work: 'TGV'},
+instances: 3, word: 'Beloved', work: 'TGV'},
+instances: 3, word: 'Bid', work: 'TGV'},
+instances: 3, word: 'Bids', work: 'TGV'},
+instances: 3, word: 'Birth', work: 'TGV'},
+instances: 3, word: 'Bitter', work: 'TGV'},
+instances: 3, word: 'Bold', work: 'TGV'},
+instances: 3, word: 'Breath', work: 'TGV'},
+instances: 3, word: 'Bud', work: 'TGV'},
+instances: 3, word: 'Burn', work: 'TGV'},
+instances: 3, word: 'Captain', work: 'TGV'},
+instances: 3, word: 'Cast', work: 'TGV'},
+instances: 3, word: 'Cease', work: 'TGV'},
+instances: 3, word: 'Cell', work: 'TGV'},
+instances: 3, word: 'Chid', work: 'TGV'},
+instances: 3, word: 'Chide', work: 'TGV'},
+instances: 3, word: 'Christian', work: 'TGV'},
+instances: 3, word: 'Climb', work: 'TGV'},
+instances: 3, word: 'Close', work: 'TGV'},
+instances: 3, word: 'Cold', work: 'TGV'},
+instances: 3, word: 'Compass', work: 'TGV'},
+instances: 3, word: 'Complaining', work: 'TGV'},
+instances: 3, word: 'Constant', work: 'TGV'},
+instances: 3, word: 'Count', work: 'TGV'},
+instances: 3, word: 'Course', work: 'TGV'},
+instances: 3, word: 'Crab', work: 'TGV'},
+instances: 3, word: 'Cross', work: 'TGV'},
+instances: 3, word: 'Curse', work: 'TGV'},
+instances: 3, word: 'Danger', work: 'TGV'},
+instances: 3, word: 'Days', work: 'TGV'},
+instances: 3, word: 'Deep', work: 'TGV'},
+instances: 3, word: 'Die', work: 'TGV'},
+instances: 3, word: 'Dinner', work: 'TGV'},
+instances: 3, word: 'Dispatch', work: 'TGV'},
+instances: 3, word: 'Dispose', work: 'TGV'},
+instances: 3, word: 'Doom', work: 'TGV'},
+instances: 3, word: 'Dote', work: 'TGV'},
+instances: 3, word: 'Dream', work: 'TGV'},
+instances: 3, word: 'Drift', work: 'TGV'},
+instances: 3, word: 'Dumb', work: 'TGV'},
+instances: 3, word: 'Ear', work: 'TGV'},
+instances: 3, word: 'Effect', work: 'TGV'},
+instances: 3, word: 'Emperor', work: 'TGV'},
+instances: 3, word: 'Emperor\'s', work: 'TGV'},
+instances: 3, word: 'Entertain', work: 'TGV'},
+instances: 3, word: 'Evening', work: 'TGV'},
+instances: 3, word: 'Every', work: 'TGV'},
+instances: 3, word: 'E\'er', work: 'TGV'},
+instances: 3, word: 'Fall', work: 'TGV'},
+instances: 3, word: 'Falsehood', work: 'TGV'},
+instances: 3, word: 'Favor', work: 'TGV'},
+instances: 3, word: 'Fearing', work: 'TGV'},
+instances: 3, word: 'Fetch', work: 'TGV'},
+instances: 3, word: 'Figure', work: 'TGV'},
+instances: 3, word: 'Fine', work: 'TGV'},
+instances: 3, word: 'Fled', work: 'TGV'},
+instances: 3, word: 'Food', work: 'TGV'},
+instances: 3, word: 'Foolish', work: 'TGV'},
+instances: 3, word: 'Forgive', work: 'TGV'},
+instances: 3, word: 'Forgot', work: 'TGV'},
+instances: 3, word: 'Form', work: 'TGV'},
+instances: 3, word: 'Gate', work: 'TGV'},
+instances: 3, word: 'Gracious', work: 'TGV'},
+instances: 3, word: 'Grant', work: 'TGV'},
+instances: 3, word: 'Greater', work: 'TGV'},
+instances: 3, word: 'Groans', work: 'TGV'},
+instances: 3, word: 'Habit', work: 'TGV'},
+instances: 3, word: 'Harbor', work: 'TGV'},
+instances: 3, word: 'Hardly', work: 'TGV'},
+instances: 3, word: 'Haste', work: 'TGV'},
+instances: 3, word: 'Head', work: 'TGV'},
+instances: 3, word: 'Health', work: 'TGV'},
+instances: 3, word: 'Heat', work: 'TGV'},
+instances: 3, word: 'Heavy', work: 'TGV'},
+instances: 3, word: 'Held', work: 'TGV'},
+instances: 3, word: 'Henceforth', work: 'TGV'},
+instances: 3, word: 'Hither', work: 'TGV'},
+instances: 3, word: 'Honorable', work: 'TGV'},
+instances: 3, word: 'Horse', work: 'TGV'},
+instances: 3, word: 'Hose', work: 'TGV'},
+instances: 3, word: 'Host', work: 'TGV'},
+instances: 3, word: 'House', work: 'TGV'},
+instances: 3, word: 'Ill', work: 'TGV'},
+instances: 3, word: 'Importune', work: 'TGV'},
+instances: 3, word: 'Intend', work: 'TGV'},
+instances: 3, word: 'Jest', work: 'TGV'},
+instances: 3, word: 'Judge', work: 'TGV'},
+instances: 3, word: 'Kill', work: 'TGV'},
+instances: 3, word: 'King', work: 'TGV'},
+instances: 3, word: 'Knit', work: 'TGV'},
+instances: 3, word: 'Labor', work: 'TGV'},
+instances: 3, word: 'Ladyship\'s', work: 'TGV'},
+instances: 3, word: 'Leg', work: 'TGV'},
+instances: 3, word: 'Let\'s', work: 'TGV'},
+instances: 3, word: 'Living', work: 'TGV'},
+instances: 3, word: 'Lodge', work: 'TGV'},
+instances: 3, word: 'Lovers', work: 'TGV'},
+instances: 3, word: 'Mantua', work: 'TGV'},
+instances: 3, word: 'Mark', work: 'TGV'},
+instances: 3, word: 'Message', work: 'TGV'},
+instances: 3, word: 'Mistake', work: 'TGV'},
+instances: 3, word: 'Mistook', work: 'TGV'},
+instances: 3, word: 'Mistress\'', work: 'TGV'},
+instances: 3, word: 'Morrow', work: 'TGV'},
+instances: 3, word: 'Moved', work: 'TGV'},
+instances: 3, word: 'Names', work: 'TGV'},
+instances: 3, word: 'Neglect', work: 'TGV'},
+instances: 3, word: 'Ne\'er', work: 'TGV'},
+instances: 3, word: 'Nightly', work: 'TGV'},
+instances: 3, word: 'Nod', work: 'TGV'},
+instances: 3, word: 'Noddy', work: 'TGV'},
+instances: 3, word: 'Nought', work: 'TGV'},
+instances: 3, word: 'Object', work: 'TGV'},
+instances: 3, word: 'Offered', work: 'TGV'},
+instances: 3, word: 'Office', work: 'TGV'},
+instances: 3, word: 'Oft', work: 'TGV'},
+instances: 3, word: 'Old', work: 'TGV'},
+instances: 3, word: 'Otherwise', work: 'TGV'},
+instances: 3, word: 'Page', work: 'TGV'},
+instances: 3, word: 'Painted', work: 'TGV'},
+instances: 3, word: 'Parted', work: 'TGV'},
+instances: 3, word: 'Parting', work: 'TGV'},
+instances: 3, word: 'Passing', work: 'TGV'},
+instances: 3, word: 'Patrick\'s', work: 'TGV'},
+instances: 3, word: 'Pearls', work: 'TGV'},
+instances: 3, word: 'Perjured', work: 'TGV'},
+instances: 3, word: 'Place', work: 'TGV'},
+instances: 3, word: 'Pleased', work: 'TGV'},
+instances: 3, word: 'Possessions', work: 'TGV'},
+instances: 3, word: 'Prefer', work: 'TGV'},
+instances: 3, word: 'Prize', work: 'TGV'},
+instances: 3, word: 'Proceed', work: 'TGV'},
+instances: 3, word: 'Proud', work: 'TGV'},
+instances: 3, word: 'Purpose', work: 'TGV'},
+instances: 3, word: 'Qualities', work: 'TGV'},
+instances: 3, word: 'Quick', work: 'TGV'},
+instances: 3, word: 'Quickly', work: 'TGV'},
+instances: 3, word: 'Quoth', work: 'TGV'},
+instances: 3, word: 'Request', work: 'TGV'},
+instances: 3, word: 'Respects', work: 'TGV'},
+instances: 3, word: 'Rich', work: 'TGV'},
+instances: 3, word: 'Saint', work: 'TGV'},
+instances: 3, word: 'Salt', work: 'TGV'},
+instances: 3, word: 'Seal', work: 'TGV'},
+instances: 3, word: 'Secret', work: 'TGV'},
+instances: 3, word: 'Seem', work: 'TGV'},
+instances: 3, word: 'Seen', work: 'TGV'},
+instances: 3, word: 'Sends', work: 'TGV'},
+instances: 3, word: 'Shallow', work: 'TGV'},
+instances: 3, word: 'Shipped', work: 'TGV'},
+instances: 3, word: 'Shot', work: 'TGV'},
+instances: 3, word: 'Sigh', work: 'TGV'},
+instances: 3, word: 'Sight', work: 'TGV'},
+instances: 3, word: 'Sister', work: 'TGV'},
+instances: 3, word: 'Slander', work: 'TGV'},
+instances: 3, word: 'Slave', work: 'TGV'},
+instances: 3, word: 'Song', work: 'TGV'},
+instances: 3, word: 'Sooner', work: 'TGV'},
+instances: 3, word: 'Soul', work: 'TGV'},
+instances: 3, word: 'Special', work: 'TGV'},
+instances: 3, word: 'Speed', work: 'TGV'},
+instances: 3, word: 'Spirit', work: 'TGV'},
+instances: 3, word: 'Steal', work: 'TGV'},
+instances: 3, word: 'Story', work: 'TGV'},
+instances: 3, word: 'Strike', work: 'TGV'},
+instances: 3, word: 'Suit', work: 'TGV'},
+instances: 3, word: 'Sun', work: 'TGV'},
+instances: 3, word: 'Swear', work: 'TGV'},
+instances: 3, word: 'Those', work: 'TGV'},
+instances: 3, word: 'Throw', work: 'TGV'},
+instances: 3, word: 'Th\'', work: 'TGV'},
+instances: 3, word: 'Together', work: 'TGV'},
+instances: 3, word: 'Took', work: 'TGV'},
+instances: 3, word: 'Trick', work: 'TGV'},
+instances: 3, word: 'Try', work: 'TGV'},
+instances: 3, word: 'Twice', work: 'TGV'},
+instances: 3, word: 'Valentine\'s', work: 'TGV'},
+instances: 3, word: 'Villain', work: 'TGV'},
+instances: 3, word: 'Virtues', work: 'TGV'},
+instances: 3, word: 'Voyage', work: 'TGV'},
+instances: 3, word: 'Wages', work: 'TGV'},
+instances: 3, word: 'Wait', work: 'TGV'},
+instances: 3, word: 'Weeping', work: 'TGV'},
+instances: 3, word: 'Wench', work: 'TGV'},
+instances: 3, word: 'Wherefore', work: 'TGV'},
+instances: 3, word: 'Wherein', work: 'TGV'},
+instances: 3, word: 'Whereof', work: 'TGV'},
+instances: 3, word: 'Wink', work: 'TGV'},
+instances: 3, word: 'Within', work: 'TGV'},
+instances: 3, word: 'Woe', work: 'TGV'},
+instances: 3, word: 'Yes', work: 'TGV'},
+instances: 3, word: '\'em', work: 'TGV'},
+instances: 3, word: '\'twas', work: 'TGV'},
+instances: 2, word: 'Aboard', work: 'TGV'},
+instances: 2, word: 'Above', work: 'TGV'},
+instances: 2, word: 'Adore', work: 'TGV'},
+instances: 2, word: 'Advantage', work: 'TGV'},
+instances: 2, word: 'Affected', work: 'TGV'},
+instances: 2, word: 'Affection', work: 'TGV'},
+instances: 2, word: 'Aim', work: 'TGV'},
+instances: 2, word: 'Alehouse', work: 'TGV'},
+instances: 2, word: 'Almost', work: 'TGV'},
+instances: 2, word: 'Amen', work: 'TGV'},
+instances: 2, word: 'Among', work: 'TGV'},
+instances: 2, word: 'Anger', work: 'TGV'},
+instances: 2, word: 'Angered', work: 'TGV'},
+instances: 2, word: 'Angry', work: 'TGV'},
+instances: 2, word: 'Applaud', work: 'TGV'},
+instances: 2, word: 'Ashamed', work: 'TGV'},
+instances: 2, word: 'Asleep', work: 'TGV'},
+instances: 2, word: 'Attends', work: 'TGV'},
+instances: 2, word: 'Aught', work: 'TGV'},
+instances: 2, word: 'Bears', work: 'TGV'},
+instances: 2, word: 'Beautiful', work: 'TGV'},
+instances: 2, word: 'Begins', work: 'TGV'},
+instances: 2, word: 'Believe', work: 'TGV'},
+instances: 2, word: 'Beseech', work: 'TGV'},
+instances: 2, word: 'Beset', work: 'TGV'},
+instances: 2, word: 'Beshrew', work: 'TGV'},
+instances: 2, word: 'Betideth', work: 'TGV'},
+instances: 2, word: 'Betrothed', work: 'TGV'},
+instances: 2, word: 'Blessing', work: 'TGV'},
+instances: 2, word: 'Blest', work: 'TGV'},
+instances: 2, word: 'Blood', work: 'TGV'},
+instances: 2, word: 'Blow', work: 'TGV'},
+instances: 2, word: 'Body', work: 'TGV'},
+instances: 2, word: 'Boon', work: 'TGV'},
+instances: 2, word: 'Borrows', work: 'TGV'},
+instances: 2, word: 'Bought', work: 'TGV'},
+instances: 2, word: 'Bounty', work: 'TGV'},
+instances: 2, word: 'Breakfast', work: 'TGV'},
+instances: 2, word: 'Breathe', work: 'TGV'},
+instances: 2, word: 'Broken', work: 'TGV'},
+instances: 2, word: 'Brook', work: 'TGV'},
+instances: 2, word: 'Burièd', work: 'TGV'},
+instances: 2, word: 'Burns', work: 'TGV'},
+instances: 2, word: 'Calls', work: 'TGV'},
+instances: 2, word: 'Calm', work: 'TGV'},
+instances: 2, word: 'Canker', work: 'TGV'},
+instances: 2, word: 'Carrying', work: 'TGV'},
+instances: 2, word: 'Celestial', work: 'TGV'},
+instances: 2, word: 'Certain', work: 'TGV'},
+instances: 2, word: 'Chameleon', work: 'TGV'},
+instances: 2, word: 'Cherished', work: 'TGV'},
+instances: 2, word: 'Child', work: 'TGV'},
+instances: 2, word: 'Cite', work: 'TGV'},
+instances: 2, word: 'City', work: 'TGV'},
+instances: 2, word: 'Claim', work: 'TGV'},
+instances: 2, word: 'Codpiece', work: 'TGV'},
+instances: 2, word: 'Color', work: 'TGV'},
+instances: 2, word: 'Concerns', work: 'TGV'},
+instances: 2, word: 'Conclusion', work: 'TGV'},
+instances: 2, word: 'Confession', work: 'TGV'},
+instances: 2, word: 'Confirm', work: 'TGV'},
+instances: 2, word: 'Consort', work: 'TGV'},
+instances: 2, word: 'Contents', work: 'TGV'},
+instances: 2, word: 'Contrary', work: 'TGV'},
+instances: 2, word: 'Convey', work: 'TGV'},
+instances: 2, word: 'Corded', work: 'TGV'},
+instances: 2, word: 'Cords', work: 'TGV'},
+instances: 2, word: 'Correction', work: 'TGV'},
+instances: 2, word: 'Countryman', work: 'TGV'},
+instances: 2, word: 'Cowardice', work: 'TGV'},
+instances: 2, word: 'Coy', work: 'TGV'},
+instances: 2, word: 'Crossed', work: 'TGV'},
+instances: 2, word: 'Cunning', work: 'TGV'},
+instances: 2, word: 'Daily', work: 'TGV'},
+instances: 2, word: 'Dangerous', work: 'TGV'},
+instances: 2, word: 'Deadly', work: 'TGV'},
+instances: 2, word: 'Deceive', work: 'TGV'},
+instances: 2, word: 'Deformed', work: 'TGV'},
+instances: 2, word: 'Delight', work: 'TGV'},
+instances: 2, word: 'Depart', work: 'TGV'},
+instances: 2, word: 'Departure', work: 'TGV'},
+instances: 2, word: 'Derived', work: 'TGV'},
+instances: 2, word: 'Deserves', work: 'TGV'},
+instances: 2, word: 'Despiseth', work: 'TGV'},
+instances: 2, word: 'Determined', work: 'TGV'},
+instances: 2, word: 'Detest', work: 'TGV'},
+instances: 2, word: 'Disdain', work: 'TGV'},
+instances: 2, word: 'Dispraise', work: 'TGV'},
+instances: 2, word: 'Dogs', work: 'TGV'},
+instances: 2, word: 'Don', work: 'TGV'},
+instances: 2, word: 'Drowned', work: 'TGV'},
+instances: 2, word: 'Dry', work: 'TGV'},
+instances: 2, word: 'Dull', work: 'TGV'},
+instances: 2, word: 'Earnest', work: 'TGV'},
+instances: 2, word: 'Eating', work: 'TGV'},
+instances: 2, word: 'Embrace', work: 'TGV'},
+instances: 2, word: 'Employ', work: 'TGV'},
+instances: 2, word: 'Empress\'', work: 'TGV'},
+instances: 2, word: 'Enemy', work: 'TGV'},
+instances: 2, word: 'Enjoined', work: 'TGV'},
+instances: 2, word: 'Entertained', work: 'TGV'},
+instances: 2, word: 'Entreat', work: 'TGV'},
+instances: 2, word: 'Entreated', work: 'TGV'},
+instances: 2, word: 'Esteems', work: 'TGV'},
+instances: 2, word: 'Excellent', work: 'TGV'},
+instances: 2, word: 'Excels', work: 'TGV'},
+instances: 2, word: 'Exceptions', work: 'TGV'},
+instances: 2, word: 'Exchange', work: 'TGV'},
+instances: 2, word: 'Execution', work: 'TGV'},
+instances: 2, word: 'Exile', work: 'TGV'},
+instances: 2, word: 'Experience', work: 'TGV'},
+instances: 2, word: 'Fail', work: 'TGV'},
+instances: 2, word: 'Fain', work: 'TGV'},
+instances: 2, word: 'Farthingale', work: 'TGV'},
+instances: 2, word: 'Fathers', work: 'TGV'},
+instances: 2, word: 'Father\'s', work: 'TGV'},
+instances: 2, word: 'Favors', work: 'TGV'},
+instances: 2, word: 'Fellow', work: 'TGV'},
+instances: 2, word: 'Fill', work: 'TGV'},
+instances: 2, word: 'Five', work: 'TGV'},
+instances: 2, word: 'Flood', work: 'TGV'},
+instances: 2, word: 'Flying', work: 'TGV'},
+instances: 2, word: 'Foes', work: 'TGV'},
+instances: 2, word: 'Fold', work: 'TGV'},
+instances: 2, word: 'Follies', work: 'TGV'},
+instances: 2, word: 'Fond', work: 'TGV'},
+instances: 2, word: 'Forest', work: 'TGV'},
+instances: 2, word: 'Forlorn', work: 'TGV'},
+instances: 2, word: 'Former', work: 'TGV'},
+instances: 2, word: 'Forswear', work: 'TGV'},
+instances: 2, word: 'Forth', work: 'TGV'},
+instances: 2, word: 'Forward', work: 'TGV'},
+instances: 2, word: 'Foul', work: 'TGV'},
+instances: 2, word: 'Found', work: 'TGV'},
+instances: 2, word: 'Four', work: 'TGV'},
+instances: 2, word: 'Frown', work: 'TGV'},
+instances: 2, word: 'Gift', work: 'TGV'},
+instances: 2, word: 'Gifts', work: 'TGV'},
+instances: 2, word: 'Given', work: 'TGV'},
+instances: 2, word: 'Glad', work: 'TGV'},
+instances: 2, word: 'Goodly', work: 'TGV'},
+instances: 2, word: 'Got', work: 'TGV'},
+instances: 2, word: 'Grandam', work: 'TGV'},
+instances: 2, word: 'Grievance', work: 'TGV'},
+instances: 2, word: 'Ground', work: 'TGV'},
+instances: 2, word: 'Growing', work: 'TGV'},
+instances: 2, word: 'Hairs', work: 'TGV'},
+instances: 2, word: 'Hanged', work: 'TGV'},
+instances: 2, word: 'Hanging', work: 'TGV'},
+instances: 2, word: 'Hapless', work: 'TGV'},
+instances: 2, word: 'Harsh', work: 'TGV'},
+instances: 2, word: 'Has', work: 'TGV'},
+instances: 2, word: 'Hazard', work: 'TGV'},
+instances: 2, word: 'Heart\'s', work: 'TGV'},
+instances: 2, word: 'Hellespont', work: 'TGV'},
+instances: 2, word: 'Hides', work: 'TGV'},
+instances: 2, word: 'Hie', work: 'TGV'},
+instances: 2, word: 'Homely', work: 'TGV'},
+instances: 2, word: 'Honest', work: 'TGV'},
+instances: 2, word: 'Hopes', work: 'TGV'},
+instances: 2, word: 'Horns', work: 'TGV'},
+instances: 2, word: 'Hot', work: 'TGV'},
+instances: 2, word: 'Hours', work: 'TGV'},
+instances: 2, word: 'Huge', work: 'TGV'},
+instances: 2, word: 'Humbled', work: 'TGV'},
+instances: 2, word: 'Idle', work: 'TGV'},
+instances: 2, word: 'Idol', work: 'TGV'},
+instances: 2, word: 'Imprimis', work: 'TGV'},
+instances: 2, word: 'Infinite', work: 'TGV'},
+instances: 2, word: 'Inhabits', work: 'TGV'},
+instances: 2, word: 'Ink', work: 'TGV'},
+instances: 2, word: 'Intends', work: 'TGV'},
+instances: 2, word: 'Itself', work: 'TGV'},
+instances: 2, word: 'Jars', work: 'TGV'},
+instances: 2, word: 'Jerkin', work: 'TGV'},
+instances: 2, word: 'Jew', work: 'TGV'},
+instances: 2, word: 'Jewel', work: 'TGV'},
+instances: 2, word: 'Judgment', work: 'TGV'},
+instances: 2, word: 'Killed', work: 'TGV'},
+instances: 2, word: 'Kindly', work: 'TGV'},
+instances: 2, word: 'Kissed', work: 'TGV'},
+instances: 2, word: 'Knave', work: 'TGV'},
+instances: 2, word: 'Knees', work: 'TGV'},
+instances: 2, word: 'Known', work: 'TGV'},
+instances: 2, word: 'Laced', work: 'TGV'},
+instances: 2, word: 'Ladies\'', work: 'TGV'},
+instances: 2, word: 'Large', work: 'TGV'},
+instances: 2, word: 'Law', work: 'TGV'},
+instances: 2, word: 'Lay', work: 'TGV'},
+instances: 2, word: 'Leander', work: 'TGV'},
+instances: 2, word: 'Learn', work: 'TGV'},
+instances: 2, word: 'Learned', work: 'TGV'},
+instances: 2, word: 'Length', work: 'TGV'},
+instances: 2, word: 'Lies', work: 'TGV'},
+instances: 2, word: 'Likewise', work: 'TGV'},
+instances: 2, word: 'Lily', work: 'TGV'},
+instances: 2, word: 'Line', work: 'TGV'},
+instances: 2, word: 'Liquor', work: 'TGV'},
+instances: 2, word: 'Loath', work: 'TGV'},
+instances: 2, word: 'Locked', work: 'TGV'},
+instances: 2, word: 'Longing', work: 'TGV'},
+instances: 2, word: 'Loss', work: 'TGV'},
+instances: 2, word: 'Lovely', work: 'TGV'},
+instances: 2, word: 'Lover\'s', work: 'TGV'},
+instances: 2, word: 'Low', work: 'TGV'},
+instances: 2, word: 'Manner', work: 'TGV'},
+instances: 2, word: 'Man\'s', work: 'TGV'},
+instances: 2, word: 'Marriage', work: 'TGV'},
+instances: 2, word: 'Masters', work: 'TGV'},
+instances: 2, word: 'Mates', work: 'TGV'},
+instances: 2, word: 'Mayst', work: 'TGV'},
+instances: 2, word: 'Meant', work: 'TGV'},
+instances: 2, word: 'Measure', work: 'TGV'},
+instances: 2, word: 'Meat', work: 'TGV'},
+instances: 2, word: 'Meed', work: 'TGV'},
+instances: 2, word: 'Merry', work: 'TGV'},
+instances: 2, word: 'Metamorphosed', work: 'TGV'},
+instances: 2, word: 'Milder', work: 'TGV'},
+instances: 2, word: 'Milk', work: 'TGV'},
+instances: 2, word: 'Minds', work: 'TGV'},
+instances: 2, word: 'Minion', work: 'TGV'},
+instances: 2, word: 'Mirth', work: 'TGV'},
+instances: 2, word: 'Miserable', work: 'TGV'},
+instances: 2, word: 'Money', work: 'TGV'},
+instances: 2, word: 'Morning', work: 'TGV'},
+instances: 2, word: 'Mouth', work: 'TGV'},
+instances: 2, word: 'Muse', work: 'TGV'},
+instances: 2, word: 'Nameless', work: 'TGV'},
+instances: 2, word: 'New', work: 'TGV'},
+instances: 2, word: 'North', work: 'TGV'},
+instances: 2, word: 'Notable', work: 'TGV'},
+instances: 2, word: 'Note', work: 'TGV'},
+instances: 2, word: 'Nurse', work: 'TGV'},
+instances: 2, word: 'Oath', work: 'TGV'},
+instances: 2, word: 'Ocean', work: 'TGV'},
+instances: 2, word: 'Offense', work: 'TGV'},
+instances: 2, word: 'Offer', work: 'TGV'},
+instances: 2, word: 'Open', work: 'TGV'},
+instances: 2, word: 'Opinion', work: 'TGV'},
+instances: 2, word: 'Outrages', work: 'TGV'},
+instances: 2, word: 'Paid', work: 'TGV'},
+instances: 2, word: 'Pair', work: 'TGV'},
+instances: 2, word: 'Pale', work: 'TGV'},
+instances: 2, word: 'Pantino', work: 'TGV'},
+instances: 2, word: 'Papers', work: 'TGV'},
+instances: 2, word: 'Partly', work: 'TGV'},
+instances: 2, word: 'Pass', work: 'TGV'},
+instances: 2, word: 'Passenger', work: 'TGV'},
+instances: 2, word: 'Patient', work: 'TGV'},
+instances: 2, word: 'Pawn', work: 'TGV'},
+instances: 2, word: 'Pearl', work: 'TGV'},
+instances: 2, word: 'Peasant', work: 'TGV'},
+instances: 2, word: 'Peevish', work: 'TGV'},
+instances: 2, word: 'Perceived', work: 'TGV'},
+instances: 2, word: 'Peruse', work: 'TGV'},
+instances: 2, word: 'Pin', work: 'TGV'},
+instances: 2, word: 'Played', work: 'TGV'},
+instances: 2, word: 'Pleasure', work: 'TGV'},
+instances: 2, word: 'Plot', work: 'TGV'},
+instances: 2, word: 'Post', work: 'TGV'},
+instances: 2, word: 'Power', work: 'TGV'},
+instances: 2, word: 'Practice', work: 'TGV'},
+instances: 2, word: 'Praises', work: 'TGV'},
+instances: 2, word: 'Presence', work: 'TGV'},
+instances: 2, word: 'Pretty', work: 'TGV'},
+instances: 2, word: 'Prevailed', work: 'TGV'},
+instances: 2, word: 'Print', work: 'TGV'},
+instances: 2, word: 'Proceeding', work: 'TGV'},
+instances: 2, word: 'Proclamation', work: 'TGV'},
+instances: 2, word: 'Protest', work: 'TGV'},
+instances: 2, word: 'Proves', work: 'TGV'},
+instances: 2, word: 'Provided', work: 'TGV'},
+instances: 2, word: 'Quaintly', work: 'TGV'},
+instances: 2, word: 'Quench', work: 'TGV'},
+instances: 2, word: 'Quote', work: 'TGV'},
+instances: 2, word: 'Rage', work: 'TGV'},
+instances: 2, word: 'Rare', work: 'TGV'},
+instances: 2, word: 'Reach', work: 'TGV'},
+instances: 2, word: 'Reading', work: 'TGV'},
+instances: 2, word: 'Receive', work: 'TGV'},
+instances: 2, word: 'Received', work: 'TGV'},
+instances: 2, word: 'Regard', work: 'TGV'},
+instances: 2, word: 'Rehearse', work: 'TGV'},
+instances: 2, word: 'Remember', work: 'TGV'},
+instances: 2, word: 'Remembrance', work: 'TGV'},
+instances: 2, word: 'Repair', work: 'TGV'},
+instances: 2, word: 'Repeal', work: 'TGV'},
+instances: 2, word: 'Repent', work: 'TGV'},
+instances: 2, word: 'Report', work: 'TGV'},
+instances: 2, word: 'Reputation', work: 'TGV'},
+instances: 2, word: 'Rescue', work: 'TGV'},
+instances: 2, word: 'Resolved', work: 'TGV'},
+instances: 2, word: 'Revenge', work: 'TGV'},
+instances: 2, word: 'Rival', work: 'TGV'},
+instances: 2, word: 'Road', work: 'TGV'},
+instances: 2, word: 'Robin', work: 'TGV'},
+instances: 2, word: 'Root', work: 'TGV'},
+instances: 2, word: 'Royal', work: 'TGV'},
+instances: 2, word: 'Same', work: 'TGV'},
+instances: 2, word: 'Sands', work: 'TGV'},
+instances: 2, word: 'Saying', work: 'TGV'},
+instances: 2, word: 'Scarce', work: 'TGV'},
+instances: 2, word: 'Sebastian', work: 'TGV'},
+instances: 2, word: 'Secrets', work: 'TGV'},
+instances: 2, word: 'Seeks', work: 'TGV'},
+instances: 2, word: 'Senseless', work: 'TGV'},
+instances: 2, word: 'Served', work: 'TGV'},
+instances: 2, word: 'Serves', work: 'TGV'},
+instances: 2, word: 'Several', work: 'TGV'},
+instances: 2, word: 'Shapes', work: 'TGV'},
+instances: 2, word: 'Sharp', work: 'TGV'},
+instances: 2, word: 'She\'ll', work: 'TGV'},
+instances: 2, word: 'She\'s', work: 'TGV'},
+instances: 2, word: 'Shine', work: 'TGV'},
+instances: 2, word: 'Ship', work: 'TGV'},
+instances: 2, word: 'Shoes', work: 'TGV'},
+instances: 2, word: 'Shouldst', work: 'TGV'},
+instances: 2, word: 'Shunned', work: 'TGV'},
+instances: 2, word: 'Sick', work: 'TGV'},
+instances: 2, word: 'Silence', work: 'TGV'},
+instances: 2, word: 'Silly', work: 'TGV'},
+instances: 2, word: 'Simple', work: 'TGV'},
+instances: 2, word: 'Sit', work: 'TGV'},
+instances: 2, word: 'Skill', work: 'TGV'},
+instances: 2, word: 'Smile', work: 'TGV'},
+instances: 2, word: 'So-ho', work: 'TGV'},
+instances: 2, word: 'Sorrows', work: 'TGV'},
+instances: 2, word: 'Sovereign', work: 'TGV'},
+instances: 2, word: 'Spin', work: 'TGV'},
+instances: 2, word: 'Stars', work: 'TGV'},
+instances: 2, word: 'Stead', work: 'TGV'},
+instances: 2, word: 'Steel', work: 'TGV'},
+instances: 2, word: 'Step', work: 'TGV'},
+instances: 2, word: 'Steps', work: 'TGV'},
+instances: 2, word: 'Stick', work: 'TGV'},
+instances: 2, word: 'Stock', work: 'TGV'},
+instances: 2, word: 'Stolen', work: 'TGV'},
+instances: 2, word: 'Stone', work: 'TGV'},
+instances: 2, word: 'Stood', work: 'TGV'},
+instances: 2, word: 'Stop', work: 'TGV'},
+instances: 2, word: 'Stopped', work: 'TGV'},
+instances: 2, word: 'Strings', work: 'TGV'},
+instances: 2, word: 'Success', work: 'TGV'},
+instances: 2, word: 'Suffer', work: 'TGV'},
+instances: 2, word: 'Suffered', work: 'TGV'},
+instances: 2, word: 'Supper', work: 'TGV'},
+instances: 2, word: 'Swift', work: 'TGV'},
+instances: 2, word: 'Swinged', work: 'TGV'},
+instances: 2, word: 'Table', work: 'TGV'},
+instances: 2, word: 'Tail', work: 'TGV'},
+instances: 2, word: 'Taken', work: 'TGV'},
+instances: 2, word: 'Tarry', work: 'TGV'},
+instances: 2, word: 'Ta\'en', work: 'TGV'},
+instances: 2, word: 'Teach', work: 'TGV'},
+instances: 2, word: 'Teeth', work: 'TGV'},
+instances: 2, word: 'Ten', work: 'TGV'},
+instances: 2, word: 'Thanks', work: 'TGV'},
+instances: 2, word: 'Therein', work: 'TGV'},
+instances: 2, word: 'Thereof', work: 'TGV'},
+instances: 2, word: 'Therewithal', work: 'TGV'},
+instances: 2, word: 'There\'s', work: 'TGV'},
+instances: 2, word: 'Thinks', work: 'TGV'},
+instances: 2, word: 'Threefold', work: 'TGV'},
+instances: 2, word: 'Thrice', work: 'TGV'},
+instances: 2, word: 'Thrust', work: 'TGV'},
+instances: 2, word: 'Token', work: 'TGV'},
+instances: 2, word: 'Told', work: 'TGV'},
+instances: 2, word: 'Torment', work: 'TGV'},
+instances: 2, word: 'Tower', work: 'TGV'},
+instances: 2, word: 'Treachery', work: 'TGV'},
+instances: 2, word: 'Treasure', work: 'TGV'},
+instances: 2, word: 'Trouble', work: 'TGV'},
+instances: 2, word: 'Truly', work: 'TGV'},
+instances: 2, word: 'Tutor', work: 'TGV'},
+instances: 2, word: 'Uncivil', work: 'TGV'},
+instances: 2, word: 'Understand', work: 'TGV'},
+instances: 2, word: 'Understands', work: 'TGV'},
+instances: 2, word: 'Undertake', work: 'TGV'},
+instances: 2, word: 'Undone', work: 'TGV'},
+instances: 2, word: 'Unjust', work: 'TGV'},
+instances: 2, word: 'Unkindest', work: 'TGV'},
+instances: 2, word: 'Unseen', work: 'TGV'},
+instances: 2, word: 'Used', work: 'TGV'},
+instances: 2, word: 'Vain', work: 'TGV'},
+instances: 2, word: 'Vantage', work: 'TGV'},
+instances: 2, word: 'Vices', work: 'TGV'},
+instances: 2, word: 'Visit', work: 'TGV'},
+instances: 2, word: 'Votary', work: 'TGV'},
+instances: 2, word: 'Vouchsafe', work: 'TGV'},
+instances: 2, word: 'Wanton', work: 'TGV'},
+instances: 2, word: 'Wants', work: 'TGV'},
+instances: 2, word: 'War', work: 'TGV'},
+instances: 2, word: 'Weak', work: 'TGV'},
+instances: 2, word: 'Well-favored', work: 'TGV'},
+instances: 2, word: 'Whence', work: 'TGV'},
+instances: 2, word: 'Whip', work: 'TGV'},
+instances: 2, word: 'Whips', work: 'TGV'},
+instances: 2, word: 'Whoreson', work: 'TGV'},
+instances: 2, word: 'Who\'s', work: 'TGV'},
+instances: 2, word: 'Wife', work: 'TGV'},
+instances: 2, word: 'Wild', work: 'TGV'},
+instances: 2, word: 'Willingly', work: 'TGV'},
+instances: 2, word: 'Wind', work: 'TGV'},
+instances: 2, word: 'Wings', work: 'TGV'},
+instances: 2, word: 'Wished', work: 'TGV'},
+instances: 2, word: 'Withal', work: 'TGV'},
+instances: 2, word: 'Wits', work: 'TGV'},
+instances: 2, word: 'Woes', work: 'TGV'},
+instances: 2, word: 'Won', work: 'TGV'},
+instances: 2, word: 'Woo', work: 'TGV'},
+instances: 2, word: 'Worse', work: 'TGV'},
+instances: 2, word: 'Wound', work: 'TGV'},
+instances: 2, word: 'Wrath', work: 'TGV'},
+instances: 2, word: 'Wringing', work: 'TGV'},
+instances: 2, word: 'Writers', work: 'TGV'},
+instances: 2, word: 'Yield', work: 'TGV'},
+instances: 2, word: '\'gainst', work: 'TGV'},
+instances: 1, word: 'Abbey', work: 'TGV'},
+instances: 1, word: 'Abc', work: 'TGV'},
+instances: 1, word: 'Abhorred', work: 'TGV'},
+instances: 1, word: 'Able', work: 'TGV'},
+instances: 1, word: 'Abode', work: 'TGV'},
+instances: 1, word: 'Abridge', work: 'TGV'},
+instances: 1, word: 'Abroad', work: 'TGV'},
+instances: 1, word: 'Absence', work: 'TGV'},
+instances: 1, word: 'Accomplished', work: 'TGV'},
+instances: 1, word: 'Accords', work: 'TGV'},
+instances: 1, word: 'Account', work: 'TGV'},
+instances: 1, word: 'Accursed', work: 'TGV'},
+instances: 1, word: 'Achieved', work: 'TGV'},
+instances: 1, word: 'Acquainted', work: 'TGV'},
+instances: 1, word: 'Acted', work: 'TGV'},
+instances: 1, word: 'Action', work: 'TGV'},
+instances: 1, word: 'Admirèd', work: 'TGV'},
+instances: 1, word: 'Ado', work: 'TGV'},
+instances: 1, word: 'Adored', work: 'TGV'},
+instances: 1, word: 'Adventure', work: 'TGV'},
+instances: 1, word: 'Adversity', work: 'TGV'},
+instances: 1, word: 'Advise', work: 'TGV'},
+instances: 1, word: 'Advised', work: 'TGV'},
+instances: 1, word: 'Affect', work: 'TGV'},
+instances: 1, word: 'After-love', work: 'TGV'},
+instances: 1, word: 'Afterward', work: 'TGV'},
+instances: 1, word: 'Agent', work: 'TGV'},
+instances: 1, word: 'Agone', work: 'TGV'},
+instances: 1, word: 'Agood', work: 'TGV'},
+instances: 1, word: 'Agèd', work: 'TGV'},
+instances: 1, word: 'Ah', work: 'TGV'},
+instances: 1, word: 'Aid', work: 'TGV'},
+instances: 1, word: 'Aiming', work: 'TGV'},
+instances: 1, word: 'Aimèd', work: 'TGV'},
+instances: 1, word: 'Allied', work: 'TGV'},
+instances: 1, word: 'Allycholly', work: 'TGV'},
+instances: 1, word: 'Aloft', work: 'TGV'},
+instances: 1, word: 'Alphonso', work: 'TGV'},
+instances: 1, word: 'Also', work: 'TGV'},
+instances: 1, word: 'Altar', work: 'TGV'},
+instances: 1, word: 'Altered', work: 'TGV'},
+instances: 1, word: 'Although', work: 'TGV'},
+instances: 1, word: 'Ancestry', work: 'TGV'},
+instances: 1, word: 'Anchoring', work: 'TGV'},
+instances: 1, word: 'Angel-like', work: 'TGV'},
+instances: 1, word: 'Angels\'', work: 'TGV'},
+instances: 1, word: 'Angerly', work: 'TGV'},
+instances: 1, word: 'Answers', work: 'TGV'},
+instances: 1, word: 'Anthem', work: 'TGV'},
+instances: 1, word: 'Antonio', work: 'TGV'},
+instances: 1, word: 'Anything', work: 'TGV'},
+instances: 1, word: 'Apparent', work: 'TGV'},
+instances: 1, word: 'Appear', work: 'TGV'},
+instances: 1, word: 'Appears', work: 'TGV'},
+instances: 1, word: 'Appeased', work: 'TGV'},
+instances: 1, word: 'Approach', work: 'TGV'},
+instances: 1, word: 'Approacheth', work: 'TGV'},
+instances: 1, word: 'Approved', work: 'TGV'},
+instances: 1, word: 'April', work: 'TGV'},
+instances: 1, word: 'Ariadne', work: 'TGV'},
+instances: 1, word: 'Arms', work: 'TGV'},
+instances: 1, word: 'Arms\'', work: 'TGV'},
+instances: 1, word: 'Article', work: 'TGV'},
+instances: 1, word: 'Ascend', work: 'TGV'},
+instances: 1, word: 'Aside', work: 'TGV'},
+instances: 1, word: 'Asked', work: 'TGV'},
+instances: 1, word: 'Aspire', work: 'TGV'},
+instances: 1, word: 'Assist', work: 'TGV'},
+instances: 1, word: 'Assure', work: 'TGV'},
+instances: 1, word: 'Astray', work: 'TGV'},
+instances: 1, word: 'Attended', work: 'TGV'},
+instances: 1, word: 'Auburn', work: 'TGV'},
+instances: 1, word: 'Augury', work: 'TGV'},
+instances: 1, word: 'Awful', work: 'TGV'},
+instances: 1, word: 'Baa', work: 'TGV'},
+instances: 1, word: 'Babble', work: 'TGV'},
+instances: 1, word: 'Babe', work: 'TGV'},
+instances: 1, word: 'Banish', work: 'TGV'},
+instances: 1, word: 'Banishment', work: 'TGV'},
+instances: 1, word: 'Bankrupt', work: 'TGV'},
+instances: 1, word: 'Bargain', work: 'TGV'},
+instances: 1, word: 'Bass', work: 'TGV'},
+instances: 1, word: 'Bastard', work: 'TGV'},
+instances: 1, word: 'Beadsman', work: 'TGV'},
+instances: 1, word: 'Beard', work: 'TGV'},
+instances: 1, word: 'Bearing', work: 'TGV'},
+instances: 1, word: 'Beast', work: 'TGV'},
+instances: 1, word: 'Beauteous', work: 'TGV'},
+instances: 1, word: 'Beautified', work: 'TGV'},
+instances: 1, word: 'Became', work: 'TGV'},
+instances: 1, word: 'Bechance', work: 'TGV'},
+instances: 1, word: 'Bees', work: 'TGV'},
+instances: 1, word: 'Befortune', work: 'TGV'},
+instances: 1, word: 'Beg', work: 'TGV'},
+instances: 1, word: 'Beget', work: 'TGV'},
+instances: 1, word: 'Beggar', work: 'TGV'},
+instances: 1, word: 'Begot', work: 'TGV'},
+instances: 1, word: 'Beguiled', work: 'TGV'},
+instances: 1, word: 'Behavior', work: 'TGV'},
+instances: 1, word: 'Beheld', work: 'TGV'},
+instances: 1, word: 'Behind', work: 'TGV'},
+instances: 1, word: 'Behold', work: 'TGV'},
+instances: 1, word: 'Beholding', work: 'TGV'},
+instances: 1, word: 'Believing', work: 'TGV'},
+instances: 1, word: 'Bended', work: 'TGV'},
+instances: 1, word: 'Benefit', work: 'TGV'},
+instances: 1, word: 'Beseem', work: 'TGV'},
+instances: 1, word: 'Beseeming', work: 'TGV'},
+instances: 1, word: 'Bestowed', work: 'TGV'},
+instances: 1, word: 'Between', work: 'TGV'},
+instances: 1, word: 'Biding', work: 'TGV'},
+instances: 1, word: 'Big', work: 'TGV'},
+instances: 1, word: 'Bind', work: 'TGV'},
+instances: 1, word: 'Bite', work: 'TGV'},
+instances: 1, word: 'Bitterly', work: 'TGV'},
+instances: 1, word: 'Black\'st', work: 'TGV'},
+instances: 1, word: 'Blasting', work: 'TGV'},
+instances: 1, word: 'Bless', work: 'TGV'},
+instances: 1, word: 'Blessèd', work: 'TGV'},
+instances: 1, word: 'Blinded', work: 'TGV'},
+instances: 1, word: 'Blindness', work: 'TGV'},
+instances: 1, word: 'Block', work: 'TGV'},
+instances: 1, word: 'Blot', work: 'TGV'},
+instances: 1, word: 'Blunt', work: 'TGV'},
+instances: 1, word: 'Blush', work: 'TGV'},
+instances: 1, word: 'Blushes', work: 'TGV'},
+instances: 1, word: 'Boast', work: 'TGV'},
+instances: 1, word: 'Boat', work: 'TGV'},
+instances: 1, word: 'Bolder', work: 'TGV'},
+instances: 1, word: 'Bonds', work: 'TGV'},
+instances: 1, word: 'Book', work: 'TGV'},
+instances: 1, word: 'Boot', work: 'TGV'},
+instances: 1, word: 'Bore', work: 'TGV'},
+instances: 1, word: 'Bottom', work: 'TGV'},
+instances: 1, word: 'Bounds', work: 'TGV'},
+instances: 1, word: 'Boys', work: 'TGV'},
+instances: 1, word: 'Boy\'s', work: 'TGV'},
+instances: 1, word: 'Brag', work: 'TGV'},
+instances: 1, word: 'Braggartism', work: 'TGV'},
+instances: 1, word: 'Breaking', work: 'TGV'},
+instances: 1, word: 'Breast', work: 'TGV'},
+instances: 1, word: 'Breeches', work: 'TGV'},
+instances: 1, word: 'Breed', work: 'TGV'},
+instances: 1, word: 'Breeder', work: 'TGV'},
+instances: 1, word: 'Brew', work: 'TGV'},
+instances: 1, word: 'Brews', work: 'TGV'},
+instances: 1, word: 'Brief', work: 'TGV'},
+instances: 1, word: 'Bringing-up', work: 'TGV'},
+instances: 1, word: 'Broker', work: 'TGV'},
+instances: 1, word: 'Brother', work: 'TGV'},
+instances: 1, word: 'Brothers', work: 'TGV'},
+instances: 1, word: 'Brow', work: 'TGV'},
+instances: 1, word: 'Bruising', work: 'TGV'},
+instances: 1, word: 'Building', work: 'TGV'},
+instances: 1, word: 'Built', work: 'TGV'},
+instances: 1, word: 'Burden', work: 'TGV'},
+instances: 1, word: 'Buried', work: 'TGV'},
+instances: 1, word: 'Burning', work: 'TGV'},
+instances: 1, word: 'Bury', work: 'TGV'},
+instances: 1, word: 'Business', work: 'TGV'},
+instances: 1, word: 'Cam\'st', work: 'TGV'},
+instances: 1, word: 'Cancel', work: 'TGV'},
+instances: 1, word: 'Capon\'s', work: 'TGV'},
+instances: 1, word: 'Captain\'s', work: 'TGV'},
+instances: 1, word: 'Car', work: 'TGV'},
+instances: 1, word: 'Cares', work: 'TGV'},
+instances: 1, word: 'Carried', work: 'TGV'},
+instances: 1, word: 'Cat', work: 'TGV'},
+instances: 1, word: 'Catalog', work: 'TGV'},
+instances: 1, word: 'Catching', work: 'TGV'},
+instances: 1, word: 'Cause', work: 'TGV'},
+instances: 1, word: 'Cave', work: 'TGV'},
+instances: 1, word: 'Cavil', work: 'TGV'},
+instances: 1, word: 'Censure', work: 'TGV'},
+instances: 1, word: 'Chafed', work: 'TGV'},
+instances: 1, word: 'Chains', work: 'TGV'},
+instances: 1, word: 'Chamber-window', work: 'TGV'},
+instances: 1, word: 'Chance', work: 'TGV'},
+instances: 1, word: 'Changed', work: 'TGV'},
+instances: 1, word: 'Changing', work: 'TGV'},
+instances: 1, word: 'Charactered', work: 'TGV'},
+instances: 1, word: 'Charged', work: 'TGV'},
+instances: 1, word: 'Charity', work: 'TGV'},
+instances: 1, word: 'Chase', work: 'TGV'},
+instances: 1, word: 'Chased', work: 'TGV'},
+instances: 1, word: 'Chastity', work: 'TGV'},
+instances: 1, word: 'Check', work: 'TGV'},
+instances: 1, word: 'Cheeks', work: 'TGV'},
+instances: 1, word: 'Cherish', work: 'TGV'},
+instances: 1, word: 'Chidden', work: 'TGV'},
+instances: 1, word: 'Chief', work: 'TGV'},
+instances: 1, word: 'Chiefly', work: 'TGV'},
+instances: 1, word: 'Childlike', work: 'TGV'},
+instances: 1, word: 'Choose', work: 'TGV'},
+instances: 1, word: 'Chose', work: 'TGV'},
+instances: 1, word: 'Chronicled', work: 'TGV'},
+instances: 1, word: 'Churlish', work: 'TGV'},
+instances: 1, word: 'Churlishly', work: 'TGV'},
+instances: 1, word: 'Civil', work: 'TGV'},
+instances: 1, word: 'Clean', work: 'TGV'},
+instances: 1, word: 'Cleft', work: 'TGV'},
+instances: 1, word: 'Clerkly', work: 'TGV'},
+instances: 1, word: 'Cloister', work: 'TGV'},
+instances: 1, word: 'Closed', work: 'TGV'},
+instances: 1, word: 'Closest', work: 'TGV'},
+instances: 1, word: 'Clothe', work: 'TGV'},
+instances: 1, word: 'Cloud', work: 'TGV'},
+instances: 1, word: 'Cock', work: 'TGV'},
+instances: 1, word: 'Coil', work: 'TGV'},
+instances: 1, word: 'Coldly', work: 'TGV'},
+instances: 1, word: 'Colored', work: 'TGV'},
+instances: 1, word: 'Commanded', work: 'TGV'},
+instances: 1, word: 'Commander', work: 'TGV'},
+instances: 1, word: 'Commendation', work: 'TGV'},
+instances: 1, word: 'Commendations', work: 'TGV'},
+instances: 1, word: 'Commended', work: 'TGV'},
+instances: 1, word: 'Commending', work: 'TGV'},
+instances: 1, word: 'Comment', work: 'TGV'},
+instances: 1, word: 'Commit', work: 'TGV'},
+instances: 1, word: 'Committed', work: 'TGV'},
+instances: 1, word: 'Common', work: 'TGV'},
+instances: 1, word: 'Companies', work: 'TGV'},
+instances: 1, word: 'Companion', work: 'TGV'},
+instances: 1, word: 'Competitor', work: 'TGV'},
+instances: 1, word: 'Complete', work: 'TGV'},
+instances: 1, word: 'Composèd', work: 'TGV'},
+instances: 1, word: 'Conceal', work: 'TGV'},
+instances: 1, word: 'Concealing', work: 'TGV'},
+instances: 1, word: 'Conceit', work: 'TGV'},
+instances: 1, word: 'Conceitless', work: 'TGV'},
+instances: 1, word: 'Concern', work: 'TGV'},
+instances: 1, word: 'Concerning', work: 'TGV'},
+instances: 1, word: 'Conclude', work: 'TGV'},
+instances: 1, word: 'Concord', work: 'TGV'},
+instances: 1, word: 'Condition', work: 'TGV'},
+instances: 1, word: 'Conditions', work: 'TGV'},
+instances: 1, word: 'Confess', work: 'TGV'},
+instances: 1, word: 'Confirmèd', work: 'TGV'},
+instances: 1, word: 'Confounds', work: 'TGV'},
+instances: 1, word: 'Conjure', work: 'TGV'},
+instances: 1, word: 'Consent', work: 'TGV'},
+instances: 1, word: 'Consents', work: 'TGV'},
+instances: 1, word: 'Considered', work: 'TGV'},
+instances: 1, word: 'Considers', work: 'TGV'},
+instances: 1, word: 'Conspire', work: 'TGV'},
+instances: 1, word: 'Constancy', work: 'TGV'},
+instances: 1, word: 'Construe', work: 'TGV'},
+instances: 1, word: 'Contemning', work: 'TGV'},
+instances: 1, word: 'Contempt', work: 'TGV'},
+instances: 1, word: 'Contemptuously', work: 'TGV'},
+instances: 1, word: 'Contend', work: 'TGV'},
+instances: 1, word: 'Content', work: 'TGV'},
+instances: 1, word: 'Continue', work: 'TGV'},
+instances: 1, word: 'Converse', work: 'TGV'},
+instances: 1, word: 'Conversed', work: 'TGV'},
+instances: 1, word: 'Conveyed', work: 'TGV'},
+instances: 1, word: 'Corrupted', work: 'TGV'},
+instances: 1, word: 'Couldst', work: 'TGV'},
+instances: 1, word: 'Counselor', work: 'TGV'},
+instances: 1, word: 'Counterfeit', work: 'TGV'},
+instances: 1, word: 'Counterfeits', work: 'TGV'},
+instances: 1, word: 'Counts', work: 'TGV'},
+instances: 1, word: 'Couples', work: 'TGV'},
+instances: 1, word: 'Courtesy', work: 'TGV'},
+instances: 1, word: 'Cover', work: 'TGV'},
+instances: 1, word: 'Covers', work: 'TGV'},
+instances: 1, word: 'Creatures', work: 'TGV'},
+instances: 1, word: 'Creep', work: 'TGV'},
+instances: 1, word: 'Crept', work: 'TGV'},
+instances: 1, word: 'Crews', work: 'TGV'},
+instances: 1, word: 'Crimes', work: 'TGV'},
+instances: 1, word: 'Crooked', work: 'TGV'},
+instances: 1, word: 'Crow', work: 'TGV'},
+instances: 1, word: 'Cruel-hearted', work: 'TGV'},
+instances: 1, word: 'Crusts', work: 'TGV'},
+instances: 1, word: 'Crying', work: 'TGV'},
+instances: 1, word: 'Crystal', work: 'TGV'},
+instances: 1, word: 'Cunningly', work: 'TGV'},
+instances: 1, word: 'Current', work: 'TGV'},
+instances: 1, word: 'Currish', work: 'TGV'},
+instances: 1, word: 'Curst', work: 'TGV'},
+instances: 1, word: 'Cut', work: 'TGV'},
+instances: 1, word: 'Damm\'st', work: 'TGV'},
+instances: 1, word: 'Dance', work: 'TGV'},
+instances: 1, word: 'Daring', work: 'TGV'},
+instances: 1, word: 'Dar\'st', work: 'TGV'},
+instances: 1, word: 'Daughter\'s', work: 'TGV'},
+instances: 1, word: 'Dazzled', work: 'TGV'},
+instances: 1, word: 'Deaf', work: 'TGV'},
+instances: 1, word: 'Dearer', work: 'TGV'},
+instances: 1, word: 'Dearth', work: 'TGV'},
+instances: 1, word: 'Deceitful', work: 'TGV'},
+instances: 1, word: 'Deceived', work: 'TGV'},
+instances: 1, word: 'Decks', work: 'TGV'},
+instances: 1, word: 'Deeds', work: 'TGV'},
+instances: 1, word: 'Deeper', work: 'TGV'},
+instances: 1, word: 'Deepest', work: 'TGV'},
+instances: 1, word: 'Deeply', work: 'TGV'},
+instances: 1, word: 'Deeps', work: 'TGV'},
+instances: 1, word: 'Deformity', work: 'TGV'},
+instances: 1, word: 'Degenerate', work: 'TGV'},
+instances: 1, word: 'Deign', work: 'TGV'},
+instances: 1, word: 'Deliberate', work: 'TGV'},
+instances: 1, word: 'Delights', work: 'TGV'},
+instances: 1, word: 'Delivering', work: 'TGV'},
+instances: 1, word: 'Deny', work: 'TGV'},
+instances: 1, word: 'Depending', work: 'TGV'},
+instances: 1, word: 'Deploring', work: 'TGV'},
+instances: 1, word: 'Descant', work: 'TGV'},
+instances: 1, word: 'Descended', work: 'TGV'},
+instances: 1, word: 'Descent', work: 'TGV'},
+instances: 1, word: 'Deserts', work: 'TGV'},
+instances: 1, word: 'Deserve', work: 'TGV'},
+instances: 1, word: 'Deserved', work: 'TGV'},
+instances: 1, word: 'Desires', work: 'TGV'},
+instances: 1, word: 'Desolate', work: 'TGV'},
+instances: 1, word: 'Despairing', work: 'TGV'},
+instances: 1, word: 'Desperate', work: 'TGV'},
+instances: 1, word: 'Despise', work: 'TGV'},
+instances: 1, word: 'Despised', work: 'TGV'},
+instances: 1, word: 'Destined', work: 'TGV'},
+instances: 1, word: 'Determine', work: 'TGV'},
+instances: 1, word: 'Device', work: 'TGV'},
+instances: 1, word: 'Devised', work: 'TGV'},
+instances: 1, word: 'Devoted', work: 'TGV'},
+instances: 1, word: 'Died', work: 'TGV'},
+instances: 1, word: 'Diest', work: 'TGV'},
+instances: 1, word: 'Diet', work: 'TGV'},
+instances: 1, word: 'Difference', work: 'TGV'},
+instances: 1, word: 'Dignified', work: 'TGV'},
+instances: 1, word: 'Dignify', work: 'TGV'},
+instances: 1, word: 'Dine', work: 'TGV'},
+instances: 1, word: 'Dined', work: 'TGV'},
+instances: 1, word: 'Dining', work: 'TGV'},
+instances: 1, word: 'Dinnertime', work: 'TGV'},
+instances: 1, word: 'Dire-lamenting', work: 'TGV'},
+instances: 1, word: 'Direction-giver', work: 'TGV'},
+instances: 1, word: 'Disability', work: 'TGV'},
+instances: 1, word: 'Discipline', work: 'TGV'},
+instances: 1, word: 'Disclosed', work: 'TGV'},
+instances: 1, word: 'Discovery', work: 'TGV'},
+instances: 1, word: 'Discoverèd', work: 'TGV'},
+instances: 1, word: 'Discretion', work: 'TGV'},
+instances: 1, word: 'Disembark', work: 'TGV'},
+instances: 1, word: 'Disfurnish', work: 'TGV'},
+instances: 1, word: 'Disgrace', work: 'TGV'},
+instances: 1, word: 'Disgraced', work: 'TGV'},
+instances: 1, word: 'Disguise', work: 'TGV'},
+instances: 1, word: 'Disguising', work: 'TGV'},
+instances: 1, word: 'Disloyal', work: 'TGV'},
+instances: 1, word: 'Disobedient', work: 'TGV'},
+instances: 1, word: 'Displeased', work: 'TGV'},
+instances: 1, word: 'Dispraised', work: 'TGV'},
+instances: 1, word: 'Disprove', work: 'TGV'},
+instances: 1, word: 'Dissolves', work: 'TGV'},
+instances: 1, word: 'Distresses', work: 'TGV'},
+instances: 1, word: 'Does', work: 'TGV'},
+instances: 1, word: 'Dolor', work: 'TGV'},
+instances: 1, word: 'Doors', work: 'TGV'},
+instances: 1, word: 'Double', work: 'TGV'},
+instances: 1, word: 'Doublet', work: 'TGV'},
+instances: 1, word: 'Doubt', work: 'TGV'},
+instances: 1, word: 'Doubtfully', work: 'TGV'},
+instances: 1, word: 'Dower', work: 'TGV'},
+instances: 1, word: 'Draw', work: 'TGV'},
+instances: 1, word: 'Drawn', work: 'TGV'},
+instances: 1, word: 'Dreams', work: 'TGV'},
+instances: 1, word: 'Drenched', work: 'TGV'},
+instances: 1, word: 'Drier', work: 'TGV'},
+instances: 1, word: 'Drive', work: 'TGV'},
+instances: 1, word: 'Drives', work: 'TGV'},
+instances: 1, word: 'Drowning', work: 'TGV'},
+instances: 1, word: 'Ducat', work: 'TGV'},
+instances: 1, word: 'Duke\'s', work: 'TGV'},
+instances: 1, word: 'Dully', work: 'TGV'},
+instances: 1, word: 'Dump', work: 'TGV'},
+instances: 1, word: 'Dust', work: 'TGV'},
+instances: 1, word: 'Duty\'s', work: 'TGV'},
+instances: 1, word: 'Dwelling', work: 'TGV'},
+instances: 1, word: 'Dwells', work: 'TGV'},
+instances: 1, word: 'Early', work: 'TGV'},
+instances: 1, word: 'Ears', work: 'TGV'},
+instances: 1, word: 'Earthly', work: 'TGV'},
+instances: 1, word: 'Easily', work: 'TGV'},
+instances: 1, word: 'Eaten', work: 'TGV'},
+instances: 1, word: 'Effects', work: 'TGV'},
+instances: 1, word: 'Effectual', work: 'TGV'},
+instances: 1, word: 'Either', work: 'TGV'},
+instances: 1, word: 'Elegies', work: 'TGV'},
+instances: 1, word: 'Eloquence', work: 'TGV'},
+instances: 1, word: 'Elysium', work: 'TGV'},
+instances: 1, word: 'Embark', work: 'TGV'},
+instances: 1, word: 'Employed', work: 'TGV'},
+instances: 1, word: 'Employment', work: 'TGV'},
+instances: 1, word: 'Enameled', work: 'TGV'},
+instances: 1, word: 'Encounter', work: 'TGV'},
+instances: 1, word: 'Encounters', work: 'TGV'},
+instances: 1, word: 'Endamage', work: 'TGV'},
+instances: 1, word: 'Endanger', work: 'TGV'},
+instances: 1, word: 'Ending', work: 'TGV'},
+instances: 1, word: 'Endless', work: 'TGV'},
+instances: 1, word: 'Endued', work: 'TGV'},
+instances: 1, word: 'Endure', work: 'TGV'},
+instances: 1, word: 'Enemies', work: 'TGV'},
+instances: 1, word: 'Enforce', work: 'TGV'},
+instances: 1, word: 'Enforced', work: 'TGV'},
+instances: 1, word: 'Enfranchise', work: 'TGV'},
+instances: 1, word: 'Enfranchised', work: 'TGV'},
+instances: 1, word: 'Engine', work: 'TGV'},
+instances: 1, word: 'Engraved', work: 'TGV'},
+instances: 1, word: 'Enraged', work: 'TGV'},
+instances: 1, word: 'Ensuing', work: 'TGV'},
+instances: 1, word: 'Enter', work: 'TGV'},
+instances: 1, word: 'Entertainèd', work: 'TGV'},
+instances: 1, word: 'Enthrallèd', work: 'TGV'},
+instances: 1, word: 'Environ', work: 'TGV'},
+instances: 1, word: 'Equal', work: 'TGV'},
+instances: 1, word: 'Err', work: 'TGV'},
+instances: 1, word: 'Erring', work: 'TGV'},
+instances: 1, word: 'Error', work: 'TGV'},
+instances: 1, word: 'Especially', work: 'TGV'},
+instances: 1, word: 'Essence', work: 'TGV'},
+instances: 1, word: 'Esteem', work: 'TGV'},
+instances: 1, word: 'Esteemeth', work: 'TGV'},
+instances: 1, word: 'Esteem\'st', work: 'TGV'},
+instances: 1, word: 'Estimation', work: 'TGV'},
+instances: 1, word: 'Eternal\'s', work: 'TGV'},
+instances: 1, word: 'Ethiope', work: 'TGV'},
+instances: 1, word: 'Everlastingly', work: 'TGV'},
+instances: 1, word: 'Everything', work: 'TGV'},
+instances: 1, word: 'Eve\'s', work: 'TGV'},
+instances: 1, word: 'Exceed', work: 'TGV'},
+instances: 1, word: 'Exceeding', work: 'TGV'},
+instances: 1, word: 'Excelling', work: 'TGV'},
+instances: 1, word: 'Excepted', work: 'TGV'},
+instances: 1, word: 'Excess', work: 'TGV'},
+instances: 1, word: 'Exchequer', work: 'TGV'},
+instances: 1, word: 'Excused', work: 'TGV'},
+instances: 1, word: 'Executed', work: 'TGV'},
+instances: 1, word: 'Exercise', work: 'TGV'},
+instances: 1, word: 'Exercises', work: 'TGV'},
+instances: 1, word: 'Exhibition', work: 'TGV'},
+instances: 1, word: 'Expects', work: 'TGV'},
+instances: 1, word: 'Expels', work: 'TGV'},
+instances: 1, word: 'Expostulate', work: 'TGV'},
+instances: 1, word: 'Exquisite', work: 'TGV'},
+instances: 1, word: 'Extol', work: 'TGV'},
+instances: 1, word: 'Extreme', work: 'TGV'},
+instances: 1, word: 'Faces', work: 'TGV'},
+instances: 1, word: 'Faction', work: 'TGV'},
+instances: 1, word: 'Fading', work: 'TGV'},
+instances: 1, word: 'Fairer', work: 'TGV'},
+instances: 1, word: 'Fairly', work: 'TGV'},
+instances: 1, word: 'Falls', work: 'TGV'},
+instances: 1, word: 'Fancy', work: 'TGV'},
+instances: 1, word: 'Fantastic', work: 'TGV'},
+instances: 1, word: 'Fasted', work: 'TGV'},
+instances: 1, word: 'Fasting', work: 'TGV'},
+instances: 1, word: 'Fasts', work: 'TGV'},
+instances: 1, word: 'Fat', work: 'TGV'},
+instances: 1, word: 'Fawneth', work: 'TGV'},
+instances: 1, word: 'Fawning', work: 'TGV'},
+instances: 1, word: 'Fealty', work: 'TGV'},
+instances: 1, word: 'Feared', work: 'TGV'},
+instances: 1, word: 'Fearful', work: 'TGV'},
+instances: 1, word: 'Fears', work: 'TGV'},
+instances: 1, word: 'Feast', work: 'TGV'},
+instances: 1, word: 'Feature', work: 'TGV'},
+instances: 1, word: 'Fed', work: 'TGV'},
+instances: 1, word: 'Fee', work: 'TGV'},
+instances: 1, word: 'Feeble', work: 'TGV'},
+instances: 1, word: 'Feel', work: 'TGV'},
+instances: 1, word: 'Feeling', work: 'TGV'},
+instances: 1, word: 'Feet', work: 'TGV'},
+instances: 1, word: 'Fellow-servant', work: 'TGV'},
+instances: 1, word: 'Fellows', work: 'TGV'},
+instances: 1, word: 'Felt', work: 'TGV'},
+instances: 1, word: 'Fight', work: 'TGV'},
+instances: 1, word: 'Fills', work: 'TGV'},
+instances: 1, word: 'Finds', work: 'TGV'},
+instances: 1, word: 'Finest', work: 'TGV'},
+instances: 1, word: 'Finger', work: 'TGV'},
+instances: 1, word: 'Fing\'ring', work: 'TGV'},
+instances: 1, word: 'Fire\'s', work: 'TGV'},
+instances: 1, word: 'Firm', work: 'TGV'},
+instances: 1, word: 'Fish', work: 'TGV'},
+instances: 1, word: 'Fits', work: 'TGV'},
+instances: 1, word: 'Fitting', work: 'TGV'},
+instances: 1, word: 'Flat', work: 'TGV'},
+instances: 1, word: 'Flattered', work: 'TGV'},
+instances: 1, word: 'Flattery', work: 'TGV'},
+instances: 1, word: 'Flies', work: 'TGV'},
+instances: 1, word: 'Flourishing', work: 'TGV'},
+instances: 1, word: 'Flower', work: 'TGV'},
+instances: 1, word: 'Fodder', work: 'TGV'},
+instances: 1, word: 'Followers', work: 'TGV'},
+instances: 1, word: 'Followest', work: 'TGV'},
+instances: 1, word: 'Fools', work: 'TGV'},
+instances: 1, word: 'Foot', work: 'TGV'},
+instances: 1, word: 'Forbid', work: 'TGV'},
+instances: 1, word: 'Forced', work: 'TGV'},
+instances: 1, word: 'Forehead\'s', work: 'TGV'},
+instances: 1, word: 'Forever', work: 'TGV'},
+instances: 1, word: 'Forgetfulness', work: 'TGV'},
+instances: 1, word: 'Forgotten', work: 'TGV'},
+instances: 1, word: 'Forsake', work: 'TGV'},
+instances: 1, word: 'Forsook', work: 'TGV'},
+instances: 1, word: 'Fortunèd', work: 'TGV'},
+instances: 1, word: 'Forwhy', work: 'TGV'},
+instances: 1, word: 'Fostered', work: 'TGV'},
+instances: 1, word: 'Fox', work: 'TGV'},
+instances: 1, word: 'Frame', work: 'TGV'},
+instances: 1, word: 'Fraud', work: 'TGV'},
+instances: 1, word: 'Free', work: 'TGV'},
+instances: 1, word: 'Fresh', work: 'TGV'},
+instances: 1, word: 'Friendly', work: 'TGV'},
+instances: 1, word: 'Friendship', work: 'TGV'},
+instances: 1, word: 'Friend\'s', work: 'TGV'},
+instances: 1, word: 'Froward', work: 'TGV'},
+instances: 1, word: 'Frowns', work: 'TGV'},
+instances: 1, word: 'Frozen', work: 'TGV'},
+instances: 1, word: 'Full-fraught', work: 'TGV'},
+instances: 1, word: 'Furnish', work: 'TGV'},
+instances: 1, word: 'Fury', work: 'TGV'},
+instances: 1, word: 'Future', work: 'TGV'},
+instances: 1, word: 'Gain', work: 'TGV'},
+instances: 1, word: 'Garlands', work: 'TGV'},
+instances: 1, word: 'Garment', work: 'TGV'},
+instances: 1, word: 'Garter', work: 'TGV'},
+instances: 1, word: 'Gav\'st', work: 'TGV'},
+instances: 1, word: 'Gaze', work: 'TGV'},
+instances: 1, word: 'Gazing', work: 'TGV'},
+instances: 1, word: 'Geese', work: 'TGV'},
+instances: 1, word: 'General', work: 'TGV'},
+instances: 1, word: 'Gentlemanlike', work: 'TGV'},
+instances: 1, word: 'Gentlewoman\'s', work: 'TGV'},
+instances: 1, word: 'Gild', work: 'TGV'},
+instances: 1, word: 'Gingerly', work: 'TGV'},
+instances: 1, word: 'Giver', work: 'TGV'},
+instances: 1, word: 'Gives', work: 'TGV'},
+instances: 1, word: 'Giving', work: 'TGV'},
+instances: 1, word: 'Glances', work: 'TGV'},
+instances: 1, word: 'Glass', work: 'TGV'},
+instances: 1, word: 'Glides', work: 'TGV'},
+instances: 1, word: 'Glory', work: 'TGV'},
+instances: 1, word: 'Glove', work: 'TGV'},
+instances: 1, word: 'Gloves', work: 'TGV'},
+instances: 1, word: 'God', work: 'TGV'},
+instances: 1, word: 'Gold', work: 'TGV'},
+instances: 1, word: 'Golden', work: 'TGV'},
+instances: 1, word: 'Good-morrow', work: 'TGV'},
+instances: 1, word: 'Good-morrows', work: 'TGV'},
+instances: 1, word: 'Goods', work: 'TGV'},
+instances: 1, word: 'Gossips', work: 'TGV'},
+instances: 1, word: 'Govern', work: 'TGV'},
+instances: 1, word: 'Gown', work: 'TGV'},
+instances: 1, word: 'Graces', work: 'TGV'},
+instances: 1, word: 'Gracèd', work: 'TGV'},
+instances: 1, word: 'Grandfather', work: 'TGV'},
+instances: 1, word: 'Grandmother', work: 'TGV'},
+instances: 1, word: 'Granting', work: 'TGV'},
+instances: 1, word: 'Gray', work: 'TGV'},
+instances: 1, word: 'Gregory\'s', work: 'TGV'},
+instances: 1, word: 'Griefs', work: 'TGV'},
+instances: 1, word: 'Grievances', work: 'TGV'},
+instances: 1, word: 'Grieves', work: 'TGV'},
+instances: 1, word: 'Grievous', work: 'TGV'},
+instances: 1, word: 'Grievously', work: 'TGV'},
+instances: 1, word: 'Grows', work: 'TGV'},
+instances: 1, word: 'Grudge', work: 'TGV'},
+instances: 1, word: 'Guess', work: 'TGV'},
+instances: 1, word: 'Guessed', work: 'TGV'},
+instances: 1, word: 'Guest', work: 'TGV'},
+instances: 1, word: 'Guide', work: 'TGV'},
+instances: 1, word: 'Guilt', work: 'TGV'},
+instances: 1, word: 'Ha', work: 'TGV'},
+instances: 1, word: 'Habiliments', work: 'TGV'},
+instances: 1, word: 'Halidom', work: 'TGV'},
+instances: 1, word: 'Hallowing', work: 'TGV'},
+instances: 1, word: 'Hallowmas', work: 'TGV'},
+instances: 1, word: 'Hammering', work: 'TGV'},
+instances: 1, word: 'Hang', work: 'TGV'},
+instances: 1, word: 'Hangman\'s', work: 'TGV'},
+instances: 1, word: 'Hap', work: 'TGV'},
+instances: 1, word: 'Happily', work: 'TGV'},
+instances: 1, word: 'Hard-favored', work: 'TGV'},
+instances: 1, word: 'Hasten', work: 'TGV'},
+instances: 1, word: 'Hat', work: 'TGV'},
+instances: 1, word: 'Hateful', work: 'TGV'},
+instances: 1, word: 'Hates', work: 'TGV'},
+instances: 1, word: 'Healed', work: 'TGV'},
+instances: 1, word: 'Heap', work: 'TGV'},
+instances: 1, word: 'Heard\'st', work: 'TGV'},
+instances: 1, word: 'Hearing', work: 'TGV'},
+instances: 1, word: 'Hearken', work: 'TGV'},
+instances: 1, word: 'Heart-sore', work: 'TGV'},
+instances: 1, word: 'Heart-strings', work: 'TGV'},
+instances: 1, word: 'Heartsore', work: 'TGV'},
+instances: 1, word: 'Hearty', work: 'TGV'},
+instances: 1, word: 'Heave', work: 'TGV'},
+instances: 1, word: 'Heaven-bred', work: 'TGV'},
+instances: 1, word: 'Heaviest', work: 'TGV'},
+instances: 1, word: 'Heav\'n', work: 'TGV'},
+instances: 1, word: 'Hebrew', work: 'TGV'},
+instances: 1, word: 'Heedfully', work: 'TGV'},
+instances: 1, word: 'Heels', work: 'TGV'},
+instances: 1, word: 'Height', work: 'TGV'},
+instances: 1, word: 'Heir', work: 'TGV'},
+instances: 1, word: 'Helped', work: 'TGV'},
+instances: 1, word: 'Herald', work: 'TGV'},
+instances: 1, word: 'Hero\'s', work: 'TGV'},
+instances: 1, word: 'He\'s', work: 'TGV'},
+instances: 1, word: 'Hide', work: 'TGV'},
+instances: 1, word: 'Highly', work: 'TGV'},
+instances: 1, word: 'Hinder', work: 'TGV'},
+instances: 1, word: 'Hinderèd', work: 'TGV'},
+instances: 1, word: 'Ho', work: 'TGV'},
+instances: 1, word: 'Holds', work: 'TGV'},
+instances: 1, word: 'Hole', work: 'TGV'},
+instances: 1, word: 'Homage', work: 'TGV'},
+instances: 1, word: 'Home-keeping', work: 'TGV'},
+instances: 1, word: 'Honesty', work: 'TGV'},
+instances: 1, word: 'Honey', work: 'TGV'},
+instances: 1, word: 'Honored', work: 'TGV'},
+instances: 1, word: 'Honor\'s', work: 'TGV'},
+instances: 1, word: 'Hood\'s', work: 'TGV'},
+instances: 1, word: 'Hooks', work: 'TGV'},
+instances: 1, word: 'Hostess', work: 'TGV'},
+instances: 1, word: 'Hour\'s', work: 'TGV'},
+instances: 1, word: 'Howling', work: 'TGV'},
+instances: 1, word: 'Humble', work: 'TGV'},
+instances: 1, word: 'Hundred', work: 'TGV'},
+instances: 1, word: 'Hungry', work: 'TGV'},
+instances: 1, word: 'Hunts', work: 'TGV'},
+instances: 1, word: 'Ice', work: 'TGV'},
+instances: 1, word: 'Idleness', work: 'TGV'},
+instances: 1, word: 'Idolatry', work: 'TGV'},
+instances: 1, word: 'Ill-favored', work: 'TGV'},
+instances: 1, word: 'Illiterate', work: 'TGV'},
+instances: 1, word: 'Illumined', work: 'TGV'},
+instances: 1, word: 'Image', work: 'TGV'},
+instances: 1, word: 'Immaculate', work: 'TGV'},
+instances: 1, word: 'Immodest', work: 'TGV'},
+instances: 1, word: 'Impatient', work: 'TGV'},
+instances: 1, word: 'Impatiently', work: 'TGV'},
+instances: 1, word: 'Impeachment', work: 'TGV'},
+instances: 1, word: 'Imperial\'s', work: 'TGV'},
+instances: 1, word: 'Imperious', work: 'TGV'},
+instances: 1, word: 'Import', work: 'TGV'},
+instances: 1, word: 'Importunacy', work: 'TGV'},
+instances: 1, word: 'Impose', work: 'TGV'},
+instances: 1, word: 'Impossible', work: 'TGV'},
+instances: 1, word: 'Impress', work: 'TGV'},
+instances: 1, word: 'Impression', work: 'TGV'},
+instances: 1, word: 'Include', work: 'TGV'},
+instances: 1, word: 'Inconstancy', work: 'TGV'},
+instances: 1, word: 'Indifferent', work: 'TGV'},
+instances: 1, word: 'Industry', work: 'TGV'},
+instances: 1, word: 'Infamy', work: 'TGV'},
+instances: 1, word: 'Infancy', work: 'TGV'},
+instances: 1, word: 'Influence', work: 'TGV'},
+instances: 1, word: 'Ingratitude', work: 'TGV'},
+instances: 1, word: 'Inhabit', work: 'TGV'},
+instances: 1, word: 'Inherit', work: 'TGV'},
+instances: 1, word: 'Injurious', work: 'TGV'},
+instances: 1, word: 'Inly', work: 'TGV'},
+instances: 1, word: 'Inquire', work: 'TGV'},
+instances: 1, word: 'Inscrutable', work: 'TGV'},
+instances: 1, word: 'Instance', work: 'TGV'},
+instances: 1, word: 'Instances', work: 'TGV'},
+instances: 1, word: 'Instruments', work: 'TGV'},
+instances: 1, word: 'Integrity', work: 'TGV'},
+instances: 1, word: 'Intended', work: 'TGV'},
+instances: 1, word: 'Intercept', work: 'TGV'},
+instances: 1, word: 'Intercession', work: 'TGV'},
+instances: 1, word: 'Interest', work: 'TGV'},
+instances: 1, word: 'Interpret', work: 'TGV'},
+instances: 1, word: 'Interpreter', work: 'TGV'},
+instances: 1, word: 'Intruder', work: 'TGV'},
+instances: 1, word: 'Invisible', work: 'TGV'},
+instances: 1, word: 'Inward', work: 'TGV'},
+instances: 1, word: 'Islands', work: 'TGV'},
+instances: 1, word: 'Jade', work: 'TGV'},
+instances: 1, word: 'Jealous', work: 'TGV'},
+instances: 1, word: 'Jealousy', work: 'TGV'},
+instances: 1, word: 'Jewels', work: 'TGV'},
+instances: 1, word: 'Jolt-head', work: 'TGV'},
+instances: 1, word: 'Journeying', work: 'TGV'},
+instances: 1, word: 'Jove', work: 'TGV'},
+instances: 1, word: 'Judged', work: 'TGV'},
+instances: 1, word: 'Judgments', work: 'TGV'},
+instances: 1, word: 'Justice', work: 'TGV'},
+instances: 1, word: 'Key', work: 'TGV'},
+instances: 1, word: 'Keys', work: 'TGV'},
+instances: 1, word: 'Kindle', work: 'TGV'},
+instances: 1, word: 'Kindness', work: 'TGV'},
+instances: 1, word: 'Kingdoms', work: 'TGV'},
+instances: 1, word: 'Knight', work: 'TGV'},
+instances: 1, word: 'Knocked', work: 'TGV'},
+instances: 1, word: 'Knots', work: 'TGV'},
+instances: 1, word: 'Knowing', work: 'TGV'},
+instances: 1, word: 'Lacking', work: 'TGV'},
+instances: 1, word: 'Lambs', work: 'TGV'},
+instances: 1, word: 'Lamely', work: 'TGV'},
+instances: 1, word: 'Lament', work: 'TGV'},
+instances: 1, word: 'Lamentable', work: 'TGV'},
+instances: 1, word: 'Lament\'st', work: 'TGV'},
+instances: 1, word: 'Lances', work: 'TGV'},
+instances: 1, word: 'Lands', work: 'TGV'},
+instances: 1, word: 'Lascivious', work: 'TGV'},
+instances: 1, word: 'Late', work: 'TGV'},
+instances: 1, word: 'Laughed', work: 'TGV'},
+instances: 1, word: 'Lawless', work: 'TGV'},
+instances: 1, word: 'Lawlessly', work: 'TGV'},
+instances: 1, word: 'Lawrence', work: 'TGV'},
+instances: 1, word: 'Laying', work: 'TGV'},
+instances: 1, word: 'Leads', work: 'TGV'},
+instances: 1, word: 'Leagues', work: 'TGV'},
+instances: 1, word: 'Lean', work: 'TGV'},
+instances: 1, word: 'Lease', work: 'TGV'},
+instances: 1, word: 'Leaves', work: 'TGV'},
+instances: 1, word: 'Legacy', work: 'TGV'},
+instances: 1, word: 'Lent', work: 'TGV'},
+instances: 1, word: 'Lesser', work: 'TGV'},
+instances: 1, word: 'Lesson', work: 'TGV'},
+instances: 1, word: 'Lets', work: 'TGV'},
+instances: 1, word: 'Leviathans', work: 'TGV'},
+instances: 1, word: 'Liberal', work: 'TGV'},
+instances: 1, word: 'Liest', work: 'TGV'},
+instances: 1, word: 'Lieu', work: 'TGV'},
+instances: 1, word: 'Life\'s', work: 'TGV'},
+instances: 1, word: 'Lightly', work: 'TGV'},
+instances: 1, word: 'Lights', work: 'TGV'},
+instances: 1, word: 'Likelihoods', work: 'TGV'},
+instances: 1, word: 'Lime', work: 'TGV'},
+instances: 1, word: 'Linger', work: 'TGV'},
+instances: 1, word: 'Linguist', work: 'TGV'},
+instances: 1, word: 'Lion', work: 'TGV'},
+instances: 1, word: 'Lions', work: 'TGV'},
+instances: 1, word: 'Lively', work: 'TGV'},
+instances: 1, word: 'Liveries', work: 'TGV'},
+instances: 1, word: 'Lo', work: 'TGV'},
+instances: 1, word: 'Loathes', work: 'TGV'},
+instances: 1, word: 'Loiterer', work: 'TGV'},
+instances: 1, word: 'Loitering', work: 'TGV'},
+instances: 1, word: 'Longest', work: 'TGV'},
+instances: 1, word: 'Longs', work: 'TGV'},
+instances: 1, word: 'Looked', work: 'TGV'},
+instances: 1, word: 'Looking-glass', work: 'TGV'},
+instances: 1, word: 'Loose', work: 'TGV'},
+instances: 1, word: 'Lordship\'s', work: 'TGV'},
+instances: 1, word: 'Lout', work: 'TGV'},
+instances: 1, word: 'Love-book', work: 'TGV'},
+instances: 1, word: 'Love-wounded', work: 'TGV'},
+instances: 1, word: 'Loyal', work: 'TGV'},
+instances: 1, word: 'Loyalty', work: 'TGV'},
+instances: 1, word: 'Lubber', work: 'TGV'},
+instances: 1, word: 'Lumpish', work: 'TGV'},
+instances: 1, word: 'Lustily', work: 'TGV'},
+instances: 1, word: 'Lute', work: 'TGV'},
+instances: 1, word: 'Lying', work: 'TGV'},
+instances: 1, word: 'Mad', work: 'TGV'},
+instances: 1, word: 'Madcap', work: 'TGV'},
+instances: 1, word: 'Maids', work: 'TGV'},
+instances: 1, word: 'Maintenance', work: 'TGV'},
+instances: 1, word: 'Mak\'st', work: 'TGV'},
+instances: 1, word: 'Malady', work: 'TGV'},
+instances: 1, word: 'Malcontent', work: 'TGV'},
+instances: 1, word: 'Malignant', work: 'TGV'},
+instances: 1, word: 'Manage', work: 'TGV'},
+instances: 1, word: 'Manfully', work: 'TGV'},
+instances: 1, word: 'Mannerly', work: 'TGV'},
+instances: 1, word: 'Manners', work: 'TGV'},
+instances: 1, word: 'Mansion', work: 'TGV'},
+instances: 1, word: 'Mar', work: 'TGV'},
+instances: 1, word: 'Market-place', work: 'TGV'},
+instances: 1, word: 'Marks', work: 'TGV'},
+instances: 1, word: 'Mask', work: 'TGV'},
+instances: 1, word: 'Masked', work: 'TGV'},
+instances: 1, word: 'Mastership', work: 'TGV'},
+instances: 1, word: 'Meaneth', work: 'TGV'},
+instances: 1, word: 'Meaning', work: 'TGV'},
+instances: 1, word: 'Melancholy', work: 'TGV'},
+instances: 1, word: 'Melodious', work: 'TGV'},
+instances: 1, word: 'Melt', work: 'TGV'},
+instances: 1, word: 'Melting', work: 'TGV'},
+instances: 1, word: 'Memory', work: 'TGV'},
+instances: 1, word: 'Mended', work: 'TGV'},
+instances: 1, word: 'Men\'s', work: 'TGV'},
+instances: 1, word: 'Mercatio', work: 'TGV'},
+instances: 1, word: 'Mercy', work: 'TGV'},
+instances: 1, word: 'Merit', work: 'TGV'},
+instances: 1, word: 'Merops\'', work: 'TGV'},
+instances: 1, word: 'Messengers', work: 'TGV'},
+instances: 1, word: 'Met', work: 'TGV'},
+instances: 1, word: 'Mighty', work: 'TGV'},
+instances: 1, word: 'Mild', work: 'TGV'},
+instances: 1, word: 'Milk-maid', work: 'TGV'},
+instances: 1, word: 'Milk-white', work: 'TGV'},
+instances: 1, word: 'Million', work: 'TGV'},
+instances: 1, word: 'Mine\'s', work: 'TGV'},
+instances: 1, word: 'Minister', work: 'TGV'},
+instances: 1, word: 'Mischance', work: 'TGV'},
+instances: 1, word: 'Mischances', work: 'TGV'},
+instances: 1, word: 'Mistak\'st', work: 'TGV'},
+instances: 1, word: 'Moan', work: 'TGV'},
+instances: 1, word: 'Moist', work: 'TGV'},
+instances: 1, word: 'Moment\'s', work: 'TGV'},
+instances: 1, word: 'Monstrous', work: 'TGV'},
+instances: 1, word: 'Month', work: 'TGV'},
+instances: 1, word: 'Months', work: 'TGV'},
+instances: 1, word: 'Month\'s', work: 'TGV'},
+instances: 1, word: 'Mood', work: 'TGV'},
+instances: 1, word: 'Morn', work: 'TGV'},
+instances: 1, word: 'Mortal', work: 'TGV'},
+instances: 1, word: 'Mother\'s', work: 'TGV'},
+instances: 1, word: 'Motion', work: 'TGV'},
+instances: 1, word: 'Mount', work: 'TGV'},
+instances: 1, word: 'Mountain', work: 'TGV'},
+instances: 1, word: 'Move', work: 'TGV'},
+instances: 1, word: 'Moving', work: 'TGV'},
+instances: 1, word: 'Movingly', work: 'TGV'},
+instances: 1, word: 'Movèd', work: 'TGV'},
+instances: 1, word: 'Moyses', work: 'TGV'},
+instances: 1, word: 'Murmur', work: 'TGV'},
+instances: 1, word: 'Musician', work: 'TGV'},
+instances: 1, word: 'Musing', work: 'TGV'},
+instances: 1, word: 'Muttons', work: 'TGV'},
+instances: 1, word: 'Mutual', work: 'TGV'},
+instances: 1, word: 'Nail', work: 'TGV'},
+instances: 1, word: 'Naked', work: 'TGV'},
+instances: 1, word: 'Nan', work: 'TGV'},
+instances: 1, word: 'Nature', work: 'TGV'},
+instances: 1, word: 'Neat', work: 'TGV'},
+instances: 1, word: 'Necessaries', work: 'TGV'},
+instances: 1, word: 'Necessity', work: 'TGV'},
+instances: 1, word: 'Nectar', work: 'TGV'},
+instances: 1, word: 'Need\'st', work: 'TGV'},
+instances: 1, word: 'Nephew', work: 'TGV'},
+instances: 1, word: 'New-found', work: 'TGV'},
+instances: 1, word: 'Newer', work: 'TGV'},
+instances: 1, word: 'Nice', work: 'TGV'},
+instances: 1, word: 'Nicholas', work: 'TGV'},
+instances: 1, word: 'Nick', work: 'TGV'},
+instances: 1, word: 'Nightingale', work: 'TGV'},
+instances: 1, word: 'Nightingale\'s', work: 'TGV'},
+instances: 1, word: 'Nights', work: 'TGV'},
+instances: 1, word: 'Night\'s', work: 'TGV'},
+instances: 1, word: 'Nimble-footed', work: 'TGV'},
+instances: 1, word: 'Noble', work: 'TGV'},
+instances: 1, word: 'Noblemen', work: 'TGV'},
+instances: 1, word: 'Nobleness', work: 'TGV'},
+instances: 1, word: 'Nooks', work: 'TGV'},
+instances: 1, word: 'Nose', work: 'TGV'},
+instances: 1, word: 'Notes', work: 'TGV'},
+instances: 1, word: 'Noteworthy', work: 'TGV'},
+instances: 1, word: 'Notice', work: 'TGV'},
+instances: 1, word: 'Notwithstanding', work: 'TGV'},
+instances: 1, word: 'Nourished', work: 'TGV'},
+instances: 1, word: 'Now\'s', work: 'TGV'},
+instances: 1, word: 'Nymph', work: 'TGV'},
+instances: 1, word: 'Oars', work: 'TGV'},
+instances: 1, word: 'Obdurate', work: 'TGV'},
+instances: 1, word: 'Observed', work: 'TGV'},
+instances: 1, word: 'Obtain', work: 'TGV'},
+instances: 1, word: 'Obtaining', work: 'TGV'},
+instances: 1, word: 'Odd-conceited', work: 'TGV'},
+instances: 1, word: 'Officer', work: 'TGV'},
+instances: 1, word: 'Oftentimes', work: 'TGV'},
+instances: 1, word: 'Omitting', work: 'TGV'},
+instances: 1, word: 'One\'s', work: 'TGV'},
+instances: 1, word: 'Onset', work: 'TGV'},
+instances: 1, word: 'Opposes', work: 'TGV'},
+instances: 1, word: 'Oracles', work: 'TGV'},
+instances: 1, word: 'Orderly', work: 'TGV'},
+instances: 1, word: 'Ornament', work: 'TGV'},
+instances: 1, word: 'Orpheus\'', work: 'TGV'},
+instances: 1, word: 'Ourselves', work: 'TGV'},
+instances: 1, word: 'Outrun', work: 'TGV'},
+instances: 1, word: 'Overcharged', work: 'TGV'},
+instances: 1, word: 'Overtake', work: 'TGV'},
+instances: 1, word: 'Overtaketh', work: 'TGV'},
+instances: 1, word: 'Overweening', work: 'TGV'},
+instances: 1, word: 'Owe', work: 'TGV'},
+instances: 1, word: 'O\'', work: 'TGV'},
+instances: 1, word: 'O\'clock', work: 'TGV'},
+instances: 1, word: 'O\'er', work: 'TGV'},
+instances: 1, word: 'O\'erlooked', work: 'TGV'},
+instances: 1, word: 'O\'ernight', work: 'TGV'},
+instances: 1, word: 'O\'erslips', work: 'TGV'},
+instances: 1, word: 'Pack', work: 'TGV'},
+instances: 1, word: 'Padua', work: 'TGV'},
+instances: 1, word: 'Pageants', work: 'TGV'},
+instances: 1, word: 'Painter', work: 'TGV'},
+instances: 1, word: 'Parable', work: 'TGV'},
+instances: 1, word: 'Paragon', work: 'TGV'},
+instances: 1, word: 'Parle', work: 'TGV'},
+instances: 1, word: 'Parley', work: 'TGV'},
+instances: 1, word: 'Partaker', work: 'TGV'},
+instances: 1, word: 'Partner', work: 'TGV'},
+instances: 1, word: 'Parts', work: 'TGV'},
+instances: 1, word: 'Passengers', work: 'TGV'},
+instances: 1, word: 'Passion', work: 'TGV'},
+instances: 1, word: 'Passionate', work: 'TGV'},
+instances: 1, word: 'Passioning', work: 'TGV'},
+instances: 1, word: 'Past', work: 'TGV'},
+instances: 1, word: 'Pastime', work: 'TGV'},
+instances: 1, word: 'Pasture', work: 'TGV'},
+instances: 1, word: 'Patiently', work: 'TGV'},
+instances: 1, word: 'Pence', work: 'TGV'},
+instances: 1, word: 'Penetrate', work: 'TGV'},
+instances: 1, word: 'Penitence', work: 'TGV'},
+instances: 1, word: 'Penitential', work: 'TGV'},
+instances: 1, word: 'Pentecost', work: 'TGV'},
+instances: 1, word: 'Peopled', work: 'TGV'},
+instances: 1, word: 'Perchance', work: 'TGV'},
+instances: 1, word: 'Peremptory', work: 'TGV'},
+instances: 1, word: 'Perfected', work: 'TGV'},
+instances: 1, word: 'Perfections', work: 'TGV'},
+instances: 1, word: 'Perhaps', work: 'TGV'},
+instances: 1, word: 'Period', work: 'TGV'},
+instances: 1, word: 'Perish', work: 'TGV'},
+instances: 1, word: 'Periwig', work: 'TGV'},
+instances: 1, word: 'Perplexity', work: 'TGV'},
+instances: 1, word: 'Persevers', work: 'TGV'},
+instances: 1, word: 'Person', work: 'TGV'},
+instances: 1, word: 'Persuade', work: 'TGV'},
+instances: 1, word: 'Persuaded', work: 'TGV'},
+instances: 1, word: 'Persuasion', work: 'TGV'},
+instances: 1, word: 'Perversely', work: 'TGV'},
+instances: 1, word: 'Pestilence', work: 'TGV'},
+instances: 1, word: 'Petty', work: 'TGV'},
+instances: 1, word: 'Phaëton', work: 'TGV'},
+instances: 1, word: 'Physician', work: 'TGV'},
+instances: 1, word: 'Pibble', work: 'TGV'},
+instances: 1, word: 'Pilgrim', work: 'TGV'},
+instances: 1, word: 'Pilgrimage', work: 'TGV'},
+instances: 1, word: 'Pillory', work: 'TGV'},
+instances: 1, word: 'Pills', work: 'TGV'},
+instances: 1, word: 'Pinched', work: 'TGV'},
+instances: 1, word: 'Pinfold', work: 'TGV'},
+instances: 1, word: 'Pins', work: 'TGV'},
+instances: 1, word: 'Pinèd', work: 'TGV'},
+instances: 1, word: 'Pissing', work: 'TGV'},
+instances: 1, word: 'Pities', work: 'TGV'},
+instances: 1, word: 'Placed', work: 'TGV'},
+instances: 1, word: 'Plagues', work: 'TGV'},
+instances: 1, word: 'Plain', work: 'TGV'},
+instances: 1, word: 'Plays', work: 'TGV'},
+instances: 1, word: 'Plotted', work: 'TGV'},
+instances: 1, word: 'Pluck', work: 'TGV'},
+instances: 1, word: 'Plural', work: 'TGV'},
+instances: 1, word: 'Poesy', work: 'TGV'},
+instances: 1, word: 'Poets\'', work: 'TGV'},
+instances: 1, word: 'Possessed', work: 'TGV'},
+instances: 1, word: 'Possession', work: 'TGV'},
+instances: 1, word: 'Possible', work: 'TGV'},
+instances: 1, word: 'Possibly', work: 'TGV'},
+instances: 1, word: 'Postern', work: 'TGV'},
+instances: 1, word: 'Potentates', work: 'TGV'},
+instances: 1, word: 'Pox', work: 'TGV'},
+instances: 1, word: 'Practices', work: 'TGV'},
+instances: 1, word: 'Practicing', work: 'TGV'},
+instances: 1, word: 'Praised', work: 'TGV'},
+instances: 1, word: 'Praising', work: 'TGV'},
+instances: 1, word: 'Prayers', work: 'TGV'},
+instances: 1, word: 'Precious', work: 'TGV'},
+instances: 1, word: 'Precisely', work: 'TGV'},
+instances: 1, word: 'Preferment', work: 'TGV'},
+instances: 1, word: 'Preferred', work: 'TGV'},
+instances: 1, word: 'Press', work: 'TGV'},
+instances: 1, word: 'Presume', work: 'TGV'},
+instances: 1, word: 'Pretended', work: 'TGV'},
+instances: 1, word: 'Pretense', work: 'TGV'},
+instances: 1, word: 'Prettily', work: 'TGV'},
+instances: 1, word: 'Prevent', work: 'TGV'},
+instances: 1, word: 'Pricks', work: 'TGV'},
+instances: 1, word: 'Pride', work: 'TGV'},
+instances: 1, word: 'Prime', work: 'TGV'},
+instances: 1, word: 'Prince', work: 'TGV'},
+instances: 1, word: 'Principality', work: 'TGV'},
+instances: 1, word: 'Prison', work: 'TGV'},
+instances: 1, word: 'Prisoners', work: 'TGV'},
+instances: 1, word: 'Private', work: 'TGV'},
+instances: 1, word: 'Privilege', work: 'TGV'},
+instances: 1, word: 'Privy', work: 'TGV'},
+instances: 1, word: 'Proceedings', work: 'TGV'},
+instances: 1, word: 'Prodigious', work: 'TGV'},
+instances: 1, word: 'Profaned', work: 'TGV'},
+instances: 1, word: 'Profferer', work: 'TGV'},
+instances: 1, word: 'Promise', work: 'TGV'},
+instances: 1, word: 'Promised', work: 'TGV'},
+instances: 1, word: 'Proof', work: 'TGV'},
+instances: 1, word: 'Proper', work: 'TGV'},
+instances: 1, word: 'Proportion', work: 'TGV'},
+instances: 1, word: 'Protestation', work: 'TGV'},
+instances: 1, word: 'Protestations', work: 'TGV'},
+instances: 1, word: 'Proteus\'', work: 'TGV'},
+instances: 1, word: 'Proverb', work: 'TGV'},
+instances: 1, word: 'Provide', work: 'TGV'},
+instances: 1, word: 'Provokes', work: 'TGV'},
+instances: 1, word: 'Publisher', work: 'TGV'},
+instances: 1, word: 'Puddings', work: 'TGV'},
+instances: 1, word: 'Puling', work: 'TGV'},
+instances: 1, word: 'Punished', work: 'TGV'},
+instances: 1, word: 'Pupil', work: 'TGV'},
+instances: 1, word: 'Puppet', work: 'TGV'},
+instances: 1, word: 'Puppy', work: 'TGV'},
+instances: 1, word: 'Purposed', work: 'TGV'},
+instances: 1, word: 'Qualify', work: 'TGV'},
+instances: 1, word: 'Quality', work: 'TGV'},
+instances: 1, word: 'Queen', work: 'TGV'},
+instances: 1, word: 'Quell', work: 'TGV'},
+instances: 1, word: 'Quips', work: 'TGV'},
+instances: 1, word: 'Quite', work: 'TGV'},
+instances: 1, word: 'Ragged', work: 'TGV'},
+instances: 1, word: 'Raging', work: 'TGV'},
+instances: 1, word: 'Railed', work: 'TGV'},
+instances: 1, word: 'Raiment', work: 'TGV'},
+instances: 1, word: 'Rake', work: 'TGV'},
+instances: 1, word: 'Random', work: 'TGV'},
+instances: 1, word: 'Ransom', work: 'TGV'},
+instances: 1, word: 'Rashness', work: 'TGV'},
+instances: 1, word: 'Ravel', work: 'TGV'},
+instances: 1, word: 'Readiness', work: 'TGV'},
+instances: 1, word: 'Ready', work: 'TGV'},
+instances: 1, word: 'Reasoning', work: 'TGV'},
+instances: 1, word: 'Reasonless', work: 'TGV'},
+instances: 1, word: 'Reason\'s', work: 'TGV'},
+instances: 1, word: 'Recalled', work: 'TGV'},
+instances: 1, word: 'Receives', work: 'TGV'},
+instances: 1, word: 'Receiving', work: 'TGV'},
+instances: 1, word: 'Recking', work: 'TGV'},
+instances: 1, word: 'Reckless', work: 'TGV'},
+instances: 1, word: 'Reckon', work: 'TGV'},
+instances: 1, word: 'Record', work: 'TGV'},
+instances: 1, word: 'Recourse', work: 'TGV'},
+instances: 1, word: 'Recover', work: 'TGV'},
+instances: 1, word: 'Redbreast', work: 'TGV'},
+instances: 1, word: 'Reformèd', work: 'TGV'},
+instances: 1, word: 'Refused', work: 'TGV'},
+instances: 1, word: 'Regarded', work: 'TGV'},
+instances: 1, word: 'Regarding', work: 'TGV'},
+instances: 1, word: 'Reigns', work: 'TGV'},
+instances: 1, word: 'Rejoice', work: 'TGV'},
+instances: 1, word: 'Relish', work: 'TGV'},
+instances: 1, word: 'Relying', work: 'TGV'},
+instances: 1, word: 'Remedy', work: 'TGV'},
+instances: 1, word: 'Rememb\'ring', work: 'TGV'},
+instances: 1, word: 'Remission', work: 'TGV'},
+instances: 1, word: 'Remnant', work: 'TGV'},
+instances: 1, word: 'Remorseful', work: 'TGV'},
+instances: 1, word: 'Rend', work: 'TGV'},
+instances: 1, word: 'Repeat', work: 'TGV'},
+instances: 1, word: 'Repentance', work: 'TGV'},
+instances: 1, word: 'Reply', work: 'TGV'},
+instances: 1, word: 'Reportest', work: 'TGV'},
+instances: 1, word: 'Repose', work: 'TGV'},
+instances: 1, word: 'Repulse', work: 'TGV'},
+instances: 1, word: 'Repute', work: 'TGV'},
+instances: 1, word: 'Reputed', work: 'TGV'},
+instances: 1, word: 'Requital', work: 'TGV'},
+instances: 1, word: 'Requite', work: 'TGV'},
+instances: 1, word: 'Resembleth', work: 'TGV'},
+instances: 1, word: 'Resolvèd', work: 'TGV'},
+instances: 1, word: 'Respective', work: 'TGV'},
+instances: 1, word: 'Returned', work: 'TGV'},
+instances: 1, word: 'Revenged', work: 'TGV'},
+instances: 1, word: 'Revolt', work: 'TGV'},
+instances: 1, word: 'Rewards', work: 'TGV'},
+instances: 1, word: 'Rhyme', work: 'TGV'},
+instances: 1, word: 'Rhymes', work: 'TGV'},
+instances: 1, word: 'Rhyming', work: 'TGV'},
+instances: 1, word: 'Riches', work: 'TGV'},
+instances: 1, word: 'Rifle', work: 'TGV'},
+instances: 1, word: 'Right', work: 'TGV'},
+instances: 1, word: 'Ripe', work: 'TGV'},
+instances: 1, word: 'Rising', work: 'TGV'},
+instances: 1, word: 'River', work: 'TGV'},
+instances: 1, word: 'Robbing', work: 'TGV'},
+instances: 1, word: 'Rock', work: 'TGV'},
+instances: 1, word: 'Rocks', work: 'TGV'},
+instances: 1, word: 'Rod', work: 'TGV'},
+instances: 1, word: 'Roses', work: 'TGV'},
+instances: 1, word: 'Rough', work: 'TGV'},
+instances: 1, word: 'Round', work: 'TGV'},
+instances: 1, word: 'Rounder', work: 'TGV'},
+instances: 1, word: 'Rude', work: 'TGV'},
+instances: 1, word: 'Ruffian', work: 'TGV'},
+instances: 1, word: 'Ruinous', work: 'TGV'},
+instances: 1, word: 'Ruled', work: 'TGV'},
+instances: 1, word: 'Ruminate', work: 'TGV'},
+instances: 1, word: 'Sacred', work: 'TGV'},
+instances: 1, word: 'Sacrifice', work: 'TGV'},
+instances: 1, word: 'Sadder', work: 'TGV'},
+instances: 1, word: 'Sadly', work: 'TGV'},
+instances: 1, word: 'Safe', work: 'TGV'},
+instances: 1, word: 'Salute', work: 'TGV'},
+instances: 1, word: 'Sand', work: 'TGV'},
+instances: 1, word: 'Sat', work: 'TGV'},
+instances: 1, word: 'Satisfied', work: 'TGV'},
+instances: 1, word: 'Saucy', work: 'TGV'},
+instances: 1, word: 'Save', work: 'TGV'},
+instances: 1, word: 'Saved', work: 'TGV'},
+instances: 1, word: 'Scale', work: 'TGV'},
+instances: 1, word: 'Scalp', work: 'TGV'},
+instances: 1, word: 'Scandalized', work: 'TGV'},
+instances: 1, word: 'Schoolboy', work: 'TGV'},
+instances: 1, word: 'Scorns', work: 'TGV'},
+instances: 1, word: 'Scour', work: 'TGV'},
+instances: 1, word: 'Scoured', work: 'TGV'},
+instances: 1, word: 'Scratch', work: 'TGV'},
+instances: 1, word: 'Scratched', work: 'TGV'},
+instances: 1, word: 'Scribe', work: 'TGV'},
+instances: 1, word: 'Search', work: 'TGV'},
+instances: 1, word: 'Seas', work: 'TGV'},
+instances: 1, word: 'Sedge', work: 'TGV'},
+instances: 1, word: 'Seducèd', work: 'TGV'},
+instances: 1, word: 'Seeing', work: 'TGV'},
+instances: 1, word: 'Seems', work: 'TGV'},
+instances: 1, word: 'Sees', work: 'TGV'},
+instances: 1, word: 'Seizèd', work: 'TGV'},
+instances: 1, word: 'Sense', work: 'TGV'},
+instances: 1, word: 'Sepulcher', work: 'TGV'},
+instances: 1, word: 'Sequel', work: 'TGV'},
+instances: 1, word: 'Servants', work: 'TGV'},
+instances: 1, word: 'Servants\'', work: 'TGV'},
+instances: 1, word: 'Serviceable', work: 'TGV'},
+instances: 1, word: 'Seven', work: 'TGV'},
+instances: 1, word: 'Severely', work: 'TGV'},
+instances: 1, word: 'Sew', work: 'TGV'},
+instances: 1, word: 'Shadows', work: 'TGV'},
+instances: 1, word: 'Shadowy', work: 'TGV'},
+instances: 1, word: 'Shake', work: 'TGV'},
+instances: 1, word: 'Shape', work: 'TGV'},
+instances: 1, word: 'Shapeless', work: 'TGV'},
+instances: 1, word: 'Shed', work: 'TGV'},
+instances: 1, word: 'Sheds', work: 'TGV'},
+instances: 1, word: 'Shelving', work: 'TGV'},
+instances: 1, word: 'She\'d', work: 'TGV'},
+instances: 1, word: 'Shore', work: 'TGV'},
+instances: 1, word: 'Shown', work: 'TGV'},
+instances: 1, word: 'Shrink', work: 'TGV'},
+instances: 1, word: 'Shut', work: 'TGV'},
+instances: 1, word: 'Sights', work: 'TGV'},
+instances: 1, word: 'Sign', work: 'TGV'},
+instances: 1, word: 'Signify', work: 'TGV'},
+instances: 1, word: 'Signior', work: 'TGV'},
+instances: 1, word: 'Silent', work: 'TGV'},
+instances: 1, word: 'Silken', work: 'TGV'},
+instances: 1, word: 'Silver-shedding', work: 'TGV'},
+instances: 1, word: 'Sincere', work: 'TGV'},
+instances: 1, word: 'Sinews', work: 'TGV'},
+instances: 1, word: 'Sinned', work: 'TGV'},
+instances: 1, word: 'Sins', work: 'TGV'},
+instances: 1, word: 'Sire', work: 'TGV'},
+instances: 1, word: 'Sirs', work: 'TGV'},
+instances: 1, word: 'Sisters', work: 'TGV'},
+instances: 1, word: 'Sith', work: 'TGV'},
+instances: 1, word: 'Sits', work: 'TGV'},
+instances: 1, word: 'Sixteen', work: 'TGV'},
+instances: 1, word: 'Sky', work: 'TGV'},
+instances: 1, word: 'Slaves', work: 'TGV'},
+instances: 1, word: 'Slender', work: 'TGV'},
+instances: 1, word: 'Slew', work: 'TGV'},
+instances: 1, word: 'Slight', work: 'TGV'},
+instances: 1, word: 'Sluggardized', work: 'TGV'},
+instances: 1, word: 'Sly', work: 'TGV'},
+instances: 1, word: 'Smaller', work: 'TGV'},
+instances: 1, word: 'Smell', work: 'TGV'},
+instances: 1, word: 'Smelt', work: 'TGV'},
+instances: 1, word: 'Smiles', work: 'TGV'},
+instances: 1, word: 'Snow', work: 'TGV'},
+instances: 1, word: 'So-so', work: 'TGV'},
+instances: 1, word: 'Soften', work: 'TGV'},
+instances: 1, word: 'Sojourned', work: 'TGV'},
+instances: 1, word: 'Soldier', work: 'TGV'},
+instances: 1, word: 'Sole', work: 'TGV'},
+instances: 1, word: 'Solemnity', work: 'TGV'},
+instances: 1, word: 'Solicit', work: 'TGV'},
+instances: 1, word: 'Solitary', work: 'TGV'},
+instances: 1, word: 'Something', work: 'TGV'},
+instances: 1, word: 'Sometime', work: 'TGV'},
+instances: 1, word: 'Somewhat', work: 'TGV'},
+instances: 1, word: 'Sonnet', work: 'TGV'},
+instances: 1, word: 'Sonnets', work: 'TGV'},
+instances: 1, word: 'Sons', work: 'TGV'},
+instances: 1, word: 'Sorry', work: 'TGV'},
+instances: 1, word: 'Sort', work: 'TGV'},
+instances: 1, word: 'Sorted', work: 'TGV'},
+instances: 1, word: 'Sought', work: 'TGV'},
+instances: 1, word: 'Soul-confirming', work: 'TGV'},
+instances: 1, word: 'Soul\'s', work: 'TGV'},
+instances: 1, word: 'Sour', work: 'TGV'},
+instances: 1, word: 'Sourest-natured', work: 'TGV'},
+instances: 1, word: 'Sovereignty', work: 'TGV'},
+instances: 1, word: 'Spake', work: 'TGV'},
+instances: 1, word: 'Spaniel', work: 'TGV'},
+instances: 1, word: 'Spaniel-like', work: 'TGV'},
+instances: 1, word: 'Speaking', work: 'TGV'},
+instances: 1, word: 'Speaks', work: 'TGV'},
+instances: 1, word: 'Speak\'st', work: 'TGV'},
+instances: 1, word: 'Speediest', work: 'TGV'},
+instances: 1, word: 'Spends', work: 'TGV'},
+instances: 1, word: 'Spent', work: 'TGV'},
+instances: 1, word: 'Spies', work: 'TGV'},
+instances: 1, word: 'Spite', work: 'TGV'},
+instances: 1, word: 'Spoke', work: 'TGV'},
+instances: 1, word: 'Spoken', work: 'TGV'},
+instances: 1, word: 'Spokesman', work: 'TGV'},
+instances: 1, word: 'Sport', work: 'TGV'},
+instances: 1, word: 'Spring', work: 'TGV'},
+instances: 1, word: 'Spur', work: 'TGV'},
+instances: 1, word: 'Spurns', work: 'TGV'},
+instances: 1, word: 'Spurred', work: 'TGV'},
+instances: 1, word: 'Spy', work: 'TGV'},
+instances: 1, word: 'Squirrel', work: 'TGV'},
+instances: 1, word: 'Stabbed', work: 'TGV'},
+instances: 1, word: 'Star', work: 'TGV'},
+instances: 1, word: 'Starved', work: 'TGV'},
+instances: 1, word: 'State', work: 'TGV'},
+instances: 1, word: 'Statue', work: 'TGV'},
+instances: 1, word: 'Stature', work: 'TGV'},
+instances: 1, word: 'Stayest', work: 'TGV'},
+instances: 1, word: 'Staying', work: 'TGV'},
+instances: 1, word: 'Steals', work: 'TGV'},
+instances: 1, word: 'Steeple', work: 'TGV'},
+instances: 1, word: 'Stings', work: 'TGV'},
+instances: 1, word: 'Stir', work: 'TGV'},
+instances: 1, word: 'Stocks', work: 'TGV'},
+instances: 1, word: 'Stol\'n', work: 'TGV'},
+instances: 1, word: 'Stomach', work: 'TGV'},
+instances: 1, word: 'Stoop', work: 'TGV'},
+instances: 1, word: 'Store', work: 'TGV'},
+instances: 1, word: 'Strange', work: 'TGV'},
+instances: 1, word: 'Stranger', work: 'TGV'},
+instances: 1, word: 'Stray', work: 'TGV'},
+instances: 1, word: 'Strays', work: 'TGV'},
+instances: 1, word: 'Stream', work: 'TGV'},
+instances: 1, word: 'Strength', work: 'TGV'},
+instances: 1, word: 'Strikes', work: 'TGV'},
+instances: 1, word: 'Strung', work: 'TGV'},
+instances: 1, word: 'Stubborn', work: 'TGV'},
+instances: 1, word: 'Studies', work: 'TGV'},
+instances: 1, word: 'Studious', work: 'TGV'},
+instances: 1, word: 'Study', work: 'TGV'},
+instances: 1, word: 'Stuffed', work: 'TGV'},
+instances: 1, word: 'Stumble', work: 'TGV'},
+instances: 1, word: 'Subject', work: 'TGV'},
+instances: 1, word: 'Subscribe', work: 'TGV'},
+instances: 1, word: 'Subtle', work: 'TGV'},
+instances: 1, word: 'Sudden', work: 'TGV'},
+instances: 1, word: 'Suddenly', work: 'TGV'},
+instances: 1, word: 'Sues', work: 'TGV'},
+instances: 1, word: 'Sufficient', work: 'TGV'},
+instances: 1, word: 'Suggested', work: 'TGV'},
+instances: 1, word: 'Suitor', work: 'TGV'},
+instances: 1, word: 'Sullen', work: 'TGV'},
+instances: 1, word: 'Sum', work: 'TGV'},
+instances: 1, word: 'Summer-swelling', work: 'TGV'},
+instances: 1, word: 'Sun-bright', work: 'TGV'},
+instances: 1, word: 'Sun-expelling', work: 'TGV'},
+instances: 1, word: 'Sup', work: 'TGV'},
+instances: 1, word: 'Suppliant', work: 'TGV'},
+instances: 1, word: 'Suppose', work: 'TGV'},
+instances: 1, word: 'Surfeit', work: 'TGV'},
+instances: 1, word: 'Survives', work: 'TGV'},
+instances: 1, word: 'Swain', work: 'TGV'},
+instances: 1, word: 'Swains', work: 'TGV'},
+instances: 1, word: 'Swam', work: 'TGV'},
+instances: 1, word: 'Swarthy', work: 'TGV'},
+instances: 1, word: 'Sweet-suggesting', work: 'TGV'},
+instances: 1, word: 'Sweeter', work: 'TGV'},
+instances: 1, word: 'Sweetest', work: 'TGV'},
+instances: 1, word: 'Swiftest', work: 'TGV'},
+instances: 1, word: 'Sworn', work: 'TGV'},
+instances: 1, word: 'Tale', work: 'TGV'},
+instances: 1, word: 'Tales', work: 'TGV'},
+instances: 1, word: 'Talking', work: 'TGV'},
+instances: 1, word: 'Tall', work: 'TGV'},
+instances: 1, word: 'Tame', work: 'TGV'},
+instances: 1, word: 'Tangle', work: 'TGV'},
+instances: 1, word: 'Tarriance', work: 'TGV'},
+instances: 1, word: 'Team', work: 'TGV'},
+instances: 1, word: 'Tedious', work: 'TGV'},
+instances: 1, word: 'Telling', work: 'TGV'},
+instances: 1, word: 'Tells', work: 'TGV'},
+instances: 1, word: 'Telltales', work: 'TGV'},
+instances: 1, word: 'Temper', work: 'TGV'},
+instances: 1, word: 'Tempted', work: 'TGV'},
+instances: 1, word: 'Tenantless', work: 'TGV'},
+instances: 1, word: 'Tendered', work: 'TGV'},
+instances: 1, word: 'Tenor', work: 'TGV'},
+instances: 1, word: 'Territories', work: 'TGV'},
+instances: 1, word: 'Testerned', work: 'TGV'},
+instances: 1, word: 'Testify', work: 'TGV'},
+instances: 1, word: 'Testy', work: 'TGV'},
+instances: 1, word: 'Thankful', work: 'TGV'},
+instances: 1, word: 'Thawed', work: 'TGV'},
+instances: 1, word: 'Theirs', work: 'TGV'},
+instances: 1, word: 'Thereby', work: 'TGV'},
+instances: 1, word: 'Thereto', work: 'TGV'},
+instances: 1, word: 'Theseus\'', work: 'TGV'},
+instances: 1, word: 'They\'re', work: 'TGV'},
+instances: 1, word: 'Thicket', work: 'TGV'},
+instances: 1, word: 'Thievery', work: 'TGV'},
+instances: 1, word: 'Thinking', work: 'TGV'},
+instances: 1, word: 'Third', work: 'TGV'},
+instances: 1, word: 'Threats', work: 'TGV'},
+instances: 1, word: 'Threw', work: 'TGV'},
+instances: 1, word: 'Thrive', work: 'TGV'},
+instances: 1, word: 'Thrives', work: 'TGV'},
+instances: 1, word: 'Throughly', work: 'TGV'},
+instances: 1, word: 'Thrusts', work: 'TGV'},
+instances: 1, word: 'Thurio\'s', work: 'TGV'},
+instances: 1, word: 'Thwarted', work: 'TGV'},
+instances: 1, word: 'Tigers', work: 'TGV'},
+instances: 1, word: 'Tilts', work: 'TGV'},
+instances: 1, word: 'Timeless', work: 'TGV'},
+instances: 1, word: 'Tincture', work: 'TGV'},
+instances: 1, word: 'Tire', work: 'TGV'},
+instances: 1, word: 'Today', work: 'TGV'},
+instances: 1, word: 'Tongues', work: 'TGV'},
+instances: 1, word: 'Torments', work: 'TGV'},
+instances: 1, word: 'Tournaments', work: 'TGV'},
+instances: 1, word: 'Toward', work: 'TGV'},
+instances: 1, word: 'Towns', work: 'TGV'},
+instances: 1, word: 'Toys', work: 'TGV'},
+instances: 1, word: 'Train', work: 'TGV'},
+instances: 1, word: 'Traitor', work: 'TGV'},
+instances: 1, word: 'Trampling', work: 'TGV'},
+instances: 1, word: 'Transgression', work: 'TGV'},
+instances: 1, word: 'Travelers', work: 'TGV'},
+instances: 1, word: 'Treacherous', work: 'TGV'},
+instances: 1, word: 'Trencher', work: 'TGV'},
+instances: 1, word: 'Trenchèd', work: 'TGV'},
+instances: 1, word: 'Tried', work: 'TGV'},
+instances: 1, word: 'Trifle', work: 'TGV'},
+instances: 1, word: 'Trimmed', work: 'TGV'},
+instances: 1, word: 'Triumphs', work: 'TGV'},
+instances: 1, word: 'Truant', work: 'TGV'},
+instances: 1, word: 'True-devoted', work: 'TGV'},
+instances: 1, word: 'True-love', work: 'TGV'},
+instances: 1, word: 'Truer', work: 'TGV'},
+instances: 1, word: 'Trusted', work: 'TGV'},
+instances: 1, word: 'Trusting', work: 'TGV'},
+instances: 1, word: 'Turmoil', work: 'TGV'},
+instances: 1, word: 'Turned', work: 'TGV'},
+instances: 1, word: 'Turns', work: 'TGV'},
+instances: 1, word: 'Tut', work: 'TGV'},
+instances: 1, word: 'Tutored', work: 'TGV'},
+instances: 1, word: 'Twinkling', work: 'TGV'},
+instances: 1, word: 'Twits', work: 'TGV'},
+instances: 1, word: 'T\'', work: 'TGV'},
+instances: 1, word: 'Unadvised', work: 'TGV'},
+instances: 1, word: 'Uncertain', work: 'TGV'},
+instances: 1, word: 'Uncompassionate', work: 'TGV'},
+instances: 1, word: 'Undergo', work: 'TGV'},
+instances: 1, word: 'Undertaking', work: 'TGV'},
+instances: 1, word: 'Undeserving', work: 'TGV'},
+instances: 1, word: 'Unfrequented', work: 'TGV'},
+instances: 1, word: 'Ungartered', work: 'TGV'},
+instances: 1, word: 'Ungoverned', work: 'TGV'},
+instances: 1, word: 'Unheedful', work: 'TGV'},
+instances: 1, word: 'Unheedfully', work: 'TGV'},
+instances: 1, word: 'Unholy', work: 'TGV'},
+instances: 1, word: 'Universities', work: 'TGV'},
+instances: 1, word: 'Unkind', work: 'TGV'},
+instances: 1, word: 'Unknown', work: 'TGV'},
+instances: 1, word: 'Unmannerly', work: 'TGV'},
+instances: 1, word: 'Unmellowed', work: 'TGV'},
+instances: 1, word: 'Unprevented', work: 'TGV'},
+instances: 1, word: 'Unreverend', work: 'TGV'},
+instances: 1, word: 'Unreversed', work: 'TGV'},
+instances: 1, word: 'Unrivaled', work: 'TGV'},
+instances: 1, word: 'Unruly', work: 'TGV'},
+instances: 1, word: 'Unseeing', work: 'TGV'},
+instances: 1, word: 'Unsounded', work: 'TGV'},
+instances: 1, word: 'Unstaid', work: 'TGV'},
+instances: 1, word: 'Untunable', work: 'TGV'},
+instances: 1, word: 'Unwelcome', work: 'TGV'},
+instances: 1, word: 'Unwilling', work: 'TGV'},
+instances: 1, word: 'Unwillingly', work: 'TGV'},
+instances: 1, word: 'Unwind', work: 'TGV'},
+instances: 1, word: 'Unworthily', work: 'TGV'},
+instances: 1, word: 'Unworthy', work: 'TGV'},
+instances: 1, word: 'Upper', work: 'TGV'},
+instances: 1, word: 'Urge', work: 'TGV'},
+instances: 1, word: 'Urinal', work: 'TGV'},
+instances: 1, word: 'Ursula', work: 'TGV'},
+instances: 1, word: 'Utter', work: 'TGV'},
+instances: 1, word: 'Valentinus', work: 'TGV'},
+instances: 1, word: 'Valerius', work: 'TGV'},
+instances: 1, word: 'Valiant', work: 'TGV'},
+instances: 1, word: 'Valor', work: 'TGV'},
+instances: 1, word: 'Vanished', work: 'TGV'},
+instances: 1, word: 'Vanquishèd', work: 'TGV'},
+instances: 1, word: 'Vengeance', work: 'TGV'},
+instances: 1, word: 'Venture', work: 'TGV'},
+instances: 1, word: 'Verdure', work: 'TGV'},
+instances: 1, word: 'Verily', work: 'TGV'},
+instances: 1, word: 'Vesture', work: 'TGV'},
+instances: 1, word: 'Vex', work: 'TGV'},
+instances: 1, word: 'Vexation', work: 'TGV'},
+instances: 1, word: 'Vice', work: 'TGV'},
+instances: 1, word: 'Victuals', work: 'TGV'},
+instances: 1, word: 'View', work: 'TGV'},
+instances: 1, word: 'Vile', work: 'TGV'},
+instances: 1, word: 'Villains', work: 'TGV'},
+instances: 1, word: 'Virtuous', work: 'TGV'},
+instances: 1, word: 'Virtuously', work: 'TGV'},
+instances: 1, word: 'Visibly', work: 'TGV'},
+instances: 1, word: 'Voice', work: 'TGV'},
+instances: 1, word: 'Volley', work: 'TGV'},
+instances: 1, word: 'Vow', work: 'TGV'},
+instances: 1, word: 'Vow\'dst', work: 'TGV'},
+instances: 1, word: 'Wag', work: 'TGV'},
+instances: 1, word: 'Wailful', work: 'TGV'},
+instances: 1, word: 'Wailing', work: 'TGV'},
+instances: 1, word: 'Wake', work: 'TGV'},
+instances: 1, word: 'Walked', work: 'TGV'},
+instances: 1, word: 'Wall', work: 'TGV'},
+instances: 1, word: 'Wand', work: 'TGV'},
+instances: 1, word: 'Wandered', work: 'TGV'},
+instances: 1, word: 'Wanteth', work: 'TGV'},
+instances: 1, word: 'Want\'st', work: 'TGV'},
+instances: 1, word: 'Wars', work: 'TGV'},
+instances: 1, word: 'Wash', work: 'TGV'},
+instances: 1, word: 'Washed', work: 'TGV'},
+instances: 1, word: 'Wasps', work: 'TGV'},
+instances: 1, word: 'Waste', work: 'TGV'},
+instances: 1, word: 'Watch', work: 'TGV'},
+instances: 1, word: 'Watched', work: 'TGV'},
+instances: 1, word: 'Watchers', work: 'TGV'},
+instances: 1, word: 'Watchful', work: 'TGV'},
+instances: 1, word: 'Waxen', work: 'TGV'},
+instances: 1, word: 'Waxèd', work: 'TGV'},
+instances: 1, word: 'Ways', work: 'TGV'},
+instances: 1, word: 'Wayward', work: 'TGV'},
+instances: 1, word: 'Wearisome', work: 'TGV'},
+instances: 1, word: 'Weathercock', work: 'TGV'},
+instances: 1, word: 'Wed', work: 'TGV'},
+instances: 1, word: 'Wedding', work: 'TGV'},
+instances: 1, word: 'Weed', work: 'TGV'},
+instances: 1, word: 'Weeds', work: 'TGV'},
+instances: 1, word: 'Weeps', work: 'TGV'},
+instances: 1, word: 'Weep\'st', work: 'TGV'},
+instances: 1, word: 'Welcomes', work: 'TGV'},
+instances: 1, word: 'Well-reputed', work: 'TGV'},
+instances: 1, word: 'Well-skilled', work: 'TGV'},
+instances: 1, word: 'Well-spoken', work: 'TGV'},
+instances: 1, word: 'Went', work: 'TGV'},
+instances: 1, word: 'West', work: 'TGV'},
+instances: 1, word: 'Western', work: 'TGV'},
+instances: 1, word: 'Whatever', work: 'TGV'},
+instances: 1, word: 'Whate\'er', work: 'TGV'},
+instances: 1, word: 'Wheels', work: 'TGV'},
+instances: 1, word: 'Whereon', work: 'TGV'},
+instances: 1, word: 'Wherewith', work: 'TGV'},
+instances: 1, word: 'Whether', work: 'TGV'},
+instances: 1, word: 'Whirlwind', work: 'TGV'},
+instances: 1, word: 'Whisper', work: 'TGV'},
+instances: 1, word: 'Whit', work: 'TGV'},
+instances: 1, word: 'White', work: 'TGV'},
+instances: 1, word: 'Whiteness', work: 'TGV'},
+instances: 1, word: 'Whole', work: 'TGV'},
+instances: 1, word: 'Wilderness', work: 'TGV'},
+instances: 1, word: 'Willing', work: 'TGV'},
+instances: 1, word: 'Wills', work: 'TGV'},
+instances: 1, word: 'Winding', work: 'TGV'},
+instances: 1, word: 'Winter', work: 'TGV'},
+instances: 1, word: 'Wipe', work: 'TGV'},
+instances: 1, word: 'Wishing', work: 'TGV'},
+instances: 1, word: 'Withdraw', work: 'TGV'},
+instances: 1, word: 'Wold', work: 'TGV'},
+instances: 1, word: 'Wonder', work: 'TGV'},
+instances: 1, word: 'Wondered', work: 'TGV'},
+instances: 1, word: 'Wonders', work: 'TGV'},
+instances: 1, word: 'Wood', work: 'TGV'},
+instances: 1, word: 'Woods', work: 'TGV'},
+instances: 1, word: 'Woos', work: 'TGV'},
+instances: 1, word: 'Worldly', work: 'TGV'},
+instances: 1, word: 'Worser', work: 'TGV'},
+instances: 1, word: 'Worshipped', work: 'TGV'},
+instances: 1, word: 'Worst', work: 'TGV'},
+instances: 1, word: 'Worthies', work: 'TGV'},
+instances: 1, word: 'Worthiest', work: 'TGV'},
+instances: 1, word: 'Wot', work: 'TGV'},
+instances: 1, word: 'Wounded', work: 'TGV'},
+instances: 1, word: 'Wrack', work: 'TGV'},
+instances: 1, word: 'Wrath\'s', work: 'TGV'},
+instances: 1, word: 'Wreathe', work: 'TGV'},
+instances: 1, word: 'Wretches', work: 'TGV'},
+instances: 1, word: 'Writes', work: 'TGV'},
+instances: 1, word: 'Written', work: 'TGV'},
+instances: 1, word: 'Wrongful', work: 'TGV'},
+instances: 1, word: 'Wrongs', work: 'TGV'},
+instances: 1, word: 'Ye', work: 'TGV'},
+instances: 1, word: 'Years', work: 'TGV'},
+instances: 1, word: 'Yellow', work: 'TGV'},
+instances: 1, word: 'Yokèd', work: 'TGV'},
+instances: 1, word: 'Yond', work: 'TGV'},
+instances: 1, word: 'Yonder', work: 'TGV'},
+instances: 1, word: 'You\'re', work: 'TGV'},
+instances: 1, word: 'Zeal', work: 'TGV'},
+instances: 1, word: '\'dst', work: 'TGV'},
+instances: 1, word: '\'greed', work: 'TGV'},
+instances: 1, word: '\'lt', work: 'TGV'},
+instances: 1, word: '\'mongst', work: 'TGV'},
+instances: 1, word: '\'s', work: 'TGV'},
+instances: 1, word: '\'save', work: 'TGV'},
+instances: 1, word: '\'scape', work: 'TGV'},
+instances: 1, word: '\'twill', work: 'TGV'},
